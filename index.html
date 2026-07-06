@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mi Diario</title>
+<title>My News</title>
 <link rel="icon" href="icons/icon-192.png">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -12,7 +12,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="apple-mobile-web-app-title" content="Mi Diario">
+<meta name="apple-mobile-web-app-title" content="My News">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -184,7 +184,7 @@
 <button id="themeBtn" title="Cambiar tema">◐</button>
 <div class="wrap">
   <header>
-    <div class="masthead">Mi Diario<span class="tilde">.</span></div>
+    <div class="masthead">My News<span class="tilde">.</span></div>
     <div class="dateline">
       <span id="fecha"></span>
       <span class="fresh" id="actualizado"></span>
@@ -200,18 +200,18 @@
 (function () {
   // ── Tema ──
   const root = document.documentElement;
-  const saved = localStorage.getItem("midiario_theme");
+  const saved = localStorage.getItem("mynews_theme");
   if (saved) root.dataset.theme = saved;
   else if (matchMedia("(prefers-color-scheme: dark)").matches) root.dataset.theme = "dark";
   document.getElementById("themeBtn").onclick = () => {
     root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
-    localStorage.setItem("midiario_theme", root.dataset.theme);
+    localStorage.setItem("mynews_theme", root.dataset.theme);
   };
 
   // ── Estado de lectura ──
-  const lastVisit = Number(localStorage.getItem("midiario_lastVisit") || 0);
-  const readSet = new Set(JSON.parse(localStorage.getItem("midiario_read") || "[]"));
-  const saveRead = () => localStorage.setItem("midiario_read", JSON.stringify([...readSet].slice(-500)));
+  const lastVisit = Number(localStorage.getItem("mynews_lastVisit") || 0);
+  const readSet = new Set(JSON.parse(localStorage.getItem("mynews_read") || "[]"));
+  const saveRead = () => localStorage.setItem("mynews_read", JSON.stringify([...readSet].slice(-500)));
 
   const fmtFecha = new Intl.DateTimeFormat("es-AR", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "America/Argentina/Buenos_Aires" });
   document.getElementById("fecha").textContent = fmtFecha.format(new Date());
@@ -317,7 +317,7 @@
         ? '<div class="err">Fuentes con problemas en esta corrida: ' + esc(data._errors.map(e => e.feed).join(", ")) + "</div>"
         : "");
 
-    localStorage.setItem("midiario_lastVisit", String(Date.now()));
+    localStorage.setItem("mynews_lastVisit", String(Date.now()));
   }).catch(err => {
     document.getElementById("estado").textContent = "No se pudo cargar la edición: " + err.message;
   });

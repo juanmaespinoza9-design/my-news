@@ -1,4 +1,4 @@
-# Mi Diario — edición Oncología
+# My News
 
 Réplica de [mi-diario](https://github.com/juanmaespinoza9-design/mi-diario) con secciones: Oncología (curada con análisis de estudios), Moda, Chimentos, Salidas en Buenos Aires, Argentina e Internacional.
 

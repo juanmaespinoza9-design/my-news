@@ -1,6 +1,6 @@
-// Service worker de Mi Diario: red primero, caché como respaldo.
+// Service worker de My News: red primero, caché como respaldo.
 // La app siempre muestra lo más fresco si hay conexión, y la última edición si no la hay.
-const CACHE = "midiario-v1";
+const CACHE = "mynews-v1";
 const SHELL = [
   "./",
   "./index.html",
