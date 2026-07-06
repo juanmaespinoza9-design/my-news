@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi Diario</title>
+<link rel="icon" href="icons/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="theme-color" content="#faf8f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#191714" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Mi Diario">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #faf8f3;
+    --card: #fffdf7;
+    --ink: #1c1917;
+    --ink-soft: #57534e;
+    --ink-faint: #a8a29e;
+    --accent: #b91c1c;
+    --navy: #1e3a8a;
+    --rule: #e7e0d3;
+    --rule-strong: #1c1917;
+    --new-bg: #b91c1c;
+    --read: #b3ada4;
+  }
+  html[data-theme="dark"] {
+    --bg: #191714;
+    --card: #211e1a;
+    --ink: #ece7dd;
+    --ink-soft: #b8b0a3;
+    --ink-faint: #6f6a60;
+    --accent: #ef6b5e;
+    --navy: #8fb0f0;
+    --rule: #35302a;
+    --rule-strong: #ece7dd;
+    --read: #5d574d;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Source Serif 4', Georgia, serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 740px; margin: 0 auto; padding: 0 1.1rem 4rem; }
+
+  /* ── Cabecera ── */
+  header { text-align: center; padding: 2.2rem 0 1rem; }
+  .masthead {
+    font-size: clamp(2.6rem, 9vw, 4rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+  .masthead .tilde { color: var(--accent); }
+  .dateline {
+    font-family: Inter, sans-serif;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--ink-soft);
+    margin-top: 0.7rem;
+    display: flex; justify-content: center; gap: 0.8rem; flex-wrap: wrap;
+  }
+  .dateline .fresh { color: var(--accent); font-weight: 600; }
+  .double-rule { border: none; border-top: 3px double var(--rule-strong); margin: 1.1rem 0 0; }
+  #themeBtn {
+    position: absolute; top: 1rem; right: 1rem;
+    background: none; border: 1px solid var(--rule); border-radius: 50%;
+    width: 2.2rem; height: 2.2rem; cursor: pointer; font-size: 1rem;
+    color: var(--ink); line-height: 1;
+  }
+
+  /* ── Navegación ── */
+  nav {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--bg);
+    border-bottom: 1px solid var(--rule);
+    display: flex; gap: 0.25rem; overflow-x: auto;
+    padding: 0.55rem 0.4rem;
+    font-family: Inter, sans-serif;
+    scrollbar-width: none;
+  }
+  nav::-webkit-scrollbar { display: none; }
+  nav a {
+    white-space: nowrap; text-decoration: none;
+    color: var(--ink-soft); font-size: 0.78rem; font-weight: 600;
+    padding: 0.3rem 0.7rem; border-radius: 99px;
+  }
+  nav a:hover, nav a.active { color: var(--accent); background: var(--card); }
+  nav a .n { color: var(--ink-faint); font-weight: 400; margin-left: 2px; }
+
+  /* ── Secciones ── */
+  section { padding-top: 1.6rem; }
+  .sec-head { display: flex; align-items: baseline; gap: 0.7rem; border-bottom: 2px solid var(--rule-strong); padding-bottom: 0.35rem; }
+  .sec-head h2 { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.01em; }
+  .sec-head .kicker {
+    font-family: Inter, sans-serif; font-size: 0.68rem; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.13em; color: var(--accent);
+  }
+  .ornament { text-align: center; color: var(--ink-faint); font-size: 1rem; padding: 2rem 0 0.3rem; letter-spacing: 0.9em; }
+
+  /* ── Artículos ── */
+  article { padding: 0.95rem 0; border-bottom: 1px solid var(--rule); }
+  article:last-of-type { border-bottom: none; }
+  .meta {
+    font-family: Inter, sans-serif; font-size: 0.68rem;
+    text-transform: uppercase; letter-spacing: 0.11em;
+    color: var(--ink-soft); margin-bottom: 0.25rem;
+    display: flex; align-items: center; gap: 0.55rem; flex-wrap: wrap;
+  }
+  .meta .src { color: var(--navy); font-weight: 600; }
+  .badge-new {
+    background: var(--new-bg); color: #fff; font-weight: 700;
+    font-size: 0.6rem; padding: 0.1rem 0.42rem; border-radius: 3px; letter-spacing: 0.1em;
+  }
+  h3 { font-size: 1.12rem; font-weight: 600; line-height: 1.32; }
+  h3 a { color: inherit; text-decoration: none; }
+  h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+  article.leido h3 a, article.leido .resumen { color: var(--read); }
+  article.leido .meta .src { color: var(--read); }
+  .resumen { font-size: 0.95rem; color: var(--ink-soft); margin-top: 0.35rem; font-style: normal; }
+  .resumen::before { content: "— "; color: var(--accent); }
+  .copete { font-size: 0.92rem; color: var(--ink-soft); margin-top: 0.3rem; line-height: 1.45; }
+  article.leido .copete { color: var(--read); }
+
+  /* Análisis tipo trial-digest (desplegable) */
+  details.analisis { margin-top: 0.5rem; }
+  details.analisis summary {
+    cursor: pointer; list-style: none; display: inline-block;
+    font-family: Inter, sans-serif; font-size: 0.7rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em; color: var(--navy);
+    border: 1px solid var(--rule); border-radius: 99px; padding: 0.25rem 0.75rem;
+  }
+  details.analisis summary::-webkit-details-marker { display: none; }
+  details.analisis summary::before { content: "▸ "; color: var(--accent); }
+  details.analisis[open] summary::before { content: "▾ "; }
+  details.analisis[open] summary { background: var(--card); }
+  .analisis-body {
+    margin-top: 0.6rem; padding: 0.8rem 1rem;
+    background: var(--card); border-left: 3px solid var(--navy); border-radius: 3px;
+    font-size: 0.92rem; color: var(--ink-soft);
+  }
+  .analisis-body p { margin: 0 0 0.5rem; }
+  .analisis-body p:last-child { margin-bottom: 0; }
+  .analisis-body b { color: var(--ink); font-family: Inter, sans-serif; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; }
+
+  /* Destacado del curador */
+  article.destacado {
+    background: var(--card); border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    padding: 1rem 1.1rem; margin: 0.9rem 0; border-radius: 4px;
+  }
+  article.destacado h3 { font-size: 1.3rem; }
+  .tag-destacado {
+    font-family: Inter, sans-serif; font-size: 0.62rem; font-weight: 700;
+    color: var(--accent); text-transform: uppercase; letter-spacing: 0.14em;
+  }
+
+  .sin-resumen {
+    font-family: Inter, sans-serif; font-size: 0.75rem; color: var(--ink-faint);
+    font-style: italic; padding: 0.5rem 0 0;
+  }
+
+  /* ── Pie ── */
+  footer {
+    margin-top: 3rem; border-top: 3px double var(--rule-strong);
+    padding-top: 1rem; text-align: center;
+    font-family: Inter, sans-serif; font-size: 0.72rem; color: var(--ink-faint);
+  }
+  footer .err { color: var(--accent); margin-top: 0.4rem; }
+  #estado { text-align: center; padding: 4rem 1rem; font-style: italic; color: var(--ink-soft); }
+</style>
+</head>
+<body>
+<button id="themeBtn" title="Cambiar tema">◐</button>
+<div class="wrap">
+  <header>
+    <div class="masthead">Mi Diario<span class="tilde">.</span></div>
+    <div class="dateline">
+      <span id="fecha"></span>
+      <span class="fresh" id="actualizado"></span>
+    </div>
+    <hr class="double-rule">
+  </header>
+  <nav id="nav"></nav>
+  <main id="main"><div id="estado">Cargando la edición de hoy…</div></main>
+  <footer id="pie"></footer>
+</div>
+
+<script>
+(function () {
+  // ── Tema ──
+  const root = document.documentElement;
+  const saved = localStorage.getItem("midiario_theme");
+  if (saved) root.dataset.theme = saved;
+  else if (matchMedia("(prefers-color-scheme: dark)").matches) root.dataset.theme = "dark";
+  document.getElementById("themeBtn").onclick = () => {
+    root.dataset.theme = root.dataset.theme === "dark" ? "light" : "dark";
+    localStorage.setItem("midiario_theme", root.dataset.theme);
+  };
+
+  // ── Estado de lectura ──
+  const lastVisit = Number(localStorage.getItem("midiario_lastVisit") || 0);
+  const readSet = new Set(JSON.parse(localStorage.getItem("midiario_read") || "[]"));
+  const saveRead = () => localStorage.setItem("midiario_read", JSON.stringify([...readSet].slice(-500)));
+
+  const fmtFecha = new Intl.DateTimeFormat("es-AR", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "America/Argentina/Buenos_Aires" });
+  document.getElementById("fecha").textContent = fmtFecha.format(new Date());
+
+  function haceCuanto(iso) {
+    const min = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (min < 1) return "recién";
+    if (min < 60) return `hace ${min} min`;
+    const h = Math.round(min / 60);
+    if (h < 24) return `hace ${h} h`;
+    const d = Math.round(h / 24);
+    return d === 1 ? "ayer" : `hace ${d} días`;
+  }
+
+  function esc(s) { const d = document.createElement("span"); d.textContent = s; return d.innerHTML; }
+
+  Promise.all([
+    fetch("data/articles.json").then(r => r.json()),
+    fetch("data/summaries.json").then(r => r.ok ? r.json() : null).catch(() => null),
+  ]).then(([data, curado]) => {
+    const resumenes = (curado && curado.summaries) || {};
+    document.getElementById("actualizado").textContent = "actualizado " + haceCuanto(data.generated_at);
+
+    const nav = document.getElementById("nav");
+    const main = document.getElementById("main");
+    main.innerHTML = "";
+
+    data.sections.forEach((sec, i) => {
+      if (!sec.items.length) return;
+      const a = document.createElement("a");
+      a.href = "#" + sec.id;
+      a.innerHTML = esc(sec.title) + ' <span class="n">' + sec.items.length + "</span>";
+      nav.appendChild(a);
+
+      if (i > 0) {
+        const orn = document.createElement("div");
+        orn.className = "ornament";
+        orn.textContent = "❦ ❦ ❦";
+        main.appendChild(orn);
+      }
+
+      const s = document.createElement("section");
+      s.id = sec.id;
+      s.innerHTML = '<div class="sec-head"><h2>' + esc(sec.title) + '</h2><span class="kicker">' +
+        (sec.mode === "resumen" ? "con lectura del curador" : "titulares") + "</span></div>";
+
+      // los destacados del curador van primero
+      const items = [...sec.items].sort((x, y) =>
+        ((resumenes[y.id] && resumenes[y.id].destacado) ? 1 : 0) - ((resumenes[x.id] && resumenes[x.id].destacado) ? 1 : 0));
+
+      let conResumen = 0;
+      items.forEach(it => {
+        const cur = resumenes[it.id];
+        const art = document.createElement("article");
+        if (cur && cur.destacado) art.className = "destacado";
+        if (readSet.has(it.id)) art.classList.add("leido");
+        const esNuevo = lastVisit && new Date(it.published).getTime() > lastVisit;
+        art.innerHTML =
+          (cur && cur.destacado ? '<div class="tag-destacado">Destacado del día</div>' : "") +
+          '<div class="meta"><span class="src">' + esc(it.source) + "</span><span>" + haceCuanto(it.published) + "</span>" +
+          (esNuevo && !readSet.has(it.id) ? '<span class="badge-new">Nuevo</span>' : "") + "</div>" +
+          '<h3><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h3>" +
+          (cur && cur.resumen
+            ? '<p class="resumen">' + esc(cur.resumen) + "</p>"
+            : (it.copete ? '<p class="copete">' + esc(it.copete) + "</p>" : "")) +
+          (cur && cur.analisis
+            ? '<details class="analisis"><summary>Leer el análisis del estudio</summary><div class="analisis-body">' +
+              cur.analisis.split("\n").filter(Boolean).map(lin => {
+                const i2 = lin.indexOf(":");
+                return i2 > 0 && i2 < 30
+                  ? "<p><b>" + esc(lin.slice(0, i2)) + ":</b> " + esc(lin.slice(i2 + 1).trim()) + "</p>"
+                  : "<p>" + esc(lin) + "</p>";
+              }).join("") + "</div></details>"
+            : "");
+        art.querySelector("a").addEventListener("click", () => {
+          readSet.add(it.id); saveRead(); art.classList.add("leido");
+        });
+        if (cur && cur.resumen) conResumen++;
+        s.appendChild(art);
+      });
+
+      if (sec.mode === "resumen" && !conResumen) {
+        const nota = document.createElement("p");
+        nota.className = "sin-resumen";
+        nota.textContent = "El curador todavía no pasó por esta edición — por ahora, titulares.";
+        s.appendChild(nota);
+      }
+      main.appendChild(s);
+    });
+
+    // resaltar sección activa al scrollear
+    const links = [...nav.querySelectorAll("a")];
+    const obs = new IntersectionObserver(entries => {
+      entries.forEach(e => {
+        if (e.isIntersecting) links.forEach(l => l.classList.toggle("active", l.hash === "#" + e.target.id));
+      });
+    }, { rootMargin: "-20% 0px -70% 0px" });
+    document.querySelectorAll("section").forEach(s => obs.observe(s));
+
+    const pie = document.getElementById("pie");
+    pie.innerHTML = "Edición generada automáticamente · titulares cada 2 horas · curaduría dos veces por día" +
+      ((data._errors || []).length
+        ? '<div class="err">Fuentes con problemas en esta corrida: ' + esc(data._errors.map(e => e.feed).join(", ")) + "</div>"
+        : "");
+
+    localStorage.setItem("midiario_lastVisit", String(Date.now()));
+  }).catch(err => {
+    document.getElementById("estado").textContent = "No se pudo cargar la edición: " + err.message;
+  });
+
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+})();
+</script>
+</body>
+</html>

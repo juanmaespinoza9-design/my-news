@@ -1,0 +1,143 @@
+# Fuentes del diario personal (edición oncología). Editable a mano:
+# agregar/sacar feeds acá, el fetcher lo toma en la próxima corrida sin tocar código.
+#
+# type: rss        → feed RSS/Atom estándar
+# type: pubmed     → búsqueda en PubMed vía E-utilities (term = query PubMed)
+# type: googlenews → búsqueda en Google News (query = términos; locale: ar | us)
+#
+# mode: resumen    → el agente curador le escribe resumen en español (+ análisis si es estudio)
+# mode: titulares  → solo titular + copete + link
+
+sections:
+  - id: oncologia
+    title: Oncología
+    mode: resumen
+    max_items: 12
+    max_age_days: 21
+    feeds:
+      - name: Journal of Clinical Oncology (PubMed)
+        type: pubmed
+        term: '"J Clin Oncol"[jour]'
+        max: 4
+      - name: Lancet Oncology (PubMed)
+        type: pubmed
+        term: '"Lancet Oncol"[jour]'
+        max: 4
+      - name: JAMA Oncology (PubMed)
+        type: pubmed
+        term: '"JAMA Oncol"[jour]'
+        max: 4
+      - name: NEJM Oncología (PubMed)
+        type: pubmed
+        term: '"N Engl J Med"[jour] AND (cancer[ti] OR tumor[ti] OR oncolog*[ti] OR carcinoma[ti] OR lymphoma[ti] OR leukemia[ti] OR melanoma[ti] OR chemotherapy[ti] OR immunotherapy[ti])'
+        max: 3
+      - name: OncLive
+        type: googlenews
+        query: 'site:onclive.com when:14d'
+        locale: us
+        max: 3
+      - name: ASCO Post
+        type: googlenews
+        query: 'site:ascopost.com when:14d'
+        locale: us
+        max: 3
+
+  - id: moda
+    title: Moda
+    mode: titulares
+    max_items: 10
+    max_age_days: 7
+    feeds:
+      - name: Vogue
+        type: rss
+        url: https://www.vogue.com/feed/rss
+        max: 4
+      - name: Moda (Google News)
+        type: googlenews
+        query: 'moda tendencias'
+        max: 4
+      - name: Vogue en español (Google News)
+        type: googlenews
+        query: 'site:vogue.mx OR site:vogue.es when:7d'
+        max: 3
+
+  - id: chimentos
+    title: Chimentos
+    mode: titulares
+    max_items: 12
+    max_age_days: 2
+    feeds:
+      - name: Teleshow (Infobae)
+        type: rss
+        url: https://www.infobae.com/arc/outboundfeeds/rss/category/teleshow/?outputType=xml
+        max: 6
+      - name: La Nación Espectáculos
+        type: rss
+        url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/espectaculos/?outputType=xml
+        max: 4
+      - name: Clarín Espectáculos
+        type: rss
+        url: https://www.clarin.com/rss/espectaculos/
+        max: 4
+
+  - id: bsas
+    title: Salidas en Buenos Aires
+    mode: titulares
+    max_items: 10
+    max_age_days: 7
+    feeds:
+      - name: Qué hacer en Buenos Aires (Google News)
+        type: googlenews
+        query: '"qué hacer" OR "agenda cultural" OR "planes" "Buenos Aires" fin de semana'
+        max: 5
+      - name: Recitales y teatro (Google News)
+        type: googlenews
+        query: 'recitales OR teatro OR "entradas a la venta" "Buenos Aires"'
+        max: 4
+      - name: Gastronomía porteña (Google News)
+        type: googlenews
+        query: 'restaurantes OR "aperturas gastronómicas" "Buenos Aires"'
+        max: 3
+
+  - id: argentina
+    title: Argentina
+    mode: titulares
+    max_items: 10
+    max_age_days: 2
+    feeds:
+      - name: La Nación
+        type: rss
+        url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml
+        max: 4
+      - name: Infobae
+        type: rss
+        url: https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml
+        max: 4
+        exclude:  # el feed general de Infobae mezcla sus ediciones regionales
+          - /espana/
+          - /colombia/
+          - /mexico/
+          - /peru/
+          - /venezuela/
+          - /america/
+          - /estados-unidos/
+          - /teleshow/
+      - name: Clarín
+        type: rss
+        url: https://www.clarin.com/rss/lo-ultimo/
+        max: 4
+
+  - id: internacional
+    title: Internacional
+    mode: titulares
+    max_items: 8
+    max_age_days: 2
+    feeds:
+      - name: BBC Mundo
+        type: rss
+        url: https://feeds.bbci.co.uk/mundo/rss.xml
+        max: 4
+      - name: El País Internacional
+        type: rss
+        url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+        max: 4

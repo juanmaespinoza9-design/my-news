@@ -1,0 +1,42 @@
+name: Actualizar titulares
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"   # cada 2 horas
+  workflow_dispatch:          # botón manual en la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Bajar feeds y regenerar articles.json
+        run: python scripts/fetch_feeds.py
+
+      - name: Commitear si hay cambios
+        run: |
+          git config user.name "midiario-bot"
+          git config user.email "actions@github.com"
+          git add data/articles.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en esta corrida"
+          else
+            git commit -m "Titulares $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push
+          fi
