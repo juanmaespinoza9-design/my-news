@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-06T20:07:17.484900+00:00",
+ "generated_at": "2026-07-06T20:20:06.772258+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "High-Risk Disease Management and Biomarker-Guided Decisions",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2h5cjJjcHdlb01LY2dEbFhjU1AtZXRTZzkyUUNLdFBPQmM0VTBwR2F5SGJ0QU5HOHVMWlJvUnNKdHdjeGZuVmw2cDB6V0FLN3I1NWlQRGhFdllaSTlZMUthWU9WLWRLY3I0SEVXTnRodlkzWW03TFJWZkU2RlpCVXBjZWp0Y3otZ2lxWGxhM2Ywdw?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-06T17:47:01+00:00",
+     "id": "c742c51e5272"
+    },
     {
      "title": "AI-Powered Tumor Microenvironment Analysis May Predict Immunotherapy Response in Patients With Rare Cancers",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXcyUzVhci0tWUhlWHlJcEhWWFhKTjBwdFNWNnNzTVRWOFZySHM4OUFteV9KNDZ4ZnpHcTVPeXBpbm5vODV0LXB4MUdmUTdiVEg2MGlkZVZKQnZpZElQQzlHY2pTQ0xnTGhISmc1NGdwTm12aXJuSjVOUTlXanJXTTFubDJrN2ttVzVLdllycktRR2F1VERUdmkzMlUzTXhhS2tDSDExeHhvNlZleFNBTkRubDc2aHhrdUtnVnhFQWRKTHZPSXc1Q2o3X1FMWnRpWFZURldHVDJtbDk3?oc=5",
@@ -42,59 +49,36 @@
      "id": "31db6e46b01b"
     },
     {
-     "title": "HER2-Positive Early Breast Cancer: Balancing pCR and IDFS in Treatment Selection",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjBxLU16QkNIZEJGQW15TXVXcmQ1Q0IzMGxtTWhKclU0OTBidHVVRTRMX2ZPWXg3UDNrbFg2QWdfa3N6VG5Valk5MFA0ell4SlRCM2pRZ2lTRU5WMnZWcmloQ0NsVE5qbzNmNVZXdzQzb3FlVDFraWtVb1RhSDVjV2dBcGNPTzJLOEZxbGdJVkhhbXdjSjdGZ2NTaGZTb0Z1cmcxdG5Ea2VkUlhu?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-06T12:49:35+00:00",
-     "id": "fca7eee7952d"
-    },
-    {
-     "title": "Somatostatin receptor PET response assessment framework for patients with neuroendocrine tumours (V1.0): a modified Delphi consensus from the European Neuroendocrine Tumor Society (endorsed by EANM and NANETS)",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42398521/",
-     "source": "Lancet Oncology",
-     "published": "2026-07-03T00:00:00+00:00",
-     "copete": "Deroose CM et al. · The Lancet. Oncology",
-     "id": "0b6d7accd5f7"
-    },
-    {
-     "title": "Differential impact of proton pump inhibitors and antibiotics on immunotherapy efficacy after chemoradiotherapy in locally advanced non-small-cell lung cancer: a post-hoc analysis of the PACIFIC trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42398520/",
-     "source": "Lancet Oncology",
-     "published": "2026-07-03T00:00:00+00:00",
-     "copete": "Brunetti L et al. · The Lancet. Oncology",
-     "id": "324e67a5a09c"
-    },
-    {
-     "title": "Co-medications and gut microbiome in NSCLC immunotherapy",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42398519/",
-     "source": "Lancet Oncology",
-     "published": "2026-07-03T00:00:00+00:00",
-     "copete": "Sridhar A et al. · The Lancet. Oncology",
-     "id": "a8f681609b74"
-    },
-    {
-     "title": "Carcinogenicity of butyl benzyl phthalate, dibutyl phthalate, and diisononyl phthalate",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42398518/",
-     "source": "Lancet Oncology",
-     "published": "2026-07-03T00:00:00+00:00",
-     "copete": "Sun M et al. · The Lancet. Oncology",
-     "id": "9e558cc78f2f"
-    },
-    {
-     "title": "Circulating Tumor DNA Status and Adjuvant Chemotherapy in Resected Colorectal Liver Metastases",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42397676/",
-     "source": "JAMA Oncology",
-     "published": "2026-07-03T00:00:00+00:00",
-     "copete": "Kataoka K et al. · JAMA oncology",
-     "id": "3e714fb13c87"
-    },
-    {
      "title": "Biology Over Monotherapy: Mature Results From European Organisation For Research and Treatment of Cancer 22033-26033 Reaffirm Molecular Stratification, Not Treatment Sequence, Defines Prognosis in Low-Grade Glioma",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42391595/",
      "source": "Journal of Clinical Oncology",
      "published": "2026-07-02T00:00:00+00:00",
      "copete": "Marciscano AE et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "90d0ff18cf0c"
+    },
+    {
+     "title": "Risk Prognostication After Hypomethylating Agents Combined With Venetoclax in AML: The PRISM Risk Model",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42391582/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Lachowiez CA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "9d75620480c6"
+    },
+    {
+     "title": "Temozolomide Versus Radiotherapy as First-Line Therapy for Low-Grade Glioma: Mature Results of a Randomized Phase III Trial (EORTC 22033-26033/NCIC-CTG/TROG/MRC-CTU)",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42391581/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Baumert BG et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "32bc83334429"
+    },
+    {
+     "title": "Efficacy and Tolerability of Zenocutuzumab in Advanced NRG1 Fusion-Positive Cholangiocarcinoma: Results From the eNRGy Phase II Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42385125/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-01T00:00:00+00:00",
+     "copete": "Cleary JM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "3599529b49b2"
     }
    ]
   },
@@ -107,28 +91,28 @@
      "title": "ArdAzAei Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/ardazaei",
      "source": "Vogue",
-     "published": "2026-07-06T20:02:11+00:00",
+     "published": "2026-07-06T20:19:35+00:00",
      "id": "de49c383da63"
     },
     {
      "title": "Standing Ground Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/standing-ground",
      "source": "Vogue",
-     "published": "2026-07-06T20:02:11+00:00",
+     "published": "2026-07-06T20:19:35+00:00",
      "id": "a48d7ab93418"
     },
     {
      "title": "Rahul Mishra Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/rahul-mishra",
      "source": "Vogue",
-     "published": "2026-07-06T20:02:11+00:00",
+     "published": "2026-07-06T20:19:35+00:00",
      "id": "cb71d31e204d"
     },
     {
      "title": "Julie de Libran Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/julie-de-libran",
      "source": "Vogue",
-     "published": "2026-07-06T20:02:11+00:00",
+     "published": "2026-07-06T20:19:35+00:00",
      "id": "d3695ea20380"
     },
     {
@@ -284,13 +268,6 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Linda — Descubrir Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1RLeGcxUmpmNjdGWXV2M2UwZUoyOVB2ajZBMi1kMjViemRzdDBJY0JtMnhJNDhWaXNNRUxOQUVIZnhYQlFlaXprVW9heHVkbFFYLUpjd0JkTnlFdVRzaktHSWx3Y3BzaGkyU2prdnpuR0tSTHRMZUEwNUZKUG5FU2M0RjZ3bXVoSlBuaDRJY19jRW8?oc=5",
-     "source": "Buenos Aires Ciudad",
-     "published": "2026-07-06T18:45:41+00:00",
-     "id": "78d8a4188c04"
-    },
-    {
      "title": "Día Mundial del Pollo Frito: 5 lugares de Buenos Aires para salir a comer",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWVueUNkY2VIOWF1ZWJZOS1kVjN0UWJmX0ZSWW9WLUk0Nzh5MGIxR19yTlRWSHo0MVUtTGxUUkxjd1VUOFcwTlo1UVBnQ3lSNmJwNVhXVDlraWNKZHg5Y3JkekpWTTh1SlA2STY0NkJTYVh3R0lJS1RwZ1hZaEdjS005VUFIcjRRbUxSTFdaWW5xdEtWOUY0dDNXYTdaX0FFMHYxUXdRNNIBuwFBVV95cUxPRXVCTV9NWVVpTGFYcHVjdGNlRE9MMWtrbVFBbDIxa1JHSnhDcmZ3cEp2VGZZQnhLV0xHbDNjMy1YWWxPbXpQOFVmemtKV1VHN2JYSWoyR1FoNlkxWi1tUFppQ0EyWHZzdjBHYkszRkVGcEllT3pjSHJtb0VzMjZPOUJPSHUyVDU4V09fRnRKWHBKR2dzdEFUajA3ekQ3WTRtYW5TQ1VtNXdHYXdWVGo2R3NjdDk0VFlPQVlF?oc=5",
      "source": "El Destape",
@@ -317,6 +294,13 @@
      "source": "Diario Río Negro",
      "published": "2026-07-06T12:06:46+00:00",
      "id": "2157c4de5e3e"
+    },
+    {
+     "title": "La concordiense Fiama Ferrari continúa brillando en Buenos Aires y se destaca en el Teatro San Martín",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTg0YjNOTm1ndzZkV0JnRmo2QVVnb2RCclJCYkdaQ3d5YzlyVkZqcEtzTnpXZkhWMVRfdVZXSm5pc2V5d0VhR1JRMzM0T296SUdySUMzb2FfcWFLR192Y1R1VDJSLUNGcHpHa3VtTENtY1lSdjlrb1l2RjRjaUs4d0Z6eGd2TXBnRVhaaEEzNk5FRjBpU1M5eElKZDR6NUxPYldDUGR2a1NXZ1lCYzVwX3dkRWVGZlk3VEl3RA?oc=5",
+     "source": "diauno.ar",
+     "published": "2026-07-06T01:31:26+00:00",
+     "id": "f8f431eec2ab"
     },
     {
      "title": "Dónde comer barato este 9 de Julio: qué restaurantes ofrecen almuerzos por menos de $36.000",
@@ -361,84 +345,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "‘The Big Bang Theory’: Mayim Bialik revela la verdadera razón por la que audicionó tras 12 años lejos de la actuación",
-     "link": "https://www.infobae.com/entretenimiento/2026/07/06/the-big-bang-theory-mayim-bialik-revela-la-verdadera-razon-por-la-que-audiciono-tras-12-anos-lejos-de-la-actuacion/",
+     "title": "Euro hoy en Panamá: cotización de cierre del 6 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/06/euro-hoy-en-panama-cotizacion-de-cierre-del-6-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-06T20:05:27+00:00",
-     "copete": "La actriz compartió detalles de la audición con la que obtuvo el papel de Amy Farrah Fowler y explicó que no esperaba convertirse en parte del elenco",
-     "id": "2f28b7cd6a9a"
+     "published": "2026-07-06T20:17:44+00:00",
+     "copete": "La moneda europea ha registrado un leve avance respecto a la jornada anterior",
+     "id": "08aa5e3ba58f"
     },
     {
-     "title": "Tuvo uno de los looks más excéntricos de la historia de los Mundiales y hoy sorprende al mundo del fútbol desde otro rol",
-     "link": "https://www.infobae.com/deportes/2026/07/06/tuvo-uno-de-los-looks-mas-excentricos-de-la-historia-de-los-mundiales-y-hoy-sorprende-al-mundo-del-futbol-desde-otro-rol/",
+     "title": "Precio del euro hoy en Cuba: cotización de cierre del 6 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/06/precio-del-euro-hoy-en-cuba-cotizacion-de-cierre-del-6-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-06T20:02:05+00:00",
-     "copete": "Alexi Lalas se convirtió en la cara de la selección de Estados Unidos en los años 90. Tres décadas después, se destaca fuera de los terrenos de juego junto a figuras de la talla de Zlatan Ibrahimović y se ríe de su pasado",
-     "id": "bca586f69203"
+     "published": "2026-07-06T20:17:27+00:00",
+     "copete": "La moneda europea experimentó un leve avance en comparación con la jornada anterior",
+     "id": "d24b510093df"
     },
     {
-     "title": "Cuál es el significado oculto de jugar videojuegos sin parar según la psicología",
-     "link": "https://www.lanacion.com.ar/lifestyle/cual-es-el-significado-oculto-de-jugar-videojuegos-sin-parar-segun-la-psicologia-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T20:01:45+00:00",
-     "copete": "Más allá del simple entretenimiento, la conducta de pasar horas consecutivas frente a las pantallas esconde factores emocionales profundos que la ciencia médica ya analiza",
-     "id": "a8a361b0e17b"
-    },
-    {
-     "title": "Jorge Tartaglione, cardiólogo: “No hay duda de que los medicamentos para el colesterol son buenos y salvan vidas”",
-     "link": "https://www.lanacion.com.ar/sociedad/colesterol-el-medicamento-estrella-para-bajarlo-y-por-que-una-dieta-saludable-no-es-suficiente-segun-nid04072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T20:01:29+00:00",
-     "copete": "El cardiólogo Jorge Tartaglione visitó los estudios de LN+, donde recomendó la ingesta de estatinas; cómo controlar los niveles y qué riesgos pueden reducirse con tratamiento",
-     "id": "ac14fbf1b6cf"
-    },
-    {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “Somos arquitectos de nuestra vida; la felicidad está subordinada al bienestar físico por encima del nivel social o económico”",
-     "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-somos-arquitectos-de-nuestra-vida-la-felicidad-nid04072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T20:01:26+00:00",
-     "copete": "Un móvil de LN+ dialogó con la instructora Melani Giommetti, quien sostuvo que “la actividad sirve para fortalecer nuestros músculos de forma consciente y a largo plazo”; la técnica y sus beneficios",
-     "id": "9f3a8da84ba4"
-    },
-    {
-     "title": "Daniel López Rosetti, médico cardiólogo: “No somos seres racionales, somos seres emocionales que razonan”",
-     "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-cardiologo-no-somos-seres-racionales-somos-seres-emocionales-que-razonan-nid04072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T20:01:22+00:00",
-     "copete": "El especialista detalló cómo la actividad programada impacta en la salud mental; además, dijo que el ejercicio físico actúa como una herramienta terapéutica",
-     "id": "7d0b0a3022a5"
-    },
-    {
-     "title": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este lunes 6 de julio",
-     "link": "https://www.infobae.com/economia/2026/07/06/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-6-de-julio/",
+     "title": "Captaban mujeres con falsas ofertas de trabajo para explotarlas sexualmente: así rescataron a ocho víctimas",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/06/captaban-mujeres-con-falsas-ofertas-de-trabajo-para-explotarlas-sexualmente-asi-rescataron-a-ocho-victimas/",
      "source": "Infobae",
-     "published": "2026-07-06T20:00:47+00:00",
-     "copete": "El billete al público sigue ofrecido a $1.510 para la venta en el Banco Nación, un precio máximo desde el 24 de octubre. El blue sube a $1.515",
-     "id": "2e69a0b2d6e9"
+     "published": "2026-07-06T20:17:13+00:00",
+     "copete": "Los procedimientos incluyeron allanamientos en Buenos Aires y Tucumán, donde se secuestraron dispositivos electrónicos y documentación clave para la causa. Tres mujeres y dos hombres quedaron a disposición de la Justicia",
+     "id": "49541343c8fa"
     },
     {
-     "title": "Colombia vs. Suiza hora y dónde ver: lo más buscado en Google del partido del Mundial 2026",
-     "link": "https://www.infobae.com/tecno/2026/07/06/colombia-vs-suiza-hora-y-donde-ver-lo-mas-buscado-en-google-del-partido-del-mundial-2026/",
+     "title": "Dólar hoy en Panamá: cotización de cierre del 6 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/06/dolar-hoy-en-panama-cotizacion-de-cierre-del-6-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-06T20:00:00+00:00",
-     "copete": "La selección colombiana jugará su partido de octavos de final en Vancouver, Canadá",
-     "id": "96d010bcbe43"
+     "published": "2026-07-06T20:17:10+00:00",
+     "copete": "La divisa estadounidense se ha mantenido estable respecto a la jornada anterior",
+     "id": "8fea39b145e1"
     },
     {
-     "title": "Los bonos reaccionan positivamente y el riesgo país baja un escalón a los 412 puntos luego del anuncio de Caputo",
-     "link": "https://www.clarin.com/economia/bonos-reaccionan-positivamente-riesgo-pais-baja-escalon-412-puntos-luego-anuncio-caputo_0_mJ5qCzNzHf.html",
+     "title": "Rusia lanzó un nuevo ataque con misiles y drones sobre edificios residenciales en Kiev en la víspera de la cumbre de la OTAN",
+     "link": "https://www.lanacion.com.ar/el-mundo/rusia-lanzo-un-nuevo-ataque-con-misiles-y-drones-sobre-kiev-en-la-vispera-de-la-cumbre-de-la-otan-nid05072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T20:16:14+00:00",
+     "copete": "Las fuerzas rusas lanzaron un total de 68 misiles y 351 drones contra la capital; varios edificios de departamentos resultaron dañados en esa ciudad y en la cercana Vyshneve",
+     "id": "fb227b838ae9"
+    },
+    {
+     "title": "Ingeniero y constructor: “Es mejor tener una casa propia de 45 metros sin parqué ni aire acondicionado que no tener nada”",
+     "link": "https://www.lanacion.com.ar/lifestyle/ingeniero-y-constructor-es-mejor-tener-una-casa-propia-de-45-metros-sin-parque-ni-aire-acondicionado-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T20:15:42+00:00",
+     "copete": "El español Arturo Coloma aseguró que se necesita tener una discusión incómoda sobre las características de las viviendas que podrán construirse en el futuro",
+     "id": "b53e0936bda7"
+    },
+    {
+     "title": "La Academia Nacional de Ciencias denunció el “vaciamiento” del sector científico y alertó sobre una “fuga de cerebros”",
+     "link": "https://www.lanacion.com.ar/sociedad/la-academia-nacional-de-ciencias-denuncio-el-vaciamiento-del-sector-cientifico-y-alerto-sobre-una-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T20:14:03+00:00",
+     "copete": "La entidad expresó su preocupación por la situación de la CNEA y el Conicet, cuestionó los recortes presupuestarios del Gobierno y advirtió que el deterioro del sistema científico compromete el desarrollo, la salud y la soberanía…",
+     "id": "d78c7f748f55"
+    },
+    {
+     "title": "España vs. Portugal, en vivo por el Mundial 2026: el minuto a minuto del partido",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-portugal-en-vivo-por-el-mundial-2026-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T20:13:39+00:00",
+     "copete": "El partido se disputa en el Dallas Stadium; todos los detalles del encuentro",
+     "id": "9ec808413c0f"
+    },
+    {
+     "title": "Quiniela Nacional: resultado del sorteo de la Matutina de hoy, lunes 06 de julio",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-matutina-hoy-lunes-06-julio_0_LyIfUDK9n3.html",
      "source": "Clarín",
-     "published": "2026-07-06T19:25:49+00:00",
-     "copete": "En un buen día para los mercados emergentes, los activos argentinos se mueven en positivo. Las acciones repuntan hasta 6% en Nueva York.",
-     "id": "f3cdea1322d3"
+     "published": "2026-07-06T19:03:30+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "cb8fc264e253"
     },
     {
-     "title": "Revelan el origen de las extrañas bolas que aparecieron en una playa de Australia",
-     "link": "https://www.clarin.com/internacional/revelan-origen-extranas-bolas-aparecieron-playa-australia_0_PqeKsl4Dsa.html",
+     "title": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, lunes 06 de julio",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-lunes-06-julio_0_dyqQaaYIek.html",
      "source": "Clarín",
-     "published": "2026-07-06T19:25:04+00:00",
-     "copete": "La agencia espacial del país oceánico identificó los objetos y, así, calmó las especulaciones. De dónde provienen y por qué las autoridades piden no acercarse a ellos.",
-     "id": "ad01a8c44ae2"
+     "published": "2026-07-06T19:03:30+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "09e85edb6ade"
     }
    ]
   },
@@ -514,5 +498,21 @@
    ]
   }
  ],
- "_errors": []
+ "_errors": [
+  {
+   "section": "oncologia",
+   "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  }
+ ]
 }
