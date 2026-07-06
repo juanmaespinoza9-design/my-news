@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-07-06T20:20:06.772258+00:00",
+ "generated_at": "2026-07-06T21:51:29.824189+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "FDA Issues CRL to Orviglance for Liver Metastasis Imaging in Patients With Severe Kidney Impairment",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeV9xeXdwRlliVk9kcXpibzB0VlctQXBGSHdNMzZwcTdPU3NiSG82LXZvZmVqT04zX1BQdGtUTW5iaWdxOTdDM3YzM1ZJczVjbmpnbTlwRGRyQUF1eU96SFZPODFpcDMzeDkyU0I2WkJrRGlqLTRVUFJVdjIwRzQ0MXg2My1SM09NTmpVOWFhVU92ejR1UGNmZkRlRmN6ak03anc1QU93S1c4bE9WdEt5NzFqU2Zkb0tjSkR1TnNIUUQ2UTFTdHhF?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-06T20:50:57+00:00",
+     "id": "32bfb1952c4f"
+    },
+    {
+     "title": "Advantages of the 505(b)(2) Pathway and Bridging Evidence Requirements",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbE4wUFFuWVlTVUVKSkE0SFh3bnlMWnpCZmhEYy01Q2pzd3VYMWVnOU1BX0dKR2c5b1Ewb0k3SDczUi1SRDJVY3dGMTMxeGtqcFkxWllPUlNSZlFuV2N5ZF82SnpWYmRraExzemlESXdOaGJQZmoxOE15UDNRc1BncGZvZmRlUkd3elNzUUt4NHozNG5rOC1kazFFZHQydw?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-06T20:48:45+00:00",
+     "id": "4a9c395df7fb"
+    },
     {
      "title": "High-Risk Disease Management and Biomarker-Guided Decisions",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2h5cjJjcHdlb01LY2dEbFhjU1AtZXRTZzkyUUNLdFBPQmM0VTBwR2F5SGJ0QU5HOHVMWlJvUnNKdHdjeGZuVmw2cDB6V0FLN3I1NWlQRGhFdllaSTlZMUthWU9WLWRLY3I0SEVXTnRodlkzWW03TFJWZkU2RlpCVXBjZWp0Y3otZ2lxWGxhM2Ywdw?oc=5",
@@ -35,18 +49,44 @@
      "id": "724198ee9f7c"
     },
     {
-     "title": "TP53 Status and Time Toxicity Shape Sequencing Decisions in EGFR-Mutated NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnlxRGhlRkY5akJTOWh4R1dMR05fdVVwbjVXMTFGbk5JWkNHc253eXBKNlJFb1F0czZWWXJVNjZmeEt0b193QUZUNWtiZEc4OE9xMU1pb1F4OVo4TmJkTDVQQVJBNkF6Z2d0a2dWMWdrWk9Idjd6WkF1MFRNcm1XUndhYldhcmJkejJfM1B1NHV3cmFJMGtqMVFucFhpTF8zNlpkYklhb2FsWnc?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-06T13:05:44+00:00",
-     "id": "fb228a7e4700"
+     "title": "Somatostatin receptor PET response assessment framework for patients with neuroendocrine tumours (V1.0): a modified Delphi consensus from the European Neuroendocrine Tumor Society (endorsed by EANM and NANETS)",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42398521/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-03T00:00:00+00:00",
+     "copete": "Deroose CM et al. · The Lancet. Oncology",
+     "id": "0b6d7accd5f7"
     },
     {
-     "title": "Breast Cancer ctDNA Surveillance Landscape",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ha1lMcXNYQUMyU2pBbXUtUmFaX3V3S2g2QUhlSFZwaks5dDB3c051cEp4cmxtdFBNZzFieVgyNWc5dm9kd3R2ckdZNlRxSzI1dE10VGlVU2JpczFuVmtPV2xwTUZKX2ptS0oyWHhUR0N1MXFIWndQNzFnMA?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-06T12:59:16+00:00",
-     "id": "31db6e46b01b"
+     "title": "Differential impact of proton pump inhibitors and antibiotics on immunotherapy efficacy after chemoradiotherapy in locally advanced non-small-cell lung cancer: a post-hoc analysis of the PACIFIC trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42398520/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-03T00:00:00+00:00",
+     "copete": "Brunetti L et al. · The Lancet. Oncology",
+     "id": "324e67a5a09c"
+    },
+    {
+     "title": "Co-medications and gut microbiome in NSCLC immunotherapy",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42398519/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-03T00:00:00+00:00",
+     "copete": "Sridhar A et al. · The Lancet. Oncology",
+     "id": "a8f681609b74"
+    },
+    {
+     "title": "Carcinogenicity of butyl benzyl phthalate, dibutyl phthalate, and diisononyl phthalate",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42398518/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-03T00:00:00+00:00",
+     "copete": "Sun M et al. · The Lancet. Oncology",
+     "id": "9e558cc78f2f"
+    },
+    {
+     "title": "Circulating Tumor DNA Status and Adjuvant Chemotherapy in Resected Colorectal Liver Metastases",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42397676/",
+     "source": "JAMA Oncology",
+     "published": "2026-07-03T00:00:00+00:00",
+     "copete": "Kataoka K et al. · JAMA oncology",
+     "id": "3e714fb13c87"
     },
     {
      "title": "Biology Over Monotherapy: Mature Results From European Organisation For Research and Treatment of Cancer 22033-26033 Reaffirm Molecular Stratification, Not Treatment Sequence, Defines Prognosis in Low-Grade Glioma",
@@ -55,30 +95,6 @@
      "published": "2026-07-02T00:00:00+00:00",
      "copete": "Marciscano AE et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "90d0ff18cf0c"
-    },
-    {
-     "title": "Risk Prognostication After Hypomethylating Agents Combined With Venetoclax in AML: The PRISM Risk Model",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42391582/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Lachowiez CA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "9d75620480c6"
-    },
-    {
-     "title": "Temozolomide Versus Radiotherapy as First-Line Therapy for Low-Grade Glioma: Mature Results of a Randomized Phase III Trial (EORTC 22033-26033/NCIC-CTG/TROG/MRC-CTU)",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42391581/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Baumert BG et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "32bc83334429"
-    },
-    {
-     "title": "Efficacy and Tolerability of Zenocutuzumab in Advanced NRG1 Fusion-Positive Cholangiocarcinoma: Results From the eNRGy Phase II Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42385125/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-01T00:00:00+00:00",
-     "copete": "Cleary JM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "3599529b49b2"
     }
    ]
   },
@@ -91,55 +107,62 @@
      "title": "ArdAzAei Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/ardazaei",
      "source": "Vogue",
-     "published": "2026-07-06T20:19:35+00:00",
+     "published": "2026-07-06T21:47:26+00:00",
      "id": "de49c383da63"
     },
     {
      "title": "Standing Ground Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/standing-ground",
      "source": "Vogue",
-     "published": "2026-07-06T20:19:35+00:00",
+     "published": "2026-07-06T21:47:26+00:00",
      "id": "a48d7ab93418"
     },
     {
      "title": "Rahul Mishra Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/rahul-mishra",
      "source": "Vogue",
-     "published": "2026-07-06T20:19:35+00:00",
+     "published": "2026-07-06T21:47:26+00:00",
      "id": "cb71d31e204d"
     },
     {
      "title": "Julie de Libran Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/julie-de-libran",
      "source": "Vogue",
-     "published": "2026-07-06T20:19:35+00:00",
+     "published": "2026-07-06T21:47:26+00:00",
      "id": "d3695ea20380"
+    },
+    {
+     "title": "Uñas marrón oscuro: la tendencia de manicura que estiliza las manos y combina con todos tus looks",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lTEJfVVlmbkF2azJsT1lqX2FIVDJfQlZTVHJ0aUNjMGNHTWFqTGpjMDUxUFpMSk5jUndEMWVLMEZKcEdocGhGTzJuRXhEbGp5X3FUbG5fZEFZcVd5UHJ3clVxUTFwUQ?oc=5",
+     "source": "instyle.es",
+     "published": "2026-07-06T20:55:00+00:00",
+     "id": "12407e279345"
     },
     {
      "title": "TODO sobre la quinta edición de Vogue Fashion Talks y cómo las raíces inspiran el futuro de la moda",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZmFVd2JGYmVJNTFrc0w3bElVMW9mcmtrYTRaR2RhWWtLMGQ4b0NnMkVfZTlZUmYtMm1pQ0ptV2FzVkVRTDhrRVFHeVpwVmt6QXA1b09zVmtwdGdNOEtWME4xWkRrQ1N1c3YtYWVlZ1NhaWpLOExqcFV2ZTJMc2txblhqQ21UOWpSZm8weENPbTNpOWNweEV0X19ULURjdTQ2NElwSmk5ekhCMFVH?oc=5",
-     "source": "Vogue México",
+     "source": "vogue.mx",
      "published": "2026-07-06T19:50:05+00:00",
      "id": "234f1b398c33"
     },
     {
      "title": "De zapatos de tacón color café a jeans blancos: 3 looks de buen gusto inspirados en Dua Lipa para verano 2026",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFNoR0VtMDdKWWh1LWZIWUhqWGN1YjAzMVAzdjNZX0twMDZKaDYxZERIbl92NUFDZW4yMGFnYlBVaUppX1F3cHhneHJNcURJSzRtTHNOenFtWURwWllXNkNuNzdJel9PQWpQdVFac0otR3JuU3puUTVRd1FBTDlmUDNpZ3NpMWtydnFRQjhGOVdveVE?oc=5",
-     "source": "Vogue México",
+     "source": "vogue.mx",
      "published": "2026-07-06T19:19:10+00:00",
      "id": "942f176ee5df"
     },
     {
      "title": "Te encontraré: el thriller criminal de Netflix que vi en una sola tarde (con el final más enganchante)",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YdnJEekN2Z3dmVGlvVFMwSXlsRm9oNF9iSXBqeFpVZE92RDN4MU5XQ0Nrb2RueWt4NHN3MTFlTll2UGl3MTh2NEI3OURYR0JMY3dLVVc4TVBUd2hmNlo3Rw?oc=5",
-     "source": "Vogue México",
+     "source": "vogue.mx",
      "published": "2026-07-06T18:41:52+00:00",
      "id": "5670536c7860"
     },
     {
      "title": "Faldas largas color café en tendencia para llevar con blusas elegantes en verano 2026",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkloRlJyOVotYXJmN1dYanRNSVNaY29zY09pUlkxcWpkTy15dnVjZXk4bUtQZlpNTjJhbHhkV0llT0F3WHoyUnAyc3dDMHRoRGxGY2p4X1J4b1JkZ0V2MFhTbFMzeDhmRGI4bnE2N09kRXE0b053bTM5VGFDblFUTE1INzJ5TjBiSVBhNnBwMmpfS0pSMXVnUEdIM3lEU0VEa0RxSA?oc=5",
-     "source": "Vogue México",
+     "source": "vogue.mx",
      "published": "2026-07-06T16:40:15+00:00",
      "id": "254eb35d8022"
     },
@@ -149,13 +172,6 @@
      "source": "Montevideo Portal",
      "published": "2026-07-06T16:23:00+00:00",
      "id": "908d2f9cec34"
-    },
-    {
-     "title": "La fiebre de las Havaianas",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUMyZEQ2UkowS1hWbDNoc29xUHA1V3pkbExqYWh2OEJ3Vk9uWWFHNjU5Q2xaUjhkMHJFb292VlI1M01MOXBiUVdldDBVTmdjbVRZdE5aUElzVnZ5aFgwemRZVzBsc2JzZkJ2MzFVeERkOGU2UXNKZnhac0plU253T1pPRDBaRXFZLXc4d1ZkZ1dxWHJZRUZhWWRVQWc4dlkzT0RkWktn?oc=5",
-     "source": "El Generacional",
-     "published": "2026-07-06T16:00:38+00:00",
-     "id": "792242b643fb"
     }
    ]
   },
@@ -164,6 +180,38 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "La furia de Laurita Fernández tras los rumores que la vinculan con Pedro Alfonso: “Habrá sido con otras personas”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-furia-de-laurita-fernandez-tras-los-rumores-que-la-vinculan-con-pedro-alfonso-habra-sido-con-nid06072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-06T21:34:19+00:00",
+     "copete": "La actriz desmintió con contundencia las versiones de un supuesto romance con su compañero de La cena de los tontos; sus dichos volvieron a reflotar una vieja interna entre la bailarina y la mujer del productor, Paula Chaves",
+     "id": "a2c9c9676a13"
+    },
+    {
+     "title": "Ángel de Brito explicó por qué no fue a lo de Mirtha Legrand y apuntó contra Juana Viale",
+     "link": "https://www.infobae.com/teleshow/2026/07/06/angel-de-brito-explico-por-que-no-fue-a-lo-de-mirtha-legrand-y-apunto-contra-juana-viale/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-06T21:33:35+00:00",
+     "copete": "El conductor manifestó su molestia con la conductora de Almorzando con Juana. Sus disculpas a la diva y sus frases para la actriz",
+     "id": "b17a9e94e07b"
+    },
+    {
+     "title": "Mauro Icardi volvió a la carga contra Yanina Latorre: “Siempre quedás expuesta, amor”",
+     "link": "https://www.infobae.com/teleshow/2026/07/06/mauro-icardi-volvio-a-la-carga-contra-yanina-latorre-siempre-quedas-expuesta-amor/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-06T21:06:00+00:00",
+     "copete": "El futbolista reapareció en sus historias de Instagram con una respuesta tajante a la conductora, compartió parte de la resolución judicial y reavivó un cruce que suma nuevos capítulos y rectificaciones",
+     "id": "5f4362a5c955"
+    },
+    {
+     "title": "Gritos, amenazas y viralización: así fue el tenso partido que vivió Camilota como arquera",
+     "link": "https://www.infobae.com/teleshow/2026/07/06/gritos-amenazas-y-viralizacion-asi-fue-el-tenso-partido-que-vivio-camilota-como-arquera/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-06T20:19:38+00:00",
+     "copete": "La figura de Cuestión de Peso intentó calmar la tensión entre compañeras y rivales, pero la situación se desbordó y generó cientos de reacciones en redes",
+     "id": "8c2a5cad6cc4"
+    },
     {
      "title": "El Doctor, el rapero que fue “trapito”, se hizo conocido tocando en las cárceles y tardó cinco años en volver a sacar un disco",
      "link": "https://www.lanacion.com.ar/espectaculos/musica/el-doctor-el-rapero-que-fue-trapito-se-hizo-conocido-tocando-en-las-carceles-y-tardo-cinco-anos-en-nid06072026/",
@@ -213,44 +261,12 @@
      "id": "cea45de2fce0"
     },
     {
-     "title": "Pamela David habló sobre la salud de Daniel Vila: “Viajamos a Nueva York porque se tiene que volver a operar”",
-     "link": "https://www.infobae.com/teleshow/2026/07/06/pamela-david-hablo-sobre-la-salud-de-daniel-vila-viajamos-a-nueva-york-porque-se-tiene-que-volver-a-operar/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-06T17:36:17+00:00",
-     "copete": "En diálogo con Teleshow, la conductora de Desayuno americano contó algunos detalles del traslado a Estados Unidos por una nueva intervención del empresario",
-     "id": "6ac18bc17132"
-    },
-    {
-     "title": "Baile, risas y abrazos: el video viral de Moria Casán y Georgina Barbarossa tras hacer las paces",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/baile-risas-y-abrazos-el-video-viral-de-moria-casan-y-georgina-barbarossa-tras-hacer-las-paces-nid06072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-06T17:00:33+00:00",
-     "copete": "Las conductoras volvieron a encontrarse durante el festejo por los 50 años de Ángel de Brito y dejaron una nueva postal de reconciliación luego de 26 años de distanciamiento",
-     "id": "230fd134bd25"
-    },
-    {
      "title": "Cómo va a ser la TV abierta del martes al mediodía, cuando juegue la Selección: qué se levanta, qué se mueve, todos los horarios",
      "link": "https://www.clarin.com/espectaculos/va-tv-abierta-martes-mediodia-juegue-seleccion-levanta-mueve-horarios_0_L4oUxWtlA6.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-06T16:55:54+00:00",
      "copete": "El partido por los octavos de final frente a Egipto se verá, por aire, a través de Telefe y la TV Pública, pero los otros canales también moverán sus fichas. Qué programa de El Trece no se emitirá y qué película irá en su lugar.",
      "id": "37cb5788d18a"
-    },
-    {
-     "title": "Nicolás Occhiato habló sobre el escándalo con Florencia Peña: “Está judicializado”",
-     "link": "https://www.infobae.com/teleshow/2026/07/06/nicolas-occhiato-hablo-sobre-el-escandalo-con-florencia-pena-esta-judicializado/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-06T16:15:11+00:00",
-     "copete": "A casi un mes de los dichos de la actriz sobre la salud del padre de Lionel Messi y su posterior renuncia al canal de stream, el conductor y productor dio a conocer que la situación escaló a la vía legal",
-     "id": "43456c1c8a9d"
-    },
-    {
-     "title": "Marta Fort contó cuáles son los retoques estéticos que se hizo en el rostro: “Algo me puse en la carita”",
-     "link": "https://www.infobae.com/teleshow/2026/07/06/marta-fort-conto-cuales-son-los-retoques-esteticos-que-se-hizo-en-el-rostro-algo-me-puse-en-la-carita/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-06T15:54:20+00:00",
-     "copete": "Durante una charla con el influencer Tomás Mazza, enumeró los procedimientos estéticos que llevó a cabo y explicó por qué aun no recurrió a tratamientos más invasivos",
-     "id": "bd788f445e26"
     },
     {
      "title": "La guerra del streaming: cómo se divide el negocio y cuáles son los 10 canales top",
@@ -267,6 +283,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Linda — Descubrir Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1RLeGcxUmpmNjdGWXV2M2UwZUoyOVB2ajZBMi1kMjViemRzdDBJY0JtMnhJNDhWaXNNRUxOQUVIZnhYQlFlaXprVW9heHVkbFFYLUpjd0JkTnlFdVRzaktHSWx3Y3BzaGkyU2prdnpuR0tSTHRMZUEwNUZKUG5FU2M0RjZ3bXVoSlBuaDRJY19jRW8?oc=5",
+     "source": "Buenos Aires Ciudad",
+     "published": "2026-07-06T18:45:41+00:00",
+     "id": "78d8a4188c04"
+    },
     {
      "title": "Día Mundial del Pollo Frito: 5 lugares de Buenos Aires para salir a comer",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWVueUNkY2VIOWF1ZWJZOS1kVjN0UWJmX0ZSWW9WLUk0Nzh5MGIxR19yTlRWSHo0MVUtTGxUUkxjd1VUOFcwTlo1UVBnQ3lSNmJwNVhXVDlraWNKZHg5Y3JkekpWTTh1SlA2STY0NkJTYVh3R0lJS1RwZ1hZaEdjS005VUFIcjRRbUxSTFdaWW5xdEtWOUY0dDNXYTdaX0FFMHYxUXdRNNIBuwFBVV95cUxPRXVCTV9NWVVpTGFYcHVjdGNlRE9MMWtrbVFBbDIxa1JHSnhDcmZ3cEp2VGZZQnhLV0xHbDNjMy1YWWxPbXpQOFVmemtKV1VHN2JYSWoyR1FoNlkxWi1tUFppQ0EyWHZzdjBHYkszRkVGcEllT3pjSHJtb0VzMjZPOUJPSHUyVDU4V09fRnRKWHBKR2dzdEFUajA3ekQ3WTRtYW5TQ1VtNXdHYXdWVGo2R3NjdDk0VFlPQVlF?oc=5",
@@ -294,13 +317,6 @@
      "source": "Diario Río Negro",
      "published": "2026-07-06T12:06:46+00:00",
      "id": "2157c4de5e3e"
-    },
-    {
-     "title": "La concordiense Fiama Ferrari continúa brillando en Buenos Aires y se destaca en el Teatro San Martín",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTg0YjNOTm1ndzZkV0JnRmo2QVVnb2RCclJCYkdaQ3d5YzlyVkZqcEtzTnpXZkhWMVRfdVZXSm5pc2V5d0VhR1JRMzM0T296SUdySUMzb2FfcWFLR192Y1R1VDJSLUNGcHpHa3VtTENtY1lSdjlrb1l2RjRjaUs4d0Z6eGd2TXBnRVhaaEEzNk5FRjBpU1M5eElKZDR6NUxPYldDUGR2a1NXZ1lCYzVwX3dkRWVGZlk3VEl3RA?oc=5",
-     "source": "diauno.ar",
-     "published": "2026-07-06T01:31:26+00:00",
-     "id": "f8f431eec2ab"
     },
     {
      "title": "Dónde comer barato este 9 de Julio: qué restaurantes ofrecen almuerzos por menos de $36.000",
@@ -345,84 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Euro hoy en Panamá: cotización de cierre del 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/06/euro-hoy-en-panama-cotizacion-de-cierre-del-6-de-julio/",
+     "title": "Las consultoras que releva el BCRA proyectaron una inflación de 2% para junio: qué prevén para este mes",
+     "link": "https://www.infobae.com/economia/2026/07/06/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-2-para-junio-que-preven-para-este-mes/",
      "source": "Infobae",
-     "published": "2026-07-06T20:17:44+00:00",
-     "copete": "La moneda europea ha registrado un leve avance respecto a la jornada anterior",
-     "id": "08aa5e3ba58f"
+     "published": "2026-07-06T21:50:04+00:00",
+     "copete": "El último Relevamiento de Expectativas de Mercado (REM) pronosticó una desaceleración de la dinámica de precios en los próximos meses. Qué anticipan para el dólar, la actividad y el empleo",
+     "id": "46a826894323"
     },
     {
-     "title": "Precio del euro hoy en Cuba: cotización de cierre del 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/06/precio-del-euro-hoy-en-cuba-cotizacion-de-cierre-del-6-de-julio/",
+     "title": "Lionel Scaloni habla en conferencia de prensa, EN VIVO: el análisis antes del duelo entre Argentina y Egipto por el Mundial 2026",
+     "link": "https://www.infobae.com/deportes/2026/07/06/lionel-scaloni-habla-en-conferencia-de-prensa-en-vivo-el-analisis-antes-del-duelo-entre-argentina-y-egipto-por-el-mundial-2026/",
      "source": "Infobae",
-     "published": "2026-07-06T20:17:27+00:00",
-     "copete": "La moneda europea experimentó un leve avance en comparación con la jornada anterior",
-     "id": "d24b510093df"
+     "published": "2026-07-06T21:49:51+00:00",
+     "copete": "El entrenador dialoga con los medios antes del partido por los octavos de final en Atlanta",
+     "id": "7c338306f78d"
     },
     {
-     "title": "Captaban mujeres con falsas ofertas de trabajo para explotarlas sexualmente: así rescataron a ocho víctimas",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/06/captaban-mujeres-con-falsas-ofertas-de-trabajo-para-explotarlas-sexualmente-asi-rescataron-a-ocho-victimas/",
+     "title": "Dieta mediterránea: cómo impacta en el bienestar psicológico de los mayores de 50 años",
+     "link": "https://www.infobae.com/salud/ciencia/2026/07/06/dieta-mediterranea-como-impacta-en-el-bienestar-psicologico-de-los-mayores-de-50-anos/",
      "source": "Infobae",
-     "published": "2026-07-06T20:17:13+00:00",
-     "copete": "Los procedimientos incluyeron allanamientos en Buenos Aires y Tucumán, donde se secuestraron dispositivos electrónicos y documentación clave para la causa. Tres mujeres y dos hombres quedaron a disposición de la Justicia",
-     "id": "49541343c8fa"
+     "published": "2026-07-06T21:47:54+00:00",
+     "copete": "Una investigación realizada en Inglaterra analizó los hábitos alimentarios de más de 3.200 personas y reveló nuevos datos",
+     "id": "29295ffc19be"
     },
     {
-     "title": "Dólar hoy en Panamá: cotización de cierre del 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/06/dolar-hoy-en-panama-cotizacion-de-cierre-del-6-de-julio/",
+     "title": "Javier Milei y sus medidas, en vivo: el plan para pagar la deuda hasta 2027 y la reforma electoral",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T21:46:39+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "cef2d5cca06d"
+    },
+    {
+     "title": "Detestaba las agujas, su hermano lo convenció de donar sangre y 46 años después es récord Guinness",
+     "link": "https://www.infobae.com/virales/2026/07/06/detestaba-las-agujas-su-hermano-lo-convencio-de-donar-sangre-y-46-anos-despues-es-record-guinness/",
      "source": "Infobae",
-     "published": "2026-07-06T20:17:10+00:00",
-     "copete": "La divisa estadounidense se ha mantenido estable respecto a la jornada anterior",
-     "id": "8fea39b145e1"
+     "published": "2026-07-06T21:46:09+00:00",
+     "copete": "Dan Ryan, de 69 años, superó los 113 litros entregados a la Cruz Roja Estadounidense desde 1980, un hábito que empezó con una broma familiar y que su nieta de 20 años ya quiere heredar",
+     "id": "1def9428a436"
     },
     {
-     "title": "Rusia lanzó un nuevo ataque con misiles y drones sobre edificios residenciales en Kiev en la víspera de la cumbre de la OTAN",
-     "link": "https://www.lanacion.com.ar/el-mundo/rusia-lanzo-un-nuevo-ataque-con-misiles-y-drones-sobre-kiev-en-la-vispera-de-la-cumbre-de-la-otan-nid05072026/",
+     "title": "Fechas y horarios de los cuartos de final del Mundial 2026",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/fechas-y-horarios-de-los-cuartos-de-final-del-mundial-2026-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-06T20:16:14+00:00",
-     "copete": "Las fuerzas rusas lanzaron un total de 68 misiles y 351 drones contra la capital; varios edificios de departamentos resultaron dañados en esa ciudad y en la cercana Vyshneve",
-     "id": "fb227b838ae9"
+     "published": "2026-07-06T21:45:56+00:00",
+     "copete": "La tercera instancia de eliminación directa se disputará entre el jueves 9 de julio y el sábado 11 con cuatro partidos; los ganadores avanzarán a las semifinales",
+     "id": "7762e0fbf628"
     },
     {
-     "title": "Ingeniero y constructor: “Es mejor tener una casa propia de 45 metros sin parqué ni aire acondicionado que no tener nada”",
-     "link": "https://www.lanacion.com.ar/lifestyle/ingeniero-y-constructor-es-mejor-tener-una-casa-propia-de-45-metros-sin-parque-ni-aire-acondicionado-nid06072026/",
+     "title": "La psicología explica la resiliencia de los nacidos en los años 60 y 70 por crecer en una realidad marcada por la exigencia y la libertad",
+     "link": "https://www.lanacion.com.ar/salud/mente/la-psicologia-explica-la-resiliencia-de-los-nacidos-en-los-anos-60-y-70-por-crecer-en-una-realidad-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-06T20:15:42+00:00",
-     "copete": "El español Arturo Coloma aseguró que se necesita tener una discusión incómoda sobre las características de las viviendas que podrán construirse en el futuro",
-     "id": "b53e0936bda7"
+     "published": "2026-07-06T21:44:17+00:00",
+     "copete": "Expertos analizan cómo la crianza basada en la disciplina y la autonomía obligatoria de hace décadas forjó una capacidad de adaptación única",
+     "id": "3dd2d14ef920"
     },
     {
-     "title": "La Academia Nacional de Ciencias denunció el “vaciamiento” del sector científico y alertó sobre una “fuga de cerebros”",
-     "link": "https://www.lanacion.com.ar/sociedad/la-academia-nacional-de-ciencias-denuncio-el-vaciamiento-del-sector-cientifico-y-alerto-sobre-una-nid06072026/",
+     "title": "Dan John, atleta y entrenador, sobre la caminata del granjero: “Si hay un movimiento es este; no hay una manifestación de poder tan básica y crucial”",
+     "link": "https://www.lanacion.com.ar/salud/fitness/dan-john-atleta-y-entrenador-sobre-la-caminata-del-granjero-si-hay-un-movimiento-es-este-no-hay-una-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-06T20:14:03+00:00",
-     "copete": "La entidad expresó su preocupación por la situación de la CNEA y el Conicet, cuestionó los recortes presupuestarios del Gobierno y advirtió que el deterioro del sistema científico compromete el desarrollo, la salud y la soberanía…",
-     "id": "d78c7f748f55"
+     "published": "2026-07-06T21:43:45+00:00",
+     "copete": "El estadounidense creó este ejercicio simple, versátil y útil que involucra la estabilización central y el agarre",
+     "id": "e1f43c516e75"
     },
     {
-     "title": "España vs. Portugal, en vivo por el Mundial 2026: el minuto a minuto del partido",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-portugal-en-vivo-por-el-mundial-2026-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T20:13:39+00:00",
-     "copete": "El partido se disputa en el Dallas Stadium; todos los detalles del encuentro",
-     "id": "9ec808413c0f"
-    },
-    {
-     "title": "Quiniela Nacional: resultado del sorteo de la Matutina de hoy, lunes 06 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-matutina-hoy-lunes-06-julio_0_LyIfUDK9n3.html",
+     "title": "El llanto de Cristiano Ronaldo tras la eliminación de Portugal: cómo fueron los últimos minutos de CR7 en Mundiales",
+     "link": "https://www.clarin.com/deportes/llanto-cristiano-ronaldo-eliminacion-portugal-ultimos-minutos-cr7-mundial_0_0cFD7o6td7.html",
      "source": "Clarín",
-     "published": "2026-07-06T19:03:30+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "cb8fc264e253"
+     "published": "2026-07-06T21:23:34+00:00",
+     "copete": "Portugal quedó eliminada a manos de España en octavos de final. A sus 41 años, Cristiano Ronaldo jugó todo el partido y se despidió entre lágrimas.",
+     "id": "8959e3e14289"
     },
     {
-     "title": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, lunes 06 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-lunes-06-julio_0_dyqQaaYIek.html",
+     "title": "Indagan a José Luis Espert en la causa por lavado de dinero de “Fred Machado”",
+     "link": "https://www.clarin.com/politica/indagan-jose-luis-espert-causa-lavado-dinero-fred-machado_0_y3x4yXbFIg.html",
      "source": "Clarín",
-     "published": "2026-07-06T19:03:30+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "09e85edb6ade"
+     "published": "2026-07-06T21:22:53+00:00",
+     "copete": "El ex diputado nacional tiene que presentarse este martes a las 10:30 horas en la justicia federal de San Isidro. La imputación sostiene que recibió 200 mil dólares de un contrato simulado con los que compró autos de alta gama y creó un…",
+     "id": "05e72be60739"
     }
    ]
   },
@@ -431,6 +447,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "5 cosas que quizás no sabías de Erling Haaland, el líder del remo vikingo que llevó a Noruega a hacer historia en el Mundial",
+     "link": "https://www.bbc.com/mundo/articles/cx2335e6e38o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-06T21:30:14+00:00",
+     "copete": "Haaland ha llevado a Noruega por primera vez a los cuartos de final de un Mundial, siendo uno de los goleadores del campeonato. Hay 5 datos que quizás no conocías del \"Androide\".",
+     "id": "d7a92f587545"
+    },
     {
      "title": "Un policía de fronteras de Israel lanza una granada aturdidora dentro de un coche con palestinos",
      "link": "https://elpais.com/videos/2026-07-06/un-policia-de-fronteras-de-israel-lanza-una-granada-aturdidora-en-el-interior-de-un-coche-con-gente-dentro.html",
@@ -480,14 +504,6 @@
      "id": "9dcc711f6631"
     },
     {
-     "title": "\"Jugamos como nunca y perdimos como siempre\": el sueño mundialista de México se acaba tras la derrota con Inglaterra",
-     "link": "https://www.bbc.com/mundo/articles/c9q22nx721vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-06T13:26:40+00:00",
-     "copete": "El tri se quedó a un gol de completar la remontada contra Inglaterra y sale de un Mundial en que hizo soñar a la hinchada.",
-     "id": "959b13cb0953"
-    },
-    {
      "title": "Un incendio calcina 4.600 hectáreas y obliga a evacuar a 10.000 personas en el sur de Francia",
      "link": "https://elpais.com/internacional/2026-07-06/un-incendio-calcina-4600-hectareas-y-obliga-a-evacuar-a-10000-personas-en-el-sur-de-francia.html",
      "source": "El País Internacional",
@@ -499,16 +515,6 @@
   }
  ],
  "_errors": [
-  {
-   "section": "oncologia",
-   "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
   {
    "section": "oncologia",
    "feed": "NEJM Oncología (PubMed)",
