@@ -1,78 +1,108 @@
 {
- "generated_at": "2026-07-06T22:07:46Z",
- "summaries": {
-  "de49c383da63": {"resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca ArdAzAei."},
-  "a48d7ab93418": {"resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca Standing Ground."},
-  "cb71d31e204d": {"resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 del diseñador Rahul Mishra."},
-  "d3695ea20380": {"resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la diseñadora Julie de Libran."},
-  "234f1b398c33": {"resumen": "Vogue México repasa la quinta edición de Vogue Fashion Talks, el ciclo de charlas donde las raíces culturales inspiran el futuro de la moda."},
-  "942f176ee5df": {"resumen": "Tres propuestas de looks veraniegos inspirados en el estilo de la cantante Dua Lipa, con tacos color café y jeans blancos."},
-  "5670536c7860": {"resumen": "Reseña de \"Te encontraré\", el thriller criminal de Netflix que engancha de principio a fin y se puede ver de un tirón."},
-  "254eb35d8022": {"resumen": "Las polleras largas color café se imponen como tendencia del verano 2026 combinadas con blusas elegantes."},
-  "908d2f9cec34": {"resumen": "La modelo y conductora Camila Homs volvió a marcar tendencia con sus looks de microbikini durante una escapada."},
-  "12407e279345": {"resumen": "El color marrón oscuro se impone en las manicuras de la temporada por estilizar las manos y combinar con cualquier look."},
-  "923b081a7fed": {"resumen": "Una selección de cinco lugares porteños para festejar el Día Mundial del Pollo Frito."},
-  "f54c05a89029": {"resumen": "Propuestas de teatro analógico para chicos durante las vacaciones de invierno en Palermo."},
-  "8d6818496e9f": {"resumen": "La cartelera teatral porteña ofrece opciones para toda la familia durante las vacaciones de invierno 2026."},
-  "2157c4de5e3e": {"resumen": "La historia de Tadeo Chaves Painefil, que pasó de cantar en coros de Bariloche a subirse al escenario del Teatro Colón."},
-  "36afc6201601": {"resumen": "Una guía de restaurantes porteños con almuerzos de menos de $36.000 para el feriado del 9 de Julio."},
-  "a31678005aed": {"resumen": "Tres propuestas gratuitas para disfrutar el fin de semana en la Ciudad de Buenos Aires."},
-  "20c73685b6ec": {"resumen": "Un repaso de los restaurantes porteños que abren sus puertas antes de las 20, al estilo europeo."},
-  "c52e41db8c02": {"resumen": "La Plata ofrece una nutrida agenda cultural para disfrutar este fin de semana."},
-  "c0a9f4a30e22": {"resumen": "Música, teatro y actividades para chicos encabezan la agenda cultural del fin de semana."},
-  "32bfb1952c4f": {
-   "resumen": "La agencia FDA (Administración de Alimentos y Medicamentos de Estados Unidos) emitió una carta de respuesta completa (CRL, Complete Response Letter) que rechaza por ahora la aprobación de Orviglance, un agente de contraste para detectar metástasis hepáticas por imágenes en pacientes con insuficiencia renal grave. Vale la pena seguirlo porque marca un traspié regulatorio para una herramienta diagnóstica pensada para pacientes que hoy tienen pocas opciones de contraste seguras.",
-   "destacado": false
-  },
-  "4a9c395df7fb": {
-   "resumen": "Artículo educativo de OncLive sobre las ventajas de la vía regulatoria 505(b)(2) de la FDA (un camino de aprobación abreviado que permite apoyarse en datos ya existentes de un producto similar) y los requisitos de evidencia \"puente\" necesarios para usarla. Interesa a quienes siguen cómo se aceleran las aprobaciones de nuevos fármacos o formulaciones oncológicas.",
-   "destacado": false
-  },
-  "c742c51e5272": {
-   "resumen": "Nota de opinión de OncLive donde especialistas discuten cómo manejar la enfermedad oncológica de alto riesgo y cómo tomar decisiones de tratamiento guiadas por biomarcadores (marcadores biológicos medibles que orientan el pronóstico o la elección terapéutica). Vale la pena mirarla porque resume el pensamiento clínico actual sobre estratificación de riesgo, aunque no presenta un estudio nuevo.",
-   "destacado": false
-  },
-  "73135b8322f5": {
-   "resumen": "Cobertura de The ASCO Post sobre un estudio que usa inteligencia artificial para analizar el microambiente tumoral (el conjunto de células, vasos e inmunidad que rodea al tumor) y así predecir qué pacientes con cánceres raros responderán a la inmunoterapia. Interesa porque los biomarcadores predictivos escasean en tumores poco frecuentes, donde faltan ensayos grandes.",
-   "destacado": false,
-   "analisis": "Diseño: Nota periodística sobre un estudio de investigación traslacional; no se detallan en el título el diseño exacto, el número de centros ni de pacientes.\nPoblación: Pacientes con cánceres raros tratados con inmunoterapia, en quienes se analizó el microambiente tumoral.\nIntervención: Herramienta de inteligencia artificial aplicada al análisis del microambiente tumoral para generar una firma predictiva de respuesta a la inmunoterapia.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una cobertura secundaria, no se puede evaluar el tamaño muestral, el diseño estadístico ni la validación externa del modelo.\nMensaje: si se confirma en cohortes más grandes, podría ayudar a seleccionar pacientes con tumores raros que se beneficiarían de inmunoterapia, un área con pocas herramientas predictivas hoy.\nNota: análisis sin acceso al abstract."
-  },
-  "2aa1b418be42": {
-   "resumen": "Cobertura de The ASCO Post sobre un estudio que evalúa cómo se comportan los modelos de predicción de riesgo de cáncer de pulmón (herramientas que estiman quién debería hacerse tomografías de tamizaje) en distintos grupos raciales y étnicos de Estados Unidos. Es relevante porque un modelo mal calibrado puede dejar afuera del tamizaje a poblaciones que sí lo necesitan.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio de investigación (probablemente cohorte o análisis comparativo de bases poblacionales); el título no especifica si es prospectivo o retrospectivo ni el número exacto de participantes.\nPoblación: Personas elegibles para tamizaje de cáncer de pulmón en Estados Unidos, estratificadas por grupo racial y étnico.\nIntervención: Comparación del desempeño (sensibilidad, calibración) de distintos modelos de predicción de riesgo entre grupos poblacionales.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede juzgar el tamaño muestral, la fuente de datos ni el ajuste por factores de confusión.\nMensaje: pone sobre la mesa la necesidad de validar y recalibrar los modelos de riesgo usados para decidir quién se tamiza, para evitar inequidades en el acceso a la detección temprana.\nNota: análisis sin acceso al abstract."
-  },
-  "724198ee9f7c": {
-   "resumen": "Cobertura de The ASCO Post de un estudio que describe qué vías moleculares activa la obesidad para favorecer la progresión del cáncer de mama. Importa porque la obesidad es un factor de riesgo modificable y entender el mecanismo podría abrir nuevos blancos terapéuticos.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio de investigación básico/traslacional; el título no aporta detalles sobre si fue en modelos animales, líneas celulares o cohortes humanas.\nPoblación: No especificada en el título; probablemente modelos experimentales de cáncer de mama asociados a obesidad.\nIntervención: Caracterización de vías moleculares alteradas por la obesidad que favorecerían la progresión tumoral.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al no confirmarse si hubo validación clínica, los hallazgos mecanísticos pueden no trasladarse directamente a la práctica.\nMensaje: aporta una pista biológica sobre el vínculo entre obesidad y cáncer de mama, pero por ahora es generadora de hipótesis más que un cambio de conducta clínica inmediato.\nNota: análisis sin acceso al abstract."
-  },
-  "0b6d7accd5f7": {
-   "resumen": "Consenso Delphi modificado impulsado por la Sociedad Europea de Tumores Neuroendocrinos (ENETS) y avalado por EANM y NANETS, que propone un marco estandarizado (versión 1.0) para evaluar la respuesta al tratamiento mediante PET (tomografía por emisión de positrones) de receptores de somatostatina en tumores neuroendocrinos. Importa porque busca unificar criterios hoy dispares para medir la respuesta con este estudio de imágenes clave en el seguimiento de estos tumores.",
-   "destacado": false,
-   "analisis": "Diseño: Consenso Delphi modificado, con participación de múltiples sociedades científicas internacionales (ENETS, EANM, NANETS); no es un ensayo clínico sino un proceso estructurado de acuerdo de expertos.\nPoblación: Pacientes con tumores neuroendocrinos evaluados mediante PET de receptores de somatostatina para valorar respuesta al tratamiento.\nIntervención: Elaboración por consenso de un marco de criterios (versión 1.0) para interpretar la respuesta en este estudio de imágenes.\nResultados: no aplica un resultado de eficacia clásico (supervivencia o respuesta objetiva); el producto del trabajo es el propio marco de criterios consensuado.\nLimitaciones: al basarse en opinión experta y no en datos de pacientes, la validación prospectiva del marco propuesto todavía está pendiente.\nMensaje: ofrece un lenguaje común para informar la respuesta por PET en tumores neuroendocrinos, lo que podría mejorar la comparabilidad entre estudios y la toma de decisiones en el seguimiento.\nNota: análisis sin acceso al abstract."
-  },
-  "324e67a5a09c": {
-   "resumen": "Análisis post-hoc (posterior y no preespecificado) del ensayo PACIFIC, que evaluó si el uso concomitante de inhibidores de la bomba de protones (fármacos para la acidez gástrica) y antibióticos afecta la eficacia de la inmunoterapia con durvalumab tras la quimiorradioterapia en cáncer de pulmón de células no pequeñas localmente avanzado. Es relevante porque estos medicamentos se usan con mucha frecuencia y podrían alterar la microbiota intestinal y, con ella, la respuesta a la inmunoterapia.",
-   "destacado": false,
-   "analisis": "Diseño: Análisis post-hoc (secundario, no preespecificado) del ensayo PACIFIC, un ensayo de fase III aleatorizado, doble ciego, multicéntrico e internacional publicado originalmente hace varios años.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas localmente avanzado (estadio III) que habían completado quimiorradioterapia y luego recibieron consolidación con durvalumab (o placebo en el ensayo original).\nIntervención: Comparación de los desenlaces según el uso concomitante de inhibidores de la bomba de protones y/o antibióticos durante el tratamiento con durvalumab, frente a quienes no los recibieron.\nResultados: no disponibles con precisión sin el abstract completo (no se cuenta con cifras de supervivencia global, supervivencia libre de progresión, razones de riesgo ni intervalos de confianza).\nLimitaciones: al ser un análisis post-hoc y no preespecificado, los hallazgos son exploratorios y pueden estar sujetos a factores de confusión (por ejemplo, comorbilidades que motivan el uso de estos fármacos).\nMensaje: si se confirma un impacto negativo, podría llevar a reconsiderar el uso rutinario de inhibidores de la bomba de protones o antibióticos en pacientes que reciben inmunoterapia de consolidación, aunque todavía no cambia la práctica por tratarse de un análisis exploratorio.\nNota: análisis sin acceso al abstract."
-  },
-  "a8f681609b74": {
-   "resumen": "Comentario editorial de The Lancet Oncology que discute el análisis post-hoc del ensayo PACIFIC sobre cómo los medicamentos concomitantes (inhibidores de la bomba de protones y antibióticos) podrían alterar la microbiota intestinal y afectar la eficacia de la inmunoterapia en cáncer de pulmón de células no pequeñas. Se lee junto al estudio principal para dimensionar sus implicancias y limitaciones.",
-   "destacado": false
-  },
-  "9e558cc78f2f": {
-   "resumen": "Resumen de la evaluación de un grupo de trabajo internacional (habitual en las monografías de la Agencia Internacional para la Investigación del Cáncer, IARC) sobre la carcinogenicidad de tres ftalatos de uso industrial: butilbencil ftalato, dibutil ftalato y diisononil ftalato, compuestos presentes en plásticos y productos de uso cotidiano. Importa por su relevancia en salud ambiental y ocupacional, más allá de la práctica clínica oncológica directa.",
-   "destacado": false
-  },
-  "3e714fb13c87": {
-   "resumen": "Estudio de JAMA Oncology que evalúa si el estado del ADN tumoral circulante (ctDNA, fragmentos de material genético del tumor detectables en sangre) después de la resección de metástasis hepáticas de cáncer colorrectal debería guiar la decisión de indicar quimioterapia adyuvante. Es un tema de alto interés clínico porque el ctDNA se perfila como herramienta para personalizar quién realmente necesita quimioterapia tras la cirugía.",
-   "destacado": true,
-   "analisis": "Diseño: Estudio de cohorte (según el título, probablemente prospectivo u observacional) que analiza la asociación entre el estado del ctDNA postquirúrgico y el beneficio de la quimioterapia adyuvante; no se cuenta con el número exacto de centros ni de pacientes sin el abstract.\nPoblación: Pacientes con metástasis hepáticas de cáncer colorrectal sometidos a resección quirúrgica completa.\nIntervención: Quimioterapia adyuvante administrada (o no) según el estado del ctDNA detectado después de la cirugía, comparando desenlaces entre ctDNA positivo y negativo.\nResultados: no disponibles con precisión sin el abstract completo (no se cuenta con cifras de supervivencia libre de recaída, razones de riesgo ni intervalos de confianza).\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto (observacional vs. aleatorizado), el tamaño muestral ni el ajuste por factores pronósticos como el número y tamaño de las metástasis.\nMensaje: si se confirma que el ctDNA identifica quién se beneficia realmente de la quimioterapia adyuvante, podría evitar tratamientos innecesarios en pacientes ctDNA-negativos de bajo riesgo y priorizar su uso en quienes tienen enfermedad residual molecular.\nNota: análisis sin acceso al abstract."
-  },
-  "90d0ff18cf0c": {
-   "resumen": "Editorial que acompaña los resultados maduros del ensayo EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer) en glioma de bajo grado, y sostiene que lo que define el pronóstico es la biología molecular del tumor y no el orden en que se dan los tratamientos. Importa porque pone en contexto clínico los resultados del estudio principal publicado esta misma semana.",
-   "destacado": false
+  "generated_at": "2026-07-07T10:08:50Z",
+  "summaries": {
+    "de49c383da63": {
+      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca ArdAzAei."
+    },
+    "a48d7ab93418": {
+      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca Standing Ground."
+    },
+    "923b081a7fed": {
+      "resumen": "Una selección de cinco lugares porteños para festejar el Día Mundial del Pollo Frito."
+    },
+    "f54c05a89029": {
+      "resumen": "Propuestas de teatro analógico para chicos durante las vacaciones de invierno en Palermo."
+    },
+    "a31678005aed": {
+      "resumen": "Tres propuestas gratuitas para disfrutar el fin de semana en la Ciudad de Buenos Aires."
+    },
+    "20c73685b6ec": {
+      "resumen": "Un repaso de los restaurantes porteños que abren sus puertas antes de las 20, al estilo europeo."
+    },
+    "c52e41db8c02": {
+      "resumen": "La Plata ofrece una nutrida agenda cultural para disfrutar este fin de semana."
+    },
+    "73135b8322f5": {
+      "resumen": "Cobertura de The ASCO Post sobre un estudio que usa inteligencia artificial para analizar el microambiente tumoral (el conjunto de células, vasos e inmunidad que rodea al tumor) y así predecir qué pacientes con cánceres raros responderán a la inmunoterapia. Interesa porque los biomarcadores predictivos escasean en tumores poco frecuentes, donde faltan ensayos grandes.",
+      "destacado": false,
+      "analisis": "Diseño: Nota periodística sobre un estudio de investigación traslacional; no se detallan en el título el diseño exacto, el número de centros ni de pacientes.\nPoblación: Pacientes con cánceres raros tratados con inmunoterapia, en quienes se analizó el microambiente tumoral.\nIntervención: Herramienta de inteligencia artificial aplicada al análisis del microambiente tumoral para generar una firma predictiva de respuesta a la inmunoterapia.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una cobertura secundaria, no se puede evaluar el tamaño muestral, el diseño estadístico ni la validación externa del modelo.\nMensaje: si se confirma en cohortes más grandes, podría ayudar a seleccionar pacientes con tumores raros que se beneficiarían de inmunoterapia, un área con pocas herramientas predictivas hoy.\nNota: análisis sin acceso al abstract."
+    },
+    "2aa1b418be42": {
+      "resumen": "Cobertura de The ASCO Post sobre un estudio que evalúa cómo se comportan los modelos de predicción de riesgo de cáncer de pulmón (herramientas que estiman quién debería hacerse tomografías de tamizaje) en distintos grupos raciales y étnicos de Estados Unidos. Es relevante porque un modelo mal calibrado puede dejar afuera del tamizaje a poblaciones que sí lo necesitan.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de investigación (probablemente cohorte o análisis comparativo de bases poblacionales); el título no especifica si es prospectivo o retrospectivo ni el número exacto de participantes.\nPoblación: Personas elegibles para tamizaje de cáncer de pulmón en Estados Unidos, estratificadas por grupo racial y étnico.\nIntervención: Comparación del desempeño (sensibilidad, calibración) de distintos modelos de predicción de riesgo entre grupos poblacionales.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede juzgar el tamaño muestral, la fuente de datos ni el ajuste por factores de confusión.\nMensaje: pone sobre la mesa la necesidad de validar y recalibrar los modelos de riesgo usados para decidir quién se tamiza, para evitar inequidades en el acceso a la detección temprana.\nNota: análisis sin acceso al abstract."
+    },
+    "724198ee9f7c": {
+      "resumen": "Cobertura de The ASCO Post de un estudio que describe qué vías moleculares activa la obesidad para favorecer la progresión del cáncer de mama. Importa porque la obesidad es un factor de riesgo modificable y entender el mecanismo podría abrir nuevos blancos terapéuticos.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de investigación básico/traslacional; el título no aporta detalles sobre si fue en modelos animales, líneas celulares o cohortes humanas.\nPoblación: No especificada en el título; probablemente modelos experimentales de cáncer de mama asociados a obesidad.\nIntervención: Caracterización de vías moleculares alteradas por la obesidad que favorecerían la progresión tumoral.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al no confirmarse si hubo validación clínica, los hallazgos mecanísticos pueden no trasladarse directamente a la práctica.\nMensaje: aporta una pista biológica sobre el vínculo entre obesidad y cáncer de mama, pero por ahora es generadora de hipótesis más que un cambio de conducta clínica inmediato.\nNota: análisis sin acceso al abstract."
+    },
+    "90d0ff18cf0c": {
+      "resumen": "Editorial que acompaña los resultados maduros del ensayo EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer) en glioma de bajo grado, y sostiene que lo que define el pronóstico es la biología molecular del tumor y no el orden en que se dan los tratamientos. Importa porque pone en contexto clínico los resultados del estudio principal publicado esta misma semana.",
+      "destacado": false
+    },
+    "9f3fc9920331": {
+      "resumen": "Nota de OncLive sobre una propuesta de terminología para expresar equivalencias entre distintas terapias con radioligandos (fármacos que combinan una molécula que reconoce al tumor con un isótopo radiactivo terapéutico). Sirve para poder comparar dosis y esquemas entre los distintos radiofármacos que se usan en oncología, un campo en pleno crecimiento.",
+      "destacado": false
+    },
+    "9cbe6c4d4ea5": {
+      "resumen": "Entrevista de OncLive a un especialista sobre los factores que diferencian a las terapias con células CAR-T (linfocitos T modificados genéticamente para atacar al tumor) generadas in vivo -directamente dentro del cuerpo del paciente- del abordaje tradicional ex vivo, aplicadas al mieloma múltiple. Interesa porque esta tecnología promete simplificar y abaratar un tratamiento hoy muy complejo.",
+      "destacado": false
+    },
+    "a9af2ec032ba": {
+      "resumen": "Otro segmento de OncLive sobre los datos disponibles de terapias CAR-T (linfocitos T modificados genéticamente) generadas in vivo para el mieloma múltiple. Complementa la entrevista previa sobre el mismo tema y sigue de cerca un área de investigación en pleno desarrollo.",
+      "destacado": false
+    },
+    "78be518e08e2": {
+      "resumen": "Ensayo clínico de fase III (POLARGO) publicado en Journal of Clinical Oncology que evalúa agregar polatuzumab vedotina (un anticuerpo conjugado a una droga citotóxica) al esquema rituximab-gemcitabina-oxaliplatino en linfoma difuso de células B grandes en recaída o refractario. Importa porque busca ampliar las opciones para pacientes que no responden a los tratamientos de primera línea.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado según indica el título; no se dispone de datos sobre cegamiento, número de centros ni tamaño muestral exacto sin el abstract completo.\nPoblación: Pacientes adultos con linfoma difuso de células B grandes en recaída o refractario a tratamiento previo.\nIntervención: Agregado de polatuzumab vedotina al esquema rituximab, gemcitabina y oxaliplatino (R-GemOx), presumiblemente comparado contra R-GemOx solo.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el poder estadístico del estudio, la duración del seguimiento ni la tasa de eventos adversos.\nMensaje: si confirma beneficio, sumaría una opción más en un escenario -linfoma difuso de células B grandes en recaída- donde las alternativas siguen siendo limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "9d75620480c6": {
+      "resumen": "Estudio de Journal of Clinical Oncology que propone un modelo de riesgo (PRISM) para estimar el pronóstico de pacientes con leucemia mieloide aguda tratados con la combinación de agentes hipometilantes más venetoclax. Es relevante porque ayudaría a anticipar qué pacientes responden mejor a este esquema, hoy muy usado en quienes no son aptos para quimioterapia intensiva.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de desarrollo y validación de un modelo pronóstico, probablemente sobre una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con leucemia mieloide aguda tratados con agentes hipometilantes combinados con venetoclax (inhibidor de BCL-2).\nIntervención: No es una intervención terapéutica sino la construcción de un modelo de estratificación de riesgo (PRISM) a partir de variables clínicas y biológicas.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede juzgar la validación externa del modelo, su poder discriminativo (estadístico C) ni el riesgo de sobreajuste.\nMensaje: de validarse, un modelo así permitiría individualizar mejor el pronóstico y las decisiones terapéuticas en pacientes con leucemia mieloide aguda no candidatos a quimioterapia intensiva.\nNota: análisis sin acceso al abstract."
+    },
+    "32bc83334429": {
+      "resumen": "Resultados maduros del ensayo de fase III EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer), publicado en Journal of Clinical Oncology, que comparó temozolomida (quimioterapia oral) contra radioterapia como primera línea de tratamiento en gliomas de bajo grado. Es un estudio clave porque define, con seguimiento a largo plazo, qué estrategia inicial ofrece mejores resultados en este tumor cerebral de crecimiento lento.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y multicéntrico (EORTC 22033-26033, con participación de NCIC-CTG, TROG y MRC-CTU), con resultados de seguimiento a largo plazo (\"mature results\"); el título no detalla el número exacto de pacientes ni el cegamiento.\nPoblación: Pacientes con glioma de bajo grado (tumor cerebral primario de crecimiento lento) sin tratamiento previo.\nIntervención: Temozolomida (quimioterapia oral) como primera línea, comparada contra radioterapia sola.\nResultados: no disponibles sin el abstract completo, aunque el título indica que se trata de un análisis de seguimiento maduro (largo plazo) del ensayo original.\nLimitaciones: sin el abstract no se puede precisar el tiempo de seguimiento exacto, la tasa de eventos ni si hubo cruce de tratamientos entre los brazos.\nMensaje: este tipo de resultados maduros son los que terminan definiendo si conviene arrancar con quimioterapia oral o con radioterapia en glioma de bajo grado, una decisión con impacto en la calidad de vida a largo plazo de pacientes jóvenes.\nNota: análisis sin acceso al abstract."
+    },
+    "95c9fc394150": {
+      "resumen": "Vogue presenta la colección Resort 2027 de la diseñadora Magda Butrym."
+    },
+    "6b3d0a869285": {
+      "resumen": "Vogue México propone los tenis color café como calzado clásico y elegante para combinar con jeans, faldas y vestidos este verano."
+    },
+    "ae1c1b9fca5f": {
+      "resumen": "Vogue México destaca los zapatos de tacón con moños y flores como la tendencia más elegante de la temporada de Alta Costura Otoño-Invierno 2026."
+    },
+    "cdc3653804ff": {
+      "resumen": "Una guía de planes -entre teatro, shows y muestras de dinosaurios- para disfrutar Buenos Aires durante las vacaciones de invierno."
+    },
+    "b1992f380d31": {
+      "resumen": "La concordiense Fiamma Ferrari se destacó sobre el escenario del Teatro San Martín porteño, orgullo de su ciudad natal."
+    },
+    "302478f9e0cc": {
+      "resumen": "Un repaso por los destinos más elegidos por los argentinos para el fin de semana largo de julio."
+    },
+    "83dd25318315": {
+      "resumen": "Vogue presenta la colección Resort 2027 de la maison francesa Chloé."
+    },
+    "ed6ca309f2a5": {
+      "resumen": "La Razón repasa las tres tendencias que Jonathan Anderson impuso en la colección de Alta Costura de Dior y que pronto se verán fuera de la pasarela."
+    },
+    "32cc62290c73": {
+      "resumen": "Harper's Bazaar elige los cuatro pares de bailarinas que se imponen este verano, de las transparentes a las destalonadas."
+    },
+    "92997ec7e46c": {
+      "resumen": "Especialistas de moda de Telva cuentan cuál es la primera prenda que nunca falta en su valija de verano."
+    },
+    "a1faed9ebc7b": {
+      "resumen": "El furor por la Selección de Colombia impulsa el auge del estilo blokecore entre los hinchas."
+    },
+    "13a7d087c888": {
+      "resumen": "Buenos Aires suma nuevos restaurantes a su lista de íconos gastronómicos: cómo se eligen y cuáles son los 16 que ya integran el listado."
+    }
   }
- }
 }
