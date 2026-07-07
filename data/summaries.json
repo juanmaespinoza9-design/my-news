@@ -1,62 +1,43 @@
 {
-  "generated_at": "2026-07-07T10:08:50Z",
+  "generated_at": "2026-07-07T22:06:24Z",
   "summaries": {
-    "de49c383da63": {
-      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca ArdAzAei."
-    },
-    "a48d7ab93418": {
-      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca Standing Ground."
-    },
-    "923b081a7fed": {
-      "resumen": "Una selección de cinco lugares porteños para festejar el Día Mundial del Pollo Frito."
-    },
-    "f54c05a89029": {
-      "resumen": "Propuestas de teatro analógico para chicos durante las vacaciones de invierno en Palermo."
-    },
-    "a31678005aed": {
-      "resumen": "Tres propuestas gratuitas para disfrutar el fin de semana en la Ciudad de Buenos Aires."
-    },
-    "20c73685b6ec": {
-      "resumen": "Un repaso de los restaurantes porteños que abren sus puertas antes de las 20, al estilo europeo."
-    },
-    "c52e41db8c02": {
-      "resumen": "La Plata ofrece una nutrida agenda cultural para disfrutar este fin de semana."
-    },
-    "73135b8322f5": {
-      "resumen": "Cobertura de The ASCO Post sobre un estudio que usa inteligencia artificial para analizar el microambiente tumoral (el conjunto de células, vasos e inmunidad que rodea al tumor) y así predecir qué pacientes con cánceres raros responderán a la inmunoterapia. Interesa porque los biomarcadores predictivos escasean en tumores poco frecuentes, donde faltan ensayos grandes.",
+    "221a8245effd": {
+      "resumen": "Cobertura de OncLive sobre un análisis que vincula la duración extendida del esquema FOLFOX (fluorouracilo, leucovorina y oxaliplatino) combinado con atezolizumab (un anticuerpo que bloquea la proteína PD-L1, usado en inmunoterapia) con una mejor supervivencia libre de enfermedad en cáncer de colon estadio III con deficiencia de reparación de errores de apareamiento (dMMR). Interesa porque el dMMR es el biomarcador que mejor predice respuesta a la inmunoterapia adyuvante en este tumor.",
       "destacado": false,
-      "analisis": "Diseño: Nota periodística sobre un estudio de investigación traslacional; no se detallan en el título el diseño exacto, el número de centros ni de pacientes.\nPoblación: Pacientes con cánceres raros tratados con inmunoterapia, en quienes se analizó el microambiente tumoral.\nIntervención: Herramienta de inteligencia artificial aplicada al análisis del microambiente tumoral para generar una firma predictiva de respuesta a la inmunoterapia.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una cobertura secundaria, no se puede evaluar el tamaño muestral, el diseño estadístico ni la validación externa del modelo.\nMensaje: si se confirma en cohortes más grandes, podría ayudar a seleccionar pacientes con tumores raros que se beneficiarían de inmunoterapia, un área con pocas herramientas predictivas hoy.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente del ensayo ATOMIC o similar) que vincula la duración del tratamiento con atezolizumab y FOLFOX extendido con la supervivencia libre de enfermedad; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de colon estadio III con deficiencia de reparación de errores de apareamiento (dMMR), tratados en el escenario adyuvante.\nIntervención: FOLFOX (fluorouracilo, leucovorina y oxaliplatino) de duración extendida combinado con atezolizumab (inhibidor de PD-L1), comparando distintas duraciones de tratamiento.\nResultados: no disponibles sin el abstract completo, aunque el título indica una asociación positiva entre mayor duración de tratamiento y mejor supervivencia libre de enfermedad.\nLimitaciones: sin el abstract no se puede precisar si el análisis es preespecificado o exploratorio, ni evaluar el balance de toxicidad acumulada con esquemas más prolongados.\nMensaje: si se confirma, respaldaría mantener esquemas de duración extendida con inmunoterapia adyuvante en este subgrupo molecular, aunque haría falta sopesar la carga de toxicidad adicional.\nNota: análisis sin acceso al abstract."
     },
-    "2aa1b418be42": {
-      "resumen": "Cobertura de The ASCO Post sobre un estudio que evalúa cómo se comportan los modelos de predicción de riesgo de cáncer de pulmón (herramientas que estiman quién debería hacerse tomografías de tamizaje) en distintos grupos raciales y étnicos de Estados Unidos. Es relevante porque un modelo mal calibrado puede dejar afuera del tamizaje a poblaciones que sí lo necesitan.",
+    "39dce3c71428": {
+      "resumen": "Nota de OncLive sobre bexobrutideg, uno de los primeros degradadores de BTK (una proteína clave en la señalización de los linfocitos B) en desarrollo para la leucemia linfocítica crónica en recaída o refractaria. Interesa porque estos fármacos buscan superar la resistencia a los inhibidores de BTK tradicionales como ibrutinib.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de investigación (probablemente cohorte o análisis comparativo de bases poblacionales); el título no especifica si es prospectivo o retrospectivo ni el número exacto de participantes.\nPoblación: Personas elegibles para tamizaje de cáncer de pulmón en Estados Unidos, estratificadas por grupo racial y étnico.\nIntervención: Comparación del desempeño (sensibilidad, calibración) de distintos modelos de predicción de riesgo entre grupos poblacionales.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede juzgar el tamaño muestral, la fuente de datos ni el ajuste por factores de confusión.\nMensaje: pone sobre la mesa la necesidad de validar y recalibrar los modelos de riesgo usados para decidir quién se tamiza, para evitar inequidades en el acceso a la detección temprana.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Cobertura de OncLive sobre datos clínicos tempranos (probablemente de un ensayo de fase I/II) de bexobrutideg, un degradador de la tirosina quinasa de Bruton (BTK); el título no precisa fase, aleatorización ni número de pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica en recaída o refractaria a tratamientos previos, incluidos probablemente los inhibidores de BTK convencionales.\nIntervención: Bexobrutideg, un degradador de proteínas dirigido a BTK, a diferencia de los inhibidores clásicos que solo bloquean la enzima.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al tratarse de datos tempranos, no se puede evaluar la durabilidad de la respuesta ni el perfil de seguridad a largo plazo.\nMensaje: si los degradadores de BTK confirman actividad en pacientes resistentes a los inhibidores actuales, podrían abrir una nueva vía terapéutica para la leucemia linfocítica crónica refractaria.\nNota: análisis sin acceso al abstract."
     },
-    "724198ee9f7c": {
-      "resumen": "Cobertura de The ASCO Post de un estudio que describe qué vías moleculares activa la obesidad para favorecer la progresión del cáncer de mama. Importa porque la obesidad es un factor de riesgo modificable y entender el mecanismo podría abrir nuevos blancos terapéuticos.",
+    "d2de62faa138": {
+      "resumen": "Segmento de OncLive que repasa la seguridad, la tolerabilidad y el mecanismo de acción de duvelisib, un inhibidor oral de la enzima PI3K (fosfoinositol 3-quinasa) usado en linfomas y leucemia linfocítica crónica. Funciona como actualización general sobre un fármaco ya aprobado, más que como reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "2da334b235f7": {
+      "resumen": "The ASCO Post reporta actividad antitumoral duradera de zenocutuzumab, un anticuerpo biespecífico dirigido contra los receptores HER2 y HER3, en colangiocarcinoma (cáncer de las vías biliares) con fusión del gen NRG1. Interesa porque las fusiones de NRG1 son un blanco molecular raro pero accionable para el que hasta ahora había pocas opciones dirigidas.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de investigación básico/traslacional; el título no aporta detalles sobre si fue en modelos animales, líneas celulares o cohortes humanas.\nPoblación: No especificada en el título; probablemente modelos experimentales de cáncer de mama asociados a obesidad.\nIntervención: Caracterización de vías moleculares alteradas por la obesidad que favorecerían la progresión tumoral.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al no confirmarse si hubo validación clínica, los hallazgos mecanísticos pueden no trasladarse directamente a la práctica.\nMensaje: aporta una pista biológica sobre el vínculo entre obesidad y cáncer de mama, pero por ahora es generadora de hipótesis más que un cambio de conducta clínica inmediato.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Cobertura de resultados de un estudio clínico (probablemente el ensayo eNRGy, de fase I/II abierto y multicéntrico) sobre zenocutuzumab en tumores con fusión de NRG1; el título no detalla aleatorización, cegamiento ni número exacto de pacientes.\nPoblación: Pacientes con colangiocarcinoma (cáncer de las vías biliares) positivo para fusión del gen NRG1, un subtipo molecular poco frecuente.\nIntervención: Zenocutuzumab, anticuerpo biespecífico que se une a los receptores HER2 y HER3 y bloquea la señalización activada por la proteína de fusión NRG1.\nResultados: no disponibles sin el abstract completo, aunque el título reporta actividad antitumoral duradera.\nLimitaciones: sin el abstract no se puede conocer la tasa de respuesta objetiva, la duración exacta de la respuesta ni el tamaño de la cohorte con colangiocarcinoma dentro del estudio.\nMensaje: sumaría evidencia a favor de testear la fusión de NRG1 en colangiocarcinoma, hoy un subgrupo con opciones terapéuticas dirigidas muy limitadas.\nNota: análisis sin acceso al abstract."
     },
-    "90d0ff18cf0c": {
-      "resumen": "Editorial que acompaña los resultados maduros del ensayo EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer) en glioma de bajo grado, y sostiene que lo que define el pronóstico es la biología molecular del tumor y no el orden en que se dan los tratamientos. Importa porque pone en contexto clínico los resultados del estudio principal publicado esta misma semana.",
-      "destacado": false
+    "29f367b27673": {
+      "resumen": "The ASCO Post presenta un estudio que muestra que las inequidades en el acceso al tamizaje de cáncer persisten entre las poblaciones de minorías de orientación sexual e identidad de género. Es relevante porque identificar estas brechas es el primer paso para diseñar estrategias de detección temprana más equitativas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio (probablemente una encuesta poblacional o análisis de bases de datos de salud) sobre disparidades en tamizaje de cáncer; el título no especifica la fuente de datos, el diseño exacto ni el tamaño de la muestra.\nPoblación: Personas pertenecientes a minorías de orientación sexual e identidad de género, comparadas con la población general en el acceso a estudios de tamizaje de cáncer.\nIntervención: No aplica una intervención terapéutica; se trata de un análisis comparativo de tasas de tamizaje (por ejemplo, de cáncer de mama, cuello uterino o colon) entre grupos poblacionales.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el ajuste por factores socioeconómicos ni la representatividad de la muestra.\nMensaje: refuerza la necesidad de estrategias de salud pública específicas para cerrar la brecha de acceso al tamizaje oncológico en poblaciones de minorías sexuales y de género.\nNota: análisis sin acceso al abstract."
     },
-    "9f3fc9920331": {
-      "resumen": "Nota de OncLive sobre una propuesta de terminología para expresar equivalencias entre distintas terapias con radioligandos (fármacos que combinan una molécula que reconoce al tumor con un isótopo radiactivo terapéutico). Sirve para poder comparar dosis y esquemas entre los distintos radiofármacos que se usan en oncología, un campo en pleno crecimiento.",
-      "destacado": false
-    },
-    "9cbe6c4d4ea5": {
-      "resumen": "Entrevista de OncLive a un especialista sobre los factores que diferencian a las terapias con células CAR-T (linfocitos T modificados genéticamente para atacar al tumor) generadas in vivo -directamente dentro del cuerpo del paciente- del abordaje tradicional ex vivo, aplicadas al mieloma múltiple. Interesa porque esta tecnología promete simplificar y abaratar un tratamiento hoy muy complejo.",
-      "destacado": false
-    },
-    "a9af2ec032ba": {
-      "resumen": "Otro segmento de OncLive sobre los datos disponibles de terapias CAR-T (linfocitos T modificados genéticamente) generadas in vivo para el mieloma múltiple. Complementa la entrevista previa sobre el mismo tema y sigue de cerca un área de investigación en pleno desarrollo.",
-      "destacado": false
+    "3a7038372b9d": {
+      "resumen": "The ASCO Post cubre investigación preliminar sobre cómo el hígado graso (esteatosis hepática) podría favorecer el desarrollo de metástasis hepáticas en pacientes con cáncer colorrectal. Interesa porque el hígado graso es una condición cada vez más frecuente y podría modificar el pronóstico de estos pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Investigación preliminar o exploratoria (el título usa \"early research\"), probablemente en modelos animales o cohortes pequeñas; no se especifica en el título el diseño exacto ni el número de pacientes o modelos.\nPoblación: Pacientes con cáncer colorrectal, con foco en aquellos con enfermedad hepática grasa (esteatosis hepática) concomitante.\nIntervención: No es una intervención terapéutica; se explora la asociación biológica entre el hígado graso y el desarrollo o progresión de metástasis hepáticas.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al tratarse de investigación temprana, los hallazgos podrían no confirmarse en cohortes clínicas más grandes ni traducirse en cambios de manejo inmediatos.\nMensaje: abre una hipótesis interesante sobre el rol del hígado graso en la biología metastásica del cáncer colorrectal, a seguir de cerca en estudios futuros.\nNota: análisis sin acceso al abstract."
     },
     "78be518e08e2": {
       "resumen": "Ensayo clínico de fase III (POLARGO) publicado en Journal of Clinical Oncology que evalúa agregar polatuzumab vedotina (un anticuerpo conjugado a una droga citotóxica) al esquema rituximab-gemcitabina-oxaliplatino en linfoma difuso de células B grandes en recaída o refractario. Importa porque busca ampliar las opciones para pacientes que no responden a los tratamientos de primera línea.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado según indica el título; no se dispone de datos sobre cegamiento, número de centros ni tamaño muestral exacto sin el abstract completo.\nPoblación: Pacientes adultos con linfoma difuso de células B grandes en recaída o refractario a tratamiento previo.\nIntervención: Agregado de polatuzumab vedotina al esquema rituximab, gemcitabina y oxaliplatino (R-GemOx), presumiblemente comparado contra R-GemOx solo.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el poder estadístico del estudio, la duración del seguimiento ni la tasa de eventos adversos.\nMensaje: si confirma beneficio, sumaría una opción más en un escenario -linfoma difuso de células B grandes en recaída- donde las alternativas siguen siendo limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "90d0ff18cf0c": {
+      "resumen": "Editorial que acompaña los resultados maduros del ensayo EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer) en glioma de bajo grado, y sostiene que lo que define el pronóstico es la biología molecular del tumor y no el orden en que se dan los tratamientos. Importa porque pone en contexto clínico los resultados del estudio principal publicado esta misma semana.",
+      "destacado": false
     },
     "9d75620480c6": {
       "resumen": "Estudio de Journal of Clinical Oncology que propone un modelo de riesgo (PRISM) para estimar el pronóstico de pacientes con leucemia mieloide aguda tratados con la combinación de agentes hipometilantes más venetoclax. Es relevante porque ayudaría a anticipar qué pacientes responden mejor a este esquema, hoy muy usado en quienes no son aptos para quimioterapia intensiva.",
@@ -68,14 +49,50 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y multicéntrico (EORTC 22033-26033, con participación de NCIC-CTG, TROG y MRC-CTU), con resultados de seguimiento a largo plazo (\"mature results\"); el título no detalla el número exacto de pacientes ni el cegamiento.\nPoblación: Pacientes con glioma de bajo grado (tumor cerebral primario de crecimiento lento) sin tratamiento previo.\nIntervención: Temozolomida (quimioterapia oral) como primera línea, comparada contra radioterapia sola.\nResultados: no disponibles sin el abstract completo, aunque el título indica que se trata de un análisis de seguimiento maduro (largo plazo) del ensayo original.\nLimitaciones: sin el abstract no se puede precisar el tiempo de seguimiento exacto, la tasa de eventos ni si hubo cruce de tratamientos entre los brazos.\nMensaje: este tipo de resultados maduros son los que terminan definiendo si conviene arrancar con quimioterapia oral o con radioterapia en glioma de bajo grado, una decisión con impacto en la calidad de vida a largo plazo de pacientes jóvenes.\nNota: análisis sin acceso al abstract."
     },
-    "95c9fc394150": {
-      "resumen": "Vogue presenta la colección Resort 2027 de la diseñadora Magda Butrym."
+    "d3325804a684": {
+      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca saudita Ashi Studio."
     },
-    "6b3d0a869285": {
-      "resumen": "Vogue México propone los tenis color café como calzado clásico y elegante para combinar con jeans, faldas y vestidos este verano."
+    "96077e18be5d": {
+      "resumen": "Vogue repasa la colección de moda masculina Otoño 2026 de la marca japonesa N.Hoolywood, presentada bajo su línea Test Product Exchange Service."
     },
-    "ae1c1b9fca5f": {
-      "resumen": "Vogue México destaca los zapatos de tacón con moños y flores como la tendencia más elegante de la temporada de Alta Costura Otoño-Invierno 2026."
+    "48fb15208e45": {
+      "resumen": "Vogue presenta la colección Resort 2027 del diseñador italiano Giuseppe Di Morabito."
+    },
+    "28dcec01c5c8": {
+      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 de Armani Privé, la línea de costura de Giorgio Armani."
+    },
+    "2179f827448a": {
+      "resumen": "La actriz Zendaya lució un vestido escultórico y zapatos aperlados en el estreno londinense de La Odisea, marcando -según Vogue México- un nuevo hito en su historial de looks."
+    },
+    "9484b8be87bb": {
+      "resumen": "Vogue España ofrece una guía paso a paso para hacerse la pedicura en casa."
+    },
+    "c402c7da24ec": {
+      "resumen": "Jennifer Lopez combinó un vestido blanco con sandalias jelly de tacón, instalando esta tendencia como una de las apuestas del verano 2026 según Vogue México."
+    },
+    "5061f113588b": {
+      "resumen": "Especialistas en manicura consultadas por Telva coinciden en seis tendencias de diseño de uñas para este verano."
+    },
+    "e8dd5e403530": {
+      "resumen": "El Litoral señala que los anteojos de estilo Y2K, inspirados en la estética del año 2000, se consolidan como el accesorio favorito de las fashionistas en 2026."
+    },
+    "071736ccbf6d": {
+      "resumen": "Marta Ortega, presidenta de Inditex, reflexiona sobre cómo las tendencias de moda son pasajeras mientras que el vínculo con las personas perdura, según declaraciones recogidas por ABC."
+    },
+    "52b03e1ae8e0": {
+      "resumen": "La Nación repasa los 16 Restaurantes Icónicos de Buenos Aires y la historia detrás de cada uno."
+    },
+    "89bd644f0544": {
+      "resumen": "Página|12 propone una agenda de actividades vinculadas a la cultura LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "07a422bed79f": {
+      "resumen": "El Instituto Cultural bonaerense celebrará el Día de la Independencia con un concierto en el Teatro Argentino de La Plata."
+    },
+    "13a7d087c888": {
+      "resumen": "Buenos Aires suma nuevos restaurantes a su lista de íconos gastronómicos: cómo se eligen y cuáles son los 16 que ya integran el listado."
+    },
+    "b5cd1ea2fef9": {
+      "resumen": "Diario Puerto Varas anuncia la llegada de la obra porteña Reversible al Teatro Municipal Diego Rivera."
     },
     "cdc3653804ff": {
       "resumen": "Una guía de planes -entre teatro, shows y muestras de dinosaurios- para disfrutar Buenos Aires durante las vacaciones de invierno."
@@ -86,23 +103,11 @@
     "302478f9e0cc": {
       "resumen": "Un repaso por los destinos más elegidos por los argentinos para el fin de semana largo de julio."
     },
-    "83dd25318315": {
-      "resumen": "Vogue presenta la colección Resort 2027 de la maison francesa Chloé."
+    "923b081a7fed": {
+      "resumen": "Una selección de cinco lugares porteños para festejar el Día Mundial del Pollo Frito."
     },
-    "ed6ca309f2a5": {
-      "resumen": "La Razón repasa las tres tendencias que Jonathan Anderson impuso en la colección de Alta Costura de Dior y que pronto se verán fuera de la pasarela."
-    },
-    "32cc62290c73": {
-      "resumen": "Harper's Bazaar elige los cuatro pares de bailarinas que se imponen este verano, de las transparentes a las destalonadas."
-    },
-    "92997ec7e46c": {
-      "resumen": "Especialistas de moda de Telva cuentan cuál es la primera prenda que nunca falta en su valija de verano."
-    },
-    "a1faed9ebc7b": {
-      "resumen": "El furor por la Selección de Colombia impulsa el auge del estilo blokecore entre los hinchas."
-    },
-    "13a7d087c888": {
-      "resumen": "Buenos Aires suma nuevos restaurantes a su lista de íconos gastronómicos: cómo se eligen y cuáles son los 16 que ya integran el listado."
+    "a31678005aed": {
+      "resumen": "Tres propuestas gratuitas para disfrutar el fin de semana en la Ciudad de Buenos Aires."
     }
   }
 }
