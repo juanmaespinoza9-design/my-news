@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-07-07T22:06:24Z",
+  "generated_at": "2026-07-08T10:10:00Z",
   "summaries": {
     "221a8245effd": {
       "resumen": "Cobertura de OncLive sobre un análisis que vincula la duración extendida del esquema FOLFOX (fluorouracilo, leucovorina y oxaliplatino) combinado con atezolizumab (un anticuerpo que bloquea la proteína PD-L1, usado en inmunoterapia) con una mejor supervivencia libre de enfermedad en cáncer de colon estadio III con deficiencia de reparación de errores de apareamiento (dMMR). Interesa porque el dMMR es el biomarcador que mejor predice respuesta a la inmunoterapia adyuvante en este tumor.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente del ensayo ATOMIC o similar) que vincula la duración del tratamiento con atezolizumab y FOLFOX extendido con la supervivencia libre de enfermedad; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de colon estadio III con deficiencia de reparación de errores de apareamiento (dMMR), tratados en el escenario adyuvante.\nIntervención: FOLFOX (fluorouracilo, leucovorina y oxaliplatino) de duración extendida combinado con atezolizumab (inhibidor de PD-L1), comparando distintas duraciones de tratamiento.\nResultados: no disponibles sin el abstract completo, aunque el título indica una asociación positiva entre mayor duración de tratamiento y mejor supervivencia libre de enfermedad.\nLimitaciones: sin el abstract no se puede precisar si el análisis es preespecificado o exploratorio, ni evaluar el balance de toxicidad acumulada con esquemas más prolongados.\nMensaje: si se confirma, respaldaría mantener esquemas de duración extendida con inmunoterapia adyuvante en este subgrupo molecular, aunque haría falta sopesar la carga de toxicidad adicional.\nNota: análisis sin acceso al abstract."
-    },
-    "39dce3c71428": {
-      "resumen": "Nota de OncLive sobre bexobrutideg, uno de los primeros degradadores de BTK (una proteína clave en la señalización de los linfocitos B) en desarrollo para la leucemia linfocítica crónica en recaída o refractaria. Interesa porque estos fármacos buscan superar la resistencia a los inhibidores de BTK tradicionales como ibrutinib.",
-      "destacado": false,
-      "analisis": "Diseño: Cobertura de OncLive sobre datos clínicos tempranos (probablemente de un ensayo de fase I/II) de bexobrutideg, un degradador de la tirosina quinasa de Bruton (BTK); el título no precisa fase, aleatorización ni número de pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica en recaída o refractaria a tratamientos previos, incluidos probablemente los inhibidores de BTK convencionales.\nIntervención: Bexobrutideg, un degradador de proteínas dirigido a BTK, a diferencia de los inhibidores clásicos que solo bloquean la enzima.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al tratarse de datos tempranos, no se puede evaluar la durabilidad de la respuesta ni el perfil de seguridad a largo plazo.\nMensaje: si los degradadores de BTK confirman actividad en pacientes resistentes a los inhibidores actuales, podrían abrir una nueva vía terapéutica para la leucemia linfocítica crónica refractaria.\nNota: análisis sin acceso al abstract."
-    },
-    "d2de62faa138": {
-      "resumen": "Segmento de OncLive que repasa la seguridad, la tolerabilidad y el mecanismo de acción de duvelisib, un inhibidor oral de la enzima PI3K (fosfoinositol 3-quinasa) usado en linfomas y leucemia linfocítica crónica. Funciona como actualización general sobre un fármaco ya aprobado, más que como reporte de un estudio nuevo.",
-      "destacado": false
     },
     "2da334b235f7": {
       "resumen": "The ASCO Post reporta actividad antitumoral duradera de zenocutuzumab, un anticuerpo biespecífico dirigido contra los receptores HER2 y HER3, en colangiocarcinoma (cáncer de las vías biliares) con fusión del gen NRG1. Interesa porque las fusiones de NRG1 son un blanco molecular raro pero accionable para el que hasta ahora había pocas opciones dirigidas.",
@@ -30,25 +21,6 @@
       "destacado": false,
       "analisis": "Diseño: Investigación preliminar o exploratoria (el título usa \"early research\"), probablemente en modelos animales o cohortes pequeñas; no se especifica en el título el diseño exacto ni el número de pacientes o modelos.\nPoblación: Pacientes con cáncer colorrectal, con foco en aquellos con enfermedad hepática grasa (esteatosis hepática) concomitante.\nIntervención: No es una intervención terapéutica; se explora la asociación biológica entre el hígado graso y el desarrollo o progresión de metástasis hepáticas.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al tratarse de investigación temprana, los hallazgos podrían no confirmarse en cohortes clínicas más grandes ni traducirse en cambios de manejo inmediatos.\nMensaje: abre una hipótesis interesante sobre el rol del hígado graso en la biología metastásica del cáncer colorrectal, a seguir de cerca en estudios futuros.\nNota: análisis sin acceso al abstract."
     },
-    "78be518e08e2": {
-      "resumen": "Ensayo clínico de fase III (POLARGO) publicado en Journal of Clinical Oncology que evalúa agregar polatuzumab vedotina (un anticuerpo conjugado a una droga citotóxica) al esquema rituximab-gemcitabina-oxaliplatino en linfoma difuso de células B grandes en recaída o refractario. Importa porque busca ampliar las opciones para pacientes que no responden a los tratamientos de primera línea.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado según indica el título; no se dispone de datos sobre cegamiento, número de centros ni tamaño muestral exacto sin el abstract completo.\nPoblación: Pacientes adultos con linfoma difuso de células B grandes en recaída o refractario a tratamiento previo.\nIntervención: Agregado de polatuzumab vedotina al esquema rituximab, gemcitabina y oxaliplatino (R-GemOx), presumiblemente comparado contra R-GemOx solo.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el poder estadístico del estudio, la duración del seguimiento ni la tasa de eventos adversos.\nMensaje: si confirma beneficio, sumaría una opción más en un escenario -linfoma difuso de células B grandes en recaída- donde las alternativas siguen siendo limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "90d0ff18cf0c": {
-      "resumen": "Editorial que acompaña los resultados maduros del ensayo EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer) en glioma de bajo grado, y sostiene que lo que define el pronóstico es la biología molecular del tumor y no el orden en que se dan los tratamientos. Importa porque pone en contexto clínico los resultados del estudio principal publicado esta misma semana.",
-      "destacado": false
-    },
-    "9d75620480c6": {
-      "resumen": "Estudio de Journal of Clinical Oncology que propone un modelo de riesgo (PRISM) para estimar el pronóstico de pacientes con leucemia mieloide aguda tratados con la combinación de agentes hipometilantes más venetoclax. Es relevante porque ayudaría a anticipar qué pacientes responden mejor a este esquema, hoy muy usado en quienes no son aptos para quimioterapia intensiva.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de desarrollo y validación de un modelo pronóstico, probablemente sobre una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con leucemia mieloide aguda tratados con agentes hipometilantes combinados con venetoclax (inhibidor de BCL-2).\nIntervención: No es una intervención terapéutica sino la construcción de un modelo de estratificación de riesgo (PRISM) a partir de variables clínicas y biológicas.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede juzgar la validación externa del modelo, su poder discriminativo (estadístico C) ni el riesgo de sobreajuste.\nMensaje: de validarse, un modelo así permitiría individualizar mejor el pronóstico y las decisiones terapéuticas en pacientes con leucemia mieloide aguda no candidatos a quimioterapia intensiva.\nNota: análisis sin acceso al abstract."
-    },
-    "32bc83334429": {
-      "resumen": "Resultados maduros del ensayo de fase III EORTC 22033-26033 (Organización Europea para la Investigación y el Tratamiento del Cáncer), publicado en Journal of Clinical Oncology, que comparó temozolomida (quimioterapia oral) contra radioterapia como primera línea de tratamiento en gliomas de bajo grado. Es un estudio clave porque define, con seguimiento a largo plazo, qué estrategia inicial ofrece mejores resultados en este tumor cerebral de crecimiento lento.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y multicéntrico (EORTC 22033-26033, con participación de NCIC-CTG, TROG y MRC-CTU), con resultados de seguimiento a largo plazo (\"mature results\"); el título no detalla el número exacto de pacientes ni el cegamiento.\nPoblación: Pacientes con glioma de bajo grado (tumor cerebral primario de crecimiento lento) sin tratamiento previo.\nIntervención: Temozolomida (quimioterapia oral) como primera línea, comparada contra radioterapia sola.\nResultados: no disponibles sin el abstract completo, aunque el título indica que se trata de un análisis de seguimiento maduro (largo plazo) del ensayo original.\nLimitaciones: sin el abstract no se puede precisar el tiempo de seguimiento exacto, la tasa de eventos ni si hubo cruce de tratamientos entre los brazos.\nMensaje: este tipo de resultados maduros son los que terminan definiendo si conviene arrancar con quimioterapia oral o con radioterapia en glioma de bajo grado, una decisión con impacto en la calidad de vida a largo plazo de pacientes jóvenes.\nNota: análisis sin acceso al abstract."
-    },
     "d3325804a684": {
       "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca saudita Ashi Studio."
     },
@@ -60,24 +32,6 @@
     },
     "28dcec01c5c8": {
       "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 de Armani Privé, la línea de costura de Giorgio Armani."
-    },
-    "2179f827448a": {
-      "resumen": "La actriz Zendaya lució un vestido escultórico y zapatos aperlados en el estreno londinense de La Odisea, marcando -según Vogue México- un nuevo hito en su historial de looks."
-    },
-    "9484b8be87bb": {
-      "resumen": "Vogue España ofrece una guía paso a paso para hacerse la pedicura en casa."
-    },
-    "c402c7da24ec": {
-      "resumen": "Jennifer Lopez combinó un vestido blanco con sandalias jelly de tacón, instalando esta tendencia como una de las apuestas del verano 2026 según Vogue México."
-    },
-    "5061f113588b": {
-      "resumen": "Especialistas en manicura consultadas por Telva coinciden en seis tendencias de diseño de uñas para este verano."
-    },
-    "e8dd5e403530": {
-      "resumen": "El Litoral señala que los anteojos de estilo Y2K, inspirados en la estética del año 2000, se consolidan como el accesorio favorito de las fashionistas en 2026."
-    },
-    "071736ccbf6d": {
-      "resumen": "Marta Ortega, presidenta de Inditex, reflexiona sobre cómo las tendencias de moda son pasajeras mientras que el vínculo con las personas perdura, según declaraciones recogidas por ABC."
     },
     "52b03e1ae8e0": {
       "resumen": "La Nación repasa los 16 Restaurantes Icónicos de Buenos Aires y la historia detrás de cada uno."
@@ -91,23 +45,71 @@
     "13a7d087c888": {
       "resumen": "Buenos Aires suma nuevos restaurantes a su lista de íconos gastronómicos: cómo se eligen y cuáles son los 16 que ya integran el listado."
     },
-    "b5cd1ea2fef9": {
-      "resumen": "Diario Puerto Varas anuncia la llegada de la obra porteña Reversible al Teatro Municipal Diego Rivera."
-    },
     "cdc3653804ff": {
       "resumen": "Una guía de planes -entre teatro, shows y muestras de dinosaurios- para disfrutar Buenos Aires durante las vacaciones de invierno."
     },
-    "b1992f380d31": {
-      "resumen": "La concordiense Fiamma Ferrari se destacó sobre el escenario del Teatro San Martín porteño, orgullo de su ciudad natal."
-    },
-    "302478f9e0cc": {
-      "resumen": "Un repaso por los destinos más elegidos por los argentinos para el fin de semana largo de julio."
-    },
-    "923b081a7fed": {
-      "resumen": "Una selección de cinco lugares porteños para festejar el Día Mundial del Pollo Frito."
-    },
     "a31678005aed": {
       "resumen": "Tres propuestas gratuitas para disfrutar el fin de semana en la Ciudad de Buenos Aires."
+    },
+    "d7bc98d58e44": {
+      "resumen": "Segmento de OncLive que repasa los degradadores de BTK (tirosina quinasa de Bruton, una proteína clave en la señalización de los linfocitos B), una nueva clase de fármacos en desarrollo para la leucemia linfocítica crónica que buscan superar la resistencia a los inhibidores de BTK convencionales como ibrutinib. Funciona como puesta al día general sobre esta clase terapéutica, más que como reporte de un estudio puntual.",
+      "destacado": false
+    },
+    "32d021e5c20b": {
+      "resumen": "Programa de educación médica continua de OncLive, en formato de mesa de debate, sobre oncología de precisión en cáncer de pulmón de células no pequeñas (NSCLC), centrado en cómo trasladar las innovaciones dirigidas a HER2 y TROP2 (proteínas blanco de terapias dirigidas) a la práctica clínica diaria. Es contenido educativo/patrocinado, no el reporte de un estudio puntual.",
+      "destacado": false
+    },
+    "1ebc14fa2aad": {
+      "resumen": "Aviso de retracción publicado en Journal of Clinical Oncology sobre un ensayo aleatorizado que había evaluado si el horario de administración -diurno o nocturno- de la inmunoquimioterapia influía en la supervivencia libre de progresión y la supervivencia global en cáncer de pulmón de células no pequeñas. Relevante porque anula formalmente las conclusiones de un estudio que había circulado en la comunidad oncológica.",
+      "destacado": false
+    },
+    "0d91fe4c3d37": {
+      "resumen": "Carta a Journal of Clinical Oncology que cuestiona un estudio previo sobre consumo de alcohol y cáncer de páncreas de aparición temprana, señalando que la prediabetes no controlada podría ser un factor de confusión no considerado. Interesa porque pone en discusión la solidez metodológica de una asociación que había llamado la atención en oncología.",
+      "destacado": false
+    },
+    "3011aba21fd7": {
+      "resumen": "Respuesta de los autores en Journal of Clinical Oncology a una carta sobre su estudio de olaparib (inhibidor de PARP, una enzima de reparación del ADN) en cáncer de mama metastásico, en la que discuten si la exposición previa a inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) modifica la eficacia del fármaco. Sirve para seguir el debate científico sobre la secuencia óptima de tratamientos en cáncer de mama metastásico.",
+      "destacado": false
+    },
+    "fba1e33d4687": {
+      "resumen": "Comentario editorial en Journal of Clinical Oncology sobre la progresión limitada al cerebro tras el tratamiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido, que plantea la necesidad de tratar el cerebro como 'santuario' sin abandonar el esquema sistémico de base. Aporta contexto clínico sobre cómo manejar esta forma particular de recaída.",
+      "destacado": false
+    },
+    "f0415215f76b": {
+      "resumen": "Telva recomienda seis marcas que ofrecen trajes de baño y bikinis con bombachas menos cavadas que la clásica braguita brasileña."
+    },
+    "61f7d9d536dc": {
+      "resumen": "ELLE repasa siete tendencias clave del otoño 2026 que Zara ya adelanta entre sus últimas novedades."
+    },
+    "336a43997db3": {
+      "resumen": "Telva reúne siete trucos aprendidos en París para vestir con elegancia en verano a pesar del calor."
+    },
+    "e58c238c2e16": {
+      "resumen": "ELLE selecciona cinco bolsos de tendencia del verano que llegan a la segunda tanda de rebajas de Mango."
+    },
+    "a2d44a69eca5": {
+      "resumen": "Vogue México muestra cómo la Alta Costura Otoño-Invierno 2026 lleva los zapatos de tacón hacia una estética de fantasía."
+    },
+    "e4eed8294311": {
+      "resumen": "Vogue México destaca cómo Robert Pattinson combinó pantuflas con jeans anchos y volvió tendencia una apuesta arriesgada."
+    },
+    "a5056857dad5": {
+      "resumen": "elDiarioAR arma una agenda de planes para el fin de semana largo por el Día de la Independencia en la provincia de Buenos Aires."
+    },
+    "f4eafec4978c": {
+      "resumen": "Canal26 recorre los restaurantes históricos de Buenos Aires que atesoran secretos de más de 270 años."
+    },
+    "262b8dfcf516": {
+      "resumen": "Infobae reporta que la actividad física podría prevenir los atracones de nicotina y facilitar que los fumadores abandonen el hábito."
+    },
+    "e0fcda3d507b": {
+      "resumen": "Infobae difunde un estudio que vincula el hígado graso con mayor riesgo del subtipo más letal de cáncer de colon."
+    },
+    "3b1685ebc584": {
+      "resumen": "Infobae reporta que la vitamina C administrada por vía intravenosa podría mejorar la recuperación de pacientes traumatizados."
+    },
+    "143e4ab21932": {
+      "resumen": "Infobae difunde un estudio que asocia la cirugía bariátrica para bajar de peso con un mayor riesgo de desarrollar alcoholismo."
     }
   }
 }
