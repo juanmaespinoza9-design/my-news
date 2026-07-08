@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T03:51:34.408075+00:00",
+ "generated_at": "2026-07-08T06:42:21.543653+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -79,22 +79,6 @@
      "published": "2026-07-07T00:00:00+00:00",
      "copete": "Li Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "fba1e33d4687"
-    },
-    {
-     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Choueiri TK et al. · The New England journal of medicine",
-     "id": "e616a59b6cb6"
-    },
-    {
-     "title": "Perioperative Enfortumab Vedotin and Pembrolizumab in Bladder Cancer. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42308491/",
-     "source": "NEJM Oncología",
-     "published": "2026-06-18T00:00:00+00:00",
-     "copete": "Vulsteke C et al. · The New England journal of medicine",
-     "id": "4c61e397e3fb"
     }
    ]
   },
@@ -107,29 +91,57 @@
      "title": "Ashi Studio Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/ashi-studio",
      "source": "Vogue",
-     "published": "2026-07-08T03:50:49+00:00",
+     "published": "2026-07-08T06:38:20+00:00",
      "id": "d3325804a684"
     },
     {
      "title": "N.Hoolywood Test Product Exchange Service Fall 2026 Menswear",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-menswear/nhoolywood-test-product-exchange-service",
      "source": "Vogue",
-     "published": "2026-07-08T03:50:49+00:00",
+     "published": "2026-07-08T06:38:20+00:00",
      "id": "96077e18be5d"
     },
     {
      "title": "Giuseppe Di Morabito Resort 2027",
      "link": "https://www.vogue.com/fashion-shows/resort-2027/giuseppe-di-morabito",
      "source": "Vogue",
-     "published": "2026-07-08T03:50:49+00:00",
+     "published": "2026-07-08T06:38:20+00:00",
      "id": "48fb15208e45"
     },
     {
      "title": "Armani Privé Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/armani-prive",
      "source": "Vogue",
-     "published": "2026-07-08T03:50:49+00:00",
+     "published": "2026-07-08T06:38:20+00:00",
      "id": "28dcec01c5c8"
+    },
+    {
+     "title": "Problema en la redacción: no encontramos trajes de baño ni bikinis que no tengan braguita brasileña. Estas 6 marcas salen en nuestra ayuda",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjhnanZPVjdzSVIxTnE4UG1ZR3hTQVN4eDJPSU1ieUR1SjJpZjhHS1hSb0xMMi1YM1RQdG0wVlF1czVhWGo2RlJDbnJvbXJBV2ZueFN6bWVMZDZXM0ZqU2Q4OFVSZ1pKS1FTTmxERVI5UUViUlBLWWxNMF84NXd0Qk4tWFbSAYQBQVVfeXFMTU9YWE1fS2tNQmJXMXJsTnAwdGZpcFFyRjlSWEx1a0Vha3VEcWJyNE1KR05BYWdQM2NOaklpb0JVaU56YktFeXY5X3Y5cDhGY1JWVGtkMHBOdUd5YWJjVEM5QzV4X0EzVjU0TlU3b1JSTGlDd1UyZHBmbEZNX1dvTDJsNk11?oc=5",
+     "source": "Telva",
+     "published": "2026-07-08T05:51:00+00:00",
+     "id": "f0415215f76b"
+    },
+    {
+     "title": "Zara se adelanta al otoño 2026: 7 tendenciaa clave que ya encuentras entre sus novedades",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnk0YUhSRWxaZk9wVjN1YVlOQ3NFdjZSemJZQnBUZDg5a25mMUQ5dGFubzByX0ZRN3Z6dkRwZzJ4elpnSGdQNTN0WFhDRmJPQmppOTlKakV4TWFHeVRyR2VuSGlOOThKMEF6MlcxSE9wMGQtRGZ6b3NCZVRMN2VwUDVlTkZYZnZaS0ZJVmFEM3pzeC1FSExrcFd6MA?oc=5",
+     "source": "ELLE",
+     "published": "2026-07-08T05:48:10+00:00",
+     "id": "61f7d9d536dc"
+    },
+    {
+     "title": "Los 7 trucos que hemos aprendido en París para vestir bien y ser la más elegante en verano a pesar del calor",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXRfZ2NRdWdRRGxyQVhOZml4a3RLbXVjd0x2VEp4Mmd5b3BCRkhrQVNsYUQzRHhrZUdxaXQtb19icWR3cmY3ZkpmUHNkNzJMQnVTWjV3UlFkUDdRcmFOR3k4T3plOUZ5R0JJenZPVzdsVWgtQV9BLWdsUlpwU09QU2xpc2vSAYQBQVVfeXFMTWxBeFRjWUpUWjR5OXdiRExlcWNBMXZMeTNBb0VyNGZ2YVNXOHYxd1hoaTNQVENZVi1ZcTdjWnB5cnM4MHRQVTc5NVB2ckwybWRLYVpJVzRZdHhZanJJMkt6b25WWTF3d3FaemNZVGZlZmJDY2tpM3RPYjVRMHhNajVqWTdp?oc=5",
+     "source": "Telva",
+     "published": "2026-07-08T05:32:52+00:00",
+     "id": "336a43997db3"
+    },
+    {
+     "title": "Segundas rebajas en Mango: los 5 bolsos de tendencia del verano",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc09aZFBTZDJxa1lYOThoWjV5UTNUVTZvX2duUzlfVmo3M01BNlFzQVA3eXZIeVVmbTZJN1o4Ym41cjE5R1owMHlXOWlwVXo1a0Zua0NKODdfa1M3emJWUFpISllGbDVFdHRuX0VUWkdBMGhxR3JGMnctWmI2TS1nMmtEYWtiN21pbFcyZmwwNjhFcmpSakg4NnFwYXZLQlU1N1preUZRYVhhOXRaZDVlRWZBODdMU3M?oc=5",
+     "source": "ELLE",
+     "published": "2026-07-08T05:03:09+00:00",
+     "id": "e58c238c2e16"
     },
     {
      "title": "Zapatos de tacón: La tendencia más elegante se inspira en la fantasía para la Alta Costura Otoño-Invierno 2026",
@@ -139,39 +151,11 @@
      "id": "a2d44a69eca5"
     },
     {
-     "title": "Los estilistas coinciden: este es el jean que reemplazará al wide leg en 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXl4Y2xQRGNxT1QwSEpPNnJtWmJpSEdYMUVXNDZTczFjSmt2cWVNWFZHcW9lQlcyZ1ZaWFZidncwLTVVbWItTUU1SnpabXE5UV8wMHNsS3l5c3dzb21oTHVfQy1PazhNdExxNnU2NnZMVGlyY2xfSU5HNnlaOGdMMGZLMVdMV2Y3cHgyZ3B6QWFYV1NsazlFSjV4NUFWalppdGhUQUR2LVVUT2tndHZoNkdQcUhCV2tKNlHSAc4BQVVfeXFMTTVCcEh2R2NpaXBpcWFJbC10QVliM1VhY3RPUkphdU9peEhZa0pLb0hVRTJsS3RNYm1ISnV1NWFQRG93bGVTZ2ktN293LUh5a3JVMUpWbi1ieDU0V1ZMYl9JYXVBVDZGTm1qT1RlYnItUWREcFhyYVpWRlRYbzUtWktCblJsUGN2dzk5QzZLWm0xRUhZSk1DLTctQndkdDNvWHBqcUVyQWJhWGdKYzlPOTZ5LU92N3NpbUN5OURXSUZTNFF0V2NxdWxoZGIxM2c?oc=5",
-     "source": "TN",
-     "published": "2026-07-08T02:30:00+00:00",
-     "id": "a5bc65a819d8"
-    },
-    {
      "title": "Solo Robert Pattinson podría llevar pantuflas en tendencia con baggy jeans (y triunfar en el intento)",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMThHSkFDcXVWcU1lM0NQTHpFWVRGYU9ucVU3QzZYSzRDMnJsdWhYbXc3VDVVcTRwZkQ3cjc3eVA0V0MzYzBrMTFZNHFTaTlhcGhGcjRvTWxBQjdreFFaWXpyS1lmRWVqcEJrLU0teG8tMEhzcFhrZW9FRGQxSUlQem9sNGFRbXozakdwU1lKU1hmMm9QVmc?oc=5",
      "source": "Vogue México",
      "published": "2026-07-08T01:22:55+00:00",
      "id": "e4eed8294311"
-    },
-    {
-     "title": "Los jeans acampanados en tendencia para llevar con zapatos de tacón en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclYzcldReHpNcVlGTnVxb0t5b1l0SW1FTU1hUm9ETTVlbVJWSHlWTWlWbVVibG00RlJycXhUZEFLUWxFRThDWGE1ZzhWMEpGak1aMjdCbU8zUWJKSlZqRk5ib1lZb25UZFQwMkZreXV6ZkRDTng2ZnBkWVVndkR4SUp0enN2eVg2WHhGbHcyYURnazkzZ1I1R1lIVHBsWlJTMWd3eDZ4REtBTndw?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-08T00:20:24+00:00",
-     "id": "ac3df1fecfba"
-    },
-    {
-     "title": "El cemento en la entrada de casa pasó de moda: este es el material tendencia para 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVVKRXBsMGR0M2JsY1EzWFNMUFNtZFd6clhpT2o5TEJidThhTlZkY00weGozYkVGQnNOdGFkV3RjZWFST1BDQ0cyYTZVM0xnWTNLUUw5YjBULUpnSUpkbVBHeVl3bk1MV1p5RUppQlhrenhaT29ORFBJdW4yckdheEhLWUhRX05uS2V1MFdzSnRSbzBqdEVsY21xUnkwTF9nbUw4bERTY1VrX01QTEhXNWo2YXhQMXlqV2M1WUN1b1dWdzBPSTV3a2l6bmtBeWRZdmc?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-07-07T11:53:19+00:00",
-     "id": "7fb3ca31214c"
-    },
-    {
-     "title": "Las expertas en manicura coinciden en las seis tendencias en diseño de uñas para este verano",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazVybVo2VG5QcFQ4WjJSQ1haa1pEblJPRnJHZ1BnTlE4YkNzUzJ5bkc2RUVTenpCaW5SdGZ4X1ZaaGhnazRyc0FhTC1teE1hd25VYVAzM3paU0JHTjJ4dHdxbjBUWTNTbU9CS1kzOEI0TVl6RVRhZnp5Q0h2RDJNVmZRX3NMSUwz0gGIAUFVX3lxTE9BcDF2amUxTkstZWVObF9nTmlBcVY0YzJSYUROMFhYdjBsYjFlM0gzem9rbGtQVXoyTmZudlE4VzNWOTJNekxWc2FfV2lJTmF2X0xvMDRJREhLaXFRckdlMnZiVHJYZGx4N2Y4cmw2ZnN0ajByN09FazhZQkV0VWpzM0xfVV9lRXo?oc=5",
-     "source": "Telva",
-     "published": "2026-07-07T11:19:56+00:00",
-     "id": "5061f113588b"
     }
    ]
   },
@@ -181,12 +165,28 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Floppy Tesouro en “Lo de Pampita”: “En el Bailando una persona me seguía y tuve miedo de que me secuestre”",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/floppy-tesouro-en-lo-de-pampita-en-el-bailando-una-persona-me-seguia-y-tuve-miedo-de-que-me-secuestre/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T05:00:00+00:00",
+     "copete": "La modelo y empresaria habló de su presente amoroso con Salvador Becciu, desmintió rumores, recordó el difícil episodio que vivió con un acosador y reflexionó sobre la presión estética en el espectáculo y el legado que dejó Silvina Luna",
+     "id": "48178496e643"
+    },
+    {
      "title": "Mario Pergolini celebró el pase de Argentina a cuartos de final: “Ahora estos pibes se van a sentir invencibles”",
      "link": "https://www.infobae.com/teleshow/2026/07/08/mario-pergolini-celebro-el-pase-de-argentina-a-cuartos-de-final-ahora-estos-pibes-se-van-a-sentir-invencibles/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T03:45:40+00:00",
+     "published": "2026-07-08T03:56:50+00:00",
      "copete": "Envuelto en la emoción popular tras el triunfo de la Selección ante Egipto por 3 a 2, el conductor de Otro día perdido abrió el programa festejando con Rada y Evelyn Botto",
      "id": "e8acba586ec1"
+    },
+    {
+     "title": "Sofía Solá mostró cómo se preparó para su salida con un joven en Barcelona: “Mi aventura con el catalán”",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/sofia-sola-mostro-como-se-preparo-para-su-salida-con-un-joven-en-barcelona-mi-aventura-con-el-catalan/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T03:51:19+00:00",
+     "copete": "La hija de Maru Botana explicó que extraña su vida en Buenos Aires, dijo que siente falta de refugio y descanso, y celebró que conocer gente nueva la ayuda a retomar una energía más espontánea",
+     "id": "4cdb88f490c2"
     },
     {
      "title": "Los incesantes ataques de Mauro Icardi a Yanina Latorre: “Qué calladita estuviste hoy”",
@@ -213,14 +213,6 @@
      "id": "922e8d5c05d4"
     },
     {
-     "title": "Marta Fort mostró su nuevo auto de lujo y sorprendió al contar el nombre que le puso: “Es yankee”",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/marta-fort-mostro-su-nuevo-auto-de-lujo-y-sorprendio-al-contar-el-nombre-que-le-puso-es-yankee/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T02:26:08+00:00",
-     "copete": "En plena cobertura de la Selección Argentina desde Miami, la empresaria contó en un streaming que sumó un vehículo premium a su colección y explicó la lógica detrás de los nombres que elige",
-     "id": "4d2d912cefef"
-    },
-    {
      "title": "Yanina Latorre dio detalles del nuevo trabajo de Mauro Icardi lejos del fútbol: “Ahora entiendo sus nervios”",
      "link": "https://www.lanacion.com.ar/espectaculos/yanina-latorre-dio-detalles-del-nuevo-trabajo-de-mauro-icardi-lejos-del-futbol-ahora-entiendo-sus-nid07072026/",
      "source": "La Nación Espectáculos",
@@ -243,14 +235,6 @@
      "published": "2026-07-08T02:01:27+00:00",
      "copete": "La definición quedó entre Luana Fernández y Leandro Nigro, tras una de las placas más esperadas de esta edición",
      "id": "084f868ed662"
-    },
-    {
-     "title": "Los nervios de Moria Casán y Cecilia Roth en el partido de Argentina: “¿Tiene un reloj de arena, este hijo de put...?”",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/los-nervios-de-moria-casan-y-cecilia-roth-en-el-partido-de-argentina-tiene-un-reloj-de-arena-este-hijo-de-put/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T01:58:04+00:00",
-     "copete": "Las actrices siguieron el agónico 3 a 2 ante Egipto durante una jornada de grabación de la biopic de la diva, y el clip con sus reacciones se volvió furor en redes",
-     "id": "46ed62eede24"
     },
     {
      "title": "El impactante reloj de lujo con diamantes que lució Antonela Roccuzzo en el Mundial: cómo es y cuánto sale",
@@ -287,14 +271,21 @@
      "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHhJNXdqbG5zeW9yQjA3VDdMc0d0RTdGakRrdmdvdUNmemF5dnFHUkdfS1RvWW5nbENpYVNfc3lsZC1WaE9JemdqcWd0TzlPNi1JNzRHMEM4VmJYVEYxenJCRUNlS2Q3OVB1bG01VjJIZDZVWlhhVHRJQUhSNU02MXhfb1BURGFqQ3lpV2Faa1ZjN1lrYzdwZnZiZE90OTlD?oc=5",
      "source": "Página|12",
-     "published": "2026-07-08T03:12:54+00:00",
+     "published": "2026-07-08T06:12:54+00:00",
      "id": "89bd644f0544"
+    },
+    {
+     "title": "Qué hacer el Fin de Semana Largo por el Día de la Independencia en la provincia de Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2F0TTNnbDBIQ0VBVV9lZFZWV3VpTVY4Wld5cW91eElDLWFFSXhBaV93YmRYNU5tNHVVWjF4Qjg1Z0FmSGpuRm1INURMQUpGUnBUdHNVemNzYlNDMmFlbG9nblVKbGEzQy1HdjZxOXhwR2x3d0JXX05zNXg1WGFkVmxTVDN2MGZmMTIzM3lSSnNQV3ZZWWVrVW5URnpTdEdkU0RnRmxpRW5zRm_SAbABQVVfeXFMT01ITUhjMHpKVVUzLTJIUVNxM1F5YWNwQmxWb2daUVdtYk44SHNON1JPcTR4SVhoVl9aT0d5M0Z2UWwyeDdwUHpZS2VSUUFfRU0xOGpyZXBwSVdtWjE2WXo2TVZVcHJRTWVOTmRWQ2IzZE95enBBNXZoWExqZkNrSGtIak5ScFotWGsxdWJFdlJtX2dZajYwRkxjckpuR3BfSDFjVUVDZnlsYTZPUTN0dkk?oc=5",
+     "source": "elDiarioAR",
+     "published": "2026-07-08T03:05:56+00:00",
+     "id": "a5056857dad5"
     },
     {
      "title": "Los restaurantes históricos de Buenos Aires que guardan secretos de más de 270 años",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNclNYRU9RSlo4RHU1dFdqbDJLWFdJQ3NEWDhUdUZObGx3Mk5CdGU3UTEtd0g0N1FLb1R1dnRuZHU2dEQ5MjkzMWVJOEQ5NUZKS3VwWUJ3d1dpMnJHSUVUWGpvdG5DY1B0b0lUNjhqb25RcUVfcnhZdnBETHpiVk9GY3Q4ZkRnZG00Y3ZRMDlmZHRSX1JfaEpQU0Rrai1teHowUXk4clA2VG40YjRuVXZwYXluSUd0MHpvVlo0NkhXcG5tamJDZ2c?oc=5",
      "source": "Canal26",
-     "published": "2026-07-08T00:48:36+00:00",
+     "published": "2026-07-08T00:48:40+00:00",
      "id": "f4eafec4978c"
     },
     {
@@ -333,11 +324,11 @@
      "id": "cdc3653804ff"
     },
     {
-     "title": "Orgullo concordiense: Fiamma Ferrari brilló en el escenario del Teatro San Martín de Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjlGMHZ2T3pFMUx2OW1Ld1pKSkQwS3RCdzBmMHZzOUpfcXlqa05LazFvajhnTzFYVFpWOHh5UlNBbEY1c0pNX1VTMjNHbjlGNllVeDRGMENwUkZ2TWxNdVVhYVNoS1FaRzI4T1NNSTRtVWlPWE8yNnBxV1l5SHcxLUNBUDBlS3RPMVBmSVA4UkJQZXRJY1MteEdsdC1MM1VScnpfbUowSmhaR2l2TTU0U2ZWdkRISGhUUHlOMzhR?oc=5",
-     "source": "7paginas",
-     "published": "2026-07-06T22:29:15+00:00",
-     "id": "b1992f380d31"
+     "title": "Linda — Descubrir Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1RLeGcxUmpmNjdGWXV2M2UwZUoyOVB2ajZBMi1kMjViemRzdDBJY0JtMnhJNDhWaXNNRUxOQUVIZnhYQlFlaXprVW9heHVkbFFYLUpjd0JkTnlFdVRzaktHSWx3Y3BzaGkyU2prdnpuR0tSTHRMZUEwNUZKUG5FU2M0RjZ3bXVoSlBuaDRJY19jRW8?oc=5",
+     "source": "Buenos Aires Ciudad",
+     "published": "2026-07-06T18:45:41+00:00",
+     "id": "78d8a4188c04"
     },
     {
      "title": "Tres planes gratuitos para disfrutar este fin de semana en la Ciudad de Buenos Aires",
@@ -345,13 +336,6 @@
      "source": "La Nación",
      "published": "2026-07-04T17:20:00+00:00",
      "id": "a31678005aed"
-    },
-    {
-     "title": "La Plata: El fin de semana llega con una nutrida agenda cultural",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3E1VktqVlBSQnFEQjZDWE5kbEhNWE55TmRBaExKcUJEZUxncE12NzFna0VUdG5pTXd5YzlEYS1vTk5DMl9mcTJnVUJPQmdMejdRYmJZZkxNeGg5UF9SS2s3YmI0d3BsdnIyQUZuMTJqd2RMN3hZeHJUQnBrTkNvdXlEOHoyT1JqTEx1RDQ1dV80aHplNUFPSU51eTd2UU11Y2VyQlJIYzN2TDJGbHBnUktEdmYtWUtp0gG8AUFVX3lxTFBWcVdwTTBYYUh3bXYwMjY1UUcwSFc0ZXlFTks0UmdQWVBVdWQ3cjRPUDBZQ3RfQVJBT25vUjhnc3N6Yl8wdmlRWnJocE9XcWsyeVN1aVBGcEVGSFNhOXdiY1F0UF9uYXNSMVRBc2VaRWF5elBFNndHelJVMFJqbkE3NmxLQnlzU3RlMU5pa1ZmcWFuZ0xKU2xRa25ZN0wxdEVaZjB2Q3cwbUd3RHVJSWc3dFM5MGswWlowN1N5?oc=5",
-     "source": "Buenos Aires al día",
-     "published": "2026-07-03T16:33:00+00:00",
-     "id": "c52e41db8c02"
     }
    ]
   },
@@ -361,84 +345,80 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El BCIE amplía en USD 58 millones una línea de crédito para financiar empresas en Panamá",
-     "link": "https://www.infobae.com/panama/2026/07/08/el-bcie-amplia-en-usd-58-millones-una-linea-de-credito-para-financiar-empresas-en-panama/",
-     "source": "Infobae",
-     "published": "2026-07-08T03:47:09+00:00",
-     "copete": "La primera transferencia ya tiene destino definido y un intermediario bancario con tarea de control, mientras se perfila el alcance real en firmas de varios rubros productivos",
-     "id": "b52494e57d21"
-    },
-    {
-     "title": "“Tenela, tenela”: la reacción del “Cholo” Simeone antes del tercer gol de Argentina contra Egipto que se volvió viral",
-     "link": "https://www.infobae.com/deportes/2026/07/08/tenela-tenela-la-reaccion-del-cholo-simeone-al-tercer-gol-de-argentina-contra-egipto-que-se-volvio-viral/",
-     "source": "Infobae",
-     "published": "2026-07-08T03:46:46+00:00",
-     "copete": "Las cámaras de la transmisión captaron al técnico del Atlético de Madrid el Mercedes-Benz Stadium con la camiseta de su hijo Giuliano puesta, guiando en voz alta la jugada que terminó en el tanto de Enzo Fernández a los 93 minutos",
-     "id": "e487357d2fd6"
-    },
-    {
-     "title": "Costa Rica retrasa un año las restricciones a los vapeadores: regulación sobre sabores, publicidad y empaques entrará a regir hasta 2027",
-     "link": "https://www.infobae.com/costa-rica/2026/07/08/costa-rica-retrasa-un-ano-las-restricciones-a-los-vapeadores-regulacion-sobre-sabores-publicidad-y-empaques-entrara-a-regir-hasta-2027/",
-     "source": "Infobae",
-     "published": "2026-07-08T03:45:17+00:00",
-     "copete": "Aunque el Ministerio de Salud insiste en que no se trata de un retroceso, organizaciones antitabaco cuestionan que la demora prolongue la exposición de niños y adolescentes a productos diseñados para resultar más atractivos",
-     "id": "dc82585203ea"
-    },
-    {
-     "title": "Las autoridades dominicanas incautaron casi 30 libras de marihuana en el aeropuerto Las Américas",
-     "link": "https://www.infobae.com/republica-dominicana/2026/07/08/las-autoridades-dominicanas-incautaron-casi-30-libras-de-marihuana-en-el-aeropuerto-las-americas/",
-     "source": "Infobae",
-     "published": "2026-07-08T03:44:03+00:00",
-     "copete": "El hallazgo ocurrió durante una revisión en el área de llegadas, tras detectar un equipaje negro dejado por un viajero desde Nueva York, con dos pacas ocultas entre ropa",
-     "id": "39b850df8d58"
-    },
-    {
-     "title": "La agenda de la TV del miércoles: los cuartos de final de Wimbledon, el amistoso de Boca y el Tour de France",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-miercoles-los-cuartos-de-final-de-wimbledon-el-amistoso-de-boca-y-el-tour-de-nid07072026/",
+     "title": "Incidentes en Córdoba: robaron una joyería, hubo disturbios y más de 40 detenidos en los festejos por el triunfo de Argentina",
+     "link": "https://www.lanacion.com.ar/sociedad/incidentes-en-cordoba-robaron-una-joyeria-hubo-disturbios-y-mas-de-40-detenidos-en-los-festejos-por-nid08072026/",
      "source": "La Nación",
-     "published": "2026-07-08T03:35:00+00:00",
-     "copete": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
-     "id": "40b377de04c7"
+     "published": "2026-07-08T06:34:17+00:00",
+     "copete": "Diferentes hechos de violencia y delincuencia se registraron en la ciudad de Córdoba tras la clasificación de la Albiceleste a los cuartos de final del Mundial 2026",
+     "id": "64ff78e9473a"
     },
     {
-     "title": "Clima hoy en Morro de San Pablo, Brasil: el pronóstico del tiempo para este miércoles 8 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-morro-san-pablo-brasil-pronostico-tiempo-miercoles-8-julio-2026_0_PhFy1zSbi4.html",
-     "source": "Clarín",
-     "published": "2026-07-08T03:27:36+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "2cbe4a34fe59"
-    },
-    {
-     "title": "Clima hoy en Maceió, Brasil: el pronóstico del tiempo para este miércoles 8 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maceio-brasil-pronostico-tiempo-miercoles-8-julio-2026_0_HJYwhuyg8M.html",
-     "source": "Clarín",
-     "published": "2026-07-08T03:27:36+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "c91c3a22faef"
-    },
-    {
-     "title": "Clima hoy en Ilha Grande, Brasil: el pronóstico del tiempo para este miércoles 8 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-ilha-grande-brasil-pronostico-tiempo-miercoles-8-julio-2026_0_iGmm7TUZYW.html",
-     "source": "Clarín",
-     "published": "2026-07-08T03:27:35+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "769cc499d4ed"
-    },
-    {
-     "title": "Clima hoy en Bombinhas, Brasil: el pronóstico del tiempo para este miércoles 8 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-bombinhas-brasil-pronostico-tiempo-miercoles-8-julio-2026_0_s96L0RHUlm.html",
-     "source": "Clarín",
-     "published": "2026-07-08T03:27:12+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "d4e86c5ec019"
-    },
-    {
-     "title": "La herencia del mocasín argentino",
-     "link": "https://www.lanacion.com.ar/revista-lugares/la-herencia-del-mocasin-argentino-nid08072026/",
+     "title": "Mundial 2026, en vivo: Francia y Marruecos abren los cruces de cuartos de final este jueves",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-marruecos-abren-los-cruces-de-cuartos-de-final-este-jueves-nid08072026/",
      "source": "La Nación",
-     "published": "2026-07-08T03:25:00+00:00",
-     "copete": "En manos ya de la tercera generación, la firma familiar Guido alberga en su residencia de Recoleta una historia de casi 75 años en torno al clásico zapato artesanal “made in Argentina” que hoy pisa fuerte en el mundo",
-     "id": "05fc5d67f4e5"
+     "published": "2026-07-08T06:32:31+00:00",
+     "copete": "El minuto a minuto de las últimas noticias de la selección, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
+     "id": "bd56dbd42721"
+    },
+    {
+     "title": "Las ciudades de Texas donde bajaron los precios del alquiler, según Trump",
+     "link": "https://www.lanacion.com.ar/estados-unidos/texas/las-ciudades-de-texas-donde-bajaron-los-precios-del-alquiler-segun-trump-nid08072026/",
+     "source": "La Nación",
+     "published": "2026-07-08T06:32:00+00:00",
+     "copete": "Una ciudad de Texas lidera la reducción de precios de alquiler a nivel nacional. La administración de Trump vincula este descenso con sus nuevas políticas migratorias vigentes",
+     "id": "7043179628eb"
+    },
+    {
+     "title": "El ejercicio puede evitar atracones de nicotina y ayudar a los fumadores a dejar el hábito",
+     "link": "https://www.infobae.com/salud/2026/07/08/el-ejercicio-puede-evitar-atracones-de-nicotina-y-ayudar-a-los-fumadores-a-dejar-el-habito/",
+     "source": "Infobae",
+     "published": "2026-07-08T06:31:37+00:00",
+     "id": "262b8dfcf516"
+    },
+    {
+     "title": "El hígado graso aumenta las probabilidades del cáncer de colon más mortal, según un estudio",
+     "link": "https://www.infobae.com/salud/2026/07/08/el-higado-graso-aumenta-las-probabilidades-del-cancer-de-colon-mas-mortal-segun-un-estudio/",
+     "source": "Infobae",
+     "published": "2026-07-08T06:31:19+00:00",
+     "id": "e0fcda3d507b"
+    },
+    {
+     "title": "La vitamina C intravenosa podría mejorar la recuperación de pacientes con traumatismo",
+     "link": "https://www.infobae.com/salud/2026/07/08/la-vitamina-c-intravenosa-podria-mejorar-la-recuperacion-de-pacientes-con-traumatismo/",
+     "source": "Infobae",
+     "published": "2026-07-08T06:31:01+00:00",
+     "id": "3b1685ebc584"
+    },
+    {
+     "title": "La cirugía para perder peso aumenta el riesgo de alcoholismo, según un estudio.",
+     "link": "https://www.infobae.com/salud/2026/07/08/la-cirugia-para-perder-peso-aumenta-el-riesgo-de-alcoholismo-segun-un-estudio/",
+     "source": "Infobae",
+     "published": "2026-07-08T06:30:43+00:00",
+     "id": "143e4ab21932"
+    },
+    {
+     "title": "Así fueron los incidentes en Cañuelas en los que murió un hombre por un piedrazo en la cabeza",
+     "link": "https://www.lanacion.com.ar/sociedad/asi-fueron-los-incidentes-en-canuelas-en-los-que-murio-un-hombre-por-un-piedrazo-en-la-cabeza-nid08072026/",
+     "source": "La Nación",
+     "published": "2026-07-08T06:27:06+00:00",
+     "copete": "Durante la celebración en la ciudad bonaerense falleció Franco Depauli, de 46 años, que recibió el golpe de una piedra en medio de una pelea",
+     "id": "ea0d7bd610be"
+    },
+    {
+     "title": "Tyler Tolbert, de los Reales, iguala récord de MLB con hits en 12 turnos seguidos",
+     "link": "https://www.clarin.com/estados-unidos/tyler-tolbert-de-los-reales-iguala-record-de-mlb-con-hits-en-12-turnos-seguidos_0_wbmxMGukBD.html",
+     "source": "Clarín",
+     "published": "2026-07-08T06:00:05+00:00",
+     "copete": "El jardinero de Kansas City iguala un récord histórico de 12 hits consecutivos, destacando en la victoria contra Nueva York. Su bate va al Salón de la Fama. Celebrado por compañeros y aficionados, Tolbert logró cinco hits en el juego…",
+     "id": "e03b0596d5c4"
+    },
+    {
+     "title": "Egipto elevó una denuncia formal en FIFA contra el árbitro francés: pidió que lo investiguen tras la victoria de Argentina",
+     "link": "https://www.clarin.com/deportes/egipto-elevo-denuncia-formal-fifa-arbitro-frances-pidio-investiguen-victoria-argentina_0_4tOGjnaEUx.html",
+     "source": "Clarín",
+     "published": "2026-07-08T04:39:11+00:00",
+     "copete": "La Asociación Egipcia de Fútbol presentó un reclamo formal ante el ente madre del fútbol mundial tras quedar eliminado con Argentina. Además exigió que dicha terna no vuelva a dirigir en el Mundial.",
+     "id": "3dcb5777e790"
     }
    ]
   },
@@ -451,9 +431,25 @@
      "title": "Argentina avanza tras una remontada épica contra Egipto y enfrenta en cuartos de final a Suiza, que eliminó a Colombia del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cj6gg4g8y1et?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-08T03:51:34.153112+00:00",
+     "published": "2026-07-08T06:42:21.412951+00:00",
      "copete": "Argentina de la mano de Messi venció 3-2 a Egipto y es ahora la única selección de América Latina en el Mundial 2026. Colombia empató 0-0 con Suiza y, aunque fue más en la cancha, perdió en la tanda de penales.",
      "id": "0a8b2cd88cf1"
+    },
+    {
+     "title": "Los terremotos impactan en los planes de reconstrucción económica en Venezuela",
+     "link": "https://elpais.com/america/2026-07-08/los-terremotos-impactan-en-los-planes-de-reconstruccion-economica-en-venezuela.html",
+     "source": "El País Internacional",
+     "published": "2026-07-08T04:00:00+00:00",
+     "copete": "El costo de la reconstrucción tras los terremotos podría superar ampliamente los 37.000 millones de dólares, en una economía sin músculo financiero ni institucional para afrontarlo",
+     "id": "ef74c01d4790"
+    },
+    {
+     "title": "Delcy Rodríguez mueve las piezas de su equipo económico en plena crisis por los terremotos",
+     "link": "https://elpais.com/america/2026-07-08/delcy-rodriguez-mueve-las-piezas-de-su-equipo-economico-en-plena-crisis-por-los-terremotos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-08T04:00:00+00:00",
+     "copete": "La presidenta encargada de Venezuela releva a José David Cabello, hermano de Diosdado Cabello, del organismo tributario tras 18 años en el cargo",
+     "id": "85f60a37edb9"
     },
     {
      "title": "Lo que una investigación de la BBC revela sobre la red de \"cárceles de tortura\" de Rusia en Ucrania",
@@ -494,22 +490,6 @@
      "published": "2026-07-08T00:29:26+00:00",
      "copete": "La BBC analiza un partido que pasará a la historia de la Copa del Mundo y no sin polémica.",
      "id": "8fe1134b901c"
-    },
-    {
-     "title": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques contra petroleros en Ormuz",
-     "link": "https://elpais.com/internacional/2026-07-07/estados-unidos-vuelve-a-prohibir-la-exportacion-de-petroleo-de-iran.html",
-     "source": "El País Internacional",
-     "published": "2026-07-07T21:48:20+00:00",
-     "copete": "La Administración de Trump también ha revocado el permiso de exportar petróleo a Teherán",
-     "id": "c8fc107a2b0e"
-    },
-    {
-     "title": "Marine Le Pen será candidata en 2027 pese a estar condenada",
-     "link": "https://elpais.com/internacional/2026-07-07/marine-le-pen-sera-candidata-en-2027-pese-a-estar-condenada-y-llevar-un-brazalete-electronico.html",
-     "source": "El País Internacional",
-     "published": "2026-07-07T18:11:18+00:00",
-     "copete": "La líder ultraderechista, condenada a un año de arresto domiciliario con dispositivo electrónico, contraviene su promesa y decide presentarse por cuarta vez a los comicios presidenciales",
-     "id": "3a0a43289882"
     }
    ]
   }
@@ -523,6 +503,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
