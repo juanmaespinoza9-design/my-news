@@ -1,11 +1,26 @@
 {
- "generated_at": "2026-07-08T21:35:30.712054+00:00",
+ "generated_at": "2026-07-08T23:33:27.145945+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Yue D et al. · The New England journal of medicine",
+     "id": "8c859eab0c01"
+    },
+    {
+     "title": "Dr Spencer on the Potential Role for In Vivo CAR T-Cell Therapy in Myeloma",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONVhtaGZ0WktSQkZ6VlkyVTY2aHlLd3I0Yl8wamZBeTdHZVhlQ1N1QlpNUWxVelhIOU5oTzJvd0JGb3JnVGo2V2FDejRWVk5IN012S05Pc2JvNTI0S3hHRXY1M2xnS1c0bHZLajhMTW44Q2daNHBQSFlkamgwRHoyQ1VqYnZ5RnE4eWJTd0dvbDAxamJsTmxUUWpTV1lGU1VvS2J1bFJn?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-08T20:10:31+00:00",
+     "id": "a210aec6d7c1"
+    },
     {
      "title": "Case 2: De Novo Extensive-Stage Small Cell Lung Cancer",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMkxIRzBsdmQxZTJSaFpSaTRWTDJPbm9Fd2hBZlJLV3ZtM1NURENsOXNiYjRtT3FQTGFXQ0tyNTZzbVl3LW1BZDcwY1l5QTAxd0lLNTBEcE41Q1dHdWRhcFNkemlraGtuRkxEbTZDQkFSM0ZlY3dha3hPMWJMd1lCcDdjZXlaM0I3a3Y0RFA0WWcyN2t5MW90Q3dJN0hHUldkRlFkUjFuZld0d01OME9OTkIwXzFXREV5UzJhRnhKcGxfbzd1bEZWMHZrT2JSQXk2Snc?oc=5",
@@ -14,18 +29,18 @@
      "id": "0591903e7cc4"
     },
     {
+     "title": "Integrating Immunotherapy Across the SCLC Spectrum",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOam5WYkc1aVdUYzl3Z1lMbEg0RnFnRGY4cDVxNGVEU19GalBRbnozOGRKRDlla212QU1hWFBMOXdmZkVYVGZVOVNvYW92RVFnM1g3NTFfUTBvTHdfMngzT2dLcUo4QlNLdmRCejVtVHVjY2Noc2pYQ3RqbzFHcjNxZ3lsUUtlZ0VQRTY4?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-07-08T19:32:13+00:00",
+     "id": "f34c1990f183"
+    },
+    {
      "title": "Case 3: Second-Line Treatment of Extensive-Stage Small Cell Lung Cancer",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY2M4R0lKNXNhTlNNVUtsUk1Hak5xNEdYQnhBbWFXZFVYZmFSS2s0dlpETWxuMUpHdW16QnJpU1NBM1luLVFqb3ZhNWo2WDZGeXFLLWExMXljbi1KRjUxS1JmNU5jajMzLTNfNEpPVUxsWnlxdExzdnMtUC1BYTBGVC12QWF0QzZMak92bG5jWVQ2TWstWFVQby12VUtGcXZMQTA1R09tZk1IUHByREQ2VkZMNXdzUG9TNzFsQlhiTnlpUElZQ1p0N0ZpZUxhZk03elpITTlxSmNKQUNaRXMybWxBdVVCWUlx?oc=5",
      "source": "The ASCO Post",
      "published": "2026-07-08T19:32:12+00:00",
      "id": "29e1a89a1eb1"
-    },
-    {
-     "title": "Case 1: Limited-Stage Small Cell Lung Cancer",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHpnYWVjUTVRR2RMLWtFVjdNOS1vX19UenkxMUhfY3lhNG44bzJTbFJjVFQ1cXdpenRvaGpNVUpLTW1tUmpPWVN1MkNobFVTYmlvVURfbGc3OXl1OVNiMndDXzVKektnR1VqMlNwNXZyOVJDcWNScmVHQUZUbDNZYldndVRYOG5ZZDBLczRJdkVXTktFbi1ZcFBBNUlQQllfVlhvQkFaVDJkZ3FjSTV1bDNnMU5MUXNwZTlQNXdWeEdfbEMz?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-07-08T19:32:12+00:00",
-     "id": "dfff41124b6c"
     },
     {
      "title": "INCB123667 Advances to Phase 3 Following Encouraging Activity in Platinum-Resistant Ovarian Cancer",
@@ -42,11 +57,28 @@
      "id": "e306e1e35bf4"
     },
     {
-     "title": "ctDNA MRD Status Predicts OS Benefit With Adjuvant Chemotherapy in Resected CRC Liver Metastases",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGFUMmFvSUFBRWdYME1aYkZXOGI1b1d0ZDQ3S1hUbXRhVm5SNmk2VU5aMmhQSm5sWEVVcFh2MVFZMF9VS2F0TThIVTQ5Z0tmUGZ6WGN2MUdGUFpHRVpjMjZyeTE1dGlkSHZLSTc4RkdZMUZkX2d1S0hPTFRXbTlaVmVCU3dkRERDNnZfd1ZlWXN2aGpmM1RlaUpxQUpsSVI3WTBlNFB5eEdHNUZGY2pPcnZFN1hnWDRyZlVpUzVDZDVTOHM?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-08T13:02:05+00:00",
-     "id": "2cb62899d057"
+     "title": "Still Lost in Transition? A 20-Year Reflection on Cancer Survivorship Care",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418749/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-08T00:00:00+00:00",
+     "copete": "Jefford M et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "2a0ee5a428c4"
+    },
+    {
+     "title": "Erratum: Resistance to Immune Checkpoint Inhibitor Treatment in Non-Small Cell Lung Cancer Clinical Trials: A Perspective From Lung-MAP Investigators",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418737/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-08T00:00:00+00:00",
+     "copete": "Doroshow DB et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "bc0af72ade95"
+    },
+    {
+     "title": "Intracranial Injection of Investigational Ex Vivo Expanded and Activated Gamma-Delta T Cells Engineered With a Methylguanine-DNA Methyltransferase-Expressing Lentivector in Patients With Primary Glioblastoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418736/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-08T00:00:00+00:00",
+     "copete": "Nabors LB et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "2217611743fd"
     },
     {
      "title": "Reply to: Olaparib in Metastatic Breast Cancer: The Impact of Prior Cyclin-Dependent Kinase 4 and 6 Inhibitor Exposure on Efficacy",
@@ -57,28 +89,12 @@
      "id": "3011aba21fd7"
     },
     {
-     "title": "Uncontrolled Prediabetes Confounding in the Association Between Alcohol Consumption and Young-Onset Pancreatic Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42413076/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-07T00:00:00+00:00",
-     "copete": "Gao G et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "0d91fe4c3d37"
-    },
-    {
-     "title": "Brain-Only Progression After First-Line Therapy in Extensive-Stage Small Cell Lung Cancer: Treat the Sanctuary, Preserve the Backbone",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42413070/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-07T00:00:00+00:00",
-     "copete": "Li Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "fba1e33d4687"
-    },
-    {
-     "title": "Reply to: \"Beyond Average Grams: Aldehyde Dehydrogenase 2*2  and Alcohol-Induced Young-Onset Pancreatic Cancer\" and \"Uncontrolled Prediabetes Confounding in the Association Between Alcohol Consumption and Young-Onset Pancreatic Cancer\"",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42413068/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-07T00:00:00+00:00",
-     "copete": "Park JH et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "b4fdc8623baa"
+     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Choueiri TK et al. · The New England journal of medicine",
+     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -91,29 +107,43 @@
      "title": "Jean Paul Gaultier Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/jean-paul-gaultier",
      "source": "Vogue",
-     "published": "2026-07-08T21:33:58+00:00",
+     "published": "2026-07-08T23:31:38+00:00",
      "id": "a5a7609a4e95"
     },
     {
      "title": "Manish Malhotra Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/manish-malhotra",
      "source": "Vogue",
-     "published": "2026-07-08T21:33:58+00:00",
+     "published": "2026-07-08T23:31:38+00:00",
      "id": "d384dcb287af"
     },
     {
      "title": "Viktor & Rolf Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/viktor-rolf",
      "source": "Vogue",
-     "published": "2026-07-08T21:33:58+00:00",
+     "published": "2026-07-08T23:31:38+00:00",
      "id": "43455b44003d"
     },
     {
      "title": "Zuhair Murad Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/zuhair-murad",
      "source": "Vogue",
-     "published": "2026-07-08T21:33:58+00:00",
+     "published": "2026-07-08T23:31:38+00:00",
      "id": "9405512d07a4"
+    },
+    {
+     "title": "Los mejores momentos del Mundial 2026 (hasta ahora) y los que quizá viste",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jU2RYWnl3SGhxbi1RVHk3cUJFSzV3WkFQOGg0RGlhQW8xMnFkUWRDMnAyaDFCMkoybXRaS0ZFVnlFUHBJYWlsd1VnanZ2RTJILTZMeWFSOG5UWE5BNWpjOE01WEhwNzdtdFBR?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-08T23:08:15+00:00",
+     "id": "6efdab51e105"
+    },
+    {
+     "title": "Cómo llevar zapatos de tacón transparentes en verano 2026: Jennifer López tiene todas las claves",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDdPS0Y4U2tjclpreFJ6SHA1SjB3WlBuUkJaZWRZWmZsZV9RTHlhSnVFYnlSa043c05wRHlveDBFdU1KUy11b04za1JSdE5UOUZ4Znl2cno2YjcydVBBZWl4NmhLclBtWnNlQmxuZkoxRlNQOF9pbm5hUW05THltQWVaYklDYW5nWlRYOWhORUFsZHYxMHRQTFdDU1hiVXEwNU5aT0ZqZXBkNW84TmlV?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-08T22:14:40+00:00",
+     "id": "296189a369dc"
     },
     {
      "title": "Las bolsas de lujo que llevan los jugadores del Mundial 2026: Louis Vuitton, Dior y Hermès",
@@ -121,20 +151,6 @@
      "source": "Vogue México",
      "published": "2026-07-08T19:42:59+00:00",
      "id": "3721f5d23e3b"
-    },
-    {
-     "title": "Zapatos casuales para vestir con pantalones y vestidos en la oficina en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSURsMmdicFdDOHN4Q0JEMXYybnFkdXVIT2p3M1g4V0l5NndBanhTaXhNWmotT0ptMElJbmdQRVJkUGxkQ2FJd0ZGYkdXLVJsMVllQk5EcWU3Q05PN2J6S1o3ODVxZ0pjVHExTTI2V0lfTEszcldwc1UyaGlzTkJOR3ZXUEN1RFNGUlNVSjRVc202eGF5VkQ2cWxHM25kR1NtWG1xeHZnRzFma2F5RmU5VW16VThKenJaS0xHMGNuT3FZNk0?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-08T19:03:52+00:00",
-     "id": "c2aa80f85200"
-    },
-    {
-     "title": "¿La clave para elevar tu hogar? Luminarias inspiradas en la moda y la joyería",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGQzX1RacmQ0dkVoWmt0WThPeWZEdWlEN3BFVzNOWHpzeEdwNWdwNHJnRWRZWmhkYXI0SEFnUm9va2k5amhZUmczd0c4TXktQ2pSdTNfc2diOEFudWhUQVhhbi1oUVFtLUZsN0FndzJTd1RIZXhlTVRsOEgxTENPbzhSNzNFUVM2TUdQdg?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-08T18:54:38+00:00",
-     "id": "641527c8e7a6"
     },
     {
      "title": "Cali abre el camino hacia Colombiamoda 2026 con espacios que destacan el potencial de la moda del Valle del Cauca",
@@ -165,12 +181,76 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Premios Emmy 2026: todos los nominados",
-     "link": "https://www.lanacion.com.ar/espectaculos/series-de-tv/premios-emmy-2026-todos-los-nominados-nid08072026/",
+     "title": "El origen del vínculo entre la China Suárez y Franco Deambrosi que desató polémica por las fechas",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-origen-del-vinculo-entre-la-china-suarez-y-franco-deambrosi-que-desato-polemica-por-las-fechas-nid07072026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-07-08T21:26:15+00:00",
-     "copete": "La Academia de Televisión estadounidense anunció las candidaturas para la 78ª edición de los galardones; la ceremonia de entrega se celebrará el próximo 14 de septiembre, con Mariska Hargitay como anfitriona",
-     "id": "600895963141"
+     "published": "2026-07-08T23:31:34+00:00",
+     "copete": "En Intrusos (América TV) revelaron los detalles del primer encuentro entre la actriz y el piloto de automovilismo, el cual se habría producido mucho antes de lo que trascendió públicamente",
+     "id": "ab159994a9a0"
+    },
+    {
+     "title": "La reacción de Maxi López cuando le preguntaron si Mauro Icardi lo supera como futbolista",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-reaccion-de-maxi-lopez-cuando-le-preguntaron-si-mauro-icardi-lo-supera-como-futbolista-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-08T23:31:18+00:00",
+     "copete": "Mediante sus redes sociales, el exjugador participó de una trivia en la que debía decidir si otros deportistas habían sido mejores que él; los detalles",
+     "id": "ace6bb50add2"
+    },
+    {
+     "title": "Benicio, el hijo de Ernestina Pais, mostró el momento especial que vivió con Rocío Igarzábal",
+     "link": "https://www.lanacion.com.ar/espectaculos/benicio-el-hijo-de-ernestina-pais-mostro-el-momento-especial-que-vivio-con-rocio-igarzabal-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-08T23:31:14+00:00",
+     "copete": "Esta semana, el joven de 22 años compartió en Instagram una foto que se tomó con la actriz, con quien su madre trabajó en la obra El divorcio del año",
+     "id": "bec5eebd74ac"
+    },
+    {
+     "title": "Mónica Ayos grabó a su hija mientras veía a la selección y se viralizó por sus frases: “¡Quebranten ese muro!\"",
+     "link": "https://www.lanacion.com.ar/espectaculos/monica-ayos-grabo-a-su-hija-mientras-veia-a-la-seleccion-y-se-viralizo-por-sus-frases-quebranten-ese-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-08T23:30:31+00:00",
+     "copete": "Victoria Olivera se volvió viral en las redes sociales después de que su madre compartiera un video de ella implorando que la selección avanzara en el Mundial",
+     "id": "9ae7c9235952"
+    },
+    {
+     "title": "Murió Sol Varacalli, la fan de María Becerra que recibió ayuda de la cantante para costear su tratamiento",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/murio-sol-varacalli-la-fan-de-maria-becerra-que-recibio-ayuda-de-la-cantante-para-costear-su-tratamiento/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T23:24:06+00:00",
+     "copete": "La familia de la chica de 28 años confirmó la noticia en sus redes y agradeció el apoyo que recibió durante meses, después de una historia que conmovió por la solidaridad de la artista",
+     "id": "6ae41c9f09d2"
+    },
+    {
+     "title": "El apasionado festejo de Marley con un ex Gran Hermano en el partido de Argentina: “En el tercer gol necesitaba descargar”",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/el-apasionado-festejo-de-marley-con-un-ex-gran-hermano-en-el-partido-de-argentina-en-el-tercer-gol-necesitaba-descargar/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T23:22:08+00:00",
+     "copete": "En medio de la euforia por el 3 a 2 frente a Egipto en el Estadio de Atlanta, el conductor y el exparticipante del reality terminaron a los besos",
+     "id": "5737531664c2"
+    },
+    {
+     "title": "Yuyito González contó su historia de amor con Pappo: “Era un loco lindo”",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/yuyito-gonzalez-conto-su-historia-de-amor-con-pappo-era-un-loco-lindo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T23:06:53+00:00",
+     "copete": "La exvedette relató cómo la conquistó el músico durante un verano cordobés y reveló por qué terminó la relación, de la que guarda un gran recuerdo",
+     "id": "ac941ea5a1d9"
+    },
+    {
+     "title": "Mónica Villa recordó el duro estreno de Esperando la carroza: “Siempre se boicoteó el cine argentino”",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/monica-villa-recordo-el-duro-estreno-de-esperando-la-carroza-siempre-se-boicoteo-el-cine-argentino/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T22:25:55+00:00",
+     "copete": "La actriz, que tuvo un rol protagónico en el film dirigido por Alejandro Doria, contó las vicisitudes que debió sortear la película antes de convertirse en un clásico",
+     "id": "b621c55da3b5"
+    },
+    {
+     "title": "La emoción de Juli Poggio al ser anunciada como parte de Popstars: “Qué lindo volver a casa”",
+     "link": "https://www.infobae.com/teleshow/2026/07/08/la-emocion-de-juli-poggio-al-ser-anunciada-como-parte-de-popstars-que-lindo-volver-a-casa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-08T22:12:18+00:00",
+     "copete": "La ex Gran Hermano fue confirmada como co-host digital del reality musical y compartió su alegría en redes, donde dejó claro que este proyecto era una oportunidad que esperaba desde hace tiempo",
+     "id": "d4b0b65b7db6"
     },
     {
      "title": "Evelyn Botto contó cuántos kilos bajó luego de recibir una advertencia de salud: “Pensaba que me iba a morir”",
@@ -181,76 +261,12 @@
      "id": "76e3ff774984"
     },
     {
-     "title": "Santi Celli: la recomendación de Chano, la colaboración con Ale Sergi y el recuerdo de Salvapantallas",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/santi-celli-la-recomendacion-de-chano-la-colaboracion-con-ale-sergi-y-el-recuerdo-de-salvapantallas-nid08072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-08T21:16:01+00:00",
-     "copete": "El músico cordobés, radicado hace siete años en Buenos Aires, habla de Tranquilo, su nuevo álbum",
-     "id": "c4d79af80b94"
-    },
-    {
-     "title": "Con traje militar, Rebord le respondió a Blender tras la intimación judicial: “Pasamos a la clandestinidad”",
-     "link": "https://www.lanacion.com.ar/espectaculos/con-traje-militar-rebord-le-respondio-a-blender-tras-la-intimacion-judicial-pasamos-a-la-nid08072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-08T21:07:09+00:00",
-     "copete": "El streamer hizo un monólogo de dos horas en su cuenta personal de Youtube y advirtió que “jamás” hará un programa sin su gente",
-     "id": "7f0d044f7685"
-    },
-    {
-     "title": "María Becerra recordó la violencia que la rodeó cuando era adolescente: “No le tenía miedo a nada”",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/maria-becerra-recordo-la-violencia-que-la-rodeo-cuando-era-adolescente-no-le-tenia-miedo-a-nada/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T20:46:19+00:00",
-     "copete": "En una charla durante su paso por España, la cantante repasó cómo el entorno en el que creció marcó su carácter, sus vínculos y el camino personal que después tuvo que trabajar en terapia",
-     "id": "abf912414bb2"
-    },
-    {
-     "title": "Andrea del Boca deja otra vez la casa de Gran Hermano: la razón detrás",
-     "link": "https://www.lanacion.com.ar/espectaculos/andrea-del-boca-deja-otra-vez-la-casa-de-gran-hermano-la-razon-detras-nid08072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-08T20:33:46+00:00",
-     "copete": "Según adelantó Santiago del Moro, esta noche se irá una participante; tiempo después, Ángel de Brito reveló que se trata de la reconocida actriz",
-     "id": "d73d7bbc2cce"
-    },
-    {
-     "title": "El acercamiento de Daniela Celis con Thiago Medina luego de la separación: “Algo hicimos bien”",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/el-acercamiento-de-daniela-celis-con-thiago-medina-luego-de-la-separacion-algo-hicimos-bien/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T20:17:38+00:00",
-     "copete": "La influencer compartió el tierno momento que protagonizaron las dos niñas que tienen en común y le puso fin a la tensión que había entre ellos",
-     "id": "b464a5fa92d5"
-    },
-    {
      "title": "Justin Bieber se suma al show del entretiempo de la final del Mundial 2026 junto a Madonna, Shakira y BTS",
      "link": "https://www.clarin.com/espectaculos/justin-bieber-suma-show-entretiempo-final-mundial-2026-junto-madonna-shakira-bts_0_gejLmshpb2.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-08T20:12:10+00:00",
      "copete": "El cantante canadiense fue confirmado como una de las figuras principales del histórico espectáculo que se realizará el 19 de julio en la final de la Copa del Mundo. Compartirá escenario con Madonna, Shakira y BTS en un show con fines…",
      "id": "a016186347c6"
-    },
-    {
-     "title": "La sorpresa de Jimena Barón para Momo: un viaje inventado y el divertido rol de Matías Palleiro",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/la-sorpresa-de-jimena-baron-para-momo-un-viaje-inventado-y-el-divertido-rol-de-matias-palleiro/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T19:40:01+00:00",
-     "copete": "De viaje por Estados Unidos al ritmo de la selección argentina, la actriz y su pareja improvisaron un sketch para alterar la rutina camino a un sueño",
-     "id": "09c1300f6ef5"
-    },
-    {
-     "title": "La desopilante confusión que vivió Julia Calvo en una misa: “Está entre nosotros”",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/la-desopilante-confusion-que-vivio-julia-calvo-en-una-misa-esta-entre-nosotros/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T19:14:47+00:00",
-     "copete": "En su visita al estudio de Bondi Live, la actriz se sinceró sobre el día en que el ego le jugó una mala pasada y la ceremonia religiosa terminó con una dedicatoria inesperada",
-     "id": "2f70a29c241c"
-    },
-    {
-     "title": "El viaje de Eleonora Wexler a España: turismo histórico, paseos por Mérida y teatro clásico",
-     "link": "https://www.infobae.com/teleshow/2026/07/08/el-viaje-de-eleonora-wexler-a-espana-turismo-historico-paseos-por-merida-y-teatro-clasico/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-08T18:35:48+00:00",
-     "copete": "La actriz aprovechó para armar las valijas y partir rumbo a la ciudad europea para vivir una experiencia única en un festival internacional",
-     "id": "3a81e28d0013"
     },
     {
      "title": "Premios Emmy 2026: uno por uno, todos los nominados de la TV y el streaming de los Estados Unidos",
@@ -268,6 +284,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Qué hacer en la Ciudad de Buenos Aires este fin de semana largo: los festejos del 9 de Julio y los Fan Fest pa...",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRVdvbF9fOXMyYkpBX0c3UVJ1VGY2TkZWZTYwQ09aWElUNEtqTV9BX1V6Q3FLcVVCZUwxaWJiQXdYbTVGY2V0OGFSMmNjXzBwUmVSVUdBUDZDbTNIc2VTNVNhd21nZXlaQ1dwNHRSbk5ndzNaZndlNXJ3R29jWXdEUjVMNUJROUlyUXp0aXV1U3d0Skw5WHkwSDYwSnRKblItTkhHUnFXazJCS3RUTjN1VHY1UGs2YllEd29BcURZam9qNkg3eFN4NG03U3pFREVva21CMjFobEw2bkhIeXU1aUJxNUpPalJOZHZqX0xzX252V2NteUx4LWpDeG94MXhFTVZReE01eWNEMTdXRnfSAZMCQVVfeXFMTl9XbzFIQXd0NWxPUHltVVV6dzlmM3FqeDc4YkpTVXJhVEgyNThrajltc29zV1o4dnhhMzdHS2V4UjV3a1NnZDY5a0dpNVNucU1yb0FYTXZjNDBXQlFJM25lQ0ZrNEUyYmh5dUR3bEw0QXVEVmRlY1B5a2lMUmptRllVMTN4OFNyaEowMHl3aDdYRXJyWVota3RoZUNYLXJQeG84dXpKTW1Rd2VGdldoWTF2d0NKckxNZXNYZjh3UHRrUnBNNjdTQlFuSHJRUDNXX3dhcUJISk01STk4NUh1WENlQUJOMkx2RzB5eVpLOVBPR3pDODhDOXlsVkdYbGl2ZDB5MWxEWGItV0NMdHRIaE4zOTg?oc=5",
+     "source": "Perfil",
+     "published": "2026-07-08T22:10:45+00:00",
+     "id": "4fbced80628f"
+    },
+    {
      "title": "Qué hacer el finde largo en Buenos Aires: celebración por 9 de julio, Mundial 2026 y más",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ExQ1Vhd3QtbnVJalk2bzNKRmdZYkVRTTFodHE1UzQ4Vjd0dUtSSWR6RFc0YzVva1hCbWVOdlh2S2E2WUs3LXRTdzVOZlptVzBIOHJMdi1NWTVyVkpiUU5KSGJrYjJYVTUzWVVlTnVaRHdwSkpBNjVxbTdwT1VTNXFiOVYxVnRQcWVGY0NwdW9sWnFEOGhodEhYbDRERzBMMkY2NUgxcE9QTjlLRnVuR2l6SEY5MVI5ZGhhdXMwRDJ2aVRKTlFnV9IBzgFBVV95cUxNLUM0NV9IZ3ZXcW12QktVemU2SFV4ODI1RUVnVk84aTVVSk16Zm0yd1dFeDdsUkhVN3RXU1JDcDFTQkQyRUQtU2dLbjUzWHBPTDdxV1llTlRHM2oxNV8yUi1tX01RLXhRd0VQUkpkNkV2OTRGNkdzMEcyV0tkRXUwMTJNUXRsOV9NaFBOZkQ5Xzd2WXE2ZF9zYkw3dGZYUGVxZ0RDTVoyNERHZVZtRkNKekNjMUN2ZmFsSVFVN2IyOU4wMEwzOXJTMllIemJLQQ?oc=5",
      "source": "iProfesional",
@@ -278,7 +301,7 @@
      "title": "Premios Pinti: gala inaugural en el Teatro Colón con destacados nominados",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0Q5TTJHbV9hSEo1aHpRbUUtTjVteW5DaGJhZ0RCdHNkaHZLZ3B4MnJfYVZCZDZrTUFkbEE1TzNUWlRwaGlpbWZzX2FEb0dTdTI5XzYwWmlFYkZmM1dmT0ZPS2h2YVZ4dXcwRmtSMXNsZzJvXzNJNnUxOUVnR24wSHRRbmVIMTJRNEFrVnFTdDUzTmtqUFgxWlFqTlpfT2owcWZwNGQ5TVVmWG82SThQVGNuaE9zLTN5TjUzMndtb3RPd9IBxwFBVV95cUxQbWZ3dHlkTkNJbzZVWEl4YWEzOUI0dUhHaU5vSExNOXdMWHlTRzdLN3dDZ05kRGxoRTlOLVhqeEF1NXZwSktLZnkwMTFRV04yWEh3b1BDUDRpaElSNjF5ckd0NURsVS1zNDNiOU5WMXFVS0NTOU1fcXJuMGd2Rk41UG92UndmRTVDNXZOMGdTMkd2X1JZOFc4MkR4OUVBcU5oRDZzckxteTlJRGJDSkc4dlJpeTViVVNzUXpuRjJnTUxnVnhZTjBF?oc=5",
      "source": "Cadena 3 Argentina",
-     "published": "2026-07-08T20:08:37+00:00",
+     "published": "2026-07-08T20:09:26+00:00",
      "id": "2355c1e36daa"
     },
     {
@@ -329,13 +352,6 @@
      "source": "La Nación",
      "published": "2026-07-07T19:50:00+00:00",
      "id": "52b03e1ae8e0"
-    },
-    {
-     "title": "Tres planes gratuitos para disfrutar este fin de semana en la Ciudad de Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUF9icldqMlhYRTI2dFRkeE9KVERTS1pPUVFWRGpWbzBjbXBFUHF4M25VbXczSGVwSmhiNC1wSDdrSFcwdWJuR1dZbDlYRWZMX0Q3Sm1MMDJSZ0xjSlB5cFU5U1hHa3JWbjdxSUxVdjJCc1hjNWQweVJkSWZxODRCVUlEMkZBd3Brekg3a1BDek9BcWx6cGdLRGFfaFBYbVBVTEJZdjNiVTA0cXlSNHl2ekVIbHpRVXZ0M0FvX2Zrb2NtVDlqX3gzNS1ueTRVT3c?oc=5",
-     "source": "La Nación",
-     "published": "2026-07-04T17:20:00+00:00",
-     "id": "a31678005aed"
     }
    ]
   },
@@ -345,84 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Confirmado hoy: todos los partidos que se juegan en EE.UU. por los cuartos de final del Mundial 2026",
-     "link": "https://www.lanacion.com.ar/estados-unidos/confirmado-hoy-todos-los-partidos-que-se-juegan-en-eeuu-por-los-cuartos-de-final-del-mundial-2026-nid08072026/",
+     "title": "¿Cuánto es 4 + 8 ÷ 2 x 0? El cálculo matemático con un resultado casi imposible de encontrar",
+     "link": "https://www.lanacion.com.ar/juegos/retos-visuales/cuanto-es-4-8-2-x-0-el-calculo-matematico-con-un-resultado-casi-imposible-de-encontrar-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-08T21:31:00+00:00",
-     "copete": "Los partidos del Mundial por los cuartos de final en EE.UU., con fechas, sedes y horarios de Argentina, Francia, España e Inglaterra.",
-     "id": "cfd2b3e333a9"
+     "published": "2026-07-08T23:32:04+00:00",
+     "copete": "Una cuenta aparentemente sencilla volvió a dividir a los usuarios en redes sociales; ¿te animás a resolverlo en menos de 30 segundos?",
+     "id": "07fbeba75b64"
     },
     {
-     "title": "Mundial 2026, en vivo: Francia y Marruecos abren los cruces de cuartos de final este jueves",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-marruecos-abren-los-cruces-de-cuartos-de-final-este-jueves-nid08072026/",
+     "title": "Un hombre con ELA recibió un implante cerebral de Neuralink: en qué consiste y cuáles son sus efectos",
+     "link": "https://www.lanacion.com.ar/ciencia/un-hombre-con-ela-recibio-un-implante-cerebral-de-neuralink-en-que-consiste-y-cuales-son-sus-efectos-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-08T21:31:00+00:00",
-     "copete": "El minuto a minuto de las últimas noticias de la selección, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
-     "id": "bd56dbd42721"
+     "published": "2026-07-08T23:31:48+00:00",
+     "copete": "El “RoboCop” canadiense se convirtió en uno de los 26 seres humanos que ya tienen instalado en su cerebro un chip que les permite recuperar movilidad",
+     "id": "8c08958b37b3"
     },
     {
-     "title": "El Salvador tramita una garantía soberana para un préstamo del Banco Mundial por USD 100 millones",
-     "link": "https://www.infobae.com/el-salvador/2026/07/08/el-salvador-tramita-una-garantia-soberana-para-un-prestamo-del-banco-mundial-por-usd-100-millones/",
-     "source": "Infobae",
-     "published": "2026-07-08T21:30:06+00:00",
-     "copete": "La Asamblea Legislativa recibió la solicitud del Ministerio de Hacienda para respaldar el financiamiento, destinado a ampliar el acceso al crédito de las mipymes y apoyar la creación de empleo mediante un programa ejecutado por BANDESAL",
-     "id": "1fb39918c9a3"
-    },
-    {
-     "title": "Signos de alivio y sugestivo silencio oficial en la Armada tras la sentencia judicial por el ARA San Juan",
-     "link": "https://www.lanacion.com.ar/politica/signos-de-alivio-y-sugestivo-silencio-oficial-en-la-armada-tras-la-sentencia-judicial-por-el-ara-san-nid08072026/",
+     "title": "Qué significa tener un caracol en tu jardín o casa y por qué deberías  prestar atención",
+     "link": "https://www.lanacion.com.ar/lifestyle/que-significa-tener-un-caracol-en-tu-jardin-o-casa-y-por-que-deberias-prestar-atencion-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-08T21:28:56+00:00",
-     "copete": "Sectores navales ven con preocupación la condena al capitán Villamide, aunque su ejecución es condicional; entienden que establece un antecedente negativo; el Ministerio Público Fiscal evalúa una apelación",
-     "id": "5fc943df632d"
+     "published": "2026-07-08T23:31:42+00:00",
+     "copete": "Los expertos en espiritualidad china aseguran que este molusco tiene un significado profundo en la vida de los individuos que habitan el hogar y trae un mensaje de esperanza",
+     "id": "cdf8ecfb9ca1"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: movimientos judiciales y repercusiones de la victoria de Argentina en el Mundial",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-judiciales-y-repercusiones-de-la-victoria-de-nid08072026/",
+     "title": "El origen del vínculo entre la China Suárez y Franco Deambrosi que desató polémica por las fechas",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-origen-del-vinculo-entre-la-china-suarez-y-franco-deambrosi-que-desato-polemica-por-las-fechas-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-08T21:28:20+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "9dfc4366324c"
+     "published": "2026-07-08T23:31:34+00:00",
+     "copete": "En Intrusos (América TV) revelaron los detalles del primer encuentro entre la actriz y el piloto de automovilismo, el cual se habría producido mucho antes de lo que trascendió públicamente",
+     "id": "ab159994a9a0"
     },
     {
-     "title": "República Dominicana suma dos GeneXpert equipo de alta gama para reforzar el diagnóstico de la tuberculosis",
-     "link": "https://www.infobae.com/republica-dominicana/2026/07/08/republica-dominicana-suma-dos-genexpert-equipo-de-alta-gama-para-reforzar-el-diagnostico-de-la-tuberculosis/",
+     "title": "Mundial 2026, en VIVO: el análisis de Rubinska sobre lo que dejó la remontada de la selección argentina",
+     "link": "https://www.infobae.com/deportes/2026/07/08/mundial-2026-en-vivo-ultimas-noticias-de-hoy-8-de-julio-fixture-resultados-y-todos-los-detalles-de-la-jornada/",
      "source": "Infobae",
-     "published": "2026-07-08T21:27:14+00:00",
-     "copete": "El Ministerio de Salud entregó dos equipos al Servicio Nacional de Salud, con una inversión de RD 3,377,100, para acelerar pruebas moleculares en la red pública y ampliar el acceso a resultados más precisos",
-     "id": "3801eb5184f5"
+     "published": "2026-07-08T23:28:15+00:00",
+     "copete": "La periodista de Infobae en Vivo habló sobre los puntos sobresalientes del triunfo ante Egipto, el rendimiento de Lionel Messi y la lealtad del equipo hacia él",
+     "id": "2ed5648123f4"
     },
     {
-     "title": "Gobierno de Guatemala impulsa una alianza con TikTok para prevenir adicciones",
-     "link": "https://www.infobae.com/guatemala/2026/07/08/gobierno-de-guatemala-impulsa-una-alianza-con-tiktok-para-prevenir-adicciones/",
+     "title": "El femicida de Junín podría haber estado preso por pedofilia: lo allanaron por filmar a una nena mientras se bañaba, pero no lo detuvieron",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/08/el-femicida-de-junin-podria-haber-estado-preso-por-pedofilia-lo-allanaron-por-filmar-a-una-nena-mientras-se-banaba-pero-no-lo-detuvieron/",
      "source": "Infobae",
-     "published": "2026-07-08T21:26:37+00:00",
-     "copete": "La plataforma mostrará primero materiales elaborados por especialistas cuando los usuarios pidan apoyo para dejar sustancias o consulten por vapeadores, y derivará a un servicio confidencial atendido por profesionales en todo momento",
-     "id": "18eb8932b727"
+     "published": "2026-07-08T23:25:58+00:00",
+     "copete": "Se trata de Sebastián Bonafe, detenido en Pergamino por el bestial crimen de Mercedes Errapán. La PFA ingresó a su casa la semana pasada por orden de un juzgado local. La víctima en este caso tenía siete años. Se descubrió también que…",
+     "id": "bcfbb0624faf"
     },
     {
-     "title": "La inflación interanual en Costa Rica marca -0.32% en junio y sigue fuera de la meta del Banco Central",
-     "link": "https://www.infobae.com/costa-rica/2026/07/08/la-inflacion-interanual-en-costa-rica-marca-032-en-junio-y-sigue-fuera-de-la-meta-del-banco-central/",
+     "title": "El Banco Nación colocó nuevos títulos en pesos y en dólares por USD 270 millones: cómo son y qué tasa pagan",
+     "link": "https://www.infobae.com/economia/2026/07/08/el-banco-nacion-coloco-nuevos-titulos-en-pesos-y-en-dolares-por-usd-270-millones-como-son-y-que-tasa-pagan/",
      "source": "Infobae",
-     "published": "2026-07-08T21:24:45+00:00",
-     "copete": "El Instituto Nacional de Estadística y Censos reportó que la variación acumulada entre enero y junio fue de 0,08%, mientras el Banco Central de Costa Rica prevé un retorno a tasas positivas en el segundo semestre",
-     "id": "f79238cad18b"
+     "published": "2026-07-08T23:25:12+00:00",
+     "copete": "La entidad cerró la segunda etapa de su programa de emisiones en el mercado de capitales, superó el objetivo inicial de 150 millones de dólares y colocó tres clases en pesos, dólares y UVA",
+     "id": "f572c8161171"
     },
     {
-     "title": "Los 21K de Buenos Aires batieron otra vez el récord de inscriptos y confirmaron que son la carrera de calle más importante del continente",
-     "link": "https://www.clarin.com/ciudades/21k-buenos-aires-batieron-vez-record-inscriptos-confirmaron-carrera-calle-importante-continente_0_VRWH6S2RVL.html",
+     "title": "“Va a llegar mi momento”: los detalles del desafío de Dibu Martínez en el Mundial tras la autocrítica por su actuación contra Egipto",
+     "link": "https://www.infobae.com/deportes/2026/07/08/va-a-llegar-mi-momento-los-detalles-del-desafio-de-dibu-martinez-en-el-mundial-tras-la-autocritica-por-su-actuacion-contra-egipto/",
+     "source": "Infobae",
+     "published": "2026-07-08T23:21:52+00:00",
+     "copete": "El arquero se reprochó no “ayudar” al equipo en el partido de octavos de final, aunque reconoció que se preparará para afrontar la recta final de la Copa del Mundo. Cómo se recuperó tras una lesión que estuvo a punto de dejarlo fuera del…",
+     "id": "76ae350efcb0"
+    },
+    {
+     "title": "Cómo ganarle a Gales: el objetivo de Los Pumas para la levantada en el Nations Championship tras la derrota ante Escocia",
+     "link": "https://www.clarin.com/deportes/ganarle-gales-objetivo-pumas-levantada-nations-championship-derrota-escocia_0_uln6dsND5f.html",
      "source": "Clarín",
-     "published": "2026-07-08T21:03:45+00:00",
-     "copete": "Hay más de 31.000 corredores anotados que completaron el cupo un mes y medio antes de la largada, que será el 23 de agosto en Palermo. La World Athletics ubicó a la prueba en el puesto 13 de su ranking mundial, la más alta de toda América…",
-     "id": "ca4b130de19c"
+     "published": "2026-07-08T22:47:32+00:00",
+     "copete": "El jueves, Contepomi dará el equipo que saldrá a jugar el sábado al Bicentenario de San Juan. Moro e Isgró analizaron al próximo rival y remarcaron el trabajo para intentar una mejor perfomance.",
+     "id": "0ef2a49960bf"
     },
     {
-     "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, miércoles 08 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-miercoles-08-julio_0_2nXUn6NUIv.html",
+     "title": "Los productores musicales coinciden: una canción de los años 70 que sigue siendo un éxito del rock progresivo y nació de los ejercicios de guitarra acústica de su compositor",
+     "link": "https://www.clarin.com/estados-unidos/productores-musicales-coinciden-cancion-anos-70-sigue-exito-rock-progresivo-nacio-ejercicios-guitarra-acustica-compositor_0_C141UwlMdA.html",
      "source": "Clarín",
-     "published": "2026-07-08T21:03:00+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "e74ad5507e34"
+     "published": "2026-07-08T22:46:43+00:00",
+     "copete": "La melodía se convirtió en uno de los temas más famosos de la banda.",
+     "id": "5a77adddc6c5"
     }
    ]
   },
@@ -435,17 +451,33 @@
      "title": "Argentina avanza tras una remontada épica contra Egipto y enfrenta en cuartos de final a Suiza, que eliminó a Colombia del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cj6gg4g8y1et?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-08T21:35:30.534570+00:00",
+     "published": "2026-07-08T23:33:26.960257+00:00",
      "copete": "Argentina de la mano de Messi venció 3-2 a Egipto y es ahora la única selección de América Latina en el Mundial 2026. Colombia empató 0-0 con Suiza y, aunque fue más en la cancha, perdió en la tanda de penales.",
      "id": "0a8b2cd88cf1"
     },
     {
-     "title": "Trump da por terminada la tregua con Irán mientras Teherán advierte de una respuesta \"valiente\" a los ataques de EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/cr5j998ll3jo?at_medium=RSS&at_campaign=rss",
+     "title": "\"Es una causa perdida, un socio terrible en la OTAN\": Trump carga contra España y amenaza con una ruptura comercial",
+     "link": "https://www.bbc.com/mundo/articles/ckg8xn3mnk5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-08T21:04:06+00:00",
-     "copete": "En declaraciones previas a la cumbre de la OTAN que se celebrara en Ankara, el presidente añadió que si los negociadores estadounidenses querían seguir hablando con los iraníes, él se lo permitiría.",
-     "id": "10bb095b7723"
+     "published": "2026-07-08T22:25:13+00:00",
+     "copete": "Donald Trump amenazó con romper completamente el comercio con España e incluso \"las visitas\", mientras Pedro Sánchez respondió que las relaciones entre ambos países siguen siendo \"muy positivas\".",
+     "id": "137e5154422c"
+    },
+    {
+     "title": "Análisis: Trump no tiene otra opción que dialogar con Irán, pese a sus amenazas y los nuevos ataques",
+     "link": "https://www.bbc.com/mundo/articles/c4gyldvze0po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-08T21:41:03+00:00",
+     "copete": "El proceso de negociación es frágil y los recientes ataques estadounidenses demuestran lo difícil que será llegar a un acuerdo, escribe Jeremy Bowen, editor internacional de la BBC.",
+     "id": "d988d547bb18"
+    },
+    {
+     "title": "¿Están recibiendo Messi y Argentina un trato favorable en el Mundial?",
+     "link": "https://www.bbc.com/mundo/articles/c862n6ndvjeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-08T21:39:27+00:00",
+     "copete": "Egipto alegó parcialidad a favor de Argentina y favoritismo hacia su jugador estrella, Lionel Messi. ¿Fue así?",
+     "id": "cb0e75e6de87"
     },
     {
      "title": "Estados Unidos cumple la amenaza de Trump y lanza duros ataques contra Irán",
@@ -464,28 +496,12 @@
      "id": "8316dfd6d75e"
     },
     {
-     "title": "El médico alemán condenado a cadena perpetua por el asesinato de 15 pacientes y sospechoso de más casos",
-     "link": "https://www.bbc.com/mundo/articles/c9928zje4pro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-08T17:27:02+00:00",
-     "copete": "El médico alemán especialista en cuidados paliativos ha sido condenado a cadena perpetua por matar a 15 de sus pacientes.",
-     "id": "5666bfce0950"
-    },
-    {
      "title": "Trump lleva el caos a la cumbre de la OTAN de Ankara con insultos y piropos a sus aliados",
      "link": "https://elpais.com/internacional/2026-07-08/trump-lleva-el-caos-a-la-cumbre-de-la-otan-de-ankara-con-insultos-y-piropos-a-sus-aliados.html",
      "source": "El País Internacional",
      "published": "2026-07-08T17:18:27+00:00",
      "copete": "El presidente de Estados Unidos arremete contra los aliados europeos y despliega de nuevo su ambición sobre Groenlandia: “La necesitamos”",
      "id": "7c3df0532804"
-    },
-    {
-     "title": "Quién era Lorenzo Salgado Araújo, el mexicano que murió por disparos de un agente de ICE en Houston",
-     "link": "https://www.bbc.com/mundo/articles/cwy0491r5glo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-08T16:49:14+00:00",
-     "copete": "Lorenzo Salgado Araújo, de origen mexicano, fue tiroteado por un agente del ICE en uno de los barrios de migrantes de Houston.",
-     "id": "6d06e1209125"
     },
     {
      "title": "Fundido a negro y disculpas a los espectadores por mentir: el Gobierno de Hungría corta la emisión de la televisión de Orbán",
@@ -507,11 +523,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
