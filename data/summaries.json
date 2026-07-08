@@ -1,97 +1,96 @@
 {
-  "generated_at": "2026-07-08T10:10:00Z",
+  "generated_at": "2026-07-08T22:06:43Z",
   "summaries": {
-    "221a8245effd": {
-      "resumen": "Cobertura de OncLive sobre un análisis que vincula la duración extendida del esquema FOLFOX (fluorouracilo, leucovorina y oxaliplatino) combinado con atezolizumab (un anticuerpo que bloquea la proteína PD-L1, usado en inmunoterapia) con una mejor supervivencia libre de enfermedad en cáncer de colon estadio III con deficiencia de reparación de errores de apareamiento (dMMR). Interesa porque el dMMR es el biomarcador que mejor predice respuesta a la inmunoterapia adyuvante en este tumor.",
+    "0591903e7cc4": {
+      "resumen": "Caso clínico de The ASCO Post sobre cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC) de aparición de novo, presentado como discusión educativa de manejo terapéutico entre especialistas. Sirve para repasar el abordaje de primera línea en este escenario agresivo.",
+      "destacado": false
+    },
+    "29e1a89a1eb1": {
+      "resumen": "Caso clínico de The ASCO Post centrado en el tratamiento de segunda línea del cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC), con foco en las opciones terapéuticas disponibles tras la progresión a la primera línea.",
+      "destacado": false
+    },
+    "dfff41124b6c": {
+      "resumen": "Caso clínico de The ASCO Post sobre el cáncer de pulmón de células pequeñas en estadio limitado, que repasa el enfoque de tratamiento combinado (quimioterapia y radioterapia) en esta presentación potencialmente curable.",
+      "destacado": false
+    },
+    "5631e32cf74a": {
+      "resumen": "OncLive reporta que INCB123667, un agente oral en investigación, avanza a un ensayo de fase 3 tras mostrar actividad antitumoral alentadora en cáncer de ovario resistente al platino. Interesa porque este escenario tiene opciones limitadas y el fármaco podría sumar una alternativa dirigida.",
+      "destacado": false,
+      "analisis": "Diseño: Cobertura de OncLive sobre resultados de un estudio de fase temprana (fase 1/2) con INCB123667 que motivó el avance a un ensayo de fase 3; el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de ovario resistente al platino (progresión dentro de los 6 meses posteriores a quimioterapia basada en platino).\nIntervención: INCB123667, agente oral en investigación; no se especifica comparador en esta etapa temprana.\nResultados: no disponibles sin el abstract completo, aunque el título indica actividad antitumoral alentadora que justificó el avance a fase 3.\nLimitaciones: sin el abstract no se puede conocer la tasa de respuesta objetiva, la duración de la respuesta ni el perfil de toxicidad del fármaco.\nMensaje: si los resultados de fase 3 confirman la señal temprana, podría sumarse una nueva opción dirigida para el cáncer de ovario resistente al platino, un escenario con pocas alternativas eficaces.\nNota: análisis sin acceso al abstract."
+    },
+    "e306e1e35bf4": {
+      "resumen": "OncLive analiza el rol de las mutaciones en TP53 (un gen supresor tumoral) como factor de estratificación de riesgo en cáncer de pulmón con mutación de EGFR (receptor del factor de crecimiento epidérmico). Interesa porque la coexistencia de mutaciones en TP53 suele asociarse a peor pronóstico y podría influir en decisiones terapéuticas.",
+      "destacado": false,
+      "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente retrospectivo o de una cohorte molecular) que evalúa el impacto pronóstico de las mutaciones en TP53 dentro del cáncer de pulmón con mutación de EGFR; el título no especifica diseño, aleatorización ni tamaño muestral.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación activadora de EGFR, estratificados según la coexistencia de mutaciones en TP53.\nIntervención: No aplica una intervención terapéutica específica; se trata de un análisis de estratificación pronóstica según el estado mutacional de TP53.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la cohorte, el ajuste por otras variables pronósticas ni si el hallazgo se validó en una cohorte independiente.\nMensaje: refuerza la utilidad potencial de testear TP53 junto con EGFR para afinar el pronóstico y eventualmente orientar la intensidad del tratamiento en NSCLC.\nNota: análisis sin acceso al abstract."
+    },
+    "2cb62899d057": {
+      "resumen": "OncLive reporta que el estado del ADN tumoral circulante (ctDNA) como marcador de enfermedad residual mínima (MRD) predice el beneficio en supervivencia global de la quimioterapia adyuvante en pacientes con metástasis hepáticas de cáncer colorrectal (CRC) resecadas. Es un dato relevante porque podría ayudar a seleccionar qué pacientes se benefician realmente de la quimioterapia adyuvante tras la cirugía.",
       "destacado": true,
-      "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente del ensayo ATOMIC o similar) que vincula la duración del tratamiento con atezolizumab y FOLFOX extendido con la supervivencia libre de enfermedad; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de colon estadio III con deficiencia de reparación de errores de apareamiento (dMMR), tratados en el escenario adyuvante.\nIntervención: FOLFOX (fluorouracilo, leucovorina y oxaliplatino) de duración extendida combinado con atezolizumab (inhibidor de PD-L1), comparando distintas duraciones de tratamiento.\nResultados: no disponibles sin el abstract completo, aunque el título indica una asociación positiva entre mayor duración de tratamiento y mejor supervivencia libre de enfermedad.\nLimitaciones: sin el abstract no se puede precisar si el análisis es preespecificado o exploratorio, ni evaluar el balance de toxicidad acumulada con esquemas más prolongados.\nMensaje: si se confirma, respaldaría mantener esquemas de duración extendida con inmunoterapia adyuvante en este subgrupo molecular, aunque haría falta sopesar la carga de toxicidad adicional.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente de una cohorte o sub-análisis de un estudio prospectivo) que evalúa el ctDNA (ADN tumoral circulante) como marcador de enfermedad residual mínima (MRD) tras la resección de metástasis hepáticas de cáncer colorrectal; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal (CRC) y metástasis hepáticas resecadas quirúrgicamente, candidatos a quimioterapia adyuvante.\nIntervención: Quimioterapia adyuvante posquirúrgica, estratificada según el resultado de ctDNA/MRD (positivo vs. negativo) en el período postoperatorio.\nResultados: no disponibles sin el abstract completo, aunque el título indica que el estado de ctDNA/MRD predijo el beneficio en supervivencia global asociado a la quimioterapia adyuvante.\nLimitaciones: sin el abstract no se puede conocer el tamaño de la cohorte, el momento exacto de la toma de la muestra de ctDNA ni si el diseño permite establecer causalidad o solo asociación pronóstica.\nMensaje: refuerza el rol emergente del ctDNA como herramienta para individualizar la indicación de quimioterapia adyuvante en cáncer colorrectal con enfermedad hepática resecada, evitando sobretratar a pacientes con MRD negativo.\nNota: análisis sin acceso al abstract."
     },
-    "2da334b235f7": {
-      "resumen": "The ASCO Post reporta actividad antitumoral duradera de zenocutuzumab, un anticuerpo biespecífico dirigido contra los receptores HER2 y HER3, en colangiocarcinoma (cáncer de las vías biliares) con fusión del gen NRG1. Interesa porque las fusiones de NRG1 son un blanco molecular raro pero accionable para el que hasta ahora había pocas opciones dirigidas.",
-      "destacado": false,
-      "analisis": "Diseño: Cobertura de resultados de un estudio clínico (probablemente el ensayo eNRGy, de fase I/II abierto y multicéntrico) sobre zenocutuzumab en tumores con fusión de NRG1; el título no detalla aleatorización, cegamiento ni número exacto de pacientes.\nPoblación: Pacientes con colangiocarcinoma (cáncer de las vías biliares) positivo para fusión del gen NRG1, un subtipo molecular poco frecuente.\nIntervención: Zenocutuzumab, anticuerpo biespecífico que se une a los receptores HER2 y HER3 y bloquea la señalización activada por la proteína de fusión NRG1.\nResultados: no disponibles sin el abstract completo, aunque el título reporta actividad antitumoral duradera.\nLimitaciones: sin el abstract no se puede conocer la tasa de respuesta objetiva, la duración exacta de la respuesta ni el tamaño de la cohorte con colangiocarcinoma dentro del estudio.\nMensaje: sumaría evidencia a favor de testear la fusión de NRG1 en colangiocarcinoma, hoy un subgrupo con opciones terapéuticas dirigidas muy limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "29f367b27673": {
-      "resumen": "The ASCO Post presenta un estudio que muestra que las inequidades en el acceso al tamizaje de cáncer persisten entre las poblaciones de minorías de orientación sexual e identidad de género. Es relevante porque identificar estas brechas es el primer paso para diseñar estrategias de detección temprana más equitativas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio (probablemente una encuesta poblacional o análisis de bases de datos de salud) sobre disparidades en tamizaje de cáncer; el título no especifica la fuente de datos, el diseño exacto ni el tamaño de la muestra.\nPoblación: Personas pertenecientes a minorías de orientación sexual e identidad de género, comparadas con la población general en el acceso a estudios de tamizaje de cáncer.\nIntervención: No aplica una intervención terapéutica; se trata de un análisis comparativo de tasas de tamizaje (por ejemplo, de cáncer de mama, cuello uterino o colon) entre grupos poblacionales.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el ajuste por factores socioeconómicos ni la representatividad de la muestra.\nMensaje: refuerza la necesidad de estrategias de salud pública específicas para cerrar la brecha de acceso al tamizaje oncológico en poblaciones de minorías sexuales y de género.\nNota: análisis sin acceso al abstract."
-    },
-    "3a7038372b9d": {
-      "resumen": "The ASCO Post cubre investigación preliminar sobre cómo el hígado graso (esteatosis hepática) podría favorecer el desarrollo de metástasis hepáticas en pacientes con cáncer colorrectal. Interesa porque el hígado graso es una condición cada vez más frecuente y podría modificar el pronóstico de estos pacientes.",
-      "destacado": false,
-      "analisis": "Diseño: Investigación preliminar o exploratoria (el título usa \"early research\"), probablemente en modelos animales o cohortes pequeñas; no se especifica en el título el diseño exacto ni el número de pacientes o modelos.\nPoblación: Pacientes con cáncer colorrectal, con foco en aquellos con enfermedad hepática grasa (esteatosis hepática) concomitante.\nIntervención: No es una intervención terapéutica; se explora la asociación biológica entre el hígado graso y el desarrollo o progresión de metástasis hepáticas.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al tratarse de investigación temprana, los hallazgos podrían no confirmarse en cohortes clínicas más grandes ni traducirse en cambios de manejo inmediatos.\nMensaje: abre una hipótesis interesante sobre el rol del hígado graso en la biología metastásica del cáncer colorrectal, a seguir de cerca en estudios futuros.\nNota: análisis sin acceso al abstract."
-    },
-    "d3325804a684": {
-      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de la marca saudita Ashi Studio."
-    },
-    "96077e18be5d": {
-      "resumen": "Vogue repasa la colección de moda masculina Otoño 2026 de la marca japonesa N.Hoolywood, presentada bajo su línea Test Product Exchange Service."
-    },
-    "48fb15208e45": {
-      "resumen": "Vogue presenta la colección Resort 2027 del diseñador italiano Giuseppe Di Morabito."
-    },
-    "28dcec01c5c8": {
-      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 de Armani Privé, la línea de costura de Giorgio Armani."
-    },
-    "52b03e1ae8e0": {
-      "resumen": "La Nación repasa los 16 Restaurantes Icónicos de Buenos Aires y la historia detrás de cada uno."
-    },
-    "89bd644f0544": {
-      "resumen": "Página|12 propone una agenda de actividades vinculadas a la cultura LGBTIQ para este fin de semana en Buenos Aires."
-    },
-    "07a422bed79f": {
-      "resumen": "El Instituto Cultural bonaerense celebrará el Día de la Independencia con un concierto en el Teatro Argentino de La Plata."
-    },
-    "13a7d087c888": {
-      "resumen": "Buenos Aires suma nuevos restaurantes a su lista de íconos gastronómicos: cómo se eligen y cuáles son los 16 que ya integran el listado."
-    },
-    "cdc3653804ff": {
-      "resumen": "Una guía de planes -entre teatro, shows y muestras de dinosaurios- para disfrutar Buenos Aires durante las vacaciones de invierno."
-    },
-    "a31678005aed": {
-      "resumen": "Tres propuestas gratuitas para disfrutar el fin de semana en la Ciudad de Buenos Aires."
-    },
-    "d7bc98d58e44": {
-      "resumen": "Segmento de OncLive que repasa los degradadores de BTK (tirosina quinasa de Bruton, una proteína clave en la señalización de los linfocitos B), una nueva clase de fármacos en desarrollo para la leucemia linfocítica crónica que buscan superar la resistencia a los inhibidores de BTK convencionales como ibrutinib. Funciona como puesta al día general sobre esta clase terapéutica, más que como reporte de un estudio puntual.",
-      "destacado": false
-    },
-    "32d021e5c20b": {
-      "resumen": "Programa de educación médica continua de OncLive, en formato de mesa de debate, sobre oncología de precisión en cáncer de pulmón de células no pequeñas (NSCLC), centrado en cómo trasladar las innovaciones dirigidas a HER2 y TROP2 (proteínas blanco de terapias dirigidas) a la práctica clínica diaria. Es contenido educativo/patrocinado, no el reporte de un estudio puntual.",
-      "destacado": false
-    },
-    "1ebc14fa2aad": {
-      "resumen": "Aviso de retracción publicado en Journal of Clinical Oncology sobre un ensayo aleatorizado que había evaluado si el horario de administración -diurno o nocturno- de la inmunoquimioterapia influía en la supervivencia libre de progresión y la supervivencia global en cáncer de pulmón de células no pequeñas. Relevante porque anula formalmente las conclusiones de un estudio que había circulado en la comunidad oncológica.",
+    "3011aba21fd7": {
+      "resumen": "Respuesta de los autores en Journal of Clinical Oncology a una carta sobre su estudio de olaparib (inhibidor de PARP, una enzima de reparación del ADN) en cáncer de mama metastásico, en la que discuten si la exposición previa a inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) modifica la eficacia del fármaco. Sirve para seguir el debate científico sobre la secuencia óptima de tratamientos en cáncer de mama metastásico.",
       "destacado": false
     },
     "0d91fe4c3d37": {
       "resumen": "Carta a Journal of Clinical Oncology que cuestiona un estudio previo sobre consumo de alcohol y cáncer de páncreas de aparición temprana, señalando que la prediabetes no controlada podría ser un factor de confusión no considerado. Interesa porque pone en discusión la solidez metodológica de una asociación que había llamado la atención en oncología.",
       "destacado": false
     },
-    "3011aba21fd7": {
-      "resumen": "Respuesta de los autores en Journal of Clinical Oncology a una carta sobre su estudio de olaparib (inhibidor de PARP, una enzima de reparación del ADN) en cáncer de mama metastásico, en la que discuten si la exposición previa a inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) modifica la eficacia del fármaco. Sirve para seguir el debate científico sobre la secuencia óptima de tratamientos en cáncer de mama metastásico.",
-      "destacado": false
-    },
     "fba1e33d4687": {
       "resumen": "Comentario editorial en Journal of Clinical Oncology sobre la progresión limitada al cerebro tras el tratamiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido, que plantea la necesidad de tratar el cerebro como 'santuario' sin abandonar el esquema sistémico de base. Aporta contexto clínico sobre cómo manejar esta forma particular de recaída.",
       "destacado": false
     },
-    "f0415215f76b": {
-      "resumen": "Telva recomienda seis marcas que ofrecen trajes de baño y bikinis con bombachas menos cavadas que la clásica braguita brasileña."
+    "b4fdc8623baa": {
+      "resumen": "Respuesta de los autores en Journal of Clinical Oncology a dos cartas que cuestionan su estudio sobre consumo de alcohol y cáncer de páncreas de aparición temprana, en la que abordan tanto el polimorfismo del gen de la aldehído deshidrogenasa 2 (ALDH2) como el posible factor de confusión de la prediabetes no controlada. Permite seguir el debate metodológico sobre esta asociación.",
+      "destacado": false
     },
-    "61f7d9d536dc": {
-      "resumen": "ELLE repasa siete tendencias clave del otoño 2026 que Zara ya adelanta entre sus últimas novedades."
+    "a5a7609a4e95": {
+      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 de Jean Paul Gaultier."
     },
-    "336a43997db3": {
-      "resumen": "Telva reúne siete trucos aprendidos en París para vestir con elegancia en verano a pesar del calor."
+    "d384dcb287af": {
+      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 del diseñador indio Manish Malhotra."
     },
-    "e58c238c2e16": {
-      "resumen": "ELLE selecciona cinco bolsos de tendencia del verano que llegan a la segunda tanda de rebajas de Mango."
+    "43455b44003d": {
+      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 del dúo neerlandés Viktor & Rolf."
     },
-    "a2d44a69eca5": {
-      "resumen": "Vogue México muestra cómo la Alta Costura Otoño-Invierno 2026 lleva los zapatos de tacón hacia una estética de fantasía."
+    "9405512d07a4": {
+      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 del diseñador libanés Zuhair Murad."
     },
-    "e4eed8294311": {
-      "resumen": "Vogue México destaca cómo Robert Pattinson combinó pantuflas con jeans anchos y volvió tendencia una apuesta arriesgada."
+    "3721f5d23e3b": {
+      "resumen": "Vogue México repasa las carteras de lujo de firmas como Louis Vuitton, Dior y Hermès que lucen los jugadores durante el Mundial 2026."
+    },
+    "c2aa80f85200": {
+      "resumen": "Vogue México propone opciones de calzado casual para combinar con pantalones y vestidos de oficina durante el verano 2026."
+    },
+    "641527c8e7a6": {
+      "resumen": "Vogue México presenta luminarias para el hogar inspiradas en tendencias de moda y joyería."
+    },
+    "5597b5f63919": {
+      "resumen": "El Tiempo repasa cómo la ciudad de Cali se prepara para Colombiamoda 2026 con espacios que ponen en valor la industria de la moda del Valle del Cauca."
+    },
+    "e23cdf5db40b": {
+      "resumen": "ELLE elige a las mejor vestidas -entre ellas Dulceida y Daniella Bustamante- en un evento organizado por Pantene."
+    },
+    "eb85422fd736": {
+      "resumen": "HOLA repasa el look de verano de Victoria Federica, con bikini bicolor y bermudas de rebajas, durante sus vacaciones junto al mar."
+    },
+    "f850182b989e": {
+      "resumen": "iProfesional propone planes para el fin de semana largo en Buenos Aires, entre los festejos por el 9 de julio y las actividades vinculadas al Mundial 2026."
+    },
+    "2355c1e36daa": {
+      "resumen": "Cadena 3 repasa la gala inaugural de los Premios Pinti en el Teatro Colón, con la lista de nominados destacados."
+    },
+    "1b9c1b9b17ef": {
+      "resumen": "El musical \"El héroe\", inspirado en la obra del escritor Manuel Rivas, se estrena en el Teatro Empire con una historia centrada en la resistencia."
+    },
+    "b5849daa6253": {
+      "resumen": "La Nación reúne las propuestas de teatro para chicos durante las vacaciones de invierno en la Ciudad de Buenos Aires."
+    },
+    "c922eaed04a1": {
+      "resumen": "El Cronista cuenta cómo un empresario gastronómico con un imperio de restaurantes a nivel mundial abre dos nuevos locales en Buenos Aires con ambición de sumar premios."
+    },
+    "89bd644f0544": {
+      "resumen": "Página|12 propone una agenda de actividades vinculadas a la cultura LGBTIQ para este fin de semana en Buenos Aires."
     },
     "a5056857dad5": {
       "resumen": "elDiarioAR arma una agenda de planes para el fin de semana largo por el Día de la Independencia en la provincia de Buenos Aires."
@@ -99,17 +98,11 @@
     "f4eafec4978c": {
       "resumen": "Canal26 recorre los restaurantes históricos de Buenos Aires que atesoran secretos de más de 270 años."
     },
-    "262b8dfcf516": {
-      "resumen": "Infobae reporta que la actividad física podría prevenir los atracones de nicotina y facilitar que los fumadores abandonen el hábito."
+    "52b03e1ae8e0": {
+      "resumen": "La Nación repasa los 16 Restaurantes Icónicos de Buenos Aires y la historia detrás de cada uno."
     },
-    "e0fcda3d507b": {
-      "resumen": "Infobae difunde un estudio que vincula el hígado graso con mayor riesgo del subtipo más letal de cáncer de colon."
-    },
-    "3b1685ebc584": {
-      "resumen": "Infobae reporta que la vitamina C administrada por vía intravenosa podría mejorar la recuperación de pacientes traumatizados."
-    },
-    "143e4ab21932": {
-      "resumen": "Infobae difunde un estudio que asocia la cirugía bariátrica para bajar de peso con un mayor riesgo de desarrollar alcoholismo."
+    "a31678005aed": {
+      "resumen": "La Nación propone tres planes gratuitos para disfrutar el fin de semana en la Ciudad de Buenos Aires."
     }
   }
 }
