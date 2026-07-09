@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-07-09T10:15:00Z",
+  "generated_at": "2026-07-09T10:25:00Z",
   "summaries": {
-    "0591903e7cc4": {
-      "resumen": "Caso clínico de The ASCO Post sobre cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC) de aparición de novo, presentado como discusión educativa de manejo terapéutico entre especialistas. Sirve para repasar el abordaje de primera línea en este escenario agresivo.",
-      "destacado": false
-    },
-    "29e1a89a1eb1": {
-      "resumen": "Caso clínico de The ASCO Post centrado en el tratamiento de segunda línea del cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC), con foco en las opciones terapéuticas disponibles tras la progresión a la primera línea.",
-      "destacado": false
-    },
     "3011aba21fd7": {
       "resumen": "Respuesta de los autores en Journal of Clinical Oncology a una carta sobre su estudio de olaparib (inhibidor de PARP, una enzima de reparación del ADN) en cáncer de mama metastásico, en la que discuten si la exposición previa a inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) modifica la eficacia del fármaco. Sirve para seguir el debate científico sobre la secuencia óptima de tratamientos en cáncer de mama metastásico.",
       "destacado": false
@@ -21,18 +13,6 @@
     },
     "43455b44003d": {
       "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 del dúo neerlandés Viktor & Rolf."
-    },
-    "9405512d07a4": {
-      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 del diseñador libanés Zuhair Murad."
-    },
-    "5597b5f63919": {
-      "resumen": "El Tiempo repasa cómo la ciudad de Cali se prepara para Colombiamoda 2026 con espacios que ponen en valor la industria de la moda del Valle del Cauca."
-    },
-    "e23cdf5db40b": {
-      "resumen": "ELLE elige a las mejor vestidas -entre ellas Dulceida y Daniella Bustamante- en un evento organizado por Pantene."
-    },
-    "eb85422fd736": {
-      "resumen": "HOLA repasa el look de verano de Victoria Federica, con bikini bicolor y bermudas de rebajas, durante sus vacaciones junto al mar."
     },
     "f850182b989e": {
       "resumen": "iProfesional propone planes para el fin de semana largo en Buenos Aires, entre los festejos por el 9 de julio y las actividades vinculadas al Mundial 2026."
@@ -70,15 +50,6 @@
       "resumen": "OncLive repasa las consideraciones de tratamiento a largo plazo y las necesidades no cubiertas en el glioma con mutación de la isocitrato deshidrogenasa (IDH), un subtipo de tumor cerebral de evolución más lenta pero sin cura definitiva. Aporta una puesta al día sobre el manejo crónico de esta población de pacientes.",
       "destacado": false
     },
-    "8c859eab0c01": {
-      "resumen": "The New England Journal of Medicine publica un ensayo clínico sobre ensartinib, un inhibidor de la quinasa del linfoma anaplásico (ALK), como tratamiento adyuvante (posterior a la cirugía) en cáncer de pulmón de células no pequeñas (NSCLC) resecado con reordenamiento de ALK. Es un estudio clave porque define si el tratamiento dirigido adyuvante mejora los resultados en esta población, en línea con lo ya establecido con alectinib.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado y de fase III, según el formato habitual de NEJM) que evalúa ensartinib como terapia adyuvante; el título no permite precisar cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado quirúrgicamente y reordenamiento del gen ALK (quinasa del linfoma anaplásico) confirmado.\nIntervención: Ensartinib (inhibidor de ALK de segunda generación) en el escenario adyuvante posquirúrgico; el comparador habitual en este contexto sería placebo o el seguimiento estándar, aunque no se confirma sin el abstract.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer el tamaño muestral, el seguimiento alcanzado ni la magnitud del beneficio en supervivencia libre de enfermedad.\nMensaje: si confirma beneficio, sumaría una nueva opción de terapia dirigida adyuvante para el NSCLC ALK-positivo resecado, ampliando el paradigma ya instalado con alectinib en este escenario.\nNota: análisis sin acceso al abstract."
-    },
-    "f34c1990f183": {
-      "resumen": "The ASCO Post repasa cómo integrar la inmunoterapia a lo largo de todo el espectro del cáncer de pulmón de células pequeñas (SCLC), desde la enfermedad en estadio limitado hasta la extendida. Sirve como puesta al día práctica sobre el rol creciente de los inhibidores de punto de control inmunitario en este tumor agresivo.",
-      "destacado": false
-    },
     "2a0ee5a428c4": {
       "resumen": "Journal of Clinical Oncology publica una reflexión a 20 años sobre la atención de los sobrevivientes de cáncer, revisando qué avanzó y qué sigue sin resolverse en la transición del tratamiento activo al seguimiento a largo plazo. Interesa porque pone en agenda un aspecto de la atención oncológica muchas veces postergado.",
       "destacado": false
@@ -89,13 +60,8 @@
     },
     "2217611743fd": {
       "resumen": "Journal of Clinical Oncology presenta un ensayo clínico de inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados genéticamente con un lentivector que expresa la enzima MGMT (O6-metilguanina-ADN metiltransferasa), en pacientes con glioblastoma primario. Es relevante porque explora una estrategia de terapia celular novedosa para uno de los tumores cerebrales de peor pronóstico.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I) que evalúa la inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados con un lentivector que expresa MGMT (O6-metilguanina-ADN metiltransferasa); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con glioblastoma primario (tumor cerebral primario de alto grado).\nIntervención: Terapia celular con linfocitos T gamma-delta modificados genéticamente, administrada por vía intracraneal; el diseño de fase temprana sugiere ausencia de comparador.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la seguridad, la tasa de eventos adversos, el número de pacientes tratados ni si se observó actividad antitumoral.\nMensaje: aporta prueba de concepto sobre la factibilidad y seguridad de una nueva plataforma de terapia celular intracraneal en glioblastoma, un tumor con opciones terapéuticas muy limitadas, aunque su impacto clínico definitivo requiere estudios posteriores.\nNota: análisis sin acceso al abstract."
-    },
-    "e616a59b6cb6": {
-      "resumen": "The New England Journal of Medicine publica un ensayo clínico de fase III sobre pembrolizumab (inhibidor de punto de control inmunitario) combinado con belzutifan (inhibidor del factor inducible por hipoxia 2-alfa, HIF-2α) como tratamiento adyuvante en carcinoma de células renales de alto riesgo. Es un estudio destacado porque podría redefinir el estándar adyuvante actual, hoy basado en pembrolizumab en monoterapia.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado y de fase III, dado el formato habitual de NEJM) que compara pembrolizumab más belzutifan como terapia adyuvante; el título no permite precisar cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales (cáncer de riñón) resecado de alto riesgo de recaída, candidatos a tratamiento adyuvante.\nIntervención: Pembrolizumab (inhibidor de PD-1) combinado con belzutifan (inhibidor oral del factor inducible por hipoxia 2-alfa, HIF-2α); el comparador probable es pembrolizumab en monoterapia, el estándar adyuvante vigente tras el estudio KEYNOTE-564.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la magnitud del beneficio en supervivencia libre de enfermedad, el perfil de toxicidad de la combinación ni el seguimiento alcanzado.\nMensaje: si la combinación supera a pembrolizumab en monoterapia, podría convertirse en el nuevo estándar adyuvante para el carcinoma de células renales de alto riesgo, ampliando las opciones más allá de la inmunoterapia sola.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I) que evalúa la inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados con un lentivector que expresa MGMT (O6-metilguanina-ADN metiltransferasa); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con glioblastoma primario (tumor cerebral primario de alto grado).\nIntervención: Terapia celular con linfocitos T gamma-delta modificados genéticamente, administrada por vía intracraneal; el diseño de fase temprana sugiere ausencia de comparador.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la seguridad, la tasa de eventos adversos, el número de pacientes tratados ni si se observó actividad antitumoral.\nMensaje: aporta prueba de concepto sobre la factibilidad y seguridad de una nueva plataforma de terapia celular intracraneal en glioblastoma, un tumor con opciones terapéuticas muy limitadas, aunque su impacto clínico definitivo requiere estudios posteriores.\nNota: análisis sin acceso al abstract."
     },
     "4d6aa6994646": {
       "resumen": "Vogue México repasa el look de la cantante Danna, con sandalias de plataforma y un vestido café de Alta Costura."
@@ -103,14 +69,35 @@
     "30db460b6bb5": {
       "resumen": "Vogue México informa la fecha de los Premios Emmy 2026, cuándo se anunciarán los nominados y dónde se podrá ver la ceremonia."
     },
-    "6efdab51e105": {
-      "resumen": "Vogue México repasa los mejores momentos del Mundial 2026 hasta el momento, incluidos algunos que quizás pasaron desapercibidos."
-    },
-    "9a796a56a087": {
-      "resumen": "Multimedio Genesis repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
-    },
     "4fbced80628f": {
       "resumen": "Perfil repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
+    },
+    "892bfb0d560a": {
+      "resumen": "The ASCO Post presenta un caso clínico didáctico de carcinoma hepatocelular (cáncer de hígado) limitado al hígado, discutido por especialistas para repasar las opciones de tratamiento locorregional y sistémico en esta presentación. Sirve para actualizar el enfoque terapéutico en esta situación clínica.",
+      "destacado": false
+    },
+    "19ec8e10bd9b": {
+      "resumen": "The ASCO Post presenta un caso clínico didáctico de carcinoma hepatocelular (cáncer de hígado) metastásico, discutido por especialistas para repasar el abordaje terapéutico de primera línea en esta presentación avanzada. Es útil para actualizar el manejo sistémico del cáncer de hígado diseminado.",
+      "destacado": false
+    },
+    "44e22a960ef8": {
+      "resumen": "The ASCO Post presenta un caso clínico didáctico de carcinoma hepatocelular (cáncer de hígado) metastásico tras la falla a la inmunoterapia de primera línea, discutido por especialistas para repasar las opciones terapéuticas de rescate. Sirve para actualizar el manejo en este escenario de progresión.",
+      "destacado": false
+    },
+    "155d69ddb565": {
+      "resumen": "Telva repasa cómo fue el espectacular desfile de Chanel."
+    },
+    "ea7ade53ca39": {
+      "resumen": "LOS40 presenta las tendencias en manicura para este verano 2026, con diez diseños de uñas originales para copiar."
+    },
+    "738b8832b674": {
+      "resumen": "El Sol de México destaca a Vera Wang, la diseñadora de casi 80 años que sorprende por su aspecto joven en la Semana de la Alta Costura de París."
+    },
+    "e3366cb1b77c": {
+      "resumen": "Telva elige las sandalias del verano que se repiten tanto en la Alta Costura como en Wimbledon."
+    },
+    "52b03e1ae8e0": {
+      "resumen": "La Nación repasa cuáles son los 16 Restaurantes Icónicos de Buenos Aires y la historia detrás de cada uno."
     }
   }
 }
