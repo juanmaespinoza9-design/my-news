@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T04:26:13.947144+00:00",
+ "generated_at": "2026-07-09T10:04:22.189023+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,10 +7,31 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Case 2: Metastatic Hepatocellular Carcinoma",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVWNaZm56bktybGlqLVNGUi1nLTljR2c1bUtSeEpYLVZDa3BJbE5Ta1N5a1V0Rk5IRnAxS1BTZkFOZlBXMElEdHR5XzJlRHY0SmZIX0lHdldqaG15dEh2ck55V19EcktiZXBpbE1hRVdGRWpveGxvTkw2U2lKNEd0R3kxVTZhUUJzSTBPRWFiYU5xZXExM2ctY3cwV0YtZ213bzlBYUR5M25RR1I2VGt5RW9nVjdqN2ZNMTN2VU9USVlJZFd3ZzRNV1RqaG1VVFd2MmppTg?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-07-09T03:42:17+00:00",
+     "id": "19ec8e10bd9b"
+    },
+    {
+     "title": "Case 3: Metastatic Hepatocellular Carcinoma After Failure of First-Line Immunotherapy",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcTlXTTJNTzZwUWxWXzlWVEFKVEw1ZHRia252Y0Zjd09sWi01NkVuSlBXQnBjZG9uZlVMcndWOW10VERuVDVhQjFJQl9SMGY1cEQ3UGItX3R0Si0tNDZ4QkhlLU1CRW1zeDlRWDl4elpjOHFDb0dCX1pBWC1zQ3JOUjBzd0dGQjExTnVQRWZkdFhManBkMGFLNHJlNGZwM0pjcnNTTmxwbEFyNnMzb00tNF9McWNSUWpVbEhFZEEwUGVvVWRPNFJZd1VIa3dqT1hRRXBiYUtfWVA5eHd4c0txQURWTWp6WjZ5Y1dsUmVPSG44b01FaWdhRW9HOXV4elpBR2J4UGN0a19fa1JB?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-07-09T03:42:17+00:00",
+     "id": "44e22a960ef8"
+    },
+    {
+     "title": "Case 1: Liver-Limited Hepatocellular Carcinoma",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdkpIY3VQOHRGZFYxTHdHblR6dlhCWTNfT2NhdnQySTY4bHFTUFJ2RUdkVU1XTlp6NkxaVXFXQ2xwdF8tS25nWUN3cExXSEdGNC1rU192LUs5MmVGU3NvUlpnVjZMWGtFR1IwZ1RnN09LMTRCWldINGduZ0NERGxqR0c0cHh3LWFMdnJ1UnpTVnR1SnRuekI4cWJTYkYxc0JuUS1WV1JDR2pJMFllWGNpVEp6Q2x4Q3kyUExucXFSWEVmNGdtTjg5SGxwSDlGVjdvVjAyWEdXTmY?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-07-09T03:42:16+00:00",
+     "id": "892bfb0d560a"
+    },
+    {
      "title": "How Bispecific T-Cell Engager Therapy Works and Why HLA Status Is Non-Negotiable",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWxYeklpaGtYNU5ZZzQzSmZ0TVRBbVN6SzA1OThadzFLS1pLNVhfMXk2SjNFVGVHOTIwdXhjQ1UxdW1tc3lGckV4b19iQl9jWjQzeGpjdWVlekJjV3F1R0RvUUhoOXJyVHMzR09YY3pTUjF4SlFibnJGbnh1WkpoUV9uU1RFMXg3Q25OY3JtdFMzUDFfcUlsZWZrVTRpZktTUG5NZ2tzV3pkc1huR0E?oc=5",
      "source": "OncLive",
-     "published": "2026-07-09T00:33:45+00:00",
+     "published": "2026-07-09T00:37:51+00:00",
      "id": "6170715b4ba8"
     },
     {
@@ -26,35 +47,6 @@
      "source": "OncLive",
      "published": "2026-07-09T00:01:31+00:00",
      "id": "362145e10c4b"
-    },
-    {
-     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-09T00:00:00+00:00",
-     "copete": "Yue D et al. · The New England journal of medicine",
-     "id": "8c859eab0c01"
-    },
-    {
-     "title": "Case 2: De Novo Extensive-Stage Small Cell Lung Cancer",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMkxIRzBsdmQxZTJSaFpSaTRWTDJPbm9Fd2hBZlJLV3ZtM1NURENsOXNiYjRtT3FQTGFXQ0tyNTZzbVl3LW1BZDcwY1l5QTAxd0lLNTBEcE41Q1dHdWRhcFNkemlraGtuRkxEbTZDQkFSM0ZlY3dha3hPMWJMd1lCcDdjZXlaM0I3a3Y0RFA0WWcyN2t5MW90Q3dJN0hHUldkRlFkUjFuZld0d01OME9OTkIwXzFXREV5UzJhRnhKcGxfbzd1bEZWMHZrT2JSQXk2Snc?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-07-08T19:32:13+00:00",
-     "id": "0591903e7cc4"
-    },
-    {
-     "title": "Integrating Immunotherapy Across the SCLC Spectrum",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOam5WYkc1aVdUYzl3Z1lMbEg0RnFnRGY4cDVxNGVEU19GalBRbnozOGRKRDlla212QU1hWFBMOXdmZkVYVGZVOVNvYW92RVFnM1g3NTFfUTBvTHdfMngzT2dLcUo4QlNLdmRCejVtVHVjY2Noc2pYQ3RqbzFHcjNxZ3lsUUtlZ0VQRTY4?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-07-08T19:32:13+00:00",
-     "id": "f34c1990f183"
-    },
-    {
-     "title": "Case 3: Second-Line Treatment of Extensive-Stage Small Cell Lung Cancer",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY2M4R0lKNXNhTlNNVUtsUk1Hak5xNEdYQnhBbWFXZFVYZmFSS2s0dlpETWxuMUpHdW16QnJpU1NBM1luLVFqb3ZhNWo2WDZGeXFLLWExMXljbi1KRjUxS1JmNU5jajMzLTNfNEpPVUxsWnlxdExzdnMtUC1BYTBGVC12QWF0QzZMak92bG5jWVQ2TWstWFVQby12VUtGcXZMQTA1R09tZk1IUHByREQ2VkZMNXdzUG9TNzFsQlhiTnlpUElZQ1p0N0ZpZUxhZk03elpITTlxSmNKQUNaRXMybWxBdVVCWUlx?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-07-08T19:32:12+00:00",
-     "id": "29e1a89a1eb1"
     },
     {
      "title": "Still Lost in Transition? A 20-Year Reflection on Cancer Survivorship Care",
@@ -87,14 +79,6 @@
      "published": "2026-07-07T00:00:00+00:00",
      "copete": "Tung NM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "3011aba21fd7"
-    },
-    {
-     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Choueiri TK et al. · The New England journal of medicine",
-     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -107,35 +91,64 @@
      "title": "Jean Paul Gaultier Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/jean-paul-gaultier",
      "source": "Vogue",
-     "published": "2026-07-09T04:21:57+00:00",
+     "published": "2026-07-09T10:00:14+00:00",
      "id": "a5a7609a4e95"
     },
     {
      "title": "Manish Malhotra Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/manish-malhotra",
      "source": "Vogue",
-     "published": "2026-07-09T04:21:57+00:00",
+     "published": "2026-07-09T10:00:14+00:00",
      "id": "d384dcb287af"
     },
     {
      "title": "Viktor & Rolf Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/viktor-rolf",
      "source": "Vogue",
-     "published": "2026-07-09T04:21:57+00:00",
+     "published": "2026-07-09T10:00:14+00:00",
      "id": "43455b44003d"
     },
     {
-     "title": "Zuhair Murad Fall 2026 Couture",
-     "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/zuhair-murad",
+     "title": "Vittoria and Leo! Kylie and Timmy! The Citi Bike Is This Summer’s Hottest Celebrity Date Spot",
+     "link": "https://www.vogue.com/article/citi-bike-celebrity-date-spot",
      "source": "Vogue",
-     "published": "2026-07-09T04:21:57+00:00",
-     "id": "9405512d07a4"
+     "published": "2026-07-09T09:55:33+00:00",
+     "copete": "Harry and Zoe may have London’s grassy Hampstead Heath, but in New York, celebrities are embracing the breezy bike, the Citi Bike seat a spot for summer romance to bloom.",
+     "id": "2c1dca3f24cc"
     },
     {
-     "title": "Danna luce elegante con sandalias de plataforma y un vestido café de Alta Costura en París",
+     "title": "Así fue el espectacular desfile de Chanel",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Qc3N6ekI2MHdpT2ZlOG9vc2cyQ2dGVS1HNllMODBwbFR0RWpkdlFkemFodnpKb3hjeVgzTVFiTGF3c2tfTnJ0a3p0WVhhRmJHVzVuUkROOXVBQlgyRVduM0xmYmxuTGZIZkZSZUZtbm1FY0ZmSHpIbG5jOWExUQ?oc=5",
+     "source": "Telva",
+     "published": "2026-07-09T09:12:23+00:00",
+     "id": "155d69ddb565"
+    },
+    {
+     "title": "Tendencias en manicura este verano 2026: 10 uñas originales que querrás copiar",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTNNYUxDaFY0cnFvc2EwRXh5UkxxWlk2WTJ2T3luZDJIdnpYVkNmNWRyUUozVkh6ekVuUXlJT3NSU3YweTJWS1ZodzJFc2poRzR3d0hhRF9kR19wcFhzeUMtbHQ4QWRIQmY5MHdrSXU0Q1RONFcyMzQySEJiSGM4Q1Y2cWd4NVdMdUxDTGF3cUJTOXJXVVA2OHFIbUR4YUJYRDQwRHBRRVBiT1nSAb8BQVVfeXFMTklFTEhRWENhV2VJZEo0dTBiaUI3MXFLWXBsN1ZnRXY4MDVRTEhCeWxUZ1h4WXhZdjdGbm0zR3VQSHNEVEp4VUQtck5QY0tmVkRhSDZ4Y2JxWmx3dkt2OTVjOVZrVUNBVk9aWlhYNWNJNEtnZWtxeDdCUU1FLXQ5eHZYUHREZ0doU1p6elJxZ2Q0S3VjM0JtMlRZT3ZXazRhTDZuTnZENUhsWmo3RkZOeFRHQXpSQVY0cjVETkZsMlU?oc=5",
+     "source": "LOS40",
+     "published": "2026-07-09T08:07:21+00:00",
+     "id": "ea7ade53ca39"
+    },
+    {
+     "title": "Vera Wang, la diseñadora de casi 80 años que sorprende por su aspecto joven en la Semana de la Alta Costura de París",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcmJoY0JuY0JmUkY2TlFjT08ybXFsRm84SG5iQWhBN3c3UXg1Y0YwWnFWaVp1QV8ta0Z4TDRQU1JZWUJrcmhLWWZEb2FsdVV6dHlyTzJSYWtnTDBxTk5qNUFreWhCNEw0REJCbHJDcmJTckVNY3lBczc3SHBkRzVpbzVmNHVPZlRPX1M0ekdNT0dNcHhvaHFabGVjYS1QU0ZjVlI2dkFWSUJ2UkIxc0hQemxwTFBid3hWMDktQ2xQdVQ3UGtFMXlhXy16aFd5cUJ1ZkpheWExRWhTYlJpZ1U4VUc1VVY2TmxSY1F4SlRUSDRzaHBCSFpxU0hjR1o?oc=5",
+     "source": "El Sol de México",
+     "published": "2026-07-09T06:10:30+00:00",
+     "id": "738b8832b674"
+    },
+    {
+     "title": "Para sorpresa de nadie, nombramos oficialmente estas las sandalias del verano porque no dejamos de verlas tanto en la Alta Costura como en Wimbledon",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVQtUmJybURUaXprbUJ1WFdrWkVLOTBsanVjWHlDMFYxdkl2ZTBQclZ5ZVZ3WkQ3cTJwam9EVkZpV1NxTTlPbkhUUWRpZ0kyQzBiQ1djNDNJbWw2YU1Kbmp3ZkQ1VkZ1cEUzaEI2a045UWlSYmRGWHYteXFqbVNXRE5ncETSAYQBQVVfeXFMTm15dl9Fb2s0ckdidHZMS0g5aXFGU0NkbGdGYVpfRXdpeDc0TkNSUWl6QmFPUVduZTdJdFRwRk5IRzd6d1RCUUFnY0hrTTRiTnRJTTY1OWdOMTY1V1ZmSndYS2lYZW9MQ0VDdGd3WTVjMVE1czJNa0k5WVpmM3Nqa0xLdDk5?oc=5",
+     "source": "Telva",
+     "published": "2026-07-09T05:50:34+00:00",
+     "id": "e3366cb1b77c"
+    },
+    {
+     "title": "Danna deslumbra con un vestido elegante color café de alta costura y sandalias de tacón en París",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjBZaUZWTkRNdnI3d2hlQTRvQmlMWDBpTGlQWUFfM0Q5NUsyOFIyYU5yWmRvVm9jelgza2t2RDVoWTBYblZvTzlCOGhxVWRRNFZ3OWRDVWllVmFWdjdqemtvcmxacUpHTWcxZHkwTC1CQVFJUmxMUU5TUW9UQlRYWGlnOENtY3NtcXNGc3pWWTN2V3VxOS1HQ2lfclBPUVUzQlBFcVp0YU9EaUZkcFdSaDBKVjFqV3R0RVNDSg?oc=5",
      "source": "Vogue México",
-     "published": "2026-07-09T00:34:01+00:00",
+     "published": "2026-07-09T03:15:36+00:00",
      "id": "4d6aa6994646"
     },
     {
@@ -144,34 +157,6 @@
      "source": "Vogue México",
      "published": "2026-07-08T23:31:28+00:00",
      "id": "30db460b6bb5"
-    },
-    {
-     "title": "Los mejores momentos del Mundial 2026 (hasta ahora) y los que quizá viste",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jU2RYWnl3SGhxbi1RVHk3cUJFSzV3WkFQOGg0RGlhQW8xMnFkUWRDMnAyaDFCMkoybXRaS0ZFVnlFUHBJYWlsd1VnanZ2RTJILTZMeWFSOG5UWE5BNWpjOE01WEhwNzdtdFBR?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-08T23:08:15+00:00",
-     "id": "6efdab51e105"
-    },
-    {
-     "title": "Cali abre el camino hacia Colombiamoda 2026 con espacios que destacan el potencial de la moda del Valle del Cauca",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenNkVHd6UzFrV1pfNHU5MXhMNlZ0WVBtMzQzWHRPZXRVM3ZzZFBMX3BuMmpZajlrbk9QRU9EcFdCdVR0SGE1SnlVeUM4N3F0Ylh4Nm5JcDNoX3RYNjhCUDExbV90dmdieHJ5LWQ2eVk3cjZuT1RKYVNNcjVlektBcDhnTGd4MC1ra3RpY2E3aERuZjZHd3NMWUhuVEI1NFRmWjJuT2gtOS1PZUk4WW9CUTAtRnpJTzN2Y1JZRkowWmZzRVdOOXFXekxzWWVCVXVEcEtHU3NsenplVkliVHE2Y0JnOWg3clBaZnRERnlSVUxrSGNT0gH6AUFVX3lxTE1OOHJhTnd5SUU2ZEdzNXNIQVNEYjNlZG85TGFvd0JiUmRsT1NZQWsxSlE3aUdtNU1QRnNOc3JhMmt5dnlFMjdsMU44eFRGaU4wWkNXLXEybHo0RDFwRlZyamp2SEZXcmw1T1plUjFMb1QxaDd6Wmg1LTlZYjNfQy01T2NVQVFOcnNLQ29SZ3IzTkFzNFp5RHE5ZW5BZzlIdnN1eTJnRkVEdmxhcVUyZGVJaENXRVAzMnN4ano5Tmg4OFhUNVVRLV9ya3J3SjE1NnlYZk1kdWhEXzVtQkdUcUR0eFY0VFQzVDhXVUYtOGNHTl85RHFOckNCdVE?oc=5",
-     "source": "ELTIEMPO",
-     "published": "2026-07-08T17:17:29+00:00",
-     "id": "5597b5f63919"
-    },
-    {
-     "title": "De Dulceida a Daniella Bustamante: las mejor vestidas del evento de Pantene",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWdLekd1T01aWlRiMmczZFUwYVF2RVNkYVRpY2xYOThDamJ6YWVmdTZfcmxaWHRyQmgxM0FveFBsZm9fX20xVmtfQnYta05KTGtmZVVod1VndEZ4UXlNdjVFOEViMVpGaDg4VDBpX25JX2lPdUZ2YU5YSVlReW9pc0M4NDBERUlmV3JrbVhwQkR0azhDZ0U4Z3ZJcXRiZnoyclV5VkRkV2JUYm1FT1RTaw?oc=5",
-     "source": "ELLE",
-     "published": "2026-07-08T15:13:35+00:00",
-     "id": "e23cdf5db40b"
-    },
-    {
-     "title": "El verano de Victoria Federica: un posado en bikini bicolor y unas bermudas de rebajas que ya son tendencia junto al mar",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEFaWEY5SWRjN19NdDQzUER0QnpyelpqQ2tOd1JGa2xhQ0xUbjhwLVZYQ0ExUGJZN0dTM2d1YXc5aWF1VDVTOVVwRlo3S1JEMjBoa2ZhcmJKRDZYVVppTFBFTzVYSVppMk9KN3RORTB5cC1vaVV4ZV9faUVXdU5zT1ljdjhqZXlIVm8yRmNzUktSZk5VLUpLNHp2eE5EYmpFMVE?oc=5",
-     "source": "HOLA",
-     "published": "2026-07-08T14:06:56+00:00",
-     "id": "eb85422fd736"
     }
    ]
   },
@@ -180,6 +165,62 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Murió Bonnie Tyler, la cantante británica que lideró los rankings con Eclipse total del corazón",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/murio-bonnie-tyler-la-cantante-britanica-que-lidero-los-rankings-con-eclipse-total-del-corazon-nid09072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-09T09:57:41+00:00",
+     "copete": "A inicios de mayo pasado, la artista había tenido que ser inducida médicamente a un coma tras una cirugía intestinal de urgencia en Portugal",
+     "id": "d6be1c8ce0d0"
+    },
+    {
+     "title": "Andrea del Boca dejó otra vez la casa de Gran Hermano: la razón detrás",
+     "link": "https://www.lanacion.com.ar/espectaculos/andrea-del-boca-deja-otra-vez-la-casa-de-gran-hermano-la-razon-detras-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-09T09:40:45+00:00",
+     "copete": "Santiago del Moro anunció que una participante dejaría el reality y horas después Ángel de Brito confirmó que se trataba de la actriz",
+     "id": "d73d7bbc2cce"
+    },
+    {
+     "title": "Ella era la vedette del momento, él un pionero del rock nacional y juntos vivieron un romance de verano que pocos recuerdan",
+     "link": "https://www.lanacion.com.ar/espectaculos/ella-era-la-vedette-del-momento-el-un-pionero-del-rock-nacional-y-juntos-vivieron-un-romance-de-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-09T09:36:55+00:00",
+     "copete": "Yuyito González y Pappo se conocieron en la década de 80 en Córdoba y vivieron un fogoso amorío que acaparó las tapas de revistas de la época",
+     "id": "dc94a7cd0361"
+    },
+    {
+     "title": "La película subida de tono que está en Netflix y es ideal para los amantes del amor prohibido",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-pelicula-subida-de-tono-que-esta-en-netflix-y-es-ideal-para-los-amantes-del-amor-prohibido-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-09T09:30:58+00:00",
+     "copete": "Siempre fiel se estrenó en 2022 y desembarcó en el gigante del streaming un año más tarde; sin embargo, en las últimas horas volvió a acaparar la atención de los suscriptores",
+     "id": "bee5a1e6fe3d"
+    },
+    {
+     "title": "9 de julio, Día de la Independencia: los músicos argentinos eligen la canción que mejor representa el ser nacional",
+     "link": "https://www.clarin.com/espectaculos/9-julio-dia-independencia-musicos-argentinos-eligen-cancion-mejor-representa-nacional_0_dmhjdcegva.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-09T09:00:53+00:00",
+     "copete": "En el 210° aniversario de la Independencia argentina, intérpretes y compositores de distintos géneros seleccionaron la obra que, para ellos, mejor resume quienes somos. Del tango y el folclore al rock, la cumbia y la música clásica, las…",
+     "id": "fa0033eae909"
+    },
+    {
+     "title": "De La familia Ingalls a La casa de la pradera: el juego de las diferencias entre la original y la nueva serie de Netflix",
+     "link": "https://www.clarin.com/espectaculos/familia-ingalls-casa-pradera-juego-diferencias-original-nueva-serie-netflix_0_0kqurHs2hS.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-09T07:02:48+00:00",
+     "copete": "Este jueves se estrena en la plataforma la remake de la icónica ficción que contaba la travesía familiar en busca de un futuro mejor en el Oeste. ¿Qué códigos y elementos son distintos en esta versión modernizada? ¿Qué llama la atención?…",
+     "id": "f236b7266cee"
+    },
+    {
+     "title": "Cómo es La casa de la pradera, la nueva versión de La familia Ingalls, por Netflix: el mismo aura, pero con tinte social y mujeres de armas tomar",
+     "link": "https://www.clarin.com/espectaculos/casa-pradera-nueva-version-familia-ingalls-netflix-mismo-aura-tinte-social-mujeres-armas-tomar_0_zkimPMUD6g.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-09T07:02:48+00:00",
+     "copete": "Lejos de la nostalgia, la remake de la icónica serie de los años ‘70 y ‘80 funciona por sus diferencias y por sus códigos más cercanos a una serie del siglo XXI. Se mantiene el espíritu de la original, pero crecen conflictos por el temor…",
+     "id": "9f9051115527"
+    },
     {
      "title": "Franco Masini habló de sus jugadas escenas de sexo: “No dejé que mi abuela las vea”",
      "link": "https://www.infobae.com/teleshow/2026/07/09/franco-masini-hablo-de-sus-jugadas-escenas-de-sexo-no-deje-que-mi-abuela-las-vea/",
@@ -213,68 +254,12 @@
      "id": "78e1841177b8"
     },
     {
-     "title": "Dos pianos, un melodrama sutil y elegante sobre las oportunidades perdidas",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/dos-pianos-un-melodrama-sutil-y-elegante-sobre-las-oportunidades-perdidas-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T03:01:00+00:00",
-     "copete": "Dirigida por Arnaud Desplechin, la película fue exhibida en los festivales de Toronto y San Sebastián antes de su estreno comercial",
-     "id": "e5ab641792d0"
-    },
-    {
-     "title": "Evil Dead: en llamas es una apuesta a los excesos que hace retroceder varios casilleros a la saga",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/evil-dead-en-llamas-es-una-apuesta-a-los-excesos-que-hace-retroceder-varios-casilleros-a-la-saga-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T03:01:00+00:00",
-     "copete": "El director Sébastien Vanicek parece haberse preocupado más por los golpes de efecto y el diseño de las escenas que en darle profundidad al relato y a sus protagonistas",
-     "id": "bd517a682984"
-    },
-    {
-     "title": "“Un desafío inmenso”. El tanque de Disney que desembarcará en el Gran Rex en mayo de 2027",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/un-desafio-inmenso-el-tanque-de-disney-que-desembarcara-en-el-gran-rex-en-mayo-de-2027-nid10072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T03:01:00+00:00",
-     "copete": "Los responsables de los sucesos de Matilda, School of Rock, La Sirenita y Charlie y la fábrica de chocolate adelantaron, en exclusiva, a LA NACION la nueva gran apuesta que producirán el año proximo en la Calle Corrientes",
-     "id": "188936d98d52"
-    },
-    {
-     "title": "Moana: diez años después, la canción sigue siendo la misma",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/moana-diez-anos-despues-la-cancion-sigue-siendo-la-misma-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T03:01:00+00:00",
-     "copete": "La nueva versión con personajes de carne y hueso repite las acciones, los diálogos y la música de la película animada original; la rescatan el atractivo visual y el carisma de Dwayne Johnson",
-     "id": "929ad4c4be6b"
-    },
-    {
      "title": "Primicia: Frozen llega a Buenos Aires, cuándo estrena el musical de Disney en el Grand Rex",
      "link": "https://www.clarin.com/espectaculos/primicia-frozen-llega-buenos-aires-estrena-musical-disney-grand-rex_0_W3NEPDf8PP.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-09T03:00:46+00:00",
      "copete": "Tras el éxito de \"La Sirenita\", los mismos productores traerán el musical de Broadway. ¿Estará Tini Stoessel? La fecha de estreno, las audiciones. ¿Se viene \"El Rey León\"?",
      "id": "773efd64201f"
-    },
-    {
-     "title": "Andrea del Boca tuvo que abandonar Gran Hermano por la salud de su madre: “Primero están ella y mi hija”",
-     "link": "https://www.infobae.com/teleshow/2026/07/09/andrea-del-boca-tuvo-que-abandonar-gran-hermano-por-la-salud-de-su-madre-primero-estan-ella-y-mi-hija/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-09T02:48:02+00:00",
-     "copete": "La actriz dejó la casa tras ser informada sobre un problema de salud de su madre, Ana María Castro, y Santiago del Moro aclaró en la gala que no habrá reemplazo ni regreso",
-     "id": "5d122f63b306"
-    },
-    {
-     "title": "Tora Villar habló de su cruce viral con Speed, el streamer “anti-Messi”, tras el triunfo de Argentina: “Seguí llorando”",
-     "link": "https://www.infobae.com/teleshow/2026/07/09/tora-villar-hablo-de-su-cruce-viral-con-speed-el-streamer-anti-messi-tras-el-triunfo-de-argentina-segui-llorando/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-09T02:40:13+00:00",
-     "copete": "La influencer compartió en El ejército de la mañana de Bondi Live los detalles de su cobertura del Mundial 2026 y el comentadísimo momento que vivió con el polémico influencer",
-     "id": "ca1fd6acdc63"
-    },
-    {
-     "title": "Justin Bieber se suma al show del entretiempo de la final del Mundial 2026 junto a Madonna, Shakira y BTS",
-     "link": "https://www.clarin.com/espectaculos/justin-bieber-suma-show-entretiempo-final-mundial-2026-junto-madonna-shakira-bts_0_gejLmshpb2.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-08T20:12:10+00:00",
-     "copete": "El cantante canadiense fue confirmado como una de las figuras principales del histórico espectáculo que se realizará el 19 de julio en la final de la Copa del Mundo. Compartirá escenario con Madonna, Shakira y BTS en un show con fines…",
-     "id": "a016186347c6"
     }
    ]
   },
@@ -283,13 +268,6 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
-    {
-     "title": "Qué hacer en la Ciudad de Buenos Aires este fin de semana largo: los festejos del 9 de Julio y los Fan Fest para alentar a la Selección",
-     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOOE1ZQVYxaDFRcWdsYVoySy13LWRNcm8zQmt6SjlGLURkOHllUzd2cnRFdGhyazMzU296WWlxWEFtYUxRdGZVVnk1NnNaYUJJdkIyU2k5VzVrdWN4dmpJUWk0MXNRa2FPM3Q4NnplVnVJYkFkNl9iZFU4NVUzeEZHWGhESTlBZnFkaXRNUHJtMWR5ZHJNcEtvQ3hKeW5hR2pHb09uNHVSQWNwcEJsY1d1eFRGTzRpb29vX3YtRUdiNlM2N0F6U2hWRGJsU2JIc2g5QmM0WEJwc01xTGNXLTBLdU5wWk83NzJNcHRvZkhzM29NcGN5c3V6RW1FUk94OWhfSVNTbXI3NU02T2RobXBCQ3l1Rm9DZnky?oc=5",
-     "source": "Multimedio Genesis",
-     "published": "2026-07-08T23:38:45+00:00",
-     "id": "9a796a56a087"
-    },
     {
      "title": "Qué hacer el finde largo en Buenos Aires: celebración por 9 de julio, Mundial 2026 y más",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ExQ1Vhd3QtbnVJalk2bzNKRmdZYkVRTTFodHE1UzQ4Vjd0dUtSSWR6RFc0YzVva1hCbWVOdlh2S2E2WUs3LXRTdzVOZlptVzBIOHJMdi1NWTVyVkpiUU5KSGJrYjJYVTUzWVVlTnVaRHdwSkpBNjVxbTdwT1VTNXFiOVYxVnRQcWVGY0NwdW9sWnFEOGhodEhYbDRERzBMMkY2NUgxcE9QTjlLRnVuR2l6SEY5MVI5ZGhhdXMwRDJ2aVRKTlFnV9IBzgFBVV95cUxNLUM0NV9IZ3ZXcW12QktVemU2SFV4ODI1RUVnVk84aTVVSk16Zm0yd1dFeDdsUkhVN3RXU1JDcDFTQkQyRUQtU2dLbjUzWHBPTDdxV1llTlRHM2oxNV8yUi1tX01RLXhRd0VQUkpkNkV2OTRGNkdzMEcyV0tkRXUwMTJNUXRsOV9NaFBOZkQ5Xzd2WXE2ZF9zYkw3dGZYUGVxZ0RDTVoyNERHZVZtRkNKekNjMUN2ZmFsSVFVN2IyOU4wMEwzOXJTMllIemJLQQ?oc=5",
@@ -352,6 +330,13 @@
      "source": "Canal26",
      "published": "2026-07-08T00:48:40+00:00",
      "id": "f4eafec4978c"
+    },
+    {
+     "title": "Cuáles son los 16 Restaurantes Icónicos de Buenos Aires y qué historia guarda cada uno",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdTlvT2FaVDd5Yjd0SGs4NVBwekxETlozVG1GS1VvaGJrVWRZRTFOeTY2QXZ1V0pZRXhLRDRuMm1aQTZGUmdkRVdBRERuaU9WazRXVTJzSTJfNDRSWDczV05tT1g1aElRWElPY2U0WF83LVBiRVRRWU9yenl4RzdJcFU0cjFpRU93dThuV0tKUmFndUk3bWRSQUFRMEtqQXlIU2h0NVBaNWo2TGRYSm5tMjFEamx4TFA1Zi1sR3dGVEFPNnFlV3lYbWx6ZVh5Wldmb0E?oc=5",
+     "source": "La Nación",
+     "published": "2026-07-07T19:50:00+00:00",
+     "id": "52b03e1ae8e0"
     }
    ]
   },
@@ -361,84 +346,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Jessy Karina Álvarez Amador: Autoridades costarricenses concluyen que estilista desaparecida hace 14 meses fue asesinada",
-     "link": "https://www.infobae.com/costa-rica/2026/07/09/jessy-karina-alvarez-amador-autoridades-costarricenses-concluyen-que-estilista-desaparecida-hace-14-meses-fue-asesinada/",
+     "title": "Un policía se defendió a los tiros de un intento de robo y mató a un motochorro en Avellaneda",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/09/un-policia-se-defendio-a-los-tiros-de-un-intento-de-robo-y-mato-a-un-motochorro-en-avellaneda/",
      "source": "Infobae",
-     "published": "2026-07-09T04:20:41+00:00",
-     "copete": "Después de más de un año de incertidumbre, el Organismo de Investigación Judicial confirmó a los familiares de la joven madre que la investigación apunta a que la mujer fue asesinada. Aunque su cuerpo aún no ha sido localizado, los…",
-     "id": "269d456176b2"
+     "published": "2026-07-09T10:00:12+00:00",
+     "copete": "La víctima fue interceptada por dos hombres armados a bordo de una moto y el ataque quedó registrado en una grabación. Las autoridades buscan al cómplice",
+     "id": "cc07d729d885"
     },
     {
-     "title": "Hombre es condenado en El Salvador por abuso sexual contra su hijastra",
-     "link": "https://www.infobae.com/el-salvador/2026/07/09/hombre-es-condenado-en-el-salvador-por-abuso-sexual-contra-su-hijastra/",
+     "title": "Murió Bonnie Tyler, la cantante británica que lideró los rankings con Eclipse total del corazón",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/murio-bonnie-tyler-la-cantante-britanica-que-lidero-los-rankings-con-eclipse-total-del-corazon-nid09072026/",
+     "source": "La Nación",
+     "published": "2026-07-09T10:00:05+00:00",
+     "copete": "A inicios de mayo pasado, la artista había tenido que ser inducida médicamente a un coma tras una cirugía intestinal de urgencia en Portugal",
+     "id": "d6be1c8ce0d0"
+    },
+    {
+     "title": "Partidos de hoy del Mundial 2026, jueves 9 de julio: horario y por dónde ver en vivo online",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-mundial-2026-jueves-9-de-julio-horario-y-por-donde-ver-en-vivo-online-nid09072026/",
+     "source": "La Nación",
+     "published": "2026-07-09T10:00:00+00:00",
+     "copete": "La jornada tendrá solamente un encuentro, el que abre los cuartos de final entre dos equipos de rivalidad histórica; la etapa concluirá el sábado",
+     "id": "a130de8a54bb"
+    },
+    {
+     "title": "Mundial 2026, en vivo: Francia y Marruecos afrontan el primer cruce de cuartos de final",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-marruecos-afrontan-el-primer-cruce-de-cuartos-de-final-nid09072026/",
+     "source": "La Nación",
+     "published": "2026-07-09T09:58:58+00:00",
+     "copete": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
+     "id": "653e2ceab5c6"
+    },
+    {
+     "title": "El pedido que aumenta entre los migrantes venezolanos con TPS en EE.UU.",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-pedido-que-aumenta-entre-los-migrantes-venezolanos-con-tps-en-eeuu-nid09072026/",
+     "source": "La Nación",
+     "published": "2026-07-09T09:56:00+00:00",
+     "copete": "Impulsan una campaña para restablecer el TPS para venezolanos en EE.UU. y sostienen que los recientes terremotos refuerzan el pedido.",
+     "id": "3540ff405cbf"
+    },
+    {
+     "title": "Francia-Marruecos, en vivo por los cuartos de final del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/09/francia-marruecos-en-vivo-por-los-cuartos-de-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
      "source": "Infobae",
-     "published": "2026-07-09T04:19:43+00:00",
-     "copete": "Un tribunal de Santa Tecla halló responsable a un individuo por abusar sexualmente de una adolescente de 13 años, tras valorar el testimonio de la víctima como pieza clave en el proceso judicial",
-     "id": "941f09400e48"
+     "published": "2026-07-09T09:30:25+00:00",
+     "copete": "Les Bleus y el conjunto africano pujarán por el primer boleto a las semifinales de la Copa del Mundo",
+     "id": "a207b2ff34b4"
     },
     {
-     "title": "Impulsan en Panamá la conservación de los suelos como base para la seguridad hídrica",
-     "link": "https://www.infobae.com/panama/2026/07/09/impulsan-en-panama-la-conservacion-de-los-suelos-como-base-para-la-seguridad-hidrica/",
+     "title": "Predicción del clima en Panamá para antes de salir de casa este 9 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/09/prediccion-del-clima-en-panama-para-antes-de-salir-de-casa-este-9-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-09T04:18:17+00:00",
-     "copete": "El país pierde cerca de 20.000 hectáreas de suelos fértiles cada año por malas prácticas agrícolas y ganaderas",
-     "id": "52f846227529"
+     "published": "2026-07-09T09:16:20+00:00",
+     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+     "id": "95aeb721899d"
     },
     {
-     "title": "Estados Unidos expulsa a hondureño de la MS-13 señalado de tener vínculos con cartel mexicano",
-     "link": "https://www.infobae.com/honduras/2026/07/09/estados-unidos-expulsa-a-hondureno-de-la-ms-13-senalado-de-tener-vinculos-con-cartel-mexicano/",
+     "title": "¿Cuál es la temperatura promedio en Houston?",
+     "link": "https://www.infobae.com/noticias/2026/07/09/cual-es-la-temperatura-promedio-en-houston/",
      "source": "Infobae",
-     "published": "2026-07-09T04:17:03+00:00",
-     "copete": "Autoridades de Estados Unidos confirmaron la deportación hacia Honduras de Isaías José Rodríguez-Manzanares, identificado como miembro de la MS-13 y señalado por presuntos vínculos con el Cártel del Noreste de México.",
-     "id": "0d9e5ba7095f"
+     "published": "2026-07-09T09:16:01+00:00",
+     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+     "id": "ba1f6151e5ab"
     },
     {
-     "title": "Villarruel calificó el discurso de Milei en Tucumán como “muy político” y opinó sobre el proyecto shutdown gubernamental",
-     "link": "https://www.lanacion.com.ar/politica/villarruel-califico-el-discurso-de-milei-en-tucuman-como-muy-politico-y-opino-sobre-el-proyecto-nid09072026/",
-     "source": "La Nación",
-     "published": "2026-07-09T04:15:49+00:00",
-     "copete": "La vicepresidenta viajó a la provincia tucumana en un vuelo diferente al de la comitiva presidencial y se quedará a participar del acto principal por el 9 de julio en la mañana del jueves",
-     "id": "cf57e5311edc"
-    },
-    {
-     "title": "Milei habló en cadena nacional por el aniversario del Día de la Independencia junto a 13 gobernadores en Tucumán",
-     "link": "https://www.lanacion.com.ar/politica/milei-hablo-en-cadena-nacional-por-el-aniversario-del-dia-de-la-independencia-junto-a-13-nid09072026/",
-     "source": "La Nación",
-     "published": "2026-07-09T04:14:43+00:00",
-     "copete": "El jefe de Estado brindó un discurso en el inicio de las celebraciones por el 9 de julio; “Por demasiado tiempo, el Estado nacional les falló a las provincias, impidiendo su desarrollo”, dijo",
-     "id": "b7d2dc9233f3"
-    },
-    {
-     "title": "Noticias del FBI: el curioso caso del joven investigado por experimento químico en un vecindario de California",
-     "link": "https://www.lanacion.com.ar/estados-unidos/california/noticias-del-fbi-el-curioso-caso-del-joven-investigado-por-experimento-quimico-en-un-vecindario-de-nid09072026/",
-     "source": "La Nación",
-     "published": "2026-07-09T04:01:00+00:00",
-     "copete": "Conoce el caso del FBI en California por un supuesto olor químico, el operativo en Irvine y por qué la policía descartó una amenaza.",
-     "id": "12ab5fb2ea45"
-    },
-    {
-     "title": "Cómo hacer un locro diferente para el 9 de julio sin dejar de respetar la tradición",
-     "link": "https://www.lanacion.com.ar/revista-jardin/como-hacer-un-locro-diferente-para-el-9-de-julio-sin-dejar-de-respetar-la-tradicion-nid09072026/",
-     "source": "La Nación",
-     "published": "2026-07-09T04:00:00+00:00",
-     "copete": "Una versión más sustentable del clásico argentino, con un truco que potencia el sabor, evita desperdicios y funciona tanto en la receta tradicional como en la vegetariana",
-     "id": "53813485728c"
-    },
-    {
-     "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este jueves 9 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-jueves-9-julio-2026_0_I7k4wMdEKY.html",
+     "title": "Se graduó de la universidad a los 14 años y sueña con crear un software para diagnosticar enfermedades: \"Quiero usar la IA para mejorar vidas\"",
+     "link": "https://www.clarin.com/estados-unidos/graduo-universidad-14-anos-suena-crear-software-diagnosticar-enfermedades-quiero-usar-ia-mejorar-vidas_0_3iG4tkqKhU.html",
      "source": "Clarín",
-     "published": "2026-07-09T03:46:06+00:00",
-     "copete": "El SMN anticipa para este jueves temperaturas entre 9°C y 16°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "a6ab5ba43d10"
+     "published": "2026-07-09T08:52:50+00:00",
+     "copete": "Alisa Pham ingresó a la universidad a los 12 años y obtuvo su licenciatura en Ciencias de la Computación apenas dos años después. Aunque muchos la consideran una niña prodigio, asegura que su mayor fortaleza es la curiosidad.",
+     "id": "e1a0194db1ee"
     },
     {
-     "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este jueves 9 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-jueves-9-julio-2026_0_6S0YQc427Y.html",
+     "title": "Confirmado: California da un paso crítico en el programa que asegurará el suministro de agua potable a 27 millones de personas",
+     "link": "https://www.clarin.com/estados-unidos/confirmado-california-da-paso-critico-programa-asegurara-suministro-agua-potable-27-millones-personas_0_SqTi1OBdRE.html",
      "source": "Clarín",
-     "published": "2026-07-09T03:45:43+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "08230e9f9599"
+     "published": "2026-07-09T08:40:49+00:00",
+     "copete": "La iniciativa tomará el recurso de los ríos Sacramento y San Joaquín. Todavía genera controversias entre los ambientalistas.",
+     "id": "2f0b6167e55f"
     }
    ]
   },
@@ -447,6 +432,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "\"Creo que esta será la última vez que nos veamos\": quién es el doctor Hussam Abu Safiya detenido por Israel en Gaza y por qué se teme por su vida",
+     "link": "https://www.bbc.com/mundo/articles/czxqz54l351o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-09T09:55:24+00:00",
+     "copete": "El abogado del doctor palestino Hussam Abu Safiya declaró a la BBC que su cliente fue golpeado tan brutalmente que no pudo reconocerlo durante una visita la semana pasada.",
+     "id": "81661a55bd98"
+    },
+    {
+     "title": "Muere a los 75 años Bonnie Tyler, la cantante británica de \"Total Eclipse of the Heart\" que reinó en los años 80",
+     "link": "https://www.bbc.com/mundo/articles/cn8km15lm83o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-09T09:51:11+00:00",
+     "copete": "La familia de la cantante británica Bonnie Tyler, conocida sobre todo por su poderosa y conmovedora canción de amor \"Total Eclipse of the Heart\", comunicó su fallecimiento.",
+     "id": "b0fb1039d444"
+    },
+    {
+     "title": "Arrancan los cuartos de final del Mundial: cómo llegan y qué posibilidades tienen Argentina, España y los otros 6 equipos que juegan",
+     "link": "https://www.bbc.com/mundo/articles/c2lyq4qnqkvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-09T07:05:52+00:00",
+     "copete": "Argentina, Francia y España parten como favoritos para llegar a semifinales e incluso coronarse campeones de la Copa del Mundo. ¿Y el resto?",
+     "id": "cd9872d89c69"
+    },
+    {
+     "title": "Obreros, meseros y lavanderos: las seis vidas mexicanas que terminaron en las manos del ICE",
+     "link": "https://elpais.com/mexico/2026-07-09/jornaleros-obreros-meseros-y-lavanderos-las-seis-vidas-mexicanas-que-terminaron-en-las-manos-del-ice.html",
+     "source": "El País Internacional",
+     "published": "2026-07-09T04:30:00+00:00",
+     "copete": "En los primeros meses de 2026, Heber Sánchez, Alberto Gutiérrez, Royer Pérez, José Guadalupe Ramos, Alejandro Cabrera y Lorenzo Salgado han muerto bajo custodia de las autoridades migratorias en EE UU. Sus casos han empujado a Claudia…",
+     "id": "6c404f29d36a"
+    },
     {
      "title": "La escasez de combustible en Rusia está causando estragos, pero ¿presionará a Putin para cambiar de estrategia en la guerra de Ucrania?",
      "link": "https://www.bbc.com/mundo/articles/cvg499xl6qno?at_medium=RSS&at_campaign=rss",
@@ -478,38 +495,6 @@
      "published": "2026-07-09T03:30:01+00:00",
      "copete": "El personaje, creado por el cómico John Harvey, ha anunciado que competirá en la elección parcial de Clacton-on-Sea",
      "id": "b2c64fe5e50a"
-    },
-    {
-     "title": "Jersón: nacer en el búnker, morir en la calle",
-     "link": "https://elpais.com/internacional/2026-07-09/jerson-nacer-en-el-bunker-morir-en-la-calle.html",
-     "source": "El País Internacional",
-     "published": "2026-07-09T03:30:01+00:00",
-     "copete": "La capital regional de Ucrania más asediada por los drones rusos mantiene abierta una maternidad subterránea y blindada",
-     "id": "b3f9492e9260"
-    },
-    {
-     "title": "\"Es una causa perdida, un socio terrible en la OTAN\": Trump carga contra España y amenaza con una ruptura comercial",
-     "link": "https://www.bbc.com/mundo/articles/ckg8xn3mnk5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-08T22:25:13+00:00",
-     "copete": "Donald Trump amenazó con romper completamente el comercio con España e incluso \"las visitas\", mientras Pedro Sánchez respondió que las relaciones entre ambos países siguen siendo \"muy positivas\".",
-     "id": "137e5154422c"
-    },
-    {
-     "title": "Análisis: Trump no tiene otra opción que dialogar con Irán, pese a sus amenazas y los nuevos ataques",
-     "link": "https://www.bbc.com/mundo/articles/c4gyldvze0po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-08T21:41:03+00:00",
-     "copete": "El proceso de negociación es frágil y los recientes ataques estadounidenses demuestran lo difícil que será llegar a un acuerdo, escribe Jeremy Bowen, editor internacional de la BBC.",
-     "id": "d988d547bb18"
-    },
-    {
-     "title": "¿Están recibiendo Messi y Argentina un trato favorable en el Mundial?",
-     "link": "https://www.bbc.com/mundo/articles/c862n6ndvjeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-08T21:39:27+00:00",
-     "copete": "Egipto alegó parcialidad a favor de Argentina y favoritismo hacia su jugador estrella, Lionel Messi. ¿Fue así?",
-     "id": "cb0e75e6de87"
     }
    ]
   }
@@ -523,6 +508,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
