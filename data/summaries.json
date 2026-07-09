@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T22:06:43Z",
+  "generated_at": "2026-07-09T10:15:00Z",
   "summaries": {
     "0591903e7cc4": {
       "resumen": "Caso clínico de The ASCO Post sobre cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC) de aparición de novo, presentado como discusión educativa de manejo terapéutico entre especialistas. Sirve para repasar el abordaje de primera línea en este escenario agresivo.",
@@ -9,39 +9,8 @@
       "resumen": "Caso clínico de The ASCO Post centrado en el tratamiento de segunda línea del cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC), con foco en las opciones terapéuticas disponibles tras la progresión a la primera línea.",
       "destacado": false
     },
-    "dfff41124b6c": {
-      "resumen": "Caso clínico de The ASCO Post sobre el cáncer de pulmón de células pequeñas en estadio limitado, que repasa el enfoque de tratamiento combinado (quimioterapia y radioterapia) en esta presentación potencialmente curable.",
-      "destacado": false
-    },
-    "5631e32cf74a": {
-      "resumen": "OncLive reporta que INCB123667, un agente oral en investigación, avanza a un ensayo de fase 3 tras mostrar actividad antitumoral alentadora en cáncer de ovario resistente al platino. Interesa porque este escenario tiene opciones limitadas y el fármaco podría sumar una alternativa dirigida.",
-      "destacado": false,
-      "analisis": "Diseño: Cobertura de OncLive sobre resultados de un estudio de fase temprana (fase 1/2) con INCB123667 que motivó el avance a un ensayo de fase 3; el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de ovario resistente al platino (progresión dentro de los 6 meses posteriores a quimioterapia basada en platino).\nIntervención: INCB123667, agente oral en investigación; no se especifica comparador en esta etapa temprana.\nResultados: no disponibles sin el abstract completo, aunque el título indica actividad antitumoral alentadora que justificó el avance a fase 3.\nLimitaciones: sin el abstract no se puede conocer la tasa de respuesta objetiva, la duración de la respuesta ni el perfil de toxicidad del fármaco.\nMensaje: si los resultados de fase 3 confirman la señal temprana, podría sumarse una nueva opción dirigida para el cáncer de ovario resistente al platino, un escenario con pocas alternativas eficaces.\nNota: análisis sin acceso al abstract."
-    },
-    "e306e1e35bf4": {
-      "resumen": "OncLive analiza el rol de las mutaciones en TP53 (un gen supresor tumoral) como factor de estratificación de riesgo en cáncer de pulmón con mutación de EGFR (receptor del factor de crecimiento epidérmico). Interesa porque la coexistencia de mutaciones en TP53 suele asociarse a peor pronóstico y podría influir en decisiones terapéuticas.",
-      "destacado": false,
-      "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente retrospectivo o de una cohorte molecular) que evalúa el impacto pronóstico de las mutaciones en TP53 dentro del cáncer de pulmón con mutación de EGFR; el título no especifica diseño, aleatorización ni tamaño muestral.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación activadora de EGFR, estratificados según la coexistencia de mutaciones en TP53.\nIntervención: No aplica una intervención terapéutica específica; se trata de un análisis de estratificación pronóstica según el estado mutacional de TP53.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la cohorte, el ajuste por otras variables pronósticas ni si el hallazgo se validó en una cohorte independiente.\nMensaje: refuerza la utilidad potencial de testear TP53 junto con EGFR para afinar el pronóstico y eventualmente orientar la intensidad del tratamiento en NSCLC.\nNota: análisis sin acceso al abstract."
-    },
-    "2cb62899d057": {
-      "resumen": "OncLive reporta que el estado del ADN tumoral circulante (ctDNA) como marcador de enfermedad residual mínima (MRD) predice el beneficio en supervivencia global de la quimioterapia adyuvante en pacientes con metástasis hepáticas de cáncer colorrectal (CRC) resecadas. Es un dato relevante porque podría ayudar a seleccionar qué pacientes se benefician realmente de la quimioterapia adyuvante tras la cirugía.",
-      "destacado": true,
-      "analisis": "Diseño: Cobertura de OncLive sobre un análisis (probablemente de una cohorte o sub-análisis de un estudio prospectivo) que evalúa el ctDNA (ADN tumoral circulante) como marcador de enfermedad residual mínima (MRD) tras la resección de metástasis hepáticas de cáncer colorrectal; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal (CRC) y metástasis hepáticas resecadas quirúrgicamente, candidatos a quimioterapia adyuvante.\nIntervención: Quimioterapia adyuvante posquirúrgica, estratificada según el resultado de ctDNA/MRD (positivo vs. negativo) en el período postoperatorio.\nResultados: no disponibles sin el abstract completo, aunque el título indica que el estado de ctDNA/MRD predijo el beneficio en supervivencia global asociado a la quimioterapia adyuvante.\nLimitaciones: sin el abstract no se puede conocer el tamaño de la cohorte, el momento exacto de la toma de la muestra de ctDNA ni si el diseño permite establecer causalidad o solo asociación pronóstica.\nMensaje: refuerza el rol emergente del ctDNA como herramienta para individualizar la indicación de quimioterapia adyuvante en cáncer colorrectal con enfermedad hepática resecada, evitando sobretratar a pacientes con MRD negativo.\nNota: análisis sin acceso al abstract."
-    },
     "3011aba21fd7": {
       "resumen": "Respuesta de los autores en Journal of Clinical Oncology a una carta sobre su estudio de olaparib (inhibidor de PARP, una enzima de reparación del ADN) en cáncer de mama metastásico, en la que discuten si la exposición previa a inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) modifica la eficacia del fármaco. Sirve para seguir el debate científico sobre la secuencia óptima de tratamientos en cáncer de mama metastásico.",
-      "destacado": false
-    },
-    "0d91fe4c3d37": {
-      "resumen": "Carta a Journal of Clinical Oncology que cuestiona un estudio previo sobre consumo de alcohol y cáncer de páncreas de aparición temprana, señalando que la prediabetes no controlada podría ser un factor de confusión no considerado. Interesa porque pone en discusión la solidez metodológica de una asociación que había llamado la atención en oncología.",
-      "destacado": false
-    },
-    "fba1e33d4687": {
-      "resumen": "Comentario editorial en Journal of Clinical Oncology sobre la progresión limitada al cerebro tras el tratamiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido, que plantea la necesidad de tratar el cerebro como 'santuario' sin abandonar el esquema sistémico de base. Aporta contexto clínico sobre cómo manejar esta forma particular de recaída.",
-      "destacado": false
-    },
-    "b4fdc8623baa": {
-      "resumen": "Respuesta de los autores en Journal of Clinical Oncology a dos cartas que cuestionan su estudio sobre consumo de alcohol y cáncer de páncreas de aparición temprana, en la que abordan tanto el polimorfismo del gen de la aldehído deshidrogenasa 2 (ALDH2) como el posible factor de confusión de la prediabetes no controlada. Permite seguir el debate metodológico sobre esta asociación.",
       "destacado": false
     },
     "a5a7609a4e95": {
@@ -55,15 +24,6 @@
     },
     "9405512d07a4": {
       "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 del diseñador libanés Zuhair Murad."
-    },
-    "3721f5d23e3b": {
-      "resumen": "Vogue México repasa las carteras de lujo de firmas como Louis Vuitton, Dior y Hermès que lucen los jugadores durante el Mundial 2026."
-    },
-    "c2aa80f85200": {
-      "resumen": "Vogue México propone opciones de calzado casual para combinar con pantalones y vestidos de oficina durante el verano 2026."
-    },
-    "641527c8e7a6": {
-      "resumen": "Vogue México presenta luminarias para el hogar inspiradas en tendencias de moda y joyería."
     },
     "5597b5f63919": {
       "resumen": "El Tiempo repasa cómo la ciudad de Cali se prepara para Colombiamoda 2026 con espacios que ponen en valor la industria de la moda del Valle del Cauca."
@@ -98,11 +58,59 @@
     "f4eafec4978c": {
       "resumen": "Canal26 recorre los restaurantes históricos de Buenos Aires que atesoran secretos de más de 270 años."
     },
-    "52b03e1ae8e0": {
-      "resumen": "La Nación repasa los 16 Restaurantes Icónicos de Buenos Aires y la historia detrás de cada uno."
+    "6170715b4ba8": {
+      "resumen": "OncLive explica cómo funcionan las terapias de células T biespecíficas (BiTE, por sus siglas en inglés), un tipo de inmunoterapia que conecta a los linfocitos T del paciente con las células tumorales para destruirlas, y por qué evaluar el estado del antígeno leucocitario humano (HLA) es un paso obligatorio antes de indicarlas. Sirve para entender mejor el mecanismo de acción de una clase de fármacos cada vez más usada en oncología.",
+      "destacado": false
     },
-    "a31678005aed": {
-      "resumen": "La Nación propone tres planes gratuitos para disfrutar el fin de semana en la Ciudad de Buenos Aires."
+    "e8e772a3d829": {
+      "resumen": "OncLive presenta un caso clínico didáctico de un paciente añoso con cáncer de pulmón de células no pequeñas (NSCLC) con mutación del receptor del factor de crecimiento epidérmico (EGFR) y múltiples comorbilidades, discutido por especialistas para ilustrar el manejo terapéutico en este perfil complejo. Es útil para repasar cómo ajustar el tratamiento dirigido en pacientes mayores con comorbilidades.",
+      "destacado": false
+    },
+    "362145e10c4b": {
+      "resumen": "OncLive repasa las consideraciones de tratamiento a largo plazo y las necesidades no cubiertas en el glioma con mutación de la isocitrato deshidrogenasa (IDH), un subtipo de tumor cerebral de evolución más lenta pero sin cura definitiva. Aporta una puesta al día sobre el manejo crónico de esta población de pacientes.",
+      "destacado": false
+    },
+    "8c859eab0c01": {
+      "resumen": "The New England Journal of Medicine publica un ensayo clínico sobre ensartinib, un inhibidor de la quinasa del linfoma anaplásico (ALK), como tratamiento adyuvante (posterior a la cirugía) en cáncer de pulmón de células no pequeñas (NSCLC) resecado con reordenamiento de ALK. Es un estudio clave porque define si el tratamiento dirigido adyuvante mejora los resultados en esta población, en línea con lo ya establecido con alectinib.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado y de fase III, según el formato habitual de NEJM) que evalúa ensartinib como terapia adyuvante; el título no permite precisar cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado quirúrgicamente y reordenamiento del gen ALK (quinasa del linfoma anaplásico) confirmado.\nIntervención: Ensartinib (inhibidor de ALK de segunda generación) en el escenario adyuvante posquirúrgico; el comparador habitual en este contexto sería placebo o el seguimiento estándar, aunque no se confirma sin el abstract.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer el tamaño muestral, el seguimiento alcanzado ni la magnitud del beneficio en supervivencia libre de enfermedad.\nMensaje: si confirma beneficio, sumaría una nueva opción de terapia dirigida adyuvante para el NSCLC ALK-positivo resecado, ampliando el paradigma ya instalado con alectinib en este escenario.\nNota: análisis sin acceso al abstract."
+    },
+    "f34c1990f183": {
+      "resumen": "The ASCO Post repasa cómo integrar la inmunoterapia a lo largo de todo el espectro del cáncer de pulmón de células pequeñas (SCLC), desde la enfermedad en estadio limitado hasta la extendida. Sirve como puesta al día práctica sobre el rol creciente de los inhibidores de punto de control inmunitario en este tumor agresivo.",
+      "destacado": false
+    },
+    "2a0ee5a428c4": {
+      "resumen": "Journal of Clinical Oncology publica una reflexión a 20 años sobre la atención de los sobrevivientes de cáncer, revisando qué avanzó y qué sigue sin resolverse en la transición del tratamiento activo al seguimiento a largo plazo. Interesa porque pone en agenda un aspecto de la atención oncológica muchas veces postergado.",
+      "destacado": false
+    },
+    "bc0af72ade95": {
+      "resumen": "Fe de erratas de Journal of Clinical Oncology sobre el artículo de perspectiva de los investigadores de Lung-MAP acerca de la resistencia a los inhibidores de punto de control inmunitario en ensayos clínicos de cáncer de pulmón de células no pequeñas (NSCLC). Es una corrección formal, sin nuevos hallazgos clínicos.",
+      "destacado": false
+    },
+    "2217611743fd": {
+      "resumen": "Journal of Clinical Oncology presenta un ensayo clínico de inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados genéticamente con un lentivector que expresa la enzima MGMT (O6-metilguanina-ADN metiltransferasa), en pacientes con glioblastoma primario. Es relevante porque explora una estrategia de terapia celular novedosa para uno de los tumores cerebrales de peor pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I) que evalúa la inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados con un lentivector que expresa MGMT (O6-metilguanina-ADN metiltransferasa); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con glioblastoma primario (tumor cerebral primario de alto grado).\nIntervención: Terapia celular con linfocitos T gamma-delta modificados genéticamente, administrada por vía intracraneal; el diseño de fase temprana sugiere ausencia de comparador.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la seguridad, la tasa de eventos adversos, el número de pacientes tratados ni si se observó actividad antitumoral.\nMensaje: aporta prueba de concepto sobre la factibilidad y seguridad de una nueva plataforma de terapia celular intracraneal en glioblastoma, un tumor con opciones terapéuticas muy limitadas, aunque su impacto clínico definitivo requiere estudios posteriores.\nNota: análisis sin acceso al abstract."
+    },
+    "e616a59b6cb6": {
+      "resumen": "The New England Journal of Medicine publica un ensayo clínico de fase III sobre pembrolizumab (inhibidor de punto de control inmunitario) combinado con belzutifan (inhibidor del factor inducible por hipoxia 2-alfa, HIF-2α) como tratamiento adyuvante en carcinoma de células renales de alto riesgo. Es un estudio destacado porque podría redefinir el estándar adyuvante actual, hoy basado en pembrolizumab en monoterapia.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado y de fase III, dado el formato habitual de NEJM) que compara pembrolizumab más belzutifan como terapia adyuvante; el título no permite precisar cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales (cáncer de riñón) resecado de alto riesgo de recaída, candidatos a tratamiento adyuvante.\nIntervención: Pembrolizumab (inhibidor de PD-1) combinado con belzutifan (inhibidor oral del factor inducible por hipoxia 2-alfa, HIF-2α); el comparador probable es pembrolizumab en monoterapia, el estándar adyuvante vigente tras el estudio KEYNOTE-564.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la magnitud del beneficio en supervivencia libre de enfermedad, el perfil de toxicidad de la combinación ni el seguimiento alcanzado.\nMensaje: si la combinación supera a pembrolizumab en monoterapia, podría convertirse en el nuevo estándar adyuvante para el carcinoma de células renales de alto riesgo, ampliando las opciones más allá de la inmunoterapia sola.\nNota: análisis sin acceso al abstract."
+    },
+    "4d6aa6994646": {
+      "resumen": "Vogue México repasa el look de la cantante Danna, con sandalias de plataforma y un vestido café de Alta Costura."
+    },
+    "30db460b6bb5": {
+      "resumen": "Vogue México informa la fecha de los Premios Emmy 2026, cuándo se anunciarán los nominados y dónde se podrá ver la ceremonia."
+    },
+    "6efdab51e105": {
+      "resumen": "Vogue México repasa los mejores momentos del Mundial 2026 hasta el momento, incluidos algunos que quizás pasaron desapercibidos."
+    },
+    "9a796a56a087": {
+      "resumen": "Multimedio Genesis repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
+    },
+    "4fbced80628f": {
+      "resumen": "Perfil repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
     }
   }
 }
