@@ -1,37 +1,10 @@
 {
-  "generated_at": "2026-07-09T22:10:00Z",
+  "generated_at": "2026-07-10T10:06:44Z",
   "summaries": {
-    "3011aba21fd7": {
-      "resumen": "Respuesta de los autores en Journal of Clinical Oncology a una carta sobre su estudio de olaparib (inhibidor de PARP, una enzima de reparación del ADN) en cáncer de mama metastásico, en la que discuten si la exposición previa a inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) modifica la eficacia del fármaco. Sirve para seguir el debate científico sobre la secuencia óptima de tratamientos en cáncer de mama metastásico.",
-      "destacado": false
-    },
-    "2a0ee5a428c4": {
-      "resumen": "Journal of Clinical Oncology publica una reflexión a 20 años sobre la atención de los sobrevivientes de cáncer, revisando qué avanzó y qué sigue sin resolverse en la transición del tratamiento activo al seguimiento a largo plazo. Interesa porque pone en agenda un aspecto de la atención oncológica muchas veces postergado.",
-      "destacado": false
-    },
-    "bc0af72ade95": {
-      "resumen": "Fe de erratas de Journal of Clinical Oncology sobre el artículo de perspectiva de los investigadores de Lung-MAP acerca de la resistencia a los inhibidores de punto de control inmunitario en ensayos clínicos de cáncer de pulmón de células no pequeñas (NSCLC). Es una corrección formal, sin nuevos hallazgos clínicos.",
-      "destacado": false
-    },
-    "2217611743fd": {
-      "resumen": "Journal of Clinical Oncology presenta un ensayo clínico de inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados genéticamente con un lentivector que expresa la enzima MGMT (O6-metilguanina-ADN metiltransferasa), en pacientes con glioblastoma primario. Es relevante porque explora una estrategia de terapia celular novedosa para uno de los tumores cerebrales de peor pronóstico.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I) que evalúa la inyección intracraneal de linfocitos T gamma-delta expandidos y activados ex vivo, modificados con un lentivector que expresa MGMT (O6-metilguanina-ADN metiltransferasa); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con glioblastoma primario (tumor cerebral primario de alto grado).\nIntervención: Terapia celular con linfocitos T gamma-delta modificados genéticamente, administrada por vía intracraneal; el diseño de fase temprana sugiere ausencia de comparador.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la seguridad, la tasa de eventos adversos, el número de pacientes tratados ni si se observó actividad antitumoral.\nMensaje: aporta prueba de concepto sobre la factibilidad y seguridad de una nueva plataforma de terapia celular intracraneal en glioblastoma, un tumor con opciones terapéuticas muy limitadas, aunque su impacto clínico definitivo requiere estudios posteriores.\nNota: análisis sin acceso al abstract."
-    },
     "8d9096daa6ba": {
       "resumen": "OncLive analiza la relevancia del estudio MajesTEC-9, un ensayo clínico que evalúa un esquema con teclistamab (un anticuerpo biespecífico que conecta a los linfocitos T con el antígeno de maduración de linfocitos B, BCMA) en mieloma múltiple en recaída o refractario (R/R). Interesa porque los anticuerpos biespecíficos están redefiniendo el tratamiento de rescate en esta enfermedad.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Nota de análisis de expertos sobre el ensayo MajesTEC-9; el título no detalla si es aleatorizado, el cegamiento, ni el número de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R), es decir que ya recibieron tratamientos previos y volvieron a progresar o no respondieron.\nIntervención: Esquema basado en teclistamab (anticuerpo biespecífico anti-BCMA/CD3); no se especifica el comparador desde el título.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad (por ejemplo síndrome de liberación de citoquinas) ni el seguimiento.\nMensaje: refuerza el rol creciente de los anticuerpos biespecíficos en el mieloma múltiple refractario, un escenario con opciones históricamente limitadas, aunque el impacto concreto en la práctica requiere revisar los datos completos.\nNota: análisis sin acceso al abstract."
-    },
-    "3695660c0eac": {
-      "resumen": "OncLive entrevista al doctor Alex Herrera sobre la aprobación de la FDA (agencia regulatoria de medicamentos de Estados Unidos) de nivolumab (un inhibidor del punto de control inmunitario PD-1) combinado con el esquema AVD (doxorrubicina, vinblastina y dacarbazina) como tratamiento de primera línea del linfoma de Hodgkin clásico. Es relevante porque incorpora inmunoterapia de entrada en una enfermedad tratada tradicionalmente solo con quimioterapia.",
-      "destacado": false,
-      "analisis": "Diseño: Entrevista/análisis de experto sobre una aprobación de la FDA, basada presumiblemente en un ensayo clínico aleatorizado de fase III que sustentó dicha aprobación; el artículo en sí no es el reporte primario del ensayo.\nPoblación: Pacientes adultos con linfoma de Hodgkin clásico sin tratamiento previo (primera línea).\nIntervención: Nivolumab (anti-PD-1) agregado al esquema AVD (doxorrubicina, vinblastina, dacarbazina); el comparador habitual en este contexto es AVD solo o con brentuximab vedotin.\nResultados: no disponibles sin el abstract completo ni el reporte primario del ensayo.\nLimitaciones: al ser una nota de opinión/entrevista y no el artículo original, no permite conocer cifras de supervivencia libre de progresión ni el perfil de toxicidad detallado.\nMensaje: la incorporación de inmunoterapia de primera línea en Hodgkin clásico podría cambiar el estándar de tratamiento, aunque conviene revisar el ensayo pivotal original antes de trasladarlo a la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "db631358e53f": {
-      "resumen": "OncLive repasa datos sobre cabozantinib (un inhibidor multiquinasa oral) en tumores neuroendocrinos de grado 3, un subtipo agresivo y de peor pronóstico dentro de esta familia de tumores. Sirve para conocer una alternativa terapéutica en un escenario con pocas opciones respaldadas por evidencia.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de análisis de expertos sobre el uso de cabozantinib; el título no especifica si se trata de un ensayo clínico aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes con tumores neuroendocrinos de grado 3 (los de mayor índice proliferativo dentro de esta categoría).\nIntervención: Cabozantinib (inhibidor multiquinasa oral); no se especifica comparador.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la tasa de respuesta, la supervivencia libre de progresión ni la toxicidad.\nMensaje: aporta una opción terapéutica dirigida en un subtipo de tumor neuroendocrino agresivo con escasas alternativas, pendiente de confirmar su impacto con los datos completos.\nNota: análisis sin acceso al abstract."
     },
     "4d3d446b83c1": {
       "resumen": "The ASCO Post publica el seguimiento a largo plazo de un ensayo que compara la quimiorradioterapia postoperatoria con cisplatino cada 3 semanas versus cisplatino semanal en cáncer de cabeza y cuello. Es un tema clave porque define qué esquema ofrece mejor equilibrio entre eficacia y toxicidad a largo plazo.",
@@ -60,24 +33,6 @@
     "26ab559a0f08": {
       "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 del diseñador sirio Rami Al Ali."
     },
-    "3df004a12a34": {
-      "resumen": "Vogue México presenta los pantalones palazzo colombianos más elegantes para combinar con zapatos de taco este verano 2026."
-    },
-    "e0b7d2eefb58": {
-      "resumen": "Semana repasa los looks tendencia del verano en la última alfombra roja de Madrid, con Cristina Pedroche e Isabelle Junot entre las protagonistas."
-    },
-    "33188cd57327": {
-      "resumen": "Vogue México destaca las sandalias flip-flops que Dua Lipa combina con jeans, la tendencia del verano 2026."
-    },
-    "8a4437af98cd": {
-      "resumen": "Vogue México comparte una rutina de tres pasos para lucir el cabello rizado sano y con buen aroma este verano 2026."
-    },
-    "b0f6aa0a2c23": {
-      "resumen": "Identidad Correntina explica el auge de los bag charms, los adornos para carteras que le ganan terreno a los llaveros."
-    },
-    "aa8e5b7d7c5f": {
-      "resumen": "Telva repasa los looks más cool del front row en los desfiles de París, con Nieves Álvarez recién casada entre las invitadas destacadas."
-    },
     "f850182b989e": {
       "resumen": "iProfesional propone planes para el fin de semana largo en Buenos Aires, entre los festejos por el 9 de julio y las actividades vinculadas al Mundial 2026."
     },
@@ -87,17 +42,8 @@
     "8e7200eee083": {
       "resumen": "Indie Hoy anuncia la presentación de la banda El Zar en el Teatro Gran Rex."
     },
-    "923e8d97356a": {
-      "resumen": "nosonhoras.com.ar cuenta que Conociendo Rusia presenta \"Mateo\", su nueva gira solista, en el Teatro Gran Rex."
-    },
     "2d7903e631c5": {
       "resumen": "MDZ Online relevó los precios del locro en bodegones y restaurantes porteños para este 9 de Julio."
-    },
-    "a815f025a4bc": {
-      "resumen": "Infobae presenta \"A orillas de sí misma\", una propuesta coral de 18 artistas para recorrer el Delta del Tigre."
-    },
-    "92d198832eab": {
-      "resumen": "Canal 12 Web cuenta la historia de \"Agitando Pañuelos\", una obra que combina un locro patrio con el sueño de llegar al teatro Astros."
     },
     "e34d35496ed2": {
       "resumen": "MDZ Online arma una agenda de planes para el fin de semana patrio en Buenos Aires, con Fan Fest y sabores argentinos."
@@ -107,6 +53,59 @@
     },
     "f77c28bdea06": {
       "resumen": "El Cronista cuenta cómo un empresario gastronómico que construyó un imperio mundial abre dos nuevos restaurantes en Buenos Aires con ambición de sumar premios."
+    },
+    "314751dab3ae": {
+      "resumen": "OncLive repasa el papel de daraxonrasib (un inhibidor pan-RAS oral de acción directa) en el adenocarcinoma ductal de páncreas (ADP), tumor con altísima frecuencia de mutaciones en el gen RAS. Interesa porque los inhibidores directos de RAS son una clase terapéutica emergente en un cáncer históricamente considerado difícil de abordar farmacológicamente.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de análisis/opinión de expertos sobre el desarrollo clínico de daraxonrasib; el título no especifica si se basa en un ensayo clínico puntual, aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC), tumor con mutaciones del gen RAS presentes en la gran mayoría de los casos.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral, activo contra múltiples mutaciones de RAS más allá de G12C); no se especifica comparador desde el título.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una nota de perspectiva y no el reporte primario de un ensayo, no permite conocer tasas de respuesta, supervivencia libre de progresión ni toxicidad.\nMensaje: posiciona a los inhibidores pan-RAS como una clase terapéutica en expansión para un tumor de pronóstico históricamente sombrío, aunque el beneficio clínico concreto debe confirmarse con los datos de los ensayos pivotales.\nNota: análisis sin acceso al abstract."
+    },
+    "cba3bb7f40cd": {
+      "resumen": "OncLive entrevista al doctor Tanios Bekaii-Saab sobre el uso de pemigatinib (un inhibidor del receptor del factor de crecimiento fibroblástico, FGFR) como tratamiento de primera línea en colangiocarcinoma con reordenamiento del gen FGFR2. Interesa porque incorpora terapia dirigida temprana en un tumor de vía biliar con alteraciones moleculares específicas.",
+      "destacado": false,
+      "analisis": "Diseño: Entrevista/análisis de experto sobre el uso de pemigatinib en primera línea, presumiblemente vinculado a un ensayo clínico que sustenta esta indicación; el artículo no es el reporte primario del estudio, por lo que no se especifica aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con colangiocarcinoma (cáncer de vías biliares) con reordenamiento del gen FGFR2, sin tratamiento sistémico previo (primera línea).\nIntervención: Pemigatinib (inhibidor oral de FGFR1-3) en primera línea; el comparador habitual en este escenario es la quimioterapia estándar con gemcitabina y cisplatino.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una entrevista de opinión y no el artículo original, no permite conocer cifras de supervivencia libre de progresión, supervivencia global ni el perfil de toxicidad.\nMensaje: refuerza el valor de la selección molecular (testeo de FGFR2) para ofrecer terapia dirigida desde el inicio del tratamiento en colangiocarcinoma, aunque conviene revisar el ensayo pivotal original antes de trasladarlo a la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "8ca735872a19": {
+      "resumen": "Journal of Clinical Oncology publica la respuesta de los autores a una carta sobre el rol de la mastectomía bilateral de reducción de riesgo en portadoras de variantes patogénicas de los genes BRCA1 y BRCA2. Sirve para seguir el debate sobre cirugía profiláctica en la prevención del cáncer de mama hereditario.",
+      "destacado": false
+    },
+    "dfd174153f95": {
+      "resumen": "Journal of Clinical Oncology publica una carta que cuestiona el consenso PCWG4 (cuarto Grupo de Trabajo en Cáncer de Próstata) por no hacer obligatorio el uso de agentes protectores óseos en pacientes con cáncer de próstata resistente a la castración con metástasis óseas. Interesa porque discute un aspecto de manejo de soporte con impacto directo en la calidad de vida.",
+      "destacado": false
+    },
+    "8e7e664f6182": {
+      "resumen": "Journal of Clinical Oncology publica la respuesta de los autores del consenso PCWG4 (cuarto Grupo de Trabajo en Cáncer de Próstata) a la crítica sobre la falta de obligatoriedad de los agentes protectores óseos en cáncer de próstata resistente a la castración con metástasis óseas. Completa el intercambio editorial sobre este punto del consenso.",
+      "destacado": false
+    },
+    "012449a9234f": {
+      "resumen": "Journal of Clinical Oncology publica una carta que discute el rol de la mastectomía bilateral de reducción de riesgo en mujeres portadoras de variantes patogénicas de los genes BRCA1 y BRCA2, asociados a alto riesgo hereditario de cáncer de mama y ovario. Es el punto de partida del intercambio editorial sobre este tema quirúrgico-preventivo.",
+      "destacado": false
+    },
+    "bfc6872119f3": {
+      "resumen": "The Objective destaca las versiones económicas de Zara, ya rebajadas, de los zapatos estilo Prada que son tendencia este verano."
+    },
+    "ef3a9a94fb17": {
+      "resumen": "Vogue México propone ideas para combinar zapatillas estilo sneakerinas con jeans, polleras y vestidos este julio 2026."
+    },
+    "f618080f7d63": {
+      "resumen": "Vogue México repasa los diseños de uñas más elegantes que marcó la Semana de la Moda de Alta Costura Otoño-Invierno 2026."
+    },
+    "faf4b7210856": {
+      "resumen": "Vogue México cuenta la experiencia de la actriz Ludwika Paleta en Wimbledon 2026, con el estilo como protagonista."
+    },
+    "840af1bbe80a": {
+      "resumen": "G5noticias repasa las conclusiones de Fashion Online 2026 sobre las tendencias que transforman la industria: el comercio de moda online en Chile creció 14% y superó los 1.300 millones de dólares."
+    },
+    "e130227cfaa9": {
+      "resumen": "El Mundo enumera siete tendencias de joyería para estar a la moda este verano 2026."
+    },
+    "c623478b2d77": {
+      "resumen": "Cadena 3 Argentina anuncia que la versión argentina del musical Frozen se estrenará en el Teatro Gran Rex en mayo de 2027."
+    },
+    "2b4cda4ecbfb": {
+      "resumen": "MDZ Online detalla cuándo y dónde se estrenará en Buenos Aires el musical de Frozen, basado en la exitosa película de Disney."
+    },
+    "39d2389e4ff9": {
+      "resumen": "Escenarios Nacionales presenta la agenda de teatro en todo el país para la semana del 9 al 16 de julio de 2026."
     }
   }
 }
