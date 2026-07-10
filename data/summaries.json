@@ -1,46 +1,8 @@
 {
-  "generated_at": "2026-07-10T10:06:44Z",
+  "generated_at": "2026-07-10T22:10:00Z",
   "summaries": {
-    "8d9096daa6ba": {
-      "resumen": "OncLive analiza la relevancia del estudio MajesTEC-9, un ensayo clínico que evalúa un esquema con teclistamab (un anticuerpo biespecífico que conecta a los linfocitos T con el antígeno de maduración de linfocitos B, BCMA) en mieloma múltiple en recaída o refractario (R/R). Interesa porque los anticuerpos biespecíficos están redefiniendo el tratamiento de rescate en esta enfermedad.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de análisis de expertos sobre el ensayo MajesTEC-9; el título no detalla si es aleatorizado, el cegamiento, ni el número de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R), es decir que ya recibieron tratamientos previos y volvieron a progresar o no respondieron.\nIntervención: Esquema basado en teclistamab (anticuerpo biespecífico anti-BCMA/CD3); no se especifica el comparador desde el título.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad (por ejemplo síndrome de liberación de citoquinas) ni el seguimiento.\nMensaje: refuerza el rol creciente de los anticuerpos biespecíficos en el mieloma múltiple refractario, un escenario con opciones históricamente limitadas, aunque el impacto concreto en la práctica requiere revisar los datos completos.\nNota: análisis sin acceso al abstract."
-    },
-    "4d3d446b83c1": {
-      "resumen": "The ASCO Post publica el seguimiento a largo plazo de un ensayo que compara la quimiorradioterapia postoperatoria con cisplatino cada 3 semanas versus cisplatino semanal en cáncer de cabeza y cuello. Es un tema clave porque define qué esquema ofrece mejor equilibrio entre eficacia y toxicidad a largo plazo.",
-      "destacado": false,
-      "analisis": "Diseño: Seguimiento a largo plazo de un ensayo clínico (probablemente aleatorizado) que compara dos esquemas de administración de cisplatino postoperatorio junto con radioterapia; el título no precisa el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de cabeza y cuello operado, en tratamiento adyuvante (postoperatorio) con quimiorradioterapia.\nIntervención: Cisplatino cada 3 semanas (esquema clásico) versus cisplatino semanal, ambos combinados con radioterapia postoperatoria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer las cifras de supervivencia global, el control locorregional ni la toxicidad renal/auditiva comparada entre esquemas.\nMensaje: el seguimiento a largo plazo de este tipo de comparaciones ayuda a definir si el esquema semanal, generalmente mejor tolerado, mantiene la eficacia del esquema trisemanal a largo plazo.\nNota: análisis sin acceso al abstract."
-    },
-    "659e87049c17": {
-      "resumen": "The ASCO Post presenta un esquema de primera línea con disitamab vedotin (un anticuerpo conjugado dirigido a HER2), tislelizumab (un inhibidor de PD-1) y S-1 (una quimioterapia oral) para cáncer gástrico o de la unión gastroesofágica (GEJ) avanzado. Interesa porque combina terapia dirigida, inmunoterapia y quimioterapia en un tumor de pronóstico habitualmente reservado.",
-      "destacado": false,
-      "analisis": "Diseño: Nota sobre un estudio (probablemente de fase temprana) de un esquema combinado de primera línea; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer gástrico o de la unión gastroesofágica (GEJ) avanzado, en primera línea de tratamiento (el uso de disitamab vedotin sugiere selección por expresión de HER2).\nIntervención: Combinación de disitamab vedotin (anticuerpo-fármaco conjugado anti-HER2), tislelizumab (inhibidor de PD-1) y S-1 (quimioterapia oral); no se especifica comparador.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la tasa de respuesta, la supervivencia libre de progresión ni el perfil de toxicidad de la triple combinación.\nMensaje: explora una estrategia de primera línea que combina terapia dirigida a HER2, inmunoterapia y quimioterapia en cáncer gástrico/GEJ avanzado, un área con necesidad de nuevas opciones eficaces.\nNota: análisis sin acceso al abstract."
-    },
-    "a7258c20e15e": {
-      "resumen": "The ASCO Post reporta un estudio preclínico que muestra cómo dirigirse a BCL2 (una proteína que regula la muerte celular programada) podría superar la resistencia adquirida a los inhibidores de BRAF en melanoma con mutación de ese gen. Es relevante porque propone una estrategia para prolongar la eficacia de terapias dirigidas ya establecidas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio preclínico (de laboratorio, probablemente en líneas celulares y/o modelos animales); el título no indica ensayo clínico en humanos.\nPoblación: Modelos de melanoma con mutación del gen BRAF que desarrollaron resistencia adquirida a los inhibidores de BRAF.\nIntervención: Estrategia de inhibición de BCL2 (proteína antiapoptótica) para revertir o superar la resistencia a los inhibidores de BRAF; no aplica comparador clínico dado el estadio preclínico.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al tratarse de un estudio preclínico, sus hallazgos aún no se trasladaron a ensayos clínicos en pacientes, por lo que la eficacia y seguridad en humanos son inciertas.\nMensaje: identifica un mecanismo de resistencia potencialmente abordable con inhibidores de BCL2, que podría en el futuro combinarse con terapia BRAF/MEK para prolongar la respuesta, aunque falta validación clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "40b8cd67aa50": {
-      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 de Fendi."
-    },
-    "e7a8d784bdc2": {
-      "resumen": "Vogue presenta la colección de Alta Costura Otoño 2026 del diseñador italiano Francesco Scognamiglio."
-    },
-    "57d4271fb947": {
-      "resumen": "Vogue muestra la colección de Alta Costura Otoño 2026 del diseñador indonesio Didit Hediprasetyo."
-    },
-    "26ab559a0f08": {
-      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 del diseñador sirio Rami Al Ali."
-    },
     "f850182b989e": {
       "resumen": "iProfesional propone planes para el fin de semana largo en Buenos Aires, entre los festejos por el 9 de julio y las actividades vinculadas al Mundial 2026."
-    },
-    "4fbced80628f": {
-      "resumen": "Perfil repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
-    },
-    "8e7200eee083": {
-      "resumen": "Indie Hoy anuncia la presentación de la banda El Zar en el Teatro Gran Rex."
     },
     "2d7903e631c5": {
       "resumen": "MDZ Online relevó los precios del locro en bodegones y restaurantes porteños para este 9 de Julio."
@@ -53,16 +15,6 @@
     },
     "f77c28bdea06": {
       "resumen": "El Cronista cuenta cómo un empresario gastronómico que construyó un imperio mundial abre dos nuevos restaurantes en Buenos Aires con ambición de sumar premios."
-    },
-    "314751dab3ae": {
-      "resumen": "OncLive repasa el papel de daraxonrasib (un inhibidor pan-RAS oral de acción directa) en el adenocarcinoma ductal de páncreas (ADP), tumor con altísima frecuencia de mutaciones en el gen RAS. Interesa porque los inhibidores directos de RAS son una clase terapéutica emergente en un cáncer históricamente considerado difícil de abordar farmacológicamente.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de análisis/opinión de expertos sobre el desarrollo clínico de daraxonrasib; el título no especifica si se basa en un ensayo clínico puntual, aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC), tumor con mutaciones del gen RAS presentes en la gran mayoría de los casos.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral, activo contra múltiples mutaciones de RAS más allá de G12C); no se especifica comparador desde el título.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una nota de perspectiva y no el reporte primario de un ensayo, no permite conocer tasas de respuesta, supervivencia libre de progresión ni toxicidad.\nMensaje: posiciona a los inhibidores pan-RAS como una clase terapéutica en expansión para un tumor de pronóstico históricamente sombrío, aunque el beneficio clínico concreto debe confirmarse con los datos de los ensayos pivotales.\nNota: análisis sin acceso al abstract."
-    },
-    "cba3bb7f40cd": {
-      "resumen": "OncLive entrevista al doctor Tanios Bekaii-Saab sobre el uso de pemigatinib (un inhibidor del receptor del factor de crecimiento fibroblástico, FGFR) como tratamiento de primera línea en colangiocarcinoma con reordenamiento del gen FGFR2. Interesa porque incorpora terapia dirigida temprana en un tumor de vía biliar con alteraciones moleculares específicas.",
-      "destacado": false,
-      "analisis": "Diseño: Entrevista/análisis de experto sobre el uso de pemigatinib en primera línea, presumiblemente vinculado a un ensayo clínico que sustenta esta indicación; el artículo no es el reporte primario del estudio, por lo que no se especifica aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con colangiocarcinoma (cáncer de vías biliares) con reordenamiento del gen FGFR2, sin tratamiento sistémico previo (primera línea).\nIntervención: Pemigatinib (inhibidor oral de FGFR1-3) en primera línea; el comparador habitual en este escenario es la quimioterapia estándar con gemcitabina y cisplatino.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: al ser una entrevista de opinión y no el artículo original, no permite conocer cifras de supervivencia libre de progresión, supervivencia global ni el perfil de toxicidad.\nMensaje: refuerza el valor de la selección molecular (testeo de FGFR2) para ofrecer terapia dirigida desde el inicio del tratamiento en colangiocarcinoma, aunque conviene revisar el ensayo pivotal original antes de trasladarlo a la práctica.\nNota: análisis sin acceso al abstract."
     },
     "8ca735872a19": {
       "resumen": "Journal of Clinical Oncology publica la respuesta de los autores a una carta sobre el rol de la mastectomía bilateral de reducción de riesgo en portadoras de variantes patogénicas de los genes BRCA1 y BRCA2. Sirve para seguir el debate sobre cirugía profiláctica en la prevención del cáncer de mama hereditario.",
@@ -80,32 +32,79 @@
       "resumen": "Journal of Clinical Oncology publica una carta que discute el rol de la mastectomía bilateral de reducción de riesgo en mujeres portadoras de variantes patogénicas de los genes BRCA1 y BRCA2, asociados a alto riesgo hereditario de cáncer de mama y ovario. Es el punto de partida del intercambio editorial sobre este tema quirúrgico-preventivo.",
       "destacado": false
     },
-    "bfc6872119f3": {
-      "resumen": "The Objective destaca las versiones económicas de Zara, ya rebajadas, de los zapatos estilo Prada que son tendencia este verano."
+    "6184befaf76a": {
+      "resumen": "OncLive entrevista al Dr. Ravi sobre el fundamento y el diseño del estudio PSMAtrack, un ensayo clínico de fase 4 (de seguimiento posterior a la aprobación del fármaco) que evalúa el antígeno de membrana específico de próstata (PSMA) como herramienta de monitoreo en el cáncer de próstata metastásico sensible a la castración hormonal (mHSPC). Interesa porque explora el rol de la imagenología con PSMA en el seguimiento temprano de la respuesta al tratamiento.",
+      "destacado": false
     },
-    "ef3a9a94fb17": {
-      "resumen": "Vogue México propone ideas para combinar zapatillas estilo sneakerinas con jeans, polleras y vestidos este julio 2026."
+    "b896d5b4be35": {
+      "resumen": "OncLive informa que la agencia regulatoria estadounidense (FDA) aprobó la combinación de pembrolizumab (un inhibidor de PD-1) más enfortumab vedotina (un anticuerpo conjugado dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo (MIBC). Relevante porque lleva un esquema ya validado en enfermedad metastásica hacia un estadio más temprano y potencialmente curable.",
+      "destacado": false
     },
-    "f618080f7d63": {
-      "resumen": "Vogue México repasa los diseños de uñas más elegantes que marcó la Semana de la Moda de Alta Costura Otoño-Invierno 2026."
+    "15a3ba3f9cc9": {
+      "resumen": "OncLive propone su quiz semanal para repasar, en formato de preguntas, las novedades más relevantes de la semana en mieloma múltiple, cáncer de vejiga músculo-invasivo (MIBC) y otras áreas de la oncología. Es un resumen lúdico de la actualidad, sin datos clínicos nuevos.",
+      "destacado": false
     },
-    "faf4b7210856": {
-      "resumen": "Vogue México cuenta la experiencia de la actriz Ludwika Paleta en Wimbledon 2026, con el estilo como protagonista."
+    "014c2008093c": {
+      "resumen": "The ASCO Post detalla la aprobación de la FDA para dos formulaciones de pembrolizumab (la inyectable estándar o la combinación subcutánea con berahialuronidasa alfa-pmph), ambas asociadas a enfortumab vedotina-ejfv, para el cáncer de vejiga músculo-invasivo (MIBC). Amplía la nota sobre la misma aprobación regulatoria, destacando la vía subcutánea como opción de administración más rápida.",
+      "destacado": false
     },
-    "840af1bbe80a": {
-      "resumen": "G5noticias repasa las conclusiones de Fashion Online 2026 sobre las tendencias que transforman la industria: el comercio de moda online en Chile creció 14% y superó los 1.300 millones de dólares."
+    "724e1f2788cc": {
+      "resumen": "The ASCO Post reporta el seguimiento a largo plazo de la supervivencia global al sumar radioterapia estereotáctica corporal (SBRT) al acetato de abiraterona y a la terapia de privación androgénica (ADT) en cáncer de próstata resistente a la castración oligometastásico (con pocas metástasis). Interesa porque evalúa si tratar localmente las metástasis limitadas mejora la supervivencia a largo plazo en enfermedad ya resistente al tratamiento hormonal.",
+      "destacado": false,
+      "analisis": "Diseño: Nota que reporta el seguimiento a largo plazo de un estudio sobre el agregado de radioterapia estereotáctica corporal (SBRT) a un esquema sistémico; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes, y no se pudo acceder al abstract completo por bloqueo de red hacia PubMed.\nPoblación: Pacientes con cáncer de próstata resistente a la castración (CRPC) en estadio oligometastásico, es decir con un número limitado de sitios metastásicos.\nIntervención: Agregado de SBRT dirigida a las lesiones oligometastásicas, sumada a acetato de abiraterona y terapia de privación androgénica (ADT); el comparador sería el mismo esquema sistémico sin SBRT.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la magnitud del beneficio en supervivencia global, el intervalo de confianza, la toxicidad asociada a la radioterapia dirigida ni la duración exacta del seguimiento.\nMensaje: sugiere que sumar tratamiento local dirigido a metástasis limitadas a la terapia sistémica podría prolongar la supervivencia en cáncer de próstata oligometastásico resistente a la castración, una estrategia cada vez más explorada en oncología de precisión.\nNota: análisis sin acceso al abstract."
     },
-    "e130227cfaa9": {
-      "resumen": "El Mundo enumera siete tendencias de joyería para estar a la moda este verano 2026."
+    "2a5a4bf4d1d7": {
+      "resumen": "The ASCO Post informa que la FDA aprobó la presentación subcutánea de isatuximab-irfc (un anticuerpo monoclonal dirigido a CD38) para sus indicaciones en mieloma múltiple. Relevante porque una formulación subcutánea acorta el tiempo de infusión y mejora la comodidad de administración frente a la vía intravenosa.",
+      "destacado": false
     },
-    "c623478b2d77": {
-      "resumen": "Cadena 3 Argentina anuncia que la versión argentina del musical Frozen se estrenará en el Teatro Gran Rex en mayo de 2027."
+    "8c859eab0c01": {
+      "resumen": "New England Journal of Medicine publica un ensayo clínico sobre ensartinib (un inhibidor de la cinasa ALK, del inglés anaplastic lymphoma kinase) como tratamiento adyuvante, es decir posterior a la cirugía, en cáncer de pulmón de células no pequeñas (CPCNP) con reordenamiento del gen ALK ya resecado. Es clave porque define si la terapia dirigida adyuvante reduce la recaída en este subgrupo molecular de pacientes operados.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico adyuvante publicado en NEJM; no se pudo acceder al abstract completo por bloqueo de red hacia PubMed, por lo que no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con reordenamiento del gen ALK (cinasa del linfoma anaplásico), en estadio resecado quirúrgicamente (enfermedad localizada tratada con cirugía).\nIntervención: Ensartinib (inhibidor oral de ALK de segunda generación) como terapia adyuvante; el comparador habitual en este contexto sería placebo u observación, en línea con otros ensayos adyuvantes con inhibidores de ALK.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la supervivencia libre de enfermedad, la supervivencia global, el perfil de toxicidad ni el tiempo de seguimiento.\nMensaje: si confirma beneficio, respaldaría el testeo sistemático de ALK en CPCNP resecado y sumaría una opción de terapia dirigida adyuvante en este subgrupo, en línea con la tendencia ya marcada por otros inhibidores de ALK en este escenario.\nNota: análisis sin acceso al abstract."
     },
-    "2b4cda4ecbfb": {
-      "resumen": "MDZ Online detalla cuándo y dónde se estrenará en Buenos Aires el musical de Frozen, basado en la exitosa película de Disney."
+    "e616a59b6cb6": {
+      "resumen": "New England Journal of Medicine presenta un ensayo clínico que evalúa pembrolizumab (un inhibidor de PD-1) combinado con belzutifan (un inhibidor de HIF-2α, el factor inducible por hipoxia 2 alfa) como terapia adyuvante en carcinoma de células renales. Interesa porque suma un segundo mecanismo de acción a la inmunoterapia adyuvante ya establecida, buscando reducir aún más el riesgo de recaída tras la cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico adyuvante publicado en NEJM; no se pudo acceder al abstract completo por bloqueo de red hacia PubMed, por lo que no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales operado, en tratamiento adyuvante (posterior a la nefrectomía), presumiblemente con riesgo intermedio-alto o alto de recaída.\nIntervención: Combinación de pembrolizumab (inhibidor de PD-1) más belzutifan (inhibidor de HIF-2α) en el escenario adyuvante; el comparador esperable es pembrolizumab en monoterapia, el estándar actual desde el ensayo KEYNOTE-564.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede conocer la supervivencia libre de enfermedad, la toxicidad agregada de la combinación ni si el beneficio justifica el riesgo adicional frente a la monoterapia.\nMensaje: si demuestra beneficio incremental, podría posicionar a la combinación como nuevo estándar adyuvante en carcinoma de células renales de alto riesgo, aunque el balance riesgo-beneficio frente a pembrolizumab solo debe confirmarse con los datos completos.\nNota: análisis sin acceso al abstract."
     },
-    "39d2389e4ff9": {
-      "resumen": "Escenarios Nacionales presenta la agenda de teatro en todo el país para la semana del 9 al 16 de julio de 2026."
+    "96e3b06b4dad": {
+      "resumen": "Vogue presenta la colección Primavera 2027 de prêt-à-porter de Ambush."
+    },
+    "feaea110f661": {
+      "resumen": "Vogue muestra la colección Resort (crucero) 2027 de Isabel Marant."
+    },
+    "3dae970ccd53": {
+      "resumen": "Vogue repasa la colección de Alta Costura Otoño 2026 de Chochengco."
+    },
+    "c18102e03b73": {
+      "resumen": "Vogue México cuenta cuándo se entregan los Premios Mario Hernández, su historia y quiénes son los ganadores de 2026."
+    },
+    "55c89261698c": {
+      "resumen": "Vogue México selecciona los jeans de tendencia de Zara, Mango y H&M para combinar con botines este julio 2026."
+    },
+    "8befb4292a18": {
+      "resumen": "Vogue México presenta el corte bob escandinavo, la tendencia de pelo para cambiar de look este verano 2026."
+    },
+    "fe149657441d": {
+      "resumen": "SL24 adelanta las tendencias de ropa de invierno para esta temporada."
+    },
+    "c869bf131aac": {
+      "resumen": "ELLE repasa los looks de Alta Costura que anticipan cómo se vestirá en los próximos meses."
+    },
+    "704c1b17732d": {
+      "resumen": "Cadena 3 Argentina cuenta que el blues de Chicago llega a lo grande al Teatro Lucille con los shows de Old Bones y Magic Blues."
+    },
+    "209a52b26605": {
+      "resumen": "Perfil informa que los Premios Pinti ya tienen nominados y fecha de entrega."
+    },
+    "d21286ef26b5": {
+      "resumen": "FM Universo 97.3 propone más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine, streaming y muestras gratuitas."
+    },
+    "426960d34875": {
+      "resumen": "La Señal FM (97.7) recomienda más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, entre recitales, teatro, cine y muestras gratuitas."
+    },
+    "9a796a56a087": {
+      "resumen": "Multimedio Génesis repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
     }
   }
 }
