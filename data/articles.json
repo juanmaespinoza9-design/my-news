@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-10T04:29:10.071658+00:00",
+ "generated_at": "2026-07-10T12:38:58.277515+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "FDA Flashback: Breast Cancer Decisions and News From June 2026",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzVUWXFQcVZQRmRHdFpLQzIwZ3hNVmg4ZzFQSS05d3FnOGQ3ck5Lc2daelA5TlNsZ2VuSmFjSjVLSEpqajVWNk9jdkpoOWhTQUlrM05JUHZ4X1laZ2laSTc2d2ptQk9wa1lQalZFTmpYaF83bEFBMHN2dmRscWVWYjRqckhiMVdkQnV2eExSbTZTcE5J?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-10T12:11:15+00:00",
+     "id": "8bf1fe65b8c2"
+    },
     {
      "title": "How Daraxonrasib Is Shaping the Next Wave of RAS Inhibition in PDAC",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc09IYmdEOWoxSXg0NDVRWTZwbkNxV19DZzNjY2pXS2R2aU5KbGtFc2JacGNUZm5NbGhPSGZLMk8zVHdSVTJYR3k4V0dzdGtzUURDbXI2RVRCa0YtdkhSM25neDR3ejNFcXZ0SUdYNEVXX3I0N19LdmhSZlVvV18zMnhPN3JUekEwMlZkZUZSbTYzWFdQcmQ2S2tSa3VNQ3M?oc=5",
@@ -14,18 +21,11 @@
      "id": "314751dab3ae"
     },
     {
-     "title": "Dr Bekaii-Saab on First-Line Pemigatinib in FGFR2-Rearranged Cholangiocarcinoma",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalg1Rk9KLWtIU0tVOXFsWDN5aTA2WTkwdWxWT3ppU2RfT3hwR0RsajFMNUN4dkNLTGw5bkRCRUNtRGFtM2Z0MEpaRjRha2N6VzNkVXota2tITHlwdUJwTE9LQjdEMGE1VDNta1h0X2FUN1FHVmFSMlNQQnJLT3p0S0FaNW1zbGVIYTJyMTZRMThqcm5PdkhwV2pfQlJwaHJxZll2MmpSZm5VaVRK?oc=5",
+     "title": "Dr Ravi on Barriers to PSMA-PET in mHSPC",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DNnJpVWVBRjhPMUdoVkxUMkNpX0pWNG9zc2QtUDNpdFFYZlRTWjVNVnI3bDliUkNNVVJkZ0JNMW1pLUk4TFZfS24tTXZZUm1YRHJ4dk10eVZHUHhma0dRU3FiMXZoU1c1YzZRN1dQdVJ4SVV4d3FsSA?oc=5",
      "source": "OncLive",
-     "published": "2026-07-09T20:18:46+00:00",
-     "id": "cba3bb7f40cd"
-    },
-    {
-     "title": "The Significance of the MajesTEC-9 Trial in R/R Myeloma",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1RNX2xMMW40bVJibjRleXFqSGRXT09RYzNXZVdOUXpGenlwV0lYY2xuM250V05RQlR3Q2JkcUVXVXA0S3VtZzRMVjFVZWxMTlR4YkdrT2FYZVBzMUJjQU1OV0pHNFpyVVBIWEZpZTV4YXVORVhfSFQ4cS1uVnBPbHZkSGxkX3F2bm5pWkgwQQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-09T20:18:34+00:00",
-     "id": "8d9096daa6ba"
+     "published": "2026-07-09T20:49:26+00:00",
+     "id": "17649cb9db9d"
     },
     {
      "title": "Head and Neck Cancer: Long-Term Follow-up of Postoperative Chemoradiotherapy With 3-Weekly vs Weekly Cisplatin",
@@ -79,6 +79,22 @@
      "published": "2026-07-09T00:00:00+00:00",
      "copete": "Rau NS et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "012449a9234f"
+    },
+    {
+     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Yue D et al. · The New England journal of medicine",
+     "id": "8c859eab0c01"
+    },
+    {
+     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Choueiri TK et al. · The New England journal of medicine",
+     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -91,71 +107,74 @@
      "title": "Fendi Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/fendi",
      "source": "Vogue",
-     "published": "2026-07-10T04:26:09+00:00",
+     "published": "2026-07-10T12:36:23+00:00",
      "id": "40b8cd67aa50"
     },
     {
-     "title": "Francesco Scognamiglio Fall 2026 Couture",
-     "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/francesco-scognamiglio",
-     "source": "Vogue",
-     "published": "2026-07-10T04:26:09+00:00",
-     "id": "e7a8d784bdc2"
-    },
-    {
-     "title": "Didit Hediprasetyo Fall 2026 Couture",
-     "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/didit-hediprasetyo",
-     "source": "Vogue",
-     "published": "2026-07-10T04:26:09+00:00",
-     "id": "57d4271fb947"
-    },
-    {
-     "title": "Rami Al Ali Fall 2026 Couture",
-     "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/rami-al-ali",
-     "source": "Vogue",
-     "published": "2026-07-10T04:26:09+00:00",
-     "id": "26ab559a0f08"
-    },
-    {
-     "title": "Parecen de Prada pero son de Zara: ya están en rebajas las versiones baratas de los zapatos que son tendencia para este verano",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWjRKZkEtajlaVWJzMkxFNVdjYUFtcExfS3M4LXdqdDFKM2NnNzc2aTU0dVdfNENrX09HUlVvMk50SVBia0FQdC1qNFRCbWZZQkZJZ005Unh3RDNVWXRBVEtiLXVQenVVRkUwRHFpUG00Z1VhaFZycDEzOFhGWXNNYzM5LVRHaG1mVVdWSENqY0N6bzUwYUE3X19PQjVEWU1zeWRvaWpLTnBORExYNU90VGZKRHZacEVOYm9DNXlGdUd2RVp2QkI1ZjB2RGFMelgxOXF1bjE4dG1HLW9YaG5yVG53Y1RNdEpYTlZmdklyMVBBbjhkMVBXajZUVzRCaXZlNEY5cWZCY0jSAY4CQVVfeXFMT0Q1NGZGTWdjdjdsYkp2bmRZVS1FV2EzeEhqalJ1SFN4RWY3MDlKVzhpRTVQdEVreVBiUGYtcmhfckY3OUFSY25iVWQ3OWhkZFZ5Ui1DdE5ncUNUQVhqbzRMd2dIWjhUYVZfeXUybnFHdGVGZ2FUa21VMXJCN2JBNHVJX2tRNmI1dW5Ia0JRTW5mNTk1X0hhcExDaXdLVC00c3hxZnNDeXp4OVVlZC1iRnJPbWJBU2ZmUWpFR0RFMEx3OTVqd1h4NFBHSHlzQmpFWkk1VGFIdWplUG9VZTdtMTFzZl9fdHpDWmJkMW9HcUU4MmY2dmpRbE9jdGRhclVrSzJobVZha3cwTVNfMlZ3?oc=5",
-     "source": "The Objective",
-     "published": "2026-07-10T03:25:00+00:00",
-     "id": "bfc6872119f3"
-    },
-    {
-     "title": "Ideas elegantes para llevar tenis tipo sneakerinas con jeans, faldas y vestidos en julio 2026",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYy1mekQyNW8tTnUwQUxLQWdDQjJ5d0Zvbkd5NkpfQ1dvcHdmaUp5RG14d3lmQ091Q1hwMkt0MDE2ZjZiV0VlQkg3Y3YwdzdoQnZZWkhlTGVETXNrdDNRejlaSlNQUi02em9zZUI2NWhCNnYzRUVDMENSUU9YYlZFVWFtb2VNUzJYQmRBM2VpTFJSaVN3c2o5TUF0R0p2RWxwMTJYRk5HRjVpTHhmVG9XczRoWEtPMWszT1NQdk9WYw?oc=5",
+     "title": "Así es la exposición “Fendi / Karl Lagerfeld 1985. After Steps Through Work” en Roma (que puedes visitar hasta el 25 de octubre)",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanFzdlF3VzFOQ1hHME1lcW12YnBBbGJ0RGlJLV9XVmdzRkVvOTg4VGhOUkpMYkFpRHJzZFljQmxwNENyb3lqOElUTHEtcHNZRlctMFZ4Y1VodWxnOFFOOV9Qb0t3TEgyZnVETnZkeEpEX2FySGt4MEhvaUg5dC1ybldPQzNFZjFGeFRzbVhORDNveWdlY1NJSDN0RnBteloyR3o2Z2VLcVRSZUtT?oc=5",
      "source": "Vogue México",
-     "published": "2026-07-10T02:32:35+00:00",
-     "id": "ef3a9a94fb17"
+     "published": "2026-07-10T12:29:37+00:00",
+     "id": "b72a31c4ed7b"
     },
     {
-     "title": "Los diseños de uñas más elegantes: La Semana de la Moda Alta Costura Otoño-Invierno 2026 los decreta",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzY1SjhnN1dqUFY4UTJEYlcwMDNFcWt3R2RkdmU2SFpKSHFRNUZWMkptV0pFR0YwbFc5Vlktb0owNUl3SHdLWWYySnN2WnAtbUszMV9YanRBd09vckdBQzI1LXJkYTBTeVlPbUZqLVlyeHZRbTVkNjBtZHk5SVZiVEVnMnYxdmFNT2lNSE9GY0tDZm9GZktXTXhBaUh3SDhYNGZoeWdQQXVYYUF1ZG01bXZB?oc=5",
+     "title": "Heidi Klum rechaza la moda de la pérdida de peso en Hollywood por una sencilla razón",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejVwcWRlcXVqSjVvWmdTT2RWU3ZiN29tLVF3b05ROTlIa19fRGJLVG5YYnlwcmFIQlg2WmdsS0xxVGtZYUxhY3cyUHRuTEU1RHk0b0RvTHpsMk91MXJBcWxpOTNhcjVuYWREakUzcUNnbl9Xc3l2UFV6LVhtSHNjbGxPQlVrQ0M1TkhjVk1aY2E?oc=5",
+     "source": "Yahoo en Español Vida y Estilo",
+     "published": "2026-07-10T12:22:28+00:00",
+     "id": "7f56c7c6a8fc"
+    },
+    {
+     "title": "Banana Republic’s New Arrivals Are Full of Elevated Summer Staples",
+     "link": "https://www.vogue.com/article/best-banana-republic-finds",
+     "source": "Vogue",
+     "published": "2026-07-10T11:51:44+00:00",
+     "copete": "Between its summer essentials, relaxed workwear, and wanderlust-inducing styles, the retailer’s latest drops feel primed for the season.",
+     "id": "d111f4fbefdb"
+    },
+    {
+     "title": "La compra del fin de semana es el biquini con estampado de cuadros vichy de Sassa de Osma, mitad retro mitad tendencia",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclVxOTZjZjZkOFlEYkJRaEVvU3UxOEdxUWFCdnZ1YzFQWFljS1ZLTVRTS01ZcmkwSTd0cHhXTTZzNVEtTFA0dDFTcG5kOXVMN2hEWWVrSHBjaUU4anowVEd0WHZ1Q1AzNGR2U1pfUDc3N05FQU9iUVZhcVlSYzQ4ZGNTMWfSAYQBQVVfeXFMTUY3aDNrOUxVWmI5RXpvVHFTcE5nbi1qZ2hEbkdjbjl0Mk1ZeWc2ZHpQaWhIWHB3MXZSSEo3SzVZNDFQSXpENzIwVTVfYXl4bUhTMFNWRmVRQjNsZFREWTZoTmtROTJtWHh4YmxvdXc2aVlJR2k2T1RPQVNDNlYzTlZlUjUw?oc=5",
+     "source": "Telva",
+     "published": "2026-07-10T11:01:00+00:00",
+     "id": "0c3234e21270"
+    },
+    {
+     "title": "I Dry Body Brush Every Day–Here Are All The Benefits",
+     "link": "https://www.vogue.com/article/dry-brushing-works",
+     "source": "Vogue",
+     "published": "2026-07-10T11:00:00+00:00",
+     "copete": "Dry body brushing has long been touted by celebrities as a wellness ritual to try for enhanced lymphatic drainage and more even skin tone. But does it work? We tested to see.",
+     "id": "18249268af84"
+    },
+    {
+     "title": "Horóscopo de hoy: 10 de julio de 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vZUdSQ3haN0ZyMzh4SWc2RldaTWtYRmFkT3dMVXhYUnptTE1heFFKdk9QSlVSSThaUDNqUVJ1ejduWl9td2NYN1hXTWNDYlBCRUJtUkc3bFBXUUVPZG53WGNIaW1DYjFRcERqeXI3cWF5ZWs5WXdvOE1SNVBUZU0?oc=5",
      "source": "Vogue México",
-     "published": "2026-07-10T02:18:54+00:00",
-     "id": "f618080f7d63"
+     "published": "2026-07-10T11:00:00+00:00",
+     "id": "af161e22f2d6"
     },
     {
-     "title": "Ludwika Paleta en Wimbledon 2026: una experiencia donde el estilo fue protagonista",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZU9xRFpBMHVzOE4yU2ctd29OSk9VRFh0bjBPR2MwMXFKQ1VMX3k2c2lMNVRSTGNQWWF5SkwxcXdxVXRyR0xzZm0wZ04yb1VYYXRKS0UzY2I3bnpwTlhqX0NJOGNlWGxrcElHeGMzeVBxQlhaVVZQQUZmYUllUnFyaHBDUm5hMkV4RWVsNUFvTQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-10T00:14:57+00:00",
-     "id": "faf4b7210856"
+     "title": "3 Styles at Work: How to Wear Soccer Jersey",
+     "link": "https://www.vogue.com/article/three-styles-at-work",
+     "source": "Vogue",
+     "published": "2026-07-10T10:30:00+00:00",
+     "copete": "A soccer jersey. Three Vogue editors. Here’s how three staffers show their team support—at work!—ahead of the World Cup finals.",
+     "id": "256e27fe9b55"
     },
     {
-     "title": "Fashion Online 2026 analiza las tendencias que están transformando la industria: el mercado online de moda en Chile crece 14% y supera los US$1.300 millones",
-     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSXpSWDJKQmlhaHN6UGRwa1hGcFNhSjJtSnJrWGFvNjgybERJODhzTnk5NUVVc2lLTzAyNXBBS1gtcl8taUVRZUs5NlhNY1BTMFJhWkNITHlWWTVnbjFBOFBPc0tsc3N5Zk1uWnhnejZCVmVvNm9sOW8wVnB3ODctUURJRTBSR1hHbDJVV2tOWF8tSl9uWWk3SDhVWnpqcFBJcWN6SjF2RUtla1NFNFBZeHB5M1NHcC10Q3JPa2RueWVhOWZhbUUtSWY5Tmg0WkwwemlsQTB6eXp1cDAtdTRnWEFNLXJESzZRM2RhMFhBd0xfX0c4V2ZSOVEzN2RnTTNyUml1ZGhiNkRuQWZMWUJyWU1vOFpvdw?oc=5",
-     "source": "G5noticias",
-     "published": "2026-07-09T23:24:06+00:00",
-     "id": "840af1bbe80a"
+     "title": "La boda en Francia de Paloma y Gérald: una celebración campestre (en el corazón de la Provenza) inspirada en su relación a distancia",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVgtSm5zbVZ6VFhucGVoOGc2WDlZdXd0R0htc1I3TjdDUzBCYXl4OEtIV0I3VTlkdnZDLWJYeXFEQVR0MEdMOE1GWUNNWGJzMXFRRURLcjIzSXFjU1J4d19PWk85aE9zOTBFWHRCOHZpa3VwS0czRVVtUVlzTHhPYjd6UllSYmJYRTRTd2FHUTJRVHpiQWhOZkJFcFNYQmZpZ0pQcXpfVDMxQ24tQWNjbWJ3?oc=5",
+     "source": "Vogue España",
+     "published": "2026-07-10T09:40:57+00:00",
+     "id": "48904c32b4b5"
     },
     {
-     "title": "7 tendencias en joyería que deberías tener en cuenta para ir a la última este verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWs0QWRQM0lWcXZmSlIzdmJxVjRFTzZIczZVRE15WUg2NlFXNjRNM1ZwWlNaZWhfV1UwNzRIMWJOV2h6eHNJc3R4ajQ2a0VMZEoxdVMtVUVhYmxVWjZlam53WkNoSmhOVUl0ZUFpZmZzbkFyM3dUOTRMeVNIYkZNMw?oc=5",
-     "source": "El Mundo",
-     "published": "2026-07-09T22:19:00+00:00",
-     "id": "e130227cfaa9"
+     "title": "En plena ola de calor es el momento de enseñar pierna: estas son las 5 mini tendencia que llevan las estilistas en los desfiles de París",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXNCVEc0MWxTSldvM0kxS3JpUGtocklUbFNFeEFJRGRfRTlpYXZ0b1JWVlJSN0g4WFQ1UkJmUkx5S2Mxcy03aEVWOTJ0MmRNNWhOWE9KUzlTbjQybWVucVYySmRMT3IxTWpqTlZXN19pVnJZME1pUlFaRTN0eUV0WnR4ZzY?oc=5",
+     "source": "Telva",
+     "published": "2026-07-10T08:49:27+00:00",
+     "id": "ee7206af13af"
     }
    ]
   },
@@ -165,100 +184,100 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "María Becerra contó por qué dejó de ser vegana: “No podía seguir con esa alimentación”",
+     "link": "https://www.infobae.com/teleshow/2026/07/10/maria-becerra-conto-por-que-dejo-de-ser-vegana-no-podia-seguir-con-esa-alimentacion/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-10T11:53:10+00:00",
+     "copete": "Durante su gira promocional por España, la cantante argentina explicó los motivos del cambio de su dieta y sorprendió con la insólita logística que emplea para atender sus mascotas cuando está de viaje",
+     "id": "ce5a354e5390"
+    },
+    {
+     "title": "Lo más visto en Netflix Venezuela: las 10 películas más exitosas del momento, con “Enola Holmes 3” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-venezuela-las-10-peliculas-mas-exitosas-del-momento-con-enola-holmes-3-a-la-cabeza_0_Qc8kDoSxAF.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-10T11:41:22+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Venezuela. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "93f2a58a6a5f"
+    },
+    {
+     "title": "Lo más visto en Netflix Uruguay: las 10 películas más exitosas del momento, con “Enola Holmes 3” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-uruguay-las-10-peliculas-mas-exitosas-del-momento-con-enola-holmes-3-a-la-cabeza_0_O0LQKohvyk.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-10T11:41:22+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Uruguay. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "6ddd86fef0ce"
+    },
+    {
+     "title": "Lo más visto en Netflix Estados Unidos: las 10 películas más exitosas del momento, con “Hermanito” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-peliculas-mas-exitosas-del-momento-con-hermanito-a-la-cabeza_0_ZzZm0qtal5.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-10T11:41:21+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Estados Unidos. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "66a7a32cfdd8"
+    },
+    {
+     "title": "Lo más visto en Netflix Paraguay: las 10 películas más exitosas del momento, con “Contrarreloj” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-paraguay-las-10-peliculas-mas-exitosas-del-momento-con-contrarreloj-a-la-cabeza_0_485gb5ZZ1a.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-10T11:41:20+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Paraguay. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "0d288b54c0d3"
+    },
+    {
+     "title": "Pepitito Marrone y Juanita Martínez: la historia de un amor que desafió al tiempo y ni la muerte pudo borrar",
+     "link": "https://www.lanacion.com.ar/espectaculos/pepitito-marrone-y-juanita-martinez-un-amor-que-desafio-al-tiempo-y-ni-la-muerte-pudo-romper-nid09072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-10T10:39:42+00:00",
+     "copete": "Se conocieron entre bambalinas cuando ambos luchaban por abrirse camino en el teatro de revistas; esperaron más de 20 años para casarse y compartieron cuatro décadas de vida en esta emotiva relación",
+     "id": "f4b213daa4dd"
+    },
+    {
+     "title": "La confesión de la Tora Villar sobre los jugadores de la Scaloneta: “Tienen esa cosa turra que es hermosa”",
+     "link": "https://www.infobae.com/teleshow/2026/07/10/la-tora-villar-conto-cual-es-el-jugador-mas-fachero-de-la-scaloneta-tienen-esa-cosa-turra-que-es-hermosa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-10T10:28:04+00:00",
+     "copete": "Durante su cobertura del Mundial 2026, la ex Gran Hermano habló de su situación sentimental y sorprendió con su respuesta sobre el plantel argentino",
+     "id": "7c2a8e40ea7f"
+    },
+    {
+     "title": "Ella era la vedette del momento, él un pionero del rock nacional y juntos vivieron un romance de verano que pocos recuerdan",
+     "link": "https://www.lanacion.com.ar/espectaculos/ella-era-la-vedette-del-momento-el-un-pionero-del-rock-nacional-y-juntos-vivieron-un-romance-de-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-10T10:06:12+00:00",
+     "copete": "Yuyito González y Pappo se conocieron en la década de los 80 en Córdoba y vivieron un fogoso amorío que acaparó las tapas de revistas de la época; recorda cómo fue su vínculo",
+     "id": "dc94a7cd0361"
+    },
+    {
+     "title": "Qué reveló el examen toxicológico de Ernestina Pais tras el accidente fatal",
+     "link": "https://www.lanacion.com.ar/espectaculos/que-revelo-el-examen-toxicologico-de-ernestina-pais-tras-el-accidente-fatal-nid09072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-10T10:05:28+00:00",
+     "copete": "Los estudios realizados a la conductora confirmaron la ausencia de alcohol y sustancias en su organismo al momento del impacto; la Justicia avanza en la reconstrucción de la mecánica del siniestro",
+     "id": "dee505e443c5"
+    },
+    {
+     "title": "Murió Sol Varacalli, la joven que recibió la ayuda de María Becerra para costear su tratamiento contra el cáncer",
+     "link": "https://www.lanacion.com.ar/espectaculos/murio-sol-varacalli-la-joven-que-movilizo-a-las-redes-y-recibio-la-ayuda-de-maria-becerra-para-nid09072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-10T09:44:55+00:00",
+     "copete": "La joven de 28 años, oriunda de Ramos Mejía, había contado en redes sociales su lucha contra la enfermedad y movilizó a miles de personas; el mensaje de la artista tras conocer la triste noticia",
+     "id": "aa0b6aee3a8a"
+    },
+    {
+     "title": "Guillermo Francella, Adrián Suar y la intimidad del rodaje de su primera película juntos: “Esperábamos este momento”",
+     "link": "https://www.infobae.com/teleshow/2026/07/10/guillermo-francella-adrian-suar-y-la-intimidad-del-rodaje-de-su-primera-pelicula-juntos-esperabamos-este-momento/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-10T05:00:00+00:00",
+     "copete": "Teleshow estuvo en la filmación de Un funeral y medio, la adaptación en la que los actores saldan una cuenta pendiente. En un caserón de San Isidro transformado en sala velatoria, cuentan detalles del proyecto en una charla distendida…",
+     "id": "7a1af849c21b"
+    },
+    {
      "title": "Los ataques de Gastón Trezeguet y Mariana Brey a Andrea del Boca que terminaron en el enojo de Santiago del Moro: “Horrible”",
      "link": "https://www.infobae.com/teleshow/2026/07/10/los-ataques-de-gaston-trezeguet-y-mariana-brey-a-andrea-del-boca-que-terminaron-en-el-enojo-de-santiago-del-moro-horrible/",
      "source": "Teleshow (Infobae)",
      "published": "2026-07-10T03:52:28+00:00",
      "copete": "La partida definitiva de la actriz de Gran Hermano: Generación Dorada dejó al descubierto las dudas de los analistas sobre varios episodios en la casa. La firme defensa del conductor",
      "id": "711c9bc35120"
-    },
-    {
-     "title": "La Tora Villar contó cuál es el jugador más ‘fachero’ de la Scaloneta: “Tienen esa cosa turra que es hermosa”",
-     "link": "https://www.infobae.com/teleshow/2026/07/10/la-tora-villar-conto-cual-es-el-jugador-mas-fachero-de-la-scaloneta-tienen-esa-cosa-turra-que-es-hermosa/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-10T03:42:42+00:00",
-     "copete": "En plena cobertura del Mundial 2026, la ex Gran Hermano habló sobre el plantel de la Scaloneta y sorprendió con su reflexión",
-     "id": "7c2a8e40ea7f"
-    },
-    {
-     "title": "Maru Botana habló de la crianza de sus ocho hijos: “Mi marido nunca me ayudó en nada”",
-     "link": "https://www.infobae.com/teleshow/2026/07/10/maru-botana-hablo-de-la-crianza-de-sus-ocho-hijos-mi-marido-nunca-me-ayudo-en-nada/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-10T03:42:27+00:00",
-     "copete": "En un podcast con Vicky Gils y Juana Repetto, la cocinera repasó la dinámica de casi tres décadas de relación y explicó por qué aceptó desde el inicio la rutina de su pareja",
-     "id": "f13156f9cd16"
-    },
-    {
-     "title": "Estefanía Pasquini sufrió un accidente doméstico: “No paro de triunfar”",
-     "link": "https://www.infobae.com/teleshow/2026/07/10/estefania-pasquini-sufrio-un-accidente-domestico-no-paro-de-triunfar/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-10T02:42:21+00:00",
-     "copete": "La nutricionista contó en sus redes el incidente que tuvo y, fiel a su estilo, compartió el momento con ironía mientras hace reposo",
-     "id": "96fa29380678"
-    },
-    {
-     "title": "Andrea del Boca contó la verdad detrás de su entrada a Gran Hermano: “Tenía que salir de mi zona de confort”",
-     "link": "https://www.infobae.com/teleshow/2026/07/10/andrea-del-boca-conto-la-verdad-detras-de-su-entrada-a-gran-hermano-tenia-que-salir-de-mi-zona-de-confort/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-10T02:33:23+00:00",
-     "copete": "La actriz, tras salir de la casa por un problema de salud de su madre, habló con Santiago del Moro de su motivación para sumarse al reality",
-     "id": "7a4df3f251ed"
-    },
-    {
-     "title": "Juli Puente relató la angustiante escena que vivió antes de dar a luz a su bebé: “Nunca en mi vida sentí tanto miedo”",
-     "link": "https://www.infobae.com/teleshow/2026/07/10/juli-puente-relato-la-angustiante-escena-que-vivio-antes-de-dar-a-luz-a-su-bebe-nunca-en-mi-vida-senti-tanto-miedo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-10T02:07:07+00:00",
-     "copete": "Entre nervios y lágrimas, la joven recordó la contracción que cambió el panorama y cómo el rápido accionar de sus médicas fue clave para el nacimiento de su pequeña",
-     "id": "9ac312310c98"
-    },
-    {
-     "title": "Tom Hanks cumple 70 años: diez películas para celebrar la trayectoria de una leyenda viva de Hollywood",
-     "link": "https://www.lanacion.com.ar/espectaculos/tom-hanks-cumple-70-anos-diez-peliculas-para-celebrar-la-trayectoria-de-una-leyenda-viva-de-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T23:37:53+00:00",
-     "copete": "El actor estadounidense es considerado una de las máximas estrellas de Hollywood, con múltiples premios en su haber e interpretaciones que hicieron reír y emocionar a muchas generaciones; cuáles son las más destacadas",
-     "id": "b3528a8a743f"
-    },
-    {
-     "title": "Pepitito Marrone y Juanita Martínez: la historia de un amor que desafió al tiempo y ni la muerte pudo borrar",
-     "link": "https://www.lanacion.com.ar/espectaculos/pepitito-marrone-y-juanita-martinez-un-amor-que-desafio-al-tiempo-y-ni-la-muerte-pudo-romper-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T23:37:23+00:00",
-     "copete": "Se conocieron entre bambalinas cuando ambos luchaban por abrirse camino en el teatro de revistas; esperaron más de 20 años para casarse y compartieron cuatro décadas de vida en esta emotiva relación",
-     "id": "f4b213daa4dd"
-    },
-    {
-     "title": "Más allá de la sociedad: llega a Netflix una nueva miniserie documental de J.A. Bayona sobre la tragedia de los Andes",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-nueva-miniserie-documental-de-ja-bayona-sobre-la-tragedia-de-los-andes-que-llega-a-netflix-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T23:36:45+00:00",
-     "copete": "La producción reconstruye los hechos desde una mirada íntima, con relatos de familiares, protagonistas y quienes llevaron la historia al cine; así es la historia",
-     "id": "48f3358c272e"
-    },
-    {
-     "title": "Así se vivió la salida de Andrea del Boca de Gran Hermano: “Pude sanar”",
-     "link": "https://www.lanacion.com.ar/espectaculos/asi-se-vivio-la-salida-de-andrea-del-boca-de-gran-hermano-pude-sanar-nid09072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-09T23:34:58+00:00",
-     "copete": "La actriz dejó la casa más famosa del país debido a una situación de salud que atraviesa su madre; qué dijo antes de salir por segunda vez por decisión propia",
-     "id": "15e765688206"
-    },
-    {
-     "title": "Vuelve PH: Andy Kusnetzoff regresa a Telefe tras casi tres años y se prepara otra vez para competir con Mirtha",
-     "link": "https://www.clarin.com/espectaculos/vuelve-ph-andy-kusnetzoff-regresa-telefe-anos-prepara-vez-competir-mirtha_0_tj98nDs50z.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-09T14:37:02+00:00",
-     "copete": "Si bien el canal no confirmó fecha ni primero invitados, se intuye que el ciclo con famosos reaparecerá por pantalla una vez que finalice el Mundial 2026.",
-     "id": "7fe1173b82f2"
-    },
-    {
-     "title": "La realidad superó a la ficción: Wes Anderson y Luke Wilson quedaron atrapados en un ascensor y tuvieron que rescatarlos los bomberos",
-     "link": "https://www.clarin.com/espectaculos/realidad-supero-ficcion-wes-anderson-luke-wilson-quedaron-atrapados-ascensor-rescatarlos-bomberos_0_OenqaJEdHa.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-09T14:23:36+00:00",
-     "copete": "El cineasta y el actor asistieron a un homenaje por los 30 años de \"Buscando el crimen\", pero la velada tomó un giro tan inesperado como insólito. Todo ocurrió en el Museo de la Academia de Hollywood, y permanecieron encerrados durante…",
-     "id": "27c5c180e134"
     }
    ]
   },
@@ -268,10 +287,17 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Qué hacer en Buenos Aires este fin de semana, más de 50 planes para disfrutar del viernes 10 al domingo 12 de julio, con recitales, teatro, cine, streaming, muestras y gratis",
+     "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPTUFSVFNabFU3YzJYbU93UVVjbmlmSklwYmMzLVhSeVNDSWJ2LTA2bDdoNUc2UkYyNEtYdmpWSy0yc0FGWGFXTFowYkpKS2xJRnZ3X1duVnllNTUzRUl1azRWSUdFZDRtMFlKT1ZaSUtIV180bUN2cTVEWGJ1UHgzTWhxUnhWUDhWbFRmcHdfSEo4eUwwVXJZWjBRbnVxRE5qb0NKMGpmeTctaDNFUTV4U0x3TGhvMi1SUy1qNjRLUjBmYUxZV1BhZGVidzUzNXBzWmJIT3Q4QVIzcm9Talo2dE5LMHFHSS1LSC1na2ZheXFTVGZUSXBDcFYyclF4ejNNbzc3ckc3RTFySmNvQWttVTZseWF6R3MyYndDeEJXUXNIbVdXcGdqOUNGUXdVUHZkNTFUY2NQckR4a3pU?oc=5",
+     "source": "FM Universo 97.3",
+     "published": "2026-07-10T11:30:49+00:00",
+     "id": "d21286ef26b5"
+    },
+    {
      "title": "La versión argentina de Frozen llegará al Gran Rex en mayo de 2027",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTRyQ0NQcEVhdEZ6V1VBY2swSHQyajJRYjdmWVZ2ZEJ2ekJiTHE2TUV5bG1FVUhSSEkxcTUxdkt1VXBxVUMtSkZtaWdNYXBJdGFTV3VQVUdoakxsc2pEbFZwTmRYd1QtODJRNEg5c2tGUC1aYWo1M1RyejR6WFE5SXlENWZWVGROSW00SVlSVGhWYmpMOVR2RHJrdE03M0xYdUpWMVdPQ0MwWlBXZXkzWEtob25wNUZtdWfSAb8BQVVfeXFMTlRSQWhmX2xlbDJFbERtUzdXdmEyNk1rVnJHblZqS0F0Z1hDd3VLeE1QeC1ESERSZmFmRUdzRXEyVHdGVXJ0enBNV3gtSkFGbDhXa2t6UHBNMUw0YXJOLWhFU3JOQVZLU3hZajNnVGNFMFotZkNpUjJsLW9hSmhpOWcyTVVwWTJLSWZBRDNMR3ZwR0hnQVZ6LS1NMlR1NlhjWWZ1M3B1N3F3eTB4ZDJJY0FHZ0w3MVJaSC0zNlkwbHM?oc=5",
      "source": "Cadena 3 Argentina",
-     "published": "2026-07-09T22:36:34+00:00",
+     "published": "2026-07-09T22:37:08+00:00",
      "id": "c623478b2d77"
     },
     {
@@ -280,20 +306,6 @@
      "source": "Indie Hoy",
      "published": "2026-07-09T19:25:05+00:00",
      "id": "8e7200eee083"
-    },
-    {
-     "title": "El musical de Frozen, la exitosa película de Disney, llegará al teatro porteño: cuándo y dónde",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXFsU0hiR3pzSzhJMTNEUHdvZnZaZVNDdXBKRmVDdTlKc3Y5Q2t3cEIyRXh2T2YtRnRxZWlmQlBzZWJEdWFpckNCSHI3dUEyVFAydC1DMkFsQjVPbUhxSkZTUGlqejNrQzdUdWtmQ1IxQTRlbEVWV1RucV96alRzb09SQTlPY1ZnTzh5dkc1N0VwWEM0TkY1LVU5bkxQYndSbjJXQnQzMHFlY3BtS1B1SG5OYWZoOXl6MFR3Z3g1anZGT2PSAcgBQVVfeXFMTllubElFUzZzQnFJeTJZSEppS3dfdHBXenR2bnFRckg0SFdEUy1tTVU5TUNXV0s2OUxGZ2ZoNHVKbFhidmdLS3REVl9FeTR3YXNsczZZa3ZpbjZKYlhsWFlpZzdMUFVQLUZ0c2xGTGNDYU9BRzgyZ3BPcUMwUXppZ2JQU1o4WkcyWW90X1R3dEhvOTBkTmY0czBWVjA2ekZ4ZGhzOGdvME1YQ29jbTVCc0JaRlNULTQ3czhpSEhReVI4Rk9kM1Z6b3M?oc=5",
-     "source": "MDZ Online",
-     "published": "2026-07-09T16:31:00+00:00",
-     "id": "2b4cda4ecbfb"
-    },
-    {
-     "title": "Agenda nacional de teatro: semana del 9 al 16 de julio 2026",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEkxMmtfQjRGVTdUVWkzQUVaY3FKSncxWFBaYW0wc0trajlzSkFNUVBzX3Y4MlhzdzBUN1ZsVS1aYVF5dFc4dGljT1Uzdlc2VS1MeEhJSzRHWHRYc00wd01ZZ0hIZndNelhENlM3TkZSU1pTOTNJckMtMjQxdHkzZTd5S3VobXVUYTN5d05XcW1PZU0tN3NtNkMyUmwtLUx5ZmNFd1J4RDFqYnJlZ3c?oc=5",
-     "source": "Escenarios Nacionales",
-     "published": "2026-07-09T15:11:28+00:00",
-     "id": "39d2389e4ff9"
     },
     {
      "title": "Cuánto cuesta comer locro este 9 de Julio en Buenos Aires: precios de bodegones y restaurantes",
@@ -345,84 +357,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Honduras captura a ciudadano estadounidense solicitado en extradición por homicidio",
-     "link": "https://www.infobae.com/honduras/2026/07/10/honduras-captura-a-ciudadano-estadounidense-solicitado-en-extradicion-por-homicidio/",
+     "title": "Instagram y Facebook tienen un  “diseño adictivo” para niños y adultos: la nueva acusación para Meta",
+     "link": "https://www.infobae.com/tecno/2026/07/10/instagram-y-facebook-tienen-un-diseno-adictivo-para-ninos-y-adultos-la-nueva-acusacion-para-meta/",
      "source": "Infobae",
-     "published": "2026-07-10T04:13:45+00:00",
-     "copete": "La Policía Nacional detuvo en El Paraíso a un ciudadano estadounidense requerido por la justicia de su país, donde mantiene dos órdenes de captura relacionadas con un caso de homicidio.",
-     "id": "49104e0bfcbb"
+     "published": "2026-07-10T12:34:47+00:00",
+     "copete": "De confirmarse la acusación, Meta deberá pagar una multa de hasta el 6% de su facturación anual total mundial",
+     "id": "f5e1c9ab7f8c"
     },
     {
-     "title": "Detuvieron a un segundo sospechoso por el crimen del joven que fue encontrado enterrado en Santa Fe",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/10/detuvieron-a-un-segundo-sospechoso-por-el-crimen-del-joven-que-fue-encontrado-enterrado-en-santa-fe/",
+     "title": "Alertas Isabel Claudina: Envían a sindicado de un caso emblemático en Guatemala a la cárcel de Mariscal Zavala",
+     "link": "https://www.infobae.com/guatemala/2026/07/10/alertas-isabel-claudina-envian-a-sindicado-de-un-caso-emblematico-en-guatemala-a-la-carcel-de-mariscal-zavala/",
      "source": "Infobae",
-     "published": "2026-07-10T04:13:17+00:00",
-     "copete": "Luego de que Gastón Montenegro fuera hallado sin vida en un descampado de Serodino, los investigadores creen que el crimen estaría relacionado con la venta de drogas en la región",
-     "id": "0c46076efbc2"
+     "published": "2026-07-10T12:34:39+00:00",
+     "copete": "La captura se produce 19 años después del asesinato de Claudina Isabel Velásquez Paiz, por el que Guatemala fue condenada por la CIDH tras evidenciarse graves omisiones estatales",
+     "id": "ab19b19d9445"
     },
     {
-     "title": "Gol en el acta de nacimiento: la fiebre del fútbol invade los nombres de los guatemaltecos",
-     "link": "https://www.infobae.com/guatemala/2026/07/10/gol-en-el-acta-de-nacimiento-la-fiebre-del-futbol-invade-los-nombres-de-los-guatemaltecos/",
-     "source": "Infobae",
-     "published": "2026-07-10T04:11:29+00:00",
-     "copete": "Íker, o incluso el nombre completo Íker Casillas, es la opción favorita de los guatemaltecos que deciden bautizar a sus hijos en honor al legendario arquero.",
-     "id": "b76cfc8e5c7f"
-    },
-    {
-     "title": "El lado B del “Elijo creer”: las impactantes marcas que Argentina rompió en el Mundial y las cinco que podría alcanzar si es campeón",
-     "link": "https://www.infobae.com/deportes/2026/07/10/el-lado-b-del-elijo-creer-las-impactantes-marcas-que-argentina-rompio-en-el-mundial-y-las-cinco-que-podria-alcanzar-si-es-campeon/",
-     "source": "Infobae",
-     "published": "2026-07-10T04:11:05+00:00",
-     "copete": "La remontada ante Egipto dejó a la Scaloneta en cuartos de final con una colección de récords históricos, pero el camino al título exige ahora desarmar cinco rachas que nadie logró quebrar",
-     "id": "8eca75728f9e"
-    },
-    {
-     "title": "El jardín renacentista que desconcierta desde hace casi 500 años en Italia",
-     "link": "https://www.lanacion.com.ar/revista-jardin/el-jardin-renacentista-que-desconcierta-desde-hace-casi-500-anos-en-italia-nid10072026/",
+     "title": "España vs. Bélgica, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-belgica-en-vivo-por-el-mundial-2026-nid10072026/",
      "source": "La Nación",
-     "published": "2026-07-10T04:00:00+00:00",
-     "copete": "Creado en el siglo XVI para desafiar las normas de su época, el Bosque Sacro de Bomarzo reúne criaturas colosales, arquitectura insólita y mensajes que todavía hoy generan preguntas",
-     "id": "54be5bef28e0"
+     "published": "2026-07-10T12:33:28+00:00",
+     "copete": "El partido se disputará a las 16 horas en Los Angeles Stadium; todos los detalles del encuentro",
+     "id": "cf4bf898d310"
     },
     {
-     "title": "Nunca cuatro 10/7/2026",
-     "link": "https://www.lanacion.com.ar/juegos/nunca-cuatro/nunca-cuatro-1072026-nid10072026/",
+     "title": "Panamá adjudica Letras del Tesoro con demanda superior a dos veces el monto colocado",
+     "link": "https://www.infobae.com/panama/2026/07/10/panama-adjudica-letras-del-tesoro-con-demanda-superior-a-dos-veces-el-monto-colocado/",
+     "source": "Infobae",
+     "published": "2026-07-10T12:33:12+00:00",
+     "copete": "La subasta a 12 meses registró una demanda total de $297.07 millones, informó el Ministerio de Economía y Finanzas",
+     "id": "6c276758548e"
+    },
+    {
+     "title": "El vanidoso análisis de una figura de Francia tras eliminar a Marruecos: “Teníamos poco que temer”",
+     "link": "https://www.infobae.com/deportes/2026/07/10/el-vanidoso-analisis-de-una-figura-de-francia-tras-eliminar-a-marruecos-teniamos-poco-que-temer/",
+     "source": "Infobae",
+     "published": "2026-07-10T12:29:55+00:00",
+     "copete": "Adrien Rabiot analizó el triunfo del conjunto galo y el pase a las semifinales de la Copa del Mundo",
+     "id": "3e90e6e0a5fa"
+    },
+    {
+     "title": "Franco Armani: los motivos por los que el ídolo que era intocable anticipó su salida de River",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/franco-armani-los-motivos-por-los-que-el-idolo-que-era-intocable-anticipo-su-salida-de-river-nid10072026/",
      "source": "La Nación",
-     "published": "2026-07-10T03:58:00+00:00",
-     "copete": "Dibuje un círculo o una cruz en cada casilla vacía, de modo que nunca aparezcan cuatro círculos o cuatro cruces consecutivas en una misma fila, ni en una columna ni en una diagonal",
-     "id": "cb7ec6aff567"
+     "published": "2026-07-10T12:24:35+00:00",
+     "copete": "La decisión del campeón del mundo que supo meterse en la historia grande del club no fue de un momento hacia otro; volverá a Medellín, donde ganó 13 títulos y dejó una gran huella",
+     "id": "a1223cd3471f"
     },
     {
-     "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este viernes 10 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-viernes-10-julio-2026_0_viIoLbbuM8.html",
-     "source": "Clarín",
-     "published": "2026-07-10T03:45:56+00:00",
-     "copete": "El SMN anticipa para este viernes temperaturas entre 8°C y 12°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "9b6ac9ffdf68"
+     "title": "Mundial 2026, en vivo: la previa del partido contra Suiza y el choque por un lugar en semis entre España y Bélgica",
+     "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-nid10072026/",
+     "source": "La Nación",
+     "published": "2026-07-10T12:23:18+00:00",
+     "copete": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
+     "id": "e62fa4af8a30"
     },
     {
-     "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este viernes 10 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-viernes-10-julio-2026_0_IPYKS2tp2P.html",
-     "source": "Clarín",
-     "published": "2026-07-10T03:45:32+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "2bf221127550"
+     "title": "Javier Milei y sus medidas, en vivo: los movimientos en el Gobierno y los próximos proyectos legislativos",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-movimientos-en-el-gobierno-y-los-proximos-proyectos-nid10072026/",
+     "source": "La Nación",
+     "published": "2026-07-10T12:22:42+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "e3bba2895eb5"
     },
     {
-     "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este viernes 10 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-viernes-10-julio-2026_0_B29gmUoZ64.html",
+     "title": "El secreto está en Arauco: la familia que apostó por la única aceituna 100% argentina",
+     "link": "https://www.clarin.com/rural/secreto-arauco-familia-aposto-unica-aceituna-100-argentina_0_HO71bANTBV.html",
      "source": "Clarín",
-     "published": "2026-07-10T03:45:31+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "650d79c5872d"
+     "published": "2026-07-10T12:13:52+00:00",
+     "copete": "Son cuarta generación de productores de olivos en La Rioja. Sostienen un negocio difícil, con un mercado complicado y muy afectado por los vaivenes de la economía.",
+     "id": "a3af34961631"
     },
     {
-     "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este viernes 10 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-viernes-10-julio-2026_0_Qf0rVQucvT.html",
+     "title": "Israel comparte información de inteligencia sobre un supuesto plan de Irán para asesinar a Trump",
+     "link": "https://www.clarin.com/mundo/israel-comparte-informacion-inteligencia-supuesto-plan-iran-asesinar-trump_0_EsVLoNF2L2.html",
      "source": "Clarín",
-     "published": "2026-07-10T03:45:31+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "844478b04b1d"
+     "published": "2026-07-10T12:10:13+00:00",
+     "copete": "La advertencia de Israel es nueva y se refiere a un complot específico, dijeron fuentes a la CNN. La noticia llega luego de que el presidente estadounidense regresara de Ankara haciendo un misterioso cambio de avión por motivos de…",
+     "id": "8bc1696206f0"
     }
    ]
   },
@@ -435,65 +447,65 @@
      "title": "¡Francia imparable! Gana 2-0 frente a Marruecos y clasifica a semifinales por tercer Mundial consecutivo",
      "link": "https://www.bbc.co.uk/mundo/live/ckg8xmm1nz2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-10T04:29:09.846678+00:00",
+     "published": "2026-07-10T12:38:58.205682+00:00",
      "copete": "Con goles de Mbappé (60') y Dembélé (66'), Francia elimina al equipo de Hakimi sin sobresaltos y logra pasar a semifinales del Mundial 2026. Ahora espera por el partido de España-Bélgica para conocer a su contrincante.",
      "id": "e6439a558fe3"
     },
     {
-     "title": "Israel acelera la ocupación de la ciudad palestina de Hebrón: “Nos pueden matar en cualquier momento con impunidad”",
-     "link": "https://elpais.com/internacional/2026-07-10/israel-acelera-la-ocupacion-de-la-ciudad-palestina-de-hebron-nos-pueden-matar-en-cualquier-momento-con-impunidad.html",
+     "title": "Los dos espías ucranios acusados de matar a la sospechosa del atentado en Mónaco se acusan mutuamente del crimen",
+     "link": "https://elpais.com/internacional/2026-07-10/los-dos-espias-ucranios-acusados-de-matar-a-la-sospechosa-del-atentado-en-monaco-se-acusan-mutuamente-del-crimen.html",
      "source": "El País Internacional",
-     "published": "2026-07-10T03:30:01+00:00",
-     "copete": "El Gobierno de Netanyahu impulsa la expansión de los asentamientos de colonos en la emblemática urbe de Cisjordania tras romper los acuerdos que en 1997 repartieron el control del territorio",
-     "id": "c1e04d44d08b"
+     "published": "2026-07-10T12:15:25+00:00",
+     "copete": "El cuerpo de Anastasiia Berezovska, la presunta autora del ataque con bomba contra el oligarca Vadim Ermolaev, apareció el lunes en un bosque cerca de Kiev",
+     "id": "5cdb2271c356"
     },
     {
-     "title": "La \"transformación milagrosa\" de Corea del Norte: cómo logró Kim Jong-un paliar la situación económica de su país y afianzar su poder",
-     "link": "https://www.bbc.com/mundo/articles/cdejznw85wwo?at_medium=RSS&at_campaign=rss",
+     "title": "Un revólver con balas: qué han hecho los líderes de la OTAN con el insólito regalo de Erdogan que recibieron en Turquía",
+     "link": "https://www.bbc.com/mundo/articles/cj0g60v1p70o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-10T02:16:17+00:00",
-     "copete": "La alianza con Rusia y cambios en el panorama internacional han aliviado la situación económica del régimen de Pyongyang. Pero ¿durará?",
-     "id": "f7c4cdf8c758"
+     "published": "2026-07-10T12:10:39+00:00",
+     "copete": "Tras finalizar la reunión de dos días en Ankara, cada líder de la OTAN recibió un curioso obsequio del presidente Erdogan. El problema era qué hacer con el obsequio.",
+     "id": "c566d0ce5e66"
     },
     {
-     "title": "Francia ya en semifinales del Mundial:  cómo llegan y qué posibilidades tienen Argentina, España y los otros equipos  en cuartos",
-     "link": "https://www.bbc.com/mundo/articles/c2lyq4qnqkvo?at_medium=RSS&at_campaign=rss",
+     "title": "3 pistas que dan los nombramientos de De la Espriella sobre cómo será su gobierno en Colombia",
+     "link": "https://www.bbc.com/mundo/articles/ckg4ev45q4xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-10T00:13:30+00:00",
-     "copete": "Con Francia ya en semifinales, Argentina y España parten como favoritos para unirse a los galos e incluso coronarse campeones de la Copa del Mundo. ¿Y el resto?",
-     "id": "cd9872d89c69"
+     "published": "2026-07-10T11:30:04+00:00",
+     "copete": "Abelardo de la Espriella combina una mezcla de políticos experimentados con figuras rodeadas de interrogantes.",
+     "id": "4d02b9428bfa"
     },
     {
-     "title": "¿Es imbatible Francia? El veredicto de los expertos de la BBC sobre la gran favorita para ganar el Mundial",
-     "link": "https://www.bbc.com/mundo/articles/cwydz3g6ld2o?at_medium=RSS&at_campaign=rss",
+     "title": "Rescatada una mujer esclavizada durante 55 años por tres generaciones de una familia en Brasil",
+     "link": "https://elpais.com/america/2026-07-10/rescatada-una-mujer-esclavizada-durante-55-anos-por-tres-generaciones-de-una-familia-en-brasil.html",
+     "source": "El País Internacional",
+     "published": "2026-07-10T11:22:20+00:00",
+     "copete": "La empleada doméstica, que entró a servir a los siete años y nunca tuvo paga ni vacaciones, deberá ser indemnizada por los patrones",
+     "id": "d5ec9c83b89f"
+    },
+    {
+     "title": "\"Llevamos el almuerzo al trabajo durante 10 años y pudimos jubilarnos a los 35 y 40 años\"",
+     "link": "https://www.bbc.com/mundo/articles/c8x29z2n5xvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-09T23:05:46+00:00",
-     "copete": "Francia es la gran favorita para ganar el Mundial. Este jueves se impuso sin grandes dificultades a Marruecos y ya espera a España o Bélgica en semifinales. Los reporteros de BBC Sport en Estados Unidos buscan puntos débiles en su defensa.",
-     "id": "3857ad4179c1"
+     "published": "2026-07-10T10:58:44+00:00",
+     "copete": "El movimiento FIRE (Independencia Financiera, Jubilación Anticipada) promueve que sus seguidores ahorren tanto como sea posible.",
+     "id": "359c67883a01"
     },
     {
-     "title": "Irán ataca de nuevo intereses de Estados Unidos en Kuwait, Baréin y Qatar en respuesta a los bombardeos de Washington",
-     "link": "https://elpais.com/internacional/2026-07-09/iran-ataca-de-nuevo-intereses-de-estados-unidos-en-kuwait-barein-y-qatar-en-respuesta-a-los-bombardeos-de-washington.html",
+     "title": "Las misteriosas explosiones de la noche del jueves en Irán: nadie se hace responsable",
+     "link": "https://elpais.com/internacional/2026-07-10/las-misteriosas-explosiones-de-la-noche-del-jueves-en-iran-nadie-se-hace-responsable.html",
      "source": "El País Internacional",
-     "published": "2026-07-09T20:47:14+00:00",
-     "copete": "El Gobierno iraní cifra en 14 los muertos por la ofensiva estadounidense y asegura que un proyectil ha impactado junto a una instalación nuclear",
-     "id": "9aa131f889d7"
+     "published": "2026-07-10T10:48:53+00:00",
+     "copete": "Estados Unidos niega haber atacado territorio iraní en las últimas horas y busca calmar la escalada bélica, mientras varios países de Oriente Próximo median para preservar el alto el fuego que Trump dio por terminado el miércoles",
+     "id": "40ddc87aab35"
     },
     {
-     "title": "Los grupos antiinmigración de Sudáfrica pasan del ultimátum a amenazar puerta a puerta",
-     "link": "https://elpais.com/internacional/2026-07-09/los-grupos-antiinmigracion-de-sudafrica-pasan-del-ultimatum-al-puerta-a-puerta.html",
+     "title": "¿Efectivo o tarjeta? La batalla por controlar nuestros pagos",
+     "link": "https://elpais.com/internacional/2026-07-10/efectivo-o-tarjeta-la-batalla-por-controlar-nuestros-pagos.html",
      "source": "El País Internacional",
-     "published": "2026-07-09T19:26:06+00:00",
-     "copete": "Las protestas de este jueves apenas reúnen a cientos de personas, pero dejan una nueva estrategia: recorrer barrios humildes para señalar viviendas de inmigrantes y exigirles que abandonen el país",
-     "id": "77a2aeaf5cba"
-    },
-    {
-     "title": "Arancha González Laya, nombrada presidenta de World In Progress",
-     "link": "https://elpais.com/internacional/2026-07-09/arancha-gonzalez-laya-nombrada-presidenta-de-world-in-progress.html",
-     "source": "El País Internacional",
-     "published": "2026-07-09T17:45:17+00:00",
-     "copete": "La exministra de Asuntos Exteriores, Unión Europea y Cooperación presidirá el foro internacional promovido por el Grupo PRISA, cuya tercera edición se celebrará los días 2 y 3 de noviembre en Barcelona",
-     "id": "2020db46a9b6"
+     "published": "2026-07-10T09:10:47+00:00",
+     "copete": "Del efectivo al euro digital: Europa busca ganar autonomía frente a las grandes plataformas de pago como Visa",
+     "id": "84af52280a46"
     }
    ]
   }
@@ -507,11 +519,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
