@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-11T09:53:30.777926+00:00",
+ "generated_at": "2026-07-11T11:28:03.058702+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Rami Manochakian, MD, FASCO, on Updates on SCLC: No Longer Too Small to Ignore",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGlkR1hXNXBYa0p6YW1mMk5GMEE4M1c5WUpxb3hqcVp0OUZoSFNkTWNnOVpqdXVzUG5NQTB1amxWWEFKMVhmQmthbW1RSmtESklfRzJIRjBYWTRiMW5xWF95cWZFam44NmV6LWw5OEI5eUpmdzBabzJKZ2ozTElhZHBLOHBUdkdTT2R3X2hja2ZDNEliMTA4UW5yNXc1dkdvenJWdHlBQjdhUU5RMHg3TVlPZWpmQl9qSEdYUHA2Z2M2UlJWRmozWk11UGhpZG9mQ0RNMHA3T2xvVGc?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-07-10T23:49:16+00:00",
+     "id": "febfde0c8612"
+    },
     {
      "title": "Dr Ravi on the Background and Rationale of the Phase 4 PSMAtrack Study in mHSPC",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXVNY0g4S1YxcEZkOGZDV01WQmc2M083RHJZOU9LWVotS2NYczdNREg1cEpqNkotcGtlZWpMNHNMQ1pSM1o0U0NZVTduY2lGWWJfdEYzZkFURm01c181cTgwYXpoUHNLMkJmNnRONE5sLUtVZDVLNXVpNHU2RUI4NWp4T1NvNU5PU1FTYy1ObUZ0VjY0cXNYemlNOVhXdGp0ZW1uZlpPcUhacUxk?oc=5",
@@ -42,13 +49,6 @@
      "id": "724e1f2788cc"
     },
     {
-     "title": "FDA Approves Isatuximab-irfc for Subcutaneous Injection for Multiple Myeloma Indications",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUVLN0o3X29ReEdnSEVzUi1GUENHbG1hM2NjTWdYMW9iZXJSbE9rVW4xaF9INC1SNmNtTkhBM3FNZ1VkZ21fVU93eWc2RmZZUW5yd1Y1V1UtY0RvQS10YVVRQVM2REtLV0ZpYUdJeG92a3lmSDlCRVR6dFNiS3o4MFJxdkM2U0JfSEFRd2duemhzVzhyNDAzTGxaZFZXUWtodTh1UmVHZDc3cUVDWW1iOGFFUDVkTDRxb2tlMHA3SnBjdGs?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-07-10T14:37:35+00:00",
-     "id": "2a5a4bf4d1d7"
-    },
-    {
      "title": "Reply to: Different Stage But Similar Survival in Hepatocellular Carcinoma: A Dilemma of Treatment Timing?",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42430701/",
      "source": "Journal of Clinical Oncology",
@@ -71,6 +71,30 @@
      "published": "2026-07-10T00:00:00+00:00",
      "copete": "Akkus E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "05d940006041"
+    },
+    {
+     "title": "Global Consensus on the Management of Primary Localized Chordoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42424068/",
+     "source": "JAMA Oncology",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Radaelli S et al. · JAMA oncology",
+     "id": "e62753ee3899"
+    },
+    {
+     "title": "Durvalumab Plus Chemotherapy for Advanced Biliary Tract Cancer: A Post Hoc Analysis of the TOPAZ-1 Randomized Clinical Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42424063/",
+     "source": "JAMA Oncology",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Oh DY et al. · JAMA oncology",
+     "id": "e4b8c180ddbf"
+    },
+    {
+     "title": "Consolidative Thoracic Radiotherapy With Atezolizumab Maintenance in Extensive-Stage Small Cell Lung Cancer: The Phase 2 TREASURE Randomized Clinical Trial (AIO-TRK-0320)",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42424047/",
+     "source": "JAMA Oncology",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Bozorgmehr F et al. · JAMA oncology",
+     "id": "a9fa6aa2c567"
     }
    ]
   },
@@ -83,30 +107,37 @@
      "title": "Ambush Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ambush",
      "source": "Vogue",
-     "published": "2026-07-11T09:48:33+00:00",
+     "published": "2026-07-11T11:25:22+00:00",
      "id": "96e3b06b4dad"
     },
     {
      "title": "Isabel Marant Resort 2027",
      "link": "https://www.vogue.com/fashion-shows/resort-2027/isabel-marant",
      "source": "Vogue",
-     "published": "2026-07-11T09:48:33+00:00",
+     "published": "2026-07-11T11:25:22+00:00",
      "id": "feaea110f661"
     },
     {
      "title": "Chochengco Fall 2026 Couture",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/chocheng",
      "source": "Vogue",
-     "published": "2026-07-11T09:48:33+00:00",
+     "published": "2026-07-11T11:25:22+00:00",
      "id": "3dae970ccd53"
     },
     {
-     "title": "Dua Lipa Accessorizes for a Studio Session With Callum Turner",
-     "link": "https://www.vogue.com/article/dua-lipa-accessorizes-for-a-studio-session-with-callum-turner",
+     "title": "The Barely-There Hiking Sandal Is the Official Shoe of the Summer",
+     "link": "https://www.vogue.com/article/minimalist-hiker-sandal-trend",
      "source": "Vogue",
-     "published": "2026-07-11T09:20:25+00:00",
-     "copete": "Getting straight back to work after a wedding extravaganza, Dua Lipa pulled up to the studio with a bunch of future pop banger ideas, a Chanel flap, and her husband.",
-     "id": "1047de78cea8"
+     "published": "2026-07-11T11:17:50+00:00",
+     "copete": "Skimpy sandals with thin soles and just a little string are the new hot footwear choice of the summer.",
+     "id": "b076203a6be6"
+    },
+    {
+     "title": "Moda Primavera Estilo Verano 2021 NUEVAS TENDENCIAS DE MODA MUJER PRIMAVERA VERANO 2021/ ROPA DE MODA PRIMAVERA VERAN 2021/ CONJUNTOS",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81Y2x5cVh2SUhTOVZNbFVrS1NJOEpfVnVrZGZaY19qRmVGMEdSZlg3T0FDWkQ0U2pBZEFNOFZhbFBOUnVKYXRTY29NclZDdw?oc=5",
+     "source": "sepolia.net",
+     "published": "2026-07-11T10:20:37+00:00",
+     "id": "22c607b8094c"
     },
     {
      "title": "El bolso con asa rígida, de mano o al hombro, es el accesorio escultórico del verano 2026",
@@ -142,13 +173,6 @@
      "source": "Vogue México",
      "published": "2026-07-10T21:03:33+00:00",
      "id": "c18102e03b73"
-    },
-    {
-     "title": "Jeans de Zara, Mango y H&M: Los de tendencia para llevar con botines en julio 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXNRdXYwaHlWdFR2RXFCMFZFcUM3N3p3RXVCRm80cnItbWRVTVFkLXRBNW5ZamRLeHFfdllJcjZUWVJ1QU0xVEJXeTFnMW9JVmcwbUlITkxrNm5mX193OHZNTzRoalVzck0teGhnZ1owQ21oNElzQTFjUlJWTEFXT0ROM3d6T3ExR2kzeHhGWXlNcWtnVE15U2YyZEdCU2FfV2luY19oSFQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-10T19:59:36+00:00",
-     "id": "55c89261698c"
     }
    ]
   },
@@ -157,6 +181,46 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Piratas del Caribe cumple 23 años: del nostálgico video de Orlando Bloom al recuerdo agridulce de Keira Knightley",
+     "link": "https://www.lanacion.com.ar/espectaculos/piratas-del-caribe-cumple-23-anos-del-nostalgico-video-de-orlando-bloom-al-recuerdo-agridulce-de-nid11072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-11T11:26:34+00:00",
+     "copete": "El actor que interpretó al personaje Will Turner rememoró el rodaje de la primera entrega de la franquicia que coprotagonizó con Johnny Depp y se convirtió en un rotundo éxito",
+     "id": "4bd69157fffc"
+    },
+    {
+     "title": "Nico Vázquez reveló qué hace con Lionel Messi antes de cada partido del Mundial",
+     "link": "https://www.lanacion.com.ar/espectaculos/nico-vazquez-revelo-que-hace-con-lionel-messi-antes-de-cada-partido-del-mundial-nid09072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-11T10:45:42+00:00",
+     "copete": "Si bien no viajó a la Copa del Mundo, el actor reveló que está en contacto permanente con el capitán de la selección argentina, con quien lleva más de una década de amistad",
+     "id": "f7b406a4b4a6"
+    },
+    {
+     "title": "Qué veo en Netflix: las mejores películas y series para disfrutar este fin de semana del 11 y 12 de julio",
+     "link": "https://www.lanacion.com.ar/espectaculos/que-veo-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-del-11-y-12-de-nid10072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-11T10:32:44+00:00",
+     "copete": "La famosa plataforma de streaming tiene una selección de contenidos para disfrutar desde la comodidad de tu hogar; los tráilers, de qué tratan y todos los detalles",
+     "id": "887611d8de08"
+    },
+    {
+     "title": "La canción viral que La Tigresa del Oriente le hizo a Erling Haaland",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-cancion-viral-que-la-tigresa-del-oriente-le-hizo-a-erling-haaland-nid10072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-11T10:24:00+00:00",
+     "copete": "La reconocida artista peruana sorprendió a sus seguidores con un crossover sobre el futbolista noruego que no tardó en dar la vuelta al mundo",
+     "id": "269b6e52402c"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este sábado 11 de julio de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-sabado-11-de-julio-de-2026-en-argentina_0_x6XpzB3FDP.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-11T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "31c225929596"
+    },
     {
      "title": "La única vez que Suiza le pudo ganar a la Argentina (anulo mufa)",
      "link": "https://www.clarin.com/espectaculos/unica-vez-suiza-pudo-ganar-argentina-anulo-mufa_0_8A2gJB4BHl.html",
@@ -182,12 +246,12 @@
      "id": "d24ebc0bc531"
     },
     {
-     "title": "Boy Olmi, su búsqueda existencial, su amor por Carola Reyna y su opinión sobre las redes: “Instagram es como una cocaína hecha a la medida de cada uno\"",
-     "link": "https://www.clarin.com/espectaculos/boy-olmi-busqueda-existencial-amor-carola-reyna-opinion-redes-instagram-cocaina-hecha-medida_0_E7MFklnc7J.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-11T09:01:26+00:00",
-     "copete": "A los 70, brilla con su unipersonal \"Boy\" en el Teatro Picadero. Fiel a los que considera los mandatos existenciales y el ritual que mantiene con el público, habla del amor inalterable por su pareja, de su abuelazgo y de su Ikigai.",
-     "id": "6fa22e4a4d2a"
+     "title": "Gabo Usandivaras abre su alma: “La salud mental es algo con lo que lucho cada día”",
+     "link": "https://www.infobae.com/teleshow/2026/07/11/gabo-usandivaras-abre-su-alma-la-salud-mental-es-algo-con-lo-que-lucho-cada-dia/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-11T05:00:00+00:00",
+     "copete": "El bailarín, coreógrafo y diseñador de 38 años, en una charla íntima con Teleshow, reflexionó sobre depresión, terapia y redes de contención tras la muerte de su mamá y su hermana",
+     "id": "bc25575f57f4"
     },
     {
      "title": "A 20 años de la muerte de Oscar Moro, el hombre que le puso ritmo al rock argentino",
@@ -196,14 +260,6 @@
      "published": "2026-07-11T05:00:00+00:00",
      "copete": "Cada 11 de julio, fecha de su fallecimiento, en Argentina se celebra el Día del Baterista en homenaje a quien le dio su pulso a bandas míticas como Los Gatos, Serú Girán, La Máquina de Hacer Pájaros y Riff. Su historia y su legado",
      "id": "9eda2526e3ec"
-    },
-    {
-     "title": "Gabo Usandivaras abre su alma: “La salud mental es algo con lo que lucho cada día”",
-     "link": "https://www.infobae.com/teleshow/2026/07/11/gabo-usandivaras-abre-su-alma-la-salud-mental-es-algo-con-lo-que-lucho-cada-dia/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-11T05:00:00+00:00",
-     "copete": "El bailarín, coreógrafo y diseñador de 38 años, en una charla íntima con Teleshow, reflexionó sobre depresión, terapia y redes de contención tras la muerte de su mamá y su hermana",
-     "id": "bc25575f57f4"
     },
     {
      "title": "La respuesta de Andrea del Boca ante una posible cita con un participante de Gran Hermano",
@@ -220,38 +276,6 @@
      "published": "2026-07-11T03:22:58+00:00",
      "copete": "La cantante decidió dejar de lado el estilo que la caracterizaba hace tiempo y apostó por un rotundo cambio",
      "id": "ef1488aa9902"
-    },
-    {
-     "title": "Cambios en Telefe: vuelven dos clásicos y se rearma el prime time tras el Mundial",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/cambios-en-telefe-vuelven-dos-clasicos-y-se-rearma-el-prime-time-tras-el-mundial-nid11072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-11T03:01:00+00:00",
-     "copete": "Además, la grilla de elnueve suma dos programas",
-     "id": "650b1f26d56d"
-    },
-    {
-     "title": "Rarezas que no pasaron por los cines y son verdaderas joyas para descubrir en streaming",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/rarezas-que-no-pasaron-por-los-cines-y-son-verdaderas-joyas-para-descubrir-en-streaming-nid11072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-11T03:01:00+00:00",
-     "copete": "Un repaso por algunas películas disponibles en plataformas que no tuvieron su merecido reconocimiento",
-     "id": "27a68acb56fc"
-    },
-    {
-     "title": "Marcelo Tinelli recordó el éxito de ‘Ritmo de la noche’ junto a The Sacados: “Son la música icónica de los ‘90”",
-     "link": "https://www.infobae.com/teleshow/2026/07/11/marcelo-tinelli-recordo-el-exito-de-ritmo-de-la-noche-junto-a-the-sacados-son-la-musica-iconica-de-los-90/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-11T02:24:36+00:00",
-     "copete": "El conductor presentó a Darío y Cintia en Infobae Mundial, recordó las tribunas repletas y los momentos clásicos del envío, y aseguró que la canción de apertura quedó ligada a su historia personal",
-     "id": "13fa92804b43"
-    },
-    {
-     "title": "Valentina Cervantes contó cómo vive la exposición de su hijo Benja en redes: “Quiero sentirme una persona más”",
-     "link": "https://www.infobae.com/teleshow/2026/07/11/valentina-cervantes-conto-como-vive-la-exposicion-de-su-hijo-benja-en-redes-quiero-sentirme-una-persona-mas/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-11T01:53:40+00:00",
-     "copete": "La influencer sostuvo que su manera de mostrarse no cambió con la notoriedad de Enzo Fernández en la Selección Argentina",
-     "id": "d020877d2081"
     }
    ]
   },
@@ -260,6 +284,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Qué hacer este finde largo en Buenos Aires: celebración por 9 de julio, Mundial 2026 y más",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ExQ1Vhd3QtbnVJalk2bzNKRmdZYkVRTTFodHE1UzQ4Vjd0dUtSSWR6RFc0YzVva1hCbWVOdlh2S2E2WUs3LXRTdzVOZlptVzBIOHJMdi1NWTVyVkpiUU5KSGJrYjJYVTUzWVVlTnVaRHdwSkpBNjVxbTdwT1VTNXFiOVYxVnRQcWVGY0NwdW9sWnFEOGhodEhYbDRERzBMMkY2NUgxcE9QTjlLRnVuR2l6SEY5MVI5ZGhhdXMwRDJ2aVRKTlFnV9IBzgFBVV95cUxNLUM0NV9IZ3ZXcW12QktVemU2SFV4ODI1RUVnVk84aTVVSk16Zm0yd1dFeDdsUkhVN3RXU1JDcDFTQkQyRUQtU2dLbjUzWHBPTDdxV1llTlRHM2oxNV8yUi1tX01RLXhRd0VQUkpkNkV2OTRGNkdzMEcyV0tkRXUwMTJNUXRsOV9NaFBOZkQ5Xzd2WXE2ZF9zYkw3dGZYUGVxZ0RDTVoyNERHZVZtRkNKekNjMUN2ZmFsSVFVN2IyOU4wMEwzOXJTMllIemJLQQ?oc=5",
+     "source": "iProfesional",
+     "published": "2026-07-11T10:34:43+00:00",
+     "id": "f850182b989e"
+    },
     {
      "title": "Sin fiesta de gala, Michelin define sus nuevas estrellas en la Argentina: los restaurantes de Buenos Aires y Mendoza que más suenan como candidatos",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNck5JdVlfM0prV2R5Z05jS2FrVmoyS2NCbFZtUjcxT2c1eHE5ZVgwRFIxbGRad2k4d2JxUmVvT2VUOFo0OW9oQXdncl8yQzd2TDV5TUx2RnU4a0E2QzU5TGZ6V2paSXBld0hONllwLUxmWjJmOTUwNF9YbzFVa0NVQTRPYnBUYlZWZ3hMb2x1elNxWWdxbVU0dFRLU2ZQZTV1Z1dYcmQ5dmp5dWJSVUZXZzJ1T08tLURaQ1A3dzUxMG54Wi1XazRYYkRyZ2V0d1pxaHBMMTEydVZRZ3E4N2w3X2dVUnJSOTJqS2g40gHwAUFVX3lxTE9BdFBpTVRGbEVzTzk2QUFtQTdvdmFNS3ZkRllDQ0NxMEU0RXRQQnBtUk15c2o1bkZ6cmhibWVQeWN2TkU4T0ZGdUFhQ1JUNGNIZE1RdWQwQXZHWDVqTEJxNEU4SkFycUc0NUZkUjVxX0tJX3l5OGlGVWpUbEw0SGRENzJKdnZqSzRnWTh4a0tNYWtrRFplcmUyOTZmZnVLUWNya3d3dlVFRkVuTlR6dDZia3F2UkxoSHdkdW05eVlLU3V4cXcwczFBaWUtbDJIbVozZGJTQ2puWHV2OHNtd3NFbnZBZGNERUg3UkhZTXpSZg?oc=5",
@@ -273,13 +304,6 @@
      "source": "Cadena 3 Argentina",
      "published": "2026-07-10T18:09:39+00:00",
      "id": "704c1b17732d"
-    },
-    {
-     "title": "Qué hacer este finde largo en Buenos Aires: celebración por 9 de julio, Mundial 2026 y más",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ExQ1Vhd3QtbnVJalk2bzNKRmdZYkVRTTFodHE1UzQ4Vjd0dUtSSWR6RFc0YzVva1hCbWVOdlh2S2E2WUs3LXRTdzVOZlptVzBIOHJMdi1NWTVyVkpiUU5KSGJrYjJYVTUzWVVlTnVaRHdwSkpBNjVxbTdwT1VTNXFiOVYxVnRQcWVGY0NwdW9sWnFEOGhodEhYbDRERzBMMkY2NUgxcE9QTjlLRnVuR2l6SEY5MVI5ZGhhdXMwRDJ2aVRKTlFnV9IBzgFBVV95cUxNLUM0NV9IZ3ZXcW12QktVemU2SFV4ODI1RUVnVk84aTVVSk16Zm0yd1dFeDdsUkhVN3RXU1JDcDFTQkQyRUQtU2dLbjUzWHBPTDdxV1llTlRHM2oxNV8yUi1tX01RLXhRd0VQUkpkNkV2OTRGNkdzMEcyV0tkRXUwMTJNUXRsOV9NaFBOZkQ5Xzd2WXE2ZF9zYkw3dGZYUGVxZ0RDTVoyNERHZVZtRkNKekNjMUN2ZmFsSVFVN2IyOU4wMEwzOXJTMllIemJLQQ?oc=5",
-     "source": "iProfesional",
-     "published": "2026-07-10T16:05:58+00:00",
-     "id": "f850182b989e"
     },
     {
      "title": "Teatro solidario en Buenos Aires: un show busca fondos para Venezuela",
@@ -317,18 +341,18 @@
      "id": "2d7903e631c5"
     },
     {
+     "title": "Qué hacer con niños en Buenos Aires: 16 experiencias para chicos de todas las edades",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JYlJ1VG1RQkYtU0V6ZHhzVlp5enRrX1pGNmE2RjhSUlFGZUY3VXZHc2x1TVR0alQ1azVqb2d6dEw0TXM1LU1nOF93UnNNSl9MU3kzOC13TXJlcktjaXlRR01GbEhUcXEyb1VZ?oc=5",
+     "source": "Buenos Aires Secreta",
+     "published": "2026-07-09T12:48:40+00:00",
+     "id": "61ad1ed3224b"
+    },
+    {
      "title": "Fin de semana patrio en Buenos Aires: Fan Fest, sabores argentinos y planes imperdibles",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3BKM2VDSE1CTFk0M0liS3FoWWl2NU9Ra1JQQlA1bUpGUUh3SG02bDFiU28tamE1b2tDTkZMdEdmZ0tuYWQ2S2RYSFJwNzI3TUU0M2FHbWV4SjZaTmg5ZnphZTNGd05FSkl5OV9wenU4dkY2RDRYSWxjV2dvVjhZeU1JaDA3MEdzRktVUkpyQS1Gek4wNTNJWl9fNVdoYzFvLXpCcVVzR2JUeUJvYk5uMUVzVzhHcGJKd3ZR0gHAAUFVX3lxTE9US2lZRnNlM2taOWxDbFNkNV9qNGVWd0hOZWY2amRxN2JqYy16dExQa2NtX1lLVWg0SE5pOE5tNUhiZmJKeXlvUm0wdmY0bFNDX0EtSEYyWTZPYXJNVFJLRWtsczFJSWc2cFR3TmlzMEZLd3BPZW5zbWg2M2FXaDE1eG9QRzZfM2VHdDdXblBxNE9wN2RHLVFiV0xhN19fY19YWU1oQVZwZzRONEJhSTJkeXVIajlXdUI2X3RsX2ZSZw?oc=5",
      "source": "MDZ Online",
      "published": "2026-07-09T11:00:00+00:00",
      "id": "e34d35496ed2"
-    },
-    {
-     "title": "Qué hacer en la Ciudad de Buenos Aires este fin de semana largo: los festejos del 9 de Julio y los Fan Fest para alentar a la Selección",
-     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOOE1ZQVYxaDFRcWdsYVoySy13LWRNcm8zQmt6SjlGLURkOHllUzd2cnRFdGhyazMzU296WWlxWEFtYUxRdGZVVnk1NnNaYUJJdkIyU2k5VzVrdWN4dmpJUWk0MXNRa2FPM3Q4NnplVnVJYkFkNl9iZFU4NVUzeEZHWGhESTlBZnFkaXRNUHJtMWR5ZHJNcEtvQ3hKeW5hR2pHb09uNHVSQWNwcEJsY1d1eFRGTzRpb29vX3YtRUdiNlM2N0F6U2hWRGJsU2JIc2g5QmM0WEJwc01xTGNXLTBLdU5wWk83NzJNcHRvZkhzM29NcGN5c3V6RW1FUk94OWhfSVNTbXI3NU02T2RobXBCQ3l1Rm9DZnky?oc=5",
-     "source": "Multimedio Genesis",
-     "published": "2026-07-08T23:38:45+00:00",
-     "id": "9a796a56a087"
     }
    ]
   },
@@ -338,84 +362,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Produce en 20.000 hectáreas: una empresa distinguida como una de las mejores para trabajar invirtió US$3 millones en una planta de acopio",
-     "link": "https://www.lanacion.com.ar/economia/campo/produce-en-20000-hectareas-una-empresa-distinguida-como-una-de-las-mejores-para-trabajar-invirtio-nid09072026/",
-     "source": "La Nación",
-     "published": "2026-07-11T09:47:28+00:00",
-     "copete": "Se trata de Morel Vulliez, que comenzó hace 30 años en Monte Maíz, en el sudeste cordobés, y se expandió a diversas actividades del agro",
-     "id": "34b55e314b75"
-    },
-    {
-     "title": "“No sería descabellado”: Scaloni reconoció que podría repetir la formación del equipo ante Suiza",
-     "link": "https://www.infobae.com/deportes/2026/07/11/la-conferencia-de-prensa-de-lionel-scaloni-antes-del-partido-de-argentina-ante-suiza-por-los-cuartos-de-final-del-mundial-2026/",
+     "title": "Pronóstico para el fin de semana: cómo estará el tiempo a la hora del partido de Argentina vs Suiza",
+     "link": "https://www.infobae.com/sociedad/2026/07/11/pronostico-para-el-fin-de-semana-como-estara-el-tiempo-a-la-hora-del-partido-de-argentina-vs-suiza/",
      "source": "Infobae",
-     "published": "2026-07-11T09:39:17+00:00",
-     "copete": "El entrenador de la Albiceleste dialogó con los medios en la previa al trascendental encuentro en Kansas",
-     "id": "3af8d8a5d7d6"
+     "published": "2026-07-11T11:23:29+00:00",
+     "copete": "El SMN anticipa una jornada con bajas temperaturas por el avance de un frente frío. Además, prevé precipitaciones hacia el cierre del sábado. Cómo seguirá la semana",
+     "id": "6c9fb5a84e07"
     },
     {
-     "title": "El Mundial de las “marcas país”",
-     "link": "https://www.lanacion.com.ar/economia/negocios/el-mundial-de-las-marcas-pais-nid11072026/",
+     "title": "Piratas del Caribe cumple 23 años: del nostálgico video de Orlando Bloom al recuerdo agridulce de Keira Knightley",
+     "link": "https://www.lanacion.com.ar/espectaculos/piratas-del-caribe-cumple-23-anos-del-nostalgico-video-de-orlando-bloom-al-recuerdo-agridulce-de-nid11072026/",
      "source": "La Nación",
-     "published": "2026-07-11T09:37:00+00:00",
-     "copete": "Como el Crystal Palace en la revolución industrial, la Copa del Mundo es una vidriera global donde las naciones exhiben mucho más que fútbol; la Argentina llega con una marca construida sobre talento, creatividad y excelencia",
-     "id": "c5ecdfda7d33"
+     "published": "2026-07-11T11:22:21+00:00",
+     "copete": "El actor que interpretó al querido Will Turner rememoró el rodaje de la primera entrega de la franquicia que coprotagonizó con Johnny Depp y se convirtió en un rotundo éxito",
+     "id": "4bd69157fffc"
     },
     {
-     "title": "Noruega-Inglaterra, en vivo por los cuartos de final del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
-     "link": "https://www.infobae.com/deportes/2026/07/11/noruega-inglaterra-en-vivo-por-los-cuartos-de-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "title": "La tasa de financiamiento a pyme baja 15% y abre la puerta al crecimiento",
+     "link": "https://www.infobae.com/opinion/2026/07/11/la-tasa-de-financiamiento-a-pyme-baja-15-y-abre-la-puerta-al-crecimiento/",
      "source": "Infobae",
-     "published": "2026-07-11T09:32:50+00:00",
-     "copete": "Los Vikingos y los ingleses pujarán por un boleto a las semifinales de la Copa del Mundo",
-     "id": "54dbe7090b57"
+     "published": "2026-07-11T11:20:41+00:00",
+     "copete": "Un nuevo indicador basado en operaciones reales del Mercado Argentino de Valores (MAV) busca medir cuánto cuesta financiarse para las pequeñas y medianas empresas y seguir la evolución de ese costo en el tiempo",
+     "id": "2956120ace31"
     },
     {
-     "title": "Argentina-Suiza, en vivo por los cuartos de final del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
-     "link": "https://www.infobae.com/deportes/2026/07/11/argentina-suiza-en-vivo-por-los-cuartos-de-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "title": "Clima en Ciudad de Guatemala: temperatura y probabilidad de lluvia para este 11 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/11/clima-en-ciudad-de-guatemala-temperatura-y-probabilidad-de-lluvia-para-este-11-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-11T09:32:19+00:00",
-     "copete": "La Albiceleste y el conjunto europeo pujarán por el último boleto a las semifinales de la Copa del Mundo",
-     "id": "5e722e79e804"
-    },
-    {
-     "title": "La selección argentina mostró la intimidad del “asado cábala” en la previa contra Suiza",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/la-seleccion-argentina-mostro-la-intimidad-del-asado-cabala-en-la-previa-contra-suiza-nid11072026/",
-     "source": "La Nación",
-     "published": "2026-07-11T09:30:00+00:00",
-     "copete": "A horas del duelo por los cuartos de final, la AFA compartió un video del tradicional encuentro del plantel alrededor de la parrilla; la costumbre se convirtió en un ritual durante la Copa del Mundo y volvió a repetirse antes de un partido…",
-     "id": "65c93d6d17e1"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 11 de julio",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-11-de-julio-nid11072026/",
-     "source": "La Nación",
-     "published": "2026-07-11T09:30:00+00:00",
-     "copete": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
-     "id": "0441ccf8b020"
-    },
-    {
-     "title": "Clima en Houston: temperatura y probabilidad de lluvia para este 11 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/11/clima-en-houston-temperatura-y-probabilidad-de-lluvia-para-este-11-de-julio/",
-     "source": "Infobae",
-     "published": "2026-07-11T09:16:13+00:00",
+     "published": "2026-07-11T11:17:42+00:00",
      "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "ede294b32859"
+     "id": "37fa15ed7ee1"
     },
     {
-     "title": "Desnudos falsos, vejación real: los proxenetas de fantasmas de las escuelas de élite",
-     "link": "https://www.clarin.com/opinion/desnudos-falsos-vejacion-real-proxenetas-fantasmas-escuelas-elite_0_SbQpMzNuN3.html",
-     "source": "Clarín",
-     "published": "2026-07-11T09:15:27+00:00",
-     "copete": "Según las investigaciones en curso, un grupo de alumnos desvestía a sus compañeras operando con inteligencia artificial y comercializaba esos cuerpos espectrales. Los adultos pusimos en manos de chicos de trece años herramientas capaces de…",
-     "id": "3b223aca6a7d"
+     "title": "¿Cómo estará el clima en Los Ángeles?",
+     "link": "https://www.infobae.com/noticias/2026/07/11/como-estara-el-clima-en-los-angeles/",
+     "source": "Infobae",
+     "published": "2026-07-11T11:17:24+00:00",
+     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+     "id": "daecc5b9ffd1"
     },
     {
-     "title": "Tras estar 28 años prohibido, el videojuego Carmageddon volvió a ser legal en la Ciudad gracias a la Ley de Hojarasca",
-     "link": "https://www.clarin.com/politica/28-anos-prohibido-videojuego-carmageddon-volvio-legal-ciudad-gracias-ley-hojarasca_0_5efOsWhxQW.html",
+     "title": "Lo que Messi le gritó al mundo lo aprendió de Julia Roberts",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/lo-que-messi-le-grito-al-mundo-lo-aprendio-de-julia-roberts-nid11072026/",
+     "source": "La Nación",
+     "published": "2026-07-11T11:17:00+00:00",
+     "copete": "Un hombre conmovido en una cancha de fútbol puede ser muchas más cosas que lo que se ve a primera vista",
+     "id": "19ef0ac8cbb7"
+    },
+    {
+     "title": "Mundial 2026, en vivo: se define la segunda semifinal entre Inglaterra vs. Noruega, y Argentina vs. Suiza",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-se-definen-la-segunda-semifinal-entre-inglaterra-vs-noruega-y-argentina-vs-nid11072026/",
+     "source": "La Nación",
+     "published": "2026-07-11T11:15:00+00:00",
+     "copete": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y reacciones sobre los partidos",
+     "id": "9930d43abf26"
+    },
+    {
+     "title": "Las mujeres de la selección argentina en el Mundial 2026: las de siempre, las nuevas y las que salieron del grupo",
+     "link": "https://www.lanacion.com.ar/deportes/las-mujeres-de-la-seleccion-argentina-en-el-mundial-2026-las-de-siempre-las-nuevas-y-las-que-nid03072026/",
+     "source": "La Nación",
+     "published": "2026-07-11T11:14:53+00:00",
+     "copete": "En Qatar, las novias y esposas de los jugadores conformaron “La Scalot”; aunque sigue vigente, en tres años y medio la configuración original tuvo algunas modificaciones",
+     "id": "2efd2f41aef6"
+    },
+    {
+     "title": "Bitcoin hoy: cotización y precio del BTC este sábado 11 de julio de 2026",
+     "link": "https://www.clarin.com/economia/bitcoin-hoy-cotizacion-y-precio-del-btc-este-sabado-11-de-julio-de-2026_0_SUatEmrAfq.html",
      "source": "Clarín",
-     "published": "2026-07-11T09:09:27+00:00",
-     "copete": "Se trata de un juego que había sido vedado en 1998 en el ámbito porteño por incitar a la violencia y fomentar los delitos viales. Con la aprobación de la Ley Hojarasca porteña en junio pasado se derogó la norma y dejó de estar prohibido.",
-     "id": "2246916d78d6"
+     "published": "2026-07-11T10:22:03+00:00",
+     "copete": "El valor actualizado del Bitcoin y la comparación con la jornada previa. Las claves para entender la volatilidad de la principal criptomoneda en el mercado.",
+     "id": "075e2b01ba96"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este sábado 11 de julio de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-sabado-11-de-julio-de-2026-en-argentina_0_x6XpzB3FDP.html",
+     "source": "Clarín",
+     "published": "2026-07-11T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "31c225929596"
     }
    ]
   },
@@ -428,9 +452,25 @@
      "title": "España alcanza las segundas semifinales del Mundial de su historia y habrá choque estelar con Francia",
      "link": "https://www.bbc.co.uk/mundo/live/ce37x1ynx92t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-11T09:53:29.908889+00:00",
+     "published": "2026-07-11T11:28:02.845601+00:00",
      "copete": "Fabián Ruiz abrió el tanteador, Charles De Ketelaere lo empató y Mikel Merino sentenció el partido para España. \"No me lo creo, otra vez lo he hecho\", dijo luego Merino, quien también había marcado el gol de la victoria contra Portugal.",
      "id": "17d2815d422f"
+    },
+    {
+     "title": "La historia de Ruth Ellis, la última mujer en ser ejecutada en la horca en Reino Unido y a la que ahora el rey indultó",
+     "link": "https://www.bbc.com/mundo/articles/cx24zp77k5ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-11T11:01:17+00:00",
+     "copete": "70 años después de su ejecución, se reconoció lo que el tribunal nunca quiso escuchar: que actuó bajo el peso de años de violencia doméstica.",
+     "id": "b3ac83cd9c8c"
+    },
+    {
+     "title": "Ponte a prueba: ¿eres capaz de detectar un rostro generado por IA?",
+     "link": "https://www.bbc.com/mundo/articles/cy8dlv2rylvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-11T10:26:43+00:00",
+     "copete": "Investigadores en Reino Unido han estado averiguando si es posible entrenar a las personas para identificar imágenes faciales generadas por un ordenador.",
+     "id": "ea96f4577312"
     },
     {
      "title": "Idrettsglede, la filosofía de \"disfrute del deporte\" en Noruega que prohíbe contar los resultados en partidos con menores de 11 años",
@@ -439,14 +479,6 @@
      "published": "2026-07-11T09:40:21+00:00",
      "copete": "Con apenas 5,6 millones de habitantes y más dedicado a los deportes de invierno que al fútbol, Noruega está plantando cara a las grandes potencias del Mundial. ¿Cuál es su secreto?",
      "id": "cf6ff7da208d"
-    },
-    {
-     "title": "Por qué el declive de población deja al descubierto las antiguas divisiones de Alemania",
-     "link": "https://www.bbc.com/mundo/articles/cj3g2n8n876o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-11T03:57:23+00:00",
-     "copete": "Décadas después de la caída del Muro de Berlín, la baja en las tasas de natalidad en el este de Alemania revela profundas divisiones en el país.",
-     "id": "9248d64f04ee"
     },
     {
      "title": "Turistas atrapados por la guerra en la ‘asediada’ Crimea: “La gente nos dice que estamos locos”",
@@ -473,14 +505,6 @@
      "id": "f4db86e21249"
     },
     {
-     "title": "Mikel Merino, el héroe de la Roja que con otro gol in extremis metió a España en las semifinales del Mundial 2026",
-     "link": "https://www.bbc.com/mundo/articles/c17ykrp28q2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-11T01:51:29+00:00",
-     "copete": "El centrocampista español ha sido el responsable de los dos goles clave que le han permitido a su selección imponerse en octavos y cuartos de final ante dos rivales difíciles.",
-     "id": "81c2f2609e7c"
-    },
-    {
      "title": "Desnudo, maniatado y con los ojos vendados: la imagen de un gazatí detenido por Israel pone el foco en el trato a los presos palestinos",
      "link": "https://elpais.com/internacional/2026-07-10/desnudo-maniatado-y-con-los-ojos-vendados-la-imagen-de-un-gazati-detenido-por-israel-pone-el-foco-en-el-trato-a-los-presos-palestinos.html",
      "source": "El País Internacional",
@@ -495,11 +519,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
