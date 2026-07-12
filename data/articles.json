@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-12T10:03:04.428420+00:00",
+ "generated_at": "2026-07-12T11:34:59.747011+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Rocbrutinib Displays Durable Activity in Covalent BTK Inhibitor–Pretreated R/R MCL",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmZka1h2XzlBdnJfRmpYd1ZvU2lpeFdBMWlGalpRa1NUd0c2N2pIV1p0Y0tTZjBKZVJucElnQnQ2NktqOV9iVnhBcnVYSlFnRzN4V3JTeWxGNE96ajBDM2djYmFPV0ZTMHBPOVlxQU5NNldyNWpacnduMTRQYlExNWZGcDhjaEJlQ3B6ZTdpUThmV2hVYk5WeW52Q0xob01QY1IxTG5RV2w1VUphcHRIaA?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-12T10:08:44+00:00",
+     "id": "d1319ace833c"
+    },
     {
      "title": "Revisit Every OncLive On Air Episode From June 2026",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1dJaE9aLWR6eU5vV1dxd24zUFVlelJhaGpDR2hKdXg3b2h2NDNFdXBtUklXZ0JteHdQNFBwRXdmVll6M3hnMWFSeTNYN2JDTnpKb1NvRGt4U245cVNUSW5OU3FrSzhlbGh5Um9VbTRfMUFzQ0QxekwtOWFUVFd6TEgzd0M3WEU?oc=5",
@@ -26,13 +33,6 @@
      "source": "The ASCO Post",
      "published": "2026-07-10T23:49:16+00:00",
      "id": "febfde0c8612"
-    },
-    {
-     "title": "Dr Ho on a Phase 3 Trial Evaluating Oz-V in Unresectable, Recurrent or Metastatic OSPCC",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVgxTHRQSWE1NG9aUEZxTzBZaGhsR0NJemlqS3NaaWQtT1ZIZXhGUXFMaDBVNW5ibFo2MUhJZHVPbUIzSVBLblg1bWZJYlpvakx5V2ttTHBLQ1F3akxGTVc1bVQtZ3lLVnVTZUhMMWVZXzNNY0tIVlNIVm5uY0lVaE9CMzlpdHMyYnhqbnRLTHdrVHpGcklSQkRrUHFDQU9kcHpoLVZ3bmhsUTk2cTdiYUN3bVdLQQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-10T20:12:26+00:00",
-     "id": "a6f629653220"
     },
     {
      "title": "FDA Approves Pembrolizumab or Pembrolizumab and Berahyaluronidase Alfa-pmph—Each With Enfortumab Vedotin-ejfv—for Muscle-Invasive Bladder Cancer",
@@ -71,6 +71,22 @@
      "published": "2026-07-10T00:00:00+00:00",
      "copete": "Akkus E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "05d940006041"
+    },
+    {
+     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Yue D et al. · The New England journal of medicine",
+     "id": "8c859eab0c01"
+    },
+    {
+     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Choueiri TK et al. · The New England journal of medicine",
+     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -83,23 +99,45 @@
      "title": "Ambush Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ambush",
      "source": "Vogue",
-     "published": "2026-07-12T10:00:11+00:00",
+     "published": "2026-07-12T11:34:44+00:00",
      "id": "96e3b06b4dad"
     },
     {
      "title": "Isabel Marant Resort 2027",
      "link": "https://www.vogue.com/fashion-shows/resort-2027/isabel-marant",
      "source": "Vogue",
-     "published": "2026-07-12T10:00:11+00:00",
+     "published": "2026-07-12T11:34:44+00:00",
      "id": "feaea110f661"
     },
     {
-     "title": "Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris Heatwave",
-     "link": "https://www.vogue.com/article/sabrina-carpenter-french-girl-fashion-paris-heatwave",
+     "title": "Horóscopo de hoy: 12 de julio de 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NHJWcHU0MUUzWE9oTC1ZOU5feHljZTdOaktHWU1xU1VhdElZNUg3eW1fSl9NZ3BuYkZxWUpsbzlQRDdTdG1XVHBnd08xdGlacTQwbU5xS3NnWjk1dHo4ZFN5am5VUlI5ZWdPUU54SmR3a1dtQkd5WTdIbUw5b28?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-12T11:00:00+00:00",
+     "id": "b976eb161b57"
+    },
+    {
+     "title": "¿El \"clean look\" llega a su fin?: cuando la clave no es parecer perfecta, sino auténtica",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ1QyQTFCMlZBVFh3QVhQUXh1X1NUNGMzZmFKV1pwTlhnbGhlVXlpcmwtbTQ5LW1DTFQ5U0Q3djU3aWFvam5kR0FsUHBxdVhXeDFEclA3N2hpYjFvWEZ3d2ZnaHlXY3NSelIyZGlnV1lYbEtWRVF5WXpZalVxVkpydW1Bd25vcUhiVm5QbFItYWlRbkRLLXNvRUw2VDVHa29TYkp3QWpPTDY5eG01RjJ0VlBMc2c2TWVFcWFkNjhESXZzVkJkMTlIc01n?oc=5",
+     "source": "Aire de Santa Fe",
+     "published": "2026-07-12T10:35:00+00:00",
+     "id": "0ee43f9f74ab"
+    },
+    {
+     "title": "Kim Kardashian’s Spray-Tan Expert Shares Her Tips For Faking a Natural Glow",
+     "link": "https://www.vogue.com/article/self-tanner-tips",
      "source": "Vogue",
-     "published": "2026-07-12T09:52:45+00:00",
-     "copete": "Out and about in the French capital, Sabrina Carpenter opted for an easy, breezy bottom to alleviate her more wintry, furry headpiece.",
-     "id": "b5d6520f47a2"
+     "published": "2026-07-12T10:30:00+00:00",
+     "copete": "Isabel Alysa is Hollywood’s most in-demand self tanning expert. Here, she shares her best spray tan tips for a faux summer glow without streaks or spots.",
+     "id": "ac0322102601"
+    },
+    {
+     "title": "The Best Dressed Stars of the Week Embraced Airy Opulence",
+     "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-zendaya-cardi-b-anne-hathaway",
+     "source": "Vogue",
+     "published": "2026-07-12T10:18:42+00:00",
+     "copete": "From Sarah Pidgeon’s full-skirted Chanel to Zendaya’s lacy Louis Vuitton: these summery looks were ethereal and light—but still turned heads on the red carpet.",
+     "id": "d444825e92d9"
     },
     {
      "title": "Las mejores tendencias denim para mujer tienen estilo parisino",
@@ -107,14 +145,6 @@
      "source": "Neo2 Magazine",
      "published": "2026-07-12T09:51:24+00:00",
      "id": "14fa3693f9cf"
-    },
-    {
-     "title": "Rihanna Has a Crisis of Pants in Paris and New York",
-     "link": "https://www.vogue.com/article/rihanna-has-a-crisis-of-pants-in-paris-and-new-york",
-     "source": "Vogue",
-     "published": "2026-07-12T09:36:16+00:00",
-     "copete": "Wherever she is, you can trust that Rihanna won’t let a spike in Fahrenheit mess with her fashions.",
-     "id": "99aa41e6c076"
     },
     {
      "title": "Pelo largo para hombre: por qué vuelve a estar de moda y cuáles son las tendencias en peinados del verano 2026",
@@ -136,20 +166,6 @@
      "source": "Vogue España",
      "published": "2026-07-12T06:35:13+00:00",
      "id": "e97b1f7f8ab2"
-    },
-    {
-     "title": "Las mejores playas de Asturias: 7 enclaves que combinan mar y montaña a partes iguales",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tc1NFMHdtNGdTNUdIZmZKQkFldTI0NXlmcktXWThvS0VacEtzVXEtUHpNWWJvR2h4Q2tIc2xyT0cxejhTcEREM3dOM3Uydmk3WjZPY2dwTWYxaC1HWTNLNWx3czRLNE5OTGc?oc=5",
-     "source": "Vogue España",
-     "published": "2026-07-12T06:18:20+00:00",
-     "id": "b6f0c6bfdbb6"
-    },
-    {
-     "title": "Zara bate su récord de ventas tras rebajar sus bolsos de tendencia verano 2026 a menos de 19 €, 11 € y 8 €",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazF2a0lNeGEyWHZOa2licFdFV21uRWZvQkRVeGxlMUdnOUxWR29meVg0Ul9zaHBQYk1oOUo4enhPRHNKY0pBekFyWm1fb0lXeFpyUlk1SGJsbS1EbDdxX1hWVTVCX0FmaUNXem1ZNGY0T2pzSTVEazhBYzlMRlg4ckJnd011TElqU2lFM3dSY0lQM0tLTUxybEVnQzh3bldxcGVBQjJFZw?oc=5",
-     "source": "ELLE",
-     "published": "2026-07-12T05:02:59+00:00",
-     "id": "2cff2879f8a6"
     }
    ]
   },
@@ -158,6 +174,14 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 12 de julio de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-12-de-julio-de-2026-en-argentina_0_jfUjgWRuuX.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-12T10:15:04+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "65d82d43623b"
+    },
     {
      "title": "La Odisea de Nolan: por qué Homero sigue siendo tendencia 3.200 años después, una guía para los que no tienen ni idea de mitología griega",
      "link": "https://www.clarin.com/espectaculos/odisea-nolan-homero-sigue-tendencia-3200-anos-despues-guia-idea-mitologia-griega_0_hkOphySA3d.html",
@@ -245,14 +269,6 @@
      "published": "2026-07-12T02:38:11+00:00",
      "copete": "La conductora recordó en su mesa la conversación con Celia María Cuccittini y explicó por qué ese intercambio breve quedó marcado como uno de los momentos más memorables",
      "id": "c4cc03c32c46"
-    },
-    {
-     "title": "Mirtha Legrand apostó por un look mundialista inspirado en el partido entre Argentina y Suiza",
-     "link": "https://www.infobae.com/teleshow/2026/07/12/mirtha-legrand-aposto-por-un-look-mundialista-inspirado-en-el-partido-entre-argentina-y-suiza/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-12T01:50:33+00:00",
-     "copete": "La Chiqui se llevó todos los halagos de los presentes en el estudio en una jornada que reunió a Juan Gil Navarro, Marta González, Gabriela Sari y Mario Maurice",
-     "id": "47dfc870fd99"
     }
    ]
   },
@@ -339,84 +355,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Tensión en Inglaterra por el cruce entre el DT Thomas Tuchel y la figura Jude Bellingham tras la clasificación a semifinales del Mundial",
-     "link": "https://www.infobae.com/deportes/2026/07/12/tension-en-inglaterra-por-el-cruce-entre-el-dt-thomas-tuchel-y-la-figura-jude-bellingham-tras-la-clasificacion-a-semifinales-del-mundial/",
+     "title": "La Embajada de Francia declaró “persona no grata” a Hebe Casado, vicegobernadora de Mendoza, por racismo",
+     "link": "https://www.infobae.com/politica/2026/07/12/francia-declaro-persona-no-grata-a-hebe-casado-vicegobernadora-de-mendoza-por-racismo/",
      "source": "Infobae",
-     "published": "2026-07-12T09:50:21+00:00",
-     "copete": "“No estoy contento con el rendimiento”, dijo el seleccionador. “Quizá él no sabe lo que es jugar en ese tipo de condiciones”, le devolvió el futbolista",
-     "id": "f7f46a58e612"
+     "published": "2026-07-12T11:22:27+00:00",
+     "copete": "Lo confirmó a Infobae Romain Nadal, embajador francés en Buenos Aires. “El equipo africano flojo de modales”, había escrito la dirigente tras el triunfo de los galos contra Paraguay. “El racismo no es una opinión, es un delito”, dijo el…",
+     "id": "e03fdf71e173"
     },
     {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 12 de julio",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-12-de-julio-nid12072026/",
-     "source": "La Nación",
-     "published": "2026-07-12T09:30:00+00:00",
-     "copete": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
-     "id": "01df9b1263f9"
-    },
-    {
-     "title": "Qué partidos se juegan en EE.UU. hoy domingo 12 de julio por el Mundial 2026",
-     "link": "https://www.lanacion.com.ar/estados-unidos/que-partidos-se-juegan-en-eeuu-hoy-domingo-12-de-julio-por-el-mundial-2026-nid12072026/",
-     "source": "La Nación",
-     "published": "2026-07-12T09:23:00+00:00",
-     "copete": "Consulta qué partidos se juegan en EE.UU. hoy por el Mundial 2026 y por qué el domingo 12 de julio no habrá actividad oficial tras cuartos.",
-     "id": "74a89c444322"
-    },
-    {
-     "title": "Clima en Panamá: cuál será la temperatura máxima y mínima este 12 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/12/clima-en-panama-cual-sera-la-temperatura-maxima-y-minima-este-12-de-julio/",
+     "title": "Predicción del clima en Ciudad de Guatemala para este 12 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/12/prediccion-del-clima-en-ciudad-de-guatemala-para-este-12-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-12T09:16:28+00:00",
-     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
-     "id": "5661e315cdc1"
-    },
-    {
-     "title": "Clima hoy en EEUU: temperaturas para Dallas este 12 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/12/clima-hoy-en-eeuu-temperaturas-para-dallas-este-12-de-julio/",
-     "source": "Infobae",
-     "published": "2026-07-12T09:16:10+00:00",
+     "published": "2026-07-12T11:17:34+00:00",
      "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "0ed05281559f"
+     "id": "70611c5dae1b"
     },
     {
-     "title": "Conoce el clima de este día en Houston",
-     "link": "https://www.infobae.com/noticias/2026/07/12/conoce-el-clima-de-este-dia-en-houston/",
+     "title": "¿Cuál es la temperatura promedio en Los Ángeles?",
+     "link": "https://www.infobae.com/noticias/2026/07/12/cual-es-la-temperatura-promedio-en-los-angeles/",
      "source": "Infobae",
-     "published": "2026-07-12T09:15:47+00:00",
+     "published": "2026-07-12T11:17:16+00:00",
      "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "fcca2c78a549"
+     "id": "55d387bfe695"
     },
     {
-     "title": "Qué son los microduelos, las pérdidas que nadie llora",
-     "link": "https://www.clarin.com/viva/microduelos-perdidas-nadie-llora_0_iQ42LlOcyk.html",
-     "source": "Clarín",
-     "published": "2026-07-12T09:07:41+00:00",
-     "copete": "Es un término utilizado en psicología para describir aquellas pérdidas pequeñas y silenciosas que, aunque no sean tan evidentes o dramáticas como la muerte de un ser querido, pueden tener un impacto significativo en nuestra vida emocional.",
-     "id": "104b96d76108"
+     "title": "Estatus de la calidad del aire en Viña del Mar este 12 de julio de 2026",
+     "link": "https://www.infobae.com/noticias/2026/07/12/estatus-de-la-calidad-del-aire-en-vina-del-mar-este-12-de-julio-de-2026/",
+     "source": "Infobae",
+     "published": "2026-07-12T11:16:53+00:00",
+     "copete": "Estas son las restricciones aplicables para el actual estado de la calidad del aire",
+     "id": "885fe85e9b49"
     },
     {
-     "title": "Qué pasó en el país después del 9 de Julio de 1816",
-     "link": "https://www.clarin.com/viva/paso-pais-despues-9-julio-1816_0_hEPlNSbEwB.html",
-     "source": "Clarín",
-     "published": "2026-07-12T09:03:41+00:00",
-     "copete": "Luego del Congreso de Tucumán comenzó un proceso en el que la independencia política no garantizaba la independencia económica. El país quedaba condenado a producir materias primas y comprar productos manufacturados. En medio de esta…",
-     "id": "1088202b4ece"
+     "title": "Ley de Dignidad: María Elvira Salazar avanza con el proyecto que ayudaría a regularizar estatus de migrantes en EE.UU.",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/ley-de-dignidad-maria-elvira-salazar-avanza-con-el-proyecto-que-ayudaria-a-regularizar-estatus-de-nid12072026/",
+     "source": "La Nación",
+     "published": "2026-07-12T11:14:00+00:00",
+     "copete": "Conoce qué propone la Ley de Dignidad, el proyecto de María Elvira Salazar que busca reformar el sistema migratorio y regularizar a ciertos inmigrantes en EE.UU.",
+     "id": "d440435f5eb0"
     },
     {
-     "title": "La Odisea de Nolan: por qué Homero sigue siendo tendencia 3.200 años después, una guía para los que no tienen ni idea de mitología griega",
-     "link": "https://www.clarin.com/espectaculos/odisea-nolan-homero-sigue-tendencia-3200-anos-despues-guia-idea-mitologia-griega_0_hkOphySA3d.html",
-     "source": "Clarín",
-     "published": "2026-07-12T09:01:43+00:00",
-     "copete": "Christopher Nolan estrena el 16 de julio la primera película narrativa filmada íntegramente en IMAX 70mm. Zendaya, Anne Hathaway, Helena de Troya: por qué el mito más viejo de Occidente volvió a ser, otra vez, lo más buscado de la semana.",
-     "id": "c991f714098a"
+     "title": "Mundial 2026, en vivo: se definieron los cruces de semifinales tras la victoria de la Argentina",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-se-definieron-los-cruces-de-semifinales-tras-la-victoria-de-la-argentina-nid12072026/",
+     "source": "La Nación",
+     "published": "2026-07-12T11:13:13+00:00",
+     "copete": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y reacciones sobre los partidos",
+     "id": "36742ce6fba1"
     },
     {
-     "title": "Rebelión contra la inteligencia artificial: crecen las protestas contra los datacenters en EE.UU.",
-     "link": "https://www.clarin.com/tecnologia/rebelion-inteligencia-artificial-crecen-protestas-datacenters-eeuu_0_Zk243dKiaj.html",
+     "title": "Jannik Sinner vs. Alexander Zverev, por la final de Wimbledon 2026: horario y cómo ver online",
+     "link": "https://www.lanacion.com.ar/deportes/tenis/jannik-sinner-vs-alexander-zverev-por-la-final-de-wimbledon-2026-horario-y-como-ver-online-nid12072026/",
+     "source": "La Nación",
+     "published": "2026-07-12T11:00:00+00:00",
+     "copete": "El encuentro decisivo se disputa este domingo en el All England Lawn Tennis Club de Londres y se transmite en vivo por televisión y streaming",
+     "id": "45a54b778792"
+    },
+    {
+     "title": "¿Hay partidos del Mundial hoy domingo 12 de julio?",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/hay-partidos-del-mundial-hoy-domingo-12-de-julio-nid12072026/",
+     "source": "La Nación",
+     "published": "2026-07-12T11:00:00+00:00",
+     "copete": "La jornada 32 de la Copa del Mundo es la segunda de descanso para los cuatro seleccionados que llegaron a la semifinales y siguen en carrera por el título",
+     "id": "7a671069a7b7"
+    },
+    {
+     "title": "Dólar blue hoy: a cuánto cotiza este domingo 12 de julio",
+     "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-12-julio_0_4PgYRiuCbT.html",
      "source": "Clarín",
-     "published": "2026-07-12T09:01:43+00:00",
-     "copete": "El Wall Street Journal reportó un avance acelerado del rechazo social a la inteligencia artificial en Estados Unidos. La preocupación combina aumentos en tarifas eléctricas, temor por el empleo, impacto educativo y dudas sobre la salud…",
-     "id": "c87bb3a75a73"
+     "published": "2026-07-12T07:00:02+00:00",
+     "copete": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+     "id": "9701c147539b"
+    },
+    {
+     "title": "\"Sole de los milagros\": la premonición de Tití Fernández y el emotivo mensaje a su hija tras el triunfo de Argentina vs Suiza",
+     "link": "https://www.clarin.com/fama/sole-milagros-emotivo-mensaje-titi-fernandez-hija-triunfo-argentina-vs-suiza_0_pmUSjqBKPY.html",
+     "source": "Clarín",
+     "published": "2026-07-12T06:26:01+00:00",
+     "copete": "Le dedicó un posteo a María Soledad, que murió hace 12 años en un accidente tras ver Argentina-Suiza en el Mundial de Brasil. \"No nos podías fallar\", escribió Fernández, que había revelado señales de la joven y había pronosticado un…",
+     "id": "7373628a3ff7"
     }
    ]
   },
@@ -426,20 +442,36 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "España alcanza las segundas semifinales del Mundial de su historia y habrá choque estelar con Francia",
-     "link": "https://www.bbc.co.uk/mundo/live/ce37x1ynx92t?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-12T10:03:04.308249+00:00",
-     "copete": "Fabián Ruiz abrió el tanteador, Charles De Ketelaere lo empató y Mikel Merino sentenció el partido para España. \"No me lo creo, otra vez lo he hecho\", dijo luego Merino, quien también había marcado el gol de la victoria contra Portugal.",
-     "id": "17d2815d422f"
-    },
-    {
      "title": "Así te lo contamos: Argentina vence a Suiza y peleará con Inglaterra por un puesto en la final del Mundial",
      "link": "https://www.bbc.co.uk/mundo/live/ce8mr7erz6qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-12T10:03:04.307479+00:00",
+     "published": "2026-07-12T11:34:59.115378+00:00",
      "copete": "La Albiceleste de Messi se impuso 3-1 frente a Suiza en los últimos minutos de la prórroga. El miércoles jugará contra Inglaterra por un puesto en la final del Mundial 2026.",
      "id": "7f3371b2a8ec"
+    },
+    {
+     "title": "Mercenarios rusos resisten a duras penas la ofensiva de los rebeldes tuaregs en el norte de Malí",
+     "link": "https://elpais.com/internacional/2026-07-12/mercenarios-rusos-resisten-a-duras-penas-la-ofensiva-de-los-rebeldes-tuaregs-en-el-norte-de-mali.html",
+     "source": "El País Internacional",
+     "published": "2026-07-12T10:58:39+00:00",
+     "copete": "Los insurgentes, con la ayuda de un grupo yihadista, obligaron a los contratistas de Africa Corps y soldados malienses a atrincherarse en una base militar",
+     "id": "df9719663e47"
+    },
+    {
+     "title": "Pasé de vivir en la calle a ser un experto en finanzas en el banco más grande de Reino Unido",
+     "link": "https://www.bbc.com/mundo/articles/c39yrvjn083o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-12T10:37:53+00:00",
+     "copete": "Con apenas tres meses fue entregado a una familia de acogida y a partir de ese momento, su vida tuvo unos tremendos giros que lo llevaron a vivir en la calle a los 18 años y luego a convertirse en un prestigioso asesor financiero. Esta es…",
+     "id": "1c36066c75c9"
+    },
+    {
+     "title": "Muere el senador republicano Lindsey Graham, fiel aliado de Trump",
+     "link": "https://elpais.com/internacional/2026-07-12/muere-el-senador-republicano-lindsey-graham-fiel-aliado-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-07-12T10:05:02+00:00",
+     "copete": "El legislador estadounidense, que pasó de ser un crítico acérrimo del mandatario a colaborar con él, era un defensor declarado de la ayuda a Ucrania y acababa de regresar de Kiev",
+     "id": "3687b5528f49"
     },
     {
      "title": "La legión de latinoamericanos que reclutó Mussolini para ganar el \"Mundial del fascismo\" en 1934",
@@ -458,36 +490,20 @@
      "id": "11de035b4cb3"
     },
     {
+     "title": "La policía británica detiene a un nuevo sospechoso del asesinato de la política conservadora Ann Widdecombe",
+     "link": "https://elpais.com/internacional/2026-07-12/la-policia-britanica-detiene-a-un-nuevo-sospechoso-del-asesinato-de-la-politica-conservadora-ann-widdecombe.html",
+     "source": "El País Internacional",
+     "published": "2026-07-12T08:18:42+00:00",
+     "copete": "El arrestado es un hombre de 28 años, localizado a más de 400 kilómetros del lugar del crimen",
+     "id": "ab42ad977a8a"
+    },
+    {
      "title": "La huida hacia adelante de Marine Le Pen",
      "link": "https://elpais.com/internacional/2026-07-12/la-huida-hacia-adelante-de-marine-le-pen.html",
      "source": "El País Internacional",
      "published": "2026-07-12T03:40:00+00:00",
      "copete": "La arriesgada decisión de la líder ultraderechista, que concurrirá a las elecciones pese a estar condenada, es un nuevo capítulo en la historia de un clan familiar que ha marcado la política francesa durante medio siglo y hoy roza con los…",
      "id": "c5d576d1d94d"
-    },
-    {
-     "title": "Rusia está perdiendo la guerra, Ucrania la gana solo a medias",
-     "link": "https://elpais.com/internacional/2026-07-12/rusia-esta-perdiendo-la-guerra-ucrania-la-gana-solo-a-medias.html",
-     "source": "El País Internacional",
-     "published": "2026-07-12T03:40:00+00:00",
-     "copete": "Lecciones humanas y geopolíticas de cuatro años viviendo en el conflicto bélico que determina el futuro de Europa",
-     "id": "1ab586b66585"
-    },
-    {
-     "title": "De Mónaco a un bosque de Kiev: el misterio del atentado contra un oligarca ucranio",
-     "link": "https://elpais.com/internacional/2026-07-12/de-monaco-a-un-bosque-de-kiev-el-misterio-del-atentado-contra-un-oligarca-ucranio.html",
-     "source": "El País Internacional",
-     "published": "2026-07-12T03:40:00+00:00",
-     "copete": "El ataque contra Vadim Ermolaev, la ejecución de su presunta autora y la detención de dos hombres vinculados a los servicios de inteligencia de Ucrania abren nuevos interrogantes en la investigación",
-     "id": "9bbbec6408f2"
-    },
-    {
-     "title": "La lucha de Alaa Faraj por su inocencia, acusado de ser un traficante y condenado a 30 años por repartir agua en una patera",
-     "link": "https://elpais.com/internacional/2026-07-12/la-lucha-de-alaa-faraj-por-su-inocencia-acusado-de-ser-un-traficante-y-condenado-a-30-anos-por-repartir-agua-en-una-patera.html",
-     "source": "El País Internacional",
-     "published": "2026-07-12T03:40:00+00:00",
-     "copete": "El libro de un joven libio, que se ha convertido en un fenómeno editorial en Italia, destapa el mecanismo legal que lleva a prisión a cientos de migrantes solo por llevar el timón de un barco",
-     "id": "b8d03489d4f3"
     }
    ]
   }
@@ -501,11 +517,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
