@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:18:16Z",
+  "generated_at": "2026-07-12T22:06:11Z",
   "summaries": {
     "80d2ed0f934d": {
       "resumen": "OncLive repasa todos los episodios de su podcast OncLive On Air emitidos en junio de 2026, un ciclo de entrevistas breves con especialistas en distintos tumores. Sirve como puerta de entrada para ponerse al día con las charlas del mes sin tener que buscarlas una por una.",
@@ -12,10 +12,6 @@
     },
     "febfde0c8612": {
       "resumen": "OncLive conversa con el Dr. Rami Manochakian sobre las novedades en el cáncer de pulmón a células pequeñas (CPCP, conocido también por su sigla en inglés SCLC), un subtipo agresivo que históricamente recibió menos atención terapéutica que otros tumores pulmonares. Interesa porque repasa los avances recientes que lo empiezan a sacar de ese lugar secundario.",
-      "destacado": false
-    },
-    "a6f629653220": {
-      "resumen": "OncLive entrevista al Dr. Ho sobre un ensayo clínico de fase 3 que evalúa la combinación Oz-V en el carcinoma OSPCC irresecable, recidivante o metastásico (sigla utilizada así en la fuente, sin desarrollo disponible). Interesa por tratarse de un tumor poco frecuente con opciones terapéuticas limitadas.",
       "destacado": false
     },
     "014c2008093c": {
@@ -48,21 +44,6 @@
     "14fa3693f9cf": {
       "resumen": "Neo2 Magazine repasa las tendencias en jean para mujer que este verano se inspiran en el estilo parisino."
     },
-    "40acdb0d0193": {
-      "resumen": "Esquire explica por qué el pelo largo en hombres vuelve a imponerse y repasa los peinados que serán tendencia este verano 2026."
-    },
-    "11b9e423bd55": {
-      "resumen": "Vogue España celebra los 30 años de 'Wannabe', el himno de las Spice Girls que instaló el 'girl power' y todavía inspira."
-    },
-    "e97b1f7f8ab2": {
-      "resumen": "Vogue España repasa cuáles son los signos del zodíaco considerados más empáticos."
-    },
-    "b6f0c6bfdbb6": {
-      "resumen": "Vogue España selecciona siete playas de Asturias donde el mar y la montaña se combinan en partes iguales."
-    },
-    "2cff2879f8a6": {
-      "resumen": "ELLE cuenta que Zara batió su récord de ventas al rebajar sus carteras tendencia del verano 2026 a menos de 19, 11 y 8 euros."
-    },
     "e06725c4866c": {
       "resumen": "Clarín repasa, sin ceremonia de gala, cuáles son los restaurantes de Buenos Aires y Mendoza que suenan como candidatos a las nuevas estrellas Michelin en la Argentina."
     },
@@ -71,12 +52,6 @@
     },
     "d258ab04f793": {
       "resumen": "iProfesional detalla dónde ver en pantalla gigante los partidos de la Selección Argentina en la Ciudad de Buenos Aires."
-    },
-    "c623478b2d77": {
-      "resumen": "Cadena 3 Argentina anuncia que la versión local del musical Frozen se estrenará en el teatro Gran Rex en mayo de 2027."
-    },
-    "2b4cda4ecbfb": {
-      "resumen": "MDZ Online informa cuándo y dónde se podrá ver en Buenos Aires el musical de Frozen, la película de Disney."
     },
     "2d7903e631c5": {
       "resumen": "MDZ Online relevó los precios del locro en bodegones y restaurantes porteños para este 9 de Julio."
@@ -90,8 +65,49 @@
     "4fbced80628f": {
       "resumen": "Perfil arma una agenda de planes para el fin de semana largo en Buenos Aires, entre los festejos del 9 de Julio y los Fan Fest del Mundial."
     },
-    "963ce72fb3a5": {
-      "resumen": "TN recomienda dónde comer locro y otros platos patrios por el 9 de Julio en Buenos Aires."
+    "d1319ace833c": {
+      "resumen": "OncLive reporta datos de actividad duradera de rocbrutinib, un inhibidor no covalente de la tirosina quinasa de Bruton (BTK), en pacientes con linfoma de células del manto (MCL) recidivante o refractario (R/R) que ya habían progresado a un inhibidor covalente de BTK. Interesa porque representa una posible opción en un escenario con alternativas terapéuticas muy limitadas.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de OncLive sobre un ensayo clínico (probablemente de fase temprana) que evalúa rocbrutinib; el título no permite precisar si es fase 1, fase 1/2 o fase 2, ni la aleatorización, el cegado o el número de centros y pacientes.\nPoblación: Pacientes con linfoma de células del manto (MCL) recidivante o refractario (R/R) que ya recibieron y progresaron a un inhibidor covalente de BTK (como ibrutinib, acalabrutinib o zanubrutinib).\nIntervención: Rocbrutinib, un inhibidor no covalente de BTK, aparentemente en monoterapia; el título no menciona un comparador, lo que sugiere un estudio de un solo brazo.\nResultados: no disponibles, no se pudo acceder al abstract; el título solo indica \"actividad duradera\" sin cifras concretas de respuesta o supervivencia.\nLimitaciones: sin el texto completo no se puede conocer la tasa de respuesta, la duración de la respuesta, el perfil de toxicidad ni el tamaño muestral.\nMensaje: sugiere que existiría una alternativa activa para pacientes con MCL que ya fallaron a un inhibidor covalente de BTK, un escenario clínico de manejo difícil, aunque la evidencia debe confirmarse con los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "e62753ee3899": {
+      "resumen": "JAMA Oncology publica un consenso internacional de expertos sobre el manejo del cordoma primario localizado, un tumor óseo raro y de crecimiento lento que se origina en restos de la notocorda embrionaria, típicamente en la base del cráneo o la columna. Interesa porque, al tratarse de una enfermedad infrecuente, la evidencia de alta calidad escasea y estos consensos terminan guiando buena parte de la práctica clínica.",
+      "destacado": false,
+      "analisis": "Diseño: Consenso global de expertos (el título no especifica la metodología exacta, posiblemente un panel Delphi u otro método formal de consenso, ni el número de participantes o de rondas de votación); no se pudo acceder al abstract completo.\nPoblación: Pacientes con cordoma primario localizado (sin metástasis a distancia), un tumor óseo raro derivado de restos de la notocorda, habitualmente ubicado en la base del cráneo, la columna móvil o el sacro.\nIntervención: No aplica un tratamiento único; el consenso probablemente aborda recomendaciones sobre diagnóstico, cirugía, radioterapia y seguimiento.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: los consensos de expertos reflejan opinión y experiencia acumulada más que evidencia de ensayos aleatorizados, dado lo infrecuente de la enfermedad; sin el texto completo no se puede evaluar el grado de acuerdo alcanzado ni la solidez de cada recomendación.\nMensaje: aporta una guía de referencia para estandarizar el manejo de una enfermedad rara donde los ensayos clínicos son difíciles de realizar, aunque su fuerza de evidencia es menor que la de un ensayo clínico aleatorizado.\nNota: análisis sin acceso al abstract."
+    },
+    "e4b8c180ddbf": {
+      "resumen": "JAMA Oncology publica un análisis post hoc del ensayo TOPAZ-1, que evaluó agregar durvalumab (un inhibidor del punto de control inmunitario PD-L1) a la quimioterapia estándar en cáncer de vías biliares avanzado (tumores del árbol biliar, como el colangiocarcinoma). Interesa porque profundiza en los datos de un ensayo que ya cambió la práctica en esta enfermedad de mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis post hoc (secundario, no preespecificado como objetivo primario) del ensayo TOPAZ-1, un ensayo clínico aleatorizado, doble ciego, multicéntrico e internacional; el título no detalla el número exacto de centros ni de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer de vías biliares avanzado (incluye colangiocarcinoma intra y extrahepático, cáncer de vesícula biliar y cáncer ampular), sin tratamiento sistémico previo para enfermedad avanzada.\nIntervención: Durvalumab (inhibidor de PD-L1) sumado a quimioterapia con gemcitabina y cisplatino, frente a quimioterapia sola más placebo.\nResultados: no disponibles con precisión numérica, no se pudo acceder al abstract completo; el ensayo original TOPAZ-1 ya había mostrado beneficio en supervivencia global con el agregado de durvalumab, y este post hoc probablemente profundiza en algún subgrupo o desenlace adicional.\nLimitaciones: al ser un análisis post hoc, tiene menor jerarquía estadística que el objetivo primario del ensayo y puede reflejar hallazgos por azar; sin el abstract no se puede precisar qué subgrupo o desenlace específico analiza.\nMensaje: refuerza y matiza la evidencia que sostiene a durvalumab más quimioterapia como estándar de primera línea en cáncer de vías biliares avanzado, aportando información adicional sobre en qué pacientes el beneficio podría ser mayor.\nNota: análisis sin acceso al abstract."
+    },
+    "a9fa6aa2c567": {
+      "resumen": "JAMA Oncology publica los resultados del ensayo fase 2 TREASURE (AIO-TRK-0320), que evaluó sumar radioterapia torácica consolidativa al mantenimiento con atezolizumab (un inhibidor del punto de control inmunitario PD-L1) en cáncer de pulmón a células pequeñas en estadio extendido. Interesa porque busca mejorar el control local en un tumor agresivo y de recaída casi universal.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 2 (TREASURE, AIO-TRK-0320); el título no especifica el cegado, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer de pulmón a células pequeñas en estadio extendido (CPCP-EE, conocido también por su sigla en inglés SCLC), presumiblemente luego de completar quimioinmunoterapia de inducción.\nIntervención: Agregado de radioterapia torácica consolidativa al mantenimiento con atezolizumab (inhibidor de PD-L1), comparado presumiblemente contra mantenimiento con atezolizumab solo.\nResultados: no disponibles con cifras concretas, no se pudo acceder al abstract completo.\nLimitaciones: al ser un ensayo de fase 2, el tamaño muestral suele ser menor y los resultados requieren confirmación en fase 3; sin el abstract no se puede evaluar el desenlace primario, la toxicidad ni la magnitud del beneficio.\nMensaje: explora si añadir radioterapia torácica al esquema de mantenimiento mejora el control de la enfermedad en CPCP-EE, una estrategia que podría modificar el estándar de consolidación si se confirma en estudios más grandes.\nNota: análisis sin acceso al abstract."
+    },
+    "34c86553d07e": {
+      "resumen": "Vogue México cuenta que Antonela Roccuzzo eligió unas uñas en tono nude para celebrar el pase de la Selección Argentina a semifinales del Mundial 2026."
+    },
+    "66a42160ed08": {
+      "resumen": "ELLE señala a la falda de cuadros de estilo boho, la elegida por Elsa Pataky, como la tendencia de los festivales de verano 2026."
+    },
+    "5b9afdf8238b": {
+      "resumen": "Vogue México repasa cómo fue la primera colección de Alta Costura de Maria Grazia Chiuri para Fendi, presentada para la temporada Otoño-Invierno 2026."
+    },
+    "ab63f00d13a6": {
+      "resumen": "Vogue México destaca el look de Jennifer López en Wimbledon 2026, con un vestido color beige y sandalias de taco."
+    },
+    "0ee43f9f74ab": {
+      "resumen": "Aire de Santa Fe se pregunta si el \"clean look\" está llegando a su fin, en un giro estético donde la autenticidad empieza a primar por sobre la perfección."
+    },
+    "b1af43eac653": {
+      "resumen": "El Destape cuenta la reapertura de un bar porteño de estética afrancesada, diseñado originalmente por el arquitecto del Teatro Colón."
+    },
+    "b5849daa6253": {
+      "resumen": "La Nación repasa las opciones de teatro infantil para las vacaciones de invierno en la Ciudad de Buenos Aires."
+    },
+    "a4f5048de109": {
+      "resumen": "Bahía César cuenta que un show de teatro solidario en Buenos Aires busca recaudar fondos para Venezuela."
     }
   }
 }
