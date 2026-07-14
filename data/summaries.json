@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-07-13T22:10:00Z",
+  "generated_at": "2026-07-14T10:05:07Z",
   "summaries": {
-    "3fad731b1c77": {
-      "resumen": "OncLive repasa un panel sobre el acceso y la secuenciación de las terapias con células CAR-T (linfocitos T con receptor de antígeno quimérico) en el mieloma múltiple recidivante o refractario (R/R). Interesa porque estas terapias celulares son cada vez más centrales en mieloma pero su disponibilidad y el orden en que se usan frente a otras opciones siguen siendo un desafío práctico.",
-      "destacado": false
-    },
-    "4cf054d8cd4e": {
-      "resumen": "OncLive conversa con el Dr. Gerald Soff sobre los hallazgos del estudio RECITE, que evalúa si romiplostim (un agonista del receptor de trombopoyetina) ayuda a preservar la dosis e intervalo de la quimioterapia en tumores gastrointestinales, un problema frecuente cuando la trombocitopenia obliga a retrasar o reducir el tratamiento. Interesa por su potencial impacto práctico en el manejo de la toxicidad hematológica.",
-      "destacado": false,
-      "analisis": "Diseño: Entrevista de OncLive al Dr. Gerald Soff sobre el estudio RECITE; el título no precisa si se trata de un ensayo aleatorizado, su fase, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer gastrointestinal en tratamiento quimioterápico, presumiblemente con trombocitopenia inducida por quimioterapia.\nIntervención: Romiplostim, agonista del receptor de trombopoyetina, como estrategia para preservar la administración de la quimioterapia sin retrasos ni reducciones de dosis; no se especifica el comparador.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral ni la magnitud del efecto sobre la intensidad de dosis o los desenlaces oncológicos.\nMensaje: sugiere que romiplostim podría ser una herramienta útil para sostener la intensidad de la quimioterapia en cáncer gastrointestinal, aunque la evidencia debe confirmarse con los datos completos.\nNota: análisis sin acceso al abstract."
-    },
     "0269ee64a3eb": {
       "resumen": "The ASCO Post reporta que el 40% de los diagnósticos de cáncer de ovario en Inglaterra se producen a través de una internación de urgencia, lo que suele asociarse a estadios más avanzados y peor pronóstico. Interesa porque expone una falla en la detección temprana de un tumor que rara vez da síntomas específicos.",
       "destacado": false,
@@ -25,73 +16,88 @@
       "destacado": false,
       "analisis": "Diseño: Nota de The ASCO Post sobre un estudio comparativo, probablemente un ensayo aleatorizado o una cohorte comparativa; el título no precisa el cegado, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal con metástasis limitadas al peritoneo (enfermedad peritoneal aislada), candidatos habitualmente a cirugía citorreductora.\nIntervención: Terapia sistémica perioperatoria (quimioterapia antes y/o después de la cirugía) comparada con cirugía sola.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede conocer el esquema de quimioterapia usado, el criterio de valoración principal, ni la magnitud del beneficio o riesgo en supervivencia libre de progresión o global.\nMensaje: podría ayudar a definir si agregar tratamiento sistémico perioperatorio mejora los resultados frente a la cirugía sola en carcinomatosis peritoneal colorrectal, una decisión clínica hoy poco estandarizada.\nNota: análisis sin acceso al abstract."
     },
-    "b05c87ea205f": {
-      "resumen": "OncLive reporta que dostarlimab (un inhibidor de PD-1, punto de control inmunológico) logra respuestas clínicas completas sostenidas en cáncer de recto con deficiencia de reparación de errores de apareamiento o inestabilidad microsatelital alta (dMMR/MSI-H), permitiendo en muchos casos evitar la cirugía y la radioterapia. Interesa porque es uno de los avances más comentados en oncología de precisión, con datos de seguimiento cada vez más largo.",
+    "6b55d242d5c8": {
+      "resumen": "OncLive repasa las estrategias para abordar las mutaciones de calreticulina (CALR) en las neoplasias mieloproliferativas (MPN, por sus siglas en inglés), como la trombocitemia esencial y la mielofibrosis. Interesa porque CALR es uno de los genes conductores más frecuentes en estos tumores hematológicos y su targeting terapéutico específico es un área activa de desarrollo de fármacos.",
+      "destacado": false
+    },
+    "a43a91717471": {
+      "resumen": "OncLive publica un segmento centrado en aspectos prácticos de implementación clínica y en el tropismo tisular (la afinidad de una terapia por determinados tejidos) a la hora de elegir un tratamiento oncológico. El título no precisa la enfermedad ni la terapia puntual, pero interesa como guía para la toma de decisiones en la práctica diaria.",
+      "destacado": false
+    },
+    "2148261dcd4a": {
+      "resumen": "El Dr. Alexey Danilov explica en OncLive el racional y el diseño del estudio DAYBreak CLL-201, que evalúa bexobrutideg (un degradador de la tirosina quinasa de Bruton, BTK) en leucemia linfocítica crónica recidivante o refractaria (R/R). Interesa porque los degradadores de BTK son una nueva clase terapéutica pensada para superar la resistencia a los inhibidores clásicos de BTK.",
+      "destacado": false,
+      "analisis": "Diseño: Entrevista de OncLive al Dr. Alexey Danilov sobre el racional y diseño del estudio DAYBreak CLL-201; el título no precisa la fase del ensayo, su aleatorización, cegado, ni el número de centros o pacientes previstos.\nPoblación: Pacientes con leucemia linfocítica crónica (LLC) recidivante o refractaria (R/R), presumiblemente pretratados con inhibidores de BTK u otras terapias dirigidas.\nIntervención: Bexobrutideg, un degradador de la proteína BTK (tirosina quinasa de Bruton); no se especifica comparador.\nResultados: no disponibles, se trata de una discusión sobre el racional y diseño del estudio, no de resultados clínicos.\nLimitaciones: sin el texto completo no se puede conocer el diseño estadístico, el tamaño muestral previsto ni el criterio de valoración principal.\nMensaje: refleja el interés creciente en los degradadores de BTK como estrategia para pacientes con LLC resistentes a las terapias dirigidas actuales; habrá que esperar los resultados clínicos del estudio.\nNota: análisis sin acceso al abstract."
+    },
+    "ee18bc5e6b49": {
+      "resumen": "Journal of Clinical Oncology publica una revisión sobre el manejo actual del cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano), en un contexto de rápida incorporación de nuevas terapias dirigidas y anticuerpos conjugados. Interesa como puesta al día de un subtipo tumoral con múltiples líneas de tratamiento en constante cambio.",
+      "destacado": false
+    },
+    "0ddea34e30fa": {
+      "resumen": "Journal of Clinical Oncology publica un ensayo clínico aleatorizado (ECOG-ACRIN EAQ171CD), realizado dentro del Programa de Investigación Oncológica Comunitaria del Instituto Nacional del Cáncer (NCORP, por sus siglas en inglés), que evalúa un tratamiento virtual sostenido para dejar de fumar en pacientes con cáncer. Interesa porque el cese tabáquico mejora los resultados oncológicos y este estudio testea un formato virtual, más escalable, de acompañamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (ECOG-ACRIN EAQ171CD), realizado dentro del National Cancer Institute Community Oncology Research Program (NCORP); el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer, fumadores activos, tratados en centros comunitarios de oncología dentro de la red NCORP.\nIntervención: Tratamiento virtual sostenido para el cese tabáquico, comparado presumiblemente contra el manejo estándar o una intervención breve (el título no especifica el comparador exacto).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce la tasa de abstinencia lograda, el tiempo de seguimiento ni la adherencia a la intervención virtual.\nMensaje: si demuestra eficacia, un modelo virtual de cesación tabáquica podría ampliar el acceso a esta intervención costo-efectiva dentro de la atención oncológica de rutina.\nNota: análisis sin acceso al abstract."
+    },
+    "029b4cb9f8a2": {
+      "resumen": "Journal of Clinical Oncology publica el ensayo de fase II ACT-GI, que compara avatrombopag (un agonista oral del receptor de trombopoyetina) contra placebo para la trombocitopenia persistente inducida por quimioterapia en tumores gastrointestinales. Interesa porque la trombocitopenia obliga con frecuencia a retrasar o reducir la quimioterapia, y hay pocas opciones aprobadas para revertirla.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase II (ACT-GI), presumiblemente aleatorizado y controlado con placebo; el título no precisa el cegado, el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer gastrointestinal y trombocitopenia persistente inducida por quimioterapia (recuento bajo de plaquetas que no se recupera entre ciclos).\nIntervención: Avatrombopag, agonista oral del receptor de trombopoyetina, comparado contra placebo.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce la magnitud del efecto sobre el recuento plaquetario, la tasa de retrasos o reducciones de dosis evitadas, ni el perfil de seguridad.\nMensaje: de confirmarse su eficacia, avatrombopag podría sumarse como herramienta para sostener la intensidad de dosis de quimioterapia en tumores gastrointestinales.\nNota: análisis sin acceso al abstract."
+    },
+    "468c473b370d": {
+      "resumen": "Journal of Clinical Oncology publica los resultados del estudio de fase III ENHANCE, que compara magrolimab (un anticuerpo anti-CD47) más azacitidina frente a placebo más azacitidina en pacientes sin tratamiento previo con síndromes mielodisplásicos (SMD) de riesgo alto. Interesa porque magrolimab representa una nueva clase de inmunoterapia dirigida al \"checkpoint\" macrófago-mediado CD47, un mecanismo distinto al de las terapias oncológicas convencionales.",
       "destacado": true,
-      "analisis": "Diseño: Nota de OncLive sobre datos de seguimiento de un estudio de inmunoterapia en cáncer de recto; el título no precisa si es una cohorte prospectiva de un solo brazo (como el estudio original de Memorial Sloan Kettering) o un ensayo con comparador, ni el número exacto de pacientes o centros.\nPoblación: Pacientes con cáncer de recto localmente avanzado con deficiencia de reparación de errores de apareamiento o inestabilidad microsatelital alta (dMMR/MSI-H), un subgrupo con alta respuesta a inmunoterapia.\nIntervención: Dostarlimab, anticuerpo anti-PD-1, en monoterapia como tratamiento neoadyuvante, con la posibilidad de manejo no operatorio (\"watch and wait\") en quienes logran respuesta clínica completa.\nResultados: El título indica respuestas clínicas completas sostenidas, sin especificar la proporción de pacientes ni el tiempo de seguimiento exacto; no se dispone de esos números por falta de acceso al abstract.\nLimitaciones: sin el texto completo no se puede conocer el tamaño muestral, la duración exacta del seguimiento, la tasa de recurrencia local o a distancia, ni el perfil de toxicidad inmunomediada.\nMensaje: refuerza la posibilidad de evitar cirugía y radioterapia (con su morbilidad asociada) en pacientes con cáncer de recto dMMR/MSI-H que logran respuesta completa con inmunoterapia, aunque el seguimiento a largo plazo sigue siendo clave para confirmar la durabilidad.\nNota: análisis sin acceso al abstract."
-    },
-    "8ddb27eda9d4": {
-      "resumen": "Journal of Clinical Oncology publica la réplica de los autores a una carta sobre el dilema del momento del tratamiento en hepatocarcinoma (cáncer primario de hígado) cuando distintos estadios tumorales muestran una supervivencia similar. Cierra el intercambio editorial iniciado por Akkus E et al. sobre este punto controvertido de estadificación y timing terapéutico.",
-      "destacado": false
-    },
-    "b87dfa259225": {
-      "resumen": "Journal of Clinical Oncology publica un comentario que va más allá de las tasas de respuesta para interpretar el beneficio a largo plazo del estudio CheckMate 743 (nivolumab más ipilimumab, dos inmunoterapias, frente a quimioterapia en mesotelioma pleural). Aporta una mirada crítica sobre cómo leer los datos de seguimiento prolongado de ese ensayo ya publicado.",
-      "destacado": false
-    },
-    "05d940006041": {
-      "resumen": "Journal of Clinical Oncology publica una carta de Akkus E et al. que plantea el dilema de por qué pacientes con hepatocarcinoma (cáncer primario de hígado) en distinto estadio tumoral muestran una supervivencia similar, y qué implica esto para el momento de indicar el tratamiento. Da pie a la réplica de los autores originales incluida en la misma edición.",
-      "destacado": false
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, controlado con placebo (ENHANCE); el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Pacientes con síndrome mielodisplásico (SMD) de riesgo alto, sin tratamiento previo, candidatos a terapia hipometilante.\nIntervención: Magrolimab (anticuerpo monoclonal anti-CD47) más azacitidina, comparado contra placebo más azacitidina.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el criterio de valoración principal, la tasa de respuesta completa, la supervivencia global ni el perfil de seguridad (la clase anti-CD47 se ha asociado a citopenias en estudios previos).\nMensaje: los resultados de este ensayo de fase III son clave para definir si sumar magrolimab a la azacitidina aporta beneficio real en SMD de alto riesgo, un escenario con opciones terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
     },
     "3d0f9760d243": {
       "resumen": "Vogue México presenta los mocasines japoneses como el calzado elegante para combinar con jeans, faldas y vestidos este verano 2026."
     },
-    "ded4d4719cb6": {
-      "resumen": "Vogue México muestra cómo Zendaya lució sandalias espartanas de tacón con un vestido túnica, con un estilo inspirado en una diosa griega."
+    "e59827c6c640": {
+      "resumen": "Harper's Bazaar cuenta por qué las gafas de sol cat eye se consolidan como la tendencia más repetida en las pasarelas para el verano 2026."
     },
-    "8c64956c4bf8": {
-      "resumen": "Vogue México cuenta la historia detrás del póster que celebra la décima edición del torneo de tenis de Los Cabos."
+    "5a5791496e68": {
+      "resumen": "Telva adelanta el vaquero que será tendencia este otoño y que ya se puede comprar en Zara."
     },
-    "2fd88635b4d3": {
-      "resumen": "Revista OHLALÁ! repasa los looks de streetstyle de la Semana de la Moda de París que anticipan las tendencias de la temporada."
+    "0e0630ea1a69": {
+      "resumen": "Cosmopolitan repasa tres vestidos estilo qipao de Zara que recuperan una tendencia de los años 90 usada por Kate Moss y Cameron Diaz."
     },
-    "6e52cbea1f64": {
-      "resumen": "El Planeta Urbano explica en qué consiste el Blokecore, la tendencia de moda que combina fútbol y estilo casual."
+    "6308c672e26c": {
+      "resumen": "La Razón selecciona diez prendas de Zara para sumarse al estampado favorito de españolas y francesas, de vuelta este verano."
     },
-    "1d792db80366": {
-      "resumen": "Montevideo Portal cuenta que Jaz Peralta lució una trikini verde oliva durante un paseo en un exclusivo yate."
-    },
-    "04a39d86aa28": {
-      "resumen": "Los Andes cuenta que tres restaurantes de Mendoza obtuvieron su primera Estrella Michelin y detalla quiénes son y qué ofrecen."
-    },
-    "4bf446fa1590": {
-      "resumen": "Una nota repasa cuáles son los 14 restaurantes argentinos que recibieron estrellas en la Guía Michelin 2026."
-    },
-    "ff57118535af": {
-      "resumen": "Infobae cuenta que cuatro restaurantes argentinos obtuvieron su primera estrella Michelin y detalla cuáles son y qué proponen."
-    },
-    "c7d028cd312f": {
-      "resumen": "Perfil anuncia que el teatro negro uruguayo, de gran despliegue escénico, llega a la calle Corrientes durante las vacaciones de invierno."
-    },
-    "ec13d642041e": {
-      "resumen": "Diario CEMBA anuncia el regreso de \"Campo Minado\", la aclamada obra de Lola Arias, con funciones en el Teatro Coliseo de Buenos Aires."
-    },
-    "1017a32eb5eb": {
-      "resumen": "Identidad Correntina arma una agenda de planes para chicos, teatro y actividades gratuitas durante las vacaciones de invierno en Buenos Aires."
-    },
-    "538a68606754": {
-      "resumen": "Clarín recomienda los mejores planes para hacer con chicos en Buenos Aires durante las vacaciones de invierno 2026."
-    },
-    "f74eb75e18aa": {
-      "resumen": "Radio Hache 97.7 arma una agenda con más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine, streaming y muestras gratuitas."
+    "0145bad44993": {
+      "resumen": "Vogue México repasa la colección de bolsos de lujo que lució el futbolista Erling Haaland durante el Mundial."
     },
     "e34d35496ed2": {
       "resumen": "MDZ Online arma una agenda de planes para el fin de semana patrio en Buenos Aires, con Fan Fest y sabores argentinos."
     },
-    "9a796a56a087": {
-      "resumen": "Multimedio Génesis repasa los planes para el fin de semana largo en la Ciudad de Buenos Aires, con los festejos del 9 de Julio y los Fan Fest para alentar a la Selección."
+    "e96176a54853": {
+      "resumen": "Revista Para Ti recomienda obras de teatro para disfrutar con chicos durante las vacaciones de invierno en Buenos Aires."
     },
-    "f3f20b2ab4a8": {
-      "resumen": "Infobae cuenta que, en medio del clima mundialista, Javier Milei expuso ante legisladores libertarios los detalles de su proyecto de reforma del Banco Central."
+    "6b792a9268cd": {
+      "resumen": "La Nación detalla los nuevos restaurantes argentinos que se sumaron a las recomendaciones de la Guía Michelin."
+    },
+    "9fce92430480": {
+      "resumen": "Canal26 recorre los bares y restaurantes porteños con historia británica donde comer comida inglesa."
+    },
+    "6c6baff177cc": {
+      "resumen": "Ladevi cuenta que Buenos Aires y Mendoza sumaron nuevas Estrellas Michelin, consolidando el turismo gastronómico del país."
+    },
+    "e42b3db6fbca": {
+      "resumen": "iProfesional propone cinco obras de teatro para ir con los chicos durante las vacaciones de invierno."
+    },
+    "e9db69bc5962": {
+      "resumen": "MDZ Online informa la muerte de Pedro Ignacio Calderón, histórico director de orquesta del Teatro Colón, y repasa la despedida que le dedicó la institución."
+    },
+    "b80b088e7ccf": {
+      "resumen": "ArchDaily repasa en imágenes la historia arquitectónica del Teatro Colón, uno de los mejores teatros del mundo."
+    },
+    "f850182b989e": {
+      "resumen": "iProfesional detalla dónde ver en pantalla gigante el partido de la Selección en la Ciudad de Buenos Aires."
+    },
+    "cfee0db12ab1": {
+      "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
+    },
+    "358de9e8e944": {
+      "resumen": "Clarín publica una carta de lectores que reclama reglas claras y sin excepciones para el Mundial."
     }
   }
 }
