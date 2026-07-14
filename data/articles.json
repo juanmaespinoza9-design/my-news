@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-13T23:23:22.388541+00:00",
+ "generated_at": "2026-07-14T03:41:41.920395+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Targeting CALR Mutations in MPNs",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03eG9kUmV5emJNSmpSV1QtQ2NodkxZSk16SjgzanlJYWhqci1IaEEtUWs0ZTJoNFM2Y3pfUjVCdlRTMW51VjBWbDFSQ1F1V29rQnlZcG9NaGU0WTNXTDlSQWZ6M0xBcTl2VkhXb29naTk?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-13T22:45:32+00:00",
+     "id": "6b55d242d5c8"
+    },
     {
      "title": "Practical Implementation and Tissue Tropism Considerations",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmROQTFSWmthTWRpcDdzSGtwZTNWVGt5bFZwLWowUnkwdWRDdDQ5Z0NvbEsyRFg3cXR6MlNoUjZZdER4ZllHbUE1eHo4aVpoNk94aEg2TlA0S0luZDY4V21mMGpLVTN5QWptOW00OUlRYVYtd195THJCS0UxX29uUU8yck1mVkxJd1FVZ01DdjE?oc=5",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-07-13T20:41:00+00:00",
      "id": "2148261dcd4a"
-    },
-    {
-     "title": "Dr Choueiri on Integrating Adjuvant Belzutifan Plus Pembrolizumab into Clinical Practice in RCC",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2paS2YtWkZLY0NOMWNpTjVfOHNGeHV1TnJuUHk5N1puY1hHaVNtQkk5dkVYZjZJZnFIWWplRmh2M0VtbF9FM1N3QXFpWVJwdmQwUmVXbG1fZGpHcHVxQmMtSUUxM0dkUW1hTEV5ZVAtVkVmSi1jbWRsYVM3RjgtZ1d0ZGRUOHFBdlRWR215N2dQWmF4YkkyMzR3aDMwUk1DUHpXSVB2anFidm5LdDV1MkpHSElTa01ZSUg0dnprejE2dw?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-13T20:40:59+00:00",
-     "id": "17fc21488696"
     },
     {
      "title": "Emergency Hospital Admission Accounts for 40% of Ovarian Cancer Diagnoses in England",
@@ -49,28 +49,36 @@
      "id": "8c1fae92b89d"
     },
     {
-     "title": "Reply to: Different Stage But Similar Survival in Hepatocellular Carcinoma: A Dilemma of Treatment Timing?",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42430701/",
+     "title": "Current Management of Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer in a Changing Landscape",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441937/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-10T00:00:00+00:00",
-     "copete": "Jin ZC et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "8ddb27eda9d4"
+     "published": "2026-07-13T00:00:00+00:00",
+     "copete": "Lipsyc-Sharf M et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "ee18bc5e6b49"
     },
     {
-     "title": "Beyond Response Rates: Interpreting Long-Term Benefit in CheckMate 743",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42430700/",
+     "title": "Virtual Sustained Tobacco Treatment for Patients With Cancer: A Randomized Controlled Trial (ECOG-ACRIN: EAQ171CD) Within the National Cancer Institute Community Oncology Research Program",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441935/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-10T00:00:00+00:00",
-     "copete": "Ma Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "b87dfa259225"
+     "published": "2026-07-13T00:00:00+00:00",
+     "copete": "Park ER et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "0ddea34e30fa"
     },
     {
-     "title": "Different Stage But Similar Survival in Hepatocellular Carcinoma: A Dilemma of Treatment Timing?",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42430691/",
+     "title": "Avatrombopag Versus Placebo for Persistent Chemotherapy-Induced Thrombocytopenia in GI Cancers: The Phase II ACT-GI Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441933/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-10T00:00:00+00:00",
-     "copete": "Akkus E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "05d940006041"
+     "published": "2026-07-13T00:00:00+00:00",
+     "copete": "Al-Samkari H et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "029b4cb9f8a2"
+    },
+    {
+     "title": "Magrolimab Plus Azacitidine Versus Placebo Plus Azacitidine in Patients With Untreated Higher-Risk Myelodysplastic Syndromes: The Phase III ENHANCE Study",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441929/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-13T00:00:00+00:00",
+     "copete": "Sallman DA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "468c473b370d"
     }
    ]
   },
@@ -79,6 +87,20 @@
    "title": "Moda",
    "mode": "titulares",
    "items": [
+    {
+     "title": "De Harper Seven, hija de David y Victoria Beckham, a Inés de Ramón, novia de Brad Pitt: las famosas confirman que el 'footballcore' es la tendencia de moda que triunfa en el Mundial",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFNMZWktRWpacGFBckY1cFJsa0tiYzBGUFVvbjlIMDhROTBPNFN0OVR3c1l0a3BZZ0VIMDZONEhjVF9OVXRMcHhzTFBXME9FVU9BeExUQk92VV9qX0RfSUVPWnhEQ1F3WnZ4VDVuSWg5VlpEY2t0MHh5bnR6MW5LVThPTXhEV3hJMzB5M2Z0YmtFNXFPbWlCYzV4SkpTbk1DTDhTZlNsUzdNVVByNUdHRS1sTnBTcUFMNmpZMTd6Mno2aTF4QkRXNw?oc=5",
+     "source": "Vanitatis",
+     "published": "2026-07-14T03:00:00+00:00",
+     "id": "fc0369bba02b"
+    },
+    {
+     "title": "Method dressing: la tendencia que Zendaya convirtió en arte en las alfombras rojas",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkhDWDh3SVVrTHF2cng5RFhmZ3VGX040b2pLeXJYdGk3dmNmRndha0lLU1V5R2xzYWhTTktEV3BQRVZkbjB5SGMyLW9YbFpIOEplVFFJZ0R4SnYxUTA1T3dQd0xIZVZzZThGZGFwZldhYnUyVjJ1TWRuTXNCSld4OGpPS1pfSnQ1TDZ3cXpLR0RxaDZCWkx2VXFISnE3d2xiSVQ5NjhHVHo5WXRHREl6TENkSDZobWl1dHd2UXd5M3F2eG5FS1dEelg0eWJDRWc?oc=5",
+     "source": "El Sol de México",
+     "published": "2026-07-14T00:45:00+00:00",
+     "id": "70070addba81"
+    },
     {
      "title": "La colección de lujosas bolsas con las que Erling Haaland desfiló en el mundial",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQzFsdTNIeHpDOEYySldEUUF6LTNsSWNiRGl2MTBKNXNJYlhBMHRhUlgzOERuOENzZ1FRbzZPNG50Nk1jTFdBdXRQN2E5MFNQWUU1LUd1SkZVb3BkNGNfN1pBVy00UnhQQ19lRjFIblBiSUY1V3VyZQ?oc=5",
@@ -93,6 +115,13 @@
      "published": "2026-07-13T22:50:00+00:00",
      "copete": "The designer’s first collection for the Fast Retailing-owned brand sheds light on how fashion creatives are approaching their new jobs at mass retailers.",
      "id": "03a00c58bac1"
+    },
+    {
+     "title": "Blokecore: La tendencia que sacó las camisetas de fútbol de la cancha para convertirlas en moda urbana",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbEFGbTFiVUtWLXRWYi1FS1VCaTdPWURIc210aVhWUWhTZFQ1Vzl1Z2I5eGg1VkRlaGlFOFNzY2VSN0pTWEdJSVZVRlVkdTVJYXlMVUIxdXBSRUpNY2lOenEyeS1BUC15X1hHNmpNWVVIQ1RMRm1lTi16cXI2LUZ0ZEg3RkluWk0zdEZKQVQ2WmxPN09LMWhLVlRIcGhPSW96U211QS02Mm5BWlVSYnYwNXJ6ZE1tRFV2Zm9BdUFYNlNESXlLOTV3QUt5M0VxbzItbmJ2QnQtLTJUXzdoUTZsZUdKYnVUb1XSAfMBQVVfeXFMT0dfTmlLTVgtd1kzUVdneUpncnlhaXZaODFFZjRaMXhGYXo3bFIyeDg5cWZnRWk3ZVhkVkx6QmhLUEluR25WZGprZ0ZIZGI5ejc5MGdKc3RDT050aktNUEp6OWxRUS1yZ2d6bmlDMXhrZ3NCTlhzcHcyVV91aGdRQXpHM2lRUm9PWVVLcjl4VGctQmNqXzZfc1lOcmN5QWcycFlXZnBLZVdGN1g3OTBhUURjOEwwVFg2TmlaZ1NNZFBuZDQzS3Y3bVg4dGgtTHR3Z1d2eDB2ZEJ1RVhSRUxxTzNTal81QUNFLWdCRThzbzBsNUhj?oc=5",
+     "source": "Teleantioquia",
+     "published": "2026-07-13T22:22:27+00:00",
+     "id": "144bfe2431ee"
     },
     {
      "title": "I Didn’t Realize How Much My Mature Skin Needed Aftersun Lotion",
@@ -131,27 +160,6 @@
      "published": "2026-07-13T21:17:51+00:00",
      "copete": "From kitten heels to slippers, discover the fall 2026 shoe trends to shop now.",
      "id": "e7542c975550"
-    },
-    {
-     "title": "Sandalias espartanas de tacón: Zendaya las lleva con vestido de túnica como una diosa griega",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclAyR2NqOGpMbnd2dUVNclE1X2ZZUFRVOTFrNW1MdzFhS3VqMXJBV042UnpiYUFHekp5Rk1FN0RyamRWQUNSNE5MdnJfZ0RuR2NhZnktTTVFeFdyb1lNa2cwM3ZfN2xIQ3JqeEcwUmh5Mmc2eE9zRkh2eWJtbDhRZHRleDhkaHRuc3Yw?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-13T20:05:56+00:00",
-     "id": "ded4d4719cb6"
-    },
-    {
-     "title": "Paris Fashion Week: los looks de streetstyle que adelantan las tendencias de la temporada",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeFBIeGYzdUVHQ01BR0IzaURUUVhkb180dHNjT1JJT0t0b0QzaVVOYWtBQkdadGRiODlITXF5YXlva1laLTRkWjItMWlFa3FDbHZBb1RSZ003dnBGU3U2WmtvWGM1elJZcEVRcWVqUnVWVG5veFlERE42bDVkQ0wzckRuSTVVYktIemdJc2lwX0hEdy1MTmFSVFlzNElNc2xaMVJtZEYtWW1tWGpmeDVtZDM1R1lXNFR4TVZ0ZFI0eF8zcmRxczVGU3p2ZWZlUQ?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-07-13T17:22:05+00:00",
-     "id": "2fd88635b4d3"
-    },
-    {
-     "title": "Moda y fútbol: asi es el Blokecore, la tendencia que celebra la pasión",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQzc0TXVoNVhVaUNZWUJUV2Mza1VJX1BLQ1lsNkhqWUlvODRSbldUUVBWTWQtcXdhdmtOTnl6TmFKd1lSd1lmbF8teHg5VWJWbTVOMkh3dGhJTmg3ckg4RThyZVBHM1I0OUQ4QmxnVU1qWDZtLV93QVlYRGZhZENoR0JIUVljM2RyS2VrcGpuanp4bnk2SjN0T2VZaTFxUGJLZjhyazd4ODk?oc=5",
-     "source": "El Planeta Urbano",
-     "published": "2026-07-13T15:51:51+00:00",
-     "id": "6e52cbea1f64"
     }
    ]
   },
@@ -161,12 +169,76 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El video de Locomotora Oliveras para la Scaloneta que volvió a viralizarse y conmueve a las redes",
-     "link": "https://www.infobae.com/teleshow/2026/07/13/el-video-de-locomotora-oliveras-para-la-scaloneta-que-volvio-a-viralizarse-y-conmueve-a-las-redes/",
+     "title": "Impactante definición en Gran Hermano Generación Dorada: quién fue eliminado en medio de un escándalo",
+     "link": "https://www.infobae.com/teleshow/2026/07/14/impactante-definicion-en-gran-hermano-generacion-dorada-quien-fue-eliminado-en-medio-de-un-escandalo/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-07-13T23:06:06+00:00",
-     "copete": "A casi un año de su muerte, resurgió un mensaje que la exboxeadora grabó antes de la final de Qatar 2022 y miles de usuarios lo compartieron tras el pase de Argentina a las semifinales",
-     "id": "54d92c755955"
+     "published": "2026-07-14T03:29:06+00:00",
+     "copete": "Este lunes el reality tuvo a Manuel Ibero y a Luana Fernández en uno de los frente a frente más fuertes de la temporada. La casa quedó agitada entre llantos, gritos e insultos",
+     "id": "15351d81064b"
+    },
+    {
+     "title": "Steven Spielberg, Laura Dern y Jeff Goldblum despidieron a Sam Neill: “Nunca será olvidado”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/steven-spielberg-laura-dern-y-jeff-goldblum-despidieron-a-sam-neill-nunca-sera-olvidado-nid14072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-14T03:28:15+00:00",
+     "copete": "El director y los intérpretes le dedicaron unas sentidas palabras al querido actor",
+     "id": "3c5ffbd2633a"
+    },
+    {
+     "title": "Matt Damon y Tom Holland arriesgaron qué equipos ven en la final del Mundial",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/matt-damon-y-tom-holland-arriesgaron-que-equipos-ven-en-la-final-del-mundial-nid14072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-14T03:27:21+00:00",
+     "copete": "Dos de los protagonistas de La odisea se animaron a compartir sus pálpito mundialistas",
+     "id": "c59a832d4f39"
+    },
+    {
+     "title": "Los Palmeras cerraron Infobae Mundial con “Bombón Argentino”, su hit para la Scaloneta",
+     "link": "https://www.infobae.com/teleshow/2026/07/14/los-palmeras-cerraron-infobae-mundial-con-bombon-argentino-su-hit-para-la-scaloneta/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-14T03:10:49+00:00",
+     "copete": "La banda santafesina llevó su versión mundialista al estudio de Miami, con referencias a Lionel Messi y Diego Maradona, en un cierre a pura cumbia que Marcelo Tinelli celebró de pie",
+     "id": "790e3cd61776"
+    },
+    {
+     "title": "Rating: cuánto midió la gala de eliminación de Gran Hermano",
+     "link": "https://www.lanacion.com.ar/espectaculos/television/rating-cuanto-midio-la-gala-de-eliminacion-de-gran-hermano-nid14072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-14T03:08:13+00:00",
+     "copete": "El reality de convivencia de Telefe fue seguido por más de 930.000 individuos según Ibope",
+     "id": "815c3da6f83b"
+    },
+    {
+     "title": "Marta Fort protagonizó una sesión de fotos sexy en Miami y su hermano lanzó una advertencia: “Ojito”",
+     "link": "https://www.infobae.com/teleshow/2026/07/14/marta-fort-protagonizo-una-sesion-de-fotos-sexy-en-miami-y-su-hermano-lanzo-una-advertencia-ojito/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-14T02:31:43+00:00",
+     "copete": "La empresaria compartió una producción con bikini clara, pareo de encaje y poses sugerentes frente al mar, mientras su posteo sumó miles de reacciones y reavivó el interés por su perfil mediático",
+     "id": "cf66e761ff36"
+    },
+    {
+     "title": "Nació Dalí, la primera hija de los influencers Samantha Trottier y Hernán Regiardo: “El mejor día de nuestra vida entera”",
+     "link": "https://www.infobae.com/teleshow/2026/07/14/nacio-dali-la-primera-hija-de-los-influencers-samantha-trottier-y-hernan-regiardo-el-mejor-dia-de-nuestra-vida-entera/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-14T02:15:23+00:00",
+     "copete": "La pareja de creadores de contenido anunció la llegada de la beba nacida el 8 de julio con fotos de sus primeras horas y una frase compartida que rápidamente desató miles de reacciones en Instagram",
+     "id": "ebe0f30937bb"
+    },
+    {
+     "title": "Paren la Mano pasó por Infobae Mundial y Tinelli fantaseó con pelear contra Pergolini: “No me dura ni medio round”",
+     "link": "https://www.infobae.com/teleshow/2026/07/14/paren-la-mano-paso-por-infobae-mundial-y-tinelli-fantaseo-con-pelear-contra-pergolini-no-me-dura-ni-medio-round/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-14T02:03:11+00:00",
+     "copete": "Luquitas Rodríguez repasó el fenómeno del ciclo, contó anécdotas del detrás de escena y adelantó cómo será la próxima edición de Parense de Manos, la velada que revolucionó el mundo del streaming",
+     "id": "7aa0d39db63c"
+    },
+    {
+     "title": "El homenaje de Claudia Villafañe a Diego Maradona en la previa del partido Argentina-Inglaterra: “Es la original”",
+     "link": "https://www.infobae.com/teleshow/2026/07/14/el-homenaje-de-claudia-villafane-a-diego-maradona-en-la-previa-del-partido-argentina-inglaterra-es-la-original/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-14T01:15:13+00:00",
+     "copete": "En la previa del cruce de la Selección Argentina con el mismo rival, la empresaria llevó al programa la histórica casaca y reveló la salida de emergencia que armó el plantel para jugar en México",
+     "id": "9f27dd9668ac"
     },
     {
      "title": "Bandana canceló tres shows de su gira por el país y estalló el escándalo",
@@ -177,76 +249,12 @@
      "id": "714448ad2aa8"
     },
     {
-     "title": "El video de la agresión que sufrió una ex Gran Hermano: le tiraron una cañita voladora en la cara y busca justicia",
-     "link": "https://www.infobae.com/teleshow/2026/07/13/el-video-de-la-agresion-que-sufrio-una-ex-gran-hermano-le-tiraron-una-canita-voladora-en-la-cara-y-busca-justicia/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-13T22:17:25+00:00",
-     "copete": "Katia Fenocchio, más conocida como La Tana en el reality, compartió las imágenes del impacto que recibió en Ramos Mejía durante los festejos de la Selección Argentina frente a Suiza. “Fue pura maldad”, se lamentó",
-     "id": "def5ae235cb8"
-    },
-    {
-     "title": "Bandana canceló shows en Bahía Blanca, Santa Rosa y Paraná, la gira de nostalgia pop quedó en suspenso",
-     "link": "https://www.infobae.com/teleshow/2026/07/13/bandana-cancelo-shows-en-bahia-blanca-santa-rosa-y-parana-la-gira-de-nostalgia-pop-quedo-en-suspenso/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-13T21:44:40+00:00",
-     "copete": "Cientos de seguidores se quedaron sin noche de reencuentro. Las explicaciones oficiales del grupo y la versión de la productora que las contrató",
-     "id": "546c8b59d957"
-    },
-    {
-     "title": "Susana Giménez, lapidaria con la China Suárez: “No tiene carisma y es muy aburrida”",
-     "link": "https://www.infobae.com/teleshow/2026/07/13/susana-gimenez-lapidaria-con-la-china-suarez-no-tiene-carisma-y-es-muy-aburrida/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-13T21:32:41+00:00",
-     "copete": "La conductora regresó a Buenos Aires tras alentar a la Selección Argentina y reiteró su rechazo a la actriz como posible protagonista de su biopic",
-     "id": "bbb7f381f036"
-    },
-    {
-     "title": "La historia menos conocida de Sam Neill: se reencontró con su hijo mayor 25 años después de darlo en adopción",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-historia-menos-conocida-de-sam-neill-se-reencontro-con-su-hijo-25-anos-despues-de-darlo-en-nid13072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-13T21:13:15+00:00",
-     "copete": "Mucho antes de su muerte, el actor de Jurassic Park habló sobre este capítulo tan íntimo de su vida; cómo fue el reencuentro con Andrew y cómo reconstruyó el vínculo después de más de dos décadas",
-     "id": "f62b7275e629"
-    },
-    {
-     "title": "Wanda Nara salió al cruce y negó haber viajado a París sin permiso: “Todo fue avisado”",
-     "link": "https://www.infobae.com/teleshow/2026/07/13/wanda-nara-salio-al-cruce-y-nego-haber-viajado-a-paris-sin-permiso-todo-fue-avisado/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-13T20:58:54+00:00",
-     "copete": "La conductora, desde Europa, le respondió a Elba Marcovecchio, abogada de Mauro Icardi, y rechazó haber violado una orden judicial. En su descargo habló del traslado con sus hijas, evitó una pelea mediática y lanzó críticas a la letrada",
-     "id": "ad85b9f68218"
-    },
-    {
      "title": "El partido de Argentina y Suiza creció en rating, pero quedó debajo de Cabo Verde",
      "link": "https://www.clarin.com/espectaculos/partido-argentina-suiza-crecio-rating-quedo-debajo-cabo-verde_0_uw3SmGSWk2.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-13T20:50:36+00:00",
      "copete": "El triunfo por los cuartos de final tuvo 56,1 puntos de rating el sábado a la noche. La cifra superó los 52,9 puntos del partido frente a Egipto, aunque no logró igualar los 57,9 del cruce ante Cabo Verde, el más visto de la Selección en…",
      "id": "f04703dc547a"
-    },
-    {
-     "title": "“Pelotorta”, cantitos y una estampita muy especial: así celebró Mirtha Legrand el triunfo de la Selección",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/pelotorta-cantitos-y-una-estampita-muy-especial-asi-celebro-mirtha-legrand-el-triunfo-de-la-nid13072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-13T20:46:52+00:00",
-     "copete": "Como cada semana, la conductora reunió a su círculo más íntimo para su clásica merienda dominical en su casa de Barrio Parque; en esta oportunidad, la velada se tiño de celeste y blanco tras la victoria de Argentina frente a Suiza",
-     "id": "1163f5dcaa7d"
-    },
-    {
-     "title": "De qué murió Sam Neill, actor de Jurassic Park",
-     "link": "https://www.lanacion.com.ar/espectaculos/de-que-murio-sam-neill-actor-de-jurassic-park-nid13072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-13T20:34:07+00:00",
-     "copete": "Según comunicó oficialmente su familia, el fallecimiento fue repentino e inesperado; tenía 78 años y se encontraba en Sídney",
-     "id": "cf37cdd2afe7"
-    },
-    {
-     "title": "Finalmente, se confirmó el debut como director de Pablo Trapero en Inglaterra",
-     "link": "https://www.infobae.com/teleshow/2026/07/13/finalmente-se-confirmo-el-debut-como-director-de-pablo-trapero-en-inglaterra/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-13T20:16:39+00:00",
-     "copete": "El creador de “El clan” tiene fecha de estreno de “& Sons” para el Reino Unido. El filme ya tuvo un paso exitoso por el Festival Internacional de Cine de Toronto (TIFF) y su presentación en el London Film Festival",
-     "id": "d0d619de93c4"
     },
     {
      "title": "La Odisea de Christopher Nolan: el impresionante patrimonio de sus protagonistas femeninas",
@@ -264,11 +272,32 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La Ciudad de Buenos Aires tiene una nueva sala de teatro: Estación Almagro",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGtWYW5hc2ZPWVQ1Z1QyalhNbEpRMzFNNnZuOVo1VFliNW01SHlocEVRMzQ0RkUwb3FLRTZTeFJhMEswMXhrVTZHWW9Yck5Qbjl3aDFqRWpwZTRDOHhaY0k4M2pHZ1cxRzlydE9ocFlNcWhyVkpwdm5hZURfeXFQSk9rNnc4N0hxTWMyR3BuLVRGM1V6QWI4TVV2WktTRndhTjMyOHJaV2NhXzJpajlmQ0RXcHRYRHFHZk14Smx3UG9vNmlS?oc=5",
-     "source": "Escenarios Nacionales",
-     "published": "2026-07-13T22:31:26+00:00",
-     "id": "22607e5e6b5c"
+     "title": "Vacaciones de invierno 2026: las obras de teatro para ir con chicos en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOC02TXV6eEpjbmhsazYyWXdCNTF1Q2tsYk5naF9NWVEtTHRuRkYyYjlrU0xfbkMtX2NmOWVDNUF0YUtFNkZ0MWdUa212UGhCZkdoUnFtZmVRNjhrWDFGcEhmSmF1TXJMSjkySkJza0ZhYk53TnE2VGc5MnhBN2tDY3RZckxVemhQcDlCaVVzMmpaOXBTTFR6QXNWNnRDdDRYNXh6b0o2WnMyTGJla19KMGdOSUNlbWFmMmow?oc=5",
+     "source": "Revista Para Ti",
+     "published": "2026-07-14T01:17:33+00:00",
+     "id": "e96176a54853"
+    },
+    {
+     "title": "Cuáles son los nuevos restaurantes argentinos recomendados por la Guía Michelin",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1NrcDZfQ0tEYjlLN2JoN1k2S3Ryc3g5dTZqNEo1NHllbVBQaGlOZlhPUHFMaGVMallEaE9IUmk5d09XQkFzQmlWOVQzNDQ2dDkxWmRyTEdOVXhVSnVsRlEydDVBZl9fXzRsazYtU09mTXJ0Mko1YTlDRUhlblZEdFJtMkhObzQ4ZVU3dks4OThRZ0FrUTJJNTBlWjdjYlJMUlhFSC0zWkRBekZrdkFDRXIxTjVNdHJzaTlBTTdXVWx4V3d6bVE?oc=5",
+     "source": "La Nación",
+     "published": "2026-07-14T00:50:00+00:00",
+     "id": "6b792a9268cd"
+    },
+    {
+     "title": "Dónde comer comida inglesa en Buenos Aires: los bares y restaurantes que guardan una historia británica poco conocida",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMGFQU1h4ZGE3ZFZiTFpHREVtc0tRVTBXNTNKV1pfR1dLMllzVUZPZ2RBR0VfeVVrNC1WRVdTancxZDlEc3ZZekE0MXV0R25yZGVaQ1U2WVRNUkxkV1I3RnZObFdCblVjMTY4cFVoMExjUlMyd01NZDBucjdlbjFmN1M5VEpOWHpPYU9FaWZCWjA3ZDZPaEJHN0ZkWHhxVlVHX3lpNDFVNExPZUwyejg0bEtHVkZNX3dNd3B6UDVXX09pX1MwLVBFV3J1WXhqNEJNSWhjUlJHajI5RmtfZWhzSWs1NzdIUU1taFB1UUh6OFBZQQ?oc=5",
+     "source": "Canal26",
+     "published": "2026-07-14T00:04:44+00:00",
+     "id": "9fce92430480"
+    },
+    {
+     "title": "Cinco opciones para llevar a los chicos al teatro en Vacaciones de Invierno",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkhUcEJ0cWo1amVYNHJvTGhQVDJ2T3JHQk94TDBDQUs1c3ZqY1RWNkVHLTRfclBXSmFlTjhTaVlMOGdtV0dORmdOTW44Ym40NnFZb1FncGY0YzQ5Z3RVOEdzZE5MZUcxdmc2V1I1OE53b3pxa1lGdXhadXF3TGRVdUh4ekpOZ3BFUUtqalFrdXM5NjVjd3Q5TVk4dXNNVld5b1dZTVhPS1dya2U0NFFiak1ic19BNTNwMHfSAb8BQVVfeXFMUDYtR081UEVqNFFiVVVuc0tZZVREODlER0ZWSzNyVGR3S1phOWVuaXowd0JpODVyUXY2akxGZjV6RkVHUXJMQ3hYNkh2TUpPUHN0NFRSOVlTbkpIQVIzd1BWY0R5R1FJb0steXhQX0RCekVRaU1TR1VsYTN0RmwyOU42UzlPMzVSRUFZQnRyeDQzT1ZtOGhESkZjM0l0RkdpOFpHQVdkVlFkQlk3cFNYVnFTd05aUVctWGNhby1KM0E?oc=5",
+     "source": "iProfesional",
+     "published": "2026-07-13T22:18:00+00:00",
+     "id": "e42b3db6fbca"
     },
     {
      "title": "Guía MICHELIN: La gastronomía de la Ciudad de Buenos Aires reafirma su posicionamiento internacional",
@@ -278,46 +307,32 @@
      "id": "1010c4ff6003"
     },
     {
-     "title": "Buenos Aires y Mendoza suman cuatro nuevas estrellas Michelin para la gastronomía argentina",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTnVlcGkxc2FmQTZobWJabVRfbmg3QVhmWXVIeHRyTVFZQVozVUtwcTJlRmtqUzlHTHF3QWVIVVV3QTFuQTVWNjVoZG1zcmdiRWJ0TUY4LXd5ZkJ0ZjhKTlNzdzQ1OTg0U3AxX0ozMVkyLWNwdnlhQU8tQjJZRkZzMDJIY1ZMWk1JWHUxSnhiaGx4SWpTZWhTVXFGRkZzdENIRmhiWmlld2VEMktQZ2FoRXdBZFBLNU1TOUNmRTNQb09hZGw1ZUYycEozYVlNbDY4U255RjhZbEZ5cEw4ZmVING1mblZLbkNYTWtxU24tNkM?oc=5",
-     "source": "El Mostrador",
-     "published": "2026-07-13T21:32:49+00:00",
-     "id": "346227979614"
+     "title": "Murió Pedro Ignacio Calderón, histórico director de orquesta del Teatro Colón: así lo despidió el gran coliseo",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUEZJQU1fS19QalFqYVRPYUJsZkwwRXc5V1FyM3hCUjJZQU9DU1dscnViVTk4S203cGhXeVhuWE93QUx4NVd1TGdHTkpZbFlDVmkxRkhLSEc4SDZUdXRUd3R4ZFFMNlZHZEhBNVhxdUZEVF93aWdqbmhOa0gwZnBfb2FGSU1aOERkZ0ZTbEpwajNQVU9VUXloQVg3ZURHVDBYVlhHdnlYRkZ2a2FEWEgwU3ZiWEl2QTlRdzBSSVdqc1Z5aHdQcUlVdW92eUwyb1A2ZGlpTTlyRk9fOHVKUFHSAeMBQVVfeXFMT0JBSUEzaUpINklTc20wTlVjRGxuNGx1M3NsYVNZc2RUcC00b1UxdFE0MmlEQ3FPSUVyZ1FfelM0Q3JOMjZ4UnFVUExreXpfTExJR2pMNm9nVTVkaWp2OG9HQTZWRllKc1h2czFUaGRQbS1YdHZqQmQwY25yRjdxOE5CQzljd2dOd2oxUmRaWjhQbGNfZEZyMWlHVzNzMFlGTF9tNzZfdlo2T2JqNzB2SEhxR29xcV94Y0dtdmFNcXBxTUZSbWg1Z0Q5Y21ERzlmOUp2dEc0NE1jbkZGVHlkam56dDQ?oc=5",
+     "source": "MDZ Online",
+     "published": "2026-07-13T18:06:00+00:00",
+     "id": "e9db69bc5962"
     },
     {
-     "title": "Tres restaurantes de Mendoza lograron su primera Estrella Michelin: quiénes son y qué ofrecen",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXp3N3RUb25RLTZrOTluT25vMzRJYlZab1d1WVFiT2UtQlpUOTkxbjRTUWlBNjh0RjFCZVpsek81dGdWdWtUMWRMSVRWMXRXbWlzXy15ZVlzS3MtbjBZUGtzV3pNV3pVd0p1M1F1THNDdGV1cGM2YzFScGdrRGcxQVhMVlRMQlhMdG9MY0hLVTQwbmpJTy1BbGhaQ3BkcF9IWmNUYTlyZ3V6ckQzdW1Wb3hXdVhGWE0xR2RoTlVkdU9HM1pQcUlUbzlMQjhCb1dE?oc=5",
-     "source": "Los Andes",
-     "published": "2026-07-13T21:14:00+00:00",
-     "id": "04a39d86aa28"
+     "title": "Galería de Teatro Colón en Buenos Aires: historia de uno de los mejores teatros del mundo - 2",
+     "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPQ2VrMXFGSmlQWkowckRaYVBvUFRpRUoxUUY3WjM2R0I0cDVUU2Y4YkhxVHFrSzBJZkxpVHc0c2tzWEczenNuN2ZiaVZzMHFNX3RINVhzNWRVVF9XbTdZaWhGTlhIN2daN1YwamZ3TzBGbEx1Y3J3SGZvSk9HelR3cVdqaHdibk8yTlZBRlM1OUMtdU4yMEdLa3pkYmFsbTdIWG1IVi1aSnFTR2pFb0N6VGIycWhONUZtaFhncklQU0duNERSMkhMbkVpSm9VTzhyMDNQTi1kMXlSQ21GQWhDNXkxdmhMeWZiYlJ1WmlVM0JRMGpaVTNrazBWTTBIdy1iblhjSzgwYXh1V3VIRGdUU2cwQV9QRDV0LTh1OUdIY0YtaElyR25OOENqN0xRZUVtOHZGeXVOb3dJQjRCMHR2NWltMGNYQQ?oc=5",
+     "source": "ArchDaily",
+     "published": "2026-07-13T16:21:20+00:00",
+     "id": "b80b088e7ccf"
     },
     {
-     "title": "El teatro negro uruguayo, de grandes dimensiones, llega a la calle Corrientes en vacaciones de invierno",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMTl2V1dYSlNHMEp0TzBlWkpwVHV0TmdONHZqcExKRWdLaFRDMVR2UXVlV0xCUzBxNXBEODhETHhmWGFkb1NmdllIbHA0OXZlMHpfNGw1cTNTYldvcjZaQnBYVU0yTlJoTWxSYmZPemJVWTlQQjNaQVBGWUdLSmpUM1l1UTJidW84ZW1pekllOVd2LVFfSVZHNEZxelRESjhaeFJPamFWcFhXWUhuaUJsWVpSWDhkVnZ3cDlSRm8yOFJtZ19UMUdtZ0U5Z0pHcEFfVWR0Y0o5TVFPeDVR0gHiAUFVX3lxTE11MFZYQy1pb3J5OXd2SUhNc1h5b2o0V2VoRDQ4Y2ZPSGcydE51OXVQTXY0ZnFPd2lQRm9pT1RPRzNhWV9ERXlaaExDSnhITUhwUEJ3cGdBcjVYNE50ZXlKdUZqU2JMSTJ3WTB2cDJRTDF3UE1RNUdEc3JQVUwwamZpNG95ZGRRZWNYLUFTdEJMQ1VJQnJMYVhrcGliWDR1bGFaWm1iYkY5ZkZfZGRJUlU3WHFENlNoZ2doTk9kc3ZrOEFicFdxck9GRllXb0ZQMmpRd1pPSEh3aVc0YTEtUHNuTHc?oc=5",
-     "source": "Perfil",
-     "published": "2026-07-13T13:30:00+00:00",
-     "id": "c7d028cd312f"
-    },
-    {
-     "title": "“Campo Minado” vuelve a Buenos Aires: la aclamada obra de Lola Arias regresa con funciones en el Teatro Coliseo",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblVibG9wa0pFdFlmSm5SZXRwU2o0SmNiQTRBV3pMdDNpM0wyalc2ZVVxZ2w0UUZKRlN4TkM4Mm1HUVI5ZXZGQkxITEJkOUtpY0RTXzR6QjhJV3B6R2RMcUpRMENEb1pCV2FLMmUwNWNUWHRmQ1cwVFZNTHlLZnNMU2hUaGxhUVpGaXFlZG5pQWhtYTZtcEFsNGdoVmVKZDVfcWRteW9sWFFfMVk2VTVubzZ4WnBZcWFTS25OQjVQVE9hWFRrcEJYRDdB?oc=5",
-     "source": "Diario CEMBA",
-     "published": "2026-07-13T12:24:11+00:00",
-     "id": "ec13d642041e"
-    },
-    {
-     "title": "Vacaciones de invierno en Buenos Aires: planes para chicos, teatro y actividades gratis",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjJYNUhQVFNOSmgwMjNxN0ZvY1VOaTdPN2tMcklBS2g2ZTYzeFhmaDF6bzJDcndRak1yRFludmJENTlHeFFiMWo4MlpUWWRSUmdGZmRfbG1ZXzl6bThSVnMtUG9tb1ZuZnM2ZnVEVFctTTk0dk00TDlWQ3hCcHh1Ml9CMEkzdFhHSmlQbzBTTnZTdVBESEctMWI2Zlh2ZkNlMU5Za0xCdlFhWVI3cVdaSjJFSUpQdFlXekdpRGNRNnRWZV90WFNHUHYteWw5TTNCemV0Wk9NVnlEdw?oc=5",
-     "source": "Identidad Correntina",
-     "published": "2026-07-13T09:07:32+00:00",
-     "id": "1017a32eb5eb"
+     "title": "Dónde ver el partido de la Selección en Ciudad de Buenos Aires en pantalla gigante",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2ExQ1Vhd3QtbnVJalk2bzNKRmdZYkVRTTFodHE1UzQ4Vjd0dUtSSWR6RFc0YzVva1hCbWVOdlh2S2E2WUs3LXRTdzVOZlptVzBIOHJMdi1NWTVyVkpiUU5KSGJrYjJYVTUzWVVlTnVaRHdwSkpBNjVxbTdwT1VTNXFiOVYxVnRQcWVGY0NwdW9sWnFEOGhodEhYbDRERzBMMkY2NUgxcE9QTjlLRnVuR2l6SEY5MVI5ZGhhdXMwRDJ2aVRKTlFnV9IBzgFBVV95cUxNLUM0NV9IZ3ZXcW12QktVemU2SFV4ODI1RUVnVk84aTVVSk16Zm0yd1dFeDdsUkhVN3RXU1JDcDFTQkQyRUQtU2dLbjUzWHBPTDdxV1llTlRHM2oxNV8yUi1tX01RLXhRd0VQUkpkNkV2OTRGNkdzMEcyV0tkRXUwMTJNUXRsOV9NaFBOZkQ5Xzd2WXE2ZF9zYkw3dGZYUGVxZ0RDTVoyNERHZVZtRkNKekNjMUN2ZmFsSVFVN2IyOU4wMEwzOXJTMllIemJLQQ?oc=5",
+     "source": "iProfesional",
+     "published": "2026-07-10T21:04:53+00:00",
+     "id": "f850182b989e"
     },
     {
      "title": "Qué hacer en Buenos Aires este fin de semana, más de 50 planes para disfrutar del viernes 10 al domingo 12 de julio, con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPYWNablhNN0xwemNoZEdEYmdDN3ZmVkpDRWRsR2Vsa055akhVNEFJNDhGQlpiclVGLVBIZ3ZiR3VOc1EzYUI4TGZDQ2tUOXpPSERaQkJ1a2xVdTFYM2RYQnJkS0xrZ2Jtd1AwX0ZMcWVCTUNHREVMT0pTZWtYYXhZWTBGaGpHNXdyZDBNYm5fYllTWkNrajBtem5LalZGTXlLX1ZZejR6dzFza2MtQTMwdVUxTWFKNnU4UWgwWlRvd0ROWTNsMEpfRkd2ZVBtR0F3cGQ4aVIycTNTUGtxWHZHVVQtMlFCaGRYeU8tckNCcDRjTWhOVkFoSEJLTDl0Y1pyN182TGtMUGtPUXg1ZEYyWXNENUZOeDgyaEM3eFJ4MTNNVE83RnZFa2dJa0Q?oc=5",
-     "source": "Radio Hache 97.7",
-     "published": "2026-07-10T11:19:53+00:00",
-     "id": "f74eb75e18aa"
+     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTE1sV2Fxc21XMndhMF9yeFB3RlAxSEM0NjN5NmVmTXFodVRsU0FOVjdoel9iUl9GdldKV21jdWd4NVBSdHFRNFpJWmNnQ2tSWlJKcHZ2VkktVTVYNWtTa3ltcUVQNHgyZ0FUa05zcDNTcnpPdWVXUDB3aTU1X1ZkamltaGY2ZU1XeFI5YjFVLXQ2YW40TV9VTHhoMjd3dHNxSXhFb2YyTVdxUXFFeFdFQTI5OVJUMW02VWVLSi1pc2d3bmJKUjFOaXctdlNEYUx3OGR1bkVfQ2ZlVVltYWwzcVBReFc5UDBRaU9iaHFzOXR1em13eUE3WGRIa2JBWmgzSXYzUktUMzdpOTg?oc=5",
+     "source": "Clarin",
+     "published": "2026-07-10T09:01:10+00:00",
+     "id": "cfee0db12ab1"
     },
     {
      "title": "Fin de semana patrio en Buenos Aires: Fan Fest, sabores argentinos y planes imperdibles",
@@ -325,13 +340,6 @@
      "source": "MDZ Online",
      "published": "2026-07-09T11:00:00+00:00",
      "id": "e34d35496ed2"
-    },
-    {
-     "title": "Qué hacer en la Ciudad de Buenos Aires este fin de semana largo: los festejos del 9 de Julio y los Fan Fest para alentar a la Selección",
-     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOOE1ZQVYxaDFRcWdsYVoySy13LWRNcm8zQmt6SjlGLURkOHllUzd2cnRFdGhyazMzU296WWlxWEFtYUxRdGZVVnk1NnNaYUJJdkIyU2k5VzVrdWN4dmpJUWk0MXNRa2FPM3Q4NnplVnVJYkFkNl9iZFU4NVUzeEZHWGhESTlBZnFkaXRNUHJtMWR5ZHJNcEtvQ3hKeW5hR2pHb09uNHVSQWNwcEJsY1d1eFRGTzRpb29vX3YtRUdiNlM2N0F6U2hWRGJsU2JIc2g5QmM0WEJwc01xTGNXLTBLdU5wWk83NzJNcHRvZkhzM29NcGN5c3V6RW1FUk94OWhfSVNTbXI3NU02T2RobXBCQ3l1Rm9DZnky?oc=5",
-     "source": "Multimedio Genesis",
-     "published": "2026-07-08T23:38:45+00:00",
-     "id": "9a796a56a087"
     }
    ]
   },
@@ -341,84 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La agenda de la TV del martes: Francia-España por la semifinal del Mundial, la NBA y la selección de vóleibol",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-francia-espana-por-la-semifinal-del-mundial-la-nba-y-la-seleccion-de-nid13072026/",
-     "source": "La Nación",
-     "published": "2026-07-14T03:05:00+00:00",
-     "copete": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
-     "id": "d9a9c3ab10a1"
-    },
-    {
-     "title": "¡Ojo a los cabezazos! La foto que se viene en Argentina vs. Inglaterra y tres claves tácticas para llegar a la final",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/ojo-a-los-cabezazos-la-foto-que-se-viene-en-argentina-vs-inglaterra-y-tres-claves-tacticas-para-nid13072026/",
-     "source": "La Nación",
-     "published": "2026-07-13T23:17:01+00:00",
-     "copete": "El equipo de Thomas Tuchel, que suele modificar el esquema varias veces incluso durante el mismo partido, es peligroso para atacar: puede desequilibrar por adentro y también con centros",
-     "id": "0bb0835a83b9"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
-     "source": "La Nación",
-     "published": "2026-07-13T23:16:46+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "a6ec413fc86b"
-    },
-    {
-     "title": "Clima: las temperaturas que predominarán este 14 de julio en Montevideo",
-     "link": "https://www.infobae.com/noticias/2026/07/13/clima-las-temperaturas-que-predominaran-este-14-de-julio-en-montevideo/",
+     "title": "¿Qué Alberdi lee Milei?: un libro para entender cómo el pasado puede convertirse en discurso político",
+     "link": "https://www.infobae.com/cultura/2026/07/14/que-alberdi-lee-milei-un-libro-para-entender-como-el-pasado-puede-convertirse-en-discurso-politico/",
      "source": "Infobae",
-     "published": "2026-07-13T23:16:35+00:00",
-     "copete": "Los récords de la temperatura máxima y mínima en toda la historia de Uruguay la tiene Florida con 44 grados registrada en enero de este año y Mercedes con -7.6 grados en 2007",
-     "id": "3063d92b6e3d"
+     "published": "2026-07-14T03:40:00+00:00",
+     "copete": "En “Un presidente que sea como un rey”, Patricia Kolesnicov reconstruye la figura del gran pensador de la organización nacional para tantear cuánto hay de cierto y cuánto no en la lectura que hace de él el actual presidente argentino",
+     "id": "792a8f719806"
     },
     {
-     "title": "Temperaturas en Puerto Plata: prepárate antes de salir de casa",
-     "link": "https://www.infobae.com/noticias/2026/07/13/temperaturas-en-puerto-plata-preparate-antes-de-salir-de-casa/",
+     "title": "Ferias científicas reúnen a más de 22,000 estudiantes en todo Costa Rica",
+     "link": "https://www.infobae.com/costa-rica/2026/07/14/ferias-cientificas-reunen-a-mas-de-22000-estudiantes-en-todo-costa-rica/",
      "source": "Infobae",
-     "published": "2026-07-13T23:16:17+00:00",
-     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "f1751ed60c78"
+     "published": "2026-07-14T03:34:23+00:00",
+     "copete": "Los proyectos más sobresalientes avanzarán en agosto a la fase circuital de un programa nacional impulsado por el Ministerio de Educación Pública (MEP), el Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (MICITT) y las…",
+     "id": "299b82b451de"
     },
     {
-     "title": "Previsión del clima en San Francisco de Macoris para antes de salir de casa este 14 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/13/prevision-del-clima-en-san-francisco-de-macoris-para-antes-de-salir-de-casa-este-14-de-julio/",
+     "title": "Bomberos de Panamá y Costa Rica atenderán emergencia en la zona fronteriza de Paso Canoas",
+     "link": "https://www.infobae.com/panama/2026/07/14/bomberos-de-panama-y-costa-rica-atenderan-emergencia-en-la-zona-fronteriza-de-paso-canoas/",
      "source": "Infobae",
-     "published": "2026-07-13T23:15:57+00:00",
-     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "2414cea272b3"
+     "published": "2026-07-14T03:32:25+00:00",
+     "copete": "Mantendrán canales de comunicación activos y constantes, protocolos conjuntos de respuesta de emergencias, así como entrenamientos en ambas zonas limítrofes",
+     "id": "a01903a2443c"
     },
     {
-     "title": "Clima en Santiago de los Caballeros: pronóstico de lluvias y ráfagas de viento",
-     "link": "https://www.infobae.com/noticias/2026/07/13/clima-en-santiago-de-los-caballeros-pronostico-de-lluvias-y-rafagas-de-viento/",
+     "title": "Consultas digitales de pagos a proveedores en República Dominicana alcanzan 262,723 en el segundo semestre",
+     "link": "https://www.infobae.com/republica-dominicana/2026/07/14/consultas-digitales-de-pagos-a-proveedores-en-republica-dominicana-alcanzan-262723-en-el-segundo-semestre/",
      "source": "Infobae",
-     "published": "2026-07-13T23:15:36+00:00",
-     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "0c8ae163c963"
+     "published": "2026-07-14T03:32:06+00:00",
+     "copete": "El balance de la Tesorería Nacional de República Dominicana eleva a 452.936 las verificaciones interanuales en la plataforma, que permite revisar en tiempo real el proceso de órdenes de desembolso y reportes históricos",
+     "id": "bfb3355eb3c1"
     },
     {
-     "title": "El nene que le dijo “te amo” a Messi antes del partido con Suiza reveló cómo reaccionó el capitán",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-nene-que-le-dijo-te-amo-a-messi-antes-del-partido-con-suiza-revelo-como-reacciono-el-capitan-nid13072026/",
+     "title": "Steven Spielberg, Laura Dern y Jeff Goldblum despidieron a Sam Neill: “Nunca será olvidado”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/steven-spielberg-laura-dern-y-jeff-goldblum-despidieron-a-sam-neill-nunca-sera-olvidado-nid14072026/",
      "source": "La Nación",
-     "published": "2026-07-13T23:15:20+00:00",
-     "copete": "Ziki, de nueve años, ingresó a la cancha junto a la selección en el encuentro por cuartos de final del campeonato; conmovió al astro argentino con un espontáneo gesto",
-     "id": "4db787248cc2"
+     "published": "2026-07-14T03:28:15+00:00",
+     "copete": "El director y los intérpretes le dedicaron unas sentidas palabras al querido actor",
+     "id": "3c5ffbd2633a"
     },
     {
-     "title": "Revelan que Israel intentó reclutar como espía al iraní Mahmoud Ahmadinejad, ligado al atentado contra la AMIA",
-     "link": "https://www.clarin.com/mundo/revelan-israel-intento-reclutar-espia-irani-mahmoud-ahmadinejad-ligado-atentado-amia_0_wUjv1Vh8DX.html",
+     "title": "Matt Damon y Tom Holland arriesgaron qué equipos ven en la final del Mundial",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/matt-damon-y-tom-holland-arriesgaron-que-equipos-ven-en-la-final-del-mundial-nid14072026/",
+     "source": "La Nación",
+     "published": "2026-07-14T03:27:21+00:00",
+     "copete": "Dos de los protagonistas de La odisea se animaron a compartir sus pálpito mundialistas",
+     "id": "c59a832d4f39"
+    },
+    {
+     "title": "Los números de los primeros 100 partidos del Mundial",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-espana-se-preparan-para-abrir-los-cruces-de-semifinales-nid13072026/",
+     "source": "La Nación",
+     "published": "2026-07-14T03:25:21+00:00",
+     "copete": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores y reacciones sobre los partidos",
+     "id": "8691f4239023"
+    },
+    {
+     "title": "La imprescindible reforma de la Carta Orgánica del BCRA",
+     "link": "https://www.lanacion.com.ar/opinion/la-imprescindible-reforma-de-la-carta-organica-del-bcra-nid14072026/",
+     "source": "La Nación",
+     "published": "2026-07-14T03:15:00+00:00",
+     "copete": "El riesgo de reversibilidad de las leyes existe, pero eso no puede inhibirnos de diseñar las normas correctas",
+     "id": "7a32add3efe4"
+    },
+    {
+     "title": "Claudia Villafañe lució la legendaria camiseta azul de Diego Maradona de México 86: \"Es la original\"",
+     "link": "https://www.clarin.com/fama/claudia-villafane-lucio-legendaria-camiseta-azul-diego-maradona-mexico-86-original_0_4z1hERPY5S.html",
      "source": "Clarín",
-     "published": "2026-07-13T22:20:03+00:00",
-     "copete": "El objetivo era preparar al ex presidente para colocarlo en el poder en lugar del régimen actual. El iraní habló varias veces con agentes de los israelíes. Ahora está bajo custodia del del servicio de inteligencia de la Guardia…",
-     "id": "7d62eae080e5"
+     "published": "2026-07-14T02:41:29+00:00",
+     "copete": "En la previa del Argentina vs. Inglaterra, la mamá de Dalma y Gianinna se mostró con la remera con la que el Diez le marcó los dos históricos goles a la selección inglesa. Su particular historia.",
+     "id": "5d102e4ba4d3"
     },
     {
-     "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, lunes 13 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-lunes-13-julio_0_At5hswpw95.html",
+     "title": "Gran Hermano, Generación Dorada: quién fue eliminado, este lunes 13 de julio",
+     "link": "https://www.clarin.com/fama/gran-hermano-generacion-dorada-eliminado-lunes-13-julio_0_jta1rzANCo.html",
      "source": "Clarín",
-     "published": "2026-07-13T22:16:09+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "793582369198"
+     "published": "2026-07-14T02:27:24+00:00",
+     "copete": "Un nuevo participante dejó la casa por voto del público. Ahora quedan 17 concursantes en competencia. Y se viene \"una placa planta express\".",
+     "id": "e98a4924002e"
     }
    ]
   },
@@ -427,6 +435,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Japón emprende la mayor reorganización de los servicios secretos desde la II Guerra Mundial",
+     "link": "https://elpais.com/internacional/2026-07-14/japon-emprende-la-mayor-reorganizacion-de-los-servicios-secretos-desde-la-ii-guerra-mundial.html",
+     "source": "El País Internacional",
+     "published": "2026-07-14T03:30:01+00:00",
+     "copete": "El nuevo modelo prevé la creación de un Consejo Nacional de Inteligencia que centraliza la gestión bajo el mando directo de la primera ministra",
+     "id": "4c0afd24d010"
+    },
+    {
+     "title": "El círculo marroquí de Alí Lmrabet",
+     "link": "https://elpais.com/internacional/2026-07-14/el-circulo-marroqui-de-ali-lmrabet.html",
+     "source": "El País Internacional",
+     "published": "2026-07-14T03:30:01+00:00",
+     "copete": "Marruecos, a pesar de su imagen brillante de país abierto por su desarrollo económico y en infraestructuras sigue teniendo un déficit en lo que a derechos humanos se refiere",
+     "id": "4c0faf64b1a9"
+    },
+    {
+     "title": "La detención del periodista disidente Lmrabet cuestiona la libertad de prensa en Marruecos",
+     "link": "https://elpais.com/internacional/2026-07-14/la-detencion-del-periodista-disidente-lmrabet-cuestiona-la-libertad-de-prensa-en-marruecos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-14T03:30:01+00:00",
+     "copete": "Organizaciones marroquíes e internacionales denuncian el arresto del informador afincado desde hace dos décadas en España tras ser encarcelado e inhabilitado",
+     "id": "f40f8fe1d0be"
+    },
+    {
+     "title": "El británico que sobrevivió al incendio en España en el interior de un auto en llamas mientras su esposa y sus amigos morían",
+     "link": "https://www.bbc.com/mundo/articles/c9q28qnrjqqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-13T23:32:18+00:00",
+     "copete": "Se cree que la esposa de Malcolm Timbrell y sus amigos murieron cuando un devastador incendio forestal arrasó su pueblo en el sur de España.",
+     "id": "d55149becf27"
+    },
     {
      "title": "El revolucionario \"atlas\" que está ayudando a los científicos a mapear la última frontera del cerebro",
      "link": "https://www.bbc.com/mundo/articles/cgrkekzeyq7o?at_medium=RSS&at_campaign=rss",
@@ -452,44 +492,12 @@
      "id": "a5514fc0affa"
     },
     {
-     "title": "El Parlamento de Hungría aprueba la reforma constitucional que destituye al presidente orbanista",
-     "link": "https://elpais.com/internacional/2026-07-13/el-parlamento-de-hungria-aprueba-la-reforma-constitucional-que-destituye-al-presidente-orbanista.html",
-     "source": "El País Internacional",
-     "published": "2026-07-13T16:54:19+00:00",
-     "copete": "La iniciativa forma parte de la estrategia del nuevo primer ministro para desmantelar los bastiones de poder del anterior Gobierno",
-     "id": "0e3e5e776052"
-    },
-    {
      "title": "El investigador que creó una calculadora para estimar la probabilidad de caer en la pobreza en EE.UU. (y el enorme riesgo que revela)",
      "link": "https://www.bbc.com/mundo/articles/c62138kg9klo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-13T16:49:52+00:00",
      "copete": "Las investigaciones del sociólogo Mark Rank demuestran que perder el trabajo, divorciarse o caer enfermo son eventos que pueden conducir a la pobreza en Estados Unidos.",
      "id": "9437a5666801"
-    },
-    {
-     "title": "La UE culpa al espionaje ruso de la oleada de ciberataques en Europa",
-     "link": "https://elpais.com/internacional/2026-07-13/la-ue-situa-a-los-servicios-de-inteligencia-del-kremlin-detras-de-multiples-ciberataques-en-europa.html",
-     "source": "El País Internacional",
-     "published": "2026-07-13T16:26:59+00:00",
-     "copete": "La OTAN condena las acciones del Kremlin, y Bruselas y el Reino Unido anuncian sanciones. Francia, Alemania y Finlandia convocan a los embajadores rusos para pedir explicaciones",
-     "id": "3b5a0d197afc"
-    },
-    {
-     "title": "El departamento antiterrorista de la policía británica asume la investigación del asesinato de la política Ann Widdecombe",
-     "link": "https://elpais.com/internacional/2026-07-13/el-departamento-antiterrorista-de-la-policia-britanica-asume-la-investigacion-del-asesinato-de-la-politica-ann-widdecombe.html",
-     "source": "El País Internacional",
-     "published": "2026-07-13T16:12:07+00:00",
-     "copete": "El principal sospechoso viajó desde su vivienda, a más de 400 kilómetros del lugar del crimen",
-     "id": "0ff317578221"
-    },
-    {
-     "title": "Los 5 partidos en Mundiales que definen la intensa rivalidad entre Argentina e Inglaterra",
-     "link": "https://www.bbc.com/mundo/articles/cz75454g909o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-13T15:09:41+00:00",
-     "copete": "Una rivalidad que ha tenido momentos épicos, polémicos e inolvidables. Este miércoles se encuentran por sexta vez en la historia de los mundiales.",
-     "id": "16a2b138f95e"
     }
    ]
   }
