@@ -1,33 +1,30 @@
 {
-  "generated_at": "2026-07-14T10:05:07Z",
+  "generated_at": "2026-07-14T22:07:17Z",
   "summaries": {
-    "0269ee64a3eb": {
-      "resumen": "The ASCO Post reporta que el 40% de los diagnósticos de cáncer de ovario en Inglaterra se producen a través de una internación de urgencia, lo que suele asociarse a estadios más avanzados y peor pronóstico. Interesa porque expone una falla en la detección temprana de un tumor que rara vez da síntomas específicos.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de The ASCO Post sobre un análisis, aparentemente de registros o bases de datos poblacionales de Inglaterra, sobre la vía de diagnóstico del cáncer de ovario; el título no precisa el período estudiado, la fuente exacta de datos ni el número de casos.\nPoblación: Mujeres diagnosticadas con cáncer de ovario en Inglaterra, evaluadas según la vía de acceso al diagnóstico (electiva vs. internación de urgencia).\nIntervención: No aplica; se trata de un estudio observacional descriptivo sobre patrones de diagnóstico, sin intervención terapéutica.\nResultados: El dato central es que el 40% de los diagnósticos ocurrieron mediante internación de urgencia; no se dispone de otros números (estadios, supervivencia) por falta de acceso al abstract.\nLimitaciones: sin el texto completo no se puede conocer el diseño exacto, el período analizado, ni si se ajustó por factores socioeconómicos o de acceso a salud.\nMensaje: refuerza la necesidad de mejorar la detección temprana y el acceso a diagnóstico electivo del cáncer de ovario, dado que la vía de urgencia suele asociarse a estadios más avanzados.\nNota: análisis sin acceso al abstract."
-    },
-    "4ccdd1bb0872": {
-      "resumen": "The ASCO Post reporta un estudio que evalúa si la radioterapia en cáncer de mama en estadio cT1-2N1 (tumor pequeño a moderado con compromiso ganglionar) puede adaptarse según la respuesta de los ganglios a la quimioterapia primaria (neoadyuvante). Interesa porque plantea la posibilidad de personalizar la radioterapia y potencialmente evitarla en quienes responden bien.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio que evalúa la radioterapia adaptada a la respuesta ganglionar tras quimioterapia primaria; el título no precisa si es un ensayo aleatorizado, una cohorte prospectiva o un análisis retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama en estadio clínico cT1-2N1 (tumor primario pequeño a moderado con compromiso ganglionar axilar) tratadas con quimioterapia primaria (neoadyuvante).\nIntervención: Estrategia de radioterapia adaptada según la respuesta ganglionar a la quimioterapia primaria; no se especifica el esquema exacto ni el comparador (radioterapia estándar vs. omisión/reducción de campos).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede conocer el diseño, el tamaño muestral, el seguimiento ni los desenlaces de recurrencia o supervivencia.\nMensaje: se enmarca en la tendencia a desescalar tratamientos locorregionales cuando hay buena respuesta a la terapia sistémica, aunque la evidencia puntual de este estudio no pudo confirmarse.\nNota: análisis sin acceso al abstract."
-    },
-    "8c1fae92b89d": {
-      "resumen": "The ASCO Post reporta un estudio que compara la terapia sistémica perioperatoria (antes y después de la cirugía) frente a la cirugía sola en pacientes con metástasis peritoneales exclusivas de cáncer colorrectal, un escenario de manejo quirúrgico complejo y pronóstico reservado. Interesa porque busca definir el rol de la quimioterapia perioperatoria en esta presentación particular de enfermedad metastásica.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio comparativo, probablemente un ensayo aleatorizado o una cohorte comparativa; el título no precisa el cegado, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal con metástasis limitadas al peritoneo (enfermedad peritoneal aislada), candidatos habitualmente a cirugía citorreductora.\nIntervención: Terapia sistémica perioperatoria (quimioterapia antes y/o después de la cirugía) comparada con cirugía sola.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede conocer el esquema de quimioterapia usado, el criterio de valoración principal, ni la magnitud del beneficio o riesgo en supervivencia libre de progresión o global.\nMensaje: podría ayudar a definir si agregar tratamiento sistémico perioperatorio mejora los resultados frente a la cirugía sola en carcinomatosis peritoneal colorrectal, una decisión clínica hoy poco estandarizada.\nNota: análisis sin acceso al abstract."
-    },
-    "6b55d242d5c8": {
-      "resumen": "OncLive repasa las estrategias para abordar las mutaciones de calreticulina (CALR) en las neoplasias mieloproliferativas (MPN, por sus siglas en inglés), como la trombocitemia esencial y la mielofibrosis. Interesa porque CALR es uno de los genes conductores más frecuentes en estos tumores hematológicos y su targeting terapéutico específico es un área activa de desarrollo de fármacos.",
+    "c707794d9343": {
+      "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó combinaciones con gedatolisib, un inhibidor oral de la vía PI3K/mTOR/AKT (fosfoinositol 3-quinasa/diana de rapamicina en células de mamífero/proteína quinasa B), para cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano). Interesa porque suma una vía terapéutica dirigida en un escenario de resistencia a los inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6).",
       "destacado": false
     },
-    "a43a91717471": {
-      "resumen": "OncLive publica un segmento centrado en aspectos prácticos de implementación clínica y en el tropismo tisular (la afinidad de una terapia por determinados tejidos) a la hora de elegir un tratamiento oncológico. El título no precisa la enfermedad ni la terapia puntual, pero interesa como guía para la toma de decisiones en la práctica diaria.",
+    "68e323c7bba9": {
+      "resumen": "The ASCO Post reporta un estudio que combina elacestrant (un degradador selectivo oral del receptor de estrógeno, SERD) con capivasertib (un inhibidor de AKT) en cáncer de mama avanzado con receptor de estrógeno positivo y HER2 negativo. Interesa porque explora el doble bloqueo de la vía hormonal y de la señalización PI3K/AKT en pacientes con enfermedad resistente a tratamientos previos.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio, probablemente un ensayo clínico temprano (fase Ib/II), que combina dos fármacos orales; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado o metastásico, receptor de estrógeno positivo y HER2 negativo (ER+/HER2-), presumiblemente pretratadas con inhibidores de CDK4/6.\nIntervención: Elacestrant (degradador selectivo oral del receptor de estrógeno, SERD) combinado con capivasertib (inhibidor de AKT); no se especifica comparador.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede conocer el diseño exacto, la tasa de respuesta, la supervivencia libre de progresión ni el perfil de toxicidad de la combinación.\nMensaje: se enmarca en la tendencia a combinar terapia endocrina de nueva generación con inhibidores de la vía PI3K/AKT para superar la resistencia endocrina en cáncer de mama ER+/HER2-.\nNota: análisis sin acceso al abstract."
+    },
+    "b02a2655e98a": {
+      "resumen": "OncLive informa que la FDA aprobó gedatolisib combinado con fulvestrant (un antiestrógeno) con o sin palbociclib (un inhibidor de CDK4/6) para cáncer de mama con receptores hormonales positivos, HER2 negativo, localmente avanzado o metastásico. Interesa porque amplía las opciones terapéuticas tras la progresión a terapias hormonales previas.",
       "destacado": false
     },
-    "2148261dcd4a": {
-      "resumen": "El Dr. Alexey Danilov explica en OncLive el racional y el diseño del estudio DAYBreak CLL-201, que evalúa bexobrutideg (un degradador de la tirosina quinasa de Bruton, BTK) en leucemia linfocítica crónica recidivante o refractaria (R/R). Interesa porque los degradadores de BTK son una nueva clase terapéutica pensada para superar la resistencia a los inhibidores clásicos de BTK.",
-      "destacado": false,
-      "analisis": "Diseño: Entrevista de OncLive al Dr. Alexey Danilov sobre el racional y diseño del estudio DAYBreak CLL-201; el título no precisa la fase del ensayo, su aleatorización, cegado, ni el número de centros o pacientes previstos.\nPoblación: Pacientes con leucemia linfocítica crónica (LLC) recidivante o refractaria (R/R), presumiblemente pretratados con inhibidores de BTK u otras terapias dirigidas.\nIntervención: Bexobrutideg, un degradador de la proteína BTK (tirosina quinasa de Bruton); no se especifica comparador.\nResultados: no disponibles, se trata de una discusión sobre el racional y diseño del estudio, no de resultados clínicos.\nLimitaciones: sin el texto completo no se puede conocer el diseño estadístico, el tamaño muestral previsto ni el criterio de valoración principal.\nMensaje: refleja el interés creciente en los degradadores de BTK como estrategia para pacientes con LLC resistentes a las terapias dirigidas actuales; habrá que esperar los resultados clínicos del estudio.\nNota: análisis sin acceso al abstract."
+    "440bef574418": {
+      "resumen": "OncLive presenta un segmento de casos clínicos comentados sobre cómo optimizar la terapia oral con degradadores selectivos del receptor de estrógeno (SERD) después de la progresión a inhibidores de CDK4/6, en cáncer de mama metastásico con receptores hormonales positivos y HER2 negativo. Interesa como guía práctica de secuenciación terapéutica en un escenario clínico cada vez más frecuente.",
+      "destacado": false
+    },
+    "36ab1c74f855": {
+      "resumen": "OncLive informa que la FDA otorgó la aprobación tradicional (definitiva, no acelerada) a selpercatinib, un inhibidor selectivo de RET (rearranged during transfection), para tumores sólidos avanzados con alteraciones en ese gen. Interesa porque consolida a selpercatinib como terapia dirigida agnóstica de tumor para esta alteración molecular específica.",
+      "destacado": false
+    },
+    "b0ec82f119c4": {
+      "resumen": "The ASCO Post reporta la misma aprobación definitiva de la FDA a selpercatinib para tumores sólidos localmente avanzados o metastásicos con fusión positiva del gen RET. Interesa por confirmar, desde otra fuente, la consolidación regulatoria de esta terapia dirigida agnóstica de tumor.",
+      "destacado": false
     },
     "ee18bc5e6b49": {
       "resumen": "Journal of Clinical Oncology publica una revisión sobre el manejo actual del cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano), en un contexto de rápida incorporación de nuevas terapias dirigidas y anticuerpos conjugados. Interesa como puesta al día de un subtipo tumoral con múltiples líneas de tratamiento en constante cambio.",
@@ -48,56 +45,56 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, controlado con placebo (ENHANCE); el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Pacientes con síndrome mielodisplásico (SMD) de riesgo alto, sin tratamiento previo, candidatos a terapia hipometilante.\nIntervención: Magrolimab (anticuerpo monoclonal anti-CD47) más azacitidina, comparado contra placebo más azacitidina.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el criterio de valoración principal, la tasa de respuesta completa, la supervivencia global ni el perfil de seguridad (la clase anti-CD47 se ha asociado a citopenias en estudios previos).\nMensaje: los resultados de este ensayo de fase III son clave para definir si sumar magrolimab a la azacitidina aporta beneficio real en SMD de alto riesgo, un escenario con opciones terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
     },
-    "3d0f9760d243": {
-      "resumen": "Vogue México presenta los mocasines japoneses como el calzado elegante para combinar con jeans, faldas y vestidos este verano 2026."
+    "33dbc783ef22": {
+      "resumen": "Vogue repasa la colección de alta costura otoño 2026 de la diseñadora griega Celia Kritharioti."
     },
-    "e59827c6c640": {
-      "resumen": "Harper's Bazaar cuenta por qué las gafas de sol cat eye se consolidan como la tendencia más repetida en las pasarelas para el verano 2026."
+    "488077979cea": {
+      "resumen": "Vogue México muestra cómo fue el desfile de alta costura de Dolce&Gabbana en Taormina, dedicado a homenajear a las mujeres."
     },
-    "5a5791496e68": {
-      "resumen": "Telva adelanta el vaquero que será tendencia este otoño y que ya se puede comprar en Zara."
+    "110ce05ed1b8": {
+      "resumen": "Vogue México explica, según un experto, por qué conviene desintoxicar las verduras antes de comerlas."
     },
-    "0e0630ea1a69": {
-      "resumen": "Cosmopolitan repasa tres vestidos estilo qipao de Zara que recuperan una tendencia de los años 90 usada por Kate Moss y Cameron Diaz."
+    "8305db3908ae": {
+      "resumen": "Vogue México destaca cómo Dua Lipa combinó zapatos de taco color amarillo con falda y con pantalones, dos looks elegantes para el verano 2026."
     },
-    "6308c672e26c": {
-      "resumen": "La Razón selecciona diez prendas de Zara para sumarse al estampado favorito de españolas y francesas, de vuelta este verano."
+    "08a6a8394289": {
+      "resumen": "ELLE muestra el look de verano de Marta Sánchez, de la falda pantalón a la blusa en tendencia, como el más favorecedor de la temporada."
     },
-    "0145bad44993": {
-      "resumen": "Vogue México repasa la colección de bolsos de lujo que lució el futbolista Erling Haaland durante el Mundial."
+    "084b3bb44515": {
+      "resumen": "Vogue México encontró en El Palacio de Hierro siete vestidos estilo años 90 que serán tendencia en el verano 2026."
+    },
+    "8e237de65ded": {
+      "resumen": "El Tiempo repasa cinco tendencias de moda inspiradas en Rosalía que se van a ver en sus conciertos de Bogotá."
+    },
+    "234d5ec0ea5f": {
+      "resumen": "Billboard Argentina cuenta que Valentina vuelve a Buenos Aires con un espectáculo que combina música, circo y un mensaje de libertad."
+    },
+    "0ff3b74f5c08": {
+      "resumen": "La Nación repasa, más allá de las estrellas Michelin, los 13 restaurantes recomendados en Buenos Aires y Mendoza."
+    },
+    "7d00c77a41cc": {
+      "resumen": "El Eco cuenta que la Guía Michelin reafirma el posicionamiento internacional de la gastronomía porteña."
+    },
+    "02319e447b01": {
+      "resumen": "El Destape anuncia un concierto gratuito de la Sinfónica de Buenos Aires en el Teatro San Martín."
+    },
+    "2a96c0743976": {
+      "resumen": "El Destape informa el cierre de una histórica sala de teatro porteña y apunta contra Milei por la crisis del sector."
+    },
+    "5ad4aa055105": {
+      "resumen": "Infobae cuenta cómo dramaturgos argentinos reescriben a Calderón y Guillén de Castro en una propuesta sobre el Siglo de Oro español en Buenos Aires."
+    },
+    "ca54688132d4": {
+      "resumen": "Buenos Aires Secreta detalla, desde salones dantescos hasta un pasillo con estrella, los mejores restaurantes porteños según la Guía Michelin."
+    },
+    "9a796a56a087": {
+      "resumen": "Multimedio Genesis arma una agenda de planes para el fin de semana largo en la Ciudad de Buenos Aires, con festejos del 9 de Julio y Fan Fest para alentar a la Selección."
     },
     "e34d35496ed2": {
       "resumen": "MDZ Online arma una agenda de planes para el fin de semana patrio en Buenos Aires, con Fan Fest y sabores argentinos."
     },
-    "e96176a54853": {
-      "resumen": "Revista Para Ti recomienda obras de teatro para disfrutar con chicos durante las vacaciones de invierno en Buenos Aires."
-    },
-    "6b792a9268cd": {
-      "resumen": "La Nación detalla los nuevos restaurantes argentinos que se sumaron a las recomendaciones de la Guía Michelin."
-    },
-    "9fce92430480": {
-      "resumen": "Canal26 recorre los bares y restaurantes porteños con historia británica donde comer comida inglesa."
-    },
-    "6c6baff177cc": {
-      "resumen": "Ladevi cuenta que Buenos Aires y Mendoza sumaron nuevas Estrellas Michelin, consolidando el turismo gastronómico del país."
-    },
-    "e42b3db6fbca": {
-      "resumen": "iProfesional propone cinco obras de teatro para ir con los chicos durante las vacaciones de invierno."
-    },
-    "e9db69bc5962": {
-      "resumen": "MDZ Online informa la muerte de Pedro Ignacio Calderón, histórico director de orquesta del Teatro Colón, y repasa la despedida que le dedicó la institución."
-    },
-    "b80b088e7ccf": {
-      "resumen": "ArchDaily repasa en imágenes la historia arquitectónica del Teatro Colón, uno de los mejores teatros del mundo."
-    },
-    "f850182b989e": {
-      "resumen": "iProfesional detalla dónde ver en pantalla gigante el partido de la Selección en la Ciudad de Buenos Aires."
-    },
     "cfee0db12ab1": {
       "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
-    },
-    "358de9e8e944": {
-      "resumen": "Clarín publica una carta de lectores que reclama reglas claras y sin excepciones para el Mundial."
     }
   }
 }
