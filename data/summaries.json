@@ -1,29 +1,42 @@
 {
-  "generated_at": "2026-07-15T10:06:34Z",
+  "generated_at": "2026-07-15T22:07:22Z",
   "summaries": {
-    "2d80242c664a": {
-      "resumen": "OncLive presenta una entrevista sobre la secuenciación y el uso en la práctica real de duvelisib, un inhibidor oral de PI3K (fosfoinositol 3-quinasa) aprobado para leucemia linfocítica crónica y linfoma folicular. Interesa como mirada práctica sobre cuándo y cómo posicionar esta droga entre las múltiples opciones terapéuticas disponibles hoy.",
+    "00b5b738a47a": {
+      "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
       "destacado": false
     },
-    "f5b8ed47ce62": {
-      "resumen": "OncLive entrevista a un especialista sobre la aprobación por la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de la formulación subcutánea de isatuximab, un anticuerpo monoclonal anti-CD38, para mieloma múltiple. Interesa porque la vía subcutánea simplifica la administración frente a la infusión intravenosa, mejorando la comodidad para el paciente.",
-      "destacado": false
-    },
-    "b02a2655e98a": {
-      "resumen": "OncLive informa que la FDA aprobó gedatolisib combinado con fulvestrant (un antiestrógeno) con o sin palbociclib (un inhibidor de CDK4/6) para cáncer de mama con receptores hormonales positivos, HER2 negativo, localmente avanzado o metastásico. Interesa porque amplía las opciones terapéuticas tras la progresión a terapias hormonales previas.",
-      "destacado": false
-    },
-    "c707794d9343": {
-      "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó combinaciones con gedatolisib, un inhibidor oral de la vía PI3K/mTOR/AKT (fosfoinositol 3-quinasa/diana de rapamicina en células de mamífero/proteína quinasa B), para cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano). Interesa porque suma una vía terapéutica dirigida en un escenario de resistencia a los inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6).",
-      "destacado": false
-    },
-    "68e323c7bba9": {
-      "resumen": "The ASCO Post reporta un estudio que combina elacestrant (un degradador selectivo oral del receptor de estrógeno, SERD) con capivasertib (un inhibidor de AKT) en cáncer de mama avanzado con receptor de estrógeno positivo y HER2 negativo. Interesa porque explora el doble bloqueo de la vía hormonal y de la señalización PI3K/AKT en pacientes con enfermedad resistente a tratamientos previos.",
+    "8b8a8024b939": {
+      "resumen": "Journal of Clinical Oncology publica el desarrollo y la validación externa de un modelo predictivo multivariable basado en el transcriptoma (perfil de expresión génica) para estimar qué pacientes con leucemia mieloide crónica pueden alcanzar la remisión libre de tratamiento tras suspender los inhibidores de tirosina quinasa. Interesa porque podría ayudar a seleccionar con más precisión a quiénes conviene intentar la discontinuación del tratamiento.",
       "destacado": false,
-      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio, probablemente un ensayo clínico temprano (fase Ib/II), que combina dos fármacos orales; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado o metastásico, receptor de estrógeno positivo y HER2 negativo (ER+/HER2-), presumiblemente pretratadas con inhibidores de CDK4/6.\nIntervención: Elacestrant (degradador selectivo oral del receptor de estrógeno, SERD) combinado con capivasertib (inhibidor de AKT); no se especifica comparador.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede conocer el diseño exacto, la tasa de respuesta, la supervivencia libre de progresión ni el perfil de toxicidad de la combinación.\nMensaje: se enmarca en la tendencia a combinar terapia endocrina de nueva generación con inhibidores de la vía PI3K/AKT para superar la resistencia endocrina en cáncer de mama ER+/HER2-.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio de desarrollo y validación externa de un modelo predictivo multivariable basado en datos transcriptómicos (de expresión génica); el título no precisa si el diseño fue prospectivo o retrospectivo, ni el número de centros o pacientes de las cohortes de entrenamiento y validación.\nPoblación: Pacientes con leucemia mieloide crónica en fase crónica, con respuesta molecular profunda, candidatos a intentar la remisión libre de tratamiento (treatment-free remission) tras suspender un inhibidor de tirosina quinasa.\nIntervención: No hay intervención terapéutica; se trata de la construcción y validación de una herramienta pronóstica (biomarcador transcriptómico) para predecir el éxito de la discontinuación del tratamiento, sin comparador farmacológico.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el poder discriminativo del modelo, el tamaño de las cohortes de desarrollo y validación, ni su disponibilidad real para uso clínico de rutina.\nMensaje: un biomarcador transcriptómico validado externamente podría mejorar la selección de pacientes con leucemia mieloide crónica para intentar la remisión libre de tratamiento, aunque su uso práctico dependerá de validación adicional y de la disponibilidad de la plataforma de testeo.\nNota: análisis sin acceso al abstract."
     },
-    "b0ec82f119c4": {
-      "resumen": "The ASCO Post reporta la aprobación definitiva (no acelerada) de la FDA a selpercatinib, un inhibidor selectivo de RET (rearranged during transfection), para tumores sólidos localmente avanzados o metastásicos con fusión positiva del gen RET. Interesa por confirmar la consolidación regulatoria de esta terapia dirigida agnóstica de tumor.",
+    "777aac789e44": {
+      "resumen": "The ASCO Post reporta los resultados del ensayo ENDURANCE en mieloma múltiple de reciente diagnóstico, que no encontró beneficio en supervivencia con el mantenimiento indefinido frente al mantenimiento limitado a 2 años. Interesa porque cuestiona la práctica habitual de extender el tratamiento de mantenimiento de manera indefinida.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico ENDURANCE; el título indica una comparación entre mantenimiento indefinido y mantenimiento por 2 años, sin precisar aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple de reciente diagnóstico que completaron la inducción y son candidatos a tratamiento de mantenimiento.\nIntervención: Mantenimiento indefinido versus mantenimiento limitado a 2 años (el fármaco de mantenimiento no se especifica en el título).\nResultados: no disponibles, no se pudo acceder al abstract; el título indica ausencia de beneficio en supervivencia con el mantenimiento indefinido.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, el seguimiento mediano, la toxicidad acumulada del mantenimiento prolongado ni el efecto sobre la supervivencia libre de progresión.\nMensaje: si se confirma la ausencia de beneficio en supervivencia, el mantenimiento indefinido podría no justificarse frente a un esquema de 2 años, con impacto en toxicidad acumulada, costo y calidad de vida.\nNota: análisis sin acceso al abstract."
+    },
+    "4f8cd08b1945": {
+      "resumen": "OncLive informa una tendencia alentadora en supervivencia global con el agregado de BPM31510 (un fármaco dirigido al metabolismo mitocondrial) a la quimiorradioterapia estándar en glioblastoma de diagnóstico reciente. Interesa porque el glioblastoma tiene pronóstico muy pobre y hay pocas innovaciones en primera línea.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico, probablemente de fase temprana dado el término \"tendencia alentadora\"; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con glioblastoma de diagnóstico reciente, candidatos a tratamiento estándar con quimiorradioterapia.\nIntervención: Agregado de BPM31510 (formulación dirigida al metabolismo mitocondrial) a la quimiorradioterapia estándar, sin comparador exacto especificado en el título.\nResultados: no disponibles, no se pudo acceder al abstract; el título menciona una \"tendencia alentadora\" en supervivencia global, lo que sugiere una diferencia numérica aún no necesariamente significativa.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, si el estudio tiene poder estadístico suficiente, ni el perfil de toxicidad de sumar este fármaco a la quimiorradioterapia.\nMensaje: una \"tendencia\" en supervivencia global en glioblastoma es una señal preliminar que requiere confirmación en estudios aleatorizados más grandes antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
+    "0ee8af23a3ca": {
+      "resumen": "OncLive reporta que sacituzumab tirumotecan (un anticuerpo conjugado a droga dirigido a Trop-2) combinado con pembrolizumab (un inhibidor de PD-1) cumplió el criterio de valoración de supervivencia libre de progresión en primera línea en cáncer de pulmón de células no pequeñas no escamoso con PD-L1 negativo. Interesa porque ese subgrupo responde peor a la inmunoterapia sola y tiene pocas opciones eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico, probablemente de fase III dado que reporta el cumplimiento de un criterio de valoración primario; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas no escamoso, PD-L1 negativo, en primera línea de tratamiento metastásico.\nIntervención: Sacituzumab tirumotecan (anticuerpo conjugado a droga dirigido al antígeno Trop-2) combinado con pembrolizumab (inhibidor del punto de control inmunitario PD-1), frente a un comparador no especificado en el título.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica que se cumplió el criterio de supervivencia libre de progresión, sin cifras concretas.\nLimitaciones: sin el texto completo no se conocen las cifras de supervivencia libre de progresión, los intervalos de confianza, el valor de p ni el perfil de toxicidad de la combinación.\nMensaje: de confirmarse con los datos completos, esta combinación podría ofrecer una nueva alternativa de primera línea para el subgrupo PD-L1 negativo, históricamente con peor respuesta a la inmunoterapia.\nNota: análisis sin acceso al abstract."
+    },
+    "746c1deb343f": {
+      "resumen": "The ASCO Post reporta el agregado de sacituzumab tirumotecan (un anticuerpo conjugado a droga dirigido a Trop-2) a pembrolizumab (un inhibidor de PD-1) en cáncer de pulmón de células no pequeñas avanzado con PD-L1 positivo. Interesa porque explora reforzar la inmunoterapia de primera línea en un subgrupo que ya suele responder bien a pembrolizumab solo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico; el título no precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas avanzado, PD-L1 positivo, presumiblemente en primera línea de tratamiento.\nIntervención: Agregado de sacituzumab tirumotecan (anticuerpo conjugado a droga anti-Trop-2) a pembrolizumab, comparado presumiblemente contra pembrolizumab solo (no confirmado por el título).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, los resultados de eficacia ni el perfil de toxicidad de agregar el anticuerpo conjugado.\nMensaje: forma parte del programa de desarrollo de sacituzumab tirumotecan en distintos subgrupos de PD-L1 en cáncer de pulmón; de confirmarse el beneficio, podría reforzar el estándar de primera línea en pacientes PD-L1 positivos.\nNota: análisis sin acceso al abstract."
+    },
+    "deeef5f06289": {
+      "resumen": "The ASCO Post informa los resultados de zoldonrasib (un inhibidor selectivo de la mutación KRAS G12D) combinado con quimioterapia en cáncer de páncreas metastásico con esa mutación. Interesa porque el cáncer de páncreas tiene pronóstico muy pobre y recién en los últimos años aparecieron inhibidores dirigidos específicamente a las mutaciones de KRAS, el oncogén más frecuentemente alterado en este tumor.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico, probablemente de fase temprana dado que se trata de un inhibidor en desarrollo; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de páncreas metastásico con mutación KRAS G12D confirmada.\nIntervención: Zoldonrasib (inhibidor selectivo de la proteína KRAS mutada G12D) combinado con quimioterapia, sin especificar esquema ni comparador en el título.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, la tasa de respuesta objetiva, la supervivencia libre de progresión ni el perfil de toxicidad de combinar este inhibidor con quimioterapia.\nMensaje: los inhibidores selectivos de KRAS G12D son una novedad relevante en un tumor con opciones muy limitadas; si se confirma eficacia y seguridad, podría representar una nueva vía de tratamiento dirigido para el subgrupo de pacientes con esta mutación específica.\nNota: análisis sin acceso al abstract."
+    },
+    "cdcc9472546c": {
+      "resumen": "OncLive publica una nota sobre cómo construir un flujo de trabajo eficaz para pasar de la inducción académica a la aplicación de dosis en el ámbito comunitario, en terapias oncológicas complejas. Interesa como mirada práctica de implementación más que como un estudio con resultados clínicos.",
       "destacado": false
     },
     "609a0f0c2511": {
@@ -34,55 +47,29 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase I (TRAVERSE), primera evaluación en humanos de este producto; el título no precisa aleatorización, cegado, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células renales (RCC) avanzado, presumiblemente con progresión a las líneas estándar de tratamiento.\nIntervención: Terapia celular con receptor de antígeno quimérico (CAR-T) alogénica dirigida contra el antígeno de superficie CD70; sin comparador, al tratarse de un estudio de fase I.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: al ser fase I, el objetivo primario es seguridad y determinación de dosis, no eficacia definitiva; sin el texto completo no se conoce la tasa de respuesta, la duración de la respuesta ni el perfil de toxicidad (síndrome de liberación de citocinas, neurotoxicidad).\nMensaje: la terapia CAR-T alogénica \"lista para usar\" evita la manufactura personalizada del producto autólogo y podría ampliar el acceso a esta modalidad en tumores sólidos, donde las CAR-T aún no están establecidas; los datos de fase I son preliminares y exploratorios.\nNota: análisis sin acceso al abstract."
     },
-    "2c549d00a0cc": {
-      "resumen": "Journal of Clinical Oncology publica un estudio poblacional de cribado de gammapatía monoclonal (una condición premaligna vinculada al mieloma múltiple) junto con el ensayo aleatorizado de seguimiento posterior, evaluando resultados clínicos y psicológicos. Interesa porque el cribado sistemático de esta condición es un tema debatido, con riesgo de sobrediagnóstico y ansiedad en los pacientes.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio poblacional de cribado (screening) seguido de un ensayo clínico aleatorizado de seguimiento; el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Población general sometida a cribado de gammapatía monoclonal de significado incierto, con aleatorización subsiguiente en quienes resultaron positivos.\nIntervención: Cribado poblacional de gammapatía monoclonal, con aleatorización posterior a distintas estrategias de seguimiento clínico.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el impacto real del cribado sobre el diagnóstico precoz de mieloma múltiple, ni los efectos psicológicos del hallazgo incidental, ni la adherencia al seguimiento propuesto.\nMensaje: el cribado poblacional de gammapatía monoclonal es controvertido por el riesgo de sobrediagnóstico y el impacto psicológico; este estudio aporta datos para definir si conviene implementarlo de forma sistemática.\nNota: análisis sin acceso al abstract."
+    "4a564f318e5c": {
+      "resumen": "Vogue México repasa los cortes de pelo que más favorecen a las mujeres elegantes mayores de 60 años."
     },
-    "30785a66524d": {
-      "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre el estudio de fase I/II de sonrotoclax (BGB-11417) en monoterapia para linfoma de células del manto previamente tratado con terapia anti-CD20 y un inhibidor de la tirosina quinasa de Bruton. Es una corrección editorial, no un hallazgo clínico nuevo."
+    "568c187c53d6": {
+      "resumen": "Grazia presenta el 'girl grip', la tendencia de estilismo más inesperada del verano 2026."
     },
-    "33dbc783ef22": {
-      "resumen": "Vogue repasa la colección de alta costura otoño 2026 de la diseñadora griega Celia Kritharioti."
+    "6f8f2158ffd2": {
+      "resumen": "Vogue México propone los zapatos franceses color café como la tendencia del verano 2026 para combinar con jeans, polleras y vestidos."
     },
-    "d799c677563e": {
-      "resumen": "El Economista cuenta que Ifema lanza una nueva edición de Momad para anticipar tendencias de moda y generar negocio en el sector."
+    "ca64bc6ba757": {
+      "resumen": "ABC repasa siete relojes de oro de lujo que siguen marcando tendencia pese al paso del tiempo."
     },
-    "70188a639348": {
-      "resumen": "Telva pone a prueba los pololos (shorts ajustados) en distintos escenarios: Ibiza, una reunión de trabajo y una cena con amigas."
+    "ea618411e72d": {
+      "resumen": "Harper's Bazaar detalla, según diseñadores canarios, las cuatro tendencias en trajes de baño y bikinis que arrasan este verano."
     },
-    "c1d583ef63c0": {
-      "resumen": "El Nuevo Día repasa los bolsos en tendencia para darle un plus a los looks del verano."
-    },
-    "26747b440c68": {
-      "resumen": "Vogue México detalla el reparto completo de la película La Odisea, con sus personajes explicados y los actores protagonistas."
-    },
-    "1ec74a8e4220": {
-      "resumen": "Vogue México destaca cómo Anne Hathaway combinó sandalias de cuña italianas con un vestido satinado."
-    },
-    "db0debefc0f1": {
-      "resumen": "Vogue México propone los jeans beige, combinados con zapatos planos, como alternativa elegante para el verano 2026."
+    "443dd3d0047e": {
+      "resumen": "Vogue México presenta el hotel Viceroy Los Cabos como un oasis de paz para desconectar."
     },
     "234d5ec0ea5f": {
       "resumen": "Billboard Argentina cuenta que Valentina vuelve a Buenos Aires con un espectáculo que combina música, circo y un mensaje de libertad."
     },
     "02319e447b01": {
       "resumen": "El Destape anuncia un concierto gratuito de la Sinfónica de Buenos Aires en el Teatro San Martín."
-    },
-    "2a96c0743976": {
-      "resumen": "El Destape informa el cierre de una histórica sala de teatro porteña y apunta contra Milei por la crisis del sector."
-    },
-    "5ad4aa055105": {
-      "resumen": "Infobae cuenta cómo dramaturgos argentinos reescriben a Calderón y Guillén de Castro en una propuesta sobre el Siglo de Oro español en Buenos Aires."
-    },
-    "ad1f528ee0a1": {
-      "resumen": "Diario Mendoza Today informa que la gastronomía de la Ciudad de Buenos Aires reafirma su posicionamiento internacional."
-    },
-    "ec1a05f2d779": {
-      "resumen": "reportnews.la cuenta que la Guía Michelin 2026 incorpora nuevos restaurantes en Buenos Aires y Mendoza."
-    },
-    "fa71ecec4b7a": {
-      "resumen": "Diario Norte informa que un restaurante porteño sumó una estrella Michelin."
     },
     "d48b99cd16c7": {
       "resumen": "Time Out arma una agenda de planes para esta semana y el fin de semana en Buenos Aires."
@@ -92,6 +79,21 @@
     },
     "cfee0db12ab1": {
       "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
+    },
+    "f5c11713fd91": {
+      "resumen": "Grupo Animal repasa qué restaurantes argentinos obtuvieron estrellas en la Guía Michelin 2026."
+    },
+    "0ff3b74f5c08": {
+      "resumen": "La Nación detalla los 13 restaurantes recomendados por la Guía Michelin en Buenos Aires y Mendoza, además de los que ganaron estrellas."
+    },
+    "109a34b5b7cf": {
+      "resumen": "Página/12 arma una agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
+    },
+    "369ccb5d08c0": {
+      "resumen": "Comercio y Justicia informa que ya son 14 los restaurantes argentinos con estrellas Michelin."
+    },
+    "0952a11cebf1": {
+      "resumen": "Infobrisas anuncia que Mar del Plata recibirá por primera vez el ciclo infantil del Teatro Colón."
     }
   }
 }
