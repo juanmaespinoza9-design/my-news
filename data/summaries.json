@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-07-14T22:07:17Z",
+  "generated_at": "2026-07-15T10:06:34Z",
   "summaries": {
+    "2d80242c664a": {
+      "resumen": "OncLive presenta una entrevista sobre la secuenciación y el uso en la práctica real de duvelisib, un inhibidor oral de PI3K (fosfoinositol 3-quinasa) aprobado para leucemia linfocítica crónica y linfoma folicular. Interesa como mirada práctica sobre cuándo y cómo posicionar esta droga entre las múltiples opciones terapéuticas disponibles hoy.",
+      "destacado": false
+    },
+    "f5b8ed47ce62": {
+      "resumen": "OncLive entrevista a un especialista sobre la aprobación por la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de la formulación subcutánea de isatuximab, un anticuerpo monoclonal anti-CD38, para mieloma múltiple. Interesa porque la vía subcutánea simplifica la administración frente a la infusión intravenosa, mejorando la comodidad para el paciente.",
+      "destacado": false
+    },
+    "b02a2655e98a": {
+      "resumen": "OncLive informa que la FDA aprobó gedatolisib combinado con fulvestrant (un antiestrógeno) con o sin palbociclib (un inhibidor de CDK4/6) para cáncer de mama con receptores hormonales positivos, HER2 negativo, localmente avanzado o metastásico. Interesa porque amplía las opciones terapéuticas tras la progresión a terapias hormonales previas.",
+      "destacado": false
+    },
     "c707794d9343": {
       "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó combinaciones con gedatolisib, un inhibidor oral de la vía PI3K/mTOR/AKT (fosfoinositol 3-quinasa/diana de rapamicina en células de mamífero/proteína quinasa B), para cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano). Interesa porque suma una vía terapéutica dirigida en un escenario de resistencia a los inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6).",
       "destacado": false
@@ -10,70 +22,49 @@
       "destacado": false,
       "analisis": "Diseño: Nota de The ASCO Post sobre un estudio, probablemente un ensayo clínico temprano (fase Ib/II), que combina dos fármacos orales; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado o metastásico, receptor de estrógeno positivo y HER2 negativo (ER+/HER2-), presumiblemente pretratadas con inhibidores de CDK4/6.\nIntervención: Elacestrant (degradador selectivo oral del receptor de estrógeno, SERD) combinado con capivasertib (inhibidor de AKT); no se especifica comparador.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede conocer el diseño exacto, la tasa de respuesta, la supervivencia libre de progresión ni el perfil de toxicidad de la combinación.\nMensaje: se enmarca en la tendencia a combinar terapia endocrina de nueva generación con inhibidores de la vía PI3K/AKT para superar la resistencia endocrina en cáncer de mama ER+/HER2-.\nNota: análisis sin acceso al abstract."
     },
-    "b02a2655e98a": {
-      "resumen": "OncLive informa que la FDA aprobó gedatolisib combinado con fulvestrant (un antiestrógeno) con o sin palbociclib (un inhibidor de CDK4/6) para cáncer de mama con receptores hormonales positivos, HER2 negativo, localmente avanzado o metastásico. Interesa porque amplía las opciones terapéuticas tras la progresión a terapias hormonales previas.",
-      "destacado": false
-    },
-    "440bef574418": {
-      "resumen": "OncLive presenta un segmento de casos clínicos comentados sobre cómo optimizar la terapia oral con degradadores selectivos del receptor de estrógeno (SERD) después de la progresión a inhibidores de CDK4/6, en cáncer de mama metastásico con receptores hormonales positivos y HER2 negativo. Interesa como guía práctica de secuenciación terapéutica en un escenario clínico cada vez más frecuente.",
-      "destacado": false
-    },
-    "36ab1c74f855": {
-      "resumen": "OncLive informa que la FDA otorgó la aprobación tradicional (definitiva, no acelerada) a selpercatinib, un inhibidor selectivo de RET (rearranged during transfection), para tumores sólidos avanzados con alteraciones en ese gen. Interesa porque consolida a selpercatinib como terapia dirigida agnóstica de tumor para esta alteración molecular específica.",
-      "destacado": false
-    },
     "b0ec82f119c4": {
-      "resumen": "The ASCO Post reporta la misma aprobación definitiva de la FDA a selpercatinib para tumores sólidos localmente avanzados o metastásicos con fusión positiva del gen RET. Interesa por confirmar, desde otra fuente, la consolidación regulatoria de esta terapia dirigida agnóstica de tumor.",
+      "resumen": "The ASCO Post reporta la aprobación definitiva (no acelerada) de la FDA a selpercatinib, un inhibidor selectivo de RET (rearranged during transfection), para tumores sólidos localmente avanzados o metastásicos con fusión positiva del gen RET. Interesa por confirmar la consolidación regulatoria de esta terapia dirigida agnóstica de tumor.",
       "destacado": false
     },
-    "ee18bc5e6b49": {
-      "resumen": "Journal of Clinical Oncology publica una revisión sobre el manejo actual del cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano), en un contexto de rápida incorporación de nuevas terapias dirigidas y anticuerpos conjugados. Interesa como puesta al día de un subtipo tumoral con múltiples líneas de tratamiento en constante cambio.",
-      "destacado": false
+    "609a0f0c2511": {
+      "resumen": "Journal of Clinical Oncology publica 'Taking Responsibility' (Asumir la responsabilidad), un ensayo narrativo dentro de su sección de reflexión sobre la práctica oncológica. Interesa como mirada humanística sobre el ejercicio de la oncología, más que como reporte de investigación."
     },
-    "0ddea34e30fa": {
-      "resumen": "Journal of Clinical Oncology publica un ensayo clínico aleatorizado (ECOG-ACRIN EAQ171CD), realizado dentro del Programa de Investigación Oncológica Comunitaria del Instituto Nacional del Cáncer (NCORP, por sus siglas en inglés), que evalúa un tratamiento virtual sostenido para dejar de fumar en pacientes con cáncer. Interesa porque el cese tabáquico mejora los resultados oncológicos y este estudio testea un formato virtual, más escalable, de acompañamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (ECOG-ACRIN EAQ171CD), realizado dentro del National Cancer Institute Community Oncology Research Program (NCORP); el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer, fumadores activos, tratados en centros comunitarios de oncología dentro de la red NCORP.\nIntervención: Tratamiento virtual sostenido para el cese tabáquico, comparado presumiblemente contra el manejo estándar o una intervención breve (el título no especifica el comparador exacto).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce la tasa de abstinencia lograda, el tiempo de seguimiento ni la adherencia a la intervención virtual.\nMensaje: si demuestra eficacia, un modelo virtual de cesación tabáquica podría ampliar el acceso a esta intervención costo-efectiva dentro de la atención oncológica de rutina.\nNota: análisis sin acceso al abstract."
-    },
-    "029b4cb9f8a2": {
-      "resumen": "Journal of Clinical Oncology publica el ensayo de fase II ACT-GI, que compara avatrombopag (un agonista oral del receptor de trombopoyetina) contra placebo para la trombocitopenia persistente inducida por quimioterapia en tumores gastrointestinales. Interesa porque la trombocitopenia obliga con frecuencia a retrasar o reducir la quimioterapia, y hay pocas opciones aprobadas para revertirla.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase II (ACT-GI), presumiblemente aleatorizado y controlado con placebo; el título no precisa el cegado, el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer gastrointestinal y trombocitopenia persistente inducida por quimioterapia (recuento bajo de plaquetas que no se recupera entre ciclos).\nIntervención: Avatrombopag, agonista oral del receptor de trombopoyetina, comparado contra placebo.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce la magnitud del efecto sobre el recuento plaquetario, la tasa de retrasos o reducciones de dosis evitadas, ni el perfil de seguridad.\nMensaje: de confirmarse su eficacia, avatrombopag podría sumarse como herramienta para sostener la intensidad de dosis de quimioterapia en tumores gastrointestinales.\nNota: análisis sin acceso al abstract."
-    },
-    "468c473b370d": {
-      "resumen": "Journal of Clinical Oncology publica los resultados del estudio de fase III ENHANCE, que compara magrolimab (un anticuerpo anti-CD47) más azacitidina frente a placebo más azacitidina en pacientes sin tratamiento previo con síndromes mielodisplásicos (SMD) de riesgo alto. Interesa porque magrolimab representa una nueva clase de inmunoterapia dirigida al \"checkpoint\" macrófago-mediado CD47, un mecanismo distinto al de las terapias oncológicas convencionales.",
+    "d6a66b6807f5": {
+      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo de fase I TRAVERSE, que evalúa una terapia celular con receptor de antígeno quimérico (CAR-T) alogénica —fabricada a partir de células de un donante sano y no del propio paciente— dirigida contra el antígeno CD70, en carcinoma de células renales avanzado. Interesa porque las terapias CAR-T todavía no están establecidas en tumores sólidos, y un producto alogénico podría acelerar el acceso al eliminar la manufactura personalizada.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, controlado con placebo (ENHANCE); el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Pacientes con síndrome mielodisplásico (SMD) de riesgo alto, sin tratamiento previo, candidatos a terapia hipometilante.\nIntervención: Magrolimab (anticuerpo monoclonal anti-CD47) más azacitidina, comparado contra placebo más azacitidina.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el criterio de valoración principal, la tasa de respuesta completa, la supervivencia global ni el perfil de seguridad (la clase anti-CD47 se ha asociado a citopenias en estudios previos).\nMensaje: los resultados de este ensayo de fase III son clave para definir si sumar magrolimab a la azacitidina aporta beneficio real en SMD de alto riesgo, un escenario con opciones terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico de fase I (TRAVERSE), primera evaluación en humanos de este producto; el título no precisa aleatorización, cegado, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células renales (RCC) avanzado, presumiblemente con progresión a las líneas estándar de tratamiento.\nIntervención: Terapia celular con receptor de antígeno quimérico (CAR-T) alogénica dirigida contra el antígeno de superficie CD70; sin comparador, al tratarse de un estudio de fase I.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: al ser fase I, el objetivo primario es seguridad y determinación de dosis, no eficacia definitiva; sin el texto completo no se conoce la tasa de respuesta, la duración de la respuesta ni el perfil de toxicidad (síndrome de liberación de citocinas, neurotoxicidad).\nMensaje: la terapia CAR-T alogénica \"lista para usar\" evita la manufactura personalizada del producto autólogo y podría ampliar el acceso a esta modalidad en tumores sólidos, donde las CAR-T aún no están establecidas; los datos de fase I son preliminares y exploratorios.\nNota: análisis sin acceso al abstract."
+    },
+    "2c549d00a0cc": {
+      "resumen": "Journal of Clinical Oncology publica un estudio poblacional de cribado de gammapatía monoclonal (una condición premaligna vinculada al mieloma múltiple) junto con el ensayo aleatorizado de seguimiento posterior, evaluando resultados clínicos y psicológicos. Interesa porque el cribado sistemático de esta condición es un tema debatido, con riesgo de sobrediagnóstico y ansiedad en los pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio poblacional de cribado (screening) seguido de un ensayo clínico aleatorizado de seguimiento; el título no precisa el cegado, el número de centros ni el tamaño muestral exacto.\nPoblación: Población general sometida a cribado de gammapatía monoclonal de significado incierto, con aleatorización subsiguiente en quienes resultaron positivos.\nIntervención: Cribado poblacional de gammapatía monoclonal, con aleatorización posterior a distintas estrategias de seguimiento clínico.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el impacto real del cribado sobre el diagnóstico precoz de mieloma múltiple, ni los efectos psicológicos del hallazgo incidental, ni la adherencia al seguimiento propuesto.\nMensaje: el cribado poblacional de gammapatía monoclonal es controvertido por el riesgo de sobrediagnóstico y el impacto psicológico; este estudio aporta datos para definir si conviene implementarlo de forma sistemática.\nNota: análisis sin acceso al abstract."
+    },
+    "30785a66524d": {
+      "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre el estudio de fase I/II de sonrotoclax (BGB-11417) en monoterapia para linfoma de células del manto previamente tratado con terapia anti-CD20 y un inhibidor de la tirosina quinasa de Bruton. Es una corrección editorial, no un hallazgo clínico nuevo."
     },
     "33dbc783ef22": {
       "resumen": "Vogue repasa la colección de alta costura otoño 2026 de la diseñadora griega Celia Kritharioti."
     },
-    "488077979cea": {
-      "resumen": "Vogue México muestra cómo fue el desfile de alta costura de Dolce&Gabbana en Taormina, dedicado a homenajear a las mujeres."
+    "d799c677563e": {
+      "resumen": "El Economista cuenta que Ifema lanza una nueva edición de Momad para anticipar tendencias de moda y generar negocio en el sector."
     },
-    "110ce05ed1b8": {
-      "resumen": "Vogue México explica, según un experto, por qué conviene desintoxicar las verduras antes de comerlas."
+    "70188a639348": {
+      "resumen": "Telva pone a prueba los pololos (shorts ajustados) en distintos escenarios: Ibiza, una reunión de trabajo y una cena con amigas."
     },
-    "8305db3908ae": {
-      "resumen": "Vogue México destaca cómo Dua Lipa combinó zapatos de taco color amarillo con falda y con pantalones, dos looks elegantes para el verano 2026."
+    "c1d583ef63c0": {
+      "resumen": "El Nuevo Día repasa los bolsos en tendencia para darle un plus a los looks del verano."
     },
-    "08a6a8394289": {
-      "resumen": "ELLE muestra el look de verano de Marta Sánchez, de la falda pantalón a la blusa en tendencia, como el más favorecedor de la temporada."
+    "26747b440c68": {
+      "resumen": "Vogue México detalla el reparto completo de la película La Odisea, con sus personajes explicados y los actores protagonistas."
     },
-    "084b3bb44515": {
-      "resumen": "Vogue México encontró en El Palacio de Hierro siete vestidos estilo años 90 que serán tendencia en el verano 2026."
+    "1ec74a8e4220": {
+      "resumen": "Vogue México destaca cómo Anne Hathaway combinó sandalias de cuña italianas con un vestido satinado."
     },
-    "8e237de65ded": {
-      "resumen": "El Tiempo repasa cinco tendencias de moda inspiradas en Rosalía que se van a ver en sus conciertos de Bogotá."
+    "db0debefc0f1": {
+      "resumen": "Vogue México propone los jeans beige, combinados con zapatos planos, como alternativa elegante para el verano 2026."
     },
     "234d5ec0ea5f": {
       "resumen": "Billboard Argentina cuenta que Valentina vuelve a Buenos Aires con un espectáculo que combina música, circo y un mensaje de libertad."
-    },
-    "0ff3b74f5c08": {
-      "resumen": "La Nación repasa, más allá de las estrellas Michelin, los 13 restaurantes recomendados en Buenos Aires y Mendoza."
-    },
-    "7d00c77a41cc": {
-      "resumen": "El Eco cuenta que la Guía Michelin reafirma el posicionamiento internacional de la gastronomía porteña."
     },
     "02319e447b01": {
       "resumen": "El Destape anuncia un concierto gratuito de la Sinfónica de Buenos Aires en el Teatro San Martín."
@@ -84,14 +75,20 @@
     "5ad4aa055105": {
       "resumen": "Infobae cuenta cómo dramaturgos argentinos reescriben a Calderón y Guillén de Castro en una propuesta sobre el Siglo de Oro español en Buenos Aires."
     },
-    "ca54688132d4": {
-      "resumen": "Buenos Aires Secreta detalla, desde salones dantescos hasta un pasillo con estrella, los mejores restaurantes porteños según la Guía Michelin."
+    "ad1f528ee0a1": {
+      "resumen": "Diario Mendoza Today informa que la gastronomía de la Ciudad de Buenos Aires reafirma su posicionamiento internacional."
     },
-    "9a796a56a087": {
-      "resumen": "Multimedio Genesis arma una agenda de planes para el fin de semana largo en la Ciudad de Buenos Aires, con festejos del 9 de Julio y Fan Fest para alentar a la Selección."
+    "ec1a05f2d779": {
+      "resumen": "reportnews.la cuenta que la Guía Michelin 2026 incorpora nuevos restaurantes en Buenos Aires y Mendoza."
     },
-    "e34d35496ed2": {
-      "resumen": "MDZ Online arma una agenda de planes para el fin de semana patrio en Buenos Aires, con Fan Fest y sabores argentinos."
+    "fa71ecec4b7a": {
+      "resumen": "Diario Norte informa que un restaurante porteño sumó una estrella Michelin."
+    },
+    "d48b99cd16c7": {
+      "resumen": "Time Out arma una agenda de planes para esta semana y el fin de semana en Buenos Aires."
+    },
+    "f850182b989e": {
+      "resumen": "iProfesional detalla dónde ver el partido de la Selección en pantalla gigante en la Ciudad de Buenos Aires."
     },
     "cfee0db12ab1": {
       "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
