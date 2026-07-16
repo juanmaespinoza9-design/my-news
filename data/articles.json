@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T06:37:27.423182+00:00",
+ "generated_at": "2026-07-16T10:22:40.497611+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -79,22 +79,6 @@
      "published": "2026-07-14T00:00:00+00:00",
      "copete": "Hicks-Courant K et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "609a0f0c2511"
-    },
-    {
-     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-09T00:00:00+00:00",
-     "copete": "Yue D et al. · The New England journal of medicine",
-     "id": "8c859eab0c01"
-    },
-    {
-     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Choueiri TK et al. · The New England journal of medicine",
-     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -104,27 +88,50 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "The Best Summer Sweaters, According to Vogue Staffers",
+     "link": "https://www.vogue.com/article/vogue-editors-summer-office-sweaters",
+     "source": "Vogue",
+     "published": "2026-07-16T10:00:00+00:00",
+     "copete": "Vogue editors share their go summer sweaters for keeping warm in a chilly air-conditioned office.",
+     "id": "c4ae33ecccc9"
+    },
+    {
+     "title": "My Packing Style: Métier Founder Melissa Morris",
+     "link": "https://www.vogue.com/article/packing-style-melissa-morris",
+     "source": "Vogue",
+     "published": "2026-07-16T10:00:00+00:00",
+     "copete": "Take a peek inside Métier founder Melissa Morris's travel bag—as well as the packing tips she swears by.",
+     "id": "80848574c393"
+    },
+    {
+     "title": "32 Best Airbnbs in Upstate New York for a Weekend Away from the City 2026",
+     "link": "https://www.vogue.com/article/best-airbnbs-upstate-new-york",
+     "source": "Vogue",
+     "published": "2026-07-16T10:00:00+00:00",
+     "copete": "Looking for the best Airbnb in upstate New York? Here, our favorites, from Catskills cabins to a Woodstock artist’s studio.",
+     "id": "970175bc846f"
+    },
+    {
+     "title": "These 5 Birkenstock Shoes for Women Have Become Summer Essentials",
+     "link": "https://www.vogue.com/article/summer-birkenstock-styles",
+     "source": "Vogue",
+     "published": "2026-07-16T10:00:00+00:00",
+     "copete": "From the Boston mule to the Gizeh sandal, these five Birkenstock shoes for women are beloved by the street style set for a reason.",
+     "id": "cff4fbe50cca"
+    },
+    {
+     "title": "Oh, Ferran: estamos viendo el Mundial 2026 por “la trama”",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yMEZQWXIyOUdLZVBKYmVjeE9rbUlYTjJBVW4yRHdJbjNGVUNuc0JBcVowWDA1bk9ldllkb2dJZEFzQV9IR09SdHRZYnhUaU1xTWU3RXAtLVZOcFlGZ3EzVGtJNjdBR0I0NVBBeFNvVno2dw?oc=5",
+     "source": "Vogue España",
+     "published": "2026-07-16T07:21:25+00:00",
+     "id": "b276df462cd4"
+    },
+    {
      "title": "Invocamos a la nostalgia con la gran tendencia del verano: los vestidos y blusas con bordado punto de cruz (dónde encontrarlos y cómo llevarlos)",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGNqU3Q2N24zWGctU2xleEZXc1hGTGFQX0g2aHB2VkZjZU9CQzBZZGZDT3JzY3VWd0lYS2Ryci1DYllveWhLLW13NHduazY2VGZ0Vm43aE5mWTFjNzJOSUZ6RW92Q2JycFJ3M2ZPRlZvcFAtV3Z3U2VkTHltbFhsQl9wMkTSAYQBQVVfeXFMTjUwX09Ba0d6LUFWcVg1VGJROXNHZHN4elFWbDhzUWtKXzlWR19uQ0IyVlR3TXBUREU3dkVkeUx5YWlGWExUeHNTNWZHSW9hbk44QjNIMTZwRThDNzR2aTNKcHRibzZBN3lCa21OQi1QM09FblF2YmF1YjR3T3ZfMzF1ZkZs?oc=5",
      "source": "Telva",
      "published": "2026-07-16T05:09:21+00:00",
      "id": "0b78f79e5789"
-    },
-    {
-     "title": "Which Brand Won the World Cup?",
-     "link": "https://www.vogue.com/article/which-brand-won-the-world-cup",
-     "source": "Vogue",
-     "published": "2026-07-16T05:00:00+00:00",
-     "copete": "As the FIFA World Cup draws to a close, it’s time to assess which brands cut through. But the story is not all about Nike and Adidas. Soccer is emerging as a sustained style influence as much as a sponsorship play.",
-     "id": "bae2eadf4c98"
-    },
-    {
-     "title": "Why Is So Much Clothing Mislabeled?",
-     "link": "https://www.vogue.com/article/why-is-so-much-clothing-mislabeled",
-     "source": "Vogue",
-     "published": "2026-07-16T04:30:00+00:00",
-     "copete": "The fiber information on many garment labels is misleading or even inaccurate. Here’s why it matters.",
-     "id": "af693c320c59"
     },
     {
      "title": "'Festival season’: 10 tendencias, en clave boho-chic, que arrasarán en los festivales del verano",
@@ -134,27 +141,11 @@
      "id": "88de0d283628"
     },
     {
-     "title": "15 Summer Trends Vogue Editors Can't Stop Talking About",
-     "link": "https://www.vogue.com/article/summer-trends-editor-picks-2026",
-     "source": "Vogue",
-     "published": "2026-07-16T01:23:31+00:00",
-     "copete": "From flip-flops and raffia totes to wedged sandals and tassel trims, these are the summer trends we’re adding to cart right now.",
-     "id": "85b44169e40c"
-    },
-    {
      "title": "De la cancha, ¿a la pasarela? Erling Haaland brilla junto a Jennifer Lopez en exclusivo evento de moda en Italia",
      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaEJXeXJHbS1RSzNMOTZ0N25NT3RwM0gyNzR2MWxxVnBLVU1fcXozM0pFbXRPV3NtdUtsbkpRcVdHRE44RlcwWGVHVFJtRzNHYUFpYmFLdVNrTlBTUnhXdzNyb29pX00xOEN3RVZrdm52QUNPam8zX2Y2c1I1N1RkTlZXOUdqSjNxVF9ncVhmN0lQclFEeUhiM2pIQWcxRFhndzVoU1U0dUdPZDhsXzVSVlIzemV5NDNaU1VpcW9SOXF3MTBvREQ2VUptY3dyejRhSHZsSHc1czc1TUM0LVIwMDlyZUpIUGc2NzYxdnM2QmhoLXY5dWRfLW1Ba3V1WkQ0?oc=5",
      "source": "La Prensa Gráfica",
      "published": "2026-07-16T00:22:26+00:00",
      "id": "e9aec59cd042"
-    },
-    {
-     "title": "Summer's Hottest Chop The Scandi Bob, As Seen on Celebrities",
-     "link": "https://www.vogue.com/article/what-is-the-scandi-bob",
-     "source": "Vogue",
-     "published": "2026-07-16T00:02:03+00:00",
-     "copete": "The cut of the summer isn’t just any bob—it’s a Scandi bob. Here, experts break down how it differs from other bobs and how to style it for every texture.",
-     "id": "dd5e03bbde93"
     },
     {
      "title": "Zapatos planos y baggy jeans: Belinda impone tendencia para el verano 2026",
@@ -169,13 +160,6 @@
      "source": "vogue.mx",
      "published": "2026-07-15T23:27:54+00:00",
      "id": "68906368e846"
-    },
-    {
-     "title": "“La autenticidad no se construye intentando encajar, se hace atreviéndote a ser más libre”: Estefanía Villarreal nos habla sobre el poder de la transformación",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Nd2xCRzVZOXAtV083VUtDU3JXMVM0OHpZSDhfb3NVWUx4MTRCRDFMRVdqdUtxOWlUVGU1Z2JpRU9LeG1LeXpsOGVYYUFSMEZnSUc0Uk5fTDZCdzktd05Fc0JIS1Z3d25MbXpEdlZyZ0R5cmVj?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-07-15T23:05:39+00:00",
-     "id": "482eb1296879"
     }
    ]
   },
@@ -184,6 +168,38 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "La Odisea de Christopher Nolan: por qué es un espectáculo épico imperdible",
+     "link": "https://www.clarin.com/espectaculos/odisea-christopher-nolan-espectaculo-epico-imperdible_0_7h2pfFkKVR.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-16T09:02:45+00:00",
+     "copete": "La película tiene en su elenco a Matt Damon, Tom Holland y Anne Hathaway. El director de \"Oppenheimer\" demuestra que no le teme a nada, ni a nadie.",
+     "id": "9f2590535331"
+    },
+    {
+     "title": "Andrea Frigerio, de la alta costura a la marquesina del prestigio: su debut y despedida con Tato, sus locos rituales y su trabajo con Francella, Brandoni y Oscar Martínez",
+     "link": "https://www.clarin.com/espectaculos/andrea-frigerio-alta-costura-marquesina-prestigio-debut-despedida-tato-locos-rituales-trabajo-francella-brandoni-oscar-martinez_0_Ib3VaH5BwA.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-16T09:00:47+00:00",
+     "copete": "A los 64 años, y después de décadas en las que el reconocimiento le era esquivo, ahora es una de las actrices más convocadas para el cine y el teatro. Coprotagonista de \"Desde el jardín\", en el Metropolitan, cuenta su recorrido por la…",
+     "id": "22c509ab4ae6"
+    },
+    {
+     "title": "Una cartelera exquisita: diez propuestas para chicos curiosos, sensibles y desprejuiciados",
+     "link": "https://www.lanacion.com.ar/cultura/una-cartelera-exquisita-diez-propuestas-para-chicos-curiosos-sensibles-y-desprejuiciados-nid16072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-16T09:00:00+00:00",
+     "copete": "“El Cascanueces”, “La Bella Durmiente” y “La Flauta Mágica”, cuentos líricos y un Ballet Folklórico imperdible, aggiornan los repertorios de música clásica y danza para conquistar a nuevos públicos",
+     "id": "b7ffed10c67d"
+    },
+    {
+     "title": "Albana Fuentes: su niñez “estructurada”, los “no” en los castings, el rol que la convirtió en promesa y su nuevo desafío",
+     "link": "https://www.lanacion.com.ar/espectaculos/teatro/albana-fuentes-su-ninez-estructurada-los-no-en-los-castings-el-rol-que-la-convirtio-en-promesa-y-su-nid16072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-16T09:00:00+00:00",
+     "copete": "A partir de este jueves, la actriz de 26 años protagonizará El Mago de Oz en el Teatro Nacional Cervantes",
+     "id": "d0823d895ea2"
+    },
     {
      "title": "Olivia Wilde reveló que un beso improvisado de Penélope Cruz la dejó completamente en blanco: “Perdí el control”",
      "link": "https://www.lanacion.com.ar/espectaculos/personajes/olivia-wilde-revelo-que-un-beso-improvisado-de-penelope-cruz-la-dejo-completamente-en-blanco-perdi-nid16072026/",
@@ -225,13 +241,6 @@
      "id": "a781e74e7df2"
     },
     {
-     "title": "Estrenos de cine: La Odisea",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/la-odisea-christopher-nolan-monta-un-espectaculo-a-gran-escala-para-revelar-la-oscuridad-detras-del-nid16072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-16T03:01:00+00:00",
-     "id": "e33374f0f695"
-    },
-    {
      "title": "Rating: cuánto midió el histórico triunfo de Argentina ante Inglaterra por las semifinales del Mundial",
      "link": "https://www.infobae.com/teleshow/2026/07/16/rating-cuanto-midio-el-historico-triunfo-de-argentina-ante-inglaterra-por-las-semifinales-del-mundial/",
      "source": "Teleshow (Infobae)",
@@ -254,30 +263,6 @@
      "published": "2026-07-16T02:09:58+00:00",
      "copete": "En una transmisión en vivo, el streamer relató cómo recibió la salida de su copañero antes del Mundial 2026 y por qué asumió el anuncio frente a su comunidad",
      "id": "bfe2cea897c8"
-    },
-    {
-     "title": "Fundó los Rolling Stones, conquistó el mundo y murió rodeado de misterio: la trágica noche en que nació el “Club de los 27”",
-     "link": "https://www.lanacion.com.ar/espectaculos/fundo-los-rolling-stones-conquisto-el-mundo-y-murio-rodeado-de-misterio-la-tragica-noche-en-que-nid15072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-16T00:51:41+00:00",
-     "copete": "Brian Jones deslumbró a Mick Jagger con su talento contracultural, pero fue despedido por “diferencias musicales”; la historia del músico que inauguró un mito maldito y que dejó un vacío sonoro que su banda jamás volvió a llenar",
-     "id": "f20227290f68"
-    },
-    {
-     "title": "Argentina está en la final del Mundial: de Wonderwall a los cantitos que acompañaron el triunfo ante Inglaterra",
-     "link": "https://www.clarin.com/espectaculos/wonderwall-oasis-cantitos-cancha-batalla-canciones-argentina-inglaterra_0_wTI3ot7z44.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-15T22:26:38+00:00",
-     "copete": "Joaquín Levinton convirtió el clásico de Oasis en una canción de aliento para la Selección antes de la semifinal. El libro ¡Canten, putos! explica cómo el rock cruza fronteras y vuelve a nacer en las tribunas argentinas.",
-     "id": "24d7b23f885e"
-    },
-    {
-     "title": "De candidato a finalista a eliminado de Gran Hermano: Manuel elogió a Sol, su archirrival, y dijo que \"Me pinchó tanto que terminé cayendo en su juego\"",
-     "link": "https://www.clarin.com/espectaculos/candidato-finalista-eliminado-gran-hermano-manuel-elogio-sol-archirrival-dijo-pincho-termine-cayendo-juego_0_PrHVzKFch6.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-15T16:53:43+00:00",
-     "copete": "A horas de la semifinal entre Argentina e Inglaterra, celebra en charla con Clarín haber recuperado la libertad justo a tiempo para alentar a la Selección con amigos. Además, explica por qué se alió con Andrea del Boca, habla de su vínculo…",
-     "id": "579294e00df1"
     }
    ]
   },
@@ -286,6 +271,20 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "María de Buenos Aires en Granada: la operita de Piazzolla renace en el Isabel la Católica",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUhYWGFZd0ZVeUpEaldraXF2LTBFMVVMbVZ4WXlLeF9qNm5HazhCZGUwRi1vYXFjYzRsX09EX1Q2cXhqbkViM1hxcEpOTVcydmVJcktqS0NfLThhWkFfR0tWQ3dZLUItS3ZicmxpeXJvVzY1Y0wyR0llR1NvQW9xN0xCNTdqdWFHWGtjLTRpa3lLY2d2c1plTTJuS0xmMzRK0gGmAUFVX3lxTFBCbGtKejIwWm9TV1dEMllYaWVUZll1bGo1Y0hXeVZ3X1phYmNMS0QtMG5FNkFhSkkyZUtRMnQwa0tFX01xSGpFZDR4Q1ZfV2d3d1hpb0xzWTJfYm9Oenh1SmxFdDY3QkhRdFlmcVRiSDV4VDJPVG9vY1VNVFdZS19vN2N3ZXJxdVBKVUwxQWJhcEk0dlc1U1p0bzVIMUxFZThuZWJhWGc?oc=5",
+     "source": "Granada Hoy",
+     "published": "2026-07-16T09:38:08+00:00",
+     "id": "bde16f6fb4a2"
+    },
+    {
+     "title": "Linda — Descubrir Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEd3ZnUwaXBNZUpfdll4YThHaVprRFE5MUgtNlEyTllvM09IUnAtaEx2dllrQ1VHbEliWldBUThPcmZvZHp6Y2kwbHdQQWNWdl9xU3hXUndpWS13UDAzZFAyTjFnaXlqVnVGX2lMM3pQSnBackxrNFBJM3lHS19NcGFac01hUQ?oc=5",
+     "source": "Buenos Aires Ciudad",
+     "published": "2026-07-16T05:19:35+00:00",
+     "id": "0056e8e2e4b0"
+    },
     {
      "title": "Guía Michelin 2026 Argentina: descubre qué restaurantes ganaron estrellas",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTQwb3NoNWlKbHNnRGg2X3UxWXo5TnBJZjV2LS1WQ2ZldUtRd3dnRUNpWm1RRWY4RlVISVR5T2NxU2w3UVFsS3pyQ244M0pQTXlMOEZMUWtOZmlBcWR6cW9fS09CcFVaZXB1azdjdmRfUXhOMEUtWVJKOXd1X3h6NkpKZjBTZWlrOUw0bGkyMEQ2VXBCcmJqOWdueXFPZlZuckJKNUNvNHE?oc=5",
@@ -315,25 +314,11 @@
      "id": "109a34b5b7cf"
     },
     {
-     "title": "Ya son 14 los restaurantes con estrellas Michelin en Argentina",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDBPd0d4SWk2amZFZEZCd0xIV2RMdkNwMnZqY252d0RkRDhRS24xc2hKODZkaVZDUTZOaW5fME5ELUF2NnJxZ0cyRjFpYXo2ZHZjY3JYeWpRVjZhQUpGY05VckxnYmdaSG03QlVINTNCZUN1STZzSEQwYTZ1X2k2Z2MxQy1yRUl1dGJGWHQzRDJkWjVkYXdwQU1yQUJMWjVLTzRvTQ?oc=5",
-     "source": "Comercio y Justicia",
-     "published": "2026-07-15T12:14:56+00:00",
-     "id": "369ccb5d08c0"
-    },
-    {
-     "title": "Mar del Plata recibirá por primera vez el ciclo infantil del Teatro Colón",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnk0cmlXN1BoV1JfeWluRkZUN1Etc1A4MjVJR2FkVVc2eFFaZl9BQVpKSHlhNzJaLXFldEVPUEpzcnM4MzlWNmRJdWQ5aTFhbWJ4cUswYnB3QVJZX09VSGdfRVdLNGczR0hoOE91eGVXSTdwc3pkVkIzQ3BiUGdYcjRMMUtjZWF6M3diZ0loeVdUNVNRWVV4Mll2XzNlazIzZkdEZjAwRER3SDhPRW9Ec3hPNnJHb3hBQi1zNk9TWEN0SEYxN2fSAcsBQVVfeXFMT1Z4bDdPNUZMcU9ZZ1M2MEpqQmNSN1loQ2JVWDNQQ0ZXM0lRRTVsbG5zaUx4NkdONjgzRUdjc3U1OGg0eTFhbjYxUGVzX0NsQjBnZ3BLUU1xYXFQS0hYY3RoTThsMzNCNEI1UkNNdXhfN0VOdzdnWjRhYzZmeW80cGFSOTNPaHN1Y2FOQzZwM3N1UUhJTXh3ZFZuaUdhZU5lNTdGdnd4amtzZ0Y0bHo0OGtFaUtpcVE3TUZndWhtM1ByRWs1T0xxa2N6eXc?oc=5",
-     "source": "Infobrisas",
-     "published": "2026-07-14T21:25:21+00:00",
-     "id": "0952a11cebf1"
-    },
-    {
-     "title": "Valentina regresa a Buenos Aires con un espectáculo que une música, circo y un poderoso mensaje de libertad",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1JzTUwweE9oTkFSRkFOWGRnLXlKaUJlWnd6SU4ybkRpOHlwM2puTF9iQmtBcTQxTTBQS0ZwU0hyTG91VXlyQlAyYXhfNWtJSnVoUGFuVnpXczhGSEg3eWZXbU1CZnJ5c21kVHFES2Jhc01FZU1fM1NsWXBCWmRvRVFJYk9rYU96OUdqWFNycXRQNk9BZC1fR2c4dTI1blJTZlk5MjdlbGZ0eWljck5uV1RYWEFSV1ZYTm1nMUp2aXQtNm5ENFptWU5jZVRJTGpmazljMGNmV1JSYm9a?oc=5",
-     "source": "Billboard Argentina",
-     "published": "2026-07-14T20:33:52+00:00",
-     "id": "234d5ec0ea5f"
+     "title": "Guía Michelin 2026: cuáles son los 14 restaurantes argentinos premiados con estrellas",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT01ab0otRkFKbm81aUJrXzdOc1hfYzNnZHJpUkNXSXNsUktpb2RZa0hDRTVDbnFTRzE0RWdzZnR1b3JJUnQ4QXMzTjJxRko3ZGpnSTh6Slp1QVBUREJXM0pZUmZvRjhYaE5heDRETDc0Q3NUSEpDUEpfOC1hZDNZbU9pNzNnVEEzQkdHMTR4ajhHYmRaM09JV0tYNlQxV3BGVTRuVndoUXhacFpDajdqWFpFZDlYNzFoVll1T0hEUHVTUdIB3AFBVV95cUxPdlZocno5MmNFMHZEdVV6eFZmcDc0Y1FkdkdXaWMzc09PaXJQWmJyeW8ySnFhYlVHcURxYU5Sc2YzX3BuN19FcUxwQVNFNlFsb05uMjlqMVJuS0NrUVhEWjVtVWNyNXhxV1JCZjJ0QXpSVjN4TC1kelFGTDlqcE5qb1FDSVdITmN5ZmxSVHZFbVpIN0pNQXcyMlNMTDB4T00yT1FMbGExMjd1WjVQN05zTUh2Y29VVlFkZWpRMDdmQ3VfR09rc1M2VU9XdVVRcjBGLWlkTWhiZS10MjI5?oc=5",
+     "source": "El Cronista",
+     "published": "2026-07-15T13:38:53+00:00",
+     "id": "07dd8d707161"
     },
     {
      "title": "Qué hacer esta semana & el finde en Buenos Aires",
@@ -364,84 +349,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Olivia Wilde reveló que un beso improvisado de Penélope Cruz la dejó completamente en blanco: “Perdí el control”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/olivia-wilde-revelo-que-un-beso-improvisado-de-penelope-cruz-la-dejo-completamente-en-blanco-perdi-nid16072026/",
-     "source": "La Nación",
-     "published": "2026-07-16T06:33:23+00:00",
-     "copete": "La actriz y directora contó cuál fue su sorpresiva reacción ante el inesperado gesto de su colega española en el set de La invitación",
-     "id": "275af79ad58a"
-    },
-    {
-     "title": "Juró que no volvería a casarse, pero el amor la sorprendió: la boda de ensueño de Paulina Porizkova",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/juro-que-no-volveria-a-casarse-pero-el-amor-la-sorprendio-la-boda-de-ensueno-de-paulina-porizkova-nid16072026/",
-     "source": "La Nación",
-     "published": "2026-07-16T06:33:05+00:00",
-     "copete": "La modelo de 61 años dio el sí en Italia junto a Jeff Greenstein, guionista de Friends y Will and Grace",
-     "id": "59392a9abbc3"
-    },
-    {
-     "title": "Fue a la costa a pasar la Navidad y cayó desde la terraza de una cabaña en Mar Azul: cobrará más de $37 millones de indemnización",
-     "link": "https://www.infobae.com/judiciales/2026/07/16/fue-a-la-costa-a-pasar-la-navidad-y-cayo-desde-la-terraza-de-una-cabana-en-mar-azul-cobrara-mas-de-37-millones-de-indemnizacion/",
-     "source": "Infobae",
-     "published": "2026-07-16T06:32:24+00:00",
-     "copete": "El accidente ocurrió en 2009, cuando un huésped de 48 años se apoyó en la baranda de un deck y cayó al vacío tras el colapso de la estructura. Los propietarios del lugar intentaron atribuir el hecho a la víctima, pero el tribunal los…",
-     "id": "d44243f9d62c"
-    },
-    {
      "title": "Mundial 2026, en vivo: la selección argentina le ganó a Inglaterra y se prepara para la final contra España",
      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-la-seleccion-argentina-le-gano-a-inglaterra-y-se-prepara-para-la-final-contra-nid16072026/",
      "source": "La Nación",
-     "published": "2026-07-16T06:31:43+00:00",
+     "published": "2026-07-16T10:17:57+00:00",
      "copete": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
      "id": "eb5db6bc8bbc"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y tensiones en el interior del Gobierno",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-tensiones-en-el-interior-del-gobierno-nid16072026/",
+     "title": "Efemérides del 16 de julio: ¿qué pasó un día como hoy?",
+     "link": "https://www.lanacion.com.ar/lifestyle/efemerides-del-16-de-julio-que-paso-un-dia-como-hoy-nid16072026/",
      "source": "La Nación",
-     "published": "2026-07-16T06:29:44+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "f06cd69e9502"
+     "published": "2026-07-16T10:17:15+00:00",
+     "copete": "Este miércoles se cumple un nuevo aniversario del Maracanazo, entre otros eventos y aniversarios asociados a la fecha",
+     "id": "9665102dc5ea"
     },
     {
-     "title": "Demandó al seguro por el incendio de su auto, pero la Justicia comprobó que el vehículo ya estaba destruido por un vuelco previo",
-     "link": "https://www.infobae.com/judiciales/2026/07/16/demando-al-seguro-por-el-incendio-de-su-auto-pero-la-justicia-comprobo-que-el-vehiculo-ya-estaba-destruido-por-un-vuelco-previo/",
+     "title": "¿Cuál es la temperatura promedio en Nueva York?",
+     "link": "https://www.infobae.com/noticias/2026/07/16/cual-es-la-temperatura-promedio-en-nueva-york/",
      "source": "Infobae",
-     "published": "2026-07-16T06:23:00+00:00",
-     "copete": "Los dueños de un Ford Focus reclamaron el cobro de la póliza por incendio. Sin embargo, el tribunal rechazó la demanda al determinar que el vehículo ya había quedado inutilizado horas antes en un accidente ocurrido en un camino rural, no…",
-     "id": "6abd3ffc9410"
+     "published": "2026-07-16T10:15:43+00:00",
+     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+     "id": "0ef12455bd26"
     },
     {
-     "title": "El juez Armella recibirá el viernes el peritaje contable sobre el patrimonio de Martín Insaurralde",
-     "link": "https://www.infobae.com/judiciales/2026/07/16/el-juez-armella-recibira-el-viernes-el-peritaje-contable-sobre-el-patrimonio-de-martin-insaurralde/",
+     "title": "Qué es la dieta Dukan, cómo funciona y cuáles son sus posibles riesgos para la salud",
+     "link": "https://www.infobae.com/salud/2026/07/16/que-es-la-dieta-dukan-como-funciona-y-cuales-son-sus-posibles-riesgos-para-la-salud/",
      "source": "Infobae",
-     "published": "2026-07-16T06:21:35+00:00",
-     "copete": "El informe será clave para determinar si existen elementos suficientes para citar a indagatoria al exintendente de Lomas de Zamora en la causa por presunto enriquecimiento ilícito",
-     "id": "7a093813fee5"
+     "published": "2026-07-16T10:13:42+00:00",
+     "copete": "Una especialista en nutrición de Cleveland Clinic explicó las características de este plan alimentario, su estructura por etapas y los aspectos que deben considerarse antes de incorporarlo a la rutina diaria",
+     "id": "21b9fe5afae5"
     },
     {
-     "title": "Un voraz incendio de pastizales puso en riesgo a varias viviendas de Paraná y desplegaron un gran operativo",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/16/un-voraz-incendio-de-pastizales-puso-en-riesgo-a-varias-viviendas-de-parana-y-desplegaron-un-gran-operativo/",
+     "title": "Cómo entretener a mis hijos durante las vacaciones de invierno en CABA",
+     "link": "https://www.lanacion.com.ar/sociedad/como-entretener-a-mis-hijos-durante-las-vacaciones-de-invierno-en-caba-nid15072026/",
+     "source": "La Nación",
+     "published": "2026-07-16T10:08:09+00:00",
+     "copete": "Museos interactivos, espectáculos, parques y actividades gratuitas forman parte de las opciones que ofrece la Ciudad de Buenos Aires para disfrutar en familia durante el receso escolar",
+     "id": "88c2160d421c"
+    },
+    {
+     "title": "Mundial 2026, en VIVO: últimas noticias de hoy, 16 de julio, resultados, definiciones y el minuto a minuto camino hacia la gran final",
+     "link": "https://www.infobae.com/deportes/2026/07/16/mundial-2026-en-vivo-ultimas-noticias-de-hoy-16-de-julio-resultados-definiciones-y-el-minuto-a-minuto-camino-hacia-la-gran-final/",
      "source": "Infobae",
-     "published": "2026-07-16T06:20:30+00:00",
-     "copete": "Luego de que se llevara a cabo un operativo en conjunto, las llamas lograron ser contenidas. Además, las autoridades pidieron no tirar elementos encendidos en zonas de vegetación seca",
-     "id": "ac9792d87e40"
+     "published": "2026-07-16T10:08:04+00:00",
+     "copete": "Argentina venció 2-1 a Inglaterra en un partido épico y estará presente en la definición del próximo domingo frente a España para definir al campeón del mundo",
+     "id": "84ddf5a5340c"
     },
     {
-     "title": "Con la camiseta de la Selección y temperaturas bajo cero: así celebró un docente en la Antártida la victoria ante Inglaterra",
-     "link": "https://www.clarin.com/deportes/camiseta-seleccion-temperaturas-cero-celebro-docente-en-antartida-victoria-inglaterra_0_HiAOz8ITax.html",
+     "title": "5 efectos contundentes que tiene la miel en el cuerpo y quiénes no deberían consumirla",
+     "link": "https://www.lanacion.com.ar/salud/nutricion/5-efectos-contundentes-que-tiene-la-miel-en-el-cuerpo-y-quienes-no-deberian-consumirla-nid16072026/",
+     "source": "La Nación",
+     "published": "2026-07-16T10:06:00+00:00",
+     "copete": "Se trata de un alimento natural con propiedades benéficas, utilizado desde hace miles de años y apreciado por su sabor y aporte de nutrientes",
+     "id": "264fc7552b79"
+    },
+    {
+     "title": "Antes de Jason existió una madre rota: así será Crystal Lake",
+     "link": "https://www.infobae.com/que-puedo-ver/2026/07/16/antes-de-jason-existio-una-madre-rota-asi-sera-crystal-lake/",
+     "source": "Infobae",
+     "published": "2026-07-16T10:00:00+00:00",
+     "id": "0764c5246fd1"
+    },
+    {
+     "title": "Una vida ligada a una raza francesa y a mostrar su genética en Palermo",
+     "link": "https://www.clarin.com/rural/vida-ligada-raza-francesa-mostrar-genetica-palermo_0_E0H7YUffag.html",
      "source": "Clarín",
-     "published": "2026-07-16T06:09:23+00:00",
-     "copete": "Al maestro de la Escuela Provincial 34 de la Base Esperanza poco le importó el viento y la nieve. Bandera en mano, desafió las condiciones climáticas adversas y festejó el triunfo por 2-1 que le dio a Argentina la clasificación a la final…",
-     "id": "6b1e6a8fd1e2"
+     "published": "2026-07-16T09:12:45+00:00",
+     "copete": "Juan Pablo Latanti es presidente de la Asociación Argentina de Criadores de Limousin y referente de una cabaña histórica de la raza. Su vaca Tini Tini y el ternero De Paul fueron los primeros animales en ingresar a la 138° edición de la…",
+     "id": "dea46889474e"
     },
     {
-     "title": "El festejo en el Obelisco se empañó con incidentes sobre el final: hubo corridas, robo de celulares y volaron piedras y botellas",
-     "link": "https://www.clarin.com/ciudades/festejo-obelisco-empano-incidentes-final-corridas-robo-celulares-volaron-piedras-botellas_0_gZkYKaHar9.html",
+     "title": "Día de la Virgen del Carmen: por qué se celebra el 16 de julio y cuál es la oración para rezar hoy",
+     "link": "https://www.clarin.com/internacional/dia-virgen-carmen-celebra-16-julio-oracion-rezar-hoy_0_SNSVu2PSdx.html",
      "source": "Clarín",
-     "published": "2026-07-16T04:21:56+00:00",
-     "copete": "Hubo enfrentamientos de grupos que participaban de la celebración y ataques contra agentes policiales que custodiaban la zona. Ocurrió alrededor de la medianoche. En principio, la situación fue controlada y no dejó heridos graves. En…",
-     "id": "dc8b2b63e95b"
+     "published": "2026-07-16T09:10:45+00:00",
+     "copete": "Patrona de marineros, pescadores y conductores, la Virgen del Carmen es homenajeada con procesiones, misas y oraciones en distintos países. Es una de las celebraciones religiosas más importantes del calendario católico y reúne a fieles de…",
+     "id": "3c1142326cf8"
     }
    ]
   },
@@ -454,7 +438,7 @@
      "title": "¡España finalista! 16 años después regresa a la final de la Copa del Mundo tras aplastar 2-0 a Francia",
      "link": "https://www.bbc.co.uk/mundo/live/cg747jeeg00t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-16T06:37:27.286318+00:00",
+     "published": "2026-07-16T10:22:39.667513+00:00",
      "copete": "Con goles de Oyarzabal y Porro, España clasifica a la final del Mundial que se disputa el domingo. Su rival se define este miércoles en el partido entre Argentina e Inglaterra.",
      "id": "424549611978"
     },
@@ -462,17 +446,33 @@
      "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-16T06:37:27.285945+00:00",
+     "published": "2026-07-16T10:22:39.667245+00:00",
      "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
      "id": "3ccfbcb14bcb"
     },
     {
-     "title": "¿Pueden las rutas alternativas al estrecho de Ormuz mantener el flujo de petróleo y gas del Golfo?",
-     "link": "https://www.bbc.com/mundo/articles/c0rdwgk4lqzo?at_medium=RSS&at_campaign=rss",
+     "title": "Argentina se enfrenta a una posible multa de la FIFA por la pancarta de las Falklands/Malvinas en su victoria de semifinales",
+     "link": "https://www.bbc.com/mundo/articles/cx27lme7ve7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-16T03:59:52+00:00",
-     "copete": "Si bien existen alternativas, expertos afirman que ninguna puede reemplazar esta ruta estratégica, por la que transita aproximadamente una cuarta parte del comercio mundial de petróleo por vía marítima.",
-     "id": "f6b149172211"
+     "published": "2026-07-16T09:55:22+00:00",
+     "copete": "Las Islas Falklands/Malvinas, un territorio británico de ultramar situado en el suroeste del océano Atlántico, siguen siendo objeto de una disputa de soberanía entre Argentina y Reino Unido.",
+     "id": "8ff42395b481"
+    },
+    {
+     "title": "El extraordinario hallazgo de azúcar en el espacio y qué pistas revela sobre el origen de la vida y el universo",
+     "link": "https://www.bbc.com/mundo/articles/c2dyd9p4ry8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-16T09:48:25+00:00",
+     "copete": "Según un estudio publicado esta semana en la revista Nature Astronomy, el hallazgo ofrece pistas que pueden ser cruciales para nuestra comprensión sobre los orígenes de estas moléculas en la Tierra y sobre el surgimiento de la vida en…",
+     "id": "5d6518c4d2aa"
+    },
+    {
+     "title": "La ONU teme que más de 500 personas hayan muerto en dos posibles naufragios frente a Myanmar",
+     "link": "https://elpais.com/internacional/2026-07-16/la-onu-teme-que-mas-de-500-personas-hayan-muerto-en-dos-posibles-naufragios-frente-a-myanmar.html",
+     "source": "El País Internacional",
+     "published": "2026-07-16T08:26:47+00:00",
+     "copete": "En las embarcaciones viajaban principalmente rohinyás, que navegaban por una de las rutas marítimas más mortíferas del mundo",
+     "id": "b798a87d4104"
     },
     {
      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
@@ -497,22 +497,6 @@
      "published": "2026-07-16T03:40:00+00:00",
      "copete": "El informador, autoexiliado en España desde hace dos décadas, denuncia malos tratos después de permanecer tres días bajo arresto al regresar a su país",
      "id": "f5cb36c04273"
-    },
-    {
-     "title": "Diez años del golpe fallido en Turquía: el trauma sobre el que Erdogan ha edificado su hiperpresidencialismo",
-     "link": "https://elpais.com/internacional/2026-07-16/diez-anos-del-golpe-fallido-en-turquia-el-trauma-sobre-el-que-erdogan-ha-edificado-su-hiperpresidencialismo.html",
-     "source": "El País Internacional",
-     "published": "2026-07-16T03:40:00+00:00",
-     "copete": "Más de 250 civiles y funcionarios leales murieron luchando contra los golpistas en lo que la narrativa oficial ha convertido en la “Epopeya del 15 de Julio”",
-     "id": "3cdf29f73fbb"
-    },
-    {
-     "title": "Argentina se enfrenta a una posible multa de la FIFA por la pancarta de las Falklands/Malvinas en su victoria de semifinales",
-     "link": "https://www.bbc.com/mundo/articles/cx27lme7ve7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-16T00:04:49+00:00",
-     "copete": "Las Islas Falklands/Malvinas, un territorio británico de ultramar situado en el suroeste del océano Atlántico, siguen siendo objeto de una disputa de soberanía entre Argentina y Reino Unido.",
-     "id": "8ff42395b481"
     }
    ]
   }
@@ -526,6 +510,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
