@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T17:43:22.118797+00:00",
+ "generated_at": "2026-07-16T19:37:18.981900+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -21,6 +21,20 @@
      "published": "2026-07-20T00:00:00+00:00",
      "copete": "Alcazer V et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "8b8a8024b939"
+    },
+    {
+     "title": "Personalizing Second-Line Treatment Strategies in HR-Positive, HER2-Negative Advanced Breast Cancer",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbDNvRVRCbV9vaW15TkhOYndhcE5IMkltQmlVNWlFWWg3am51ZDdJWXVTQ0t3ZjhHN291NzdZNkQ4Mk41ZEM1LTIyWXFpY05FdzE5aW0xNFc4Skp0SVZZbjd1aEdaLXRKMlNpR3ozNzZXRDVyRTYxRDA3ckM3UnB0VXhKNmxlVFBDbU5rUlBqOGliUVZkQzdwUDg2MXF2Wk0wMVNKX2I4VEIwM1JjenJDa044VHV2VWctMHdKZV9oNW1JSVcwVlE?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-16T16:44:58+00:00",
+     "id": "035a1357fb77"
+    },
+    {
+     "title": "Current Treatment Landscape in HR-Positive, HER2-Negative Advanced Breast Cancer",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEhibUhpWG9rcWNJb2F0Sk95bmI4dFgwYlE3c0lIV0Y3bDlKcENXMTRfZ0Q5V1VvN0JwX3V3WGF6WjAwMktUY0I5STEweUZtVlN0dzJRODY5NUUwUGNkd09KY3FlaHNWVkxMb2c1ZWpWM1BhbkdPOHdLMXJsaUxrc3VfdUtHWko2cTN3U2dZZDM2QXlhYmM2QzRwQXhYQ0xnSi1hbDdrZzV5b20x?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-16T16:44:57+00:00",
+     "id": "b122ade7fb1d"
     },
     {
      "title": "International Intel: A Glance at the Top Global Breast Cancer News From April-June 2026",
@@ -51,20 +65,6 @@
      "id": "b000a4b3ace3"
     },
     {
-     "title": "Neoadjuvant Cemiplimab Elicits Responses and Surgical Benefit in HHI-Naive BCC of the Head and Neck",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTJ5aE51STBVNV9aVHJ4MFVYVmpyaVhCRXNKNF94ZEMwWkQ2WVBneGRSelVTMkxac0Vjd2ZfQWt0djNyRVM4SmVxNVhkUm95aFlod0I0OVlzOVVaaTc1d3VsQXBralRDck5DS3FzZ1JPV0xiN3JJMF82U3kxem9oZkJTOWpSc2xydTlJNVlkcXFaUHQzQTAzbkJCUEFvNjIySUQ0US1zMVVPNVVNbU9RemV6X1BOc1BNME1xTUVzLVlGanpKVXJB?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-16T14:04:14+00:00",
-     "id": "3f29fa7186dd"
-    },
-    {
-     "title": "Combination Tolerability and Safety Considerations",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2lzWTI5ajREbFF4YW1KUkFXZFNPWGpPUkxPZmpUUHBkMmNldHBKR0hqemI0blVWLWczOFZSS090RFk1R19NVG9CSVVZemZ6Q3doZGV4Zll5T2trUnFLVWtjSklON3l6NFdER042TjZuenZBN3dwVE4wVXcybFlHME45eHFHUQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-16T12:32:34+00:00",
-     "id": "aeec0b0a6c88"
-    },
-    {
      "title": "Smoking in Patients With Cancer: Guidance for Delivering Effective Tobacco Treatment in Cancer Care",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42456082/",
      "source": "Journal of Clinical Oncology",
@@ -79,22 +79,6 @@
      "published": "2026-07-14T00:00:00+00:00",
      "copete": "Hicks-Courant K et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "609a0f0c2511"
-    },
-    {
-     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-09T00:00:00+00:00",
-     "copete": "Yue D et al. · The New England journal of medicine",
-     "id": "8c859eab0c01"
-    },
-    {
-     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Choueiri TK et al. · The New England journal of medicine",
-     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -104,24 +88,54 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Mocasines de verano: de los trenzados a los modelos sin talón que se llevan en 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EX19jakw4U1NTLVJQVEpUSzh4S20xSUZwbG40MEROdkR0cmJ2anlpZFJYb3Bld0xuZXM1TVFWcG9vdW9Gd0N0WFJsaFZCUk1EMGdYX2dIR3hkRmFFcmZPMDV4c0pKMV9iRjN2Z2FPZEFZMlpOVFVr?oc=5",
+     "title": "¿Team dorado o plateado? Zendaya nos demuestra que puedes ser ambas y triunfar esta temporada",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjBEdTFUOFEwa0VqN0lkQTg2emdSNThhZWhNVFdEc1lTNlh2YV8tNnRYc0JPdEZLSVNkVm1sWHpzdk1ESE8zR2s2Y0dGbFdlR0xDaWJGSlN3Tlp2UlVkTndVekZQQWpmVm1ZVUVDR1Vndy1SaFVJalRtNnA0Nl9ncTMwemxQWmRTRVpZU2xhdkI?oc=5",
      "source": "vogue.mx",
-     "published": "2026-07-16T17:35:41+00:00",
-     "id": "ce49509f3911"
+     "published": "2026-07-16T19:29:08+00:00",
+     "id": "13e3cdfcd761"
     },
     {
-     "title": "Sandalias con hebillas de la abuela, la moda ortopédica que SÍ es elegante en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZsQl9HTXMxdEZOTHpEZmhtWk5SNWd4WVpkQkdFOTl0bENMZ3FpMG5hU04xZWhLbmc3enIxdGF5SkdQdEk0Wmd0OHFCWUlyR1FROWd6bTZPMVphZmVCRHQ1U3A5VUo3ZTlfNzlCbHYya3I0Rzg2Yk13eVN6ZmV0Q25DeHlYdw?oc=5",
+     "title": "Luz roja: ¿Por qué está en todas las rutinas de belleza? ¿Cuáles son los riesgos y beneficios?",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qc29ET0lNMTNrckRGb0JYenoteWczbFhnR28ydXY0OE9iV21teUlDeXg4djVzd3JpRzd6bmNDUnFSWFVacWJ4LUhTVVFldWl0TFZ5cFR5azBMZFlheTBsUlZsNEhUdUZIbEE?oc=5",
      "source": "vogue.mx",
-     "published": "2026-07-16T17:07:55+00:00",
-     "id": "5ba383225dcc"
+     "published": "2026-07-16T19:19:01+00:00",
+     "id": "bc0ee8078b6e"
     },
     {
-     "title": "Lista de espera en Zara: 5 conjuntos monocolor y estampados que marcan una nueva tendencia minimal elegante",
+     "title": "Las 5 mejores sandalias cómodas para caminar en verano 2026",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUtPN2ZuUnZzaG0yMU1Ia21OeFM3c0tBN3FMY0xYU3R1OWxBODZJYmVwRGdEbU9yOWdsOWl3TENaN1BfX1F6aV9UVUY1c2JQTllZN0E3U2p2d0NJczVBcjN5WDcxZ2lLQXM4NU5QME9TbEtxOFFDODZqbjhQbUVfRg?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-07-16T18:58:29+00:00",
+     "id": "b468d77ee73c"
+    },
+    {
+     "title": "Hot Child in the City: How New Yorkers Dressed for a Heat Wave",
+     "link": "https://www.vogue.com/article/heatwave-street-style-nyc",
+     "source": "Vogue",
+     "published": "2026-07-16T18:47:25+00:00",
+     "copete": "Street style on the hottest day of the year in New York City",
+     "id": "ae228177e006"
+    },
+    {
+     "title": "What No One Tells You About Meeting Your Partner’s Kids",
+     "link": "https://www.vogue.com/article/what-no-one-tells-you-about-meeting-your-partners-kids",
+     "source": "Vogue",
+     "published": "2026-07-16T18:20:07+00:00",
+     "copete": "Before I ever met my boyfriend’s kid, I knew I wasn’t owed instant affection. Children are allowed to feel unsure about you. They are allowed to miss the family they had. They are allowed to wonder what your presence means.",
+     "id": "20d3976d8596"
+    },
+    {
+     "title": "Las 5 tendencias de verano que anticipan los street style de Paris Fashion Week",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXRoSXZ1U2FPQmtNVk9YdW4zNGpqaTFHd0VnWGZ2VkdxQk9zbXdGcGpmMmV3ZnZ6dzRjVHdwS2hmdzZvSktvV0o1MXk1UGJLNGdpNkwtTWhLVXFDVmpGUHFfOGh6bVF5Wl9meXM3V0pIbE1uZDBrZ2RJSXQxOHVTRlJYRE8xN0tjYXh2WU5KMUY2MWJNLXRxamVtbjcybk1rVl9oQUhjd3FGalY3bDRjd1I2MlI2UnRYTU9sYzNFeXVEdw?oc=5",
+     "source": "Revista OHLALÁ!",
+     "published": "2026-07-16T17:34:31+00:00",
+     "id": "f6df3c65a63d"
+    },
+    {
+     "title": "Lista de espera en Zara: 5 conjuntos que marcan una nueva tendencia minimal elegante",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWxsM0ZXX01NZnhJNlVCNm1YOTJDWkJuTGpwS0V0aUQ1cFljZ0ZWZXUySzh5QzFYcUZVTnhuYTd3SmJLMjFrRDZTVUlldGJPWjFZNmh4cDk1QmdzRnJIc0V6OHRSX3gyRkFQSnJBc2RRMlJCakNCTEpvaEFZbmJjcVYwUUhHN3BncUo3SFNxMG5WYlVGYTJXR25yODBHMXlhMmVxQklRWTkyUQ?oc=5",
      "source": "ELLE",
-     "published": "2026-07-16T17:07:38+00:00",
+     "published": "2026-07-16T17:10:28+00:00",
      "id": "b2951988c2ed"
     },
     {
@@ -131,13 +145,6 @@
      "published": "2026-07-16T16:33:45+00:00",
      "copete": "The retro look fits right in with Amal Clooney’s recent sartorial direction, combining her recent, well-documented love of fringe with her passion for vintage.",
      "id": "dea2c09f137c"
-    },
-    {
-     "title": "Los zapatos españoles color café más elegantes para llevar con jeans, faldas y vestidos en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaldiSkd0dHdxM1ZQU3JXcDJ1bVEwb20tMV9mOGZCV1hNd1NCV2F5VW96ODRKUnVKdHBhaEJteXJMMHU1YXloVmJTLU9IbVZPM18wS2xvX1FIUHNZVXVMb1Awdkw0Z2I5U21oQkh5dUdMVnh4MTFNRkpRRXpEeFpVNTc1VDZ3bWdjRXVsNGRhN3ktT1VBZFk1My1haDQ3YjJaUEJjRnJpaVBLZ21xaFByM2p2ZHFiM3N3RjlLdDNVMS0?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-07-16T16:06:55+00:00",
-     "id": "fc07e603168f"
     },
     {
      "title": "Hailey Bieber on Creating Her Dream Jeans for Gap",
@@ -153,29 +160,6 @@
      "source": "Revista CLARA",
      "published": "2026-07-16T16:00:00+00:00",
      "id": "ecd325a01fc0"
-    },
-    {
-     "title": "Discover the Best Dresses for Every July Occasion",
-     "link": "https://www.vogue.com/article/dresses",
-     "source": "Vogue",
-     "published": "2026-07-16T15:02:19+00:00",
-     "copete": "Explore the best dresses of the month, from silk maxi dresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
-     "id": "b8698d0de05a"
-    },
-    {
-     "title": "How to Tie a Scarf Like a Belt",
-     "link": "https://www.vogue.com/article/scarf-belt-styling",
-     "source": "Vogue",
-     "published": "2026-07-16T14:05:46+00:00",
-     "copete": "Printed, silk, fringe—the best scarves of the season do more than embellish your neck. Here, discover 6 ways to tie your scarf like a belt.",
-     "id": "6f67ec40c304"
-    },
-    {
-     "title": "Elsa Pataky y el look que nos adelanta las tendencias que triunfarán en el otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOC1EZjdwczFiZXJzS29FM1lqbnJuZDJicXIxWV93Nko4bXBfSTdHWWVXXzZTN0pqR3A4WEFBcGQ1YXRnYzVGRWpSWUFvdVdBZTl4c3MxSUlibHQtUWxTSWZ3cXoyaXpZOHlsZEhkZTBuc1NmdlAtdlRhekFMU3dxMXMxc3d3STJYNk85MHQ0emswTnJJbWRjQ2VaNGhubXVDRGJsd09UNlNQZVZqOWNDTXhJRGlKeXdzNGZF?oc=5",
-     "source": "ELLE",
-     "published": "2026-07-16T14:02:30+00:00",
-     "id": "6ea8669c9099"
     }
    ]
   },
@@ -184,6 +168,46 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Revelan la causa de muerte de Sam Neill, el protagonista de Jurassic Park",
+     "link": "https://www.clarin.com/espectaculos/revelan-causa-muerte-sam-neill-protagonista-jurassic-park_0_ZEVEEXU2k4.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-16T18:43:02+00:00",
+     "copete": "El actor falleció el lunes en Sídney, Australia.",
+     "id": "c11c749627a4"
+    },
+    {
+     "title": "Un festejo mundialista con susto en Gran Hermano: la reacción de los participantes tras el triunfo argentino",
+     "link": "https://www.infobae.com/teleshow/2026/07/16/un-festejo-mundialista-con-susto-en-gran-hermano-la-reaccion-de-los-participantes-tras-el-triunfo-argentino/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-16T18:39:34+00:00",
+     "copete": "Los integrantes del reality celebraron con tanta intensidad el empate y el triunfo argentino ante Inglaterra que vivieron una inesperada situación frente a las cámaras",
+     "id": "0bb7184c356d"
+    },
+    {
+     "title": "La emoción de Carolina Baldini tras la actuación de Giuliano Simeone ante inglaterra: “El corazón en cada pelota”",
+     "link": "https://www.infobae.com/teleshow/2026/07/16/la-emocion-de-carolina-baldini-tras-la-actuacion-de-giuliano-simeone-ante-inglaterra-el-corazon-en-cada-pelota/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-16T18:13:20+00:00",
+     "copete": "La madre del futbolista no dudó en expresar sus sentimientos en un momento clave del Mundial",
+     "id": "afa90d31fb13"
+    },
+    {
+     "title": "El crecimiento abismal de Juli Poggio: a tres años de salir tercera en GH, ahora es la más buscada en TV, streaming y publicidad",
+     "link": "https://www.clarin.com/espectaculos/crecimiento-abismal-juli-poggio-anos-salir-tercera-gh-ahora-buscada-tv-streaming-publicidad_0_qh8S2tDPbL.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-16T18:05:29+00:00",
+     "copete": "Aunque no ganó la edición 2022/23 de Gran Hermano, la actriz y modelo convirtió la exposición que le dio el reality en una carrera que no deja de sumar proyectos. Teatro, campañas para grandes marcas, tres programas de streaming en tres…",
+     "id": "c5f72d08bea3"
+    },
+    {
+     "title": "José Araujo: de tener una revelación a los 9 años cuando escuchó por primera vez a Bach a tocar el ciclo completo de las Suites para cello",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/jose-araujo-de-tener-una-revelacion-a-los-9-anos-cuando-escucho-por-primera-vez-a-bach-a-tocar-el-nid16072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-16T18:00:00+00:00",
+     "copete": "Este viernes y el 31 de este mes, el solista principal de la Orquesta Filarmónica de Buenos Aires se presentará en el Teatro Colón",
+     "id": "e9a6e997ffe7"
+    },
     {
      "title": "Camila Morrone se emocionó hasta las lágrimas por el triunfo de Argentina contra Inglaterra: “No lo puedo creer”",
      "link": "https://www.lanacion.com.ar/espectaculos/personajes/camila-morrone-se-emociono-hasta-las-lagrimas-por-el-triunfo-de-argentina-contra-inglaterra-no-lo-nid16072026/",
@@ -239,46 +263,6 @@
      "published": "2026-07-16T15:50:53+00:00",
      "copete": "Pato y Guido Sardelli vieron el choque entre Argentina e Inglaterra cerca del exfutbolista británico y su familia. Las fotos",
      "id": "88aeb357ae59"
-    },
-    {
-     "title": "La caída de Georgina Barbarossa durante el alocado festejo en su programa del triunfo contra Inglaterra",
-     "link": "https://www.infobae.com/teleshow/2026/07/16/la-caida-de-georgina-barbarossa-durante-el-alocado-festejo-en-su-programa-del-triunfo-contra-inglaterra/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-16T15:25:34+00:00",
-     "copete": "La conductora celebró el pase a la final en los pasillos del canal y protagonizó el blooper del día junto a sus compañeros",
-     "id": "ad6cba251c5a"
-    },
-    {
-     "title": "Marcelo Vaccaro, el bajista que hizo sonar las canciones de los grandes del rock y, a los 58 años, se animó a cantar las propias",
-     "link": "https://www.clarin.com/espectaculos/marcelo-vaccaro-bajista-hizo-sonar-canciones-grandes-rock-58-anos-animo-cantar-propias_0_2fWar2QtWh.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-16T15:25:03+00:00",
-     "copete": "Durante cuatro décadas fue el músico detrás de grandes artistas: Fito Páez, Luis \"El flaco\" Spinetta, Axel, Fabiana Cantilo y Amaia Montero, Alejandro Lerner, entre otros. Mientras encara una nueva etapa como solista, repasa una vida…",
-     "id": "c6a8737cd9c9"
-    },
-    {
-     "title": "\"Hermosa mañana, ¿verdad?\": Guillermo Francella revela cómo nació su histórica frase y cómo vivió el triunfo de Argentina ante Inglaterra en el Mundial 2026",
-     "link": "https://www.clarin.com/espectaculos/hermosa-manana-verdad-guillermo-francella-revela-nacio-historica-frase-vivio-triunfo-argentina-inglaterra-mundial-2026_0_s7usOtKChd.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-16T15:05:45+00:00",
-     "copete": "Un día después de la remontada histórica de la Scaloneta contra los ingleses, el actor cuenta su emoción y todo lo que lloró con el triunfo y con las historias de vida de los jugadores. Cómo su frase, con su video, se convirtió en un…",
-     "id": "a742c9a81c47"
-    },
-    {
-     "title": "Entre lágrimas, cánticos y saltos, Camila Morrone festejó la victoria de la Selección Argentina: “¡No lo puedo creer!\"",
-     "link": "https://www.infobae.com/teleshow/2026/07/16/entre-lagrimas-canticos-y-saltos-camila-morrone-festejo-la-victoria-de-la-seleccion-argentina-no-lo-puedo-creer/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-16T14:48:54+00:00",
-     "copete": "En medio del eufórico triunfo en la semifinal contra Inglaterra, la actriz argentina-estadounidense, expareja de Leonardo Di Caprio, compartió los momentos de alegría que vivió desde la ciudad de Nueva York",
-     "id": "136e8104db13"
-    },
-    {
-     "title": "Tutankamón en vacaciones de invierno: hasta cuándo se puede visitar y cuánto cuestan las entradas",
-     "link": "https://www.lanacion.com.ar/que-sale/tutankamon-en-vacaciones-de-invierno-hasta-cuando-se-puede-visitar-y-cuanto-cuestan-las-entradas-nid14072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-16T14:43:21+00:00",
-     "copete": "La exhibición podrá visitarse hasta el 30 de julio en El Cubo – Complejo Al Río, ubicado en Vicente López; propone un viaje por la historia, los rituales y los enigmas del Antiguo Egipto mediante recreaciones, salas temáticas y contenido…",
-     "id": "50c0751a1ba0"
     }
    ]
   },
@@ -287,6 +271,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Guía Michelin 2026: cuáles son los nuevos restaurantes con estrella en la Argentina",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3hJSGJGVGlxUWNYMWJZTENLS3h2QTNwTWRMUF9xblBTZ2ZvaENQYTBxaHhMYVprT1RycDRNU1lnOFFsNERhaHlNVHBDZGdfMzBNQVNwUEItWGwtMEt6bnpmNWI1YVVaOXZzWlptOUktU1FMWmdwT1VtRTFjMktCRnJtMUFfV2JnM3k2OHJWMDIwQVZEb2JGV001NVExdUVfM2l4a3Z3Z3ZFdjNwMWd1bTlBaWxCY0U?oc=5",
+     "source": "La Opinión | Pergamino",
+     "published": "2026-07-16T18:55:00+00:00",
+     "id": "2c9a2d0f1b79"
+    },
     {
      "title": "Murió Horacio Sanguinetti, primer secretario de Educación porteño y quien tuvo a su cargo el Teatro Colón y el Colegio Nacional Buenos Aires - La Señal FM",
      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTHpmWmg5MDBuWjRZek83Ui1iX2JuTmpxN3VpRWRoSzkzY056RjJVdEkybXdueHA5a2xzUjJCMjZGbEV2Ri1Dd0V5STUwcmE3amdjbFpULVhZZlJObVVud25SU2t2RlZHbkR4cFV3YXpjVUk3RHpkTWxVeXdxMG5WQklxLVF0VTVSQmZkYTQ1S183QlpCQzF6OXliVlN3YVR5cFptdWFfMzhRNDIyZFdHOE1HNG5KVDRKamlmQjlqYm1tVy0tWll2RC1pVG1jYlBWTUNVMzFadDNWaTU0cllNM3A0VWxLTFJSbW5XLW1hQ0xvZlpUYzB5UUFEdE9WR29peXV2Y093N1ZLSGpOY2c?oc=5",
@@ -337,13 +328,6 @@
      "id": "109a34b5b7cf"
     },
     {
-     "title": "Guía Michelin 2026: cuáles son los 14 restaurantes argentinos premiados con estrellas",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT01ab0otRkFKbm81aUJrXzdOc1hfYzNnZHJpUkNXSXNsUktpb2RZa0hDRTVDbnFTRzE0RWdzZnR1b3JJUnQ4QXMzTjJxRko3ZGpnSTh6Slp1QVBUREJXM0pZUmZvRjhYaE5heDRETDc0Q3NUSEpDUEpfOC1hZDNZbU9pNzNnVEEzQkdHMTR4ajhHYmRaM09JV0tYNlQxV3BGVTRuVndoUXhacFpDajdqWFpFZDlYNzFoVll1T0hEUHVTUdIB3AFBVV95cUxPdlZocno5MmNFMHZEdVV6eFZmcDc0Y1FkdkdXaWMzc09PaXJQWmJyeW8ySnFhYlVHcURxYU5Sc2YzX3BuN19FcUxwQVNFNlFsb05uMjlqMVJuS0NrUVhEWjVtVWNyNXhxV1JCZjJ0QXpSVjN4TC1kelFGTDlqcE5qb1FDSVdITmN5ZmxSVHZFbVpIN0pNQXcyMlNMTDB4T00yT1FMbGExMjd1WjVQN05zTUh2Y29VVlFkZWpRMDdmQ3VfR09rc1M2VU9XdVVRcjBGLWlkTWhiZS10MjI5?oc=5",
-     "source": "El Cronista",
-     "published": "2026-07-15T13:38:53+00:00",
-     "id": "07dd8d707161"
-    },
-    {
      "title": "Qué hacer esta semana & el finde en Buenos Aires",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Lb1JpWlRtQndCZTA2eWNKX1Rja3d3MXZYUFdLUFZRZFV4a21EZURKN1RjdlNBMXFoRkhyLWJvSFFQOVlEcFQzSnlWa195d0wxV2ZtTHZVMjF2SFBfYVh3QWtEQQ?oc=5",
      "source": "Time Out Worldwide",
@@ -365,84 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Enzo Fernández defendió a Valu Cervantes de las críticas que recibió antes del partido contra Inglaterra",
-     "link": "https://www.lanacion.com.ar/deportes/enzo-fernandez-defendio-a-valu-cervantes-de-las-criticas-que-recibio-antes-del-partido-contra-nid16072026/",
-     "source": "La Nación",
-     "published": "2026-07-16T17:41:01+00:00",
-     "copete": "En la previa, la influencer fue cuestionada por revelar que no dejaba que su hijo saltara en el popular cántico sobre los ingleses; tras la victoria y el pase a la final, el volante habló del tema",
-     "id": "6cd4fed24e73"
-    },
-    {
-     "title": "A la hora señalada, apareció el fútbol del campeón del mundo",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/a-la-hora-senalada-aparecio-el-futbol-del-campeon-del-mundo-nid16072026/",
-     "source": "La Nación",
-     "published": "2026-07-16T17:40:30+00:00",
-     "copete": "Insaciable en sus deseos competitivos, la selección argentina no deja de maravillar: el domingo Messi jugará su último partido en Copas del Mundo",
-     "id": "e43e968619f2"
-    },
-    {
-     "title": "Qué decía el machete en la botella del arquero de Inglaterra",
-     "link": "https://www.lanacion.com.ar/deportes/que-decia-el-machete-en-la-botella-del-arquero-de-inglaterra-nid16072026/",
-     "source": "La Nación",
-     "published": "2026-07-16T17:39:49+00:00",
-     "copete": "Jordan Pickford estudió los movimientos y ejecuciones de los jugadores argentinos en caso de que el encuentro de semifinales del Mundial se definiese mediante los penales",
-     "id": "3a889a38a0c7"
-    },
-    {
-     "title": "Juicio de los Cuadernos: ratifican retiros en efectivo por más de dos millones de dólares en el grupo Roggio entre 2008 y 2009",
-     "link": "https://www.infobae.com/judiciales/2026/07/16/juicio-por-la-causa-de-los-cuadernos-en-vivo-las-ultimas-noticias-de-hoy-16-de-julio-minuto-a-minuto/",
+     "title": "“Mediocre y resentido”: el ministro de Economía argentino cruzó a un conductor inglés que lanzó una dura frase sobre las Malvinas",
+     "link": "https://www.infobae.com/economia/2026/07/16/mediocre-y-resentido-el-ministro-de-economia-argentino-cruzo-a-un-conductor-ingles-que-lanzo-una-dura-frase-sobre-las-malvinas/",
      "source": "Infobae",
-     "published": "2026-07-16T17:39:24+00:00",
-     "copete": "El juicio sumó nuevos testimonios de agentes de la exAFIP que dieron cuenta de millonarios retiros en efectivo por parte de los empresarios acusados en fechas coincidentes con presuntos pagos de sobornos",
-     "id": "23d777bd984e"
+     "published": "2026-07-16T19:32:17+00:00",
+     "copete": "El ministro de Economía cuestionó en duros términos al periodista Piers Morgan por una polémica frase que utilizó para referirse a la causa Malvinas luego de la victoria argentina contra Inglaterra",
+     "id": "1431aa708d9f"
     },
     {
-     "title": "El Gobierno subasta dos predios con casi 300 casas sin terminar por más de US$11 millones: dónde quedan y cómo participar",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/el-gobierno-subasta-dos-predios-con-casi-300-casas-sin-terminar-por-mas-de-us11-millones-donde-nid15072026/",
+     "title": "Sonrisas y relajación: las imágenes de la primera práctica de Argentina tras llegar a la final del Mundial y el gesto que se hizo viral",
+     "link": "https://www.infobae.com/deportes/2026/07/16/la-seleccion-argentina-se-entrena-por-primera-vez-pensando-en-la-final-de-la-copa-del-mundo-ante-espana/",
+     "source": "Infobae",
+     "published": "2026-07-16T19:32:06+00:00",
+     "copete": "Luego de la clasificación ante Inglaterra, el plantel albiceleste cambió el chip y ya mira el duelo por el título que afrontará este domingo en Nueva Jersey ante España",
+     "id": "4acb31effb64"
+    },
+    {
+     "title": "Dólar hoy en Bolivia: cotización de cierre del 16 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/16/dolar-hoy-en-bolivia-cotizacion-de-cierre-del-16-de-julio/",
+     "source": "Infobae",
+     "published": "2026-07-16T19:31:03+00:00",
+     "copete": "La divisa estadounidense experimentó un avance respecto a la jornada anterior",
+     "id": "2db840bdd637"
+    },
+    {
+     "title": "Seguridad, conducta y transporte: las recomendaciones de Cancillería para los argentinos que viajan a la final del Mundial",
+     "link": "https://www.lanacion.com.ar/sociedad/seguridad-conducta-y-transporte-las-recomendaciones-de-cancilleria-para-los-argentinos-que-viajan-a-nid16072026/",
      "source": "La Nación",
-     "published": "2026-07-16T17:39:00+00:00",
-     "copete": "Los desarrollos están ubicados en la provincia de Buenos Aires, suman más de 39.000 m² y presentan avances de obra de entre el 50% y el 70%",
-     "id": "df7156e49e81"
+     "published": "2026-07-16T19:30:21+00:00",
+     "copete": "La búsqueda de pasajes y alojamiento se disparó un 6000% en las plataformas apenas terminó el partido entre la Argentina e Inglaterra; normas para tener en cuenta y código de comportamiento en el estadio",
+     "id": "a210c768b905"
     },
     {
-     "title": "Profesor de Ixtapaluca es vinculado a proceso por presunto abuso sexual contra un menor: seguirá en prisión preventiva - Clone",
-     "link": "https://www.infobae.com/arc-support/2026/07/16/profesor-de-ixtapaluca-es-vinculado-a-proceso-por-presunto-abuso-sexual-contra-un-menor-seguira-en-prision-preventiva-clone/",
+     "title": "La Policía Nacional Civil de Guatemala reporta 26.955 capturas entre enero y julio de 2026",
+     "link": "https://www.infobae.com/guatemala/2026/07/16/la-policia-nacional-civil-de-guatemala-reporta-26955-capturas-entre-enero-y-julio-de-2026/",
      "source": "Infobae",
-     "published": "2026-07-16T17:37:36+00:00",
-     "copete": "Un juez de control del penal de Chalco determinó vincular a proceso al coordinador de la Unidad Pedagógica y Cultural Celestín Freinet",
-     "id": "110575a079c3"
+     "published": "2026-07-16T19:27:33+00:00",
+     "copete": "La PNC detalló el decomiso de 2.671 artefactos, 752 más que el año pasado, con alzas en pistolas, fusiles y escopetas, dentro de la estrategia para sacar armamento ilegal de circulación",
+     "id": "a4874e27b3e5"
     },
     {
-     "title": "Senado, en vivo: los legisladores aplaudieron a la selección argentina en plena sesión por la ley de propiedad privada",
-     "link": "https://www.infobae.com/politica/2026/07/16/senado-en-vivo-las-ultimas-noticias-sobre-la-votacion-del-proyecto-de-inviolabilidad-de-la-propiedad-privada/",
-     "source": "Infobae",
-     "published": "2026-07-16T17:34:44+00:00",
-     "copete": "La discusión se puso en marcha minutos antes de las 12:30, cuando se logró el número de legisladores necesario para iniciar el debate",
-     "id": "b3ba3db3686d"
+     "title": "Oficial y confirmado: la regla del Uscis para reemplazar la tarjeta de residente permanente en julio 2026",
+     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/oficial-y-confirmado-la-regla-del-uscis-para-reemplazar-la-tarjeta-de-residente-permanente-en-julio-nid13072026/",
+     "source": "La Nación",
+     "published": "2026-07-16T19:25:45+00:00",
+     "copete": "Conoce cuándo debes reemplazar la green card en 2026, qué casos exigen el trámite y cómo presentar el Formulario I-90 ante Uscis.",
+     "id": "7d4116c55e90"
     },
     {
-     "title": "Junio interrumpió la racha de superávits del Gobierno: el rol del pago de aguinaldos y de la postergación del pago de Ganancias",
-     "link": "https://www.infobae.com/economia/2026/07/16/junio-interrumpio-la-racha-de-superavits-del-gobierno-el-rol-del-pago-de-aguinaldos-y-de-la-postergacion-del-pago-de-ganancias/",
-     "source": "Infobae",
-     "published": "2026-07-16T17:34:23+00:00",
-     "copete": "En el acumulado del primer semestre, mientras tanto, el Sector Público Nacional (SPN) registró un superávit primario de 0,6% del PIB y un superávit financiero de 0,1% del PIB. Cómo está la meta con el FMI",
-     "id": "f5aa3b094e33"
+     "title": "Un periodista inglés amigo de Cristiano Ronaldo preguntó si Messi estaba jugando y terminó furioso por la remontada argentina",
+     "link": "https://www.lanacion.com.ar/estados-unidos/un-periodista-ingles-amigo-de-cristiano-ronaldo-pregunto-si-messi-estaba-jugando-y-termino-furioso-nid15072026/",
+     "source": "La Nación",
+     "published": "2026-07-16T19:23:22+00:00",
+     "copete": "Piers Morgan, amigo de Cristiano Ronaldo, dudó de la presencia de Messi en la semifinal del Mundial 2026 entre Argentina e Inglaterra y cerró la noche con un tuit lleno de furia",
+     "id": "d35e79492a03"
     },
     {
-     "title": "Qué significa el proverbio chino sobre la sabiduría: “El que hace el bien de los demás hace el suyo”",
-     "link": "https://www.clarin.com/estados-unidos/significa-proverbio-chino-sabiduria-hace-bien-hace_0_X8eICz8h2u.html",
+     "title": "Trump asistirá a la final del Mundial entre España y Argentina en medio de polémicas",
+     "link": "https://www.lanacion.com.ar/el-mundo/trump-asistira-a-la-final-del-mundial-entre-espana-y-argentina-en-medio-de-polemicas-nid16072026/",
+     "source": "La Nación",
+     "published": "2026-07-16T19:22:09+00:00",
+     "copete": "La Casa Blanca confirmó su presencia en el partido en Nueva York, donde entregará el trofeo al campeón; continúan los cuestionamientos por su intervención en un caso disciplinario durante el torneo",
+     "id": "e09aec24c563"
+    },
+    {
+     "title": "Quién es el magnate que compró la propiedad más cara de la historia y pagó una cifra récord por metro cuadrado",
+     "link": "https://www.clarin.com/estados-unidos/magnate-compro-propiedad-cara-historia-pago-cifra-record-metro-cuadrado_0_jcF9hjRyyI.html",
      "source": "Clarín",
-     "published": "2026-07-16T17:06:48+00:00",
-     "copete": "El significado de la frase: “El que hace el bien de los demás hace el suyo”.",
-     "id": "d8e4529fc172"
+     "published": "2026-07-16T19:02:35+00:00",
+     "copete": "Es presidente del equipo de fútbol Shakhtar Donetsk. El departamento tiene 21 habitaciones y 2.500 metros cuadrados.",
+     "id": "4e7545465099"
     },
     {
-     "title": "Los kelpers aseguraron que están \"decepcionados\" por la bandera sobre Malvinas en Argentina-Inglaterra y le pidieron sanciones a la FIFA",
-     "link": "https://www.clarin.com/deportes/kelpers-aseguraron-decepcionados-bandera-malvinas-argentina-inglaterra-pidieron-sanciones-fifa_0_TtnGzndhKP.html",
+     "title": "Ana María Shua y el texto vulnerable del cuerpo",
+     "link": "https://www.clarin.com/revista-n/ana-maria-shua-texto-vulnerable-cuerpo_0_o4BIZshHtT.html",
      "source": "Clarín",
-     "published": "2026-07-16T17:06:26+00:00",
-     "copete": "Fue a través de un comunicado oficial publicado este jueves en las redes sociales del archipiélago.",
-     "id": "4feec8954dad"
+     "published": "2026-07-16T19:01:55+00:00",
+     "copete": "El tiempo y la enfermedad constituyen el corazón de los doce cuentos reunidos en El cuerpo roto , de Ana María Shua.",
+     "id": "c03229087d42"
     }
    ]
   },
@@ -455,9 +439,17 @@
      "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-16T17:43:22.003366+00:00",
+     "published": "2026-07-16T19:37:18.891734+00:00",
      "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
      "id": "3ccfbcb14bcb"
+    },
+    {
+     "title": "Reino Unido pide a la FIFA investigar a Argentina después de que jugadores mostraran una pancarta de las Malvinas/Falklands tras la victoria sobre Inglaterra",
+     "link": "https://www.bbc.com/mundo/articles/cn8n7x67g3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-16T17:50:21+00:00",
+     "copete": "El ministro de Empresa, Peter Kyle, afirmó que el organismo debería investigar lo sucedido.",
+     "id": "89b70ed430d7"
     },
     {
      "title": "Qué ha pasado en otras ocasiones cuando los futbolistas han mostrado pancartas políticas como los de Argentina con las Malvinas/Falklands",
@@ -484,14 +476,6 @@
      "id": "cc3de71fe051"
     },
     {
-     "title": "El padre que encontró el cuerpo de su hija entre los escombros 20 días después de los terremotos en Venezuela",
-     "link": "https://www.bbc.com/mundo/articles/cy0jnlxenyeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-16T12:46:56+00:00",
-     "copete": "Para Jan Carlo Barrios, el esfuerzo por encontrar los restos de su hija bajo los escombros del edificio en el que vivía ha sido enorme.",
-     "id": "e5653c72dc7c"
-    },
-    {
      "title": "La ONU teme que más de 500 personas hayan muerto en dos posibles naufragios frente a Myanmar",
      "link": "https://elpais.com/internacional/2026-07-16/la-onu-teme-que-mas-de-500-personas-hayan-muerto-en-dos-posibles-naufragios-frente-a-myanmar.html",
      "source": "El País Internacional",
@@ -500,12 +484,12 @@
      "id": "b798a87d4104"
     },
     {
-     "title": "Hegseth anuncia tests de testosterona de los soldados estadounidenses de más de 30 años",
-     "link": "https://elpais.com/internacional/2026-07-16/hegseth-anuncia-tests-de-testosterona-de-los-soldados-estadounidenses-de-mas-de-30-anos.html",
+     "title": "Rogelio Garza: “Mientras estén los aranceles sectoriales, no podemos hablar con Estados Unidos de reglas de origen”",
+     "link": "https://elpais.com/mexico/economia/2026-07-16/rogelio-garza-mientras-esten-los-aranceles-sectoriales-no-podemos-hablar-con-estados-unidos-de-reglas-de-origen.html",
      "source": "El País Internacional",
      "published": "2026-07-16T04:00:00+00:00",
-     "copete": "El secretario de Defensa impone exámenes obligatorios, pero los tratamientos opcionales de “reemplazo” de la hormona masculina serán opcionales si se detectan niveles bajos",
-     "id": "0f01134b8df4"
+     "copete": "El titular de la Asociación Mexicana de la Industria Automotriz reconoce que la mayoría de las armadoras del país pagan un arancel del 19% a Washington",
+     "id": "14091ab871f1"
     },
     {
      "title": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
@@ -527,6 +511,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
