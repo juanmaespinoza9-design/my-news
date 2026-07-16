@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:07:17Z",
+  "generated_at": "2026-07-16T22:06:56Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -10,32 +10,81 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de desarrollo y validación externa de un modelo predictivo multivariable basado en datos transcriptómicos (de expresión génica); el título no precisa si el diseño fue prospectivo o retrospectivo, ni el número de centros o pacientes de las cohortes de entrenamiento y validación.\nPoblación: Pacientes con leucemia mieloide crónica en fase crónica, con respuesta molecular profunda, candidatos a intentar la remisión libre de tratamiento (treatment-free remission) tras suspender un inhibidor de tirosina quinasa.\nIntervención: No hay intervención terapéutica; se trata de la construcción y validación de una herramienta pronóstica (biomarcador transcriptómico) para predecir el éxito de la discontinuación del tratamiento, sin comparador farmacológico.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el poder discriminativo del modelo, el tamaño de las cohortes de desarrollo y validación, ni su disponibilidad real para uso clínico de rutina.\nMensaje: un biomarcador transcriptómico validado externamente podría mejorar la selección de pacientes con leucemia mieloide crónica para intentar la remisión libre de tratamiento, aunque su uso práctico dependerá de validación adicional y de la disponibilidad de la plataforma de testeo.\nNota: análisis sin acceso al abstract."
     },
-    "777aac789e44": {
-      "resumen": "The ASCO Post reporta los resultados del ensayo ENDURANCE en mieloma múltiple de reciente diagnóstico, que no encontró beneficio en supervivencia con el mantenimiento indefinido frente al mantenimiento limitado a 2 años. Interesa porque cuestiona la práctica habitual de extender el tratamiento de mantenimiento de manera indefinida.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico ENDURANCE; el título indica una comparación entre mantenimiento indefinido y mantenimiento por 2 años, sin precisar aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple de reciente diagnóstico que completaron la inducción y son candidatos a tratamiento de mantenimiento.\nIntervención: Mantenimiento indefinido versus mantenimiento limitado a 2 años (el fármaco de mantenimiento no se especifica en el título).\nResultados: no disponibles, no se pudo acceder al abstract; el título indica ausencia de beneficio en supervivencia con el mantenimiento indefinido.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, el seguimiento mediano, la toxicidad acumulada del mantenimiento prolongado ni el efecto sobre la supervivencia libre de progresión.\nMensaje: si se confirma la ausencia de beneficio en supervivencia, el mantenimiento indefinido podría no justificarse frente a un esquema de 2 años, con impacto en toxicidad acumulada, costo y calidad de vida.\nNota: análisis sin acceso al abstract."
+    "035a1357fb77": {
+      "resumen": "OncLive publica una nota especializada sobre cómo personalizar el tratamiento de segunda línea en cáncer de mama avanzado con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) negativo. Interesa porque repasa cómo elegir entre las distintas opciones terapéuticas disponibles después de la progresión a la primera línea, un escenario cada vez más complejo por la multiplicación de alternativas.",
+      "destacado": false
     },
-    "746c1deb343f": {
-      "resumen": "The ASCO Post reporta el agregado de sacituzumab tirumotecan (un anticuerpo conjugado a droga dirigido a Trop-2) a pembrolizumab (un inhibidor de PD-1) en cáncer de pulmón de células no pequeñas avanzado con PD-L1 positivo. Interesa porque explora reforzar la inmunoterapia de primera línea en un subgrupo que ya suele responder bien a pembrolizumab solo.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico; el título no precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas avanzado, PD-L1 positivo, presumiblemente en primera línea de tratamiento.\nIntervención: Agregado de sacituzumab tirumotecan (anticuerpo conjugado a droga anti-Trop-2) a pembrolizumab, comparado presumiblemente contra pembrolizumab solo (no confirmado por el título).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, los resultados de eficacia ni el perfil de toxicidad de agregar el anticuerpo conjugado.\nMensaje: forma parte del programa de desarrollo de sacituzumab tirumotecan en distintos subgrupos de PD-L1 en cáncer de pulmón; de confirmarse el beneficio, podría reforzar el estándar de primera línea en pacientes PD-L1 positivos.\nNota: análisis sin acceso al abstract."
+    "b122ade7fb1d": {
+      "resumen": "OncLive repasa el panorama actual de tratamiento del cáncer de mama avanzado con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) negativo, el subtipo más frecuente de la enfermedad metastásica. Sirve como puesta al día de las líneas terapéuticas disponibles antes de entrar en decisiones de segunda línea.",
+      "destacado": false
     },
-    "deeef5f06289": {
-      "resumen": "The ASCO Post informa los resultados de zoldonrasib (un inhibidor selectivo de la mutación KRAS G12D) combinado con quimioterapia en cáncer de páncreas metastásico con esa mutación. Interesa porque el cáncer de páncreas tiene pronóstico muy pobre y recién en los últimos años aparecieron inhibidores dirigidos específicamente a las mutaciones de KRAS, el oncogén más frecuentemente alterado en este tumor.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico, probablemente de fase temprana dado que se trata de un inhibidor en desarrollo; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de páncreas metastásico con mutación KRAS G12D confirmada.\nIntervención: Zoldonrasib (inhibidor selectivo de la proteína KRAS mutada G12D) combinado con quimioterapia, sin especificar esquema ni comparador en el título.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, la tasa de respuesta objetiva, la supervivencia libre de progresión ni el perfil de toxicidad de combinar este inhibidor con quimioterapia.\nMensaje: los inhibidores selectivos de KRAS G12D son una novedad relevante en un tumor con opciones muy limitadas; si se confirma eficacia y seguridad, podría representar una nueva vía de tratamiento dirigido para el subgrupo de pacientes con esta mutación específica.\nNota: análisis sin acceso al abstract."
+    "ea877ae0c6e3": {
+      "resumen": "OncLive arma un resumen internacional de las noticias más relevantes en cáncer de mama publicadas entre abril y junio de 2026. Sirve como panorama rápido de novedades globales en el área, sin profundizar en ningún estudio en particular.",
+      "destacado": false
+    },
+    "fbb3d8409b12": {
+      "resumen": "The ASCO Post reporta un estudio que evaluó un programa de consejería virtual sostenida en el tiempo junto con tratamiento farmacológico para dejar de fumar, aplicado a pacientes con cáncer atendidos en centros comunitarios. Interesa porque el cese del tabaquismo durante el tratamiento oncológico mejora la respuesta terapéutica y reduce complicaciones, y este estudio evalúa una estrategia concreta para lograrlo fuera de los grandes centros académicos.",
+      "destacado": false,
+      "analisis": "Diseño: no está claro por el título si se trata de un ensayo aleatorizado o un estudio de implementación; parece un programa de intervención con seguimiento de resultados en centros oncológicos comunitarios.\nPoblación: Pacientes con cáncer, fumadores activos, atendidos en centros oncológicos comunitarios.\nIntervención: Consejería virtual sostenida en el tiempo combinada con tratamiento farmacológico para el cese tabáquico; el título no especifica comparador.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una mejora en las tasas de cesación tabáquica.\nLimitaciones: sin el texto completo no se conoce el diseño exacto (aleatorizado o no), el tamaño muestral, la duración del seguimiento ni la magnitud del efecto reportado.\nMensaje: si se confirma el beneficio, programas de consejería virtual sostenida podrían ser una estrategia escalable para mejorar el cese tabáquico en pacientes con cáncer atendidos fuera de grandes centros académicos.\nNota: análisis sin acceso al abstract."
+    },
+    "bac5021baa51": {
+      "resumen": "The ASCO Post reporta datos de supervivencia global con ivonescimab o tislelizumab (dos anticuerpos que actúan sobre el sistema inmunitario, uno biespecífico anti-PD-1/VEGF y el otro anti-PD-1) combinados con quimioterapia en cáncer de pulmón de células no pequeñas de tipo escamoso avanzado. Interesa porque compara estrategias de inmunoterapia de nueva generación en un subtipo de cáncer de pulmón con opciones más limitadas que el no escamoso.",
+      "destacado": false,
+      "analisis": "Diseño: el título sugiere un ensayo clínico con datos de supervivencia global; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas de histología escamosa, en estadio avanzado.\nIntervención: Ivonescimab (anticuerpo biespecífico anti-PD-1/VEGF) o tislelizumab (anticuerpo anti-PD-1), ambos combinados con quimioterapia; el título no aclara si se comparan de forma directa entre sí.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica que se reportan datos de supervivencia global sin especificar magnitud del beneficio.\nLimitaciones: sin el texto completo no se conoce el diseño comparativo exacto, el tamaño muestral, la mediana de supervivencia global en cada brazo ni el perfil de toxicidad.\nMensaje: de confirmarse un beneficio en supervivencia global, cualquiera de estos esquemas de inmunoterapia combinada con quimioterapia podría reforzar las opciones de primera línea en cáncer de pulmón escamoso avanzado, un subtipo históricamente con menos alternativas dirigidas.\nNota: análisis sin acceso al abstract."
+    },
+    "b000a4b3ace3": {
+      "resumen": "The ASCO Post reporta un estudio sobre el uso de controles digitales periódicos (digital check-ins) para el seguimiento de síntomas en pacientes que reciben tratamiento por cáncer avanzado. Interesa porque explora si el monitoreo remoto y frecuente puede anticipar complicaciones y mejorar los resultados clínicos en un grupo de pacientes de alto riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: no está claro por el título si se trata de un ensayo aleatorizado o un estudio observacional de implementación de la herramienta digital.\nPoblación: Pacientes en tratamiento activo por cáncer avanzado.\nIntervención: Sistema de controles digitales (check-ins) periódicos para el reporte de síntomas, presumiblemente comparado contra el seguimiento clínico habitual (no confirmado por el título).\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una posible mejora en los resultados clínicos, en tono condicional (\"may improve outcomes\").\nLimitaciones: sin el texto completo no se conoce el diseño del estudio, el tamaño muestral, qué desenlaces específicos mejoraron ni la magnitud del efecto.\nMensaje: los sistemas de monitoreo remoto de síntomas son una tendencia creciente en oncología; de confirmarse el beneficio, podrían incorporarse como complemento del seguimiento habitual en pacientes con cáncer avanzado.\nNota: análisis sin acceso al abstract."
+    },
+    "29c3913fb04b": {
+      "resumen": "Journal of Clinical Oncology publica una guía de práctica clínica sobre cómo implementar de forma efectiva el tratamiento del tabaquismo en pacientes con cáncer. Interesa porque dejar de fumar durante el tratamiento oncológico mejora la respuesta terapéutica y reduce complicaciones, y muchas veces el consejo antitabaco queda relegado frente a la urgencia oncológica.",
+      "destacado": false
     },
     "609a0f0c2511": {
       "resumen": "Journal of Clinical Oncology publica 'Taking Responsibility' (Asumir la responsabilidad), un ensayo narrativo dentro de su sección de reflexión sobre la práctica oncológica. Interesa como mirada humanística sobre el ejercicio de la oncología, más que como reporte de investigación."
     },
-    "234d5ec0ea5f": {
-      "resumen": "Billboard Argentina cuenta que Valentina vuelve a Buenos Aires con un espectáculo que combina música, circo y un mensaje de libertad."
+    "196ceafe950b": {
+      "resumen": "The Lancet Oncology publica un comentario editorial sobre los avances en oncología de precisión para el cáncer de tiroides, en referencia al ensayo de fase 3 con dabrafenib y trametinib publicado en el mismo número. Interesa como contexto y mirada crítica de ese estudio, más que como reporte original de resultados.",
+      "destacado": false
     },
-    "d48b99cd16c7": {
-      "resumen": "Time Out arma una agenda de planes para esta semana y el fin de semana en Buenos Aires."
+    "1c605e35aa39": {
+      "resumen": "The Lancet Oncology publica los resultados de un ensayo clínico de fase 3, aleatorizado, doble ciego y controlado con placebo, que evalúa la combinación de dabrafenib (un inhibidor de BRAF) más trametinib (un inhibidor de MEK) en adultos con cáncer de tiroides diferenciado. Interesa porque es un ensayo de fase 3 con el máximo nivel de evidencia en un subgrupo molecular específico de cáncer de tiroides, con potencial para cambiar la práctica clínica.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase 3, aleatorizado, doble ciego y controlado con placebo; el título no precisa el número de centros ni de pacientes incluidos.\nPoblación: Adultos con cáncer de tiroides diferenciado; el mecanismo de acción de dabrafenib sugiere fuertemente selección por mutación BRAF, aunque el título no lo confirma explícitamente.\nIntervención: Dabrafenib (inhibidor de BRAF) combinado con trametinib (inhibidor de MEK) versus placebo.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el criterio de valoración principal, el tamaño muestral, la magnitud del beneficio en supervivencia libre de progresión u otro desenlace, ni el perfil de toxicidad de la combinación.\nMensaje: de confirmarse el beneficio frente a placebo con el rigor de un ensayo de fase 3 aleatorizado y doble ciego, esta combinación podría consolidarse como opción de tratamiento dirigido en el subgrupo molecular correspondiente de cáncer de tiroides diferenciado.\nNota: análisis sin acceso al abstract."
     },
-    "cfee0db12ab1": {
-      "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
+    "71bd314fa460": {
+      "resumen": "Vogue México presenta Miches, un destino de playa poco explorado en República Dominicana, como el próximo paraíso virgen para descubrir."
+    },
+    "514e821ab33a": {
+      "resumen": "Vogue México destaca el look boho de Dua Lipa, con vestido y botas de motociclista, como una de las apuestas más elegantes del verano 2026."
+    },
+    "13e3cdfcd761": {
+      "resumen": "Vogue México repasa cómo Zendaya combina dorado y plateado en sus looks, demostrando que no hace falta elegir un solo tono para triunfar esta temporada."
+    },
+    "c3e0fc879067": {
+      "resumen": "Lecturas selecciona diez pantalones de Zara favorecedores y en tendencia, pensados para estrenar ahora y usar durante todo el otoño."
+    },
+    "f6df3c65a63d": {
+      "resumen": "Revista OHLALÁ! repasa cinco tendencias de verano que ya se anticipan en los street style de la Semana de la Moda de París."
+    },
+    "b2951988c2ed": {
+      "resumen": "ELLE selecciona cinco conjuntos de Zara con lista de espera que marcan una nueva tendencia de estilo minimal y elegante."
+    },
+    "1174452df072": {
+      "resumen": "Infobae informa la muerte de Horacio Sanguinetti, quien fue rector del Colegio Nacional Buenos Aires, secretario de Educación porteño y director del Teatro Colón."
+    },
+    "2c9a2d0f1b79": {
+      "resumen": "La Opinión de Pergamino repasa los nuevos restaurantes argentinos que sumaron estrella en la Guía Michelin 2026."
+    },
+    "a9c4a69f2eb0": {
+      "resumen": "La Señal FM informa la muerte de Horacio Sanguinetti, primer secretario de Educación porteño y responsable del Teatro Colón y el Colegio Nacional Buenos Aires."
+    },
+    "7948cf240c3e": {
+      "resumen": "Almomento presenta 'De Broadway a Buenos Aires', un espectáculo con música, reflexión y composiciones originales de Denise de Ramery."
+    },
+    "a809cf97d197": {
+      "resumen": "Cuestión Entrerriana informa la muerte de Horacio Sanguinetti, histórico director del Teatro Colón y rector del Colegio Nacional Buenos Aires."
     },
     "f5c11713fd91": {
       "resumen": "Grupo Animal repasa qué restaurantes argentinos obtuvieron estrellas en la Guía Michelin 2026."
@@ -46,64 +95,11 @@
     "109a34b5b7cf": {
       "resumen": "Página/12 arma una agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
     },
-    "369ccb5d08c0": {
-      "resumen": "Comercio y Justicia informa que ya son 14 los restaurantes argentinos con estrellas Michelin."
+    "d48b99cd16c7": {
+      "resumen": "Time Out arma una agenda de planes para esta semana y el fin de semana en Buenos Aires."
     },
-    "0952a11cebf1": {
-      "resumen": "Infobrisas anuncia que Mar del Plata recibirá por primera vez el ciclo infantil del Teatro Colón."
-    },
-    "0d6fd8334313": {
-      "resumen": "OncLive entrevista al doctor Fecci sobre las innovaciones más recientes en investigación de inmunoterapia para el glioblastoma, el tumor cerebral primario más agresivo del adulto. Interesa como panorama del estado del arte en un área con pronóstico históricamente muy pobre y escasas opciones terapéuticas.",
-      "destacado": false
-    },
-    "21a7a8c5ca1b": {
-      "resumen": "OncLive difunde una entrevista que remarca la importancia de sostener la investigación innovadora en glioblastoma, dada la urgencia de nuevas estrategias frente a un tumor con supervivencia muy limitada. Interesa como contexto sobre hacia dónde apunta la investigación traslacional en este cáncer.",
-      "destacado": false
-    },
-    "bff251a31fff": {
-      "resumen": "OncLive entrevista al doctor Ko sobre el perfil de seguridad de Optune Pax, un dispositivo de campos de tratamiento tumoral (tumor treating fields) en investigación para cáncer de páncreas. Interesa porque estos dispositivos representan una modalidad no farmacológica cuya tolerabilidad es clave para su eventual incorporación al tratamiento estándar.",
-      "destacado": false
-    },
-    "29c3913fb04b": {
-      "resumen": "Journal of Clinical Oncology publica una guía de práctica clínica sobre cómo implementar de forma efectiva el tratamiento del tabaquismo en pacientes con cáncer. Interesa porque dejar de fumar durante el tratamiento oncológico mejora la respuesta terapéutica y reduce complicaciones, y muchas veces el consejo antitabaco queda relegado frente a la urgencia oncológica.",
-      "destacado": false
-    },
-    "8c859eab0c01": {
-      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo clínico con ensartinib (un inhibidor de la quinasa ALK) como tratamiento adyuvante en pacientes con cáncer de pulmón de células no pequeñas resecado y con reordenamiento del gen ALK. Interesa porque define el rol de los inhibidores de ALK después de la cirugía, un escenario donde hasta ahora la evidencia era limitada.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado, de fase III dado que se publica en NEJM); el título no precisa cegado, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas resecado (estadios tempranos operados), con reordenamiento del gen ALK (linfoma cinasa anaplásico) confirmado.\nIntervención: Ensartinib (inhibidor de tirosina quinasa de ALK de segunda generación) en el contexto adyuvante, comparado presumiblemente contra placebo u observación (no se especifica el comparador en el título).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce la magnitud del beneficio en supervivencia libre de enfermedad, el perfil de toxicidad del tratamiento prolongado ni la duración planificada de la terapia adyuvante.\nMensaje: si se confirma el beneficio, la terapia adyuvante con un inhibidor de ALK podría convertirse en un nuevo estándar tras la cirugía en este subgrupo molecular, similar a lo ya establecido con otros inhibidores dirigidos en cáncer de pulmón resecado.\nNota: análisis sin acceso al abstract."
-    },
-    "e616a59b6cb6": {
-      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo que evalúa pembrolizumab (un inhibidor de PD-1) combinado con belzutifan (un inhibidor de HIF-2alfa) como tratamiento adyuvante en carcinoma de células renales operado con alto riesgo de recaída. Interesa porque explora intensificar la inmunoterapia adyuvante, un escenario donde pembrolizumab solo ya es estándar tras la cirugía.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, probablemente aleatorizado y de fase III dado el contexto de publicación en NEJM; el título no precisa cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales sometidos a cirugía, con alto riesgo de recaída, candidatos a tratamiento adyuvante.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario PD-1) combinado con belzutifan (inhibidor de HIF-2alfa) en el contexto adyuvante, comparado presumiblemente contra pembrolizumab solo o placebo (no especificado en el título).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el beneficio incremental de agregar belzutifan sobre pembrolizumab solo, la magnitud del efecto en supervivencia libre de enfermedad ni el perfil de toxicidad combinado.\nMensaje: de confirmarse un beneficio incremental, esta combinación podría intensificar el estándar adyuvante actual (pembrolizumab solo) en carcinoma de células renales de alto riesgo, aunque a costa de mayor toxicidad potencial.\nNota: análisis sin acceso al abstract."
-    },
-    "0b78f79e5789": {
-      "resumen": "Telva repasa el regreso del bordado punto de cruz en vestidos y blusas como la tendencia nostálgica del verano, con consejos de dónde conseguirlos y cómo combinarlos."
-    },
-    "88de0d283628": {
-      "resumen": "20Minutos repasa diez tendencias boho-chic que se impondrán en los festivales de este verano."
-    },
-    "e9aec59cd042": {
-      "resumen": "La Prensa Gráfica cuenta que el futbolista Erling Haaland compartió protagonismo con Jennifer Lopez en un evento de moda exclusivo en Italia."
-    },
-    "03a267ebdcff": {
-      "resumen": "Vogue México muestra cómo la cantante Belinda combina zapatos planos con baggy jeans y marca tendencia para el verano 2026."
-    },
-    "68906368e846": {
-      "resumen": "Vogue México destaca el look de Antonela Roccuzzo, con jeans bootcut y zapatos de tacón, como tendencia para el verano 2026."
-    },
-    "482eb1296879": {
-      "resumen": "Vogue México entrevista a Estefanía Villarreal sobre la autenticidad personal y el poder transformador de animarse a ser más libre."
-    },
-    "e33374f0f695": {
-      "resumen": "La Nación repasa el estreno de La Odisea, la nueva película de Christopher Nolan que llega a los cines."
-    },
-    "ed527f6c1ef0": {
-      "resumen": "Escenarios Nacionales cuenta la llegada de un proyecto artístico integral de Marilú Marini y Oria Puppo al Teatro San Martín."
-    },
-    "e34d35496ed2": {
-      "resumen": "MDZ Online arma una agenda de planes para el fin de semana patrio en Buenos Aires, con Fan Fest y sabores argentinos."
+    "cfee0db12ab1": {
+      "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
     }
   }
 }
