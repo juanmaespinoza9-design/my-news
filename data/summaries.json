@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:07:22Z",
+  "generated_at": "2026-07-16T10:07:17Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -15,16 +15,6 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico ENDURANCE; el título indica una comparación entre mantenimiento indefinido y mantenimiento por 2 años, sin precisar aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple de reciente diagnóstico que completaron la inducción y son candidatos a tratamiento de mantenimiento.\nIntervención: Mantenimiento indefinido versus mantenimiento limitado a 2 años (el fármaco de mantenimiento no se especifica en el título).\nResultados: no disponibles, no se pudo acceder al abstract; el título indica ausencia de beneficio en supervivencia con el mantenimiento indefinido.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, el seguimiento mediano, la toxicidad acumulada del mantenimiento prolongado ni el efecto sobre la supervivencia libre de progresión.\nMensaje: si se confirma la ausencia de beneficio en supervivencia, el mantenimiento indefinido podría no justificarse frente a un esquema de 2 años, con impacto en toxicidad acumulada, costo y calidad de vida.\nNota: análisis sin acceso al abstract."
     },
-    "4f8cd08b1945": {
-      "resumen": "OncLive informa una tendencia alentadora en supervivencia global con el agregado de BPM31510 (un fármaco dirigido al metabolismo mitocondrial) a la quimiorradioterapia estándar en glioblastoma de diagnóstico reciente. Interesa porque el glioblastoma tiene pronóstico muy pobre y hay pocas innovaciones en primera línea.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, probablemente de fase temprana dado el término \"tendencia alentadora\"; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con glioblastoma de diagnóstico reciente, candidatos a tratamiento estándar con quimiorradioterapia.\nIntervención: Agregado de BPM31510 (formulación dirigida al metabolismo mitocondrial) a la quimiorradioterapia estándar, sin comparador exacto especificado en el título.\nResultados: no disponibles, no se pudo acceder al abstract; el título menciona una \"tendencia alentadora\" en supervivencia global, lo que sugiere una diferencia numérica aún no necesariamente significativa.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, si el estudio tiene poder estadístico suficiente, ni el perfil de toxicidad de sumar este fármaco a la quimiorradioterapia.\nMensaje: una \"tendencia\" en supervivencia global en glioblastoma es una señal preliminar que requiere confirmación en estudios aleatorizados más grandes antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "0ee8af23a3ca": {
-      "resumen": "OncLive reporta que sacituzumab tirumotecan (un anticuerpo conjugado a droga dirigido a Trop-2) combinado con pembrolizumab (un inhibidor de PD-1) cumplió el criterio de valoración de supervivencia libre de progresión en primera línea en cáncer de pulmón de células no pequeñas no escamoso con PD-L1 negativo. Interesa porque ese subgrupo responde peor a la inmunoterapia sola y tiene pocas opciones eficaces.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, probablemente de fase III dado que reporta el cumplimiento de un criterio de valoración primario; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas no escamoso, PD-L1 negativo, en primera línea de tratamiento metastásico.\nIntervención: Sacituzumab tirumotecan (anticuerpo conjugado a droga dirigido al antígeno Trop-2) combinado con pembrolizumab (inhibidor del punto de control inmunitario PD-1), frente a un comparador no especificado en el título.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica que se cumplió el criterio de supervivencia libre de progresión, sin cifras concretas.\nLimitaciones: sin el texto completo no se conocen las cifras de supervivencia libre de progresión, los intervalos de confianza, el valor de p ni el perfil de toxicidad de la combinación.\nMensaje: de confirmarse con los datos completos, esta combinación podría ofrecer una nueva alternativa de primera línea para el subgrupo PD-L1 negativo, históricamente con peor respuesta a la inmunoterapia.\nNota: análisis sin acceso al abstract."
-    },
     "746c1deb343f": {
       "resumen": "The ASCO Post reporta el agregado de sacituzumab tirumotecan (un anticuerpo conjugado a droga dirigido a Trop-2) a pembrolizumab (un inhibidor de PD-1) en cáncer de pulmón de células no pequeñas avanzado con PD-L1 positivo. Interesa porque explora reforzar la inmunoterapia de primera línea en un subgrupo que ya suele responder bien a pembrolizumab solo.",
       "destacado": false,
@@ -35,47 +25,14 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico, probablemente de fase temprana dado que se trata de un inhibidor en desarrollo; el título no precisa aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de páncreas metastásico con mutación KRAS G12D confirmada.\nIntervención: Zoldonrasib (inhibidor selectivo de la proteína KRAS mutada G12D) combinado con quimioterapia, sin especificar esquema ni comparador en el título.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, la tasa de respuesta objetiva, la supervivencia libre de progresión ni el perfil de toxicidad de combinar este inhibidor con quimioterapia.\nMensaje: los inhibidores selectivos de KRAS G12D son una novedad relevante en un tumor con opciones muy limitadas; si se confirma eficacia y seguridad, podría representar una nueva vía de tratamiento dirigido para el subgrupo de pacientes con esta mutación específica.\nNota: análisis sin acceso al abstract."
     },
-    "cdcc9472546c": {
-      "resumen": "OncLive publica una nota sobre cómo construir un flujo de trabajo eficaz para pasar de la inducción académica a la aplicación de dosis en el ámbito comunitario, en terapias oncológicas complejas. Interesa como mirada práctica de implementación más que como un estudio con resultados clínicos.",
-      "destacado": false
-    },
     "609a0f0c2511": {
       "resumen": "Journal of Clinical Oncology publica 'Taking Responsibility' (Asumir la responsabilidad), un ensayo narrativo dentro de su sección de reflexión sobre la práctica oncológica. Interesa como mirada humanística sobre el ejercicio de la oncología, más que como reporte de investigación."
-    },
-    "d6a66b6807f5": {
-      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo de fase I TRAVERSE, que evalúa una terapia celular con receptor de antígeno quimérico (CAR-T) alogénica —fabricada a partir de células de un donante sano y no del propio paciente— dirigida contra el antígeno CD70, en carcinoma de células renales avanzado. Interesa porque las terapias CAR-T todavía no están establecidas en tumores sólidos, y un producto alogénico podría acelerar el acceso al eliminar la manufactura personalizada.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase I (TRAVERSE), primera evaluación en humanos de este producto; el título no precisa aleatorización, cegado, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células renales (RCC) avanzado, presumiblemente con progresión a las líneas estándar de tratamiento.\nIntervención: Terapia celular con receptor de antígeno quimérico (CAR-T) alogénica dirigida contra el antígeno de superficie CD70; sin comparador, al tratarse de un estudio de fase I.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: al ser fase I, el objetivo primario es seguridad y determinación de dosis, no eficacia definitiva; sin el texto completo no se conoce la tasa de respuesta, la duración de la respuesta ni el perfil de toxicidad (síndrome de liberación de citocinas, neurotoxicidad).\nMensaje: la terapia CAR-T alogénica \"lista para usar\" evita la manufactura personalizada del producto autólogo y podría ampliar el acceso a esta modalidad en tumores sólidos, donde las CAR-T aún no están establecidas; los datos de fase I son preliminares y exploratorios.\nNota: análisis sin acceso al abstract."
-    },
-    "4a564f318e5c": {
-      "resumen": "Vogue México repasa los cortes de pelo que más favorecen a las mujeres elegantes mayores de 60 años."
-    },
-    "568c187c53d6": {
-      "resumen": "Grazia presenta el 'girl grip', la tendencia de estilismo más inesperada del verano 2026."
-    },
-    "6f8f2158ffd2": {
-      "resumen": "Vogue México propone los zapatos franceses color café como la tendencia del verano 2026 para combinar con jeans, polleras y vestidos."
-    },
-    "ca64bc6ba757": {
-      "resumen": "ABC repasa siete relojes de oro de lujo que siguen marcando tendencia pese al paso del tiempo."
-    },
-    "ea618411e72d": {
-      "resumen": "Harper's Bazaar detalla, según diseñadores canarios, las cuatro tendencias en trajes de baño y bikinis que arrasan este verano."
-    },
-    "443dd3d0047e": {
-      "resumen": "Vogue México presenta el hotel Viceroy Los Cabos como un oasis de paz para desconectar."
     },
     "234d5ec0ea5f": {
       "resumen": "Billboard Argentina cuenta que Valentina vuelve a Buenos Aires con un espectáculo que combina música, circo y un mensaje de libertad."
     },
-    "02319e447b01": {
-      "resumen": "El Destape anuncia un concierto gratuito de la Sinfónica de Buenos Aires en el Teatro San Martín."
-    },
     "d48b99cd16c7": {
       "resumen": "Time Out arma una agenda de planes para esta semana y el fin de semana en Buenos Aires."
-    },
-    "f850182b989e": {
-      "resumen": "iProfesional detalla dónde ver el partido de la Selección en pantalla gigante en la Ciudad de Buenos Aires."
     },
     "cfee0db12ab1": {
       "resumen": "Clarín arma una agenda de más de 50 planes para el fin de semana del 10 al 12 de julio en Buenos Aires, con recitales, teatro, cine y actividades gratuitas."
@@ -94,6 +51,59 @@
     },
     "0952a11cebf1": {
       "resumen": "Infobrisas anuncia que Mar del Plata recibirá por primera vez el ciclo infantil del Teatro Colón."
+    },
+    "0d6fd8334313": {
+      "resumen": "OncLive entrevista al doctor Fecci sobre las innovaciones más recientes en investigación de inmunoterapia para el glioblastoma, el tumor cerebral primario más agresivo del adulto. Interesa como panorama del estado del arte en un área con pronóstico históricamente muy pobre y escasas opciones terapéuticas.",
+      "destacado": false
+    },
+    "21a7a8c5ca1b": {
+      "resumen": "OncLive difunde una entrevista que remarca la importancia de sostener la investigación innovadora en glioblastoma, dada la urgencia de nuevas estrategias frente a un tumor con supervivencia muy limitada. Interesa como contexto sobre hacia dónde apunta la investigación traslacional en este cáncer.",
+      "destacado": false
+    },
+    "bff251a31fff": {
+      "resumen": "OncLive entrevista al doctor Ko sobre el perfil de seguridad de Optune Pax, un dispositivo de campos de tratamiento tumoral (tumor treating fields) en investigación para cáncer de páncreas. Interesa porque estos dispositivos representan una modalidad no farmacológica cuya tolerabilidad es clave para su eventual incorporación al tratamiento estándar.",
+      "destacado": false
+    },
+    "29c3913fb04b": {
+      "resumen": "Journal of Clinical Oncology publica una guía de práctica clínica sobre cómo implementar de forma efectiva el tratamiento del tabaquismo en pacientes con cáncer. Interesa porque dejar de fumar durante el tratamiento oncológico mejora la respuesta terapéutica y reduce complicaciones, y muchas veces el consejo antitabaco queda relegado frente a la urgencia oncológica.",
+      "destacado": false
+    },
+    "8c859eab0c01": {
+      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo clínico con ensartinib (un inhibidor de la quinasa ALK) como tratamiento adyuvante en pacientes con cáncer de pulmón de células no pequeñas resecado y con reordenamiento del gen ALK. Interesa porque define el rol de los inhibidores de ALK después de la cirugía, un escenario donde hasta ahora la evidencia era limitada.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado, de fase III dado que se publica en NEJM); el título no precisa cegado, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas resecado (estadios tempranos operados), con reordenamiento del gen ALK (linfoma cinasa anaplásico) confirmado.\nIntervención: Ensartinib (inhibidor de tirosina quinasa de ALK de segunda generación) en el contexto adyuvante, comparado presumiblemente contra placebo u observación (no se especifica el comparador en el título).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce la magnitud del beneficio en supervivencia libre de enfermedad, el perfil de toxicidad del tratamiento prolongado ni la duración planificada de la terapia adyuvante.\nMensaje: si se confirma el beneficio, la terapia adyuvante con un inhibidor de ALK podría convertirse en un nuevo estándar tras la cirugía en este subgrupo molecular, similar a lo ya establecido con otros inhibidores dirigidos en cáncer de pulmón resecado.\nNota: análisis sin acceso al abstract."
+    },
+    "e616a59b6cb6": {
+      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo que evalúa pembrolizumab (un inhibidor de PD-1) combinado con belzutifan (un inhibidor de HIF-2alfa) como tratamiento adyuvante en carcinoma de células renales operado con alto riesgo de recaída. Interesa porque explora intensificar la inmunoterapia adyuvante, un escenario donde pembrolizumab solo ya es estándar tras la cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico, probablemente aleatorizado y de fase III dado el contexto de publicación en NEJM; el título no precisa cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales sometidos a cirugía, con alto riesgo de recaída, candidatos a tratamiento adyuvante.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario PD-1) combinado con belzutifan (inhibidor de HIF-2alfa) en el contexto adyuvante, comparado presumiblemente contra pembrolizumab solo o placebo (no especificado en el título).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el beneficio incremental de agregar belzutifan sobre pembrolizumab solo, la magnitud del efecto en supervivencia libre de enfermedad ni el perfil de toxicidad combinado.\nMensaje: de confirmarse un beneficio incremental, esta combinación podría intensificar el estándar adyuvante actual (pembrolizumab solo) en carcinoma de células renales de alto riesgo, aunque a costa de mayor toxicidad potencial.\nNota: análisis sin acceso al abstract."
+    },
+    "0b78f79e5789": {
+      "resumen": "Telva repasa el regreso del bordado punto de cruz en vestidos y blusas como la tendencia nostálgica del verano, con consejos de dónde conseguirlos y cómo combinarlos."
+    },
+    "88de0d283628": {
+      "resumen": "20Minutos repasa diez tendencias boho-chic que se impondrán en los festivales de este verano."
+    },
+    "e9aec59cd042": {
+      "resumen": "La Prensa Gráfica cuenta que el futbolista Erling Haaland compartió protagonismo con Jennifer Lopez en un evento de moda exclusivo en Italia."
+    },
+    "03a267ebdcff": {
+      "resumen": "Vogue México muestra cómo la cantante Belinda combina zapatos planos con baggy jeans y marca tendencia para el verano 2026."
+    },
+    "68906368e846": {
+      "resumen": "Vogue México destaca el look de Antonela Roccuzzo, con jeans bootcut y zapatos de tacón, como tendencia para el verano 2026."
+    },
+    "482eb1296879": {
+      "resumen": "Vogue México entrevista a Estefanía Villarreal sobre la autenticidad personal y el poder transformador de animarse a ser más libre."
+    },
+    "e33374f0f695": {
+      "resumen": "La Nación repasa el estreno de La Odisea, la nueva película de Christopher Nolan que llega a los cines."
+    },
+    "ed527f6c1ef0": {
+      "resumen": "Escenarios Nacionales cuenta la llegada de un proyecto artístico integral de Marilú Marini y Oria Puppo al Teatro San Martín."
+    },
+    "e34d35496ed2": {
+      "resumen": "MDZ Online arma una agenda de planes para el fin de semana patrio en Buenos Aires, con Fan Fest y sabores argentinos."
     }
   }
 }
