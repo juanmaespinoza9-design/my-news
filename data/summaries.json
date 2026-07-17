@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:15:00Z",
+  "generated_at": "2026-07-17T22:10:00Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -10,49 +10,32 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de desarrollo y validación externa de un modelo predictivo multivariable basado en datos transcriptómicos (de expresión génica); el título no precisa si el diseño fue prospectivo o retrospectivo, ni el número de centros o pacientes de las cohortes de entrenamiento y validación.\nPoblación: Pacientes con leucemia mieloide crónica en fase crónica, con respuesta molecular profunda, candidatos a intentar la remisión libre de tratamiento (treatment-free remission) tras suspender un inhibidor de tirosina quinasa.\nIntervención: No hay intervención terapéutica; se trata de la construcción y validación de una herramienta pronóstica (biomarcador transcriptómico) para predecir el éxito de la discontinuación del tratamiento, sin comparador farmacológico.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el poder discriminativo del modelo, el tamaño de las cohortes de desarrollo y validación, ni su disponibilidad real para uso clínico de rutina.\nMensaje: un biomarcador transcriptómico validado externamente podría mejorar la selección de pacientes con leucemia mieloide crónica para intentar la remisión libre de tratamiento, aunque su uso práctico dependerá de validación adicional y de la disponibilidad de la plataforma de testeo.\nNota: análisis sin acceso al abstract."
     },
-    "fbb3d8409b12": {
-      "resumen": "The ASCO Post reporta un estudio que evaluó un programa de consejería virtual sostenida en el tiempo junto con tratamiento farmacológico para dejar de fumar, aplicado a pacientes con cáncer atendidos en centros comunitarios. Interesa porque el cese del tabaquismo durante el tratamiento oncológico mejora la respuesta terapéutica y reduce complicaciones, y este estudio evalúa una estrategia concreta para lograrlo fuera de los grandes centros académicos.",
+    "1ced766d6169": {
+      "resumen": "OncLive repasa hacia dónde va la investigación en tumor desmoide (una neoplasia fibrosa localmente agresiva pero que no da metástasis) y cómo integrar los nuevos hallazgos a la práctica clínica. Sirve como panorama de la especialidad más que como reporte de un estudio puntual.",
+      "destacado": false
+    },
+    "580c3b5b2a9b": {
+      "resumen": "The ASCO Post reporta los resultados del ensayo EMERALD-3, que evaluó el esquema STRIDE (tremelimumab más durvalumab, dos anticuerpos que actúan sobre el sistema inmunitario) combinado con quimioembolización transarterial (TACE, un procedimiento que inyecta quimioterapia directamente en las arterias que irrigan el tumor) en carcinoma hepatocelular. Interesa porque combina inmunoterapia con un tratamiento locorregional ya establecido en esta enfermedad.",
       "destacado": false,
-      "analisis": "Diseño: no está claro por el título si se trata de un ensayo aleatorizado o un estudio de implementación; parece un programa de intervención con seguimiento de resultados en centros oncológicos comunitarios.\nPoblación: Pacientes con cáncer, fumadores activos, atendidos en centros oncológicos comunitarios.\nIntervención: Consejería virtual sostenida en el tiempo combinada con tratamiento farmacológico para el cese tabáquico; el título no especifica comparador.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una mejora en las tasas de cesación tabáquica.\nLimitaciones: sin el texto completo no se conoce el diseño exacto (aleatorizado o no), el tamaño muestral, la duración del seguimiento ni la magnitud del efecto reportado.\nMensaje: si se confirma el beneficio, programas de consejería virtual sostenida podrían ser una estrategia escalable para mejorar el cese tabáquico en pacientes con cáncer atendidos fuera de grandes centros académicos.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: el título indica un ensayo clínico (EMERALD-3); no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma hepatocelular, presumiblemente en estadio intermedio, candidatos a tratamiento locorregional.\nIntervención: Esquema STRIDE (tremelimumab más durvalumab) combinado con quimioembolización transarterial (TACE); el título no aclara el comparador (TACE sola u otro esquema).\nResultados: no disponibles, no se pudo acceder al abstract; el título indica un beneficio con la combinación.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de progresión ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si se confirma el beneficio, combinar inmunoterapia con TACE podría convertirse en una nueva opción para el carcinoma hepatocelular intermedio, ampliando las alternativas más allá del tratamiento locorregional aislado.\nNota: análisis sin acceso al abstract."
     },
-    "bac5021baa51": {
-      "resumen": "The ASCO Post reporta datos de supervivencia global con ivonescimab o tislelizumab (dos anticuerpos que actúan sobre el sistema inmunitario, uno biespecífico anti-PD-1/VEGF y el otro anti-PD-1) combinados con quimioterapia en cáncer de pulmón de células no pequeñas de tipo escamoso avanzado. Interesa porque compara estrategias de inmunoterapia de nueva generación en un subtipo de cáncer de pulmón con opciones más limitadas que el no escamoso.",
+    "c614e90550b7": {
+      "resumen": "The ASCO Post reporta un estudio que documenta el aumento de la incidencia de cáncer de mama entre mujeres asiático-americanas, nativas de Hawái y de otras islas del Pacífico. Interesa porque visibiliza una tendencia epidemiológica en un grupo poblacional históricamente subrepresentado en los registros oncológicos.",
       "destacado": false,
-      "analisis": "Diseño: el título sugiere un ensayo clínico con datos de supervivencia global; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas de histología escamosa, en estadio avanzado.\nIntervención: Ivonescimab (anticuerpo biespecífico anti-PD-1/VEGF) o tislelizumab (anticuerpo anti-PD-1), ambos combinados con quimioterapia; el título no aclara si se comparan de forma directa entre sí.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica que se reportan datos de supervivencia global sin especificar magnitud del beneficio.\nLimitaciones: sin el texto completo no se conoce el diseño comparativo exacto, el tamaño muestral, la mediana de supervivencia global en cada brazo ni el perfil de toxicidad.\nMensaje: de confirmarse un beneficio en supervivencia global, cualquiera de estos esquemas de inmunoterapia combinada con quimioterapia podría reforzar las opciones de primera línea en cáncer de pulmón escamoso avanzado, un subtipo históricamente con menos alternativas dirigidas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: el título sugiere un estudio poblacional o de registro sobre tendencias de incidencia; no se precisa la fuente de datos, el período analizado ni el tamaño de la muestra.\nPoblación: Mujeres pertenecientes a los grupos asiático-americano, nativo de Hawái y de otras islas del Pacífico (AANHPI, por su sigla en inglés), con diagnóstico de cáncer de mama.\nIntervención: No aplica intervención terapéutica; se trata de un análisis descriptivo de tendencias de incidencia, posiblemente desagregado por subgrupos étnicos dentro de la categoría AANHPI.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una tendencia creciente en la incidencia.\nLimitaciones: sin el texto completo no se conoce la magnitud del aumento, si se ajustó por edad u otros factores, ni si se identificaron subgrupos de mayor riesgo dentro de la categoría AANHPI.\nMensaje: documentar el aumento de la incidencia en estos subgrupos podría orientar estrategias de detección temprana y programas de tamizaje más específicos, aunque el impacto práctico depende de que el hallazgo se traduzca en políticas concretas.\nNota: análisis sin acceso al abstract."
     },
-    "1174452df072": {
-      "resumen": "Infobae informa la muerte de Horacio Sanguinetti, quien fue rector del Colegio Nacional Buenos Aires, secretario de Educación porteño y director del Teatro Colón."
-    },
-    "2c9a2d0f1b79": {
-      "resumen": "La Opinión de Pergamino repasa los nuevos restaurantes argentinos que sumaron estrella en la Guía Michelin 2026."
-    },
-    "a9c4a69f2eb0": {
-      "resumen": "La Señal FM informa la muerte de Horacio Sanguinetti, primer secretario de Educación porteño y responsable del Teatro Colón y el Colegio Nacional Buenos Aires."
-    },
-    "7948cf240c3e": {
-      "resumen": "Almomento presenta 'De Broadway a Buenos Aires', un espectáculo con música, reflexión y composiciones originales de Denise de Ramery."
-    },
-    "109a34b5b7cf": {
-      "resumen": "Página/12 arma una agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
-    },
-    "d48b99cd16c7": {
-      "resumen": "Time Out arma una agenda de planes para esta semana y el fin de semana en Buenos Aires."
-    },
-    "5d58f438d371": {
-      "resumen": "OncLive repasa el desarrollo de terapias dirigidas contra PRAME (un antígeno tumoral que se expresa en el melanoma), un blanco que están explorando anticuerpos biespecíficos y terapias con células T. Interesa como panorama de una estrategia inmunológica en expansión para el melanoma avanzado, más allá de los inhibidores de punto de control ya establecidos.",
+    "7a52fac67331": {
+      "resumen": "OncLive publica una entrevista en video al doctor Galsky sobre la aprobación de la FDA (agencia regulatoria de medicamentos de Estados Unidos) de pembrolizumab (un inhibidor del punto de control inmunitario PD-1) combinado con enfortumab vedotin (un anticuerpo conjugado a quimioterapia) en cáncer de vejiga músculo-invasivo (MIBC). Sirve como comentario de un especialista sobre una aprobación regulatoria ya conocida, no como reporte de un estudio nuevo.",
       "destacado": false
     },
-    "c2327812a61a": {
-      "resumen": "OncLive aborda, en formato de discusión entre especialistas, cómo elegir entre los distintos inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6, usados en cáncer de mama con receptores hormonales positivos) y qué hacer cuando el inicio del tratamiento se demora. Sirve como guía práctica de manejo clínico más que como reporte de un estudio nuevo.",
+    "7a0944c3973b": {
+      "resumen": "OncLive reúne la perspectiva de especialistas sobre cómo seguir mejorando los resultados en leucemia linfocítica crónica (LLC) de alto riesgo y hacia dónde avanza el desarrollo de los esquemas de duración fija (tratamientos con un número determinado de ciclos, a diferencia de los continuos). Sirve como panorama de la especialidad más que como reporte de un estudio puntual.",
       "destacado": false
     },
-    "5e1d47259b1a": {
-      "resumen": "OncLive reúne a especialistas para analizar los datos más relevantes en oncohematología (cánceres de la sangre, como leucemias, linfomas y mieloma) presentados en el congreso ASCO 2026. Sirve como resumen curado de múltiples estudios del congreso, sin ser en sí mismo un ensayo clínico.",
-      "destacado": false
-    },
-    "52ce7bd84a4f": {
-      "resumen": "The ASCO Post publica una nota cuyo título llegó incompleto desde la fuente original, por lo que no es posible precisar el tema sin abrir la nota directamente. Se incluye para no perder la referencia.",
-      "destacado": false
+    "47edeb3cbad4": {
+      "resumen": "The ASCO Post reporta un metaanálisis que destaca una ventaja en seguridad cardiovascular de los inhibidores de BTK (tirosina quinasa de Bruton, una enzima clave en la señalización de las células B) de segunda generación frente a los de primera generación. Interesa porque la toxicidad cardiovascular es una limitante conocida de esta clase de fármacos, usados en leucemia linfocítica crónica y otros linfomas de células B.",
+      "destacado": false,
+      "analisis": "Diseño: Metaanálisis; el título no precisa cuántos estudios ni pacientes se incluyeron, ni si combinó datos de ensayos aleatorizados, observacionales, o ambos.\nPoblación: Pacientes con neoplasias de células B (leucemia linfocítica crónica y linfomas) tratados con inhibidores de BTK.\nIntervención: Comparación entre inhibidores de BTK de segunda generación (por ejemplo acalabrutinib o zanubrutinib) frente a los de primera generación (ibrutinib).\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una ventaja en seguridad cardiovascular a favor de la segunda generación.\nLimitaciones: sin el texto completo no se conoce la magnitud del efecto, los eventos cardiovasculares específicos analizados (fibrilación auricular, hipertensión, eventos mayores) ni la heterogeneidad entre los estudios incluidos.\nMensaje: si se confirma la ventaja, refuerza la preferencia por los inhibidores de BTK de segunda generación en pacientes con riesgo cardiovascular basal, aunque la decisión individual sigue dependiendo de otros factores como eficacia y costo.\nNota: análisis sin acceso al abstract."
     },
     "a58cb0f384d7": {
       "resumen": "Journal of Clinical Oncology, revista oficial de la Sociedad Estadounidense de Oncología Clínica (ASCO), actualiza su guía de seguimiento y vigilancia para pacientes con cáncer de mama después del tratamiento primario. Interesa porque define qué estudios de control y con qué frecuencia se recomiendan en la práctica diaria.",
@@ -63,44 +46,60 @@
       "destacado": true,
       "analisis": "Diseño: el título indica un ensayo clínico (DART) que evaluó durvalumab con radioterapia; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas, localmente avanzado, inoperable, no elegibles para quimiorradioterapia concurrente.\nIntervención: Durvalumab (inhibidor de PD-L1) asociado a radioterapia; el título no aclara el comparador (radioterapia sola u otro esquema).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de progresión ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, agregar durvalumab a la radioterapia podría convertirse en una opción para pacientes con cáncer de pulmón localmente avanzado que hoy no acceden al estándar de quimiorradioterapia concurrente seguida de inmunoterapia.\nNota: análisis sin acceso al abstract."
     },
-    "c9bfb4500b4b": {
-      "resumen": "The Lancet Oncology publica un artículo sobre las inequidades en cáncer que afectan a las Naciones Originarias (First Nations) en Canadá, probablemente con datos poblacionales sobre incidencia, acceso a diagnóstico y tratamiento, y resultados. Interesa como recordatorio de que las brechas en salud oncológica también existen en sistemas de salud de países de altos ingresos.",
+    "8c859eab0c01": {
+      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo con ensartinib (un inhibidor de la quinasa ALK) como tratamiento adyuvante en cáncer de pulmón de células no pequeñas con reordenamiento de ALK ya resecado quirúrgicamente. Interesa porque define si extender la inhibición de ALK después de la cirugía reduce el riesgo de recaída en este subgrupo molecular.",
       "destacado": false,
-      "analisis": "Diseño: por el título no queda claro si se trata de un estudio poblacional o de registro con datos cuantitativos, o de un artículo de comentario/perspectiva sobre inequidades; no se precisa metodología, período ni fuente de datos.\nPoblación: Personas pertenecientes a las Naciones Originarias (First Nations) de Canadá con diagnóstico de cáncer, presumiblemente comparadas con la población general canadiense.\nIntervención: No aplica intervención terapéutica; se trataría de un análisis descriptivo o de política sanitaria sobre inequidades en el acceso y los resultados oncológicos.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se puede confirmar si es un estudio original con datos cuantitativos o un comentario narrativo, lo que condiciona el nivel de evidencia.\nMensaje: documentar inequidades en cáncer en poblaciones originarias es un paso necesario para diseñar políticas de salud más equitativas, aunque el impacto práctico depende de que se traduzca en cambios concretos de acceso.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: el título indica un ensayo clínico publicado en NEJM sobre ensartinib adyuvante; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas con reordenamiento del gen ALK (linfoma quinasa anaplásico), en estadio resecable y ya operados.\nIntervención: Ensartinib (inhibidor de ALK) en el contexto adyuvante; el título no aclara el comparador (placebo u observación).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad del tratamiento prolongado.\nMensaje: si los resultados son favorables, ensartinib adyuvante podría sumarse como opción para reducir el riesgo de recaída en cáncer de pulmón ALK-positivo resecado, ampliando el uso de los inhibidores de ALK más allá del contexto metastásico.\nNota: análisis sin acceso al abstract."
     },
-    "805d8fc589f8": {
-      "resumen": "The Lancet Oncology reporta nuevas guías, impulsadas por organismos de salud regionales, para promover la alimentación saludable y la actividad física en el ámbito escolar en las Américas. Interesa por la conexión entre prevención primaria (obesidad, sedentarismo) y reducción del riesgo de cáncer a largo plazo, aunque es una nota de política sanitaria y no un estudio clínico.",
-      "destacado": false
+    "e616a59b6cb6": {
+      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo que evaluó pembrolizumab (inhibidor de PD-1) combinado con belzutifan (un inhibidor de HIF-2α, una proteína implicada en el crecimiento tumoral en el cáncer de riñón) como tratamiento adyuvante en carcinoma de células renales. Interesa porque explora si sumar un fármaco de mecanismo novedoso a la inmunoterapia adyuvante mejora los resultados tras la cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: el título indica un ensayo clínico publicado en NEJM sobre terapia adyuvante combinada; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales operado, con riesgo de recaída, candidatos a tratamiento adyuvante.\nIntervención: Pembrolizumab (inhibidor de PD-1) combinado con belzutifan (inhibidor de HIF-2α); el título no aclara el comparador (pembrolizumab solo o placebo).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad de la combinación.\nMensaje: si los resultados son favorables, esta combinación podría convertirse en una nueva opción adyuvante en carcinoma de células renales de alto riesgo, sumando un mecanismo distinto a la inmunoterapia ya establecida.\nNota: análisis sin acceso al abstract."
     },
-    "6633802e7760": {
-      "resumen": "Telva adelanta cuáles serán los zapatos de otoño que, según las expertas en moda, se van a imponer en la próxima temporada."
+    "d639ab0515dc": {
+      "resumen": "Vogue México presenta los cinco cortes de pelo que serán tendencia para renovar el look este verano 2026."
     },
-    "9e64caf3f317": {
-      "resumen": "Cosmopolitan propone ideas para lucir con estilo los vestidos de escote asimétrico, una de las tendencias del verano 2026."
+    "54301b26ffc0": {
+      "resumen": "Revista CLARA propone diez cortes de pelo largo pensados para cara ovalada, de tendencia y fáciles de mantener."
     },
-    "dacf9e34b4e5": {
-      "resumen": "Vogue México presenta el accesorio de moda más sofisticado de la temporada, pero pensado para perros y no para sus dueños."
+    "664b6e0e76e7": {
+      "resumen": "Vogue México recomienda blusas de estilo colombiano para combinar con zapatos, sandalias y botines este julio."
     },
-    "b31efe43471a": {
-      "resumen": "Vogue México cuenta cómo los vestidos estilo lencero de los años 90 volvieron a las vidrieras de Zara, Mango y H&M para este verano 2026."
+    "6cb2fd612a8e": {
+      "resumen": "Vogue México presenta una bebida, nueva o un clásico renovado, en un formato compacto que entra en el bolso y el tocador."
     },
-    "061b6819265d": {
-      "resumen": "El Tiempo analiza cómo la moda masculina se anima a las transparencias y los accesorios como forma de expresión personal, más allá de lo que se ve en las pasarelas."
+    "a2a3c871e272": {
+      "resumen": "ELLE señala una tienda distinta de Zara y Mango con las cinco prendas más frescas, de tendencia y rebajadas del verano."
     },
-    "95cece0cc300": {
-      "resumen": "Infobae repasa los looks del futbolista Erling Haaland y su pareja, Isabel Johansen, que se consolidaron como referentes de estilo en el mundo del deporte."
+    "d14d18070282": {
+      "resumen": "Mujerhoy explica cómo combinar los vaqueros rojos, la tendencia del verano, y comparte sus favoritos."
+    },
+    "6b9cfccb6654": {
+      "resumen": "Página/12 arma la agenda cultural de la provincia de Buenos Aires."
+    },
+    "3ddcb3a76724": {
+      "resumen": "El Teatro Argentino de La Plata ofrece espectáculos y actividades gratuitas para toda la familia durante las vacaciones de invierno."
+    },
+    "bd410a449231": {
+      "resumen": "Perfil cuenta que, con la suma de un restaurante coreano, la Argentina llega a 14 establecimientos gastronómicos distinguidos (título cortado en la fuente original)."
+    },
+    "0b5e25149874": {
+      "resumen": "Pura Ciudad cuenta que estudiantes tomaron la Escuela de Teatro Nini Marshall en rechazo al plan educativo porteño \"Buenos Aires Aprende\"."
+    },
+    "062bd063fd87": {
+      "resumen": "FM Universo 97.3 reúne más de 60 planes para el fin de semana del 17 al 19 de julio en Buenos Aires, entre recitales, teatro, cine y muestras gratuitas."
+    },
+    "76cb89a5e71e": {
+      "resumen": "Clarín mapea los restaurantes porteños con estrella Michelin y muestra que dos barrios concentran más de la mitad, mientras el Centro queda relegado."
     },
     "ddba1fa54422": {
       "resumen": "La Voz del Interior repasa los nuevos reconocimientos que sumó la Argentina en la Guía Michelin 2026 y cuáles son los restaurantes recomendados."
     },
-    "5b5c2c85e2c3": {
-      "resumen": "El Litoral informa la muerte de Horacio Sanguinetti, quien fue rector histórico del Colegio Nacional de Buenos Aires."
+    "0f90eb914faa": {
+      "resumen": "Buenos Aires Secreta propone 22 planes para el fin de semana del 16 al 19 de julio, entre ferias, conciertos y experiencias."
     },
-    "28cb1f2cfa8a": {
-      "resumen": "La Posta Digital cuenta que cuatro restaurantes argentinos recibieron una estrella Michelin en la edición 2026 de la guía."
-    },
-    "f850182b989e": {
-      "resumen": "iProfesional detalla los lugares de la Ciudad de Buenos Aires donde se podrá ver en pantalla gigante el partido de la Selección."
+    "109a34b5b7cf": {
+      "resumen": "Página/12 arma una agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
     }
   }
 }
