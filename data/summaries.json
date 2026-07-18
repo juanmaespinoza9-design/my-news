@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:10:00Z",
+  "generated_at": "2026-07-18T10:06:19Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -28,10 +28,6 @@
       "resumen": "OncLive publica una entrevista en video al doctor Galsky sobre la aprobación de la FDA (agencia regulatoria de medicamentos de Estados Unidos) de pembrolizumab (un inhibidor del punto de control inmunitario PD-1) combinado con enfortumab vedotin (un anticuerpo conjugado a quimioterapia) en cáncer de vejiga músculo-invasivo (MIBC). Sirve como comentario de un especialista sobre una aprobación regulatoria ya conocida, no como reporte de un estudio nuevo.",
       "destacado": false
     },
-    "7a0944c3973b": {
-      "resumen": "OncLive reúne la perspectiva de especialistas sobre cómo seguir mejorando los resultados en leucemia linfocítica crónica (LLC) de alto riesgo y hacia dónde avanza el desarrollo de los esquemas de duración fija (tratamientos con un número determinado de ciclos, a diferencia de los continuos). Sirve como panorama de la especialidad más que como reporte de un estudio puntual.",
-      "destacado": false
-    },
     "47edeb3cbad4": {
       "resumen": "The ASCO Post reporta un metaanálisis que destaca una ventaja en seguridad cardiovascular de los inhibidores de BTK (tirosina quinasa de Bruton, una enzima clave en la señalización de las células B) de segunda generación frente a los de primera generación. Interesa porque la toxicidad cardiovascular es una limitante conocida de esta clase de fármacos, usados en leucemia linfocítica crónica y otros linfomas de células B.",
       "destacado": false,
@@ -39,40 +35,16 @@
     },
     "a58cb0f384d7": {
       "resumen": "Journal of Clinical Oncology, revista oficial de la Sociedad Estadounidense de Oncología Clínica (ASCO), actualiza su guía de seguimiento y vigilancia para pacientes con cáncer de mama después del tratamiento primario. Interesa porque define qué estudios de control y con qué frecuencia se recomiendan en la práctica diaria.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Actualización de guía de práctica clínica de ASCO (Sociedad Estadounidense de Oncología Clínica), elaborada por un panel de expertos a partir de la revisión sistemática de la evidencia disponible; no es un ensayo clínico original.\nPoblación: Pacientes con cáncer de mama que completaron el tratamiento primario (cirugía, quimioterapia y/o radioterapia) y pasan a la etapa de seguimiento a largo plazo.\nIntervención: Recomendaciones sobre estudios de control (examen clínico, mamografía, estudios de laboratorio e imágenes) y su frecuencia durante el seguimiento.\nResultados: No aplica; es un documento de recomendaciones y no reporta desenlaces de un estudio comparativo.\nLimitaciones: Depende de la calidad y actualidad de la evidencia revisada, puede no contemplar particularidades de subgrupos poco representados en los estudios originales, y su aplicación varía según el sistema de salud local.\nMensaje: Ordena y actualiza qué controles pedir y con qué periodicidad en el seguimiento del cáncer de mama, con impacto directo en la práctica ambulatoria diaria.\nNota: análisis sin acceso al abstract."
     },
     "6527f42da568": {
       "resumen": "Journal of Clinical Oncology publica los resultados del ensayo DART, que evaluó agregar durvalumab (un anticuerpo que bloquea PD-L1, una proteína que frena la respuesta inmunitaria contra el tumor) a la radioterapia en pacientes con cáncer de pulmón de células no pequeñas localmente avanzado e inoperable que no pueden recibir quimiorradioterapia concurrente. Interesa porque aborda una población frágil, sin buenas opciones curativas estandarizadas, en la que se busca una alternativa que preserve eficacia con menor toxicidad.",
       "destacado": true,
       "analisis": "Diseño: el título indica un ensayo clínico (DART) que evaluó durvalumab con radioterapia; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas, localmente avanzado, inoperable, no elegibles para quimiorradioterapia concurrente.\nIntervención: Durvalumab (inhibidor de PD-L1) asociado a radioterapia; el título no aclara el comparador (radioterapia sola u otro esquema).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de progresión ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, agregar durvalumab a la radioterapia podría convertirse en una opción para pacientes con cáncer de pulmón localmente avanzado que hoy no acceden al estándar de quimiorradioterapia concurrente seguida de inmunoterapia.\nNota: análisis sin acceso al abstract."
     },
-    "8c859eab0c01": {
-      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo con ensartinib (un inhibidor de la quinasa ALK) como tratamiento adyuvante en cáncer de pulmón de células no pequeñas con reordenamiento de ALK ya resecado quirúrgicamente. Interesa porque define si extender la inhibición de ALK después de la cirugía reduce el riesgo de recaída en este subgrupo molecular.",
-      "destacado": false,
-      "analisis": "Diseño: el título indica un ensayo clínico publicado en NEJM sobre ensartinib adyuvante; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas con reordenamiento del gen ALK (linfoma quinasa anaplásico), en estadio resecable y ya operados.\nIntervención: Ensartinib (inhibidor de ALK) en el contexto adyuvante; el título no aclara el comparador (placebo u observación).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad del tratamiento prolongado.\nMensaje: si los resultados son favorables, ensartinib adyuvante podría sumarse como opción para reducir el riesgo de recaída en cáncer de pulmón ALK-positivo resecado, ampliando el uso de los inhibidores de ALK más allá del contexto metastásico.\nNota: análisis sin acceso al abstract."
-    },
-    "e616a59b6cb6": {
-      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo que evaluó pembrolizumab (inhibidor de PD-1) combinado con belzutifan (un inhibidor de HIF-2α, una proteína implicada en el crecimiento tumoral en el cáncer de riñón) como tratamiento adyuvante en carcinoma de células renales. Interesa porque explora si sumar un fármaco de mecanismo novedoso a la inmunoterapia adyuvante mejora los resultados tras la cirugía.",
-      "destacado": false,
-      "analisis": "Diseño: el título indica un ensayo clínico publicado en NEJM sobre terapia adyuvante combinada; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales operado, con riesgo de recaída, candidatos a tratamiento adyuvante.\nIntervención: Pembrolizumab (inhibidor de PD-1) combinado con belzutifan (inhibidor de HIF-2α); el título no aclara el comparador (pembrolizumab solo o placebo).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad de la combinación.\nMensaje: si los resultados son favorables, esta combinación podría convertirse en una nueva opción adyuvante en carcinoma de células renales de alto riesgo, sumando un mecanismo distinto a la inmunoterapia ya establecida.\nNota: análisis sin acceso al abstract."
-    },
-    "d639ab0515dc": {
-      "resumen": "Vogue México presenta los cinco cortes de pelo que serán tendencia para renovar el look este verano 2026."
-    },
     "54301b26ffc0": {
       "resumen": "Revista CLARA propone diez cortes de pelo largo pensados para cara ovalada, de tendencia y fáciles de mantener."
-    },
-    "664b6e0e76e7": {
-      "resumen": "Vogue México recomienda blusas de estilo colombiano para combinar con zapatos, sandalias y botines este julio."
-    },
-    "6cb2fd612a8e": {
-      "resumen": "Vogue México presenta una bebida, nueva o un clásico renovado, en un formato compacto que entra en el bolso y el tocador."
-    },
-    "a2a3c871e272": {
-      "resumen": "ELLE señala una tienda distinta de Zara y Mango con las cinco prendas más frescas, de tendencia y rebajadas del verano."
-    },
-    "d14d18070282": {
-      "resumen": "Mujerhoy explica cómo combinar los vaqueros rojos, la tendencia del verano, y comparte sus favoritos."
     },
     "6b9cfccb6654": {
       "resumen": "Página/12 arma la agenda cultural de la provincia de Buenos Aires."
@@ -86,20 +58,45 @@
     "0b5e25149874": {
       "resumen": "Pura Ciudad cuenta que estudiantes tomaron la Escuela de Teatro Nini Marshall en rechazo al plan educativo porteño \"Buenos Aires Aprende\"."
     },
-    "062bd063fd87": {
-      "resumen": "FM Universo 97.3 reúne más de 60 planes para el fin de semana del 17 al 19 de julio en Buenos Aires, entre recitales, teatro, cine y muestras gratuitas."
-    },
-    "76cb89a5e71e": {
-      "resumen": "Clarín mapea los restaurantes porteños con estrella Michelin y muestra que dos barrios concentran más de la mitad, mientras el Centro queda relegado."
-    },
-    "ddba1fa54422": {
-      "resumen": "La Voz del Interior repasa los nuevos reconocimientos que sumó la Argentina en la Guía Michelin 2026 y cuáles son los restaurantes recomendados."
-    },
     "0f90eb914faa": {
       "resumen": "Buenos Aires Secreta propone 22 planes para el fin de semana del 16 al 19 de julio, entre ferias, conciertos y experiencias."
     },
-    "109a34b5b7cf": {
-      "resumen": "Página/12 arma una agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
+    "afb617e756a5": {
+      "resumen": "OncLive repasa como la frecuencia de estudios por imagenes, el momento de la radioterapia y la dosis de osimertinib (un inhibidor de la tirosina quinasa del receptor del factor de crecimiento epidermico, EGFR) influyen en el manejo de las metastasis en el sistema nervioso central de pacientes con cancer de pulmon de celulas no pequenas (NSCLC) con mutacion en EGFR. Sirve como guia practica de especialistas mas que como reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "d16612bbfd5b": {
+      "resumen": "Zendaya explica por qué una camiseta blanca simple sigue siendo una pieza clave de estilo."
+    },
+    "af06a26c7360": {
+      "resumen": "Cinco formas de combinar las bermudas de jean para lucirlas este verano."
+    },
+    "09ffaeaeb113": {
+      "resumen": "Una selección de nueve libros imprescindibles para los amantes de la música."
+    },
+    "04abe43789d9": {
+      "resumen": "El verde césped se impone en las pasarelas parisinas y llegará a la moda de otoño en España."
+    },
+    "88f48c0a9e43": {
+      "resumen": "Claves para animarse al maximalismo, la tendencia que combina estampados, colores y texturas en verano."
+    },
+    "9383b3ccbe45": {
+      "resumen": "La Orquesta Infanto Juvenil de Pinamar se presentó en el emblemático Teatro Colón porteño."
+    },
+    "209adbf9576a": {
+      "resumen": "Una guía con propuestas culturales para disfrutar en familia durante las vacaciones de invierno porteñas."
+    },
+    "27cd26da1809": {
+      "resumen": "Catorce restaurantes argentinos fueron distinguidos con estrellas en la Guía Michelin 2026."
+    },
+    "f3ffc6939302": {
+      "resumen": "Seis propuestas gastronómicas porteñas para festejar el Día del Amigo."
+    },
+    "8660325bf66f": {
+      "resumen": "Más de 60 planes -entre recitales, teatro, cine y muestras- para el fin de semana en Buenos Aires."
+    },
+    "84383ebd6368": {
+      "resumen": "Franco Colapinto disputa la última práctica libre antes de la clasificación del GP de Bélgica de Fórmula 1."
     }
   }
 }
