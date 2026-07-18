@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T10:06:19Z",
+  "generated_at": "2026-07-18T22:05:12Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -9,6 +9,14 @@
       "resumen": "Journal of Clinical Oncology publica el desarrollo y la validación externa de un modelo predictivo multivariable basado en el transcriptoma (perfil de expresión génica) para estimar qué pacientes con leucemia mieloide crónica pueden alcanzar la remisión libre de tratamiento tras suspender los inhibidores de tirosina quinasa. Interesa porque podría ayudar a seleccionar con más precisión a quiénes conviene intentar la discontinuación del tratamiento.",
       "destacado": false,
       "analisis": "Diseño: Estudio de desarrollo y validación externa de un modelo predictivo multivariable basado en datos transcriptómicos (de expresión génica); el título no precisa si el diseño fue prospectivo o retrospectivo, ni el número de centros o pacientes de las cohortes de entrenamiento y validación.\nPoblación: Pacientes con leucemia mieloide crónica en fase crónica, con respuesta molecular profunda, candidatos a intentar la remisión libre de tratamiento (treatment-free remission) tras suspender un inhibidor de tirosina quinasa.\nIntervención: No hay intervención terapéutica; se trata de la construcción y validación de una herramienta pronóstica (biomarcador transcriptómico) para predecir el éxito de la discontinuación del tratamiento, sin comparador farmacológico.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el poder discriminativo del modelo, el tamaño de las cohortes de desarrollo y validación, ni su disponibilidad real para uso clínico de rutina.\nMensaje: un biomarcador transcriptómico validado externamente podría mejorar la selección de pacientes con leucemia mieloide crónica para intentar la remisión libre de tratamiento, aunque su uso práctico dependerá de validación adicional y de la disponibilidad de la plataforma de testeo.\nNota: análisis sin acceso al abstract."
+    },
+    "4f1ccc166b7a": {
+      "resumen": "OncLive presenta \"The OncFive\", su selección semanal de los cinco artículos más relevantes de oncología, correspondiente a la semana del 12 de julio. Sirve como resumen curado de la actualidad oncológica de esos días, sin ser en sí mismo el reporte de un estudio original.",
+      "destacado": false
+    },
+    "afb617e756a5": {
+      "resumen": "OncLive repasa como la frecuencia de estudios por imagenes, el momento de la radioterapia y la dosis de osimertinib (un inhibidor de la tirosina quinasa del receptor del factor de crecimiento epidermico, EGFR) influyen en el manejo de las metastasis en el sistema nervioso central de pacientes con cancer de pulmon de celulas no pequenas (NSCLC) con mutacion en EGFR. Sirve como guia practica de especialistas mas que como reporte de un estudio nuevo.",
+      "destacado": false
     },
     "1ced766d6169": {
       "resumen": "OncLive repasa hacia dónde va la investigación en tumor desmoide (una neoplasia fibrosa localmente agresiva pero que no da metástasis) y cómo integrar los nuevos hallazgos a la práctica clínica. Sirve como panorama de la especialidad más que como reporte de un estudio puntual.",
@@ -23,10 +31,6 @@
       "resumen": "The ASCO Post reporta un estudio que documenta el aumento de la incidencia de cáncer de mama entre mujeres asiático-americanas, nativas de Hawái y de otras islas del Pacífico. Interesa porque visibiliza una tendencia epidemiológica en un grupo poblacional históricamente subrepresentado en los registros oncológicos.",
       "destacado": false,
       "analisis": "Diseño: el título sugiere un estudio poblacional o de registro sobre tendencias de incidencia; no se precisa la fuente de datos, el período analizado ni el tamaño de la muestra.\nPoblación: Mujeres pertenecientes a los grupos asiático-americano, nativo de Hawái y de otras islas del Pacífico (AANHPI, por su sigla en inglés), con diagnóstico de cáncer de mama.\nIntervención: No aplica intervención terapéutica; se trata de un análisis descriptivo de tendencias de incidencia, posiblemente desagregado por subgrupos étnicos dentro de la categoría AANHPI.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una tendencia creciente en la incidencia.\nLimitaciones: sin el texto completo no se conoce la magnitud del aumento, si se ajustó por edad u otros factores, ni si se identificaron subgrupos de mayor riesgo dentro de la categoría AANHPI.\nMensaje: documentar el aumento de la incidencia en estos subgrupos podría orientar estrategias de detección temprana y programas de tamizaje más específicos, aunque el impacto práctico depende de que el hallazgo se traduzca en políticas concretas.\nNota: análisis sin acceso al abstract."
-    },
-    "7a52fac67331": {
-      "resumen": "OncLive publica una entrevista en video al doctor Galsky sobre la aprobación de la FDA (agencia regulatoria de medicamentos de Estados Unidos) de pembrolizumab (un inhibidor del punto de control inmunitario PD-1) combinado con enfortumab vedotin (un anticuerpo conjugado a quimioterapia) en cáncer de vejiga músculo-invasivo (MIBC). Sirve como comentario de un especialista sobre una aprobación regulatoria ya conocida, no como reporte de un estudio nuevo.",
-      "destacado": false
     },
     "47edeb3cbad4": {
       "resumen": "The ASCO Post reporta un metaanálisis que destaca una ventaja en seguridad cardiovascular de los inhibidores de BTK (tirosina quinasa de Bruton, una enzima clave en la señalización de las células B) de segunda generación frente a los de primera generación. Interesa porque la toxicidad cardiovascular es una limitante conocida de esta clase de fármacos, usados en leucemia linfocítica crónica y otros linfomas de células B.",
@@ -43,42 +47,29 @@
       "destacado": true,
       "analisis": "Diseño: el título indica un ensayo clínico (DART) que evaluó durvalumab con radioterapia; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas, localmente avanzado, inoperable, no elegibles para quimiorradioterapia concurrente.\nIntervención: Durvalumab (inhibidor de PD-L1) asociado a radioterapia; el título no aclara el comparador (radioterapia sola u otro esquema).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de progresión ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, agregar durvalumab a la radioterapia podría convertirse en una opción para pacientes con cáncer de pulmón localmente avanzado que hoy no acceden al estándar de quimiorradioterapia concurrente seguida de inmunoterapia.\nNota: análisis sin acceso al abstract."
     },
-    "54301b26ffc0": {
-      "resumen": "Revista CLARA propone diez cortes de pelo largo pensados para cara ovalada, de tendencia y fáciles de mantener."
+    "9e9b4e5e6df0": {
+      "resumen": "Un recorrido por las locaciones reales -entre Grecia y Marruecos- donde Christopher Nolan filmó su nueva película, La Odisea."
     },
-    "6b9cfccb6654": {
-      "resumen": "Página/12 arma la agenda cultural de la provincia de Buenos Aires."
+    "394bc7a6319c": {
+      "resumen": "Jennifer Lopez combina leggings de estilo italiano con sandalias flip flops retro de los años 2000 en su último look de verano."
     },
-    "3ddcb3a76724": {
-      "resumen": "El Teatro Argentino de La Plata ofrece espectáculos y actividades gratuitas para toda la familia durante las vacaciones de invierno."
+    "e2f28d9288a5": {
+      "resumen": "Un repaso por las noticias de moda de julio 2026 que más dieron que hablar en la industria."
     },
-    "bd410a449231": {
-      "resumen": "Perfil cuenta que, con la suma de un restaurante coreano, la Argentina llega a 14 establecimientos gastronómicos distinguidos (título cortado en la fuente original)."
+    "3cf8e1986a7a": {
+      "resumen": "Las prendas de esquí se instalan como tendencia invernal dentro del street style de esta temporada."
     },
-    "0b5e25149874": {
-      "resumen": "Pura Ciudad cuenta que estudiantes tomaron la Escuela de Teatro Nini Marshall en rechazo al plan educativo porteño \"Buenos Aires Aprende\"."
-    },
-    "0f90eb914faa": {
-      "resumen": "Buenos Aires Secreta propone 22 planes para el fin de semana del 16 al 19 de julio, entre ferias, conciertos y experiencias."
-    },
-    "afb617e756a5": {
-      "resumen": "OncLive repasa como la frecuencia de estudios por imagenes, el momento de la radioterapia y la dosis de osimertinib (un inhibidor de la tirosina quinasa del receptor del factor de crecimiento epidermico, EGFR) influyen en el manejo de las metastasis en el sistema nervioso central de pacientes con cancer de pulmon de celulas no pequenas (NSCLC) con mutacion en EGFR. Sirve como guia practica de especialistas mas que como reporte de un estudio nuevo.",
-      "destacado": false
-    },
-    "d16612bbfd5b": {
-      "resumen": "Zendaya explica por qué una camiseta blanca simple sigue siendo una pieza clave de estilo."
-    },
-    "af06a26c7360": {
-      "resumen": "Cinco formas de combinar las bermudas de jean para lucirlas este verano."
-    },
-    "09ffaeaeb113": {
-      "resumen": "Una selección de nueve libros imprescindibles para los amantes de la música."
+    "0a9ed7c43bb7": {
+      "resumen": "Un nuevo estudio señala que la percepción de belleza se despega cada vez más de la vestimenta."
     },
     "04abe43789d9": {
       "resumen": "El verde césped se impone en las pasarelas parisinas y llegará a la moda de otoño en España."
     },
-    "88f48c0a9e43": {
-      "resumen": "Claves para animarse al maximalismo, la tendencia que combina estampados, colores y texturas en verano."
+    "3a5d3709181c": {
+      "resumen": "Cinco propuestas para bajar la ansiedad previa a la final del Mundial."
+    },
+    "aca4ddda9cd4": {
+      "resumen": "El pronóstico anticipa lluvias en Buenos Aires para el fin de semana de la final del Mundial."
     },
     "9383b3ccbe45": {
       "resumen": "La Orquesta Infanto Juvenil de Pinamar se presentó en el emblemático Teatro Colón porteño."
@@ -92,11 +83,17 @@
     "f3ffc6939302": {
       "resumen": "Seis propuestas gastronómicas porteñas para festejar el Día del Amigo."
     },
-    "8660325bf66f": {
-      "resumen": "Más de 60 planes -entre recitales, teatro, cine y muestras- para el fin de semana en Buenos Aires."
+    "6b9cfccb6654": {
+      "resumen": "Página/12 arma la agenda cultural de la provincia de Buenos Aires."
     },
-    "84383ebd6368": {
-      "resumen": "Franco Colapinto disputa la última práctica libre antes de la clasificación del GP de Bélgica de Fórmula 1."
+    "3ddcb3a76724": {
+      "resumen": "El Teatro Argentino de La Plata ofrece espectáculos y actividades gratuitas para toda la familia durante las vacaciones de invierno."
+    },
+    "bd410a449231": {
+      "resumen": "Perfil cuenta que, con la suma de un restaurante coreano, la Argentina llega a 14 establecimientos gastronómicos distinguidos (título cortado en la fuente original)."
+    },
+    "0b5e25149874": {
+      "resumen": "Pura Ciudad cuenta que estudiantes tomaron la Escuela de Teatro Nini Marshall en rechazo al plan educativo porteño \"Buenos Aires Aprende\"."
     }
   }
 }
