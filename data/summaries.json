@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:05:12Z",
+  "generated_at": "2026-07-19T10:06:13Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -44,8 +44,18 @@
     },
     "6527f42da568": {
       "resumen": "Journal of Clinical Oncology publica los resultados del ensayo DART, que evaluó agregar durvalumab (un anticuerpo que bloquea PD-L1, una proteína que frena la respuesta inmunitaria contra el tumor) a la radioterapia en pacientes con cáncer de pulmón de células no pequeñas localmente avanzado e inoperable que no pueden recibir quimiorradioterapia concurrente. Interesa porque aborda una población frágil, sin buenas opciones curativas estandarizadas, en la que se busca una alternativa que preserve eficacia con menor toxicidad.",
-      "destacado": true,
+      "destacado": false,
       "analisis": "Diseño: el título indica un ensayo clínico (DART) que evaluó durvalumab con radioterapia; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas, localmente avanzado, inoperable, no elegibles para quimiorradioterapia concurrente.\nIntervención: Durvalumab (inhibidor de PD-L1) asociado a radioterapia; el título no aclara el comparador (radioterapia sola u otro esquema).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de progresión ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, agregar durvalumab a la radioterapia podría convertirse en una opción para pacientes con cáncer de pulmón localmente avanzado que hoy no acceden al estándar de quimiorradioterapia concurrente seguida de inmunoterapia.\nNota: análisis sin acceso al abstract."
+    },
+    "8c859eab0c01": {
+      "resumen": "The New England Journal of Medicine publica un estudio sobre ensartinib, un inhibidor de segunda generación de ALK (quinasa del linfoma anaplásico), en pacientes con cáncer de pulmón de células no pequeñas con reordenamiento de ALK sometidos a resección quirúrgica. Interesa porque, de confirmar beneficio, sumaría una nueva opción de terapia dirigida adyuvante en esta población, junto a alectinib.",
+      "destacado": false,
+      "analisis": "Diseño: el título sugiere un ensayo clínico, probablemente de fase III y aleatorizado, en el escenario adyuvante (posquirúrgico); no se dispone de detalles sobre cegado, número de centros o de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas con reordenamiento del gen ALK (quinasa del linfoma anaplásico), sometidos a resección quirúrgica completa del tumor, presumiblemente en estadios tempranos a localmente avanzados.\nIntervención: Ensartinib, inhibidor de ALK de segunda generación, administrado como terapia adyuvante; el comparador probable es placebo u observación, aunque el título no lo especifica.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad ni el tiempo de seguimiento.\nMensaje: si confirma beneficio, ensartinib podría constituir una nueva opción de terapia dirigida adyuvante para el cáncer de pulmón resecado con reordenamiento de ALK, ampliando las alternativas ya disponibles con alectinib en este escenario.\nNota: análisis sin acceso al abstract."
+    },
+    "e616a59b6cb6": {
+      "resumen": "El New England Journal of Medicine publica los resultados de un ensayo que evaluó pembrolizumab (un anticuerpo que bloquea PD-1, una proteína que frena la respuesta inmunitaria) combinado con belzutifan (un inhibidor del factor inducible por hipoxia 2 alfa, HIF-2α) como tratamiento adyuvante tras la cirugía en carcinoma de células renales. Interesa porque el tratamiento adyuvante del cáncer renal de alto riesgo tiene alternativas limitadas y esta combinación suma un mecanismo novedoso a la inmunoterapia ya establecida.",
+      "destacado": true,
+      "analisis": "Diseño: el título sugiere un ensayo clínico, probablemente de fase III y aleatorizado, en el escenario adyuvante (posquirúrgico); no se dispone de detalles sobre cegado, número de centros o de pacientes.\nPoblación: Pacientes con carcinoma de células renales sometidos a nefrectomía, presumiblemente de riesgo intermedio-alto o alto de recurrencia, en línea con el perfil de estudios previos de inmunoterapia adyuvante en esta enfermedad.\nIntervención: Pembrolizumab (inhibidor de PD-1) combinado con belzutifan (inhibidor de HIF-2α); el comparador probable es pembrolizumab en monoterapia o placebo, aunque el título no lo especifica.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad de la combinación.\nMensaje: si confirma beneficio, la combinación de pembrolizumab con belzutifan podría transformar el estándar de tratamiento adyuvante del carcinoma de células renales de alto riesgo, sumando un mecanismo novedoso (inhibición de HIF-2α) a la inmunoterapia ya establecida con pembrolizumab.\nNota: análisis sin acceso al abstract."
     },
     "9e9b4e5e6df0": {
       "resumen": "Un recorrido por las locaciones reales -entre Grecia y Marruecos- donde Christopher Nolan filmó su nueva película, La Odisea."
@@ -53,17 +63,20 @@
     "394bc7a6319c": {
       "resumen": "Jennifer Lopez combina leggings de estilo italiano con sandalias flip flops retro de los años 2000 en su último look de verano."
     },
-    "e2f28d9288a5": {
-      "resumen": "Un repaso por las noticias de moda de julio 2026 que más dieron que hablar en la industria."
+    "63aca76b252c": {
+      "resumen": "Telva repasa las cinco tendencias de otoño que ya llegaron a Zara y cómo sumarlas al placard desde ahora."
     },
-    "3cf8e1986a7a": {
-      "resumen": "Las prendas de esquí se instalan como tendencia invernal dentro del street style de esta temporada."
+    "3ce4aa1f3403": {
+      "resumen": "La editora de moda Caroline Issa analiza el auge de las 'adult faces' (modelos de mayor edad) como estrategia de la industria del lujo, aunque advierte que sigue primando la delgadez extrema."
     },
-    "0a9ed7c43bb7": {
-      "resumen": "Un nuevo estudio señala que la percepción de belleza se despega cada vez más de la vestimenta."
+    "3d0f9760d243": {
+      "resumen": "Vogue México propone los mocasines de estilo japonés como calzado elegante para combinar con jeans, polleras y vestidos este verano."
     },
-    "04abe43789d9": {
-      "resumen": "El verde césped se impone en las pasarelas parisinas y llegará a la moda de otoño en España."
+    "4c849e2c125c": {
+      "resumen": "La firma de joyería Aristocrazy presenta sus tendencias de verano, con foco en piezas personalizadas y de diseño dinámico."
+    },
+    "1024981da659": {
+      "resumen": "Diario Río Negro repasa la tendencia de maquillaje impulsada por celebridades que llegó para quedarse, con consejos para lograrla."
     },
     "3a5d3709181c": {
       "resumen": "Cinco propuestas para bajar la ansiedad previa a la final del Mundial."
@@ -83,17 +96,17 @@
     "f3ffc6939302": {
       "resumen": "Seis propuestas gastronómicas porteñas para festejar el Día del Amigo."
     },
-    "6b9cfccb6654": {
-      "resumen": "Página/12 arma la agenda cultural de la provincia de Buenos Aires."
+    "03c4593b07bd": {
+      "resumen": "La drag queen y comediante estadounidense Bianca del Rio se presenta en Argentina."
     },
-    "3ddcb3a76724": {
-      "resumen": "El Teatro Argentino de La Plata ofrece espectáculos y actividades gratuitas para toda la familia durante las vacaciones de invierno."
+    "9098b0e5ac9d": {
+      "resumen": "Un repaso por cómo la tecnología va reemplazando a las boleterías tradicionales en los teatros porteños."
     },
-    "bd410a449231": {
-      "resumen": "Perfil cuenta que, con la suma de un restaurante coreano, la Argentina llega a 14 establecimientos gastronómicos distinguidos (título cortado en la fuente original)."
+    "d59c745c1d2c": {
+      "resumen": "La escena gastronómica de la Ciudad de Buenos Aires consolida su reconocimiento a nivel internacional."
     },
-    "0b5e25149874": {
-      "resumen": "Pura Ciudad cuenta que estudiantes tomaron la Escuela de Teatro Nini Marshall en rechazo al plan educativo porteño \"Buenos Aires Aprende\"."
+    "50a61a6546f2": {
+      "resumen": "El pronóstico anticipa lluvias y frío para el fin de semana, con dudas sobre el clima durante la final del Mundial."
     }
   }
 }
