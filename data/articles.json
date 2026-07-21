@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-21T03:52:13.391451+00:00",
+ "generated_at": "2026-07-21T06:45:01.188417+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Shimoli Barot, MD",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qc1FSMEtNSmFzM191NFFyY0tmbU1TTkZ0cEY4WUd0QzJvaTlhX09qWHRqeGFhTnRMeU44djlqd0pDa2dOb1ZVd3pYSUFGbXRkOU1CWGZ2R2lRMk1Z?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-21T05:25:39+00:00",
+     "id": "93f0b90eeecb"
+    },
     {
      "title": "DLBCL 2026 UPDATE",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zbXVBbC1GV25scnlGVDNCZnFkeUluamVkalU0SmstVGswUWtGZVBmTnd0OW1aTEg1SzlxUXpYY09aamZGZlBQT0pFdFZRQnFZVjlkVldjcVJFQQ?oc=5",
@@ -42,13 +49,6 @@
      "id": "55b5a1323e15"
     },
     {
-     "title": "Patient Education, Trial Design, Post-Market Surveillance, and Adoption Barriers",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3VTYWkyQUxTT0RlbU8zOHVkZnhuVndPU1NjSlFpWG05Tnp3X19LYTBGSWgtZVlscU9RbGs2bkU3SDREZGY2eGhwcDZCZ3NYaWcwX3NNWnJLVG1HX0tHc0NJcklPMjRWeFZpYnJRbTB2YVNKY0oyOG5QeVAxQ2JudU5tSWd0M2VWcXVfcEEweGlOT0VKRWVSRndOdmJDelJJMWpZYk5BVFBGZw?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-20T18:48:11+00:00",
-     "id": "a33415991a29"
-    },
-    {
      "title": "A Shopping List",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42454993/",
      "source": "Journal of Clinical Oncology",
@@ -79,6 +79,22 @@
      "published": "2026-07-16T00:00:00+00:00",
      "copete": "Rimner A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "6527f42da568"
+    },
+    {
+     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Yue D et al. · The New England journal of medicine",
+     "id": "8c859eab0c01"
+    },
+    {
+     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Choueiri TK et al. · The New England journal of medicine",
+     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -91,22 +107,50 @@
      "title": "Keisukeyoshida Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/keisukeyoshida",
      "source": "Vogue",
-     "published": "2026-07-21T03:50:36+00:00",
+     "published": "2026-07-21T06:41:39+00:00",
      "id": "129918ace92e"
     },
     {
      "title": "Elisabetta Franchi Resort 2027",
      "link": "https://www.vogue.com/fashion-shows/resort-2027/elisabetta-franchi",
      "source": "Vogue",
-     "published": "2026-07-21T03:50:36+00:00",
+     "published": "2026-07-21T06:41:39+00:00",
      "id": "3f1409d701c1"
     },
     {
      "title": "Fetico Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/fetico",
      "source": "Vogue",
-     "published": "2026-07-21T03:50:36+00:00",
+     "published": "2026-07-21T06:41:39+00:00",
      "id": "c899b9e4b8cf"
+    },
+    {
+     "title": "Desde Mallorca, descubre la marca artesanal que crea tendencias",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wSlF4SzJvdVFfWUVSN01YR0NfSmtac3VWTWFDczRGbGt3NXVRTUVEdTV6eVNzR3h5WnRMbzVjOVhjdkYzLUJYeG1JZzZGejNGVzBFTGdLaUMzR1Nja2U4M3phVzI0N2tQQ3RyYm81NlJMS2M?oc=5",
+     "source": "Neo2 Magazine",
+     "published": "2026-07-21T05:51:29+00:00",
+     "id": "a3585e24de10"
+    },
+    {
+     "title": "Primeras compras de nueva temporada: de la chaqueta que será tendencia en otoño al vestido más bonito de Massimo Dutti",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUJFN2ZxVm5EVkxfSXlMMlktWnVBMjVEOUZ1eTJ3ZHZrb01ZREp4YWQxSXVDN3VTZ3Y2Y3NpdElCTkxsLXh0SkFCaGVOWlIwcTNTWjVYdmdSUFNqbUZ4V1ItNVdTQWUxWjRMUzlyVDE5dElYWDFFWEVaNHBSM2loTURRUVTSAYQBQVVfeXFMTUhLMkVsS1NrQ2JpdDdDM2VEczlBZDlOTVNNbGZNZFFiU1FDdG5HSlpacmxzYmZQRDZhRnl1NFlsUXd3R1ZsMFdpTkdiLVlmdnpyeW8yQTFtWUZ5UU5aMDV0QmFKMk9wYnRSWWRDYjAwTXRHZHotSTNnUXF0bjQ5S3pOV3Q1?oc=5",
+     "source": "Telva",
+     "published": "2026-07-21T05:42:19+00:00",
+     "id": "bf7a826bf0fb"
+    },
+    {
+     "title": "Micam publica su primer avance de tendencias en calzado para 2027",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15WGdTaG1KX2R3Z05GQmtZb2tuVHhGZFhfZXFfMWNfMEN5d0UxYmR4dExXaWY1LUM5ZGNlZ2ZTOFBtZndqX1hDQnE0cnpzZ1k5am9FTHBTaWdWYkl4NVM2cG9DMFJDRlltUnVycg?oc=5",
+     "source": "Pinker Moda",
+     "published": "2026-07-21T04:46:12+00:00",
+     "id": "ba70c14bdd3e"
+    },
+    {
+     "title": "Estas son las siete tendencias en tejidos y estampados que hemos visto en las colecciones estivales",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1BfaFpaZFFSal9teHoyS0NNbjhpQ2dGRGlIelc3eFhXVHE1SHBld2M3SkJwYnl6RGRzb21mTHpWd2JsM1I3WGJwWjIwLU15Z1VSakhUaEVSTG5Mb1VpcElaWkxLWGFYcW02eXdXUzVZb1pxNy1GM0NhTmhhYXJCY0N1OUxoYU5EMExib2p2UUQwaWlTR09la2gzVC1PWHhRZnNJR1ZqRWFKcVkwRjQ5ZlNFeHNDY0lSSUU5OWlPTll0enBwbE1kdWFFTThyenR0ZWpsZzZIN0RNNk9tcE5sbDFZcFp5MHc?oc=5",
+     "source": "FashionUnited",
+     "published": "2026-07-21T04:07:53+00:00",
+     "id": "933530413078"
     },
     {
      "title": "Sandalias flip flops: Las de tendencia para llevar con jeans, faldas y vestidos en verano 2026",
@@ -129,34 +173,6 @@
      "published": "2026-07-21T00:00:06+00:00",
      "copete": "Find the best wrinkle cream for your antiaging concerns that dermatologists & estheticians actually use. Shop brands like SkinCeuticals, RoC & Neutrogena.",
      "id": "745763d50c7b"
-    },
-    {
-     "title": "El producto para tapar las canas que Aislinn Derbez usa (y que cubre la raíz en segundos)",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0xYOFV1TXcwOVp5VUFEcFQzdEY5OXRhN1JuY0NZeGlBbUQySWRqSnhGeDZ6bW14VC10YzN6dFNJbnMzTnZ5eTY4QjJXTnJmdmlHdmRCa3ZBeElJX0xKVE9CbXQ1d1JjTVhDRFdMaGhXMVpZaDZnMno3V213OWVYWDR5aHRycTJTeUdMSVdB?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-20T22:40:47+00:00",
-     "id": "f60a56b565b6"
-    },
-    {
-     "title": "Uñas azules y sandalias de tacón: Hailey Bieber sí sabe cómo lucir las tendencias del verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkNpMWFqR2lwWWYwLWNNQ0Rsbm5KUHdkdzhiTWJ1ZjJzaHJkOC1JRUJia3kwVFB1dzFzdlRtUjhkblZUQ0lpcm8yY3V3MjVzZ3NTNlctei1xOW12eVBGOHJQakhzbEZlMEZuXzFsWFU3UjdOTVJ4OHVzLVBBd2pGMWRNc0U3Ml80UTB0WDFDajJyY2ZqdWJIWmpYUQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-20T22:11:37+00:00",
-     "id": "1e85e2544e86"
-    },
-    {
-     "title": "¿Cómo compra el nuevo consumidor de moda en Colombia? Las tendencias que marcarán Colombiamoda 2026",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFpGRF9jX2c5eTc3V1NMWi1yV0NnNDdLRXZ6TF85N2k0b0FxcmltalJCU21TRzBDaU1fLUxPRkxtdnNGMFdMNW9wWEJ1c1FsRXdkUUJfS2I1MlZrQndMX2lmbjVIZF92bEJMeDRnYlBHSUpJUlBrWUd1bGNNZ284aWxXVQ?oc=5",
-     "source": "Vivir en El Poblado",
-     "published": "2026-07-20T22:02:51+00:00",
-     "id": "5a68c6a93477"
-    },
-    {
-     "title": "Por qué el estilo golfcore es la tendencia más elegante del verano",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnlOZHBFSHZfUVBDRGExVGpfczJGTGM5MENzWWtzLUhCS181QjcyZDAwZTJNMzEtWmZsc2tiVU5EblBtWGY0ckZ1RENTZ2hDdGJTN0FXS3Fxc0RadEoxQTh0R2l3TkhlY1FzQzNWYmRoY0liMHVrR0hlZ2hmaFppTWlrTGhHekdzUGpyVHpsSlJOQTJzdE8wSmlXUmRCZlVlNGJUbU1hMVpNNDRa0gGyAUFVX3lxTE9vejdteDV5aTZQbnNlOHBIM2RLakN6aG1MellnY3E0djdVOWxlX3otYmtBRVE2YnVYM3k0V0hJWkxOVTNJVER6X25rb3lKRHdOR0ZKRzVOWG9TZkFkeFdKS2R5NlBIVy1WVGsxbXl0NHJrZVBKTHJKQlBTdElwNGM4QTNOTnBNcUJCMTRmWkNxSk13ay00QVFGbjJacEwyaXNZeWlRSlFCQVprcUhHSWN5aUE?oc=5",
-     "source": "Mujerhoy",
-     "published": "2026-07-20T15:44:26+00:00",
-     "id": "19f1e1da86ec"
     }
    ]
   },
@@ -165,6 +181,14 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Murió Pato Strunz, histórico baterista de Hermética, Malón y figura emblemática del heavy metal argentino",
+     "link": "https://www.infobae.com/teleshow/2026/07/21/murio-pato-strunz-historico-baterista-de-hermetica-malon-y-figura-emblematica-del-heavy-metal-argentino/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-21T04:23:33+00:00",
+     "copete": "El músico, una figura clave detrás de discos fundamentales y de una trayectoria que también dejó huella fuera del escenario con su sala de ensayo, murió a los 59 años",
+     "id": "1dc4773717b8"
+    },
     {
      "title": "Gran Hermano Generación Dorada: Emanuel Di Gioia vs Solange Abraham quedaron en uno de los mano a mano más esperados",
      "link": "https://www.infobae.com/teleshow/2026/07/21/gran-hermano-generacion-dorada-emanuel-di-gioia-vs-solange-abraham-quedaron-en-uno-de-los-mano-a-mano-mas-esperados/",
@@ -204,14 +228,6 @@
      "published": "2026-07-21T01:36:17+00:00",
      "copete": "La modelo apareció entre las cámaras que esperaban al plantel, pero su plan era otro: reencontrarse con Francesca y Bautista, que volvían desde Estados Unidos",
      "id": "d6760055e6cd"
-    },
-    {
-     "title": "Samuel L. Jackson llamó a Argentina “el país más racista del mundo”: la contundente respuesta que le dejó Bárbara Lombardo",
-     "link": "https://www.infobae.com/teleshow/2026/07/21/samuel-l-jackson-llamo-a-argentina-el-pais-mas-racista-del-mundo-la-contundente-respuesta-que-le-dejo-barbara-lombardo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-21T00:04:31+00:00",
-     "copete": "La actriz salió al cruce del posteo que el protagonista compartió tras la final del Mundial y le dejó un mensaje en inglés que se volvió de los más apoyados",
-     "id": "514b00c47a4b"
     },
     {
      "title": "Ricardo Darín protagoniza en Netflix una de las mejores películas argentinas basadas en hechos reales",
@@ -330,84 +346,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Laura Fernández arremete contra el Poder Judicial por ausentarse del Consejo de Seguridad y lo califica como “berrinche”",
-     "link": "https://www.infobae.com/costa-rica/2026/07/21/laura-fernandez-arremete-contra-el-poder-judicial-por-ausentarse-del-consejo-de-seguridad-y-lo-califica-como-berrinche/",
-     "source": "Infobae",
-     "published": "2026-07-21T03:47:11+00:00",
-     "copete": "La mandataria aseguró que el presidente de la Corte Suprema de Justicia, la presidenta de la Sala de Casación Penal, el fiscal general y el director interino del OIJ incumplieron un deber constitucional; afirma que “el desplante se lo…",
-     "id": "3471f852035a"
-    },
-    {
-     "title": "El poder de los mayores bajo la lupa: ¿análisis social o argumento forzado?",
-     "link": "https://www.infobae.com/cultura/2026/07/21/el-poder-de-los-mayores-bajo-la-lupa-analisis-social-o-argumento-forzado/",
-     "source": "Infobae",
-     "published": "2026-07-21T03:40:00+00:00",
-     "copete": "Un nuevo libro de Samuel Moyn sostiene que el país se ha convertido en una “gerontocracia”, en la que la riqueza y el poder son acaparados por los ancianos",
-     "id": "585f8ffbdc9d"
-    },
-    {
-     "title": "La residencia definitiva para extranjeros en El Salvador sube 632.9% en el primer semestre de 2026",
-     "link": "https://www.infobae.com/el-salvador/2026/07/21/la-residencia-definitiva-para-extranjeros-en-el-salvador-sube-6329-en-el-primer-semestre-de-2026/",
-     "source": "Infobae",
-     "published": "2026-07-21T03:37:22+00:00",
-     "copete": "La Dirección General de Migración y Extranjería también reportó 1,509 permisos temporales, 270.8% por encima de 2025, en un semestre marcado por el alza de autorizaciones para establecerse en el país",
-     "id": "e9f6d53ceede"
-    },
-    {
-     "title": "El BCIE y El Salvador firman un préstamo de USD 185 millones para agua potable en San Salvador",
-     "link": "https://www.infobae.com/el-salvador/2026/07/21/el-bcie-y-el-salvador-firman-un-prestamo-de-usd-185-millones-para-agua-potable-en-san-salvador/",
-     "source": "Infobae",
-     "published": "2026-07-21T03:36:16+00:00",
-     "copete": "El financiamiento, suscrito con el Ministerio de Hacienda de El Salvador, permitirá ejecutar obras en el sistema Guluchapa para ampliar la cobertura en siete distritos e incorporar tecnologías de monitoreo y control operativo",
-     "id": "59ec66ecd477"
-    },
-    {
-     "title": "Qué es el “home staging”: los trucos baratos para vender o alquilar más rápido",
-     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/que-es-el-home-staging-los-trucos-baratos-para-vender-o-alquilar-mas-rapido-nid21072026/",
+     "title": "Por qué Lionel Messi no viajó con sus compañeros de la selección de regreso a la Argentina",
+     "link": "https://www.lanacion.com.ar/deportes/messi-no-viaja-con-sus-companeros-de-la-seleccion-de-regreso-a-la-argentina-nid20072026/",
      "source": "La Nación",
-     "published": "2026-07-21T03:30:00+00:00",
-     "copete": "Al momento de vender una propiedad existen algunas prácticas que pueden hacerlo más deseable sin grandes inversiones.",
-     "id": "2008e0a9bf2c"
+     "published": "2026-07-21T06:40:01+00:00",
+     "copete": "El capitán se fue de Nueva York junto a Rodrigo De Paul, y este martes llegaría a Rosario",
+     "id": "7d7f80d50a7f"
     },
     {
-     "title": "Clima hoy en Cali, Colombia: el pronóstico del tiempo para este martes 21 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-cali-colombia-pronostico-tiempo-martes-21-julio-2026_0_SGiFZ1Kni2.html",
-     "source": "Clarín",
-     "published": "2026-07-21T03:29:47+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "9a5e34a234f2"
-    },
-    {
-     "title": "Clima hoy en Bucaramanga, Colombia: el pronóstico del tiempo para este martes 21 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-bucaramanga-colombia-pronostico-tiempo-martes-21-julio-2026_0_LOjXzBm0Gd.html",
-     "source": "Clarín",
-     "published": "2026-07-21T03:29:47+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "a4205ab81dc7"
-    },
-    {
-     "title": "Clima hoy en Bogotá, Colombia: el pronóstico del tiempo para este martes 21 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-bogota-colombia-pronostico-tiempo-martes-21-julio-2026_0_iw5ZH8DfIj.html",
-     "source": "Clarín",
-     "published": "2026-07-21T03:29:47+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "204c6826a8dd"
-    },
-    {
-     "title": "Clima hoy en Viña del Mar, Chile: el pronóstico del tiempo para este martes 21 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-vina-mar-chile-pronostico-tiempo-martes-21-julio-2026_0_GGNxthsc1c.html",
-     "source": "Clarín",
-     "published": "2026-07-21T03:29:24+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "e231360162bf"
-    },
-    {
-     "title": "La localidad con alcurnia y apellidos vascos que está ligada a Jorge Luis Borges",
-     "link": "https://www.lanacion.com.ar/revista-lugares/la-localidad-con-alcurnia-y-apellidos-vascos-que-esta-ligada-a-jorge-luis-borges-nid18072026/",
+     "title": "El primer trailer de Avengers: Doomsday muestra el regreso del Capitán América, Thor y el debut de Robert Downey Jr. como el nuevo villano de Marvel",
+     "link": "https://www.lanacion.com.ar/espectaculos/cine/el-primer-trailer-de-avengers-doomsday-muestra-el-regreso-del-capitan-america-thor-y-el-debut-de-nid21072026/",
      "source": "La Nación",
-     "published": "2026-07-21T03:15:00+00:00",
-     "copete": "Al sur de la provincia de Buenos Aires tiene edificaciones elegantes y mucha historia",
-     "id": "26200777ce98"
+     "published": "2026-07-21T06:36:09+00:00",
+     "copete": "El próximo film del grupo de Vengadores llegará en diciembre de este año",
+     "id": "9800a7612e03"
+    },
+    {
+     "title": "Renunció un funcionario del Banco Nación y designaron en su lugar a Javier Lanari, ex secretario de Prensa",
+     "link": "https://www.infobae.com/politica/2026/07/21/renuncio-un-funcionario-del-banco-nacion-y-designaron-en-su-lugar-a-javier-lanari-ex-secretario-de-prensa/",
+     "source": "Infobae",
+     "published": "2026-07-21T06:31:00+00:00",
+     "copete": "La llegada al organismo del segundo del exjefe de Gabinete trascendió los primeros días del mes. El reciente movimiento tiene su origen en la salida de Gonzalo Pascual del directorio",
+     "id": "00695b7e035a"
+    },
+    {
+     "title": "Marchas y piquetes: los movimientos sociales cortarán accesos en rechazo a la baja del programa Volver al Trabajo",
+     "link": "https://www.infobae.com/politica/2026/07/21/marchas-y-piquetes-los-movimientos-sociales-cortaran-accesos-en-rechazo-a-la-baja-del-programa-volver-al-trabajo/",
+     "source": "Infobae",
+     "published": "2026-07-21T06:24:54+00:00",
+     "copete": "La protesta nacional comenzará este miércoles 22 con bloqueos cuyos puntos se definirán horas antes y no se difundirán, para evitar operativos policiales en puentes y entradas a la Ciudad de Buenos Aires",
+     "id": "06f7ca6fdfa4"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el mensaje del Presidente a la selección y el proyecto para suspender las PASO",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mensaje-del-presidente-a-la-seleccion-y-el-proyecto-para-nid21072026/",
+     "source": "La Nación",
+     "published": "2026-07-21T06:19:45+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "332fe7fdb780"
+    },
+    {
+     "title": "El futuro de Scaloni tras el Mundial: qué ocurrió la última vez que el entrenador se planteó dejar la Selección y el “factor Messi”",
+     "link": "https://www.infobae.com/deportes/2026/07/21/el-futuro-de-scaloni-tras-el-mundial-que-ocurrio-la-ultima-vez-que-el-entrenador-se-planteo-dejar-la-seleccion-y-el-factor-messi/",
+     "source": "Infobae",
+     "published": "2026-07-21T06:18:07+00:00",
+     "copete": "El Gringo no pudo contener la emoción tras la derrota con España en la final de la Copa del Mundo y dejó una frase sobre su futuro que generó incógnita. ¿Sigue o no?",
+     "id": "6f978ca19038"
+    },
+    {
+     "title": "Scaloni y Messi: la otra Argentina",
+     "link": "https://www.lanacion.com.ar/politica/scaloni-y-messi-la-otra-argentina-nid21072026/",
+     "source": "La Nación",
+     "published": "2026-07-21T06:13:56+00:00",
+     "copete": "J.K. Rowling y la Selección; la política debería inspirarse en Scaloni; Tapia y Toviggino, en busca de un juez amigo; el cambio de criterio de Borinsky; Santilli, el verdugo de Santiago Caputo; otro chofer que habla; el crucial calendario…",
+     "id": "e560783688b9"
+    },
+    {
+     "title": "El histórico recital de Roger Waters que celebró la caída del Muro de Berlín: la lista de invitados y el Ejército Rojo en el show",
+     "link": "https://www.infobae.com/historia/2026/07/21/el-historico-recital-de-roger-waters-que-celebro-la-caida-del-muro-de-berlin-la-lista-de-invitados-y-el-ejercito-rojo-en-el-show/",
+     "source": "Infobae",
+     "published": "2026-07-21T05:41:27+00:00",
+     "copete": "El lugar elegido cargaba historia de guerra y hubo que medir cada paso antes de levantar la estructura. El elenco cambió por bajas y críticas. La transmisión global mostró problemas técnicos y momentos complicados. Se realizó el 21 de…",
+     "id": "53b82be3e361"
+    },
+    {
+     "title": "Encontraron muerta a una mujer en Catamarca y arrestaron a uno de sus hijos: “Tenía la cabeza destrozada”",
+     "link": "https://www.clarin.com/policiales/encontraron-muerta-mujer-catamarca-arrestaron-hijos-cabeza-destrozada_0_XuGzp1vAEb.html",
+     "source": "Clarín",
+     "published": "2026-07-21T04:31:28+00:00",
+     "copete": "La víctima tenía 61 años y según su sobrina, que halló el cuerpo, mantenía una relación conflictiva con el acusado. El sospechoso, de 22 años, quedó a disposición de la Justicia.",
+     "id": "a5734539648e"
+    },
+    {
+     "title": "\"Les pido un favor: el de no cerrar futuras cabezas\"",
+     "link": "https://www.clarin.com/cartas-al-pais/pido-favor-cerrar-futuras-cabezas_0_gFpxyjQMbC.html",
+     "source": "Clarín",
+     "published": "2026-07-21T04:01:59+00:00",
+     "id": "201db6bbc37f"
     }
    ]
   },
@@ -420,9 +435,25 @@
      "title": "¡ESPAÑA CAMPEONA! Así te contamos cómo La Roja se impuso 1-0 contra Argentina y logró su segundo Mundial",
      "link": "https://www.bbc.co.uk/mundo/live/cn8n7zzzjpjt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-21T03:52:13.295813+00:00",
+     "published": "2026-07-21T06:45:00.208146+00:00",
      "copete": "España dominó el partido pero recién pudo convertir en el 106' de la mano de Ferran Torres. Se corona campeona 16 años después de su primer Copa del Mundo. Argentina hizo poco durante el partido y Messi perdió con Mbappé tanto la Bota de…",
      "id": "a88f0c747a44"
+    },
+    {
+     "title": "La FIFA abre una investigación contra Argentina por los incidentes tras la derrota en la final del Mundial 2026",
+     "link": "https://www.bbc.com/mundo/articles/cwye8j2yq83o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-21T04:30:03+00:00",
+     "copete": "Argentina se enfrentará a una investigación por los lamentables incidentes ocurridos al final de la final del Mundial, según ha confirmado la FIFA.",
+     "id": "49d1fc17928d"
+    },
+    {
+     "title": "Las imágenes de los multitudinarios festejos de los jugadores de España tras proclamarse campeones del Mundial 2026",
+     "link": "https://www.bbc.com/mundo/articles/cwyj34zdll7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-21T04:29:10+00:00",
+     "copete": "La selección de España llegó este lunes al país y celebró junto con más de un millón de personas.",
+     "id": "1031e8a91931"
     },
     {
      "title": "De Cuba a Vietnam: los miles de extranjeros que han muerto combatiendo para Rusia en la guerra con Ucrania",
@@ -439,22 +470,6 @@
      "published": "2026-07-21T03:45:01+00:00",
      "copete": "El nuevo primer ministro quiere dar prioridad a la política nacional frente a la exterior",
      "id": "7221ef66dd7a"
-    },
-    {
-     "title": "Las imágenes de los multitudinarios festejos de los jugadores de la selección española por las calles de Madrid tras proclamarse campeones en el Mundial 2026",
-     "link": "https://www.bbc.com/mundo/articles/cwyj34zdll7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-21T00:32:00+00:00",
-     "copete": "La selección de España llegó este lunes al país y celebró junto con más de un millón de personas.",
-     "id": "1031e8a91931"
-    },
-    {
-     "title": "El extraordinario nacimiento en Australia de cuatrillizas idénticas concebidas de forma natural",
-     "link": "https://www.bbc.com/mundo/articles/cwymxl3pewxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-20T22:33:06+00:00",
-     "copete": "Los padres de las cuatro niñas concebidas de forma natural se mostraron \"enormemente sorprendidos\" por el embarazo, según informó el hospital.",
-     "id": "2fc7f0ed0f24"
     },
     {
      "title": "Ismael ‘El Mayo’ Zambada, condenado a cadena perpetua por un tribunal de Nueva York",
@@ -492,11 +507,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
