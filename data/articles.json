@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T06:45:01.188417+00:00",
+ "generated_at": "2026-07-21T10:35:25.001782+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -79,22 +79,6 @@
      "published": "2026-07-16T00:00:00+00:00",
      "copete": "Rimner A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "6527f42da568"
-    },
-    {
-     "title": "Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42418775/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-09T00:00:00+00:00",
-     "copete": "Yue D et al. · The New England journal of medicine",
-     "id": "8c859eab0c01"
-    },
-    {
-     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42384869/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-02T00:00:00+00:00",
-     "copete": "Choueiri TK et al. · The New England journal of medicine",
-     "id": "e616a59b6cb6"
     }
    ]
   },
@@ -107,22 +91,65 @@
      "title": "Keisukeyoshida Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/keisukeyoshida",
      "source": "Vogue",
-     "published": "2026-07-21T06:41:39+00:00",
+     "published": "2026-07-21T10:31:18+00:00",
      "id": "129918ace92e"
     },
     {
      "title": "Elisabetta Franchi Resort 2027",
      "link": "https://www.vogue.com/fashion-shows/resort-2027/elisabetta-franchi",
      "source": "Vogue",
-     "published": "2026-07-21T06:41:39+00:00",
+     "published": "2026-07-21T10:31:18+00:00",
      "id": "3f1409d701c1"
     },
     {
      "title": "Fetico Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/fetico",
      "source": "Vogue",
-     "published": "2026-07-21T06:41:39+00:00",
+     "published": "2026-07-21T10:31:18+00:00",
      "id": "c899b9e4b8cf"
+    },
+    {
+     "title": "The 12 Best Airbnbs in Mallorca for a Holiday in the Sun",
+     "link": "https://www.vogue.com/article/best-airbnbs-in-mallorca",
+     "source": "Vogue",
+     "published": "2026-07-21T10:30:00+00:00",
+     "copete": "Planning a trip to Spain's Balearic Islands? Book one of the best Airbnbs in Mallorca for your home base.",
+     "id": "a78c1475f507"
+    },
+    {
+     "title": "El look de Hailey Bieber que todas quieren copiar ya tiene versión asequible por menos de 70 euros",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZXZTM0JKZHVtUVk1WUhtVFpTanVzNFNYeWtEeTR0RklTMG1kdUIyZkd5QWM2UHg2RkhPcVZQX1ZnbHdZYVpHMXJzTGdGazNTRDRNcDgyMmxoZ0pGNG1aTElieWpEbUlKUFM0SmEwaHE1X2ljd2FINzE3Ujh4NkRTdF9lQnBVUHExd045VWIxTWpXaXRQb1FBTTBFYmk4M180WlhpdmNpX1lvWmozV0xEODdkd2NwSDgxTkJ3a0xDSHNBemVmU1VpZkx4YXlRSnNLYVh1aEsyMU9wemcxMW9fS0ttYm9mUG03ektGTzNlekIxNnB2X0wxdQ?oc=5",
+     "source": "La Razón",
+     "published": "2026-07-21T09:14:15+00:00",
+     "id": "2f2e9a0c6e70"
+    },
+    {
+     "title": "BARRAGÁN SS30: moda, migración e identidad protagonizan el desfile mexicano en Berlín",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmNVdWdrNl9xWEpyMllrQmQ2dGpkZ3BPN0FHcGFRQjFJQ3hWR3hiQXR5bnBEWmhmcjdvOV8yMzZBTkxjODN3UWl2SXE3bDhVR3NuQjlJVTExcXJRUEZZOEJMb1lWeEp0MFhHUlI3WWRsX2dLdXNVSDlzd2lhcUhCN202YmQ5bzgxVXFrVXh3eFpnRWRBODZJUUlZSUZBZTdud2I1N2w5Z0Jxc0xhSzRuejZsZGJnbi13ZmNzeU0tSjJ2cmNqa2FOcExpdDE1dw?oc=5",
+     "source": "La Crónica de Hoy",
+     "published": "2026-07-21T07:55:21+00:00",
+     "id": "a533c466b08e"
+    },
+    {
+     "title": "Los mejores viajes de verano de la redacción de Vogue",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OUENwSVd5akZVbTl5QnVSQzdwcUdyNUx4M09hb2dBWVMxV0haUWpiU3V5QUprcjFnbFZrZnNELWtXX0xTOWVyR3BlWGw3LThFeVAzTTBCaVBudTZWTXZUanZqSTdZT2IwUUd0cUR3?oc=5",
+     "source": "Vogue España",
+     "published": "2026-07-21T07:42:45+00:00",
+     "id": "c12e68d1ffd9"
+    },
+    {
+     "title": "Esta verano, la microfalda será nuestra revolución",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmNld3pfUy1xQkVadU1KcWtReVpjeVNHMkNRYklvajBYWFFoV0lDYTJYQkcxaHlHVlhRZlcxY2VTdHBtdlBxaDBWdm1pU3RhcDNTQkVIS2RLTjdGdHhnRWR6TGxZLWlNODIxY1dWMmRLYzdaUExSSTR6NUlMdVJ3NE51S3A0WDFaVzBHNkgybFNHV1puNF93?oc=5",
+     "source": "Vogue España",
+     "published": "2026-07-21T07:26:47+00:00",
+     "id": "5120667d81bd"
+    },
+    {
+     "title": "Tendencias de moda en el Fashion Week París de Alta Costura",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWZ6U3VPTHVOaWlIV0ZscUp3OTM1YVF1Z0ZKYVRHMFdmQzBlSVNpNGJWcU1Kbm85N0RkeDNtY3M2NVBhQVNsbElGNm1VbE9JX2h3S19WSV91LTBXR0RzeHBjYmpWM3dIWUMzUWpFOWJ6d2tLUE1mY3QtXzlkOS1WYXRTR3lid2NlbVVQLWQ0RG1xak0zeTk0NUlWWVoyblMxaGVoejJhMA?oc=5",
+     "source": "La Razón de México",
+     "published": "2026-07-21T07:00:00+00:00",
+     "id": "20a50ff6a86b"
     },
     {
      "title": "Desde Mallorca, descubre la marca artesanal que crea tendencias",
@@ -130,49 +157,6 @@
      "source": "Neo2 Magazine",
      "published": "2026-07-21T05:51:29+00:00",
      "id": "a3585e24de10"
-    },
-    {
-     "title": "Primeras compras de nueva temporada: de la chaqueta que será tendencia en otoño al vestido más bonito de Massimo Dutti",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUJFN2ZxVm5EVkxfSXlMMlktWnVBMjVEOUZ1eTJ3ZHZrb01ZREp4YWQxSXVDN3VTZ3Y2Y3NpdElCTkxsLXh0SkFCaGVOWlIwcTNTWjVYdmdSUFNqbUZ4V1ItNVdTQWUxWjRMUzlyVDE5dElYWDFFWEVaNHBSM2loTURRUVTSAYQBQVVfeXFMTUhLMkVsS1NrQ2JpdDdDM2VEczlBZDlOTVNNbGZNZFFiU1FDdG5HSlpacmxzYmZQRDZhRnl1NFlsUXd3R1ZsMFdpTkdiLVlmdnpyeW8yQTFtWUZ5UU5aMDV0QmFKMk9wYnRSWWRDYjAwTXRHZHotSTNnUXF0bjQ5S3pOV3Q1?oc=5",
-     "source": "Telva",
-     "published": "2026-07-21T05:42:19+00:00",
-     "id": "bf7a826bf0fb"
-    },
-    {
-     "title": "Micam publica su primer avance de tendencias en calzado para 2027",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15WGdTaG1KX2R3Z05GQmtZb2tuVHhGZFhfZXFfMWNfMEN5d0UxYmR4dExXaWY1LUM5ZGNlZ2ZTOFBtZndqX1hDQnE0cnpzZ1k5am9FTHBTaWdWYkl4NVM2cG9DMFJDRlltUnVycg?oc=5",
-     "source": "Pinker Moda",
-     "published": "2026-07-21T04:46:12+00:00",
-     "id": "ba70c14bdd3e"
-    },
-    {
-     "title": "Estas son las siete tendencias en tejidos y estampados que hemos visto en las colecciones estivales",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT1BfaFpaZFFSal9teHoyS0NNbjhpQ2dGRGlIelc3eFhXVHE1SHBld2M3SkJwYnl6RGRzb21mTHpWd2JsM1I3WGJwWjIwLU15Z1VSakhUaEVSTG5Mb1VpcElaWkxLWGFYcW02eXdXUzVZb1pxNy1GM0NhTmhhYXJCY0N1OUxoYU5EMExib2p2UUQwaWlTR09la2gzVC1PWHhRZnNJR1ZqRWFKcVkwRjQ5ZlNFeHNDY0lSSUU5OWlPTll0enBwbE1kdWFFTThyenR0ZWpsZzZIN0RNNk9tcE5sbDFZcFp5MHc?oc=5",
-     "source": "FashionUnited",
-     "published": "2026-07-21T04:07:53+00:00",
-     "id": "933530413078"
-    },
-    {
-     "title": "Sandalias flip flops: Las de tendencia para llevar con jeans, faldas y vestidos en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1RWc3JVelNjbUNLeC1rTGhvZHVwVTdfWEZ1T3kwakVibnIxOEJkQWYyNVdUOEdJVy03eFRXMzExMDhHNmV0TmFhNndFU2RVeWJyYXFzc2wtQVFkUnliOXBuRmQyUWR4ZG9Ka0tkTTRMZFEwTG9hamxfc2ktS2hyamJUNlFxZm92QXlBNHV6OEp1bWl6aVBvZ3JvV2E3QmZyVjIyRkJNMmE4dTY3aUdnWG1SUFVRa1UyaHc?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-21T00:33:23+00:00",
-     "id": "922dd22763c8"
-    },
-    {
-     "title": "Las sandalias japonesas para lucir con jeans, faldas y vestidos en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMWVsdnMtWXpKbWpVWUxPN0dDZmtkVUNfQmRLVlpTbjlhWHNibVB6THZjX2F1MC1BMEc3M0t2dV9MRkcwa3Vtd2d2X0dHUEhwZkVnV3UtYnBkZ3hxU05zS2pPN2ZyRUVaN2dnNElKX2lZeG5wc0tJMUZPenlzb2lqTXg2WXBYZ0lOYjV6QVlwY21ZVUNzdE9n?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-21T00:01:37+00:00",
-     "id": "a9b407f596a7"
-    },
-    {
-     "title": "11 Best Wrinkle Creams of 2026: Dermatologist-Recommended Products",
-     "link": "https://www.vogue.com/article/best-wrinkle-cream",
-     "source": "Vogue",
-     "published": "2026-07-21T00:00:06+00:00",
-     "copete": "Find the best wrinkle cream for your antiaging concerns that dermatologists & estheticians actually use. Shop brands like SkinCeuticals, RoC & Neutrogena.",
-     "id": "745763d50c7b"
     }
    ]
   },
@@ -181,6 +165,62 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Teatro en las vacaciones de invierno en CABA: las opciones para los más chicos",
+     "link": "https://www.lanacion.com.ar/espectaculos/teatro-en-las-vacaciones-de-invierno-en-caba-las-opciones-para-los-mas-chicos-nid08072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-21T10:01:07+00:00",
+     "copete": "Espectáculos teatrales y eventos culturales forman parte de la oferta pensada para los más chicos en la Ciudad; hay propuestas para quienes buscan gastar poco al salir en familia",
+     "id": "c623e79ecac9"
+    },
+    {
+     "title": "Samuel L. Jackson acusó a Argentina de ser “uno de los países más racistas del mundo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/samuel-l-jackson-acuso-a-argentina-de-ser-uno-de-los-paises-mas-racistas-del-mundo-nid20072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-21T09:39:44+00:00",
+     "copete": "El reconocido actor de Hollywood utilizó uno de sus personajes más conocidos del cine para cuestionar a los integrantes de la comunidad negra que apoyaron a la selección argentina durante el Mundial 2026",
+     "id": "c1f250fac38f"
+    },
+    {
+     "title": "Cuando una diva se enamoró de un arquero: el romance de Graciela Borges y Marcos “Anguila” Gutiérrez",
+     "link": "https://www.lanacion.com.ar/espectaculos/cuando-una-diva-se-enamoro-de-un-arquero-el-romance-de-graciela-borges-y-marcos-anguila-gutierrez-nid19072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-21T09:39:36+00:00",
+     "copete": "Se conocieron por casualidad, desafiaron los prejuicios y construyeron una relación que durante tres años ocupó las portadas de las revistas; esta es la historia completa de un romance inolvidable",
+     "id": "f8a2f18090d5"
+    },
+    {
+     "title": "Así es la casa sustentable del hijo de Julián Weich en Córdoba",
+     "link": "https://www.lanacion.com.ar/espectaculos/asi-es-la-casa-sustentable-del-hijo-de-julian-weich-en-cordoba-nid18072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-21T09:38:05+00:00",
+     "copete": "Jerónimo “Momo” Weich está instalado en Los Hornillos y compartió en sus redes sociales el proceso de construcción de su propio hogar con materiales naturales y recursos locales",
+     "id": "3e386e662dba"
+    },
+    {
+     "title": "Bugsy Malone cumple 50 años: gangsters, chicos y ametralladoras que disparaban crema",
+     "link": "https://www.clarin.com/espectaculos/bugsy-malone-cumple-50-anos-gangsters-chicos-ametralladoras-disparaban-crema_0_89FuAXWgmJ.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-21T09:02:03+00:00",
+     "copete": "Alan Parker dirigió el musical y Jodie Foster, a los 13, interpretaba una femme fatal. La protagonizaron todos chicos como si fueran adultos.",
+     "id": "95f546ae361e"
+    },
+    {
+     "title": "La Odisea: las cinco razones por las que es un éxito impresionante",
+     "link": "https://www.clarin.com/espectaculos/odisea-razones-exito-impresionante_0_1T6Y4obPqi.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-21T09:00:05+00:00",
+     "copete": "Superó todas las expectativas. Y es el estreno más taquillero de Christopher Nolan. El peso de Matt Damon, Zendaya y Tom Holland y... de IMAX.",
+     "id": "48c1841cc853"
+    },
+    {
+     "title": "Murió Claudio “Pato” Strunz, histórico baterista de Hermética y Malón, y referente del heavy metal argentino",
+     "link": "https://www.clarin.com/espectaculos/murio-claudio-pato-strunz-historico-baterista-hermetica-malon-referente-heavy-metal-argentino_0_mgKl8eQbuc.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-21T06:25:05+00:00",
+     "copete": "Tenía 59 años y fue uno de los músicos que acompañó a Ricardo Iorio durante la etapa más recordada de su carrera. Se presentó en festivales como Monsters of Rock y compartió cartel con bandas como Black Sabbath, Slayer y Kiss.",
+     "id": "f9e76a64a8b9"
+    },
     {
      "title": "Murió Pato Strunz, histórico baterista de Hermética, Malón y figura emblemática del heavy metal argentino",
      "link": "https://www.infobae.com/teleshow/2026/07/21/murio-pato-strunz-historico-baterista-de-hermetica-malon-y-figura-emblematica-del-heavy-metal-argentino/",
@@ -220,46 +260,6 @@
      "published": "2026-07-21T02:59:30+00:00",
      "copete": "La actriz contó que estuvo en el estadio para la definición de 2026, felicitó a España por el título y le dedicó un mensaje cargado de cariño al capitán argentino y a la Scaloneta tras la derrot",
      "id": "ea44517460ab"
-    },
-    {
-     "title": "El motivo por el que Cami Homs estuvo en Ezeiza durante la llegada de la Selección Argentina",
-     "link": "https://www.infobae.com/teleshow/2026/07/21/el-motivo-por-el-que-cami-homs-estuvo-en-ezeiza-durante-la-llegada-de-la-seleccion-argentina/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-21T01:36:17+00:00",
-     "copete": "La modelo apareció entre las cámaras que esperaban al plantel, pero su plan era otro: reencontrarse con Francesca y Bautista, que volvían desde Estados Unidos",
-     "id": "d6760055e6cd"
-    },
-    {
-     "title": "Ricardo Darín protagoniza en Netflix una de las mejores películas argentinas basadas en hechos reales",
-     "link": "https://www.clarin.com/espectaculos/ricardo-darin-protagoniza-netflix-mejores-peliculas-argentinas-basadas-hechos-reales_0_hrvUmdxNlA.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-20T20:30:14+00:00",
-     "copete": "El filme retrata una realidad social marcada por la exclusión y la violencia. Un edificio inconcluso se convirtió en el eje simbólico del relato.",
-     "id": "9583e246a074"
-    },
-    {
-     "title": "El rating más triste, cómo fueron los números del domingo, con la dolorosa derrota de Argentina ante España",
-     "link": "https://www.clarin.com/espectaculos/rating-triste-numeros-domingo-dolorosa-derrota-argentina-espana_0_CDGuI1MfPe.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-20T13:53:21+00:00",
-     "copete": "Cómo era de esperarse, la final mundialista copó las pantallas, tanto de televisión abierta como de cable. Los siete programas más vistos, todos de Telefe, tuvieron que ver con el partido.",
-     "id": "fe3985b5f0b7"
-    },
-    {
-     "title": "\"La Odisea\" es el debut mundial más grande de Christopher Nolan, con 264 millones de dólares, pero el director quiere parar un tiempo",
-     "link": "https://www.clarin.com/espectaculos/odisea-debut-mundial-grande-christopher-nolan-264-millones-dolares-director-quiere-parar-tiempo_0_TNVDfqxFHP.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-20T13:11:15+00:00",
-     "copete": "El cineasta detrás de la película más taquillera del momento, protagonizada por Matt Damon, dice que está listo para tomarse un descanso. ¿Cuánto tiempo planea alejarse de los estudios de filmación?",
-     "id": "c63d80bd2655"
-    },
-    {
-     "title": "Cómo son los payadores de la actualidad, el cruce con los raperos y el mito de los desafíos a muerte",
-     "link": "https://www.clarin.com/espectaculos/payadores-actualidad-cruce-raperos-mito-desafios-muerte_0_JV99vsmGFs.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-20T13:03:49+00:00",
-     "copete": "Emanuel Gabotto (43) y David Tokar (44) son dos de los más reconocidos representantes actuales de la payada argentina. Han participado incluso de las famosas “batallas de gallos”, duelos donde se enfrentan a jóvenes raperos. ¿Hay todavía…",
-     "id": "573816f8979b"
     }
    ]
   },
@@ -346,83 +346,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Por qué Lionel Messi no viajó con sus compañeros de la selección de regreso a la Argentina",
-     "link": "https://www.lanacion.com.ar/deportes/messi-no-viaja-con-sus-companeros-de-la-seleccion-de-regreso-a-la-argentina-nid20072026/",
-     "source": "La Nación",
-     "published": "2026-07-21T06:40:01+00:00",
-     "copete": "El capitán se fue de Nueva York junto a Rodrigo De Paul, y este martes llegaría a Rosario",
-     "id": "7d7f80d50a7f"
-    },
-    {
-     "title": "El primer trailer de Avengers: Doomsday muestra el regreso del Capitán América, Thor y el debut de Robert Downey Jr. como el nuevo villano de Marvel",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/el-primer-trailer-de-avengers-doomsday-muestra-el-regreso-del-capitan-america-thor-y-el-debut-de-nid21072026/",
-     "source": "La Nación",
-     "published": "2026-07-21T06:36:09+00:00",
-     "copete": "El próximo film del grupo de Vengadores llegará en diciembre de este año",
-     "id": "9800a7612e03"
-    },
-    {
-     "title": "Renunció un funcionario del Banco Nación y designaron en su lugar a Javier Lanari, ex secretario de Prensa",
-     "link": "https://www.infobae.com/politica/2026/07/21/renuncio-un-funcionario-del-banco-nacion-y-designaron-en-su-lugar-a-javier-lanari-ex-secretario-de-prensa/",
+     "title": "Ladrones en Nordelta: el video del audaz robo de dólares a un conocido cantante",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/20/ladrones-en-nordelta-el-video-del-audaz-robo-de-dolares-a-un-conocido-cantante/",
      "source": "Infobae",
-     "published": "2026-07-21T06:31:00+00:00",
-     "copete": "La llegada al organismo del segundo del exjefe de Gabinete trascendió los primeros días del mes. El reciente movimiento tiene su origen en la salida de Gonzalo Pascual del directorio",
-     "id": "00695b7e035a"
+     "published": "2026-07-21T10:28:35+00:00",
+     "copete": "Ocurrió el 13 de junio último en el exclusivo sector de Las Tipas. Fue protagonizado por tres delincuentes que llegaron y se fueron a pie. La Policía Bonaerense capturó a un sospechoso en las últimas horas",
+     "id": "83b6e1e89a45"
     },
     {
-     "title": "Marchas y piquetes: los movimientos sociales cortarán accesos en rechazo a la baja del programa Volver al Trabajo",
-     "link": "https://www.infobae.com/politica/2026/07/21/marchas-y-piquetes-los-movimientos-sociales-cortaran-accesos-en-rechazo-a-la-baja-del-programa-volver-al-trabajo/",
+     "title": "El juez Jorge Gorini: autoexigencia, amenazas y más de dos décadas juzgando la corrupción",
+     "link": "https://www.infobae.com/judiciales/2026/07/21/el-juez-jorge-gorini-autoexigencia-amenazas-y-mas-de-dos-decadas-juzgando-la-corrupcion/",
      "source": "Infobae",
-     "published": "2026-07-21T06:24:54+00:00",
-     "copete": "La protesta nacional comenzará este miércoles 22 con bloqueos cuyos puntos se definirán horas antes y no se difundirán, para evitar operativos policiales en puentes y entradas a la Ciudad de Buenos Aires",
-     "id": "06f7ca6fdfa4"
+     "published": "2026-07-21T10:24:13+00:00",
+     "copete": "En una nueva entrega de Sr. Juez, el juez del Tribunal Oral Federal Nº 2 habla sobre los desafíos de juzgar el poder, el impacto que las presiones y amenazas tuvieron en su familia y el boxeo como filosofía de vida.",
+     "id": "b262d60522ed"
+    },
+    {
+     "title": "Día Mundial del Perro: cuáles son las 10 razas más inteligentes, según los expertos",
+     "link": "https://www.infobae.com/perros-y-gatos/2026/07/21/dia-mundial-del-perro-cuales-son-las-10-razas-mas-inteligentes-segun-expertos/",
+     "source": "Infobae",
+     "published": "2026-07-21T10:23:47+00:00",
+     "copete": "Estos animales se destacan por su notable capacidad para resolver problemas, aprender con rapidez y adaptarse a distintos desafíos",
+     "id": "95456063e0a2"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: el mensaje del Presidente a la selección y el proyecto para suspender las PASO",
      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mensaje-del-presidente-a-la-seleccion-y-el-proyecto-para-nid21072026/",
      "source": "La Nación",
-     "published": "2026-07-21T06:19:45+00:00",
+     "published": "2026-07-21T10:22:18+00:00",
      "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
      "id": "332fe7fdb780"
     },
     {
-     "title": "El futuro de Scaloni tras el Mundial: qué ocurrió la última vez que el entrenador se planteó dejar la Selección y el “factor Messi”",
-     "link": "https://www.infobae.com/deportes/2026/07/21/el-futuro-de-scaloni-tras-el-mundial-que-ocurrio-la-ultima-vez-que-el-entrenador-se-planteo-dejar-la-seleccion-y-el-factor-messi/",
+     "title": "Lionel Messi llegó a Rosario luego de su participación en la Copa del Mundo",
+     "link": "https://www.infobae.com/deportes/2026/07/21/lionel-messi-llego-a-rosario-luego-de-su-participacion-en-la-copa-del-mundo/",
      "source": "Infobae",
-     "published": "2026-07-21T06:18:07+00:00",
-     "copete": "El Gringo no pudo contener la emoción tras la derrota con España en la final de la Copa del Mundo y dejó una frase sobre su futuro que generó incógnita. ¿Sigue o no?",
-     "id": "6f978ca19038"
+     "published": "2026-07-21T10:21:42+00:00",
+     "copete": "El astro argentino y su familia viajaron en un vuelo privado y permanecerán unos días en su ciudad natal antes de reincorporarse al Inter Miami",
+     "id": "dd9c0212f33d"
     },
     {
-     "title": "Scaloni y Messi: la otra Argentina",
-     "link": "https://www.lanacion.com.ar/politica/scaloni-y-messi-la-otra-argentina-nid21072026/",
+     "title": "Fecha de cobro de Anses: el cronograma de pagos para este martes 21 de julio",
+     "link": "https://www.lanacion.com.ar/economia/fecha-de-cobro-de-anses-el-cronograma-de-pagos-para-este-martes-21-de-julio-nid21072026/",
      "source": "La Nación",
-     "published": "2026-07-21T06:13:56+00:00",
-     "copete": "J.K. Rowling y la Selección; la política debería inspirarse en Scaloni; Tapia y Toviggino, en busca de un juez amigo; el cambio de criterio de Borinsky; Santilli, el verdugo de Santiago Caputo; otro chofer que habla; el crucial calendario…",
-     "id": "e560783688b9"
+     "published": "2026-07-21T10:21:41+00:00",
+     "copete": "El organismo previsional sigue con el calendario de pagos de jubilaciones mínimas y la AUH, entre otras prestaciones sociales",
+     "id": "1c79412719d2"
     },
     {
-     "title": "El histórico recital de Roger Waters que celebró la caída del Muro de Berlín: la lista de invitados y el Ejército Rojo en el show",
-     "link": "https://www.infobae.com/historia/2026/07/21/el-historico-recital-de-roger-waters-que-celebro-la-caida-del-muro-de-berlin-la-lista-de-invitados-y-el-ejercito-rojo-en-el-show/",
-     "source": "Infobae",
-     "published": "2026-07-21T05:41:27+00:00",
-     "copete": "El lugar elegido cargaba historia de guerra y hubo que medir cada paso antes de levantar la estructura. El elenco cambió por bajas y críticas. La transmisión global mostró problemas técnicos y momentos complicados. Se realizó el 21 de…",
-     "id": "53b82be3e361"
+     "title": "Las predicciones de Jimena La Torre: conocé tu horóscopo para la semana del 20 al 26 de julio",
+     "link": "https://www.lanacion.com.ar/horoscopo/las-predicciones-de-jimena-la-torre-conoce-tu-horoscopo-para-la-semana-del-20-al-26-de-julio-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-21T10:17:24+00:00",
+     "copete": "Las claves de lo que le depara a los diferentes signos del Zodíaco, con la particularidad de la llegada de la Luna creciente; cuál es la carta de la suerte de cada uno",
+     "id": "e951c2a120b3"
     },
     {
-     "title": "Encontraron muerta a una mujer en Catamarca y arrestaron a uno de sus hijos: “Tenía la cabeza destrozada”",
-     "link": "https://www.clarin.com/policiales/encontraron-muerta-mujer-catamarca-arrestaron-hijos-cabeza-destrozada_0_XuGzp1vAEb.html",
+     "title": "Efemérides del 21 de julio: ¿qué pasó un día como hoy?",
+     "link": "https://www.lanacion.com.ar/lifestyle/efemerides-del-21-de-julio-que-paso-un-dia-como-hoy-nid21072026/",
+     "source": "La Nación",
+     "published": "2026-07-21T10:15:26+00:00",
+     "copete": "Las efemérides del martes 21 de julio incluyen el Día Mundial del Perro, entre otras celebraciones, y aniversarios asociados a la fecha",
+     "id": "db9dc500c60b"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 21 de julio de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-21-de-julio-de-2026-en-argentina_0_vF880S610y.html",
      "source": "Clarín",
-     "published": "2026-07-21T04:31:28+00:00",
-     "copete": "La víctima tenía 61 años y según su sobrina, que halló el cuerpo, mantenía una relación conflictiva con el acusado. El sospechoso, de 22 años, quedó a disposición de la Justicia.",
-     "id": "a5734539648e"
+     "published": "2026-07-21T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "8b134e7fb606"
     },
     {
-     "title": "\"Les pido un favor: el de no cerrar futuras cabezas\"",
-     "link": "https://www.clarin.com/cartas-al-pais/pido-favor-cerrar-futuras-cabezas_0_gFpxyjQMbC.html",
+     "title": "Dólar tarjeta hoy: a cuánto cotiza este martes 21 de julio",
+     "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-21-julio_0_VrChuvc7bi.html",
      "source": "Clarín",
-     "published": "2026-07-21T04:01:59+00:00",
-     "id": "201db6bbc37f"
+     "published": "2026-07-21T10:08:01+00:00",
+     "copete": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
+     "id": "e90830299d2f"
     }
    ]
   },
@@ -435,9 +436,33 @@
      "title": "¡ESPAÑA CAMPEONA! Así te contamos cómo La Roja se impuso 1-0 contra Argentina y logró su segundo Mundial",
      "link": "https://www.bbc.co.uk/mundo/live/cn8n7zzzjpjt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-21T06:45:00.208146+00:00",
+     "published": "2026-07-21T10:35:24.931648+00:00",
      "copete": "España dominó el partido pero recién pudo convertir en el 106' de la mano de Ferran Torres. Se corona campeona 16 años después de su primer Copa del Mundo. Argentina hizo poco durante el partido y Messi perdió con Mbappé tanto la Bota de…",
      "id": "a88f0c747a44"
+    },
+    {
+     "title": "Un buque con gas propano arde frente a la costa de Rumania tras ser alcanzado presuntamente por un dron",
+     "link": "https://elpais.com/internacional/2026-07-21/un-buque-con-gas-propano-arde-frente-a-la-costa-de-rumania-tras-ser-alcanzado-presuntamente-por-un-dron.html",
+     "source": "El País Internacional",
+     "published": "2026-07-21T10:32:39+00:00",
+     "copete": "La embarcación se dirigía a uno de los puertos del sur de Ucrania que Rusia bombardea desde hace cuatro años",
+     "id": "cbe7c966c694"
+    },
+    {
+     "title": "\"No podía aceptar que nunca encontrarían a mi amiga desaparecida y me fui al otro lado del planeta a buscarla\"",
+     "link": "https://www.bbc.com/mundo/articles/c39en94xnmno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-21T10:25:20+00:00",
+     "copete": "Cuando su mejor amiga desapareció mientras hacía senderismo en una selva tropical en Australia, Justine Ropet supo que tenía que conseguir respuestas. Y lo logró.",
+     "id": "5d9ba973d833"
+    },
+    {
+     "title": "Cambié de trabajo 10 veces en 10 años para conseguir la carrera laboral que quería",
+     "link": "https://www.bbc.com/mundo/articles/c9345550xzwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-21T09:29:33+00:00",
+     "copete": "La Generación Z es más propensa a cambiar a menudo de trabajo para ganar distinstas experiencias en una tendencia que se conoce como \"lily padding\".",
+     "id": "67c4667ae604"
     },
     {
      "title": "La FIFA abre una investigación contra Argentina por los incidentes tras la derrota en la final del Mundial 2026",
@@ -448,52 +473,28 @@
      "id": "49d1fc17928d"
     },
     {
-     "title": "Las imágenes de los multitudinarios festejos de los jugadores de España tras proclamarse campeones del Mundial 2026",
-     "link": "https://www.bbc.com/mundo/articles/cwyj34zdll7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-21T04:29:10+00:00",
-     "copete": "La selección de España llegó este lunes al país y celebró junto con más de un millón de personas.",
-     "id": "1031e8a91931"
-    },
-    {
-     "title": "De Cuba a Vietnam: los miles de extranjeros que han muerto combatiendo para Rusia en la guerra con Ucrania",
-     "link": "https://www.bbc.com/mundo/articles/c2dkly9wr80o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-21T03:47:09+00:00",
-     "copete": "Más de 3.500 extranjeros -de más de 40 países, incluyendo Cuba y Ecuador- han muerto combatiendo para Rusia en su guerra contra Ucrania, según una investigación de la BBC.",
-     "id": "6ba8d7710d5b"
-    },
-    {
-     "title": "Burnham hereda una relación con la UE que apenas ha despegado tras el Brexit y nuevos roces con Trump",
-     "link": "https://elpais.com/internacional/2026-07-21/burnham-hereda-una-relacion-con-la-ue-que-apenas-ha-despegado-tras-el-brexit-y-nuevos-roces-con-trump.html",
+     "title": "EE UU sube la apuesta y asegura que su cruzada contra narcos y políticos corruptos de México no termina con la condena al Mayo",
+     "link": "https://elpais.com/mexico/2026-07-21/ee-uu-sube-la-apuesta-y-asegura-que-su-cruzada-contra-narcos-y-politicos-corruptos-de-mexico-no-termina-con-la-condena-al-mayo.html",
      "source": "El País Internacional",
-     "published": "2026-07-21T03:45:01+00:00",
-     "copete": "El nuevo primer ministro quiere dar prioridad a la política nacional frente a la exterior",
-     "id": "7221ef66dd7a"
+     "published": "2026-07-21T04:00:00+00:00",
+     "copete": "Washington sostiene que la relación entre el crimen organizado y el Gobierno en México es indisoluble, mientras Sheinbaum exige respeto a la soberanía y coordinación sin sometimiento",
+     "id": "e7feb69bce48"
     },
     {
-     "title": "Ismael ‘El Mayo’ Zambada, condenado a cadena perpetua por un tribunal de Nueva York",
-     "link": "https://elpais.com/us/2026-07-20/ismael-el-mayo-zambada-condenado-a-cadena-perpetua-por-un-tribunal-de-nueva-york.html",
+     "title": "La angustia por los desaparecidos tras los terremotos en Venezuela: “Se perdió la huella de mi madre”",
+     "link": "https://elpais.com/america/2026-07-21/la-angustia-por-los-desaparecidos-tras-los-terremotos-en-venezuela-se-perdio-la-huella-de-mi-madre.html",
      "source": "El País Internacional",
-     "published": "2026-07-20T20:22:36+00:00",
-     "copete": "El antiguo líder del Cartel de Sinaloa lee una carta en la que pide perdón a sus víctimas antes de conocer la sentencia, que ordena el decomiso de 15.000 millones de dólares",
-     "id": "c2294747e76b"
+     "published": "2026-07-21T04:00:00+00:00",
+     "copete": "Las autoridades no tienen en cuenta los casos de quienes se perdió el rastro después de ser rescatados, en traslados entre hospitales o bajo los escombros, mientras la cifra de desaparecidos alcanza las 5.208 personas",
+     "id": "896bd153e23d"
     },
     {
-     "title": "La Fiscalía británica acusa formalmente al detenido por el asesinato de la política conservadora Ann Widdecombe",
-     "link": "https://elpais.com/internacional/2026-07-20/la-fiscalia-britanica-acusa-formalmente-al-detenido-por-el-asesinato-de-la-politica-conservadora-ann-widdecombe.html",
+     "title": "Las interrogantes por la muerte de Juan Jairo Coronilla, el mexicano que huía del ICE: “Llegó con visa de trabajo”",
+     "link": "https://elpais.com/mexico/2026-07-21/las-interrogantes-por-la-muerte-de-juan-jairo-coronilla-el-mexicano-que-huia-del-ice-llego-con-visa-de-trabajo.html",
      "source": "El País Internacional",
-     "published": "2026-07-20T19:33:20+00:00",
-     "copete": "Joshua Kerry, de 28 años y arrestado el 11 de julio, comparecerá ante un tribunal este martes mientras la Policía trata de aclarar el móvil del crimen",
-     "id": "e80d578bb848"
-    },
-    {
-     "title": "La gran maestra del ajedrez Judit Pólgar rechaza ser la próxima presidenta de Hungría",
-     "link": "https://elpais.com/internacional/2026-07-20/la-gran-maestra-del-ajedrez-judit-polgar-rechaza-ser-la-proxima-presidenta-de-hungria.html",
-     "source": "El País Internacional",
-     "published": "2026-07-20T19:23:54+00:00",
-     "copete": "“Nuestro país necesita unidad, paz y un presidente del que todos los húngaros podamos sentirnos orgullosos”, afirmó el primer ministro, Péter Magyar, cuando anunció el nombre de la campeona mundial",
-     "id": "2feecfac710a"
+     "published": "2026-07-21T04:00:00+00:00",
+     "copete": "El hombre de 28 años, de Guanajuato, trabajaba como vendedor de muebles y tenía un boleto de retorno a México para el 18 de julio. Fue atropellado por un camión para evitar un operativo contra migrantes en Florida",
+     "id": "d59167de5a02"
     }
    ]
   }
@@ -507,6 +508,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
