@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T10:06:22Z",
+  "generated_at": "2026-07-21T22:07:50Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -20,22 +20,52 @@
       "destacado": true,
       "analisis": "Diseño: el título indica un ensayo clínico (DART) que evaluó durvalumab con radioterapia; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas, localmente avanzado, inoperable, no elegibles para quimiorradioterapia concurrente.\nIntervención: Durvalumab (inhibidor de PD-L1) asociado a radioterapia; el título no aclara el comparador (radioterapia sola u otro esquema).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de progresión ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, agregar durvalumab a la radioterapia podría convertirse en una opción para pacientes con cáncer de pulmón localmente avanzado que hoy no acceden al estándar de quimiorradioterapia concurrente seguida de inmunoterapia.\nNota: análisis sin acceso al abstract."
     },
-    "09fea439956c": {
-      "resumen": "OncLive presenta una actualización 2026 sobre el linfoma difuso de células B grandes (DLBCL), el subtipo más frecuente de linfoma no Hodgkin agresivo. Sirve como repaso del estado actual del tratamiento, aunque el título no detalla qué estudio puntual origina la nota.",
+    "be26ea668666": {
+      "resumen": "OncLive repasa las estrategias endocrinas emergentes para el cáncer de mama temprano con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) negativo, con foco en el rol potencial de giredestrant, un degradador selectivo oral del receptor de estrógeno en investigación. Sirve como puesta al día sobre alternativas que podrían sumarse a la hormonoterapia adyuvante en este subtipo, el más frecuente de cáncer de mama.",
       "destacado": false
     },
-    "cf14df30590a": {
-      "resumen": "The ASCO Post recoge la opinión del oncólogo Benjamin P. Levy sobre las opciones emergentes de primera línea y en combinación para el cáncer de pulmón de células no pequeñas (NSCLC) con mutación KRAS G12C. Es una entrevista de opinión especializada, útil para actualizar el panorama terapéutico de este subgrupo molecular.",
-      "destacado": false
-    },
-    "088ef8c19018": {
-      "resumen": "The ASCO Post publica otra entrevista al oncólogo Benjamin P. Levy, esta vez centrada en el panorama actual de tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) con mutación KRAS G12C. Complementa la nota anterior con una mirada más general sobre el estado del arte.",
-      "destacado": false
-    },
-    "55b5a1323e15": {
-      "resumen": "The ASCO Post reporta que incorporar la salud ambiental (exposición a tóxicos, contaminantes y otros factores del entorno) en la atención oncológica pediátrica podría mejorar los desenlaces clínicos. Interesa porque abre una dimensión poco explorada en el abordaje integral del cáncer infantil.",
+    "39db10920689": {
+      "resumen": "OncLive analiza los datos de fase 3 de epcoritamab, un anticuerpo biespecífico que se une simultáneamente a CD3 (en linfocitos T) y CD20 (en células B), y cómo se diferencia de otros anticuerpos biespecíficos en el linfoma difuso de células B grandes (DLBCL), el linfoma no Hodgkin agresivo más frecuente. Interesa para ubicar el lugar de esta clase de fármacos en el tratamiento actual del DLBCL.",
       "destacado": false,
-      "analisis": "Diseño: el título sugiere un análisis sobre la integración de la salud ambiental en la atención oncológica pediátrica; no se precisa si se trata de un estudio original, una cohorte o una revisión de la evidencia existente, ni el número de pacientes o centros involucrados.\nPoblación: Niños y adolescentes con cáncer, en el contexto de su atención oncológica integral.\nIntervención: Incorporación sistemática de la evaluación de factores de salud ambiental (exposición a tóxicos, contaminantes u otros determinantes del entorno) dentro del plan de cuidado oncológico; no se especifica un comparador claro.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una posible mejora en los desenlaces clínicos.\nLimitaciones: sin el texto completo no se conoce el diseño metodológico exacto, cómo se midió la exposición ambiental, ni la magnitud del impacto sobre los desenlaces.\nMensaje: si se confirma, sumar la evaluación ambiental a la atención oncológica pediátrica podría representar una estrategia complementaria de bajo costo para mejorar resultados, aunque falta precisar cómo implementarla en la práctica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: El título hace referencia a datos de un ensayo clínico de fase 3 sobre epcoritamab; no se detalla el diseño (aleatorización, cegado), ni el número de centros o de pacientes.\nPoblación: Pacientes con linfoma difuso de células B grandes (DLBCL), el subtipo más frecuente de linfoma no Hodgkin agresivo; el título no especifica la línea de tratamiento.\nIntervención: Epcoritamab, anticuerpo biespecífico que se une a CD3 (linfocitos T) y CD20 (células B), comparado conceptualmente con otros anticuerpos biespecíficos disponibles en DLBCL; no se aclara el comparador exacto del ensayo de fase 3.\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto del ensayo, el tamaño muestral, las tasas de respuesta o supervivencia reportadas, ni el perfil de toxicidad (como el síndrome de liberación de citoquinas, frecuente en esta clase de fármacos).\nMensaje: si los datos de fase 3 son sólidos, epcoritamab podría consolidar su lugar entre los anticuerpos biespecíficos disponibles para DLBCL, aunque la elección entre agentes de esta clase dependerá de diferencias en eficacia, toxicidad y esquema de administración.\nNota: análisis sin acceso al abstract."
+    },
+    "f5023be2aae3": {
+      "resumen": "OncLive recoge la opinión de un oncólogo (Dr. Mou) sobre la relevancia de los datos de eficacia de un fármaco en investigación para la leucemia linfática crónica (CLL), probablemente un inhibidor de BTK (tirosina quinasa de Bruton). Es una nota de opinión especializada, útil para actualizar el panorama terapéutico de esta clase de fármacos en CLL.",
+      "destacado": false
+    },
+    "498bc150d94b": {
+      "resumen": "The ASCO Post reporta un estudio que encontró que el diagnóstico de cáncer realizado en la guardia (servicio de urgencias) se asocia con mayor mortalidad, en comparación con otras vías de diagnóstico, en un análisis que abarcó 16 tipos distintos de cáncer. Interesa porque señala una vía de diagnóstico de peor pronóstico que podría orientar estrategias de detección temprana.",
+      "destacado": false,
+      "analisis": "Diseño: El título indica un estudio, probablemente de cohorte o basado en registro, que comparó la mortalidad según la vía de diagnóstico; no se especifica si fue retrospectivo o prospectivo, ni el número de centros o de pacientes incluidos.\nPoblación: Pacientes con diagnóstico de cáncer en 16 tipos tumorales distintos, diagnosticados a través del servicio de urgencias (guardia) versus otras vías de diagnóstico.\nIntervención: No aplica una intervención terapéutica; se compara la vía de diagnóstico (en el servicio de urgencias) frente a otras formas de detección del cáncer.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una asociación con mayor mortalidad en los 16 tipos de cáncer evaluados.\nLimitaciones: sin el texto completo no se conoce la magnitud del riesgo (razón de riesgo o de mortalidad), si se ajustó por estadio al diagnóstico u otras variables de confusión, ni el diseño exacto del estudio.\nMensaje: el diagnóstico de cáncer en la guardia podría ser un marcador de peor pronóstico (por ejemplo, por diagnóstico en estadios más avanzados o por barreras de acceso a la atención), lo que resalta la importancia de fortalecer las vías de detección temprana y el acceso a controles ambulatorios.\nNota: análisis sin acceso al abstract."
+    },
+    "222f2711952f": {
+      "resumen": "The ASCO Post informa que la Association for Molecular Pathology (AMP) distinguió a un patólogo del Instituto Nacional del Cáncer (NCI) de Estados Unidos con un premio a la excelencia en diagnóstico molecular. Es una noticia institucional de reconocimiento profesional, sin datos clínicos nuevos.",
+      "destacado": false
+    },
+    "392b4297506a": {
+      "resumen": "The ASCO Post repasa cómo definir el mieloma múltiple funcionalmente de alto riesgo en la era de la terapia cuádruple (combinación de cuatro fármacos) y el trasplante autólogo de células madre. Es una puesta al día conceptual sobre los criterios de riesgo, más que el reporte de un estudio puntual con resultados propios.",
+      "destacado": false
+    },
+    "65626a5b90c5": {
+      "resumen": "Vogue Business repasa los últimos cambios de liderazgo y las nuevas incorporaciones ejecutivas en la industria de la moda."
+    },
+    "4789389902a5": {
+      "resumen": "Jessica Alba lució un vestido negro de estilo años 2000 combinado con sandalias, una apuesta de estilo para el verano 2026."
+    },
+    "7d80e14c2017": {
+      "resumen": "Vogue México selecciona siete vestidos midi para combinar con calzado plano después de los 40 años este verano."
+    },
+    "ca1fd71753d1": {
+      "resumen": "Belinda vuelve a la tapa de Vogue México y responde a quienes hablan de un regreso a la escena pública."
+    },
+    "08392a35a943": {
+      "resumen": "Vogue México propone cómo combinar mocasines negros con pantalones de tendencia este verano."
+    },
+    "49dde7d69fbc": {
+      "resumen": "ELLE selecciona cinco conjuntos monocolor de Zara que anticipan la tendencia prep del otoño 2026."
+    },
+    "5b230b53d305": {
+      "resumen": "Madrid Actual repasa las tendencias de moda masculina pensadas para quienes viajan con frecuencia."
     },
     "3a5d3709181c": {
       "resumen": "Cinco propuestas para bajar la ansiedad previa a la final del Mundial."
@@ -49,68 +79,23 @@
     "d59c745c1d2c": {
       "resumen": "La escena gastronómica de la Ciudad de Buenos Aires consolida su reconocimiento a nivel internacional."
     },
-    "50a61a6546f2": {
-      "resumen": "El pronóstico anticipa lluvias y frío para el fin de semana, con dudas sobre el clima durante la final del Mundial."
+    "547792bae086": {
+      "resumen": "El Gobierno de la Ciudad de Buenos Aires presentó su agenda de actividades de vacaciones de invierno, del 18 de julio al 2 de agosto."
     },
     "5ce9a676248a": {
       "resumen": "La Ciudad de Buenos Aires repasa historias secretas y curiosidades del Teatro Colón."
     },
-    "404cfc5f9c34": {
-      "resumen": "Escenarios Nacionales publica una agenda especial de teatro para las vacaciones de invierno."
+    "a6bb1c1ac11b": {
+      "resumen": "Un sector pide cancelar los shows de Rosalía en Buenos Aires y la declaró persona no grata, en medio de una polémica."
     },
-    "129918ace92e": {
-      "resumen": "El diseñador Keisukeyoshida presentó su colección primavera 2027 en la semana de la moda de Tokio."
+    "932e048dd8d3": {
+      "resumen": "El Destape informa las fechas y la venta de entradas para los shows de Bahiano en Buenos Aires, Santa Fe, Tierra del Fuego y Uruguay durante 2026."
     },
-    "3f1409d701c1": {
-      "resumen": "La marca italiana Elisabetta Franchi presentó su colección resort 2027."
+    "6b9cfccb6654": {
+      "resumen": "Página|12 publica la agenda cultural de la provincia de Buenos Aires."
     },
-    "c899b9e4b8cf": {
-      "resumen": "La firma japonesa Fetico presentó su colección primavera 2027 en la semana de la moda de Tokio."
-    },
-    "93f0b90eeecb": {
-      "resumen": "OncLive publica un contenido breve (video o nota) protagonizado por la Dra. Shimoli Barot, oncóloga, aunque el título no especifica el tema tratado. Sin más contexto no es posible precisar de qué área puntual de la oncología se trata.",
-      "destacado": false
-    },
-    "40799be89bb6": {
-      "resumen": "OncLive repasa la aprobación de la FDA (agencia regulatoria de medicamentos de Estados Unidos) para la combinación de palbociclib (un inhibidor de CDK4/6, quinasas que regulan la división celular) más trastuzumab (un anticuerpo dirigido contra la proteína HER2) en cáncer de mama HER2 positivo. Interesa porque resume una nueva opción terapéutica aprobada para este subtipo tumoral.",
-      "destacado": false
-    },
-    "8c859eab0c01": {
-      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo sobre ensartinib (un inhibidor de la proteína ALK, quinasa del linfoma anaplásico) como tratamiento adyuvante -es decir, después de la cirugía- en pacientes con cáncer de pulmón de células no pequeñas resecado y con reordenamiento del gen ALK positivo. Interesa porque evalúa si extender la inhibición de ALK tras la cirugía reduce el riesgo de recaída en este subgrupo molecular.",
-      "destacado": false,
-      "analisis": "Diseño: El título indica un ensayo clínico sobre ensartinib en el contexto adyuvante; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas resecado (operado), con reordenamiento del gen ALK positivo.\nIntervención: Ensartinib (inhibidor de la quinasa ALK) en el escenario adyuvante; el título no especifica el comparador (placebo, observación u otro inhibidor de ALK).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, la terapia adyuvante con ensartinib podría sumarse como estándar para pacientes con cáncer de pulmón ALK-positivo resecado, en línea con la estrategia ya establecida para otros subgrupos moleculares (como EGFR).\nNota: análisis sin acceso al abstract."
-    },
-    "e616a59b6cb6": {
-      "resumen": "The New England Journal of Medicine presenta un ensayo sobre la combinación de pembrolizumab (un anticuerpo que bloquea PD-1, proteína que frena la respuesta inmunitaria) más belzutifan (un inhibidor de HIF-2α, factor inducible por hipoxia) como tratamiento adyuvante -tras la cirugía- en carcinoma de células renales. Interesa porque explora si intensificar la inmunoterapia adyuvante con esta combinación mejora los resultados frente al estándar actual.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un ensayo clínico sobre terapia adyuvante combinada; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales operado, en el escenario adyuvante, con riesgo de recaída tras la nefrectomía.\nIntervención: Pembrolizumab (inhibidor de PD-1) más belzutifan (inhibidor de HIF-2α) en combinación; el título no especifica el comparador (pembrolizumab solo, placebo u observación).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad de la combinación.\nMensaje: si los resultados son positivos, esta combinación podría representar una intensificación del tratamiento adyuvante estándar (pembrolizumab solo) para pacientes con carcinoma renal de alto riesgo, aunque habrá que sopesar el beneficio adicional frente a la mayor toxicidad esperable.\nNota: análisis sin acceso al abstract."
-    },
-    "a3585e24de10": {
-      "resumen": "Neo2 Magazine presenta una marca artesanal mallorquina que marca tendencia en moda."
-    },
-    "bf7a826bf0fb": {
-      "resumen": "Telva repasa las primeras compras de la nueva temporada, desde la chaqueta tendencia de otoño hasta un vestido destacado de Massimo Dutti."
-    },
-    "ba70c14bdd3e": {
-      "resumen": "La feria Micam adelanta las primeras tendencias en calzado para 2027."
-    },
-    "933530413078": {
-      "resumen": "FashionUnited identifica siete tendencias en tejidos y estampados vistas en las colecciones de verano."
-    },
-    "922dd22763c8": {
-      "resumen": "Vogue México selecciona las sandalias flip flops de moda para combinar con jeans, polleras y vestidos este verano."
-    },
-    "a9b407f596a7": {
-      "resumen": "Vogue México propone cómo lucir las sandalias japonesas con jeans, polleras y vestidos este verano."
-    },
-    "547792bae086": {
-      "resumen": "El Gobierno de la Ciudad de Buenos Aires presentó su agenda de actividades de vacaciones de invierno, del 18 de julio al 2 de agosto."
-    },
-    "d395ab678e23": {
-      "resumen": "El Petit Colón proyectará La Pantera Rosa en pantalla gigante con música de jazz en vivo, en solo dos funciones."
-    },
-    "f3ffc6939302": {
-      "resumen": "Una selección de seis restaurantes porteños para celebrar el Día del Amigo."
+    "8660325bf66f": {
+      "resumen": "Clarín reúne más de 60 planes para el fin de semana del 17 al 19 de julio en Buenos Aires, entre recitales, teatro, cine, streaming y muestras gratuitas."
     }
   }
 }
