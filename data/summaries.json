@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:06:00Z",
+  "generated_at": "2026-07-21T10:06:22Z",
   "summaries": {
     "00b5b738a47a": {
       "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
@@ -37,14 +37,6 @@
       "destacado": false,
       "analisis": "Diseño: el título sugiere un análisis sobre la integración de la salud ambiental en la atención oncológica pediátrica; no se precisa si se trata de un estudio original, una cohorte o una revisión de la evidencia existente, ni el número de pacientes o centros involucrados.\nPoblación: Niños y adolescentes con cáncer, en el contexto de su atención oncológica integral.\nIntervención: Incorporación sistemática de la evaluación de factores de salud ambiental (exposición a tóxicos, contaminantes u otros determinantes del entorno) dentro del plan de cuidado oncológico; no se especifica un comparador claro.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una posible mejora en los desenlaces clínicos.\nLimitaciones: sin el texto completo no se conoce el diseño metodológico exacto, cómo se midió la exposición ambiental, ni la magnitud del impacto sobre los desenlaces.\nMensaje: si se confirma, sumar la evaluación ambiental a la atención oncológica pediátrica podría representar una estrategia complementaria de bajo costo para mejorar resultados, aunque falta precisar cómo implementarla en la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "a33415991a29": {
-      "resumen": "OncLive aborda en un mismo panel temas como educación del paciente, diseño de ensayos clínicos, vigilancia posterior a la comercialización de fármacos y barreras para la adopción de nuevas terapias. Es una nota de discusión general sobre el ecosistema oncológico más que el reporte de un estudio puntual.",
-      "destacado": false
-    },
-    "af0bc88f6293": {
-      "resumen": "OncLive entrevista al Dr. Falchi sobre las necesidades médicas insatisfechas y los próximos pasos clave en el linfoma difuso de células B grandes (DLBCL), el subtipo más frecuente de linfoma no Hodgkin agresivo. Ofrece una mirada de experto sobre hacia dónde va la investigación en esta enfermedad.",
-      "destacado": false
-    },
     "3a5d3709181c": {
       "resumen": "Cinco propuestas para bajar la ansiedad previa a la final del Mundial."
     },
@@ -53,9 +45,6 @@
     },
     "27cd26da1809": {
       "resumen": "Catorce restaurantes argentinos fueron distinguidos con estrellas en la Guía Michelin 2026."
-    },
-    "03c4593b07bd": {
-      "resumen": "La drag queen y comediante estadounidense Bianca del Rio se presenta en Argentina."
     },
     "d59c745c1d2c": {
       "resumen": "La escena gastronómica de la Ciudad de Buenos Aires consolida su reconocimiento a nivel internacional."
@@ -69,9 +58,6 @@
     "404cfc5f9c34": {
       "resumen": "Escenarios Nacionales publica una agenda especial de teatro para las vacaciones de invierno."
     },
-    "291a2a9bf760": {
-      "resumen": "El Planeta Urbano recomienda diez barras y restaurantes porteños con propuestas para el Día Internacional del Tequila."
-    },
     "129918ace92e": {
       "resumen": "El diseñador Keisukeyoshida presentó su colección primavera 2027 en la semana de la moda de Tokio."
     },
@@ -81,23 +67,50 @@
     "c899b9e4b8cf": {
       "resumen": "La firma japonesa Fetico presentó su colección primavera 2027 en la semana de la moda de Tokio."
     },
-    "684b4a010230": {
-      "resumen": "Vogue México repasa si este fue el peor Mercurio retrógrado de la historia y cómo afectó a los signos."
+    "93f0b90eeecb": {
+      "resumen": "OncLive publica un contenido breve (video o nota) protagonizado por la Dra. Shimoli Barot, oncóloga, aunque el título no especifica el tema tratado. Sin más contexto no es posible precisar de qué área puntual de la oncología se trata.",
+      "destacado": false
     },
-    "f1fd6e32f1de": {
-      "resumen": "Vogue México selecciona ocho modelos de sandalias de tiras infaltables para el verano 2026."
+    "40799be89bb6": {
+      "resumen": "OncLive repasa la aprobación de la FDA (agencia regulatoria de medicamentos de Estados Unidos) para la combinación de palbociclib (un inhibidor de CDK4/6, quinasas que regulan la división celular) más trastuzumab (un anticuerpo dirigido contra la proteína HER2) en cáncer de mama HER2 positivo. Interesa porque resume una nueva opción terapéutica aprobada para este subtipo tumoral.",
+      "destacado": false
     },
-    "91b197067a73": {
-      "resumen": "Vogue México propone cómo combinar las sandalias de colores con pantalones, polleras y vestidos este verano."
+    "8c859eab0c01": {
+      "resumen": "The New England Journal of Medicine publica los resultados de un ensayo sobre ensartinib (un inhibidor de la proteína ALK, quinasa del linfoma anaplásico) como tratamiento adyuvante -es decir, después de la cirugía- en pacientes con cáncer de pulmón de células no pequeñas resecado y con reordenamiento del gen ALK positivo. Interesa porque evalúa si extender la inhibición de ALK tras la cirugía reduce el riesgo de recaída en este subgrupo molecular.",
+      "destacado": false,
+      "analisis": "Diseño: El título indica un ensayo clínico sobre ensartinib en el contexto adyuvante; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas resecado (operado), con reordenamiento del gen ALK positivo.\nIntervención: Ensartinib (inhibidor de la quinasa ALK) en el escenario adyuvante; el título no especifica el comparador (placebo, observación u otro inhibidor de ALK).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad.\nMensaje: si los resultados son favorables, la terapia adyuvante con ensartinib podría sumarse como estándar para pacientes con cáncer de pulmón ALK-positivo resecado, en línea con la estrategia ya establecida para otros subgrupos moleculares (como EGFR).\nNota: análisis sin acceso al abstract."
     },
-    "19f1e1da86ec": {
-      "resumen": "Mujerhoy explica por qué el estilo golfcore se convirtió en la tendencia más elegante del verano."
+    "e616a59b6cb6": {
+      "resumen": "The New England Journal of Medicine presenta un ensayo sobre la combinación de pembrolizumab (un anticuerpo que bloquea PD-1, proteína que frena la respuesta inmunitaria) más belzutifan (un inhibidor de HIF-2α, factor inducible por hipoxia) como tratamiento adyuvante -tras la cirugía- en carcinoma de células renales. Interesa porque explora si intensificar la inmunoterapia adyuvante con esta combinación mejora los resultados frente al estándar actual.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un ensayo clínico sobre terapia adyuvante combinada; no se precisa fase, aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de células renales operado, en el escenario adyuvante, con riesgo de recaída tras la nefrectomía.\nIntervención: Pembrolizumab (inhibidor de PD-1) más belzutifan (inhibidor de HIF-2α) en combinación; el título no especifica el comparador (pembrolizumab solo, placebo u observación).\nResultados: no disponibles, no se pudo acceder al abstract.\nLimitaciones: sin el texto completo no se conoce el diseño exacto, el tamaño muestral, la supervivencia libre de enfermedad ni la supervivencia global reportadas, ni el perfil de toxicidad de la combinación.\nMensaje: si los resultados son positivos, esta combinación podría representar una intensificación del tratamiento adyuvante estándar (pembrolizumab solo) para pacientes con carcinoma renal de alto riesgo, aunque habrá que sopesar el beneficio adicional frente a la mayor toxicidad esperable.\nNota: análisis sin acceso al abstract."
     },
-    "0865fb63a6a3": {
-      "resumen": "HOLA muestra cómo las españolas combinan el vestido lencero, tendencia en las calles de Madrid, con pantalones fluidos."
+    "a3585e24de10": {
+      "resumen": "Neo2 Magazine presenta una marca artesanal mallorquina que marca tendencia en moda."
     },
-    "c555966c8e6b": {
-      "resumen": "Telva reúne looks de invitadas elegantes para inspirar los outfits de las bodas de septiembre."
+    "bf7a826bf0fb": {
+      "resumen": "Telva repasa las primeras compras de la nueva temporada, desde la chaqueta tendencia de otoño hasta un vestido destacado de Massimo Dutti."
+    },
+    "ba70c14bdd3e": {
+      "resumen": "La feria Micam adelanta las primeras tendencias en calzado para 2027."
+    },
+    "933530413078": {
+      "resumen": "FashionUnited identifica siete tendencias en tejidos y estampados vistas en las colecciones de verano."
+    },
+    "922dd22763c8": {
+      "resumen": "Vogue México selecciona las sandalias flip flops de moda para combinar con jeans, polleras y vestidos este verano."
+    },
+    "a9b407f596a7": {
+      "resumen": "Vogue México propone cómo lucir las sandalias japonesas con jeans, polleras y vestidos este verano."
+    },
+    "547792bae086": {
+      "resumen": "El Gobierno de la Ciudad de Buenos Aires presentó su agenda de actividades de vacaciones de invierno, del 18 de julio al 2 de agosto."
+    },
+    "d395ab678e23": {
+      "resumen": "El Petit Colón proyectará La Pantera Rosa en pantalla gigante con música de jazz en vivo, en solo dos funciones."
+    },
+    "f3ffc6939302": {
+      "resumen": "Una selección de seis restaurantes porteños para celebrar el Día del Amigo."
     }
   }
 }
