@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T19:50:12.487330+00:00",
+ "generated_at": "2026-07-22T21:33:03.888632+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,11 +7,25 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "FDA Approves Zidesamtinib in Pretreated ROS1+ NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWRDb0tqVkJxT2U2aWpEeUd3MWxlaVRuTnRvRjRxMVljd1RwQjNIVWM3WDlpTF9lYlNrMjRvUERsc1FBR3RwR0d4NmZzNERqT3ZDQnJQVkFLdmFKQ2ItbmQzMC1GTTRkNHFlOW1SQWJHbEFGRk5hcy1XMW93VkFESHgxd3l2UQ?oc=5",
+     "title": "Dr Hoffmann on the Significance of Efficacy Data for Sonrotoclax Plus Zanubrutinib in MCL",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMnR4VGVLOW1JUGEyZE1yQ0dJOFdIbjBwOGpLSmtyR2hNcDBkT3BuQ1dDYmZWZmY3UGlzcHRZTFZpNFB1Q1FlVnFNYkhwRUFOTlNaQ3RqejlGRlc4cllXRVctb29zNXBNcFM4UEQzQkdwc0dzVnJDLXlUcmMwTHNuekdvUGhRMG5iX1h3cDBWM19Vald6U2FtZmtMRW4zcW90aFZKLUo5enYtTGlZUlJOSmpyVFRaZjY2Z0E?oc=5",
      "source": "OncLive",
-     "published": "2026-07-22T17:16:54+00:00",
-     "id": "8f002f274300"
+     "published": "2026-07-22T20:13:54+00:00",
+     "id": "a0623658b468"
+    },
+    {
+     "title": "Future Directions and Emerging Strategies in EGFR-Mutant NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkVuOFMzRVRtRFRaV1VFLVlfOEU2cm1ZMmpaTFI1TkpKS1VyLU5lRHNNNEF0bkNubXZpdlo0akw5WkRleFVmVjk1cFlBUEtJalU2Ynp4ZkJZRHFKVS1YRGxGR1lidG1VenNfYlQxa2JwR0V5X1RlQ2ZsUXFMYnJWeTZyRHNFV3M4X04yLU5hdXlfeS1yZEE?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-22T20:13:53+00:00",
+     "id": "b5115fb1c7ff"
+    },
+    {
+     "title": "Dr Cooper on Biomarker Selection for DLL3-Targeted Therapies in ES-SCLC",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSC13OXVvdkhyZV9UY010Zng4aWVQeXFfRndpWlZvQlpEa2dBMmlWbmRuRkRXcTd4RkNVTnZBVGlPTkhYSGpLWlV0WTAtaU9XY1ozV2kzZUZ1b0dBY2hIYW5ldDFSQVdyLU56bnhsQUZxRzBfbU9DSmMwWGxiMEhqVVhCZ1d3Rm12MzhYZmU0NVZOaUhQVHVfTEUxVzlYTm9pSnc?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-22T20:13:51+00:00",
+     "id": "5e4acf25aa36"
     },
     {
      "title": "AI-Derived Bone Marrow Architecture Score Improves Disease Assessment in Myelodysplastic Neoplasms",
@@ -33,20 +47,6 @@
      "source": "The ASCO Post",
      "published": "2026-07-22T16:14:06+00:00",
      "id": "ebe61dd3ba52"
-    },
-    {
-     "title": "How Are Treatment Intensification and Sequencing Reshaping Care in Prostate Cancer and RCC",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHlydVN3RG5EN2VFMUdibWZvMFJPQVoyejdlWm85ckdNZmx5b2ZfdzkxTWZGR1dHTlQ4R0tQYURPb1ZUalROYnRlMDA2VjVzSlJuZkZNQjItS3ZDYVpTaC12NjI5UUJzUGU4QXMwTkRBZFZUdU5FN1ZSTGJmU2VjZ3dVOUlnaXhpdEI3ZGdLakp3SjYxd0hla3JEUnJheWJKSUhpYmIyeEQySkUweVYyS0NhNEJKdktjcWZz?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-22T14:56:40+00:00",
-     "id": "24254ea04929"
-    },
-    {
-     "title": "Ivonescimab Plus Chemotherapy Sustains OS Benefit Across Western and Asian Patients in Pretreated EGFR-Mutated NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWllfb3N6N04waUZhSUthUkFSSkdwMXdjcVZxWUxSbEUtbUxBakxiTEw2dHZEQkR4cmQ0M1FUVThmb2p1LWpnNkR4R09yeGQ5WEtUX0lyeWZNZUw2Tl8xazRIa1U3Q1JvTDM0M3gxLUxTVkVlY0g1bDVnYVAzbEJkV0w5OFdDRlZaRmtSR3BtLWhEY1lsRGJ1RzBiQ0F2Y0ZJa1JfbE53ZlFQa0JtYXh5bQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-22T14:36:38+00:00",
-     "id": "bb538badc0d7"
     },
     {
      "title": "Optimizing Outcomes After Pediatric Haploidentical Donor Transplant: Role of Graft-Versus-Host Disease Prophylaxis?",
@@ -79,6 +79,22 @@
      "published": "2026-07-20T00:00:00+00:00",
      "copete": "Krasovitsky M et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "00b5b738a47a"
+    },
+    {
+     "title": "First Nations cancer inequalities in Canada",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42462743/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-16T00:00:00+00:00",
+     "copete": "Adepoju P et al. · The Lancet. Oncology",
+     "id": "c9bfb4500b4b"
+    },
+    {
+     "title": "New guidelines to advocate healthy eating and physical activity in school settings in the Americas",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42462742/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-16T00:00:00+00:00",
+     "copete": "Das M et al. · The Lancet. Oncology",
+     "id": "805d8fc589f8"
     }
    ]
   },
@@ -87,6 +103,22 @@
    "title": "Moda",
    "mode": "titulares",
    "items": [
+    {
+     "title": "The Most Unusual Celebrity Baby Names: Mikey Moon, Fawnie Golden, Blue Ivy, and More",
+     "link": "https://www.vogue.com/article/celebrity-baby-names-unusual-apple-blue-ivy-suri-pilot-inspektor",
+     "source": "Vogue",
+     "published": "2026-07-22T20:56:24+00:00",
+     "copete": "From Rihanna to the Kardashians, find inspiration in the most unusual celebrity baby names, and uncover the stories behind them.",
+     "id": "f46ca93ecf03"
+    },
+    {
+     "title": "Here’s Everything Coming to Netflix in August 2026",
+     "link": "https://www.vogue.com/article/everything-coming-to-netflix-august-2026",
+     "source": "Vogue",
+     "published": "2026-07-22T20:38:07+00:00",
+     "copete": "From the return of classics like 'Clueless' and 'Marie Antoinette' to a fresh season of 'Love is Blind: UK' and a new adaptation of 'My Brilliant Career.'",
+     "id": "d1867c5e617a"
+    },
     {
      "title": "Uñas color naranja: 15 diseños divertidos y de buen gusto para realzar tu bronceado en verano 2026",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMUJOWl95LWU0YWhadXRvZEZRYlpfb3BIcndiQjBtOGg1RXAxM2NuUU5PTUM2d2hmUGFRaG53UGZzSzN2eDF4Nl9OaUV0OUw4REEtY1dOVW1nLXIwY0ItQ09telN4V0oyUGZUYmg5aVB5cXRDVkNPTEhWTGZZbFZwQ0NqNHhfc0lCUnRER0FZQlJLeXZLOEtVLVpJb0NQSEZiRVJtVEx3?oc=5",
@@ -132,22 +164,6 @@
      "id": "cc8d70a7d45b"
     },
     {
-     "title": "Who Is Olivia Rodrigo’s Rumored Boyfriend, Julian Croonenberghs?",
-     "link": "https://www.vogue.com/article/i-want-what-they-have-olivia-rodrigo-and-her-man-in-finance",
-     "source": "Vogue",
-     "published": "2026-07-22T17:10:01+00:00",
-     "copete": "If you’re as rich and famous as Rodrigo, it’s probably nice to be with someone who will reach for the check without making you listen to their new demo.",
-     "id": "d15a1dcd0712"
-    },
-    {
-     "title": "Moncler Revenues Rise 5% in Q2, Beating Expectations",
-     "link": "https://www.vogue.com/article/moncler-revenues-rise-5-in-q2-beating-expectations",
-     "source": "Vogue",
-     "published": "2026-07-22T17:07:37+00:00",
-     "copete": "Moncler revenues for the first half of the year were bolstered by growth in Asia, offsetting a dip in EMEA.",
-     "id": "8a56c18c6997"
-    },
-    {
      "title": "Los zapatos japoneses planos en tendencia para lucir con jeans flare este verano 2026",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXZES2YyYWFfUUR3WWVDcUVxZDZNdTZwRF9KLWxRZXI1Y2xGUTlGdWc3UTVMQ21JMm5OZ0NUU2pxMmJobGVrb0dIdTVxOUJRMmNEcjRiUlo4a3hkS3N6NnFTaVZZU2J1N2lEN3RCZGxWa29JRFpFeExPRVBRdVltS2Q1ZVVDeHM1RE01RVZNYTIzN1JMZ0ZscXFCZw?oc=5",
      "source": "Vogue México",
@@ -169,20 +185,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "De una tienda de ropa a un bar: el sorprendente circuito de obras de teatro que suceden en espacios poco convencionales",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/de-una-tienda-de-ropa-a-un-bar-el-sorprendente-circuito-de-obras-de-teatro-que-suceden-en-espacios-nid22072026/",
+     "title": "La llamativa hipótesis de Mauro Icardi tras el robo a Wanda Nara en Milán",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-llamativa-hipotesis-de-mauro-icardi-tras-el-robo-a-wanda-nara-en-milan-nid22072026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-07-22T19:49:34+00:00",
-     "copete": "La iniciativa abarca varias propuestas teatrales que tienen lugar por fuera de las salas",
-     "id": "67f8fca29827"
+     "published": "2026-07-22T21:04:56+00:00",
+     "copete": "El futbolista sospecha que el asalto fue un montaje y se niega a autorizar los nuevos documentos de sus hijas; cuál sería su estrategia según la defensa de la mediática",
+     "id": "1e619ede3634"
     },
     {
-     "title": "El inocente comentario de la hija de Pampita tras la final del Mundial que hizo reír a todos: “No me acuerdo”",
-     "link": "https://www.lanacion.com.ar/espectaculos/el-inocente-comentario-de-la-hija-de-pampita-tras-la-final-del-mundial-que-hizo-reir-a-todos-no-me-nid22072026/",
+     "title": "La reflexión de Cazzu tras las críticas en redes que tildaron a Argentina de racista: “Es terrible que se discrimine”",
+     "link": "https://www.infobae.com/teleshow/2026/07/22/la-reflexion-de-cazzu-tras-las-criticas-en-redes-que-tildaron-a-argentina-de-racista-es-terrible-que-se-discrimine/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-22T21:04:42+00:00",
+     "copete": "La cantante se refirió en una transmisión en vivo a los cruces en redes después del partido ante España, y planteó que la discriminación adopta formas distintas según cada sociedad y sus tensiones históricas",
+     "id": "0e01fd186d3d"
+    },
+    {
+     "title": "Cuándo es La Velada del Año: día, horario y cómo ver online",
+     "link": "https://www.lanacion.com.ar/espectaculos/cuando-es-la-velada-del-ano-dia-horario-y-como-ver-online-nid22072026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-07-22T19:38:25+00:00",
-     "copete": "Antes de irse de vacaciones con su familia, la pequeña interrumpió una entrevista televisiva de su madre para hacer una pregunta que no pasó inadvertida",
-     "id": "1fa0140be59e"
+     "published": "2026-07-22T20:56:56+00:00",
+     "copete": "El evento que organiza Ibai Llanos y que concentra a diferentes figuras del streaming llega en su sexta edición; cómo verla en vivo desde Argentina",
+     "id": "2525d892c7f6"
+    },
+    {
+     "title": "Nora Colosimo apuntó contra la China Suárez y fue dura: “Para mí es mala palabra”",
+     "link": "https://www.infobae.com/teleshow/2026/07/22/nora-colosimo-apunto-contra-la-china-suarez-y-fue-dura-para-mi-es-mala-palabra/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-22T20:40:51+00:00",
+     "copete": "La mamá de Wanda Nara habló acerca del robo que sufrió junto a cuatro de sus nietos en la casa de campo de Italia y, al ser consultada por la actriz, se mostró enojada",
+     "id": "29c4ba5a562c"
+    },
+    {
+     "title": "Los días de Sofía Solá en Barcelona: playa, amigos y relax",
+     "link": "https://www.infobae.com/teleshow/2026/07/22/los-dias-de-sofia-sola-en-barcelona-playa-amigos-y-relax/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-22T20:23:21+00:00",
+     "copete": "La hija de Maru Botana se mudó a la ciudad española para comenzar su carrera como modelo y abrió un íntimo carrete",
+     "id": "146ad574f1d5"
+    },
+    {
+     "title": "Festival de Mar del Plata 2026: Natalia Oreiro recibirá un premio especial a la trayectoria",
+     "link": "https://www.lanacion.com.ar/espectaculos/cine/festival-de-mar-del-plata-2026-natalia-oreiro-recibira-un-premio-especial-a-la-trayectoria-nid22072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-22T20:16:27+00:00",
+     "copete": "Habrá un homenaje especial al director argentino Héctor Babenco; la muestra se realizará entre el 5 y el 15 de noviembre",
+     "id": "1652b34c8363"
+    },
+    {
+     "title": "María Becerra, sobre las críticas contra la Argentina: “No son más que palabras de odio”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/maria-becerra-sobre-las-criticas-contra-la-argentina-no-son-mas-que-palabras-de-odio-nid22072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-22T20:00:48+00:00",
+     "copete": "La cantante, elegida para cantar el Himno Nacional en la gran final de la Copa del Mundo, se metió en la polémica y le respondió a todos los detractores de nuestro país",
+     "id": "59a967d9239b"
+    },
+    {
+     "title": "Zoe Hochbaum encontró en la radio una nueva forma de actuar: \"Nuestra batalla es seguir haciendo lo que amamos\"",
+     "link": "https://www.clarin.com/espectaculos/zoe-hochbaum-encontro-radio-nueva-forma-actuar-batalla-seguir-haciendo-amamos_0_angdTbPNXt.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-22T19:35:07+00:00",
+     "copete": "La actriz estrenó \"Elenco Inestable\", un ciclo que comparte con Vera Spinetta, Miranda de la Serna y Brenda Kreizerman en Radio con Vos. En diálogo con Clarín, reflexiona sobre el presente del trabajo actoral, la necesidad de reinventarse…",
+     "id": "4ce9adbd14ff"
     },
     {
      "title": "Las paradisíacas vacaciones de Paula Chaves y Pedro Alfonso en El Salvador: familia, surf y piscina con vista al mar",
@@ -191,14 +255,6 @@
      "published": "2026-07-22T19:27:59+00:00",
      "copete": "La pareja y sus tres hijos, Olivia, Baltazar y Filipa, eligieron centroamérica para vivir una experiencia única a orillas del Pacífico",
      "id": "0617152c3748"
-    },
-    {
-     "title": "El conmovedor mensaje de despedida de la madre de Kaylee Hottle tras la muerte de la joven actriz",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/el-conmovedor-mensaje-de-despedida-de-la-madre-de-kaylee-hottle-tras-la-muerte-de-la-joven-actriz-nid22072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-22T19:06:28+00:00",
-     "copete": "Ketsi Hottle dedicó una sentida publicación a su hija, la estrella de la saga ‘Godzilla vs. Kong’, en lenguaje de señas; la adolescente falleció en un accidente vial en Maryland",
-     "id": "47918e97b62f"
     },
     {
      "title": "El desgarrador posteo de la mamá de Gaspi a más de un mes de su muerte: “Fuiste mi luz, mi revolución y sendero”",
@@ -217,52 +273,12 @@
      "id": "03db68d8963a"
     },
     {
-     "title": "Cuándo es La Velada del Año: día, horario y cómo ver online",
-     "link": "https://www.lanacion.com.ar/espectaculos/cuando-es-la-velada-del-ano-dia-horario-y-como-ver-online-nid22072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-22T18:27:43+00:00",
-     "copete": "El evento que organiza Ibai Llanos y que concentra a diferentes figuras del streaming llega en su sexta edición; cómo verla en vivo desde Argentina",
-     "id": "2525d892c7f6"
-    },
-    {
-     "title": "Michael Bublé defendió a la Argentina de las críticas recibidas luego del Mundial: “No sean celosos”",
-     "link": "https://www.infobae.com/teleshow/2026/07/22/michael-buble-defendio-a-la-argentina-de-las-criticas-recibidas-luego-del-mundial-no-sean-celosos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-22T17:38:56+00:00",
-     "copete": "El cantante canadiense, esposo de Luisana Lopilato, se diferenció de la oleada de comentarios de las figuras internacionales contra nuestro país",
-     "id": "2f27accd654c"
-    },
-    {
-     "title": "El regreso de Maxi López: reencuentro familiar en Suiza tras el Mundial",
-     "link": "https://www.infobae.com/teleshow/2026/07/22/el-regreso-de-maxi-lopez-reencuentro-familiar-en-suiza-tras-el-mundial/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-22T17:21:41+00:00",
-     "copete": "El exfutbolista se reunió con su hija Elle y Daniela Christiansson en Ginebra tras más de 40 días ausencia",
-     "id": "3446ff82a776"
-    },
-    {
-     "title": "Las sospechas de la mamá de Wanda Nara por el robo a la casa de Milán: “Los ladrones sabían lo que hacían”",
-     "link": "https://www.infobae.com/teleshow/2026/07/22/las-sospechas-de-la-mama-de-wanda-nara-por-el-robo-a-la-casa-de-milan-los-ladrones-sabian-lo-que-hacian/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-22T17:15:01+00:00",
-     "copete": "Nora Colosimo contó con detalles el mal momento que vivió con sus nietos mientras su hija miraba la final del Mundial. El botín que le llamó la atención",
-     "id": "855b2710e62c"
-    },
-    {
      "title": "Emanuel se confiesa tras quedar eliminado de Gran Hermano: el versus con Sol, la revancha que buscó y el recuerdo de su pelea con Jorge Rial",
      "link": "https://www.clarin.com/espectaculos/emanuel-confiesa-quedar-eliminado-gran-hermano-versus-sol-revancha-busco-recuerdo-pelea-jorge-rial_0_shqBLUVf2u.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-22T17:11:14+00:00",
      "copete": "En una charla con Clarín, el exparticipante repasó su estrategia dentro de la casa y explicó por qué cree que su juego dejó de funcionar. Además, contó las causas para regresar al reality 15 años después de su primera experiencia y reveló…",
      "id": "df4dcb08b74d"
-    },
-    {
-     "title": "Ruptura familiar | Vivienne, la hija de Brad Pitt y Angelina Jolie, solicitó renuncia legal al apellido \"Pitt\" tras cumplir 18 años",
-     "link": "https://www.clarin.com/estados-unidos/ruptura-familiar-vivienne-hija-brad-pitt-angelina-jolie-solicito-renuncia-legal-apellido-pitt-cumplir-18-anos_0_Vho4eMlvaX.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-22T15:38:21+00:00",
-     "copete": "Distanciamiento definitivo en Hollywood. Vivienne Jolie-Pitt cumplió 18 años y pidió a la Justicia borrar el apellido de Brad Pitt de sus documentos.",
-     "id": "254562595b15"
     }
    ]
   },
@@ -271,6 +287,27 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Ricardo Hornos detrás del fenómeno teatral “Invasiones I: no bombardeen Buenos Aires”",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbW5YNWlHNFlNRk93ejJKME94MkViV1hKSjU5b1ZqaThpUlo0clBRckhkWk9GV2pST0pzVUFLaHBFbkFRaEtib085ckNTdTFfb2ZEUjIwTTE0MGtBcTB4dUFyRWg0bWtUN010Z05xM0p0Ykd4WHRQTzNTYU8weFFidmdUYXk3QktrQVZnTTVsZU5BUm5xMTU4OVJoOUw1R3VJdGVFWW1YLUZpNlRTTmRQaVEzOHBhYUp2QjVLSVJ2dW0xdHdUTHZJay03SVZRMTFVQll4SUJ0Y9IB3AFBVV95cUxQUF9DX0cyXzI4MVB5VjBjbmNxRHQyeDBVb05xbnNZa0lfOG1UMF9WZXY1MzFnaGhSWDhZWHJDWWpBNUx1SHdybEk3NnJJN3k5blVCeHJzS2t1cFhWYWpjRjJpZk5mRW5BNkZ0T212akRQR0djZGpnN01kS21fZ180dldVOXdWTmVvRWlId2tJWFVsdXZaRW5WUGFzcno4X0o5dndQMExwSkduZ2hHQnRwNkZQcVVibmxHOHJ6WXJ0ZEg5bVhJQ29WYmt2TGlnVnlma2xqeHpyUTJ6Mlly?oc=5",
+     "source": "EscribiendoCine",
+     "published": "2026-07-22T21:07:10+00:00",
+     "id": "031eb568de6a"
+    },
+    {
+     "title": "Qué Hacer Gratis en Buenos Aires estas Vacaciones: Guía y Mapa Interactivo de Lugares con Actividades Gratuitas para Chicos y Familias",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDMwVmgzcTJVbE0yQVVuMGwzZkFIejhSTU1VU3FybnRsV2thUmtma1FTbDFRY0NXcU9sRlFxblE3VFhxWnhzWDdmZFJ6N2l1a3g4ZkxCQTcwdG8yNWdlRU8yQmplMktmcE9xVVVfdXVETGtIOWhaY3ZJU3otLUYzd05WSFN1dU1MRDV6bHQwOEF6enAyY0RUakhXdG9fVmxzd3RuQkRXSGUxM19fWnhOa1R3VXBuTEJzMTZWZ0JGZjl2cDkxUWlMTWRzbw?oc=5",
+     "source": "Buenos Aires Secreta",
+     "published": "2026-07-22T20:13:08+00:00",
+     "id": "c427275765c8"
+    },
+    {
+     "title": "Joaco Burgos presenta “Desde lo profundo” en el Teatro Coliseo: “Va a ser una noche con mucha magia”",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRjdyR2tKM2xzZElOU25PdVlMSy1RTUMxT1ZPQ0UwMVB2S1lBWTZzZnVDSXhrcGJBM3dLQkNuUG5CYzIzcTZvazlDRTZqdlpJZDlzT3dxVVlpTElZUDZXZTMyMzlEcWhmUC0ybjJpY1EtVEhxeHJ3WVdOU09sc1ZYQTAtY25ON1dvaUFVVzZJejZpb1VXY2xkNjN4eTVnQm04eDFFbWZzbGUxOERxaXM1S1dmZTNMSHB6WUtQS3B4VWNyc3FaNTFQRnBZZw?oc=5",
+     "source": "AM 1350 Radio Buenos Aires",
+     "published": "2026-07-22T20:12:46+00:00",
+     "id": "c23333e5d668"
+    },
     {
      "title": "Qué hacer este fin de semana: del 24 al 26 de julio - Diario Tiempo Digital",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRms4b3pQamU2QkNYVi1KaDVEbFludk5CV2lpYUF6Z3BmZkREWTNfeGJkNmg5SWVjblZJa09WVUhuNndpUm14Nl96c1lxbDVJZ1FOVmVzNzJhdU0xT1IwanBzTWpDUFkzVDVwUlEtQXh2VDE4MG1LZmpPbG80ZjVNVkNLbkJ2bk9ZazlEcmhSNFBKQkpMWG1vR0VoN3FSWlBPSldaaXBhMA?oc=5",
@@ -291,20 +328,6 @@
      "source": "El Litoral",
      "published": "2026-07-22T13:10:47+00:00",
      "id": "46468b93bde4"
-    },
-    {
-     "title": "Invierno porteño: Dos conciertos imperdibles de la Orquesta del Tango de Buenos Aires en el Hall del San Martín",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa2VTeF82ODhmT2dXV3RVLWZjUkl0MG9KZzVPNXBDMTB4SEV3WWx2MDJRV3BoVDJMaEpzMlpVV1dLcjlwQm8yQlpUNm1hOVJ4Mkpsc2VGNzE0ZTU4R1BIZGtUS2RCa0xBZXZ1UUlOdVJlbUlUaFlaRWYxYW5hLTRHMjcyZ0FyMnJzelUzS0YtR19JM2tRLW9rQmZBMzhCQzdFQ0Z1d3VtRWppSkRqQVdZVThYZnNoaDNmdXhoM2E4Si1UYUhPWXkzVlZ6SG0tOUZ3MTRjUGpUcnY1RHhGaVZxVG5fb09ldUJXdFFyeXhIamszekMxM1p3?oc=5",
-     "source": "Telefe Noticias",
-     "published": "2026-07-22T12:36:58+00:00",
-     "id": "f86f86bcd9b5"
-    },
-    {
-     "title": "Cancelan show del cantante brasileño Joao Bueno en Buenos Aires tras burlarse de Argentina y las Malvinas",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOEh2cDhOU01zd1pLQ1hMZ1Q1VEE4QXdaeHFTSHRETnA4aC1IY1RwVUJCcTZrSUw5UVFoQ1RLTmsyR2dYRDdNZ1dQTW04Zkd4TEdLTFE1eTc3al9PRUFYRDVxQi1pbEdnT1NjWmlYQXFMbmZDZHZ4b09RTzZPd2NyX1FkODFqU0pNOEpCNmU1RzNTVmJaTXQ4N1pzM3QwdWcwT0Z2T3cyNWRZdWF6b29yTGk2M1ZGX1pqT2xZalhBVkZaRXYtSl96dXdqZVBYdzAybU1qS1RybndkMjFvY3hxbTV6T1VyR1FaSV96ZU9vdS1uUGFPRE930gH3AUFVX3lxTE04SHZwOE5TTXN3WktDWExnVDVUQThBd1p4cVNIdEROcDhoLUhjVHBVQkJxNmtJTDlRUWhDVEtOazJHZ1hEN01nV1BNbThmR3hMR0tMUTV5NzdqX09FQVhENXFCLWlsR2dPU2NaaVhBcUxuZkNkdnhvT1FPNk93Y3JfUWQ4MWpTSk04SkI2ZTVHM1NWYlpNdDg3WnMzdDB1ZzBPRnZPdzI1ZFl1YXpvb3JMaTYzVkZfWmpPbFlqWEFWRlpFdi1KX3p1d2plUFh3MDJtTWpLVHJud2QyMW9jeHFtNXpPVXJHUVpJX3plT291LW5QYU9ET3c?oc=5",
-     "source": "pronto.com.ar",
-     "published": "2026-07-22T10:00:00+00:00",
-     "id": "9cba582fba5a"
     },
     {
      "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
@@ -333,13 +356,6 @@
      "source": "Mundo Empresarial AR",
      "published": "2026-07-18T03:35:00+00:00",
      "id": "27cd26da1809"
-    },
-    {
-     "title": "Agenda cultural bonaerense",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91bGtCNGltbXBnUDlDV1Y2YkhPV244UG9Cb180Z0tFZjI2MFN3cXNsRzRFYXhGT0lKQlA0Q3pPYkRBeW5PYlhlMUFoNUk5eHMyeTJnYy1WOHZacjlhZ2ZhY2VzLWVkcGpWb2xSYXVSc1FPX3cy?oc=5",
-     "source": "Página|12",
-     "published": "2026-07-17T19:52:52+00:00",
-     "id": "6b9cfccb6654"
     }
    ]
   },
@@ -349,84 +365,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "De una tienda de ropa a un bar: el sorprendente circuito de obras de teatro que suceden en espacios poco convencionales",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/de-una-tienda-de-ropa-a-un-bar-el-sorprendente-circuito-de-obras-de-teatro-que-suceden-en-espacios-nid22072026/",
-     "source": "La Nación",
-     "published": "2026-07-22T19:49:34+00:00",
-     "copete": "La iniciativa abarca varias propuestas teatrales que tienen lugar por fuera de las salas",
-     "id": "67f8fca29827"
-    },
-    {
-     "title": "La respuesta de un exjefe la CGT a Pérez-Reverte tras las críticas a la selección argentina: “De fútbol no sabe nada”",
-     "link": "https://www.lanacion.com.ar/politica/la-respuesta-de-un-exsecretario-de-la-cgt-a-perez-reverte-tras-las-criticas-del-escritor-a-la-nid22072026/",
-     "source": "La Nación",
-     "published": "2026-07-22T19:48:28+00:00",
-     "copete": "Juan Carlos Schmid instó al novelista a dedicarse a la literatura o navegar porque “nunca pisó una tribuna popular”",
-     "id": "db335ccbcecd"
-    },
-    {
-     "title": "Kun Agüero: “¿Qué hizo Messi para que lo odien tanto?”",
-     "link": "https://www.lanacion.com.ar/deportes/kun-aguero-que-hizo-messi-para-que-lo-odien-tanto-nid22072026/",
-     "source": "La Nación",
-     "published": "2026-07-22T19:47:08+00:00",
-     "copete": "El exdelantero se refirió al aluvión de críticas que recibió la selección argentina, encabezada por su amigo desde hace más de 20 años",
-     "id": "1479da1b532a"
-    },
-    {
-     "title": "La CAF aprobó una garantía para que la Argentina acceda a préstamos privados para refinanciar la deuda",
-     "link": "https://www.lanacion.com.ar/economia/la-caf-aprobo-una-garantia-para-que-la-argentina-acceda-a-prestamos-privados-para-refinanciar-la-nid22072026/",
-     "source": "La Nación",
-     "published": "2026-07-22T19:46:12+00:00",
-     "copete": "El directorio del organismo dio luz verde a un respaldo por US$250 millones que permitirá afrontar vencimientos a tasas más bajas; además, autorizó dos créditos por US$388 millones para obras de infraestructura en Neuquén",
-     "id": "2b664f907c95"
-    },
-    {
-     "title": "Investigan un nuevo femicidio en Córdoba: buscan a un ciudadano polaco por el crimen de su pareja",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/22/investigan-un-nuevo-femicidio-en-cordoba-buscan-a-un-ciudadano-polaco-por-el-crimen-de-su-pareja/",
+     "title": "Euro hoy en Canadá: cotización de cierre del 22 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/22/euro-hoy-en-canada-cotizacion-de-cierre-del-22-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-22T19:43:20+00:00",
-     "copete": "Luciana Ojeda fue hallada con signos de violencia en su departamento de Nueva Córdoba. La Justicia ordenó la captura de Jan Korzeniecki, quien convivía con ella desde principios de julio y permanece prófugo",
-     "id": "2642a5072526"
+     "published": "2026-07-22T21:31:17+00:00",
+     "copete": "Este fue el comportamiento de la principal moneda europea durante los últimos minutos del miércoles",
+     "id": "283ceaa79d67"
     },
     {
-     "title": "Se confirmó que la Justicia de los EEUU investiga a “Chiqui” Tapia y a otros dirigentes de la AFA",
-     "link": "https://www.infobae.com/politica/2026/07/22/la-justicia-de-los-eeuu-incauto-los-telefonos-de-claudio-chiqui-tapia-y-otros-dirigentes-de-la-afa-antes-del-regreso-de-la-seleccion-fueron-citados-a-declarar-el-30-de-julio/",
+     "title": "Precio del dólar hoy en Canadá: cotización de cierre del 22 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/22/precio-del-dolar-hoy-en-canada-cotizacion-de-cierre-del-22-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-22T19:41:11+00:00",
-     "copete": "Hubo un operativo de agentes del FBI en el aeropuerto de Nueva York antes de que el equipo argentino emprendiera el regreso a Buenos Aires tras su participación en la Copa del Mundo. La investigación también comprende a Pablo Toviggino…",
-     "id": "ba571584126d"
+     "published": "2026-07-22T21:31:00+00:00",
+     "copete": "Este fue el comportamiento de la divisa estadounidense durante los últimos minutos de la jornada",
+     "id": "20a7b29ea0ca"
     },
     {
-     "title": "El dólar volvió a subir y el blue alcanzó un precio récord",
-     "link": "https://www.infobae.com/economia/2026/07/22/el-dolar-volvio-a-subir-y-el-blue-alcanzo-un-precio-record/",
+     "title": "Juicio en ausencia: a un año de la sanción de la ley",
+     "link": "https://www.infobae.com/opinion/2026/07/22/juicio-en-ausencia-a-un-ano-de-la-sancion-de-la-ley/",
      "source": "Infobae",
-     "published": "2026-07-22T19:40:01+00:00",
-     "copete": "El mayorista subió a $1.483 con un descenso del volumen de operaciones. En el Banco Nación subió a $1.505 para la venta y en el segmento informal avanzó a $1.555",
-     "id": "5223c9a363c1"
+     "published": "2026-07-22T21:30:31+00:00",
+     "copete": "La norma armoniza adecuadamente las garantías de defensa del imputado y el deber del Estado de investigar, juzgar y sancionar delitos graves como los crímenes de lesa humanidad, la desaparición forzada de personas y el terrorismo y su…",
+     "id": "8c58270b9a7b"
     },
     {
-     "title": "La CAF aprobó una garantía por hasta USD 250 millones para la Argentina",
-     "link": "https://www.infobae.com/economia/2026/07/22/la-caf-aprobo-una-garantia-por-hasta-usd-250-millones-para-la-argentina/",
+     "title": "Exiliados nicaragüenses pide a la ONU frenar la iniciativa de Ortega para suprimir elecciones",
+     "link": "https://www.infobae.com/nicaragua/2026/07/22/exiliados-nicaraguenses-pide-a-la-onu-frenar-la-iniciativa-de-ortega-para-suprimir-elecciones/",
      "source": "Infobae",
-     "published": "2026-07-22T19:39:23+00:00",
-     "copete": "Con esta decisión, el Banco de Desarrollo de América Latina y el Caribe busca ampliar el acceso argentino a nuevas fuentes de financiamiento externo",
-     "id": "5b79a1b5ddc9"
+     "published": "2026-07-22T21:30:22+00:00",
+     "copete": "La organización de activistas, radicada en Costa Rica y compuesta en su mayoría por exiliados, reclamó a Estados democráticos que actúen antes de que la propuesta se formalice y avalen sanciones selectivas",
+     "id": "aca1df5ce241"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno presenta hoy los cambios en el proyecto de Inocencia Fiscal",
-     "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-presenta-hoy-cambios-proyecto-inocencia-fiscal_0_oEyCb8UwfV.html",
+     "title": "Mundial 2026: vaso 98% lleno, 2% vacío",
+     "link": "https://www.lanacion.com.ar/economia/mundial-2026-vaso-98-lleno-2-vacio-nid22072026/",
+     "source": "La Nación",
+     "published": "2026-07-22T21:24:29+00:00",
+     "copete": "Comprendo alguna lágrima cuando terminó el partido final, pero seguir con cara de fastidio no tiene sentido; el segundo puesto fue un inmenso logro que nos obsequiaron el técnico y los jugadores",
+     "id": "cea88ee3fd45"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-el-oficialismo-y-reactivacion-de-la-agenda-nid22072026/",
+     "source": "La Nación",
+     "published": "2026-07-22T21:23:28+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "209548675e00"
+    },
+    {
+     "title": "Noticias del Uscis hoy: actualizaciones recientes del TPS y la residencia de miles de migrantes en EE.UU.",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/noticias-del-uscis-hoy-actualizaciones-recientes-del-tps-y-la-residencia-de-miles-de-migrantes-nid22072026/",
+     "source": "La Nación",
+     "published": "2026-07-22T21:23:00+00:00",
+     "copete": "Conoce cómo el fallo sobre el TPS y los solicitantes de asilo frena la revocación de permisos de trabajo y qué cambia, por ahora, en EE.UU.",
+     "id": "a318f116c55e"
+    },
+    {
+     "title": "Mia Khalifa volvió a burlarse de la derrota de la selección argentina y apuntó contra Enzo Fernández",
+     "link": "https://www.lanacion.com.ar/deportes/mia-khalifa-volvio-a-burlarse-de-la-derrota-de-la-seleccion-argentina-y-apunto-contra-enzo-fernandez-nid22072026/",
+     "source": "La Nación",
+     "published": "2026-07-22T21:22:01+00:00",
+     "copete": "La modelo libanesa redobló la apuesta tras haber publicado un video con “La perla” de Rosalía",
+     "id": "ab10e98d403f"
+    },
+    {
+     "title": "Casi el 30% de los industriales considera que la situación del sector es \"mala\"",
+     "link": "https://www.clarin.com/economia/30-industriales-considera-situacion-sector-mala_0_4ko6H3hOFM.html",
      "source": "Clarín",
-     "published": "2026-07-22T11:39:07+00:00",
-     "copete": "Será hoy en el Ministerio de Economía, con presencia de Luis Caputo y cámaras empresarias. Se busca atraer y formalizar un mayor ingreso de los denominados “dólares del colchón”. Seguí todas las novedades sobre las medidas del gobierno de…",
-     "id": "3b4496e7864a"
+     "published": "2026-07-22T21:04:15+00:00",
+     "copete": "Así surge de un relevamiento realizado por el INDEC. Solo el 6,2% entiende que su actualidad es \"buena\".",
+     "id": "11688ce37c33"
     },
     {
-     "title": "Palermo, el termómetro de la ganadería",
-     "link": "https://www.clarin.com/rural/palermo-termometro-ganaderia_0_fs6dBXr9PP.html",
+     "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, miércoles 22 de julio",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-miercoles-22-julio_0_oQkzm873iA.html",
      "source": "Clarín",
-     "published": "2026-07-22T11:36:30+00:00",
-     "copete": "Cuál es el presente y el futuro de la actividad en Argentina. En la Rural se rematarán 24000 cabezas. Las ventas serán televisadas y se transmitirán vía streaming.",
-     "id": "ffdda5d2b00b"
+     "published": "2026-07-22T21:03:01+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "97a116b5eda1"
     }
    ]
   },
@@ -436,6 +452,14 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Austria instala una comisaría de policía en el edificio donde nació Hitler para impedir que se convierta en un lugar de peregrinación neonazi",
+     "link": "https://www.bbc.com/mundo/articles/cjejx07gpx7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-22T21:19:29+00:00",
+     "copete": "La inauguración de la sede policial llega tras años de controversia sobre qué hacer con la antigua posada del siglo XVII, donde nació el dictador nazi.",
+     "id": "9f9f713f5c56"
+    },
+    {
      "title": "Trump autoriza un pacto nuclear que permitirá a Arabia Saudí enriquecer uranio",
      "link": "https://elpais.com/internacional/2026-07-22/trump-autoriza-un-pacto-nuclear-que-permitira-a-arabia-saudi-enriquecer-uranio.html",
      "source": "El País Internacional",
@@ -444,7 +468,7 @@
      "id": "d1942afe0125"
     },
     {
-     "title": "El accidente de avión ocurrido en Puerto Rico hace más de 70 años que cambió para siempre la seguridad aérea (y por qué los restos solo fueron encontrados ahora)",
+     "title": "Hallan los restos del avión de Pan Am cuyo accidente hace más de 70 años marcó un antes y un después en la seguridad aérea",
      "link": "https://www.bbc.com/mundo/articles/c4gv3pzy95no?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-22T19:17:11+00:00",
@@ -490,24 +514,11 @@
      "published": "2026-07-22T16:17:45+00:00",
      "copete": "El fiscal general del Estado dimite y Péter Magyar lo celebra: “El país se ha librado de otro títere”",
      "id": "94818bb71729"
-    },
-    {
-     "title": "Encuentran muerto en París al reclutador de modelos vinculado con Jeffrey Epstein",
-     "link": "https://www.bbc.com/mundo/articles/cewr51rjjn5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-22T15:56:18+00:00",
-     "copete": "Daniel Siad fue encontrado sin vida en su casa en los suburbios de París. El excazatalentos había sido relacionado con el fallecido delincuente sexual Jeffrey Epstein.",
-     "id": "fcef311023f5"
     }
    ]
   }
  ],
  "_errors": [
-  {
-   "section": "oncologia",
-   "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
