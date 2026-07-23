@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-23T21:31:48.138426+00:00",
+ "generated_at": "2026-07-23T23:16:32.703647+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Dr Lee on the Optimal Duration of Adjuvant Osimertinib in EGFR+ NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVElXR2YxaDFONVJ4Y3hBdmR3OFh2c2o4M1R2N2dyYVZKeDNrUm5CQk1pd2hBYUFyTk0tbWhGVHNnQkNBSjJQcGNBUW5CdmpKdVVsYUhNSDktelJJUFZOSmFjSHhNVUpTcmNvNVRHQ05PLU45b2hvQXNuelJtUnByWV92b2pkd0ZpZ0ljS291ZFdXSm1mbkhWZDZNWFFkUQ?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-23T21:39:27+00:00",
+     "id": "977bff426b26"
+    },
     {
      "title": "Dr Cummings on the Utility of Adjuvant Immunotherapy Alone in Early-Stage NSCLC",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWU9ac3RKR01ERWZXVzh1dE9pQTNRTmVmbmpuR0pQYWVOU3pIMXhnUDVIaURUaHNBLXlqbHBMcnY5Q0hpMFJaN3J6WjBrUkgwU0ZuNHY2eU4waERUUGJpaVlPUjNvWEQzb3l5WHBCRFRjOC1UUXAxTUNBZGtpRnp0c3liUnBPa3AzN0tGaC1oN2VncWZyOFRadDYwYlJrU2NVTXRzLXk2X1FoYnVH?oc=5",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-07-23T20:59:52+00:00",
      "id": "ddfa9493578d"
-    },
-    {
-     "title": "The Potential Effect of Daraxonrasib for Pancreatic Cancer Management",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0xnVk1iSEo3QUVHMktHUlpldTZ0REtmWm5rWW4tUmxpWDM0OWpyRkhzdkRHbjVTS1Y5NkFzVDZOZ1hkdFJnTFZPekFhYmo3UXo3N3UyY0ZsUDU1LVpkSG5HNFMzZmxKcUFkc3JtTW1CZDFHejZTSzhsZVJTUnJwNGZsTnRBWUF6eXpIdmUzN0lpTFdvNDhjVUI0WDk0OExjcnc?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-23T19:37:50+00:00",
-     "id": "e3aa39d89c94"
     },
     {
      "title": "Jennifer Gile, MD, on High-Risk DLBCL: frontMIND and POLARIX Regimens",
@@ -49,36 +49,52 @@
      "id": "412b4f5980ef"
     },
     {
-     "title": "Thrombopoietin Receptor Agonists for Chemotherapy-Induced Thrombocytopenia in GI Cancers-A Big Solution for a Small Problem or a Solution at All?",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42485603/",
+     "title": "Reply to: Post-Recurrence Therapy After Hepatectomy: Clarifying Overall Survival in JCOG0603",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42492047/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Chiorean EG et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "e95214f872dc"
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Kanemitsu Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "8d9e99a1a8d7"
     },
     {
-     "title": "Corticosteroids in Glioblastoma Management: A Reconsideration of a 65-Year Practice",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42485601/",
+     "title": "Hypo- Versus Standard Fractionated Locoregional Radiotherapy of Patients With High-Risk Breast Cancer in the Randomized Phase III Trial: The Danish Breast Cancer Group Skagen Trial 1",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42492022/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Liang B et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "3d52dafbffd4"
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Offersen BV et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "d69a5c49af49"
     },
     {
-     "title": "Precision in Proximity: The Radiation Oncologist's Perspective on Tailoring Total Neoadjuvant Therapy by Rectal Tumor Location",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42485598/",
+     "title": "Into the Unknown: Regulatory Perspective on Identifying Optimized Dosages of Oncology Radiopharmaceutical Therapies",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42492017/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Nicosia L et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "a31897349bd4"
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Maguire WF et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "5456e2cec201"
     },
     {
-     "title": "Reply to: Precision in Proximity: The Radiation Oncologist's Perspective on Tailoring Total Neoadjuvant Therapy by Rectal Tumor Location",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42485591/",
+     "title": "Post-Recurrence Therapy After Hepatectomy: Clarifying Overall Survival in JCOG0603",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42492016/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Noiret B et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "072227bcb179"
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Kim SH et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "28822136dd54"
+    },
+    {
+     "title": "Daraxonrasib in Advanced RAS-Mutated Pancreatic Cancer. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42485640/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Wolpin BM et al. · The New England journal of medicine",
+     "id": "894f7dd76ae3"
+    },
+    {
+     "title": "Daraxonrasib in Advanced RAS-Mutated Pancreatic Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42485639/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Sun X et al. · The New England journal of medicine",
+     "id": "495d17082ad5"
     }
    ]
   },
@@ -91,8 +107,15 @@
      "title": "Attachment Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/attachment",
      "source": "Vogue",
-     "published": "2026-07-23T21:30:30+00:00",
+     "published": "2026-07-23T23:15:09+00:00",
      "id": "aa3eb8472eda"
+    },
+    {
+     "title": "¿Qué guarda Melissa Robles en su bolso de entrenamiento?",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWhPcE4wZ1dOaklGMk1meFVQLWlvTzhBR283OXNMb0JqdWFmMFhmeDBiZHc4YzF3VWF6Q0FlV1VnWEVvMnZFQTY1Z0FmUlpYdHVsb3VvUmJsYTVxLW93a01NV1JSeXhjZUxaaEdacFdycjYzZjNIRUVTbEhzZWpxc19qOWQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-23T21:41:01+00:00",
+     "id": "7f61897b1341"
     },
     {
      "title": "Corte de cabello boy bob: Reinvéntate con este look de buen gusto antes de que acabe el verano 2026",
@@ -115,13 +138,6 @@
      "published": "2026-07-23T19:34:44+00:00",
      "copete": "From Prada’s runway to Jane Birkin’s off-duty looks, the white tennis shoe is 2026’s most versatile summer staple. Shop the best styles and discover our favorite ways to wear them.",
      "id": "f573912d140c"
-    },
-    {
-     "title": "“Está cambiando el paradigma de la mujer que vemos en las películas de terror”: Alejandra Herrera sobre por qué el cine mexicano necesita volver a sus raíces",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05a0FGYWs3RzFNd1BWVEhoODZYYUxTNW14OWluMkVWdUVYTHRKYlZpWk9kaVRsd0R0cmVyQmYycDhrakNjNVNKNnktWUJYWW1tVHgwVHd3cEE3NWxTNnZmUUlqWWp5d013ZnVOOVZVcTA?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-23T19:05:30+00:00",
-     "id": "6b339754086f"
     },
     {
      "title": "Wedding Skin Prep and Hair Care Timeline, From Months Out to the Day Of",
@@ -168,20 +184,76 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Griselda Siciliani, fuerte en medio de la polémica de Argentina tras el Mundial: “La campaña de estigmatización es un asco”",
+     "link": "https://www.infobae.com/teleshow/2026/07/23/griselda-siciliani-fuerte-en-medio-de-la-polemica-de-argentina-tras-el-mundial-la-campana-de-estigmatizacion-es-un-asco/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-23T23:05:52+00:00",
+     "copete": "La actriz publicó un mensaje en cuatro puntos para rechazar la estigmatización contra el país, pedir una mirada crítica hacia adentro y dejar una chicana final que encendió las redes",
+     "id": "d3cf15cb260c"
+    },
+    {
+     "title": "El enojo de Jimena Barón con su hijo Momo luego de que gastara miles de pesos sin su permiso",
+     "link": "https://www.infobae.com/teleshow/2026/07/23/el-enojo-de-jimena-baron-con-su-hijo-momo-luego-de-que-gastara-miles-de-pesos-sin-su-permiso/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-23T22:29:05+00:00",
+     "copete": "Recién llegada a la Argentina tras el Mundial 2026, la cantante compartió capturas del chat con su hijo y le pidió explicaciones por compras inesperadas",
+     "id": "b49a7b044260"
+    },
+    {
+     "title": "El actor Mike Colter apuntó contra Lionel Messi y contra la Argentina: “Podés ser buena persona y vivir en un país racista”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/el-actor-mike-colter-apunto-contra-lionel-messi-y-contra-la-argentina-podes-ser-buena-persona-y-nid23072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-23T22:26:21+00:00",
+     "copete": "El protagonista de la serie Luke Cage compartió en sus redes un video sobre el capitán de la Selección y luego le respondió a un usuario argentino que cuestionó su posteo",
+     "id": "e55e1c9b959c"
+    },
+    {
+     "title": "Cinco horas y media con Borges. Venecia será este año el festival de los documentales maratónicos",
+     "link": "https://www.lanacion.com.ar/espectaculos/cine/cinco-horas-y-media-con-borges-venecia-sera-este-ano-el-festival-de-los-documentales-maratonicos-nid23072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-23T22:13:03+00:00",
+     "copete": "Al estreno mundial de la mayor biografía audiovisual del autor de El Aleph realizada hasta el momento, que dirigió Mariano Llinás, se sumarán una de siete horas sobre Bernardo Bertolucci y otra de cuatro horas dedicada a Elon Musk",
+     "id": "85350c9e6573"
+    },
+    {
+     "title": "Dónde ver Back to Black, la biopic de Amy Winehouse para recordarla a 15 años de su muerte",
+     "link": "https://www.lanacion.com.ar/espectaculos/donde-ver-back-to-black-la-biopic-de-amy-winehouse-para-recordarla-a-15-anos-de-su-muerte-nid23072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-23T22:09:15+00:00",
+     "copete": "Dirigida por Sam Taylor-Johnson, la cinta nos invita a reflexionar sobre la breve pero arrolladora vida de la cantante británica, cuyo talento dejó una huella imborrable en la historia de la música",
+     "id": "38d884b10814"
+    },
+    {
+     "title": "Se estrena la película sobre Ricardo Barreda: Luis Machín, Mercedes Morán y Carla Peterson en una visión feminista del caso",
+     "link": "https://www.infobae.com/teleshow/2026/07/23/se-estrena-la-pelicula-sobre-ricardo-barreda-luis-machin-mercedes-moran-y-carla-peterson-en-una-vision-feminista-del-caso/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-23T22:07:23+00:00",
+     "copete": "El actor interpretará al cuadruple femicida en un film de Prime Video, con dirección de Daniela Goggi, que busca llevar a la pantalla la versión de la esposa, la suegra y las dos hijas del asesino",
+     "id": "1c704fbd88c7"
+    },
+    {
+     "title": "Quién es Mia Khalifa, la exactriz porno que acusó a los argentinos de ser racistas",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-es-mia-khalifa-la-exactriz-porno-que-acuso-a-los-argentinos-de-ser-racistas-nid23072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-23T21:59:19+00:00",
+     "copete": "La joven de 33 años quedó en el centro de la polémica tras publicar varios mensajes contra la selección argentina después de la final del Mundial 2026",
+     "id": "a9f9b7ea567d"
+    },
+    {
+     "title": "Jimena Monteverde recordó el look que utilizaba en los inicios de su carrera para molestar a un compañero: “Entangada”",
+     "link": "https://www.infobae.com/teleshow/2026/07/23/jimena-monteverde-recordo-el-look-que-utilizaba-en-los-inicios-de-su-carrera-para-molestar-a-un-companero-entangada/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-23T21:37:46+00:00",
+     "copete": "La cocinera sorprendió al contar la broma que hacía en Mañanas Informales, dejando sin palabras a sus compañeros de ciclo",
+     "id": "de5473690786"
+    },
+    {
      "title": "Murió Alberto José Ovando, exintegrante de Los Fronterizos y emblema del folclore nacional",
      "link": "https://www.infobae.com/teleshow/2026/07/23/murio-alberto-jose-ovando-exintegrante-de-los-fronterizos-y-emblema-del-folclore-nacional/",
      "source": "Teleshow (Infobae)",
      "published": "2026-07-23T21:10:53+00:00",
      "copete": "La agrupación confirmó en sus redes la muerte del barítono salteño y le dedicó palabras llenas de afecto, en una despedida que despertó homenajes de artistas, seguidores y referentes culturales de todo el país",
      "id": "6d2030b19001"
-    },
-    {
-     "title": "Suri, la hija de Tom Cruise y Katie Holmes, debuta en el teatro, pero sin el apellido de su padre",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/suri-la-hija-de-tom-cruise-y-katie-holmes-debuta-en-el-teatro-pero-sin-el-apellido-de-su-padre-nid23072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-23T20:48:54+00:00",
-     "copete": "A los 20 años, la joven protagonizará una adaptación de Sueño de una noche de verano y a finales de julio se presentará en el prestigioso Festival Fringe de Edimburgo",
-     "id": "7cae1694f725"
     },
     {
      "title": "El reencuentro de Maxi López con sus hijos en Italia tras el robo: “Volveremos todos juntos”",
@@ -192,68 +264,12 @@
      "id": "b49b5c401be3"
     },
     {
-     "title": "Cosquín Rock confirmó sus fechas para 2027: a partir de cuándo se pueden comprar las entradas",
-     "link": "https://www.lanacion.com.ar/que-sale/cosquin-rock-confirmo-su-fecha-para-2027-cuando-salen-a-venta-las-entradas-nid23072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-23T20:09:38+00:00",
-     "copete": "El festival volverá al Aeródromo Santa María de Punilla el 6 y 7 de febrero; la nueva instancia de comercialización comenzará el 29 de julio con beneficios con alguas tarjetas",
-     "id": "e814cf5e6c78"
-    },
-    {
      "title": "Cómo se ve a Luis Machín haciendo de Ricardo Barreda en la película: cuándo se estrena y dónde",
      "link": "https://www.clarin.com/espectaculos/ve-luis-machin-haciendo-ricardo-barreda-pelicula-estrena_0_kwUvEZ0Wlo.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-23T19:47:09+00:00",
      "copete": "El filme reconstruye la historia del dentista que asesinó brutalmente a su esposa, su suegra y sus dos hijas en su hogar. El elenco incluye a Carla Peterson, Mercedes Morán, Maite Lanata, Marcelo Subiotto y Paola Barrientos.",
      "id": "fcb147009731"
-    },
-    {
-     "title": "Revés para Rosalía por su comentario anti-Argentina: suspendieron un homenaje en Córdoba",
-     "link": "https://www.lanacion.com.ar/espectaculos/reves-para-rosalia-por-su-comentario-anti-argentina-suspendieron-un-homenaje-en-cordoba-nid23072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-23T19:46:39+00:00",
-     "copete": "El show orquestal previsto en el Museo Metropolitano fue dado de baja, en medio de las duras críticas recibidas por la publicación de la artista sobre la selección",
-     "id": "e5fc19f29a6a"
-    },
-    {
-     "title": "Wanda Nara ahora vende cursos: cuánto cuestan y de qué se tratan",
-     "link": "https://www.lanacion.com.ar/espectaculos/wanda-nara-ahora-vende-cursos-cuanto-cuestan-y-de-que-se-tratan-nid23072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-23T19:18:07+00:00",
-     "copete": "La mediática revolucionó las redes al lanzar “Academia Wanda”, un proyecto con el que busca que las mujeres puedan emprender y alcanzar la independencia económica",
-     "id": "182598a73d7a"
-    },
-    {
-     "title": "Evangelina Anderson celebró su cumpleaños en Marbella vestida de princesa: “Me deprime un poco cumplir años”",
-     "link": "https://www.infobae.com/teleshow/2026/07/23/evangelina-anderson-celebro-su-cumpleanos-en-marbella-vestida-de-princesa-me-deprime-un-poco-cumplir-anos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-23T19:00:33+00:00",
-     "copete": "La modelo festejó su primer natalicio separada, lo hizo junto a su familia y reflexionó acerca de su presente emocional",
-     "id": "cb15a6ae3718"
-    },
-    {
-     "title": "La indignación de Romina Uhrig por la falta de higiene dentro de la casa de Gran Hermano: “Es una falta de respeto”",
-     "link": "https://www.infobae.com/teleshow/2026/07/23/la-indignacion-de-romina-uhrig-por-la-falta-de-higiene-dentro-de-la-casa-de-gran-hermano-es-una-falta-de-respeto/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-23T18:55:52+00:00",
-     "copete": "Luego de su regreso al reality, la exparticipante quedó completamente descolocada por el estado en que los jugadores conviven a diario y decidió tomar cartas en el asunto",
-     "id": "8a122c076b8a"
-    },
-    {
-     "title": "El nuevo viaje de Zaira Nara a Ibiza: entre la playa, sus clásicos mates y el relax total",
-     "link": "https://www.infobae.com/teleshow/2026/07/23/el-nuevo-viaje-de-zaira-nara-a-ibiza-entre-la-playa-sus-clasicos-mates-y-el-relax-total/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-23T18:34:39+00:00",
-     "copete": "La modelo, tras la final del Mundial 202 en Nueva York, volvió a armar las valijas y se fue a la isla española para gozar del verano europeo",
-     "id": "c98b880775de"
-    },
-    {
-     "title": "Tamara Báez anunció su cambio de look tras contar que está embarazada: “Lo necesitaba”",
-     "link": "https://www.infobae.com/teleshow/2026/07/23/tamara-baez-mostro-su-nuevo-retoque-estetico-tras-el-anuncio-de-su-embarazo-lo-necesitaba/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-23T18:16:42+00:00",
-     "copete": "Mientras espera su primer hijo con Thiago Martínez, la influencer celebró el cambio que realizó junto a Jamaica, la niña que tuvo con L-Gante",
-     "id": "a31f9cffe624"
     },
     {
      "title": "Detrás del mito: la joya del cine de 1974 y el genio de Broadway que inspiraron “Billie Jean”, consagrando el estilo de Michael Jackson para siempre",
@@ -270,6 +286,20 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "La Ratonera llega a Buenos Aires: el policial de Agatha Christie que desconcierta al mundo desde hace más de 70 años",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckljaUNvTFM3TFhXNWNDeXdWWkJfOXJsTk9CM2dYN2RjeGh3czhSMFhEYklVUFM4MFk1cHZzWk9sMENyeHB0SUFlMDRDMDk0ajhQSndvY2xhYlNZLUlmN2pKR0RKdE04WmNmeDhFeDBqVWluUDM1YUZvdVpyZVFrVjllbFluT3pnVFJXNWVJSTVwMmxWVWVqeDVGMFhhM0w0dkM3bGNyeUZwSTZxVkxYN0t0bHN0NkxhdWtleEFjUXVTaFB4eHhNbDFRTzRWM2Rv0gHkAUFVX3lxTE0wVXI5Mmp0Qi1OYW41RFM3Z256ZlNwVGptREFSVVp4ME1jbjNzemVnZkZLXzdkNGtZQU92ZWlQdXB6ajJxZDRGU19EeWpybGJ1QWV2cmVobHdTaEFDZ2pXRHkzMThiMnRBUTZ2WHZaZGt6TjdMWUdxWW0wRTJvcGNNYmh5bmpncEVNUlNVRXc3dGxtc3A5ZmVDX3dtMTdyVWxxNDRpNkJjRDFkMFZWcllGOV9tX1NMWEVMLURVTVZ0Vy0xQkp2a0VtdVZNNkxQX0xubzZOdU4teXlmbFQyTXpIeGpmZw?oc=5",
+     "source": "El Destape",
+     "published": "2026-07-23T22:04:08+00:00",
+     "id": "9b60b1539ef5"
+    },
+    {
+     "title": "Vacaciones de invierno con agenda cargada: feria del libro, jazz en el CCK y recitales que llenan Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY1hwczM4MGZxcHJBTTJDTzBqOHc3ZjNIOVpBRVpLU1p4ZFpPck5YbkdSV3ZPbXVKaEh3b0ZCUm9TeU5YZEI1NHV5dzF4clhqRU5tQWR0WTRnTEhYNnJtb0JzLUUyeWUwdk9COG5WRjRwb2dPR2U3cktNdjVqa0pFQzZzSk5nY04wcTFKZGt1VEVtWnZKaXdaUTh0UU5OYWF6UVBtYWhZdGVlV2U3dThQMG5FdG05cGRWajNJVEVITWNxSmZTeEMwcWR3N0JxcVlUZDVBNEV6OXhDZTljdVRZN3pZOHQ?oc=5",
+     "source": "Política y Medios",
+     "published": "2026-07-23T21:33:23+00:00",
+     "id": "4a61921ec8a8"
+    },
     {
      "title": "Dónde comer fideos, ñoquis y ravioles por $9.999 en CABA: los restaurantes que participan del Día de la Pasta 2026",
      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb1RaN3BOR0pMRi1UdmZTNl9iTkwxWS1ibWR2WjlyNlFCOUE3X0V6U3l3dnJiWGtRM2VXZjR1dWQwajZ2YzltVURiUGFGV3pXMFlPaHlQdzdyRXVsMGk0M2U4MHcyRThjY21peWZqYzF1SnB0VkVmWXJpSmtDc3JVWHB2T0lLVm5WSm5fVnpxTURnb2dZZjNYREFmTnNzUjFzRGFvYnFRU3hWUjQ4a1FpbXRrR1ZubnMtUTlHRGlOd1dWZ1BwajQ3ajhhaUp2UHJEQlV4aXlXcVZwUDVhdVk5bUVMZkx5blNGWEE?oc=5",
@@ -292,25 +322,11 @@
      "id": "35afd62cfa4a"
     },
     {
-     "title": "Premios PINTI 2026: cómo participar para elegir la mejor obra de teatro comercial de Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUp6eXdxanV0SU9UR1pRUFNzYkxxbU52Ym12bm40THZmdXd0OVc1Tm0tUjZBajUwOWJoTEplRVFId3plZnRUX3lqekNuSjFndjNwTWU4SFFTVkZjWHRBNVRPVkFPdXpSaVFDMGtFMkw1b2lXZDdLZGRjMEFBYVA0amp3VUVaNV9PUHpBSWNkRUxzQWt3aHRXWlEzMVp1bkp4Q3RELVJjbkNrc2M3VUVwWWVueVFKMTVIM0pNUDZEOGpmYjTSAcgBQVVfeXFMTWRmN0hIdnM2TUtDUWVpbXU4eml3LVF6VTEyRUFCVjJoY2paS19rQUZtYVVhaUZvV0x4T3NzRV84anJ5YkpoeFVvZVJKak1ERFJJZFFZdzZmR1c0VGpxOE1NbkFTT1FCbjhvaW1ndkJ6dHVXMWp1R1RJUHF5Q2FPTU51MnRPYngxVlc4TFVvQVFsRjBkOWI3UzY2Tl9sNkxGd2ZySlQ3bVY1bTRRQkl4WENmNk9ubjctMjgtYzlRX0FuRm5mY0hFTVo?oc=5",
-     "source": "MDZ Online",
-     "published": "2026-07-23T17:33:00+00:00",
-     "id": "6a4e9785b95d"
-    },
-    {
      "title": "El Teatro San Martín, el Planetario y otros espacios culturales públicos de Buenos Aires suman funciones distendidas para las vacaciones de invierno",
      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVFB3cGNuVkczdmd4dmVvcFJxb3VxT3ZETEVHcmVqdUVrN2ZBN3NLYW16eXp3SS1IVlB0b0VlWF9BU3NrTnk3dkR0aVVEV09tYkxVeGN5WU1OdFpickVqdVNPNWcyejc5UnB6VUJ5ZE9pM0pLVGRSOXExOVhCajZUVFJCRS1qS1U2ZmtnMkZWUjVxZG5YVXJ6Y0ItVkZxUTZ3RXIycjcySVlsZXBrQmhScTN3QWJDeDdqQ0JwT0JMT2drRFozZ3NjZVdJczVNeHRVdU1QTldWUGo4c29JUloxRUhCNFlWWm9OMkw3TWZFcjhyaWQxem5Vd21jbmYzQV95bE5nazlvTWVPSlV4VDU1OWJVblVNTmk0anlJ0gG2AkFVX3lxTE5nZXJ6cXRxbW50Z193QlVFNkhFa0wwUjVtdWFESVBwc2xiN3RHOHQyeHZ3VEdzUFE2UXhGbXdlWTlNclUycGI4VjJ5SGhKS05xbnNOVUdXdWZlaTB0Ml9yYm9JaWpIZkdLWEQtbmtiQWUyZFNUUEI1bU9FbEQyZWQzX1k2UnpocFYzcGJrVEdEWUhYdnJ1S21NRmVEeFo5Zk14SDRFb1E0RTdCYzEtU3dWS2RCZWVvWW9LbjlxZ294X2NJVmJvV1JjOUJUMUJFS0xvdmdZYkFUVTh2cHZvUGR4RGR1UGpJOXg2anJYSUk5ZzRZN0ctcVhncG9oS3BqS2tGQW9wem9ReW0wdHZyQlhFMElabkdMUHF4MHZDX2NuNV9XaVVBNlpLRnpETEdJZTVuTHY2WWc?oc=5",
      "source": "Infobae",
-     "published": "2026-07-23T17:05:20+00:00",
+     "published": "2026-07-23T17:45:00+00:00",
      "id": "afa5b6ab478d"
-    },
-    {
-     "title": "Cuándo son los shows de Rosalía en Buenos Aires: qué días se presenta la cantante española en medio de la polémica",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZjRBcHJpU0pVb01PcERVSEh1QkVXSlJPeHNwYkh1cUtyckcwUnNCd3FLRklVNmJKOW5zdG9xS2JaSEZ2M2J2TEdUckx4eFEyMUtDTlFXclJRbkZsUHB1ZC1kbHVGZ25OUWlyUW1iQnhRejJtVElUU2RyTWNPTFFxNldPdURidmRYSG1HNmJURGhSMjN5cTc2dkRrTEowYkpNT2xCcDFXX0VYY05jYTI4VFdYbVlvOWhUbk14WnVUdmoyZDNGN0ZZSUNqNWVHYk8zYS1xMTJtTWtYbm5xeFRTVko4M2JCTjQ1N3ZMUzJqZUE1N08y?oc=5",
-     "source": "Canal26",
-     "published": "2026-07-23T16:26:35+00:00",
-     "id": "581714d9c5c9"
     },
     {
      "title": "Rock, teatro, cine y grandes espectáculos copan la agenda cultural de la Ciudad de Buenos Aires",
@@ -348,84 +364,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Horror en Merlo: discutió con su pareja, la mató y luego se arrojó a las vías del tren",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/23/horror-en-merlo-discutio-con-su-pareja-la-mato-y-luego-se-arrojo-a-las-vias-del-tren/",
-     "source": "Infobae",
-     "published": "2026-07-23T21:25:07+00:00",
-     "copete": "La víctima tenía 51 años y fue encontrada dentro de la casa por su cuñada. La Justicia investiga el caso como un femicidio seguido de suicidio",
-     "id": "837fd3055324"
-    },
-    {
-     "title": "Oftalmólogos argentinos reciben una distinción internacional por una técnica innovadora en cirugía de retina",
-     "link": "https://www.infobae.com/salud/ciencia/2026/07/23/oftalmologos-argentinos-reciben-una-distincion-internacional-por-una-tecnica-innovadora-en-cirugia-de-retina/",
-     "source": "Infobae",
-     "published": "2026-07-23T21:23:31+00:00",
-     "copete": "El equipo médico fue galardonado en Canadá tras ser seleccionado entre más de un centenar de propuestas científicas. En qué consiste el método para tratar complicaciones graves",
-     "id": "033059d4d362"
-    },
-    {
-     "title": "La agenda de Javier Milei en Brasil para apoyar al hijo de Bolsonaro en las elecciones presidenciales",
-     "link": "https://www.lanacion.com.ar/politica/la-agenda-de-javier-milei-en-brasil-para-apoyar-al-hijo-de-bolsonaro-en-las-elecciones-nid23072026/",
+     "title": "David Sinclair, experto en longevidad de Harvard: “Sabemos que si se retrasa el reloj, las enfermedades desaparecen”",
+     "link": "https://www.lanacion.com.ar/estados-unidos/david-sinclair-experto-en-longevidad-de-harvard-sabemos-que-si-se-retrasa-el-reloj-las-enfermedades-nid23072026/",
      "source": "La Nación",
-     "published": "2026-07-23T21:22:35+00:00",
-     "copete": "El encuentro fue anunciado para “reforzar la relación bilateral”; el presidente participará el sábado de la Convención Nacional del Partido Liberal, donde se proclamará la candidatura del hijo de Jair Bolsonaro",
-     "id": "a7bdc8444b33"
+     "published": "2026-07-23T23:13:00+00:00",
+     "copete": "Conoce la teoría de David Sinclair, experto de Harvard, sobre el envejecimiento y las enfermedades y cómo la reprogramación epigenética avanza en estudios.",
+     "id": "16e5a81d2bd8"
     },
     {
-     "title": "‘BOKURA’ llega a Switch 2 reinventando el género de aventuras para dos jugadores",
-     "link": "https://www.infobae.com/malditos-nerds/2026/07/23/bokura-llega-a-switch-2-reinventando-el-genero-de-aventuras-para-dos-jugadores/",
+     "title": "Detuvieron en Estados Unidos al exnovio de Agostina Jalabert, modelo argentina asesinada en México",
+     "link": "https://www.lanacion.com.ar/seguridad/detuvieron-en-estados-unidos-al-principal-sospechoso-por-el-femicidio-de-agostina-jalabert-nid23072026/",
+     "source": "La Nación",
+     "published": "2026-07-23T23:12:25+00:00",
+     "copete": "Juan Manuel Reverter estaba prófugo desde febrero de 2023 y tenía una alerta roja de Interpol vigente",
+     "id": "663c2b14d83c"
+    },
+    {
+     "title": "Nueva generación de inteligencia artificial: Anthropic con Claude y Meta se unen a AMD",
+     "link": "https://www.infobae.com/tecno/2026/07/23/nueva-generacion-de-inteligencia-artificial-anthropic-con-claude-y-meta-se-unen-a-amd/",
      "source": "Infobae",
-     "published": "2026-07-23T21:22:00+00:00",
-     "copete": "El lanzamiento de 'BOKURA' en Switch 2 marca una nueva etapa de la estrategia de Kodansha Game Lab para propuestas cooperativas japonesas",
-     "id": "c85da26ecd83"
+     "published": "2026-07-23T23:12:21+00:00",
+     "copete": "Estas alianzas muestran el cambio en la industria de la tecnología: la competencia tecnológica está pasando del procesador individual al diseño completo del centro de datos",
+     "id": "70e3c2735580"
     },
     {
-     "title": "Propiedad privada: Sturzenegger se reunió con Bullrich en el Senado, pero aún no están los votos asegurados",
-     "link": "https://www.infobae.com/politica/2026/07/23/propiedad-privada-sturzenegger-se-reunio-con-bullrich-en-el-senado-pero-aun-no-estan-los-votos-asegurados/",
+     "title": "Cinco meses de investigación, escuchas y GPS: cayó la banda narco que trasladaba 200 kilos de cocaína de Salta a Buenos Aires",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/23/cinco-meses-de-investigacion-escuchas-y-gps-cayo-la-banda-narco-que-trasladaba-200-kilos-de-cocaina-de-salta-a-buenos-aires/",
      "source": "Infobae",
-     "published": "2026-07-23T21:21:09+00:00",
-     "copete": "El ministro de Desregulación fue a la Cámara alta junto a otros funcionarios para intentar reacomodar las negociaciones. La iniciativa ya tiene 15 borradores extra, pese a un dictamen firmado a fines de mayo pasado. Alerta por dos…",
-     "id": "123975489a4c"
+     "published": "2026-07-23T23:11:32+00:00",
+     "copete": "El operativo fue encabezado por la Policía de Seguridad Aeroportuaria y terminó con la detención de siete personas. También se secuestraron armas, dinero y cinco vehículos",
+     "id": "9f120d46b65b"
     },
     {
-     "title": "Cataratas del Iguazú: cierran por tiempo indeterminado la Garganta del Diablo por una drástica crecida del río",
-     "link": "https://www.lanacion.com.ar/sociedad/cataratas-del-iguazu-cierran-por-tiempo-indeterminado-la-garganta-del-diablo-por-una-drastica-nid23072026/",
-     "source": "La Nación",
-     "published": "2026-07-23T21:20:21+00:00",
-     "copete": "Activaron en Misiones el protocolo de seguridad ante el aumento repentino del caudal; las intensas lluvias en las altas cuencas de Brasil y Paraguay obligaron a clausurar el acceso al paseo",
-     "id": "34316fb990dd"
+     "title": "Boca Juniors abrirá su serie de playoffs de la Copa Sudamericana ante O’Higgins: hora, TV y formaciones",
+     "link": "https://www.infobae.com/deportes/2026/07/23/boca-juniors-abrira-su-serie-de-playoffs-de-la-copa-sudamericana-ante-ohigggins-hora-tv-y-formaciones/",
+     "source": "Infobae",
+     "published": "2026-07-23T23:10:43+00:00",
+     "id": "3a1e926c24ae"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: movimientos sindicales y repercusiones del Mundial",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-sindicales-y-repercusiones-del-mundial-nid23072026/",
-     "source": "La Nación",
-     "published": "2026-07-23T21:20:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "72f7f1cf9f8b"
+     "title": "El Rosario Central de Di María pierde con Belgrano en el arranque del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/07/23/arranca-el-torneo-clausura-2026-con-tres-partidos-hora-tv-formaciones-y-agenda-completa-de-la-primera-fecha/",
+     "source": "Infobae",
+     "published": "2026-07-23T23:10:11+00:00",
+     "copete": "El Pirata recibe al Canalla en Córdoba. Al unísono, Sarmiento 1-0 Argentinos en Junín. Y desde las 21:45, Defensa y Justicia-Aldosivi en Florencio Varela",
+     "id": "e24257f84f36"
     },
     {
-     "title": "Los nuevos días del all inclusive",
-     "link": "https://www.lanacion.com.ar/sabado/tiene-el-all-inclusive-los-dias-contados-nid23072026/",
+     "title": "Los nuevos días del all inclusive: entre la naturaleza y los viajes personalizados",
+     "link": "https://www.lanacion.com.ar/sabado/los-nuevos-dias-del-all-inclusive-entre-la-naturaleza-y-los-viajes-personalizados-nid23072026/",
      "source": "La Nación",
-     "published": "2026-07-23T21:19:44+00:00",
+     "published": "2026-07-23T23:08:32+00:00",
      "copete": "La ética ambiental y los deseos de las nuevas generaciones modifican un modelo vacacional que se personaliza y alinea con la naturaleza",
-     "id": "02e0dcc74f97"
+     "id": "c8f14141303b"
     },
     {
-     "title": "Un joven francés volvió a colocar la cruz en la cima del Aneto: “Regresaré tantas veces como haga falta”",
-     "link": "https://www.clarin.com/internacional/joven-frances-volvio-colocar-cruz-cima-aneto-regresare-veces-haga-falta_0_vBRYLKl0AS.html",
-     "source": "Clarín",
-     "published": "2026-07-23T21:00:43+00:00",
-     "copete": "Habían puesto una cruz provisoria y desapareció. El joven lo hizo dos veces en pocos meses.",
-     "id": "db7277b50911"
+     "title": "Oficial en Florida: qué se sabe sobre el regreso de Messi al Inter Miami este 2026",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/oficial-en-florida-que-se-sabe-sobre-el-regreso-de-messi-al-inter-miami-este-2026-nid23072026/",
+     "source": "La Nación",
+     "published": "2026-07-23T23:07:06+00:00",
+     "copete": "Conoce cuándo podría regresar Lionel Messi al Inter Miami tras el Mundial 2026 y qué dijo Guillermo Hoyos sobre su descanso en Rosario.",
+     "id": "b16ed6aa468f"
     },
     {
-     "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, jueves 23 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-jueves-23-julio_0_FYDlksJTsu.html",
+     "title": "Karina Milei definió al 23 de julio como el \"Día de la Unidad\" libertaria, emulando el de la \"Lealtad\" peronista",
+     "link": "https://www.clarin.com/politica/karina-milei-definio-23-julio-dia-unidad-libertaria-emulando-lealtad-peronista_0_HGZf3esjOc.html",
      "source": "Clarín",
-     "published": "2026-07-23T21:00:00+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "57ed3b886f34"
+     "published": "2026-07-23T22:55:37+00:00",
+     "copete": "Es parte del relanzamiento oficial tras el escándalo Adorni, las reformas proyectadas para el segundo semestre y los preparativos para el operativo reelección de Javier Milei.",
+     "id": "17578bad279c"
+    },
+    {
+     "title": "Un hombre murió arrollado por el tren Sarmiento, fueron a su casa y encontraron a su pareja muerta a golpes",
+     "link": "https://www.clarin.com/policiales/hombre-murio-arrollado-tren-sarmiento-casa-encontraron-pareja-muerta-golpes_0_hqQscONDGk.html",
+     "source": "Clarín",
+     "published": "2026-07-23T22:50:46+00:00",
+     "copete": "Sergio Cuello se quitó la vida en las vías en Merlo. Cuando entraron a su casa descubrieron el supuesto asesinato de Carina Salcedo. Investigan un caso de femicidio seguido de suicidio.",
+     "id": "f1960567985d"
     }
    ]
   },
@@ -435,7 +450,7 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Lo que un tiburón que vive 400 años nos puede enseñar sobre la longevidad",
+     "title": "\"Nos quedamos maravillados\": lo que un tiburón que vive 400 años nos puede enseñar sobre la longevidad",
      "link": "https://www.bbc.com/mundo/articles/cp8x30929lgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-23T21:17:18+00:00",
@@ -449,6 +464,14 @@
      "published": "2026-07-23T20:44:05+00:00",
      "copete": "El que acaba de pasar ha sido “el Mundial de las redes” y “lo que organiza las redes es el odio, mucho más que el amor”, dice Pablo Alabarces, profesor de cultura popular, en una entrevista con BBC Mundo.",
      "id": "87a6b43d957b"
+    },
+    {
+     "title": "Sheinbaum, tras su reunión con Greer: “Avanzamos en la revisión del TMEC y en acuerdos bilaterales”",
+     "link": "https://elpais.com/mexico/economia/2026-07-23/sheinbaum-tras-su-reunion-con-greer-avanzamos-en-la-revision-del-tmec-y-en-acuerdos-bilaterales.html",
+     "source": "El País Internacional",
+     "published": "2026-07-23T19:36:24+00:00",
+     "copete": "El encuentro entre los gobiernos de México y EE UU forma parte de la primera revisión anual del tratado, después de la negativa de Trump de extenderlo por 16 años",
+     "id": "88b298e59f51"
     },
     {
      "title": "Los más de 100 millonarios en Reino Unido que le piden al nuevo primer ministro que les suba los impuestos",
@@ -489,14 +512,6 @@
      "published": "2026-07-23T14:01:42+00:00",
      "copete": "La mitad de las pérdidas se produjeron por el derrumbe de edificios residenciales y cerca de un tercio por daños en infraestructuras",
      "id": "06b386041408"
-    },
-    {
-     "title": "El caso de un agente que violó durante años a numerosas mujeres pone en entredicho a la policía escocesa",
-     "link": "https://elpais.com/internacional/2026-07-23/el-caso-de-un-agente-que-violo-durante-anos-a-numerosas-mujeres-pone-en-entredicho-a-la-policia-escocesa.html",
-     "source": "El País Internacional",
-     "published": "2026-07-23T12:19:32+00:00",
-     "copete": "Alan Greer, que se suicidó tras ser descubierto, llevaba una doble vida que ni la familia ni el cuerpo detectaron",
-     "id": "724835566870"
     }
    ]
   }
@@ -510,11 +525,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
