@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T22:10:00Z",
+  "generated_at": "2026-07-23T10:15:00Z",
   "summaries": {
     "547792bae086": {
       "resumen": "El Gobierno de la Ciudad de Buenos Aires presentó su agenda de actividades de vacaciones de invierno, del 18 de julio al 2 de agosto."
@@ -7,24 +7,8 @@
     "d59c745c1d2c": {
       "resumen": "La escena gastronómica de la Ciudad de Buenos Aires consolida su reconocimiento a nivel internacional."
     },
-    "566a4b4c9e97": {
-      "resumen": "Journal of Clinical Oncology publica una columna de opinión que cuestiona si los ensayos de terapia radiofarmacéutica (tratamientos con isótopos radiactivos unidos a moléculas que se dirigen al tumor) están diseñados con dosis insuficientes. Interesa como mirada crítica sobre el diseño de estos ensayos, más que como reporte de resultados clínicos.",
-      "destacado": false
-    },
-    "00b5b738a47a": {
-      "resumen": "Journal of Clinical Oncology publica \"A Shopping List\" (Una lista de compras), un texto dentro de su sección de reflexión narrativa sobre la práctica oncológica. Interesa como mirada humanística sobre el oficio médico, más que como reporte de investigación con resultados clínicos.",
-      "destacado": false
-    },
-    "92e13f2ec28c": {
-      "resumen": "Journal of Clinical Oncology publica una correspondencia sobre cómo optimizar los resultados tras el trasplante haploidéntico (de un donante con compatibilidad parcial) en pediatría, centrada en el rol de la profilaxis de la enfermedad de injerto contra huésped. Es un intercambio de opinión entre especialistas, útil para seguir el debate sobre esquemas de profilaxis en trasplante pediátrico.",
-      "destacado": false
-    },
     "27cd26da1809": {
       "resumen": "Catorce restaurantes argentinos fueron distinguidos con estrellas en la Guía Michelin 2026."
-    },
-    "f16a0a5ab580": {
-      "resumen": "Journal of Clinical Oncology publica la respuesta de los autores originales a la correspondencia sobre la profilaxis de la enfermedad de injerto contra huésped en el trasplante haploidéntico pediátrico. Completa el intercambio de opinión iniciado en la carta anterior, sin aportar datos de un estudio nuevo.",
-      "destacado": false
     },
     "a0623658b468": {
       "resumen": "OncLive difunde una entrevista al doctor Hoffmann sobre la relevancia de los datos de eficacia de sonrotoclax (un inhibidor de BCL2, la proteína del linfoma de células B 2) combinado con zanubrutinib (un inhibidor de la tirosina quinasa de Bruton, BTK) en linfoma de células del manto (MCL, mantle cell lymphoma). Es un comentario de experto sobre una combinación en desarrollo, sin datos nuevos propios.",
@@ -34,50 +18,9 @@
       "resumen": "OncLive repasa las direcciones futuras y estrategias emergentes en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del receptor del factor de crecimiento epidérmico (EGFR). Es una puesta al día conceptual sobre el panorama terapéutico, sin reportar un estudio propio.",
       "destacado": false
     },
-    "5e4acf25aa36": {
-      "resumen": "OncLive difunde una entrevista al doctor Cooper sobre la selección de biomarcadores para terapias dirigidas a DLL3 (ligando delta-like 3) en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer). Interesa por el rol creciente de estas terapias dirigidas en un tumor de mal pronóstico.",
-      "destacado": false
-    },
-    "a9e34b1f466d": {
-      "resumen": "The ASCO Post reporta el desarrollo de un puntaje de arquitectura de médula ósea derivado de inteligencia artificial (IA) que mejoraría la evaluación de la enfermedad en neoplasias mielodisplásicas (antes llamadas síndromes mielodisplásicos). Vale la pena mirarlo porque suma una herramienta cuantitativa a un diagnóstico tradicionalmente subjetivo.",
-      "destacado": true,
-      "analisis": "Diseño: El título indica un estudio de desarrollo y validación de una herramienta diagnóstica basada en inteligencia artificial (IA) aplicada a biopsias de médula ósea; no se especifica si fue retrospectivo, prospectivo, multicéntrico ni el número de pacientes.\nPoblación: Pacientes con neoplasias mielodisplásicas (síndromes mielodisplásicos).\nIntervención: No hay una intervención terapéutica; se evalúa un puntaje de arquitectura de médula ósea generado por IA como herramienta de apoyo diagnóstico, comparado presumiblemente con la evaluación histológica convencional.\nResultados: no disponibles, no se pudo acceder al abstract; el título indica una mejora en la evaluación de la enfermedad, sin cifras concretas.\nLimitaciones: sin el texto completo no se conoce el tamaño muestral, si hubo validación externa, ni si el puntaje fue comparado de forma ciega contra el estándar de referencia.\nMensaje: una herramienta de IA para estandarizar la lectura de la arquitectura medular podría ayudar a reducir la variabilidad interobservador en el diagnóstico de neoplasias mielodisplásicas, aunque se necesita más evidencia antes de su uso clínico rutinario.\nNota: análisis sin acceso al abstract."
-    },
     "cf14df30590a": {
       "resumen": "The ASCO Post difunde una entrevista al doctor Levy sobre las opciones terapéuticas emergentes de primera línea y en combinación para el cáncer de pulmón de células no pequeñas (NSCLC) con mutación KRAS G12C. Sirve como panorama actualizado del tratamiento dirigido en este subgrupo molecular.",
       "destacado": false
-    },
-    "ebe61dd3ba52": {
-      "resumen": "The ASCO Post resume varios estudios recientes que muestran avances en distintos frentes del mieloma múltiple. Interesa como panorama general del área más que como un único ensayo con resultados puntuales.",
-      "destacado": false,
-      "analisis": "Diseño: El artículo sintetiza resultados de varios estudios distintos sobre mieloma múltiple, sin corresponder a un único diseño metodológico; no se especifica el tipo de estudio, la cantidad de centros ni de pacientes de cada uno.\nPoblación: Pacientes con mieloma múltiple, en distintas líneas de tratamiento según cada estudio incluido en la nota.\nIntervención: Variable según el estudio referido (terapias dirigidas, esquemas de combinación, trasplante, entre otras), sin un comparador único.\nResultados: no disponibles, no se pudo acceder al abstract ni al texto completo; el título solo indica que hay \"avances\" sin especificar magnitud.\nLimitaciones: al tratarse de una nota que resume múltiples estudios, no permite evaluar en detalle el rigor metodológico ni los resultados cuantitativos de cada uno por separado.\nMensaje: el campo del mieloma múltiple continúa mostrando progresos en varios frentes, aunque para valorar el impacto real en la práctica hace falta revisar cada estudio individualmente.\nNota: análisis sin acceso al abstract."
-    },
-    "c9bfb4500b4b": {
-      "resumen": "Lancet Oncology publica un artículo sobre las inequidades en cáncer que afectan a las Primeras Naciones (First Nations, pueblos originarios) en Canadá. Vale la pena mirarlo porque visibiliza brechas de acceso y de desenlaces oncológicos en una población indígena, un tema relevante para pensar la equidad en salud.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un análisis sobre inequidades en salud oncológica en población indígena; no se especifica si se trata de un estudio poblacional o de registro, el diseño metodológico, ni el número de centros o de pacientes.\nPoblación: Personas pertenecientes a las Primeras Naciones (pueblos originarios) de Canadá con diagnóstico de cáncer, en comparación implícita con la población general canadiense.\nIntervención: No aplica una intervención terapéutica; se analizan probablemente diferencias en incidencia, acceso a tratamiento o mortalidad según el grupo poblacional.\nResultados: no disponibles, no se pudo acceder al abstract; el título solo indica la existencia de inequidades, sin cifras concretas.\nLimitaciones: sin el texto completo no se conoce la fuente de datos, el período analizado ni si se ajustó por factores socioeconómicos o de acceso geográfico.\nMensaje: el trabajo resalta la persistencia de brechas en salud oncológica para comunidades indígenas, lo que subraya la necesidad de políticas específicas de acceso y detección temprana en estas poblaciones.\nNota: análisis sin acceso al abstract."
-    },
-    "805d8fc589f8": {
-      "resumen": "Lancet Oncology difunde nuevas guías que promueven la alimentación saludable y la actividad física en el ámbito escolar en las Américas, como estrategia de prevención oncológica a largo plazo. Es una noticia de política de salud pública, sin datos de un estudio clínico propio.",
-      "destacado": false
-    },
-    "5151d0be15cd": {
-      "resumen": "Vogue México propone 15 diseños de uñas en color naranja, divertidos y prolijos, para lucir el bronceado en el verano 2026."
-    },
-    "24b682edf048": {
-      "resumen": "ShowOnLine.com.ar analiza qué claves permiten construir una marca de moda capaz de perdurar más allá de las tendencias pasajeras."
-    },
-    "4d1d01d24d2b": {
-      "resumen": "Vogue México selecciona las blusas azules más elegantes para combinar con jeans, polleras y pantalones en el verano 2026."
-    },
-    "cc8d70a7d45b": {
-      "resumen": "Vogue México repasa las botas de estilo coreano que se lucen elegantes con jeans, polleras y vestidos este verano 2026."
-    },
-    "328b6d7fb81e": {
-      "resumen": "Vogue México destaca los zapatos planos de estilo japonés que se imponen como tendencia para combinar con jeans oxford (flare) este verano."
-    },
-    "20b1c8d09150": {
-      "resumen": "ELLE señala a las sandalias 'jelly' (de material plástico flexible tipo gelatina) como la tendencia del momento, con rebajas en Parfois y El Corte Inglés."
     },
     "031eb568de6a": {
       "resumen": "EscribiendoCine perfila a Ricardo Hornos, responsable del suceso teatral \"Invasiones I: no bombardeen Buenos Aires\"."
@@ -99,6 +42,61 @@
     },
     "bea56124627b": {
       "resumen": "Página|12 recomienda planes de agenda cultural LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "e33bb1a5597a": {
+      "resumen": "The ASCO Post presenta un caso clínico didáctico de cáncer de próstata metastásico con mutación en BRCA (gen de reparación del ADN vinculado también al cáncer de mama y ovario), el tercero de una serie educativa. Repasa el razonamiento diagnóstico y terapéutico para este subgrupo, sin datos de un ensayo propio.",
+      "destacado": false
+    },
+    "572a1c397a82": {
+      "resumen": "The ASCO Post publica el segundo caso de su serie educativa, esta vez de cáncer de próstata metastásico con pérdida de PTEN (fosfatasa supresora tumoral que regula la vía PI3K/AKT). Analiza las opciones terapéuticas para este perfil molecular de peor pronóstico, en formato de discusión clínica y no de estudio original.",
+      "destacado": false
+    },
+    "a92da673959d": {
+      "resumen": "OncLive recoge una entrevista sobre las principales necesidades no resueltas en cáncer de pulmón, de cara a un próximo congreso especializado del área. Es una mirada de expertos sobre prioridades de investigación, sin presentar resultados de un estudio.",
+      "destacado": false
+    },
+    "e95214f872dc": {
+      "resumen": "Journal of Clinical Oncology publica un comentario sobre el uso de agonistas del receptor de trombopoyetina (fármacos que estimulan la producción de plaquetas) para la trombocitopenia inducida por quimioterapia en tumores gastrointestinales. El título, planteado como pregunta retórica, sugiere una mirada crítica sobre si esta estrategia realmente vale la pena.",
+      "destacado": false
+    },
+    "3d52dafbffd4": {
+      "resumen": "Journal of Clinical Oncology reconsidera el uso de corticoides (como la dexametasona) en el manejo del glioblastoma, una práctica instalada desde hace 65 años. Es un artículo de reflexión sobre una conducta histórica, no un ensayo clínico nuevo.",
+      "destacado": false
+    },
+    "a31897349bd4": {
+      "resumen": "Journal of Clinical Oncology publica la perspectiva de un radioterapeuta sobre cómo ajustar la terapia neoadyuvante total (combinación de quimioterapia y radioterapia antes de la cirugía) según la localización del tumor rectal. Es un comentario editorial que acompaña a un estudio, no un trabajo original con datos propios.",
+      "destacado": false
+    },
+    "072227bcb179": {
+      "resumen": "Journal of Clinical Oncology publica la réplica de los autores originales al comentario sobre la terapia neoadyuvante total según la localización del tumor rectal. Es un intercambio de cartas entre especialistas, sin nueva evidencia clínica.",
+      "destacado": false
+    },
+    "e527c03fa4e8": {
+      "resumen": "JAMA Oncology publica un relato personal, dentro de su sección de narrativa médica, sobre un momento humano en la relación entre un profesional de oncología y sus pacientes. No es un estudio clínico sino una pieza de reflexión sobre la práctica.",
+      "destacado": false
+    },
+    "7a74e88a89d2": {
+      "resumen": "JAMA Oncology publica una revisión sistemática y metaanálisis que compara la supervivencia libre de progresión (tiempo sin que la enfermedad avance) medida por investigadores locales versus la evaluación ciega de un comité central independiente, en cáncer de mama metastásico. Es relevante porque esa discordancia puede afectar cómo se interpretan los ensayos clínicos que usan este criterio como principal.",
+      "destacado": true,
+      "analisis": "Diseño: Revisión sistemática con metaanálisis de estudios que reportaron supervivencia libre de progresión evaluada tanto por investigadores locales como por revisión central independiente y ciega (BICR, blinded independent central review), en cáncer de mama metastásico.\nPoblación: Pacientes con cáncer de mama metastásico incluidos en ensayos clínicos que reportaron ambos tipos de evaluación de la supervivencia libre de progresión.\nIntervención: No hay un tratamiento específico comparado; el eje del análisis es el método de evaluación del criterio de valoración (investigador local vs. revisión central independiente y ciega).\nResultados: No disponibles con precisión numérica en este resumen por falta de acceso al abstract completo.\nLimitaciones: Sin el abstract no se pueden precisar el número de estudios ni de pacientes incluidos, ni la magnitud de la discordancia entre métodos de evaluación.\nMensaje: El método elegido para evaluar la supervivencia libre de progresión (local vs. central) podría influir en los resultados que reportan los ensayos, algo a tener en cuenta al interpretar la literatura en cáncer de mama metastásico.\nNota: análisis sin acceso al abstract."
+    },
+    "55124189f416": {
+      "resumen": "Zara presenta ocho vestidos de estética minimalista y sofisticada que tomarían el relevo de la tendencia boho, según ELLE."
+    },
+    "942077883ccd": {
+      "resumen": "Telva propone cinco looks de inspiración romántica pensados para lucir en vacaciones de verano."
+    },
+    "c78a6a8c98e0": {
+      "resumen": "Telva visita en exclusiva el nuevo atelier de The 2nd Skin Co en Madrid, que celebra sus 20 años apostando por diseños que no siguen tendencias pasajeras."
+    },
+    "e6f1d2858b0b": {
+      "resumen": "Vogue México repasa el tráiler final de la nueva película de Spider-Man, \"Brand New Day\"."
+    },
+    "8fe58f726330": {
+      "resumen": "Vogue México conversa con Lívia Nunes sobre su nueva colaboración con una marca de moda masiva y muy popular."
+    },
+    "467b3369e98b": {
+      "resumen": "Vogue México comparte seis consejos de especialistas para incorporar más proteína a la dieta sin esfuerzo."
     }
   }
 }
