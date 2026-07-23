@@ -1,59 +1,31 @@
 {
-  "generated_at": "2026-07-23T10:15:00Z",
+  "generated_at": "2026-07-23T22:10:00Z",
   "summaries": {
-    "547792bae086": {
-      "resumen": "El Gobierno de la Ciudad de Buenos Aires presentó su agenda de actividades de vacaciones de invierno, del 18 de julio al 2 de agosto."
-    },
-    "d59c745c1d2c": {
-      "resumen": "La escena gastronómica de la Ciudad de Buenos Aires consolida su reconocimiento a nivel internacional."
-    },
-    "27cd26da1809": {
-      "resumen": "Catorce restaurantes argentinos fueron distinguidos con estrellas en la Guía Michelin 2026."
-    },
-    "a0623658b468": {
-      "resumen": "OncLive difunde una entrevista al doctor Hoffmann sobre la relevancia de los datos de eficacia de sonrotoclax (un inhibidor de BCL2, la proteína del linfoma de células B 2) combinado con zanubrutinib (un inhibidor de la tirosina quinasa de Bruton, BTK) en linfoma de células del manto (MCL, mantle cell lymphoma). Es un comentario de experto sobre una combinación en desarrollo, sin datos nuevos propios.",
+    "1fa447a8753d": {
+      "resumen": "OncLive difunde una entrevista al doctor Cummings sobre la utilidad de la inmunoterapia adyuvante (posterior a la cirugía) usada en forma exclusiva, sin quimioterapia asociada, en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) en estadio temprano. Es la mirada de un experto sobre esta estrategia terapéutica, sin datos nuevos de un ensayo propio.",
       "destacado": false
     },
-    "b5115fb1c7ff": {
-      "resumen": "OncLive repasa las direcciones futuras y estrategias emergentes en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del receptor del factor de crecimiento epidérmico (EGFR). Es una puesta al día conceptual sobre el panorama terapéutico, sin reportar un estudio propio.",
+    "ddfa9493578d": {
+      "resumen": "OncLive resume las novedades en cáncer de mama presentadas en el congreso ASCO 2026 (American Society of Clinical Oncology), con foco en estrategias de desescalada de tratamiento y terapias dirigidas. Es una cobertura general del encuentro y no el reporte puntual de un estudio.",
       "destacado": false
     },
-    "cf14df30590a": {
-      "resumen": "The ASCO Post difunde una entrevista al doctor Levy sobre las opciones terapéuticas emergentes de primera línea y en combinación para el cáncer de pulmón de células no pequeñas (NSCLC) con mutación KRAS G12C. Sirve como panorama actualizado del tratamiento dirigido en este subgrupo molecular.",
+    "e3aa39d89c94": {
+      "resumen": "OncLive repasa el potencial del daraxonrasib, un inhibidor pan-RAS en desarrollo, para el manejo del cáncer de páncreas, uno de los tumores de peor pronóstico y con menos opciones terapéuticas disponibles. Ofrece un panorama sobre una droga en investigación, sin presentar resultados definitivos de un ensayo clínico.",
       "destacado": false
     },
-    "031eb568de6a": {
-      "resumen": "EscribiendoCine perfila a Ricardo Hornos, responsable del suceso teatral \"Invasiones I: no bombardeen Buenos Aires\"."
-    },
-    "c427275765c8": {
-      "resumen": "Buenos Aires Secreta arma una guía con mapa interactivo de actividades gratuitas para chicos y familias durante las vacaciones de invierno en Buenos Aires."
-    },
-    "c23333e5d668": {
-      "resumen": "Joaco Burgos presenta su espectáculo \"Desde lo profundo\" en el Teatro Coliseo y anticipa una noche especial, según cuenta a AM 1350 Radio Buenos Aires."
-    },
-    "8cea7d8127e4": {
-      "resumen": "Diario Tiempo Digital propone planes para el fin de semana del 24 al 26 de julio en Buenos Aires."
-    },
-    "39f7e18ea37d": {
-      "resumen": "Clarín cuenta cómo Tamara Tenenbaum y el dúo Lolo y Lauti reversionan dos clásicos del Siglo de Oro español en escenarios porteños."
-    },
-    "46468b93bde4": {
-      "resumen": "El Litoral repasa las declaraciones de Rosalía tras la polémica que generó en Argentina, mientras crece la expectativa por sus shows en Buenos Aires."
-    },
-    "bea56124627b": {
-      "resumen": "Página|12 recomienda planes de agenda cultural LGBTIQ para este fin de semana en Buenos Aires."
-    },
-    "e33bb1a5597a": {
-      "resumen": "The ASCO Post presenta un caso clínico didáctico de cáncer de próstata metastásico con mutación en BRCA (gen de reparación del ADN vinculado también al cáncer de mama y ovario), el tercero de una serie educativa. Repasa el razonamiento diagnóstico y terapéutico para este subgrupo, sin datos de un ensayo propio.",
+    "3916c5fe4502": {
+      "resumen": "The ASCO Post entrevista a la doctora Jennifer Gile sobre los esquemas frontMIND y POLARIX, dos protocolos en estudio para el linfoma difuso de células B grandes (DLBCL, diffuse large B-cell lymphoma) de alto riesgo. Es un comentario de experto sobre estrategias de tratamiento emergentes, no el reporte original de un ensayo.",
       "destacado": false
     },
-    "572a1c397a82": {
-      "resumen": "The ASCO Post publica el segundo caso de su serie educativa, esta vez de cáncer de próstata metastásico con pérdida de PTEN (fosfatasa supresora tumoral que regula la vía PI3K/AKT). Analiza las opciones terapéuticas para este perfil molecular de peor pronóstico, en formato de discusión clínica y no de estudio original.",
-      "destacado": false
+    "312314639f1b": {
+      "resumen": "The ASCO Post reporta que sobrevivientes de cáncer y su equipo tratante perciben de manera distinta los riesgos del uso de cannabis y cómo se conversa el tema en la consulta. Pone el foco en una brecha de comunicación médico-paciente poco explorada dentro del cuidado oncológico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio con metodología probablemente de encuesta o cuestionario comparado entre dos poblaciones (sobrevivientes de cáncer y proveedores de salud); no se cuenta con el abstract para precisar tamaño muestral ni si hubo comparación estadística formal.\nPoblación: Sobrevivientes de cáncer y sus equipos médicos tratantes (oncólogos y otros proveedores de salud).\nIntervención: No aplica una intervención terapéutica; se compara la percepción de riesgo y la comunicación sobre el uso de cannabis entre ambos grupos.\nResultados: El título señala diferencias entre sobrevivientes y proveedores en la percepción de riesgo y en cómo se comunica el tema, pero no hay cifras disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la muestra, el sesgo de selección de encuestados ni la validez de los instrumentos usados para medir percepción de riesgo.\nMensaje: Remarca una brecha de comunicación médico-paciente sobre el uso de cannabis en oncología, que podría abordarse con pautas más claras en la consulta.\nNota: análisis sin acceso al abstract."
     },
-    "a92da673959d": {
-      "resumen": "OncLive recoge una entrevista sobre las principales necesidades no resueltas en cáncer de pulmón, de cara a un próximo congreso especializado del área. Es una mirada de expertos sobre prioridades de investigación, sin presentar resultados de un estudio.",
-      "destacado": false
+    "412b4f5980ef": {
+      "resumen": "The ASCO Post reporta una asociación entre la presencia de síndromes neurológicos paraneoplásicos (cuadros autoinmunes que afectan al sistema nervioso en el contexto de un tumor) y una mejor supervivencia en pacientes con cáncer de pulmón de células pequeñas (SCLC, small cell lung cancer). Un hallazgo llamativo que sugiere que la respuesta inmune generada por estos síndromes podría acompañarse de mejor control tumoral.",
+      "destacado": true,
+      "analisis": "Diseño: Estudio observacional (probablemente una cohorte o serie de casos) que evalúa la asociación entre la presencia de síndromes neurológicos paraneoplásicos y la supervivencia; no se cuenta con el abstract para precisar aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas, con y sin síndromes neurológicos paraneoplásicos asociados.\nIntervención: No se compara un tratamiento; se analiza la presencia o ausencia del síndrome paraneoplásico como variable asociada al pronóstico.\nResultados: El título indica una asociación con mejor supervivencia, pero no se dispone de las cifras (razón de riesgo, intervalos de confianza o valor de p) por falta de acceso al abstract.\nLimitaciones: Sin el abstract no se puede precisar el diseño exacto, el tamaño muestral, ni si el análisis ajustó por otros factores pronósticos relevantes (estadio, tratamiento recibido).\nMensaje: Sugiere que la respuesta inmune que genera el síndrome paraneoplásico podría acompañarse de un mejor control tumoral en SCLC, un dato exploratorio a seguir de cerca.\nNota: análisis sin acceso al abstract."
     },
     "e95214f872dc": {
       "resumen": "Journal of Clinical Oncology publica un comentario sobre el uso de agonistas del receptor de trombopoyetina (fármacos que estimulan la producción de plaquetas) para la trombocitopenia inducida por quimioterapia en tumores gastrointestinales. El título, planteado como pregunta retórica, sugiere una mirada crítica sobre si esta estrategia realmente vale la pena.",
@@ -71,32 +43,56 @@
       "resumen": "Journal of Clinical Oncology publica la réplica de los autores originales al comentario sobre la terapia neoadyuvante total según la localización del tumor rectal. Es un intercambio de cartas entre especialistas, sin nueva evidencia clínica.",
       "destacado": false
     },
-    "e527c03fa4e8": {
-      "resumen": "JAMA Oncology publica un relato personal, dentro de su sección de narrativa médica, sobre un momento humano en la relación entre un profesional de oncología y sus pacientes. No es un estudio clínico sino una pieza de reflexión sobre la práctica.",
-      "destacado": false
+    "aa3eb8472eda": {
+      "resumen": "Vogue presenta la colección Primavera 2027 de la marca japonesa Attachment, mostrada en la Semana de la Moda de Tokio."
     },
-    "7a74e88a89d2": {
-      "resumen": "JAMA Oncology publica una revisión sistemática y metaanálisis que compara la supervivencia libre de progresión (tiempo sin que la enfermedad avance) medida por investigadores locales versus la evaluación ciega de un comité central independiente, en cáncer de mama metastásico. Es relevante porque esa discordancia puede afectar cómo se interpretan los ensayos clínicos que usan este criterio como principal.",
-      "destacado": true,
-      "analisis": "Diseño: Revisión sistemática con metaanálisis de estudios que reportaron supervivencia libre de progresión evaluada tanto por investigadores locales como por revisión central independiente y ciega (BICR, blinded independent central review), en cáncer de mama metastásico.\nPoblación: Pacientes con cáncer de mama metastásico incluidos en ensayos clínicos que reportaron ambos tipos de evaluación de la supervivencia libre de progresión.\nIntervención: No hay un tratamiento específico comparado; el eje del análisis es el método de evaluación del criterio de valoración (investigador local vs. revisión central independiente y ciega).\nResultados: No disponibles con precisión numérica en este resumen por falta de acceso al abstract completo.\nLimitaciones: Sin el abstract no se pueden precisar el número de estudios ni de pacientes incluidos, ni la magnitud de la discordancia entre métodos de evaluación.\nMensaje: El método elegido para evaluar la supervivencia libre de progresión (local vs. central) podría influir en los resultados que reportan los ensayos, algo a tener en cuenta al interpretar la literatura en cáncer de mama metastásico.\nNota: análisis sin acceso al abstract."
+    "4b9ca5d7c14a": {
+      "resumen": "Vogue México propone el corte boy bob como opción de look para lo que queda del verano 2026."
     },
-    "55124189f416": {
-      "resumen": "Zara presenta ocho vestidos de estética minimalista y sofisticada que tomarían el relevo de la tendencia boho, según ELLE."
+    "9e9bee3a0597": {
+      "resumen": "Vogue México recomienda un perfume italiano con aroma a Sicilia, elegido como el que más elogios generó este verano 2026."
     },
-    "942077883ccd": {
-      "resumen": "Telva propone cinco looks de inspiración romántica pensados para lucir en vacaciones de verano."
+    "6b339754086f": {
+      "resumen": "Vogue México dialoga con la directora Alejandra Herrera sobre el cambio de paradigma en la representación de la mujer dentro del cine de terror mexicano y la necesidad de volver a sus raíces."
     },
-    "c78a6a8c98e0": {
-      "resumen": "Telva visita en exclusiva el nuevo atelier de The 2nd Skin Co en Madrid, que celebra sus 20 años apostando por diseños que no siguen tendencias pasajeras."
+    "e7e7833f4cd6": {
+      "resumen": "Mujerhoy repasa las tendencias de moda nupcial para 2027 según lo mostrado en las pasarelas."
     },
-    "e6f1d2858b0b": {
-      "resumen": "Vogue México repasa el tráiler final de la nueva película de Spider-Man, \"Brand New Day\"."
+    "64d91761e9e9": {
+      "resumen": "somosohlala señala qué modelos de jean quedan atrás y cuáles se imponen como tendencia para 2026."
     },
-    "8fe58f726330": {
-      "resumen": "Vogue México conversa con Lívia Nunes sobre su nueva colaboración con una marca de moda masiva y muy popular."
+    "7f9d23ce6afa": {
+      "resumen": "Diario Río Negro repasa los consejos de Zaira Nara para vestir con estilo ropa técnica de nieve."
     },
-    "467b3369e98b": {
-      "resumen": "Vogue México comparte seis consejos de especialistas para incorporar más proteína a la dieta sin esfuerzo."
+    "c045c8dd0f02": {
+      "resumen": "Canal26 detalla los restaurantes porteños que ofrecen platos de pasta a $9.999 por el Día de la Pasta 2026."
+    },
+    "128f3c551368": {
+      "resumen": "El Destape propone tres planes musicales -folklore, rock y pop- para disfrutar este fin de semana en Buenos Aires."
+    },
+    "35afd62cfa4a": {
+      "resumen": "Diario CEMBA anuncia el regreso de La Zaranda a Buenos Aires con su nueva obra en el Teatro Regio."
+    },
+    "6a4e9785b95d": {
+      "resumen": "MDZ Online explica cómo participar de los Premios PINTI 2026 para elegir la mejor obra de teatro comercial porteño."
+    },
+    "afa5b6ab478d": {
+      "resumen": "Infobae informa que el Teatro San Martín, el Planetario y otros espacios culturales porteños suman funciones distendidas durante las vacaciones de invierno."
+    },
+    "581714d9c5c9": {
+      "resumen": "Canal26 detalla las fechas de los shows de Rosalía en Buenos Aires, en medio de la polémica que generó la cantante española."
+    },
+    "371bea2a0f1e": {
+      "resumen": "Nota al Pie repasa la agenda cultural porteña, con rock, teatro, cine y grandes espectáculos."
+    },
+    "b034a2c0d9b0": {
+      "resumen": "El Eco propone planes para el fin de semana del 24 al 26 de julio en Buenos Aires."
+    },
+    "b52106988224": {
+      "resumen": "Clarín cuenta que más de 100 restaurantes porteños ofrecerán un plato a $9.999 por el Día de la Pasta 2026."
+    },
+    "c427275765c8": {
+      "resumen": "Buenos Aires Secreta arma una guía con mapa interactivo de actividades gratuitas para chicos y familias durante las vacaciones de invierno en Buenos Aires."
     }
   }
 }
