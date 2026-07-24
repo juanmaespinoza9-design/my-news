@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-07-24T21:32:51.317672+00:00",
+ "generated_at": "2026-07-24T23:29:19.825537+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Frontline Choice Anchors Sequencing Decisions in EGFR-Mutated NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjV1TmZDcGdZMjFqbFZHa29lQmwyYzNNeENYS2JjTXlFejFXYkxYdjNZb0VCU0d6UTRvQ1VSbVdHNF9DSmh6bEhXcFdXTXFxbmEyRXE4ejRnVFZiaFVZeFlDYld5NW9wVWs2emFWdHpvN3E2RDdIMmpneElyU0NLQ3hNcl84bmRKbHl0VGN5YTZRUHUwZjdaVDBuWjU?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-24T22:05:48+00:00",
+     "id": "0f9f813a5733"
+    },
+    {
+     "title": "Amol Akhade, MD, MBBS",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4M2VnT3Y3LVl2NnpKT0hPSjhKOEFHeXZpd2xCQWtLNF9mRXJJM0RXV0RCUDBROWpEOURITlc4b3dIY19NUTY1Tnk1LUNhZU9zUzlEY1dYUEdKeGRNbW45dg?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-24T21:07:00+00:00",
+     "id": "1003bf2fc39d"
+    },
     {
      "title": "Treatment Intensification Benefits Extend Beyond High-Risk EGFR-Mutated NSCLC",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnlsLWlmSFVEaW8wdk9aZ2t3ZlVDRVprUTRTeHlOeloxa0xRZks1MnBuNk1RWjJ4T3Q3dTFxSGl5RDl5VC03dngxTGhSR0FCOHhDMDJuVXJ1MTZXUEl0WTkyamlfNDBZY1FCMUZvdWpIQ3B1T0w5S1lzdTkyZ2MtZW4wQ3hZNy1VUHVnRHI4VE1FOVVFWW5xQjNoaXAtbHZ5dHByZ1dMVjBXZw?oc=5",
@@ -19,20 +33,6 @@
      "source": "The ASCO Post",
      "published": "2026-07-24T19:29:11+00:00",
      "id": "eae12b3a4a23"
-    },
-    {
-     "title": "CHMP Recommends T-DXd Plus Pertuzumab for First-Line HER2-Positive Metastatic Breast Cancer",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczczUi01WUVJZVE4dHl0eUs0OUxsYU8yc2NiZG1TMHNvRHllVU8wcHZtV3FMcXdCOGZTNTZRZHVEMEw4VnNZWGxiaHNFSTNtbWljS1Q2R19qQnM4bFVmQU50UzU0bzZ3RWpLeVFPUldXUjdlRzJTaFJnbFlESGF0TlZSZkRTOV82WVR5c1VjdmtwNFJfcGMxckFvcUM2YVFsNldGMFhyMUhGa3BuQXgzQlo2MWxuelVDUjdUeQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-24T16:50:42+00:00",
-     "id": "8d99f331fe90"
-    },
-    {
-     "title": "Dr Akhade on Navigating Immunotherapy Cost and Value in Cancer Care",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNajJ0ZmMtZG9JZTFmbEhhOERuMUFWU1pvR3RGOTVaWV8tcWpRckFKdzRnR3AtVU03dGRkaTJybGZuNm0yNHZycHpMc0QtV1dJM3NpWERLYmRnZnJuc05RbDVtYUo2UkdWMGdHYVMzRTM1azBRNXh6d0JnNW5FUV9YRWRNMVh3SGc2T0ZKS2pwWkJ4WHFTLW9Ca25Bd2w?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-24T16:40:42+00:00",
-     "id": "97a6b6afc2a1"
     },
     {
      "title": "Discovery Is an Act of Hope: Remembering Dr. Maura Gillison’s Pursuit of Truth",
@@ -49,52 +49,36 @@
      "id": "da250c234070"
     },
     {
-     "title": "Reply to: Post-Recurrence Therapy After Hepatectomy: Clarifying Overall Survival in JCOG0603",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42492047/",
+     "title": "Izalontamab Brengitecan (Iza-Bren), a First-in-Class EGFR-HER3 Bispecific Antibody-Drug Conjugate in Extensive-Stage Small Cell Lung Cancer: Results From a Phase Ib Study",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42497381/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-23T00:00:00+00:00",
-     "copete": "Kanemitsu Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "8d9e99a1a8d7"
+     "published": "2026-07-24T00:00:00+00:00",
+     "copete": "Zhao Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "afef38202828"
     },
     {
-     "title": "Hypo- Versus Standard Fractionated Locoregional Radiotherapy of Patients With High-Risk Breast Cancer in the Randomized Phase III Trial: The Danish Breast Cancer Group Skagen Trial 1",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42492022/",
+     "title": "Reply to: \"Is Dual-Checkpoint Blockade Beneficial Beyond Prolonging Chemoradiotherapy-to-Surgery Interval in Rectal Cancer?\" and \"Dual Immunotherapy in the Neoadjuvant Interval for Locally Advanced Rectal Cancer: A New Hope?\"",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42497379/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-23T00:00:00+00:00",
-     "copete": "Offersen BV et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "d69a5c49af49"
+     "published": "2026-07-24T00:00:00+00:00",
+     "copete": "Tang W et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "e3d9d4ef818c"
     },
     {
-     "title": "Into the Unknown: Regulatory Perspective on Identifying Optimized Dosages of Oncology Radiopharmaceutical Therapies",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42492017/",
+     "title": "Moderate Hypofractionation for Regional Node Irradiation Is Safe and Effective",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42497372/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-23T00:00:00+00:00",
-     "copete": "Maguire WF et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "5456e2cec201"
+     "published": "2026-07-24T00:00:00+00:00",
+     "copete": "Donovan E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "c3bd56a433e7"
     },
     {
-     "title": "Post-Recurrence Therapy After Hepatectomy: Clarifying Overall Survival in JCOG0603",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42492016/",
+     "title": "AAML1831: A Phase III Trial Comparing Standard Induction Therapy With CPX-351 in De Novo Pediatric AML: A Report From the Children's Oncology Group",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42497367/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-23T00:00:00+00:00",
-     "copete": "Kim SH et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "28822136dd54"
-    },
-    {
-     "title": "Errors in Figure 3 Caption and Results Section",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42490107/",
-     "source": "JAMA Oncology",
-     "published": "2026-07-23T00:00:00+00:00",
-     "copete": "JAMA oncology",
-     "id": "e352929910f3"
-    },
-    {
-     "title": "Considerations in Genomic Therapy Matching",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42490105/",
-     "source": "JAMA Oncology",
-     "published": "2026-07-23T00:00:00+00:00",
-     "copete": "Shilo P et al. · JAMA oncology",
-     "id": "248d8971a93c"
+     "published": "2026-07-24T00:00:00+00:00",
+     "copete": "Pollard JA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "c268cbb99512"
     }
    ]
   },
@@ -103,6 +87,20 @@
    "title": "Moda",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Los jeans con el ruedo doblado en tendencia para llevar con sandalias y zapatos en verano 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlpJWlMxT2xSMFlscTF3QzROd2stSFhyaU0taUpjbzU1WEtsNk05N0N2Uk1IcHpUVWxLTE9xV2ljcFNJbHotNXdpV0lkZmx3Q09zYmI1RWVDQ3hBLXNudUFGVk9UMEVOaWROR1BnMlh6NkU0a2hWTVVaelFCbkkwY0RERkRDV1RqMEdRX0FtRVVBaVQ0aTRTV3RaNm1zd1VyNDdETERjMzhOZ0lGUFZrOWhBelVGZXct?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-24T22:50:24+00:00",
+     "id": "b9208110b5cd"
+    },
+    {
+     "title": "Más allá de las pasarelas: la agenda alterna que tendrá Colombiamoda en Medellín",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEd0WC1ReVpja25NZHl6T1RGZVVaWEYwa1V0Mkw1emhnMnZxdDMtN0pWeXdRcUxRVUFoblN0QTg1N2JRTDAzRThZQ05ycEJFRkpKeENWVkFyaEpsY3h4aV83WWxfb0dvSFA3S2EtOUJwNk9VTk9GZ0VmS1cyaDdrM2lnUkdvcUVUclNZLVF4Ny14VDNSSEdfejRJQWlPOWZkZmZVU2JwNVFaNW4xclZYQm16U1dWSU1fUFkzM1ZBNmd4dmdWMHg00gHMAUFVX3lxTFBVVHpORVBqSVQ2V1l3QXBVQ3hIVGM5eElOMFhoS3gzZWZ3UVNJOURZSWZMUlF5TWlONi10TGhDUUx1MTdqT0tPNi1uQi1wWkh0cy0zSWhNYmU2ZTRPV3NZdXVyNkM1QU1peXlNbVV6YVl6WlpTQzBDMG05TzdhREd0ZURtWXVaM09YcjdCZVVTbTBpMkR6SlBFUWgxZHdRZmZMMXRiSzlmSTRXNkdZRnJzU3RHM2tDZ2d0R2JBdzA2TTFPRXFLajNMdTNXaQ?oc=5",
+     "source": "El Tiempo",
+     "published": "2026-07-24T22:43:40+00:00",
+     "id": "ee03bdcab93a"
+    },
     {
      "title": "Jennifer Lopez’s Ineffable Star Power, in 15 Vintage Snapshots",
      "link": "https://www.vogue.com/slideshow/jennifer-lopezs-ineffable-star-power-in-15-vintage-snapshots",
@@ -157,25 +155,11 @@
      "id": "fe723cf3d471"
     },
     {
-     "title": "Las blusas drapeadas son la tendencia elegante que transforma cualquier look con jeans en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ256MHJqVWlkc1lXTnJ3blNieE9NU0p4NVdFSVM1MUZPRndVZ2RFUjhmY3NuSHJPTTJ0dmhFX3VjNEd3ajRVTGxVdmV5MlhVcldJSzlRcTdQci1vSWktSEstMmVwZ3poS0ZzOTFzc0lzalNfOUk3UktETnFCX2RvaTN3MjFuWm9oMXV3?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-24T18:28:03+00:00",
-     "id": "48cf9e4b06d4"
-    },
-    {
      "title": "Cómo llevar lentejuelas en verano como una auténtica chica isleña: 10 looks elegantes y en tendencia que favorecen",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFdQd085eUJOT0tyMFk0ZFdyV09aSGdlMW9vQW5PaVBXNk4xWXVYZlZpVXlKYm1MNk9URmdGYmJCR0tKbHFycWhOOXpXYXFmMk5ua3Jldk1qVkJYb2N2UE95bk8wMngxWGM3NFMtcVRfQVUydDhrV05CUWoxanRCLTBhVVVIay1Sd0cydmRmOTk3clVY?oc=5",
      "source": "Revista CLARA",
      "published": "2026-07-24T17:00:00+00:00",
      "id": "683f79d782dd"
-    },
-    {
-     "title": "Las 7 prendas de nueva temporada que las mujeres que miden menos de 1,60 deberían tener en el radar",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWh4R1U2NHdiekNmSl8wS2hBUzktbzV5S2cyakNlTlREeFFVMVZaZHZoS0xrR1R3NUxZeGNFV1V1WldpaDdDekMteXFObkxHMlRYX3dEV0hGQV84ajFGVFJkdWFZV0ZBejl6MWw0bV9sS3VQTjQ3Vzh2RFhYOGotSWZ3c23SAYQBQVVfeXFMTVdhTTZjY1d0UGdJdi1NWU8tX2JPTWliNndWcmt6OG1HZ2R4V1B0ZkZFTGdWTFdpVDVYS3J4YURpazV6Yl8wMnBTV1RKTDlrRGIyQmR4U1hRMG1wSG9xNGRpbGRxbUEtU3JSVWFlTmNZb185Uy1XeWhpM1NsSDJTRERtTGRN?oc=5",
-     "source": "telva",
-     "published": "2026-07-24T13:34:43+00:00",
-     "id": "50104c2f2d7a"
     }
    ]
   },
@@ -185,36 +169,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La escapada de Maru Botana y Sofía Solá a París: atardecer en el Sena y paseo por Notre Dame en familia",
+     "link": "https://www.infobae.com/teleshow/2026/07/24/la-escapada-de-maru-botana-y-sofia-sola-a-paris-atardecer-en-el-sena-y-paseo-por-notre-dame-en-familia/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-24T23:10:24+00:00",
+     "copete": "La cocinera viajó junto a parte de su familia a la capital francesa para vivir unos días a puro turismo",
+     "id": "679467a5b44d"
+    },
+    {
+     "title": "El picante pesaje cara a cara de Gastón Edul para La Velada del Año VI: ¿hubo un insulto por lo bajo?",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-picante-pesaje-cara-a-cara-de-gaston-edul-para-la-velada-del-ano-vi-hubo-un-insulto-por-lo-bajo-nid24072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-24T22:52:35+00:00",
+     "copete": "A horas del combate entre el periodista argentino y el español Edu Aguirre protagonizaron un tenso cruce durante el tradicional encuentro previo al evento",
+     "id": "e534c6af3a76"
+    },
+    {
+     "title": "Lo nuevo de The Strokes: con auto-tune, pero bien renovado y sostenido por su característico estilo",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/lo-nuevo-de-the-strokes-con-auto-tune-pero-bien-renovado-y-sostenido-por-su-caracteristico-estilo-nid24072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-24T22:42:06+00:00",
+     "copete": "La banda que encabeza Julian Casablancas lanzó su flamante séptimo álbum, Reality Awaits",
+     "id": "3469aa0f303a"
+    },
+    {
+     "title": "Luto en el cine argentino: murió la actriz Marina Magalí a los 68 años",
+     "link": "https://www.lanacion.com.ar/espectaculos/luto-en-el-cine-argentino-murio-la-actriz-marina-magali-nid24072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-24T22:38:26+00:00",
+     "copete": "La artista era reconocida por su participación en la película de Leonardo Favio Nazareno Cruz y el Lobo, de 1975",
+     "id": "2a2cca489ee0"
+    },
+    {
+     "title": "Así le reveló María Becerra a su familia que cantaría el himno en la final del Mundial: “¿Qué tienen que hacer el 19?”",
+     "link": "https://www.infobae.com/teleshow/2026/07/24/asi-le-revelo-maria-becerra-a-su-familia-que-cantaria-el-himno-en-la-final-del-mundial-que-tienen-que-hacer-el-19/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-24T22:14:35+00:00",
+     "copete": "La artista recibió la propuesta en plena gira europea, ajustó compromisos en España y llegó a tiempo gracias a gestiones aceleradas de la Asociación del Fútbol Argentino",
+     "id": "bb81655420db"
+    },
+    {
+     "title": "El mensaje de Cathy Fulop a un mes del terremoto en Venezuela: “En medio del dolor, la solidaridad es más fuerte”",
+     "link": "https://www.infobae.com/teleshow/2026/07/24/el-mensaje-de-cathy-fulop-a-un-mes-del-terremoto-en-venezuela-en-medio-del-dolor-la-solidaridad-es-mas-fuerte/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-24T21:47:23+00:00",
+     "copete": "Entre lágrimas la actriz leyó un mensaje que escribió para su pueblo en medio de la tragedia",
+     "id": "7026af5cca91"
+    },
+    {
+     "title": "Murió la actriz Marina Magalí, la maestra jardinera que protagonizó \"Nazareno Cruz y el lobo\"",
+     "link": "https://www.clarin.com/espectaculos/murio-actriz-marina-magali-maestra-jardinera-protagonizo-nazareno-cruz-lobo_0_f8gmxArI0z.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-24T21:26:50+00:00",
+     "copete": "Tenía 68 años y encarnó a Griselda en esa célebre película de Leonardo Favio. Cómo la descubrió el director para su estreno absoluto en el cine.",
+     "id": "a8c259be8aa0"
+    },
+    {
      "title": "Matthew McConaughey volvió a insinuar que Woody Harrelson y él podrían ser algo más que amigos: “¿De distinta madre?\"",
      "link": "https://www.lanacion.com.ar/espectaculos/personajes/matthew-mcconaughey-volvio-a-insinuar-que-woody-harrelson-y-el-podrian-ser-algo-mas-que-amigos-de-nid24072026/",
      "source": "La Nación Espectáculos",
      "published": "2026-07-24T21:10:49+00:00",
      "copete": "Los actores siguen alimentando las especulaciones que se generaron a partir de una anécdota familiar y varios puntos que parecen unir sus caminos",
      "id": "a8061e3f8546"
-    },
-    {
-     "title": "De qué trata GIGN: Unidad de Élite, la serie francesa que acaba de llegar a Netflix",
-     "link": "https://www.lanacion.com.ar/espectaculos/de-que-trata-gign-unidad-de-elite-la-serie-francesa-que-acaba-de-llegar-a-netflix-nid24072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-24T20:58:52+00:00",
-     "copete": "La producción de seis episodios aterrizó en el gigante del streaming el 22 de julio y ya acaparó la atención de gran parte de los suscriptores",
-     "id": "9d00ade54c1d"
-    },
-    {
-     "title": "La foto de la llamativa torta que Rufina Cabré eligió para celebrar sus 13 años que causó furor en redes",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-llamativa-torta-de-rufina-cabre-para-festejar-su-cumpleanos-que-causo-furor-en-las-redes-nid24072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-24T20:58:46+00:00",
-     "copete": "La adolescente festejó su día con sus amigas y su padre en un evento íntimo; la mesa dulce con temática fashionista estuvo a cargo de un exganador de Bake Off Argentina",
-     "id": "c9a180e05102"
-    },
-    {
-     "title": "Quién es Carla Roccuzzo, la médica que eligió el bajo perfil a pesar de la fama de su hermana Antonela",
-     "link": "https://www.lanacion.com.ar/espectaculos/carla-roccuzzo-la-medica-que-eligio-el-perfil-bajo-a-pesar-de-la-fama-de-su-hermana-antonela-nid24072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-24T20:58:30+00:00",
-     "copete": "Es cirujana, vive en Buenos Aires y se mantiene alejada del ojo público; es la más chica de la familia y se casó en diciembre de 2023",
-     "id": "cf710e638270"
     },
     {
      "title": "Las vacaciones de Valentino López lejos del caos familiar: playas, barco y amigos",
@@ -241,44 +257,12 @@
      "id": "a78d23824816"
     },
     {
-     "title": "La preocupación de Benjamín Vicuña por el futuro de sus hijos con la China Suárez: “El diálogo debe existir”",
-     "link": "https://www.infobae.com/teleshow/2026/07/24/la-preocupacion-de-benjamin-vicuna-por-el-futuro-de-sus-hijos-con-la-china-suarez-el-dialogo-debe-existir/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-24T19:57:37+00:00",
-     "copete": "Mauro Icardi todavía no resolvió donde va a jugar, por lo que él y la actriz no saben donde van a vivir. Ante esta incertidumbre, el actor chileno dio su parecer sobre la situación de Magnolia y Amancio",
-     "id": "83d38f695705"
-    },
-    {
-     "title": "Mirtha Legrand fue al teatro a ver a Benjamín Vicuña y Esteban Lamothe: la ovación del público y su divertida crítica",
-     "link": "https://www.infobae.com/teleshow/2026/07/24/mirtha-legrand-fue-al-teatro-a-ver-a-benjamin-vicuna-y-esteban-lamothe-la-ovacion-del-publico-y-su-divertida-critica/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-24T18:58:44+00:00",
-     "copete": "La diva asistió a la función de Secreto en la Montaña, recibió el cariño de la sala y repartió elogios para los protagonistas",
-     "id": "1871636ff669"
-    },
-    {
-     "title": "Murió a los 67 años Walter Ortiz, fundador de Devastación y pilar del metal extremo argentino",
-     "link": "https://www.infobae.com/teleshow/2026/07/24/murio-a-los-67-anos-walter-ortiz-fundador-de-devastacion-y-pilar-del-metal-extremo-argentino/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-24T16:14:31+00:00",
-     "copete": "Durante 40 años lideró una de las bandas pioneras de la escena y su obra y su mensaje marcaron a generaciones. Enfrentaba problemas de salud y el grupo dio la noticia en sus redes sociales",
-     "id": "7aeb8e19ab37"
-    },
-    {
      "title": "Jason Alexander, de Seinfeld, pide disculpas por una escena \"inapropiada\" con una actriz menor de edad",
      "link": "https://www.clarin.com/espectaculos/jason-alexander-seinfeld-pide-disculpas-escena-inapropiada-actriz-menor-edad_0_P4CPJnrBYO.html",
      "source": "Clarín Espectáculos",
      "published": "2026-07-24T14:36:20+00:00",
      "copete": "En un sketch de 2012, de un ciclo humorístico llamado \"Funny or Die\", frotó un celular contra los pechos de una chica de 17 años. Ahora, ya mayor, esa actriz llamada Courtney Stodden es una activista contra el matrimonio infantil.",
      "id": "176e3fdf8e57"
-    },
-    {
-     "title": "Cuatro excelentes manos para la obra de György Kurtág: cuando la música se queda en la memoria del oyente",
-     "link": "https://www.clarin.com/espectaculos/excelentes-manos-obra-gyorgy-kurtag-musica-queda-memoria-oyente_0_AAWp2T2fa6.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-24T14:14:59+00:00",
-     "copete": "Por los 100 años del nacimiento del compositor húngaro, las excepcionales pianistas Helena Bugallo y Haydée Schvartz ofrecieron un concierto inolvidable en el Centro de Experimentación Teatral del Teatro Col+on.",
-     "id": "7279863a624a"
     }
    ]
   },
@@ -358,84 +342,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Lo que las empresas no entienden sobre los derechos de decisión",
-     "link": "https://www.infobae.com/harvard-business-review/2026/07/24/lo-que-las-empresas-no-entienden-sobre-los-derechos-de-decision/",
-     "source": "Infobae",
-     "published": "2026-07-24T21:30:27+00:00",
-     "copete": "Harvard Business Review Wake-Up Call Spanish",
-     "id": "9a45d3b78190"
-    },
-    {
-     "title": "A la espera de Racing, Gimnasia de Mendoza le gana a Central Córdoba por la primera fecha del Torneo Clausura",
+     "title": "Vélez Sarsfield le gana a Instituto en Liniers por la primera fecha del Torneo Clausura",
      "link": "https://www.infobae.com/deportes/2026/07/24/los-cinco-partidos-que-daran-continuidad-a-la-primera-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-07-24T21:27:04+00:00",
-     "copete": "El Ferroviario visita al Lobo de Cuyo en el inicio de la jornada. Luego, la Academia afrontará el cruce más destacado del día ante Gimnasia La Plata en Avellaneda",
+     "published": "2026-07-24T23:22:52+00:00",
+     "copete": "Gimnasia de Mendoza le ganó 1-0 a Central Córdoba en el inicio de la jornada. Al mismo tiempo, la Academia afronta el cruce más destacado del día ante Gimnasia La Plata en Avellaneda. Platense-Unión y Huracán-Banfield cerrarán el día",
      "id": "603c8c0d766d"
     },
     {
-     "title": "Nico González fue homenajeado en Escobar y se refirió al futuro de la selección: “Creo que va a haber un cambio importante”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/nico-gonzalez-fue-homenajeado-en-escobar-y-se-refirio-al-futuro-de-la-seleccion-creo-que-va-a-haber-nid24072026/",
-     "source": "La Nación",
-     "published": "2026-07-24T21:25:16+00:00",
-     "copete": "El futbolista visitó su ciudad natal, fue declarado ciudadano ilustre y se trasladó en autobomba ante una gran multitud",
-     "id": "e4f495912407"
-    },
-    {
-     "title": "Sean “Diddy” Combs, en confinamiento solitario tras un altercado con otro recluso dentro de la cárcel",
-     "link": "https://www.infobae.com/entretenimiento/2026/07/24/sean-diddy-combs-en-confinamiento-solitario-tras-un-altercado-con-otro-recluso-dentro-de-la-carcel/",
+     "title": "Racing recibe a Gimnasia La Plata por la primera fecha del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/07/24/racing-recibe-a-gimnasia-la-plata-por-la-primera-fecha-del-torneo-clausura/",
      "source": "Infobae",
-     "published": "2026-07-24T21:20:40+00:00",
-     "copete": "El productor musical habría protagonizado un altercado con otro interno en el centro penitenciario de Nueva Jersey",
-     "id": "30f631495eb2"
+     "published": "2026-07-24T23:19:05+00:00",
+     "copete": "Se miden en el Cilindro de Avellaneda, con arbitraje de Nicolás Ramírez y transmisión de ESPN Premium",
+     "id": "5c0aaec26818"
     },
     {
-     "title": "El dólar subió por tercer día seguido y cerró en un nuevo precio récord",
-     "link": "https://www.infobae.com/economia/2026/07/24/el-dolar-subio-por-tercer-dia-seguido-y-cerro-en-un-nuevo-precio-record/",
+     "title": "Clima: las temperaturas que predominarán este 25 de julio en La Romana",
+     "link": "https://www.infobae.com/noticias/2026/07/24/clima-las-temperaturas-que-predominaran-este-25-de-julio-en-la-romana/",
      "source": "Infobae",
-     "published": "2026-07-24T21:16:57+00:00",
-     "copete": "La divisa al público en el Banco Nación subió a $1.520 para la venta, mientras que el mayorista avanzó a $1.497, máximos nominales. El “contado con liqui” toca los $1.600",
-     "id": "6bb78786f472"
+     "published": "2026-07-24T23:16:21+00:00",
+     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+     "id": "0c2c69a9369b"
     },
     {
-     "title": "San Isidro: una ballena quedó varada en un banco de arena e intentan rescatarla",
-     "link": "https://www.lanacion.com.ar/sociedad/san-isidro-una-ballena-quedo-varada-en-un-banco-de-arena-e-intentan-rescatarla-a-contrarreloj-nid24072026/",
+     "title": "Prepárate antes de salir: conoce el pronóstico del clima en La Habana",
+     "link": "https://www.infobae.com/noticias/2026/07/24/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-la-habana/",
+     "source": "Infobae",
+     "published": "2026-07-24T23:15:59+00:00",
+     "copete": "La temperatura mínima que se ha registrado en Cuba fue la del 11 de abril de 2020, cuando el termómetro descendió hasta los 0.6 grados en Baiona",
+     "id": "be88479683b6"
+    },
+    {
+     "title": "El emotivo video que la AFA dedicó a Lionel Scaloni, Lionel Messi y la selección argentina",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-video-que-la-afa-dedico-a-lionel-scaloni-lionel-messi-y-la-seleccion-argentina-nid24072026/",
      "source": "La Nación",
-     "published": "2026-07-24T21:11:29+00:00",
-     "copete": "En coordinación con la Prefectura Naval Argentina, un equipo especializado de la Fundación Temaikèn trabaja actualmente en el lugar",
-     "id": "9ca12d48af27"
+     "published": "2026-07-24T23:10:47+00:00",
+     "copete": "La entidad compartió un corto del exitoso ciclo del entrenador, que finalizará su contrato en diciembre",
+     "id": "c0523e084ac9"
     },
     {
-     "title": "Por el error de un fiscal, quedó libre un hombre que estaba en prisión por abusar de sus hijas",
-     "link": "https://www.lanacion.com.ar/seguridad/por-el-error-de-un-fiscal-quedo-libre-un-hombre-que-estaba-en-prision-por-abusar-de-sus-hijas-nid24072026/",
+     "title": "Lautaro Martínez le dio “like” a un posteo que criticó a Scaloni por la final del Mundial",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/lautaro-martinez-le-dio-like-a-un-posteo-que-critico-a-scaloni-por-la-final-del-mundial-nid24072026/",
      "source": "La Nación",
-     "published": "2026-07-24T21:11:25+00:00",
-     "copete": "Esteban Delgado fue beneficiado por la demora del Ministerio Publico de la Acusación; tras la difusión del caso, fue nuevamente arrestado; una de las jóvenes atacadas durante años por su progenitor fue víctima de femicidio",
-     "id": "ce1b33046e30"
+     "published": "2026-07-24T23:10:00+00:00",
+     "copete": "El delantero reaccionó a una publicación de un medio italiano que calificó su ausencia como “el peor error” del entrenador argentino; después de la derrota ante España, el futbolista había expresado que le habría gustado ayudar al equipo…",
+     "id": "d4f9dae82ef2"
     },
     {
-     "title": "Matthew McConaughey volvió a insinuar que Woody Harrelson y él podrían ser algo más que amigos: “¿De distinta madre?\"",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/matthew-mcconaughey-volvio-a-insinuar-que-woody-harrelson-y-el-podrian-ser-algo-mas-que-amigos-de-nid24072026/",
+     "title": "El posteo de Nicolás Tagliafico con su medalla de plata que llamó la atención en redes sociales",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-posteo-de-nicolas-tagliafico-con-su-medalla-de-plata-que-llamo-la-atencion-en-redes-sociales-nid24072026/",
      "source": "La Nación",
-     "published": "2026-07-24T21:10:49+00:00",
-     "copete": "Los actores siguen alimentando las especulaciones que se generaron a partir de una anécdota familiar y varios puntos que parecen unir sus caminos",
-     "id": "a8061e3f8546"
+     "published": "2026-07-24T23:09:00+00:00",
+     "copete": "El defensor mostró en primer plano la distinción que recibió tras el subcampeonato de la selección argentina; días antes había reconocido el dolor por la derrota ante España",
+     "id": "96353d093178"
     },
     {
-     "title": "Pete Crow-Armstrong vuelve a perfilarse para recibir más del fondo de bonos prearbitraje",
-     "link": "https://www.clarin.com/estados-unidos/pete-crow-armstrong-vuelve-a-perfilarse-para-recibir-mas-del-fondo-de-bonos-prearbitraje_0_JsjQA6aEKc.html",
+     "title": "El formulario oficial del DHS para denunciar posibles violaciones de derechos durante una redada del ICE",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-formulario-oficial-del-dhs-para-denunciar-posibles-violaciones-de-derechos-durante-una-redada-del-nid24072026/",
+     "source": "La Nación",
+     "published": "2026-07-24T23:02:00+00:00",
+     "copete": "Conoce el formulario oficial del DHS para denunciar violaciones de derechos durante redadas del ICE y otros operativos migratorios",
+     "id": "07faac4d590d"
+    },
+    {
+     "title": "Nicolás González fue recibido por una multitud en su ciudad natal y se reunió con ex combatientes de Malvinas: \"Los héroes son ellos\"",
+     "link": "https://www.clarin.com/deportes/nicolas-gonzalez-recibido-multitud-ciudad-natal-reunio-ex-combatientes-malvinas-heroes_0_vf8iffT0Uo.html",
      "source": "Clarín",
-     "published": "2026-07-24T21:00:11+00:00",
-     "copete": "El jardinero Crow-Armstrong lidera las proyecciones de bonificaciones con más de 1,1 millones de dólares, basado en su destacada actuación en Chicago. La negociación colectiva busca aumentar el fondo de bonificaciones a 180 millones…",
-     "id": "f828a3f3d760"
+     "published": "2026-07-24T21:32:24+00:00",
+     "copete": "El extremo izquierdo regresó a Belén de Escobar tras su participación en el Mundial. Lo pasearon en autobomba frente a unas 5.000 personas. Mantuvo un encuentro con un grupo de integrantes del Centro de Veteranos de Guerra de Escobar.",
+     "id": "46ed62115cd5"
     },
     {
-     "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, viernes 24 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-viernes-24-julio_0_zua2VBfzsF.html",
+     "title": "La investigación por la muerte de un experto en informática desaparecido durante 20 años terminó con más preguntas que respuestas: sufrió múltiples fracturas antes de morir y resurgieron oscuras hipótesis",
+     "link": "https://www.clarin.com/internacional/investigacion-muerte-experto-informatica-desaparecido-20-anos-termino-preguntas-respuestas-sufrio-multiples-fracturas-morir-resurgieron-oscuras-hipotesis_0_TQr4tjE8lu.html",
      "source": "Clarín",
-     "published": "2026-07-24T21:00:00+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "95cb5bb2e6e1"
+     "published": "2026-07-24T21:29:23+00:00",
+     "copete": "Lo encontraron con el cráneo destrozado y fracturas en todo el torso. El forense no pudo decir si lo mataron, cayó o lo atropellaron.",
+     "id": "1ed0e00b2dc6"
     }
    ]
   },
@@ -444,6 +428,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Destituyen al fiscal jefe de la Corte Penal Internacional por supuesta conducta sexual inapropiada",
+     "link": "https://www.bbc.com/mundo/articles/c5y3rl6ny87o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-24T21:38:33+00:00",
+     "copete": "Karim Khan niega haber mantenido una relación sexual inapropiada con una empleada de la CPI y haber intentado impedir que ella presentara su denuncia.",
+     "id": "99758dd551f6"
+    },
     {
      "title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
      "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
@@ -467,14 +459,6 @@
      "published": "2026-07-24T17:48:58+00:00",
      "copete": "La primera ministra Sanae Takaichi despertó una polémica al afirmar que, desde que asumió el cargo, suele dormir entre 0 y 3 horas.",
      "id": "631e5bf16998"
-    },
-    {
-     "title": "Los problemas centenarios que resolvieron dos profesores chinos premiados con el \"Nobel de Matemáticas\"",
-     "link": "https://www.bbc.com/mundo/articles/c62qkkrr65ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-24T16:44:30+00:00",
-     "copete": "La prestigiosa Medalla Fields, considerada el equivalente al Premio Nobel de matemáticas, es otorgada cada cuatro años a matemáticos destacados menores de 40 años.",
-     "id": "9bb22ec09120"
     },
     {
      "title": "El ejército lanza una amplia operación en Cisjordania tras la muerte de cuatro palestinos y dos israelíes en un choque con colonos",
@@ -515,6 +499,16 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
