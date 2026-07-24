@@ -1,57 +1,30 @@
 {
-  "generated_at": "2026-07-24T10:06:37Z",
+  "generated_at": "2026-07-24T22:07:54Z",
   "summaries": {
-    "1fa447a8753d": {
-      "resumen": "OncLive difunde una entrevista al doctor Cummings sobre la utilidad de la inmunoterapia adyuvante (posterior a la cirugía) usada en forma exclusiva, sin quimioterapia asociada, en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) en estadio temprano. Es la mirada de un experto sobre esta estrategia terapéutica, sin datos nuevos de un ensayo propio.",
-      "destacado": false
-    },
-    "aa3eb8472eda": {
-      "resumen": "Vogue presenta la colección Primavera 2027 de la marca japonesa Attachment, mostrada en la Semana de la Moda de Tokio."
-    },
-    "c045c8dd0f02": {
-      "resumen": "Canal26 detalla los restaurantes porteños que ofrecen platos de pasta a $9.999 por el Día de la Pasta 2026."
-    },
-    "128f3c551368": {
-      "resumen": "El Destape propone tres planes musicales -folklore, rock y pop- para disfrutar este fin de semana en Buenos Aires."
-    },
-    "35afd62cfa4a": {
-      "resumen": "Diario CEMBA anuncia el regreso de La Zaranda a Buenos Aires con su nueva obra en el Teatro Regio."
-    },
-    "6a4e9785b95d": {
-      "resumen": "MDZ Online explica cómo participar de los Premios PINTI 2026 para elegir la mejor obra de teatro comercial porteño."
-    },
-    "afa5b6ab478d": {
-      "resumen": "Infobae informa que el Teatro San Martín, el Planetario y otros espacios culturales porteños suman funciones distendidas durante las vacaciones de invierno."
-    },
-    "371bea2a0f1e": {
-      "resumen": "Nota al Pie repasa la agenda cultural porteña, con rock, teatro, cine y grandes espectáculos."
-    },
-    "b034a2c0d9b0": {
-      "resumen": "El Eco propone planes para el fin de semana del 24 al 26 de julio en Buenos Aires."
-    },
-    "b52106988224": {
-      "resumen": "Clarín cuenta que más de 100 restaurantes porteños ofrecerán un plato a $9.999 por el Día de la Pasta 2026."
-    },
-    "4dfb548152f8": {
-      "resumen": "The ASCO Post repasa el registro ROADS sobre la radioterapia con GammaTile, un dispositivo de baldosas con material radiactivo que se implanta en la cavidad quirúrgica luego de resecar una metástasis cerebral. Interesa por ser una alternativa a la radiocirugía externa postoperatoria en un escenario con pocas opciones bien establecidas.",
+    "58428d5fd36f": {
+      "resumen": "OncLive reporta que el beneficio de intensificar el tratamiento se extendería más allá de los pacientes de alto riesgo en el cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del gen EGFR (receptor del factor de crecimiento epidérmico). Interesa porque podría ampliar el grupo de pacientes candidatos a un manejo más agresivo.",
       "destacado": false,
-      "analisis": "Diseño: Registro (serie de casos) multicéntrico sobre el uso de GammaTile, un implante de radioterapia intraoperatoria en baldosas; no hay datos de aleatorización en el título disponible.\nPoblación: Pacientes con metástasis cerebrales resecadas quirúrgicamente.\nIntervención: Implante de baldosas radiactivas (GammaTile) en el lecho quirúrgico inmediatamente después de la resección, como alternativa a la radiocirugía estereotáctica adyuvante.\nResultados: El título no incluye cifras de control local, supervivencia libre de progresión ni supervivencia global; sin el abstract no es posible precisarlas.\nLimitaciones: Al ser un registro (no aleatorizado) tiene mayor riesgo de sesgo de selección; falta de comparador directo con radiocirugía externa; sin datos de seguimiento a largo plazo disponibles en el título.\nMensaje: Sugiere una opción adyuvante inmediata tras la cirugía de metástasis cerebrales, pero se necesitan más datos comparativos para definir su lugar frente a la radiocirugía estereotáctica estándar.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Según el título se trataría de un análisis (posiblemente de subgrupos o secundario) sobre intensificación del tratamiento en NSCLC con mutación de EGFR; no se especifica aleatorización, cegado, ni cantidad de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación del gen EGFR, estratificados por nivel de riesgo.\nIntervención: Intensificación del tratamiento (probable asociación de terapias dirigidas o quimioterapia) frente a manejo estándar; el esquema exacto no figura en el título.\nResultados: El título sugiere que el beneficio no se limita a los pacientes de alto riesgo, pero no hay cifras de supervivencia libre de progresión, supervivencia global ni razones de riesgo disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño, el tamaño muestral ni la solidez estadística del hallazgo en los subgrupos de menor riesgo.\nMensaje: De confirmarse, ampliaría el grupo de pacientes con NSCLC EGFR-mutado que podría beneficiarse de una intensificación terapéutica, más allá de los de alto riesgo.\nNota: análisis sin acceso al abstract."
     },
-    "1ce62cfdde5b": {
-      "resumen": "The ASCO Post presenta los resultados del estudio EMERALD-3, que evaluó el esquema STRIDE (combinación de durvalumab y tremelimumab, dos inmunoterapias) sumado a la quimioembolización transarterial (TACE) en el carcinoma hepatocelular, el tumor primario de hígado más frecuente. Es un ensayo de fase III que podría cambiar el manejo de la enfermedad localizada no resecable.",
+    "eae12b3a4a23": {
+      "resumen": "The ASCO Post analiza las barreras de cobertura de los seguros de salud para acceder a las pruebas de biomarcadores en cáncer de pulmón. Interesa por su impacto en el acceso real a la medicina de precisión oncológica, más allá de los datos de eficacia de los tratamientos.",
+      "destacado": false
+    },
+    "8d99f331fe90": {
+      "resumen": "OncLive informa que el Comité de Medicamentos de Uso Humano (CHMP) de la Agencia Europea de Medicamentos recomendó aprobar la combinación de trastuzumab deruxtecán (T-DXd, un anticuerpo conjugado a droga anti-HER2) más pertuzumab como primera línea en cáncer de mama metastásico HER2-positivo. Interesa porque anticipa un cambio del esquema estándar en Europa.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado según lo reportado por la fuente, en carcinoma hepatocelular no resecable.\nPoblación: Pacientes con carcinoma hepatocelular candidatos a tratamiento locorregional con quimioembolización transarterial (TACE).\nIntervención: Esquema STRIDE (durvalumab + tremelimumab, dos anticuerpos inmunoterapéuticos anti-PD-L1 y anti-CTLA-4) asociado a TACE, comparado contra TACE sola.\nResultados: El título indica beneficio con el esquema combinado, pero no se cuenta con el abstract para precisar supervivencia libre de progresión, supervivencia global, razones de riesgo ni intervalos de confianza.\nLimitaciones: Sin abstract no se puede evaluar significancia estadística, toxicidad relativa del esquema combinado ni el tiempo de seguimiento.\nMensaje: Si se confirman los datos completos, la combinación de inmunoterapia con TACE podría sumar una nueva opción de tratamiento locorregional-sistémico para el carcinoma hepatocelular no resecable.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Recomendación regulatoria del Comité de Medicamentos de Uso Humano (CHMP) basada en datos de un ensayo clínico de fase III no detallado en el título, probablemente el estudio DESTINY-Breast09.\nPoblación: Pacientes con cáncer de mama metastásico HER2-positivo sin tratamiento sistémico previo (primera línea).\nIntervención: Trastuzumab deruxtecán (T-DXd, anticuerpo conjugado a droga anti-HER2) combinado con pertuzumab (anticuerpo monoclonal anti-HER2); el comparador no figura en el título.\nResultados: El título no aporta cifras de supervivencia libre de progresión ni supervivencia global; no se pudo acceder al abstract del ensayo de base (PubMed bloqueado en esta corrida).\nLimitaciones: Al ser una nota regulatoria, no se dispone de los datos de eficacia y seguridad del ensayo pivotal ni de su seguimiento.\nMensaje: De confirmarse la aprobación europea, este esquema combinado se posicionaría como una nueva opción de primera línea para el cáncer de mama metastásico HER2-positivo.\nNota: análisis sin acceso al abstract."
     },
-    "3b8eb91c2372": {
-      "resumen": "The ASCO Post resume varios estudios sobre mieloma múltiple, un cáncer de las células plasmáticas de la médula ósea, presentados en un congreso reciente. Es una cobertura panorámica de distintas novedades del área y no el reporte de un único ensayo.",
+    "97a6b6afc2a1": {
+      "resumen": "OncLive entrevista al doctor Akhade sobre cómo equilibrar el costo y el valor clínico de la inmunoterapia en la atención oncológica. Es la mirada de un experto sobre un dilema económico creciente en cáncer, sin datos nuevos de un ensayo propio.",
       "destacado": false
     },
-    "1a8c4124cf6b": {
-      "resumen": "OncLive entrevista al doctor Galsky sobre el perfil de seguridad de la combinación de enfortumab vedotina (un anticuerpo conjugado a droga) más pembrolizumab (un inhibidor de punto de control inmunológico) en el cáncer de vejiga músculo-invasivo (MIBC, muscle-invasive bladder cancer). Es la mirada de un experto sobre la tolerancia del esquema, sin datos nuevos de un ensayo propio.",
+    "da488bff2ca3": {
+      "resumen": "The ASCO Post recuerda a la doctora Maura Gillison, investigadora reconocida por su trabajo sobre el vínculo entre el virus del papiloma humano (VPH) y el cáncer de cabeza y cuello, fallecida recientemente. Es un homenaje a su trayectoria, no una noticia de investigación nueva.",
       "destacado": false
     },
-    "977bff426b26": {
-      "resumen": "OncLive consulta al doctor Lee sobre cuál es la duración óptima del tratamiento adyuvante (posterior a la cirugía) con osimertinib en el cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del gen EGFR (receptor del factor de crecimiento epidérmico). Es una opinión especializada sobre el manejo clínico, sin resultados nuevos de un estudio.",
+    "da250c234070": {
+      "resumen": "The ASCO Post informa que la Sociedad Estadounidense de Oncología Clínica (ASCO) publicó su primera guía sobre el uso del ADN tumoral circulante (ctDNA, circulating tumor DNA) para el seguimiento de tumores sólidos y linfoma. Interesa porque estandariza el uso clínico de esta herramienta de biopsia líquida.",
       "destacado": false
     },
     "8d9e99a1a8d7": {
@@ -71,32 +44,58 @@
       "resumen": "Journal of Clinical Oncology publica una carta que cuestiona la interpretación de la supervivencia global en el ensayo JCOG0603, sobre el tratamiento de la recurrencia después de una hepatectomía en metástasis hepáticas colorrectales. Es correspondencia científica sobre el análisis de datos ya publicados, no un estudio original.",
       "destacado": false
     },
-    "16b72ce24af1": {
-      "resumen": "Instyle.es repasa los vestidos de fiesta más elegantes que lució la reina Rania de Jordania, hoy tendencia."
+    "e352929910f3": {
+      "resumen": "JAMA Oncology publica una corrección sobre errores en el epígrafe de la Figura 3 y en la sección de resultados de un artículo previo. Es una nota de errata editorial, sin datos clínicos nuevos.",
+      "destacado": false
     },
-    "be9a65e39b4c": {
-      "resumen": "Telva comparte los tres consejos clave de una estilista para renovar el placard de la nueva temporada."
+    "248d8971a93c": {
+      "resumen": "JAMA Oncology publica una perspectiva de Shilo P y colaboradores sobre los criterios a considerar al emparejar terapias dirigidas con las alteraciones genómicas del tumor. Es un artículo de opinión sobre medicina de precisión, no el reporte de un ensayo clínico.",
+      "destacado": false
     },
-    "7607ba3b0cb9": {
-      "resumen": "Mujerhoy explica qué son los pololos y por qué este pantalón corto se impuso como tendencia."
+    "ce75e4a81b3a": {
+      "resumen": "OHLALÁ! recomienda dónde conseguir jeans en oferta dentro de las tendencias de moda de 2026."
     },
-    "28fc2fcbdc9f": {
-      "resumen": "El Colombiano invita a recorrer la semana de la moda con una cobertura especial del evento."
+    "92bde708127e": {
+      "resumen": "Vogue México propone cinco diseños de uñas en tendencia para lucir en agosto y despedir el verano con estilo."
     },
-    "4838685a0eb5": {
-      "resumen": "Vogue México muestra qué lleva la influencer Melissa Robles en su bolso de entrenamiento."
+    "b29207d3e610": {
+      "resumen": "Vogue México muestra el vestido con motivo de telaraña que Zendaya lució en Shanghái, combinado con zapatos blancos."
     },
-    "0ca4e3735a21": {
-      "resumen": "Vogue México selecciona los vestidos rojos más elegantes para combinar con calzado bajo este verano."
+    "48cf9e4b06d4": {
+      "resumen": "Vogue México destaca las blusas drapeadas como la tendencia elegante para combinar con jeans este verano."
     },
-    "ad47013e4c64": {
-      "resumen": "Teleshow muestra cómo el rapero Trueno compartió sus vacaciones en Japón junto a Teresa Prettel."
+    "683f79d782dd": {
+      "resumen": "Revista CLARA propone diez looks con lentejuelas para lucir en verano al estilo 'chica isleña'."
+    },
+    "50104c2f2d7a": {
+      "resumen": "Telva selecciona siete prendas de la nueva temporada recomendadas para mujeres de baja estatura."
+    },
+    "a26720de410e": {
+      "resumen": "OHLALÁ! propone seis planes imperdibles para disfrutar en familia durante las vacaciones de invierno en Buenos Aires."
+    },
+    "dcd4d42833e9": {
+      "resumen": "El Eco recomienda experiencias gastronómicas imperdibles para disfrutar en Buenos Aires."
+    },
+    "f9df6679b180": {
+      "resumen": "Nota al Pie repasa los estrenos teatrales imperdibles que llegan en agosto a la cartelera porteña."
+    },
+    "b4dc26d97ea4": {
+      "resumen": "Tiempo Argentino sugiere planes para el fin de semana de vacaciones en la Ciudad de Buenos Aires."
+    },
+    "de68b38c0123": {
+      "resumen": "radio3caseros.com.ar reúne más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, con recitales, teatro, cine y muestras gratuitas."
+    },
+    "a03467d12eb2": {
+      "resumen": "Time Out propone doce planes imperdibles para hacer hoy en Buenos Aires."
     },
     "733b45ae015f": {
       "resumen": "Perfil reúne actividades gratuitas para chicos por el Día del Niño en el fin de semana largo, en la Ciudad de Buenos Aires y el conurbano bonaerense."
     },
-    "9b60b1539ef5": {
-      "resumen": "El Destape anuncia el estreno en Buenos Aires de La Ratonera, el clásico policial de Agatha Christie."
+    "c045c8dd0f02": {
+      "resumen": "Canal26 detalla los restaurantes porteños que ofrecen platos de pasta a $9.999 por el Día de la Pasta 2026."
+    },
+    "b52106988224": {
+      "resumen": "Clarín cuenta que más de 100 restaurantes porteños ofrecerán un plato a $9.999 por el Día de la Pasta 2026."
     }
   }
 }
