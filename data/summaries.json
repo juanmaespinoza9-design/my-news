@@ -1,22 +1,20 @@
 {
-  "generated_at": "2026-07-24T22:07:54Z",
+  "generated_at": "2026-07-25T10:06:17Z",
   "summaries": {
-    "58428d5fd36f": {
-      "resumen": "OncLive reporta que el beneficio de intensificar el tratamiento se extendería más allá de los pacientes de alto riesgo en el cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del gen EGFR (receptor del factor de crecimiento epidérmico). Interesa porque podría ampliar el grupo de pacientes candidatos a un manejo más agresivo.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título se trataría de un análisis (posiblemente de subgrupos o secundario) sobre intensificación del tratamiento en NSCLC con mutación de EGFR; no se especifica aleatorización, cegado, ni cantidad de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación del gen EGFR, estratificados por nivel de riesgo.\nIntervención: Intensificación del tratamiento (probable asociación de terapias dirigidas o quimioterapia) frente a manejo estándar; el esquema exacto no figura en el título.\nResultados: El título sugiere que el beneficio no se limita a los pacientes de alto riesgo, pero no hay cifras de supervivencia libre de progresión, supervivencia global ni razones de riesgo disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño, el tamaño muestral ni la solidez estadística del hallazgo en los subgrupos de menor riesgo.\nMensaje: De confirmarse, ampliaría el grupo de pacientes con NSCLC EGFR-mutado que podría beneficiarse de una intensificación terapéutica, más allá de los de alto riesgo.\nNota: análisis sin acceso al abstract."
+    "f7e45038dc26": {
+      "resumen": "OncLive repasa en una entrevista la seguridad de los implantes mamarios de silicona, un tema vinculado al linfoma anaplásico de células grandes asociado a implantes mamarios (BIA-ALCL, breast implant-associated anaplastic large cell lymphoma). Interesa por su relevancia en el seguimiento oncológico de pacientes con implantes.",
+      "destacado": false
+    },
+    "d92ee4877d26": {
+      "resumen": "OncLive entrevista al doctor Florez sobre la importancia del primer taller latinoamericano dedicado al cáncer de pulmón con mutación del receptor del factor de crecimiento epidérmico (EGFR, epidermal growth factor receptor) positivo. Interesa por poner el foco en la región y en la capacitación de especialistas locales.",
+      "destacado": false
+    },
+    "0f9f813a5733": {
+      "resumen": "OncLive analiza cómo la elección del tratamiento de primera línea condiciona las decisiones de secuenciación terapéutica posterior en el cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del gen EGFR. Es una mirada de expertos sobre estrategia clínica, sin datos de un ensayo nuevo.",
+      "destacado": false
     },
     "eae12b3a4a23": {
       "resumen": "The ASCO Post analiza las barreras de cobertura de los seguros de salud para acceder a las pruebas de biomarcadores en cáncer de pulmón. Interesa por su impacto en el acceso real a la medicina de precisión oncológica, más allá de los datos de eficacia de los tratamientos.",
-      "destacado": false
-    },
-    "8d99f331fe90": {
-      "resumen": "OncLive informa que el Comité de Medicamentos de Uso Humano (CHMP) de la Agencia Europea de Medicamentos recomendó aprobar la combinación de trastuzumab deruxtecán (T-DXd, un anticuerpo conjugado a droga anti-HER2) más pertuzumab como primera línea en cáncer de mama metastásico HER2-positivo. Interesa porque anticipa un cambio del esquema estándar en Europa.",
-      "destacado": true,
-      "analisis": "Diseño: Recomendación regulatoria del Comité de Medicamentos de Uso Humano (CHMP) basada en datos de un ensayo clínico de fase III no detallado en el título, probablemente el estudio DESTINY-Breast09.\nPoblación: Pacientes con cáncer de mama metastásico HER2-positivo sin tratamiento sistémico previo (primera línea).\nIntervención: Trastuzumab deruxtecán (T-DXd, anticuerpo conjugado a droga anti-HER2) combinado con pertuzumab (anticuerpo monoclonal anti-HER2); el comparador no figura en el título.\nResultados: El título no aporta cifras de supervivencia libre de progresión ni supervivencia global; no se pudo acceder al abstract del ensayo de base (PubMed bloqueado en esta corrida).\nLimitaciones: Al ser una nota regulatoria, no se dispone de los datos de eficacia y seguridad del ensayo pivotal ni de su seguimiento.\nMensaje: De confirmarse la aprobación europea, este esquema combinado se posicionaría como una nueva opción de primera línea para el cáncer de mama metastásico HER2-positivo.\nNota: análisis sin acceso al abstract."
-    },
-    "97a6b6afc2a1": {
-      "resumen": "OncLive entrevista al doctor Akhade sobre cómo equilibrar el costo y el valor clínico de la inmunoterapia en la atención oncológica. Es la mirada de un experto sobre un dilema económico creciente en cáncer, sin datos nuevos de un ensayo propio.",
       "destacado": false
     },
     "da488bff2ca3": {
@@ -27,48 +25,48 @@
       "resumen": "The ASCO Post informa que la Sociedad Estadounidense de Oncología Clínica (ASCO) publicó su primera guía sobre el uso del ADN tumoral circulante (ctDNA, circulating tumor DNA) para el seguimiento de tumores sólidos y linfoma. Interesa porque estandariza el uso clínico de esta herramienta de biopsia líquida.",
       "destacado": false
     },
-    "8d9e99a1a8d7": {
-      "resumen": "Journal of Clinical Oncology publica la réplica de los autores a una carta sobre el estudio JCOG0603, que discute cómo interpretar la supervivencia global tras el tratamiento de la recurrencia luego de una hepatectomía (cirugía de resección hepática) en metástasis hepáticas colorrectales. Es un intercambio de correspondencia científica sobre la lectura de datos ya publicados, no un estudio nuevo.",
-      "destacado": false
-    },
-    "d69a5c49af49": {
-      "resumen": "Journal of Clinical Oncology publica el ensayo de fase III Skagen Trial 1 del Grupo Danés de Cáncer de Mama, que comparó un esquema de radioterapia hipofraccionada (en menos sesiones, con dosis más altas por sesión) contra el fraccionamiento estándar en la radioterapia locorregional de mujeres con cáncer de mama de alto riesgo. Es un ensayo aleatorizado grande, con potencial de simplificar y acortar los tratamientos.",
+    "afef38202828": {
+      "resumen": "Journal of Clinical Oncology publica los resultados de un estudio de fase Ib sobre izalontamab brengitecan (Iza-Bren), un anticuerpo biespecífico conjugado a droga dirigido contra EGFR (receptor del factor de crecimiento epidérmico) y HER3 (receptor 3 del factor de crecimiento epidérmico humano), en cáncer de pulmón a células pequeñas en estadio extendido. Interesa por tratarse de una terapia novedosa en un tumor de mal pronóstico y pocas opciones.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, del Grupo Danés de Cáncer de Mama (Danish Breast Cancer Group), Skagen Trial 1.\nPoblación: Mujeres con cáncer de mama de alto riesgo que requieren radioterapia locorregional (mama o pared torácica y ganglios regionales) tras la cirugía.\nIntervención: Radioterapia hipofraccionada (menor número de sesiones con mayor dosis por fracción) comparada contra el fraccionamiento estándar.\nResultados: El título no aporta cifras de control locorregional, toxicidad ni supervivencia; sin el abstract no se pueden precisar los datos numéricos del ensayo.\nLimitaciones: Sin abstract no es posible evaluar el seguimiento medio, la potencia estadística del diseño (por ejemplo si es de no inferioridad) ni los efectos adversos a largo plazo.\nMensaje: Si demuestra no inferioridad, la hipofraccionación permitiría acortar el tratamiento radiante y reducir la carga para las pacientes, en línea con la tendencia actual en radioterapia oncológica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio de fase Ib (dosis-escalada/expansión probable); no se especifican aleatorización, cegado ni número de centros o pacientes en el título.\nPoblación: Pacientes con cáncer de pulmón a células pequeñas en estadio extendido (extensive-stage small cell lung cancer).\nIntervención: Izalontamab brengitecan (Iza-Bren), un anticuerpo biespecífico conjugado a droga (antibody-drug conjugate) dirigido contra EGFR y HER3, primero en su clase; no se detalla comparador (fase temprana, probablemente sin brazo control).\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global disponibles sin el abstract.\nLimitaciones: Fase temprana (Ib), tamaño muestral probablemente reducido, sin grupo control ni datos de seguimiento a largo plazo.\nMensaje: Un dato preliminar de eficacia y seguridad de una nueva clase de fármaco en un escenario de alta necesidad clínica insatisfecha, a confirmar en fases más avanzadas.\nNota: análisis sin acceso al abstract."
     },
-    "5456e2cec201": {
-      "resumen": "Journal of Clinical Oncology publica una perspectiva regulatoria sobre cómo identificar la dosis óptima de las terapias radiofarmacéuticas oncológicas (tratamientos que combinan una molécula radiactiva con un vector dirigido al tumor). Es un artículo de opinión regulatoria y no el reporte de un ensayo clínico.",
+    "e3d9d4ef818c": {
+      "resumen": "Journal of Clinical Oncology publica la réplica de los autores a dos cartas que cuestionan si el bloqueo doble de puntos de control inmunitario (dual-checkpoint blockade) aporta beneficio más allá de prolongar el intervalo entre la quimiorradioterapia y la cirugía en cáncer de recto localmente avanzado. Es un intercambio de correspondencia científica, sin datos clínicos nuevos.",
       "destacado": false
     },
-    "28822136dd54": {
-      "resumen": "Journal of Clinical Oncology publica una carta que cuestiona la interpretación de la supervivencia global en el ensayo JCOG0603, sobre el tratamiento de la recurrencia después de una hepatectomía en metástasis hepáticas colorrectales. Es correspondencia científica sobre el análisis de datos ya publicados, no un estudio original.",
-      "destacado": false
+    "c3bd56a433e7": {
+      "resumen": "Journal of Clinical Oncology reporta un estudio sobre hipofraccionamiento moderado (radioterapia con menos sesiones y mayor dosis por sesión) para la irradiación de los ganglios regionales, con resultados de seguridad y eficacia. Interesa porque respalda esquemas de radioterapia más cortos para las pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio (según el título, probablemente un ensayo clínico o análisis de cohorte) sobre hipofraccionamiento moderado en irradiación ganglionar regional; no se especifica aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes que requieren irradiación de los ganglios linfáticos regionales, probablemente en el contexto de cáncer de mama según la línea editorial de la sección.\nIntervención: Radioterapia con hipofraccionamiento moderado (menor número de sesiones con mayor dosis por fracción), presumiblemente comparada contra el fraccionamiento convencional.\nResultados: El título afirma que el esquema es \"seguro y efectivo\", pero no hay cifras de toxicidad, control locorregional ni supervivencia disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el tamaño muestral, el seguimiento ni la magnitud del beneficio o los eventos adversos.\nMensaje: De confirmarse, sumaría evidencia a favor de acortar los esquemas de radioterapia ganglionar regional, reduciendo la carga de tratamiento para las pacientes.\nNota: análisis sin acceso al abstract."
     },
-    "e352929910f3": {
-      "resumen": "JAMA Oncology publica una corrección sobre errores en el epígrafe de la Figura 3 y en la sección de resultados de un artículo previo. Es una nota de errata editorial, sin datos clínicos nuevos.",
-      "destacado": false
+    "c268cbb99512": {
+      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo de fase III AAML1831 del Grupo de Oncología Infantil (Children's Oncology Group), que compara la inducción estándar con CPX-351 (una formulación liposomal de citarabina y daunorubicina) en leucemia mieloide aguda (AML, acute myeloid leukemia) pediátrica de novo. Es el estudio destacado de hoy por tratarse de un ensayo aleatorizado grande en una población pediátrica con pocas novedades terapéuticas.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, del Children's Oncology Group (Grupo de Oncología Infantil), reportado como AAML1831; no se detalla en el título si es ciego ni el número exacto de centros o pacientes.\nPoblación: Niños y adolescentes con leucemia mieloide aguda (AML) de novo (recién diagnosticada, sin tratamiento previo).\nIntervención: CPX-351 (formulación liposomal de citarabina y daunorubicina) como inducción, comparado contra la quimioterapia de inducción estándar (habitualmente citarabina más una antraciclina).\nResultados: No hay cifras de remisión completa, supervivencia libre de eventos ni supervivencia global disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el seguimiento medio ni la significancia estadística de las diferencias observadas.\nMensaje: Si CPX-351 demuestra beneficio sobre la inducción estándar, podría cambiar el tratamiento inicial de la leucemia mieloide aguda pediátrica, una población con escasas innovaciones terapéuticas recientes.\nNota: análisis sin acceso al abstract."
     },
-    "248d8971a93c": {
-      "resumen": "JAMA Oncology publica una perspectiva de Shilo P y colaboradores sobre los criterios a considerar al emparejar terapias dirigidas con las alteraciones genómicas del tumor. Es un artículo de opinión sobre medicina de precisión, no el reporte de un ensayo clínico.",
-      "destacado": false
+    "865ede1c877b": {
+      "resumen": "Parque Arauco reúne las tendencias de moda más destacadas del momento en el país, según LaRepublica.co."
     },
-    "ce75e4a81b3a": {
-      "resumen": "OHLALÁ! recomienda dónde conseguir jeans en oferta dentro de las tendencias de moda de 2026."
+    "c60c3104e06b": {
+      "resumen": "Vogue España publica 'Calle Jazmines 10', un relato de verano escrito por Mayte Gómez Molina."
+    },
+    "445a61167b9b": {
+      "resumen": "El HuffPost analiza si los pantalones caídos que usa el futbolista Lamine Yamal marcan el regreso de una tendencia polémica."
+    },
+    "feb9e02ac193": {
+      "resumen": "Telva destaca dos vestidos y un pantalón de la última colección de Zara que ya se perfilan como tendencia clave para el otoño."
+    },
+    "709a227ddd3e": {
+      "resumen": "La Razón anticipa tres tendencias que se impondrán y tres que quedarán atrás en la temporada otoño-invierno 2026/27."
+    },
+    "b9208110b5cd": {
+      "resumen": "Vogue México propone los jeans con el ruedo doblado como tendencia para combinar con sandalias y zapatos este verano 2026."
     },
     "92bde708127e": {
       "resumen": "Vogue México propone cinco diseños de uñas en tendencia para lucir en agosto y despedir el verano con estilo."
     },
-    "b29207d3e610": {
-      "resumen": "Vogue México muestra el vestido con motivo de telaraña que Zendaya lució en Shanghái, combinado con zapatos blancos."
-    },
-    "48cf9e4b06d4": {
-      "resumen": "Vogue México destaca las blusas drapeadas como la tendencia elegante para combinar con jeans este verano."
-    },
-    "683f79d782dd": {
-      "resumen": "Revista CLARA propone diez looks con lentejuelas para lucir en verano al estilo 'chica isleña'."
-    },
-    "50104c2f2d7a": {
-      "resumen": "Telva selecciona siete prendas de la nueva temporada recomendadas para mujeres de baja estatura."
+    "0a50f934a442": {
+      "resumen": "OHLALÁ! recomienda cuatro lugares porteños para comer keto, con brunches, hamburguesas y opciones bajas en carbohidratos."
     },
     "a26720de410e": {
       "resumen": "OHLALÁ! propone seis planes imperdibles para disfrutar en familia durante las vacaciones de invierno en Buenos Aires."
@@ -93,9 +91,6 @@
     },
     "c045c8dd0f02": {
       "resumen": "Canal26 detalla los restaurantes porteños que ofrecen platos de pasta a $9.999 por el Día de la Pasta 2026."
-    },
-    "b52106988224": {
-      "resumen": "Clarín cuenta que más de 100 restaurantes porteños ofrecerán un plato a $9.999 por el Día de la Pasta 2026."
     }
   }
 }
