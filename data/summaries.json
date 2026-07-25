@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:06:17Z",
+  "generated_at": "2026-07-25T22:15:00Z",
   "summaries": {
     "f7e45038dc26": {
       "resumen": "OncLive repasa en una entrevista la seguridad de los implantes mamarios de silicona, un tema vinculado al linfoma anaplásico de células grandes asociado a implantes mamarios (BIA-ALCL, breast implant-associated anaplastic large cell lymphoma). Interesa por su relevancia en el seguimiento oncológico de pacientes con implantes.",
@@ -19,10 +19,6 @@
     },
     "da488bff2ca3": {
       "resumen": "The ASCO Post recuerda a la doctora Maura Gillison, investigadora reconocida por su trabajo sobre el vínculo entre el virus del papiloma humano (VPH) y el cáncer de cabeza y cuello, fallecida recientemente. Es un homenaje a su trayectoria, no una noticia de investigación nueva.",
-      "destacado": false
-    },
-    "da250c234070": {
-      "resumen": "The ASCO Post informa que la Sociedad Estadounidense de Oncología Clínica (ASCO) publicó su primera guía sobre el uso del ADN tumoral circulante (ctDNA, circulating tumor DNA) para el seguimiento de tumores sólidos y linfoma. Interesa porque estandariza el uso clínico de esta herramienta de biopsia líquida.",
       "destacado": false
     },
     "afef38202828": {
@@ -47,35 +43,8 @@
     "865ede1c877b": {
       "resumen": "Parque Arauco reúne las tendencias de moda más destacadas del momento en el país, según LaRepublica.co."
     },
-    "c60c3104e06b": {
-      "resumen": "Vogue España publica 'Calle Jazmines 10', un relato de verano escrito por Mayte Gómez Molina."
-    },
-    "445a61167b9b": {
-      "resumen": "El HuffPost analiza si los pantalones caídos que usa el futbolista Lamine Yamal marcan el regreso de una tendencia polémica."
-    },
-    "feb9e02ac193": {
-      "resumen": "Telva destaca dos vestidos y un pantalón de la última colección de Zara que ya se perfilan como tendencia clave para el otoño."
-    },
-    "709a227ddd3e": {
-      "resumen": "La Razón anticipa tres tendencias que se impondrán y tres que quedarán atrás en la temporada otoño-invierno 2026/27."
-    },
-    "b9208110b5cd": {
-      "resumen": "Vogue México propone los jeans con el ruedo doblado como tendencia para combinar con sandalias y zapatos este verano 2026."
-    },
-    "92bde708127e": {
-      "resumen": "Vogue México propone cinco diseños de uñas en tendencia para lucir en agosto y despedir el verano con estilo."
-    },
-    "0a50f934a442": {
-      "resumen": "OHLALÁ! recomienda cuatro lugares porteños para comer keto, con brunches, hamburguesas y opciones bajas en carbohidratos."
-    },
     "a26720de410e": {
       "resumen": "OHLALÁ! propone seis planes imperdibles para disfrutar en familia durante las vacaciones de invierno en Buenos Aires."
-    },
-    "dcd4d42833e9": {
-      "resumen": "El Eco recomienda experiencias gastronómicas imperdibles para disfrutar en Buenos Aires."
-    },
-    "f9df6679b180": {
-      "resumen": "Nota al Pie repasa los estrenos teatrales imperdibles que llegan en agosto a la cartelera porteña."
     },
     "b4dc26d97ea4": {
       "resumen": "Tiempo Argentino sugiere planes para el fin de semana de vacaciones en la Ciudad de Buenos Aires."
@@ -86,11 +55,42 @@
     "a03467d12eb2": {
       "resumen": "Time Out propone doce planes imperdibles para hacer hoy en Buenos Aires."
     },
-    "733b45ae015f": {
-      "resumen": "Perfil reúne actividades gratuitas para chicos por el Día del Niño en el fin de semana largo, en la Ciudad de Buenos Aires y el conurbano bonaerense."
+    "fe1b778cada1": {
+      "resumen": "Este ítem del ASCO Post llegó al feed como un enlace genérico (\"visit ASCOPost.com\"), sin título de nota puntual, así que no hay contenido específico para resumir sin inventar datos. Si te interesa el panorama oncológico general del día, vale la pena entrar directo al sitio para ver las notas completas.",
+      "destacado": false
     },
-    "c045c8dd0f02": {
-      "resumen": "Canal26 detalla los restaurantes porteños que ofrecen platos de pasta a $9.999 por el Día de la Pasta 2026."
+    "f1af26c048bd": {
+      "resumen": "Un repaso de las diferencias entre el libro y la película en cuanto a los personajes femeninos de La Odisea, la nueva versión de Christopher Nolan."
+    },
+    "d2aa3da1399d": {
+      "resumen": "El diseñador ecuatoriano Neithan Herbert se prepara para presentarse en la Semana de la Moda de Milán."
+    },
+    "5bfaae12af8f": {
+      "resumen": "La estilista Sue Fonseca repasa los zapatos que serán tendencia en el otoño 2026 y aconseja elegir los que encajen con el estilo personal de cada una."
+    },
+    "0f64062b596e": {
+      "resumen": "El look de la reina Letizia, con vestido de Adolfo Domínguez y sandalias de tacón bajo, para copiar en el verano 2026."
+    },
+    "8316d6aa6d9c": {
+      "resumen": "Cómo armar el look de moda del próximo otoño con una pollera de jean y una camisa, todo disponible en Zara y Mango."
+    },
+    "065c55d9d925": {
+      "resumen": "Una guía de espectáculos teatrales con precios accesibles y propuestas pensadas para disfrutar en familia durante las vacaciones."
+    },
+    "3e9d32ca91b1": {
+      "resumen": "El viaje de Coco Carreño a Nápoles fue la inspiración detrás de una de las aperturas gastronómicas más esperadas de Buenos Aires."
+    },
+    "3dbd65ec26d0": {
+      "resumen": "Facundo Arana y Jorge Suárez encabezan el elenco de la obra de teatro \"Visitando al Sr. Green\", en cartel en Buenos Aires."
+    },
+    "e4331627e246": {
+      "resumen": "Un nuevo capítulo en el escándalo por las entradas de los recitales de Rosalía en Argentina."
+    },
+    "4d28a37c2edd": {
+      "resumen": "Mendoza sumó más restaurantes distinguidos con placas de la Guía Michelin y superó en cantidad a Buenos Aires."
+    },
+    "b5e0bab8142a": {
+      "resumen": "Una selección de restaurantes porteños con mantas y calefacción para comer al aire libre en invierno."
     }
   }
 }
