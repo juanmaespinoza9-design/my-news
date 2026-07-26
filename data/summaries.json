@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:15:00Z",
+  "generated_at": "2026-07-26T10:10:00+00:00",
   "summaries": {
     "f7e45038dc26": {
       "resumen": "OncLive repasa en una entrevista la seguridad de los implantes mamarios de silicona, un tema vinculado al linfoma anaplásico de células grandes asociado a implantes mamarios (BIA-ALCL, breast implant-associated anaplastic large cell lymphoma). Interesa por su relevancia en el seguimiento oncológico de pacientes con implantes.",
@@ -40,17 +40,11 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, del Children's Oncology Group (Grupo de Oncología Infantil), reportado como AAML1831; no se detalla en el título si es ciego ni el número exacto de centros o pacientes.\nPoblación: Niños y adolescentes con leucemia mieloide aguda (AML) de novo (recién diagnosticada, sin tratamiento previo).\nIntervención: CPX-351 (formulación liposomal de citarabina y daunorubicina) como inducción, comparado contra la quimioterapia de inducción estándar (habitualmente citarabina más una antraciclina).\nResultados: No hay cifras de remisión completa, supervivencia libre de eventos ni supervivencia global disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el seguimiento medio ni la significancia estadística de las diferencias observadas.\nMensaje: Si CPX-351 demuestra beneficio sobre la inducción estándar, podría cambiar el tratamiento inicial de la leucemia mieloide aguda pediátrica, una población con escasas innovaciones terapéuticas recientes.\nNota: análisis sin acceso al abstract."
     },
-    "865ede1c877b": {
-      "resumen": "Parque Arauco reúne las tendencias de moda más destacadas del momento en el país, según LaRepublica.co."
-    },
     "a26720de410e": {
       "resumen": "OHLALÁ! propone seis planes imperdibles para disfrutar en familia durante las vacaciones de invierno en Buenos Aires."
     },
     "b4dc26d97ea4": {
       "resumen": "Tiempo Argentino sugiere planes para el fin de semana de vacaciones en la Ciudad de Buenos Aires."
-    },
-    "de68b38c0123": {
-      "resumen": "radio3caseros.com.ar reúne más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, con recitales, teatro, cine y muestras gratuitas."
     },
     "a03467d12eb2": {
       "resumen": "Time Out propone doce planes imperdibles para hacer hoy en Buenos Aires."
@@ -67,9 +61,6 @@
     },
     "5bfaae12af8f": {
       "resumen": "La estilista Sue Fonseca repasa los zapatos que serán tendencia en el otoño 2026 y aconseja elegir los que encajen con el estilo personal de cada una."
-    },
-    "0f64062b596e": {
-      "resumen": "El look de la reina Letizia, con vestido de Adolfo Domínguez y sandalias de tacón bajo, para copiar en el verano 2026."
     },
     "8316d6aa6d9c": {
       "resumen": "Cómo armar el look de moda del próximo otoño con una pollera de jean y una camisa, todo disponible en Zara y Mango."
@@ -91,6 +82,27 @@
     },
     "b5e0bab8142a": {
       "resumen": "Una selección de restaurantes porteños con mantas y calefacción para comer al aire libre en invierno."
+    },
+    "927c88a07f89": {
+      "resumen": "Lancet Oncology adelanta que en el Reino Unido se pondrá en marcha un estudio para determinar el riesgo de cáncer en el personal de las fuerzas armadas, evaluando exposiciones ocupacionales propias del servicio militar. Interesa por abordar una población con exposiciones particulares (radiación, sustancias tóxicas, combate) poco estudiada de forma sistemática.",
+      "destacado": false,
+      "analisis": "Diseño: Nota informativa sobre un estudio (según el título, probablemente de tipo registro o cohorte) que evaluará el riesgo de cáncer en personal de las fuerzas armadas del Reino Unido; no se especifican en el título aleatorización, cegado, número de centros ni de participantes.\nPoblación: Personal militar activo y/o veterano de las fuerzas armadas del Reino Unido.\nIntervención: No aplica un esquema terapéutico; se trata de un estudio observacional que evaluará exposiciones ocupacionales asociadas a riesgo de cáncer, sin comparador de intervención.\nResultados: No hay cifras de incidencia, riesgo relativo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño metodológico exacto, el tamaño de la cohorte, el período de seguimiento ni los tipos de exposición considerados.\nMensaje: Aporta información epidemiológica sobre una población con exposiciones ocupacionales específicas, relevante para políticas de vigilancia y detección temprana en veteranos, aunque su impacto directo en la práctica clínica es limitado hasta contar con resultados concretos.\nNota: análisis sin acceso al abstract."
+    },
+    "894f7dd76ae3": {
+      "resumen": "The New England Journal of Medicine publica una réplica de los autores del ensayo de daraxonrasib, un inhibidor de la proteína RAS (reguladora clave de la proliferación celular, mutada en gran parte de los cánceres de páncreas), en cáncer de páncreas avanzado con mutación de RAS. Es un intercambio de correspondencia científica en respuesta a comentarios sobre el estudio original, sin datos clínicos nuevos.",
+      "destacado": false
+    },
+    "a2485625d734": {
+      "resumen": "Cosmopolitan propone siete ideas de looks para lucir con estilo durante la semana del 27 de julio, desde una falda tendencia de Mango hasta un vestido romántico de Sézane."
+    },
+    "c8411507fe4c": {
+      "resumen": "Vogue México destaca el look de Dakota Johnson con bailarinas negras y jeans rectos, una combinación de experta en moda ideal para copiar."
+    },
+    "bdc6c2f0a89a": {
+      "resumen": "El Sol de México cuenta cómo el desfile Fashion Show con Causa combinó moda y solidaridad en la Plaza de Aranzazú de San Luis Potosí."
+    },
+    "e00f9bed62f6": {
+      "resumen": "FM Universo 97.3 reúne más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, muchos gratuitos."
     }
   }
 }
