@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T07:58:12.876362+00:00",
+ "generated_at": "2026-07-27T11:45:54.127221+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -79,6 +79,22 @@
      "published": "2026-07-24T00:00:00+00:00",
      "copete": "Pollard JA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "c268cbb99512"
+    },
+    {
+     "title": "UK study to report cancer risk in armed services personnel",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42492555/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Kirby T et al. · The Lancet. Oncology",
+     "id": "927c88a07f89"
+    },
+    {
+     "title": "First Nations cancer inequalities in Canada",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42462743/",
+     "source": "Lancet Oncology",
+     "published": "2026-07-16T00:00:00+00:00",
+     "copete": "Adepoju P et al. · The Lancet. Oncology",
+     "id": "c9bfb4500b4b"
     }
    ]
   },
@@ -88,32 +104,63 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Las chicas más cool del planeta ya saben lo que te vas a poner en septiembre, de los vaqueros más tendencia al nuevo estilo minimalista que triunfará",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQdGNqajU5bUxWX2w4R1U1UE9hVUtzMzlaekpoT2cxcEpnNlNvcXh6TVFXS2ZEU3dEY21NN1d6a1laa3J0d0kxaHVmLXFERjJzYjdYSUhfQlhBYjQwQ2JtcmlHRVY4NzlSVlV5NzRVWFBmR0pGTUlaTUxvQVdRUdIBfkFVX3lxTE1TR21HWmZOVVRuMDN0TWZWVWF0WVJ1dmxScWtIYXFSZm9KR2dLOXRCVWcxa2pyWjdOZnFGWk9nWGVRVmJWcm5LMDcteU1yWFJtcnlmd25ReWZvd2tIZEotNWNOaWNFN2F4ZTFkUnVVNTZpRGM0X21tMDJBNVVkQQ?oc=5",
-     "source": "Telva",
-     "published": "2026-07-27T05:56:17+00:00",
-     "id": "ad07703f6ddc"
+     "title": "Así se lleva la tendencia floral este verano 2026: flores acuareladas, prints mini y formato en 3D",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUdoRGd4eHZudWlKX0t6QnY3TW9tNlBVV1d4SHV2NWpqWDNWS2gyWi1GbExvdGtFSzdmSFBDb3NTcFg2N0xRNEc0Q1ZiQ081bVF2eE9Ya0hTUnVCaTExNjVsV0ZpUGJkQ05JUDdTSVZjUE9XMTAzVlhTUXhvTzFPRU1FSFE?oc=5",
+     "source": "Revista CLARA",
+     "published": "2026-07-27T11:00:00+00:00",
+     "id": "92d34d92b393"
     },
     {
-     "title": "Por qué Ester Expósito es la nueva referente del boho chic: eclecticismo y autenticidad en cada look",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXY3YUZzLTl5bWJBRlc5VHdWcE9ySDZBZmNKdzlIejJpZDkyVS0zdjR4eTZnMjVZXzZKbVBlVmNqR0xwSVFGZlVnU3c1ZzdTU1NzdjhybWROTXlnMkFfSUVlZC1xLXAtd0JCM3pSeU8zTHFIWVFPSGM1TjI2ckxVc0V2V1NQSUdRbklPV1laMzV3ejd1OUphMXBYMDZFWUtZalpsbi1hOWU4ODU0NU82cG90SjVoVkhUbVJCaGtpNXQ4RV9uMERacDlJV1BSQThHUEdwRW9YTHp4M1ZibEZF0gH6AUFVX3lxTE5Kc0NvWFJBMW0xZjRPdDJEbFN4YWhpYkdQWEY4NWpvUEctOGh0d1BTU3RDeVNHLUFXNWdBUkNOdi02eHc4VE8xVmFyR1c0UWgycVlha28tUk0yOF9JTjlhRnNoeThRUU9PczJvSXhoTTh1MHRTQkszeGpCVHR4QWFjTy1sM2VXNWU3UUZXcjBtMDdaR3hGZUNjdDdLYTI1S1JTTjVFVV9odWlHUTY3dE5lc1FEdnFiNEJxMWtFUWFMLVQxZWotY2JoMHVjbU5LdG1yNi1YM2Y1bGFhN1ljM1h0Wlc5dEpJS09CWGM1aE9zUlE3ZzZ0UjhaWmc?oc=5",
-     "source": "Infobae",
-     "published": "2026-07-27T05:05:09+00:00",
-     "id": "f15eb3e80593"
+     "title": "Horóscopo de hoy: 27 de julio de 2026",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3YThOWTJmSjBDSWs1US1ZOGFkaW1KQVhHVVVKZXJKQy1zOXoyaU9yZVZ0akNTZVgwYmV2MTRaZG9fRXdPVnl5dkJVN0g5UmZKYXdnMWg1Y3N2T1Y3U1h3bFZqT2hHUUNMVlYzV1NQQ0x3dVJFSGgwN2pEVi0?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-27T11:00:00+00:00",
+     "id": "4f39fee6305d"
     },
     {
-     "title": "La moda busca un nuevo equilibrio entre lo humano y lo digital",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUC1BaDNjb3VoS3RlTTBQQV82Y0FqbU5fdlVrYXFtZnQtLWQ1ZF9faXh5SjdCbDBVX0pFV2d1bWxkX3VWdUY2N2l3OGp5U3E1RUhfTG1YVmdtSDBuTlZqbkJyODJKTHdKSnE5SHR6Y0VVSGVwbGNQUHRyV0FYd1M4VGNqQUN3Z0pERXYwc01MbkJTN0dCUjF2alRkTDBiUWdJNy1CRnlTZ2dwakJmNVVhdWhraDY1Zw?oc=5",
-     "source": "FashionUnited",
-     "published": "2026-07-27T04:08:19+00:00",
-     "id": "a9f70155c48f"
+     "title": "The Vogue Business People Moves Tracker",
+     "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+     "source": "Vogue",
+     "published": "2026-07-27T10:04:50+00:00",
+     "copete": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+     "id": "65626a5b90c5"
     },
     {
-     "title": "Los pantalones de rayas que Lady Di hizo famosos vuelven a ser tendencia este verano en Zara",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmNsREJaTmZ1amFHT2o0S3RzVGNacnRkV2lCUk13aVZsV1d1QkY1MExSb0pUWjRWX0RWM3FVa1lHNzdSeUhJOHJPcE9QNmw3T1lpYUtUeWw4Zk5sYzBpQjA3aTRyU0VyOXVEcFFURTM0TFplZElDaVdCdEo3QWlPcG9tZklvYlRfS2tfN1BfMVhYdw?oc=5",
-     "source": "HOLA",
-     "published": "2026-07-27T04:01:00+00:00",
-     "id": "1d50f43f1c31"
+     "title": "12 Quintessential Lake Tahoe Airbnbs for a True Alpine Experience",
+     "link": "https://www.vogue.com/article/best-airbnbs-in-lake-tahoe",
+     "source": "Vogue",
+     "published": "2026-07-27T10:00:00+00:00",
+     "copete": "Escape to the Sierra Nevada Mountains with one of the best Airbnbs in Lake Tahoe, from waterfront cabins to stylish A-frames.",
+     "id": "8ea04de870b6"
+    },
+    {
+     "title": "What to Pack for the Greek Islands, According to a Vogue Editor",
+     "link": "https://www.vogue.com/article/what-to-pack-greek-islands",
+     "source": "Vogue",
+     "published": "2026-07-27T10:00:00+00:00",
+     "copete": "Heading to the Greek islands this summer? Here’s how to pack for the sun, according to one editor.",
+     "id": "e48ebf96ad9e"
+    },
+    {
+     "title": "8 prendas de Zara y Mango que nadie está mirando en rebajas y serán tendencia este otoño",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckprZlplem50bUNCdmJGZHBxWTRtWU5XVDBQdHFHU0VCZ25mUTNzNklQeHZoTnptSjl6VEZGM0hZM2cwc0dEWV95WjlzWl85UWc1SmJUQnIyRlFoM1pQOVNlbWU0bzhYVDR5TFRUeUpHYXEzMS1xRGdQNzhGMFBJMg?oc=5",
+     "source": "El Mundo",
+     "published": "2026-07-27T09:58:53+00:00",
+     "id": "38b38edabf8a"
+    },
+    {
+     "title": "Por qué la moda digital en los videojuegos está superando a las tendencias de la moda urbana del mundo real",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRWZYR0lJd3dyMEY2eV9TS1lXbkNKLXU4UXJvSF9UMkwxUHlSUW43MEwtRkMwUlVsZGJCUnphWWJtSGh0a0FRTHp2VXg2bjZxbWVVZGRFY1ZWcDlqaVNFcTVsaTRVRVNsb3JuVzVmaHR3dHMxeU9FVGxvUDRkeEhTUDVTcExDVmtFejBlaGgybm1QTTcxSFNjUU8yZjYyT2pHZHAxczdWNnlLSlEzamNFT0NZcW9JMV9YVkNUZFl0NWZGb0FpMHR1czN1RS1jc1ZWWkV0R2FJU2tnZUZTSzRB0gHkAUFVX3lxTE9Dei0xN2xOMDRkbTliV2Q1SzNISEloR19wVUxKbm5mMm1tUDI3VjVPd3FyWksxMXE3b2xxUDN2VUJ1dlFKSGRwVmZ0TzRIWDBqY0FHQXBtQURoSmlvTmptUzhOY1YyLTVOY2JiUTRRVENzbzcwMHVzc2VNRVd4TXFzZGRNVmo1MmFTc2pESm9tLVBaQW5HQ1RzajM5WVRBaktOT2ZwOWJuN3ZRelZ0UjJQakhqNUhyTG1qUDM0WVZLdDJQQWd5Tlp1ajdMU1VxeUxCQklZMmpubUZNZjV6WnJJcExQZw?oc=5",
+     "source": "El Progreso de Lugo",
+     "published": "2026-07-27T09:14:04+00:00",
+     "id": "d4af0e3fd108"
+    },
+    {
+     "title": "Cómo detectar las tendencias de moda gaming en la actualidad local",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeldKV3ROUFp4QlNGNVc4QXZEeEg1SzdOZUdkUDFfek9KQUI5eENRWUlzUHZZZzYwYWxxNWZaTEtoZzRVVXBfX2NyOUVfME95YnhLQTlMTFNRLVR4SEpMdVozb1pYbGNva2c5SkdrUXI3MkJhUnJMZDBXdXQxd0tUclVNZmZVYkFqOFl0SkI5ZDVmQmpTc3JEYzVDUWZYdHE1UThMSXRxdTIyeW1EWEtMR3JJR19rTnZRV1hqNkZacGpSTU1BY3fSAcsBQVVfeXFMTUtnamxRS1NGWldDdkhvVWxzQmpGejBnZVAzbF9zUHRWb0dPS3NfTzRFX0JBQkpONkFsYWhuNEtyT2FfQ1ZIZ2l5cHU2eGFkS1FIT1hTR3EyRXNoY3piSEd3TUVtWExEQ1l1T3JvVVBzSXNuY1g0YnpUTVJtT25KQUxJQkFBdmpGcjBRcndyTFhhamo3N2FWTzJNdjlWOWFkZmFlNF84Z1IyaE9jQzBuM1N5VWlFVnZfUFR5bFZRQjU4T3AzOHBJNmxDUE0?oc=5",
+     "source": "El Progreso de Lugo",
+     "published": "2026-07-27T09:09:57+00:00",
+     "id": "3f807137749c"
     },
     {
      "title": "La Casa del Dragón 3 capítulo 6: Resumen, final explicado y todo lo que pasó",
@@ -128,37 +175,6 @@
      "source": "Vogue México",
      "published": "2026-07-26T23:45:44+00:00",
      "id": "68ffc33c9056"
-    },
-    {
-     "title": "Nordic Walking Is the Whole-Body Workout Everyone Needs",
-     "link": "https://www.vogue.com/article/what-is-nordic-walking",
-     "source": "Vogue",
-     "published": "2026-07-26T21:42:41+00:00",
-     "copete": "Experts break down all the health benefits of Nordic walking and how to incorporate it into your routine.",
-     "id": "918ed8cf67cd"
-    },
-    {
-     "title": "Sandalias francesas: Ester Expósito lleva las que todas queremos en verano 2026 con jeans cuffed",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa3RJeXlmcGkyb2FqTzluMWdJTHd3ZnR0R1ZHLUVIVk8xdy1UYmcyVXAwRURkREppMUMySVZUMVNSLWlDMklsaHcwaHQ3dUZHZXo5S1FtWERaYzZjNXV1XzBORU14QmhHU2dPN2pyMFIyNUx3clF4aUdHTlo3ZS1WQUV2eWNxODlZUzFUTHpHMHlkZzFLU0lFNzVXcUQtUQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-26T20:52:07+00:00",
-     "id": "e67a60969ea6"
-    },
-    {
-     "title": "Post-World Cup, Kylian Mbappé and Ester Expósito Find Their Cool Couple Style",
-     "link": "https://www.vogue.com/article/kylian-mbappe-and-ester-exposito-find-their-cool-couple-style",
-     "source": "Vogue",
-     "published": "2026-07-26T17:46:13+00:00",
-     "copete": "The French soccer star and Spanish actress are back in Paris–and while their relationship has been kept relatively quiet, their coordinating fashions are far from it.",
-     "id": "9c84d1be68aa"
-    },
-    {
-     "title": "Bermudas Might Be In, but the It Girls Make the Case for a Teeny-Tiny Shorts Summer",
-     "link": "https://www.vogue.com/article/teeny-tiny-shorts-trend",
-     "source": "Vogue",
-     "published": "2026-07-26T17:01:51+00:00",
-     "copete": "From Charli XCX to Zoe Kravitz and Hailey Bieber, the mini-short has proved itself a summer 2026 staple.",
-     "id": "ca640d92eb30"
     }
    ]
   },
@@ -167,6 +183,86 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Murió Duilio, el hermano de Nicolás Cabré: el conmovedor mensaje del actor",
+     "link": "https://www.lanacion.com.ar/espectaculos/murio-duilio-el-hermano-de-nicolas-cabre-el-conmovedor-mensaje-del-actor-nid27072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-27T11:40:25+00:00",
+     "copete": "Tenía 48 años y mantenía un perfil bajo, alejado de los medios; las emotivas palabras del reconocido artista en sus redes",
+     "id": "36d0f1a5b6b3"
+    },
+    {
+     "title": "Desde Italia, Nora Colosimo fue tajante con Mauro Icardi: “¿Por qué les jodés la vida a dos menores inocentes?\"",
+     "link": "https://www.infobae.com/teleshow/2026/07/27/desde-italia-nora-colosimo-fue-tajante-con-mauro-icardi-por-que-les-jodes-la-vida-a-dos-menores-inocentes/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-27T11:24:09+00:00",
+     "copete": "En Infama, la madre de Wanda Nara describió el costo emocional de las nenas y le pidió al futbolista que las autorice a continuar su vida en Argentina",
+     "id": "410ca5b3bdd0"
+    },
+    {
+     "title": "Aitana y Plex: una historia de amor que empezó en Japón, siguió en Nueva York y se coronó con un beso sobre el ring",
+     "link": "https://www.lanacion.com.ar/espectaculos/aitana-y-plex-una-historia-de-amor-que-empezo-en-japon-siguio-en-nueva-york-y-se-corono-con-un-beso-nid26072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-27T11:04:40+00:00",
+     "copete": "Aunque mantienen la privacidad de su noviazgo, los dos se volvieron un símbolo del romance centennial en España; cómo se conocieron y el video que ahora los volvió virales",
+     "id": "c5de56011e6b"
+    },
+    {
+     "title": "Qué dijo Andy Kusnetzoff sobre la acusación de maltrato de Ronnie Arias",
+     "link": "https://www.lanacion.com.ar/espectaculos/que-dijo-andy-kusnetzoff-sobre-la-acusacion-de-maltrato-de-ronnie-arias-nid26072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-27T11:04:14+00:00",
+     "copete": "En su llegada al país tras el Mundial, el periodista desmintió los dichos de su colega y remitió a las buenas intenciones que tuvo para que se sintiera cómodo en su paso por Perros de la Calle",
+     "id": "309184e0895d"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este lunes 27 de julio de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-lunes-27-de-julio-de-2026-en-argentina_0_ooXHlzZpYx.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-27T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "b55703ee632d"
+    },
+    {
+     "title": "El recuerdo de Nicolás Cabré con su hermano Duilio en su infancia: “Yo baldeaba el patio antes de jugar con él”",
+     "link": "https://www.infobae.com/teleshow/2026/07/27/el-recuerdo-de-nicolas-cabre-con-su-hermano-diulio-en-su-infancia-yo-baldeaba-el-patio-antes-de-jugar-con-el/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-27T10:04:23+00:00",
+     "copete": "El actor, en una entrevista con Mario Pergolini el año pasado, habló sobre una rutina cotidiana de sus primeros años junto a su hermano. Su complicidad",
+     "id": "cd0c7d2358da"
+    },
+    {
+     "title": "Después de casi 30 años, Demi Moore volvió a protagonizar un videoclip: los detalles del regreso al formato musical",
+     "link": "https://www.clarin.com/espectaculos/despues-30-anos-demi-moore-volvio-protagonizar-videoclip-detalles-regreso-formato-musical_0_qKtpGbzstZ.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-27T10:01:38+00:00",
+     "copete": "La actriz de 63 años participa en \"Animal\", el nuevo video musical del grupo femenino Katseye. Su última aparición había sido en un clip de 1997.",
+     "id": "797bd5a5e634"
+    },
+    {
+     "title": "Fritz Lang, el creador de Metrópolis que influyó en Christopher Nolan, el director de La Odisea, Hitchcock y Buñuel",
+     "link": "https://www.clarin.com/espectaculos/fritz-lang-creador-metropolis-influyo-christopher-nolan-director-odisea-hitchcock-bunuel_0_BQDEtIJhIY.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-27T09:03:37+00:00",
+     "copete": "Se cumplen 50 años de su muerte, y la Sala Lugones realiza un ciclo con tres de sus clásicos. Hizo la primera película de propaganda antinazi y se radicó en Hollywood.",
+     "id": "a7bc7ff029f9"
+    },
+    {
+     "title": "Los estrenos de Netflix Argentina esta semana: qué series y películas ver del 27 de julio al 2 de agosto",
+     "link": "https://www.clarin.com/espectaculos/los-estrenos-de-netflix-argentina-esta-semana-que-series-y-peliculas-ver-del-27-de-julio-al-2-de-agosto_0_dWi4ofVsQ4.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-07-27T09:00:03+00:00",
+     "copete": "La plataforma dio a conocer las fechas de todas las producciones que se lanzarán en los próximos días. Thrillers, comedias, documentales y grandes regresos que pueden dominar el ranking de Netflix.",
+     "id": "74562794cca6"
+    },
+    {
+     "title": "El renacer de una villana inesperada: Annette Bening regresa al crimen y los negocios oscuros",
+     "link": "https://www.lanacion.com.ar/espectaculos/series-de-tv/el-renacer-de-una-villana-inesperada-annette-bening-regresa-al-crimen-y-los-negocios-oscuros-nid27072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-27T09:00:00+00:00",
+     "copete": "En Lucky, la producción de Apple TV que comparte junto a Anya Taylor-Joy, la actriz de 68 años vuelve a ponerse en contacto un recordado rol de los inicios de su carrera",
+     "id": "daee5a6b5ade"
+    },
     {
      "title": "Las indirectas entre La Joaqui y Luck Ra en medio de rumores de separación: “Una casa que no voy a volver a pisar”",
      "link": "https://www.infobae.com/teleshow/2026/07/27/las-indirectas-entre-la-joaqui-y-luck-ra-en-medio-de-rumores-de-separacion-una-casa-que-no-voy-a-volver-a-pisar/",
@@ -182,86 +278,6 @@
      "published": "2026-07-27T03:43:54+00:00",
      "copete": "El actor compartió en sus redes su tristeza por la pérdida de su único hermano, a quien recordó con palabras muy íntimas. La información de Teleshow",
      "id": "c2e2c1e2b1a4"
-    },
-    {
-     "title": "El misterioso mensaje de Wanda Nara: la frase que escribió junto a un corazón roto que parece anticipar un escándalo",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/el-misterioso-mensaje-de-wanda-nara-la-frase-que-escribio-junto-a-un-corazon-roto-que-parece-anticipar-un-escandalo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T03:34:03+00:00",
-     "copete": "La empresaria publicó una frase breve y sin destinatario justo mientras sigue el proceso de divorcio en Italiapublicó una frase breve y sin destinatario justo mientras sigue el proceso de divorcio en Italia. Qué dijo",
-     "id": "a100318ef881"
-    },
-    {
-     "title": "El recuerdo de Nicolás Cabré con su hermano Diulio en su infancia: “Yo baldeaba el patio antes de jugar con él”",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/el-recuerdo-de-nicolas-cabre-con-su-hermano-diulio-en-su-infancia-yo-baldeaba-el-patio-antes-de-jugar-con-el/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T02:43:31+00:00",
-     "copete": "El actor, en una entrevista con Mario Pergolini el año pasado, habló sobre una rutina cotidiana de sus primeros años junto a su hermano. Su complicidad",
-     "id": "cd0c7d2358da"
-    },
-    {
-     "title": "Damián Betular habló de MasterChef Celebrity luego de la salida de Donato de Santis: “Están haciendo castings”",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/damian-betular-hablo-de-masterchef-celebrity-luego-de-la-salida-de-donato-de-santis-estan-haciendo-casting/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T02:11:42+00:00",
-     "copete": "El chef confirmó que seguirá como jurado del reality junto a Germán Martitegui, tras la decisión del chef italiano de dejar el ciclo luego de diez temporadas",
-     "id": "13540457df57"
-    },
-    {
-     "title": "Caro Trippar habló tras contar que tiene cáncer: “Creí que me iba a morir, pero después de escucharlas veo esperanza”",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/caro-trippar-hablo-tras-contar-que-tiene-cancer-crei-que-me-iba-a-morir-pero-despues-de-escucharlas-veo-esperanza/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T00:17:18+00:00",
-     "copete": "La influencer reapareció entre lágrimas después de compartir su diagnóstico y agradeció los testimonios y muestras de cariño de los últimos días",
-     "id": "69b2e676bf5e"
-    },
-    {
-     "title": "Caro Trippar reapareció en las redes tras revelar que tenía cáncer de mama: “Me dieron esperanza, creí que me iba a morir”",
-     "link": "https://www.lanacion.com.ar/espectaculos/caro-trippar-reaparecio-en-las-redes-tras-revelar-que-tenia-cancer-de-mama-me-dieron-esperanza-crei-nid26072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-26T22:30:58+00:00",
-     "copete": "La creadora de contenido recibió el apoyo de sus seguidores tras dara conocer su enfermedad; “Me llegaron a decir que no tenía cura”, admitió en un video que publicó en Instagram",
-     "id": "bfd0f9c7d984"
-    },
-    {
-     "title": "Katy Perry cruzó a Donald Trump por usar una de sus canciones en un aviso sobre ataques militares y se sumó al reclamo de otras artistas",
-     "link": "https://www.clarin.com/espectaculos/katy-perry-cruzo-donald-trump-usar-canciones-aviso-ataques-militares-sumo-reclamo-artistas_0_RIN4B6QXLl.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-26T21:39:56+00:00",
-     "copete": "El video, publicado el jueves en la cuenta oficial de TikTok de la Casa Blanca, sincroniza la letra de la canción \"Firework\" con clips de explosiones y el mensaje \"Irán ha sido advertido\". La cantante no es la primera en oponerse al uso de…",
-     "id": "bf180526b235"
-    },
-    {
-     "title": "Eduardo Sacheri con Juana Viale: “Los seres humanos somos prejuiciosos”",
-     "link": "https://www.lanacion.com.ar/espectaculos/eduardo-sacheri-con-juana-viale-los-seres-humanos-somos-prejuiciosos-nid26072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-26T20:08:10+00:00",
-     "copete": "En su paso por el programa que conduce la actriz, el escritor reflexionó sobre una de las conductas más comunes de los individuos y lo comparó con las críticas que recibió Argentina en la final del Mundial",
-     "id": "01c81cc50767"
-    },
-    {
-     "title": "Ron Wood confirmó su visita a la Argentina: cuándo llegará",
-     "link": "https://www.clarin.com/espectaculos/ron-wood-confirmo-visita-argentina-llegara_0_Hlmme4pWyo.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-07-26T20:07:54+00:00",
-     "copete": "El guitarrista de los Rolling Stones publicó un video en su Instagram adelantando su llegada la país. Según lo que compartió con un posteo, sería a fines de 2026.",
-     "id": "d3ad7a810c3b"
-    },
-    {
-     "title": "Quién se va de Gran Hermano este lunes, según las encuestas",
-     "link": "https://www.lanacion.com.ar/espectaculos/quien-se-va-de-gran-hermano-este-lunes-segun-las-encuestas-nid24072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-26T19:49:03+00:00",
-     "copete": "Tras la inesperada eliminación de Emanuel Di Gioia, el público vuelve a tener la posibilidad de sacar a un hermanito de la casa; descubrí quiénes pican en punta para irse",
-     "id": "c80196353844"
-    },
-    {
-     "title": "Todas las películas y series que hay que ver para entender Spider-Man: Brand New Day",
-     "link": "https://www.lanacion.com.ar/espectaculos/todas-las-peliculas-y-series-que-hay-que-ver-para-entender-spider-man-brand-new-day-nid25072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-26T19:48:54+00:00",
-     "copete": "El estreno de la cuarta entrega del Hombre Araña marca el inicio de una etapa definitoria para el personaje en el Universo Cinematográfico; descubrí la selección clave de títulos para comprender este nuevo capítulo de Peter Parker",
-     "id": "c5abe63633d8"
     }
    ]
   },
@@ -348,83 +364,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Ofrecieron una recompensa de $5 millones para obtener información sobre Micaela Albornoz a un mes de su desaparición",
-     "link": "https://www.infobae.com/sociedad/2026/07/27/ofrecieron-una-recompensa-de-5-millones-para-obtener-informacion-sobre-micaela-albornoz-a-un-mes-de-su-desaparicion/",
-     "source": "Infobae",
-     "published": "2026-07-27T07:46:38+00:00",
-     "copete": "La mujer de 32 años fue captada por una cámara de seguridad sobre la ruta 34 en Santa Fe durante el fin de semana. Ese fue el último rastro que se conoció de ella",
-     "id": "2ff74aefe9ba"
+     "title": "Hay alerta naranja y roja por frío extremo, tormentas y Zonda para este lunes 27 de julio: las provincias afectadas",
+     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-roja-por-frio-extremo-tormentas-y-zonda-para-este-lunes-27-de-julio-las-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-27T11:42:06+00:00",
+     "copete": "El Servicio Meteorológico Nacional advirtió sobre temperaturas que pueden ser “muy peligrosas”; en la Ciudad, la máxima será de 19°C",
+     "id": "f61a6fea9bd6"
     },
     {
-     "title": "Encontraron el cuerpo del último de los cinco pescadores que desaparecieron en el Río de la Plata",
-     "link": "https://www.infobae.com/sociedad/2026/07/27/encontraron-el-cuerpo-del-ultimo-de-los-cinco-pescadores-que-desaparecieron-en-el-rio-de-la-plata/",
+     "title": "5 conductas diarias que se asocian con mayor riesgo de cáncer colorrectal",
+     "link": "https://www.infobae.com/salud/2026/07/27/cinco-habitos-diarios-que-se-asocian-con-mayor-riesgo-de-cancer-colorrectal/",
      "source": "Infobae",
-     "published": "2026-07-27T07:37:06+00:00",
-     "copete": "Se trata de Damián Giubu, quien salió a pescar el 14 de junio junto a sus amigos desde la costa de Hudson. Sus cadáveres fueron apareciendo en diferentes lugares de las costas argentinas y uruguayas",
-     "id": "2dcdb69b53d4"
+     "published": "2026-07-27T11:40:40+00:00",
+     "copete": "Especialistas consultados por EatingWell destacan que el sedentarismo, una dieta baja en fibra, el alcohol, el tabaco y retrasar la detección pueden pueden aumentar las probabilidades de desarrollar la enfermedad",
+     "id": "fce88cdf5dda"
     },
     {
-     "title": "La ANMAT prohibió todos los productos de limpieza de dos marcas y suspendió un ingrediente farmacéutico",
-     "link": "https://www.infobae.com/sociedad/2026/07/27/la-anmat-prohibio-todos-los-productos-de-limpieza-de-dos-marcas-y-suspendio-un-ingrediente-farmaceutico/",
-     "source": "Infobae",
-     "published": "2026-07-27T07:28:33+00:00",
-     "copete": "Las tres disposiciones fueron publicadas este lunes en el Boletín Oficial",
-     "id": "c63d284e906c"
+     "title": "Murió Duilio, el hermano de Nicolás Cabré: el conmovedor mensaje del actor",
+     "link": "https://www.lanacion.com.ar/espectaculos/murio-duilio-el-hermano-de-nicolas-cabre-el-conmovedor-mensaje-del-actor-nid27072026/",
+     "source": "La Nación",
+     "published": "2026-07-27T11:40:25+00:00",
+     "copete": "Tenía 48 años y mantenía un perfil bajo, alejado de los medios; las emotivas palabras del reconocido artista en sus redes",
+     "id": "36d0f1a5b6b3"
     },
     {
      "title": "Andrés Malamud analizó las tensiones con Brasil: “Milei está tratando de demostrar que la diplomacia no sirve para nada”",
      "link": "https://www.lanacion.com.ar/politica/andres-malamud-analizo-las-tensiones-con-brasil-milei-esta-tratando-de-demostrar-que-la-diplomacia-nid27072026/",
      "source": "La Nación",
-     "published": "2026-07-27T07:27:50+00:00",
-     "copete": "El analista político se refirió a los dichos del Presidente contra Lula y Alexandre de Moraes; además, habló sobre la situación económica de la Argentina y la designación de Diego Santilli como jefe de Gabinete",
+     "published": "2026-07-27T11:38:49+00:00",
+     "copete": "El analista político se refirió a los dichos del Presidente contra Lula y el juez brasileño Alexandre de Moraes; además, habló sobre la situación económica de la Argentina y la designación de Diego Santilli como jefe de Gabinete",
      "id": "7e94c10f5e0a"
     },
     {
      "title": "Javier Milei y sus medidas, en vivo: tensión diplomática con Brasil, el debate en el Congreso y la visita del FMI",
      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tension-diplomatica-con-brasil-el-debate-en-el-congreso-y-la-nid27072026/",
      "source": "La Nación",
-     "published": "2026-07-27T07:23:14+00:00",
+     "published": "2026-07-27T11:38:18+00:00",
      "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
      "id": "ac3f06af0afc"
     },
     {
-     "title": "El desgarrador mensaje de Nicolás Cabré por la muerte de su hermano: “Jamás te voy a olvidar”",
-     "link": "https://www.clarin.com/fama/desgarrador-mensaje-nicolas-cabre-muerte-hermano-jamas-voy-olvidar_0_uiVAKrxrf2.html",
-     "source": "Clarín",
-     "published": "2026-07-27T07:17:44+00:00",
-     "copete": "El actor confirmó la noticia en sus redes sociales y publicó una sentida despedida. Duilio Cabré tenía 47 años.",
-     "id": "8dc3949f642e"
-    },
-    {
-     "title": "Detuvieron a un oficial de la Prefectura Naval por amenazar de muerte a su ex pareja en Misiones",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/27/detuvieron-a-un-oficial-de-la-prefectura-naval-por-amenazar-de-muerte-a-su-ex-pareja-en-misiones/",
+     "title": "¿Cómo funciona el mercado de criptomonedas y cuál es su valor este lunes 27 de julio?",
+     "link": "https://www.infobae.com/tecno/2026/07/27/como-funciona-el-mercado-de-criptomonedas-y-cual-es-su-valor-este-lunes-27-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-27T07:05:19+00:00",
-     "copete": "Marcos Gabriel S., fue detenido este domingo tras la denuncia de su expareja, quien relató episodios de violencia y daños en su domicilio",
-     "id": "31929bbd6027"
+     "published": "2026-07-27T11:30:47+00:00",
+     "copete": "El bitcoin, una de las principales monedas digitales registró un cambio de 0,055% en las últimas 24 horas",
+     "id": "8c36e2fd1eec"
     },
     {
-     "title": "Dólar blue hoy: a cuánto cotiza este lunes 27 de julio",
-     "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-27-julio_0_GK4PYjtqYu.html",
+     "title": "El comunicado de Barracas Central luego de la acusación por violencia de género contra el futbolista Gonzalo Morales",
+     "link": "https://www.infobae.com/deportes/2026/07/27/el-comunicado-de-barracas-central-luego-de-la-acusacion-por-violencia-de-genero-contra-el-futbolista-gonzalo-morales/",
+     "source": "Infobae",
+     "published": "2026-07-27T11:26:11+00:00",
+     "copete": "El club porteño se expresó oficialmente tras conocerse el caso que involucra al delantero titular del equipo",
+     "id": "679a27240eef"
+    },
+    {
+     "title": "Del contenedor marítimo al módulo habitacional: la logística detrás de la construcción patagónica",
+     "link": "https://www.infobae.com/movant/2026/07/25/del-contenedor-maritimo-al-modulo-habitacional-la-logistica-detras-de-la-construccion-patagonica/",
+     "source": "Infobae",
+     "published": "2026-07-27T11:19:48+00:00",
+     "copete": "Marina Rojas, directora de finanzas de una empresa de construcción modular, explica cómo la logística y el abastecimiento de contenedores marítimos definen la operación de toda la industria patagónica",
+     "id": "2e9b19cbd3fb"
+    },
+    {
+     "title": "Juan, churrero: \"Me levanto a las 3.30 de la mañana y hago jornadas de más de 12 horas todos los días\"",
+     "link": "https://www.clarin.com/internacional/juan-churrero-levanto-330-manana-hago-jornadas-12-horas-dias_0_2fCRYuxJdI.html",
      "source": "Clarín",
-     "published": "2026-07-27T07:00:03+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-     "id": "9df380e274d6"
+     "published": "2026-07-27T11:06:19+00:00",
+     "copete": "El churrero defiende un oficio familiar de más de 60 años que hoy lucha contra los elevados costos y los prejuicios de mucha gente",
+     "id": "f21133c92199"
     },
     {
-     "title": "Vacaciones de infierno",
-     "link": "https://www.lanacion.com.ar/opinion/vacaciones-de-infierno-nid27072026/",
-     "source": "La Nación",
-     "published": "2026-07-27T07:00:00+00:00",
-     "id": "f7b9da923cc7"
-    },
-    {
-     "title": "Cuántos años va a tener cada jugador de la selección argentina en el próximo Mundial 2030",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/cuantos-anos-va-a-tener-cada-jugador-de-la-seleccion-argentina-en-el-proximo-mundial-2030-nid27072026/",
-     "source": "La Nación",
-     "published": "2026-07-27T07:00:00+00:00",
-     "copete": "Lionel Messi y Nicolás Otamendi llegarían con 42 años, mientras que varios campeones de Qatar superarían los 35; las edades de los futbolistas que integraron el último plantel y podrían participar de la próxima Copa del Mundo",
-     "id": "e1f9cf4c1ab5"
+     "title": "Encuentran en Oxford una traducción desconocida de Tolkien sobre un manuscrito medieval",
+     "link": "https://www.clarin.com/cultura/encuentran-oxford-traduccion-desconocida-tolkien-manuscrito-medieval_0_CLyRP9KrKx.html",
+     "source": "Clarín",
+     "published": "2026-07-27T10:59:38+00:00",
+     "copete": "Una investigación de la Universidad de Granada localizó en Oxford una traducción inédita realizada por J.R.R. Tolkien. El texto corresponde a un homiliario medieval del siglo XIII y amplía el corpus académico del autor de El señor de los…",
+     "id": "0cd59b5cb659"
     }
    ]
   },
@@ -433,6 +450,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Brasil llama a consultas a su embajador en Argentina luego de que Milei calificara a Lula de \"convicto\" y \"ladrón\" en Sao Paulo",
+     "link": "https://www.bbc.com/mundo/articles/c8enp331z4ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-27T11:14:04+00:00",
+     "copete": "El mandatario argentino hizo las declaraciones en Brasil, a donde acudió para el lanzamiento de la campaña presidencial del derechista Flavio Bolsonaro.",
+     "id": "9c1384ae5427"
+    },
+    {
+     "title": "\"Siento que jamás podré arrancarme ese olor a muerte\": el impacto de los terremotos de Venezuela en una rescatista que trabajó 18 días en La Guaira",
+     "link": "https://www.bbc.com/mundo/articles/cq89v83ngwgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-27T11:00:52+00:00",
+     "copete": "Un mes después de los sismos, Daniela Villarroel recuerda los cadáveres que sobrepasó para llegar a los sobrevivientes bajo los escombros, los gritos de las personas que pedían ayuda y el olor a muerte que todavía percibe en su ropa.",
+     "id": "b8c426df36d5"
+    },
+    {
+     "title": "Las monjas inversoras que presionan a gigantes tecnológicos y bancarios para \"proteger la creación de Dios\"",
+     "link": "https://www.bbc.com/mundo/articles/cn7ng522mdeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-27T10:39:08+00:00",
+     "copete": "La participación accionarial de este grupo de monjas en Palantir y otras empresas les permite cuestionar formalmente las prácticas comerciales de estas compañías.",
+     "id": "e006a1bdc8d8"
+    },
+    {
+     "title": "Hielo en los testículos y donación de sangre: los mitos que se venden a los hombres que intentan potenciar su esperma",
+     "link": "https://www.bbc.com/mundo/articles/cqj1k9710v7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-27T09:48:26+00:00",
+     "copete": "Ante el creciente interés por la fertilidad masculina, conocemos a hombres que utilizan \"trucos\" no probados, promovidos por influencers, para aumentar su recuento de espermatozoides.",
+     "id": "eb9fbea1d7ed"
+    },
     {
      "title": "La periferia de Burdeos, en vilo por los incendios: “Sabemos que en cualquier momento tendremos que irnos”",
      "link": "https://elpais.com/internacional/2026-07-27/la-periferia-de-burdeos-en-vilo-por-los-incendios-sabemos-que-en-cualquier-momento-tendremos-que-irnos.html",
@@ -464,48 +513,11 @@
      "published": "2026-07-27T04:00:00+00:00",
      "copete": "El 1 de agosto comienzan las conversaciones entre el chavismo y la oposición bajo la supervisión de Washington. El objetivo es abrir una ruta electoral dos años después del robo de los comicios por parte de Maduro",
      "id": "dddfe7403e62"
-    },
-    {
-     "title": "\"Todo el mundo se queda en la playa mirando los misiles en el cielo\": el contraste de Odesa, el balneario de Ucrania con turismo de lujo y bombardeos diarios",
-     "link": "https://www.bbc.com/mundo/articles/c1w1003y4rzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-27T03:48:34+00:00",
-     "copete": "En la llamada \"perla del mar Negro\" las playas y restaurantes están repletos de turistas a pesar de que todos los días allí mismo mueren personas por los bombardeos rusos.",
-     "id": "bec1831da328"
-    },
-    {
-     "title": "Regresa a Honduras Juan Orlando Hernández, expresidente indultado por Trump tras condena por narcotráfico",
-     "link": "https://www.bbc.com/mundo/articles/cwyrqpn1kzro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T22:32:24+00:00",
-     "copete": "Juan Orlando Hernández regresó a Honduras tras ser indultado por Trump, siete meses después de ser condenado a 45 años de cárcel por narcotráfico. Ahora debe enfrentar cargos locales por fraude.",
-     "id": "f550a6a71d87"
-    },
-    {
-     "title": "Policía alemana mata al sospechoso del ataque contra la Marcha del Orgullo en Berlín que dejó una mujer muerta y 29 heridos",
-     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T18:20:43+00:00",
-     "copete": "Las autoridades alemanas calificaron el suceso como un \"atentado terrorista islamista\" y desplegaron un amplio operativo policial para localizar al presunto perpetrador a quien dieron muerte horas después.",
-     "id": "dd02965d7afa"
-    },
-    {
-     "title": "Isaac del Toro, el ciclista que cuatro años después de un terrible accidente se convirtió en el primer mexicano en llegar al podio del Tour de Francia",
-     "link": "https://www.bbc.com/mundo/articles/cj63769rr79o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T18:13:46+00:00",
-     "copete": "El bajacaliforniano de 22 años rompió otro récord para el ciclismo mexicano llegando al podio de la competencia más prestigiosa del ciclismo al lado de su compañero y amigo Tadej Pogačar.",
-     "id": "c800ef697b5d"
     }
    ]
   }
  ],
  "_errors": [
-  {
-   "section": "oncologia",
-   "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
