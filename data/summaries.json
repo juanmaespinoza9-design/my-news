@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-07-27T10:15:00Z",
+  "generated_at": "2026-07-27T22:07:46Z",
   "summaries": {
-    "d92ee4877d26": {
-      "resumen": "OncLive entrevista al doctor Florez sobre la importancia del primer taller latinoamericano dedicado al cáncer de pulmón con mutación del receptor del factor de crecimiento epidérmico (EGFR, epidermal growth factor receptor) positivo. Interesa por poner el foco en la región y en la capacitación de especialistas locales.",
+    "b75cfdb42ac4": {
+      "resumen": "OncLive entrevista a un especialista sobre cómo elegir entre zongertinib y sevabertinib, dos inhibidores de tirosina quinasa (TKI) dirigidos al dominio quinasa de HER2 (receptor 2 del factor de crecimiento epidérmico humano), en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación HER2 TKD. Interesa por comparar dos opciones dirigidas emergentes en un subgrupo molecular específico.",
+      "destacado": false
+    },
+    "5f66b837054a": {
+      "resumen": "OncLive difunde un video en el que un especialista comenta los efectos neurocognitivos de los inhibidores de tirosina quinasa ALK (anaplastic lymphoma kinase) de generaciones más recientes en cáncer de pulmón de células no pequeñas (NSCLC). Interesa porque pone en discusión el balance entre eficacia y toxicidad neurológica de estas terapias dirigidas.",
+      "destacado": false
+    },
+    "aee52c6c67a5": {
+      "resumen": "The ASCO Post reporta que avatrombopag, un agonista oral del receptor de trombopoyetina, logró controlar la trombocitopenia persistente inducida por quimioterapia (caída sostenida de plaquetas) en pacientes con cáncer gastrointestinal. Interesa porque esta toxicidad obliga con frecuencia a retrasar o reducir la quimioterapia.",
+      "destacado": false,
+      "analisis": "Diseño: No se especifica en el título si se trata de un ensayo clínico, una serie de casos o un análisis retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer gastrointestinal (GI) y trombocitopenia persistente inducida por quimioterapia (CIT, chemotherapy-induced thrombocytopenia).\nIntervención: Avatrombopag, agonista oral del receptor de trombopoyetina; no se especifica comparador.\nResultados: No hay cifras de recuento plaquetario, tasa de respuesta ni de continuidad del esquema oncológico disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño ni el tamaño muestral; el título sugiere un reporte más descriptivo que un ensayo comparativo robusto.\nMensaje: Sugiere una herramienta adicional para sostener la dosis e intensidad de la quimioterapia en pacientes con toxicidad hematológica persistente, a confirmar con datos comparativos.\nNota: análisis sin acceso al abstract."
+    },
+    "0e1129d8d049": {
+      "resumen": "The ASCO Post cubre un ensayo en fase temprana que evalúa un nuevo anticuerpo biespecífico (que se une simultáneamente a la célula tumoral y a una célula del sistema inmune) en mieloma múltiple en recaída o refractario. Interesa por sumar una opción más en pacientes que ya agotaron tratamientos previos.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I o I/II); no se especifican aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario, es decir, que progresó o no respondió a tratamientos previos.\nIntervención: Un anticuerpo biespecífico novedoso, sin blanco molecular ni nombre de fármaco especificado en el título; sin comparador, como es habitual en fase temprana.\nResultados: No hay cifras de tasa de respuesta, duración de respuesta ni toxicidad disponibles sin el abstract.\nLimitaciones: Fase temprana, tamaño muestral probablemente pequeño, sin grupo control ni seguimiento a largo plazo.\nMensaje: Aporta un dato preliminar de factibilidad y seguridad de una nueva inmunoterapia biespecífica en una población fuertemente pretratada, a confirmar en fases posteriores.\nNota: análisis sin acceso al abstract."
+    },
+    "fba99d4d0a6d": {
+      "resumen": "The ASCO Post reporta un análisis que vincula el uso de inhibidores de la bomba de protones (IBP, fármacos que reducen la acidez gástrica) y de antibióticos con peores resultados del tratamiento con durvalumab (un inhibidor de punto de control inmunitario) en cáncer de pulmón de células no pequeñas (NSCLC) en estadio III irresecable. Interesa porque son fármacos de uso muy frecuente que podrían interferir con la respuesta a la inmunoterapia.",
+      "destacado": false,
+      "analisis": "Diseño: Probablemente un análisis observacional o retrospectivo (posible subanálisis de cohorte); no se especifican aleatorización, cegado, centros ni número de pacientes en el título.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio III irresecable tratados con durvalumab de consolidación tras quimiorradioterapia.\nIntervención: Exposición a inhibidores de la bomba de protones (IBP) y/o antibióticos durante el tratamiento con durvalumab, comparados contra pacientes sin dicha exposición.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global ni razones de riesgo disponibles sin el abstract.\nLimitaciones: Diseño observacional con riesgo de factores de confusión; sin abstract no se puede evaluar el tamaño muestral ni el ajuste estadístico.\nMensaje: De confirmarse, invita a revisar el uso concomitante de IBP y antibióticos —posiblemente por su efecto sobre el microbioma— en pacientes bajo inmunoterapia, sin cambiar aún la práctica de rutina.\nNota: análisis sin acceso al abstract."
+    },
+    "6183be6d0b64": {
+      "resumen": "OncLive repasa el panorama cambiante del tratamiento del melanoma y cómo identificar al candidato adecuado para cada terapia disponible. Interesa como puesta al día general del campo, aunque no reporta un estudio puntual con datos nuevos.",
       "destacado": false
     },
     "afef38202828": {
@@ -24,12 +47,47 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, del Children's Oncology Group (Grupo de Oncología Infantil), reportado como AAML1831; no se detalla en el título si es ciego ni el número exacto de centros o pacientes.\nPoblación: Niños y adolescentes con leucemia mieloide aguda (AML) de novo (recién diagnosticada, sin tratamiento previo).\nIntervención: CPX-351 (formulación liposomal de citarabina y daunorubicina) como inducción, comparado contra la quimioterapia de inducción estándar (habitualmente citarabina más una antraciclina).\nResultados: No hay cifras de remisión completa, supervivencia libre de eventos ni supervivencia global disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el seguimiento medio ni la significancia estadística de las diferencias observadas.\nMensaje: Si CPX-351 demuestra beneficio sobre la inducción estándar, podría cambiar el tratamiento inicial de la leucemia mieloide aguda pediátrica, una población con escasas innovaciones terapéuticas recientes.\nNota: análisis sin acceso al abstract."
     },
-    "a03467d12eb2": {
-      "resumen": "Time Out propone doce planes imperdibles para hacer hoy en Buenos Aires."
-    },
-    "fe1b778cada1": {
-      "resumen": "Este ítem del ASCO Post llegó al feed como un enlace genérico (\"visit ASCOPost.com\"), sin título de nota puntual, así que no hay contenido específico para resumir sin inventar datos. Si te interesa el panorama oncológico general del día, vale la pena entrar directo al sitio para ver las notas completas.",
+    "894f7dd76ae3": {
+      "resumen": "The New England Journal of Medicine publica la réplica de los autores a la correspondencia sobre el estudio de daraxonrasib, un inhibidor de RAS (una proteína clave en la señalización tumoral, frecuentemente mutada), en cáncer de páncreas avanzado con mutación en el gen RAS. Es un intercambio de correspondencia científica, sin datos clínicos nuevos.",
       "destacado": false
+    },
+    "495d17082ad5": {
+      "resumen": "The New England Journal of Medicine publica el estudio original sobre daraxonrasib, un inhibidor de RAS, en cáncer de páncreas avanzado con mutación en el gen RAS. Interesa por tratarse de una diana históricamente considerada \"no droggable\" (difícil de inhibir con fármacos) en uno de los tumores de peor pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (por el contexto de publicación en NEJM, probablemente fase I/II o fase III); no se especifican aleatorización, cegado ni número de centros o pacientes en el título.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación en el gen RAS.\nIntervención: Daraxonrasib, un inhibidor de RAS; no se especifica comparador en el título.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el tamaño muestral, el seguimiento ni la magnitud del beneficio o los eventos adversos.\nMensaje: Si los resultados son positivos, representaría un avance relevante en un tumor con opciones terapéuticas muy limitadas y una diana molecular históricamente difícil de abordar.\nNota: análisis sin acceso al abstract."
+    },
+    "63a060ce227c": {
+      "resumen": "Naydalit León crea Naylemó, una marca de joyas artesanales con las que convierte emociones en piezas de arte."
+    },
+    "a2a8953fea0c": {
+      "resumen": "La historia detrás de Dior Cigale, el bolso que reinterpreta un vestido icónico de la maison francesa."
+    },
+    "8c1f6c20d052": {
+      "resumen": "Ester Expósito combinó una falda midi de lunares con zapatos de tacón para una salida junto a Kylian Mbappé."
+    },
+    "13f04a9cdbc2": {
+      "resumen": "Vogue arma una guía para elegir el smartphone ideal a la hora de producir contenido digital exitoso."
+    },
+    "5f42f41d69f6": {
+      "resumen": "La pedicura clásica que fue furor en los 90 vuelve a imponerse como tendencia elegante este verano."
+    },
+    "0652637fe4d7": {
+      "resumen": "Cosmopolitan explica cómo combinar las faldas tendencia que Mango lanzó para el verano 2026."
+    },
+    "8409737648b6": {
+      "resumen": "Soledad Pastorutti presenta \"Late el Sur\", la canción con la que le pone voz a los Juegos Suramericanos Santa Fe 2026."
+    },
+    "865e281d0c25": {
+      "resumen": "Laura Esquivel y Brenda Asnicar vuelven a subirse juntas a un escenario, en el Teatro Gran Rex, después de 19 años."
+    },
+    "d1d3c5df1f25": {
+      "resumen": "Joaco Burgos presenta su espectáculo \"Desde Lo Profundo\" en el Teatro Coliseo."
+    },
+    "89da60f9450e": {
+      "resumen": "Brenda Asnicar y Laura Esquivel preparan un nuevo show teatral inspirado en Patito Feo."
+    },
+    "584d98960871": {
+      "resumen": "El Esquiu cuenta que Pascual Gutiérrez fue distinguido por la ANCROF y anunció una nueva función en el Teatro Ópera de Buenos Aires."
     },
     "3e9d32ca91b1": {
       "resumen": "El viaje de Coco Carreño a Nápoles fue la inspiración detrás de una de las aperturas gastronómicas más esperadas de Buenos Aires."
@@ -40,60 +98,14 @@
     "b5e0bab8142a": {
       "resumen": "Una selección de restaurantes porteños con mantas y calefacción para comer al aire libre en invierno."
     },
-    "89bc955c0b8f": {
-      "resumen": "The ASCO Post etiquetó este ítem simplemente como \"Multiple Myeloma\" (mieloma múltiple), sin título editorial propio: parece un enlace genérico a la sección temática del sitio más que a una nota puntual, así que no hay información concreta para resumir.",
-      "destacado": false
-    },
-    "1d26b2553d5a": {
-      "resumen": "Este ítem del feed de OncLive es la ficha de un evento, \"Atlanta, GA | 24 de septiembre de 2026\", probablemente la difusión de un simposio o congreso oncológico presencial, sin detalle del contenido científico ni de un estudio puntual.",
-      "destacado": false
-    },
-    "0e381b85d5f3": {
-      "resumen": "Video de The ASCO Post en el que el oncólogo Jonathan W. Goldman comenta el uso de selpercatinib adyuvante (posterior a la cirugía) en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con fusión del gen RET. Interesa por resumir la mirada de un experto sobre una terapia dirigida en un subgrupo molecular específico, aunque se trata de una opinión y no de un estudio nuevo.",
-      "destacado": false
-    },
-    "e67a60969ea6": {
-      "resumen": "Vogue México repasa cómo la actriz Ester Expósito combina sandalias de estilo francés con jeans cuffed (doblados en el ruedo), una de las tendencias del verano 2026."
-    },
-    "00adb1d26004": {
-      "resumen": "Murió el actor Claudio Fernández, jurado de los Premios Hugo, que dejó una marca importante en el teatro argentino."
-    },
-    "47c602a23dce": {
-      "resumen": "El Colo Barco fue a ver la obra de Guillermo Francella en el teatro y le entregó un regalo especial."
+    "b4dc26d97ea4": {
+      "resumen": "Tiempo Argentino propone actividades para el fin de semana de vacaciones de invierno en la Ciudad de Buenos Aires."
     },
     "de68b38c0123": {
       "resumen": "Una guía con más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, entre recitales, teatro, cine, muestras y actividades gratuitas."
     },
-    "440223771138": {
-      "resumen": "OncLive presenta \"The OncFive\", su selección semanal de los artículos más relevantes en oncología correspondiente a la semana del 19 de julio. Sirve como panorama rápido de la actualidad oncológica internacional, sin ser en sí mismo un estudio.",
-      "destacado": false
-    },
-    "ad07703f6ddc": {
-      "resumen": "Telva anticipa las tendencias de moda para septiembre: de los jeans más buscados a un nuevo estilo minimalista en ascenso."
-    },
-    "f15eb3e80593": {
-      "resumen": "Infobae analiza por qué el estilo ecléctico y auténtico de la actriz Ester Expósito la convirtió en referente del boho chic."
-    },
-    "a9f70155c48f": {
-      "resumen": "FashionUnited explora cómo la industria de la moda busca un nuevo equilibrio entre la creatividad humana y las herramientas digitales."
-    },
-    "1d50f43f1c31": {
-      "resumen": "HOLA repasa el regreso de los pantalones a rayas que popularizó Diana de Gales, ahora disponibles en Zara para este verano."
-    },
-    "512dc9b80978": {
-      "resumen": "Vogue México repasa qué pasó en el sexto capítulo de la tercera temporada de La Casa del Dragón y explica su final."
-    },
-    "68ffc33c9056": {
-      "resumen": "Vogue México muestra cómo la modelo Juana Burga combinó las piezas más deseadas de la temporada en el desfile de Vélez junto a J Balvin en Medellín."
-    },
-    "3c213da056c8": {
-      "resumen": "TN informa sobre la muerte, a los 53 años, de una figura reconocida del teatro argentino."
-    },
-    "584d98960871": {
-      "resumen": "El Esquiu cuenta que Pascual Gutiérrez fue distinguido por la ANCROF y anunció una nueva función en el Teatro Ópera de Buenos Aires."
-    },
-    "b4dc26d97ea4": {
-      "resumen": "Tiempo Argentino propone actividades para el fin de semana de vacaciones de invierno en la Ciudad de Buenos Aires."
+    "a03467d12eb2": {
+      "resumen": "Time Out propone doce planes imperdibles para hacer hoy en Buenos Aires."
     }
   }
 }
