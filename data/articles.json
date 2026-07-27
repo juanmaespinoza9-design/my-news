@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-27T21:32:46.142004+00:00",
+ "generated_at": "2026-07-27T23:30:47.084693+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Exploring the Next Steps for Belzutifan in RCC",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR3NuS2VuR0tCTXg3ZDA5Q08zZnNaOVVtMVlnS04wT2tTZVlqakd3LXJfVHdVWUhhdVlIZmlubzFhXzN2d3RwR1BrOG5HSkdsVi12by1GNXU4VnVZZGlmcE1VaHNxSUI3WUQ1M2lKNkFMeW95WVl5SUJzejRHNHEzOFhhcw?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-27T21:34:36+00:00",
+     "id": "25aef13ad1f1"
+    },
     {
      "title": "Dr Le on Choosing Between Zongertinib and Sevabertinib in HER2 TKD–Mutant NSCLC",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTc4dERqbzJnQkUwaUZ0LXBPR2REUkEyNWRNd0pMN3dqVm93WERNOTY2STB1RmRyOERQR3JLMWVVUzBMeEUwZjU0RDQ4b1FwaE4wXzdMOUxTQWxMZHQtQWpfNFNnVmF4NURxR2c1LXBsLThaQXFkelotcURFSERFQUk2Slh4THQ0azdoU1pKeEtRa1pVclQzRjNuWnh6NUxPT3k2TlZEZ3Qtdnd1?oc=5",
@@ -14,11 +21,11 @@
      "id": "b75cfdb42ac4"
     },
     {
-     "title": "Dr Gerber on the Neurocognitive Tradeoffs of Later-Generation ALK TKIs in NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFRXWExsa1Rodk9vYWpqNjMwMTk5NS1uNDlCTVpHY1hsbnFOWVU4Q2ZyY0EtRlo5RUNlMlA0aHotZk1uV3BtdTl6VFZBMDkwMmRTTzZwYjRnQkdwMW4zQ0lBalFCcGJCLVFwM2IzbDQ3SWNBQXkzcnE0cno0WW4tdVRMYnhac2tRZmFGWmUxVExwZUd1dGlZVUtQYkhobk54UURka1JHUUVCV1RI?oc=5",
+     "title": "Guideline Integration and the TOMR Paradigm",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12dEJoMnlHZWtHd3JqV3A1bFphSEp1RVV0UUlfVFZIX1FSdVpITjQ1VUZSU3BaWEtDUm1ZbUNFUlluS3N1bGw1dS03cDRkcW5KQW9oSTVnSlRUU3VYT2tjRDBMdndSaVVvaGR5MG5YbS1rOEpralplcVA3aHg?oc=5",
      "source": "OncLive",
-     "published": "2026-07-27T19:54:16+00:00",
-     "id": "5f66b837054a"
+     "published": "2026-07-27T20:01:31+00:00",
+     "id": "e6e0e6dd6e07"
     },
     {
      "title": "Avatrombopag Manages Persistent Chemotherapy-Induced Thrombocytopenia in GI Cancer",
@@ -42,43 +49,36 @@
      "id": "fba99d4d0a6d"
     },
     {
-     "title": "The Evolving Melanoma Landscape and Identifying the Right Candidate",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWpaaUtUWkE2TkZ1Z05iU3lOSXRMdTJCdllRWDlHRHZ4ZlR0SVk2RFY4N3hnZVRmd3RlTXlxNlplUE1JRWhFazhLUzhwRGFRQXk1T09fUlhSTjE2RnNPVzRmVjdZdldFaFh2aU9EQWRGeTJMemxzN3BLQ1ZoajJ5OTV6V1ZtUkxmVFBlVlllckswVy1lSWZaUzVRNjc?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-27T14:38:36+00:00",
-     "id": "6183be6d0b64"
+     "title": "Anti-TIGIT in PD-L1-High Advanced Non-Small Cell Lung Cancer: Insights From SKYSCRAPER-01 and the Path Forward",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507975/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-27T00:00:00+00:00",
+     "copete": "Lu C et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "a82d9d905aee"
     },
     {
-     "title": "Izalontamab Brengitecan (Iza-Bren), a First-in-Class EGFR-HER3 Bispecific Antibody-Drug Conjugate in Extensive-Stage Small Cell Lung Cancer: Results From a Phase Ib Study",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42497381/",
+     "title": "Five-Year Outcomes of Short-Term Radiotherapy Plus Chemotherapy Versus Long-Term Chemoradiotherapy for Locally Advanced Rectal Cancer: Updated Results of the STELLAR Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507974/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-24T00:00:00+00:00",
-     "copete": "Zhao Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "afef38202828"
+     "published": "2026-07-27T00:00:00+00:00",
+     "copete": "Tang Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "b6a7955d0ff8"
     },
     {
-     "title": "Reply to: \"Is Dual-Checkpoint Blockade Beneficial Beyond Prolonging Chemoradiotherapy-to-Surgery Interval in Rectal Cancer?\" and \"Dual Immunotherapy in the Neoadjuvant Interval for Locally Advanced Rectal Cancer: A New Hope?\"",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42497379/",
+     "title": "Erratum: High-Dose Methotrexate as CNS Prophylaxis in Ultra High-Risk Large B-Cell Lymphoma: An International Multicenter Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507971/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-24T00:00:00+00:00",
-     "copete": "Tang W et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "e3d9d4ef818c"
+     "published": "2026-07-27T00:00:00+00:00",
+     "copete": "Wilson MR et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "849999e8c89a"
     },
     {
-     "title": "Moderate Hypofractionation for Regional Node Irradiation Is Safe and Effective",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42497372/",
+     "title": "Time-Varying Effects of Copy Number Alteration Clustering: Methodologic Concerns in Survival Analysis of Relapsed/Refractory Germ Cell Tumors",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507970/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-07-24T00:00:00+00:00",
-     "copete": "Donovan E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "c3bd56a433e7"
-    },
-    {
-     "title": "AAML1831: A Phase III Trial Comparing Standard Induction Therapy With CPX-351 in De Novo Pediatric AML: A Report From the Children's Oncology Group",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42497367/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-07-24T00:00:00+00:00",
-     "copete": "Pollard JA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "c268cbb99512"
+     "published": "2026-07-27T00:00:00+00:00",
+     "copete": "Zou Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "41a78484e0f1"
     },
     {
      "title": "Daraxonrasib in Advanced RAS-Mutated Pancreatic Cancer. Reply",
@@ -103,6 +103,35 @@
    "title": "Moda",
    "mode": "titulares",
    "items": [
+    {
+     "title": "No tengo miedo: la serie mexicana se solo 6 capítulos que conquista el Top 10 en Netflix",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84R0s5VEc3ZWxUV2hjR0IxdGlfRVl5NDJMdVVraTFTYzFscWZwR1JYWThiX0ZIQW5Ud3dDRlVqX3pYWWJjV0k3QkRKdmYtYzNQUnltRnY5ZWNqdWJmamJ5aEJHMF9MU3pXTEE?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-27T23:10:23+00:00",
+     "id": "c5bd9d38ca33"
+    },
+    {
+     "title": "Cómo llevar estampados florales este verano 2026 sin que tu 'look' se vea predecible",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOE5idTZNRlltOHY2dmtsT1RvSTdYRVRuaHBOd3EwSklOR0hzVTZhNzlfX3lCNFBhM0dPanh1NDhTSFRlNjZJR2N2UGRqR1lsaWV0aWR4eXotVXFqWFhETmNKVUJfcVJfX3FxN0JoLXlJcER5LXV6b2VQaDJaZE4tSWFCZE9hdEd5enFobGxyTVYtWkE?oc=5",
+     "source": "HOLA",
+     "published": "2026-07-27T22:38:00+00:00",
+     "id": "113c7c4dfcd8"
+    },
+    {
+     "title": "8 Best Toner Pads That Go Beyond Exfoliation",
+     "link": "https://www.vogue.com/article/best-toner-pads",
+     "source": "Vogue",
+     "published": "2026-07-27T22:27:00+00:00",
+     "copete": "The best toner pads don’t just exfoliate skin; depending on the ingredients, they can also hydrate, soothe, and brighten skin. Shop top picks loved by editors and dermatologists.",
+     "id": "d8b4ff46b396"
+    },
+    {
+     "title": "Mocasines italianos color café: los más elegantes para lucir con jeans acampanados en verano 2026",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVZpZUFmMDcxQ2FwYmlSTHJlR2J1b0RxQmRlUHRxWXFLNlI0bEdBLTNBelJDb2pVODBHRzJqcFFqZUgtdktkMzk2dE5BU3NDbUliVFZZR0t6OGVVQnJjaUFYRlNWREhWVDBNSWdmQU1MOXk3RnZMbFNTRFZ0Q3ZtTll2VXAyVjh2M2R0N3ZYNmdad0NWVXhrb0JR?oc=5",
+     "source": "Vogue México",
+     "published": "2026-07-27T22:07:02+00:00",
+     "id": "2f87b0e328f7"
+    },
     {
      "title": "An Intimate Italian Dinner at Alimentari Flaneur’s New Culinary Studio in Harlem",
      "link": "https://www.vogue.com/article/alimentari-flaneur-harlem-studio-italian-dinner-party",
@@ -135,14 +164,6 @@
      "id": "19bad6069a78"
     },
     {
-     "title": "This Couple Exchanged Vows in a 16th-Century Greek Castle Overlooking the Ionian Sea",
-     "link": "https://www.vogue.com/slideshow/amalia-jake-medwell-wedding",
-     "source": "Vogue",
-     "published": "2026-07-27T20:25:19+00:00",
-     "copete": "Amalia Kostopoulou and Jake Medwell married in the town of Pylos in the Peloponnese, with the bride wearing Elie Saab to walk down the aisle—followed by an after-party that continued until 8 a.m.",
-     "id": "12fb226fd399"
-    },
-    {
      "title": "Así nació Dior Cigale, el bolso que revive un vestido legendario",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGI5Nk9fWnJqdzFabmZKTWtTUXhsTjdtOGwyRlZjdHppTDVPdnhsU3lnTlQ4OGtZYW1BTHJwQ25nYUMyRHRFYkxOZVhSOE5BV3hrZ0FYUWtjZjhSb0VQV1pEVGtXNzNDS2gwNjBOSlNFekV3U29BUnNRdEt0T19xbHc1dUROTGNQTnc0WEQzTFQ5d0xnb2ZXXw?oc=5",
      "source": "Vogue México",
@@ -150,32 +171,11 @@
      "id": "a2a8953fea0c"
     },
     {
-     "title": "Ester Expósito luce elegante falda midi de lunares y zapatos de tacón en una cita con Mbappé",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc2FZNGxGeHlVdUpYelE1c3FLU2J5ZWxVNWtTODRVVTFSM3hIXzh5TkhkWnh5N2hkalVSa2tvQzRoOHNudFY4ejZjeWgxaG93c3VKUTNobGtuQ1V5TTdFdE1XbXVnU0gzR1M2VERYNFlrTEc5OFRiem9VYWNsdUc5V05tQVdJVzhGUVlVaXJuazZrekszVWhvR1B5azRVZVFEdUtzZFFhcy1iV2ViUDNaYUJfOHNQTVR1bGRvRHJjOUZxanR4?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-27T19:44:54+00:00",
-     "id": "8c1f6c20d052"
-    },
-    {
-     "title": "La guía Vogue para elegir un smartphone que te permita crear contenido digital exitoso",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNW1ZajJ2ZTh1Q2Rpdk51bXl1UlgwdXpTV09lT3pqVWxHc0hUQjF3MGcxWm1GbnFUYmwwRENIREU0QURKZUNuNXBUOU1VZi1qVkNOaW5WY0M2YVpCQ0xwQ0FWZU1yZzJsQTU2cFBOLXB3X3dOZl9pY25yaVdPNmRieUp1MDl1cDNwR2sxdg?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-27T19:24:24+00:00",
-     "id": "13f04a9cdbc2"
-    },
-    {
      "title": "Fue furor en los 90 y vuelve a ser tendencia este verano: la pedicura clásica para lucir elegante",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTG8wOThqRmtDRFpNeUw4dGJCdWRmM3FqMEFMaTZ0bThmUXNPRjh6WHFDb2dsVTRSYy1tRVpPaDktLWdHMVJFbjdpelNUdmlqSHprOGtQbFZrQzlKQ2RkaGdPdTctY01tb2JDbEhUNks4ajVLaUU3Q1lCbzBlQmZaR0NsZGRGSjgyendZN3ZuM05sdXFMdUR5Qk1WTEtXVHNITUdXMFhrcUZMU0JPZXNnMXNCdjZWYXFSWkJjSy1CN2JvUdIB1gFBVV95cUxQM1AySTN0VUVSMDg3VHZVSDhKaVo0ZllLRG14cTRxd2FsSEJwdlMxNy1oenJfSVpueXhOSnVjWVBjZjAzNHBxcU94cDlKVjRiZjVCOEswNTZTdHFFN0wxOE1oaS03cTVRM0ZDT2UyRWJFaUtna3pNckZENVgxcTBxS1ppLWxRZXlIZVlvNGlxVm1hUUdXT2d5dmVmQnpPRmU3Zlc2VHZHVWtVOWIwZkNtbG9BN0owdEdMSXlRZWg1V3AxRWx4a3QyYXhHRVcwM3E1QzM3eUFn?oc=5",
      "source": "El Destape",
      "published": "2026-07-27T16:41:07+00:00",
      "id": "5f42f41d69f6"
-    },
-    {
-     "title": "Guía de moda: cómo llevar las faldas de tendencia que está lanzando Mango en el verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaktvQ2dsa2RSeWdYX2hTWkQtOXM3M21iQUVydVhnNGNoSGxpSjVmRE9zYmJiMVU3UThZWHZGcDFmbVJOdmJ4MDZNQ0RmNXd5aVB3RDRUU2RnM0ZQR1FBY005WjM1bE9aZ2JpNlhnM3l3RTFUcEMzMWM1LWxNYVhfZWllamF1MFVNOUNONGxJSGtvNTgyU0szOW9aSQ?oc=5",
-     "source": "Cosmopolitan",
-     "published": "2026-07-27T16:02:54+00:00",
-     "id": "0652637fe4d7"
     }
    ]
   },
@@ -184,6 +184,46 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Video: Wanda Nara compartió el escalofriante momento en que los ladrones entraron a su casa en Italia",
+     "link": "https://www.lanacion.com.ar/espectaculos/video-wanda-nara-compartio-el-escalofriante-momento-en-que-los-ladrones-entraron-a-su-casa-en-italia-nid27072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-27T23:28:00+00:00",
+     "copete": "Los hijos de la empresaria y conductora argentina estaban dentro mientras miraban la final del Mundial entre Argentina y España",
+     "id": "609a1e95906a"
+    },
+    {
+     "title": "Miranda! celebra sus 25 años de vida con una foto del recuerdo de su primer show: “No hubieran sido posibles sin ustedes”",
+     "link": "https://www.infobae.com/teleshow/2026/07/27/miranda-celebra-sus-25-anos-de-vida-con-una-foto-del-recuerdo-de-su-primer-show-no-hubieran-sido-posibles-sin-ustedes/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-27T23:05:23+00:00",
+     "copete": "El grupo compartió un posteo muy especial para festejar su aniversario con una imagen de Juliana Gattas, Ale Sergi y el exintegrante, Lolo Fuentes",
+     "id": "ed26c67a52c9"
+    },
+    {
+     "title": "Edu Aguirre cruzó a Edul con fotos de Cristiano Ronaldo y Georgina Rodríguez con el cinturón: “La única argentina feliz”",
+     "link": "https://www.lanacion.com.ar/espectaculos/edu-aguirre-cruzo-a-edul-con-fotos-de-cristiano-ronaldo-y-georgina-rodriguez-con-el-cinturon-la-nid27072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-27T22:43:59+00:00",
+     "copete": "El periodista español siguió la pelea en las redes tras vencer al argentino en La Velada del Año VI",
+     "id": "6d69cf786388"
+    },
+    {
+     "title": "Brenda Asnicar y Laura Esquivel hablaron sobre Juan Darthés en las giras de Patito Feo: “Estaba al acecho”",
+     "link": "https://www.infobae.com/teleshow/2026/07/27/brenda-asnicar-y-laura-esquivel-hablaron-sobre-juan-darthes-en-las-giras-de-patito-feo-estaba-al-acecho/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-27T22:35:30+00:00",
+     "copete": "Las actrices visitaron Sería Increíble y hablaron de la denuncia de Thelma Fardin que terminó en la condena al actor en Brasil por abuso sexual",
+     "id": "45e8ef5d7446"
+    },
+    {
+     "title": "El llamativo gesto de Zaira Nara con Wanda Nara que encendió los rumores de una pelea",
+     "link": "https://www.infobae.com/teleshow/2026/07/27/el-llamativo-gesto-de-zaira-nara-con-wanda-nara-que-encendio-los-rumores-de-una-pelea/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-27T21:36:08+00:00",
+     "copete": "Un movimiento en redes de la modelo apareció después de una historia con corazón roto que publicó la empresaria",
+     "id": "8f354ecb198e"
+    },
     {
      "title": "Susana Giménez sobre Verónica Castro: “No está bien de salud, le duele todo. No te olvides que el elefante ese la tiró a la m...”",
      "link": "https://www.infobae.com/teleshow/2026/07/27/susana-gimenez-sobre-veronica-castro-no-esta-bien-de-salud-le-duele-todo-no-te-olvides-que-el-elefante-ese-la-tiro-a-la-m/",
@@ -209,14 +249,6 @@
      "id": "2daea3f84024"
     },
     {
-     "title": "La llamativa ausencia de Eric Roberts en la boda de su hija Emma: “Que ella celebre como quiera y con quien quiera”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-llamativa-ausencia-de-eric-roberts-en-la-boda-de-su-hija-emma-que-ella-celebre-como-quiera-y-con-nid27072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-27T19:29:38+00:00",
-     "copete": "Mientras Julia Roberts acompañó a su sobrina en la íntima ceremonia celebrada en Idaho, el padre de la actriz no fue de la partida; los motivos y la mala relación familiar que data de hace años",
-     "id": "14ee522b9adf"
-    },
-    {
      "title": "Mauro Icardi escala su enfrentamiento con Wanda Nara con un posteo provocador",
      "link": "https://www.infobae.com/teleshow/2026/07/27/mauro-icardi-escala-su-enfrentamiento-con-wanda-nara-con-un-posteo-provocador/",
      "source": "Teleshow (Infobae)",
@@ -231,37 +263,6 @@
      "published": "2026-07-27T18:03:08+00:00",
      "copete": "La discusión entre ambos giró en torno a la influencia de otros jugadores, la legitimidad de las amistades y la independencia de cada estrategia",
      "id": "0b682411ace7"
-    },
-    {
-     "title": "Lali Esposito opinó sobre el polémico gesto de Rosalía antes de su visita a la Argentina: “Yo prefiero creerle”",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/lali-esposito-opino-sobre-el-polemico-gesto-de-rosalia-antes-de-su-visita-a-la-argentina-yo-prefiero-creerle/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T17:55:37+00:00",
-     "copete": "Recién llegada de viaje, la artista habló sobre el detalle de la cantante argentina que enfureció a sus fanáticos en la previa a sus shows en el país y también del tema de la cancelación",
-     "id": "d552b5af5fae"
-    },
-    {
-     "title": "Sylvester Stallone sobre el entrenamiento para Rocky III: “Mi memoria estaba completamente destruida, tenía efectos físicos debilitantes”",
-     "link": "https://www.lanacion.com.ar/espectaculos/sylvester-stallone-sobre-el-entrenamiento-para-rocky-iii-mi-memoria-estaba-completamente-destruida-nid27072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-27T17:36:53+00:00",
-     "copete": "La celebridad estadounidense de 80 años analizó cómo fue su preparación para la famosa película; llegó a tomar 25 tazas de café por día",
-     "id": "e1495d2a0a34"
-    },
-    {
-     "title": "Soledad Pastorutti le pone voz a los Juegos Suramericanos Santa Fe 2026 con “Late el Sur”",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/soledad-pastorutti-le-pone-voz-a-los-juegos-suramericanos-santa-fe-2026-con-late-el-sur/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T17:18:30+00:00",
-     "id": "8409737648b6"
-    },
-    {
-     "title": "El sentido mensaje de Vicky Xipolitakis junto a su hijo Salvador por el Día de los Abuelos: “Son fundamentales”",
-     "link": "https://www.infobae.com/teleshow/2026/07/27/el-sentido-mensaje-de-vicky-xipolitakis-junto-a-su-hijo-salvador-por-el-dia-de-los-abuelos-son-fundamentales/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-27T17:08:21+00:00",
-     "copete": "En medio de la fecha religiosa que conmemoraba a Santa Ana y San Joaquín, la exvedette compartió una serie de postales junto a sus propios padres y el pequeño frente a la cámara",
-     "id": "d73fc4c2baaa"
     },
     {
      "title": "La vida de Julie Andrews contada en primera persona, sin soltarles las manos a sus personajes de Mary Poppins y La novicia rebelde",
@@ -364,84 +365,84 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Video: Wanda Nara compartió el escalofriante momento en que los ladrones entraron a su casa en Italia",
+     "link": "https://www.lanacion.com.ar/espectaculos/video-wanda-nara-compartio-el-escalofriante-momento-en-que-los-ladrones-entraron-a-su-casa-en-italia-nid27072026/",
+     "source": "La Nación",
+     "published": "2026-07-27T23:28:00+00:00",
+     "copete": "Los hijos de la empresaria y conductora argentina estaban dentro mientras miraban la final del Mundial entre Argentina y España",
+     "id": "609a1e95906a"
+    },
+    {
      "title": "Javier Milei contra Lula, en vivo: el minuto a minuto de la crisis diplomática entre la Argentina y Brasil",
      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tension-diplomatica-con-brasil-el-debate-en-el-congreso-y-la-nid27072026/",
      "source": "La Nación",
-     "published": "2026-07-27T21:28:25+00:00",
+     "published": "2026-07-27T23:26:25+00:00",
      "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
      "id": "ac3f06af0afc"
     },
     {
-     "title": "Laura Fernández rechaza acusaciones de autoritarismo y asegura que “la democracia de Costa Rica está más viva que nunca”",
-     "link": "https://www.infobae.com/costa-rica/2026/07/27/laura-fernandez-rechaza-acusaciones-de-autoritarismo-y-asegura-que-la-democracia-de-costa-rica-esta-mas-viva-que-nunca/",
+     "title": "Barracas Central separó del plantel a Gonzalo Morales tras ser denunciado por violencia de género: el comunicado del club",
+     "link": "https://www.infobae.com/deportes/2026/07/27/barracas-central-separo-del-plantel-a-gonzalo-morales-tras-ser-denunciado-por-violencia-de-genero-el-comunicado-del-club/",
      "source": "Infobae",
-     "published": "2026-07-27T21:26:20+00:00",
-     "copete": "La presidenta respondió a cuestionamientos sobre declaraciones de Rodrigo Chaves, defendió la institucionalidad y volvió a arremeter contra sectores de oposición, medios de comunicación y el Frente Amplio.",
-     "id": "8fa3b1a1532c"
+     "published": "2026-07-27T23:24:44+00:00",
+     "copete": "Ante la formalización de la acusación en la Justicia, el Guapo decidió apartar al jugador, que venía de anotarle un gol a River Plate",
+     "id": "a7e7a67dbb05"
     },
     {
-     "title": "Nueve cóndores andinos aparecieron en la costa del Nahuel Huapi: la principal hipótesis de los especialistas",
-     "link": "https://www.lanacion.com.ar/sociedad/condores-nahuel-huapi-nid27072026/",
+     "title": "Barracas Central apartó a Gonzalo Morales tras la denuncia de su expareja por violencia de género",
+     "link": "https://www.lanacion.com.ar/deportes/barracas-central-aparto-a-gonzalo-morales-tras-la-denuncia-de-su-expareja-por-violencia-de-genero-nid27072026/",
      "source": "La Nación",
-     "published": "2026-07-27T21:25:29+00:00",
-     "copete": "El aviso inicial fue dado ayer por vecinos de Bariloche; los especialistas que siguen el caso barajan diversas explicaciones para este comportamiento",
-     "id": "2f3a32473a17"
+     "published": "2026-07-27T23:23:26+00:00",
+     "copete": "La institución adoptó una medida preventiva tras las acusaciones públicas realizadas por Karen, quien lo señaló por agresiones físicas, psicológicas y verbales",
+     "id": "0ad621f3aa9c"
     },
     {
-     "title": "El duro editorial de Sebastián Vignolo sobre River y Boca: “Tienen todo, traen a quien quieren pero todavía no se dieron cuenta”",
-     "link": "https://www.lanacion.com.ar/deportes/el-duro-editorial-de-sebastian-vignolo-sobre-river-y-boca-tienen-todo-traen-a-quien-quieren-pero-nid27072026/",
+     "title": "Caballos deportivos: un sistema de trazabilidad de medicamentos veterinarios abrió un conflicto con la industria equina",
+     "link": "https://www.lanacion.com.ar/economia/campo/caballos-deportivos-un-sistema-de-trazabilidad-de-medicamentos-veterinarios-abrio-un-conflicto-con-nid27072026/",
      "source": "La Nación",
-     "published": "2026-07-27T21:25:27+00:00",
-     "copete": "El periodista analizó el desempeño de los dos clubes en el inicio del Torneo Clausura y lanzó una dura crítica a cada plantel",
-     "id": "61d537366d3f"
+     "published": "2026-07-27T23:19:02+00:00",
+     "copete": "Trece entidades de criadores, veterinarios, laboratorios y organizaciones de la actividad pidieron al Senasa excluir a los caballos deportivos de un régimen pensado para la producción de carne",
+     "id": "40fe9cdeb6cf"
     },
     {
-     "title": "Grandes felinos recorren las montañas panameñas, bajo algún grado de amenaza",
-     "link": "https://www.infobae.com/panama/2026/07/27/grandes-felinos-recorren-las-montanas-panamenas-bajo-algun-grado-de-amenaza/",
+     "title": "Clima hoy en Uruguay: temperaturas para Montevideo este 28 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/27/clima-hoy-en-uruguay-temperaturas-para-montevideo-este-28-de-julio/",
      "source": "Infobae",
-     "published": "2026-07-27T21:24:32+00:00",
-     "copete": "Principal peligro radica en la pérdida y fragmentación de sus hábitats, resultado de actividades como la expansión agrícola, la ganadería extensiva y la urbanización",
-     "id": "9d8070971fd0"
+     "published": "2026-07-27T23:17:44+00:00",
+     "copete": "Su ubicación hace que Uruguay sea un país con un clima templado húmedo, con veranos cálidos y frescos inviernos",
+     "id": "98121ec771fd"
     },
     {
-     "title": "La percepción turística global de Guatemala sube 3.7% en el primer semestre de 2026",
-     "link": "https://www.infobae.com/guatemala/2026/07/27/la-percepcion-turistica-global-de-guatemala-sube-37-en-el-primer-semestre-de-2026/",
+     "title": "¿Cuál es la temperatura promedio en La Habana?",
+     "link": "https://www.infobae.com/noticias/2026/07/27/cual-es-la-temperatura-promedio-en-la-habana/",
      "source": "Infobae",
-     "published": "2026-07-27T21:23:20+00:00",
-     "copete": "El Inguat reportó 14.944 llegadas adicionales frente al mismo período de 2025, en un semestre que coincidió con mayor interés digital por el destino, más boletos emitidos y alza del gasto",
-     "id": "353e04f339ab"
+     "published": "2026-07-27T23:17:24+00:00",
+     "copete": "La temperatura más alta registrada en Cuba fue la del 11 de abril de 2020, cuando el termómetro subió a 39.3 grados en el poblado de Veguitas en Granma",
+     "id": "b65857dd0dea"
     },
     {
-     "title": "ATE anunció un paro nacional con movilización al Ministerio de Economía para el 3 de agosto",
-     "link": "https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/",
+     "title": "Pronóstico del clima en Puerto Plata este martes: temperatura, lluvias y viento",
+     "link": "https://www.infobae.com/noticias/2026/07/27/pronostico-del-clima-en-puerto-plata-este-martes-temperatura-lluvias-y-viento/",
      "source": "Infobae",
-     "published": "2026-07-27T21:22:08+00:00",
-     "copete": "El sindicato definió la medida de fuerza para el próximo 3 de agosto",
-     "id": "5d2be6216564"
+     "published": "2026-07-27T23:17:03+00:00",
+     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+     "id": "369fc4e17e51"
     },
     {
-     "title": "Anna Kelly, portavoz de la Casa Blanca: “El presidente seguirá aplicando nuestras leyes de inmigración y deportando”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/anna-kelly-portavoz-de-la-casa-blanca-el-presidente-seguira-aplicando-nuestras-leyes-de-inmigracion-nid27072026/",
-     "source": "La Nación",
-     "published": "2026-07-27T21:22:00+00:00",
-     "copete": "Conoce qué dijo Anna Kelly sobre el acceso de las granjas lecheras al programa H-2A y la continuidad de las deportaciones de Trump.",
-     "id": "72fb396c6de4"
-    },
-    {
-     "title": "ATE convocó a un paro nacional con movilización para el lunes 3 de agosto, luego de las vacaciones de invierno",
-     "link": "https://www.clarin.com/politica/ate-convoco-paro-nacional-movilizacion-lunes-3-agosto-luego-vacaciones-invierno_0_V18oSV8zB7.html",
+     "title": "Siguen las malas noticias para Boca: Sevilla y Parma se metieron en la pelea para comprar al delantero apuntado por Riquelme y Arruabarrena",
+     "link": "https://www.clarin.com/deportes/siguen-malas-noticias-boca-sevilla-parma-metieron-pelea-comprar-delantero-apuntado-riquelme-arruabarrena_0_XGT3ww6zjK.html",
      "source": "Clarín",
-     "published": "2026-07-27T20:24:34+00:00",
-     "copete": "Rodolfo Aguiar, secretario general del gremio, reclamó aumentos salariales, apuntó contra el Gobierno y confirmó que habrá una marcha al Ministerio de Economía. El paro coincidirá con la reanudación de las clases en la Ciudad y provincia…",
-     "id": "69b978618844"
+     "published": "2026-07-27T20:52:35+00:00",
+     "copete": "Ambos clubes europeos se metieron en la disputa para llevarse al centrodelantero de Tigre, David Romero. La dirigencia del Matador pide ocho millones de dólares por el pase de jugador. Boca ofreció dinero y el pase de dos futbolistas como…",
+     "id": "39ae5ddd9feb"
     },
     {
-     "title": "Te envidio Lula, y te abrazo",
-     "link": "https://www.clarin.com/politica/envidio-lula-abrazo_0_lW1fV9INWC.html",
+     "title": "Tiroteo en Seattle: un menor de 15 años detenido como sospechoso del ataque que dejó tres muertos",
+     "link": "https://www.clarin.com/mundo/tiroteo-seattle-menor-15-anos-detenido-sospechoso-ataque-dejo-muertos_0_WQRzd3ID40.html",
      "source": "Clarín",
-     "published": "2026-07-27T20:22:56+00:00",
-     "copete": "El presidente de Brasil es un virtuoso político pragmático que no se aparta de ciertos valores, ciertos objetivos, pero que no es obtuso, rígido, sino que los defiende con flexibilidad, negociando.",
-     "id": "cf9bf9d1ba85"
+     "published": "2026-07-27T20:44:24+00:00",
+     "copete": "La alcaldesa de la ciudad informó que la Policía metropolitana sigue buscando a un segundo sospechoso relacionado con este incidente, que tuvo lugar durante un popular festival de comida. Otras cuatro resultaron heridas, entre ellas un…",
+     "id": "4f5c90550299"
     }
    ]
   },
@@ -450,6 +451,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Cómo la oposición a Israel y el costo de la vida están impulsando a los candidatos más de izquierda del Partido Demócrata en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/c89npl1yjl4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-27T23:02:54+00:00",
+     "copete": "Pese a sus recientes éxitos electorales, los demócratas se enfrentan en Míchigan a un desafío mayor: volver a conquistar el voto de la clase trabajadora.",
+     "id": "7145d61ef6c3"
+    },
     {
      "title": "Las mujeres víctimas de violencia doméstica que mataron a sus parejas: \"Dijo que nos iba a matar a mí y a mi hijo y después se iba a suicidar\"",
      "link": "https://www.bbc.com/mundo/articles/czdmyp45ng7o?at_medium=RSS&at_campaign=rss",
@@ -505,14 +514,6 @@
      "published": "2026-07-27T16:23:26+00:00",
      "copete": "Según la presentadora meteorológica principal de la BBC, Helen Willetts, este fenómeno es, en esencia, una tormenta originada por un incendio forestal de gran intensidad. Te contamos más detalles.",
      "id": "3b2ed83302cc"
-    },
-    {
-     "title": "Cruzamos el Atlántico en dos autos flotantes para cumplir el sueño de mi padre moribundo",
-     "link": "https://www.bbc.com/mundo/articles/cgljx7jd1p0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-27T14:36:52+00:00",
-     "copete": "Dos jóvenes italianos intentaron cruzar el Atlántico en coches flotantes por amor a un padre moribundo ¡y lo lograron!",
-     "id": "3d7bb462d7db"
     }
    ]
   }
