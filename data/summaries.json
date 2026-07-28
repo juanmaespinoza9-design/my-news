@@ -1,33 +1,6 @@
 {
-  "generated_at": "2026-07-28T10:09:05Z",
+  "generated_at": "2026-07-28T22:06:45Z",
   "summaries": {
-    "640f32714d33": {
-      "resumen": "OncLive entrevista a dos especialistas sobre la aprobación de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA, Food and Drug Administration) de comprimidos de nilotinib de desintegración oral para la leucemia mieloide crónica (LMC). Interesa porque una formulación más fácil de tomar podría mejorar la adherencia al tratamiento de mantenimiento a largo plazo.",
-      "destacado": false
-    },
-    "25aef13ad1f1": {
-      "resumen": "OncLive analiza los próximos pasos en el desarrollo de belzutifan, un inhibidor del factor inducible por hipoxia 2 alfa (HIF-2α), en el carcinoma de células renales (RCC, renal cell carcinoma). Interesa porque explora hacia dónde avanza esta terapia dirigida ya aprobada en ciertos escenarios de esta enfermedad.",
-      "destacado": false
-    },
-    "b75cfdb42ac4": {
-      "resumen": "OncLive entrevista a un especialista sobre cómo elegir entre zongertinib y sevabertinib, dos inhibidores de tirosina quinasa (TKI) dirigidos al dominio quinasa de HER2 (receptor 2 del factor de crecimiento epidérmico humano), en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación HER2 TKD. Interesa por comparar dos opciones dirigidas emergentes en un subgrupo molecular específico.",
-      "destacado": false
-    },
-    "aee52c6c67a5": {
-      "resumen": "The ASCO Post reporta que avatrombopag, un agonista oral del receptor de trombopoyetina, logró controlar la trombocitopenia persistente inducida por quimioterapia (caída sostenida de plaquetas) en pacientes con cáncer gastrointestinal. Interesa porque esta toxicidad obliga con frecuencia a retrasar o reducir la quimioterapia.",
-      "destacado": false,
-      "analisis": "Diseño: No se especifica en el título si se trata de un ensayo clínico, una serie de casos o un análisis retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer gastrointestinal (GI) y trombocitopenia persistente inducida por quimioterapia (CIT, chemotherapy-induced thrombocytopenia).\nIntervención: Avatrombopag, agonista oral del receptor de trombopoyetina; no se especifica comparador.\nResultados: No hay cifras de recuento plaquetario, tasa de respuesta ni de continuidad del esquema oncológico disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño ni el tamaño muestral; el título sugiere un reporte más descriptivo que un ensayo comparativo robusto.\nMensaje: Sugiere una herramienta adicional para sostener la dosis e intensidad de la quimioterapia en pacientes con toxicidad hematológica persistente, a confirmar con datos comparativos.\nNota: análisis sin acceso al abstract."
-    },
-    "0e1129d8d049": {
-      "resumen": "The ASCO Post cubre un ensayo en fase temprana que evalúa un nuevo anticuerpo biespecífico (que se une simultáneamente a la célula tumoral y a una célula del sistema inmune) en mieloma múltiple en recaída o refractario. Interesa por sumar una opción más en pacientes que ya agotaron tratamientos previos.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I o I/II); no se especifican aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario, es decir, que progresó o no respondió a tratamientos previos.\nIntervención: Un anticuerpo biespecífico novedoso, sin blanco molecular ni nombre de fármaco especificado en el título; sin comparador, como es habitual en fase temprana.\nResultados: No hay cifras de tasa de respuesta, duración de respuesta ni toxicidad disponibles sin el abstract.\nLimitaciones: Fase temprana, tamaño muestral probablemente pequeño, sin grupo control ni seguimiento a largo plazo.\nMensaje: Aporta un dato preliminar de factibilidad y seguridad de una nueva inmunoterapia biespecífica en una población fuertemente pretratada, a confirmar en fases posteriores.\nNota: análisis sin acceso al abstract."
-    },
-    "fba99d4d0a6d": {
-      "resumen": "The ASCO Post reporta un análisis que vincula el uso de inhibidores de la bomba de protones (IBP, fármacos que reducen la acidez gástrica) y de antibióticos con peores resultados del tratamiento con durvalumab (un inhibidor de punto de control inmunitario) en cáncer de pulmón de células no pequeñas (NSCLC) en estadio III irresecable. Interesa porque son fármacos de uso muy frecuente que podrían interferir con la respuesta a la inmunoterapia.",
-      "destacado": false,
-      "analisis": "Diseño: Probablemente un análisis observacional o retrospectivo (posible subanálisis de cohorte); no se especifican aleatorización, cegado, centros ni número de pacientes en el título.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio III irresecable tratados con durvalumab de consolidación tras quimiorradioterapia.\nIntervención: Exposición a inhibidores de la bomba de protones (IBP) y/o antibióticos durante el tratamiento con durvalumab, comparados contra pacientes sin dicha exposición.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global ni razones de riesgo disponibles sin el abstract.\nLimitaciones: Diseño observacional con riesgo de factores de confusión; sin abstract no se puede evaluar el tamaño muestral ni el ajuste estadístico.\nMensaje: De confirmarse, invita a revisar el uso concomitante de IBP y antibióticos —posiblemente por su efecto sobre el microbioma— en pacientes bajo inmunoterapia, sin cambiar aún la práctica de rutina.\nNota: análisis sin acceso al abstract."
-    },
     "a82d9d905aee": {
       "resumen": "Journal of Clinical Oncology publica un artículo de perspectiva sobre el bloqueo de TIGIT (un punto de control inmunitario), a partir de los resultados del ensayo SKYSCRAPER-01 en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con alta expresión de PD-L1 (ligando 1 de muerte programada), y hacia dónde va esta estrategia. Interesa porque plantea el futuro de una clase de inmunoterapia que hasta ahora no logró superar el estándar actual.",
       "destacado": false
@@ -45,50 +18,14 @@
       "resumen": "Journal of Clinical Oncology publica una carta con objeciones metodológicas sobre un análisis de supervivencia basado en el agrupamiento de alteraciones en el número de copias (copy number alteration clustering) en tumores de células germinales en recaída o refractarios. Es un intercambio de correspondencia científica sobre metodología estadística, sin datos clínicos nuevos.",
       "destacado": false
     },
-    "894f7dd76ae3": {
-      "resumen": "The New England Journal of Medicine publica la réplica de los autores a la correspondencia sobre el estudio de daraxonrasib, un inhibidor de RAS (una proteína clave en la señalización tumoral, frecuentemente mutada), en cáncer de páncreas avanzado con mutación en el gen RAS. Es un intercambio de correspondencia científica, sin datos clínicos nuevos.",
-      "destacado": false
-    },
-    "495d17082ad5": {
-      "resumen": "The New England Journal of Medicine publica el estudio original sobre daraxonrasib, un inhibidor de RAS, en cáncer de páncreas avanzado con mutación en el gen RAS. Interesa por tratarse de una diana históricamente considerada \"no droggable\" (difícil de inhibir con fármacos) en uno de los tumores de peor pronóstico.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (por el contexto de publicación en NEJM, probablemente fase I/II o fase III); no se especifican aleatorización, cegado ni número de centros o pacientes en el título.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación en el gen RAS.\nIntervención: Daraxonrasib, un inhibidor de RAS; no se especifica comparador en el título.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el tamaño muestral, el seguimiento ni la magnitud del beneficio o los eventos adversos.\nMensaje: Si los resultados son positivos, representaría un avance relevante en un tumor con opciones terapéuticas muy limitadas y una diana molecular históricamente difícil de abordar.\nNota: análisis sin acceso al abstract."
-    },
-    "f900f3c597e7": {
-      "resumen": "Telva analiza el vestido de crochet, la prenda de verano que genera tantos amores como odios y que exige un manejo cuidadoso para lucir bien."
-    },
-    "9f0d2a7fb7ef": {
-      "resumen": "Telva adelanta las faldas midi que serán tendencia en septiembre, ideales para empezar a usar ya antes de que llegue la próxima temporada."
-    },
-    "2d972e33bd36": {
-      "resumen": "Vogue México presenta cinco pantalones verdes que serán tendencia en el verano 2026 y sugiere cómo combinarlos con sandalias de tacón, zapatillas y bailarinas."
-    },
-    "64afad3aa237": {
-      "resumen": "PressPeru repasa cómo las tendencias de lujo de la moda brasileña llegan a Perú de cara a la temporada 2027."
-    },
-    "8951fd887ca4": {
-      "resumen": "Vogue México selecciona las sandalias cangrejeras color café más elegantes para combinar con jeans, faldas y vestidos este verano 2026."
-    },
-    "865e281d0c25": {
-      "resumen": "Laura Esquivel y Brenda Asnicar vuelven a subirse juntas a un escenario, en el Teatro Gran Rex, después de 19 años."
-    },
-    "d1d3c5df1f25": {
-      "resumen": "Joaco Burgos presenta su espectáculo \"Desde Lo Profundo\" en el Teatro Coliseo."
-    },
     "3e9d32ca91b1": {
       "resumen": "El viaje de Coco Carreño a Nápoles fue la inspiración detrás de una de las aperturas gastronómicas más esperadas de Buenos Aires."
     },
     "4d28a37c2edd": {
       "resumen": "Mendoza sumó más restaurantes distinguidos con placas de la Guía Michelin y superó en cantidad a Buenos Aires."
     },
-    "b5e0bab8142a": {
-      "resumen": "Una selección de restaurantes porteños con mantas y calefacción para comer al aire libre en invierno."
-    },
     "b4dc26d97ea4": {
       "resumen": "Tiempo Argentino propone actividades para el fin de semana de vacaciones de invierno en la Ciudad de Buenos Aires."
-    },
-    "de68b38c0123": {
-      "resumen": "Una guía con más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, entre recitales, teatro, cine, muestras y actividades gratuitas."
     },
     "60525d4c0255": {
       "resumen": "Un repaso de todos los ganadores de los Premios Pinti 2026, con \"Charlie y la fábrica de chocolates\" y \"Rocky\" entre los más destacados de la noche teatral porteña."
@@ -98,6 +35,66 @@
     },
     "a3939d98a861": {
       "resumen": "Una guía para llegar al pueblo que celebra la Fiesta del Alfajor y la Torta Negra 2026 y aprovechar las actividades del fin de semana."
+    },
+    "eacb68c61eca": {
+      "resumen": "The ASCO Post entrevista a la doctora Jennifer Gile sobre la actualización a largo plazo del ensayo POLARIX, que evaluó un esquema con polatuzumab vedotina en primera línea del linfoma difuso de células B grandes (DLBCL, diffuse large B-cell lymphoma). Interesa porque el seguimiento prolongado ayuda a confirmar si el beneficio inicial de este esquema se sostiene en el tiempo.",
+      "destacado": false
+    },
+    "021840b372e2": {
+      "resumen": "OncLive analiza cómo incorporar las pruebas de perfil genómico tumoral a la práctica clínica habitual en cáncer de mama en estadio temprano. Interesa porque estas pruebas ayudan a decidir qué pacientes se benefician realmente de la quimioterapia adyuvante.",
+      "destacado": false
+    },
+    "b411461594bf": {
+      "resumen": "OncLive repasa hacia dónde avanza el uso de pruebas de perfil genómico tumoral en cáncer de mama en estadio temprano, en una nota complementaria sobre su rol futuro en la toma de decisiones. Interesa por completar el panorama de una herramienta cada vez más usada en la práctica diaria.",
+      "destacado": false
+    },
+    "985bd938b5e1": {
+      "resumen": "The ASCO Post reporta que los cuidados paliativos concurrentes siguen siendo poco utilizados en adultos jóvenes con cáncer avanzado, a pesar de la evidencia que respalda su beneficio. Interesa porque visibiliza una brecha asistencial en un grupo etario históricamente subatendido en oncología.",
+      "destacado": false,
+      "analisis": "Diseño: No se especifica en el título si se trata de un estudio de cohorte, una encuesta o un análisis de una base de datos poblacional, ni el número de centros o pacientes.\nPoblación: Adultos jóvenes (probablemente definidos como pacientes oncológicos adolescentes y adultos jóvenes, AYA) con cáncer avanzado.\nIntervención: No hay una intervención propiamente dicha; se evalúa la tasa de utilización de cuidados paliativos concurrentes con el tratamiento oncológico activo.\nResultados: No hay cifras de la proporción de pacientes que accedió a cuidados paliativos ni comparaciones con otros grupos etarios disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la fuente de datos, el tamaño de la muestra ni si el análisis ajusta por tipo de tumor o cobertura de salud.\nMensaje: Refuerza la necesidad de derivar más tempranamente a cuidados paliativos a los adultos jóvenes con cáncer avanzado, un grupo en el que suele haber más reticencia a iniciarlos.\nNota: análisis sin acceso al abstract."
+    },
+    "6dab0c992aef": {
+      "resumen": "OncLive reporta que cretostimogene grenadenorepvec, una terapia oncolítica viral, logró respuestas completas duraderas y preservación de la vejiga en cáncer de vejiga no músculo invasivo (NMIBC, non-muscle invasive bladder cancer) que no responde al bacilo de Calmette-Guérin (BCG). Interesa porque ofrece una alternativa para evitar la cistectomía (extirpación de la vejiga) en pacientes sin otras opciones.",
+      "destacado": false,
+      "analisis": "Diseño: Probablemente un ensayo clínico de fase II o III; no se especifican aleatorización, cegado, centros ni número de pacientes en el título.\nPoblación: Pacientes con cáncer de vejiga no músculo invasivo (NMIBC) que no responde al tratamiento estándar con bacilo de Calmette-Guérin (BCG).\nIntervención: Cretostimogene grenadenorepvec, un virus oncolítico administrado por vía intravesical; no se especifica comparador en el título.\nResultados: No hay cifras de tasa de respuesta completa, duración de la respuesta ni porcentaje de preservación vesical disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el seguimiento ni si hubo grupo control.\nMensaje: De confirmarse la durabilidad de la respuesta, podría posicionarse como alternativa para evitar o postergar la cistectomía radical en pacientes que agotaron el tratamiento estándar con BCG.\nNota: análisis sin acceso al abstract."
+    },
+    "9bfc96a3b993": {
+      "resumen": "The ASCO Post reporta que el ensayo ELEVATE mostró un beneficio en la supervivencia libre de enfermedad con ensartinib adyuvante (después de la cirugía) en cáncer de pulmón de células no pequeñas (NSCLC) con reordenamiento del gen ALK. Interesa porque suma una opción dirigida en el escenario adyuvante de un subgrupo molecular específico.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (el nombre \"ELEVATE\" sugiere un ensayo aleatorizado de fase III); no se especifican cegado, número de centros ni de pacientes en el título.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con reordenamiento del gen ALK (quinasa del linfoma anaplásico), operados, en el escenario adyuvante.\nIntervención: Ensartinib, un inhibidor de tirosina quinasa de ALK, administrado en forma adyuvante tras la cirugía; comparador no especificado en el título (probablemente placebo u observación).\nResultados: El título indica un beneficio en supervivencia libre de enfermedad, pero no hay cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la magnitud del beneficio, el seguimiento ni el perfil de eventos adversos del esquema adyuvante.\nMensaje: Si se confirma el beneficio, ensartinib adyuvante podría sumarse como opción dirigida tras la cirugía en el subgrupo ALK-positivo, extendiendo el uso de inhibidores de ALK más allá del escenario metastásico.\nNota: análisis sin acceso al abstract."
+    },
+    "3b24dee87f0b": {
+      "resumen": "Vogue México repasa los cortes de pelo estilo francés que vuelven a estar de moda este verano 2026 y que, según la publicación, favorecen a todo tipo de rostro."
+    },
+    "b62fb7937e1b": {
+      "resumen": "Grazia Magazine señala que, pese al calor del verano, las botas se mantienen como una de las tendencias de calzado más elegidas."
+    },
+    "3d489c4c6264": {
+      "resumen": "Vogue México selecciona las polleras de estilo boho más elegantes para combinar con sandalias, zuecos y botas este verano 2026."
+    },
+    "fb32e3e78a31": {
+      "resumen": "Vogue México destaca los zapatos de taco con efecto telaraña que lució Zendaya en Los Ángeles durante el estreno de la nueva película de Spider-Man."
+    },
+    "0d47cfa2adf9": {
+      "resumen": "Vogue México propone blusones elegantes y de moda para combinar con pantalones slim, leggings y jeans chupín este verano 2026."
+    },
+    "b2b4bdb3d162": {
+      "resumen": "Infobae repasa las claves del estilo de la reina Letizia de España y qué hace que su forma de vestir se perciba elegante y versátil."
+    },
+    "977a4bb47744": {
+      "resumen": "Revista OHLALÁ! recomienda siete restaurantes vegetarianos de Buenos Aires para descubrir la mejor cocina veggie de la ciudad."
+    },
+    "9da858eceffe": {
+      "resumen": "La cantante colombiana Greeicy dará un show en el Teatro Gran Rex de Buenos Aires y ya están a la venta las entradas."
+    },
+    "db06e18cd432": {
+      "resumen": "La Gaceta repasa a los ganadores de los Premios Pinti de la temporada 2026, que distinguen lo mejor del teatro porteño."
+    },
+    "e00f9bed62f6": {
+      "resumen": "FM Universo 97.3 propone más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, entre recitales, teatro, cine, muestras y actividades gratuitas."
+    },
+    "25a3d242968b": {
+      "resumen": "Clarín destaca al sector energético como uno de los motores del crecimiento económico argentino, en el marco del ciclo Visión 360."
     }
   }
 }
