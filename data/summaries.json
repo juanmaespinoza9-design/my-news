@@ -1,12 +1,16 @@
 {
-  "generated_at": "2026-07-27T22:07:46Z",
+  "generated_at": "2026-07-28T10:09:05Z",
   "summaries": {
-    "b75cfdb42ac4": {
-      "resumen": "OncLive entrevista a un especialista sobre cómo elegir entre zongertinib y sevabertinib, dos inhibidores de tirosina quinasa (TKI) dirigidos al dominio quinasa de HER2 (receptor 2 del factor de crecimiento epidérmico humano), en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación HER2 TKD. Interesa por comparar dos opciones dirigidas emergentes en un subgrupo molecular específico.",
+    "640f32714d33": {
+      "resumen": "OncLive entrevista a dos especialistas sobre la aprobación de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA, Food and Drug Administration) de comprimidos de nilotinib de desintegración oral para la leucemia mieloide crónica (LMC). Interesa porque una formulación más fácil de tomar podría mejorar la adherencia al tratamiento de mantenimiento a largo plazo.",
       "destacado": false
     },
-    "5f66b837054a": {
-      "resumen": "OncLive difunde un video en el que un especialista comenta los efectos neurocognitivos de los inhibidores de tirosina quinasa ALK (anaplastic lymphoma kinase) de generaciones más recientes en cáncer de pulmón de células no pequeñas (NSCLC). Interesa porque pone en discusión el balance entre eficacia y toxicidad neurológica de estas terapias dirigidas.",
+    "25aef13ad1f1": {
+      "resumen": "OncLive analiza los próximos pasos en el desarrollo de belzutifan, un inhibidor del factor inducible por hipoxia 2 alfa (HIF-2α), en el carcinoma de células renales (RCC, renal cell carcinoma). Interesa porque explora hacia dónde avanza esta terapia dirigida ya aprobada en ciertos escenarios de esta enfermedad.",
+      "destacado": false
+    },
+    "b75cfdb42ac4": {
+      "resumen": "OncLive entrevista a un especialista sobre cómo elegir entre zongertinib y sevabertinib, dos inhibidores de tirosina quinasa (TKI) dirigidos al dominio quinasa de HER2 (receptor 2 del factor de crecimiento epidérmico humano), en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación HER2 TKD. Interesa por comparar dos opciones dirigidas emergentes en un subgrupo molecular específico.",
       "destacado": false
     },
     "aee52c6c67a5": {
@@ -24,28 +28,22 @@
       "destacado": false,
       "analisis": "Diseño: Probablemente un análisis observacional o retrospectivo (posible subanálisis de cohorte); no se especifican aleatorización, cegado, centros ni número de pacientes en el título.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio III irresecable tratados con durvalumab de consolidación tras quimiorradioterapia.\nIntervención: Exposición a inhibidores de la bomba de protones (IBP) y/o antibióticos durante el tratamiento con durvalumab, comparados contra pacientes sin dicha exposición.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global ni razones de riesgo disponibles sin el abstract.\nLimitaciones: Diseño observacional con riesgo de factores de confusión; sin abstract no se puede evaluar el tamaño muestral ni el ajuste estadístico.\nMensaje: De confirmarse, invita a revisar el uso concomitante de IBP y antibióticos —posiblemente por su efecto sobre el microbioma— en pacientes bajo inmunoterapia, sin cambiar aún la práctica de rutina.\nNota: análisis sin acceso al abstract."
     },
-    "6183be6d0b64": {
-      "resumen": "OncLive repasa el panorama cambiante del tratamiento del melanoma y cómo identificar al candidato adecuado para cada terapia disponible. Interesa como puesta al día general del campo, aunque no reporta un estudio puntual con datos nuevos.",
+    "a82d9d905aee": {
+      "resumen": "Journal of Clinical Oncology publica un artículo de perspectiva sobre el bloqueo de TIGIT (un punto de control inmunitario), a partir de los resultados del ensayo SKYSCRAPER-01 en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con alta expresión de PD-L1 (ligando 1 de muerte programada), y hacia dónde va esta estrategia. Interesa porque plantea el futuro de una clase de inmunoterapia que hasta ahora no logró superar el estándar actual.",
       "destacado": false
     },
-    "afef38202828": {
-      "resumen": "Journal of Clinical Oncology publica los resultados de un estudio de fase Ib sobre izalontamab brengitecan (Iza-Bren), un anticuerpo biespecífico conjugado a droga dirigido contra EGFR (receptor del factor de crecimiento epidérmico) y HER3 (receptor 3 del factor de crecimiento epidérmico humano), en cáncer de pulmón a células pequeñas en estadio extendido. Interesa por tratarse de una terapia novedosa en un tumor de mal pronóstico y pocas opciones.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de fase Ib (dosis-escalada/expansión probable); no se especifican aleatorización, cegado ni número de centros o pacientes en el título.\nPoblación: Pacientes con cáncer de pulmón a células pequeñas en estadio extendido (extensive-stage small cell lung cancer).\nIntervención: Izalontamab brengitecan (Iza-Bren), un anticuerpo biespecífico conjugado a droga (antibody-drug conjugate) dirigido contra EGFR y HER3, primero en su clase; no se detalla comparador (fase temprana, probablemente sin brazo control).\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global disponibles sin el abstract.\nLimitaciones: Fase temprana (Ib), tamaño muestral probablemente reducido, sin grupo control ni datos de seguimiento a largo plazo.\nMensaje: Un dato preliminar de eficacia y seguridad de una nueva clase de fármaco en un escenario de alta necesidad clínica insatisfecha, a confirmar en fases más avanzadas.\nNota: análisis sin acceso al abstract."
-    },
-    "e3d9d4ef818c": {
-      "resumen": "Journal of Clinical Oncology publica la réplica de los autores a dos cartas que cuestionan si el bloqueo doble de puntos de control inmunitario (dual-checkpoint blockade) aporta beneficio más allá de prolongar el intervalo entre la quimiorradioterapia y la cirugía en cáncer de recto localmente avanzado. Es un intercambio de correspondencia científica, sin datos clínicos nuevos.",
-      "destacado": false
-    },
-    "c3bd56a433e7": {
-      "resumen": "Journal of Clinical Oncology reporta un estudio sobre hipofraccionamiento moderado (radioterapia con menos sesiones y mayor dosis por sesión) para la irradiación de los ganglios regionales, con resultados de seguridad y eficacia. Interesa porque respalda esquemas de radioterapia más cortos para las pacientes.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio (según el título, probablemente un ensayo clínico o análisis de cohorte) sobre hipofraccionamiento moderado en irradiación ganglionar regional; no se especifica aleatorización, cegado, número de centros ni de pacientes.\nPoblación: Pacientes que requieren irradiación de los ganglios linfáticos regionales, probablemente en el contexto de cáncer de mama según la línea editorial de la sección.\nIntervención: Radioterapia con hipofraccionamiento moderado (menor número de sesiones con mayor dosis por fracción), presumiblemente comparada contra el fraccionamiento convencional.\nResultados: El título afirma que el esquema es \"seguro y efectivo\", pero no hay cifras de toxicidad, control locorregional ni supervivencia disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el tamaño muestral, el seguimiento ni la magnitud del beneficio o los eventos adversos.\nMensaje: De confirmarse, sumaría evidencia a favor de acortar los esquemas de radioterapia ganglionar regional, reduciendo la carga de tratamiento para las pacientes.\nNota: análisis sin acceso al abstract."
-    },
-    "c268cbb99512": {
-      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo de fase III AAML1831 del Grupo de Oncología Infantil (Children's Oncology Group), que compara la inducción estándar con CPX-351 (una formulación liposomal de citarabina y daunorubicina) en leucemia mieloide aguda (AML, acute myeloid leukemia) pediátrica de novo. Es el estudio destacado de hoy por tratarse de un ensayo aleatorizado grande en una población pediátrica con pocas novedades terapéuticas.",
+    "b6a7955d0ff8": {
+      "resumen": "Journal of Clinical Oncology publica los resultados actualizados a cinco años del ensayo STELLAR, un estudio aleatorizado que comparó radioterapia de curso corto seguida de quimioterapia de consolidación versus quimiorradioterapia de curso largo en cáncer de recto localmente avanzado. Es el estudio destacado de hoy por tratarse de un seguimiento a largo plazo de un ensayo que busca simplificar el tratamiento preoperatorio de este tumor.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, del Children's Oncology Group (Grupo de Oncología Infantil), reportado como AAML1831; no se detalla en el título si es ciego ni el número exacto de centros o pacientes.\nPoblación: Niños y adolescentes con leucemia mieloide aguda (AML) de novo (recién diagnosticada, sin tratamiento previo).\nIntervención: CPX-351 (formulación liposomal de citarabina y daunorubicina) como inducción, comparado contra la quimioterapia de inducción estándar (habitualmente citarabina más una antraciclina).\nResultados: No hay cifras de remisión completa, supervivencia libre de eventos ni supervivencia global disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el seguimiento medio ni la significancia estadística de las diferencias observadas.\nMensaje: Si CPX-351 demuestra beneficio sobre la inducción estándar, podría cambiar el tratamiento inicial de la leucemia mieloide aguda pediátrica, una población con escasas innovaciones terapéuticas recientes.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, multicéntrico, actualización a cinco años de seguimiento del estudio STELLAR.\nPoblación: Pacientes con cáncer de recto localmente avanzado candidatos a tratamiento neoadyuvante antes de la cirugía.\nIntervención: Radioterapia de curso corto seguida de quimioterapia de consolidación, comparada contra quimiorradioterapia de curso largo convencional.\nResultados: No hay cifras de supervivencia global, supervivencia libre de enfermedad ni de recurrencia local a cinco años disponibles sin el abstract completo.\nLimitaciones: Sin abstract no se puede evaluar el seguimiento real, la magnitud del efecto ni si se mantiene la no inferioridad reportada en el análisis previo a tres años.\nMensaje: Los datos a cinco años son clave para confirmar si el esquema corto y más simple para el paciente sostiene en el tiempo los resultados oncológicos del esquema largo tradicional.\nNota: análisis sin acceso al abstract."
+    },
+    "849999e8c89a": {
+      "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre un análisis multicéntrico internacional acerca del uso de metotrexato en dosis altas como profilaxis del sistema nervioso central (SNC) en linfoma de células B grandes de riesgo ultra alto. Es una corrección editorial sin datos clínicos nuevos.",
+      "destacado": false
+    },
+    "41a78484e0f1": {
+      "resumen": "Journal of Clinical Oncology publica una carta con objeciones metodológicas sobre un análisis de supervivencia basado en el agrupamiento de alteraciones en el número de copias (copy number alteration clustering) en tumores de células germinales en recaída o refractarios. Es un intercambio de correspondencia científica sobre metodología estadística, sin datos clínicos nuevos.",
+      "destacado": false
     },
     "894f7dd76ae3": {
       "resumen": "The New England Journal of Medicine publica la réplica de los autores a la correspondencia sobre el estudio de daraxonrasib, un inhibidor de RAS (una proteína clave en la señalización tumoral, frecuentemente mutada), en cáncer de páncreas avanzado con mutación en el gen RAS. Es un intercambio de correspondencia científica, sin datos clínicos nuevos.",
@@ -56,38 +54,26 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico (por el contexto de publicación en NEJM, probablemente fase I/II o fase III); no se especifican aleatorización, cegado ni número de centros o pacientes en el título.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación en el gen RAS.\nIntervención: Daraxonrasib, un inhibidor de RAS; no se especifica comparador en el título.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el tamaño muestral, el seguimiento ni la magnitud del beneficio o los eventos adversos.\nMensaje: Si los resultados son positivos, representaría un avance relevante en un tumor con opciones terapéuticas muy limitadas y una diana molecular históricamente difícil de abordar.\nNota: análisis sin acceso al abstract."
     },
-    "63a060ce227c": {
-      "resumen": "Naydalit León crea Naylemó, una marca de joyas artesanales con las que convierte emociones en piezas de arte."
+    "f900f3c597e7": {
+      "resumen": "Telva analiza el vestido de crochet, la prenda de verano que genera tantos amores como odios y que exige un manejo cuidadoso para lucir bien."
     },
-    "a2a8953fea0c": {
-      "resumen": "La historia detrás de Dior Cigale, el bolso que reinterpreta un vestido icónico de la maison francesa."
+    "9f0d2a7fb7ef": {
+      "resumen": "Telva adelanta las faldas midi que serán tendencia en septiembre, ideales para empezar a usar ya antes de que llegue la próxima temporada."
     },
-    "8c1f6c20d052": {
-      "resumen": "Ester Expósito combinó una falda midi de lunares con zapatos de tacón para una salida junto a Kylian Mbappé."
+    "2d972e33bd36": {
+      "resumen": "Vogue México presenta cinco pantalones verdes que serán tendencia en el verano 2026 y sugiere cómo combinarlos con sandalias de tacón, zapatillas y bailarinas."
     },
-    "13f04a9cdbc2": {
-      "resumen": "Vogue arma una guía para elegir el smartphone ideal a la hora de producir contenido digital exitoso."
+    "64afad3aa237": {
+      "resumen": "PressPeru repasa cómo las tendencias de lujo de la moda brasileña llegan a Perú de cara a la temporada 2027."
     },
-    "5f42f41d69f6": {
-      "resumen": "La pedicura clásica que fue furor en los 90 vuelve a imponerse como tendencia elegante este verano."
-    },
-    "0652637fe4d7": {
-      "resumen": "Cosmopolitan explica cómo combinar las faldas tendencia que Mango lanzó para el verano 2026."
-    },
-    "8409737648b6": {
-      "resumen": "Soledad Pastorutti presenta \"Late el Sur\", la canción con la que le pone voz a los Juegos Suramericanos Santa Fe 2026."
+    "8951fd887ca4": {
+      "resumen": "Vogue México selecciona las sandalias cangrejeras color café más elegantes para combinar con jeans, faldas y vestidos este verano 2026."
     },
     "865e281d0c25": {
       "resumen": "Laura Esquivel y Brenda Asnicar vuelven a subirse juntas a un escenario, en el Teatro Gran Rex, después de 19 años."
     },
     "d1d3c5df1f25": {
       "resumen": "Joaco Burgos presenta su espectáculo \"Desde Lo Profundo\" en el Teatro Coliseo."
-    },
-    "89da60f9450e": {
-      "resumen": "Brenda Asnicar y Laura Esquivel preparan un nuevo show teatral inspirado en Patito Feo."
-    },
-    "584d98960871": {
-      "resumen": "El Esquiu cuenta que Pascual Gutiérrez fue distinguido por la ANCROF y anunció una nueva función en el Teatro Ópera de Buenos Aires."
     },
     "3e9d32ca91b1": {
       "resumen": "El viaje de Coco Carreño a Nápoles fue la inspiración detrás de una de las aperturas gastronómicas más esperadas de Buenos Aires."
@@ -104,8 +90,14 @@
     "de68b38c0123": {
       "resumen": "Una guía con más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, entre recitales, teatro, cine, muestras y actividades gratuitas."
     },
-    "a03467d12eb2": {
-      "resumen": "Time Out propone doce planes imperdibles para hacer hoy en Buenos Aires."
+    "60525d4c0255": {
+      "resumen": "Un repaso de todos los ganadores de los Premios Pinti 2026, con \"Charlie y la fábrica de chocolates\" y \"Rocky\" entre los más destacados de la noche teatral porteña."
+    },
+    "7ab6b3e863cc": {
+      "resumen": "La actriz Graciela Stefani salió a respaldar al teatro independiente porteño durante los Premios Pinti y calificó de absurdo cualquier intento de cerrarlo."
+    },
+    "a3939d98a861": {
+      "resumen": "Una guía para llegar al pueblo que celebra la Fiesta del Alfajor y la Torta Negra 2026 y aprovechar las actividades del fin de semana."
     }
   }
 }
