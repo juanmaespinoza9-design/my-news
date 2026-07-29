@@ -1,43 +1,11 @@
 {
- "generated_at": "2026-07-29T03:46:19.644173+00:00",
+ "generated_at": "2026-07-29T07:09:23.586345+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
-    {
-     "title": "Consensus statements from the first Gynecologic Cancer InterGroup Cervical Cancer Consensus Conference in Clinical Research",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42508438/",
-     "source": "Lancet Oncology",
-     "published": "2026-08-01T00:00:00+00:00",
-     "copete": "Kataria B et al. · The Lancet. Oncology",
-     "id": "12a7e0bcdc50"
-    },
-    {
-     "title": "Advancing oncology education in low-income and middle-income African settings: global insights for local action",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42508437/",
-     "source": "Lancet Oncology",
-     "published": "2026-08-01T00:00:00+00:00",
-     "copete": "Shrestha S et al. · The Lancet. Oncology",
-     "id": "738664c7b6bb"
-    },
-    {
-     "title": "Correction to Lancet Oncol 2026; 27: 452-60",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42508436/",
-     "source": "Lancet Oncology",
-     "published": "2026-08-01T00:00:00+00:00",
-     "copete": "The Lancet. Oncology",
-     "id": "c90e3bf8d490"
-    },
-    {
-     "title": "Risks of modelling cancer outcomes when no data exist - Authors' reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42508435/",
-     "source": "Lancet Oncology",
-     "published": "2026-08-01T00:00:00+00:00",
-     "copete": "Ward ZJ et al. · The Lancet. Oncology",
-     "id": "2a39d099ccec"
-    },
     {
      "title": "Jennifer Gile, MD, on High-Risk DLBCL: frontMIND and POLARIX Regimens",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc29BY2lfamliNi1kNTEyVFJndVdNbXpxeUp6X0JKNkNsQkJMWGk1SjhmODFfaUl6cFNDbVFUQm9QT3pSb2R4NG1SZjhZS2dyaFRxaG9ZVjhlcURjeUhSUXhCUjRFQTU1cE5KV3BJQUhBeG9Ud2VxZXVrSmJqUFFfa0ZpRy1Od2xfdWdfcUw5TGNhWkFNUllnMVhn?oc=5",
@@ -53,25 +21,25 @@
      "id": "eacb68c61eca"
     },
     {
+     "title": "Exploring Brenetafusp in Melanoma",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXVWQzZk5SY0dfZkNYMTRSTE5LbWVZTTdKNXRYTjNmNmtLT3F3VkVjSFZjMGFiS19lOWl1Z2RQZlJTT0VBNmJaQWZnZS1KS1oxQngxYUFPZDJjTU5GUFQ4NktTX3BFdVlQRUJzRU9WUHFxZw?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-29T02:41:11+00:00",
+     "id": "9bc21e417166"
+    },
+    {
+     "title": "Dr Tarantino on the Evolution of TROP2-Directed ADCs in First-Line TNBC",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzN0aUthNjRzVV9UZ1BsdEVSQThDTHVTQ0MycGRaTDNJUndWeTZocUhabDJCd19PN1pBd2pGYUktSnFBNzVvZXJENFRZdHhsUVhRYXMya09RS0tkUXJZOUhxMmNSRVB1OEdCdndNbjhtMnpCMVVLcHBiTGtQaWNCUXEwaVZNQUZLQjN3X2Etbk9rUEF2QzU1bFpOdmdycnRhWlE?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-29T02:23:09+00:00",
+     "id": "8f4b88e6dd1f"
+    },
+    {
      "title": "FDA Approval Insights: Orca-T Raises the Bar for Allogeneic Transplants in Hematologic Malignancies: With Everett Meyer, MD, PhD",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdGdJWE5mNEliaHExS19lZTN0UXlJV2gtbEtiYUh1YUZOVm5INWt0c1oyV2cxRVpZdzYyUlNNT3pGVDJvbk9vWU5KR1JGLXMwOHA4SHQ2ZkVGMVA4R0ozdTY4M2FCZzBFSG55WXF1VkJFeTJoRHNQNjlDZTlIWkdfdmpzbUcxUmR6YWhIUVR1dkZpZFJtMmJodXZkSFVZTkJYWlhVMGlhMVdiUjhXTWNIVUsxTmR4LU1KdG1oa21PZkN1OGNoa3U4dVg4REhSZ1pSZE1sVlpqZGgtdnU1UE1XZTRucVBDV3g0?oc=5",
      "source": "OncLive",
      "published": "2026-07-28T23:50:06+00:00",
      "id": "034f377fc89d"
-    },
-    {
-     "title": "Early-Stage Breast Cancer: Integrating Genomic and Clinicopathologic Risk Factors",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0NRSzEzaEhaeWNGeWV2bzJGNXFHcDdxbkgyX2ZjdGJGakttQ0RBaEUyc3JLcVBvbFNuQXBaTUtfZGRIWWlPd3RUdlN5YUxfVWtQUGl1TTk5VVM4ZmI4M2NGX2phajJHbW8tX3VNZmhqdUdNVEN2RkU4RmVpZHF0U3JsaHNQSGE3MEgwb3RFQUVSNzNVWTVvUmdnS05PREMzV2tzZU9UOFRHQVlNS0E?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-28T20:01:49+00:00",
-     "id": "fa662579da58"
-    },
-    {
-     "title": "Early-Stage Breast Cancer: Integrating Genomic Testing into Clinical Workflow",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUxmdVZ6QkxDdWdMQ0xTaHpjc2wwMkQzQzM0YXlSNUo3cjVyVThOZnZzNkQ2QUo4VkR3aldKV2t1Uml5TGRhbWExd0xTcm1PUzI0VWJFTVBfNFpaekJEUXZfMDRjaWVVZE1GNmtvcUxlUC1nOTQ5MWI3VUMtRHhBS281UUFka0JGbHhYZzFzSmtWbzQwMWZaeHdQaW1waHAtaWRCQUN1LUw?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-28T19:59:52+00:00",
-     "id": "021840b372e2"
     },
     {
      "title": "Concurrent Palliative Care Remains Underused Among Young Adults With Advanced Cancer",
@@ -95,6 +63,22 @@
      "published": "2026-07-27T00:00:00+00:00",
      "copete": "Lu C et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "a82d9d905aee"
+    },
+    {
+     "title": "Five-Year Outcomes of Short-Term Radiotherapy Plus Chemotherapy Versus Long-Term Chemoradiotherapy for Locally Advanced Rectal Cancer: Updated Results of the STELLAR Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507974/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-27T00:00:00+00:00",
+     "copete": "Tang Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "b6a7955d0ff8"
+    },
+    {
+     "title": "Erratum: High-Dose Methotrexate as CNS Prophylaxis in Ultra High-Risk Large B-Cell Lymphoma: An International Multicenter Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507971/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-07-27T00:00:00+00:00",
+     "copete": "Wilson MR et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "849999e8c89a"
     }
    ]
   },
@@ -103,6 +87,43 @@
    "title": "Moda",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Empezar septiembre con buen pie es tener estas 3 prendas en el armario (y lo afirmamos habiendo vuelto a ver todos los desfiles del otoño)",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGdzNno4ajFYOGhoWnNNODVNSV9LcnNVYzM4WU1CakNoRGdFWXRnQTFGa1BYM1ZBbDF4bDhZanE5NFo5SDEyWFMwWkg4eTlkM2lrbmtyT2lIVDBvN05SVmVVQXhFS2ExNHVxUExtdVYwSGlMVElZTWxVUUNONVRCUmM0dEPSAYQBQVVfeXFMUFgzSWM1cTlDZTBWdWlnQ24wcS1lbDZLTjZkeDNpWlRfdlBBdkU3UnVUTXltTFFDdUFHMDlEODZzN0o1VWlmcGJyZmRRaDFDanQxZXdjZmZQLU1ObXE4M2g2d0NuSFNkd08yTW4zUEVVRGhSaXc2Y2o5bHFVSFBDaWNueFN5?oc=5",
+     "source": "Telva",
+     "published": "2026-07-29T05:43:42+00:00",
+     "id": "3fbe512b787e"
+    },
+    {
+     "title": "Las cinco tendencias más chic y fáciles de copiar este verano: la última es la favorita de las que más saben de moda",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXVPVEd3MjJnZlRuMjJkcHAxNTBObm92TmZhc2ZtSVZZdkZJTjE3YjVVTXlZNUg4blNvaV9LcmNTeHNRYmlod1V1NGlWX1lDSEs4QUtldUN3ckdiUmtkQXBoR1lhWkNQdUQ2dTAzbHYwTVl5UFZOcUZVWWE1b3VaUGxDN1dOaUl3bkhoeUFtVnB4SGpKaW83Y2pPTmZ5YjN4cHZMamdmczRwSjRFbUQ4RHY5R080MkR3dGxOdDZVWW5FSDBMamNWN290Vzk4YXZZMFB4aVE4MUlsUnA0am5qbVF4ZFFLYXgxNDUtdE5MTkhWbmp5REFfVXlOYw?oc=5",
+     "source": "The Objective",
+     "published": "2026-07-29T05:30:00+00:00",
+     "id": "c5a97b4c3886"
+    },
+    {
+     "title": "El verano en que la moda dejó de \"pedirle prestada la camisa al novio\" para empezar a reinvidicar una propia que, como mucho, estamos dispuestas a compartir",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ09ZUjBERXAyMGd1Y2FkQlo2Tjh1aWNsODF1aC1KZHNJOXdBbWdUVjZIaGw2M2tPU1JOWDROdWgtMmpUazNyVEVZbzZSREhjYzl1cGlJTjRlT3RZSzUtQ2c5a1FvRHZhc0VkWjhVNEU5SDB0WWNsdy1vMmo2TFRlQVFrM0fSAYQBQVVfeXFMT1pud2gzSDdmeU0yZUpNYjBxTmhVX0JnanpNNUlSbXVXMmp5aUNFWW9Bb3RVSk0zWXJnMzVwTGlDYURFLUhYZUJjQUVwQXBvVDM1RWxUZWxBODJRdnNCcGJ1aGM5Y010WEhfX01TODR1cnVPUVdJYmthNy1raUhjOEh3UFlq?oc=5",
+     "source": "Telva",
+     "published": "2026-07-29T05:28:30+00:00",
+     "id": "42d3a303c4d0"
+    },
+    {
+     "title": "Inside the Neo Knitwear Boom",
+     "link": "https://www.vogue.com/article/inside-the-neo-knitwear-boom",
+     "source": "Vogue",
+     "published": "2026-07-29T04:30:00+00:00",
+     "copete": "A new wave of knitwear designers is rising to meet demand for well-crafted, creative clothing.",
+     "id": "32439c90fbe1"
+    },
+    {
+     "title": "We’re All on a Mediterranean Beauty Diet This Summer. Here’s Why",
+     "link": "https://www.vogue.com/article/were-all-on-a-mediterranean-beauty-diet-this-summer-heres-why",
+     "source": "Vogue",
+     "published": "2026-07-29T04:30:00+00:00",
+     "copete": "Mediterranean beauty brands are uniquely poised to benefit from the touch grass movement, with shoppers actively seeking natural, anti-inflammatory ingredients and minimalist routines.",
+     "id": "0ea0c3b756b4"
+    },
     {
      "title": "6 Ways I Minimize Dark Circles Without Makeup",
      "link": "https://www.vogue.com/article/minimize-dark-circles-without-makeup",
@@ -118,14 +139,6 @@
      "published": "2026-07-29T02:09:03+00:00",
      "copete": "Are toners good for mature skin? Experts say yes, in order to to replenish hydration, support the skin barrier, calm inflammation, and improve ingredient absorption.",
      "id": "9a3abda99fab"
-    },
-    {
-     "title": "18 Iconic Photographs of Brigitte Bardot at the Beach",
-     "link": "https://www.vogue.com/article/iconic-photographs-of-brigitte-bardot-at-the-beach",
-     "source": "Vogue",
-     "published": "2026-07-29T00:24:35+00:00",
-     "copete": "From Cannes to Saint-Tropez and all the way to Andalusia, here are 18 lesser-seen pictures of the French screen legend Brigitte Bardot to inspire your summer style.",
-     "id": "3e31f63b4b0a"
     },
     {
      "title": "Festival de Cine de Venecia 2026: Fechas, películas que se presentan y premios",
@@ -147,35 +160,6 @@
      "source": "Vogue México",
      "published": "2026-07-28T23:56:10+00:00",
      "id": "fdce2f349634"
-    },
-    {
-     "title": "Faldas boho y tenis blancos de tela: 6 modelos elegantes de Zara y H&M para lucir en verano",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3Y2UDctRHhla2t6bFZzNHpTbmFucDBYR19QdnV0X2FTZ3I0S1RCTUxsQThIUGVFeGpvZjBVNHV2TXJLVC0xVUNKX3E3N1M2UFZmbDJLN0t4Um9HTW9PQlJ3WjczaExlejJFQy1UQ1Zyak05bEZFY0Y5YkV2Qk5SNTAtX042UUxQVFRCUkNKekEyMjU3RzhGUmdTVkVZN2Y1cndTM3RzLTI4Q2JDM3JTbWZwM1F5eG00?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-28T23:44:22+00:00",
-     "id": "6e81dc2e6c29"
-    },
-    {
-     "title": "The Shards Cast Partied Like It Was 1981 at the World Premiere of the New TV Series",
-     "link": "https://www.vogue.com/slideshow/the-shards-premiere-kaia-gerber-homer-gere",
-     "source": "Vogue",
-     "published": "2026-07-28T22:54:48+00:00",
-     "copete": "“I wanted to be an actor since I was a baby, and working on The Shards has really been one of the best experiences of my life,” Kaia Gerber told Vogue at the world premiere of her new FX drama on Monday night.",
-     "id": "17674feb8fd5"
-    },
-    {
-     "title": "El kaftán floral de Zara que parece de boutique ahora cuesta menos de 16 euros",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnoza3lQU0ZmVmZINDlOV3YteGZwVTNoR2U5Q3FPQ3Y1X3BVenE5SmxnYXpKaUJabDBYZmdEMHdTYzEyM0psWVpxd0lDRXowejNHU2tFeTdQa0hYZXh3ZzlvUElTamt0cW5RR3RIcnhDRVpDdkk4MC03R0dfQThNWGpxWEZPNWpoYm4tRzZEdkxlU29ESFZ4T0JFSjZYUk9kaDZuajVqc1M5bExUN2VNWFV3YmI3eE5MWjdOUFJUNnJqS1FzcXo2dm130gHPAUFVX3lxTE1hd09wcTQ5Ny1CcnpBZnV6WXhNWGppaVh0SC1ibjRtSG1aZDVWWjRtWWNxNzdxamo2Y2h2dTVhY2x2WXMxLW9LYktNM092dW1faXhMZ0U0T2VTY1h3MDVrcUktZVdUei1jUEhfQTRzUm9PMmtWNTVfWEtWMXVWZjhXNHVWcWFwWkhWV2xYeW9RRmZXbHgwREtfem1oNWc5S3FYUXRKZi0wM1BmYlpfeFZFaC1tdS1TdzlhTUdEVHg2UENLVFZ4TmVXaUlNNmNKTQ?oc=5",
-     "source": "MUNDIARIO",
-     "published": "2026-07-28T21:56:11+00:00",
-     "id": "4bb7fe3d3944"
-    },
-    {
-     "title": "¿Sin nada que ver? Cinco series que nunca pasan de moda",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdldkenJmaGlHbzd5dV9veFlvb216NGNWak8ydjdLTGdiWE1LSXFNZkhZWXZaRHJEOGFiWlZYdlVGNFl6cTVsUXhCOW5wMnkzMFIwOUx4UXFSV01pLWpBRWREUmxFbW9qRy1hVGhRMENhVlN1aVdGTkFhb2JvMXBWQlN2aWpRa1RxME9yLVhYZlNibVNlYW9tdDhudWs3OTNocDBkaERpS3R3aVZaTGJr?oc=5",
-     "source": "El Sol de México",
-     "published": "2026-07-28T21:34:46+00:00",
-     "id": "14aa1b953b61"
     }
    ]
   },
@@ -185,12 +169,36 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La verdad sobre la compleja relación entre Eric Roberts y su hija Emma: “Hubo malentendidos”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-verdad-sobre-la-compleja-relacion-entre-eric-roberts-y-su-hija-emma-hubo-malentendidos-nid29072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-29T05:47:16+00:00",
+     "copete": "La sorpresiva ausencia del actor en la boda de la protagonista de American Horror Story generó todo tipo de teorías",
+     "id": "78d523cad0f2"
+    },
+    {
+     "title": "José María Muscari en “Lo de Pampita”: “Lo más desafiante para mí es criar a un hijo heterosexual”",
+     "link": "https://www.infobae.com/teleshow/2026/07/29/jose-maria-muscari-en-lo-de-pampita-lo-mas-desafiante-para-mi-es-criar-a-un-hijo-heterosexual/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-29T05:00:00+00:00",
+     "copete": "El director teatral reflexionó sobre su paternidad, explicó qué busca en una pareja y recordó el profundo impacto que tuvo en él la muerte de su gran amiga, Ernestina Pais",
+     "id": "527cd4085723"
+    },
+    {
      "title": "Lali Espósito sorprendió al aire a Pedro Rosemblat e hizo estallar de risa al estudio: “¿Sabés cómo te dicen a vos?\"",
      "link": "https://www.infobae.com/teleshow/2026/07/29/lali-esposito-sorprendio-al-aire-a-pedro-rosemblat-e-hizo-estallar-de-risa-al-estudio-sabes-como-te-dicen-a-vos/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-07-29T03:36:24+00:00",
+     "published": "2026-07-29T03:56:08+00:00",
      "copete": "Durante un momento en su ciclo de Gelatina, el conductor adelantó que una broma privada le había llegado de la cantante. El video",
      "id": "5950a5686e51"
+    },
+    {
+     "title": "Gustavo Garzón recordó la insólita táctica que usó para encontrar a su hijo después de que se extraviara en el parque",
+     "link": "https://www.infobae.com/teleshow/2026/07/29/gustavo-garzon-recordo-la-insolita-tactica-que-uso-para-encontrar-a-su-hijo-despues-de-que-se-extraviara-en-el-parque/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-29T03:53:59+00:00",
+     "copete": "En el programa de Mario Pergolini, el artista habló de la crianza de sus hijos, compartió el momento en que perdió de vista a uno por segundos y reveló la estrategia que le permitió hallarlo",
+     "id": "16b96f46866e"
     },
     {
      "title": "El pase de factura de Mario Pergolini a Rada por su conducción en los Premios Pinti: “¿Enojado? Tal vez un poquito”",
@@ -217,14 +225,6 @@
      "id": "d63dde80de59"
     },
     {
-     "title": "Nicolás Cabré publicó un comunicado tras la muerte de su hermano: “Agradezco de corazón”",
-     "link": "https://www.infobae.com/teleshow/2026/07/29/nicolas-cabre-publico-un-comunicado-tras-la-muerte-de-su-hermano-agradezco-de-corazon/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-29T02:40:52+00:00",
-     "copete": "El actor se refirió a la continuidad de Ni media palabra, la obra que protagoniza junto a Mariano Martínez y El Bicho Gómez, tras el golpe por el fallecimiento de Diulio Cabré, su hermano mayor",
-     "id": "2c637e14f497"
-    },
-    {
      "title": "Yuyito González sobre Javier Milei: “Me dio paz alejarme de situaciones que han sido decepcionantes”",
      "link": "https://www.lanacion.com.ar/espectaculos/yuyito-gonzalez-sobre-javier-milei-me-dio-paz-alejarme-de-situaciones-que-han-sido-decepcionantes-nid28072026/",
      "source": "La Nación Espectáculos",
@@ -241,28 +241,12 @@
      "id": "255092404691"
     },
     {
-     "title": "El reencuentro por IA de Carmen Barbieri con su padre Alfredo Barbieri que terminó en el llanto de la conductora",
-     "link": "https://www.infobae.com/teleshow/2026/07/29/el-reencuentro-por-ia-de-carmen-barbieri-con-su-padre-alfredo-barbieri-que-termino-en-el-llanto-de-la-conductora/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-29T02:18:08+00:00",
-     "copete": "Santiago Balosky, artista visual especializado en inteligencia artificial, creó para el ciclo de la conductora un video que conmovió a la animadora, a 41 años de la muerte del capocómico. El momento",
-     "id": "d8d60d31773b"
-    },
-    {
      "title": "De novios a reyes del pop: la historia detrás del origen de Miranda!, la banda de Ale Sergi y Juliana Gattas que cumplió 25 años",
      "link": "https://www.lanacion.com.ar/espectaculos/de-novios-a-reyes-del-pop-la-historia-detras-del-origen-de-miranda-la-banda-de-ale-sergi-y-juliana-nid28072026/",
      "source": "La Nación Espectáculos",
      "published": "2026-07-28T23:35:24+00:00",
      "copete": "A lo largo de su carrera, conquistaron estadios y hasta la mismísima Dua Lipa les rindió un tributo; un recorrido por los secretos de la banda que redefinió el pop argentino",
      "id": "2970a6104943"
-    },
-    {
-     "title": "Sabrina Rojas recordó las infidelidades que sufrió y lanzó una propuesta que dio que hablar: “Lo voy a hacer”",
-     "link": "https://www.lanacion.com.ar/espectaculos/sabrina-rojas-recordo-las-infidelidades-que-sufrio-y-lanzo-una-propuesta-que-dio-que-hablar-lo-voy-a-nid28072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-28T23:35:00+00:00",
-     "copete": "La conductora deslizó la posibilidad de crear su propio curso sobre cómo superar el engaño de una pareja y su iniciativa fue interpretada como un palito para Luciano Castro",
-     "id": "52eac495c32e"
     },
     {
      "title": "Polémica en redes por la nueva temporada de \"Soy Luna\": bajo presupuesto, una historia que no cierra y el final que indignó a los fans",
@@ -316,11 +300,11 @@
      "id": "2632771fc8df"
     },
     {
-     "title": "Premios Pinti: los ganadores de la temporada 2026 en el teatro porteño",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmVkTVZFUmZiblY0NVo1MElIMDFWbTVOYmQtd2xEby1RcFJNcGVoeDZsWG1hcm5YS1JBQkU0VUhlNGdfdTVqMlNZdlJ5OHZnQnVyZTZSWWczbGhiMGp5MWJiWHNHdEpMczk3aUVaMy02OVNENEtEZGhCR2xUdExMS3NFYm9wSGFCclZuSHVBeVp5UEZqdXYwSFp4MlpmUWw5OVdDRkc0VjFmVknSAbABQVVfeXFMT2MwRzdfTlVwcmpMa2cxTEhkUXF5Q2hUalpyVl9qUmpxa1ZkbGluZzR2d294bnBocV80MEV5SDRPd1RQVHdNcXFxNE45c2kxczUtOF8zUHozb3k2NFdiOTBCbU94V1lMM05PSlF0ckRibnhBbk9KR2gtTVJ5bElaQ0hDdXNVUHlmMlBVVy1GSk1ud18xemZubjFXenlPZlAxamlDUkh5Yjc2MXpObEx0SGc?oc=5",
-     "source": "La Gaceta",
-     "published": "2026-07-28T11:23:39+00:00",
-     "id": "db06e18cd432"
+     "title": "Todos los ganadores de los Premios Pinti: Charlie y la Fábrica de Chocolate y Rocky lideraron la noche",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR0liNnI5QWh3LTBQaENCZnRqUk1ZNWdMZEFmYXRRaGFodF9VbGc0S0lBOXY3bXBRUnNPNmpBd0NzdlBtRVZwMlE5SkF3Mlc0WjVreVhLWUk4bGpaX2JZYVB1eWhmOFFIcnIyYnFCR0VCbTRsblM4b2VGckREVmxRTHlxX0RTbVg3YWtDUXRmaFlnaTliVExQdmVJOEliSTFtUGdvZXBORnhPZlNTa0lyZUhPLWRZcjNlMzNLWVptU252OElpdk1xdjFmcm9SaUxDajNXa0RUR1Z6cnhpcFkyT3hic3ZSQdIBgAJBVV95cUxOU2QtaXo0SUZkV0QyYUdaXzBjbG9FUk4zaHdNY1RnOU9HSm5pNURZcGNMUmRneGtHNVVYTEZGdlBMZW9fY2JWSE5ndWN2TFRXaTlQNVFZMkVPME9YRERzV2hHa3JvQVJEQ2g0Z2RheFF6cGs2WkVLaTFYOHlTSGcxU2ZZLTk5Y1hia3BHSzVIQ2FSMU1DQUhkWVZjZDVvdUFGOXZXRlhRcE5HbUJIVERNSUo2NTBqVXA3aDM5bHRkcldITVhZd0xCeXc2djRCSWoxNzBaRlFHaktqcUhhcnhaX2YxM1VQbEdEUVhyc0tkYmtDZUlPSjlQSFA0eTRwaC15?oc=5",
+     "source": "Infobae",
+     "published": "2026-07-28T15:50:00+00:00",
+     "id": "60525d4c0255"
     },
     {
      "title": "Fiesta del Alfajor y la Torta Negra 2026: cómo llegar al pueblo que lo festeja y qué hacer durante el fin de semana",
@@ -365,84 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Santilli se reunió con Luis Juez y Gabriel Bornoroni: “Queremos una alternativa potente en Córdoba”",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-que-dejo-la-visita-de-georgieva-su-cruce-con-lula-y-el-nuevo-nid28072026/",
+     "title": "Detuvieron en Escobar a un prófugo buscado por homicidio y robo agravado",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/29/detuvieron-en-escobar-a-un-profugo-buscado-por-homicidio-y-robo-agravado/",
+     "source": "Infobae",
+     "published": "2026-07-29T07:07:35+00:00",
+     "copete": "La Policía Municipal de Escobar capturó a un sospechoso tras una persecución y hallazgo de un arma. El detenido intentó agredir a los agentes y fue neutralizado con un dispositivo de letalidad reducida",
+     "id": "8db484d5209c"
+    },
+    {
+     "title": "Anya Taylor-Joy reveló detalles de su matrimonio con Malcolm McRae: risas, riesgos y “problemas de comunicación”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/anya-taylor-joy-revelo-detalles-de-su-matrimonio-con-malcolm-mcrae-risas-riesgo-y-problemas-de-nid29072026/",
      "source": "La Nación",
-     "published": "2026-07-29T03:42:32+00:00",
+     "published": "2026-07-29T07:06:26+00:00",
+     "copete": "La actriz, que suele ser muy discreta a la hora de hablar sobre su relación, dio algunas pistas de cómo cambió su vida desde el día que pasó por el altar",
+     "id": "a68f4222ba81"
+    },
+    {
+     "title": "Un título memorable y un sí que lo cambió todo: la historia de amor detrás de la primera estrella de Racing en el fútbol femenino",
+     "link": "https://www.infobae.com/deportes/2026/07/29/un-titulo-memorable-y-un-si-que-lo-cambio-todo-la-historia-de-amor-detras-de-la-primera-estrella-de-racing-en-el-futbol-femenino/",
+     "source": "Infobae",
+     "published": "2026-07-29T07:06:23+00:00",
+     "copete": "La Academia alcanzó un logro inédito tras una campaña dominante en un proceso que por fin encontró su premio. Y se coronó con la unión de Agostina Holzheier, una de las figuras y Franco Muscogorry, entrenador de arqueras",
+     "id": "3cb313f3b599"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: tensión diplomática y los preparativos de la cadena nacional",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tension-diplomatica-y-los-preparativos-de-la-cadena-nacional-nid29072026/",
+     "source": "La Nación",
+     "published": "2026-07-29T07:05:26+00:00",
      "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "238ed44dd3be"
+     "id": "2561a063f6e5"
     },
     {
-     "title": "A qué hora es la cadena nacional de Milei el jueves",
-     "link": "https://www.lanacion.com.ar/politica/a-que-hora-es-la-cadena-nacional-de-milei-el-jueves-nid29072026/",
+     "title": "Bárbara Rey Actis, especialista en longevidad: “La IA va a favorecer al talento senior”",
+     "link": "https://www.infobae.com/generacion-silver/2026/07/29/barbara-rey-actis-especialista-en-longevidad-la-ia-va-a-favorecer-al-talento-senior/",
+     "source": "Infobae",
+     "published": "2026-07-29T07:04:30+00:00",
+     "copete": "Esta profesional argentina radicada en Madrid afirma que la inteligencia artificial está sustituyendo muchos puestos de trabajo junior; en contrapartida, las empresas empiezan a darle más valor a “la experiencia, es decir, al pensamiento…",
+     "id": "e189039a054e"
+    },
+    {
+     "title": "El mercado de pases de la selección argentina rumbo al Mundial 2030",
+     "link": "https://www.infobae.com/deportes/2026/07/29/el-mercado-de-pases-de-la-seleccion-argentina-rumbo-al-mundial-2030/",
+     "source": "Infobae",
+     "published": "2026-07-29T07:02:09+00:00",
+     "copete": "La actualidad de los jugadores que podrían disputar con la Albiceleste la próxima Copa del Mundo",
+     "id": "ad7ca67908a7"
+    },
+    {
+     "title": "Colesterol: el medicamento “estrella” para bajarlo y por qué una dieta saludable no es suficiente, según un médico",
+     "link": "https://www.lanacion.com.ar/sociedad/colesterol-el-medicamento-estrella-para-bajarlo-y-por-que-una-dieta-saludable-no-es-suficiente-segun-nid29072026/",
      "source": "La Nación",
-     "published": "2026-07-29T03:40:00+00:00",
-     "copete": "El Presidente encabezará un anuncio para presentar la reforma de la Carta Orgánica del Banco Central (BCRA), uno de los proyectos más importantes de su agenda económica",
-     "id": "4f0bd3ebd63a"
+     "published": "2026-07-29T07:00:00+00:00",
+     "copete": "El cardiólogo Jorge Tartaglione visitó los estudios de LN+, donde recomendó la ingesta de estatinas; cómo controlar los niveles y qué riesgos pueden reducirse con medicación",
+     "id": "f0fc9985ca28"
     },
     {
-     "title": "Hace 12.000 años eran decenas de miles pero hoy se extinguen: el número de lenguas registra un notable descenso",
-     "link": "https://www.infobae.com/cultura/2026/07/29/hace-12000-anos-eran-miles-y-hoy-se-extinguen-el-descenso-vertiginoso-en-el-numero-de-lenguas/",
-     "source": "Infobae",
-     "published": "2026-07-29T03:40:00+00:00",
-     "copete": "Un estudio publicado en la revista Science revela que actualmente el 90 % de la humanidad usa apenas el 10 % de los idiomas, un desequilibrio que acelera la desaparición de muchas formas de hablar",
-     "id": "78d63d28cea6"
-    },
-    {
-     "title": "Oficial y confirmado: cuándo inician las clases en Florida y el nuevo ciclo escolar en Orlando y Miami 2026",
-     "link": "https://www.lanacion.com.ar/estados-unidos/florida/oficial-y-confirmado-cuando-inician-las-clases-en-florida-y-el-nuevo-ciclo-escolar-en-orlando-y-nid29072026/",
+     "title": "Mansión Saavedra Zelaya: de palacete Belle Époque a albergar al Lenguas Vivas",
+     "link": "https://www.lanacion.com.ar/revista-lugares/mansion-saavedra-zelaya-de-palacete-belle-epoque-a-albergar-al-lenguas-vivas-nid29072026/",
      "source": "La Nación",
-     "published": "2026-07-29T03:31:00+00:00",
-     "copete": "Conoce cuándo comienzan las clases en Florida en 2026 y qué cambios enfrentarán las escuelas públicas de Orlando y Miami por la baja matrícula.",
-     "id": "fe48907ec18a"
+     "published": "2026-07-29T06:59:00+00:00",
+     "copete": "Desde 1963, el emblemático instituto educativo especializado en idiomas ocupa la bella residencia de Retiro, construida a principios del siglo XX en terrenos entonces ubicados a la vera del Río de la Plata",
+     "id": "9539d4f017a5"
     },
     {
-     "title": "Juicio por Loan: quiénes son y qué se espera de los cuatro testigos que declararán este miércoles",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/29/juicio-por-loan-quienes-son-y-que-se-espera-de-los-cuatro-testigos-que-declararan-este-miercoles/",
-     "source": "Infobae",
-     "published": "2026-07-29T03:30:00+00:00",
-     "copete": "Un concejal, una autoridad sanitaria local y dos efectivos de la policía provincial fueron convocados para aportar detalles sobre la falsa alarma que ocurrió en las primeras horas después de la desaparición del niño y el inicio de los…",
-     "id": "bfa8f6c7f6a7"
-    },
-    {
-     "title": "Verano del 68: cuando Miss América enfureció a las feministas",
-     "link": "https://www.infobae.com/cultura/2026/07/29/cuando-miss-america-enfurecio-a-las-feministas/",
-     "source": "Infobae",
-     "published": "2026-07-29T03:30:00+00:00",
-     "copete": "En una animada cronología social, la historiadora estadounidense Micki McElya analiza cómo la política de la belleza moldeó y, a la vez, dividió el movimiento de mujeres",
-     "id": "c9bb69bde292"
-    },
-    {
-     "title": "Revelaron que el hombre asesinado tras discutir con sus familiares por ruidos molestos recibió 11 puñaladas",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/29/revelaron-que-el-hombre-asesinado-tras-discutir-con-sus-familiares-por-ruidos-molestos-recibio-11-punaladas/",
-     "source": "Infobae",
-     "published": "2026-07-29T03:25:42+00:00",
-     "copete": "La herida mortal fue en la yugular de acuerdo a lo que trascendió del informe preliminar sobre el cuerpo del hombre de 40 años. Se postergó la declaración de los detenidos",
-     "id": "03bfe4edcf0e"
-    },
-    {
-     "title": "Cuándo deberían obligarte a dejar de manejar y qué dice la ley Argentina",
-     "link": "https://www.lanacion.com.ar/autos/cuando-deberian-obligarte-a-dejar-de-manejar-y-que-dice-la-ley-argentina-nid29072026/",
-     "source": "La Nación",
-     "published": "2026-07-29T03:15:00+00:00",
-     "copete": "Un estudio internacional determinó cuál es la edad promedio en la que las personas deben dejar de conducir y los motivos",
-     "id": "d9b8f2c56fed"
-    },
-    {
-     "title": "La psicología dice que los padres rara vez pierden a sus hijos adultos por una sola pelea; los pierden con el paso de los años, una disculpa evadida, un recuerdo reescrito, un \"eres demasiado sensible\" a la vez",
-     "link": "https://www.clarin.com/estados-unidos/psicologia-dice-padres-rara-vez-pierden-hijos-adultos-sola-pelea-pierden-paso-anos-disculpa-evadida-recuerdo-reescrito-demasiado-sensible-vez_0_zYDNWZImYA.html",
+     "title": "En medio de la tragedia, así están las Cataratas del Iguazú que registran una crecida histórica: hay advertencia de tormentas severas",
+     "link": "https://www.clarin.com/sociedad/medio-tragedia-cataratas-iguazu-registran-crecida-historica-advertencia-tormentas-severas_0_s4lEwTiH1W.html",
      "source": "Clarín",
-     "published": "2026-07-29T00:23:58+00:00",
-     "copete": "El desgaste de los vínculos familiares suele construirse de manera gradual y casi imperceptible. Especialistas identifican tres conductas que pueden acelerar ese proceso.",
-     "id": "d37af125ebbb"
+     "published": "2026-07-29T04:18:21+00:00",
+     "copete": "Producto del impactante caudal, un turista holandés murió este martes al volcar la lancha en la que viajaba. Días atrás, se había decidido cerrar las pasarelas que conducen a la Garganta del Diablo debido al imponente crecimiento de las…",
+     "id": "d19124e6343d"
     },
     {
-     "title": "Florida devolvió más de 500.000 toneladas de caparazones de ostras y almejas al mar durante 17 años: hoy forman un refugio para miles de especies",
-     "link": "https://www.clarin.com/estados-unidos/florida-devolvio-500000-toneladas-caparazones-ostras-almejas-mar-17-anos-hoy-forman-refugio-miles-especies_0_SjZyqDAmAk.html",
+     "title": "Wynns y Quantrill llevan a Rangers a su 4ta victoria en 5 duelos, 4-1 ante Rays",
+     "link": "https://www.clarin.com/estados-unidos/wynns-y-quantrill-llevan-a-rangers-a-su-4ta-victoria-en-5-duelos-4-1-ante-rays_0_9TkjMTbdgz.html",
      "source": "Clarín",
-     "published": "2026-07-29T00:19:58+00:00",
-     "copete": "Tras casi dos décadas de trabajo, la iniciativa favoreció la recuperación de la biodiversidad.",
-     "id": "c1ad1c9fbd4a"
+     "published": "2026-07-29T04:00:04+00:00",
+     "copete": "Texas superó a Tampa Bay 4-1 en un duelo donde Quantrill brilló con siete ponches y Wynns aportó un jonrón decisivo. Carter destacó con dos hits y una impulsada, mientras el relevo de Texas mantuvo a raya a los Rays, sellando su cuarta…",
+     "id": "0762e796d9f7"
     }
    ]
   },
@@ -455,9 +439,25 @@
      "title": "Así te lo contamos: Keiko Fujimori asume como presidenta y dice que \"hay un solo Perú vibrante, multicultural, fuerte y milenario\"",
      "link": "https://www.bbc.co.uk/mundo/live/c20j1klne37t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-29T03:46:19.381371+00:00",
+     "published": "2026-07-29T07:09:23.501810+00:00",
      "copete": "La política de 51 años es la primera mujer que llega al cargo por voto popular y, como hija del fallecido expresidente Alberto Fujimori, representa el regreso de una dinastía política influyente y polarizadora. Sus prioridades serán la…",
      "id": "39668bac32c3"
+    },
+    {
+     "title": "Los muertos en el terremoto de Japón se elevan ya a 13 mientras prosigue la búsqueda de desaparecidos",
+     "link": "https://elpais.com/internacional/2026-07-29/los-muertos-en-el-terremoto-de-japon-se-elevan-ya-a-13-mientras-prosigue-la-busqueda-de-desaparecidos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-29T06:59:17+00:00",
+     "copete": "Hay al menos una veintena de personas sin localizar, la mitad de ellos atrapados en un centro comercial en el que hubo una explosión tras el seísmo",
+     "id": "203897777aed"
+    },
+    {
+     "title": "El mapa que muestra cómo la derecha ha extendido su poder en América Latina (y qué explica esta tendencia)",
+     "link": "https://www.bbc.com/mundo/articles/ckg9x4ejprwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-29T03:57:20+00:00",
+     "copete": "Los líderes derechistas ganan fuerza en la región al vencer una serie de elecciones y contar con respaldo de Washington. ¿Un fenómeno duradero?",
+     "id": "3450cab65d02"
     },
     {
      "title": "Alemania avanza en su objetivo de convertirse en una gran potencia armamentística ante la amenaza rusa",
@@ -492,33 +492,22 @@
      "id": "618721139611"
     },
     {
-     "title": "La polémica que genera el plan de la FIFA para atraer inversionistas privados al Mundial",
-     "link": "https://www.bbc.com/mundo/articles/cp9e2v79edpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-28T21:13:00+00:00",
-     "copete": "La UEFA, organismo rector del fútbol europeo, reaccionó con indignación ante las propuestas de la FIFA de buscar inversión privada para sus competiciones, incluida la Copa del Mundo.",
-     "id": "d59fbbb7a369"
-    },
-    {
      "title": "Zelenski y Trump reafirman en la Casa Blanca su nueva sintonía en torno a la guerra de Ucrania",
      "link": "https://elpais.com/internacional/2026-07-28/zelenski-y-trump-reafirman-en-la-casa-blanca-su-nueva-sintonia-en-torno-a-la-guerra-de-ucrania.html",
      "source": "El País Internacional",
      "published": "2026-07-28T17:22:59+00:00",
      "copete": "El presidente ucranio ofrece la tecnología de drones para el conflicto de Estados Unidos contra Irán y pide a cambio misiles norteamericanos Patriot",
      "id": "b5f115ba9e91"
-    },
-    {
-     "title": "La reactivación en algunas zonas del incendio del suroeste de Francia obliga a evacuar a 4.000 turistas",
-     "link": "https://elpais.com/internacional/2026-07-28/la-reactivacion-en-algunas-zonas-del-incendio-del-suroeste-de-francia-obliga-a-evacuar-a-4000-turistas.html",
-     "source": "El País Internacional",
-     "published": "2026-07-28T17:06:50+00:00",
-     "copete": "El país afronta una nueva ola de calor que amenaza con reavivar el fuego, que ha arrasado ya 42.000 hectáreas y ha obligado a desalojar a 220.000 personas",
-     "id": "997f782facd4"
     }
    ]
   }
  ],
  "_errors": [
+  {
+   "section": "oncologia",
+   "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
