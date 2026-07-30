@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-07-29T22:09:25Z",
+  "generated_at": "2026-07-30T10:07:23Z",
   "summaries": {
-    "a82d9d905aee": {
-      "resumen": "Journal of Clinical Oncology publica un artículo de perspectiva sobre el bloqueo de TIGIT (un punto de control inmunitario), a partir de los resultados del ensayo SKYSCRAPER-01 en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con alta expresión de PD-L1 (ligando 1 de muerte programada), y hacia dónde va esta estrategia. Interesa porque plantea el futuro de una clase de inmunoterapia que hasta ahora no logró superar el estándar actual.",
-      "destacado": false
-    },
-    "b6a7955d0ff8": {
-      "resumen": "Journal of Clinical Oncology publica los resultados actualizados a cinco años del ensayo STELLAR, un estudio aleatorizado que comparó radioterapia de curso corto seguida de quimioterapia de consolidación versus quimiorradioterapia de curso largo en cáncer de recto localmente avanzado. Es el estudio destacado de hoy por tratarse de un seguimiento a largo plazo de un ensayo que busca simplificar el tratamiento preoperatorio de este tumor.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, multicéntrico, actualización a cinco años de seguimiento del estudio STELLAR.\nPoblación: Pacientes con cáncer de recto localmente avanzado candidatos a tratamiento neoadyuvante antes de la cirugía.\nIntervención: Radioterapia de curso corto seguida de quimioterapia de consolidación, comparada contra quimiorradioterapia de curso largo convencional.\nResultados: No hay cifras de supervivencia global, supervivencia libre de enfermedad ni de recurrencia local a cinco años disponibles sin el abstract completo.\nLimitaciones: Sin abstract no se puede evaluar el seguimiento real, la magnitud del efecto ni si se mantiene la no inferioridad reportada en el análisis previo a tres años.\nMensaje: Los datos a cinco años son clave para confirmar si el esquema corto y más simple para el paciente sostiene en el tiempo los resultados oncológicos del esquema largo tradicional.\nNota: análisis sin acceso al abstract."
-    },
-    "849999e8c89a": {
-      "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre un análisis multicéntrico internacional acerca del uso de metotrexato en dosis altas como profilaxis del sistema nervioso central (SNC) en linfoma de células B grandes de riesgo ultra alto. Es una corrección editorial sin datos clínicos nuevos.",
-      "destacado": false
-    },
-    "3e9d32ca91b1": {
-      "resumen": "El viaje de Coco Carreño a Nápoles fue la inspiración detrás de una de las aperturas gastronómicas más esperadas de Buenos Aires."
-    },
     "a3939d98a861": {
       "resumen": "Una guía para llegar al pueblo que celebra la Fiesta del Alfajor y la Torta Negra 2026 y aprovechar las actividades del fin de semana."
     },
@@ -26,25 +10,10 @@
     "e00f9bed62f6": {
       "resumen": "FM Universo 97.3 propone más de 60 planes para el fin de semana del 24 al 26 de julio en Buenos Aires, entre recitales, teatro, cine, muestras y actividades gratuitas."
     },
-    "f04064f7702e": {
-      "resumen": "Journal of Clinical Oncology publica \"He Was Always There\", un relato personal en su sección narrativa (Art of Oncology), sin datos de estudios clínicos. Puede interesar como lectura reflexiva sobre la experiencia humana en oncología, aunque no aporta evidencia clínica nueva.",
-      "destacado": false
-    },
-    "a265ca9d76c0": {
-      "resumen": "Los Premios Pinti 2026 distinguieron lo mejor del teatro comercial argentino en una nueva edición de la ceremonia."
-    },
     "5b5c82d7286c": {
       "resumen": "OncLive entrevista a la Dra. Secord sobre la combinación del conjugado anticuerpo-fármaco (ADC, por sus siglas en inglés) mocertatug rezetecan con dostarlimab, un inhibidor del punto de control PD-1 (proteína de muerte celular programada 1), en cáncer de endometrio. Vale la pena seguirlo por el interés creciente en combinar terapias dirigidas con inmunoterapia en tumores ginecológicos.",
-      "destacado": false
-    },
-    "87e7233fb86f": {
-      "resumen": "OncLive repasa nuevos datos de seguimiento de cosibelimab, un anticuerpo monoclonal dirigido contra PD-L1 (ligando 1 de muerte celular programada), en carcinoma de células escamosas cutáneo localmente avanzado. Interesa por la falta de opciones de inmunoterapia con seguimiento largo en este subtipo tumoral.",
       "destacado": false,
-      "analisis": "Diseño: No se especifican en el título el tipo de estudio, la aleatorización ni el número de centros o de pacientes; se trata de un reporte de datos de seguimiento (follow-up) de un estudio en curso.\nPoblación: Pacientes con carcinoma de células escamosas cutáneo localmente avanzado.\nIntervención: Cosibelimab, anticuerpo monoclonal anti-PD-L1 (ligando 1 de muerte celular programada), sin comparador mencionado en el título.\nResultados: No informados en el título ni disponibles sin acceso al artículo original.\nLimitaciones: Nota de OncLive sobre datos de congreso, sin acceso al artículo completo ni a las cifras de eficacia o seguridad.\nMensaje: Sugiere continuidad del beneficio a más largo plazo, pero sin los números no puede confirmarse la magnitud del efecto.\nNota: análisis sin acceso al abstract."
-    },
-    "f7859ec64006": {
-      "resumen": "OncLive analiza el uso de esquemas de quimioterapia de tipo pediátrico en adolescentes y adultos jóvenes con leucemia linfoblástica aguda (LLA), centrándose en cómo optimizar la asparaginasa y manejar sus efectos adversos en la práctica diaria. Sirve como guía práctica más que como reporte de un estudio nuevo.",
-      "destacado": false
+      "analisis": "Diseño: No se especifican en el título el tipo de estudio, la fase, la aleatorización ni el número de pacientes o centros; se trata de una entrevista sobre una combinación en desarrollo clínico.\nPoblación: Pacientes con cáncer de endometrio, probablemente en estadio avanzado o recurrente.\nIntervención: Combinación del conjugado anticuerpo-fármaco (ADC) mocertatug rezetecan con dostarlimab, un inhibidor del punto de control PD-1 (proteína de muerte celular programada 1); no se menciona comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo o al abstract del estudio referido.\nLimitaciones: Nota de OncLive en formato entrevista, sin acceso a los datos de eficacia, seguridad ni al diseño formal del ensayo.\nMensaje: Podría ampliar las opciones de combinación dirigida en cáncer de endometrio, pero sin los datos concretos no puede evaluarse el beneficio real.\nNota: análisis sin acceso al abstract."
     },
     "c2b8e7f400d4": {
       "resumen": "The ASCO Post difunde un estudio sobre variantes genéticas germinales (heredadas) asociadas a la seguridad y la eficacia de la terapia con células T con receptor de antígeno quimérico (CAR-T) en neoplasias hematológicas. Relevante para entender por qué algunos pacientes responden mejor o sufren más toxicidad con esta terapia.",
@@ -60,27 +29,6 @@
       "destacado": false,
       "analisis": "Diseño: No se especifican en el título el tipo de estudio (probablemente comparación retrospectiva o de registro), aleatorización, cegamiento, ni número de centros o de pacientes.\nPoblación: Pacientes candidatos a trasplante alogénico de células madre hematopoyéticas, comparando donante no emparentado no compatible (MMUD) frente a donante emparentado compatible (MRD).\nIntervención: Trasplante con MMUD sumado a profilaxis con ciclofosfamida postrasplante, comparado con trasplante con MRD.\nResultados: No informados en el título ni disponibles sin acceso al artículo original.\nLimitaciones: Nota de The ASCO Post sin acceso al artículo completo ni a los datos de supervivencia o incidencia de complicaciones.\nMensaje: Podría respaldar el uso de MMUD con ciclofosfamida postrasplante como alternativa razonable cuando no hay donante idéntico, pero sin los números no puede confirmarse la equivalencia clínica.\nNota: análisis sin acceso al abstract."
     },
-    "cf14f06fbec9": {
-      "resumen": "Vogué México propone la mariposa tumbada, una postura de yoga para aliviar la hinchazón después de comer."
-    },
-    "62c2e2b10001": {
-      "resumen": "Las blusas halter, ícono de los años 2000, vuelven para imponerse en los looks minimalistas del verano 2026."
-    },
-    "9a7f0cd0ee45": {
-      "resumen": "Anne Hathaway lució unas sandalias italianas y las combinó con pollera midi, según Vogue México."
-    },
-    "2b3bb2800655": {
-      "resumen": "Las minifaldas globo o «burbuja» se perfilan como una de las tendencias fuertes del verano 2027."
-    },
-    "57cb0396969d": {
-      "resumen": "Mango lanza fuertes rebajas en camperas de entretiempo pensando en el otoño, con opciones elegantes y atemporales."
-    },
-    "101cad98f300": {
-      "resumen": "La minifalda burbuja se volvió viral entre las estilistas por el efecto de piernas infinitas que genera."
-    },
-    "eb5398cbb94f": {
-      "resumen": "Lucía y Joaquín Galán, el dúo Pimpinela, festejaron los 30 años del Hogar Pimpinela, la fundación solidaria que crearon."
-    },
     "2cf50895b973": {
       "resumen": "El Destape recomienda restaurantes para ir con chicos durante las vacaciones de invierno 2026 en Buenos Aires."
     },
@@ -90,11 +38,62 @@
     "dc59bf7ccef4": {
       "resumen": "La obra “Le Frigó” vuelve por tercera temporada al Teatro Picadero."
     },
-    "87225a7acb88": {
-      "resumen": "Se conocieron las fechas de los cuatro shows de Rosalía en Argentina, en medio de un escándalo del que aún se conocen pocos detalles."
-    },
     "ea2acddfc382": {
       "resumen": "Página/12 propone planes de cultura LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "8bbbf3448f4a": {
+      "resumen": "OncLive entrevista a la Dra. Marlana Orloff sobre cómo secuenciar el tratamiento sistémico y las terapias dirigidas al hígado (terapia locorregional hepática) en pacientes con melanoma uveal metastásico que no tienen el antígeno leucocitario humano HLA-A*02:01, el subtipo genético requerido para recibir tebentafusp. Sirve para pensar el manejo de estos pacientes que quedan afuera de la principal inmunoterapia aprobada para este tumor.",
+      "destacado": false
+    },
+    "6518e7e9bf4e": {
+      "resumen": "OncLive analiza por qué adelantar el uso de la terapia con células T con receptor de antígeno quimérico (CAR-T) a líneas más tempranas de tratamiento está cambiando el manejo del mieloma múltiple. Es una nota de opinión sobre hacia dónde va el campo, más que el reporte de un estudio puntual.",
+      "destacado": false
+    },
+    "bf18b9db7044": {
+      "resumen": "Journal of Clinical Oncology publica un artículo de opinión de Hwang CS y colaboradores sobre las protecciones regulatorias para las aprobaciones aceleradas de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) cuando se agregan indicaciones complementarias a un fármaco ya aprobado. Interesa por su impacto en cómo se autorizan y vigilan los nuevos usos de tratamientos oncológicos ya en el mercado.",
+      "destacado": false
+    },
+    "dd5f1f33d8bf": {
+      "resumen": "Journal of Clinical Oncology publica el ensayo COMMIT, un estudio aleatorizado de primera línea en cáncer colorrectal metastásico con reparación deficiente del ADN por disparidad (dMMR, por sus siglas en inglés), que compara el esquema de quimioterapia mFOLFOX6 más bevacizumab (antiangiogénico) y atezolizumab (inhibidor de PD-L1, ligando 1 de muerte celular programada) contra atezolizumab en monoterapia. Es el estudio destacado de hoy porque busca definir si conviene sumar quimioterapia a la inmunoterapia como primera línea en este subgrupo molecular.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, de primera línea (según el título; no se especifican en el título el cegamiento ni el número de centros o de pacientes).\nPoblación: Pacientes con cáncer colorrectal metastásico con reparación deficiente del ADN por disparidad (dMMR, mismatch repair deficient), sin tratamiento sistémico previo para enfermedad metastásica.\nIntervención: mFOLFOX6 (esquema de quimioterapia) más bevacizumab (antiangiogénico) y atezolizumab (inhibidor de PD-L1) versus atezolizumab en monoterapia.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar el criterio de valoración principal, las cifras de supervivencia libre de progresión o global, ni el perfil de toxicidad de cada brazo.\nMensaje: Definirá si en cáncer colorrectal metastásico dMMR conviene sumar quimioterapia y un antiangiogénico a la inmunoterapia de entrada, o si la inmunoterapia sola alcanza como primera línea.\nNota: análisis sin acceso al abstract."
+    },
+    "d6877631940e": {
+      "resumen": "Journal of Clinical Oncology publica los resultados clínicos a largo plazo de tisagenlecleucel, una terapia con células T con receptor de antígeno quimérico (CAR-T), en pacientes pediátricos y adultos jóvenes con leucemia linfoblástica aguda (LLA) recaída o refractaria. Interesa por aportar datos de durabilidad de la respuesta y de seguridad a largo plazo de una de las primeras terapias CAR-T aprobadas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de seguimiento a largo plazo de una cohorte tratada (según el título; no se especifican si es prospectivo o retrospectivo, ni el número de centros o de pacientes).\nPoblación: Pacientes pediátricos y adultos jóvenes con leucemia linfoblástica aguda (LLA) recaída o refractaria.\nIntervención: Tisagenlecleucel, terapia con células T con receptor de antígeno quimérico (CAR-T) dirigida contra CD19; sin comparador, se trata del seguimiento de una cohorte tratada.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar la supervivencia libre de eventos ni global a largo plazo, la tasa de recaída, ni la incidencia tardía de complicaciones como neoplasias secundarias.\nMensaje: Aporta evidencia de durabilidad y seguridad a largo plazo de tisagenlecleucel, un dato clave para consolidar su lugar en el tratamiento de la LLA recaída o refractaria en pediatría y adultos jóvenes.\nNota: análisis sin acceso al abstract."
+    },
+    "3ecd3526afcb": {
+      "resumen": "Journal of Clinical Oncology publica el ensayo FIND, un estudio prospectivo, aleatorizado y de fase III que evalúa el monitoreo dinámico de la metilación del ADN tumoral circulante (ctDNA, por sus siglas en inglés) para guiar la vigilancia posoperatoria en cáncer colorrectal no metastásico. Interesa porque podría cambiar cómo se hace el seguimiento después de la cirugía en este tumor.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III, prospectivo y aleatorizado (según el título; no se especifican en el título el cegamiento ni el número de centros o de pacientes).\nPoblación: Pacientes con cáncer colorrectal no metastásico sometidos a cirugía con intención curativa.\nIntervención: Vigilancia posoperatoria guiada por monitoreo dinámico de la metilación del ADN tumoral circulante (ctDNA) versus vigilancia estándar (el comparador exacto no se especifica en el título).\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar el criterio de valoración principal (por ejemplo, supervivencia libre de enfermedad), el impacto real en la detección temprana de recaída ni el rendimiento de la prueba de metilación.\nMensaje: Si confirma utilidad clínica, podría posicionar al ctDNA por metilación como herramienta para personalizar la intensidad del seguimiento posoperatorio en cáncer colorrectal.\nNota: análisis sin acceso al abstract."
+    },
+    "defe8da94e4e": {
+      "resumen": "Mujerhoy repasa el regreso del estilo babydoll y responde a las críticas que lo acusan de infantilizar a las mujeres, repasando su verdadero origen histórico."
+    },
+    "16d05f0e6465": {
+      "resumen": "Vogue México destaca una malla de una marca colombiana como la prenda imprescindible para este verano y los próximos."
+    },
+    "d1a8b629b198": {
+      "resumen": "Belinda es tapa de Vogue México y Latinoamérica en una edición especial junto a la marca Levi's."
+    },
+    "ada17d0429d4": {
+      "resumen": "Adidas Originals Sport desembarca en México con una colección que combina moda urbana y tecnología deportiva pensada para entrenar con estilo."
+    },
+    "77617af15ca7": {
+      "resumen": "El Mundo repasa el regreso de un accesorio típico de los años 2000 que este verano volvió a aparecer en los looks más seguidos de la moda."
+    },
+    "4f91add874f7": {
+      "resumen": "Vogue México selecciona los mejores perfumes con feromonas para mujer del momento."
+    },
+    "049eee86d7b5": {
+      "resumen": "El musical Sweeney Todd, ganador de numerosos premios, se estrena en Buenos Aires."
+    },
+    "8673d22088e8": {
+      "resumen": "El Teatro Colón continúa con las funciones de \"El carnaval de los animales\" en Mar del Plata."
+    },
+    "2cc1d86b7d33": {
+      "resumen": "Un nuevo ciclo de experiencias gastronómicas sensoriales recorrerá distintos restaurantes de Buenos Aires."
     }
   }
 }
