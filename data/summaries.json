@@ -1,99 +1,97 @@
 {
-  "generated_at": "2026-07-31T10:06:51Z",
+  "generated_at": "2026-07-31T22:08:01Z",
   "summaries": {
-    "58130ccdd7e0": {
-      "resumen": "OncLive entrevista a la Dra. Barot sobre la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) del esquema con palbociclib (un inhibidor de CDK4/6, las quinasas dependientes de ciclina 4 y 6) más trastuzumab (anticuerpo monoclonal anti-HER2, el receptor 2 del factor de crecimiento epidérmico humano), con o sin pertuzumab (otro anticuerpo anti-HER2), para el cáncer de mama HER2 positivo. Sirve para entender el respaldo científico detrás de esta combinación en un tumor con blanco terapéutico bien definido.",
+    "d499b8c68343": {
+      "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 vipivotide tetraxetan, una terapia con radioligando dirigida contra el PSMA (antígeno de membrana específico de la próstata), para pacientes con cáncer de próstata metastásico sensible a la castración (mHSPC, por sus siglas en inglés) con PSMA positivo. Es relevante porque extiende la terapia con radioligandos a una etapa más temprana de la enfermedad, antes reservada para el cáncer resistente a la castración.",
       "destacado": false
     },
-    "44fae16668b9": {
-      "resumen": "OncLive entrevista al oncólogo Matthew Galsky sobre los datos que respaldaron la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) del esquema perioperatorio con enfortumab vedotin (EV, un anticuerpo conjugado a droga) más pembrolizumab (un inhibidor de PD-1) para el cáncer de vejiga músculo-invasivo (MIBC, por sus siglas en inglés). Sirve para entender el respaldo científico detrás de un cambio de estándar en el tratamiento perioperatorio de este tumor.",
+    "dc7ca7f169e8": {
+      "resumen": "OncLive analiza cómo Optune Pax, un dispositivo de campos de tratamiento de tumores (TTFields, por sus siglas en inglés) que se suma a la quimioterapia, está cambiando el abordaje del cáncer de páncreas localmente avanzado. Sirve para conocer una tecnología no farmacológica que se suma al arsenal terapéutico en un tumor de pronóstico particularmente difícil.",
       "destacado": false
     },
-    "2e2b09415746": {
-      "resumen": "OncLive repasa cómo evoluciona el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con mutaciones en el gen EGFR (receptor del factor de crecimiento epidérmico), poniendo en la balanza eficacia, seguridad y la carga que implica el tratamiento para el paciente. Útil para actualizar el panorama terapéutico de un subtipo molecular muy frecuente en oncología torácica.",
+    "50895927c0d9": {
+      "resumen": "OncLive entrevista a la Dra. Solange Peters sobre el lugar que empiezan a ocupar los anticuerpos biespecíficos anti-PD-L1/VEGF (ligando 1 de muerte celular programada y factor de crecimiento endotelial vascular) en primera línea del cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés). Interesa porque estas moléculas combinan en una sola droga inmunoterapia y antiangiogénesis, una estrategia que compite con los esquemas actuales.",
       "destacado": false
     },
-    "3d3a253f998d": {
-      "resumen": "The ASCO Post reporta un estudio que usó inteligencia artificial (IA) para identificar qué pacientes con cáncer de recto se beneficiarían más de intensificar con irinotecán la quimiorradioterapia neoadyuvante (previa a la cirugía). Interesa porque apunta a personalizar un tratamiento que hoy se indica de forma más uniforme.",
+    "27915e753de5": {
+      "resumen": "The ASCO Post reporta un estudio de la ACS (American Cancer Society, Sociedad Americana del Cáncer) que cuantifica la carga financiera que enfrentan los pacientes mayores con cáncer, un fenómeno conocido como toxicidad financiera. Interesa porque pone números a un problema que suele quedar fuera de la discusión puramente clínica y que impacta la adherencia al tratamiento.",
       "destacado": false,
-      "analisis": "Diseño: Estudio que desarrolla y aplica un modelo de inteligencia artificial (IA) para predecir respuesta, sobre una cohorte de pacientes con cáncer de recto (el título no especifica el tipo exacto de estudio, ni el número de centros o de pacientes).\nPoblación: Pacientes con cáncer de recto candidatos a quimiorradioterapia neoadyuvante.\nIntervención: Quimiorradioterapia neoadyuvante intensificada con irinotecán, seleccionada mediante un modelo de IA que identifica a los pacientes con mayor probabilidad de beneficio; sin comparador explícito en el título.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar cómo se validó el modelo de IA, en qué población se entrenó, ni si el beneficio se tradujo en respuesta patológica completa o en supervivencia.\nMensaje: Es un paso hacia seleccionar con herramientas de IA a los pacientes con cáncer de recto que más se beneficiarían de intensificar el tratamiento neoadyuvante, aunque falta validación prospectiva para cambiar la práctica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio (probablemente de registro o encuesta poblacional) de la American Cancer Society (Sociedad Americana del Cáncer) que cuantifica costos; el título no especifica si es prospectivo o retrospectivo, ni el número de pacientes o centros involucrados.\nPoblación: Pacientes oncológicos de edad avanzada (adultos mayores) con diagnóstico de cáncer.\nIntervención: No aplica intervención terapéutica; se trata de un análisis observacional de la carga financiera asociada al diagnóstico y tratamiento oncológico.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar la metodología de estimación de costos, el tamaño y representatividad de la muestra, ni si se ajustó por comorbilidades o tipo de tumor.\nMensaje: Alerta sobre la magnitud del impacto económico del cáncer en los adultos mayores, un aspecto a incorporar en la discusión de calidad de vida y adherencia al tratamiento, aunque sin cifras concretas todavía.\nNota: análisis sin acceso al abstract."
     },
-    "478c560499f9": {
-      "resumen": "The ASCO Post informa que la Dra. Beth Erickson, especialista en radioterapia oncológica, fue designada presidenta electa de ASTRO (Sociedad Americana de Oncología Radioterápica). Es una noticia institucional que marca quién liderará una de las sociedades científicas de referencia en radioterapia oncológica.",
+    "9180767f46d5": {
+      "resumen": "The ASCO Post reporta un estudio según el cual la consolidación con trasplante de células madre hematopoyéticas mejora la supervivencia en el linfoma primario del sistema nervioso central (SNC). Interesa porque este linfoma es un tumor agresivo y poco frecuente, y el hallazgo podría reforzar el rol del trasplante en la consolidación del tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio que evalúa la consolidación con trasplante (probablemente autólogo de células madre hematopoyéticas) en linfoma primario del sistema nervioso central; el título no precisa si es un ensayo aleatorizado, una cohorte o un análisis retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC), presumiblemente luego de responder a quimioterapia de inducción.\nIntervención: Consolidación con trasplante de células madre hematopoyéticas; el título no especifica el comparador (por ejemplo, quimioterapia de consolidación sin trasplante o radioterapia).\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin abstract no se puede evaluar el tipo de trasplante (autólogo o alogénico), las cifras de supervivencia libre de progresión o global, ni la toxicidad asociada al procedimiento.\nMensaje: Sugiere que la consolidación con trasplante podría mejorar los resultados en linfoma primario del SNC, un dato relevante para discutir la intensificación del tratamiento en pacientes candidatos, a la espera de conocer los detalles del estudio.\nNota: análisis sin acceso al abstract."
+    },
+    "5bdf9d451dc6": {
+      "resumen": "The ASCO Post informa que un esquema triple con pirtobrutinib (un inhibidor de BTK, la tirosina quinasa de Bruton, no covalente) mejoró la supervivencia libre de progresión en pacientes con leucemia linfática crónica (LLC) previamente tratada. Interesa porque pirtobrutinib es una alternativa para quienes progresaron a inhibidores de BTK covalentes, y combinarlo en triplete podría profundizar la respuesta.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (el título no especifica la fase, el cegamiento, ni el número de centros o de pacientes) que evalúa un esquema triple basado en pirtobrutinib.\nPoblación: Pacientes con leucemia linfática crónica (LLC) previamente tratada, presumiblemente con progresión a una o más líneas previas, que podrían incluir inhibidores de BTK (tirosina quinasa de Bruton) covalentes.\nIntervención: Triplete que incluye pirtobrutinib (inhibidor de BTK no covalente) combinado con otros dos agentes no especificados en el título; comparador no explicitado.\nResultados: Mejora en la supervivencia libre de progresión, según el título; sin cifras concretas (razón de riesgo, intervalos de confianza, medianas o valor de p) porque no están disponibles sin el abstract completo.\nLimitaciones: Sin abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad del triplete, ni si el diseño permite establecer causalidad o es un análisis no comparativo.\nMensaje: Si se confirma con los datos completos, un triplete con pirtobrutinib podría sumar una opción eficaz para la LLC previamente tratada, ampliando las combinaciones disponibles más allá de la monoterapia con inhibidores de BTK.\nNota: análisis sin acceso al abstract."
+    },
+    "2a81124be3c1": {
+      "resumen": "Journal of Clinical Oncology publica el ensayo CIVIC POD, un estudio de fase III que evalúa si es posible prescindir de la dexametasona en la profilaxis antiemética de niños y adolescentes que reciben quimioterapia altamente emetogénica. Es el estudio destacado de hoy porque busca reducir la exposición a corticoides en pacientes pediátricos sin perder eficacia contra las náuseas y los vómitos.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico multicéntrico, de fase III, de no inferioridad, según el título (no se especifica en el título la aleatorización, el cegamiento, ni el número exacto de centros o de pacientes).\nPoblación: Niños y adolescentes que reciben quimioterapia altamente emetogénica.\nIntervención: Esquema de profilaxis antiemética libre de dexametasona, comparado presumiblemente contra el esquema estándar que incluye dexametasona (comparador no explicitado con precisión en el título).\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar el margen de no inferioridad predefinido, la tasa de control completo de náuseas y vómitos en cada brazo, ni los efectos adversos asociados a la exposición prolongada a corticoides.\nMensaje: Si confirma la no inferioridad, permitiría reducir la exposición a dexametasona en pacientes pediátricos oncológicos, evitando sus efectos adversos (por ejemplo, sobre el ánimo, el sueño o el crecimiento) sin resignar el control de náuseas y vómitos asociado a la quimioterapia.\nNota: análisis sin acceso al abstract."
+    },
+    "7288372b8d81": {
+      "resumen": "Journal of Clinical Oncology publica una revisión sobre las controversias en el manejo del mieloma múltiple smoldering (asintomático) de alto riesgo, que discute si conviene iniciar tratamiento temprano o mantener una conducta expectante. Interesa porque resume el debate actual sobre cuándo tratar una entidad que todavía no es mieloma sintomático.",
       "destacado": false
     },
-    "a1bed1247840": {
-      "resumen": "The ASCO Post informa que Monica Baskin fue nombrada directora del VCU Massey Comprehensive Cancer Center, el centro oncológico integral de la Universidad de Virginia Commonwealth. Es una noticia institucional sobre el liderazgo de un centro oncológico académico en Estados Unidos.",
+    "1ae551bc7fe3": {
+      "resumen": "Journal of Clinical Oncology publica un editorial que comenta los resultados del ensayo CIVIC POD y discute si ya hay evidencia suficiente para limitar el uso de dexametasona en los esquemas antieméticos de la quimioterapia altamente emetogénica. Funciona como contrapunto crítico al estudio original, con la mirada de un experto en profilaxis antiemética.",
       "destacado": false
     },
     "d73be8a90f97": {
       "resumen": "Journal of Clinical Oncology publica una fe de erratas (corrección editorial) del artículo sobre el ensayo de fase III SENTRY, que evaluó selinexor (un inhibidor de exportina 1) más ruxolitinib (un inhibidor de JAK, las quinasas asociadas a Janus) en pacientes con mielofibrosis sin tratamiento previo con inhibidores de JAK. Se trata solo de una corrección al estudio original, no de datos clínicos nuevos.",
       "destacado": false
     },
-    "bf18b9db7044": {
-      "resumen": "Journal of Clinical Oncology publica un artículo de opinión de Hwang CS y colaboradores sobre las protecciones regulatorias para las aprobaciones aceleradas de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) cuando se agregan indicaciones complementarias a un fármaco ya aprobado. Interesa por su impacto en cómo se autorizan y vigilan los nuevos usos de tratamientos oncológicos ya en el mercado.",
-      "destacado": false
+    "3ad340b47954": {
+      "resumen": "Vogue presenta la colección Resort 2027 de Mary Katrantzou, la diseñadora griega conocida por sus estampados gráficos y sus siluetas escultóricas."
     },
-    "dd5f1f33d8bf": {
-      "resumen": "Journal of Clinical Oncology publica el ensayo COMMIT, un estudio aleatorizado de primera línea en cáncer colorrectal metastásico con reparación deficiente del ADN por disparidad (dMMR, por sus siglas en inglés), que compara el esquema de quimioterapia mFOLFOX6 más bevacizumab (antiangiogénico) y atezolizumab (inhibidor de PD-L1, ligando 1 de muerte celular programada) contra atezolizumab en monoterapia. Es el estudio destacado de hoy porque busca definir si conviene sumar quimioterapia a la inmunoterapia como primera línea en este subgrupo molecular.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, de primera línea (según el título; no se especifican en el título el cegamiento ni el número de centros o de pacientes).\nPoblación: Pacientes con cáncer colorrectal metastásico con reparación deficiente del ADN por disparidad (dMMR, mismatch repair deficient), sin tratamiento sistémico previo para enfermedad metastásica.\nIntervención: mFOLFOX6 (esquema de quimioterapia) más bevacizumab (antiangiogénico) y atezolizumab (inhibidor de PD-L1) versus atezolizumab en monoterapia.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar el criterio de valoración principal, las cifras de supervivencia libre de progresión o global, ni el perfil de toxicidad de cada brazo.\nMensaje: Definirá si en cáncer colorrectal metastásico dMMR conviene sumar quimioterapia y un antiangiogénico a la inmunoterapia de entrada, o si la inmunoterapia sola alcanza como primera línea.\nNota: análisis sin acceso al abstract."
+    "65d64618f354": {
+      "resumen": "Vogue México reúne quince cortes de pelo pensados para dar volumen al cabello liso y favorecer el rostro este verano."
     },
-    "d6877631940e": {
-      "resumen": "Journal of Clinical Oncology publica los resultados clínicos a largo plazo de tisagenlecleucel, una terapia con células T con receptor de antígeno quimérico (CAR-T), en pacientes pediátricos y adultos jóvenes con leucemia linfoblástica aguda (LLA) recaída o refractaria. Interesa por aportar datos de durabilidad de la respuesta y de seguridad a largo plazo de una de las primeras terapias CAR-T aprobadas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de seguimiento a largo plazo de una cohorte tratada (según el título; no se especifican si es prospectivo o retrospectivo, ni el número de centros o de pacientes).\nPoblación: Pacientes pediátricos y adultos jóvenes con leucemia linfoblástica aguda (LLA) recaída o refractaria.\nIntervención: Tisagenlecleucel, terapia con células T con receptor de antígeno quimérico (CAR-T) dirigida contra CD19; sin comparador, se trata del seguimiento de una cohorte tratada.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar la supervivencia libre de eventos ni global a largo plazo, la tasa de recaída, ni la incidencia tardía de complicaciones como neoplasias secundarias.\nMensaje: Aporta evidencia de durabilidad y seguridad a largo plazo de tisagenlecleucel, un dato clave para consolidar su lugar en el tratamiento de la LLA recaída o refractaria en pediatría y adultos jóvenes.\nNota: análisis sin acceso al abstract."
+    "50a1dbc87eaa": {
+      "resumen": "Vogue México propone sandalias planas con detalles sofisticados para un look elegante y cómodo durante el verano."
     },
-    "83217134d177": {
-      "resumen": "Vogue repasa la colección de la marca 16Arlington para el otoño 2026 presentada en la Semana de la Moda."
+    "8a0fea20e383": {
+      "resumen": "El Destape adelanta las prendas que marcarán tendencia este invierno y que llegan a las vidrieras en agosto."
     },
-    "4ff14e56c41d": {
-      "resumen": "Harper's BAZAAR anticipa que el cinturón medallón será el accesorio clave para renovar los looks de la temporada de otoño."
+    "8bf27a9f80be": {
+      "resumen": "Cosmopolitan elige tres vestidos de Zara y Mango, entre el estilo lencero y los estampados florales, para lucir en agosto."
     },
-    "1330e7b1437c": {
-      "resumen": "ELLE selecciona nueve conjuntos de Zara que anticipan las tendencias que se vienen."
+    "92678bd5eb13": {
+      "resumen": "Vogue México cuenta cómo The Fashion Game Changers reconoció en Madrid el talento de la moda latinoamericana."
     },
-    "4356eb5f6dcb": {
-      "resumen": "Cosmopolitan repasa ocho tendencias que se impondrán en agosto y que ya llegaron a Zara, Mango y Stradivarius."
+    "37b9a4ee3216": {
+      "resumen": "Identidad Correntina repasa por qué la campera trucker vuelve a imponerse como prenda clave este invierno."
     },
-    "6bb30aac0e07": {
-      "resumen": "FashionUnited muestra cómo se renueva el estilo preppy masculino para la temporada primavera-verano 2027, con color y sastrería."
+    "7e877ece1577": {
+      "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
     },
-    "9685690be357": {
-      "resumen": "Vogue México cuenta cómo son los nuevos tenis ALO trail, cómo combinarlos y dónde conseguirlos."
+    "42502bd164f4": {
+      "resumen": "El Gobierno porteño distinguió a los restaurantes de la Ciudad reconocidos por la Guía Michelin 2026."
     },
-    "8b7268ee8c3e": {
-      "resumen": "Studio F presentó en Colombiamoda 2026 su colección Legado, un diálogo entre pasado y futuro."
+    "18c57e3247d6": {
+      "resumen": "El Gobierno de la Ciudad homenajeó a los restaurantes porteños que fueron reconocidos por la Guía Michelin 2026."
     },
-    "6cf25d88fcab": {
-      "resumen": "La Orquesta de Tango de Buenos Aires ofrecerá un concierto gratuito en el Teatro San Martín; así se consiguen las entradas."
+    "9fa1df8735de": {
+      "resumen": "Buenos Aires celebró a los 58 restaurantes porteños que obtuvieron distinciones de la Guía Michelin 2026."
     },
-    "e0558569ca41": {
-      "resumen": "Derribaron el histórico Teatro Bar Los Angelitos, un espacio cultural porteño fundado por el músico Flaco Suárez."
+    "e72a7c2225b5": {
+      "resumen": "El Cuarto Soda regresa a Buenos Aires con un show tributo a la histórica gira \"Me Verás Volver\" de Soda Stereo."
     },
-    "1bed1fabe089": {
-      "resumen": "El actor Emiliano Díaz invita a redescubrir el teatro y destaca que ver una obra en vivo es una experiencia irrepetible."
+    "1ad16a7ab012": {
+      "resumen": "Reabrió la inscripción gratuita para presenciar ensayos de la Filarmónica en el Teatro Colón, que ya convocó a más de 3.000 vecinos."
+    },
+    "dbb0a37573d2": {
+      "resumen": "Una agenda con más de 60 planes para el fin de semana en Buenos Aires: recitales, teatro, cine, muestras y propuestas gratuitas."
     },
     "b6a05d184950": {
       "resumen": "Un repaso de los planes gratuitos para aprovechar el último fin de semana de las vacaciones de invierno en Buenos Aires."
     },
     "3be16882c501": {
       "resumen": "Una selección de planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
-    },
-    "72a2dff10aa5": {
-      "resumen": "Ichisou es el restaurante porteño elegido por la comunidad japonesa de Buenos Aires para comer."
-    },
-    "b74768c07818": {
-      "resumen": "El Teatro Argentino de La Plata ofrece recorridos guiados y gratuitos durante las vacaciones de invierno."
-    },
-    "7cdf032b2940": {
-      "resumen": "Time Out repasa los planes recomendados para hacer en Buenos Aires durante julio."
-    },
-    "a3939d98a861": {
-      "resumen": "Una guía para llegar al pueblo que celebra la Fiesta del Alfajor y la Torta Negra 2026 y aprovechar las actividades del fin de semana."
-    },
-    "2cf50895b973": {
-      "resumen": "El Destape recomienda restaurantes para ir con chicos durante las vacaciones de invierno 2026 en Buenos Aires."
     }
   }
 }
