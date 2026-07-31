@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T03:56:54.881010+00:00",
+ "generated_at": "2026-07-31T07:19:55.295910+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,11 +7,18 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Dr Galsky on Data Supporting the FDA Approval of Perioperative EV/Pembrolizumab in MIBC",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUg4YmJpdmVBc0otMVM1eHV2SG1PeEVrcWVWY1IzNzFUZjNQd0hoZVNUb3pLdWhTbkpMWUhHR3lDYXN6NUJCT0tUR01PcXMzdEpkVGdsbHI0ZXhWRHdreHFLYmVtV3YzQkhKUXJmOWItN0llbWtxUkw2SWJjOGpJcDYzR3h6NHlYV3pQRHhaT3lpVmhsZVhyRUlNOG5BV1hBT3I2LV8wZGhWRzVOeWU0bjJsRGNXeVU?oc=5",
+     "title": "Dr Barot on the FDA Approval of Palbociclib/Trastuzumab ± Pertuzumab in HER2+ Breast Cancer",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTk5iVXhENURQYlozTFFCLWY0UGNjeDBkRllmZ3hGZ2FGLUdCMmZuVGxPTXBqRjY0UTVyMmFtbDFTUEpKVkNBQk11VHlTZnRrbFdtRFA0T0ZCYld0SWpUZ1VsbnZEdFZRdERHU3J0UmtPTFk4QUpQODJkOFJHVXVkejJUX09ybG95UFJDaXQ5Y3pncTZaYUxmVmN6Wi1ZZXA2YzdVRHA2bjVfR2lwdHJkaVduWktBUWxV?oc=5",
      "source": "OncLive",
-     "published": "2026-07-30T19:41:15+00:00",
-     "id": "17998aa9c9e2"
+     "published": "2026-07-31T03:40:00+00:00",
+     "id": "58130ccdd7e0"
+    },
+    {
+     "title": "Dr Galsky on Data Supporting the FDA Approval of Perioperative EV/Pembrolizumab in MIBC",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOUFfTWttTG96bnU5Y1AzRlN0YnBkQkttY2hUUjEtTDY4X2RJUlE1UDJmRXQxUUlRMEhLRUhXaFRDSklGZm9Ua21sMU54eG4tcG9oMXJJOVFteEQwaldBUzgyN2tramNuRXpKOGh3VlVBUWxLS0pqb0xfSzdhb1JiUVJJV0dGTXJzNG0wblBhOFBKMHFuRG10dmp1ZDZHMDcwTTNXeWhqcC1wWFdvN3Rnc05UZ0RFcnExQnotVnVyVGZ4QUp1NjhNRWZvMXlGdG5IYVB1TXdURjI4VEtQN2xEZGo3ZVVTdVBQUUt6SHNyVEFkWkJSM1hXelc0ZXBuV3RvMDc5M3hHRmtibVBk?oc=5",
+     "source": "OncLive",
+     "published": "2026-07-30T19:04:17+00:00",
+     "id": "44fae16668b9"
     },
     {
      "title": "Navigating the Evolving Treatment Landscape in EGFR-Mutant NSCLC: Balancing Efficacy, Safety, and Treatment Burden",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-07-30T18:57:53+00:00",
      "id": "2e2b09415746"
-    },
-    {
-     "title": "Prognostic Factors, FLAME and TOP Data, and the Role of ctDNA in Advanced NSCLC with Common EGFR Mutations",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2MzOVlZX0RyM0x6VDJmWDE0N3ZsTnNQZEFydGRISVpMeXI5cTN2RmJZMVhpT0tCQjNwUWQ3dnRoeTVZejdfU0RkeXNVSk9nelpoRFBQOEtPdWJmOHlkVFRKQXBYaC1zaG5la1FvRmpQQXJMLXNlRjRnWUpRZzJIVjN6V2lxNUhVdnJDQnFhazQxT3ZjbjEzUWtmWm9FUXUzak55MHdRaE96WU91S0MyZEdEeEtCZEprVnlMa3cxZkRSa1hWcDN2QUF4bw?oc=5",
-     "source": "OncLive",
-     "published": "2026-07-30T18:45:42+00:00",
-     "id": "ac4c25b6843c"
     },
     {
      "title": "Rectal Cancer AI Identifies Patients Most Likely to Benefit From Irinotecan-Intensified Neoadjuvant Chemoradiotherapy",
@@ -55,22 +55,6 @@
      "published": "2026-07-30T00:00:00+00:00",
      "copete": "Bose P et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "d73be8a90f97"
-    },
-    {
-     "title": "Transdermal Estradiol Patches in Prostate Cancer. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526039/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Langley RE et al. · The New England journal of medicine",
-     "id": "8fc27912d9ea"
-    },
-    {
-     "title": "Transdermal Estradiol Patches in Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526038/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Grossmann M et al. · The New England journal of medicine",
-     "id": "cbac3321cff8"
     },
     {
      "title": "Rethinking Regulatory Protections for Accelerated Approvals With Supplementary Indications",
@@ -107,16 +91,60 @@
      "title": "16Arlington Fall 2026 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/16arlington",
      "source": "Vogue",
-     "published": "2026-07-31T03:51:33+00:00",
+     "published": "2026-07-31T07:16:03+00:00",
      "id": "83217134d177"
     },
     {
-     "title": "I’m Trading My Hair Mask for Ouai’s Bond Repair Balm",
-     "link": "https://www.vogue.com/article/ouai-bond-repair-balm-review",
+     "title": "Cinturón medallón: el complemento más sofisticado que se impondrá en los looks del próximo otoño",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzRyMldCVTdPYkI3MlZ1dUFHYXlLNlVLTUh3WUZscnplMG1aZUZMX291cVJwQmlmRzAzdHV5TnhRMDcwRm9SN2FZN21pUlIyNGNURlR3REN0R2pPaHFUQWtTWWpjNTNfRUhNbktVX1lPaHFMTERiYVFiX2RkUU1kUWZYa0pjeEJ3SnJGWHlNS0hEdEFUMGFhcGp1dHZ3X3NGUkFMN0liWjhrWERQUS1faGJUYXlBTzEyRExuQk9GcDVtdTA?oc=5",
+     "source": "Harper's BAZAAR",
+     "published": "2026-07-31T06:09:41+00:00",
+     "id": "4ff14e56c41d"
+    },
+    {
+     "title": "9 conjuntos preciosos de Zara que adelantan ya las nuevas tendencias",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWVpsUnduNHVPYzhidWVfYmVIbzNZSEZ6cER5S1RTdTFkX0hOUkVKSHN4TTNaV1pOOFNpNXdJZmNIbjZlQ1IyWHFBY2FNbklxWDR2Z3doWEUzTU9iNDlLQTE4aDJWcGFZcmhpQzB2MEcwT2ZoWXlocTR0cjRkLXJXdnJuVk85UWphNlRCMXJXV2htdnZCdTdOYzl5NjN4MXFtd3pSTnM3NkRvRktRQUtBaE5jSDN5b2Z6STZuWl9zTWZHNFZ2TGFOU1R0emMtbzd5WHZqN3BB?oc=5",
+     "source": "ELLE",
+     "published": "2026-07-31T05:03:36+00:00",
+     "id": "1330e7b1437c"
+    },
+    {
+     "title": "How Sustainability Standards Changed the Trajectory of Copenhagen Fashion Week",
+     "link": "https://www.vogue.com/article/how-sustainability-standards-changed-the-trajectory-of-copenhagen-fashion-week",
      "source": "Vogue",
-     "published": "2026-07-31T01:46:37+00:00",
-     "copete": "To use the Ouai Bond Repair Balm, apply one pump from mid-lengths to ends, let sit for three minutes, then rinse. This simple process is all it takes to repair heat damage, breakage, and split ends.",
-     "id": "70ff6221030e"
+     "published": "2026-07-31T05:00:00+00:00",
+     "copete": "When CPHFW introduced its minimum sustainability standards in 2020, it hoped the industry would follow. Progress has been slower than expected, but CEO Cecilie Thorsmark remains optimistic.",
+     "id": "493af151d903"
+    },
+    {
+     "title": "8 tendencias que van a triunfar en agosto y que ya han llegado a Zara, Mango o Stradivarius",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUJEYzBicFppOXIzQUdOTWwtdGlfeWxrZ1VhWHBJZjhoUUNqSEk5MnBIcEVfR1NhSU90YWFqM2xPOElCaHN5TS1UdGpMUlJFUl9hSzRPWnB2VnJVTHg1X3dpNEF3UjVvZ3ppQzB3N3pNYk9JazlBSGxzdU02RXV0LS15Y3ppcWVDS1l2QzN1Y1hkdGJmVjZyc2RTdVhHX08wb1B6UHphVQ?oc=5",
+     "source": "Cosmopolitan",
+     "published": "2026-07-31T04:36:16+00:00",
+     "id": "4356eb5f6dcb"
+    },
+    {
+     "title": "The Scoop With Alta’s Jenny Wang: On Partnering with Rent the Runway",
+     "link": "https://www.vogue.com/article/the-scoop-with-altas-jenny-wang-on-partnering-with-rent-the-runway",
+     "source": "Vogue",
+     "published": "2026-07-31T04:30:00+00:00",
+     "copete": "This week’s guest is Jenny Wang, founder of Alta, which is essentially one of the few apps that seem to be succeeding in bringing that mythical Clueless closet to life.",
+     "id": "9c224e1440ae"
+    },
+    {
+     "title": "Tendencias masculinas SS27: así se reinventa el estilo \"preppy\" con color y sastrería",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDZQUHFiQ3Y5VmJ0TFc0S1ZYdTQzbFJWa0hoY2dfVXR2TlpqZjlpVzhGZDlnZG54YTdsN0gyejJqT2VWLWJRTmc0OHdiZ3dyY09weFZBcl81YkRBS290ZFFfcm5FQVVFSk4yY1h1YnBDRkJOSmR0RTJTeEs1cGEyYUg3SV9sNm1FY3dVTGtnN2YzOXpGRDZLYnJZYlVNQm5fR2M0M2JBRFJBcFlwZk55bjdMM2J1Qml5eUZqbHRXelRoajVaNEhDVVpjN2Q1UFpW?oc=5",
+     "source": "FashionUnited",
+     "published": "2026-07-31T04:13:46+00:00",
+     "id": "6bb30aac0e07"
+    },
+    {
+     "title": "23 Thoughts I Had Listening to Ariana Grande’s New Album ‘Petal’",
+     "link": "https://www.vogue.com/article/23-thoughts-i-had-listening-to-ariana-grande-petal",
+     "source": "Vogue",
+     "published": "2026-07-31T04:01:00+00:00",
+     "copete": "Grande sings, “All of my favorite stories end in some kind of catastrophe.” Honestly, same.",
+     "id": "6da38bd47490"
     },
     {
      "title": "Todo lo que tienes que saber sobre los nuevos tenis ALO trail: Cómo son, cómo llevarlos y dónde comprarlos",
@@ -126,55 +154,11 @@
      "id": "9685690be357"
     },
     {
-     "title": "8 Best Face Sculpting Tools to Lift, Tone, Contour",
-     "link": "https://www.vogue.com/article/face-sculpting-tools",
-     "source": "Vogue",
-     "published": "2026-07-31T01:22:35+00:00",
-     "copete": "Do facial sculpting tools really work? Experts say yes, but to set realistic expectations. These devices provide a temporary reduction in facial puffiness and more defined appearance, among other things.",
-     "id": "6425463f867f"
-    },
-    {
      "title": "Studio F presenta en Colombiamoda 2026 su colección Legado: Un diálogo entre el pasado y futuro",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wd2d1WEZMVm5tRUszQWZ2cXM3NHJKNThWVDhyMXV4Z3ZFSjlXejQ3STZTN2kwaWNNdWJDcjdURkFfbU9oOGFoWTI4dEZNTHNFNTNOYkgwUHVVWllVOHBIMVkydXpyeWs?oc=5",
      "source": "Vogue México",
      "published": "2026-07-31T00:16:07+00:00",
      "id": "8b7268ee8c3e"
-    },
-    {
-     "title": "La influencia de Ronnie Wood en la moda: cómo la elegancia atemporal se cruza con la rebeldía escénica",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWDdaUThWa3QzMGg0UFphbUJGRFN3UTNXc1A4V2djc1p0MGtDVldJNENtdnBOckFSYTV2SzVWSzZVN2xiZ2RwZ0puOHBqS1dKRHRGSjVjS0tRZDRGNEMwYTRjXzEtVEI5N0VqOGpoUi1KVmsyNm1XSnJtSlJMNlJROFNCWl9sTm5RSVBxRlF0TmtyTFNNREtpcjBmd0JNalUwM2pBSllXc25saDVFeGNsM3NNZ0hEMTFiU25HVVlHWWtDVVZTSVdFdEt0NDNlZVdNZUl1cWxQTnFHZHUtdE9nWEJ30gH8AUFVX3lxTE9lSTMwb0hEN2lrVlYtbW9vMWswOVpHOEV3SFB3a1NmWDBBeC1kcVpDSG9xN3FTT0lEdlNpMy1iVUlPVG9BdkdqRVZPVWFsTFB5aFdyVUgzeENiV1h5QUVkYmx2ajhPMkZtMUZJdUEtN0hibEUtLWFWYmZHbUNlN2hvckczVXExRHplR2lfSTBVRmhfbDlGRTZodHZYX29rWVFGcXotMTQxWWpkXzJTRUg0WjNzdldSOXdrY2JqX0NqQ01qUno0QWtIYWhLVTlybmI1VW9mVTdaQ1V0aGZNOGxEU04tMlctNzNFeVZmQW40UFhjeGtFbnQwamVQUQ?oc=5",
-     "source": "Infobae",
-     "published": "2026-07-31T00:10:08+00:00",
-     "id": "ec437c12e84d"
-    },
-    {
-     "title": "Chanel and Lincoln Center Celebrate the BAAND Together Dance Festival",
-     "link": "https://www.vogue.com/slideshow/baand-together-dance-festival-lincoln-center",
-     "source": "Vogue",
-     "published": "2026-07-30T21:57:50+00:00",
-     "copete": "Now in its sixth year thanks to the longstanding support of Chanel, the festival was ushered in by a celebration filled with cocktails and small bites at Lincoln Center’s own culinary hot ticket, chef Kwame Onwuachi’s Afro-Caribbean…",
-     "id": "09cd6f41be49"
-    },
-    {
-     "title": "¿Cómo llevar los vestidos con transparencias más elegantes del verano 2026?",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVMxd3R4RldfWm5fWDhOMmFpbGQ5U243c0Zrb3VQZEdwM3RZZUFGUGRHcVhVVnJWa3FxQ0Y1ZF95MUdzUGhPd01tY2hxTUhJYVBWNlJwZUs1cUFpYy1HUE96MWpROEkxQkltdnhHeUYwU2E1NFNNT1ROYTEzNmVqQXRNa3pOalk5VlpLX1hjdnp1UHhPNlBRMlNxYlZiOV82d0JfcDZR?oc=5",
-     "source": "Vogue México",
-     "published": "2026-07-30T21:45:41+00:00",
-     "id": "4d991ec7ca0c"
-    },
-    {
-     "title": "Tendencias de moda 2026: Frankin Ramos revela las prendas que marcarán el resto del año",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnVta1RmZ3N2dFNKNEtBWGF3WTlGY2ktWmR5RzFMbWQ0XzlsQktMYlhjWGZFamFCMVEzbkFNX1BXcHMtaVBwUkxYSWhaS0VXaVFPZUVXb1VObVF2cmRVODc4cDBqMmdjWHNxZ0x2RUJ5bXNBWTVGdWFlV3QxeElkbjJKVVNYUGRaUmF3ZmFTamRKY0xzYTlKd1BzWm1uemNScTZaVE5RRnh6d0puODNKSkJzN29YU0d6b3Jz?oc=5",
-     "source": "Colombia",
-     "published": "2026-07-30T19:59:30+00:00",
-     "id": "b71878a88700"
-    },
-    {
-     "title": "Jennifer López da una masterclass de moda veraniega con un minivestido y tres tendencias de la temporada",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdkt1Y0EzM0RCdkVIdWRSMG5JRWVIczZHckhWakhJWl9mRXdGT0w3eG02VVU3dDdyZTkxVmRTaTd5V0U0dUk1Qk1SQ0Z5QjNOWGtWU1BScUdLU3JHcXZUSTd6b0tRYWpXTnQzemFBb29KYmdpT3ZNUTNmbjVBelhGOGxzXzMxMXpUdWZRMk01Yi1qZ1piZ0RFRkVfMUdRdEE4SGNzTkNYTk9YYUhhYnRxMGRDcGktc181dVlmTy1LZ0tYa3kxS05GWXVQWE1vazhEVk1CQXJoakhTamRF0gHcAUFVX3lxTE92S3VjQTMzREJ2RUh1ZFIwbklFZUhzNkdySFZqSElaX2ZFd0ZPTDd4bTZVVTd0N3JlOTFWZFNpN3lXRTR1STVCTVJDRnlCM05Ya1ZTUFJxR0tTckdxdlRJN3pvS1FhaldOdDN6YUFvb0piZ2lPdk1RM2ZuNUF6WEY4bHNfMzExelR1ZlEyTTViLWpnWmJnREVGRV8xR1F0QThIY3NOQ1hOT1hhSGFidHEwZENwaS1zXzV1WWZPLUtnS1hreTFLTkZZdVBYTW9rOERWTUJBcmhqSFNqZEU?oc=5",
-     "source": "Acento",
-     "published": "2026-07-30T19:00:26+00:00",
-     "id": "542b6b0a892d"
     }
    ]
   },
@@ -183,6 +167,22 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Alan Ritchson rompió el silencio sobre la pelea con un vecino que casi acaba con su carrera: “Fue lo más aterrador que viví”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/alan-ritchson-rompio-el-silencio-sobre-la-pelea-con-un-vecino-que-casi-acaba-con-su-carrera-fue-lo-nid31072026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-07-31T04:50:11+00:00",
+     "copete": "El protagonista de Reacher contó su versión del hecho ocurrido a principio de año y que se hizo viral gracias a un video que lo mostraba agrediendo a un hombre",
+     "id": "8bfb7c1cb4a3"
+    },
+    {
+     "title": "La reacción de Gastón Edul y Sabrina Cortez tras los rumores de romance: “La dejo a tu criterio”",
+     "link": "https://www.infobae.com/teleshow/2026/07/31/la-reaccion-de-gaston-edul-y-sabrina-cortez-tras-los-rumores-de-romance-la-dejo-a-tu-criterio/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-07-31T03:53:37+00:00",
+     "copete": "Mientras algunas partes ya daban por hecho el acercamiento, el periodista mostró imágenes desde Mallorca y la ex Gran Hermano se dejó ver en Ibiza con una frase ambigua",
+     "id": "f87f7f71a644"
+    },
     {
      "title": "Qué dijo Thiago Medina tras la denuncia de su prima por abuso sexual: “Me jode con esto”",
      "link": "https://www.infobae.com/teleshow/2026/07/31/que-dijo-thiago-medina-tras-la-denuncia-de-su-prima-de-abuso-sexual-me-jode-con-esto/",
@@ -232,14 +232,6 @@
      "id": "456bc1ee821a"
     },
     {
-     "title": "Tini Stoessel compartió su álbum más íntimo del Mundial 2026 con Rodrigo De Paul entre besos en el hotel y bikini en el yate",
-     "link": "https://www.infobae.com/teleshow/2026/07/31/tini-stoessel-compartio-su-album-mas-intimo-del-mundial-2026-con-rodrigo-de-paul-entre-besos-en-el-hotel-y-bikini-en-el-yate/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-07-31T02:29:59+00:00",
-     "copete": "La cantante compartió en Instagram un carrete con postales entre amigas, viajes y días frente al mar, pero la imagen que más ruido hizo fue el beso con el futbolista tras la final en Estados Unidos",
-     "id": "15986c025012"
-    },
-    {
      "title": "La historia de amor de Xuxa que la marcó para siempre cuando él murió en un segundo: “Lo que quiero no lo puedo decir”",
      "link": "https://www.lanacion.com.ar/espectaculos/la-historia-de-amor-de-xuxa-que-la-marco-para-siempre-cuando-el-murio-en-un-segundo-lo-que-quiero-no-nid29072026/",
      "source": "La Nación Espectáculos",
@@ -254,14 +246,6 @@
      "published": "2026-07-31T00:49:35+00:00",
      "copete": "A 45 días del trágico accidente aéreo que conmocionó al mundo, la madre del músico estadounidense reveló el motivo del viaje en helicóptero que compartieron junto al cineasta Lucas Vignale, entre otros",
      "id": "becb9c85f2a9"
-    },
-    {
-     "title": "La nueva vida de Sebastián Estevanez a los 55 años: dejó la actuación para dedicarse a la construcción y ayudó a Marley con su casa",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-nueva-vida-de-sebastian-estevanez-a-los-55-anos-dejo-la-actuacion-para-dedicarse-a-la-nid29072026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-07-31T00:48:28+00:00",
-     "copete": "El actor decidió alejarse de las cámaras para hacer realidad uno de sus mayores sueños; en una reciente entrevista contó detalles sobre el trabajo que realiza en las obras",
-     "id": "e95cc2010ed9"
     },
     {
      "title": "La TV de agosto llega con cambios y nombres fuertes, como Nico Vázquez, Avenida Brasil, Andy Kusnetzoff y con famosos cantando en lo de Guido",
@@ -290,7 +274,7 @@
      "title": "La Orquesta de Tango de Buenos Aires dará un concierto gratis en el Teatro San Martín: cómo adquirir las entradas",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZklZUXZvam5zajhsTDY2d3pCbnBXaDc0UXRZc0pMdXhCMlFNZXIyTmRtUHI5V2VEaXd4cnIweGExcE9RS24tekhmLU5BSlViMjI5RGFtNXhTaUU0NG41ZUo1cHJkcTZ4R3RlMWE3LV9aNHJaOGI5TFhKelFOTVpLXzNqMGpaUEdZOTZXRUtaNzNBV3FMbDlzUG5pdzh0NFVpcHFRdzB6bHNOWUFqU0c2VE5ta0FHTFZKRmRkUWdhQlc3QWhKR0dUV2xJWklLQ3ZxWTJF0gHnAUFVX3lxTFB0a2gwZ1VWWjQ0eWVZelhHa3NXcUx0VDlla1BaazR3NjdSN1lkZU0wZVFiajJVa3BsQjgxTVhDTEpPM1ZJUXAxZE1MLWQ0eFY2bVlGOGlncHJjSWNScmIwc3JtZjVKOFhWbjJtQ1BSNUpJd1BNUGhOTFJtMkxBcjdHSUFqU1FGVTg4SV9iQUZPTkxsdWZ1eGdtWnJESlZsZDRpYk14cjEyelZpRTBUdEVXcU1lb3BfSlFqcFdaUExXQ2dNVnhsZ1h4aTI0dlExU1pMQk1jVUpZU3dFSDVtOVVHNWpiLW4xOA?oc=5",
      "source": "El Destape",
-     "published": "2026-07-30T23:48:45+00:00",
+     "published": "2026-07-30T23:48:57+00:00",
      "id": "6cf25d88fcab"
     },
     {
@@ -364,84 +348,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “obligación” de competir hasta el final",
-     "link": "https://www.infobae.com/deportes/2026/07/31/7-frases-de-paredes-tras-el-triunfo-por-penales-de-boca-ante-ohiggins-gran-respaldo-a-aranda-y-obligacion-de-competir-hasta-el-final/",
-     "source": "Infobae",
-     "published": "2026-07-31T03:53:55+00:00",
-     "copete": "El capitán xeneize se mostró en la misma sintonía que Arruabarrena y fue autocrítico tras la sufrida clasificación a los octavos de final de la Sudamericana",
-     "id": "8060f2169341"
-    },
-    {
-     "title": "¿Tu PC va lento o muestra publicidad extraña?: señales de que ha sido hackeado",
-     "link": "https://www.infobae.com/tecno/2026/07/31/tu-pc-va-lento-o-muestra-publicidad-extrana-senales-de-que-ha-sido-hackeado/",
-     "source": "Infobae",
-     "published": "2026-07-31T03:53:00+00:00",
-     "copete": "Una comprobación inicial es abrir la lista de cuentas desde el comando de ejecución y borrar perfiles que no reconoces, además de cambiar la clave del router para cortar posibles entradas por la red doméstica",
-     "id": "5216a3392c05"
-    },
-    {
-     "title": "Militar dominicana afronta tres meses de prisión, investigada por la muerte de su suegra",
-     "link": "https://www.infobae.com/republica-dominicana/2026/07/31/militar-dominicana-afronta-tres-meses-de-prision-investigada-por-la-muerte-de-su-suegra/",
-     "source": "Infobae",
-     "published": "2026-07-31T03:50:50+00:00",
-     "copete": "La Fiscalía de Azua imputa a la sargento, quien permanece bajo custodia tras ser acusada de homicidio con agravantes y trasladar a la víctima a una zona rural donde fue hallada sin vida",
-     "id": "28b051a9b9d0"
-    },
-    {
-     "title": "Qué leer esta semana: tres versiones de \"La Ilíada\", lo que pasó antes de \"La Odisea\"",
-     "link": "https://www.infobae.com/cultura/2026/07/31/que-leer-esta-semana-tres-versiones-de-la-iliada-lo-que-paso-antes-de-la-odisea/",
-     "source": "Infobae",
-     "published": "2026-07-31T03:50:00+00:00",
-     "copete": "El éxito mundial de la película de Christopher Nolan llevó a mucha gente a los clásicos griegos. Aquí proponemos, también, algunas adaptaciones contemporáneas",
-     "id": "fd5e4f8c2014"
-    },
-    {
-     "title": "Rodolfo Arruabarrena: “Sabemos que de esta manera serán pocas las victorias que podremos conseguir”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/rodolfo-arruabarrena-sabemos-que-de-esta-manera-seran-pocas-las-victorias-que-podremos-conseguir-nid31072026/",
+     "title": "Murió Franco Baresi a los 66 años, leyenda del fútbol italiano y campeón del mundo",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/murio-franco-baresi-a-los-66-anos-leyenda-del-futbol-italiano-y-campeon-del-mundo-nid31072026/",
      "source": "La Nación",
-     "published": "2026-07-31T03:45:24+00:00",
-     "copete": "El DT xeneize se fue disconforme con el juego del equipo, tras la clasificación por penales ante O’Higgins en Chile; también se refirió a los posibles refuerzos",
-     "id": "54ae1ecf65e5"
+     "published": "2026-07-31T07:15:05+00:00",
+     "copete": "El legendario defensor y capitán emblemático de Milan, conquistó tres Copas de Europa y seis títulos de la Serie A durante su carrera",
+     "id": "b2e78d52cb41"
     },
     {
-     "title": "Tabla de Promedios 2026: así están las posiciones que definen un descenso, en la fecha 2 del Clausura",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/tabla-de-promedios-2026-asi-estan-las-posiciones-que-definen-un-descenso-en-la-fecha-2-del-clausura-nid31072026/",
+     "title": "Qué es Recoleta FC: el modesto club paraguayo que Boca enfrentará en los octavos de final de la Copa Sudamericana",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/que-es-recoleta-fc-el-modesto-club-paraguayo-que-boca-enfrentara-en-los-octavos-de-final-de-la-copa-nid31072026/",
      "source": "La Nación",
-     "published": "2026-07-31T03:39:01+00:00",
-     "copete": "Estudiantes de Río Cuarto, Aldosivi y Sarmiento de Junín perdieron sus respectivos cotejos y siguen los últimos puestos",
-     "id": "1ddb79c112da"
+     "published": "2026-07-31T07:06:51+00:00",
+     "copete": "El miércoles 12 de agosto el club guaraní visitará por primera vez en su historia la Bombonera; su fundación, apodos y la perlita de su presidente",
+     "id": "a8f3464801c6"
     },
     {
-     "title": "Clima hoy en Villa Pehuenia, Neuquén: el pronóstico del tiempo para este viernes 31 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-pehuenia-neuquen-pronostico-tiempo-viernes-31-julio-2026_0_h4H33KYF5W.html",
-     "source": "Clarín",
-     "published": "2026-07-31T03:30:15+00:00",
-     "copete": "El SMN anticipa para este viernes temperaturas entre 0°C y 5°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "0dfafcce653a"
+     "title": "12.819.532.788.614.400.000%: el número de inflación que calculó Milei desde la fundación del BCRA hace 91 años",
+     "link": "https://www.infobae.com/economia/2026/07/31/12819532788614400000-el-numero-de-inflacion-que-calculo-milei-desde-la-fundacion-del-bcra-hace-91-anos/",
+     "source": "Infobae",
+     "published": "2026-07-31T07:06:17+00:00",
+     "copete": "En la presentación del proyecto para reformar la Carta Orgánica del Banco Central, el presidente estimó que la suba del costo de vida se acercó a 13 trillones desde 1935",
+     "id": "5d42f63cfc0f"
     },
     {
-     "title": "Clima hoy en Villa Unión, La Rioja: el pronóstico del tiempo para este viernes 31 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-union-rioja-pronostico-tiempo-viernes-31-julio-2026_0_lj3qFE58K3.html",
-     "source": "Clarín",
-     "published": "2026-07-31T03:30:15+00:00",
-     "copete": "El SMN anticipa para este viernes temperaturas entre 9°C y 25°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "d745c4c44dd5"
-    },
-    {
-     "title": "Clima hoy en Villa Gesell, Buenos Aires: el pronóstico del tiempo para este viernes 31 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-gesell-buenos-aires-pronostico-tiempo-viernes-31-julio-2026_0_Bq5EN2BzCA.html",
-     "source": "Clarín",
-     "published": "2026-07-31T03:30:14+00:00",
-     "copete": "El SMN anticipa para este viernes temperaturas entre 10°C y 16°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "2c6b0f3b465e"
-    },
-    {
-     "title": "Por qué hay que desenchufar la televisión de la habitación antes de dormir",
-     "link": "https://www.lanacion.com.ar/lifestyle/por-que-hay-que-desenchufar-la-television-de-la-habitacion-antes-de-dormir-nid31072026/",
+     "title": "Naty Franz, pionera del tapping: “Cualquier desequilibrio trae enfermedad”",
+     "link": "https://www.lanacion.com.ar/lifestyle/naty-franz-pionera-del-tapping-cualquier-desequilibrio-trae-enfermedad-nid31072026/",
      "source": "La Nación",
-     "published": "2026-07-31T03:30:00+00:00",
-     "copete": "Aunque para muchas personas mirar televisión antes de acostarse forma parte de la rutina nocturna, especialistas coinciden en que mantener este aparato en el dormitorio puede afectar tanto el descanso como la calidad del sueño",
-     "id": "4ad4cec94211"
+     "published": "2026-07-31T07:00:00+00:00",
+     "copete": "En una entrevista para LA NACION, la pionera de la Técnica de Liberación Emocional en la Argentina profundizó en la importancia de este ejercicio y los beneficios de incorporarlo en la rutina",
+     "id": "174d1027d52f"
+    },
+    {
+     "title": "Iker, montañés que vive sin red eléctrica: “Aprender a tener una casa eficiente y acorde a lo que el sol te da cada día”",
+     "link": "https://www.lanacion.com.ar/lifestyle/iker-montanes-que-vive-sin-red-electrica-aprender-a-tener-una-casa-eficiente-y-acorde-a-lo-que-el-nid31072026/",
+     "source": "La Nación",
+     "published": "2026-07-31T07:00:00+00:00",
+     "copete": "El creador de contenido español enseñó cómo hacer que una vivienda rústica funcione con un único panel solar; además, dio detalles de las herramientas para gastar menos dinero",
+     "id": "c00a4c6a68c0"
+    },
+    {
+     "title": "Murió Franco Baresi, histórico capitán de Milan y leyenda del fútbol italiano",
+     "link": "https://www.clarin.com/deportes/murio-franco-baresi-historico-capitan-milan-campeon-mundo-italia_0_IQMAmTjeK7.html",
+     "source": "Clarín",
+     "published": "2026-07-31T06:49:10+00:00",
+     "copete": "El legendario exdefensor tenía 66 años. El club italiano confirmó la noticia y destacó que su legado permanecerá ligado para siempre a la camiseta número 6. Disputó más de 700 partidos con el conjunto rossonero y formó parte del…",
+     "id": "fd4f45dd74eb"
+    },
+    {
+     "title": "La crisis migratoria de Ceuta: las fotos del cruce masivo de la frontera con Marruecos",
+     "link": "https://www.infobae.com/fotos/2026/07/31/la-crisis-migratoria-de-ceuta-las-fotos-del-cruce-masivo-de-la-frontera-con-marruecos/",
+     "source": "Infobae",
+     "published": "2026-07-31T06:40:54+00:00",
+     "copete": "La crisis migratoria de Ceuta, miles de personas se resisten a abandonar la frontera",
+     "id": "dc5668f421ae"
+    },
+    {
+     "title": "Reforma del Banco Central: la cadena nacional actuó como primer paso de la campaña de Milei para la reelección",
+     "link": "https://www.infobae.com/politica/2026/07/31/reforma-del-banco-central-la-cadena-nacional-actuo-como-primer-paso-de-la-campana-de-milei-para-la-reeleccion/",
+     "source": "Infobae",
+     "published": "2026-07-31T06:36:13+00:00",
+     "copete": "El anuncio fue un “punto de quiebre” hacia el 2027. Cómo sigue la calendarización del Gobierno para el cierre del año. La suspensión de las PASO, más cerca",
+     "id": "ebd70d993efa"
+    },
+    {
+     "title": "África Occidental se ha convertido en un enorme centro de tráfico de cocaína",
+     "link": "https://www.infobae.com/economist/2026/07/31/africa-occidental-se-ha-convertido-en-un-enorme-centro-de-trafico-de-cocaina/",
+     "source": "Infobae",
+     "published": "2026-07-31T06:35:08+00:00",
+     "copete": "El análisis de otras rutas ha cambiado la estrategia de los traficantes para el transporte marítimo a Europa",
+     "id": "c8a9d0c2b444"
+    },
+    {
+     "title": "Ni Capitán América ni Thor: Marvel revela quién puede derrotar a Doctor Doom",
+     "link": "https://www.clarin.com/internacional/capitan-america-thor-marvel-revela-puede-derrotar-doctor-doom_0_Wlwv92oVdy.html",
+     "source": "Clarín",
+     "published": "2026-07-31T06:00:38+00:00",
+     "copete": "Marvel filtró sin querer quién puede detener a Doctor Doom. La pista no llegó por un tráiler: llegó por un juguete.",
+     "id": "3c4664c0ea32"
     }
    ]
   },
@@ -450,6 +434,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Trump anuncia un acuerdo para “el desarme total” de Hamás",
+     "link": "https://elpais.com/us/2026-07-30/trump-anuncia-un-acuerdo-para-el-desarme-total-de-hamas.html",
+     "source": "El País Internacional",
+     "published": "2026-07-31T06:30:12+00:00",
+     "copete": "El presidente de EE UU asegura que el pacto, sin confirmación israelí ni de la milicia palestina, supone un paso clave para que Gaza tenga un Gobierno propio",
+     "id": "824e72a05ff3"
+    },
     {
      "title": "El sociólogo Kagarlitski, de la cárcel soviética a la de Putin",
      "link": "https://elpais.com/internacional/2026-07-31/el-sociologo-kagarlitski-de-la-carcel-sovietica-a-la-de-putin.html",
@@ -505,14 +497,6 @@
      "published": "2026-07-30T18:46:01+00:00",
      "copete": "El lanzamiento del aparato, que no ha sido reivindicado, aumenta la preocupación por la posible extensión del conflicto a una ruta clave para el transporte de petróleo saudí",
      "id": "a34450df80bd"
-    },
-    {
-     "title": "La costarricense Grynspan encabeza la primera votación informal para elegir nuevo líder de la ONU",
-     "link": "https://elpais.com/internacional/2026-07-30/la-costarricense-grynspan-encabeza-la-primera-votacion-informal-para-elegir-nuevo-lider-de-la-onu.html",
-     "source": "El País Internacional",
-     "published": "2026-07-30T18:37:57+00:00",
-     "copete": "Los 15 miembros del Consejo de Seguridad comienzan el proceso para sustituir a António Guterres. En segundo y tercer puesto quedan la guyanesa Rodrigues-Birkett y el argentino Grossi",
-     "id": "b205ca173c4b"
     }
    ]
   }
@@ -526,6 +510,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
