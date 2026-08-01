@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-07-31T22:08:01Z",
+  "generated_at": "2026-08-01T10:06:37Z",
   "summaries": {
     "d499b8c68343": {
       "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 vipivotide tetraxetan, una terapia con radioligando dirigida contra el PSMA (antígeno de membrana específico de la próstata), para pacientes con cáncer de próstata metastásico sensible a la castración (mHSPC, por sus siglas en inglés) con PSMA positivo. Es relevante porque extiende la terapia con radioligandos a una etapa más temprana de la enfermedad, antes reservada para el cáncer resistente a la castración.",
       "destacado": false
     },
-    "dc7ca7f169e8": {
-      "resumen": "OncLive analiza cómo Optune Pax, un dispositivo de campos de tratamiento de tumores (TTFields, por sus siglas en inglés) que se suma a la quimioterapia, está cambiando el abordaje del cáncer de páncreas localmente avanzado. Sirve para conocer una tecnología no farmacológica que se suma al arsenal terapéutico en un tumor de pronóstico particularmente difícil.",
-      "destacado": false
+    "8fe81f350922": {
+      "resumen": "OncLive informa que un esquema acortado de venetoclax (un inhibidor de BCL-2, la proteína antiapoptótica B-cell lymphoma 2) más azacitidina no logró igualar los resultados del esquema estándar en pacientes con leucemia mieloide aguda (LMA). Interesa porque explora si se puede reducir la duración del tratamiento sin perder eficacia, y en este caso la respuesta fue negativa.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes) que compara un esquema acortado de venetoclax más azacitidina contra el esquema estándar.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), sin especificar en el título si son de diagnóstico reciente o en recaída/refractarios, ni la elegibilidad para quimioterapia intensiva.\nIntervención: Esquema acortado de venetoclax (inhibidor de BCL-2, B-cell lymphoma 2) combinado con azacitidina, comparado presumiblemente contra la duración estándar del mismo esquema.\nResultados: El título indica que el esquema acortado resultó inferior al esquema estándar, pero no informa cifras de tasas de respuesta, supervivencia libre de progresión o supervivencia global.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el margen de no inferioridad predefinido, ni el perfil de toxicidad de cada brazo.\nMensaje: Sugiere que acortar la duración del esquema venetoclax-azacitidina en LMA compromete la eficacia, por lo que el esquema estándar seguiría siendo preferible hasta contar con más datos.\nNota: análisis sin acceso al abstract."
     },
-    "50895927c0d9": {
-      "resumen": "OncLive entrevista a la Dra. Solange Peters sobre el lugar que empiezan a ocupar los anticuerpos biespecíficos anti-PD-L1/VEGF (ligando 1 de muerte celular programada y factor de crecimiento endotelial vascular) en primera línea del cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés). Interesa porque estas moléculas combinan en una sola droga inmunoterapia y antiangiogénesis, una estrategia que compite con los esquemas actuales.",
+    "379a2b9078e8": {
+      "resumen": "OncLive entrevista a la Dra. Malla sobre el papel de biomarcadores específicos en la elección del tratamiento de primera línea para los cánceres gastrointestinales. Sirve para entender cómo la medicina de precisión guía cada vez más las decisiones terapéuticas iniciales en tumores digestivos.",
       "destacado": false
     },
     "27915e753de5": {
@@ -25,52 +26,53 @@
     },
     "5bdf9d451dc6": {
       "resumen": "The ASCO Post informa que un esquema triple con pirtobrutinib (un inhibidor de BTK, la tirosina quinasa de Bruton, no covalente) mejoró la supervivencia libre de progresión en pacientes con leucemia linfática crónica (LLC) previamente tratada. Interesa porque pirtobrutinib es una alternativa para quienes progresaron a inhibidores de BTK covalentes, y combinarlo en triplete podría profundizar la respuesta.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Ensayo clínico (el título no especifica la fase, el cegamiento, ni el número de centros o de pacientes) que evalúa un esquema triple basado en pirtobrutinib.\nPoblación: Pacientes con leucemia linfática crónica (LLC) previamente tratada, presumiblemente con progresión a una o más líneas previas, que podrían incluir inhibidores de BTK (tirosina quinasa de Bruton) covalentes.\nIntervención: Triplete que incluye pirtobrutinib (inhibidor de BTK no covalente) combinado con otros dos agentes no especificados en el título; comparador no explicitado.\nResultados: Mejora en la supervivencia libre de progresión, según el título; sin cifras concretas (razón de riesgo, intervalos de confianza, medianas o valor de p) porque no están disponibles sin el abstract completo.\nLimitaciones: Sin abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad del triplete, ni si el diseño permite establecer causalidad o es un análisis no comparativo.\nMensaje: Si se confirma con los datos completos, un triplete con pirtobrutinib podría sumar una opción eficaz para la LLC previamente tratada, ampliando las combinaciones disponibles más allá de la monoterapia con inhibidores de BTK.\nNota: análisis sin acceso al abstract."
     },
-    "2a81124be3c1": {
-      "resumen": "Journal of Clinical Oncology publica el ensayo CIVIC POD, un estudio de fase III que evalúa si es posible prescindir de la dexametasona en la profilaxis antiemética de niños y adolescentes que reciben quimioterapia altamente emetogénica. Es el estudio destacado de hoy porque busca reducir la exposición a corticoides en pacientes pediátricos sin perder eficacia contra las náuseas y los vómitos.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico multicéntrico, de fase III, de no inferioridad, según el título (no se especifica en el título la aleatorización, el cegamiento, ni el número exacto de centros o de pacientes).\nPoblación: Niños y adolescentes que reciben quimioterapia altamente emetogénica.\nIntervención: Esquema de profilaxis antiemética libre de dexametasona, comparado presumiblemente contra el esquema estándar que incluye dexametasona (comparador no explicitado con precisión en el título).\nResultados: No informados en el título ni disponibles sin acceso al abstract completo del estudio.\nLimitaciones: Sin abstract no se puede evaluar el margen de no inferioridad predefinido, la tasa de control completo de náuseas y vómitos en cada brazo, ni los efectos adversos asociados a la exposición prolongada a corticoides.\nMensaje: Si confirma la no inferioridad, permitiría reducir la exposición a dexametasona en pacientes pediátricos oncológicos, evitando sus efectos adversos (por ejemplo, sobre el ánimo, el sueño o el crecimiento) sin resignar el control de náuseas y vómitos asociado a la quimioterapia.\nNota: análisis sin acceso al abstract."
-    },
-    "7288372b8d81": {
-      "resumen": "Journal of Clinical Oncology publica una revisión sobre las controversias en el manejo del mieloma múltiple smoldering (asintomático) de alto riesgo, que discute si conviene iniciar tratamiento temprano o mantener una conducta expectante. Interesa porque resume el debate actual sobre cuándo tratar una entidad que todavía no es mieloma sintomático.",
+    "04d2ca36c784": {
+      "resumen": "Journal of Clinical Oncology publica la respuesta de los autores originales a un comentario sobre su estudio acerca de la progresión radiográfica con y sin aumento del antígeno prostático específico (PSA) en cáncer de próstata avanzado tratado con enzalutamida. Es un intercambio de cartas que profundiza la discusión metodológica del estudio original, publicado en el mismo número.",
       "destacado": false
     },
-    "1ae551bc7fe3": {
-      "resumen": "Journal of Clinical Oncology publica un editorial que comenta los resultados del ensayo CIVIC POD y discute si ya hay evidencia suficiente para limitar el uso de dexametasona en los esquemas antieméticos de la quimioterapia altamente emetogénica. Funciona como contrapunto crítico al estudio original, con la mirada de un experto en profilaxis antiemética.",
+    "9cce58f4a50d": {
+      "resumen": "Journal of Clinical Oncology publica el análisis a largo plazo de los pacientes con sarcoma de Ewing incluidos en el estudio Euro-EWING99. Interesa porque aporta datos de seguimiento prolongado sobre supervivencia y recaídas tardías en un tumor óseo poco frecuente que afecta sobre todo a niños y adultos jóvenes.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de seguimiento a largo plazo de una cohorte de pacientes incluidos en el estudio internacional Euro-EWING99 (el título no precisa el número de centros ni de pacientes analizados en este reporte).\nPoblación: Pacientes con sarcoma de Ewing incluidos originalmente en el estudio Euro-EWING99, un tumor óseo o de tejidos blandos que afecta predominantemente a niños, adolescentes y adultos jóvenes.\nIntervención: No se trata de una nueva intervención terapéutica sino de un seguimiento extendido de los tratamientos ya evaluados en el estudio original (quimioterapia multiagente con o sin consolidación local).\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (supervivencia global a largo plazo, recaídas tardías, segundas neoplasias).\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento, los factores pronósticos identificados, ni si el análisis fue preespecificado o exploratorio.\nMensaje: Aporta información valiosa sobre el pronóstico a largo plazo del sarcoma de Ewing, relevante para el seguimiento de sobrevivientes y la detección de secuelas tardías, aunque sin cifras concretas por el momento.\nNota: análisis sin acceso al abstract."
+    },
+    "168bfd833f62": {
+      "resumen": "Journal of Clinical Oncology publica una carta con consideraciones estadísticas y metodológicas sobre la evaluación de dosis ultra-bajas de nivolumab (un inhibidor del punto de control PD-1, receptor de muerte celular programada 1). Interesa porque cuestiona aspectos del diseño de los estudios que evalúan reducir la dosis de esta inmunoterapia, con implicancias en costos y acceso.",
       "destacado": false
     },
-    "d73be8a90f97": {
-      "resumen": "Journal of Clinical Oncology publica una fe de erratas (corrección editorial) del artículo sobre el ensayo de fase III SENTRY, que evaluó selinexor (un inhibidor de exportina 1) más ruxolitinib (un inhibidor de JAK, las quinasas asociadas a Janus) en pacientes con mielofibrosis sin tratamiento previo con inhibidores de JAK. Se trata solo de una corrección al estudio original, no de datos clínicos nuevos.",
-      "destacado": false
+    "e2ff4c1563e5": {
+      "resumen": "Journal of Clinical Oncology publica un estudio sobre la progresión radiográfica con y sin aumento del antígeno prostático específico (PSA) en pacientes con cáncer de próstata avanzado tratados con enzalutamida. Interesa porque cuestiona si el PSA sigue siendo un marcador confiable de progresión en la era de las terapias hormonales de nueva generación.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio (el título no especifica si es un análisis secundario de un ensayo clínico, una cohorte retrospectiva o prospectiva, ni el número de centros o de pacientes) que evalúa la concordancia entre la progresión radiográfica y el aumento del PSA (antígeno prostático específico).\nPoblación: Pacientes con cáncer de próstata avanzado tratados con enzalutamida, un antiandrógeno de nueva generación.\nIntervención: No hay una intervención nueva; se trata de un análisis observacional sobre el comportamiento del PSA y las imágenes durante el tratamiento con enzalutamida, sin comparador terapéutico explícito.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (proporción de pacientes con progresión radiográfica sin aumento de PSA, o viceversa).\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la cohorte, la frecuencia de las evaluaciones radiográficas y bioquímicas, ni el impacto pronóstico de la discordancia.\nMensaje: Plantea que el aumento del PSA podría no capturar todos los casos de progresión bajo enzalutamida, lo que subraya la importancia de mantener la vigilancia con imágenes independientemente del valor de PSA.\nNota: análisis sin acceso al abstract."
     },
     "3ad340b47954": {
       "resumen": "Vogue presenta la colección Resort 2027 de Mary Katrantzou, la diseñadora griega conocida por sus estampados gráficos y sus siluetas escultóricas."
     },
-    "65d64618f354": {
-      "resumen": "Vogue México reúne quince cortes de pelo pensados para dar volumen al cabello liso y favorecer el rostro este verano."
+    "a0e042a659da": {
+      "resumen": "Harper's BAZAAR cuenta por qué los shorts deportivos les ganaron el verano a los clásicos shorts de jean, según las expertas en moda."
     },
-    "50a1dbc87eaa": {
-      "resumen": "Vogue México propone sandalias planas con detalles sofisticados para un look elegante y cómodo durante el verano."
+    "aba87804f5ec": {
+      "resumen": "Cosmopolitan explica por qué las gemas dentales, la tendencia de sumar joyas a los dientes, se volvió furor entre la generación Z."
     },
-    "8a0fea20e383": {
-      "resumen": "El Destape adelanta las prendas que marcarán tendencia este invierno y que llegan a las vidrieras en agosto."
+    "393d01449658": {
+      "resumen": "El Nuevo Día repasa cómo los cambios en la moda masculina todavía no logran filtrarse a los códigos de vestimenta del mundo corporativo."
     },
-    "8bf27a9f80be": {
-      "resumen": "Cosmopolitan elige tres vestidos de Zara y Mango, entre el estilo lencero y los estampados florales, para lucir en agosto."
+    "b23d3528086a": {
+      "resumen": "AmericaMalls & Retail selecciona ocho tendencias de agosto que se consiguen en Zara, Mango y Stradivarius."
     },
-    "92678bd5eb13": {
-      "resumen": "Vogue México cuenta cómo The Fashion Game Changers reconoció en Madrid el talento de la moda latinoamericana."
+    "e80f26c209fb": {
+      "resumen": "Vogue México propone looks con jeans, polleras y vestidos para ir al recital de Harry Styles en Ciudad de México este verano."
     },
-    "37b9a4ee3216": {
-      "resumen": "Identidad Correntina repasa por qué la campera trucker vuelve a imponerse como prenda clave este invierno."
+    "41e3bf9eab68": {
+      "resumen": "Vogue México adelanta que el Caribe mexicano volverá a ser escenario de un evento donde se combinan el arte y la naturaleza."
+    },
+    "3f8d5dd64092": {
+      "resumen": "Vogue México destaca cómo Karol G lució las zapatillas blancas altas, la tendencia con espíritu ochentoso que vuelve a estar de moda."
     },
     "7e877ece1577": {
       "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
-    },
-    "42502bd164f4": {
-      "resumen": "El Gobierno porteño distinguió a los restaurantes de la Ciudad reconocidos por la Guía Michelin 2026."
     },
     "18c57e3247d6": {
       "resumen": "El Gobierno de la Ciudad homenajeó a los restaurantes porteños que fueron reconocidos por la Guía Michelin 2026."
@@ -81,17 +83,20 @@
     "e72a7c2225b5": {
       "resumen": "El Cuarto Soda regresa a Buenos Aires con un show tributo a la histórica gira \"Me Verás Volver\" de Soda Stereo."
     },
-    "1ad16a7ab012": {
-      "resumen": "Reabrió la inscripción gratuita para presenciar ensayos de la Filarmónica en el Teatro Colón, que ya convocó a más de 3.000 vecinos."
-    },
     "dbb0a37573d2": {
       "resumen": "Una agenda con más de 60 planes para el fin de semana en Buenos Aires: recitales, teatro, cine, muestras y propuestas gratuitas."
     },
-    "b6a05d184950": {
-      "resumen": "Un repaso de los planes gratuitos para aprovechar el último fin de semana de las vacaciones de invierno en Buenos Aires."
+    "141d821ad83e": {
+      "resumen": "Indie Hoy recomienda \"Si vos me amás, yo te gano\", la obra de teatro que se presenta en El Galpón de Guevara."
     },
-    "3be16882c501": {
-      "resumen": "Una selección de planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
+    "bef5e7b7bb95": {
+      "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
+    },
+    "1c5bb0f58cd3": {
+      "resumen": "La Voz del Interior recorre la escena gastronómica porteña, entre restaurantes con estrella Michelin, largas colas y la clásica fugazzetta."
+    },
+    "a5579cd7cb17": {
+      "resumen": "Revista OHLALÁ! reúne los mejores planes, recitales, muestras y eventos para hacer durante agosto."
     }
   }
 }
