@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:06:37Z",
+  "generated_at": "2026-08-01T22:04:02Z",
   "summaries": {
     "d499b8c68343": {
       "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 vipivotide tetraxetan, una terapia con radioligando dirigida contra el PSMA (antígeno de membrana específico de la próstata), para pacientes con cáncer de próstata metastásico sensible a la castración (mHSPC, por sus siglas en inglés) con PSMA positivo. Es relevante porque extiende la terapia con radioligandos a una etapa más temprana de la enfermedad, antes reservada para el cáncer resistente a la castración.",
@@ -9,10 +9,6 @@
       "resumen": "OncLive informa que un esquema acortado de venetoclax (un inhibidor de BCL-2, la proteína antiapoptótica B-cell lymphoma 2) más azacitidina no logró igualar los resultados del esquema estándar en pacientes con leucemia mieloide aguda (LMA). Interesa porque explora si se puede reducir la duración del tratamiento sin perder eficacia, y en este caso la respuesta fue negativa.",
       "destacado": false,
       "analisis": "Diseño: Estudio clínico (el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes) que compara un esquema acortado de venetoclax más azacitidina contra el esquema estándar.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), sin especificar en el título si son de diagnóstico reciente o en recaída/refractarios, ni la elegibilidad para quimioterapia intensiva.\nIntervención: Esquema acortado de venetoclax (inhibidor de BCL-2, B-cell lymphoma 2) combinado con azacitidina, comparado presumiblemente contra la duración estándar del mismo esquema.\nResultados: El título indica que el esquema acortado resultó inferior al esquema estándar, pero no informa cifras de tasas de respuesta, supervivencia libre de progresión o supervivencia global.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el margen de no inferioridad predefinido, ni el perfil de toxicidad de cada brazo.\nMensaje: Sugiere que acortar la duración del esquema venetoclax-azacitidina en LMA compromete la eficacia, por lo que el esquema estándar seguiría siendo preferible hasta contar con más datos.\nNota: análisis sin acceso al abstract."
-    },
-    "379a2b9078e8": {
-      "resumen": "OncLive entrevista a la Dra. Malla sobre el papel de biomarcadores específicos en la elección del tratamiento de primera línea para los cánceres gastrointestinales. Sirve para entender cómo la medicina de precisión guía cada vez más las decisiones terapéuticas iniciales en tumores digestivos.",
-      "destacado": false
     },
     "27915e753de5": {
       "resumen": "The ASCO Post reporta un estudio de la ACS (American Cancer Society, Sociedad Americana del Cáncer) que cuantifica la carga financiera que enfrentan los pacientes mayores con cáncer, un fenómeno conocido como toxicidad financiera. Interesa porque pone números a un problema que suele quedar fuera de la discusión puramente clínica y que impacta la adherencia al tratamiento.",
@@ -50,35 +46,14 @@
     "3ad340b47954": {
       "resumen": "Vogue presenta la colección Resort 2027 de Mary Katrantzou, la diseñadora griega conocida por sus estampados gráficos y sus siluetas escultóricas."
     },
-    "a0e042a659da": {
-      "resumen": "Harper's BAZAAR cuenta por qué los shorts deportivos les ganaron el verano a los clásicos shorts de jean, según las expertas en moda."
-    },
-    "aba87804f5ec": {
-      "resumen": "Cosmopolitan explica por qué las gemas dentales, la tendencia de sumar joyas a los dientes, se volvió furor entre la generación Z."
-    },
     "393d01449658": {
       "resumen": "El Nuevo Día repasa cómo los cambios en la moda masculina todavía no logran filtrarse a los códigos de vestimenta del mundo corporativo."
-    },
-    "b23d3528086a": {
-      "resumen": "AmericaMalls & Retail selecciona ocho tendencias de agosto que se consiguen en Zara, Mango y Stradivarius."
-    },
-    "e80f26c209fb": {
-      "resumen": "Vogue México propone looks con jeans, polleras y vestidos para ir al recital de Harry Styles en Ciudad de México este verano."
-    },
-    "41e3bf9eab68": {
-      "resumen": "Vogue México adelanta que el Caribe mexicano volverá a ser escenario de un evento donde se combinan el arte y la naturaleza."
-    },
-    "3f8d5dd64092": {
-      "resumen": "Vogue México destaca cómo Karol G lució las zapatillas blancas altas, la tendencia con espíritu ochentoso que vuelve a estar de moda."
     },
     "7e877ece1577": {
       "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
     },
     "18c57e3247d6": {
       "resumen": "El Gobierno de la Ciudad homenajeó a los restaurantes porteños que fueron reconocidos por la Guía Michelin 2026."
-    },
-    "9fa1df8735de": {
-      "resumen": "Buenos Aires celebró a los 58 restaurantes porteños que obtuvieron distinciones de la Guía Michelin 2026."
     },
     "e72a7c2225b5": {
       "resumen": "El Cuarto Soda regresa a Buenos Aires con un show tributo a la histórica gira \"Me Verás Volver\" de Soda Stereo."
@@ -92,11 +67,47 @@
     "bef5e7b7bb95": {
       "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
     },
-    "1c5bb0f58cd3": {
-      "resumen": "La Voz del Interior recorre la escena gastronómica porteña, entre restaurantes con estrella Michelin, largas colas y la clásica fugazzetta."
+    "62d6bfcd8357": {
+      "resumen": "OncLive propone un quiz semanal para repasar las noticias oncológicas de la semana en melanoma, cáncer de cabeza y cuello, y cáncer gástrico. Es un formato de repaso rápido, útil para no perderse las actualizaciones clave de estos tumores.",
+      "destacado": false
     },
-    "a5579cd7cb17": {
-      "resumen": "Revista OHLALÁ! reúne los mejores planes, recitales, muestras y eventos para hacer durante agosto."
+    "88a5fc23a07d": {
+      "resumen": "JAMA Oncology publica un comentario editorial sobre cómo perfeccionar la terapia locorregional combinada para el carcinoma hepatocelular (tumor primario de hígado) en estadio intermedio, a partir de las lecciones del estudio TORCH. Interesa porque discute cómo optimizar la combinación de tratamientos locales en un subgrupo de pacientes donde la secuencia terapéutica es motivo de debate.",
+      "destacado": false
+    },
+    "cdc4bca737d8": {
+      "resumen": "JAMA Oncology publica una réplica de los autores sobre la interpretación del estudio BRIGHT-2. Es un intercambio de cartas que aclara puntos metodológicos o de interpretación planteados por otros lectores sobre el estudio original.",
+      "destacado": false
+    },
+    "ff62aea1d762": {
+      "resumen": "Vogue México repasa la boda de la actriz Emma Roberts en las montañas, con un vestido de novia inspirado en las supermodelos de los años 90."
+    },
+    "ffacab1d5d2e": {
+      "resumen": "Vogue México cuenta cómo el vestido satinado de los 90 vuelve a estar de moda este verano de la mano de Selena Gomez."
+    },
+    "b6d55e227129": {
+      "resumen": "Vogue México propone ideas de looks para combinar blusas boho con jeans, polleras y pantalones palazzo este verano."
+    },
+    "4628cf26f1ce": {
+      "resumen": "Cosmopolitan recomienda un vestido elegante de Mango, ideal tanto para eventos como para la oficina, entre lo mejor del verano."
+    },
+    "020b2bfbc8bf": {
+      "resumen": "La Razón anticipa que las camisetas marineras serán tendencia este otoño-invierno, según el look que lució Kate Middleton en Glasgow."
+    },
+    "99ce4c0a9cf0": {
+      "resumen": "Lecturas muestra el bikini de Claudia Rodríguez, pareja del futbolista Marc Cucurella, en el color tendencia que más favorece y realza el bronceado."
+    },
+    "3fd28f88fbde": {
+      "resumen": "Ámbito recomienda restaurantes porteños para disfrutar de los mejores platos de la temporada invernal."
+    },
+    "4b362cb94bf2": {
+      "resumen": "Clarín entrevista al tenor Xabier Anduaga, que vuelve a Buenos Aires ya consolidado como una estrella de la lírica."
+    },
+    "4e89cb9a59a6": {
+      "resumen": "TN dialoga con el gastronómico chino Xe Wang sobre su mirada del vino argentino, al que describe como amigable, fácil de beber y bien balanceado."
+    },
+    "0afb6a10b935": {
+      "resumen": "El Complejo Teatral de Buenos Aires presenta una propuesta que retrata a sus personajes no como monstruos sino como seres profundamente heridos."
     }
   }
 }
