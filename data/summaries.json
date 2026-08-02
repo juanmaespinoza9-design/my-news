@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-01T22:04:02Z",
+  "generated_at": "2026-08-02T10:08:00Z",
   "summaries": {
     "d499b8c68343": {
       "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 vipivotide tetraxetan, una terapia con radioligando dirigida contra el PSMA (antígeno de membrana específico de la próstata), para pacientes con cáncer de próstata metastásico sensible a la castración (mHSPC, por sus siglas en inglés) con PSMA positivo. Es relevante porque extiende la terapia con radioligandos a una etapa más temprana de la enfermedad, antes reservada para el cáncer resistente a la castración.",
       "destacado": false
-    },
-    "8fe81f350922": {
-      "resumen": "OncLive informa que un esquema acortado de venetoclax (un inhibidor de BCL-2, la proteína antiapoptótica B-cell lymphoma 2) más azacitidina no logró igualar los resultados del esquema estándar en pacientes con leucemia mieloide aguda (LMA). Interesa porque explora si se puede reducir la duración del tratamiento sin perder eficacia, y en este caso la respuesta fue negativa.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes) que compara un esquema acortado de venetoclax más azacitidina contra el esquema estándar.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), sin especificar en el título si son de diagnóstico reciente o en recaída/refractarios, ni la elegibilidad para quimioterapia intensiva.\nIntervención: Esquema acortado de venetoclax (inhibidor de BCL-2, B-cell lymphoma 2) combinado con azacitidina, comparado presumiblemente contra la duración estándar del mismo esquema.\nResultados: El título indica que el esquema acortado resultó inferior al esquema estándar, pero no informa cifras de tasas de respuesta, supervivencia libre de progresión o supervivencia global.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, el margen de no inferioridad predefinido, ni el perfil de toxicidad de cada brazo.\nMensaje: Sugiere que acortar la duración del esquema venetoclax-azacitidina en LMA compromete la eficacia, por lo que el esquema estándar seguiría siendo preferible hasta contar con más datos.\nNota: análisis sin acceso al abstract."
     },
     "27915e753de5": {
       "resumen": "The ASCO Post reporta un estudio de la ACS (American Cancer Society, Sociedad Americana del Cáncer) que cuantifica la carga financiera que enfrentan los pacientes mayores con cáncer, un fenómeno conocido como toxicidad financiera. Interesa porque pone números a un problema que suele quedar fuera de la discusión puramente clínica y que impacta la adherencia al tratamiento.",
@@ -17,13 +12,8 @@
     },
     "9180767f46d5": {
       "resumen": "The ASCO Post reporta un estudio según el cual la consolidación con trasplante de células madre hematopoyéticas mejora la supervivencia en el linfoma primario del sistema nervioso central (SNC). Interesa porque este linfoma es un tumor agresivo y poco frecuente, y el hallazgo podría reforzar el rol del trasplante en la consolidación del tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio que evalúa la consolidación con trasplante (probablemente autólogo de células madre hematopoyéticas) en linfoma primario del sistema nervioso central; el título no precisa si es un ensayo aleatorizado, una cohorte o un análisis retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC), presumiblemente luego de responder a quimioterapia de inducción.\nIntervención: Consolidación con trasplante de células madre hematopoyéticas; el título no especifica el comparador (por ejemplo, quimioterapia de consolidación sin trasplante o radioterapia).\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin abstract no se puede evaluar el tipo de trasplante (autólogo o alogénico), las cifras de supervivencia libre de progresión o global, ni la toxicidad asociada al procedimiento.\nMensaje: Sugiere que la consolidación con trasplante podría mejorar los resultados en linfoma primario del SNC, un dato relevante para discutir la intensificación del tratamiento en pacientes candidatos, a la espera de conocer los detalles del estudio.\nNota: análisis sin acceso al abstract."
-    },
-    "5bdf9d451dc6": {
-      "resumen": "The ASCO Post informa que un esquema triple con pirtobrutinib (un inhibidor de BTK, la tirosina quinasa de Bruton, no covalente) mejoró la supervivencia libre de progresión en pacientes con leucemia linfática crónica (LLC) previamente tratada. Interesa porque pirtobrutinib es una alternativa para quienes progresaron a inhibidores de BTK covalentes, y combinarlo en triplete podría profundizar la respuesta.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico (el título no especifica la fase, el cegamiento, ni el número de centros o de pacientes) que evalúa un esquema triple basado en pirtobrutinib.\nPoblación: Pacientes con leucemia linfática crónica (LLC) previamente tratada, presumiblemente con progresión a una o más líneas previas, que podrían incluir inhibidores de BTK (tirosina quinasa de Bruton) covalentes.\nIntervención: Triplete que incluye pirtobrutinib (inhibidor de BTK no covalente) combinado con otros dos agentes no especificados en el título; comparador no explicitado.\nResultados: Mejora en la supervivencia libre de progresión, según el título; sin cifras concretas (razón de riesgo, intervalos de confianza, medianas o valor de p) porque no están disponibles sin el abstract completo.\nLimitaciones: Sin abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad del triplete, ni si el diseño permite establecer causalidad o es un análisis no comparativo.\nMensaje: Si se confirma con los datos completos, un triplete con pirtobrutinib podría sumar una opción eficaz para la LLC previamente tratada, ampliando las combinaciones disponibles más allá de la monoterapia con inhibidores de BTK.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio que evalúa la consolidación con trasplante (probablemente autólogo de células madre hematopoyéticas) en linfoma primario del sistema nervioso central; el título no precisa si es un ensayo aleatorizado, una cohorte o un análisis retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC), presumiblemente luego de responder a quimioterapia de inducción.\nIntervención: Consolidación con trasplante de células madre hematopoyéticas; el título no especifica el comparador (por ejemplo, quimioterapia de consolidación sin trasplante o radioterapia).\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin abstract no se puede evaluar el tipo de trasplante (autólogo o alogénico), las cifras de supervivencia libre de progresión o global, ni la toxicidad asociada al procedimiento.\nMensaje: Sugiere que la consolidación con trasplante podría mejorar los resultados en linfoma primario del SNC, un dato relevante para discutir la intensificación del tratamiento en pacientes candidatos, a la espera de conocer los detalles del estudio.\nNota: análisis sin acceso al abstract."
     },
     "04d2ca36c784": {
       "resumen": "Journal of Clinical Oncology publica la respuesta de los autores originales a un comentario sobre su estudio acerca de la progresión radiográfica con y sin aumento del antígeno prostático específico (PSA) en cáncer de próstata avanzado tratado con enzalutamida. Es un intercambio de cartas que profundiza la discusión metodológica del estudio original, publicado en el mismo número.",
@@ -43,20 +33,41 @@
       "destacado": false,
       "analisis": "Diseño: Estudio (el título no especifica si es un análisis secundario de un ensayo clínico, una cohorte retrospectiva o prospectiva, ni el número de centros o de pacientes) que evalúa la concordancia entre la progresión radiográfica y el aumento del PSA (antígeno prostático específico).\nPoblación: Pacientes con cáncer de próstata avanzado tratados con enzalutamida, un antiandrógeno de nueva generación.\nIntervención: No hay una intervención nueva; se trata de un análisis observacional sobre el comportamiento del PSA y las imágenes durante el tratamiento con enzalutamida, sin comparador terapéutico explícito.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (proporción de pacientes con progresión radiográfica sin aumento de PSA, o viceversa).\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la cohorte, la frecuencia de las evaluaciones radiográficas y bioquímicas, ni el impacto pronóstico de la discordancia.\nMensaje: Plantea que el aumento del PSA podría no capturar todos los casos de progresión bajo enzalutamida, lo que subraya la importancia de mantener la vigilancia con imágenes independientemente del valor de PSA.\nNota: análisis sin acceso al abstract."
     },
+    "efd05c2ba114": {
+      "resumen": "El Dr. Benjamin P. Levy repasa para The ASCO Post las opciones terapéuticas emergentes para el cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con mutación KRAS G12C, tanto en primera línea como en combinación con otras terapias. Vale la pena mirarlo porque KRAS G12C es una de las mutaciones oncogénicas más frecuentes en este tumor y el panorama terapéutico se está expandiendo rápido con nuevos inhibidores y combinaciones.",
+      "destacado": false
+    },
+    "62d6bfcd8357": {
+      "resumen": "OncLive propone un quiz semanal para repasar las noticias oncológicas de la semana en melanoma, cáncer de cabeza y cuello, y cáncer gástrico. Es un formato de repaso rápido, útil para no perderse las actualizaciones clave de estos tumores.",
+      "destacado": false
+    },
+    "88397e773e83": {
+      "resumen": "OncLive presenta la edición de verano 2026 de su suplemento IO (Immuno-Oncology, inmuno-oncología), con una recopilación de artículos y actualizaciones sobre inmunoterapia en cáncer. Sirve como punteo general para estar al día con las novedades del campo, aunque no profundiza en un estudio en particular.",
+      "destacado": false
+    },
     "3ad340b47954": {
       "resumen": "Vogue presenta la colección Resort 2027 de Mary Katrantzou, la diseñadora griega conocida por sus estampados gráficos y sus siluetas escultóricas."
     },
-    "393d01449658": {
-      "resumen": "El Nuevo Día repasa cómo los cambios en la moda masculina todavía no logran filtrarse a los códigos de vestimenta del mundo corporativo."
+    "02eee07fb160": {
+      "resumen": "Infobae analiza cómo las marcas internacionales de lujo están transformando la escena de la moda en Buenos Aires."
+    },
+    "068fe3b60974": {
+      "resumen": "Cosmopolitan propone looks para la semana del 3 de agosto, combinando básicos de Zara con las faldas tendencia del verano."
+    },
+    "fd6932993f48": {
+      "resumen": "La Razón repasa cinco looks de famosas ideales para la oficina en agosto, pensados para quienes no se van de vacaciones."
+    },
+    "c9f2beae935c": {
+      "resumen": "Vanitatis repasa las tendencias de vestidos de novia que quedan atrás este año, en favor de looks más sobrios."
+    },
+    "5cdeb876ca11": {
+      "resumen": "Vogue México muestra ocho blusas largas de estilo años 2000 que vuelven a combinarse con jeans, polleras y bermudas este verano."
+    },
+    "707b8bc6c25f": {
+      "resumen": "Vogue México analiza por qué la banda BTS decidió no participar de los Grammys 2027 y qué implica esa decisión para la industria musical."
     },
     "7e877ece1577": {
       "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
-    },
-    "18c57e3247d6": {
-      "resumen": "El Gobierno de la Ciudad homenajeó a los restaurantes porteños que fueron reconocidos por la Guía Michelin 2026."
-    },
-    "e72a7c2225b5": {
-      "resumen": "El Cuarto Soda regresa a Buenos Aires con un show tributo a la histórica gira \"Me Verás Volver\" de Soda Stereo."
     },
     "dbb0a37573d2": {
       "resumen": "Una agenda con más de 60 planes para el fin de semana en Buenos Aires: recitales, teatro, cine, muestras y propuestas gratuitas."
@@ -67,36 +78,6 @@
     "bef5e7b7bb95": {
       "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
     },
-    "62d6bfcd8357": {
-      "resumen": "OncLive propone un quiz semanal para repasar las noticias oncológicas de la semana en melanoma, cáncer de cabeza y cuello, y cáncer gástrico. Es un formato de repaso rápido, útil para no perderse las actualizaciones clave de estos tumores.",
-      "destacado": false
-    },
-    "88a5fc23a07d": {
-      "resumen": "JAMA Oncology publica un comentario editorial sobre cómo perfeccionar la terapia locorregional combinada para el carcinoma hepatocelular (tumor primario de hígado) en estadio intermedio, a partir de las lecciones del estudio TORCH. Interesa porque discute cómo optimizar la combinación de tratamientos locales en un subgrupo de pacientes donde la secuencia terapéutica es motivo de debate.",
-      "destacado": false
-    },
-    "cdc4bca737d8": {
-      "resumen": "JAMA Oncology publica una réplica de los autores sobre la interpretación del estudio BRIGHT-2. Es un intercambio de cartas que aclara puntos metodológicos o de interpretación planteados por otros lectores sobre el estudio original.",
-      "destacado": false
-    },
-    "ff62aea1d762": {
-      "resumen": "Vogue México repasa la boda de la actriz Emma Roberts en las montañas, con un vestido de novia inspirado en las supermodelos de los años 90."
-    },
-    "ffacab1d5d2e": {
-      "resumen": "Vogue México cuenta cómo el vestido satinado de los 90 vuelve a estar de moda este verano de la mano de Selena Gomez."
-    },
-    "b6d55e227129": {
-      "resumen": "Vogue México propone ideas de looks para combinar blusas boho con jeans, polleras y pantalones palazzo este verano."
-    },
-    "4628cf26f1ce": {
-      "resumen": "Cosmopolitan recomienda un vestido elegante de Mango, ideal tanto para eventos como para la oficina, entre lo mejor del verano."
-    },
-    "020b2bfbc8bf": {
-      "resumen": "La Razón anticipa que las camisetas marineras serán tendencia este otoño-invierno, según el look que lució Kate Middleton en Glasgow."
-    },
-    "99ce4c0a9cf0": {
-      "resumen": "Lecturas muestra el bikini de Claudia Rodríguez, pareja del futbolista Marc Cucurella, en el color tendencia que más favorece y realza el bronceado."
-    },
     "3fd28f88fbde": {
       "resumen": "Ámbito recomienda restaurantes porteños para disfrutar de los mejores platos de la temporada invernal."
     },
@@ -106,8 +87,14 @@
     "4e89cb9a59a6": {
       "resumen": "TN dialoga con el gastronómico chino Xe Wang sobre su mirada del vino argentino, al que describe como amigable, fácil de beber y bien balanceado."
     },
-    "0afb6a10b935": {
-      "resumen": "El Complejo Teatral de Buenos Aires presenta una propuesta que retrata a sus personajes no como monstruos sino como seres profundamente heridos."
+    "86321d74acbe": {
+      "resumen": "Infobae cuenta la visita de Rosalía a un restaurante porteño horas antes de su primer show, donde se sacó fotos y firmó autógrafos con el personal."
+    },
+    "5e1e50ec4d73": {
+      "resumen": "TN muestra en fotos la llegada de Rosalía al Movistar Arena, entre vallas y un fuerte operativo policial."
+    },
+    "612c85172744": {
+      "resumen": "El Gobierno porteño celebró a los restaurantes de Buenos Aires distinguidos por la Guía Michelin."
     }
   }
 }
