@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-08-03T10:06:13Z",
+  "generated_at": "2026-08-03T22:09:42Z",
   "summaries": {
-    "d499b8c68343": {
-      "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 vipivotide tetraxetan, una terapia con radioligando dirigida contra el PSMA (antígeno de membrana específico de la próstata), para pacientes con cáncer de próstata metastásico sensible a la castración (mHSPC, por sus siglas en inglés) con PSMA positivo. Es relevante porque extiende la terapia con radioligandos a una etapa más temprana de la enfermedad, antes reservada para el cáncer resistente a la castración.",
-      "destacado": false
-    },
-    "27915e753de5": {
-      "resumen": "The ASCO Post reporta un estudio de la ACS (American Cancer Society, Sociedad Americana del Cáncer) que cuantifica la carga financiera que enfrentan los pacientes mayores con cáncer, un fenómeno conocido como toxicidad financiera. Interesa porque pone números a un problema que suele quedar fuera de la discusión puramente clínica y que impacta la adherencia al tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio (probablemente de registro o encuesta poblacional) de la American Cancer Society (Sociedad Americana del Cáncer) que cuantifica costos; el título no especifica si es prospectivo o retrospectivo, ni el número de pacientes o centros involucrados.\nPoblación: Pacientes oncológicos de edad avanzada (adultos mayores) con diagnóstico de cáncer.\nIntervención: No aplica intervención terapéutica; se trata de un análisis observacional de la carga financiera asociada al diagnóstico y tratamiento oncológico.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar la metodología de estimación de costos, el tamaño y representatividad de la muestra, ni si se ajustó por comorbilidades o tipo de tumor.\nMensaje: Alerta sobre la magnitud del impacto económico del cáncer en los adultos mayores, un aspecto a incorporar en la discusión de calidad de vida y adherencia al tratamiento, aunque sin cifras concretas todavía.\nNota: análisis sin acceso al abstract."
-    },
-    "9180767f46d5": {
-      "resumen": "The ASCO Post reporta un estudio según el cual la consolidación con trasplante de células madre hematopoyéticas mejora la supervivencia en el linfoma primario del sistema nervioso central (SNC). Interesa porque este linfoma es un tumor agresivo y poco frecuente, y el hallazgo podría reforzar el rol del trasplante en la consolidación del tratamiento.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio que evalúa la consolidación con trasplante (probablemente autólogo de células madre hematopoyéticas) en linfoma primario del sistema nervioso central; el título no precisa si es un ensayo aleatorizado, una cohorte o un análisis retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC), presumiblemente luego de responder a quimioterapia de inducción.\nIntervención: Consolidación con trasplante de células madre hematopoyéticas; el título no especifica el comparador (por ejemplo, quimioterapia de consolidación sin trasplante o radioterapia).\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin abstract no se puede evaluar el tipo de trasplante (autólogo o alogénico), las cifras de supervivencia libre de progresión o global, ni la toxicidad asociada al procedimiento.\nMensaje: Sugiere que la consolidación con trasplante podría mejorar los resultados en linfoma primario del SNC, un dato relevante para discutir la intensificación del tratamiento en pacientes candidatos, a la espera de conocer los detalles del estudio.\nNota: análisis sin acceso al abstract."
-    },
     "04d2ca36c784": {
       "resumen": "Journal of Clinical Oncology publica la respuesta de los autores originales a un comentario sobre su estudio acerca de la progresión radiográfica con y sin aumento del antígeno prostático específico (PSA) en cáncer de próstata avanzado tratado con enzalutamida. Es un intercambio de cartas que profundiza la discusión metodológica del estudio original, publicado en el mismo número.",
       "destacado": false
@@ -33,65 +19,110 @@
       "destacado": false,
       "analisis": "Diseño: Estudio (el título no especifica si es un análisis secundario de un ensayo clínico, una cohorte retrospectiva o prospectiva, ni el número de centros o de pacientes) que evalúa la concordancia entre la progresión radiográfica y el aumento del PSA (antígeno prostático específico).\nPoblación: Pacientes con cáncer de próstata avanzado tratados con enzalutamida, un antiandrógeno de nueva generación.\nIntervención: No hay una intervención nueva; se trata de un análisis observacional sobre el comportamiento del PSA y las imágenes durante el tratamiento con enzalutamida, sin comparador terapéutico explícito.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (proporción de pacientes con progresión radiográfica sin aumento de PSA, o viceversa).\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la cohorte, la frecuencia de las evaluaciones radiográficas y bioquímicas, ni el impacto pronóstico de la discordancia.\nMensaje: Plantea que el aumento del PSA podría no capturar todos los casos de progresión bajo enzalutamida, lo que subraya la importancia de mantener la vigilancia con imágenes independientemente del valor de PSA.\nNota: análisis sin acceso al abstract."
     },
-    "efd05c2ba114": {
-      "resumen": "El Dr. Benjamin P. Levy repasa para The ASCO Post las opciones terapéuticas emergentes para el cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con mutación KRAS G12C, tanto en primera línea como en combinación con otras terapias. Vale la pena mirarlo porque KRAS G12C es una de las mutaciones oncogénicas más frecuentes en este tumor y el panorama terapéutico se está expandiendo rápido con nuevos inhibidores y combinaciones.",
-      "destacado": false
-    },
-    "62d6bfcd8357": {
-      "resumen": "OncLive propone un quiz semanal para repasar las noticias oncológicas de la semana en melanoma, cáncer de cabeza y cuello, y cáncer gástrico. Es un formato de repaso rápido, útil para no perderse las actualizaciones clave de estos tumores.",
-      "destacado": false
-    },
-    "88397e773e83": {
-      "resumen": "OncLive presenta la edición de verano 2026 de su suplemento IO (Immuno-Oncology, inmuno-oncología), con una recopilación de artículos y actualizaciones sobre inmunoterapia en cáncer. Sirve como punteo general para estar al día con las novedades del campo, aunque no profundiza en un estudio en particular.",
-      "destacado": false
-    },
-    "321224498376": {
-      "resumen": "Las referentes de moda dejan de lado las sandalias y las alpargatas y suman las chanclas de piscina como calzado estrella para combinar con todos los looks de este verano."
-    },
-    "9334d7e3594a": {
-      "resumen": "Telva propone cinco looks con pantalones capri de Zara, Mango y Massimo Dutti para seguir usando la tendencia también en otoño."
-    },
-    "7f338deb4b68": {
-      "resumen": "Telva adelanta los tres modelos de bolso que se perfilan como el accesorio clave de la próxima temporada."
-    },
-    "aaf6a5b28cd0": {
-      "resumen": "Vogue México repasa qué pasó en el séptimo capítulo de la tercera temporada de La Casa del Dragón y explica cómo terminó."
-    },
-    "b14061f5ec7d": {
-      "resumen": "Pampita mostró en fotos las bikinis que se perfilan como tendencia para el verano 2027."
-    },
-    "dda3b7bfb005": {
-      "resumen": "Vogue México recomienda una película de Netflix sobre una historia de amor tóxica basada en un caso real, con una duración de menos de dos horas."
-    },
-    "fde1c9ac71e8": {
-      "resumen": "Buenos Aires tuvo una destacada presencia en la Guía Michelin."
-    },
-    "e63b5be1891f": {
-      "resumen": "Indie Hoy adelanta la presentación de Andrés Obregón en la Argentina."
-    },
-    "a64bd1441021": {
-      "resumen": "Diario TAG cuenta la historia del talento de Pablo Petris que lo llevó a tocar en el Teatro Colón."
-    },
-    "1a1a34741bd4": {
-      "resumen": "Laura Esquivel y Brenda Asnicar regresan al Teatro Gran Rex con un espectáculo que recupera el fenómeno de la telenovela Patito Feo."
-    },
-    "86321d74acbe": {
-      "resumen": "Infobae cuenta la visita de Rosalía a un restaurante porteño horas antes de su primer show, donde se sacó fotos y firmó autógrafos con el personal."
-    },
-    "bc26e4df24cf": {
-      "resumen": "Revista Noticias recomienda un circuito de restaurantes de alta cocina porteños que vale la pena conocer."
-    },
-    "612c85172744": {
-      "resumen": "El Gobierno porteño celebró a los restaurantes de Buenos Aires distinguidos por la Guía Michelin."
-    },
     "bef5e7b7bb95": {
       "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
     },
     "7e877ece1577": {
       "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
     },
-    "b2060a50e34b": {
-      "resumen": "Clarín reúne más de 60 planes para el fin de semana porteño del 31 de julio al 2 de agosto, entre recitales, teatro, cine, streaming, muestras y actividades gratuitas."
+    "f4f251a4c66c": {
+      "resumen": "OncLive informa que la combinación de tislelizumab (un inhibidor del punto de control PD-1, receptor de muerte celular programada 1) más gemcitabina mostró eficacia en pacientes con carcinoma urotelial no elegibles para cisplatino. Interesa porque ofrece una alternativa de tratamiento para un subgrupo de pacientes -los no aptos para cisplatino- que históricamente tiene opciones más limitadas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no precisa si es un ensayo aleatorizado, el número de centros ni de pacientes) que evalúa tislelizumab combinado con gemcitabina.\nPoblación: Pacientes con carcinoma urotelial no elegibles para tratamiento con cisplatino (por función renal disminuida, mal estado funcional u otras comorbilidades).\nIntervención: Tislelizumab (anti-PD-1) más gemcitabina; el título no especifica comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño del estudio, el tamaño muestral, la aleatorización ni los criterios de valoración utilizados.\nMensaje: Sugiere una opción más de inmunoterapia combinada para pacientes no candidatos a cisplatino, un grupo con necesidad insatisfecha, aunque falta confirmar la magnitud del beneficio con los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "26a8cff3fa5d": {
+      "resumen": "The ASCO Post describe un nuevo modelo de aprendizaje automático cuántico (quantum machine learning) que mejoraría la predicción de la presentación de antígenos y la respuesta a la inmunoterapia. Interesa porque plantea una herramienta computacional novedosa para seleccionar mejor a los pacientes que se beneficiarían de los inhibidores de puntos de control inmunitario.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio computacional/traslacional (el título no especifica si incluye validación en cohortes clínicas, ni el número de pacientes o muestras utilizadas) que desarrolla un modelo de aprendizaje automático cuántico.\nPoblación: No especificada con precisión en el título; presumiblemente muestras tumorales o datos genómicos usados para entrenar y validar el modelo.\nIntervención: No aplica intervención terapéutica; se trata de una herramienta predictiva/algorítmica para estimar presentación de antígenos y respuesta a inmunoterapia.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar la validación externa del modelo, el tamaño de la cohorte de entrenamiento ni la reproducibilidad de los resultados.\nMensaje: Es un desarrollo exploratorio/tecnológico que, de confirmarse, podría mejorar la selección de pacientes para inmunoterapia, aunque todavía en etapa de investigación básica-traslacional.\nNota: análisis sin acceso al abstract."
+    },
+    "36d3f5e3581c": {
+      "resumen": "The ASCO Post reporta la identificación de un subtipo de células NK (natural killer, asesinas naturales) del donante que podría afectar negativamente la eficacia de la terapia con células CAR-NK (receptor de antígeno quimérico en células NK). Interesa porque señala un posible mecanismo de resistencia relevante para esta terapia celular emergente.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio preclínico/traslacional (el título no especifica el modelo utilizado -in vitro, animal o muestras de pacientes- ni el tamaño de la muestra) que caracteriza subpoblaciones de células NK de donante.\nPoblación: Donantes de células NK utilizadas para la fabricación de terapias CAR-NK (receptor de antígeno quimérico en células natural killer); no se especifica el tipo tumoral tratado.\nIntervención: No aplica intervención terapéutica en sentido clínico; se trata de un hallazgo mecanístico sobre un subtipo celular que impacta la eficacia de la terapia CAR-NK.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar si el hallazgo proviene de modelos preclínicos o de pacientes tratados, ni la magnitud del impacto funcional descrito.\nMensaje: Aporta un posible mecanismo de resistencia a considerar en el diseño y la selección de donantes para terapias CAR-NK, en una fase temprana de investigación.\nNota: análisis sin acceso al abstract."
+    },
+    "d974b81cc221": {
+      "resumen": "The ASCO Post informa que la combinación de enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido contra Nectina-4) más pembrolizumab (un inhibidor del punto de control PD-1) mejoró los resultados en pacientes con cáncer de vejiga músculo-invasivo elegibles para cisplatino. Interesa porque desafía al esquema estándar basado en quimioterapia con cisplatino en la enfermedad localizada de alto riesgo.",
+      "destacado": true,
+      "analisis": "Diseño: Estudio clínico (el título no precisa si es un ensayo aleatorizado fase III, el número de centros ni de pacientes) que evalúa enfortumab vedotin más pembrolizumab en enfermedad músculo-invasiva.\nPoblación: Pacientes con cáncer de vejiga músculo-invasivo, elegibles para tratamiento con cisplatino (buena función renal y estado funcional adecuado).\nIntervención: Enfortumab vedotin (anticuerpo-fármaco anti-Nectina-4) más pembrolizumab (anti-PD-1); el comparador probable es la quimioterapia neoadyuvante basada en cisplatino, aunque no se especifica en el título.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar el criterio de valoración principal (por ejemplo respuesta patológica completa o supervivencia libre de eventos), el seguimiento ni la significancia estadística.\nMensaje: Si se confirma con los datos completos, podría reforzar el rol de los esquemas sin quimioterapia basados en anticuerpo-fármaco e inmunoterapia incluso en pacientes aptos para cisplatino, un cambio potencialmente relevante para la práctica en enfermedad localizada.\nNota: análisis sin acceso al abstract."
+    },
+    "036e51aaa853": {
+      "resumen": "OncLive informa que las guías NCCN (National Comprehensive Cancer Network, red integral de cáncer) incorporaron esquemas basados en gedatolisib para el cáncer de mama avanzado pretratado con PIK3CA nativo (sin mutación). Interesa porque amplía las opciones terapéuticas recomendadas para un subgrupo de pacientes con enfermedad hormono-dependiente pretratada.",
+      "destacado": false
+    },
+    "a2ac9124a65e": {
+      "resumen": "OncLive reporta que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de terapia innovadora (breakthrough therapy) a olomorasib para el cáncer de páncreas con mutación KRAS G12C. Interesa porque acelera potencialmente el desarrollo de una opción dirigida en un tumor con pronóstico históricamente muy adverso.",
+      "destacado": false
+    },
+    "cbac3321cff8": {
+      "resumen": "The New England Journal of Medicine publica una carta sobre el uso de parches transdérmicos de estradiol en cáncer de próstata, como alternativa hormonal a la castración convencional. Interesa porque retoma el debate sobre estrategias de deprivación androgénica con menor impacto cardiovascular y óseo.",
+      "destacado": false
+    },
+    "8fc27912d9ea": {
+      "resumen": "The New England Journal of Medicine publica la respuesta de los autores originales a una carta sobre el uso de parches transdérmicos de estradiol en cáncer de próstata. Es un intercambio que profundiza la discusión sobre esta alternativa hormonal en el tratamiento del cáncer de próstata.",
+      "destacado": false
+    },
+    "77c1b7a78116": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Freya Dalsjø presentada en la semana de la moda de Copenhague."
+    },
+    "5c6ba56f6d9e": {
+      "resumen": "Vogue presenta la colección resort 2027 de Self-Portrait."
+    },
+    "979d8bf5e093": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Anne Sofie Madsen en la semana de la moda de Copenhague."
+    },
+    "b3a367ca1de7": {
+      "resumen": "Vogue presenta la colección resort 2027 de Sportmax."
+    },
+    "dbc7837d2554": {
+      "resumen": "Infobae repasa los accesorios y detalles que marcan el estilo actual de la reina Letizia de España."
+    },
+    "0e44cd89a8bd": {
+      "resumen": "Semana señala cinco prendas de Mango con alamares que anticipan una de las tendencias del otoño."
+    },
+    "7dd2bdfb76fd": {
+      "resumen": "Vogue México destaca el look de jean flare cropped con bailarinas que lució Dakota Johnson como tendencia del verano 2026."
+    },
+    "d06cb0e647c2": {
+      "resumen": "Vogue México repasa el conjunto de sandalias italianas y vestido midi drapeado con el que la reina Letizia definió su look de verano 2026."
+    },
+    "8acd8ffd8c00": {
+      "resumen": "diarioelnoticiero explora cómo las tendencias de la moda brasileña llegan a Perú y redefinen el concepto de lujo para 2027."
+    },
+    "02701cfb9448": {
+      "resumen": "Forbes México analiza la evolución reciente de la moda mexicana contemporánea."
+    },
+    "46203e53ea12": {
+      "resumen": "Necochea Digital informa que se fijó el precio base para subastar el Teatro Auditórium del Complejo Casino y se entregó la tenencia de las parcelas ya adjudicadas."
+    },
+    "fac1877b08ab": {
+      "resumen": "La Municipalidad de Córdoba presenta la programación de agosto del Teatro Comedia, con propuestas vinculadas a Madrid, Buenos Aires y Córdoba."
+    },
+    "e5723c6073a3": {
+      "resumen": "Ecos Diarios Necochea confirma que se estableció el precio base para la subasta del Teatro Auditórium del Casino."
+    },
+    "5a4be62a7f4d": {
+      "resumen": "Perfil informa sobre el lanzamiento del concurso Otra vuelta, Buenos Aires, pensado para impulsar nuevos circuitos turísticos en la ciudad."
+    },
+    "54e3b147efab": {
+      "resumen": "Caras cuenta cuál fue el recorrido gastronómico que hizo Rosalía durante su paso por Buenos Aires."
+    },
+    "baed6e334889": {
+      "resumen": "Infobae anuncia un ciclo con siete grandes películas de Luchino Visconti en la Sala Lugones."
+    },
+    "ff8887e37928": {
+      "resumen": "El Cronista propone cinco planes para hacer en Buenos Aires los días de lluvia."
+    },
+    "6cad0847949f": {
+      "resumen": "Latitud2000 repasa el reconocimiento porteño a los restaurantes distinguidos por la Guía Michelin."
+    },
+    "a9f4d2b1e001": {
+      "resumen": "Infobae reporta un estudio que vincula la vaginosis bacteriana con un riesgo tres veces mayor de contraer infecciones de transmisión sexual (ITS)."
+    },
+    "ceebdc62fe65": {
+      "resumen": "Infobae presenta un nuevo anillo inteligente capaz de monitorear los niveles de azúcar en sangre y de alcohol."
+    },
+    "dd2fb11f9ae4": {
+      "resumen": "Infobae advierte que los agonistas del receptor GLP-1 (fármacos usados para diabetes y obesidad) podrían aumentar el riesgo de alopecia."
     }
   }
 }
