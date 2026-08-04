@@ -1,66 +1,31 @@
 {
-  "generated_at": "2026-08-04T10:10:41Z",
+  "generated_at": "2026-08-04T22:10:18Z",
   "summaries": {
-    "04d2ca36c784": {
-      "resumen": "Journal of Clinical Oncology publica la respuesta de los autores originales a un comentario sobre su estudio acerca de la progresión radiográfica con y sin aumento del antígeno prostático específico (PSA) en cáncer de próstata avanzado tratado con enzalutamida. Es un intercambio de cartas que profundiza la discusión metodológica del estudio original, publicado en el mismo número.",
+    "2512d19c6d4d": {
+      "resumen": "OncLive difunde una entrevista en video al Dr. Cohen sobre los datos de eficacia de fase 1 de cevostamab (un anticuerpo biespecífico dirigido contra FcRH5 y CD3) en el mieloma múltiple recaído o refractario (R/R). Vale la pena mirarlo porque repasa el potencial de esta nueva clase de anticuerpos biespecíficos en un tumor hematológico que sigue siendo incurable con los tratamientos actuales.",
       "destacado": false
     },
-    "bef5e7b7bb95": {
-      "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
-    },
-    "7e877ece1577": {
-      "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
-    },
-    "f4f251a4c66c": {
-      "resumen": "OncLive informa que la combinación de tislelizumab (un inhibidor del punto de control PD-1, receptor de muerte celular programada 1) más gemcitabina mostró eficacia en pacientes con carcinoma urotelial no elegibles para cisplatino. Interesa porque ofrece una alternativa de tratamiento para un subgrupo de pacientes -los no aptos para cisplatino- que históricamente tiene opciones más limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el título no precisa si es un ensayo aleatorizado, el número de centros ni de pacientes) que evalúa tislelizumab combinado con gemcitabina.\nPoblación: Pacientes con carcinoma urotelial no elegibles para tratamiento con cisplatino (por función renal disminuida, mal estado funcional u otras comorbilidades).\nIntervención: Tislelizumab (anti-PD-1) más gemcitabina; el título no especifica comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño del estudio, el tamaño muestral, la aleatorización ni los criterios de valoración utilizados.\nMensaje: Sugiere una opción más de inmunoterapia combinada para pacientes no candidatos a cisplatino, un grupo con necesidad insatisfecha, aunque falta confirmar la magnitud del beneficio con los datos completos.\nNota: análisis sin acceso al abstract."
-    },
-    "26a8cff3fa5d": {
-      "resumen": "The ASCO Post describe un nuevo modelo de aprendizaje automático cuántico (quantum machine learning) que mejoraría la predicción de la presentación de antígenos y la respuesta a la inmunoterapia. Interesa porque plantea una herramienta computacional novedosa para seleccionar mejor a los pacientes que se beneficiarían de los inhibidores de puntos de control inmunitario.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio computacional/traslacional (el título no especifica si incluye validación en cohortes clínicas, ni el número de pacientes o muestras utilizadas) que desarrolla un modelo de aprendizaje automático cuántico.\nPoblación: No especificada con precisión en el título; presumiblemente muestras tumorales o datos genómicos usados para entrenar y validar el modelo.\nIntervención: No aplica intervención terapéutica; se trata de una herramienta predictiva/algorítmica para estimar presentación de antígenos y respuesta a inmunoterapia.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar la validación externa del modelo, el tamaño de la cohorte de entrenamiento ni la reproducibilidad de los resultados.\nMensaje: Es un desarrollo exploratorio/tecnológico que, de confirmarse, podría mejorar la selección de pacientes para inmunoterapia, aunque todavía en etapa de investigación básica-traslacional.\nNota: análisis sin acceso al abstract."
-    },
-    "36d3f5e3581c": {
-      "resumen": "The ASCO Post reporta la identificación de un subtipo de células NK (natural killer, asesinas naturales) del donante que podría afectar negativamente la eficacia de la terapia con células CAR-NK (receptor de antígeno quimérico en células NK). Interesa porque señala un posible mecanismo de resistencia relevante para esta terapia celular emergente.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio preclínico/traslacional (el título no especifica el modelo utilizado -in vitro, animal o muestras de pacientes- ni el tamaño de la muestra) que caracteriza subpoblaciones de células NK de donante.\nPoblación: Donantes de células NK utilizadas para la fabricación de terapias CAR-NK (receptor de antígeno quimérico en células natural killer); no se especifica el tipo tumoral tratado.\nIntervención: No aplica intervención terapéutica en sentido clínico; se trata de un hallazgo mecanístico sobre un subtipo celular que impacta la eficacia de la terapia CAR-NK.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar si el hallazgo proviene de modelos preclínicos o de pacientes tratados, ni la magnitud del impacto funcional descrito.\nMensaje: Aporta un posible mecanismo de resistencia a considerar en el diseño y la selección de donantes para terapias CAR-NK, en una fase temprana de investigación.\nNota: análisis sin acceso al abstract."
-    },
-    "d974b81cc221": {
-      "resumen": "The ASCO Post informa que la combinación de enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido contra Nectina-4) más pembrolizumab (un inhibidor del punto de control PD-1) mejoró los resultados en pacientes con cáncer de vejiga músculo-invasivo elegibles para cisplatino. Interesa porque desafía al esquema estándar basado en quimioterapia con cisplatino en la enfermedad localizada de alto riesgo.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio clínico (el título no precisa si es un ensayo aleatorizado fase III, el número de centros ni de pacientes) que evalúa enfortumab vedotin más pembrolizumab en enfermedad músculo-invasiva.\nPoblación: Pacientes con cáncer de vejiga músculo-invasivo, elegibles para tratamiento con cisplatino (buena función renal y estado funcional adecuado).\nIntervención: Enfortumab vedotin (anticuerpo-fármaco anti-Nectina-4) más pembrolizumab (anti-PD-1); el comparador probable es la quimioterapia neoadyuvante basada en cisplatino, aunque no se especifica en el título.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar el criterio de valoración principal (por ejemplo respuesta patológica completa o supervivencia libre de eventos), el seguimiento ni la significancia estadística.\nMensaje: Si se confirma con los datos completos, podría reforzar el rol de los esquemas sin quimioterapia basados en anticuerpo-fármaco e inmunoterapia incluso en pacientes aptos para cisplatino, un cambio potencialmente relevante para la práctica en enfermedad localizada.\nNota: análisis sin acceso al abstract."
-    },
-    "77c1b7a78116": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Freya Dalsjø presentada en la semana de la moda de Copenhague."
-    },
-    "5c6ba56f6d9e": {
-      "resumen": "Vogue presenta la colección resort 2027 de Self-Portrait."
-    },
-    "979d8bf5e093": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Anne Sofie Madsen en la semana de la moda de Copenhague."
-    },
-    "b3a367ca1de7": {
-      "resumen": "Vogue presenta la colección resort 2027 de Sportmax."
-    },
-    "46203e53ea12": {
-      "resumen": "Necochea Digital informa que se fijó el precio base para subastar el Teatro Auditórium del Complejo Casino y se entregó la tenencia de las parcelas ya adjudicadas."
-    },
-    "5a4be62a7f4d": {
-      "resumen": "Perfil informa sobre el lanzamiento del concurso Otra vuelta, Buenos Aires, pensado para impulsar nuevos circuitos turísticos en la ciudad."
-    },
-    "54e3b147efab": {
-      "resumen": "Caras cuenta cuál fue el recorrido gastronómico que hizo Rosalía durante su paso por Buenos Aires."
-    },
-    "6cad0847949f": {
-      "resumen": "Latitud2000 repasa el reconocimiento porteño a los restaurantes distinguidos por la Guía Michelin."
-    },
-    "32f7110dfd8d": {
-      "resumen": "OncLive difunde una entrevista en video al Dr. Cohen sobre FcRH5 (receptor Fc tipo homólogo 5), una diana terapéutica emergente en el mieloma múltiple. Vale la pena mirarlo porque repasa el potencial de esta molécula como blanco para nuevas terapias dirigidas -como anticuerpos biespecíficos- en un tumor hematológico que sigue siendo incurable con los tratamientos actuales.",
+    "a7246992b7db": {
+      "resumen": "OncLive repasa los riesgos cardiovasculares asociados a la terapia hormonal (privación androgénica) utilizada en el tratamiento del cáncer de próstata. Interesa porque aborda un efecto adverso relevante a largo plazo de un tratamiento muy usado en esta enfermedad.",
       "destacado": false
     },
-    "1b9ffcf13cb6": {
-      "resumen": "Este ítem corresponde a la portada genérica del sitio OncLive (Clinical Oncology News, Cancer Expert Insights) y no a una nota puntual, por lo que no aporta contenido específico de oncología clínica para reseñar en esta edición.",
+    "6ebe49ba38c3": {
+      "resumen": "OncLive informa que la combinación de camrelizumab (un inhibidor del punto de control PD-1, receptor de muerte celular programada 1) más nab-paclitaxel (paclitaxel unido a nanopartículas de albúmina) mostró eficacia en pacientes con carcinoma urotelial avanzado previamente tratado. Interesa porque plantea una alternativa para un tumor con opciones limitadas tras la progresión.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no precisa si es un ensayo aleatorizado, el cegamiento, el número de centros ni de pacientes) que evalúa camrelizumab combinado con nab-paclitaxel.\nPoblación: Pacientes con carcinoma urotelial avanzado previamente tratado (progresión tras al menos una línea previa de tratamiento).\nIntervención: Camrelizumab (anti-PD-1) más nab-paclitaxel (paclitaxel unido a nanopartículas de albúmina); el título no especifica comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño muestral, el criterio de valoración principal ni la magnitud del beneficio reportado.\nMensaje: Sugiere una opción más de combinación inmuno-quimioterápica para la enfermedad urotelial avanzada pretratada, aunque falta confirmar la magnitud del beneficio con los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "85582e52a78c": {
+      "resumen": "The ASCO Post reporta el desarrollo de un clasificador basado en inteligencia artificial que analiza el fragmentoma del ADN libre circulante (cfDNA, cell-free DNA) para mejorar la detección del carcinoma hepatocelular (HCC, hepatocellular carcinoma). Interesa porque propone una herramienta no invasiva para el diagnóstico temprano de un tumor que suele detectarse en etapas avanzadas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio diagnóstico/traslacional (el título no especifica si incluye una cohorte de validación independiente, el número de pacientes ni si fue un estudio caso-control) que desarrolla un clasificador de aprendizaje automático basado en el fragmentoma del ADN libre circulante.\nPoblación: Pacientes con carcinoma hepatocelular, probablemente comparados con controles sanos o con hepatopatía crónica sin cáncer; el título no precisa los criterios de inclusión.\nIntervención: No aplica intervención terapéutica; se trata de una prueba diagnóstica no invasiva (biopsia líquida) basada en el análisis del fragmentoma del cfDNA mediante inteligencia artificial.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (sensibilidad, especificidad o área bajo la curva).\nLimitaciones: Sin el texto completo no se puede evaluar la validación externa del clasificador, el tamaño de la cohorte ni la comparación con los métodos de detección actuales (como la alfafetoproteína o la ecografía).\nMensaje: Si se valida, podría sumar una herramienta no invasiva para la detección temprana del carcinoma hepatocelular, aunque todavía en etapa de investigación.\nNota: análisis sin acceso al abstract."
+    },
+    "5babd2bb0aa8": {
+      "resumen": "The ASCO Post difunde un estudio que halló que el uso de la secuenciación de próxima generación (NGS, next-generation sequencing) para el perfil molecular tumoral sigue siendo bajo entre los beneficiarios de Medicare (el seguro de salud público para adultos mayores en Estados Unidos). Interesa porque señala una brecha de acceso a la medicina de precisión oncológica en una población con alta carga de cáncer.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de base poblacional (probablemente un análisis retrospectivo de datos administrativos de Medicare; el título no precisa el período analizado ni el número de beneficiarios incluidos).\nPoblación: Beneficiarios de Medicare con diagnóstico de cáncer en Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un análisis descriptivo de la utilización de la secuenciación de próxima generación para el perfil molecular tumoral.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (porcentaje de uso de NGS, tendencias temporales o diferencias por subgrupo).\nLimitaciones: Sin el texto completo no se puede evaluar el sesgo de los datos administrativos, ni si se ajustó por tipo de tumor o por disparidades socioeconómicas y geográficas.\nMensaje: Señala una posible barrera de acceso a la medicina de precisión oncológica en la población mayor cubierta por Medicare, con implicancias para políticas de cobertura y equidad en el diagnóstico molecular.\nNota: análisis sin acceso al abstract."
+    },
+    "9053bf22b310": {
+      "resumen": "The ASCO Post informa que U.S. News & World Report publicó su ranking 2026-2027 de los mejores hospitales oncológicos de Estados Unidos. Es una nota institucional de referencia para pacientes y profesionales sobre centros de excelencia en cáncer.",
       "destacado": false
     },
     "3369793c9a0f": {
@@ -70,42 +35,84 @@
     },
     "b4e699598caf": {
       "resumen": "Journal of Clinical Oncology publica un análisis secundario del estudio PRODIGE-24/CCTG PA6 sobre el impacto del perfil genómico tumoral en la eficacia de la quimioterapia adyuvante en el adenocarcinoma de páncreas resecado. Interesa porque busca identificar biomarcadores que permitan seleccionar mejor a los pacientes que más se benefician de la quimioterapia adyuvante tras la cirugía.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Análisis secundario/traslacional del ensayo PRODIGE-24/CCTG PA6 (el título no precisa el número de pacientes evaluados en este subanálisis ni si fue preespecificado).\nPoblación: Pacientes con adenocarcinoma de páncreas resecado quirúrgicamente, tratados en el contexto del estudio original PRODIGE-24/CCTG PA6, que comparó esquemas de quimioterapia adyuvante.\nIntervención: Correlación del perfil genómico tumoral con la eficacia de la quimioterapia adyuvante recibida; no es una intervención nueva sino un análisis de biomarcadores sobre el tratamiento ya evaluado en el ensayo original.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (asociación entre alteraciones genómicas específicas y supervivencia libre de enfermedad o supervivencia global).\nLimitaciones: Sin abstract no se puede evaluar el método de perfilado genómico utilizado, el porcentaje de pacientes del estudio original con muestra disponible, ni si los hallazgos fueron validados en una cohorte independiente.\nMensaje: Si identifica biomarcadores genómicos predictivos, podría ayudar a seleccionar con mayor precisión a los pacientes con cáncer de páncreas resecado que más se benefician de la quimioterapia adyuvante, aunque se trata de un análisis exploratorio.\nNota: análisis sin acceso al abstract."
     },
     "2b59fc8b6b0a": {
       "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre el estudio de eficacia y seguridad de anselamimab (un anticuerpo monoclonal dirigido contra las cadenas livianas de inmunoglobulina) en la amiloidosis de cadenas livianas, correspondiente a los ensayos aleatorizados CARES. Interesa como corrección formal de un estudio ya publicado sobre esta terapia dirigida en una enfermedad hematológica poco frecuente.",
       "destacado": false
     },
-    "7491adb0c171": {
-      "resumen": "Harper's BAZAAR anticipa que el verde jade será el color elegante que cierre el verano y se mantenga vigente en la moda de otoño 2026."
+    "04d2ca36c784": {
+      "resumen": "Journal of Clinical Oncology publica la respuesta de los autores originales a un comentario sobre su estudio acerca de la progresión radiográfica con y sin aumento del antígeno prostático específico (PSA) en cáncer de próstata avanzado tratado con enzalutamida. Es un intercambio de cartas que profundiza la discusión metodológica del estudio original, publicado en el mismo número.",
+      "destacado": false
     },
-    "1f047ae8fd2e": {
-      "resumen": "Cosmopolitan repasa nueve tendencias nostálgicas de la era millennial -del vestido lencero a los volantes- que Zara, Mango o Stradivarius reeditaron y que hoy también adoptó la generación Z."
+    "8fc27912d9ea": {
+      "resumen": "NEJM Oncología publica la respuesta de los autores a una carta sobre el uso de parches transdérmicos de estradiol (una forma de terapia hormonal) en el cáncer de próstata, como alternativa a la privación androgénica convencional. Es un intercambio de correspondencia que profundiza la discusión sobre esta estrategia hormonal alternativa.",
+      "destacado": false
     },
-    "952e11b64cfa": {
-      "resumen": "El Mueble presenta los cinco vestidos largos que Zara suma este martes a su colección de verano, una apuesta que según la nota llevaría la impronta de Marta Ortega."
+    "cbac3321cff8": {
+      "resumen": "NEJM Oncología publica una carta que discute el uso de parches transdérmicos de estradiol (una forma de terapia hormonal) como alternativa a la privación androgénica convencional en el cáncer de próstata. Interesa por el debate que genera esta vía hormonal alternativa, con potencial menor toxicidad cardiovascular y ósea.",
+      "destacado": false
     },
-    "9d031bc53777": {
-      "resumen": "Vogue México cuenta que Tiffany & Co. abrió una nueva boutique en Monterrey, México."
+    "6af7a04b2483": {
+      "resumen": "Vogue repasa la colección primavera 2027 de By Malene Birger presentada en la semana de la moda de Copenhague."
     },
-    "cbb7d8609ec4": {
-      "resumen": "Vogue México sugiere cinco cortes de cabello pensados para armonizar y favorecer a los rostros cuadrados."
+    "5daa559de23e": {
+      "resumen": "Vogue presenta la colección primavera 2027 de Paolina Russo en la semana de la moda de Copenhague."
     },
-    "cc071a364497": {
-      "resumen": "El Mundo selecciona nueve jeans de Zara que se perfilan como tendencia para el otoño y que ya se pueden usar desde ahora."
+    "f26aaf7c2bcf": {
+      "resumen": "Vogue repasa la colección otoño 2026 ready-to-wear de Paolo Carzana."
     },
-    "b0da47d67c58": {
-      "resumen": "El Destape explica cómo los jubilados de la Ciudad de Buenos Aires pueden acceder de forma gratuita a una obra de teatro musical."
+    "b861e96e2b54": {
+      "resumen": "Vogue presenta la colección primavera 2027 de Studio Constance en la semana de la moda de Copenhague."
     },
-    "fb085c33fe2f": {
-      "resumen": "Indie Hoy anuncia una presentación de la banda Ahyre en el Teatro Gran Rex."
+    "1fc14e67694d": {
+      "resumen": "Vogue México cuenta que Victoria Beckham lució -y diseñó- las sandalias inglesas de tacón curvo que se perfilan como el calzado más elegante de 2026."
     },
-    "df7d41e2e87e": {
-      "resumen": "Buenos Aires Secreta presenta \"El asesinato de los 20 millones de dólares\", una obra con formato de juicio interactivo en un emblemático teatro porteño donde el público decide el veredicto final."
+    "cb9c8a24cac5": {
+      "resumen": "Vogue México repasa las tendencias de Colombiamoda que redefinen la elegancia latina para el verano 2026."
+    },
+    "e9851e5558cd": {
+      "resumen": "Vogue México muestra cómo Penélope Cruz lleva el corte de cabello francés de los años 60, tendencia del verano 2026."
+    },
+    "58863b81ee08": {
+      "resumen": "Cosmopolitan selecciona siete vestidos de invitada de Mango, favorecedores y elegantes, para las bodas de septiembre."
+    },
+    "b420a048c99a": {
+      "resumen": "Semana anticipa que el cuello embudo será la gran tendencia de otoño, de la mano de tres nuevas chaquetas de Mango."
+    },
+    "1972dac6e5ce": {
+      "resumen": "Instyle.es presenta el conjunto estampado con tendencia vintage de los años 70 que regresa a Zara en 2026."
+    },
+    "c34ebbf24ed6": {
+      "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
+    },
+    "38395a350cb5": {
+      "resumen": "Cba24n presenta cuatro propuestas teatrales de Madrid, Traslasierra, Córdoba y Buenos Aires para el fin de semana XL en el Teatro Comedia."
+    },
+    "d7ec68cf6be5": {
+      "resumen": "Diario de viajes y turismo destaca a Buenos Aires como la capital gastronómica de Iberoamérica."
+    },
+    "4b61f1adc700": {
+      "resumen": "El Esquiu anuncia que la obra Wachay, ganadora del premio Argentores, llegará a Buenos Aires tras consolidar su proyección nacional."
+    },
+    "37cf81980183": {
+      "resumen": "Sol Play 91.5 informa que Nicolás Vázquez fue distinguido como Personalidad Destacada de la Cultura por la Legislatura porteña."
+    },
+    "e66757060450": {
+      "resumen": "Exitoina anuncia que \"La Ratonera\", el clásico de Agatha Christie, llega al Teatro Liceo con Carlos Belloso, Romina Gaetani y otros integrantes del elenco."
+    },
+    "5a4be62a7f4d": {
+      "resumen": "Perfil informa sobre el lanzamiento del concurso Otra vuelta, Buenos Aires, pensado para impulsar nuevos circuitos turísticos en la ciudad."
     },
     "6caaa51ba737": {
       "resumen": "El Cronista propone cinco planes para hacer en Buenos Aires en los días de lluvia sin tener que quedarse en casa."
+    },
+    "bef5e7b7bb95": {
+      "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
+    },
+    "7e877ece1577": {
+      "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
     }
   }
 }
