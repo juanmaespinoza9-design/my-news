@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-05T03:40:45.762630+00:00",
+ "generated_at": "2026-08-05T07:06:45.937209+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Dr Mulvey on Real-World Treatment Discontinuation Data for First-Line BTK Inhibitors in CLL",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0NzVzhIbHdDNHZYTVdFLTlBcDJERDBaZlFaRjFia1JVUjVsUU1tbDBvV3JHelh2Z2V6b1pkdnhwMDN2dmtsRmxkTjU4a3JaX1d0S0owTDJYV1ktSGpUQlJMOEtNbC1ycXMtRGVaWm00VVU5N0RpYjFJZDdRbEE4Z2swZG9ieFNoWVVTYVVaRWhBWllCRVNSSUZ4NFFtR24wWDg5V3FIZzktSmtCNzV0aHpZa0Ryc1JRVUdZaQ?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-05T03:19:51+00:00",
+     "id": "8c89f7884dda"
+    },
     {
      "title": "Explaining ctDNA Analysis Findings From SERENA-6 in Breast Cancer",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEZOemxDUXBEZWJNYUItYXl6TGdOWUI4dHQ1cUplWm13NnRPWGs0dUpmSTA0NElqN3pzWW9yQ2NYcWpPNnI1UkNoNEtxSk9FUFljR1MzalU2dFZMQU5XSzk0Q2lPeC12a21NdEpyeDFQYlN0bklWV1pUemtFQmRtVlJlMGo4RVF1U2h0Y204anpwMndTSEU1WkxVVmQ?oc=5",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-08-04T23:37:29+00:00",
      "id": "f813306d892a"
-    },
-    {
-     "title": "Dr Cohen on Phase 1 Efficacy Data for Cevostamab in R/R Myeloma",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1NPQnRBaGRZV1hPbk9KQ19JdUFUVHhsckJ2S2I0WUFLRWdrenFmQmhOcVJ3dFBfRnJWbUNVYk5zLWQzTWR1Tl9keWEyYzAyV09TWHNJYzI1MDZMdUd1OEJaelNfLS1lajBIOXY2TmRUMV9XWW9jdVl2dG5nTFU5WXptNWxJeVQzR3ZQM25lRnFBcXA5ZXBr?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-04T19:15:33+00:00",
-     "id": "2512d19c6d4d"
     },
     {
      "title": "AI-Based cfDNA Fragmentome Classifier May Improve Detection of HCC",
@@ -79,6 +79,22 @@
      "published": "2026-08-03T00:00:00+00:00",
      "copete": "Wechalekar AD et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "2b59fc8b6b0a"
+    },
+    {
+     "title": "Transdermal Estradiol Patches in Prostate Cancer. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526039/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Langley RE et al. · The New England journal of medicine",
+     "id": "8fc27912d9ea"
+    },
+    {
+     "title": "Transdermal Estradiol Patches in Prostate Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526038/",
+     "source": "NEJM Oncología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Grossmann M et al. · The New England journal of medicine",
+     "id": "cbac3321cff8"
     }
    ]
   },
@@ -88,32 +104,46 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La princesa Leonor sorprende con un cambio de look con un conjunto de verano",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDNjSGlYbTRMandxZmhQTUFvRnZ1bG15ZFFUWlk4RVE1OWlBSGMwYk5qaU9UNDFJdnFGTHVqVndLV3gtRHBTUWozZlNsOUR2V3NfZGxZMzVWVUdnSjY4SG9IWlRuYTBlSTl0TXNkLXNkbG5ET0hMNzkyZ0wwX2RxajREWE9MOENkeFNnMS10YlRnTVRtMm4tc05Pak53UTh6RkxGZjVkOFU1b180T3p5dmNRd0JnYWRrM0VSbWdETnNvMFdJ?oc=5",
+     "source": "ELLE",
+     "published": "2026-08-05T07:04:04+00:00",
+     "id": "0765e23dd81f"
+    },
+    {
      "title": "By Malene Birger Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/by-malene-birger",
      "source": "Vogue",
-     "published": "2026-08-05T03:39:36+00:00",
+     "published": "2026-08-05T07:03:28+00:00",
      "id": "6af7a04b2483"
     },
     {
      "title": "Paolina Russo Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/paolina-russo",
      "source": "Vogue",
-     "published": "2026-08-05T03:39:36+00:00",
+     "published": "2026-08-05T07:03:28+00:00",
      "id": "5daa559de23e"
     },
     {
      "title": "Paolo Carzana Fall 2026 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/paolo-carzana",
      "source": "Vogue",
-     "published": "2026-08-05T03:39:36+00:00",
+     "published": "2026-08-05T07:03:28+00:00",
      "id": "f26aaf7c2bcf"
     },
     {
      "title": "Studio Constance Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/studio-constance",
      "source": "Vogue",
-     "published": "2026-08-05T03:39:36+00:00",
+     "published": "2026-08-05T07:03:28+00:00",
      "id": "b861e96e2b54"
+    },
+    {
+     "title": "Los vestidos más elegantes para agosto y septiembre tienen toque boho, caída fluida y una elegancia clásica",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTkFJSE00U09JTmFFdWJnRXhRUGg4anJRLVplT1I4a1hhRS0wR1pXUHpxR2dIaHVQdGdtV0FsRVRvazhnZUl2QXBqUEhQS05FQ2ZQa1BnUXRhUGpwbUNPci1Sa3NQVGZoREpKNHA0emVETk96bWdXb1pva1pKSGxpUHFQbw?oc=5",
+     "source": "Revista CLARA",
+     "published": "2026-08-05T06:00:00+00:00",
+     "id": "740e736c3353"
     },
     {
      "title": "Famosos. Oriana Sabatini mostró cómo usar el traje negro que será tendencia esta temporada",
@@ -128,13 +158,6 @@
      "source": "Vogue México",
      "published": "2026-08-05T00:42:20+00:00",
      "id": "1f3a862bd517"
-    },
-    {
-     "title": "Aquamarine: el color en tendencia que conquista el verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTFjUndWRUUyWlpVbzE1dFZYbk9Sak5GYjFiQ1hWN3hGOVVzRUpQSVVWR0kxM01EYkR1S0dicU42YkZzM2dSVkk3cWVGanlQZFVJd2Y0SURnR3hJaXNHRThhb01wYWR6TkYtbkhZUzRJWHNmS0tYdGZKeUFtQkhBZFlpdXhJX2E5?oc=5",
-     "source": "graziamagazine",
-     "published": "2026-08-05T00:17:44+00:00",
-     "id": "28a9f40bc341"
     },
     {
      "title": "Sandalias inglesas de tacón curvo: Victoria Beckham llevó (y diseñó) el calzado más elegantes del 2026",
@@ -158,52 +181,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Samantha Morton, después de su elogiada actuación en La Odisea: “Hace un año que no consigo trabajo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/samantha-morton-despues-de-su-elogiada-actuacion-en-la-odisea-hace-un-ano-que-no-consigo-trabajo-nid05082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-05T06:43:41+00:00",
+     "copete": "La actriz, una de las candidatas naturales a ser nominada al Oscar por su labor en el film de Christopher Nolan, aseguró que las normas de Hollywood cambiaron y que su edad le juega en contra",
+     "id": "e230c464241e"
+    },
+    {
+     "title": "La Joaqui abrió su corazón con Rosalía: “Una perla muy zorra destruyó mi pareja”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-joaqui-abrio-su-corazon-con-rosalia-una-perla-muy-zorra-destruyo-mi-pareja-nid05082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-05T05:36:58+00:00",
+     "copete": "En su tercer show en el Movistar Arena, la artista española recibió en “el confesionario” a la intérprete de “Butakera”, recién separada de Luck Ra",
+     "id": "d515a7e56311"
+    },
+    {
+     "title": "Magui Bravi en “Lo de Pampita”: “No imagino cómo es volver a enamorarme”",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/magui-bravi-en-lo-de-pampita-no-imagino-como-es-volver-a-enamorarme/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-05T05:00:00+00:00",
+     "copete": "La actriz y bailarina habló sobre su separación de Octavio Cattaneo, los desafíos de la maternidad y qué aprendizajes de su propia crianza busca transmitirle a su hijo Galileo",
+     "id": "e4bf6c0fe947"
+    },
+    {
+     "title": "Se conoció quién ganó la casa de esta temporada en Gran Hermano: “Para mi papá que jugaba a la timba”",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/se-conocio-quien-gano-la-casa-de-esta-temporada-en-gran-hermano-para-mi-papa-que-jugaba-a-la-timba/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-05T03:54:54+00:00",
+     "copete": "Una de las participantes abrió la puerta al primer intento y se llevó una vivienda prefabricada. El emotivo momento",
+     "id": "81b1857af34f"
+    },
+    {
+     "title": "El mensaje de Lali Espósito a días de la votación sobre la Ley de Tierras: “Hay que defender los recursos estratégicos”",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/el-mensaje-de-lali-esposito-a-dias-de-la-votacion-sobre-la-ley-de-tierras-hay-que-defender-los-recursos-estrategicos/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-05T03:50:17+00:00",
+     "copete": "La figura pop publicó una convocatoria en Instagram para acompañar la movilización frente al Congreso en la jornada de tratamiento de la norma",
+     "id": "e142eb8e1fa6"
+    },
+    {
+     "title": "Las tiernas fotos de Tini Stoessel en París junto a Fifi, su perra rescatada",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/las-tiernas-fotos-de-tini-stoessel-en-paris-junto-a-fifi-su-perra-rescatada/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-05T03:44:21+00:00",
+     "copete": "La cantante compartió un álbum desde la capital francesa junto a su compañera de cuatro patas, con postales entre cafés, una boutique de lujo y un interior elegante",
+     "id": "909f2dbcc873"
+    },
+    {
+     "title": "La reacción de Darío Barassi cuando una participante le reveló que era actriz porno: “Estoy nervioso”",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/la-reaccion-de-dario-barassi-cuando-una-participante-le-revelo-que-era-actriz-porno-estoy-nervioso/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-05T03:40:41+00:00",
+     "copete": "La modelo y actriz de contenido para mayores, contó que vive en Argentina desde hace dos semanas y detalló que su actividad es mayormente por cuenta propia, lo que dejó al animador sin palabras",
+     "id": "23bb5a042198"
+    },
+    {
      "title": "Mauro Icardi explotó por el embargo de la “Casa de los Sueños” y apuntó contra el juez: “¡Impresentable!”",
      "link": "https://www.infobae.com/teleshow/2026/08/05/mauro-icardi-exploto-por-el-embargo-de-la-casa-de-los-suenos-y-apunto-contra-el-juez-impresentable/",
      "source": "Teleshow (Infobae)",
      "published": "2026-08-05T03:24:31+00:00",
      "copete": "El delantero respondió con una catarata de historias de Instagram tras la medida sobre su mansión en el barrio Yacht Club de Nordelta, cuestionó el fallo del juez Hagopián y anticipó una apelación",
      "id": "b4cd6cb72024"
-    },
-    {
-     "title": "Nati Jota reveló por qué rechazó participar de la próxima edición de Masterchef: “No me animo, lloré”",
-     "link": "https://www.infobae.com/teleshow/2026/08/05/nati-jota-revelo-por-que-rechazo-participar-de-la-proxima-edicion-de-masterchef-no-me-animo-llore/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-05T03:18:55+00:00",
-     "copete": "La influencer relató que la convocatoria la entusiasmó al principio, aunque luego le disparó angustia y terminó eligiendo alejarse del certamen para priorizar su bienestar",
-     "id": "5a0a81126e15"
-    },
-    {
-     "title": "Marcelo Tinelli y Milett Figueroa confirmaron su reconciliación: sus imágenes juntos en un restaurante en Lima",
-     "link": "https://www.infobae.com/teleshow/2026/08/05/marcelo-tinelli-y-milett-figueroa-confirmaron-su-reconciliacion-sus-imagenes-juntos-en-un-restaurante-en-lima/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-05T02:55:40+00:00",
-     "copete": "La pareja se mostró unida en sus redes sociales comiendo en un local gastronómico del barrio de Barranco en la capital peruana",
-     "id": "84a8e19eb0fb"
-    },
-    {
-     "title": "El reclamo de Natalie Pérez a Toto Kirzner, el hijo de Adrián Suar, por Las Estrellas: “¡Es por tu papá!”",
-     "link": "https://www.infobae.com/teleshow/2026/08/05/el-reclamo-de-natalie-perez-a-toto-kirzner-el-hijo-de-adrian-suar-por-las-estrellas-es-por-tu-papa/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-05T02:30:04+00:00",
-     "copete": "La actriz aprovechó su paso por OLGA para hacerle un pedido al actor sobre la recordada telenovela de Eltrece y puso sobre la mesa un deseo que, según contó, el elenco arrastra desde hace tiempo",
-     "id": "6eb2a5fed510"
-    },
-    {
-     "title": "Gustavo Conti celebró los 25 años de su entrada a Gran Hermano: “Mi vida cambiaba para siempre”",
-     "link": "https://www.infobae.com/teleshow/2026/08/05/gustavo-conti-celebro-los-25-anos-de-su-entrada-a-gran-hermano-mi-vida-cambiaba-para-siempre/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-05T01:56:52+00:00",
-     "copete": "El exparticipante festejó el aniversario de su temporada en el reality con un video de aquel ingreso, una publicación que revivió el comienzo de una etapa decisiva en su camino artístico y personal",
-     "id": "7f0895bbe9ec"
-    },
-    {
-     "title": "La Joaqui le confesó a Rosalía cómo Luck Ra decidió terminar su relación con ella: “Él era una perla muy pesada”",
-     "link": "https://www.infobae.com/teleshow/2026/08/05/la-joaqui-le-confeso-a-rosalia-como-luck-ra-decidio-terminar-su-relacion-con-ella-el-se-desencanto-conmigo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-05T01:48:49+00:00",
-     "copete": "La cantante formó parte del tercer show de la española en Buenos Aires y reveló un dato importante de su ruptura con el cordobés",
-     "id": "a9c1b253028a"
     },
     {
      "title": "Georgina Rodríguez, tras las críticas a su físico: “El valor de una persona jamás puede depender de eso ni de la opinión de desconocidos”",
@@ -220,22 +259,6 @@
      "published": "2026-08-04T23:42:55+00:00",
      "copete": "Según reveló Pepe Ochoa en LAM, se habría decidido convocar a la influencer para recrear algunas escenas para la producción que contará la vida de la modelo",
      "id": "b8881d01ba80"
-    },
-    {
-     "title": "Spider-Man: la historia de su misterioso creador que abandonó Marvel antes de que el mundo conociera su nombre",
-     "link": "https://www.lanacion.com.ar/espectaculos/spider-man-la-historia-de-su-misterioso-creador-que-abandono-marvel-antes-de-que-el-mundo-conociera-nid04082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-04T23:42:41+00:00",
-     "copete": "En 1962, Stan Lee le pidió a Steve Ditko que ideara un nuevo personaje para revivir las ventas de una editorial en crisis; sus dibujos revolucionaron el universo de los cómics",
-     "id": "d8dc32ea51fe"
-    },
-    {
-     "title": "“No es la noticia que esperábamos”: crece la preocupación por la salud de Denisse González, exparticipante de Gran Hermano",
-     "link": "https://www.lanacion.com.ar/espectaculos/no-es-la-noticia-que-esperabamos-crece-la-preocupacion-por-la-salud-de-denisse-gonzalez-nid04082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-04T23:42:34+00:00",
-     "copete": "La influencer quedó internada luego de que un estudio de rutina arrojara un preocupante resultado; a través de sus redes sociales actualiza a sus seguidores sobre su evolución",
-     "id": "d55dbcf43a8f"
     },
     {
      "title": "Milo J cerrará su gran año en el Kempes: \"Traigo mi universo a Córdoba para que llegue a todas las provincias\"",
@@ -282,11 +305,11 @@
      "id": "8a425241e8dc"
     },
     {
-     "title": "La compañía Hongaresa Teatre de Valencia desembarca en Buenos Aires para celebrar sus 30 años",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWWswcVlMTVRuMmJBMDNGa05uSWVsNHRHdEluVkhITV9HemtVdWJiTmRrb3VCQjVvanJfbmVOazNOMjA5QWJRRFFNaWhXRnJmRmZsbG02Q2dIYVFPMURIWEhYM21WUENZX2pPLW9tSm1Sa2hKMHdHOGhieGhhZ3V3MGxSMlAtVE5OaTZHQ1ozNDhfdmZ6UTNxZjBJbmdBV1RxODkteklVQzdFNUFPUExVVEYxQktvNUhXNVVUQU94a21PaDFkWnFhRmI4RS02WDA5ZGZJY0hBenJ1VlhCU1dneGxweDZqX2twLVI2UTZ3TdIB_gFBVV95cUxON0pmZTJ5LXhrcUM3a1RPVEwwQzlVbjhQQTBUU1R0dkRHOFItcHM4bm5BWVFFbFBSVkFXc3ZCMGJZSl9JTE1kYjloc0xCRDV6Y3B1Q1E3S0RJY2hIeDFZb1VHV3U1RFgzbWZNZU1oaDVabDJybnhBTFY1dUdGZm5DdnZuaVRhX3ZnWnZRMUNmVWZPLTdxcXRzVjBtTGVsZlZrZzVLRnpIcVV6NFVIR3pyZUdQWkt5dkNOWlVSTUtldm9WMnBKYS15WlNIWlVlbG5TclBqTjRhNzlwU0J1blpMNEREQjA4d2ZuQWNpdXc1WWRnbzY3RlRDT0tvamVwdw?oc=5",
-     "source": "Agencia Noticias Argentinas",
-     "published": "2026-08-04T20:56:32+00:00",
-     "id": "cfdcb4d57311"
+     "title": "Daniel Dueñas en Argentina",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xTTZMS0VXTE1DekVmWVNqUmQxSE9rMTVxdUNDNHBGRHo2c3EwNlRFTFA3SXJwaHhxRVloZ1ZfamVQdXVoRjVodDJOa2FtT1dJQUstUk1JU1Z1dzZBdHF2Y2NNTXNZdw?oc=5",
+     "source": "Indie Hoy",
+     "published": "2026-08-04T22:02:17+00:00",
+     "id": "bf3a13aa2d56"
     },
     {
      "title": "Rosalía en Buenos Aires: los lugares que eligió la artista para comer rico",
@@ -296,9 +319,9 @@
      "id": "c34ebbf24ed6"
     },
     {
-     "title": "Buenos Aires es considerada la capital gastronómica de Iberoamérica - Expreso",
+     "title": "Buenos Aires es considerada la capital gastronómica de Iberoamérica",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWREaGNRVlRFNDV4MGVQb21KQi1mSzZaSFNhcnZjcjEzd21SUWM4dkxIcFpyVmhmYjNqaHV4MldfUE1UajE5VWpOZHo4ZEkzbjl3SmVlZ0R0QU5NOGpWbnhtNlJCSkpsOXF1VkMxbWZSY1lUdVZ0ekl2M0Q5QzE5aXVQcGtwTzVRNi1mX1duNEh0b05VcklGV2thVmY0ZVBQSkZITnNIb3JWbzF5UVp2bXJzdWEtUEdvVzdhYg?oc=5",
-     "source": "Diario de viajes y turismo",
+     "source": "expreso.info",
      "published": "2026-08-04T14:02:33+00:00",
      "id": "d7ec68cf6be5"
     },
@@ -338,83 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "“Le echaron la culpa de robos que no hizo”: madre de adolescente decapitado en Honduras",
-     "link": "https://www.infobae.com/honduras/2026/08/05/le-echaron-la-culpa-de-robos-que-no-hizo-madre-de-adolescente-decapitado-en-honduras/",
-     "source": "Infobae",
-     "published": "2026-08-05T03:37:45+00:00",
-     "copete": "La madre de Harold Ulloa Ramos, de 17 años, aseguró que su hijo fue señalado por delitos que no cometió antes de ser asesinado en Yoro. Las autoridades investigan el crimen",
-     "id": "1e50926bedc5"
-    },
-    {
-     "title": "La llamativa innovación en la regla que planteó Djokovic para que el tenis sea más entretenido: “Debemos cambiar”",
-     "link": "https://www.infobae.com/deportes/2026/08/05/la-llamativa-innovacion-en-la-regla-que-planteo-djokovic-para-que-el-tenis-sea-mas-entretenido-debemos-cambiar/",
-     "source": "Infobae",
-     "published": "2026-08-05T03:35:12+00:00",
-     "copete": "El serbio dio su opinión pese a las críticas que pueda recibir de este ámbito deportivo. En qué consiste y por qué propuso ese cambio",
-     "id": "2b07a9e746f8"
-    },
-    {
-     "title": "El colectivo Las Venancias alerta desaparición de dos menores en Nicaragua",
-     "link": "https://www.infobae.com/nicaragua/2026/08/05/el-colectivo-las-venancias-alerta-desaparicion-de-dos-menores-en-nicaragua/",
-     "source": "Infobae",
-     "published": "2026-08-05T03:34:44+00:00",
-     "copete": "Las familias de una adolescente de 16 años y una niña de 12 años aseguran que acudieron de inmediato a las autoridades, pero aún no reciben datos que ayuden a ubicarlas",
-     "id": "88534a4a0580"
-    },
-    {
-     "title": "Pablo Ibáñez suma la cuarta plata para El Salvador en Santo Domingo 2026",
-     "link": "https://www.infobae.com/el-salvador/2026/08/05/pablo-ibanez-suma-la-cuarta-plata-para-el-salvador-en-santo-domingo-2026/",
-     "source": "Infobae",
-     "published": "2026-08-05T03:33:15+00:00",
-     "copete": "El corredor detuvo el cronómetro en 49.64 segundos en la pista del Estadio Olímpico Juan Pablo Duarte y sumó para su país la cuarta presea plateada en los Juegos Centroamericanos y del Caribe",
-     "id": "ddb4e187ab89"
-    },
-    {
-     "title": "Joyas patrimoniales: siete experiencias para disfrutar hoteles y casonas con historia",
-     "link": "https://www.lanacion.com.ar/revista-lugares/joyas-patrimoniales-siete-experiencias-para-disfrutar-hoteles-y-casonas-con-historia-nid05082026/",
+     "title": "Qué es el estrés crónico y cuáles son los síntomas para detectarlo a tiempo, según un experto",
+     "link": "https://www.lanacion.com.ar/sociedad/que-es-el-estres-cronico-y-cuales-son-los-sintomas-para-detectarlo-a-tiempo-segun-un-experto-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T03:30:00+00:00",
-     "copete": "Entre Recoleta, Monserrat, San Nicolás, Barrio Parque y La Paternal, salidas para comer algo y celebrar la arquitectura",
-     "id": "dc54450074ba"
+     "published": "2026-08-05T07:00:00+00:00",
+     "copete": "El especialista advirtió en LN+ sobre el impacto del estrés sostenido en el organismo, explicó cómo afecta al corazón y señaló que puede duplicar el riesgo de infarto",
+     "id": "a58c8febac8e"
     },
     {
-     "title": "Nueva York distribuirá casi cinco millones de huevos gratis: dónde los recibirán las familias",
-     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/nueva-york-distribuira-casi-cinco-millones-de-huevos-gratis-donde-los-recibiran-las-familias-nid05082026/",
+     "title": "Javier Milei y sus medidas, en vivo: escala el conflicto con Brasil y crece la tensión por la sesión de la ley de tierras",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-escala-el-conflicto-con-brasil-y-crece-la-tension-por-la-sesion-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T03:30:00+00:00",
-     "copete": "Cómo acceder a los casi cinco millones de huevos gratis que Nueva York distribuirá en bancos de alimentos y despensas",
-     "id": "f4abbb8d6eb8"
+     "published": "2026-08-05T06:44:16+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "a66f5db7f103"
     },
     {
-     "title": "Chau WhatsApp: la lista definitiva de los celulares en los que dejará de funcionar la app a partir de agosto 2026",
-     "link": "https://www.lanacion.com.ar/tecnologia/chau-whatsapp-la-lista-definitiva-de-los-celulares-en-los-que-dejara-de-funcionar-la-app-a-partir-de-nid05082026/",
+     "title": "Samantha Morton, después de su elogiada actuación en La Odisea: “Hace un año que no consigo trabajo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/samantha-morton-despues-de-su-elogiada-actuacion-en-la-odisea-hace-un-ano-que-no-consigo-trabajo-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T03:30:00+00:00",
-     "copete": "Meta anunció que actualizará los requisitos técnicos mínimos de su plataforma de mensajería, una decisión que afectará a los dispositivos que no puedan ejecutar las versiones más recientes de sus sistemas operativos",
-     "id": "b7b2fe8f931a"
+     "published": "2026-08-05T06:43:41+00:00",
+     "copete": "La actriz, una de las candidatas naturales a ser nominada al Oscar por su labor en el film de Christopher Nolan, aseguró que las normas de Hollywood cambiaron y que su edad le juega en contra",
+     "id": "e230c464241e"
     },
     {
-     "title": "El Gobierno cuestionó la decisión de Brasil de reducir el nivel de su representación diplomática en la Argentina",
-     "link": "https://www.lanacion.com.ar/politica/cancilleria-cuestiono-la-decision-de-brasil-de-reducir-el-nivel-de-su-representacion-diplomatica-en-nid04082026/",
+     "title": "Un niño de 6 años murió ahogado en una pileta de tratamiento de líquidos cloacales en Neuquén",
+     "link": "https://www.lanacion.com.ar/sociedad/un-nino-de-6-anos-murio-ahogado-en-una-pileta-de-tratamiento-de-liquidos-cloacales-en-neuquen-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T03:24:11+00:00",
-     "copete": "Mediante un comunicado, Cancillería consideró que la administración brasileña continuará “aislándose del resto de la región por cuestiones puramente ideológicas” con este tipo de medidas y sostuvo que la la definición fue “unilateral”",
-     "id": "c3aaa74c2d72"
+     "published": "2026-08-05T06:42:15+00:00",
+     "copete": "El menor estaba al cuidado de sus abuelos cuando se escapó; el hecho ocurrió en el barrio Confluencia, al este de la capital provincial",
+     "id": "35b1a92362a8"
     },
     {
-     "title": "“Cuando las aulas están vacías, los perjudicados son los alumnos”",
-     "link": "https://www.clarin.com/cartas-al-pais/aulas-vacias-perjudicados-alumnos_0_fvXfPtcK5u.html",
+     "title": "Hablar en público: por qué genera tanto temor y cómo superarlo",
+     "link": "https://www.infobae.com/opinion/2026/08/05/hablar-en-publico-por-que-genera-tanto-temor-y-como-superarlo/",
+     "source": "Infobae",
+     "published": "2026-08-05T06:38:17+00:00",
+     "copete": "Saber transmitir conocimientos, presentar proyectos, liderar reuniones o representar a una organización puede abrir puertas profesionales y personales",
+     "id": "738f27e18e72"
+    },
+    {
+     "title": "Los datos no hablan solos: la IA no reemplaza al criterio",
+     "link": "https://www.infobae.com/opinion/2026/08/05/los-datos-no-hablan-solos-la-ia-no-reemplaza-al-criterio/",
+     "source": "Infobae",
+     "published": "2026-08-05T06:38:03+00:00",
+     "copete": "Frecuentemente tomamos decisiones basadas en datos, pero, ¿cuántas veces nos preguntamos si realmente entendemos lo que esos números significan?",
+     "id": "431f862d686d"
+    },
+    {
+     "title": "Abrir mercados y aprender a competir",
+     "link": "https://www.infobae.com/opinion/2026/08/05/abrir-mercados-y-aprender-a-competir/",
+     "source": "Infobae",
+     "published": "2026-08-05T06:37:53+00:00",
+     "copete": "La estabilización macroeconómica, una mayor previsibilidad y una agenda de inserción internacional más activa reabrieron el debate sobre el comercio exterior argentino",
+     "id": "1b5921004622"
+    },
+    {
+     "title": "La evaluación tradicional da un portazo: el nuevo mapa para examinar el aprendizaje en la era de la IA",
+     "link": "https://www.infobae.com/educacion/2026/08/05/la-evaluacion-tradicional-da-un-portazo-el-nuevo-mapa-para-examinar-el-aprendizaje-en-la-era-de-la-ia/",
+     "source": "Infobae",
+     "published": "2026-08-05T06:35:27+00:00",
+     "copete": "Más de cien investigadores, tecnólogos, responsables de política educativa y líderes de instituciones K-12 y universitarias se reunieron en la Universidad de Stanford, en California, Estados Unidos pusieron en jaque la forma de evaluar…",
+     "id": "4b374d94496c"
+    },
+    {
+     "title": "Virgen de África: por qué se celebra a la patrona de Ceuta el 5 de agosto y cuál es la oración para hacer en el Santuario de Santa María",
+     "link": "https://www.clarin.com/internacional/virgen-africa-celebra-patrona-ceuta-5-agosto-oracion-hacer-santuario-santa-maria_0_MdmSnodu7Q.html",
      "source": "Clarín",
-     "published": "2026-08-05T03:00:09+00:00",
-     "id": "a339a91c26ad"
+     "published": "2026-08-05T06:28:11+00:00",
+     "copete": "Cada 5 de agosto, Ceuta se vuelca con su patrona, la Virgen de África.",
+     "id": "2bff34521876"
     },
     {
-     "title": "Rojos anotan 2 en la 8ª con lanzamientos descontrolados y superan 5-4 a Atléticos",
-     "link": "https://www.clarin.com/estados-unidos/rojos-anotan-2-en-la-8-con-lanzamientos-descontrolados-y-superan-5-4-a-atleticos_0_rvxkMYqSwu.html",
+     "title": "Trump dice que el acuerdo para reabrir el estrecho de Ormuz podría llegar el miércoles",
+     "link": "https://www.clarin.com/estados-unidos/trump-dice-que-el-acuerdo-para-reabrir-el-estrecho-de-ormuz-podria-llegar-el-miercoles_0_glVmaTUxhO.html",
      "source": "Clarín",
-     "published": "2026-08-05T03:00:03+00:00",
-     "copete": "Los Rojos vencieron a los Atléticos 5-4, con carreras decisivas en la octava tras bases por bolas y lanzamientos erráticos del rival. El dominicano Rodríguez debutó en Grandes Ligas, contribuyendo a una remontada con su llegada a base y…",
-     "id": "c15fc79a1527"
+     "published": "2026-08-05T06:10:06+00:00",
+     "copete": "Estados Unidos e Irán avanzan en un posible acuerdo para reabrir el estrecho de Ormuz, clave para el transporte de petróleo. Trump y Omán lideran las negociaciones. El pacto podría incluir rutas controladas por Irán y Omán, con tarifas por…",
+     "id": "cfdacfbff916"
     }
    ]
   },
@@ -424,20 +448,44 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Estados Unidos y Brasil escenifican un duelo diplomático entre gigantes",
+     "link": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html",
+     "source": "El País Internacional",
+     "published": "2026-08-05T04:21:08+00:00",
+     "copete": "El Gobierno de Lula acusa a la Administración de Trump de mentir y de buscar interferir en las elecciones presidenciales de octubre",
+     "id": "9c21d7a98bcd"
+    },
+    {
+     "title": "En busca del cadáver de “la señora de las uñas bonitas”, rescatada con vida tras los terremotos en Venezuela",
+     "link": "https://elpais.com/america/2026-08-05/en-busca-del-cadaver-de-la-senora-de-las-unas-bonitas-rescatada-con-vida-tras-los-terremotos-en-venezuela.html",
+     "source": "El País Internacional",
+     "published": "2026-08-05T04:00:00+00:00",
+     "copete": "El caso de Cristina Margarita Ramos expone el caos en la gestión de los fallecidos tras el desastre",
+     "id": "5f6f7898c8d6"
+    },
+    {
+     "title": "Las nuevas barreras terrestres que Israel construye en Gaza y obligan a más familias a desplazarse",
+     "link": "https://www.bbc.com/mundo/articles/c9d8g33237jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-05T03:59:08+00:00",
+     "copete": "Expertos han declarado a la BBC que los movimientos de tierra sugieren que Israel está planeando establecer una frontera interna a largo plazo en la Franja de Gaza.",
+     "id": "575d171abced"
+    },
+    {
+     "title": "Brasil retira a su embajador en Argentina en rechazo a los insultos de Milei contra Lula",
+     "link": "https://elpais.com/argentina/2026-08-05/brasil-retira-a-su-embajador-en-argentina-en-rechazo-a-los-insultos-de-milei-contra-lula.html",
+     "source": "El País Internacional",
+     "published": "2026-08-05T03:38:23+00:00",
+     "copete": "El Gobierno brasileño rebaja la relación diplomática entre las dos mayores economías de la región al nivel de encargados de negocios",
+     "id": "0ffa4cb7616d"
+    },
+    {
      "title": "Israel intensifica sus ataques en Gaza y presiona para acelerar el desarme de Hamás",
      "link": "https://elpais.com/internacional/2026-08-05/israel-intensifica-sus-ataques-en-gaza-y-presiona-para-acelerar-el-desarme-de-hamas.html",
      "source": "El País Internacional",
      "published": "2026-08-05T03:30:01+00:00",
      "copete": "El ejército mata al menos a 33 gazatíes en tres días. Netanyahu busca anteponer la entrega de armas de la milicia a cualquier repliegue militar de la Franja",
      "id": "2c260c6c1c06"
-    },
-    {
-     "title": "Le Pen, una candidata sin complejos: La líder ultra hace campaña en Francia con el nombre del partido de Macron",
-     "link": "https://elpais.com/internacional/2026-08-05/le-pen-una-candidata-sin-complejos-la-lider-ultra-hace-campana-en-francia-con-el-nombre-del-partido-de-macron.html",
-     "source": "El País Internacional",
-     "published": "2026-08-05T03:30:01+00:00",
-     "copete": "La justicia rechaza la denuncia de la formación del presidente, Renacimiento, y avala que la dirigente mantenga el eslogan “Por Francia, el renacimiento”",
-     "id": "07d7d39ecfbb"
     },
     {
      "title": "Los modelos de IA que mostraron un nivel de \"autonomía y engaño\" nunca antes visto",
@@ -462,30 +510,6 @@
      "published": "2026-08-04T23:06:25+00:00",
      "copete": "Ucrania afirmó que el video, que muestra a un civil aterrorizado siendo perseguido por un dron teledirigido, muestra un crimen de guerra.",
      "id": "b70499aef985"
-    },
-    {
-     "title": "Cuba registra dos apagones nacionales en menos de 24 horas",
-     "link": "https://elpais.com/internacional/2026-08-04/cuba-registra-dos-apagones-nacionales-en-menos-de-24-horas.html",
-     "source": "El País Internacional",
-     "published": "2026-08-04T19:04:21+00:00",
-     "copete": "Las autoridades trabajan para restablecer totalmente la electricidad en la isla, cuyo sistema, obsoleto y afectado por las restricciones estadounidenses, ha colapsado siete veces en 2026",
-     "id": "35af7528cd48"
-    },
-    {
-     "title": "Zelenski condena el “safari humano” de drones rusos en Ucrania tras el ataque a un vendedor de verduras",
-     "link": "https://elpais.com/internacional/2026-08-04/al-menos-31-civiles-mueren-en-ataques-en-rusia-y-ucrania-en-los-ultimos-dos-dias.html",
-     "source": "El País Internacional",
-     "published": "2026-08-04T17:02:55+00:00",
-     "copete": "Las partes en conflicto niegan que la población sea un blanco intencional. Al menos 31 civiles han muerto en ofensivas en los últimos dos días",
-     "id": "5dd906b4d5aa"
-    },
-    {
-     "title": "Qué pasará cuando el cohete a la deriva de SpaceX choque contra la Luna (y por qué puede ser una buena noticia para la ciencia)",
-     "link": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-04T16:45:21+00:00",
-     "copete": "La Luna ha soportado innumerables impactos a lo largo de millones de años. Los astrónomos creen que el de este miércoles podría resultar provechoso.",
-     "id": "8584ccdd7868"
     }
    ]
   }
@@ -499,11 +523,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
