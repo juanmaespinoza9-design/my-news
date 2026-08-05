@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-08-05T10:15:00Z",
+  "generated_at": "2026-08-05T22:15:00Z",
   "summaries": {
-    "85582e52a78c": {
-      "resumen": "The ASCO Post reporta el desarrollo de un clasificador basado en inteligencia artificial que analiza el fragmentoma del ADN libre circulante (cfDNA, cell-free DNA) para mejorar la detección del carcinoma hepatocelular (HCC, hepatocellular carcinoma). Interesa porque propone una herramienta no invasiva para el diagnóstico temprano de un tumor que suele detectarse en etapas avanzadas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio diagnóstico/traslacional (el título no especifica si incluye una cohorte de validación independiente, el número de pacientes ni si fue un estudio caso-control) que desarrolla un clasificador de aprendizaje automático basado en el fragmentoma del ADN libre circulante.\nPoblación: Pacientes con carcinoma hepatocelular, probablemente comparados con controles sanos o con hepatopatía crónica sin cáncer; el título no precisa los criterios de inclusión.\nIntervención: No aplica intervención terapéutica; se trata de una prueba diagnóstica no invasiva (biopsia líquida) basada en el análisis del fragmentoma del cfDNA mediante inteligencia artificial.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (sensibilidad, especificidad o área bajo la curva).\nLimitaciones: Sin el texto completo no se puede evaluar la validación externa del clasificador, el tamaño de la cohorte ni la comparación con los métodos de detección actuales (como la alfafetoproteína o la ecografía).\nMensaje: Si se valida, podría sumar una herramienta no invasiva para la detección temprana del carcinoma hepatocelular, aunque todavía en etapa de investigación.\nNota: análisis sin acceso al abstract."
-    },
-    "5babd2bb0aa8": {
-      "resumen": "The ASCO Post difunde un estudio que halló que el uso de la secuenciación de próxima generación (NGS, next-generation sequencing) para el perfil molecular tumoral sigue siendo bajo entre los beneficiarios de Medicare (el seguro de salud público para adultos mayores en Estados Unidos). Interesa porque señala una brecha de acceso a la medicina de precisión oncológica en una población con alta carga de cáncer.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de base poblacional (probablemente un análisis retrospectivo de datos administrativos de Medicare; el título no precisa el período analizado ni el número de beneficiarios incluidos).\nPoblación: Beneficiarios de Medicare con diagnóstico de cáncer en Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un análisis descriptivo de la utilización de la secuenciación de próxima generación para el perfil molecular tumoral.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (porcentaje de uso de NGS, tendencias temporales o diferencias por subgrupo).\nLimitaciones: Sin el texto completo no se puede evaluar el sesgo de los datos administrativos, ni si se ajustó por tipo de tumor o por disparidades socioeconómicas y geográficas.\nMensaje: Señala una posible barrera de acceso a la medicina de precisión oncológica en la población mayor cubierta por Medicare, con implicancias para políticas de cobertura y equidad en el diagnóstico molecular.\nNota: análisis sin acceso al abstract."
-    },
-    "9053bf22b310": {
-      "resumen": "The ASCO Post informa que U.S. News & World Report publicó su ranking 2026-2027 de los mejores hospitales oncológicos de Estados Unidos. Es una nota institucional de referencia para pacientes y profesionales sobre centros de excelencia en cáncer.",
-      "destacado": false
-    },
     "3369793c9a0f": {
       "resumen": "Journal of Clinical Oncology publica los resultados del ensayo fase II DISCOVARY, que evaluó darolutamida (un antiandrógeno de nueva generación) sola o combinada con goserelina (un análogo de la hormona liberadora de gonadotrofinas) en carcinoma de glándula salival con receptor de andrógenos positivo. Interesa porque explora un bloqueo hormonal dirigido en un tumor poco frecuente y con escasas opciones sistémicas eficaces.",
       "destacado": false,
@@ -28,32 +14,6 @@
     "2b59fc8b6b0a": {
       "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre el estudio de eficacia y seguridad de anselamimab (un anticuerpo monoclonal dirigido contra las cadenas livianas de inmunoglobulina) en la amiloidosis de cadenas livianas, correspondiente a los ensayos aleatorizados CARES. Interesa como corrección formal de un estudio ya publicado sobre esta terapia dirigida en una enfermedad hematológica poco frecuente.",
       "destacado": false
-    },
-    "8fc27912d9ea": {
-      "resumen": "NEJM Oncología publica la respuesta de los autores a una carta sobre el uso de parches transdérmicos de estradiol (una forma de terapia hormonal) en el cáncer de próstata, como alternativa a la privación androgénica convencional. Es un intercambio de correspondencia que profundiza la discusión sobre esta estrategia hormonal alternativa.",
-      "destacado": false
-    },
-    "cbac3321cff8": {
-      "resumen": "NEJM Oncología publica una carta que discute el uso de parches transdérmicos de estradiol (una forma de terapia hormonal) como alternativa a la privación androgénica convencional en el cáncer de próstata. Interesa por el debate que genera esta vía hormonal alternativa, con potencial menor toxicidad cardiovascular y ósea.",
-      "destacado": false
-    },
-    "6af7a04b2483": {
-      "resumen": "Vogue repasa la colección primavera 2027 de By Malene Birger presentada en la semana de la moda de Copenhague."
-    },
-    "5daa559de23e": {
-      "resumen": "Vogue presenta la colección primavera 2027 de Paolina Russo en la semana de la moda de Copenhague."
-    },
-    "f26aaf7c2bcf": {
-      "resumen": "Vogue repasa la colección otoño 2026 ready-to-wear de Paolo Carzana."
-    },
-    "b861e96e2b54": {
-      "resumen": "Vogue presenta la colección primavera 2027 de Studio Constance en la semana de la moda de Copenhague."
-    },
-    "1fc14e67694d": {
-      "resumen": "Vogue México cuenta que Victoria Beckham lució -y diseñó- las sandalias inglesas de tacón curvo que se perfilan como el calzado más elegante de 2026."
-    },
-    "cb9c8a24cac5": {
-      "resumen": "Vogue México repasa las tendencias de Colombiamoda que redefinen la elegancia latina para el verano 2026."
     },
     "c34ebbf24ed6": {
       "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
@@ -73,45 +33,86 @@
     "7e877ece1577": {
       "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
     },
-    "8c89f7884dda": {
-      "resumen": "OncLive entrevista al Dr. Mulvey sobre datos de discontinuación de tratamiento en la vida real (real-world) con inhibidores de la tirosina quinasa de Bruton (BTK) como primera línea en la leucemia linfocítica crónica (LLC). Interesa porque compara cuánto dura el tratamiento fuera de los ensayos clínicos, donde la suspensión por toxicidad o progresión puede diferir de lo reportado en los estudios pivotales.",
-      "destacado": false
-    },
-    "9927d7dc8bab": {
-      "resumen": "OncLive explica los hallazgos del análisis de ADN tumoral circulante (ctDNA, circulating tumor DNA) del ensayo SERENA-6 en cáncer de mama. Interesa porque aborda el monitoreo molecular seriado para detectar resistencia endocrina temprana y anticipar un cambio de tratamiento antes de que aparezca progresión clínica.",
-      "destacado": false
-    },
-    "f813306d892a": {
-      "resumen": "OncLive presenta una entrevista a una oftalmóloga junto a las doctoras Sara Nunnery y Sarah Sunshine sobre el manejo de las toxicidades oculares asociadas a los anticuerpos conjugados a fármacos (ADC, antibody-drug conjugates). Interesa porque estos efectos adversos oftalmológicos son cada vez más relevantes a medida que crece el uso de esta clase de terapias.",
-      "destacado": false
-    },
     "e22e05da01a0": {
       "resumen": "Journal of Clinical Oncology publica un comentario editorial sobre qué conclusiones permite y qué limitaciones tiene el ensayo COMMIT respecto de la quimioinmunoterapia en el cáncer colorrectal metastásico con reparación deficiente de errores de emparejamiento del ADN (dMMR, deficient mismatch repair). Interesa porque pone en contexto crítico los resultados de un estudio clave de inmunoterapia en este subgrupo molecular.",
       "destacado": false
     },
-    "0765e23dd81f": {
-      "resumen": "ELLE cuenta que la princesa Leonor sorprendió con un cambio de look al lucir un conjunto de verano."
+    "824d214b9a63": {
+      "resumen": "Video breve de OncLive en el que el Dr. Florez explica por qué las reuniones \"Bridging the Gaps\" son importantes para actualizar el manejo del cáncer de pulmón. Es la opinión de un especialista, no un estudio nuevo; interesa por el formato de discusión multidisciplinaria en oncología torácica.",
+      "destacado": false
     },
-    "1f3a862bd517": {
-      "resumen": "Vogue México propone cinco looks para llevar los pantalones estilo años 2000 que serán tendencia en el verano 2026, combinados con sandalias elegantes."
+    "7d5dbae70957": {
+      "resumen": "Otro video de OncLive, esta vez con el Dr. Kim, sobre la necesidad de encuentros de consenso como \"Bridging the Gaps\" para achicar la brecha entre la evidencia científica y la práctica clínica en cáncer de pulmón. Es comentario de experto, sin datos de un estudio propio.",
+      "destacado": false
     },
-    "740e736c3353": {
-      "resumen": "Revista CLARA reúne los vestidos más elegantes para agosto y septiembre, con toque boho, caída fluida y un aire clásico."
+    "0c907c3a622e": {
+      "resumen": "El Dr. Choudhury analiza en OncLive los mecanismos de resistencia a los BiTE (del inglés bispecific T-cell engager, anticuerpos biespecíficos activadores de células T) dirigidos contra DLL3 en el cáncer de pulmón de células pequeñas (CPCP). Interesa por el rol creciente de esta clase de fármacos en CPCP, aunque es una nota de opinión y no presenta un estudio nuevo.",
+      "destacado": false
     },
-    "9dead1e59331": {
-      "resumen": "La Voz del Interior muestra cómo Oriana Sabatini lució el traje negro que se perfila como tendencia de la temporada."
+    "e33cf6ea2202": {
+      "resumen": "The ASCO Post reporta que un esquema combinado prolongó la supervivencia libre de progresión (SLP) en cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H). Relevante porque este subgrupo tumoral responde particularmente bien a la inmunoterapia.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio clínico; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H), subgrupo con alta carga mutacional y buena respuesta esperable a inmunoterapia.\nIntervención: Un esquema combinado, sin especificar en el título qué fármacos incluye ni cuál fue el comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (no hay razón de riesgo, intervalo de confianza ni valor de p); solo se menciona la prolongación de la supervivencia libre de progresión (SLP).\nLimitaciones: Sin el cuerpo de la nota no se puede evaluar el diseño, el tamaño muestral ni la significancia estadística de los resultados.\nMensaje: Si se confirman con los datos completos, sumaría una opción combinada para un subgrupo (dMMR-MSI-H) que ya es candidato preferencial a inmunoterapia; conviene leer el estudio original antes de cambiar conducta.\nNota: análisis sin acceso al abstract."
     },
-    "8a134624ee67": {
-      "resumen": "Indie Hoy anuncia una presentación de Marta Gómez en el Teatro Broadway de Buenos Aires."
+    "fe04b170d055": {
+      "resumen": "Un estudio encontró que el síndrome cardiovascular-renal-metabólico (CKM, por su sigla en inglés) se asocia con mayor riesgo de cáncer, en forma escalonada según el estadio del síndrome. Interesa porque cruza dos epidemias -la cardiometabólica y la oncológica- que cada vez se estudian más juntas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional, probablemente de cohorte, reportado por The ASCO Post; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Personas clasificadas según los estadios del síndrome cardiovascular-renal-metabólico (CKM), un constructo que combina obesidad, enfermedad renal, diabetes y enfermedad cardiovascular.\nIntervención: No aplica; es un estudio observacional de asociación, no de tratamiento.\nResultados: El título indica una asociación entre el estadio de CKM y el riesgo de cáncer \"específica por estadio\", pero sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en el titular.\nLimitaciones: Al ser observacional no permite establecer causalidad; sin el cuerpo del artículo no se puede juzgar el ajuste por factores de confusión ni el tamaño del efecto.\nMensaje: Refuerza la idea de vigilar el riesgo oncológico en pacientes con síndrome cardiometabólico avanzado, aunque conviene leer el estudio completo antes de sacar conclusiones prácticas.\nNota: análisis sin acceso al abstract."
     },
-    "8a425241e8dc": {
-      "resumen": "Data Diario confirma que el festival Primavera Sound Argentina 2026 se realizará en el Club Ciudad de Buenos Aires."
+    "c91eeb7bdc77": {
+      "resumen": "Ensayo fase I de una terapia con células CAR-T (células T con receptor de antígeno quimérico) alogénicas -de donante, no del propio paciente- dirigidas contra CD70 en carcinoma de células renales avanzado. Es un estudio temprano de seguridad y factibilidad en un tumor donde la inmunoterapia celular todavía es experimental.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico fase I, habitualmente abierto y de escalada de dosis; el título no especifica número de pacientes, centros ni aleatorización, algo esperable en esta fase temprana.\nPoblación: Pacientes con carcinoma de células renales avanzado; el título no detalla la línea de tratamiento previa.\nIntervención: Células CAR-T (receptor de antígeno quimérico) alogénicas dirigidas contra CD70, un antígeno expresado en el tumor.\nResultados: No informados en el título (sin cifras de tasa de respuesta, supervivencia ni toxicidad).\nLimitaciones: En fase I el objetivo primario es la seguridad y la dosis, no la eficacia; la muestra suele ser pequeña y el seguimiento corto.\nMensaje: Es un estudio exploratorio; si el perfil de seguridad es manejable podría habilitar fases posteriores, pero todavía está lejos de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "bf3a13aa2d56": {
-      "resumen": "Indie Hoy anuncia una presentación del músico Daniel Dueñas en Argentina."
+    "12a7e0bcdc50": {
+      "resumen": "Declaraciones de consenso de la primera Conferencia de Consenso en Investigación Clínica sobre Cáncer de Cuello Uterino del Gynecologic Cancer InterGroup (grupo internacional de investigación en cáncer ginecológico). Marca prioridades y estándares para futuros ensayos clínicos en esta patología; no reporta resultados de un estudio propio.",
+      "destacado": false
     },
-    "c070a28086f1": {
-      "resumen": "Indie Hoy anuncia una presentación de Flor Bertotti en el Teatro Gran Rex."
+    "738664c7b6bb": {
+      "resumen": "Artículo de perspectiva en Lancet Oncology sobre cómo fortalecer la formación en oncología en países de ingresos bajos y medios de África, con lecciones aplicables a otras regiones con recursos limitados. Es una nota de opinión sobre educación médica, no un estudio clínico.",
+      "destacado": false
+    },
+    "74684f3f2c3a": {
+      "resumen": "Repaso de la colección primavera 2027 de Baum und Pferdgarten, presentada en la Copenhagen Fashion Week."
+    },
+    "283fe1c393c6": {
+      "resumen": "La colección primavera 2027 de Henrik Vibskov, vista en la pasarela de la Copenhagen Fashion Week."
+    },
+    "b95c0d745b0a": {
+      "resumen": "La firma danesa The Garment mostró su colección primavera 2027 en la Copenhagen Fashion Week."
+    },
+    "a73d7bafa2df": {
+      "resumen": "Stine Goya presentó su colección primavera 2027 en la Copenhagen Fashion Week."
+    },
+    "04fe59643558": {
+      "resumen": "Penélope Cruz combinó jeans de corte barrel con sandalias planas para un look cómodo de cara al verano 2026."
+    },
+    "5a121ba51c28": {
+      "resumen": "Doce ideas de uñas cortas para agosto 2026, entre diseños minimalistas, con brillo y nail art."
+    },
+    "77a2ab92b0f8": {
+      "resumen": "Las sandalias estilo años 70 vuelven para combinar con jeans, polleras y vestidos este verano 2026."
+    },
+    "890a303bd359": {
+      "resumen": "Zara lanzó una campera de inspiración francesa que se perfila como un imprescindible entre las fashionistas."
+    },
+    "1c7d2f4d117c": {
+      "resumen": "La influencer Rocío Osorno ya luce el estampado que el estilista Juan Avellaneda señala como la gran tendencia del otoño."
+    },
+    "1ef22b979ba7": {
+      "resumen": "Un repaso de los looks de las españolas mejor vestidas en la Copenhagen Fashion Week, que anticipan las tendencias del próximo otoño."
+    },
+    "3aaae983e97b": {
+      "resumen": "El pianista español Raúl Canosa se presentará con un repertorio de música española en el Teatro Colón de Buenos Aires."
+    },
+    "f895167c78fc": {
+      "resumen": "El pianista Raúl Canosa ofrecerá un recital en el Teatro Colón de Buenos Aires."
+    },
+    "e3fdd8f38ce7": {
+      "resumen": "Una agenda de actividades y eventos de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
+    },
+    "487bbabd5455": {
+      "resumen": "Una selección de cinco obras de teatro recomendadas para ver en Buenos Aires durante agosto."
     }
   }
 }
