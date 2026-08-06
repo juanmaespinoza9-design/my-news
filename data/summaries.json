@@ -1,19 +1,71 @@
 {
-  "generated_at": "2026-08-05T22:15:00Z",
+  "generated_at": "2026-08-06T10:12:02Z",
   "summaries": {
-    "3369793c9a0f": {
-      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo fase II DISCOVARY, que evaluó darolutamida (un antiandrógeno de nueva generación) sola o combinada con goserelina (un análogo de la hormona liberadora de gonadotrofinas) en carcinoma de glándula salival con receptor de andrógenos positivo. Interesa porque explora un bloqueo hormonal dirigido en un tumor poco frecuente y con escasas opciones sistémicas eficaces.",
+    "eecb10e56621": {
+      "resumen": "OncLive presenta un video con datos actualizados de la cohorte de enfermedad localmente avanzada del estudio CK-301-101, que evalúa cosibelimab (un anticuerpo monoclonal dirigido contra PD-L1, ligando de muerte programada 1) en carcinoma escamoso cutáneo. Interesa por sumar seguimiento a más largo plazo de este inhibidor de punto de control inmunológico en un tumor de piel avanzado.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico fase II (el título no precisa aleatorización, cegamiento ni el número de centros o de pacientes incluidos), denominado DISCOVARY.\nPoblación: Pacientes con carcinoma de glándula salival con expresión positiva del receptor de andrógenos, un subtipo poco frecuente de tumor de cabeza y cuello.\nIntervención: Darolutamida (antiandrógeno de nueva generación) administrada sola o en combinación con goserelina (análogo de la hormona liberadora de gonadotrofinas, usado para lograr castración química); el título no especifica un grupo comparador activo.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (tasa de respuesta, supervivencia libre de progresión).\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni si hubo comparación formal entre monoterapia y combinación.\nMensaje: Aporta evidencia preliminar sobre el bloqueo del receptor de andrógenos, solo o potenciado con supresión hormonal, como estrategia dirigida en un tumor raro con opciones terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Actualización de una cohorte del estudio CK-301-101 (el título no precisa la fase, el número de pacientes de esta cohorte ni si hubo aleatorización o cegamiento).\nPoblación: Pacientes con carcinoma escamoso cutáneo localmente avanzado.\nIntervención: Cosibelimab (anticuerpo monoclonal anti-PD-L1); el título no menciona un comparador activo.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la cohorte, la duración del seguimiento ni la magnitud del beneficio reportado.\nMensaje: Aporta seguimiento adicional sobre cosibelimab en carcinoma escamoso cutáneo localmente avanzado; conviene revisar los datos completos antes de sacar conclusiones sobre la magnitud del beneficio.\nNota: análisis sin acceso al abstract."
     },
-    "b4e699598caf": {
-      "resumen": "Journal of Clinical Oncology publica un análisis secundario del estudio PRODIGE-24/CCTG PA6 sobre el impacto del perfil genómico tumoral en la eficacia de la quimioterapia adyuvante en el adenocarcinoma de páncreas resecado. Interesa porque busca identificar biomarcadores que permitan seleccionar mejor a los pacientes que más se benefician de la quimioterapia adyuvante tras la cirugía.",
-      "destacado": true,
-      "analisis": "Diseño: Análisis secundario/traslacional del ensayo PRODIGE-24/CCTG PA6 (el título no precisa el número de pacientes evaluados en este subanálisis ni si fue preespecificado).\nPoblación: Pacientes con adenocarcinoma de páncreas resecado quirúrgicamente, tratados en el contexto del estudio original PRODIGE-24/CCTG PA6, que comparó esquemas de quimioterapia adyuvante.\nIntervención: Correlación del perfil genómico tumoral con la eficacia de la quimioterapia adyuvante recibida; no es una intervención nueva sino un análisis de biomarcadores sobre el tratamiento ya evaluado en el ensayo original.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo (asociación entre alteraciones genómicas específicas y supervivencia libre de enfermedad o supervivencia global).\nLimitaciones: Sin abstract no se puede evaluar el método de perfilado genómico utilizado, el porcentaje de pacientes del estudio original con muestra disponible, ni si los hallazgos fueron validados en una cohorte independiente.\nMensaje: Si identifica biomarcadores genómicos predictivos, podría ayudar a seleccionar con mayor precisión a los pacientes con cáncer de páncreas resecado que más se benefician de la quimioterapia adyuvante, aunque se trata de un análisis exploratorio.\nNota: análisis sin acceso al abstract."
-    },
-    "2b59fc8b6b0a": {
-      "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre el estudio de eficacia y seguridad de anselamimab (un anticuerpo monoclonal dirigido contra las cadenas livianas de inmunoglobulina) en la amiloidosis de cadenas livianas, correspondiente a los ensayos aleatorizados CARES. Interesa como corrección formal de un estudio ya publicado sobre esta terapia dirigida en una enfermedad hematológica poco frecuente.",
+    "7b7453d39f8e": {
+      "resumen": "Video de OncLive en el que se interpretan resultados de eficacia y durabilidad de un estudio oncológico, probablemente vinculado a la cohorte de CK-301-101 mencionada en la nota previa de la misma fuente. El título no especifica el fármaco ni el tumor tratado.",
       "destacado": false
+    },
+    "bd1f914e35f5": {
+      "resumen": "El Dr. Riess explica en OncLive las diferencias entre los inhibidores de KRAS tipo ON, OFF y ON/OFF (una proteína clave en la señalización de varios cánceres) en cáncer de pulmón. Es la opinión de un especialista sobre una clase de fármacos en desarrollo, no un estudio nuevo.",
+      "destacado": false
+    },
+    "e33cf6ea2202": {
+      "resumen": "The ASCO Post reporta que un esquema combinado prolongó la supervivencia libre de progresión (SLP) en cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H). Relevante porque este subgrupo tumoral responde particularmente bien a la inmunoterapia.",
+      "destacado": true,
+      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio clínico; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H), subgrupo con alta carga mutacional y buena respuesta esperable a inmunoterapia.\nIntervención: Un esquema combinado, sin especificar en el título qué fármacos incluye ni cuál fue el comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (no hay razón de riesgo, intervalo de confianza ni valor de p); solo se menciona la prolongación de la supervivencia libre de progresión (SLP).\nLimitaciones: Sin el cuerpo de la nota no se puede evaluar el diseño, el tamaño muestral ni la significancia estadística de los resultados.\nMensaje: Si se confirman con los datos completos, sumaría una opción combinada para un subgrupo (dMMR-MSI-H) que ya es candidato preferencial a inmunoterapia; conviene leer el estudio original antes de cambiar conducta.\nNota: análisis sin acceso al abstract."
+    },
+    "fe04b170d055": {
+      "resumen": "Un estudio encontró que el síndrome cardiovascular-renal-metabólico (CKM, por su sigla en inglés) se asocia con mayor riesgo de cáncer, en forma escalonada según el estadio del síndrome. Interesa porque cruza dos epidemias -la cardiometabólica y la oncológica- que cada vez se estudian más juntas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional, probablemente de cohorte, reportado por The ASCO Post; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Personas clasificadas según los estadios del síndrome cardiovascular-renal-metabólico (CKM), un constructo que combina obesidad, enfermedad renal, diabetes y enfermedad cardiovascular.\nIntervención: No aplica; es un estudio observacional de asociación, no de tratamiento.\nResultados: El título indica una asociación entre el estadio de CKM y el riesgo de cáncer \"específica por estadio\", pero sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en el titular.\nLimitaciones: Al ser observacional no permite establecer causalidad; sin el cuerpo del artículo no se puede juzgar el ajuste por factores de confusión ni el tamaño del efecto.\nMensaje: Refuerza la idea de vigilar el riesgo oncológico en pacientes con síndrome cardiometabólico avanzado, aunque conviene leer el estudio completo antes de sacar conclusiones prácticas.\nNota: análisis sin acceso al abstract."
+    },
+    "c91eeb7bdc77": {
+      "resumen": "Ensayo fase I de una terapia con células CAR-T (células T con receptor de antígeno quimérico) alogénicas -de donante, no del propio paciente- dirigidas contra CD70 en carcinoma de células renales avanzado. Es un estudio temprano de seguridad y factibilidad en un tumor donde la inmunoterapia celular todavía es experimental.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico fase I, habitualmente abierto y de escalada de dosis; el título no especifica número de pacientes, centros ni aleatorización, algo esperable en esta fase temprana.\nPoblación: Pacientes con carcinoma de células renales avanzado; el título no detalla la línea de tratamiento previa.\nIntervención: Células CAR-T (receptor de antígeno quimérico) alogénicas dirigidas contra CD70, un antígeno expresado en el tumor.\nResultados: No informados en el título (sin cifras de tasa de respuesta, supervivencia ni toxicidad).\nLimitaciones: En fase I el objetivo primario es la seguridad y la dosis, no la eficacia; la muestra suele ser pequeña y el seguimiento corto.\nMensaje: Es un estudio exploratorio; si el perfil de seguridad es manejable podría habilitar fases posteriores, pero todavía está lejos de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
+    "62bd53056d71": {
+      "resumen": "Journal of Clinical Oncology publica la réplica de los autores a dos cartas sobre el estudio EC-CRT-002 de tislelizumab (un anticuerpo monoclonal anti-PD-1) combinado con quimiorradioterapia en carcinoma escamoso de esófago, referidas a la tolerancia al tratamiento, la duración del seguimiento y el estado de la vía NRF2. Interesa como parte del debate científico posterior a la publicación del estudio original.",
+      "destacado": false
+    },
+    "39758b92be6e": {
+      "resumen": "Journal of Clinical Oncology publica un artículo de perspectiva sobre la importancia de incluir poblaciones representativas en los ensayos clínicos pivotales, usando como ejemplo zolbetuximab (un anticuerpo monoclonal dirigido contra claudina 18.2) en cáncer gástrico. Interesa por el debate sobre diversidad y generalización de los resultados de los grandes ensayos oncológicos.",
+      "destacado": false
+    },
+    "1edcb295e114": {
+      "resumen": "Journal of Clinical Oncology publica un análisis secundario del estudio EC-CRT-002 sobre la relación entre el estado de la vía NRF2 (un regulador celular de la respuesta al estrés oxidativo) y la exposición a inmunoterapia de mantenimiento en carcinoma escamoso de esófago tratado con quimiorradioterapia. Interesa porque explora un posible biomarcador de respuesta a la inmunoterapia de mantenimiento en este tumor.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis secundario/subestudio del ensayo EC-CRT-002 (el título no precisa si fue preespecificado ni el número de pacientes incluidos en este subanálisis).\nPoblación: Pacientes con carcinoma escamoso de esófago tratados con quimiorradioterapia en el marco del estudio EC-CRT-002, evaluados según su exposición a inmunoterapia de mantenimiento.\nIntervención: Correlación entre el estado de la vía NRF2 (frecuentemente alterada en tumores escamosos) y la exposición a inmunoterapia de mantenimiento con un inhibidor de punto de control; no es una intervención nueva sino un análisis de biomarcadores.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin abstract no se puede evaluar el método usado para determinar el estado de NRF2, el tamaño de la submuestra ni si el hallazgo fue validado de forma independiente.\nMensaje: Si confirma una asociación, podría ayudar a identificar qué pacientes con carcinoma escamoso de esófago se benefician más de la inmunoterapia de mantenimiento tras la quimiorradioterapia.\nNota: análisis sin acceso al abstract."
+    },
+    "1ec6b5d9ab36": {
+      "resumen": "Journal of Clinical Oncology publica un artículo de perspectiva sobre el uso de brazos de control externos prospectivos para acelerar el desarrollo de fármacos oncológicos. Interesa por el debate metodológico sobre alternativas al ensayo aleatorizado tradicional en oncología.",
+      "destacado": false
+    },
+    "a3d35e0a0ad9": {
+      "resumen": "La marca danesa Mfpen mostró su colección primavera 2027 en la Copenhagen Fashion Week."
+    },
+    "30018ac67fbb": {
+      "resumen": "Revista CLARA repasa las bailarinas de estilo japonés de Zara que se perfilan como tendencia para el otoño 2026, por su look elegante, cómodo y minimalista."
+    },
+    "8b42e6f08c04": {
+      "resumen": "ELLE explora cómo visten las mujeres más estilosas de Dinamarca en verano, a partir de un recorrido por la Copenhagen Fashion Week."
+    },
+    "9e4e7ed86d12": {
+      "resumen": "FashionUnited anticipa las tendencias que dominarán las vidrieras en la temporada otoño/invierno 2026."
+    },
+    "e2828264c183": {
+      "resumen": "revistagente repasa la tendencia de moda masculina que adoptaron futbolistas de la Selección argentina, como Enzo Fernández, Nicolás Tagliafico y Giuliano Simeone, durante el verano europeo."
+    },
+    "186f2c785ce3": {
+      "resumen": "El aclamado concierto \"Solo Piano\" del compositor Ludovico Einaudi llega al Teatro Colón de Buenos Aires."
+    },
+    "5be48374c095": {
+      "resumen": "Un repaso por los 90 años del Teatro Ópera, el emblemático cine-teatro que transformó la avenida Corrientes."
     },
     "c34ebbf24ed6": {
       "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
@@ -30,48 +82,6 @@
     "bef5e7b7bb95": {
       "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
     },
-    "7e877ece1577": {
-      "resumen": "La Nación selecciona los planes imperdibles para cerrar las vacaciones de invierno en la Ciudad de Buenos Aires."
-    },
-    "e22e05da01a0": {
-      "resumen": "Journal of Clinical Oncology publica un comentario editorial sobre qué conclusiones permite y qué limitaciones tiene el ensayo COMMIT respecto de la quimioinmunoterapia en el cáncer colorrectal metastásico con reparación deficiente de errores de emparejamiento del ADN (dMMR, deficient mismatch repair). Interesa porque pone en contexto crítico los resultados de un estudio clave de inmunoterapia en este subgrupo molecular.",
-      "destacado": false
-    },
-    "824d214b9a63": {
-      "resumen": "Video breve de OncLive en el que el Dr. Florez explica por qué las reuniones \"Bridging the Gaps\" son importantes para actualizar el manejo del cáncer de pulmón. Es la opinión de un especialista, no un estudio nuevo; interesa por el formato de discusión multidisciplinaria en oncología torácica.",
-      "destacado": false
-    },
-    "7d5dbae70957": {
-      "resumen": "Otro video de OncLive, esta vez con el Dr. Kim, sobre la necesidad de encuentros de consenso como \"Bridging the Gaps\" para achicar la brecha entre la evidencia científica y la práctica clínica en cáncer de pulmón. Es comentario de experto, sin datos de un estudio propio.",
-      "destacado": false
-    },
-    "0c907c3a622e": {
-      "resumen": "El Dr. Choudhury analiza en OncLive los mecanismos de resistencia a los BiTE (del inglés bispecific T-cell engager, anticuerpos biespecíficos activadores de células T) dirigidos contra DLL3 en el cáncer de pulmón de células pequeñas (CPCP). Interesa por el rol creciente de esta clase de fármacos en CPCP, aunque es una nota de opinión y no presenta un estudio nuevo.",
-      "destacado": false
-    },
-    "e33cf6ea2202": {
-      "resumen": "The ASCO Post reporta que un esquema combinado prolongó la supervivencia libre de progresión (SLP) en cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H). Relevante porque este subgrupo tumoral responde particularmente bien a la inmunoterapia.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio clínico; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H), subgrupo con alta carga mutacional y buena respuesta esperable a inmunoterapia.\nIntervención: Un esquema combinado, sin especificar en el título qué fármacos incluye ni cuál fue el comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (no hay razón de riesgo, intervalo de confianza ni valor de p); solo se menciona la prolongación de la supervivencia libre de progresión (SLP).\nLimitaciones: Sin el cuerpo de la nota no se puede evaluar el diseño, el tamaño muestral ni la significancia estadística de los resultados.\nMensaje: Si se confirman con los datos completos, sumaría una opción combinada para un subgrupo (dMMR-MSI-H) que ya es candidato preferencial a inmunoterapia; conviene leer el estudio original antes de cambiar conducta.\nNota: análisis sin acceso al abstract."
-    },
-    "fe04b170d055": {
-      "resumen": "Un estudio encontró que el síndrome cardiovascular-renal-metabólico (CKM, por su sigla en inglés) se asocia con mayor riesgo de cáncer, en forma escalonada según el estadio del síndrome. Interesa porque cruza dos epidemias -la cardiometabólica y la oncológica- que cada vez se estudian más juntas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional, probablemente de cohorte, reportado por The ASCO Post; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Personas clasificadas según los estadios del síndrome cardiovascular-renal-metabólico (CKM), un constructo que combina obesidad, enfermedad renal, diabetes y enfermedad cardiovascular.\nIntervención: No aplica; es un estudio observacional de asociación, no de tratamiento.\nResultados: El título indica una asociación entre el estadio de CKM y el riesgo de cáncer \"específica por estadio\", pero sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en el titular.\nLimitaciones: Al ser observacional no permite establecer causalidad; sin el cuerpo del artículo no se puede juzgar el ajuste por factores de confusión ni el tamaño del efecto.\nMensaje: Refuerza la idea de vigilar el riesgo oncológico en pacientes con síndrome cardiometabólico avanzado, aunque conviene leer el estudio completo antes de sacar conclusiones prácticas.\nNota: análisis sin acceso al abstract."
-    },
-    "c91eeb7bdc77": {
-      "resumen": "Ensayo fase I de una terapia con células CAR-T (células T con receptor de antígeno quimérico) alogénicas -de donante, no del propio paciente- dirigidas contra CD70 en carcinoma de células renales avanzado. Es un estudio temprano de seguridad y factibilidad en un tumor donde la inmunoterapia celular todavía es experimental.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico fase I, habitualmente abierto y de escalada de dosis; el título no especifica número de pacientes, centros ni aleatorización, algo esperable en esta fase temprana.\nPoblación: Pacientes con carcinoma de células renales avanzado; el título no detalla la línea de tratamiento previa.\nIntervención: Células CAR-T (receptor de antígeno quimérico) alogénicas dirigidas contra CD70, un antígeno expresado en el tumor.\nResultados: No informados en el título (sin cifras de tasa de respuesta, supervivencia ni toxicidad).\nLimitaciones: En fase I el objetivo primario es la seguridad y la dosis, no la eficacia; la muestra suele ser pequeña y el seguimiento corto.\nMensaje: Es un estudio exploratorio; si el perfil de seguridad es manejable podría habilitar fases posteriores, pero todavía está lejos de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "12a7e0bcdc50": {
-      "resumen": "Declaraciones de consenso de la primera Conferencia de Consenso en Investigación Clínica sobre Cáncer de Cuello Uterino del Gynecologic Cancer InterGroup (grupo internacional de investigación en cáncer ginecológico). Marca prioridades y estándares para futuros ensayos clínicos en esta patología; no reporta resultados de un estudio propio.",
-      "destacado": false
-    },
-    "738664c7b6bb": {
-      "resumen": "Artículo de perspectiva en Lancet Oncology sobre cómo fortalecer la formación en oncología en países de ingresos bajos y medios de África, con lecciones aplicables a otras regiones con recursos limitados. Es una nota de opinión sobre educación médica, no un estudio clínico.",
-      "destacado": false
-    },
     "74684f3f2c3a": {
       "resumen": "Repaso de la colección primavera 2027 de Baum und Pferdgarten, presentada en la Copenhagen Fashion Week."
     },
@@ -81,32 +91,14 @@
     "b95c0d745b0a": {
       "resumen": "La firma danesa The Garment mostró su colección primavera 2027 en la Copenhagen Fashion Week."
     },
-    "a73d7bafa2df": {
-      "resumen": "Stine Goya presentó su colección primavera 2027 en la Copenhagen Fashion Week."
-    },
     "04fe59643558": {
       "resumen": "Penélope Cruz combinó jeans de corte barrel con sandalias planas para un look cómodo de cara al verano 2026."
     },
     "5a121ba51c28": {
       "resumen": "Doce ideas de uñas cortas para agosto 2026, entre diseños minimalistas, con brillo y nail art."
     },
-    "77a2ab92b0f8": {
-      "resumen": "Las sandalias estilo años 70 vuelven para combinar con jeans, polleras y vestidos este verano 2026."
-    },
-    "890a303bd359": {
-      "resumen": "Zara lanzó una campera de inspiración francesa que se perfila como un imprescindible entre las fashionistas."
-    },
-    "1c7d2f4d117c": {
-      "resumen": "La influencer Rocío Osorno ya luce el estampado que el estilista Juan Avellaneda señala como la gran tendencia del otoño."
-    },
-    "1ef22b979ba7": {
-      "resumen": "Un repaso de los looks de las españolas mejor vestidas en la Copenhagen Fashion Week, que anticipan las tendencias del próximo otoño."
-    },
     "3aaae983e97b": {
       "resumen": "El pianista español Raúl Canosa se presentará con un repertorio de música española en el Teatro Colón de Buenos Aires."
-    },
-    "f895167c78fc": {
-      "resumen": "El pianista Raúl Canosa ofrecerá un recital en el Teatro Colón de Buenos Aires."
     },
     "e3fdd8f38ce7": {
       "resumen": "Una agenda de actividades y eventos de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
