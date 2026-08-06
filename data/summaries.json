@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-06T10:12:02Z",
+  "generated_at": "2026-08-06T22:09:54Z",
   "summaries": {
+    "6a41ab7661c8": {
+      "resumen": "The ASCO Post presenta datos sobre durvalumab (un anticuerpo monoclonal dirigido contra PD-L1, ligando de muerte programada 1) combinado con radioterapia en pacientes frágiles con cáncer de pulmón de células no pequeñas (CPCNP) localmente avanzado. Interesa porque extiende a una población más vulnerable el esquema de consolidación inmunoterápica tras quimiorradioterapia, donde la evidencia en pacientes frágiles todavía es limitada.",
+      "destacado": false,
+      "analisis": "Diseño: El título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes; parece un estudio o cohorte centrada en pacientes frágiles.\nPoblación: Pacientes frágiles (edad avanzada o comorbilidades relevantes) con cáncer de pulmón de células no pequeñas (CPCNP) localmente avanzado.\nIntervención: Durvalumab (anticuerpo monoclonal anti-PD-L1) sumado a radioterapia; el título no aclara si hubo quimioterapia concurrente ni cuál fue el comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del estudio no se puede evaluar el tamaño muestral, la definición de \"fragilidad\" utilizada ni la magnitud del beneficio o la toxicidad.\nMensaje: Si los resultados son favorables, respaldaría extender el esquema de consolidación con durvalumab tras radioterapia a pacientes frágiles, población habitualmente subrepresentada en los ensayos pivotales.\nNota: análisis sin acceso al abstract."
+    },
+    "5ee821b7511a": {
+      "resumen": "The ASCO Post reporta que en cáncer de próstata metastásico resistente a la castración con alteraciones en genes de reparación por recombinación homóloga (HRR), la combinación de talazoparib (un inhibidor de PARP) más enzalutamida (un antiandrógeno de nueva generación) mejoró la supervivencia libre de progresión. Interesa porque refuerza el rol de esta combinación dirigida a un subgrupo molecular específico.",
+      "destacado": true,
+      "analisis": "Diseño: El título no precisa la fase, el número de pacientes, de centros ni si hubo aleatorización o cegamiento; por el fármaco y el subgrupo HRR es compatible con datos del ensayo fase III TALAPRO-2, aunque no puede confirmarse sin el cuerpo del artículo.\nPoblación: Pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC) con alteraciones en genes de reparación por recombinación homóloga (HRR, homologous recombination repair).\nIntervención: Talazoparib (inhibidor de PARP) más enzalutamida (antiandrógeno de nueva generación); el título no especifica el comparador (probablemente enzalutamida sola o con placebo).\nResultados: Mejora en la supervivencia libre de progresión (SLP), sin razón de riesgo, intervalo de confianza ni valor de p disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad asociada ni si se trata de un análisis actualizado o de datos ya conocidos.\nMensaje: Refuerza el beneficio de combinar un inhibidor de PARP con un antiandrógeno de nueva generación en el subgrupo HRR-alterado, un criterio cada vez más usado para seleccionar tratamiento en mCRPC.\nNota: análisis sin acceso al abstract."
+    },
+    "4740a65ad7b6": {
+      "resumen": "The ASCO Post reporta que un esquema dirigido contra HER2 (receptor 2 del factor de crecimiento epidérmico humano) logró una alta tasa de respuesta patológica completa en cáncer de mama localmente avanzado. Interesa porque la respuesta patológica completa tras tratamiento neoadyuvante se asocia con mejor pronóstico a largo plazo en este subtipo tumoral.",
+      "destacado": false,
+      "analisis": "Diseño: El título no especifica la fase del estudio, el número de pacientes ni de centros, ni si hubo aleatorización o cegamiento; por mencionar un \"esquema\" y una tasa de respuesta patológica completa parece un ensayo de tratamiento neoadyuvante.\nPoblación: Pacientes con cáncer de mama localmente avanzado HER2-positivo (receptor 2 del factor de crecimiento epidérmico humano).\nIntervención: Un esquema dirigido contra HER2 administrado antes de la cirugía (neoadyuvante); el título no detalla los fármacos específicos ni el comparador.\nResultados: Alta tasa de respuesta patológica completa (pCR), sin cifra exacta ni comparación estadística disponible en el título.\nLimitaciones: Sin el abstract no se puede conocer el tamaño muestral, la definición exacta de pCR utilizada ni el seguimiento a largo plazo en supervivencia libre de enfermedad.\nMensaje: Si se confirma con los datos completos, sumaría evidencia a favor de este esquema neoadyuvante anti-HER2, aunque la respuesta patológica completa es un criterio subrogado y no garantiza por sí sola beneficio en supervivencia.\nNota: análisis sin acceso al abstract."
+    },
+    "8ba8b302ff80": {
+      "resumen": "OncLive informa que la Unión Europea aprobó el test PD-L1 IHC 22C3 pharmDx como diagnóstico complementario para pembrolizumab (un anticuerpo monoclonal dirigido contra PD-1, el receptor de muerte programada 1) en cáncer de ovario. Interesa porque habilita seleccionar con un biomarcador validado a las pacientes candidatas a esta inmunoterapia en Europa.",
+      "destacado": false
+    },
     "eecb10e56621": {
       "resumen": "OncLive presenta un video con datos actualizados de la cohorte de enfermedad localmente avanzada del estudio CK-301-101, que evalúa cosibelimab (un anticuerpo monoclonal dirigido contra PD-L1, ligando de muerte programada 1) en carcinoma escamoso cutáneo. Interesa por sumar seguimiento a más largo plazo de este inhibidor de punto de control inmunológico en un tumor de piel avanzado.",
       "destacado": false,
@@ -9,25 +28,6 @@
     "7b7453d39f8e": {
       "resumen": "Video de OncLive en el que se interpretan resultados de eficacia y durabilidad de un estudio oncológico, probablemente vinculado a la cohorte de CK-301-101 mencionada en la nota previa de la misma fuente. El título no especifica el fármaco ni el tumor tratado.",
       "destacado": false
-    },
-    "bd1f914e35f5": {
-      "resumen": "El Dr. Riess explica en OncLive las diferencias entre los inhibidores de KRAS tipo ON, OFF y ON/OFF (una proteína clave en la señalización de varios cánceres) en cáncer de pulmón. Es la opinión de un especialista sobre una clase de fármacos en desarrollo, no un estudio nuevo.",
-      "destacado": false
-    },
-    "e33cf6ea2202": {
-      "resumen": "The ASCO Post reporta que un esquema combinado prolongó la supervivencia libre de progresión (SLP) en cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H). Relevante porque este subgrupo tumoral responde particularmente bien a la inmunoterapia.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio clínico; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con deficiencia de reparación de errores de emparejamiento del ADN e inestabilidad de microsatélites alta (dMMR-MSI-H), subgrupo con alta carga mutacional y buena respuesta esperable a inmunoterapia.\nIntervención: Un esquema combinado, sin especificar en el título qué fármacos incluye ni cuál fue el comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo (no hay razón de riesgo, intervalo de confianza ni valor de p); solo se menciona la prolongación de la supervivencia libre de progresión (SLP).\nLimitaciones: Sin el cuerpo de la nota no se puede evaluar el diseño, el tamaño muestral ni la significancia estadística de los resultados.\nMensaje: Si se confirman con los datos completos, sumaría una opción combinada para un subgrupo (dMMR-MSI-H) que ya es candidato preferencial a inmunoterapia; conviene leer el estudio original antes de cambiar conducta.\nNota: análisis sin acceso al abstract."
-    },
-    "fe04b170d055": {
-      "resumen": "Un estudio encontró que el síndrome cardiovascular-renal-metabólico (CKM, por su sigla en inglés) se asocia con mayor riesgo de cáncer, en forma escalonada según el estadio del síndrome. Interesa porque cruza dos epidemias -la cardiometabólica y la oncológica- que cada vez se estudian más juntas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional, probablemente de cohorte, reportado por The ASCO Post; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Personas clasificadas según los estadios del síndrome cardiovascular-renal-metabólico (CKM), un constructo que combina obesidad, enfermedad renal, diabetes y enfermedad cardiovascular.\nIntervención: No aplica; es un estudio observacional de asociación, no de tratamiento.\nResultados: El título indica una asociación entre el estadio de CKM y el riesgo de cáncer \"específica por estadio\", pero sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en el titular.\nLimitaciones: Al ser observacional no permite establecer causalidad; sin el cuerpo del artículo no se puede juzgar el ajuste por factores de confusión ni el tamaño del efecto.\nMensaje: Refuerza la idea de vigilar el riesgo oncológico en pacientes con síndrome cardiometabólico avanzado, aunque conviene leer el estudio completo antes de sacar conclusiones prácticas.\nNota: análisis sin acceso al abstract."
-    },
-    "c91eeb7bdc77": {
-      "resumen": "Ensayo fase I de una terapia con células CAR-T (células T con receptor de antígeno quimérico) alogénicas -de donante, no del propio paciente- dirigidas contra CD70 en carcinoma de células renales avanzado. Es un estudio temprano de seguridad y factibilidad en un tumor donde la inmunoterapia celular todavía es experimental.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico fase I, habitualmente abierto y de escalada de dosis; el título no especifica número de pacientes, centros ni aleatorización, algo esperable en esta fase temprana.\nPoblación: Pacientes con carcinoma de células renales avanzado; el título no detalla la línea de tratamiento previa.\nIntervención: Células CAR-T (receptor de antígeno quimérico) alogénicas dirigidas contra CD70, un antígeno expresado en el tumor.\nResultados: No informados en el título (sin cifras de tasa de respuesta, supervivencia ni toxicidad).\nLimitaciones: En fase I el objetivo primario es la seguridad y la dosis, no la eficacia; la muestra suele ser pequeña y el seguimiento corto.\nMensaje: Es un estudio exploratorio; si el perfil de seguridad es manejable podría habilitar fases posteriores, pero todavía está lejos de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "62bd53056d71": {
       "resumen": "Journal of Clinical Oncology publica la réplica de los autores a dos cartas sobre el estudio EC-CRT-002 de tislelizumab (un anticuerpo monoclonal anti-PD-1) combinado con quimiorradioterapia en carcinoma escamoso de esófago, referidas a la tolerancia al tratamiento, la duración del seguimiento y el estado de la vía NRF2. Interesa como parte del debate científico posterior a la publicación del estudio original.",
@@ -46,26 +46,47 @@
       "resumen": "Journal of Clinical Oncology publica un artículo de perspectiva sobre el uso de brazos de control externos prospectivos para acelerar el desarrollo de fármacos oncológicos. Interesa por el debate metodológico sobre alternativas al ensayo aleatorizado tradicional en oncología.",
       "destacado": false
     },
+    "2a0870741b58": {
+      "resumen": "Vogue repasa la colección primavera 2027 de la diseñadora Chika Kisada presentada en la Tokyo Fashion Week."
+    },
     "a3d35e0a0ad9": {
       "resumen": "La marca danesa Mfpen mostró su colección primavera 2027 en la Copenhagen Fashion Week."
     },
-    "30018ac67fbb": {
-      "resumen": "Revista CLARA repasa las bailarinas de estilo japonés de Zara que se perfilan como tendencia para el otoño 2026, por su look elegante, cómodo y minimalista."
+    "74684f3f2c3a": {
+      "resumen": "Repaso de la colección primavera 2027 de Baum und Pferdgarten, presentada en la Copenhagen Fashion Week."
     },
-    "8b42e6f08c04": {
-      "resumen": "ELLE explora cómo visten las mujeres más estilosas de Dinamarca en verano, a partir de un recorrido por la Copenhagen Fashion Week."
+    "b63e3dfaf560": {
+      "resumen": "Infobae repasa cómo los abrigos de líneas arquitectónicas y las siluetas deconstruidas marcaron el rumbo de la moda en la Semana de la Moda de Copenhague."
     },
-    "9e4e7ed86d12": {
-      "resumen": "FashionUnited anticipa las tendencias que dominarán las vidrieras en la temporada otoño/invierno 2026."
+    "1d3e81b12a59": {
+      "resumen": "Revista Para Ti repasa las tendencias que dejó la Semana de la Moda de Copenhague de cara a la primavera-verano 2027."
     },
-    "e2828264c183": {
-      "resumen": "revistagente repasa la tendencia de moda masculina que adoptaron futbolistas de la Selección argentina, como Enzo Fernández, Nicolás Tagliafico y Giuliano Simeone, durante el verano europeo."
+    "6e1666675954": {
+      "resumen": "Neo2 Magazine presenta los looks de otoño-invierno que ya se pueden encontrar en El Corte Inglés."
+    },
+    "1970bbb5ca25": {
+      "resumen": "Instyle repasa las zapatillas Skechers color tiramisú, el tono tendencia del otoño y una de las favoritas entre las mujeres de más de 50 años."
+    },
+    "568966ffa555": {
+      "resumen": "Vogue México publica el horóscopo del día 6 de agosto de 2026."
+    },
+    "a7eb7ecb0985": {
+      "resumen": "Vogue España presenta en seis claves la nueva beca que lanzó junto al Istituto Marangoni de Londres."
+    },
+    "f6bdbc06ff7b": {
+      "resumen": "El Destape explica cómo los jubilados pueden acceder gratis a dos musicales en los teatros de la Ciudad de Buenos Aires."
     },
     "186f2c785ce3": {
       "resumen": "El aclamado concierto \"Solo Piano\" del compositor Ludovico Einaudi llega al Teatro Colón de Buenos Aires."
     },
+    "3aaae983e97b": {
+      "resumen": "El pianista español Raúl Canosa se presentará con un repertorio de música española en el Teatro Colón de Buenos Aires."
+    },
     "5be48374c095": {
       "resumen": "Un repaso por los 90 años del Teatro Ópera, el emblemático cine-teatro que transformó la avenida Corrientes."
+    },
+    "e3fdd8f38ce7": {
+      "resumen": "Una agenda de actividades y eventos de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
     },
     "c34ebbf24ed6": {
       "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
@@ -81,30 +102,6 @@
     },
     "bef5e7b7bb95": {
       "resumen": "Página|12 repasa la agenda cultural de la provincia de Buenos Aires."
-    },
-    "74684f3f2c3a": {
-      "resumen": "Repaso de la colección primavera 2027 de Baum und Pferdgarten, presentada en la Copenhagen Fashion Week."
-    },
-    "283fe1c393c6": {
-      "resumen": "La colección primavera 2027 de Henrik Vibskov, vista en la pasarela de la Copenhagen Fashion Week."
-    },
-    "b95c0d745b0a": {
-      "resumen": "La firma danesa The Garment mostró su colección primavera 2027 en la Copenhagen Fashion Week."
-    },
-    "04fe59643558": {
-      "resumen": "Penélope Cruz combinó jeans de corte barrel con sandalias planas para un look cómodo de cara al verano 2026."
-    },
-    "5a121ba51c28": {
-      "resumen": "Doce ideas de uñas cortas para agosto 2026, entre diseños minimalistas, con brillo y nail art."
-    },
-    "3aaae983e97b": {
-      "resumen": "El pianista español Raúl Canosa se presentará con un repertorio de música española en el Teatro Colón de Buenos Aires."
-    },
-    "e3fdd8f38ce7": {
-      "resumen": "Una agenda de actividades y eventos de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
-    },
-    "487bbabd5455": {
-      "resumen": "Una selección de cinco obras de teatro recomendadas para ver en Buenos Aires durante agosto."
     }
   }
 }
