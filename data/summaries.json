@@ -1,44 +1,31 @@
 {
-  "generated_at": "2026-08-07T10:20:00Z",
+  "generated_at": "2026-08-07T22:12:00Z",
   "summaries": {
-    "6a41ab7661c8": {
-      "resumen": "The ASCO Post presenta datos sobre durvalumab (un anticuerpo monoclonal dirigido contra PD-L1, ligando de muerte programada 1) combinado con radioterapia en pacientes frágiles con cáncer de pulmón de células no pequeñas (CPCNP) localmente avanzado. Interesa porque extiende a una población más vulnerable el esquema de consolidación inmunoterápica tras quimiorradioterapia, donde la evidencia en pacientes frágiles todavía es limitada.",
-      "destacado": false,
-      "analisis": "Diseño: El título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes; parece un estudio o cohorte centrada en pacientes frágiles.\nPoblación: Pacientes frágiles (edad avanzada o comorbilidades relevantes) con cáncer de pulmón de células no pequeñas (CPCNP) localmente avanzado.\nIntervención: Durvalumab (anticuerpo monoclonal anti-PD-L1) sumado a radioterapia; el título no aclara si hubo quimioterapia concurrente ni cuál fue el comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del estudio no se puede evaluar el tamaño muestral, la definición de \"fragilidad\" utilizada ni la magnitud del beneficio o la toxicidad.\nMensaje: Si los resultados son favorables, respaldaría extender el esquema de consolidación con durvalumab tras radioterapia a pacientes frágiles, población habitualmente subrepresentada en los ensayos pivotales.\nNota: análisis sin acceso al abstract."
-    },
-    "e3fdd8f38ce7": {
-      "resumen": "Una agenda de actividades y eventos de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
-    },
-    "c34ebbf24ed6": {
-      "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
-    },
-    "d7ec68cf6be5": {
-      "resumen": "Diario de viajes y turismo destaca a Buenos Aires como la capital gastronómica de Iberoamérica."
-    },
-    "5a4be62a7f4d": {
-      "resumen": "Perfil informa sobre el lanzamiento del concurso Otra vuelta, Buenos Aires, pensado para impulsar nuevos circuitos turísticos en la ciudad."
-    },
-    "852238ace312": {
-      "resumen": "OncLive presenta un segmento de entrevista sobre cómo se está adoptando en la práctica real el uso de esquemas de combinación en primera línea y su tolerabilidad. Sirve para ver cómo la evidencia de los ensayos clínicos se traduce a la clínica cotidiana.",
+    "523236c08bd0": {
+      "resumen": "OncLive repasa cómo interpretar el testeo de anticuerpos contra los canales de calcio voltaje-dependientes (VGCC) en cáncer de pulmón de células pequeñas (CPCP), incluyendo el abordaje del paciente seronegativo. Es útil como guía práctica de laboratorio para un cuadro paraneoplásico (síndrome miasténico de Lambert-Eaton) asociado a este tumor.",
       "destacado": false
     },
-    "9d702b13efaa": {
-      "resumen": "Cierre de una entrevista de OncLive con reflexiones de un especialista sobre hacia dónde va el tratamiento oncológico. Es más una mirada de contexto que un dato nuevo, pero permite tomarle el pulso a las tendencias del campo.",
+    "92c97b6e2266": {
+      "resumen": "OncLive entrevista al Dr. Thompson sobre el uso de inhibidores de la 5-alfa reductasa (5-ARI) durante la vigilancia activa en cáncer de próstata de bajo riesgo. Aporta la mirada clínica sobre una estrategia para monitorear tumores sin tratamiento inmediato.",
       "destacado": false
     },
-    "bab3c979ba6c": {
-      "resumen": "Comentario del oncólogo Adam Brufsky sobre la aprobación por la Administración de Alimentos y Medicamentos de Estados Unidos (FDA) de gedatolisib combinado con fulvestrant, con o sin palbociclib, para cáncer de mama sin mutación en PIK3CA (wild-type). Suma una nueva opción dirigida en un subgrupo molecular específico de cáncer de mama.",
+    "8abfe3ffc1d1": {
+      "resumen": "OncLive entrevista a la Dra. Bazhenova sobre cómo posicionar de forma óptima los anticuerpos conjugados a fármacos (ADC, por sus siglas en inglés) dentro del algoritmo de tratamiento del cáncer de pulmón. Sirve para entender el lugar de esta clase terapéutica en la secuencia de líneas.",
       "destacado": false
     },
-    "d05006a9b329": {
-      "resumen": "The ASCO Post reporta nuevos datos que comparan dos duraciones de ciclo (14 versus 28 días) de venetoclax combinado con azacitidina en leucemia mieloide aguda (LMA). Interesa porque busca definir si acortar el esquema mantiene la eficacia con menos toxicidad.",
-      "destacado": false,
-      "analisis": "Diseño: El título no especifica si se trata de un ensayo aleatorizado, un análisis retrospectivo o una cohorte, ni la cantidad de centros o pacientes involucrados.\nPoblación: Pacientes con leucemia mieloide aguda (LMA) tratados con el esquema venetoclax/azacitidina; el título no precisa si son de diagnóstico reciente o recaídos/refractarios.\nIntervención: Comparación de dos duraciones del ciclo de venetoclax (14 días versus el esquema estándar de 28 días) asociado a azacitidina.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar si el diseño fue aleatorizado, el tamaño muestral ni si el análisis fue prospectivo o retrospectivo.\nMensaje: Si el esquema acortado muestra eficacia comparable, podría simplificar el tratamiento y reducir la toxicidad hematológica sin resignar respuesta, algo relevante para la práctica en LMA.\nNota: análisis sin acceso al abstract."
-    },
-    "1b50c698b0cb": {
-      "resumen": "The ASCO Post presenta datos sobre la presencia de la bacteria Fusobacterium en el tejido tumoral como posible marcador para predecir riesgo de recaída y beneficio de la quimioterapia adyuvante (posterior a la cirugía) en cáncer colorrectal. Suma al debate sobre el rol del microbioma tumoral en la toma de decisiones terapéuticas.",
+    "b0b83eb90fe9": {
+      "resumen": "The ASCO Post reporta que agregar durvalumab (anticuerpo monoclonal anti-PD-L1) a la instilación de BCG (bacilo de Calmette-Guérin) mejora los resultados en cáncer de vejiga no músculo-invasivo de alto riesgo. Es relevante porque podría sumar inmunoterapia al tratamiento estándar intravesical en un subgrupo con alto riesgo de recaída.",
       "destacado": true,
-      "analisis": "Diseño: El título no precisa si es un estudio prospectivo, una cohorte retrospectiva o un análisis secundario de un ensayo previo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer colorrectal operado, en quienes se evaluó la presencia de Fusobacterium (bacteria asociada al microbioma tumoral) en la muestra quirúrgica.\nIntervención: No es una intervención terapéutica nueva sino un biomarcador (positividad para Fusobacterium) analizado en relación con el uso de quimioterapia adyuvante.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el método de detección de la bacteria ni si el hallazgo fue validado en una cohorte independiente.\nMensaje: Si se confirma, podría sumar un biomarcador para identificar qué pacientes con cáncer colorrectal se benefician más de la quimioterapia adyuvante, aunque todavía no está listo para cambiar la práctica sin validación adicional.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: El título no precisa la fase del ensayo, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo (superficial) de alto riesgo, candidatos a tratamiento intravesical.\nIntervención: Agregado de durvalumab (anticuerpo monoclonal anti-PD-L1) a la instilación intravesical de BCG (bacilo de Calmette-Guérin), comparado presumiblemente con BCG solo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el criterio de valoración principal (supervivencia libre de recurrencia o de progresión) ni el perfil de toxicidad de sumar inmunoterapia a la BCG.\nMensaje: Si se confirma el beneficio, podría posicionar a la inmunoterapia como complemento del estándar intravesical en un grupo con alto riesgo de recaída y progresión, aunque se necesitan los datos completos antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "71f65bfd574c": {
+      "resumen": "The ASCO Post presenta datos sobre los niveles de hormona antimülleriana (AMH, marcador de reserva ovárica) como posible predictor del beneficio de la quimioterapia adyuvante en mujeres premenopáusicas con cáncer de mama. Interesa porque podría ayudar a seleccionar mejor a quiénes indicar quimioterapia además de la terapia hormonal.",
+      "destacado": false,
+      "analisis": "Diseño: El título no especifica si se trata de un análisis prospectivo, retrospectivo o un subestudio de un ensayo mayor, ni el número de centros o pacientes.\nPoblación: Mujeres premenopáusicas con cáncer de mama en las que se evaluó el nivel de hormona antimülleriana (AMH, marcador de reserva ovárica) como factor asociado al beneficio de la quimioterapia adyuvante.\nIntervención: No es una intervención nueva sino el uso del nivel de AMH como biomarcador para estratificar el beneficio de la quimioterapia adyuvante, presumiblemente sumada a terapia endocrina.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el método de medición de la AMH ni si el hallazgo fue validado de forma independiente.\nMensaje: Si se confirma, la AMH podría sumarse como herramienta para individualizar la indicación de quimioterapia en mujeres premenopáusicas con cáncer de mama, evitando sobretratamiento o subtratamiento según la reserva ovárica.\nNota: análisis sin acceso al abstract."
+    },
+    "b94fbf8205b9": {
+      "resumen": "The ASCO Post cubre un nuevo informe de situación de la Organización Mundial de la Salud (OMS) sobre cáncer, que llama a la acción global. Da contexto epidemiológico y de políticas públicas, sin datos de un estudio clínico puntual.",
+      "destacado": false
     },
     "dafddd2713d1": {
       "resumen": "Actualización de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento sistémico del cáncer de próstata metastásico resistente a la castración. Sirve para tener al día las recomendaciones de manejo, ya que estas guías se revisan de forma continua a medida que aparece nueva evidencia.",
@@ -63,47 +50,53 @@
     "a9cec6cf9f0c": {
       "resumen": "Vogue cubre el desfile primavera 2027 de Collina Strada en la Semana de la Moda de Copenhague."
     },
-    "15baaa7cadac": {
-      "resumen": "Vogue muestra la nueva colección primavera 2027 del diseñador Nicklas Skovgaard en Copenhague."
+    "aaabf33d878a": {
+      "resumen": "Revista Para Ti repasa las diez tendencias de calle vistas en la Semana de la Moda de Copenhague que anticipan cómo se vestirá en la próxima primavera."
     },
-    "4f262f7c2943": {
-      "resumen": "Vogue presenta la colección primavera 2027 de la marca japonesa Masu, mostrada en la Semana de la Moda de Tokio."
+    "f8688d458982": {
+      "resumen": "Cosmopolitan cuenta cómo Mango relanza el polo a rayas de estilo clásico que se usaba en los años 2000 y hoy vuelve a ser tendencia."
     },
-    "73f83c594c2c": {
-      "resumen": "Un repaso gráfico de las tendencias vintage que volvieron a imponerse en la moda de 2026."
+    "1b69e92306c7": {
+      "resumen": "InStyle repasa en video las tendencias de otoño que marcaron las pasarelas."
     },
-    "dd082e65d1a1": {
-      "resumen": "Seis estilos de anteojos de sol que se perfilan como tendencia para los próximos meses."
+    "7cac3d7cc384": {
+      "resumen": "El Trece TV señala cuál es el calzado que se impone como tendencia para el cierre del invierno, por delante de las botas texanas y de caña recta."
     },
-    "0150fc56b487": {
-      "resumen": "Cinco tendencias que, según lo visto en la Semana de la Moda de Copenhague, se usarán dentro de un año."
+    "07f140448225": {
+      "resumen": "Vogue México selecciona seis blusas gráficas de los años 2000 que vuelven para combinar con jeans, minifaldas y pantalones este verano 2026."
     },
-    "c9a52e49496c": {
-      "resumen": "El futbolista Julián Álvarez cambió de look y sumó el 'bigote suave' (soft mustache), la tendencia que se impone entre los hombres."
-    },
-    "b3e88243b781": {
-      "resumen": "Una probada de la nueva secadora de pelo Supersonic Travel de Dyson, la versión compacta del modelo original de la marca."
-    },
-    "fbcec9c119bc": {
-      "resumen": "Vogue Leaders reunió en Colombia a nuevas figuras de la moda y la belleza, en un evento organizado junto a la marca SkinCeuticals."
+    "d94387c2b6ff": {
+      "resumen": "Vogue México destaca a los lentes de sol estilo años 90 como el accesorio que renueva cualquier look, de día o de noche, este verano 2026."
     },
     "b985d41fa183": {
       "resumen": "Una selección de planes para hacer este fin de semana en la Ciudad de Buenos Aires."
     },
-    "48745f44fbc3": {
-      "resumen": "La agenda de arte y cultura porteña para la semana del 7 al 14 de agosto."
+    "c34ebbf24ed6": {
+      "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
     },
-    "71e5e887d258": {
-      "resumen": "La compañía de danza Árbol vuelve al Teatro Ópera con su espectáculo Atemporal."
+    "d7ec68cf6be5": {
+      "resumen": "Diario de viajes y turismo destaca a Buenos Aires como la capital gastronómica de Iberoamérica."
     },
-    "9c4626057811": {
-      "resumen": "Erik Ferreyra presenta Dreams on Stage, un espectáculo que combina acrobacia y teatro."
+    "3d6044a508c7": {
+      "resumen": "El espectáculo Vox Popurri se despide de la calle Corrientes con una función única en el Teatro Picadilly."
     },
-    "e5ebdabb217c": {
-      "resumen": "La Fundación YPF festejó su 30° aniversario en el Teatro Colón con un encuentro de 250 becarios de sus programas."
+    "d59d5cfa8362": {
+      "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
     },
-    "4811d8f2b904": {
-      "resumen": "Planes gratuitos y cerca de casa para hacer con los chicos por el Día del Niño, durante el fin de semana largo de agosto."
+    "9c58dfe6f8b8": {
+      "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
+    },
+    "f1e61c515afb": {
+      "resumen": "Un clásico del teatro de San Juan vuelve a escena después de su paso exitoso por Buenos Aires."
+    },
+    "a86872bc8e3c": {
+      "resumen": "Alicia en el país de las maravillas llega al Teatro Buenos Aires en una versión musical."
+    },
+    "b8ab4189d93d": {
+      "resumen": "Más de 60 planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
+    },
+    "1237f41db531": {
+      "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
     }
   }
 }
