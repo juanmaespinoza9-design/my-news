@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-08-07T11:12:33.527297+00:00",
+ "generated_at": "2026-08-07T13:43:57.422302+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Dostarlimab Monotherapy Elicits Responses in First-Line PD-L1-Positive HNSCC",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmRUR1pWR0tBQ25jNGVTSG9MN1NCY01xN1VQYmptU3llUmpOTlFSeG9MT2lGaFdVSHJzdW84VEdUeHRQMFBUTHBEUWRPM1h3ZUY1anVwcGFOY2V4WWI5Vk43eWNNbHlvZ2RCcmt3NGlzUm1Xa3hBWTliTkJDYnNWRTVJdW1PemVjNTF5SDFxNG1LRzdHOG5IQ1p1Y0xiTUdDQnpRS2gzMS0?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-07T12:09:45+00:00",
+     "id": "6ac4b3d457de"
+    },
+    {
+     "title": "The Mechanism of Action of Evorpacept in Breast Cancer",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkplbGFZeE5iMjVEalhvNmhYOG93QUxFclhjbkR1REI1aUpvc1YxVW9NVmE1cUFLQ05vMmxSRFU0dmd4QUI1a29vaXUwcDJPQmlIYnJjbWM5elExcjdkbzdrQzZhYk9rQXJhRkZsSlI2VUsxQUpEMDZBWFNEdVZCUC0wZWFSLW9HRHp4ekRB?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-07T11:00:32+00:00",
+     "id": "c221980da322"
+    },
     {
      "title": "Community Adoption of Frontline Combination Regimens and Tolerability",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFpROEF4UTFGbHdzdEE2UzM3YjA1SWpYSkxGX2U3bExQVDFFM0JaUTk3OU9QU3FWekMtVEp5QXlDdFhrVlpNQ1JZTGNlb2NMeXpIMWlsbUV1V29pVHVsbnd6T01wR041MXRyWDlyMm4zSXJjelRxaFJGUThLcF9LZ0M4d3g3SmVKYTZEOGdYRi1fVGVuSElhUGJLOFNPRWs?oc=5",
@@ -14,37 +28,23 @@
      "id": "852238ace312"
     },
     {
-     "title": "Closing Thoughts on the Future Landscape",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01NVFZcjd0SXIyM2dXY2UyT0hXOHZDSTNRSElBZU5MaGlSQlA1LV9hZUFXUnZsUnV1Y0ZsbjBpZWxkTlB2cTBkWXNYbVZ5UV9Id2tBc0tEVkI4WTN6UTZBVUZuZjItVk5OQ0psNnhvRXF1R3lqbTlhMA?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-07T03:26:13+00:00",
-     "id": "9d702b13efaa"
-    },
-    {
-     "title": "Dr Brufsky on the FDA Approval of Gedatolisib Plus Fulvestrant ± Palbociclib in PIK3CA Wild-Type Breast Cancer",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWNTSnNQOUp0TEFHemJlN2J3M3NHWG5PQTJuX3BRT3JuZUFuTlVjWjhUVVZXRFd2RGFuUEJOcXNTVnpjMkxIenRXTGNwWVd0b1k5TFkzVl9yR1h2NVRLMzFmRG45WE5hWDFXWmR3dGhxVEk2aHVtY0hVWjVRT2c3UzBoOE5GMDNGVDk2dHIwcGhVcUdEMThPY3JsVXhsZzRIUWZnTzl4T3ZZQTVxd3BHSWZTREkxS3FTSzdmTGxvcF9XZUxKbnpQLVVVelVhUk1FRnJv?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-07T03:24:28+00:00",
-     "id": "bab3c979ba6c"
-    },
-    {
      "title": "New Data on 14- vs 28-Day Venetoclax/Azacitidine in AML",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFlabnpWOWhYVzNveVczcnl0aHRGU1UxMnZ3SzVzdm1SWUlBTDBiZ0VKSVB6aXZUZXJBMTY1aHlxV2pTRGRUZGNxSWJNeWd4RWRITUZZMlpkNENOTDQ5Y29qSjRILTNQb3FRLWtjbDRDb3VTc2JKMXB0YnJkcGRmWm1xLTlzNlNlUmxIWFR4dGRFSXRLX053?oc=5",
-     "source": "ascopost",
+     "source": "The ASCO Post",
      "published": "2026-08-06T15:20:44+00:00",
      "id": "d05006a9b329"
     },
     {
      "title": "Fusobacterium Positivity May Predict Relapse Risk, Benefit From Adjuvant Chemotherapy in Colorectal Cancer",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUlgxM1AySEdRZk8xUUY0N0szRTdma253OGdPdjVNQVZ2VEJqbU1Td1lRXzk0ZE5FdzhnSkVzTkFPMHg2OWZEN2hfSEhfdnp0Z01OeWhBOWlPaVZ5WnQ0RUJ2Y2hOS05rT25DdmdRVmtmYjJVVjhRNU1zMmhuaUtzSHlycTViR2M4Und0VWYwQmNuYnFfZi1yNnZIaWRfeHdmYjdlZmFPSDNTNWx4bC1VQjNhakl3ai1uVDdldjZnTTIzdGhmMzd6eXF4VDdyRnBmN0pycXhkdGgyelNQWm5EbDlicGdUaXlz?oc=5",
-     "source": "ascopost",
+     "source": "The ASCO Post",
      "published": "2026-08-06T14:55:44+00:00",
      "id": "1b50c698b0cb"
     },
     {
      "title": "Durvalumab Plus Radiation Therapy in Frail Patients With Locally Advanced NSCLC",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlpYWXRUQ185TW1tSDYxMUVmRFFWV3Rpd3QwaEQ1RHZmcWJva2dIYmJ5QlRzRlBVZzExbzB1UWp4ZkRCYURGN1VtMnVQRVI2YmhrdElpYndBc1NoRS1ORFZnTUw1ODVFcktaWWlqUWFQN0lxRlFQeElKd0U2V19FaF84dGx6eGdRZlhQRXJxNU9oX1ZxWjUyaWdXUW94X2piN1c5RG9ORXhORmk5NlBzVTJYZG91aGtoRFE?oc=5",
-     "source": "ascopost",
+     "source": "The ASCO Post",
      "published": "2026-08-06T14:15:43+00:00",
      "id": "6a41ab7661c8"
     },
@@ -91,29 +91,43 @@
      "title": "Caro Editions Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
      "source": "Vogue",
-     "published": "2026-08-07T11:09:42+00:00",
+     "published": "2026-08-07T13:41:08+00:00",
      "id": "e8ce7f247050"
     },
     {
      "title": "Collina Strada Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
      "source": "Vogue",
-     "published": "2026-08-07T11:09:42+00:00",
+     "published": "2026-08-07T13:41:08+00:00",
      "id": "a9cec6cf9f0c"
     },
     {
      "title": "Nicklas Skovgaard Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
      "source": "Vogue",
-     "published": "2026-08-07T11:09:42+00:00",
+     "published": "2026-08-07T13:41:08+00:00",
      "id": "15baaa7cadac"
     },
     {
      "title": "Masu Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
      "source": "Vogue",
-     "published": "2026-08-07T11:09:42+00:00",
+     "published": "2026-08-07T13:41:08+00:00",
      "id": "4f262f7c2943"
+    },
+    {
+     "title": "Cari Lapique tiene el caftán más bonito y estiloso del verano y con bordados a los que también se apuntan su hermana Myriam e Isabelle Junot",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXNnTUoyV1lJZ0w1cDAzZlAxbmZ2Q2t0eUU0Q01ZZUxFNnFsT1JCUDlaV2JYZjE0M290RXhGSXBSSEpRUXNBX2U2dHp5R2dDbjJlRnlTUTRROVZ5X1BlTjZsVUFPQ0RGSkVwa284enpJZW1oMXRYakVIdmVCYWRvRnlsRnjSAYQBQVVfeXFMTVVBQkNrVlBpSy12RHlKemFvYXk4WkNiZTYzdzZyRUhYRjhWV2ZBTHJYcy1YeUQ0bml5a3hzRmQ2aWRJYnBhMHUxOXhoSjZsWmtXazBGOXNzUXF0a3NKWlNkUXJsN1BUMVB1X0U5UFk1TnJadVVwR1BhWENHb3l4X09PYTZ2?oc=5",
+     "source": "Telva",
+     "published": "2026-08-07T13:01:29+00:00",
+     "id": "965330ccd211"
+    },
+    {
+     "title": "Generación Z 2026: la moda vende personajes, no ropa",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUl2RXpxSk5aMjM2cTkzSnFNUG5wckgwR3JJSjcyZEtlRVByNXljR1YyeTBxX1RMVW1wU0pPTjVHQldDODgweUlZRTlhMEtIc01IY0Fmb1N6UF80dnpDMV81cmRzTTlDcE9oRnFPTGdncUVzTU5qazZLZnlxSXFxX1pGbWR1d2dG?oc=5",
+     "source": "El Ecosistema Startup",
+     "published": "2026-08-07T11:06:35+00:00",
+     "id": "05172f109658"
     },
     {
      "title": "Horóscopo de hoy: 7 de agosto de 2026",
@@ -125,7 +139,7 @@
     {
      "title": "Victoria Federica, en sus días de playa, presume de los bikinis que están marcando tendencia este verano y conecta con Pauline Ducruet",
      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZDhxZ29tN2pfdUFzdkZXNlJCdGxHSEdVUnJWTXhHZVFJX3RQcjl6alc0cmZ1dlZfY3pEaUZrNWtyUG44c1E4dzR2VWVGTjUzZm83MmVvcExVdng4YUtuUHNMbmdtX2FERDI2UE1aYTJWTkh0LTdSODZSTFY1MEdRZmhVd1FWSWJUdVRoeVZZc2MyNy1jWkk3SlM2ajNIVTJIVTA0VWppc0o2c1pZeW1BcjNFMEtOa1JobTRKMjJ6eTVZTTJQUjdzdlpWSEV5T09QdktDVGdLajg5aEFMUnpSVjlac0ZRdUxJVXhubm5tT3pXZ0FVVzZPcGhZdEpLYnl2Y1oxWW1HYWExOUE?oc=5",
-     "source": "hola",
+     "source": "HOLA",
      "published": "2026-08-07T10:47:53+00:00",
      "id": "4a2ca28995fb"
     },
@@ -137,25 +151,11 @@
      "id": "810918f3110b"
     },
     {
-     "title": "Carolina de Mónaco llevó en 1986 el pantalón bombacho que ahora es tendencia en Zara y no nos quitamos en verano",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTFIzUXRwV3FCdnlkb1R1WFB5aUExOXlUeEs1MVhBZkJTV1lkRGJNYXhIckExTTlKbWk1Rnp4SzFQU1BHWUs4VGd0SENVYVYtLWlTNTN0elNJSFVaT3BRak44djB3ZlM0YnBfRy1kZWk5eng0aTdfUkc5OXFjM3BPT25KTTd4WnNZc3k5NUlWOU1obmRUNHowMm14Y0h5WmdwU1FxTUg0bmtRMVR4aUE?oc=5",
-     "source": "ELLE",
-     "published": "2026-08-07T08:23:45+00:00",
-     "id": "36516ed6a45d"
-    },
-    {
-     "title": "Gráfica del día: ¿Qué modas vintage han regresado en 2026?",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkhDU285T1R5RGE4ajJLSF82bndiZTJXZEJFX0IyWm8tUWxfNk42RmFGZm9UMFhfOTJVWHA1V0dZZzl6SmtiODh1VjZzWFdfcm8tTEZteEtXeE00SVNIM0hqYldEQjZkWC1wUDd0Q1d2c0RtYVdXeGZYR0lFdE5ZMFJYOE5mOU0?oc=5",
-     "source": "merca20",
-     "published": "2026-08-07T07:59:01+00:00",
-     "id": "73f83c594c2c"
-    },
-    {
-     "title": "Probé la nueva secadora Supersonic Travel de Dyson y comprobé que es más potente que la de un hotel",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnFERklLVmtjTVphU3pqRUR3SUlyZ1NvQmR4alBqN3h6TmRpb1dwNGZZajJTTjdkX21GRWtkS210R3ZmSjhYbC1PYkhYSDV5cklfYWxZMEh5d1pSNW1ScnRyMmR5VFNaSUJpYlJPVVMtWEhLd2VmRFZBZkZhOWZfT3pDUzlHdEJYMkZJ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-07T00:23:27+00:00",
-     "id": "b3e88243b781"
+     "title": "Ferran Torres, futbolista y héroe del mundial: “Sobre todo intento estar tranquilo, no meterme demasiada presión y no perder la cabeza”",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDQzcXYxNEppX3ZTVDFVTWhyS1M1bzI0UkxfVlRmVUhXa1JsNjgtLVpncVdGNlNCWmJmUGgxTVR2V0ZsWnJTb2JCQWZpZUNfSUJGZHVSYl9MR2dJU2hzaEpyRGl3Wmh2cEk3QmRPdVdlM0N1M21Mdmw0WkR1T05iRHU3U0hpN2N6VGgwcmRKaw?oc=5",
+     "source": "Vogue España",
+     "published": "2026-08-07T08:17:14+00:00",
+     "id": "69c20bb19340"
     }
    ]
   },
@@ -165,100 +165,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La ex Gran Hermano Denisse González continúa internada: el preocupante mensaje que escribió desde la clínica",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-ex-gran-hermano-denisse-gonzalez-continua-internada-el-preocupante-mensaje-que-escribio-desde-la-nid07082026/",
+     "title": "Juan Hansen, músico: “La primera vez que toqué música electrónica la gente respondía de manera más corporal y bailaba”",
+     "link": "https://www.lanacion.com.ar/que-sale/juan-hansen-musico-la-primera-vez-que-toque-musica-electronica-la-gente-respondia-de-manera-mas-nid06082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-07T09:58:51+00:00",
-     "copete": "La exparticipante del reality lleva más de una semana en un centro de salud; dio actualizaciones sobre su cuadro y admitió que los nuevos resultados no fueron los esperados",
-     "id": "c78fbc20dca8"
+     "published": "2026-08-07T13:38:46+00:00",
+     "copete": "El artista reconstruye su recorrido desde las bandas de punk y el jazz hasta un formato en vivo que combina electrónica propia, guitarra, teclados, voz y loops; el 28 de agosto lanzará Ultrasonido, su primer álbum",
+     "id": "60189dfbbbe1"
     },
     {
-     "title": "Brad Pitt sobre ser actor: “Es muy intenso, trabajamos 14 horas al día durante meses y luego podemos relajarnos un poco”",
-     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-sobre-ser-actor-es-muy-intenso-trabajamos-14-horas-al-dia-durante-meses-y-luego-podemos-nid06082026/",
+     "title": "El orgullo de Celeste Cid por el nuevo trabajo de su hijo André: “Ese ojo mágico y sensible”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/el-orgullo-de-celeste-cid-por-el-nuevo-trabajo-de-su-hijo-andre-ese-ojo-magico-y-sensible/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T13:02:17+00:00",
+     "copete": "La actriz expresó su admiración por el talento del joven de 21 años, quien dirigió el último videoclip de su padre, Emmanuel Horvilleur",
+     "id": "392e2ef5f27c"
+    },
+    {
+     "title": "Qué fue de la vida de Jane Badler, la villana más odiada y amada de los 80",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/que-fue-de-la-vida-de-jane-badler-la-villana-mas-amada-de-los-ochenta-nid07082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-07T09:51:20+00:00",
-     "copete": "El protagonista de éxitos como El club de la pelea y Había una vez en Hollywood rompió con el mito del glamour cinematográfico y reveló que la rutina detrás de escena implica jornadas extenuantes que superan la mitad del día",
-     "id": "f0fce08b451d"
+     "published": "2026-08-07T13:00:00+00:00",
+     "copete": "La actriz que interpretó a Diana, la malvada líder de los visitantes en V: Invasión extraterrestre, logró reinventarse, a pesar de haber sufrido el golpe más duro",
+     "id": "950acb35aa8d"
     },
     {
-     "title": "El romance menos pensado: Roberto García Moritán, ex de Pampita, habría comenzado una relación con Emily Ceco de Love Is Blind",
-     "link": "https://www.lanacion.com.ar/espectaculos/el-romance-menos-pensado-roberto-garcia-moritan-ex-de-pampita-habria-comenzado-una-relacion-con-nid06082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-07T09:43:30+00:00",
-     "copete": "Tras meses de bajo perfil, el exministro fue visto junto a la participante del reality, quien tomó notoriedad pública por su demanda contra su expareja, Santiago Martínez; otros rumores también rodean al empresario",
-     "id": "cbaead582e10"
+     "title": "Rosalía detuvo el tránsito luego de su último show en Buenos Aires para despedirse cara a cara de sus fans",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/rosalia-detuvo-el-transito-luego-de-su-ultimo-show-en-buenos-aires-para-despedirse-cara-a-cara-de-sus-fans/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T12:33:20+00:00",
+     "copete": "La cantante salió por el techo de su auto en plena avenida Juan B Justo para tener un último contacto con sus seguidores. Así, puso fin a una semana agitada en la que selló su reconciliación con el país",
+     "id": "e03dafcd6e33"
     },
     {
-     "title": "Engendro: con semejante título, quién podría objetar que lo es",
-     "link": "https://www.clarin.com/espectaculos/engendro-semejante-titulo-podria-objetar_0_1CXFiUPp5i.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-07T09:02:52+00:00",
-     "copete": "El filme con Rupert Grint (Ron en \"Harry Potter\") es del género \"body horror\". Un matrimonio se muda a una casona desvencijada en un bosque y el bebé que tiene comportamientos, en fin, para qué spoilear.",
-     "id": "6975a1addb21"
+     "title": "La boda íntima de Luz Cipriota y David Serrano en España: “Nuestro casamiento fue improvisado”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/la-boda-intima-de-luz-cipriota-y-david-serrano-en-espana-nuestro-casamiento-fue-improvisado/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T11:59:57+00:00",
+     "copete": "Radicada hace casi una década en Madrid, la actriz argentina formalizó su amor con el director, padre de sus tres hijos. Su emotiva carta y los looks del festejo",
+     "id": "8b789ca72e15"
     },
     {
-     "title": "La película sobre Franz Kafka es disruptiva, anticonvencional, pero todo riesgo conlleva sus peligros",
-     "link": "https://www.clarin.com/espectaculos/pelicula-franz-kafka-disruptiva-anticonvencional-riesgo-conlleva-peligros_0_9uEEsSH6qR.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-07T09:02:52+00:00",
-     "copete": "Dirigida por Agnieszka Holland (\"Europa Europa\") habla del personaje y de su legado. A veces la forma se come al contenido.",
-     "id": "89e0da42b14b"
-    },
-    {
-     "title": "Qué hacer en Buenos Aires este fin de semana, más de 60 planes para disfrutar del viernes 7 al domingo 9 de agosto, con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://www.clarin.com/espectaculos/hacer-buenos-aires-fin-semana-60-planes-disfrutar-viernes-7-domingo-9-agosto-recitales-teatro-cine-streaming-muestras-gratis_0_dHf588Bqxe.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-07T09:00:54+00:00",
-     "copete": "Desde teatros y estadios hasta el sillón de casa: planes para todos este finde en la ciudad. Este viernes, sábado y domingo hay una gran oferta de espectáculos. Para salir o ver desde el sillón.",
-     "id": "ab1925404ceb"
-    },
-    {
-     "title": "Trece años después, Natalia Oreiro y Adrián Suar vuelven a encontrarse para hablar del narcisismo: \"Como pareja duraríamos nada\"",
-     "link": "https://www.clarin.com/espectaculos/trece-anos-despues-natalia-oreiro-adrian-suar-vuelven-encontrarse-hablar-narcisismo-pareja-durariamos_0_CC8R70sXav.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-07T09:00:52+00:00",
-     "copete": "La dupla de la telenovela \" Solamente vos\" habla de su reencuentro en Yo, Narciso , que estrena el jueves. Revelan por qué creen que nunca habrían funcionado como pareja y recuerdan cómo nació la amistad que mantienen hasta hoy.",
-     "id": "c71ead0c135f"
-    },
-    {
-     "title": "Kaia Gerber, la imagen viva de Cindy Crawford: de su nueva serie con Ryan Murphy a su conexión con la Argentina",
-     "link": "https://www.lanacion.com.ar/espectaculos/series-de-tv/kaia-gerber-la-imagen-viva-de-cindy-crawford-de-su-nueva-serie-con-ryan-murphy-a-su-conexion-con-la-nid07082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-07T09:00:01+00:00",
-     "copete": "En diálogo con LA NACION, la modelo y actriz de 24 años dio detalles de su protagónico en Fragmentos, la producción basada en la novela de Bret Easton Ellis que Disney+ estrenó esta semana",
-     "id": "3fdff4fdc083"
-    },
-    {
-     "title": "La irónica reacción de Mario Pergolini por de la separación de Luck Ra y La Joaqui: “Está retriste el flaco”",
+     "title": "La irónica reacción de Mario Pergolini por la separación de Luck Ra y La Joaqui: “Está retriste el flaco”",
      "link": "https://www.infobae.com/teleshow/2026/08/07/la-ironica-reaccion-de-mario-pergolini-por-de-la-separacion-de-luck-ra-y-la-joaqui-esta-retriste-el-flaco/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-07T03:55:42+00:00",
+     "published": "2026-08-07T11:56:14+00:00",
      "copete": "En Otro Día Perdido, el conductor se burló con humor de la primera señal que dejó el cantante tras la ruptura",
      "id": "037aed8e292d"
     },
     {
-     "title": "Facundo Arana habló a corazón abierto de su reconciliación con María Susini: “Ella es naturalmente feliz”",
-     "link": "https://www.infobae.com/teleshow/2026/08/07/facundo-arana-hablo-a-corazon-de-su-reconciliacion-con-maria-susini-ella-es-naturalmente-feliz/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-07T03:53:55+00:00",
-     "copete": "En una charla con Luis Novaresio, el actor se abrió sobre su vínculo con la madre de sus hijos y describió con una frase intensa cómo vive esta etapa de reencuentro con la modelo",
-     "id": "52c0801014d0"
+     "title": "Lo más visto en Netflix Uruguay: las 10 películas más exitosas del momento, con “Elize: Sombras de una mujer” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-uruguay-las-10-peliculas-mas-exitosas-del-momento-con-elize-sombras-de-una-mujer-a-la-cabeza_0_3HNm9ZWaDt.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-07T11:41:15+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Uruguay. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "e3d050004d38"
     },
     {
-     "title": "Quién fue la elegida por Rosalía para confesar en su último show en Argentina: “Encontré una tanga que no era mía”",
-     "link": "https://www.infobae.com/teleshow/2026/08/07/quien-fue-la-elegida-por-rosalia-para-confesar-en-su-ultimo-show-en-argentina-encontre-una-tanga-que-no-era-mia/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-07T03:45:11+00:00",
-     "copete": "La escena ocurrió en la última noche de la española en Buenos Aires, cuando la figura de la música urbana argentina tuvo su momento siguiendo los pasos de Lali Espósito, La Joaqui y Ángela Torres",
-     "id": "f197f89f071b"
+     "title": "Lo más visto en Netflix Venezuela: las 10 películas más exitosas del momento, con “Elize: Sombras de una mujer” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-venezuela-las-10-peliculas-mas-exitosas-del-momento-con-elize-sombras-de-una-mujer-a-la-cabeza_0_hrKrduuY3u.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-07T11:41:15+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Venezuela. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "52408fc066f2"
     },
     {
-     "title": "Entre lágrimas, Juanicar abandonó la casa de Gran Hermano en medio de dudas sobre su salida: “Me voy con mi mamá”",
-     "link": "https://www.infobae.com/teleshow/2026/08/07/entre-lagrimas-juanicar-abandono-la-casa-de-gran-hermano-en-medio-de-dudas-sobre-su-salida-me-voy-con-mi-mama/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-07T02:59:25+00:00",
-     "copete": "El jugador recibió la información de la producción sobre la salud de su madre. Desbordado y en un clima de llanto y sorpresa de sus compañeros, decidió marcharse",
-     "id": "987b55f4e5a4"
+     "title": "Lo más visto en Netflix Perú: las 10 películas más exitosas del momento, con “Elize: Sombras de una mujer” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-peru-las-10-peliculas-mas-exitosas-del-momento-con-elize-sombras-de-una-mujer-a-la-cabeza_0_2huh237kTL.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-07T11:41:14+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Perú. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "c083828fca01"
+    },
+    {
+     "title": "Lo más visto en Netflix Estados Unidos: las 10 películas más exitosas del momento, con “72 horas” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-peliculas-mas-exitosas-del-momento-con-72-horas-a-la-cabeza_0_lS3kG1xgrX.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-07T11:41:14+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Estados Unidos. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "3a403040db3b"
+    },
+    {
+     "title": "Zulma Lobato apareció en situación de calle en la ciudad de Paraná y una foto generó preocupación",
+     "link": "https://www.lanacion.com.ar/espectaculos/zulma-lobato-aparecio-en-situacion-de-calle-en-la-ciudad-de-parana-nid06082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-07T11:28:37+00:00",
+     "copete": "La mediática fue encontrada durante la noche del miércoles en las inmediaciones del Hospital San Martín de Paraná, Entre Ríos",
+     "id": "26ccfa392a56"
+    },
+    {
+     "title": "Es hija de una estrella del cine, usó el arte para sanar las pérdidas más dolorosas y hoy sigue el legado familiar",
+     "link": "https://www.lanacion.com.ar/espectaculos/es-hija-de-una-estrella-del-cine-uso-el-arte-para-sanar-las-perdidas-mas-dolorosas-y-hoy-sigue-el-nid06082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-07T11:28:16+00:00",
+     "copete": "Ella Bleu Travolta debutó en la pantalla a los siete años y hoy, a sus 26, busca consolidarse en la industria con nombre propio y manteniendo el legado de sus padres, John Travolta y Kelly Preston",
+     "id": "061fa12d4bc7"
     }
    ]
   },
@@ -268,18 +268,32 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "“ALICIA” LLEGA AL TEATRO BUENOS AIRES EN UNA VERSIÓN MUSICAL",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1YzdmRtaE5rMU83TktOYnphZTN4Z0V3UHZrUnI2MjRhLXo4ZGhaZ0Y0eHZBYWdoYVI1YWI1d3dtTlJyU0syMHFVeEl3dDJNVEh6ODdiN2Q0bmp2NG9NbWVDZGdaX3RrNE5KMUpINW1Bd0ZhYnZEWjQ5Z01UY1ppLW9Xb2dyUEt4aGdwU1NhN2xUOFR6aEdIVXQ5RE40cThrcmZj?oc=5",
+     "source": "sergiolapegue",
+     "published": "2026-08-07T12:00:00+00:00",
+     "id": "a86872bc8e3c"
+    },
+    {
+     "title": "Qué hacer en Buenos Aires este fin de semana, más de 60 planes para disfrutar del viernes 7 al domingo 9 de agosto, con recitales, teatro, cine, streaming, muestras y gratis",
+     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNGp4Rm5tYW5Bb3VNbmM4QXZKZm9lbUtVTUlHNUV3Ql9ZcjAxRUdqZW83aXBFRlcxOURaRU5wYzBjTDAteGZoWVVKZU1BN1VtcG5LNS1nanc5R2VKYWlUOTB0TkVrQ1l2bHNqTGs4ZVpYV0VqYmlKSWhUMnNoRVJEbE5ycE94YjhWRVZmT0ZsZUVzMVNTNm9BR0ZhX0hKOHc2cGlLZFYzTXNKdHpwRlhtRWRYZnVNTE40MkwxT1dmREFpRWl3akROWkhtZzRkTjdEaEx6eUlTUmlrbEU2YjlFVDJST2VPOFpZTFdXVVRRXzBMRUN5b1hpN2Q3b1BKUU0tUmd5T0RvdmNBZ1EyaUdiakR6TVR4UXVTZWxieDk1R0lzQ0Z1SXdEWkxJTGdsTTJtOEJtV0VNTmQ?oc=5",
+     "source": "radio3caseros.com.ar",
+     "published": "2026-08-07T11:20:30+00:00",
+     "id": "b8ab4189d93d"
+    },
+    {
+     "title": "Un clásico del teatro sanjuanino vuelve a escena tras deslumbrar en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlZuWmZQWWhUZVFzQ3h1aXI0MlgtdFBRQW5zZGwyb2t5MkptUWlHTGk5Y0FndjBaLW41bWdBeEdLLTJkQmt2UkZqME4zbThmOXJhbUFQaTdjMGpiVzhQZlUwX0FMYnpORVVBR0EtQWtyS0RfSllmdmRXYWlDYzc3VlNFaU5qUlVZLWo3WDVrRGl4ekU3djNyNUxDdE91YzNMZVY4bGphOWlzZ3BsNHVlU0EwRlpyRl9NTW1aWUpWcTVTUQ?oc=5",
+     "source": "Diario de Cuyo",
+     "published": "2026-08-07T09:50:00+00:00",
+     "id": "ebca3d739088"
+    },
+    {
      "title": "Dyango amplió su gira por Argentina: todas las fechas",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFQ0REh3dTZiZDQ2d1ZxbzRGS0o0d3p5a0E2MzVVTTFZSFI2ZUEwemNndWdnZXFQUEo3VzBFSjFUYW9UOTBrRGoxZmZINkt5SFNhMkhiVjVqVjRFVUpXNnpxUlVZMnBTa3NTbVNCLS1MUTJVekhjSE96bk5FamlYQWp3?oc=5",
      "source": "Opinando San Nicolás",
      "published": "2026-08-07T09:27:13+00:00",
      "id": "72e77b7672be"
-    },
-    {
-     "title": "Qué hacer en Buenos Aires este fin de semana, más de 60 planes para disfrutar del viernes 7 al domingo 9 de agosto, con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN0VZWkFaS3JxR1B0QlZrU3VxaFBrSEhHSktsZkd1RHUwdHUxZFVGa1ppZGlfSG5LVlBweGljN1Ffak92VW9FM3JJbG9fSkdaZ2F5aGo5bUNnbW1ZUmtUTXhOZVg4R1dDZzJMVk8wWmJ3Z2lHM2UzdjczZmlzTzFqUDdfdGNuaVlPNndla2xfWnV4UnQweVAtNGFYcXdVTlFkZ3lET2NmMTlrbHctbzVVSlpaQk42N0RlUWt6QVBITUhUMU9HN2FWZ1p5VEp0MUU4YUVBVlB3Z09FX0loV19PUm5HdEFWWl8yV3hSeXJKUmE5TDBpcFFldWtpaldRblpNRTNYOHVIdkg4QdIBjwJBVV95cUxNbTl3RENOWllMSEIzUlZmdWdNQXRja01zZkh1WDlUcUhPSFRTZ2JNYVk4b19adGxWSkFYWHNCLTBhQ0Y4eXp0ZFdXS3MwS1FhSDgxdnpuV1BXMXZUVjRlVmVtRkQzUWpERjltamxBcEhvSXMzN3A4T1ZmZ2N2N0hjbVA3WGZ5VjFHR1huUTlkemIyaFJibHVfUWtSZktDWFpKY251ZWMwR25kTUVmeUpoQ2w3akM5MDlRZjM3bjhrdEZuNEVvS0pHTUlrOWtxQTdrRF9TSWlrSFZvcVVsT3FwakV2cDZmRDF4LUZrTGlJektDYTFKVG53M1BwUkEtcTVqQkV2UkUzYk0wbTRISkRr?oc=5",
-     "source": "Clarin",
-     "published": "2026-08-07T09:00:54+00:00",
-     "id": "ca0abd38d9d7"
     },
     {
      "title": "En Monserrat, uno de los restaurantes más antiguos de Buenos Aires: desde un puchero impactante hasta revuelto gramajo y vitel toné",
@@ -296,30 +310,9 @@
      "id": "b985d41fa183"
     },
     {
-     "title": "Guía de Arte y Cultura: semana del 7 al 14 de agosto de 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjMyRktNTzJZZHdLaUpCSC1GYy0xRlJfS0ZlZ081RTR0ME5tc180d2FNYWotQVV0ZUlOQ3owRVg5TnRBZDdfOXRwUHR2bEptUlNIQW1yc1EyRWxWV1JTR29kZGFZQnppRC1Sc1RDdGFGX1lRVThTWkhPMTByTVpPbnlla2p1T0dxRzk5X3NnS2FkWDdNZDlEVzFuS292aFZ5bWJtMWwwVzZlY3ZDOG1KNXpyTHB5QVNBemfSAdQBQVVfeXFMTUlBalJPTkR3czRfakk3dFRQZEhCV3lwMGV6N2F3OHRmMXg0OVZ2TS1PLXhZR054TkZBVXJ0bTJscUk5b1VSelJfSmZUZWplbzlqMUpnQVdsWTE4Rk1lNldDNjZ5VHNjbmhVRWJzeW1UZ2ppeDRLNTVBczZxS2ZKTTR0UjF3V1ZvTTNTd3FZUHQ0Ukt0WU8yUHhoV0RjZzZ6Y2tyTEVBZnpQbTJEUjliYzdlQVh6SE9SRlhpSVNzV2xYbm8zem1RTC1rX1p1alJ0aEJ6aGc?oc=5",
-     "source": "Infobae",
-     "published": "2026-08-07T03:37:15+00:00",
-     "id": "48745f44fbc3"
-    },
-    {
-     "title": "Árbol vuelve al Teatro Ópera para presentar Atemporal",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFAyaFFpRGRZem9IelZ3Z0wzMVFlOXFjRXpyYTlGMHl4aWpwUXZTUlhHaXdoc1llcDZJYnU2ZTd2N09FdGE2clpDa0Vzd3MtX19IWjRoM1l4UE9ha21MZ1c5dUxSdWN3N3dsTF9kY01hc1R2ZFg5cUpmc3hxU3FPSDlSSTJMRTRidUdFa0l5eGU5ZVk?oc=5",
-     "source": "nosonhoras.com.ar",
-     "published": "2026-08-06T22:48:06+00:00",
-     "id": "71e5e887d258"
-    },
-    {
-     "title": "Dreams on Stage: Erik Ferreyra combina acrobacia y teatro",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZk5UN0VwWDBISXlPZnI1VzZoMEFUTml4Z2hyZE9jaTJMX1Btc1FrVlRid3ZMTHp3TkxncVNzV1E2VHVod2ZwZU9LQ3M5OG84UUZoLUJjNERyZmQ1Nl9CeUx6RXgyX3FxT1Y0SWl6cXZPZDRrMW1MVTdkcjZwa3FIUlkxTUJhczZwTTRqUFd5cVlFdDdIZFZj?oc=5",
-     "source": "AM 1350 Radio Buenos Aires",
-     "published": "2026-08-06T22:41:36+00:00",
-     "id": "9c4626057811"
-    },
-    {
      "title": "Gratis y cerca de casa: qué hacer con chicos por el Día del Niño durante el fin de semana largo de agosto",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXhLMk85TnpmWlNfUTBuZmdzTFVCenB2R01jdW5GVGNkNDhWRDBhSkNjVTdLNnRBNGZ2WldDQXlSUkxsUV82Sy1SNnJGeUZxaXFRTkZjU096YjhBdE1KeFZCTEowNHdORW1OZHJlMHRxZWxKMGlWSkZrT2JaX2NoSjdGdk9YTzR0dU4xZmJrSl9TTkxWSU5uWjVmN3g4dHgtdkhVYTFxQ290b19ESk91bDZHX3NjR05WNGZDeFNtNkF5SXo2QUFvZVVxamFXX0dUUHJnR3dlUTBCVlJQd3VhT3BB?oc=5",
-     "source": "Canal26",
+     "source": "canal26",
      "published": "2026-08-06T17:47:42+00:00",
      "id": "4811d8f2b904"
     },
@@ -336,6 +329,13 @@
      "source": "Revista OHLALÁ!",
      "published": "2026-08-04T17:11:13+00:00",
      "id": "c34ebbf24ed6"
+    },
+    {
+     "title": "Buenos Aires es considerada la capital gastronómica de Iberoamérica - Expreso",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWREaGNRVlRFNDV4MGVQb21KQi1mSzZaSFNhcnZjcjEzd21SUWM4dkxIcFpyVmhmYjNqaHV4MldfUE1UajE5VWpOZHo4ZEkzbjl3SmVlZ0R0QU5NOGpWbnhtNlJCSkpsOXF1VkMxbWZSY1lUdVZ0ekl2M0Q5QzE5aXVQcGtwTzVRNi1mX1duNEh0b05VcklGV2thVmY0ZVBQSkZITnNIb3JWbzF5UVp2bXJzdWEtUEdvVzdhYg?oc=5",
+     "source": "Diario de viajes y turismo",
+     "published": "2026-08-04T14:02:33+00:00",
+     "id": "d7ec68cf6be5"
     }
    ]
   },
@@ -345,84 +345,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "“No me gusta dormir solo, no funciono solo”: Julián Weich habló sobre el amor, la búsqueda de paz y su relación con la muerte",
-     "link": "https://www.infobae.com/sociedad/2026/08/07/no-me-gusta-dormir-solo-no-funciono-solo-julian-weich-hablo-sobre-el-amor-la-busqueda-de-paz-y-su-relacion-con-la-muerte/",
+     "title": "Qué recomiendan los expertos para potenciar el efecto de la avena sobre el colesterol",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/07/que-recomiendan-los-expertos-para-potenciar-el-efecto-de-la-avena-sobre-el-colesterol/",
      "source": "Infobae",
-     "published": "2026-08-07T11:09:58+00:00",
-     "copete": "En Ellos, el nuevo ciclo de Infobae, el conductor reflexionó sobre su vida en pareja, el vínculo con sus hijos y los cambios que atravesó en el ámbito personal y profesional. Además, compartió su mirada sobre la soledad, el paso del tiempo…",
-     "id": "17c47afbff2b"
+     "published": "2026-08-07T13:41:26+00:00",
+     "copete": "Especialistas en nutrición destacan que pequeños cambios en el desayuno pueden contribuir al cuidado del corazón y mejorar la calidad general de la alimentación",
+     "id": "803e4942caf2"
     },
     {
-     "title": "El aberrante caso del enfermero del hospital Fernández que manoseó a una paciente tras una cirugía y la invitó a salir",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/07/el-aberrante-caso-del-enfermero-del-hospital-fernandez-que-manoseo-a-una-paciente-tras-una-cirugia-y-la-invito-a-salir/",
+     "title": "Juan Hansen, músico: “La primera vez que toqué música electrónica la gente respondía de manera más corporal y bailaba”",
+     "link": "https://www.lanacion.com.ar/que-sale/juan-hansen-musico-la-primera-vez-que-toque-musica-electronica-la-gente-respondia-de-manera-mas-nid06082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T13:38:46+00:00",
+     "copete": "El artista reconstruye su recorrido desde las bandas de punk y el jazz hasta un formato en vivo que combina electrónica propia, guitarra, teclados, voz y loops; el 28 de agosto lanzará Ultrasonido, su primer álbum",
+     "id": "60189dfbbbe1"
+    },
+    {
+     "title": "Guía completa de charlas en la Feria de Editores, de Borges y Benjamin a las derechas reaccionarias",
+     "link": "https://www.infobae.com/cultura/2026/08/07/guia-completa-de-charlas-de-la-feria-de-editores-en-buenos-aires-de-borges-y-benjamin-a-las-derechas-reaccionarias/",
      "source": "Infobae",
-     "published": "2026-08-07T11:09:00+00:00",
-     "copete": "César Yaicuaré fue condenado esta semana en la Justicia por un hecho cometido en 2023. Su poco creíble relato para salvarse y los chats que lo incriminaron. La leve pena que recibió",
-     "id": "185dd8edad8c"
+     "published": "2026-08-07T13:38:24+00:00",
+     "copete": "Hasta el domingo 9 en C Art Media, la FED 2026 presenta una agenda de conversaciones entre escritores, traductores, filósofos y editores sobre los temas centrales de este tiempo",
+     "id": "85be184a73ad"
     },
     {
-     "title": "Hay alerta naranja y amarilla por vientos, nevadas y Zonda para este viernes 7 de agosto: las provincias afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-vientos-nevadas-y-zonda-para-este-viernes-7-de-agosto-las-nid07082026/",
+     "title": "Chiqui Tapia dejó una frase tajante sobre el futuro de Scaloni en la selección y se refirió a la bandera de Malvinas",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/claudio-tapia-rompio-el-silencio-mi-plan-a-mi-plan-b-y-mi-plan-c-es-scaloni-nid06082026/",
      "source": "La Nación",
-     "published": "2026-08-07T11:06:47+00:00",
-     "copete": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
-     "id": "17eb76acbd31"
+     "published": "2026-08-07T13:38:03+00:00",
+     "copete": "El presidente de la AFA habló en una entrevista sobre el futuro de Messi, su plan para el Mundial 2030 y otros temas del fútbol argentino",
+     "id": "6c8b914e0c29"
     },
     {
-     "title": "San Cayetano, en vivo: oraciones, imágenes y el minuto a minuto de la marcha de hoy, 7 de agosto",
-     "link": "https://www.lanacion.com.ar/sociedad/san-cayetano-en-vivo-oraciones-imagenes-y-el-minuto-a-minuto-de-la-marcha-de-hoy-7-de-agosto-nid07082026/",
+     "title": "Dólar a $1500: Bausili justificó la intervención del Tesoro en el mercado cambiario",
+     "link": "https://www.lanacion.com.ar/economia/dolar-a-us1500-bausili-justifico-la-intervencion-del-tesoro-en-el-mercado-cambiario-nid06082026/",
      "source": "La Nación",
-     "published": "2026-08-07T11:06:27+00:00",
-     "copete": "La convocatoria que reúne a miles de fieles se lleva a cabo este viernes 7 de agosto en distintas zonas del país; horario y cortes en el tránsito",
-     "id": "7ccf033104c1"
+     "published": "2026-08-07T13:35:21+00:00",
+     "copete": "Aventuró que la inflación “seguirá bajando”; afirmó que confía en que en breve se pueda poner en marcha el proceso de remonetización de la economía",
+     "id": "2e7e3a79556c"
     },
     {
-     "title": "Regresa el sol al AMBA y hay alertas por fuertes vientos en 11 provincias: el clima durante el fin de semana en el país",
-     "link": "https://www.infobae.com/sociedad/2026/08/07/regresa-el-sol-al-amba-y-hay-alertas-por-fuertes-vientos-en-11-provincias-el-clima-durante-el-fin-de-semana-en-el-pais/",
+     "title": "El proyecto de reforma del BCRA elimina la asistencia al Tesoro, pero mantiene su poder de fuego para intervenir en el mercado",
+     "link": "https://www.lanacion.com.ar/economia/el-proyecto-de-reforma-del-bcra-elimina-la-asistencia-al-tesoro-pero-mantiene-su-poder-de-fuego-para-nid07082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T13:33:42+00:00",
+     "copete": "El Gobierno sostiene que la diferencia está en la naturaleza de las herramientas y en la nueva gobernanza de la entidad",
+     "id": "5b642c401bfc"
+    },
+    {
+     "title": "Las pruebas PISA evaluarán inteligencia artificial desde 2029: el plan de Mendoza para anticiparse al cambio",
+     "link": "https://www.infobae.com/educacion/2026/08/07/las-pruebas-pisa-evaluaran-inteligencia-artificial-desde-2029-el-plan-de-mendoza-para-anticiparse-al-cambio/",
      "source": "Infobae",
-     "published": "2026-08-07T11:04:17+00:00",
-     "copete": "El tiempo se estabilizará en AMBA luego del ciclogénesis que desató ayer severas precipitaciones en la Ciudad y alrededores. Qué regiones deberán tomar recaudos por las ráfagas y nevadas",
-     "id": "2f04ab2670a9"
+     "published": "2026-08-07T13:32:20+00:00",
+     "copete": "La provincia incorporó plataformas basadas en IA en escuelas secundarias para reforzar el aprendizaje en Matemáticas, Lengua y Ciencias",
+     "id": "2e6b004e7a2b"
     },
     {
-     "title": "Desalojo “exprés”: qué cambiaría para inquilinos y dueños con el proyecto que tuvo media sanción en la Cámara alta",
-     "link": "https://www.infobae.com/economia/2026/08/07/desalojo-expres-que-cambia-para-los-inquilinos-y-los-duenos-si-se-aprueba-la-ley-de-propiedad-privada/",
+     "title": "Euro hoy en Cuba: cotización de apertura del 7 de agosto",
+     "link": "https://www.infobae.com/noticias/2026/08/07/euro-hoy-en-cuba-cotizacion-de-apertura-del-7-de-agosto/",
      "source": "Infobae",
-     "published": "2026-08-07T11:04:09+00:00",
-     "copete": "El proyecto oficialista que recibió media sanción impulsa desalojos más rápidos y amplía quiénes pueden solicitarlos, redefine plazos y notificaciones, y establece garantías para inquilinos vulnerables, con nuevas reglas para la…",
-     "id": "50245cecc2c0"
+     "published": "2026-08-07T13:32:10+00:00",
+     "copete": "La moneda europea registra un avance respecto a la jornada anterior",
+     "id": "bcda58ec5c67"
     },
     {
-     "title": "Tenían 15 y 10, se conocieron al enfrentar enfermedades complejas y se reencontraron hace poco: “Son amistades que te llenan el alma”",
-     "link": "https://www.lanacion.com.ar/lifestyle/tenian-15-y-10-se-conocieron-mientras-enfrentaban-enfermedades-muy-complejas-y-se-reencontraron-hace-nid07082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T11:01:01+00:00",
-     "copete": "Entre quimioterapias, trasplantes y tardes cocinando chipá, dos adolescentes encontraron en la ternura mutua la energía para no rendirse",
-     "id": "05e8a8a2b7f3"
-    },
-    {
-     "title": "María Elvira Salazar sobre familiares detenidos por ICE: “El sistema migratorio está fallando a los buenos estadounidenses”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/maria-elvira-salazar-sobre-familiares-detenidos-por-ice-el-sistema-migratorio-esta-fallando-a-los-nid07082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T11:00:00+00:00",
-     "copete": "María Elvira Salazar impulsó la Ley de Dignidad para proteger a veteranos con familiares detenidos por ICE ante fallas del sistema migratorio.",
-     "id": "c1558f57197c"
-    },
-    {
-     "title": "Ethereum hoy: cotización y precio del ETH este viernes 7 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-viernes-7-de-agosto-de-2026_0_KtN6iF1US2.html",
+     "title": "Enzo Fernández prepara su vuelta al Chelsea pero está en la mira de un gigante de la Premier League",
+     "link": "https://www.clarin.com/deportes/enzo-fernandez-prepara-vuelta-chelsea-mira-gigante-premier-league_0_xAez06KhRy.html",
      "source": "Clarín",
-     "published": "2026-08-07T10:30:02+00:00",
-     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
-     "id": "e93ae13c44a4"
+     "published": "2026-08-07T13:11:52+00:00",
+     "copete": "El Manchester City transita la era post Guardiola y está por quedarse sin Rodri. Enzo Maresca, su nuevo DT, ya conoce al argentino porque lo dirigió en Chelsea. Tras sonar en Real Madrid, el campeón que amargó a Inglaterra, busca un cambio.",
+     "id": "72f3dfc8828f"
     },
     {
-     "title": "Euro hoy: precio y a cuánto cotiza este viernes 7 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/euro-hoy-precio-y-a-cuanto-cotiza-este-viernes-7-de-agosto-de-2026_0_YClcDrx5Uv.html",
+     "title": "En medio de las críticas al Gobierno por la suba de la morosidad bancaria, Kicillof culpó a Milei: \"Al lío lo armó él\"",
+     "link": "https://www.clarin.com/economia/medio-criticas-gobierno-suba-morosidad-bancaria-kicillof-culpo-milei-lio-armo_0_oOTWvmhNIB.html",
      "source": "Clarín",
-     "published": "2026-08-07T10:25:03+00:00",
-     "copete": "Mirá la cotización para la compra y venta del euro oficial. Todas las variaciones y la referencia del Banco Nación.",
-     "id": "52519fdb373b"
+     "published": "2026-08-07T13:10:37+00:00",
+     "copete": "El gobernador bonaerense apuntó contra el Presidente durante su participación en la peregrinación a San Cayetano.",
+     "id": "b5f3bf88594d"
     }
    ]
   },
@@ -431,6 +431,22 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Los hutíes elevan la tensión en el Golfo con nuevos ataques contra Arabia Saudí y las fuerzas yemeníes",
+     "link": "https://elpais.com/internacional/2026-08-07/los-huties-elevan-la-tension-en-el-golfo-con-nuevos-ataques-contra-arabia-saudi-y-las-fuerzas-yemenies.html",
+     "source": "El País Internacional",
+     "published": "2026-08-07T12:39:44+00:00",
+     "copete": "Riad firma con Estambul e Islamabad un acuerdo de defensa para reforzar la “disuasión colectiva” frente a cualquier acto de agresión",
+     "id": "4e36ae816f42"
+    },
+    {
+     "title": "Por qué Bogotá dejará de ser la sede única del gobierno de Colombia con De la Espriella como presidente",
+     "link": "https://www.bbc.com/mundo/articles/cd69xnwd4zvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-07T12:22:03+00:00",
+     "copete": "El presidente entrante anunció que habrá \"sedes alternas\" de la Presidencia en Medellín, Cali y Barranquilla. ¿Es efectiva esta medida para lograr mayor descentralización?",
+     "id": "2e2476be8bf9"
+    },
     {
      "title": "Cuál es la agenda de gobierno de De la Espriella y qué contrapesos tendrá como presidente de Colombia",
      "link": "https://www.bbc.com/mundo/articles/cp8xzjkz754o?at_medium=RSS&at_campaign=rss",
@@ -464,36 +480,20 @@
      "id": "d7efe9df593c"
     },
     {
-     "title": "\"Conversaba con mi maestra cuando le dispararon\": un alumno de 14 años es sospechoso de matar a tiros a 5 docentes en Tailandia",
-     "link": "https://www.bbc.com/mundo/articles/c20ed4rnd7xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-07T09:53:16+00:00",
-     "copete": "El cuerpo del agresor también fue encontrado sin vida. Se sospecha que mató a sus dos abuelos antes de dirigiste al colegio.",
-     "id": "cceeefd1a401"
+     "title": "Colombia recibe a Abelardo de la Espriella en estado de crispación política",
+     "link": "https://elpais.com/america-colombia/2026-08-07/colombia-recibe-a-abelardo-de-la-espriella-en-estado-de-crispacion-politica.html",
+     "source": "El País Internacional",
+     "published": "2026-08-07T04:00:00+00:00",
+     "copete": "El país sudamericano pasa de un Gobierno de izquierda, liderado por Gustavo Petro, a uno de derecha, como ha ocurrido en buena parte del continente americano",
+     "id": "ed68739bdeeb"
     },
     {
-     "title": "La guerra económica de Israel ahoga la sanidad en Cisjordania",
-     "link": "https://elpais.com/internacional/2026-08-07/la-guerra-economica-de-israel-ahoga-la-sanidad-en-cisjordania.html",
+     "title": "México estrecha los lazos con Brasil en plena escalada de la tensión entre Lula y Trump",
+     "link": "https://elpais.com/mexico/2026-08-07/mexico-estrecha-los-lazos-con-brasil-en-plena-escalada-de-la-tension-entre-lula-y-trump.html",
      "source": "El País Internacional",
-     "published": "2026-08-07T03:30:01+00:00",
-     "copete": "La población sufre cada vez más las carencias por la retención de fondos a la Autoridad Palestina, que acumula una deuda millonaria con hospitales y proveedores",
-     "id": "26e335d3e62b"
-    },
-    {
-     "title": "China deja en un limbo la película sobre su gran epopeya naval de la conquista de Taiwán",
-     "link": "https://elpais.com/internacional/2026-08-07/china-deja-en-un-limbo-la-pelicula-sobre-su-gran-epopeya-naval-de-la-conquista-de-taiwan.html",
-     "source": "El País Internacional",
-     "published": "2026-08-07T03:30:01+00:00",
-     "copete": "‘La batalla naval de Penghu’ desaparece de las carteleras chinas sin estrenarse en un contexto marcado por la tensión en el estrecho y el debate nacionalista en redes sociales",
-     "id": "8d34489c1bd8"
-    },
-    {
-     "title": "Trump aprueba dos decretos para volver a limitar de forma parcial la ciudadanía por nacimiento pese a la decisión del Supremo",
-     "link": "https://elpais.com/us/migracion/2026-08-06/trump-aprueba-dos-decretos-para-volver-a-limitar-la-ciudadania-por-nacimiento-pese-a-la-decision-del-supremo.html",
-     "source": "El País Internacional",
-     "published": "2026-08-06T21:32:14+00:00",
-     "copete": "El presidente restringe el derecho de nacionalidad estadounidense para bebés nacidos en Estados Unidos de padres extranjeros",
-     "id": "49a9d1465bf3"
+     "published": "2026-08-07T04:00:00+00:00",
+     "copete": "El presidente brasileño conversa con el canciller mexicano sobre la situación de la democracia en América Latina y el acuerdo de colaboración entre Petrobras y Pemex, y reitera su invitación para que Sheinbaum visite el país",
+     "id": "8d411fd0cd8e"
     }
    ]
   }
