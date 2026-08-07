@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-07T00:20:00.833476+00:00",
+ "generated_at": "2026-08-07T03:22:30.867555+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Treatment Strategies Following Progression in EGFR-Mutant NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTW1BaVhyblB4WDFYdXZGb0F4LXB2bjV3c3Q3aVVmRk5MNGRqcDJoTk92TlZCZ1h5ZFRDMEdVMmZwMmwxYkpTb3kzNlpITER3Q09jLUthczNHMUVHQXo4SENKMDZfWE9PLURjZ2xqUEhjUHl3X21kTmxfTVBxVjM3a21rUDJ2aU5wV3RnNTlBaC1JZ1kzOERF?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-07T01:41:15+00:00",
+     "id": "b647f9636792"
+    },
     {
      "title": "FDA Flashback: Breast Cancer Decisions and News From July 2026",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWtOSFlIZzFkd1RuWnVuTXVTM3VZMWIxc0tGZVRsZnYwSnktSnBaeDY2R1hlb0h6Q05UZFMwUG1Hem5CeFRGNlczNHBkMFZBamNEYkdjSnBnMkpUQkp5dklra1QyTUFFeFBTeUlxWEFSMlh0NHlsdmhGZlNuUFpwdlNXdXpkVTJzbU9PXzZqNm1qaE5r?oc=5",
@@ -14,11 +21,11 @@
      "id": "012b43d44926"
     },
     {
-     "title": "TP53 Co-Mutation and the TOP Study",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFYTF3REllVVhUdE0weXhVM3dkUUNpbUFYS01JMEpmZmhQWHBVTl9ROENwenV3ajZfRFZUcjl2N2dybE1NOUhsdWVFZkdnNkN1UV80YmEtdnBPTFZVRFVhUS1WTjdSRnNaMnRuSUN2S1E?oc=5",
+     "title": "Risk Stratification and Treatment Selection in EGFR-Mutant NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnpzNTdkaXZlQ0Z6U3hkTFQ1V3h3QmQ4OF9KZTdPSlNya25vbWN3eDR4RDkzU3RjOFVfUFlNV3NwcmNSUml0b1ZvQVprVDFlTmNfMTlOZ1pzdV9kWWtGZzd3S0RqV05YVlROSmNpSlNDVThCY1lDYzJORUdCcVdoR1pmTzBYSWw1b1hoN0NIaE1lV1ZjZW9YYg?oc=5",
      "source": "OncLive",
-     "published": "2026-08-06T19:27:58+00:00",
-     "id": "8fa9b58be3d1"
+     "published": "2026-08-06T19:45:26+00:00",
+     "id": "5e4b8d02e78e"
     },
     {
      "title": "New Data on 14- vs 28-Day Venetoclax/Azacitidine in AML",
@@ -40,13 +47,6 @@
      "source": "The ASCO Post",
      "published": "2026-08-06T14:15:43+00:00",
      "id": "6a41ab7661c8"
-    },
-    {
-     "title": "EU Clears PD-L1 IHC 22C3 pharmDx as Companion Diagnostic for Pembrolizumab in Ovarian Cancer",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3AyRWo5X1ZRWWlwcFJDY3Z2dGs4dlcyLWZOUTMwREZXbmczVDBYZ1FadzRpX0IyYXpWdXhhaTgzOWZPMDdJR2JKa0c2MFRIQ0lzNnQ3UkFGSi10eG82MTEtTDIyU09mNUNLZ2tyQ2NuVndjWlRyZzMtd3FWcWFidW1fbjRzV1FRMXVBYzFRZEVFTnFsdHFmOTJrZGstRmw0Y21qSms4RVE2ay0zU0Q4dTM5T3ppQ19ISGdfZVZB?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-06T13:13:30+00:00",
-     "id": "8ba8b302ff80"
     },
     {
      "title": "Systemic Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer: ASCO Living Guideline, Version 2026.1.4",
@@ -79,6 +79,22 @@
      "published": "2026-08-06T00:00:00+00:00",
      "copete": "Brooks GA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "f179ca3ad113"
+    },
+    {
+     "title": "Consensus statements from the first Gynecologic Cancer InterGroup Cervical Cancer Consensus Conference in Clinical Research",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42508438/",
+     "source": "Lancet Oncology",
+     "published": "2026-08-01T00:00:00+00:00",
+     "copete": "Kataria B et al. · The Lancet. Oncology",
+     "id": "12a7e0bcdc50"
+    },
+    {
+     "title": "Advancing oncology education in low-income and middle-income African settings: global insights for local action",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42508437/",
+     "source": "Lancet Oncology",
+     "published": "2026-08-01T00:00:00+00:00",
+     "copete": "Shrestha S et al. · The Lancet. Oncology",
+     "id": "738664c7b6bb"
     }
    ]
   },
@@ -91,71 +107,71 @@
      "title": "Caro Editions Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
      "source": "Vogue",
-     "published": "2026-08-07T00:15:48+00:00",
+     "published": "2026-08-07T03:19:11+00:00",
      "id": "e8ce7f247050"
     },
     {
      "title": "Collina Strada Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/collina-strada",
      "source": "Vogue",
-     "published": "2026-08-07T00:15:48+00:00",
+     "published": "2026-08-07T03:19:11+00:00",
      "id": "a9cec6cf9f0c"
     },
     {
      "title": "Nicklas Skovgaard Copenhagen Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/nicklas-skovgaard",
      "source": "Vogue",
-     "published": "2026-08-07T00:15:48+00:00",
+     "published": "2026-08-07T03:19:11+00:00",
      "id": "15baaa7cadac"
     },
     {
      "title": "Masu Tokyo Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/masu",
      "source": "Vogue",
-     "published": "2026-08-07T00:15:48+00:00",
+     "published": "2026-08-07T03:19:11+00:00",
      "id": "4f262f7c2943"
     },
     {
-     "title": "Don Julio afianzó su compromiso con la moda en Colombiamoda 2026",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnp0MzlGS191VE1Rb29PYWczaFp2Z2hJTnRLOGNVRXdpT241eXJiWlJKbmZ2ZE9NN0J5bDhkWk5UOXlfZTlPMVNoVnoyMXoxYVNSNXBhcHo0NWtQNTR1Rmw2SjR3Nllnb01wZW9Ubm5TSk5yTlVXenpIYm5aQ2RRTGdZTUlmMHNBTVkyZGtWZkV6N3M4WW1DbFRB?oc=5",
+     "title": "Julián Álvarez sorprendió con su nuevo look: qué es el “soft mustache”, el bigote que es tendencia",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQampPSWFsWkFGamVSbWd1bVBLLXQzSlotXzBIdmlaeDY3bE9pU3hMWDFCUkJRV3NTZHZLdk9OZmNhYkpHVWJMOUp3S0NHd0tyNmVXUXFuUk1ELXl0emFvTDdyM2gxQWtLX0F4c0J6b2F4UDhkbUZTSFhEelNtZVJ1TXRtek1lb1R6X3pQVXVjVURFTVppeUs2OTQzYzRKdGZsamRRTUZ2WnJEZkJqV0FpVF9ZbDFrR1pPSnFyWHB0QnU?oc=5",
+     "source": "La Voz del Interior",
+     "published": "2026-08-07T02:26:44+00:00",
+     "id": "c9a52e49496c"
+    },
+    {
+     "title": "Copenhagen Fashion Week SS27: las tendencias de street style que marcarán la moda de la próxima temporada",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUdQeWFuSEZaMUhYb19oRHJaTE9CVTJhQ0dUWUE2akxQendidmJDU1hrUzRVb1BHbEZ2N2dWRUt3bGJQS29Id2hOVkpjOW1VQndlSVYtYWgwLVhxdldLM0pYUjhCSVYtV2pBb1k3Zlh2dTJTSmpLN2JKaWxwZWZXOE5oWWQ5RXBHUE9QeFhiMV9YRjdvS2diTTNZUXJxWERpcWtjb1llS001ZFg3dWxKTHhHSHBKeHUxY3lHLVJtRjhFZ0FLTElGMnJkWXBGWXVfVHhFNzZuQdIB3AFBVV95cUxNMjJwSkh5Znh1NGJvakJoamUzSlpWRHVYbFRHWW91SmZUM1ZjRmd1blhtRkxMdkt6ZDlBa1lzakRLRTk5Z2hEYU53OW5wME9ZSEhFbmZIWU84NVNpb0syMjhQVDdBNWV6bThVXzAzS1czd2ZNQi02dnA0WEVuQ01HS1hhd202OWtTdUhuZ0prdF9sOUYzMDdNN25WdDIzSFAtVlZLTDNGdkU3NVczLWZqV0xRT2tnVnM5X2xvVjRkSU4zUjZ2eDRCdTNHWDNmQlhqaHJkaE96UGtHdWtl?oc=5",
+     "source": "Ambito",
+     "published": "2026-08-07T02:00:00+00:00",
+     "id": "73249428d4dc"
+    },
+    {
+     "title": "Probé la nueva secadora Supersonic Travel de Dyson y comprobé que es más potente que la de un hotel",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnFERklLVmtjTVphU3pqRUR3SUlyZ1NvQmR4alBqN3h6TmRpb1dwNGZZajJTTjdkX21GRWtkS210R3ZmSjhYbC1PYkhYSDV5cklfYWxZMEh5d1pSNW1ScnRyMmR5VFNaSUJpYlJPVVMtWEhLd2VmRFZBZkZhOWZfT3pDUzlHdEJYMkZJ?oc=5",
      "source": "Vogue México",
-     "published": "2026-08-06T21:48:50+00:00",
-     "id": "382449c2fafb"
+     "published": "2026-08-07T00:23:27+00:00",
+     "id": "b3e88243b781"
     },
     {
-     "title": "Eugenia Fernández x Falabella en Colombiamoda 2026: Una colección llena sofisticación contemporánea",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcEJkbFJ1M25QWEYzWjlVZ2RqU2VYNWhaMXBHcW1IM29QdDZzbmhYOWVsUU9XVGI3OXloTmlRZmp5cmdDU1pNblR5OHp3SnZXanFzZ3FrdnVRQnRwVkZKLTVfb21oTGhzbFYyMHEwSUhEcE9CQlVhQThYdW1LdVpoZEs3Sl9kc2M?oc=5",
+     "title": "Vogue Leaders reunió las nuevas voces de la moda y la belleza en Colombia de la mano de SkinCeuticals",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemV4NEtXWEZ6YzVFQWtjeElXUTFZYVhmRWFibVFYaDZYUXZGVldnSldpTXp5Rl8wb0JDN2phNmhtQ1FXY2R2LXNNZ0JpcmtDM3VCNVM3U2drMEk2SjNhNThJLWJVaUloeHkwSkVhYXUxNWhlVmo0bm1Ka250U1hsWkVWbmwyNzYzZjlPOFdXTXdYYnV6Y0pNLTJIMHlYMGoyLWVIUGtYb0hkQQ?oc=5",
      "source": "Vogue México",
-     "published": "2026-08-06T20:54:46+00:00",
-     "id": "5e035d1aa17b"
+     "published": "2026-08-07T00:19:32+00:00",
+     "id": "fbcec9c119bc"
     },
     {
-     "title": "Kristen Stewart anuncia el regreso de los tenis alemanes más cool en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkxGMXJPRE40SENQajBVNjZpTWRJU1BnV1RzZnhvUWtwRXdYaFhSU0RnQXN5U3F3bU10UktTZm10djRyMlJNZFRZYmdHTlFnV0VGUGhrQ1VYbkpRWGw2N2l0TGlVeGwzSmVHNzRXakYxWTlGQlVMcWhxSTY0RDYwUHhxaXNmVl9oY1Z2Qw?oc=5",
+     "title": "La rutina de belleza que Demi Moore sigue a los 60+ (y con la que logra verse espectacular)",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFJ1ZnBoLUd5OGx6UTZzZHBVOEJ2aDhWTWdJQmt3dVI4YXA4VDBCaUxmRVNkR3d4UnJCVXV3TUdsYkZnV3c4TXYxNzdKT2RzNDNZVC12WmlaWWJTd1RPVEJwdk5UdzRPN0NsS3Z6NlhfbFE0dWhhclNEUzZiMEwtaldaSmxOQWl6bXlQSmRn?oc=5",
      "source": "Vogue México",
-     "published": "2026-08-06T20:01:34+00:00",
-     "id": "6a7207778b61"
+     "published": "2026-08-07T00:12:25+00:00",
+     "id": "341afc6d8517"
     },
     {
-     "title": "Sandalias de tiras: 7 ideas de tendencias para llevarlas con jeans en agosto 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0hCdEh2NUs3azhtZmh1NkY1X2NtOHZ0TzV4d29BWHgwU3ZrVUtPSjUtaFpmMlNHOUMtN1BlZUlmTTA0b0RlcEJGSUdiZXZ3NkEzc1FkeDBsbFdTcjIzY1pydXlzbkpKcEN2OXJqSjFwaE9VUEpnU2FaTlI2Z1VJVEhNbmhvNWdiV2d1YzdUdGlyejFBSXV3bHlLTnZySkMyYkdvVXRKYm8?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-06T19:11:47+00:00",
-     "id": "ab0f3a2f82fe"
-    },
-    {
-     "title": "Copenhagen Fashion Week: las 5 tendencias que vimos y van a marcar la próxima temporada",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjZmeU5EQ1pEdkdJMEpXQVg2Y1poYmctNmh5OUdTNFFGZFk3R0dPekV4UW9kb0lHc1EtbnI2TnB1S3otUWp4ZGRqM1BQb3hXd082eHA4UDQ3bXpQNWV4MGNhc1U0TnYzOExCMk9ueUM3SXJUaVlsX1pSQVA4cWxLbENDQ2dtZTA1R29LclRKTlhEQXQwcjh5Q3VfSWZqWEZreUp2X0tDc1c4NFc3S01DOFVWTzhlRTl5cVJfeUJPb0ZGM0lrZ1VXcQ?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-08-06T17:35:58+00:00",
-     "id": "47ed7ffd617d"
-    },
-    {
-     "title": "El nuevo look de la princesa Leonor: peinado con volumen que revive las tendencias de los 80",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU210aFlqbkdzVlR5V09GZFV3dENTcE9vWTB0cTJDZVdvXzhXZndvV0o5LWtUSFptRE1MUFZRRUtPSmU3TVM1U1RWS1I2WGp4TVFfXzNRWTJVbFYzUVFmT2NFcHV6WlRBdTFfME13djFrQXFHb1ZIcFdZU1BiQWdXbnVOM3RuLUFlR01aNjh2TlZtUkw3UkRGamEwUEJHUHhTcEFjZDlBMXdWdW1OdUhHZzB2dGd3bFNPem80OGczM2dJa3lpQm5vS05aazN4WDhwYnliMWdXYUJ0ZVc3dFdxd3Rrb9IB6wFBVV95cUxNaXUtbjRMdDc4U3liaW8zLVZLVE9BMi1JQkpfSXRfUjNpa0RFY2NaU0N6eTh4RDhTYmdfVVUxMngtTjZzalhWWWZtSUNJTTg4ckx2MXVLaExwUkt6ZnUxOWxjNTJSMVdIWkl1QkhVUXlrWXo3NG9lQ1pGS0F4LXczSmxBeUN0V2FfLVlieWYwRS1DUDVWanF3SGdMdmJrUTVTNVFRdkJpT1pNZnEyM2FaNjlZd1M5UXRGNmxBWWdBem5FZVo2VmVPMW40dnRVOUM2andDMElHWDViYVFPalJxcmxEQnFIU05QLURj?oc=5",
-     "source": "Diario Río Negro",
-     "published": "2026-08-06T17:31:37+00:00",
-     "id": "10df810f2637"
+     "title": "Kate Moss a los 52 años: cómo su estilo natural convierte cada aparición en una lección de elegancia",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWJaQlVFZ2FRdlNNTnh3OElaZGtVREZFQzdpemRxYTdjSmVwcGVSR2dRcnl4aWJmdjVrNVVjTFQ0Y2k2TEx2dmswSWRpRV9FcjI1VDRCMlRiVXk3b05FQWFKSEZ2NHdQMnJ3M2pzcnhSZWhNcnJ3LWdRcngzQjMzbnJxa29nb3lGUXBEVzlDc3B3UlVCYVhjUnhTUF92cTNTTThoOVRjS0xnQlNsVkpPQ0dTZDVjWkVxZElYU3d0N0taZkJxSEJsVzRPS2NGZU1SZUYxNDI4TE4xUjEza1pz0gH6AUFVX3lxTE50MDVmMXh5ZWpsLVF6OVJ6empza3BXNV96N3dsVXYxNjF6OTZ4a2dNNF9ESmp1LWl3NXlkR2VLQ1RtMVlFWjNlQkhLNzR0N095R2JHRWY0OFZaTFJSQ2JGWVlKbldmbVMwUEtWQmVub3h5emZRYnM0cmZTRU1mRW80Rm82OExySDVYRENFbEE5RkZmSmtpWG1mcmhVZmp3dXA3T3I1ODJfNllJZ1FBY0FvLUFBellrOEFvcFBKRGJYdGk1VTFzTW9fanVGeHUtNDhBM2ZrV1RtYV9Ib1NwRl9Ya2F2OU1BSFVuUTlHdTJOZEZzVURJVzdFaEE?oc=5",
+     "source": "Infobae",
+     "published": "2026-08-06T21:35:00+00:00",
+     "id": "1e7a65f551c1"
     }
    ]
   },
@@ -165,12 +181,76 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Brad Pitt sobre ser actor: “Es muy intenso, trabajamos 14 horas al día durante meses y luego podemos relajarnos un poco”",
-     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-sobre-ser-actor-es-muy-intenso-trabajamos-14-horas-al-dia-durante-meses-y-luego-podemos-nid06082026/",
+     "title": "Entre lágrimas, Juanicar abandonó la casa de Gran Hermano en medio de dudas sobre su salida: “Me voy con mi mamá”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/entre-lagrimas-juanicar-abandono-la-casa-de-gran-hermano-en-medio-de-dudas-sobre-su-salida-me-voy-con-mi-mama/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T02:59:25+00:00",
+     "copete": "El jugador recibió la información de la producción sobre la salud de su madre. Desbordado y en un clima de llanto y sorpresa de sus compañeros, decidió marcharse",
+     "id": "987b55f4e5a4"
+    },
+    {
+     "title": "Yanina Latorre reveló su charla íntima con La Joaqui tras separarse de Luck Ra: “La odia a Tuli Acosta”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/yanina-latorre-revelo-su-charla-intima-con-la-joaqui-tras-separarse-de-luck-ra-la-odia-a-tuli-acosta/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T02:35:44+00:00",
+     "copete": "La conductora de SQP describió un momento de tristeza durante la grabación de PH: Podemos Hablar. Qué le dijo sobre la influencer y el cantante",
+     "id": "8d1f5b816596"
+    },
+    {
+     "title": "El romance menos pensado: Roberto García Moritán, ex de Pampita, habría comenzado una relación con Emily Ceco de Love Is Blind",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-romance-menos-pensado-roberto-garcia-moritan-ex-de-pampita-habria-comenzado-una-relacion-con-nid06082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-07T00:11:00+00:00",
-     "copete": "El protagonista de éxitos como El club de la pelea y Había una vez en Hollywood rompió con el mito del glamour cinematográfico y reveló que la rutina detrás de escena implica jornadas extenuantes que superan la mitad del día",
-     "id": "f0fce08b451d"
+     "published": "2026-08-07T02:34:43+00:00",
+     "copete": "Tras meses de bajo perfil, el exministro fue visto junto a la participante del reality, quien tomó notoriedad pública por su demanda contra su expareja, Santiago Martínez; otros rumores también rodean al empresario",
+     "id": "cbaead582e10"
+    },
+    {
+     "title": "Denisse González de Gran Hermano continuará internada tras su diagnóstico: “Los resultados no fueron los esperados”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/denisse-gonzalez-de-gran-hermano-continuara-internada-tras-su-diagnostico-los-resultados-no-fueron-los-esperados/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T02:24:03+00:00",
+     "copete": "La exparticipante de Gran Herman contó desde la clínica que los valores volvieron a caer, por lo que el equipo médico decidió ajustar el tratamiento mientras sigue sin diagnóstico definitivo",
+     "id": "ac5897f721fb"
+    },
+    {
+     "title": "Es hija de una estrella del cine, usó el arte para sanar las pérdidas más dolorosas y hoy sigue el legado familiar",
+     "link": "https://www.lanacion.com.ar/espectaculos/es-hija-de-una-estrella-del-cine-uso-el-arte-para-sanar-las-perdidas-mas-dolorosas-y-hoy-sigue-el-nid06082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-07T02:03:52+00:00",
+     "copete": "Ella Bleu Travolta debutó en la pantalla a los siete años y hoy, a sus 26, busca consolidarse en la industria con nombre propio y manteniendo el legado de sus padres, John Travolta y Kelly Preston",
+     "id": "061fa12d4bc7"
+    },
+    {
+     "title": "Furor por el cine de terror: tras el éxito de Obsession, llegan Other Mommy, Buddy, Whalefall y más títulos antes de 2027",
+     "link": "https://www.lanacion.com.ar/espectaculos/furor-por-el-cine-de-terror-tras-el-exito-de-obsession-llegan-other-mommy-buddy-whalefall-y-mas-nid06082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-07T02:03:02+00:00",
+     "copete": "En un mundo reinado por las secuelas y precuelas de temáticas ya conocidas, las producciones originales sorprenden a las grandes productoras y se llevan los elogios del público con ideas que le dan un aire fresco a las salas de cine",
+     "id": "aea92b4b71b9"
+    },
+    {
+     "title": "Yanina Latorre reveló cuál habría sido el verdadero motivo de la separación de La Joaqui y Luck Ra: “Lo empezó a ahogar”",
+     "link": "https://www.lanacion.com.ar/espectaculos/yanina-latorre-revelo-cual-habria-sido-el-verdadero-motivo-de-la-separacion-de-la-joaqui-y-luck-ra-nid06082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-07T02:02:21+00:00",
+     "copete": "La conductora habló sobre el presunto punto de quiebre que llevó al cordobés a invitar a la cantante a un viaje que terminó con una ruptura en lugar del anillo de compromiso que se imaginaba ella",
+     "id": "78fbe0eeff97"
+    },
+    {
+     "title": "Camilota presentó a su novia y compartió su felicidad: “Por fin podemos dejar de escondernos”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/camilota-presento-a-su-novia-y-compartio-su-felicidad-por-fin-podemos-dejar-de-escondernos/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T01:23:07+00:00",
+     "copete": "La influencer hizo oficial su relación a través de una publicación conjunta en Instagram junto a su pareja, donde habló de libertad y orgullo. El apoyo de sus seguidores",
+     "id": "71b8e557aaa9"
+    },
+    {
+     "title": "Brenda Asnicar se sinceró sobre el motivo de su gran enojo con Carlos Tévez: “Qué estúpido”",
+     "link": "https://www.infobae.com/teleshow/2026/08/07/brenda-asnicar-se-sincero-sobre-el-motivo-de-su-gran-enojo-con-carlos-tevez-que-estupido/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-07T00:38:41+00:00",
+     "copete": "La actriz habló en el podcast Nada que ocultar sobre su romance con el exfutbolista en 2011 y el rumor que más le molestó en aquella época",
+     "id": "84ce34b09666"
     },
     {
      "title": "Nico Vázquez sorprendió al cantar una canción de Casi Ángeles: el video",
@@ -179,70 +259,6 @@
      "published": "2026-08-06T23:51:09+00:00",
      "copete": "El actor compartió en Instagram un momento improvisado durante una pausa de PopStars, cuando Fernando López Rossi sacó la guitarra y lo llevó a revivir uno de los temas más recordados de la tira juvenil",
      "id": "31310763003d"
-    },
-    {
-     "title": "Fito Páez se sumó a las protestas contra la extranjerización de tierras: “La Argentina no se vende, man”",
-     "link": "https://www.lanacion.com.ar/politica/fito-paez-se-sumo-a-las-protestas-contra-la-extranjerizacion-de-tierras-la-argentina-no-se-vende-man-nid06082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-06T23:36:24+00:00",
-     "copete": "El artista publicó un video en X al participar de una movilización en la ciudad rionegrina; durante la marcha en el Congreso hubo represión",
-     "id": "618b9c37e622"
-    },
-    {
-     "title": "Levantaron la prohibición de salir del país de Mauro Icardi: dónde irían a vivir con la China Suárez",
-     "link": "https://www.infobae.com/teleshow/2026/08/06/levantaron-la-prohibicion-de-salir-del-pais-de-mauro-icardi-donde-irian-a-vivir-con-la-china-suarez/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-06T23:28:19+00:00",
-     "copete": "El juzgado Civil 106 levantó la medida que le impuso el pasado 29 de julio, aunque para que quede firme restan algunos trámites. En qué club europeo podría jugar: “Ya están buscando casa”",
-     "id": "445e47a4db73"
-    },
-    {
-     "title": "Fito Páez marchó en Bariloche contra la extranjerización de tierras: “La patria no se vende, man”",
-     "link": "https://www.infobae.com/teleshow/2026/08/06/fito-paez-marcho-en-bariloche-contra-la-extranjerizacion-de-tierras-la-patria-no-se-vende-man/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-06T23:05:44+00:00",
-     "copete": "El músico rosarino se sumó a la movilización patagónica y acompañó el reclamo mientras prepara, en esa ciudad, los conciertos que brindará en septiembre en Madrid",
-     "id": "63999591b6ba"
-    },
-    {
-     "title": "¿Se viene Avenida Brasil 2? La palabra de Cauã Reymond, el actor que interpretó a Jorgito, en el ciclo de Vero Lozano",
-     "link": "https://www.infobae.com/teleshow/2026/08/06/se-viene-avenida-brasil-2-la-palabra-de-caua-reymond-el-actor-que-interpreto-a-jorgito-en-el-ciclo-de-vero-lozano/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-06T22:41:35+00:00",
-     "copete": "En una entrevista en Cortá por Lozano, el brasileño celebró el furor por el regreso del culebrón en Telefe y admitió que existen charlas en marcha para la continuación de la telenovela",
-     "id": "3a3210d3086c"
-    },
-    {
-     "title": "Los respaldos no alcanzan y ya hay fecha para el juicio contra la fusión entre Paramount y Warner",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/los-respaldos-no-alcanzan-y-ya-hay-fecha-para-el-juicio-contra-la-fusion-entre-paramount-y-warner-nid06082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-06T22:40:52+00:00",
-     "copete": "El comienzo del proceso se fijó para el 2 de marzo de 2027; el Reino Unido aprobó el acuerdo, que también tiene el apoyo de los dueños de los cines en los Estados Unidos",
-     "id": "77b5d91522de"
-    },
-    {
-     "title": "Encontraron a Zulma Lobato en Paraná y ya coordinan su regreso a Buenos Aires: “Conseguimos un techo para ella”",
-     "link": "https://www.infobae.com/teleshow/2026/08/06/encontraron-a-zulma-lobato-en-parana-y-ya-coordinan-su-regreso-a-buenos-aires-conseguimos-un-techo-para-ella/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-06T22:17:40+00:00",
-     "copete": "Jazmín La Cuerpo, una figura de las redes y amiga de la artista, anunció la buena noticia",
-     "id": "66421bcba7e2"
-    },
-    {
-     "title": "Se revelan detalles de la lujosa boda de Zendaya y Tom Holland en la campiña inglesa",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/se-revelan-detalles-de-la-lujosa-boda-de-zendaya-y-tom-holland-a-orillas-del-tamesis-nid06082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-06T22:16:41+00:00",
-     "copete": "La celebración se llevó a cabo el martes en un exclusivo palacio al sudoeste de Londres, cerca de la ciudad donde creció el protagonista de Spider-Man",
-     "id": "40cf8ffabcce"
-    },
-    {
-     "title": "Lali Espósito estuvo presente en la marcha en Plaza Congreso acompañada por Dillom",
-     "link": "https://www.infobae.com/teleshow/2026/08/06/lali-esposito-estuvo-presente-en-la-marcha-en-plaza-congreso-acompanada-por-dillom/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-06T21:27:20+00:00",
-     "copete": "La cantante se sumó a la movilización con el rostro cubierto después de haber llamado a participar desde Instagram en defensa de los recursos estratégicos del país",
-     "id": "21d04a7b05a7"
     },
     {
      "title": "Foo Fighters vuelve a la Argentina: dónde se presentará la banda, cómo y cuándo comprar las entradas",
@@ -345,84 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Brad Pitt sobre ser actor: “Es muy intenso, trabajamos 14 horas al día durante meses y luego podemos relajarnos un poco”",
-     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-sobre-ser-actor-es-muy-intenso-trabajamos-14-horas-al-dia-durante-meses-y-luego-podemos-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:11:00+00:00",
-     "copete": "El protagonista de éxitos como El club de la pelea y Había una vez en Hollywood rompió con el mito del glamour cinematográfico y reveló que la rutina detrás de escena implica jornadas extenuantes que superan la mitad del día",
-     "id": "f0fce08b451d"
-    },
-    {
-     "title": "Manifestantes incendiaron una bandera de Estados Unidos en las cercanías del Congreso",
-     "link": "https://www.lanacion.com.ar/politica/manifestantes-incendiaron-una-bandera-de-estados-unidos-en-las-cercanias-del-congreso-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:10:54+00:00",
-     "copete": "El hecho ocurrió en un clima de alta tensión con la policía durante la marcha en rechazo a la ley de propiedad privada",
-     "id": "9189ec3e55b9"
-    },
-    {
-     "title": "Florencia Luna, arquitecta: “Adaptar una casa para envejecer no significa renunciar al diseño, sino entender cómo se habita el espacio”",
-     "link": "https://www.lanacion.com.ar/lifestyle/florencia-luna-arquitecta-adaptar-una-casa-para-envejecer-no-significa-renunciar-al-diseno-sino-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:08:00+00:00",
-     "copete": "La experta repasó cuáles son algunos de los cambios que pueden realizarse con poco presupuesto para adaptar una vivienda a los adultos mayores",
-     "id": "dbf7a6056af4"
-    },
-    {
-     "title": "Pronóstico del tiempo, en vivo: alerta por ráfagas de hasta 80km/h, lluvias y bajas temperaturas",
-     "link": "https://www.lanacion.com.ar/sociedad/pronostico-del-tiempo-en-vivo-doble-alerta-por-tormentas-vientos-fuertes-y-bajas-temperaturas-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:07:31+00:00",
-     "copete": "El SMN advirtió sobre el avance de un frente inestable en varias provincias del país, incluida la ciudad de Buenos Aires y sus alrededores, en medio del fenómeno de la ciclogénesis; las condiciones adversas dominarán toda la jornada; cómo…",
-     "id": "e1f471b17e53"
-    },
-    {
-     "title": "Claudio Tapia: “Scaloni es mi plan A, B y C, pero no lo puedo tener encadenado”",
-     "link": "https://www.infobae.com/deportes/2026/08/06/claudio-tapia-scaloni-es-mi-plan-a-b-y-c-pero-no-lo-puedo-tener-encadenado/",
+     "title": "Marcha contra la Ley de propiedad privada: 12 detenidos y 4 efectivos heridos por los incidentes entre la policía y los manifestantes",
+     "link": "https://www.infobae.com/sociedad/2026/08/06/marcha-contra-la-ley-de-propiedad-privada-en-congreso-en-vivo-ultimas-noticias-noticias-de-hoy-6-de-agosto/",
      "source": "Infobae",
-     "published": "2026-08-06T23:57:55+00:00",
-     "copete": "El presidente de la AFA habló por primera vez tras el Mundial 2026: también habló sobre la continuidad de Lionel Messi en la selección argentina",
-     "id": "6dfedb0cc670"
+     "published": "2026-08-07T03:16:42+00:00",
+     "copete": "Los enfrentamientos iniciaron alrededor de las 17 y se registraron en las afueras del Congreso, mientras en el interior del Senado se debatía la Ley de inviolabilidad de la propiedad privada. Los disturbios se extendieron hasta casi la…",
+     "id": "4c01ead743d6"
     },
     {
-     "title": "Unión le ganó 2-1 a Lanús en el duelo que completó la segunda fecha del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/08/06/lanus-visitara-a-union-de-santa-fe-para-completar-la-segunda-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
+     "title": "Ley de propiedad privada en el Senado, EN VIVO: se debate el proyecto de Milei, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-en-el-senado-en-vivo-se-debate-el-proyecto-de-milei-minuto-a-minuto-nid06082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:16:20+00:00",
+     "copete": "El oficialismo busca aprobar el proyecto en la Cámara alta en una jornada de alta tensión política; se prevé una gran movilización en las inmediaciones del Congreso",
+     "id": "1a90977ed3b7"
+    },
+    {
+     "title": "La inesperada aparición del riesgo Milei",
+     "link": "https://www.lanacion.com.ar/opinion/la-inesperada-aparicion-del-riesgo-milei-nid07082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:15:00+00:00",
+     "copete": "El Presidente enfrenta el peligro de causar el efecto contrario al deseado; la confianza en lograr la reelección que pretende transmitir a los inversores choca con la urgencia por demostrar que puede aprobar reformas electorales en el…",
+     "id": "b349daf5027c"
+    },
+    {
+     "title": "La consolidación de la izquierda radical en los Estados Unidos",
+     "link": "https://www.lanacion.com.ar/opinion/la-consolidacion-de-la-izquierda-radical-en-los-estados-unidos-nid07082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:15:00+00:00",
+     "copete": "La Democratic Socialists of America pasó de 6000 miembros en 2015 a más de 120.000 en 2026 y se convirtió en la organización socialista más numerosa e influyente de la historia estadounidense contemporánea",
+     "id": "39edd3888f44"
+    },
+    {
+     "title": "Las claves del desayuno salado: lo que se repite en Okinawa, Nicoya y Cerdeña según el creador de The Blue Zones",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/07/zonas-azules-y-desayuno-salado-lo-que-se-repite-en-okinawa-nicoya-y-cerdena-segun-el-creador-de-the-blue-zones/",
      "source": "Infobae",
-     "published": "2026-08-06T23:57:09+00:00",
-     "copete": "El Tatengue consiguió su primera victoria en el certamen frente a un Granate que sigue sin sumar de a tres",
-     "id": "e9ee6482275a"
+     "published": "2026-08-07T03:13:44+00:00",
+     "copete": "En estos territorios longevos, la mañana arranca con preparaciones simples de legumbres, verduras y granos integrales, muy lejos de la repostería y los productos industriales que dominan la oferta masiva",
+     "id": "6e2a325d050f"
     },
     {
-     "title": "Un águila volvió a volar en libertad después de haber recibido atención veterinaria por una intoxicación por plomo: \"Nuestro más sincero agradecimiento a todos los que participaron en la recuperación de esta águila y en su regreso a la naturaleza\"",
-     "link": "https://www.clarin.com/internacional/aguila-volvio-volar-libertad-despues-recibido-atencion-veterinaria-intoxicacion-plomo-sincero-agradecimiento-participaron-recuperacion-aguila-regreso-naturaleza_0_oVIB0pE4n2.html",
+     "title": "Envejecer y crecer: las claves del BID para transformar la transición demográfica en una oportunidad económica",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/07/envejecer-y-crecer-las-claves-del-bid-para-transformar-la-transicion-demografica-en-una-oportunidad-economica/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:12:08+00:00",
+     "copete": "El debate se corre del diagnóstico a las herramientas políticas. Entre regímenes especiales, empleo no registrado y reformas “chiquitas”, asoma una discusión de fondo sobre quién queda dentro del sistema",
+     "id": "25affdbfd67c"
+    },
+    {
+     "title": "Nicaragüenses están viéndose afectados por recibir dólares dañados de cajeros, mientras el Banco Central que no regula el canje",
+     "link": "https://www.infobae.com/nicaragua/2026/08/07/nicaraguenses-estan-viendose-afectados-por-recibir-dolares-danados-de-cajeros-mientras-el-banco-central-que-no-regula-el-canje/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:10:18+00:00",
+     "copete": "Las quejas apuntan a billetes de USD 20 manchados o rotos; un usuario retiró USD 400 y terminó con USD 60 afectados y descuentos en el mercado informal",
+     "id": "bf61c8b65f79"
+    },
+    {
+     "title": "La agenda de la TV y streaming del viernes: la cuarta fecha del Clausura y continúa el Masters 1000 de Canadá",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-y-streaming-del-viernes-la-cuarta-fecha-del-clausura-y-continua-el-masters-1000-nid06082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:10:00+00:00",
+     "copete": "Ciclismo, béisbol y golf completan la actividad deportiva en la previa del fin de semana, disponible a través de las pantallas",
+     "id": "ee63b00d3618"
+    },
+    {
+     "title": "La tormenta y la marcha al Congreso se hicieron sentir en el primer día de la Feria de Editores",
+     "link": "https://www.clarin.com/cultura/tormenta-marcha-congreso-hicieron-sentir-primer-dia-feria-editores_0_mCheJTb5Rv.html",
      "source": "Clarín",
-     "published": "2026-08-06T23:52:59+00:00",
-     "copete": "Un animal silvestre fue reinsertado en su hábitat natural tras haber sido rescatado y rehabilitado. El hecho ocurrió en Canadá.",
-     "id": "6b24f1dbaf6a"
+     "published": "2026-08-07T02:40:01+00:00",
+     "copete": "La primera jornada de la feria que reune editoriales independientes del país, la región y de España tuvo una asistencia media. El sistema de ingreso con código QR no presentó problemas, aunque tampoco fue exigido al máximo. Los editores…",
+     "id": "65bf58972c7d"
     },
     {
-     "title": "Dolor en Chubut: murió el intendente de Gaiman, Darío Ernesto James",
-     "link": "https://www.clarin.com/politica/dolor-chubut-murio-intendente-gaiman-dario-ernesto-james_0_yEIUDU4YWR.html",
+     "title": "Camilota presentó a su nueva novia y contó su historia de amor: \"Hoy, por fin, podemos dejar de escondernos\"",
+     "link": "https://www.clarin.com/fama/camilota-presento-nueva-novia-conto-historia-amor-hoy-fin-podemos-dejar-escondernos_0_O54wXtPnk4.html",
      "source": "Clarín",
-     "published": "2026-08-06T23:52:58+00:00",
-     "copete": "Falleció en medio de una compleja operación al corazón mientras estaba de licencia médica. El mensaje de despedida del gobernador Nacho Torres: \"Se va un gran intendente\".",
-     "id": "d553e78385f6"
-    },
-    {
-     "title": "El Senado debate la Ley de inviolabilidad de la propiedad privada y se espera una sesión maratónica",
-     "link": "https://www.infobae.com/politica/2026/08/06/ley-de-propiedad-privada-en-el-senado-en-vivo-las-ultimas-noticias-del-debate-hoy-6-de-agosto/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:51:43+00:00",
-     "copete": "Luego de varios cruces y un intento fallido del PJ por levantar la sesión, el recinto discute la iniciativa enviada por el Poder Ejecutivo. Afuera se realiza una manifestación y hubo incidentes",
-     "id": "16f24a86beda"
-    },
-    {
-     "title": "Valle Hermoso: el pueblo que fue vendido por completo y se convirtió en un antecedente histórico de la Ley de Tierras",
-     "link": "https://www.infobae.com/politica/2026/08/06/valle-hermoso-el-pueblo-que-fue-vendido-completo-y-se-convirtio-en-un-antecedente-historico-de-la-ley-de-tierras/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:50:36+00:00",
-     "copete": "La operación, realizada en 2008, puso a un pueblo completo en manos de un inversor extranjero y dejó un precedente que redefinió el debate sobre la propiedad rural y la extranjerización de las tierras",
-     "id": "e797f5d52fe3"
+     "published": "2026-08-07T01:28:28+00:00",
+     "copete": "La hermana de Thiago Medina y ex Cuestión de Peso confirmó su nuevo noviazgo a través de las redes. La pareja celebró haber dado un nuevo paso en su relación con una romántica cena.",
+     "id": "661c6adb8967"
     }
    ]
   },
@@ -431,6 +447,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Multan a Meta con US$567 millones en el mayor fallo sobre seguridad infantil contra el gigante de las redes sociales",
+     "link": "https://www.bbc.com/mundo/articles/cd7lzn00vd8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-07T02:54:04+00:00",
+     "copete": "Un juez de Nuevo México ordenó a la empresa matriz de Instagram, Facebook y WhatsApp pagar por el daño causado a los niños.",
+     "id": "a108bd471612"
+    },
     {
      "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
      "link": "https://www.bbc.com/mundo/articles/cgk4ek6xke3o?at_medium=RSS&at_campaign=rss",
@@ -486,14 +510,6 @@
      "published": "2026-08-06T17:01:43+00:00",
      "copete": "Los ministros alertan de que la cercanía del conflicto ha frenado las inversiones, reducido la llegada de turistas y agravado la crisis de las economías locales",
      "id": "45041a2d6c8c"
-    },
-    {
-     "title": "Cómo los buques varados en el estrecho de Ormuz pueden desencadenar una \"superpropagación\" de especies marinas invasoras",
-     "link": "https://www.bbc.com/mundo/articles/cn0nk8858j9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-06T16:46:09+00:00",
-     "copete": "En un nuevo informe, biólogos de distintos países advierten que los barcos varados en el estrecho de Ormuz podrían transportar especies invasoras por todo el mundo cuando el transporte marítimo vuelva a la normalidad.",
-     "id": "5715b5c000d4"
     }
    ]
   }
@@ -501,17 +517,7 @@
  "_errors": [
   {
    "section": "oncologia",
-   "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
