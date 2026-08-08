@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:06:44Z",
+  "generated_at": "2026-08-08T22:10:00Z",
   "summaries": {
     "7845bf517bca": {
       "resumen": "OncLive presenta el quiz semanal de noticias oncológicas de la semana del 7 de agosto de 2026, que repasa las novedades más relevantes en melanoma, cáncer de páncreas, cáncer de mama y tumores neuroendocrinos. Sirve como repaso rápido en formato de preguntas y respuestas, sin aportar datos originales de investigación.",
@@ -7,10 +7,6 @@
     },
     "523236c08bd0": {
       "resumen": "OncLive repasa cómo interpretar el testeo de anticuerpos contra los canales de calcio voltaje-dependientes (VGCC) en cáncer de pulmón de células pequeñas (CPCP), incluyendo el abordaje del paciente seronegativo. Es útil como guía práctica de laboratorio para un cuadro paraneoplásico (síndrome miasténico de Lambert-Eaton) asociado a este tumor.",
-      "destacado": false
-    },
-    "92c97b6e2266": {
-      "resumen": "OncLive entrevista al Dr. Thompson sobre el uso de inhibidores de la 5-alfa reductasa (5-ARI) durante la vigilancia activa en cáncer de próstata de bajo riesgo. Aporta la mirada clínica sobre una estrategia para monitorear tumores sin tratamiento inmediato.",
       "destacado": false
     },
     "b0b83eb90fe9": {
@@ -44,41 +40,11 @@
       "resumen": "Artículo de opinión en el Journal of Clinical Oncology sobre los interrogantes que plantea la estrategia terapéutica en el cáncer de tiroides diferenciado con mutación BRAF V600E (una alteración genética que activa la vía de señalización MAPK). Discute cómo elegir entre las distintas opciones dirigidas disponibles para este subgrupo molecular.",
       "destacado": false
     },
-    "e8ce7f247050": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Caro Editions, presentada en la Semana de la Moda de Copenhague."
-    },
-    "fefc8c42ab0a": {
-      "resumen": "ELLE repasa las tendencias y los looks que más se lucen este verano en las terrazas de Madrid."
-    },
-    "3028b3bc4301": {
-      "resumen": "Harper's BAZAAR anticipa que el color ciruela, por delante del burdeos y el marrón, será el tono favorito de la moda este otoño."
-    },
-    "0130cbfd1b50": {
-      "resumen": "Cosmopolitan repasa cinco tendencias de otoño 2026 que ya llegaron a Zara y están disponibles para comprar hoy."
-    },
-    "d85da333fd53": {
-      "resumen": "Vanitatis destaca el look que se adelanta a las grandes tendencias de otoño-invierno, ya visto en la Semana de la Moda de Copenhague."
-    },
-    "6630c61f61cc": {
-      "resumen": "Vogue México propone cómo combinar los zapatos rojos con jeans, polleras y vestidos para lucir elegante este verano 2026."
-    },
-    "f3a2ca77cebb": {
-      "resumen": "Vogue México muestra cómo Zendaya lució su anillo de casamiento combinando jeans rectos con zapatos color rojo este verano 2026."
-    },
-    "d60896175d6a": {
-      "resumen": "La compañía teatral La Zaranda suspende su temporada en Buenos Aires porque su fundador, Paco de La Zaranda, se recupera de un infarto."
-    },
     "b985d41fa183": {
       "resumen": "Una selección de planes para hacer este fin de semana en la Ciudad de Buenos Aires."
     },
     "c34ebbf24ed6": {
       "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
-    },
-    "d7ec68cf6be5": {
-      "resumen": "Diario de viajes y turismo destaca a Buenos Aires como la capital gastronómica de Iberoamérica."
-    },
-    "3d6044a508c7": {
-      "resumen": "El espectáculo Vox Popurri se despide de la calle Corrientes con una función única en el Teatro Picadilly."
     },
     "d59d5cfa8362": {
       "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
@@ -86,14 +52,51 @@
     "9c58dfe6f8b8": {
       "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
     },
-    "a86872bc8e3c": {
-      "resumen": "Alicia en el país de las maravillas llega al Teatro Buenos Aires en una versión musical."
-    },
     "b8ab4189d93d": {
       "resumen": "Más de 60 planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
     },
     "1237f41db531": {
       "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
+    },
+    "f077f8da71ff": {
+      "resumen": "OncLive presenta 'The OncFive', su selección semanal de los cinco artículos más destacados de oncología correspondientes a la semana del 2 de agosto de 2026. Funciona como un repaso curado de las noticias más relevantes de la semana, sin datos originales de investigación propios.",
+      "destacado": false
+    },
+    "ed67f2ef5874": {
+      "resumen": "Vogue repasa la colección primavera 2027 que la marca Iamisigo presentó en la Semana de la Moda de Copenhague."
+    },
+    "ec98b371c0a5": {
+      "resumen": "eltrece repasa la prenda deportiva que dejó el gimnasio para instalarse como tendencia de moda y ya es la favorita de las expertas."
+    },
+    "4a41b944e7ff": {
+      "resumen": "Vogue México repasa los looks que lució Harry Styles en sus conciertos en la Ciudad de México."
+    },
+    "9570593c24bc": {
+      "resumen": "Semana presenta la nueva selección de moda baño de H&M, con cortes asimétricos, tiro alto ('high leg') y brillo, entre las tendencias más buscadas de la temporada."
+    },
+    "aa107d83abff": {
+      "resumen": "Vogue México muestra cómo Meghan Markle combinó los aros de Lady Di, la princesa Diana, con un vestido asimétrico en una salida elegante."
+    },
+    "e42f1330814a": {
+      "resumen": "Infobae repasa los vestidos que usaron las últimas primeras damas de Colombia en actos oficiales y cuánto costaron."
+    },
+    "eaee7dc36f2d": {
+      "resumen": "Vogue México presenta el tráiler y el elenco de 'Mal de amores', la serie basada en la novela de Ángeles Mastretta."
+    },
+    "b2f1a9fcb133": {
+      "resumen": "CAMBIO Colombia repasa cómo el estilo de Rosalía se convirtió en referencia de tendencias en la moda."
+    },
+    "8405cfd53524": {
+      "resumen": "La bailarina Mora Godoy se presenta en el Teatro San Martín y asegura que la sala porteña puede competir con cualquier teatro del mundo."
+    },
+    "023318c84b1b": {
+      "resumen": "El cantante de jazz Milton Suggs debuta en Buenos Aires con una serie de cuatro recitales."
+    },
+    "519987de9356": {
+      "resumen": "La Legislatura porteña reconoció a la sala El Excéntrico de la 18 por sus 40 años de trayectoria en el teatro independiente."
+    },
+    "252a1a2e232f": {
+      "resumen": "El actor Osqui Guzmán cuenta las claves de 'WAMINIX', su espectáculo de circo contemporáneo que combina resistencia y teatro en la sala Timbre 4."
     }
   }
 }
