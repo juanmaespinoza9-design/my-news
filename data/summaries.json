@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-08-09T10:09:07Z",
+  "generated_at": "2026-08-09T22:08:19Z",
   "summaries": {
-    "7845bf517bca": {
-      "resumen": "OncLive presenta el quiz semanal de noticias oncológicas de la semana del 7 de agosto de 2026, que repasa las novedades más relevantes en melanoma, cáncer de páncreas, cáncer de mama y tumores neuroendocrinos. Sirve como repaso rápido en formato de preguntas y respuestas, sin aportar datos originales de investigación.",
-      "destacado": false
-    },
-    "523236c08bd0": {
-      "resumen": "OncLive repasa cómo interpretar el testeo de anticuerpos contra los canales de calcio voltaje-dependientes (VGCC) en cáncer de pulmón de células pequeñas (CPCP), incluyendo el abordaje del paciente seronegativo. Es una guía práctica de laboratorio para el síndrome miasténico de Lambert-Eaton, un cuadro paraneoplásico asociado a este tumor.",
-      "destacado": false
-    },
     "b0b83eb90fe9": {
       "resumen": "The ASCO Post reporta que agregar durvalumab (anticuerpo monoclonal anti-PD-L1) a la instilación de BCG (bacilo de Calmette-Guérin) mejora los resultados en cáncer de vejiga no músculo-invasivo de alto riesgo. Es relevante porque podría sumar inmunoterapia al tratamiento estándar intravesical en un subgrupo con alto riesgo de recaída.",
       "destacado": true,
@@ -18,10 +10,6 @@
       "resumen": "The ASCO Post presenta datos sobre los niveles de hormona antimülleriana (AMH, marcador de reserva ovárica) como posible predictor del beneficio de la quimioterapia adyuvante en mujeres premenopáusicas con cáncer de mama. Interesa porque podría ayudar a seleccionar mejor a quiénes indicar quimioterapia además de la terapia hormonal.",
       "destacado": false,
       "analisis": "Diseño: El título no especifica si se trata de un análisis prospectivo, retrospectivo o un subestudio de un ensayo mayor, ni el número de centros o pacientes.\nPoblación: Mujeres premenopáusicas con cáncer de mama en las que se evaluó el nivel de hormona antimülleriana (AMH, marcador de reserva ovárica) como factor asociado al beneficio de la quimioterapia adyuvante.\nIntervención: No es una intervención nueva sino el uso del nivel de AMH como biomarcador para estratificar el beneficio de la quimioterapia adyuvante, presumiblemente sumada a terapia endocrina.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el método de medición de la AMH ni si el hallazgo fue validado de forma independiente.\nMensaje: Si se confirma, la AMH podría sumarse como herramienta para individualizar la indicación de quimioterapia en mujeres premenopáusicas con cáncer de mama, evitando sobretratamiento o subtratamiento según la reserva ovárica.\nNota: análisis sin acceso al abstract."
-    },
-    "b94fbf8205b9": {
-      "resumen": "The ASCO Post cubre un nuevo informe de situación de la Organización Mundial de la Salud (OMS) sobre cáncer, que llama a la acción global. Da contexto epidemiológico y de políticas públicas, sin datos de un estudio clínico puntual.",
-      "destacado": false
     },
     "605232b57a65": {
       "resumen": "Revisión del Journal of Clinical Oncology sobre el manejo contemporáneo de la leucemia linfática crónica (LLC) en recaída o refractaria, es decir cuando la enfermedad reaparece o no responde al tratamiento inicial. Interesa porque repasa el arsenal terapéutico actual —inhibidores de BTK (tirosina quinasa de Bruton), inhibidores de BCL-2 e inmunoterapia con células CAR-T— para esta situación clínica frecuente.",
@@ -44,17 +32,11 @@
     "b985d41fa183": {
       "resumen": "Una selección de planes para hacer este fin de semana en la Ciudad de Buenos Aires."
     },
-    "c34ebbf24ed6": {
-      "resumen": "Revista OHLALÁ! repasa los lugares que eligió Rosalía para comer durante su paso por Buenos Aires."
-    },
     "d59d5cfa8362": {
       "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
     },
     "9c58dfe6f8b8": {
       "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
-    },
-    "b8ab4189d93d": {
-      "resumen": "Más de 60 planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
     },
     "1237f41db531": {
       "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
@@ -66,29 +48,8 @@
     "ed67f2ef5874": {
       "resumen": "Vogue repasa la colección primavera 2027 que la marca Iamisigo presentó en la Semana de la Moda de Copenhague."
     },
-    "ec98b371c0a5": {
-      "resumen": "eltrece repasa la prenda deportiva que dejó el gimnasio para instalarse como tendencia de moda y ya es la favorita de las expertas."
-    },
-    "4a41b944e7ff": {
-      "resumen": "Vogue México repasa los looks que lució Harry Styles en sus conciertos en la Ciudad de México."
-    },
     "8405cfd53524": {
       "resumen": "La bailarina Mora Godoy se presenta en el Teatro San Martín y asegura que la sala porteña puede competir con cualquier teatro del mundo."
-    },
-    "892732fbcee6": {
-      "resumen": "Divinity repasa cómo vestir para la Feria de Málaga 2026, con las tendencias del momento y los lugares imperdibles para visitar."
-    },
-    "5ba0c0c376a2": {
-      "resumen": "Infobae analiza cómo el estilo de Whitney Houston sigue marcando tendencia en la moda contemporánea, años después de su muerte."
-    },
-    "92d4034a8dba": {
-      "resumen": "La Gaceta repasa las tendencias del verano 2027 que dejó la Semana de la Moda de Copenhague, marcada por un espíritu más divertido."
-    },
-    "6630c61f61cc": {
-      "resumen": "Vogue México propone cómo combinar los zapatos rojos con jeans, polleras y vestidos para lucir elegante este verano."
-    },
-    "e8652d0b3dd5": {
-      "resumen": "Vogue México selecciona tres modelos de zapatos rojos de Zara para combinar con jeans oxford (flare) este verano."
     },
     "97b994d1d817": {
       "resumen": "La banda Las Pelotas volverá a tocar en el Teatro Vorterix de Buenos Aires en octubre."
@@ -98,6 +59,48 @@
     },
     "cbb67109f1d8": {
       "resumen": "Perfil repasa la trayectoria de dos grupos históricos que celebran varias décadas dedicadas al teatro independiente."
+    },
+    "5d8d6d6d4b41": {
+      "resumen": "OncLive recopila todos los episodios de su podcast \"OncLive On Air\" emitidos en julio de 2026, con entrevistas y discusiones sobre distintos temas oncológicos. Es un compilado de contenido ya publicado, sin datos de investigación originales, útil para quien se perdió algún episodio.",
+      "destacado": false
+    },
+    "a13fc1db6c1d": {
+      "resumen": "OncLive selecciona los cinco videos más vistos de la semana del 2 de agosto de 2026, un formato breve que resume noticias y opiniones de especialistas en oncología. Sirve como repaso rápido de lo más consultado, sin aportar evidencia nueva.",
+      "destacado": false
+    },
+    "088ef8c19018": {
+      "resumen": "The ASCO Post entrevista al oncólogo Benjamin P. Levy sobre el panorama actual de tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) con mutación KRAS G12C, una alteración genética que activa el crecimiento tumoral y ya cuenta con inhibidores específicos aprobados. Interesa por el repaso experto de las opciones terapéuticas disponibles y en desarrollo para este subgrupo molecular.",
+      "destacado": false
+    },
+    "1267d38fa8a6": {
+      "resumen": "eltrece cuenta cuál es el abrigo que se impone esta temporada por encima del negro y el camel, y por qué combina con todo."
+    },
+    "fbbadf1089dc": {
+      "resumen": "ELLE selecciona diez prendas en rebajas para sumar al placard de cara al verano 2026."
+    },
+    "aec1c88a0b9a": {
+      "resumen": "Vogue México repasa seis modelos de blusas ochentosas que vuelven a estar de moda para combinar con jeans, polleras y pantalones este verano."
+    },
+    "e112bbfbe371": {
+      "resumen": "Vogue México revela detalles del vestuario de \"La Casa del Dragón\", con más de mil trajes confeccionados y símbolos bordados que esconden significados de la trama."
+    },
+    "59454a4d7d48": {
+      "resumen": "OkDiario cuenta que la falda estilo piloto o chubasquero que lució Charlize Theron en Seúl se perfila como la próxima tendencia que reemplazará a las faldas clásicas."
+    },
+    "56fd2f2b5220": {
+      "resumen": "Vogue México anticipa que los zapatos mules con taco serán el calzado clave para combinar con jeans rectos este agosto."
+    },
+    "7ff89d51c5d2": {
+      "resumen": "Teleshow repasa el debut de Daniela Celis en la obra \"Sex\", marcado por la sensualidad y el humor de la puesta."
+    },
+    "4fbced80628f": {
+      "resumen": "Perfil recomienda planes para el fin de semana largo en la Ciudad, con los festejos del 9 de Julio y los Fan Fest como propuestas centrales."
+    },
+    "ca0abd38d9d7": {
+      "resumen": "Clarín reúne más de sesenta planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
+    },
+    "95788e373719": {
+      "resumen": "Infobae cuenta que Pep Guardiola estuvo a punto de dirigir a la selección de Italia y por qué finalmente rechazó la propuesta."
     }
   }
 }
