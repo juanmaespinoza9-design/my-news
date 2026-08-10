@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-08-10T10:15:00Z",
+  "generated_at": "2026-08-10T22:09:37Z",
   "summaries": {
-    "b0b83eb90fe9": {
-      "resumen": "The ASCO Post reporta que agregar durvalumab (anticuerpo monoclonal anti-PD-L1) a la instilación de BCG (bacilo de Calmette-Guérin) mejora los resultados en cáncer de vejiga no músculo-invasivo de alto riesgo. Es relevante porque podría sumar inmunoterapia al tratamiento estándar intravesical en un subgrupo con alto riesgo de recaída.",
+    "1e2f830adbee": {
+      "resumen": "OncLive reporta datos preliminares de una vacuna de ARN mensajero (ARNm) personalizada contra el adenocarcinoma ductal de páncreas (PDAC, por sus siglas en inglés), que abrirían la posibilidad de remisiones a largo plazo. Vale la pena seguirlo porque el cáncer de páncreas tiene mal pronóstico y hoy hay pocas estrategias inmunoterápicas efectivas.",
+      "destacado": false,
+      "analisis": "Diseño: Datos tempranos (early data) presentados en OncLive; el título no especifica si se trata de un ensayo fase I/II, el número de pacientes, la aleatorización ni si es multicéntrico.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC), uno de los tumores sólidos de peor pronóstico.\nIntervención: Vacuna basada en ARN mensajero (ARNm), presumiblemente individualizada contra neoantígenos tumorales; el título no especifica comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Son datos preliminares (early data), por lo que el seguimiento y el tamaño muestral probablemente sean acotados; sin el trabajo completo no se puede evaluar la magnitud del beneficio ni la toxicidad.\nMensaje: Si se confirma en estudios más grandes, podría abrir una vía inmunoterápica novedosa para un tumor con opciones limitadas y mal pronóstico; por ahora es una señal temprana, no un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "42cb111d92d2": {
+      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) emitió una carta de respuesta completa (CRL, complete response letter) para el 177Lu-Edotreotide, un radiofármaco dirigido a receptores de somatostatina, en tumores neuroendocrinos gastroenteropancreáticos (GEP-NETs). Es una noticia regulatoria relevante porque retrasa el acceso a una nueva terapia dirigida con radionúclidos para estos tumores.",
+      "destacado": false
+    },
+    "188e6a620a60": {
+      "resumen": "OncLive entrevista al Dr. Boiarsky sobre el rol de los macrófagos asociados a tumor (células del sistema inmune que pueden favorecer el crecimiento tumoral) en el cáncer de pulmón de células no pequeñas (CPCNP) metastásico. Sirve como panorama experto de un blanco inmunológico en investigación para este tumor.",
+      "destacado": false
+    },
+    "643e3e7fed94": {
+      "resumen": "The ASCO Post informa sobre un ensayo de fase III que respalda intensificar la terapia neoadyuvante total (TNT, combinación de quimioterapia y radioterapia antes de la cirugía) en cáncer de recto de alto riesgo. Interesa porque podría cambiar el esquema estándar de tratamiento preoperatorio en este subgrupo con mayor riesgo de recaída.",
       "destacado": true,
-      "analisis": "Diseño: El título no precisa la fase del ensayo, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo (superficial) de alto riesgo, candidatos a tratamiento intravesical.\nIntervención: Agregado de durvalumab (anticuerpo monoclonal anti-PD-L1) a la instilación intravesical de BCG (bacilo de Calmette-Guérin), comparado presumiblemente con BCG solo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el criterio de valoración principal (supervivencia libre de recurrencia o de progresión) ni el perfil de toxicidad de sumar inmunoterapia a la BCG.\nMensaje: Si se confirma el beneficio, podría posicionar a la inmunoterapia como complemento del estándar intravesical en un grupo con alto riesgo de recaída y progresión, aunque se necesitan los datos completos antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico de fase III; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de recto de alto riesgo, candidatos a tratamiento preoperatorio.\nIntervención: Esquema intensificado de terapia neoadyuvante total (TNT, quimioterapia más radioterapia antes de la cirugía), comparado presumiblemente con un esquema de TNT estándar o con quimiorradioterapia convencional.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el criterio de valoración principal (por ejemplo supervivencia libre de enfermedad o respuesta patológica completa), la magnitud del beneficio ni el perfil de toxicidad de la intensificación.\nMensaje: De confirmarse, podría respaldar un esquema más intensivo de TNT como nuevo estándar preoperatorio en cáncer de recto de alto riesgo, aunque se necesitan los datos completos para dimensionar el beneficio real.\nNota: análisis sin acceso al abstract."
+    },
+    "98076692f9c8": {
+      "resumen": "The ASCO Post reporta que la Comisión sobre el Cáncer del Colegio Americano de Cirujanos lanzó una nueva acreditación para programas oncológicos rurales. Es una noticia institucional relevante para pensar el acceso equitativo a la atención oncológica de calidad fuera de los grandes centros urbanos.",
+      "destacado": false
+    },
+    "2a4bcfbd62bb": {
+      "resumen": "The ASCO Post reporta sobre una intervención con apoyo tecnológico dirigida a receptores de trasplante de células hematopoyéticas (HCT, por sus siglas en inglés) y a sus médicos de atención primaria, que podría mejorar la pesquisa de cáncer de piel. Interesa porque los receptores de trasplante tienen mayor riesgo de tumores cutáneos y el rastreo suele ser subóptimo.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio de intervención con apoyo tecnológico; no se especifica si es un ensayo aleatorizado, el número de participantes ni de centros.\nPoblación: Receptores de trasplante de células hematopoyéticas (HCT) y sus médicos de atención primaria.\nIntervención: Herramienta o intervención tecnológica dirigida a pacientes y médicos para mejorar la pesquisa de cáncer de piel, sin comparador explícito en el título.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el diseño exacto, el tamaño de la muestra ni si se midieron desenlaces duros (detección de tumores) o solo tasas de derivación a control dermatológico.\nMensaje: Podría ofrecer una estrategia simple y escalable para mejorar la pesquisa dermatológica en una población de alto riesgo por inmunosupresión crónica post-trasplante.\nNota: análisis sin acceso al abstract."
     },
     "605232b57a65": {
       "resumen": "Revisión del Journal of Clinical Oncology sobre el manejo contemporáneo de la leucemia linfática crónica (LLC) en recaída o refractaria, es decir cuando la enfermedad reaparece o no responde al tratamiento inicial. Interesa porque repasa el arsenal terapéutico actual —inhibidores de BTK (tirosina quinasa de Bruton), inhibidores de BCL-2 e inmunoterapia con células CAR-T— para esta situación clínica frecuente.",
@@ -24,8 +46,50 @@
       "resumen": "Artículo de opinión en el Journal of Clinical Oncology sobre los interrogantes que plantea la estrategia terapéutica en el cáncer de tiroides diferenciado con mutación BRAF V600E (una alteración genética que activa la vía de señalización MAPK). Discute cómo elegir entre las distintas opciones dirigidas disponibles para este subgrupo molecular.",
       "destacado": false
     },
-    "b985d41fa183": {
-      "resumen": "Una selección de planes para hacer este fin de semana en la Ciudad de Buenos Aires."
+    "ee8fc6df377a": {
+      "resumen": "Vogue presenta la colección primavera 2027 de la marca Stel, mostrada en la Semana de la Moda de Copenhague."
+    },
+    "8964b4f598fd": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Akikoaoki, presentada en la Semana de la Moda de Tokio."
+    },
+    "5870b1d0097a": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Harunobumurata, presentada en la Semana de la Moda de Tokio."
+    },
+    "ce6a71d3c3f1": {
+      "resumen": "Vogue muestra la colección primavera 2027 de The Royal Danish Academy, presentada en la Semana de la Moda de Copenhague."
+    },
+    "b4a90153616d": {
+      "resumen": "Vogue México analiza cómo el estilo de la cantante KARINA, integrante de aespa, confirma el regreso del calzado con plataforma."
+    },
+    "af26730b36be": {
+      "resumen": "Vogue México invita a conocer Vogue Leaders Panamá 2026, un evento que reúne a referentes de la moda."
+    },
+    "aa1d6f2d1808": {
+      "resumen": "Revista Para Ti repasa seis tendencias del verano europeo que anticipan lo que se va a usar en la próxima temporada."
+    },
+    "e5c9292beecf": {
+      "resumen": "Trendencias señala cinco tendencias de otoño 2026 que ya están disponibles en Zara."
+    },
+    "225961a259a0": {
+      "resumen": "Vogue México ofrece opciones concretas para colaborar con las víctimas del terremoto de magnitud 7,4 que sacudió Colombia."
+    },
+    "a21299249bcc": {
+      "resumen": "ELLE cuenta cómo la actriz española Lydia Bosch combinó un traje de dos piezas blanco con zapatillas, un look tendencia de este verano."
+    },
+    "d52aee718080": {
+      "resumen": "Señal News repasa que la obra infantil 'La Granja de Zenón, en Busca del Arcoíris' fue la más vista entre el público infantil en Buenos Aires."
+    },
+    "642f1938a248": {
+      "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
+    },
+    "ac94dcc31ca4": {
+      "resumen": "Los Andes cuenta por qué demolieron el histórico teatro bar Los Angelitos y qué se construirá en su lugar."
+    },
+    "43cf80df0ae5": {
+      "resumen": "La Nación detalla la fecha y la venta de entradas para el show de Los Nocheros en Buenos Aires por sus 40 años de trayectoria."
+    },
+    "000e2c7aeca0": {
+      "resumen": "Il Globo repasa 'Tradición/Traición', la propuesta de Viviana Mercurio entre las raíces culturales, la ruptura y la libertad."
     },
     "d59d5cfa8362": {
       "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
@@ -33,67 +97,14 @@
     "9c58dfe6f8b8": {
       "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
     },
-    "1237f41db531": {
-      "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
-    },
-    "ed67f2ef5874": {
-      "resumen": "Vogue repasa la colección primavera 2027 que la marca Iamisigo presentó en la Semana de la Moda de Copenhague."
-    },
-    "97b994d1d817": {
-      "resumen": "La banda Las Pelotas volverá a tocar en el Teatro Vorterix de Buenos Aires en octubre."
-    },
-    "b81fe71d2f5f": {
-      "resumen": "La banda Kapanga se presentará nuevamente en el Teatro Flores de Buenos Aires este agosto."
-    },
-    "cbb67109f1d8": {
-      "resumen": "Perfil repasa la trayectoria de dos grupos históricos que celebran varias décadas dedicadas al teatro independiente."
-    },
-    "5d8d6d6d4b41": {
-      "resumen": "OncLive recopila todos los episodios de su podcast \"OncLive On Air\" emitidos en julio de 2026, con entrevistas y discusiones sobre distintos temas oncológicos. Es un compilado de contenido ya publicado, sin datos de investigación originales, útil para quien se perdió algún episodio.",
-      "destacado": false
-    },
-    "a13fc1db6c1d": {
-      "resumen": "OncLive selecciona los cinco videos más vistos de la semana del 2 de agosto de 2026, un formato breve que resume noticias y opiniones de especialistas en oncología. Sirve como repaso rápido de lo más consultado, sin aportar evidencia nueva.",
-      "destacado": false
-    },
-    "088ef8c19018": {
-      "resumen": "The ASCO Post entrevista al oncólogo Benjamin P. Levy sobre el panorama actual de tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) con mutación KRAS G12C, una alteración genética que activa el crecimiento tumoral y ya cuenta con inhibidores específicos aprobados. Interesa por el repaso experto de las opciones terapéuticas disponibles y en desarrollo para este subgrupo molecular.",
-      "destacado": false
-    },
     "ca0abd38d9d7": {
       "resumen": "Clarín reúne más de sesenta planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
     },
-    "83307fe4f5b6": {
-      "resumen": "Anuncio de inscripción para el congreso \"Hematologic Malignancies\", a realizarse en Dallas, Texas, el 26 de agosto de 2026, centrado en neoplasias hematológicas (cánceres de la sangre como leucemias, linfomas y mieloma). Sirve para agendar una actividad de formación continua, sin datos clínicos propios.",
-      "destacado": false
+    "1237f41db531": {
+      "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
     },
-    "eacb68c61eca": {
-      "resumen": "The ASCO Post entrevista a la hematóloga Jennifer Gile sobre el tratamiento de primera línea del linfoma difuso de células B grandes (LDCBG, el linfoma no Hodgkin más frecuente) y la actualización a largo plazo del estudio POLARIX, que evaluó agregar polatuzumab vedotin (anticuerpo conjugado a droga) al esquema R-CHOP. Interesa por el análisis experto de cómo estos datos de seguimiento prolongado impactan la elección de esquema inicial.",
-      "destacado": false
-    },
-    "350eb6047209": {
-      "resumen": "La Mercedes-Benz Fashion Week de Madrid se expande y pasa a desarrollarse en ocho sedes emblemáticas de la ciudad para su próxima edición."
-    },
-    "990a376e4f24": {
-      "resumen": "Estilistas y editoras de moda señalan tres prendas de la nueva colección de Zara como las más destacadas de la temporada, según un repaso de tendencias de la revista Telva."
-    },
-    "4b8e4de20547": {
-      "resumen": "Vogue México repasa cómo termina el capítulo 8 de la tercera temporada de La Casa del Dragón y explica el desenlace de este cierre de temporada."
-    },
-    "5ffd0cb74c70": {
-      "resumen": "Vogue México recorre las teorías de los fans sobre la fecha de estreno y la trama que podría traer la cuarta temporada de La Casa del Dragón."
-    },
-    "80bea2c123c5": {
-      "resumen": "El diario El Mundo anticipa cuáles serán los ocho colores que se impondrán como tendencia a partir de septiembre de 2026."
-    },
-    "2c70625b9564": {
-      "resumen": "El Sol de México explora qué hay detrás de la tendencia \"Enfants Riches Déprimés\" (niños ricos deprimidos), una estética de moda asociada al desencanto generacional."
-    },
-    "43e92cafaef5": {
-      "resumen": "La bailarina y coreógrafa Mora Godoy opina sobre el Teatro San Martín y asegura que puede competir con las mejores salas del mundo, según Diario Núcleo."
-    },
-    "4811d8f2b904": {
-      "resumen": "Canal26 propone planes gratuitos y cercanos para hacer con chicos durante el fin de semana largo de agosto por el Día del Niño."
+    "b985d41fa183": {
+      "resumen": "Una selección de planes para hacer este fin de semana en la Ciudad de Buenos Aires."
     }
   }
 }
