@@ -1,39 +1,33 @@
 {
-  "generated_at": "2026-08-11T10:09:50Z",
+  "generated_at": "2026-08-11T22:15:00Z",
   "summaries": {
-    "e02f97c47747": {
-      "resumen": "OncLive repasa cómo aplicar evidencia del mundo real (real-world evidence, datos generados fuera de los ensayos clínicos controlados) a la terapia con células CAR-T (linfocitos T modificados genéticamente para reconocer y atacar células tumorales) en mieloma múltiple en recaída o refractario. Sirve para entender cómo se trasladan los resultados de los ensayos pivotales a la práctica clínica cotidiana.",
-      "destacado": false
-    },
-    "be1f8852d25c": {
-      "resumen": "OncLive analiza los datos de supervivencia global disponibles para intensificar el tratamiento de primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con mutación del receptor del factor de crecimiento epidérmico (EGFR), y cómo influyen en la elección del esquema terapéutico. Interesa porque ayuda a ordenar las opciones de primera línea en un subgrupo molecular frecuente.",
-      "destacado": false
-    },
-    "cd3164242771": {
-      "resumen": "OncLive explica el mecanismo de acción de la combinación amivantamab-lazertinib en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR y cómo podría prevenir la aparición de resistencia al tratamiento. Útil para entender la lógica biológica detrás de un esquema que ya se usa en la práctica.",
-      "destacado": false
-    },
-    "643e3e7fed94": {
-      "resumen": "The ASCO Post informa sobre un ensayo de fase III que respalda intensificar la terapia neoadyuvante total (TNT, combinación de quimioterapia y radioterapia antes de la cirugía) en cáncer de recto de alto riesgo. Interesa porque podría cambiar el esquema estándar de tratamiento preoperatorio en este subgrupo con mayor riesgo de recaída.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de recto de alto riesgo, candidatos a tratamiento preoperatorio.\nIntervención: Esquema intensificado de terapia neoadyuvante total (TNT, quimioterapia más radioterapia antes de la cirugía), comparado presumiblemente con un esquema de TNT estándar o con quimiorradioterapia convencional.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el criterio de valoración principal (por ejemplo supervivencia libre de enfermedad o respuesta patológica completa), la magnitud del beneficio ni el perfil de toxicidad de la intensificación.\nMensaje: De confirmarse, podría respaldar un esquema más intensivo de TNT como nuevo estándar preoperatorio en cáncer de recto de alto riesgo, aunque se necesitan los datos completos para dimensionar el beneficio real.\nNota: análisis sin acceso al abstract."
-    },
-    "98076692f9c8": {
-      "resumen": "The ASCO Post reporta que la Comisión sobre el Cáncer del Colegio Americano de Cirujanos lanzó una nueva acreditación para programas oncológicos rurales. Es una noticia institucional relevante para pensar el acceso equitativo a la atención oncológica de calidad fuera de los grandes centros urbanos.",
-      "destacado": false
-    },
-    "2a4bcfbd62bb": {
-      "resumen": "The ASCO Post reporta sobre una intervención con apoyo tecnológico dirigida a receptores de trasplante de células hematopoyéticas (HCT, por sus siglas en inglés) y a sus médicos de atención primaria, que podría mejorar la pesquisa de cáncer de piel. Interesa porque los receptores de trasplante tienen mayor riesgo de tumores cutáneos y el rastreo suele ser subóptimo.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio de intervención con apoyo tecnológico; no se especifica si es un ensayo aleatorizado, el número de participantes ni de centros.\nPoblación: Receptores de trasplante de células hematopoyéticas (HCT) y sus médicos de atención primaria.\nIntervención: Herramienta o intervención tecnológica dirigida a pacientes y médicos para mejorar la pesquisa de cáncer de piel, sin comparador explícito en el título.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el diseño exacto, el tamaño de la muestra ni si se midieron desenlaces duros (detección de tumores) o solo tasas de derivación a control dermatológico.\nMensaje: Podría ofrecer una estrategia simple y escalable para mejorar la pesquisa dermatológica en una población de alto riesgo por inmunosupresión crónica post-trasplante.\nNota: análisis sin acceso al abstract."
+    "642f1938a248": {
+      "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
     },
     "605232b57a65": {
       "resumen": "Revisión del Journal of Clinical Oncology sobre el manejo contemporáneo de la leucemia linfática crónica (LLC) en recaída o refractaria, es decir cuando la enfermedad reaparece o no responde al tratamiento inicial. Interesa porque repasa el arsenal terapéutico actual —inhibidores de BTK (tirosina quinasa de Bruton), inhibidores de BCL-2 e inmunoterapia con células CAR-T— para esta situación clínica frecuente.",
       "destacado": false,
       "analisis": "Diseño: El título indica una puesta al día de manejo clínico publicada en el Journal of Clinical Oncology; no se especifica si incluye datos originales, aleatorización ni número de pacientes o centros.\nPoblación: Pacientes con leucemia linfática crónica (LLC) en recaída (reaparición de la enfermedad) o refractaria (sin respuesta al tratamiento inicial).\nIntervención: Repaso de las opciones terapéuticas disponibles para este escenario —inhibidores de BTK (tirosina quinasa de Bruton), inhibidores de BCL-2 y terapias con células CAR-T—, sin un comparador único definido.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede establecer si aporta datos originales o sintetiza evidencia ya publicada, ni el nivel de evidencia detrás de cada recomendación.\nMensaje: Sirve como actualización práctica para ordenar la secuencia terapéutica en LLC recaída/refractaria; su impacto real en la práctica dependerá de si suma evidencia nueva o resume la existente.\nNota: análisis sin acceso al abstract."
     },
+    "9c58dfe6f8b8": {
+      "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
+    },
     "dafddd2713d1": {
       "resumen": "Actualización de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento sistémico del cáncer de próstata metastásico resistente a la castración. Sirve para tener al día las recomendaciones de manejo, ya que estas guías se revisan de forma continua a medida que aparece nueva evidencia.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de una guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO), un documento que se revisa periódicamente a medida que surge evidencia nueva; no es un estudio original con aleatorización propia.\nPoblación: Pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC, es decir que progresa pese a la supresión hormonal).\nIntervención: Recomendaciones sobre las distintas líneas de tratamiento sistémico disponibles (hormonoterapia de nueva generación, quimioterapia, radioligandos y otras terapias dirigidas), sin un comparador único.\nResultados: No aplica como desenlace primario; el documento sintetiza y actualiza recomendaciones basadas en la evidencia publicada hasta la fecha de revisión, sin aportar datos originales de supervivencia.\nLimitaciones: Al ser una guía y no un estudio original, su fuerza depende de la calidad de la evidencia que resume; sin el texto completo no se puede saber qué recomendaciones cambiaron respecto de la versión anterior.\nMensaje: Sirve como referencia actualizada para ordenar la secuencia de tratamientos en cáncer de próstata resistente a la castración, aunque no aporta datos originales de eficacia.\nNota: análisis sin acceso al abstract."
+    },
+    "d59d5cfa8362": {
+      "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
+    },
+    "ca0abd38d9d7": {
+      "resumen": "Clarín reúne más de sesenta planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
+    },
+    "fd5572f6cc1f": {
+      "resumen": "somosohlala propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
+    },
+    "92a4cf181379": {
+      "resumen": "Artículo de opinión en el Journal of Clinical Oncology sobre los interrogantes que plantea la estrategia terapéutica en el cáncer de tiroides diferenciado con mutación BRAF V600E (una alteración genética que activa la vía de señalización MAPK). Discute cómo elegir entre las distintas opciones dirigidas disponibles para este subgrupo molecular.",
       "destacado": false
     },
     "227267e595ce": {
@@ -41,69 +35,66 @@
       "destacado": false,
       "analisis": "Diseño: Reporte de seguimiento longitudinal del estudio cooperativo Children's Oncology Group (COG), protocolo ALTE11C2; el título no especifica aleatorización, cegamiento ni el número exacto de pacientes o centros participantes.\nPoblación: Pacientes pediátricos y/o sobrevivientes de cáncer infantil tratados con doxorrubicina (antraciclina cardiotóxica) que además recibieron dexrazoxano como cardioprotector.\nIntervención: Seguimiento de la función cardíaca a lo largo del tiempo tras la exposición a doxorrubicina más dexrazoxano; el título no describe un comparador activo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento, el método de evaluación cardíaca utilizado ni el tamaño muestral.\nMensaje: Aporta evidencia de largo plazo sobre la cardioprotección en sobrevivientes de cáncer infantil, un tema clave dado que la cardiotoxicidad es una de las secuelas más temidas del tratamiento con antraciclinas en pediatría.\nNota: análisis sin acceso al abstract."
     },
-    "92a4cf181379": {
-      "resumen": "Artículo de opinión en el Journal of Clinical Oncology sobre los interrogantes que plantea la estrategia terapéutica en el cáncer de tiroides diferenciado con mutación BRAF V600E (una alteración genética que activa la vía de señalización MAPK). Discute cómo elegir entre las distintas opciones dirigidas disponibles para este subgrupo molecular.",
+    "670f5c863f26": {
+      "resumen": "OncLive informa que se discontinuó el ensayo de fase 3 VERSATILE-003, que evaluaba la vacuna terapéutica PDS0101 en cáncer de cabeza y cuello de células escamosas (HNSCC, por sus siglas en inglés). Vale la pena seguirlo porque marca un traspié para las vacunas terapéuticas contra el virus del papiloma humano (VPH) en oncología, un campo que viene generando mucha expectativa.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase 3, discontinuado antes de completarse; el título no aporta datos sobre aleatorización, cegamiento, número de centros ni de pacientes enrolados hasta el corte.\nPoblación: Pacientes con carcinoma de células escamosas de cabeza y cuello (HNSCC), probablemente asociado al virus del papiloma humano (VPH), según el mecanismo de la vacuna PDS0101.\nIntervención: Vacuna terapéutica PDS0101 (dirigida contra antígenos virales); no se conoce el esquema exacto ni el comparador desde el título.\nResultados: No informados; el estudio fue discontinuado, lo que en general sugiere futilidad, problemas de seguridad o de reclutamiento, pero el motivo puntual no figura en el título.\nLimitaciones: Sin el comunicado completo no se puede precisar la razón de la discontinuación ni si hubo señales de eficacia parciales antes del corte.\nMensaje: Un revés más para las vacunas terapéuticas en cáncer de cabeza y cuello; conviene monitorear el comunicado oficial para entender si el motivo fue de eficacia o de otro tipo antes de sacar conclusiones sobre la clase terapéutica.\nNota: análisis sin acceso al abstract."
+    },
+    "f15731b808ce": {
+      "resumen": "Se trata de una página de perfil profesional de OncLive sobre el médico Alessandro A. Viansone, sin contenido noticioso específico de oncología. Probablemente corresponda a una nota biográfica o de staff editorial capturada por error junto con las noticias de la fuente.",
       "destacado": false
     },
-    "ee8fc6df377a": {
-      "resumen": "Vogue presenta la colección primavera 2027 de la marca Stel, mostrada en la Semana de la Moda de Copenhague."
+    "bfd31911b178": {
+      "resumen": "The ASCO Post repasa una encuesta internacional que identificó las principales barreras para incorporar la oncología integrativa (terapias complementarias con respaldo de evidencia, como el ejercicio, la nutrición o el manejo del estrés) en la atención del cáncer. Interesa porque señala qué frena la adopción de estas prácticas pese a la evidencia que las respalda.",
+      "destacado": false,
+      "analisis": "Diseño: Encuesta global (transversal), aplicada a profesionales vinculados a la atención oncológica; el título no precisa el número de respondentes ni los países participantes.\nPoblación: Profesionales de la salud (médicos, enfermería y otros integrantes del equipo oncológico) encuestados sobre el uso de terapias de oncología integrativa.\nIntervención: No aplica en sentido estricto: se trata de un relevamiento de opinión y práctica, no de una intervención terapéutica activa.\nResultados: No informados en el título; se sabe que identificó \"barreras\" pero no se detalla cuáles ni con qué frecuencia se reportaron.\nLimitaciones: Las encuestas transversales están sujetas a sesgo de respuesta y de representatividad geográfica; sin el cuerpo del trabajo no se puede evaluar la tasa de respuesta ni la metodología de reclutamiento.\nMensaje: Ayuda a mapear qué obstáculos (de formación, de tiempo, de evidencia o de recursos) limitan la integración de terapias complementarias en la práctica oncológica diaria, un insumo útil para diseñar estrategias de implementación.\nNota: análisis sin acceso al abstract."
     },
-    "8964b4f598fd": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Akikoaoki, presentada en la Semana de la Moda de Tokio."
+    "31ebc6d20587": {
+      "resumen": "OncLive informa que un comité asesor de la agencia regulatoria estadounidense FDA (Food and Drug Administration) va a evaluar la solicitud de aprobación premarketing de un test de detección temprana multicáncer. Importa porque estos tests buscan detectar varios tipos de cáncer con un solo análisis de sangre, y su aprobación regulatoria sería un hito para el rastreo poblacional.",
+      "destacado": false
     },
-    "5870b1d0097a": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Harunobumurata, presentada en la Semana de la Moda de Tokio."
+    "d1c55c29cb03": {
+      "resumen": "The ASCO Post reporta actividad clínica de un anticuerpo biespecífico conjugado a droga (ADC, por sus siglas en inglés), primero en su clase, en cáncer de pulmón de células pequeñas en estadio extendido y en recaída. Es una noticia relevante porque este subtipo de cáncer de pulmón tiene pocas opciones eficaces después de progresar al tratamiento inicial.",
+      "destacado": true,
+      "analisis": "Diseño: Por el título parece tratarse de un estudio clínico temprano (probablemente fase 1 o 1/2) que reporta datos de actividad antitumoral; no se especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas en estadio extendido (extensive-stage small cell lung cancer), en recaída tras el tratamiento de primera línea.\nIntervención: Un anticuerpo biespecífico conjugado a droga (ADC), descripto como \"first-in-class\" o primero en su clase; no se menciona comparador activo en el título.\nResultados: No informados en el título más allá de \"muestra actividad\"; sin el abstract no es posible precisar tasa de respuesta, supervivencia libre de progresión ni perfil de toxicidad.\nLimitaciones: Los estudios tempranos con estas características suelen tener pocos pacientes y seguimiento corto, por lo que la señal de eficacia debe confirmarse en ensayos más grandes y aleatorizados.\nMensaje: Es una señal temprana pero prometedora en un escenario de altísima necesidad clínica insatisfecha; hay que seguir su desarrollo en fases posteriores antes de pensar en un cambio de práctica.\nNota: análisis sin acceso al abstract."
     },
-    "ce6a71d3c3f1": {
-      "resumen": "Vogue muestra la colección primavera 2027 de The Royal Danish Academy, presentada en la Semana de la Moda de Copenhague."
+    "8c4845fac084": {
+      "resumen": "The ASCO Post presenta un biomarcador desarrollado con inteligencia artificial (IA) que podría ayudar a decidir qué pacientes con cáncer de páncreas operado se benefician de la quimioterapia adyuvante (la que se da después de la cirugía para reducir el riesgo de recaída). Es interesante porque el cáncer de páncreas resecado tiene un pronóstico muy heterogéneo y hoy faltan buenas herramientas para individualizar ese tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio de validación de un biomarcador basado en inteligencia artificial (probablemente sobre una cohorte retrospectiva de muestras histológicas); no se especifica el diseño exacto, el número de pacientes ni si hubo validación externa.\nPoblación: Pacientes con cáncer de páncreas resecado quirúrgicamente (enfermedad localizada, no metastásica al momento de la cirugía).\nIntervención: Aplicación de un biomarcador de inteligencia artificial (probablemente sobre imágenes histopatológicas) para estratificar el beneficio de la quimioterapia adyuvante, frente al manejo estándar sin esta herramienta.\nResultados: No informados en el título; sin el abstract no se puede precisar el desempeño del biomarcador (sensibilidad, especificidad o su asociación con la supervivencia).\nLimitaciones: Los biomarcadores basados en IA suelen requerir validación prospectiva y externa antes de poder usarse en la práctica; no se sabe desde el título si este ya la tiene.\nMensaje: Podría convertirse en una herramienta de medicina de precisión para decidir la adyuvancia en cáncer de páncreas, pero por ahora es una señal a confirmar antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "d602fa7c30a1": {
-      "resumen": "Stradivarius suma diez prendas inspiradas en las tendencias más vistas de la Semana de la Moda de Copenhague."
+    "be2d1a8b1edf": {
+      "resumen": "Vogue México propone cómo combinar los jeans color café con calzado plano y sandalias para el verano 2026."
     },
-    "a0803977848c": {
-      "resumen": "Vogue España cuenta qué implica graduarse de un máster de moda y lujo hecho junto a la revista."
+    "dd830981a1f5": {
+      "resumen": "Vogue México cuenta la historia de una boda celebrada en un castillo de Irlanda, con un ramo de flores de seda armado a mano."
     },
-    "936004dfa506": {
-      "resumen": "Cosmopolitan repasa el regreso de los vestidos estilo lencero, un clásico de los años 90 que llevaban Kate Moss y Claudia Schiffer, y cómo lucirlos este verano."
+    "22a4d10caf2e": {
+      "resumen": "Elle Argentina repasa cinco razones por las que los lunares volvieron a imponerse como estampado de moda."
     },
-    "8b74165ec567": {
-      "resumen": "El Nuevo Día propone siete tendencias para sumarle un toque romántico a los looks de verano."
+    "83e86235add5": {
+      "resumen": "Vogue México sugiere cinco formas de combinar jeans flare con zapatillas de moda para el verano 2026."
     },
-    "ecbfca3fbdcd": {
-      "resumen": "TN anticipa el regreso del calzado de los años 2000 como tendencia para combinar con jeans en el verano 2027, en reemplazo de las sandalias tradicionales."
+    "7808df3d56bd": {
+      "resumen": "ELLE destaca el vestido camisero color coral con el que Chábeli Iglesias marcó tendencia este verano."
     },
-    "d52aee718080": {
-      "resumen": "Señal News repasa que la obra infantil 'La Granja de Zenón, en Busca del Arcoíris' fue la más vista entre el público infantil en Buenos Aires."
+    "9ac41c5c0706": {
+      "resumen": "Vanguardia analiza cómo los bordados y las texturas artesanales vuelven a ocupar un lugar central en las tendencias de moda."
     },
-    "642f1938a248": {
-      "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
+    "6d2f5108b479": {
+      "resumen": "Il Globo repasa el concierto del violista Marco Misciagna en el Teatro Colón."
     },
-    "ac94dcc31ca4": {
-      "resumen": "Los Andes cuenta por qué demolieron el histórico teatro bar Los Angelitos y qué se construirá en su lugar."
+    "0e9d34207eee": {
+      "resumen": "El músico uruguayo Juan Wauters vuelve a tocar en Buenos Aires con un show en el Teatro Margarita Xirgu; pronto.com.ar detalla cómo conseguir entradas."
     },
-    "52d2b9fca393": {
-      "resumen": "El músico uruguayo Juan Wauters vuelve a tocar en Buenos Aires, esta vez en el Teatro Margarita Xirgu."
+    "2d0f0687fa97": {
+      "resumen": "La Voz del Interior cuenta que Córdoba Cultura distinguió a la Orquesta Filarmónica de Buenos Aires en un acto en el Teatro del Libertador."
     },
-    "25fccea85336": {
-      "resumen": "La obra 'Conflagración, una tragedia travesti' llega a la cartelera porteña."
+    "644f9806e0c9": {
+      "resumen": "La obra \"Martín (Hache)\" llega al Teatro Argentino como homenaje al director de cine Adolfo Aristarain."
     },
-    "fd5572f6cc1f": {
-      "resumen": "somosohlala propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
-    },
-    "d59d5cfa8362": {
-      "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
-    },
-    "9c58dfe6f8b8": {
-      "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
-    },
-    "ca0abd38d9d7": {
-      "resumen": "Clarín reúne más de sesenta planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
-    },
-    "1237f41db531": {
-      "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
-    },
-    "af9c5e115781": {
-      "resumen": "Infobae detalla quiénes cobran hoy, martes 11 de agosto, según el cronograma de pagos de la ANSES (Administración Nacional de la Seguridad Social)."
+    "41f9b19fba19": {
+      "resumen": "Time Out recomienda sus lugares favoritos para comer papas fritas en Buenos Aires."
     }
   }
 }
