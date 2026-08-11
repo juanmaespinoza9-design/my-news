@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-11T21:09:08.624993+00:00",
+ "generated_at": "2026-08-11T23:07:50.184912+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Dr Phillips on the Effect of Targeted Therapy Dose Reductions in Advanced RET+ NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTC11MnNwS3lPdEloMFpsSTVnTTNYa21PRDZhVEF4cHdEOFJxZkJRVERQVUpNTTljWjZnY0JuT294VkN6akEwLWFISjg4RWdQRlJ0YnI0OV85Y0NheUhCT1JOOFN0bEt4TVIzSGljbjBWN1BvWFBDRTVNREVEQ2hiOVRMWGpsOGFKMUZtS0dVNHBFNkNyWThPc0FUYmRIa3RFQTRsdnRQVkNHV3RBRlVNbm5n?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-11T22:00:51+00:00",
+     "id": "65d202f07d7f"
+    },
     {
      "title": "Phase 3 VERSATILE-003 Trial of PDS0101 in HNSCC Is Discontinued",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYW5XMGt3UUZOWXE3TjBNSmNvY1ptOThtN1NLNE96S2tpRkdoeWtxdGJmWFZxUk1LUHN6aEU3TWFQZUhJMG9mWkNGSEJxSzNYWGYydHpFbWllREx0eGNjRnliTXo2NXlrb3hidF83cC1mVElWYTFnTFBfdEZRVXpzbjJERHFqeGdfYmhaa1ptVTF3ZkRDUkJJ?oc=5",
@@ -28,13 +35,6 @@
      "id": "bfd31911b178"
     },
     {
-     "title": "FDA Advisory Committee to Review Premarket Approval Application for Multi-Cancer Early Detection Test",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQak04akdFaWZFSXJ5TTlVQnlhaG5fS3FzZkltYTZWV1lhUzBBaGNSRXFvemVSX2QwQlB1R212Y1NzMy0tSEtFVkhfU21KLS13eU5TdlAyMElOb2hXaEI2YzBCYzlid19oSnpWbXl1aUM1Q1Y2SFdEQjdZZXZTcG8ydEFPVnpWQzMzVjhFZkxkQ1VZb3FtVDE3ekdqM2NHck5icW9pMFQ1S1VzSUhBV202dm9TbzdEYS1FS0RFa1FZWHZyTWdBX2hTNUJB?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-11T14:14:22+00:00",
-     "id": "31ebc6d20587"
-    },
-    {
      "title": "First-in-Class Bispecific ADC Shows Activity in Relapsed Extensive-Stage Small Cell Lung Cancer",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm5Fa20wZUFhNlJZaFRYR1N2bzN5NHZsLU85bFllRTZ6bl9ZbkRCRU51QzRvcWc3c2RIWE5Ld3FYU2RCX3ZXa3ZidF8yY3Jtb29wN2FYQV80RmtfSGQxTzRoMGVhQV9xaUIyS1ExSzVEQWY1Mm1xVVNUZTNjVUdraVJGd3Y3Ykg4SDd0c2hrYUl4dTdORTcwbEFKMWtqMWh1RWZYaVJ0NGJpZHpZMGdTblVsbDJHYUhhdG5iMzNBWWs2Z1k5T1BfSGxwRXdFNDQ?oc=5",
      "source": "The ASCO Post",
@@ -49,36 +49,36 @@
      "id": "8c4845fac084"
     },
     {
+     "title": "Forty",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42579837/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Berthaud FM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "e2319d4dd180"
+    },
+    {
+     "title": "Neoadjuvant Intralesional Daromun (L19IL2/L19TNF) in Resectable Locally Advanced Melanoma: An Update on the Efficacy and Safety Results of the PIVOTAL Phase III Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42579833/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Hauschild A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "4e0690144d52"
+    },
+    {
+     "title": "Biomarker-Stratified Phase II Trial of Trastuzumab Rezetecan in Advanced Salivary Gland Carcinoma Across Cohorts With High and Low Human Epidermal Growth Factor Receptor 2 Expression",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42579830/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Chen GL et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "3fedd553abdb"
+    },
+    {
      "title": "Contemporary Management of Relapsed or Refractory Chronic Lymphocytic Leukemia",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42566728/",
      "source": "Journal of Clinical Oncology",
      "published": "2026-08-07T00:00:00+00:00",
      "copete": "Castonguay M et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "605232b57a65"
-    },
-    {
-     "title": "Systemic Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer: ASCO Living Guideline, Version 2026.1.4",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42561262/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Taplin ME et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "dafddd2713d1"
-    },
-    {
-     "title": "Longitudinal Change in Cardiac Function After Doxorubicin and Dexrazoxane: A Report From Children's Oncology Group ALTE11C2",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42561216/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Mobley EM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "227267e595ce"
-    },
-    {
-     "title": "Therapeutic Strategy Concerns for BRAF V600E-Mutated Differentiated Thyroid Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42561186/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Suto H et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "92a4cf181379"
     }
    ]
   },
@@ -87,6 +87,36 @@
    "title": "Moda",
    "mode": "titulares",
    "items": [
+    {
+     "title": "What Is “Ferritin Face”—And Do You Have It?",
+     "link": "https://www.vogue.com/article/ferritin-face-low-iron-deficiency",
+     "source": "Vogue",
+     "published": "2026-08-11T22:45:52+00:00",
+     "copete": "The Internet is obsessed with ferritin face—and if you have dull, dry skin and excessive hair shedding, you may be, too.",
+     "id": "3856e70d0d57"
+    },
+    {
+     "title": "Bárbara Mori y Ximena Sariñana sobre Las Azules: “La libertad de decidir quiénes queremos ser es algo que las mujeres no tuvimos mucho tiempo. Ojalá que estas historias nos ayuden a hacer memoria”",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEtXLTRRN1ZNcWdrcUNsYzE0NnFScWN5dnRTQlE1bGdSajlpWjRFYkRCbVNTTEVHTF9mVHdiN1M4WkRBNUg5Y0ljY2FRcy1YejRodDB2YmhWalJjOW9tbldWbUhBdUstaVZiMTJNblhWXzZHUWh1OGljMUxHYlFmZy11MlJlZHFTYU03MEVWcjZ6Z0l3TTJz?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-08-11T22:40:31+00:00",
+     "id": "afe2d4ab79d5"
+    },
+    {
+     "title": "Raúl Esparza and Lily Rabe Talk ‘The Winter’s Tale’",
+     "link": "https://www.vogue.com/article/raul-esparza-and-lily-rabe-the-winters-tale",
+     "source": "Vogue",
+     "published": "2026-08-11T22:16:01+00:00",
+     "copete": "What happens when a king’s delusions have real consequences? And can forgiveness ever sprout in the frost of grief? These are just two questions at the center of “The Winter’s Tale,” staged this summer as part of the Public Theater’s Free…",
+     "id": "5f52b959028a"
+    },
+    {
+     "title": "Eye-maxxing: la técnica de belleza que realzará tu mirada según la teoría del color",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSi1vVUdnSGdJcTlteDNRTVlaU1VfY3lnY0dDTV9lbTVpMGZpV0NIQS1wTEV1VEpGc1Niek9iUWVWU3dCTnFTTGRoZU9JLVFyR1ZqT0Q4eTY3M2FJTUM0WXZ6NUVzVlNNRmhNVm8tVHUwSW9oVGhRaTgzbjFDQmE3N0ZwQzJyUU9OMllZNzlOY0pwc2o1dmExaVZscERJQzZrdVJMNlVEdUFuaGxuLWlFZjF3?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-08-11T21:26:58+00:00",
+     "id": "d4625f6987b6"
+    },
     {
      "title": "I Traced the Steps of Hemingway, Picasso, and Chanel Through France and Spain—Here’s What I Discovered",
      "link": "https://www.vogue.com/article/lost-generation-travel-france-spain",
@@ -104,34 +134,11 @@
      "id": "5c4179540771"
     },
     {
-     "title": "The Biggest Celebrity Engagements of 2026—So Far",
-     "link": "https://www.vogue.com/article/celebrity-engagements-2026",
-     "source": "Vogue",
-     "published": "2026-08-11T20:39:49+00:00",
-     "copete": "The latest couple to share their engagement news in 2026? Model Alessandra Ambrosio and her boyfriend, Buck Palmer.",
-     "id": "262e69d3dc2c"
-    },
-    {
-     "title": "Callum Turner Proves Hot Man-Hot Bag Is the Best Combo",
-     "link": "https://www.vogue.com/article/calum-turner-louis-vuitton-bag",
-     "source": "Vogue",
-     "published": "2026-08-11T19:10:54+00:00",
-     "copete": "There’s rumors that Callum Turner is the next James Bond. He’s got the style for it.",
-     "id": "77a705d20b57"
-    },
-    {
      "title": "Los jeans color café se ven mejor cuando los llevas con estos zapatos planos y sandalias en verano 2026",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGc4S2N3YXFySGRsX0oyNERIN1F4RFY2WFdhUjJTdnVxanB5VGpXMXcxeFo1TGpYR0lKR3oxZVhfOVpvTnNoek5xcXdGcFVMcUJUWTdvS0ZGaTd4SFFfOWJZdnNZNEZlTU5acFFRVnBiTGlZZTd6T0N6WERDWFZyMmRidkpKOUM2WVZ1cE1kSVV0WTNtRTVHZnBCUEV2ZkxPTWlqcUpwUQ?oc=5",
-     "source": "Vogue México",
+     "source": "vogue.mx",
      "published": "2026-08-11T19:09:27+00:00",
      "id": "be2d1a8b1edf"
-    },
-    {
-     "title": "Esta novia llevó un ramo de flores de seda hecho a mano para su boda celebrada en un castillo irlandés",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHk0NGpUVTB3aXBmM0oydGJvMW1iUnJQSVRvSzV3OG9YUElLZ3hHcU5uOUROWVBPMTBVZGhBT0R4RElUazJ5YWpkWFQwcXo2cmJkTkNHZUdBZlFTX1hiOUFXSWpMR2VWdVFvNXBPakYyLVRGYU1GeXdGalItWE1qM0E4amtKQkp5YWc?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-11T17:36:03+00:00",
-     "id": "dd830981a1f5"
     },
     {
      "title": "Lunares: 5 motivos para entender su regreso",
@@ -141,11 +148,11 @@
      "id": "22a4d10caf2e"
     },
     {
-     "title": "Jeans flare con tenis de moda: 5 ideas de estilo para lucir la combinación más elegante del verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmlWUnM2TElwWHpoS0Y5VzU4b3F6emprYVF4LXhIVXVIc3p1SFVXSWhwYUEzd0ZJaEhaRzNJVl9XamJxWEh2ZTNXX2NPX0ZITmpwOHRMaFVOUmJSNHlhNndCM3B0Ni1lamhjVlg1b3VsRUppckJBekxBSVZGMjNLYU9ZNnFMczFERG5CUmFYVQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-11T17:18:52+00:00",
-     "id": "83e86235add5"
+     "title": "6 vestidos de invitada de Sfera para acertar en las bodas de septiembre y adelantarte a las tendencias del otoño 2026 - marie-claire.es",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmZiYnZnVGJybzNNRXlWREh1TktEVk54QkJMamRSNWdZT1BfalNKcnh0aU9pdnRNQmVOTzdMbFZwM3ZuN3JCdGRIMlFvQWRia1AyS3JmTDBVUnZGd3MyZTk1aURnZGNobndIOFhLZ2FrbTBGaDBXRnFKVW4wX0hCY25ydnBpdVJUZk5oV2gwVktYNHc5V3hKV3FTN09fYlJfWVE?oc=5",
+     "source": "Moda (Google News)",
+     "published": "2026-08-11T16:45:28+00:00",
+     "id": "deca7c7f5f1b"
     },
     {
      "title": "Chábeli Iglesias sorprende con el vestido coral camisero que es pura tendencia este verano",
@@ -153,13 +160,6 @@
      "source": "ELLE",
      "published": "2026-08-11T16:04:46+00:00",
      "id": "7808df3d56bd"
-    },
-    {
-     "title": "Bordados, texturas y memoria: el detalle vuelve al centro de la moda",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmhwdDNXMG1XeVZZdTJheXJCQklWX2RRVFFtS2luam9jX1d3Q1AtWHpNRE5wSXZZTE4wdkRDV1FMWFMtZ0NibDRSaFJFeE85ejM5SldHVUVPdlM5dXVaS0JMR1pnVnRHcVc3Z3dKWDNQamU3RGdQVHdhbEhrajVfeXFtM3lQTXk1TmtTYm9PenF0bi1JZDZRdnZDY05qbEJtQXRNSUV2VTR5MjFNN3BCQkM1amxlYVlGYVVaY1JUY0FzVENvbzQwSU5wRjU?oc=5",
-     "source": "Vanguardia",
-     "published": "2026-08-11T15:40:00+00:00",
-     "id": "9ac41c5c0706"
     }
    ]
   },
@@ -169,6 +169,70 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La reacción de La Joaqui ante el casamiento de Tini Stoessel y Rodrigo De Paul: \"Dios\"",
+     "link": "https://www.infobae.com/teleshow/2026/08/11/la-reaccion-de-la-joaqui-ante-el-casamiento-de-tini-stoessel-y-rodrigo-de-paul-dios/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-11T22:51:08+00:00",
+     "copete": "La ex de Luck Ra fue una de las primeras en reaccionar al video con el que la cantante anunció su unión con el futbolista y dejó un comentario que generó repercusión por su situación sentimental reciente",
+     "id": "6b22d764bfd5"
+    },
+    {
+     "title": "Juli Savioli confirmó su separación de Pelao Khe tras casi tres años de relación: “Nada es para siempre”",
+     "link": "https://www.infobae.com/teleshow/2026/08/11/juli-savioli-confirmo-su-separacion-de-pelao-khe-tras-casi-tres-anos-de-relacion-nada-es-para-siempre/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-11T22:36:10+00:00",
+     "copete": "El vínculo entre los influencers, que también se había convertido en una sociedad creativa en redes, llegó a su fin pocos días atrás",
+     "id": "7807855ee6cb"
+    },
+    {
+     "title": "Tuli Acosta se refugió en sus raíces cordobesas tras el escándalo con Luck Ra y La Joaqui",
+     "link": "https://www.infobae.com/teleshow/2026/08/11/tuli-acosta-se-refugio-en-sus-raices-cordobesas-tras-el-escandalo-con-luck-ra-y-la-joaqui/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-11T22:17:46+00:00",
+     "copete": "La cantante regresó a la ciudad que la vio nacer para buscar un poco de paz luego de la polémica en la que fue involucrada",
+     "id": "c1ca91d9fd65"
+    },
+    {
+     "title": "El duro comunicado de Mauro Icardi sobre el video viral de sus hijas: “Voy a seguir peleando hasta el final”",
+     "link": "https://www.infobae.com/teleshow/2026/08/11/el-duro-comunicado-de-mauro-icardi-sobre-el-video-viral-de-sus-hijas-voy-a-seguir-peleando-hasta-el-final/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-11T21:58:38+00:00",
+     "copete": "El futbolista publicó un descargo en Instagram después de la viralización del clip y cuestionó la exposición de las menores, además de acusar a Wanda Nara y Nora Colosimo por lo ocurrido",
+     "id": "5dd175f80f9a"
+    },
+    {
+     "title": "Silvina Escudero: sus inicios como bailarina, su reciente separación y una despedida que todavía le duele",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/silvina-escudero-sus-inicios-como-bailarina-su-reciente-separacion-y-una-despedida-que-todavia-le-nid11082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-11T21:43:19+00:00",
+     "copete": "Es una de las pocas voces femeninas de Polémica en el bar, donde además debutó como locutora nacional",
+     "id": "2a4de1b38178"
+    },
+    {
+     "title": "La romántica respuesta de Rodrigo de Paul al anuncio de casamiento de Tini Stoessel: “La forma más linda de amar”",
+     "link": "https://www.infobae.com/teleshow/2026/08/11/la-romantica-respuesta-de-rodrigo-de-paul-al-anuncio-de-casamiento-de-tini-stoessel-la-forma-mas-linda-de-amar/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-11T21:40:59+00:00",
+     "copete": "El futbolista del Inter Miami reaccionó en Instagram al video con el que la cantante confirmó la boda y dejó una frase que rápidamente se volvió una de las más comentadas del día",
+     "id": "0e8f23472c93"
+    },
+    {
+     "title": "Sabrina Rojas contó cómo se encuentra su relación con Luciano Castro tras su internación: “Hablo todos los días”",
+     "link": "https://www.infobae.com/teleshow/2026/08/11/sabrina-rojas-conto-como-se-encuentra-su-relacion-con-luciano-castro-tras-su-internacion-hablo-todos-los-dias/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-11T21:39:15+00:00",
+     "copete": "El actor había ingresado a un centro para tratar su estado emocional y psicológico y, tras meses de su alta, su expareja detalló cómo está hoy en día",
+     "id": "aaa84fc2fef4"
+    },
+    {
+     "title": "Blair: de dedicarle su premio Gardel a Hanna Montana al impacto que le produjo escuchar por primera vez a Soda Stereo",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/blair-de-dedicarle-su-premio-gardel-a-hanna-montana-al-impacto-que-le-produjo-escuchar-por-primera-nid11082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-11T21:18:10+00:00",
+     "copete": "La joven cantautora dialogó con LA NACION sobre sus recientes reconocimientos, su origen y sus próximos pasos de cara al concierto con el que dará fin al ciclo de su último disco",
+     "id": "59c4849194b9"
+    },
+    {
      "title": "Anamá Ferreira, abuela por primera vez: “Es una sensación maravillosa, quiero que mi nieta ame a Brasil y a Argentina”",
      "link": "https://www.lanacion.com.ar/espectaculos/anama-ferreira-abuela-por-primera-vez-es-una-sensacion-maravillosa-quiero-que-mi-nieta-ame-a-brasil-nid11082026/",
      "source": "La Nación Espectáculos",
@@ -177,76 +241,12 @@
      "id": "87b60dc48356"
     },
     {
-     "title": "Nicole Neumann recordó el duro episodio que la llevó a dejar de comer carne para siempre: \"Nunca más\"",
-     "link": "https://www.infobae.com/teleshow/2026/08/11/nicole-neumann-recordo-el-duro-episodio-que-la-llevo-a-dejar-de-comer-carne-para-siempre-nunca-mas/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-11T20:56:13+00:00",
-     "copete": "La modelo relató la escena que presenció años atrás, explicó por qué la marcó profundamente y cómo esa experiencia cambió su manera de alimentarse",
-     "id": "fca6911ed6eb"
-    },
-    {
      "title": "Raúl Canosa: el pianista español, discípulo de Bruno Gelber, se presenta en el Salón Dorado del Teatro Colón",
      "link": "https://www.lanacion.com.ar/espectaculos/musica/raul-canosa-el-pianista-espanol-discipulo-de-bruno-gelber-se-presenta-en-el-salon-dorado-del-teatro-nid11082026/",
      "source": "La Nación Espectáculos",
      "published": "2026-08-11T20:09:12+00:00",
      "copete": "En el marco de las celebraciones por los 150 años del nacimiento de Manuel de Falla",
      "id": "8c02f0e2f843"
-    },
-    {
-     "title": "Sabrina Rojas sorprendió con una revelación tras su separación de José Chatruc",
-     "link": "https://www.lanacion.com.ar/espectaculos/sabrina-rojas-sorprendio-con-una-revelacion-tras-su-separacion-de-jose-chatruc-nid11082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-11T20:07:59+00:00",
-     "copete": "La modelo habló abiertamente de su ruptura con el exfutbolista y expuso sin filtro a los “viejos conocidos” que volvieron a buscarla tras el anuncio",
-     "id": "f42a83156a7a"
-    },
-    {
-     "title": "Tini Stoessel confirmó su casamiento con Rodrigo de Paul: “Ese sueño que soñé tantas veces empezó a hacerse realidad”",
-     "link": "https://www.infobae.com/teleshow/2026/08/11/tini-stoessel-confirmo-su-casamiento-con-rodrigo-de-paul-ese-sueno-que-sone-tantas-veces-empezo-a-hacerse-realidad/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-11T20:01:53+00:00",
-     "copete": "La cantante usó sus redes sociales para dar a conocer, de manera oficial, su compromiso con el jugador de fútbol",
-     "id": "404438a266ed"
-    },
-    {
-     "title": "La publicación con la que Tini Stoessel confirmó su casamiento con Rodrigo De Paul",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-publicacion-con-la-que-tini-stoessel-confirmo-su-casamiento-con-rodrigo-de-paul-nid11082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-11T19:58:51+00:00",
-     "copete": "La Triple T sorprendió al anunciar el gran paso que dará con el integrante de la selección argentina; “Estoy muy emocionada, estoy muy feliz y les voy a ir mostrando absolutamente todo”, lanzó",
-     "id": "01310d91c1a0"
-    },
-    {
-     "title": "Chechu Bonelli habló de cómo es su relación con Darío Cvitanich tras la escandalosa separación: “Tenemos acuerdos firmados”",
-     "link": "https://www.infobae.com/teleshow/2026/08/11/chechu-bonelli-hablo-de-como-es-su-relacion-con-dario-cvitanich-tras-la-escandalosa-separacion-tenemos-acuerdos-firmados/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-11T19:27:38+00:00",
-     "copete": "La periodista deportiva contó la curiosa forma de comunicarse con su expareja y padre de sus tres hijas. También reaccionó a los rumores de compromiso con Ivana Figueiras",
-     "id": "c84d4c64768f"
-    },
-    {
-     "title": "La incómoda reacción de José Chatruc en su primera aparición pública tras su ruptura con Sabrina Rojas: el video",
-     "link": "https://www.infobae.com/teleshow/2026/08/11/la-incomoda-reaccion-de-jose-chatruc-en-su-primera-aparicion-publica-tras-su-ruptura-con-sabrina-rojas-el-video/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-11T18:47:12+00:00",
-     "copete": "A tan solo un día de anunciarse el final de su relación con la conductora, el exfutbolista sorprendió con su actitud con un cronista, quien intentó consultarle sobre la situación",
-     "id": "2314e03a0e4b"
-    },
-    {
-     "title": "Postales del verano eterno: así fueron las vacaciones de Bautista Vicuña en Punta Cana",
-     "link": "https://www.infobae.com/teleshow/2026/08/11/postales-del-verano-eterno-asi-fueron-las-vacaciones-de-bautista-vicuna-en-punta-cana/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-11T18:06:12+00:00",
-     "copete": "El viaje, documentado en redes, refleja la convivencia y el relax tras la intensa actividad laboral de su madre, Pampita, durante el Mundial",
-     "id": "dab8f892995d"
-    },
-    {
-     "title": "El profundo dolor de Alejandro Fantino por la muerte de su madre: “No quedó nada sin decirnos”",
-     "link": "https://www.infobae.com/teleshow/2026/08/11/el-profundo-dolor-de-alejandro-fantino-por-la-muerte-de-su-madre-no-quedo-nada-sin-decirnos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-11T18:00:14+00:00",
-     "copete": "El conductor despidió a Chita con un sentido mensaje donde le expresó toda su gratitud",
-     "id": "fb59135aea79"
     },
     {
      "title": "Salieron nuevas fotos de las últimas horas de Liam Payne en la Argentina: whisky, drogas y medicamentos en su habitación de hotel",
@@ -349,84 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Independiente Rivadavia visita a Fluminense en el Maracaná por los octavos de final de la Libertadores",
-     "link": "https://www.infobae.com/deportes/2026/08/11/independiente-rivadavia-visitara-a-fluminense-en-el-maracana-por-los-octavos-de-final-de-la-copa-libertadores-hora-tv-y-formaciones/",
+     "title": "La OEA debatió 64 veces la crisis de Nicaragua sin lograr la caída del régimen",
+     "link": "https://www.infobae.com/nicaragua/2026/08/11/la-oea-debatio-64-veces-la-crisis-de-nicaragua-sin-lograr-cambios-en-el-regimen/",
      "source": "Infobae",
-     "published": "2026-08-11T21:06:48+00:00",
-     "copete": "La serie entre el combinado argentino y el brasileño se pone en marcha desde las 19. Televisa Fox Sports y Disney+",
-     "id": "8468f939efa0"
+     "published": "2026-08-11T23:06:07+00:00",
+     "copete": "Un balance publicado por La Prensa indica que, desde 2018, el organismo aprobó 11 pronunciamientos de condena, pero no consiguió alterar la conducta de Daniel Ortega y Rosario Murillo ni frenar la represión",
+     "id": "23d70c8a588d"
     },
     {
-     "title": "Guatemala: El programa Manos Productivas funciona por ahora con 30 privados de libertad en capacitación dentro de la cárcel de Pavón",
-     "link": "https://www.infobae.com/guatemala/2026/08/11/guatemala-el-programa-manos-productivas-funciona-por-ahora-con-30-privados-de-libertad-en-capacitacion-dentro-de-la-carcel-de-pavon/",
+     "title": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras",
+     "link": "https://www.infobae.com/tecno/2026/08/11/microsoft-responde-al-aumento-de-precios-de-hardware-ahora-sus-licencias-de-windows-son-mas-caras/",
      "source": "Infobae",
-     "published": "2026-08-11T21:06:40+00:00",
-     "copete": "La subdirectora de Rehabilitación Social explicó que la fase inicial incluye prevención de accidentes y producción solo dentro del penal, con incorporación voluntaria, consentimiento firmado y expedientes individuales para cada participante",
-     "id": "12c9ae66e68b"
+     "published": "2026-08-11T23:06:00+00:00",
+     "copete": "El ajuste en las licencias OEM impacta directamente en los costos de producción de las marcas",
+     "id": "c719c341bf3e"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-acuerdos-del-gobierno-de-cara-a-2027-y-la-agenda-legislativa-nid11082026/",
-     "source": "La Nación",
-     "published": "2026-08-11T21:06:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "9370c5c94a1e"
-    },
-    {
-     "title": "Así son los cinco hoteles propiedad de Cristiano Ronaldo que ubican al delantero como un jugador relevante en el sector",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/asi-son-los-cinco-hoteles-propiedad-de-cristiano-ronaldo-que-ubican-al-delantero-como-un-jugador-nid11082026/",
-     "source": "La Nación",
-     "published": "2026-08-11T21:05:36+00:00",
-     "copete": "El astro del fútbol tiene alojamientos de lujo en Portugal, España, Estados Unidos y Marruecos",
-     "id": "d23ad154cd30"
-    },
-    {
-     "title": "El caso Osprera: la exinterventora declaró en Tribunales y justificó la contratación de un exsocio de Martín Menem",
-     "link": "https://www.lanacion.com.ar/politica/el-caso-osprera-la-exinterventora-declaro-en-tribunales-y-justifico-la-contratacion-de-un-exsocio-de-nid11082026/",
-     "source": "La Nación",
-     "published": "2026-08-11T21:02:43+00:00",
-     "copete": "Virginia Montero estuvo a cargo de la obra social de los empleados rurales a fines de 2024; la empresa HTech cobró al menos $266 millones para auditar los sistemas informáticos; qué dijo el actual interventor",
-     "id": "593934747a3f"
-    },
-    {
-     "title": "Juicio por la muerte de Maradona: un perito que analizó la autopsia afirmó que Diego empezó a descompensarse 10 días antes",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/11/juicio-por-la-muerte-de-maradona-en-vivo-las-ultimas-noticias-de-hoy-11-de-agosto-minuto-a-minuto/",
+     "title": "Boca Juniors pierde por la ida de los octavos de la Copa Sudamericana: Recoleta se quedó con 10 jugadores",
+     "link": "https://www.infobae.com/deportes/2026/08/11/boca-juniors-jugara-contra-recoleta-en-la-cancha-de-huracan-por-la-ida-de-los-octavos-de-la-copa-sudamericana-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-08-11T21:02:23+00:00",
-     "copete": "El debate oral comienza su etapa final, donde expertos forenses explicarán a los jueces sus conclusiones de la autopsia a Diego",
-     "id": "684c8b4438f7"
+     "published": "2026-08-11T23:05:54+00:00",
+     "copete": "El equipo del Vasco Arruabarrena cae por el único gol de Pedro Ríos a los cinco minutos en la cancha de Huracán. Wilfrido Báez se marchó expulsado en la visita. Televisa DSports",
+     "id": "27d9dd3c894f"
     },
     {
-     "title": "Escándalo en General Rodríguez: un funcionario denunció a un concejal por tener vínculos con narcos que viven en un country",
-     "link": "https://www.lanacion.com.ar/seguridad/escandalo-en-general-rodriguez-un-funcionario-denuncio-a-un-concejal-por-tener-vinculos-con-narcos-nid11082026/",
+     "title": "La UE activa un protocolo con Meta y TikTok ante el temor de una nueva llegada masiva de migrantes",
+     "link": "https://www.lanacion.com.ar/el-mundo/la-ue-activa-un-protocolo-con-meta-y-tiktok-ante-el-temor-de-una-nueva-llegada-masiva-de-migrantes-nid11082026/",
      "source": "La Nación",
-     "published": "2026-08-11T21:02:00+00:00",
-     "copete": "El secretario de Seguridad, Justicia y Política Criminal pidió que se investigue al edil Javier Tarragona",
-     "id": "d72f28514c74"
+     "published": "2026-08-11T23:05:20+00:00",
+     "copete": "Bruselas acordó un mecanismo especial para detectar y frenar contenidos falsos sobre la frontera entre España y Marruecos; las autoridades temen nuevos intentos de cruce",
+     "id": "bc6d1d4ccbcf"
     },
     {
-     "title": "Encontraron con vida a un argentino que estaba desaparecido tras el fuerte terremoto en Colombia",
-     "link": "https://www.infobae.com/sociedad/2026/08/11/encontraron-con-vida-a-un-argentino-que-estaba-desaparecido-tras-el-fuerte-terremoto-en-colombia/",
+     "title": "Cómo va Boca vs. Recoleta, por la Copa Sudamericana 2026",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/como-va-boca-vs-recoleta-por-la-copa-sudamericana-2026-nid11082026/",
+     "source": "La Nación",
+     "published": "2026-08-11T23:05:11+00:00",
+     "copete": "El partido de ida de los octavos de final se desarrolla en el estadio Tomás Adolfo Ducó porque el xeneize no tiene apta la Bombonera",
+     "id": "de05f6b3f41e"
+    },
+    {
+     "title": "La alianza entre Hochul y Mamdani para terminar con un problema histórico del Metro de Nueva York",
+     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/la-alianza-entre-hochul-y-mamdani-para-terminar-con-un-problema-historico-del-metro-de-nueva-york-nid11082026/",
+     "source": "La Nación",
+     "published": "2026-08-11T23:05:00+00:00",
+     "copete": "Conoce cómo Hochul y Mamdani estudian una red térmica para reducir el calor del Metro de Nueva York y reutilizar esa energía en edificios municipales.",
+     "id": "aa22a539d201"
+    },
+    {
+     "title": "Ley de Sociedades polarizada: críticas y guiños en el Senado en una nueva ronda de exposiciones",
+     "link": "https://www.infobae.com/politica/2026/08/11/ley-de-sociedades-polarizada-criticas-y-guinos-en-el-senado-en-una-nueva-ronda-de-exposiciones/",
      "source": "Infobae",
-     "published": "2026-08-11T21:01:41+00:00",
-     "copete": "Carlos Cáceres, de 69 años, finalmente pudo contactar a su familia, que no tenía noticias de él desde que ocurrieron los sismos de magnitud 7,4",
-     "id": "82226b6de645"
+     "published": "2026-08-11T23:04:56+00:00",
+     "copete": "El proyecto libertario fue observado por disertantes promovidos por la oposición. Cruces entre la jefa oficialista, Patricia Bullrich, y el ex titular de la Inspección General de la Justicia (IGJ) del kirchnerismo Ricardo Nissen",
+     "id": "9cd7759e791b"
     },
     {
-     "title": "Wall Street baja ligeramente y se aleja de récords mientras el petróleo sigue oscilando",
-     "link": "https://www.clarin.com/estados-unidos/wall-street-baja-ligeramente-y-se-aleja-de-records-mientras-el-petroleo-sigue-oscilando_0_if0NNH7qRN.html",
+     "title": "“Ilegítimo”: recrudece el conflicto universitario y los gremios vuelven al paro mañana",
+     "link": "https://www.lanacion.com.ar/sociedad/ilegitimo-recrudece-el-conflicto-universitario-y-los-gremios-vuelven-al-paro-manana-nid11082026/",
+     "source": "La Nación",
+     "published": "2026-08-11T22:57:39+00:00",
+     "copete": "Denuncian el incumplimiento del acuerdo firmado en julio y exigen que el Gobierno se ajuste al fallo de la Corte; la reacción oficial",
+     "id": "48b84ce87c2a"
+    },
+    {
+     "title": "Subastarán cartuchos raros de Super Mario para Nintendo hallados en Wisconsin",
+     "link": "https://www.clarin.com/estados-unidos/subastaran-cartuchos-raros-de-super-mario-para-nintendo-hallados-en-wisconsin_0_j7mj25x2a3.html",
      "source": "Clarín",
-     "published": "2026-08-11T21:00:07+00:00",
-     "copete": "Las acciones en Nueva York retroceden mientras el crudo oscila por tensiones bélicas. El S&P 500 y el Dow Jones caen tras alcanzar máximos. El petróleo Brent sube a $88,91 por barril, impulsando la inflación y el costo de la gasolina en…",
-     "id": "5e30af3268fa"
+     "published": "2026-08-11T22:20:07+00:00",
+     "copete": "Un coleccionista descubrió 97 cartuchos de Super Mario Brothers/Duck Hunt en estado impecable, considerados una variante rara del juego. La mayoría de estos cartuchos, algunos con calificación perfecta, se subastarán en línea, generando…",
+     "id": "b0ea9b0d6a70"
     },
     {
-     "title": "Pereira, la \"ciudad zombie\" devastada por el terremoto en Colombia",
-     "link": "https://www.clarin.com/mundo/pereira-ciudad-zombie-devastada-terremoto-colombia_0_OeMqesxfFA.html",
+     "title": "Drama en Afganistán: los talibán dejan a 2,4 millones de niñas sin educación secundaria",
+     "link": "https://www.clarin.com/mundo/drama-afganistan-taliban-dejan-24-millones-ninas-educacion-secundaria_0_5O5QRMOBYZ.html",
      "source": "Clarín",
-     "published": "2026-08-11T21:00:05+00:00",
-     "copete": "Es, después de Cali, la localidad más golpeada por el potente sismo del lunes. Sin electricidad y casi incomunicados, los habitantes siguen buscando a familiares desaparecidos y llorando frente a las ruinas de sus casas.",
-     "id": "9a04871d8c63"
+     "published": "2026-08-11T22:20:06+00:00",
+     "copete": "En 2026, el número de niñas afectadas aumentó en 200.000 respecto a 2025. Y \"si la prohibición persiste, cerca de cuatro millones de niñas podrían verse privadas de ella de aquí a 2030\", afirma la UNESCO.",
+     "id": "4a9fe9c0de09"
     }
    ]
   },
@@ -439,9 +439,25 @@
      "title": "Los equipos de rescate en Colombia buscan sobrevivientes tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-11T21:09:08.473054+00:00",
+     "published": "2026-08-11T23:07:49.314688+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente Abelardo de la Espriella decretó desastre nacional para actuar ante el sismo catalogado como el más fuerte de la…",
      "id": "376d42b3e6e7"
+    },
+    {
+     "title": "Cómo se mide la duración de un terremoto y cuánto tiempo realmente tembló en Colombia",
+     "link": "https://www.bbc.com/mundo/articles/cn5n3pqpnkzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-11T21:27:29+00:00",
+     "copete": "La magnitud del fenómeno, la composición del suelo y el diseño de los edificios son algunos de los factores que explican por qué ciertas personas perciben que los sismos duran más de lo que realmente duran.",
+     "id": "2930f8b26689"
+    },
+    {
+     "title": "Qué es el Cinturón de Fuego del Pacífico en el que se encuentra Colombia y por qué el 90% de los terremotos del mundo ocurren en esta zona",
+     "link": "https://www.bbc.com/mundo/articles/c8jnkznlx3no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-11T21:14:38+00:00",
+     "copete": "El Cinturón del Fuego del Pacífico, conocido también como Anillo de Fuego, abarca un gran número de países de América y Asia.",
+     "id": "ad67351e680f"
     },
     {
      "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
@@ -482,22 +498,6 @@
      "published": "2026-08-11T17:34:23+00:00",
      "copete": "Netanyahu agradece la postura tomada por De la Espriella, mientras que países como Egipto y Arabia Saudí aseguran que la decisión viola el derecho internacional",
      "id": "d2fa42999438"
-    },
-    {
-     "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
-     "link": "https://www.bbc.com/mundo/articles/cjd4824d9ljo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-11T17:04:45+00:00",
-     "copete": "El sismo tuvo su epicentro en el departamento del Chocó y golpeó con dureza distintas localidades del occidente del país, incluidas Cali, Manizales, Pereira y Quibdó.",
-     "id": "9e22c9d1c99c"
-    },
-    {
-     "title": "Trump se escondió en un contenedor de comida para cambiar de avión en secreto por una amenaza de Irán, según medios en EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/c24m8ymgz7ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-11T16:54:15+00:00",
-     "copete": "Según fuentes de medios de EE.UU., el presidente fue reubicado secretamente en un avión diferente al Air Force One para evitar una amenaza iraní al volar desde Turquía a EE.UU.",
-     "id": "1d296853ad9f"
     }
    ]
   }
