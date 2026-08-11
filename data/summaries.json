@@ -1,17 +1,16 @@
 {
-  "generated_at": "2026-08-10T22:09:37Z",
+  "generated_at": "2026-08-11T10:09:50Z",
   "summaries": {
-    "1e2f830adbee": {
-      "resumen": "OncLive reporta datos preliminares de una vacuna de ARN mensajero (ARNm) personalizada contra el adenocarcinoma ductal de páncreas (PDAC, por sus siglas en inglés), que abrirían la posibilidad de remisiones a largo plazo. Vale la pena seguirlo porque el cáncer de páncreas tiene mal pronóstico y hoy hay pocas estrategias inmunoterápicas efectivas.",
-      "destacado": false,
-      "analisis": "Diseño: Datos tempranos (early data) presentados en OncLive; el título no especifica si se trata de un ensayo fase I/II, el número de pacientes, la aleatorización ni si es multicéntrico.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC), uno de los tumores sólidos de peor pronóstico.\nIntervención: Vacuna basada en ARN mensajero (ARNm), presumiblemente individualizada contra neoantígenos tumorales; el título no especifica comparador.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Son datos preliminares (early data), por lo que el seguimiento y el tamaño muestral probablemente sean acotados; sin el trabajo completo no se puede evaluar la magnitud del beneficio ni la toxicidad.\nMensaje: Si se confirma en estudios más grandes, podría abrir una vía inmunoterápica novedosa para un tumor con opciones limitadas y mal pronóstico; por ahora es una señal temprana, no un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "42cb111d92d2": {
-      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) emitió una carta de respuesta completa (CRL, complete response letter) para el 177Lu-Edotreotide, un radiofármaco dirigido a receptores de somatostatina, en tumores neuroendocrinos gastroenteropancreáticos (GEP-NETs). Es una noticia regulatoria relevante porque retrasa el acceso a una nueva terapia dirigida con radionúclidos para estos tumores.",
+    "e02f97c47747": {
+      "resumen": "OncLive repasa cómo aplicar evidencia del mundo real (real-world evidence, datos generados fuera de los ensayos clínicos controlados) a la terapia con células CAR-T (linfocitos T modificados genéticamente para reconocer y atacar células tumorales) en mieloma múltiple en recaída o refractario. Sirve para entender cómo se trasladan los resultados de los ensayos pivotales a la práctica clínica cotidiana.",
       "destacado": false
     },
-    "188e6a620a60": {
-      "resumen": "OncLive entrevista al Dr. Boiarsky sobre el rol de los macrófagos asociados a tumor (células del sistema inmune que pueden favorecer el crecimiento tumoral) en el cáncer de pulmón de células no pequeñas (CPCNP) metastásico. Sirve como panorama experto de un blanco inmunológico en investigación para este tumor.",
+    "be1f8852d25c": {
+      "resumen": "OncLive analiza los datos de supervivencia global disponibles para intensificar el tratamiento de primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con mutación del receptor del factor de crecimiento epidérmico (EGFR), y cómo influyen en la elección del esquema terapéutico. Interesa porque ayuda a ordenar las opciones de primera línea en un subgrupo molecular frecuente.",
+      "destacado": false
+    },
+    "cd3164242771": {
+      "resumen": "OncLive explica el mecanismo de acción de la combinación amivantamab-lazertinib en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR y cómo podría prevenir la aparición de resistencia al tratamiento. Útil para entender la lógica biológica detrás de un esquema que ya se usa en la práctica.",
       "destacado": false
     },
     "643e3e7fed94": {
@@ -58,23 +57,20 @@
     "ce6a71d3c3f1": {
       "resumen": "Vogue muestra la colección primavera 2027 de The Royal Danish Academy, presentada en la Semana de la Moda de Copenhague."
     },
-    "b4a90153616d": {
-      "resumen": "Vogue México analiza cómo el estilo de la cantante KARINA, integrante de aespa, confirma el regreso del calzado con plataforma."
+    "d602fa7c30a1": {
+      "resumen": "Stradivarius suma diez prendas inspiradas en las tendencias más vistas de la Semana de la Moda de Copenhague."
     },
-    "af26730b36be": {
-      "resumen": "Vogue México invita a conocer Vogue Leaders Panamá 2026, un evento que reúne a referentes de la moda."
+    "a0803977848c": {
+      "resumen": "Vogue España cuenta qué implica graduarse de un máster de moda y lujo hecho junto a la revista."
     },
-    "aa1d6f2d1808": {
-      "resumen": "Revista Para Ti repasa seis tendencias del verano europeo que anticipan lo que se va a usar en la próxima temporada."
+    "936004dfa506": {
+      "resumen": "Cosmopolitan repasa el regreso de los vestidos estilo lencero, un clásico de los años 90 que llevaban Kate Moss y Claudia Schiffer, y cómo lucirlos este verano."
     },
-    "e5c9292beecf": {
-      "resumen": "Trendencias señala cinco tendencias de otoño 2026 que ya están disponibles en Zara."
+    "8b74165ec567": {
+      "resumen": "El Nuevo Día propone siete tendencias para sumarle un toque romántico a los looks de verano."
     },
-    "225961a259a0": {
-      "resumen": "Vogue México ofrece opciones concretas para colaborar con las víctimas del terremoto de magnitud 7,4 que sacudió Colombia."
-    },
-    "a21299249bcc": {
-      "resumen": "ELLE cuenta cómo la actriz española Lydia Bosch combinó un traje de dos piezas blanco con zapatillas, un look tendencia de este verano."
+    "ecbfca3fbdcd": {
+      "resumen": "TN anticipa el regreso del calzado de los años 2000 como tendencia para combinar con jeans en el verano 2027, en reemplazo de las sandalias tradicionales."
     },
     "d52aee718080": {
       "resumen": "Señal News repasa que la obra infantil 'La Granja de Zenón, en Busca del Arcoíris' fue la más vista entre el público infantil en Buenos Aires."
@@ -85,11 +81,14 @@
     "ac94dcc31ca4": {
       "resumen": "Los Andes cuenta por qué demolieron el histórico teatro bar Los Angelitos y qué se construirá en su lugar."
     },
-    "43cf80df0ae5": {
-      "resumen": "La Nación detalla la fecha y la venta de entradas para el show de Los Nocheros en Buenos Aires por sus 40 años de trayectoria."
+    "52d2b9fca393": {
+      "resumen": "El músico uruguayo Juan Wauters vuelve a tocar en Buenos Aires, esta vez en el Teatro Margarita Xirgu."
     },
-    "000e2c7aeca0": {
-      "resumen": "Il Globo repasa 'Tradición/Traición', la propuesta de Viviana Mercurio entre las raíces culturales, la ruptura y la libertad."
+    "25fccea85336": {
+      "resumen": "La obra 'Conflagración, una tragedia travesti' llega a la cartelera porteña."
+    },
+    "fd5572f6cc1f": {
+      "resumen": "somosohlala propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
     },
     "d59d5cfa8362": {
       "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
@@ -103,8 +102,8 @@
     "1237f41db531": {
       "resumen": "Clarín presenta uno de los restaurantes más antiguos de Buenos Aires, ubicado en Monserrat, famoso por su puchero, revuelto gramajo y vitel toné."
     },
-    "b985d41fa183": {
-      "resumen": "Una selección de planes para hacer este fin de semana en la Ciudad de Buenos Aires."
+    "af9c5e115781": {
+      "resumen": "Infobae detalla quiénes cobran hoy, martes 11 de agosto, según el cronograma de pagos de la ANSES (Administración Nacional de la Seguridad Social)."
     }
   }
 }
