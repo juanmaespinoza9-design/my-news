@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-08-12T10:12:09Z",
+  "generated_at": "2026-08-12T22:15:00Z",
   "summaries": {
+    "65882bff298b": {
+      "resumen": "OncLive reporta un análisis de seguridad por subgrupos etarios de esquemas de duración fija que combinan acalabrutinib (un inhibidor de la tirosina quinasa de Bruton, BTK) y venetoclax (un inhibidor de BCL-2) en pacientes con leucemia linfocítica crónica (LLC) sin tratamiento previo. Vale la pena mirarlo porque muestra que el perfil de seguridad se mantendría similar entre pacientes más jóvenes y más añosos, un dato clave para decidir este esquema oral en adultos mayores.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un análisis de seguridad por subgrupos de edad dentro de esquemas de duración fija con acalabrutinib y venetoclax; no se especifica si proviene de un ensayo aleatorizado, el número de centros ni el tamaño muestral de cada subgrupo etario.\nPoblación: Pacientes con leucemia linfocítica crónica (LLC) sin tratamiento previo (treatment-naive), estratificados por grupos de edad.\nIntervención: Esquemas orales de duración fija con acalabrutinib (inhibidor de BTK) más venetoclax (inhibidor de BCL-2); no se menciona comparador activo en el título.\nResultados: No informados en el título más allá de \"seguridad similar entre grupos etarios\"; sin el abstract no se puede precisar la incidencia de eventos adversos específicos por grupo.\nLimitaciones: Los análisis de seguridad por subgrupos suelen tener menor poder estadístico en cada estrato etario, y sin datos de eficacia asociada no se puede contextualizar el balance riesgo-beneficio.\nMensaje: Refuerza que este esquema oral de duración fija podría ser una opción segura también en pacientes mayores con LLC, un grupo históricamente subrepresentado en ensayos con quimioinmunoterapia.\nNota: análisis sin acceso al abstract."
+    },
+    "ca934fde54f0": {
+      "resumen": "OncLive informa que NEO100, una formulación de perilil alcohol de administración intranasal, alcanzó su criterio de valoración principal en un estudio sobre glioma de alto grado recurrente con mutación en el gen de la isocitrato deshidrogenasa 1 (IDH1). Interesa porque el glioma de alto grado recurrente tiene pronóstico muy pobre y pocas terapias que logren llegar al cerebro de forma no invasiva.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trata de un ensayo clínico (probablemente en fase temprana) que reporta haber cumplido su criterio de valoración principal; no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con glioma de alto grado recurrente con mutación en el gen de la isocitrato deshidrogenasa 1 (IDH1).\nIntervención: NEO100 (perilil alcohol purificado) administrado por vía intranasal, una estrategia no invasiva para sortear la barrera hematoencefálica; no se menciona comparador en el título.\nResultados: Se informa que el estudio \"cumplió\" su criterio de valoración principal, pero no se dan cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta.\nLimitaciones: Los estudios tempranos con administración intranasal suelen tener pocos pacientes y no siempre incluyen grupo control, por lo que la señal debe confirmarse en fases posteriores.\nMensaje: Es una señal alentadora en un escenario de muy alta necesidad clínica insatisfecha, pero por ahora habilitaría avanzar a estudios más grandes antes de pensar en un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "1c729beba7e7": {
+      "resumen": "The ASCO Post recoge los comentarios de la Dra. Mary-Ellen Taplin sobre el ensayo PROTEUS en cáncer de próstata localizado o localmente avanzado de alto riesgo. Vale la pena mirarlo porque ofrece la lectura de una especialista sobre un estudio relevante en un subgrupo de peor pronóstico dentro de la enfermedad localizada."
+    },
     "00692aa32782": {
       "resumen": "OncLive resume las nuevas guías de la Sociedad Americana de Hematología (ASH, por sus siglas en inglés) para la leucemia linfoblástica aguda (LLA) en adolescentes y adultos jóvenes (AYA). Sirve para que los oncólogos de adultos puedan aplicar recomendaciones concordantes con la guía en este grupo etario, que históricamente tuvo peor pronóstico cuando se lo trataba con protocolos de adultos en lugar de pediátricos.",
       "destacado": false,
       "analisis": "Diseño: Documento de guías de práctica clínica elaborado por la Sociedad Americana de Hematología (ASH); no es un estudio original con aleatorización, sino una síntesis de recomendaciones basadas en evidencia.\nPoblación: Adolescentes y adultos jóvenes (AYA, aproximadamente entre 15 y 39 años) con leucemia linfoblástica aguda (LLA).\nIntervención: Recomendaciones sobre el uso de protocolos de tratamiento de tipo pediátrico en este grupo etario, en lugar de los esquemas clásicos de oncología de adultos.\nResultados: No aplica como desenlace primario; el documento resume el nivel de evidencia detrás de cada recomendación sin aportar datos originales de supervivencia.\nLimitaciones: Al ser una guía, su fuerza depende de la calidad de los estudios que resume; sin el texto completo no se puede precisar qué recomendaciones son nuevas respecto de versiones previas.\nMensaje: Busca cerrar la brecha entre la evidencia (que favorece los protocolos pediátricos en AYA) y la práctica real de los oncólogos de adultos.\nNota: análisis sin acceso al abstract."
     },
-    "187703af1b99": {
-      "resumen": "OncLive recoge los comentarios del Dr. Silverstein sobre la eficacia de abemaciclib (un inhibidor de CDK4/6, es decir de las quinasas dependientes de ciclina 4 y 6) combinado con hormonoterapia en cáncer de ovario y de endometrio recurrentes. Interesa porque plantea una opción de tratamiento dirigido en tumores ginecológicos donde las alternativas terapéuticas suelen ser limitadas."
-    },
-    "205ea428e17d": {
-      "resumen": "Página de perfil profesional de OncLive sobre el médico Daniel Boiarsky, sin contenido noticioso específico de oncología. Probablemente se trate de una nota biográfica o de staff editorial capturada junto con las noticias de la fuente."
+    "3916c5fe4502": {
+      "resumen": "The ASCO Post presenta los comentarios de la Dra. Jennifer Gile sobre el linfoma difuso de células B grandes (LDCBG) de alto riesgo, centrados en los esquemas evaluados en los ensayos frontMIND y POLARIX. Interesa porque resume la mirada de una especialista sobre cómo estos estudios podrían cambiar el tratamiento de primera línea en pacientes de alto riesgo."
     },
     "bfd31911b178": {
       "resumen": "The ASCO Post repasa una encuesta internacional que identificó las principales barreras para incorporar la oncología integrativa (terapias complementarias con respaldo de evidencia, como el ejercicio, la nutrición o el manejo del estrés) en la atención del cáncer. Interesa porque señala qué frena la adopción de estas prácticas pese a la evidencia que las respalda.",
       "destacado": false,
       "analisis": "Diseño: Encuesta global (transversal), aplicada a profesionales vinculados a la atención oncológica; el título no precisa el número de respondentes ni los países participantes.\nPoblación: Profesionales de la salud (médicos, enfermería y otros integrantes del equipo oncológico) encuestados sobre el uso de terapias de oncología integrativa.\nIntervención: No aplica en sentido estricto: se trata de un relevamiento de opinión y práctica, no de una intervención terapéutica activa.\nResultados: No informados en el título; se sabe que identificó \"barreras\" pero no se detalla cuáles ni con qué frecuencia se reportaron.\nLimitaciones: Las encuestas transversales están sujetas a sesgo de respuesta y de representatividad geográfica; sin el cuerpo del trabajo no se puede evaluar la tasa de respuesta ni la metodología de reclutamiento.\nMensaje: Ayuda a mapear qué obstáculos (de formación, de tiempo, de evidencia o de recursos) limitan la integración de terapias complementarias en la práctica oncológica diaria, un insumo útil para diseñar estrategias de implementación.\nNota: análisis sin acceso al abstract."
     },
-    "d1c55c29cb03": {
-      "resumen": "The ASCO Post reporta actividad clínica de un anticuerpo biespecífico conjugado a droga (ADC, por sus siglas en inglés), primero en su clase, en cáncer de pulmón de células pequeñas en estadio extendido y en recaída. Es una noticia relevante porque este subtipo de cáncer de pulmón tiene pocas opciones eficaces después de progresar al tratamiento inicial.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título parece tratarse de un estudio clínico temprano (probablemente fase 1 o 1/2) que reporta datos de actividad antitumoral; no se especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas en estadio extendido (extensive-stage small cell lung cancer), en recaída tras el tratamiento de primera línea.\nIntervención: Un anticuerpo biespecífico conjugado a droga (ADC), descripto como \"first-in-class\" o primero en su clase; no se menciona comparador activo en el título.\nResultados: No informados en el título más allá de \"muestra actividad\"; sin el abstract no es posible precisar tasa de respuesta, supervivencia libre de progresión ni perfil de toxicidad.\nLimitaciones: Los estudios tempranos con estas características suelen tener pocos pacientes y seguimiento corto, por lo que la señal de eficacia debe confirmarse en ensayos más grandes y aleatorizados.\nMensaje: Es una señal temprana pero prometedora en un escenario de altísima necesidad clínica insatisfecha; hay que seguir su desarrollo en fases posteriores antes de pensar en un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "8c4845fac084": {
-      "resumen": "The ASCO Post presenta un biomarcador desarrollado con inteligencia artificial (IA) que podría ayudar a decidir qué pacientes con cáncer de páncreas operado se benefician de la quimioterapia adyuvante (la que se da después de la cirugía para reducir el riesgo de recaída). Es interesante porque el cáncer de páncreas resecado tiene un pronóstico muy heterogéneo y hoy faltan buenas herramientas para individualizar ese tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio de validación de un biomarcador basado en inteligencia artificial (probablemente sobre una cohorte retrospectiva de muestras histológicas); no se especifica el diseño exacto, el número de pacientes ni si hubo validación externa.\nPoblación: Pacientes con cáncer de páncreas resecado quirúrgicamente (enfermedad localizada, no metastásica al momento de la cirugía).\nIntervención: Aplicación de un biomarcador de inteligencia artificial (probablemente sobre imágenes histopatológicas) para estratificar el beneficio de la quimioterapia adyuvante, frente al manejo estándar sin esta herramienta.\nResultados: No informados en el título; sin el abstract no se puede precisar el desempeño del biomarcador (sensibilidad, especificidad o su asociación con la supervivencia).\nLimitaciones: Los biomarcadores basados en IA suelen requerir validación prospectiva y externa antes de poder usarse en la práctica; no se sabe desde el título si este ya la tiene.\nMensaje: Podría convertirse en una herramienta de medicina de precisión para decidir la adyuvancia en cáncer de páncreas, pero por ahora es una señal a confirmar antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
     "e2319d4dd180": {
       "resumen": "Artículo breve del Journal of Clinical Oncology firmado por Berthaud FM y colaboradores, titulado escuetamente \"Forty\". Por el formato y la brevedad del título, podría tratarse de una pieza narrativa o reflexiva (como las de la sección Art of Oncology) antes que de un estudio clínico; sin acceso al texto no puede confirmarse con certeza."
     },
     "4e0690144d52": {
       "resumen": "Actualización de los resultados de eficacia y seguridad del ensayo de fase III PIVOTAL, que evalúa daromun (L19IL2/L19TNF, una combinación de citoquinas inmunoestimulantes administrada por vía intralesional) como tratamiento neoadyuvante —es decir, antes de la cirugía— en melanoma localmente avanzado resecable. Es un estudio clave porque busca mejorar la respuesta patológica y reducir recaídas mediante inmunoterapia intralesional previa a la cirugía.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III (estudio PIVOTAL); esta publicación se describe como una actualización de los resultados de eficacia y seguridad. El título no precisa aleatorización, cegamiento ni el número de centros o pacientes de esta actualización puntual.\nPoblación: Pacientes con melanoma localmente avanzado y resecable (enfermedad candidata a cirugía).\nIntervención: Daromun (combinación intralesional de L19IL2 y L19TNF, dos citoquinas inmunoestimulantes fusionadas a un anticuerpo) administrado en forma neoadyuvante, es decir antes de la cirugía; el comparador exacto (cirugía sola u otro esquema) no figura en el título.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización ni si confirma los hallazgos de reportes previos del mismo ensayo.\nMensaje: El tratamiento intralesional neoadyuvante podría sumarse como estrategia para mejorar los resultados quirúrgicos y oncológicos en melanoma localmente avanzado resecable, un escenario donde hoy la cirugía sigue siendo el pilar.\nNota: análisis sin acceso al abstract."
     },
     "3fedd553abdb": {
@@ -43,53 +43,56 @@
     "ee9a6481ccd9": {
       "resumen": "El Journal of Clinical Oncology retractó un ensayo aleatorizado que evaluaba si el horario del día en que se administra la inmunoquimioterapia influye en la supervivencia libre de progresión y la supervivencia global en cáncer de pulmón de células no pequeñas (CPCNP). Vale la pena registrarlo porque implica que las conclusiones de ese estudio —que había despertado interés por la llamada \"cronoterapia\"— ya no deben considerarse válidas para la práctica clínica."
     },
+    "cbac3321cff8": {
+      "resumen": "Carta al New England Journal of Medicine que discute el uso de parches transdérmicos de estradiol como alternativa hormonal en cáncer de próstata, en referencia a los resultados del ensayo PATCH. Interesa porque este abordaje busca evitar los efectos adversos cardiovasculares y óseos de los análogos de la hormona liberadora de gonadotrofinas (LHRH) usados habitualmente en la supresión androgénica."
+    },
+    "8fc27912d9ea": {
+      "resumen": "Respuesta de los autores a la carta anterior sobre el uso de parches transdérmicos de estradiol en cáncer de próstata, publicada en el New England Journal of Medicine. Cierra el intercambio y aporta precisiones sobre la interpretación de esos resultados frente a la supresión androgénica clásica con análogos de LHRH."
+    },
     "642f1938a248": {
       "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
-    },
-    "9c58dfe6f8b8": {
-      "resumen": "Revista OHLALÁ! propone diez planes para hacer en la Ciudad, entre arte, ciencia, gastronomía y deporte."
     },
     "d59d5cfa8362": {
       "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
     },
-    "ca0abd38d9d7": {
-      "resumen": "Clarín reúne más de sesenta planes para el fin de semana del 7 al 9 de agosto en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, con opciones gratuitas."
-    },
     "fd5572f6cc1f": {
-      "resumen": "somosohlala propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
-    },
-    "6d2f5108b479": {
-      "resumen": "Il Globo repasa el concierto del violista Marco Misciagna en el Teatro Colón."
-    },
-    "0e9d34207eee": {
-      "resumen": "El músico uruguayo Juan Wauters vuelve a tocar en Buenos Aires con un show en el Teatro Margarita Xirgu; pronto.com.ar detalla cómo conseguir entradas."
-    },
-    "2d0f0687fa97": {
-      "resumen": "La Voz del Interior cuenta que Córdoba Cultura distinguió a la Orquesta Filarmónica de Buenos Aires en un acto en el Teatro del Libertador."
-    },
-    "644f9806e0c9": {
-      "resumen": "La obra \"Martín (Hache)\" llega al Teatro Argentino como homenaje al director de cine Adolfo Aristarain."
+      "resumen": "Revista OHLALÁ! propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
     },
     "41f9b19fba19": {
       "resumen": "Time Out recomienda sus lugares favoritos para comer papas fritas en Buenos Aires."
     },
-    "1e1a16e8cccd": {
-      "resumen": "Telva explica por qué no conviene invertir en la polémica falda de Zara del momento y qué otras tres faldas midi sí valen la pena."
-    },
     "c997a8d0fea8": {
       "resumen": "Grazia propone cinco looks en tendencia para armar esta semana con prendas de temporada."
     },
-    "99e3b679785b": {
-      "resumen": "Telva repasa el gusto de la princesa Amalia de Holanda por la moda española, esta vez con un vestido ideal de una firma artesanal de Barcelona."
+    "df6aa9c43888": {
+      "resumen": "Vogue México selecciona los zapatos chatos estilo guante en negro, blanco y de colores para sumar a los looks de agosto."
     },
-    "b13fd6b5285b": {
-      "resumen": "Cosmopolitan revela cuál es el color que Zara eligió como tendencia para este otoño, por encima del amarillo manteca y el marrón."
+    "f2a7c2a79df5": {
+      "resumen": "TN presenta la prenda que reemplazaría a la remera básica como tendencia para la primavera 2026."
     },
-    "823f77d31cfa": {
-      "resumen": "Vogue México pone a prueba las cámaras del nuevo celular Huawei Pura 90s Pro Max desde la mirada de una amante de la fotografía."
+    "0211baaee47a": {
+      "resumen": "Anne Hathaway combinó una blusa larga estilo años 2000 con pantalones acampanados para un look de verano, según Vogue México."
     },
-    "afe2d4ab79d5": {
-      "resumen": "Bárbara Mori y Ximena Sariñana hablan en Vogue México sobre la serie Las Azules y la libertad de decidir quiénes quieren ser."
+    "dd8ef764a812": {
+      "resumen": "ELLE selecciona cinco sandalias minimalistas de Zara ideales para combinar con looks de verano."
+    },
+    "596f05f99000": {
+      "resumen": "\"Expediente A.R.\" es una obra de teatro basada en un caso de femicidio que pone en discusión cómo los medios construyen a las víctimas."
+    },
+    "ae96f53ddc5d": {
+      "resumen": "MDZ Online repasa los planes para festejar el Día del Niño en familia en Buenos Aires."
+    },
+    "13e5240fb837": {
+      "resumen": "El Teatro Comedia presenta en agosto una programación que conecta Madrid, Buenos Aires y Córdoba."
+    },
+    "476fef683070": {
+      "resumen": "El histórico Teatro Odeón reabrirá en 2027 convertido en un complejo cultural de vanguardia en Buenos Aires."
+    },
+    "dc1647179745": {
+      "resumen": "Página|12 propone una agenda de actividades y espacios de la cultura LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "8f87b964942c": {
+      "resumen": "El Destape recomienda nueve lugares para comer una buena lasaña en Buenos Aires."
     }
   }
 }
