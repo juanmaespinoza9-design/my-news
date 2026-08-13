@@ -1,98 +1,96 @@
 {
-  "generated_at": "2026-08-12T22:15:00Z",
+  "generated_at": "2026-08-13T10:09:32Z",
   "summaries": {
-    "65882bff298b": {
-      "resumen": "OncLive reporta un análisis de seguridad por subgrupos etarios de esquemas de duración fija que combinan acalabrutinib (un inhibidor de la tirosina quinasa de Bruton, BTK) y venetoclax (un inhibidor de BCL-2) en pacientes con leucemia linfocítica crónica (LLC) sin tratamiento previo. Vale la pena mirarlo porque muestra que el perfil de seguridad se mantendría similar entre pacientes más jóvenes y más añosos, un dato clave para decidir este esquema oral en adultos mayores.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un análisis de seguridad por subgrupos de edad dentro de esquemas de duración fija con acalabrutinib y venetoclax; no se especifica si proviene de un ensayo aleatorizado, el número de centros ni el tamaño muestral de cada subgrupo etario.\nPoblación: Pacientes con leucemia linfocítica crónica (LLC) sin tratamiento previo (treatment-naive), estratificados por grupos de edad.\nIntervención: Esquemas orales de duración fija con acalabrutinib (inhibidor de BTK) más venetoclax (inhibidor de BCL-2); no se menciona comparador activo en el título.\nResultados: No informados en el título más allá de \"seguridad similar entre grupos etarios\"; sin el abstract no se puede precisar la incidencia de eventos adversos específicos por grupo.\nLimitaciones: Los análisis de seguridad por subgrupos suelen tener menor poder estadístico en cada estrato etario, y sin datos de eficacia asociada no se puede contextualizar el balance riesgo-beneficio.\nMensaje: Refuerza que este esquema oral de duración fija podría ser una opción segura también en pacientes mayores con LLC, un grupo históricamente subrepresentado en ensayos con quimioinmunoterapia.\nNota: análisis sin acceso al abstract."
+    "75dda724aeab": {
+      "resumen": "OncLive recoge los comentarios del Dr. Van Gorp sobre los datos de supervivencia libre de progresión (SLP) obtenidos con TUB-040, un fármaco en investigación, en cáncer de ovario resistente al platino. Vale la pena mirarlo porque este subtipo de cáncer de ovario tiene pocas opciones eficaces y representa un desafío terapéutico frecuente en la práctica oncológica.",
+      "destacado": false
     },
-    "ca934fde54f0": {
-      "resumen": "OncLive informa que NEO100, una formulación de perilil alcohol de administración intranasal, alcanzó su criterio de valoración principal en un estudio sobre glioma de alto grado recurrente con mutación en el gen de la isocitrato deshidrogenasa 1 (IDH1). Interesa porque el glioma de alto grado recurrente tiene pronóstico muy pobre y pocas terapias que logren llegar al cerebro de forma no invasiva.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trata de un ensayo clínico (probablemente en fase temprana) que reporta haber cumplido su criterio de valoración principal; no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con glioma de alto grado recurrente con mutación en el gen de la isocitrato deshidrogenasa 1 (IDH1).\nIntervención: NEO100 (perilil alcohol purificado) administrado por vía intranasal, una estrategia no invasiva para sortear la barrera hematoencefálica; no se menciona comparador en el título.\nResultados: Se informa que el estudio \"cumplió\" su criterio de valoración principal, pero no se dan cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta.\nLimitaciones: Los estudios tempranos con administración intranasal suelen tener pocos pacientes y no siempre incluyen grupo control, por lo que la señal debe confirmarse en fases posteriores.\nMensaje: Es una señal alentadora en un escenario de muy alta necesidad clínica insatisfecha, pero por ahora habilitaría avanzar a estudios más grandes antes de pensar en un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    "572a4a7fd3eb": {
+      "resumen": "OncLive presenta los comentarios del Dr. Garg sobre la evolución de la terapia con protones (radioterapia de partículas cargadas) en cáncer de cabeza y cuello. Interesa porque repasa cómo esta técnica busca reducir la toxicidad sobre tejidos sanos respecto de la radioterapia convencional, en una localización donde los efectos adversos del tratamiento afectan mucho la calidad de vida.",
+      "destacado": false
+    },
+    "f615f302cec7": {
+      "resumen": "OncLive plantea que todavía falta un ensayo clínico de segunda línea en carcinoma hepatocelular (CHC), el tumor primario de hígado más frecuente. Vale la pena mirarlo porque señala un vacío de evidencia en el tratamiento posterior a la primera línea, una instancia clave para definir qué ofrecer cuando falla el esquema inicial.",
+      "destacado": false
+    },
+    "cf14df30590a": {
+      "resumen": "The ASCO Post recoge los comentarios del Dr. Benjamin P. Levy sobre las opciones terapéuticas emergentes, en primera línea y en combinación, para el cáncer de pulmón de células no pequeñas (CPCNP) con mutación KRAS G12C. Interesa porque repasa cómo se está ampliando el arsenal de terapias dirigidas para un subgrupo molecular que hasta hace poco tenía pocas alternativas específicas.",
+      "destacado": false
     },
     "1c729beba7e7": {
-      "resumen": "The ASCO Post recoge los comentarios de la Dra. Mary-Ellen Taplin sobre el ensayo PROTEUS en cáncer de próstata localizado o localmente avanzado de alto riesgo. Vale la pena mirarlo porque ofrece la lectura de una especialista sobre un estudio relevante en un subgrupo de peor pronóstico dentro de la enfermedad localizada."
+      "resumen": "The ASCO Post recoge los comentarios de la Dra. Mary-Ellen Taplin sobre el ensayo PROTEUS en cáncer de próstata localizado o localmente avanzado de alto riesgo. Vale la pena mirarlo porque ofrece la lectura de una especialista sobre un estudio relevante en un subgrupo de peor pronóstico dentro de la enfermedad localizada.",
+      "destacado": false
     },
-    "00692aa32782": {
-      "resumen": "OncLive resume las nuevas guías de la Sociedad Americana de Hematología (ASH, por sus siglas en inglés) para la leucemia linfoblástica aguda (LLA) en adolescentes y adultos jóvenes (AYA). Sirve para que los oncólogos de adultos puedan aplicar recomendaciones concordantes con la guía en este grupo etario, que históricamente tuvo peor pronóstico cuando se lo trataba con protocolos de adultos en lugar de pediátricos.",
+    "81f54de2f1de": {
+      "resumen": "Actualización de la supervivencia global a largo plazo del ensayo COMBI-I, que evaluó agregar spartalizumab (un inhibidor del punto de control inmunitario anti-PD-1) al esquema estándar de dabrafenib más trametinib (inhibidores de BRAF y MEK) en melanoma avanzado con mutación BRAF V600. Vale la pena mirarlo porque aporta datos de seguimiento prolongado sobre si sumar inmunoterapia a la terapia dirigida sostiene el beneficio en supervivencia.",
       "destacado": false,
-      "analisis": "Diseño: Documento de guías de práctica clínica elaborado por la Sociedad Americana de Hematología (ASH); no es un estudio original con aleatorización, sino una síntesis de recomendaciones basadas en evidencia.\nPoblación: Adolescentes y adultos jóvenes (AYA, aproximadamente entre 15 y 39 años) con leucemia linfoblástica aguda (LLA).\nIntervención: Recomendaciones sobre el uso de protocolos de tratamiento de tipo pediátrico en este grupo etario, en lugar de los esquemas clásicos de oncología de adultos.\nResultados: No aplica como desenlace primario; el documento resume el nivel de evidencia detrás de cada recomendación sin aportar datos originales de supervivencia.\nLimitaciones: Al ser una guía, su fuerza depende de la calidad de los estudios que resume; sin el texto completo no se puede precisar qué recomendaciones son nuevas respecto de versiones previas.\nMensaje: Busca cerrar la brecha entre la evidencia (que favorece los protocolos pediátricos en AYA) y la práctica real de los oncólogos de adultos.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Actualización de supervivencia global a largo plazo del ensayo COMBI-I, un estudio de fase III; el título de esta publicación puntual no detalla el número de centros ni de pacientes incluidos en el análisis actualizado.\nPoblación: Pacientes con melanoma avanzado con mutación en BRAF V600.\nIntervención: Combinación de spartalizumab (inhibidor del punto de control inmunitario anti-PD-1) más dabrafenib (inhibidor de BRAF) y trametinib (inhibidor de MEK), frente al esquema estándar de dabrafenib más trametinib con placebo.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización, la magnitud del beneficio ni la tasa de eventos adversos asociados al agregado de inmunoterapia.\nMensaje: Aporta datos de seguimiento a largo plazo sobre si sumar inmunoterapia anti-PD-1 a la terapia dirigida BRAF/MEK mejora de forma sostenida la supervivencia global en este subgrupo molecular de melanoma.\nNota: análisis sin acceso al abstract."
+    },
+    "a39c08ada4ce": {
+      "resumen": "Estudio de Kinslow CJ y colaboradores en el Journal of Clinical Oncology sobre el efecto pronóstico y predictivo de la edad en gliomas de bajo grado (grado 2) clasificados según su perfil molecular. Interesa porque podría ayudar a afinar la estratificación de riesgo y las decisiones terapéuticas en este tipo de tumor cerebral.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio, probablemente retrospectivo o de cohorte, sobre el valor pronóstico y predictivo de la edad en gliomas de bajo grado clasificados según categorías moleculares; el título no especifica el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con gliomas de bajo grado (grado 2), clasificados según su definición molecular (por ejemplo, estado de mutación de IDH y codeleción 1p/19q).\nIntervención: No es una intervención terapéutica activa; el estudio analiza el efecto pronóstico y predictivo de la edad del paciente dentro de los subgrupos moleculares.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Este tipo de análisis suele ser retrospectivo, con riesgo de sesgo de selección, y el efecto de la edad puede confundirse con otros factores como el estado funcional o el tratamiento recibido.\nMensaje: Podría ayudar a refinar la estratificación pronóstica y las decisiones terapéuticas en gliomas de bajo grado, incorporando la edad junto con la clasificación molecular vigente.\nNota: análisis sin acceso al abstract."
     },
     "3916c5fe4502": {
-      "resumen": "The ASCO Post presenta los comentarios de la Dra. Jennifer Gile sobre el linfoma difuso de células B grandes (LDCBG) de alto riesgo, centrados en los esquemas evaluados en los ensayos frontMIND y POLARIX. Interesa porque resume la mirada de una especialista sobre cómo estos estudios podrían cambiar el tratamiento de primera línea en pacientes de alto riesgo."
-    },
-    "bfd31911b178": {
-      "resumen": "The ASCO Post repasa una encuesta internacional que identificó las principales barreras para incorporar la oncología integrativa (terapias complementarias con respaldo de evidencia, como el ejercicio, la nutrición o el manejo del estrés) en la atención del cáncer. Interesa porque señala qué frena la adopción de estas prácticas pese a la evidencia que las respalda.",
-      "destacado": false,
-      "analisis": "Diseño: Encuesta global (transversal), aplicada a profesionales vinculados a la atención oncológica; el título no precisa el número de respondentes ni los países participantes.\nPoblación: Profesionales de la salud (médicos, enfermería y otros integrantes del equipo oncológico) encuestados sobre el uso de terapias de oncología integrativa.\nIntervención: No aplica en sentido estricto: se trata de un relevamiento de opinión y práctica, no de una intervención terapéutica activa.\nResultados: No informados en el título; se sabe que identificó \"barreras\" pero no se detalla cuáles ni con qué frecuencia se reportaron.\nLimitaciones: Las encuestas transversales están sujetas a sesgo de respuesta y de representatividad geográfica; sin el cuerpo del trabajo no se puede evaluar la tasa de respuesta ni la metodología de reclutamiento.\nMensaje: Ayuda a mapear qué obstáculos (de formación, de tiempo, de evidencia o de recursos) limitan la integración de terapias complementarias en la práctica oncológica diaria, un insumo útil para diseñar estrategias de implementación.\nNota: análisis sin acceso al abstract."
+      "resumen": "The ASCO Post presenta los comentarios de la Dra. Jennifer Gile sobre el linfoma difuso de células B grandes (LDCBG) de alto riesgo, centrados en los esquemas evaluados en los ensayos frontMIND y POLARIX. Interesa porque resume la mirada de una especialista sobre cómo estos estudios podrían cambiar el tratamiento de primera línea en pacientes de alto riesgo.",
+      "destacado": false
     },
     "e2319d4dd180": {
-      "resumen": "Artículo breve del Journal of Clinical Oncology firmado por Berthaud FM y colaboradores, titulado escuetamente \"Forty\". Por el formato y la brevedad del título, podría tratarse de una pieza narrativa o reflexiva (como las de la sección Art of Oncology) antes que de un estudio clínico; sin acceso al texto no puede confirmarse con certeza."
+      "resumen": "Artículo breve del Journal of Clinical Oncology firmado por Berthaud FM y colaboradores, titulado escuetamente \"Forty\". Por el formato y la brevedad del título, podría tratarse de una pieza narrativa o reflexiva (como las de la sección Art of Oncology) antes que de un estudio clínico; sin acceso al texto no puede confirmarse con certeza.",
+      "destacado": false
     },
     "4e0690144d52": {
       "resumen": "Actualización de los resultados de eficacia y seguridad del ensayo de fase III PIVOTAL, que evalúa daromun (L19IL2/L19TNF, una combinación de citoquinas inmunoestimulantes administrada por vía intralesional) como tratamiento neoadyuvante —es decir, antes de la cirugía— en melanoma localmente avanzado resecable. Es un estudio clave porque busca mejorar la respuesta patológica y reducir recaídas mediante inmunoterapia intralesional previa a la cirugía.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III (estudio PIVOTAL); esta publicación se describe como una actualización de los resultados de eficacia y seguridad. El título no precisa aleatorización, cegamiento ni el número de centros o pacientes de esta actualización puntual.\nPoblación: Pacientes con melanoma localmente avanzado y resecable (enfermedad candidata a cirugía).\nIntervención: Daromun (combinación intralesional de L19IL2 y L19TNF, dos citoquinas inmunoestimulantes fusionadas a un anticuerpo) administrado en forma neoadyuvante, es decir antes de la cirugía; el comparador exacto (cirugía sola u otro esquema) no figura en el título.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización ni si confirma los hallazgos de reportes previos del mismo ensayo.\nMensaje: El tratamiento intralesional neoadyuvante podría sumarse como estrategia para mejorar los resultados quirúrgicos y oncológicos en melanoma localmente avanzado resecable, un escenario donde hoy la cirugía sigue siendo el pilar.\nNota: análisis sin acceso al abstract."
     },
-    "3fedd553abdb": {
-      "resumen": "Ensayo de fase II estratificado por biomarcador que evalúa trastuzumab rezetecan (un anticuerpo conjugado a droga, ADC, dirigido contra HER2, el receptor 2 del factor de crecimiento epidérmico humano) en carcinoma avanzado de glándulas salivales, comparando cohortes con expresión alta y baja de HER2. Interesa porque el cáncer de glándulas salivales es infrecuente y tiene pocas opciones de tratamiento dirigido validadas.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase II, estratificado por biomarcador (cohortes según expresión alta o baja de HER2); el título no especifica aleatorización, cegamiento ni número de centros o pacientes por cohorte.\nPoblación: Pacientes con carcinoma avanzado de glándulas salivales, divididos en cohortes según el nivel de expresión del receptor 2 del factor de crecimiento epidérmico humano (HER2).\nIntervención: Trastuzumab rezetecan, un anticuerpo conjugado a droga (ADC) dirigido contra HER2; el diseño por cohortes sugiere que no hay comparador activo dentro del propio estudio.\nResultados: No informados en el título; sin el abstract no se puede precisar la tasa de respuesta ni la supervivencia libre de progresión en cada cohorte.\nLimitaciones: Al ser fase II, el tamaño muestral suele ser reducido y sin grupo control, por lo que la eficacia observada requiere confirmación en estudios más grandes; además, el cáncer de glándulas salivales es heterogéneo en sus subtipos histológicos.\nMensaje: Podría abrir una opción de tratamiento dirigido para un tumor infrecuente y con pocas alternativas, especialmente si el fármaco muestra actividad también en el subgrupo con baja expresión de HER2.\nNota: análisis sin acceso al abstract."
+    "5e8d6b27d214": {
+      "resumen": "Zara lanzó su primer uniforme de pre-temporada, a mitad de camino entre lo casual del verano y el estilo urbano de septiembre."
     },
-    "ee9a6481ccd9": {
-      "resumen": "El Journal of Clinical Oncology retractó un ensayo aleatorizado que evaluaba si el horario del día en que se administra la inmunoquimioterapia influye en la supervivencia libre de progresión y la supervivencia global en cáncer de pulmón de células no pequeñas (CPCNP). Vale la pena registrarlo porque implica que las conclusiones de ese estudio —que había despertado interés por la llamada \"cronoterapia\"— ya no deben considerarse válidas para la práctica clínica."
+    "1038ac370c3e": {
+      "resumen": "Zara estrena hoy las tendencias de otoño 2026, prendas que prometen agotarse antes de septiembre."
     },
-    "cbac3321cff8": {
-      "resumen": "Carta al New England Journal of Medicine que discute el uso de parches transdérmicos de estradiol como alternativa hormonal en cáncer de próstata, en referencia a los resultados del ensayo PATCH. Interesa porque este abordaje busca evitar los efectos adversos cardiovasculares y óseos de los análogos de la hormona liberadora de gonadotrofinas (LHRH) usados habitualmente en la supresión androgénica."
+    "97668a5a020c": {
+      "resumen": "La fórmula de estilo asociada a Carolina Herrera vuelve a ser tendencia con apenas dos básicos infaltables del placard."
     },
-    "8fc27912d9ea": {
-      "resumen": "Respuesta de los autores a la carta anterior sobre el uso de parches transdérmicos de estradiol en cáncer de próstata, publicada en el New England Journal of Medicine. Cierra el intercambio y aporta precisiones sobre la interpretación de esos resultados frente a la supresión androgénica clásica con análogos de LHRH."
+    "b02415c30940": {
+      "resumen": "Un repaso por las obras más importantes de la escritora mexicana Ángeles Mastretta."
     },
-    "642f1938a248": {
-      "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
+    "5f9df376b796": {
+      "resumen": "Un grupo de expertos en organización de bodas ofrece consejos para planificar un casamiento en Ciudad de México."
     },
-    "d59d5cfa8362": {
-      "resumen": "Página|12 repasa la agenda de actividades culturales en la provincia de Buenos Aires."
+    "71c90e4658f0": {
+      "resumen": "Cómo se usa el agua de arroz fermentada, una técnica de belleza capilar popular en Asia, para el lavado del cabello."
+    },
+    "09cc7805f3a1": {
+      "resumen": "La agenda de obras de teatro que se pueden ver en el país durante la semana del 13 al 20 de agosto."
+    },
+    "754bff2ca647": {
+      "resumen": "Toda la información sobre entradas, precios y ubicaciones para ver a la Filarmónica de Buenos Aires en el Teatro Colón."
+    },
+    "87a387b8289a": {
+      "resumen": "El director José María Muscari estrenó \"Lucio y yo\", una obra basada en su historia personal."
+    },
+    "da8180bb5c5b": {
+      "resumen": "Un espectáculo de tambores Taiko japoneses, con más de 20 instrumentos gigantes, llega por única vez a Buenos Aires."
     },
     "fd5572f6cc1f": {
       "resumen": "Revista OHLALÁ! propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
     },
-    "41f9b19fba19": {
-      "resumen": "Time Out recomienda sus lugares favoritos para comer papas fritas en Buenos Aires."
-    },
-    "c997a8d0fea8": {
-      "resumen": "Grazia propone cinco looks en tendencia para armar esta semana con prendas de temporada."
-    },
-    "df6aa9c43888": {
-      "resumen": "Vogue México selecciona los zapatos chatos estilo guante en negro, blanco y de colores para sumar a los looks de agosto."
-    },
-    "f2a7c2a79df5": {
-      "resumen": "TN presenta la prenda que reemplazaría a la remera básica como tendencia para la primavera 2026."
-    },
-    "0211baaee47a": {
-      "resumen": "Anne Hathaway combinó una blusa larga estilo años 2000 con pantalones acampanados para un look de verano, según Vogue México."
-    },
-    "dd8ef764a812": {
-      "resumen": "ELLE selecciona cinco sandalias minimalistas de Zara ideales para combinar con looks de verano."
-    },
-    "596f05f99000": {
-      "resumen": "\"Expediente A.R.\" es una obra de teatro basada en un caso de femicidio que pone en discusión cómo los medios construyen a las víctimas."
-    },
-    "ae96f53ddc5d": {
-      "resumen": "MDZ Online repasa los planes para festejar el Día del Niño en familia en Buenos Aires."
-    },
-    "13e5240fb837": {
-      "resumen": "El Teatro Comedia presenta en agosto una programación que conecta Madrid, Buenos Aires y Córdoba."
-    },
-    "476fef683070": {
-      "resumen": "El histórico Teatro Odeón reabrirá en 2027 convertido en un complejo cultural de vanguardia en Buenos Aires."
-    },
     "dc1647179745": {
       "resumen": "Página|12 propone una agenda de actividades y espacios de la cultura LGBTIQ para este fin de semana en Buenos Aires."
     },
+    "642f1938a248": {
+      "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
+    },
     "8f87b964942c": {
       "resumen": "El Destape recomienda nueve lugares para comer una buena lasaña en Buenos Aires."
+    },
+    "0f90eb914faa": {
+      "resumen": "Veinte propuestas de ferias, conciertos y experiencias para hacer en Buenos Aires el fin de semana del 13 al 16 de agosto."
+    },
+    "41f9b19fba19": {
+      "resumen": "Time Out recomienda sus lugares favoritos para comer papas fritas en Buenos Aires."
     }
   }
 }
