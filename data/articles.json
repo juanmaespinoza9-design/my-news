@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-12T23:06:40.699191+00:00",
+ "generated_at": "2026-08-13T03:03:47.878405+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "One Second-line Therapy Trial Still Needed in HCC",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVo3UXNpdXhHSEU2VV90a1hub1ZOTTBibnp4YXM3NG1QZXczZ0VtdUQ0OU1KM2pIdUhUMVlGajhuZFlfU2xnS1huTFl0NWlXOVd2MGhMcmN2MHE5aW9xSzFOOEd6WWxTTG9aWjJma1VsaVVQYU85cG5rMUlIUE1YYzh6ajg3c3M?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-13T00:04:15+00:00",
+     "id": "f615f302cec7"
+    },
     {
      "title": "Dr Morris on Lutetium Lu 177 Vipivotide Tetraxetan Plus an ARPI in PSMA+ mHSPC",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHJjcWp1NnQxeGsxaXdTTzVtalo4TzA4OVcxbFc5c2gteFJuVkZhRFBhUjBVWnJ1S1BCN0RmeGlCS3MtampQNFZMc1BRVWxSZkNOeUVXaVpUUWtIQnFkMVU5cWxWQjRMRWh4UXlEb1pOQ0VUaDJkR1A4dnJWTlRmQUxJOEhRRXlabThsXzAyQk1IeXdWdUZrVkE4enFCdkw3aDdGelpkQVZ4UQ?oc=5",
@@ -21,11 +28,11 @@
      "id": "65882bff298b"
     },
     {
-     "title": "Intranasal NEO100 Meets Primary End Point in Recurrent IDH1-Mutant High-Grade Glioma",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXFYNmJhMkIwQi1Rb0Y4WDdXVU9uWjdvMV9vT1dHX1M4dzBITmN1eGhFZ3p1MnBjVmRReWxncnNkWVNCTWlLS3RDOWlwbmNtTThYM2lpYjZ1NlJ5MTQwZHVvZjVUUkVIemdlTDkyODRrWUw5LVBFMHFPdkVmYVZadXc0QmJkVWhodWZ5dE5peldyMGdfYXVSekhiZFVDd2xaNGRxRTRMaGdJR05WaG93RU5WRQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-12T15:25:38+00:00",
-     "id": "ca934fde54f0"
+     "title": "Benjamin P. Levy, MD, on Emerging Options for KRAS G12C–Mutated NSCLC: First-Line and Combination Therapies",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYUlQc3NYdVk1bWhsLWJNQ25kS1UzNUdkcS12RmxEOGpSd2VKQTdzVGlILS11TWRBSDUxaGlILU82emtRemRZTXk5SERneTR2dkRTTEt6dTRwdlk1ekd0cTRxOVJKdEtnTFZPbnZ5eUlyOUJWZDhLT0N2UDFrbzk3VHlQczNKc2UtTUU2dmt2a2NtcjlySURETGc3R3VRUHE1R182N283eFA5a1hSTVNMYmFVaEdYdkJYakVRQmZDdUhwZ2ZrQndUVQ?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-08-12T17:19:41+00:00",
+     "id": "cf14df30590a"
     },
     {
      "title": "COMBI-I: Long-Term Overall Survival With Spartalizumab Plus Dabrafenib and Trametinib in BRAF V600-Mutant Advanced Melanoma",
@@ -58,13 +65,6 @@
      "id": "bfd31911b178"
     },
     {
-     "title": "First-in-Class Bispecific ADC Shows Activity in Relapsed Extensive-Stage Small Cell Lung Cancer",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSm5Fa20wZUFhNlJZaFRYR1N2bzN5NHZsLU85bFllRTZ6bl9ZbkRCRU51QzRvcWc3c2RIWE5Ld3FYU2RCX3ZXa3ZidF8yY3Jtb29wN2FYQV80RmtfSGQxTzRoMGVhQV9xaUIyS1ExSzVEQWY1Mm1xVVNUZTNjVUdraVJGd3Y3Ykg4SDd0c2hrYUl4dTdORTcwbEFKMWtqMWh1RWZYaVJ0NGJpZHpZMGdTblVsbDJHYUhhdG5iMzNBWWs2Z1k5T1BfSGxwRXdFNDQ?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-08-11T14:03:35+00:00",
-     "id": "d1c55c29cb03"
-    },
-    {
      "title": "Forty",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42579837/",
      "source": "Journal of Clinical Oncology",
@@ -79,22 +79,6 @@
      "published": "2026-08-11T00:00:00+00:00",
      "copete": "Hauschild A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "4e0690144d52"
-    },
-    {
-     "title": "Electronic Patient-Reported Outcome Monitoring With Alert-Based Interventions in Metastatic Breast Cancer: A Randomized Clinical Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42560727/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Karsten MM et al. · JAMA oncology",
-     "id": "11377b4344ee"
-    },
-    {
-     "title": "Overlapping Cohorts and Double Counting in Meta-Analyses",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42560711/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Vora N et al. · JAMA oncology",
-     "id": "0d398a8f292f"
     }
    ]
   },
@@ -104,6 +88,43 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Los trucos infalibles capaces de elevar cualquier estilismo según el 'street style' de la Semana de la Moda de Copenhague",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTWR5T0J3U2R0d1RqbVl6MkpWUHFWRFVoQnVHQTdHcWVicE9nRTgteGl2Wjh1UkZXZFhnelYzdDQ0SDNzVnROZ1lHMmZHMGhVTW85RWRGWFhDLTNKbzVBZnk4ZUo3UGpYZnAteU10YTU1aEV5VWE1eDdTTjBqdHhtUF9Nd1pVdTNkdEs0UnNTWUpGRVlEOXgtVjdocmFmSVhvN3lzZDlpT2JCLVV6cElLSHVqTWlQc2EwOVBYVUdOeHRHdW5RdmJQOTVOUU4yZC1ycW9weURvb00zNVJLTDBJNDRGT09XSHBYdk1Ta2JNSGdBZE3SAfMBQVVfeXFMTUpCakRZRkc5VjVQT1dfZlRobnQ3cmpCRnlmS0NxWnpQUGhSazNncFhHVFVGSnpRR0hoaXZCSmEtT1NERDhTdFpldUY3ZG4tQnN0LXlTX2NlRENtVGo2UmtUYks2LVJhYzdaQ0wzblItUHJUTFVVbVZNZ0tNV091VDBEZmxqcmgzMHpnbk1uQURRbnZhdjZ2RS1RSDMxYlR2bGxTemEzMHRHeTNOTDRRS0ZNOUIxYS1GeHZ0bHN4eDZ6OTJ2b1dZWXgybzFkc0h5Y3NGTzkzazBtVUxwVlFBYlU5QkNRYjFCSGdON2ZMcURGWmtN?oc=5",
+     "source": "Ultima Hora",
+     "published": "2026-08-13T01:44:42+00:00",
+     "id": "3584f2782388"
+    },
+    {
+     "title": "The 3 Hair-Care Habits I Picked Up at a Korean Scalp Spa",
+     "link": "https://www.vogue.com/article/korean-scalp-spa-hair-lessons",
+     "source": "Vogue",
+     "published": "2026-08-13T00:57:56+00:00",
+     "copete": "What can a Korean scalp spa teach you about hair care? One Vogue writer thought she had her routine down—until a scalp analysis revealed three steps she needed to change.",
+     "id": "ac143d984fa3"
+    },
+    {
+     "title": "Todos los libros de Ángeles Mastretta: Sus obras más importantes",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GYXdaN3k4c25zN2JVNXBiRTFwWmVHSkpHZFdndFgzZXZ4SmlwNkdTczhfM2phaEUzVFFDTmtmdjJuSlRoSkJERktWY3JoVUJrQnNVYVJienNSSzc2MWpoMnM2TVQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-08-13T00:40:50+00:00",
+     "id": "b02415c30940"
+    },
+    {
+     "title": "The Best Rose Perfumes Pay Respect to the Heritage Note—Then Completely Disrupt It",
+     "link": "https://www.vogue.com/article/best-rose-perfume",
+     "source": "Vogue",
+     "published": "2026-08-12T23:27:55+00:00",
+     "copete": "Rose is no longer a singular olfactive expression. Fruity and sweet, or fresh and crisp, these blends prove how perfumers are putting a modern twist on the classic bloom.",
+     "id": "c3f75efadc0d"
+    },
+    {
+     "title": "¿Tu boda es en la Ciudad de México pero no sabes por dónde empezar? Este grupo de expertos tiene la respuesta",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWpub3JTRHZQY3JONk8xellzZ0pMTXRoSkMtS3lKN1FWU2xIVC0yODZVcTVOVi0yWk8zTWs4SUVqMkZYWjhEV2VWckR2di1mbjREd0J2OEt4TG1tcTZkcENMaWN6eThReW94YzdRdjEzWkpkV1p5MHlZX191RjJUWVhWZw?oc=5",
+     "source": "Vogue México",
+     "published": "2026-08-12T23:09:57+00:00",
+     "id": "5f9df376b796"
+    },
+    {
      "title": "Oatmeal: A Bedtime Snack Scientifically Proven for Better Sleep",
      "link": "https://www.vogue.com/article/oatmeal-before-bed",
      "source": "Vogue",
@@ -112,7 +133,7 @@
      "id": "dcfba2118fc4"
     },
     {
-     "title": "Travis Kelce Says His Wedding to Taylor Swift Was “The Best Night of My Life”— Here’s Everything We Know About It",
+     "title": "Travis Kelce Says His Wedding to Taylor Swift Was the “Best Night of My Life”—Here’s Everything We Know About It",
      "link": "https://www.vogue.com/article/taylor-swift-and-travis-kelce-wedding-location-date-guests",
      "source": "Vogue",
      "published": "2026-08-12T22:39:09+00:00",
@@ -120,62 +141,25 @@
      "id": "b30c3061c5cc"
     },
     {
+     "title": "La moda de Copenhague llega a Argentina y se adapta al jean local",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHAwb2dsT2dPaW1SeF8ycndFbTNtWl9xVEt2Q2gwX3FjakUzN3lWYnY4QXY1QWNqOTJyVFl4aUhnbV9keVhQSVNQeVU1YmZzc1o3YnpNRHUxTHl1czA4d0NTNHl3Y210YzJzYWFNWld6clh4YkdUd0xCdWVDRnh4ajVsYVhWRWxqTXpVUnhDSkN5aFNBZGVGamV5MUYwWEhHaVU5d3I2cw?oc=5",
+     "source": "www.lv16.com.ar",
+     "published": "2026-08-12T22:16:00+00:00",
+     "id": "d7b4be37a217"
+    },
+    {
+     "title": "La moda de la Copenhagen Fashion Week llega a Argentina",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFdoYmZTTW1MbHpVeTZrZHNGY3BXaWs4Z0JQemJvZnZvU3FUc1BCOUt4TW80bzdWMDJoZFNSQmsxdmlRQnVpUHBCcGc0UDdWdmd2Y2NnbFZYSWpxRF9KYTNpUE9RTlhzenpYc3JjTFA4SW45ZF9vZ0ViNkFwLW5WUDN0U0I4dWhMZFVDQjhTUnVnSHVlenN0TFpR?oc=5",
+     "source": "www.lv16.com.ar",
+     "published": "2026-08-12T22:16:00+00:00",
+     "id": "41da22d5525e"
+    },
+    {
      "title": "Las mujeres asiáticas usan el agua de arroz fermentada así para lavarse el cabello",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWtDYno1bWJXTlg5OUVSOTlKeEJ1c0hVWXAxS2ZqaWkzT3lROGJYU1k5M2ItNFRmWlZSRnA4NkVObllFeUdKcHdYWGh3RTJZd2FkZmlqUUU0b25Femx6VmFQVk83d2dOY3lHTEp0RU8yZVBqVER5YnRyOEhIRGJVTzRWU2NkSU5EZ1d0blMxZlZCdlFMbmxPLTVTVE9sV0pPMXJBZmp0ckd4Mk1xbFZIcHVn?oc=5",
      "source": "Vogue México",
      "published": "2026-08-12T21:55:08+00:00",
      "id": "71c90e4658f0"
-    },
-    {
-     "title": "These Four Bespoke Brands Are Doing Tailoring Differently",
-     "link": "https://www.vogue.com/article/four-bespoke-tailoring-brands",
-     "source": "Vogue",
-     "published": "2026-08-12T21:38:15+00:00",
-     "copete": "These aren’t your traditional Savile Row-style suits: These bespoke labels are infusing fun and personality into their custom services.",
-     "id": "8a0506584b02"
-    },
-    {
-     "title": "Copenhagen Fashion Week: The Trends That Made a Splash at the Spring 2027 Shows",
-     "link": "https://www.vogue.com/article/the-trends-that-made-a-splash-at-the-spring-2027-shows-in-copenhagen",
-     "source": "Vogue",
-     "published": "2026-08-12T21:19:16+00:00",
-     "copete": "From wardrobe mainstays (shirts, long shorts, roomy pants), to swim-inspired designs, lingerie touches, and romantic flourishes, these are the 11 trends that defined this edition of CPHFW.",
-     "id": "63a71a469601"
-    },
-    {
-     "title": "5 looks en tendencia para llevar esta semana con prendas de temporada",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03MGVUMkZmU253V2p3YnoyVV91OUZCcnJfdnRHdkZXOXdxS0xfYzZnbUlmd2o1eXVjUDdMRzUxNElMQ3Mzd242cUUyZVZiVnRTTFZOWWpTaFVPNWt6VmxNY0dOTXhBNjJ1V2c?oc=5",
-     "source": "graziamagazine",
-     "published": "2026-08-12T20:17:35+00:00",
-     "id": "c997a8d0fea8"
-    },
-    {
-     "title": "Axiomas de lo fronterizo",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OcUFIZzdreWo5ZGxFWVhJQWl2Z0N3UWdrVmpQYUw3NGxBVVZzUTJTUWVZWnAxMGFucXZxVHVoRVFYQnBZWWIzZk42MEljNWRsMFpReVN5TnlnSmdVZkFHTkN1MUZid2tNUEhiX05LZHBKMzVLT0FDbUxRMUI1QQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-12T19:42:29+00:00",
-     "id": "646f69bfe593"
-    },
-    {
-     "title": "Los zapatos planos tipo guante negros, blancos y de colores más elegantes para elevar tu look en agosto 2026",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVm5RblR1U29KWHNGTWZJOWJ2MWw2X01BNU9HRXF4NmVLeEJobmVJR2d5NFJlOWJvblItZVF3cmxEdHg0VDNrWF9aZGZlZ2hocFJ6bDdyVFNTOTVULTlRQ1NXQU5hY2tZY0pKV3llaWdieVRrX0NBSWNZNXpwLTc1ZXVESmFhU0l3UElZNl9vdnpEMUVtWl82dk15R2oyRndaazRv?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-12T19:26:27+00:00",
-     "id": "df6aa9c43888"
-    },
-    {
-     "title": "La remera básica no va más: la nueva tendencia para esta primavera 2026, más elegante y que eleva cualquier look",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUjhQNmhDS2ZZTUhhRE5pVkw3VXpjZ1JOcy0yVUFWWEhBd0RkaWh0ZmdsVDBFRXRJZmwwdTBjTThBMzJxSi1HZnQ0Qkg5UExRSC1iT1prMmxhSWdldlc3T1VRTUtHLVk2azlDenBmWEQ5MEo0b1BhNzJvbUkxeTZQT3ZvMmlaMEZaT2h5TnhDUFJhWExBUGtQaGhHd1pYd3BCSXV0LXQ0VGlXNWZGZUh6SEl5Y2RkWXdiU2FrV0JCOU9BVXROS3JhdThqNGtNcWNVaTBnVUNXTW1XeWJWSjNfTkVibUhfMFnSAfsBQVVfeXFMTkhBMmhwc3Y1SjZ3UVFRazBxako5cThKRzN0SjNCNnZFVXdhSjZjSE1RaDU2Ui1hMDhGejM5RmtwSkxXeHNYZ0hTU1F1SF94S0lTdGJrUjRsOTdTTHB3T200cnkweTRrVmhCZ1BDd2ZXaEJZRUdUVlh1WWN6cW9idy12RHU2M1ViRHkycVhYeGlSLWdkS2lEUFZ4UXU2WkFYaFE5UWhwTVVWX0VkU3luNW1oMmZrSlBwajBiUWo5OHpMa1pCalBLVVpIaXoyNE9WbV9BRDBTMTlhX0x2dlc1aGtBWTREX09pUnR3S0RwbjBWQ0pYYTBrdFNKQ0U?oc=5",
-     "source": "TN",
-     "published": "2026-08-12T19:10:34+00:00",
-     "id": "f2a7c2a79df5"
-    },
-    {
-     "title": "Las 5 sandalias minimalistas tendencia de Zara que combinan con todos tus estilismos del verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnBOcHpyZkdWZjRNY2JQZTZ2X0k4dU1sZnBJTXdGSTBnMlJLdWdpcWQ0TEl3SS1TN2JpTkJtalR6cW1xcGkxS3VfaDJGM3k3WVdadHQzVlpNSkZRaTNGcUluS0gyN0xOZVNOVmdoYzY1M19HZGlxQVMzUm5lcVVYMU5pTm9TbzZhY05VZ1hMcXJWdXpudGx6T1Z0UmwyNTRiQmNxeTN3OTM3ek5XN1RwNjNzak5DY2xqa1ZxTjVlTG1qRFdJaXBIM2Nn?oc=5",
-     "source": "ELLE",
-     "published": "2026-08-12T17:35:34+00:00",
-     "id": "dd8ef764a812"
     }
    ]
   },
@@ -185,84 +169,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Vero Lozano y Leo Montero recordaron a Pepe Pompín y a su creador José Luis Telecher: “Era un ser maravilloso”",
-     "link": "https://www.infobae.com/teleshow/2026/06/26/vero-lozano-y-leo-montero-recordaron-a-pepe-pompin-y-a-su-creador-jose-luis-telecher-era-un-ser-maravilloso/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-12T22:49:48+00:00",
-     "copete": "La emblemática dupla de AM se reencontró en Sería increíble de Olga. Sus afectuosas palabras para el titiritero, quien murió en 2023",
-     "id": "bd5585d2497e"
-    },
-    {
-     "title": "Juana Molina en Infobae a la Tarde: “En mi música me siento turista y guía a la vez”",
-     "link": "https://www.infobae.com/teleshow/2026/08/12/juana-molina-en-infobae-a-la-tarde-en-mi-musica-me-siento-turista-y-guia-a-la-vez/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-12T22:43:02+00:00",
-     "copete": "La cantante y actriz pasó por el streaming conducido por Manu Jove. Cómo fue volver a la actuación con “En el barro”. Y su proceso de creación a la hora de grabar sus discos en forma independiente",
-     "id": "c4678b323cb3"
-    },
-    {
-     "title": "Brian Lanzelotta sufrió una estafa de casi 20 millones de pesos y pide ayuda: “Me arruinaron”",
-     "link": "https://www.lanacion.com.ar/espectaculos/brian-lanzelotta-sufrio-una-estafa-de-casi-20-millones-de-pesos-y-pide-ayuda-me-arruinaron-nid11082026/",
+     "title": "Yo, Narciso: una película “a medida” de Adrián Suar que entretiene pero podría haber sido más",
+     "link": "https://www.lanacion.com.ar/espectaculos/cine/yo-narciso-una-pelicula-a-medida-que-cumple-y-entretiene-pero-no-llega-a-trascender-su-ligereza-nid13082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-12T22:28:55+00:00",
-     "copete": "El cantante y ex Gran Hermano relató la estafa que sufrió en su emprendimiento de papel higiénico; los detalles",
-     "id": "533419b925ff"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "Junto a Natalia Oreiro, el actor, guionista y director reedita una dupla siempre efectiva para la comedia",
+     "id": "85e6c988beee"
     },
     {
-     "title": "Nicole Neumann recordó el día que marcó un antes y un después en su vida y la llevó a dejar de comer carne",
-     "link": "https://www.lanacion.com.ar/espectaculos/nicole-neumann-recordo-el-dia-que-marco-un-antes-y-un-despues-en-su-vida-y-la-llevo-a-dejar-de-comer-nid12082026/",
+     "title": "Adolescencia, sexo y muerte en Campamento Miasma: terror, alucinación y el cine como máquina capaz de fabricar identidades",
+     "link": "https://www.lanacion.com.ar/espectaculos/cine/adolescencia-sexo-y-muerte-en-campamento-miasma-terror-alucinacion-y-el-cine-como-maquina-capaz-de-nid13082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-12T22:28:47+00:00",
-     "copete": "La modelo se sinceró sobre la situación con una oveja que la movilizó profundamente y que la hizo seguir una dieta vegetariana",
-     "id": "9b47c4040f52"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "Protagonizada por Gillian Anderson y Hannah Einbinder, llega a los cines argentinos esta película premiada en el Festival de Cannes que reinventa con ingenio el explotadísimo subgénero slasher de los 80",
+     "id": "591bed1c9435"
     },
     {
-     "title": "Brad Pitt habló del alto precio que pagó por protagonizar Troya: “Cambié mi vida por completo”",
-     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-hablo-del-alto-precio-que-pago-por-protagonizar-troya-cambie-mi-vida-por-completo-nid11082026/",
+     "title": "El final de la calle Oak: un disfrutable relato de supervivencia que apela a la nostalgia",
+     "link": "https://www.lanacion.com.ar/espectaculos/cine/el-final-de-la-calle-oak-un-disfrutable-relato-de-supervivencia-que-apela-a-la-nostalgia-nid13082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-12T22:28:29+00:00",
-     "copete": "Aunque Aquiles es uno de los personajes más destacados de su filmografía, a lo largo de los años el actor dejó en claro que tanto la preparación como el rodaje fueron una pesadilla",
-     "id": "faf5ddbd57ed"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "David Robert Mitchell se aleja de sus antecedentes para contar con espíritu clásico una historia que mezcla a Jurassic Park con la serie Dimensión desconocida",
+     "id": "a9efc3542782"
     },
     {
-     "title": "Sabrina Rojas sorprendió con una revelación tras su separación de José Chatruc",
-     "link": "https://www.lanacion.com.ar/espectaculos/sabrina-rojas-sorprendio-con-una-revelacion-tras-su-separacion-de-jose-chatruc-nid11082026/",
+     "title": "Insaciable: una pesadilla sobre la obsesión por adelgazar que convierte al cuerpo en territorio de horror",
+     "link": "https://www.lanacion.com.ar/espectaculos/insaciable-una-pesadilla-sobre-la-obsesion-por-adelgazar-que-convierte-al-cuerpo-en-territorio-de-nid13082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-12T22:28:18+00:00",
-     "copete": "La modelo habló abiertamente de su ruptura con el exfutbolista y expuso sin filtro a los “viejos conocidos” que volvieron a buscarla tras el anuncio",
-     "id": "f42a83156a7a"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "La directora de Relic: Herencia maldita vuelve a meterse de lleno en una historia repleta de imágenes perturbadoras e ingenio visual",
+     "id": "5ce84ad63dfb"
     },
     {
-     "title": "Tato Algorta y Luz Tito confirmaron su romance desde las playas de Punta Cana: “Mi corazón está feliz”",
-     "link": "https://www.infobae.com/teleshow/2026/08/12/tato-algorta-y-luz-tito-confirmaron-su-romance-desde-las-playas-de-punta-cana-mi-corazon-esta-feliz/",
+     "title": "Miriam Lanzoni relató cómo enfrenta su diagnóstico de psoriasis: “No existe la cura milagrosa para este tipo de enfermedades”",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/miriam-lanzoni-relato-como-enfrenta-su-diagnostico-de-psoriasis-no-existe-la-cura-milagrosa-para-este-tipo-de-enfermedades/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-12T22:18:11+00:00",
-     "copete": "Después de meses de versiones, los ex Gran Hermano compartieron un video desde el Caribe y sellaron la noticia con una postal a puro baile, arena y una frase que dejó cero dudas",
-     "id": "19e5d5d603f7"
+     "published": "2026-08-13T02:43:37+00:00",
+     "id": "5775dfa84a57"
     },
     {
-     "title": "Eva Bargiela sorprendió al contar una pesadilla recurrente: “Mi mayor miedo es ese”",
-     "link": "https://www.infobae.com/teleshow/2026/08/12/eva-bargiela-sorprendio-al-contar-una-pesadilla-recurrente-mi-mayor-miedo-es-ese/",
+     "title": "Pachu Peña recordó a Jorge Messi y rememoró el sketch que hizo junto a Lionel a sus 18 años: \"Una perdida enorme\"",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/pachu-pena-recordo-a-jorge-messi-y-rememoro-el-sketch-que-hizo-junto-a-lionel-a-sus-18-anos-una-perdida-enorme/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-12T21:43:55+00:00",
-     "copete": "En una confesión ante sus seguidores, la modelo compartió el sueño que la persigue con frecuencia y que involucra a su pareja, Gianluca Simeone",
-     "id": "17977ae25536"
+     "published": "2026-08-13T02:23:16+00:00",
+     "copete": "El humorista contó cómo fue el día en que el capitán de la Selección llegó al estudio para grabar un sketch y recordó con afecto al padre del futbolista, fallecido el sábado pasado en Rosario",
+     "id": "76b5f2352960"
     },
     {
-     "title": "Las imágenes de La Joaqui en un santuario del Gauchito Gil: “Si el milagro no aparece, el milagro somos nosotros”",
-     "link": "https://www.infobae.com/teleshow/2026/08/12/las-imagenes-de-la-joaqui-en-un-santuario-del-gauchito-gil-si-el-milagro-no-aparece-el-milagro-somos-nosotros/",
+     "title": "La Joaqui contó cómo atraviesa su duelo tras hablar al borde del llanto de su separación: “Se me volaron los patitos”",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/la-joaqui-conto-como-atraviesa-su-duelo-tras-hablar-al-borde-del-llanto-de-su-separacion-se-me-volaron-los-patitos/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-12T21:16:28+00:00",
-     "copete": "La cantante compartió un video haciéndole una ofrenda al santo popular, a dos semanas de anunciar su separación de Luck Ra. El anuncio que realizó",
-     "id": "c8e122d7ffe5"
+     "published": "2026-08-13T01:56:28+00:00",
+     "copete": "Luego de días de silencio, lágrimas en televisión y un comunicado en redes, la cantante volvió a su canal de Instagram con un audio cargado de emoción y una frase que llevó alivio a sus seguidores",
+     "id": "8899409c46be"
     },
     {
-     "title": "El día que Tini Stoessel usó por primera vez una creación de Ludovic de Saint Sernin, el diseñador de su vestido de novia",
-     "link": "https://www.infobae.com/teleshow/2026/08/12/el-dia-que-tini-stoessel-uso-por-primera-vez-una-creacion-de-ludovic-de-saint-sernin-el-disenador-de-su-vestido-de-novia/",
+     "title": "Pablo Lescano celebró los 18 años de su hija Marita y se mostró a pura ternura junto a su nieto",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/pablo-lescano-celebro-los-18-anos-de-su-hija-marita-y-se-mostro-a-pura-ternura-junto-a-su-nieto/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-12T20:41:16+00:00",
-     "copete": "La cantante confirmó el martes por la tarde su casamiento con Rodrigo de Paul y contó que eligió al belga para que confeccione su traje nupcial",
-     "id": "e6a15e1d565a"
+     "published": "2026-08-13T01:16:30+00:00",
+     "copete": "El cantante de Damas Gratis compartió postales en familia por el cumpleaños de su hija menor. Qué dijo sobre su faceta como abuelo de Simón, hijo de su primogénita",
+     "id": "12579c60e8a1"
+    },
+    {
+     "title": "La transformación de Daniela Celis para su debut en Sex: smokey eyes, brillo y tonos plateados",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/la-transformacion-de-daniela-celis-para-su-debut-en-sex-smokey-eyes-brillo-y-tonos-plateados/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-13T00:41:08+00:00",
+     "copete": "La ex Gran Hermano mostró el detrás de escena de su preparación para debutar en la obra de José María Muscari, donde se sumó como artista invitada",
+     "id": "aae9eb96e750"
+    },
+    {
+     "title": "El ex Gran Hermano que abandonó OnlyFans: “Necesitaba plata fácil y la hice, pero la gente que lo consume es rara”",
+     "link": "https://www.infobae.com/teleshow/2026/08/12/el-ex-gran-hermano-que-abandono-onlyfans-necesitaba-falta-plata-facil-y-la-hice-pero-la-gente-que-lo-consume-es-rara/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-13T00:31:32+00:00",
+     "copete": "El exjugador del reality show habló de su decisión de cerrar su cuenta en la plataforma para adultos. Cuáles fueron los pedidos que le hicieron",
+     "id": "903d9b5e40e0"
     },
     {
      "title": "Preocupación por la extrema delgadez de Jenna Ortega: el video que desató la polémica",
@@ -288,6 +271,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Filarmónica de Buenos Aires en Teatro Colón: entradas, precios, ubicaciones y más",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzhIR0hZN1dNakltcHdCbWNTSnMxY1ZreEI3QWtSSWlSQ1o5ZlBTbEVveVl4anB2bjRiSHplbi1rckpURlRyQWVIQmE5em5RbHVCcXBSU05JZUE0TEJoUFNlLWpZcWRhWTNySTc4V2g3UVdIR2NrT0J2aXZQeFg5Y1JFaFVHWm94LXJ3Ylk0NjItSTBiMjBqc0p1RXMtZjhzVE45VDdVYTYxNWtKbklLa2RhMEhnbHprbWFpcEhTbEFUc3QxQV8yQQ?oc=5",
+     "source": "Data Diario",
+     "published": "2026-08-13T02:02:21+00:00",
+     "id": "754bff2ca647"
+    },
+    {
      "title": "“Expediente A.R.”: una obra que lleva al teatro un caso de femicidio y cuestiona la construcción mediática de las víctimas",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc1ZRTkJ5LU1Obzk4WTZPRXlRMjVoS0tfQ0FhMGpsYnV0Nm1QdmVfRXk0N3JEdnRRSnlPVVV1Y2VpWi1fT3VXTlpzSWR5Z3k2cnhsQldWRzRmQjYwdTU5Q2pBYjFkekNoUGwyTWhFbGdqVERFaUd0dmJseU1pNm04dTFJTkc0XzdFOWlHU3NFM0hnb2FQV0Qybk5uMmtBTXVKVFFfWndwZ2J6R3BsbnV5eENPVDNHMDZHR2pXUk9GQWRXOXdndGpfaEdxem1fcFh6VG1oN3cxZlpVVS1UbUlySm9zUlZRaC1p?oc=5",
      "source": "AM 1350 Radio Buenos Aires",
@@ -307,13 +297,6 @@
      "source": "AM 1350 Radio Buenos Aires",
      "published": "2026-08-12T16:07:47+00:00",
      "id": "79064391ec1f"
-    },
-    {
-     "title": "Madrid, Buenos Aires y Córdoba se encuentran en la programación de agosto del Teatro Comedia",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CR2cxd2xDV1BxTE5teGJGb1RpSlk5eDdZMDJZUTNSUXRrb2RuUWRmZll2bzN5VlJJQVJ1S2ZKVkdMUnByWkZoREwwenByeVlWeXdzVnZRdEI4c1dtdUg4MDExZzM?oc=5",
-     "source": "Municipalidad de Córdoba.",
-     "published": "2026-08-12T15:51:14+00:00",
-     "id": "13e5240fb837"
     },
     {
      "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
@@ -344,18 +327,18 @@
      "id": "8f87b964942c"
     },
     {
+     "title": "Tus 20 planes para este fin de semana del 13 al 16 de Agosto en Buenos Aires: ferias, conciertos y experiencias",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aTzZZNzROckQ2ekF4Wl9GMWdIMk41dUlUcnB3RkJnNTREZGozUWVfckVpWVM3d2pycG5TZmNzbERWV05lLW1MN0xNbzBtbDBmdUw5dUk3WVNXTENURXQyWE10V1djMjE4?oc=5",
+     "source": "Buenos Aires Secreta",
+     "published": "2026-08-10T16:47:31+00:00",
+     "id": "0f90eb914faa"
+    },
+    {
      "title": "No seas papa frita: estas son nuestras favoritas de Buenos Aires",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaU5JcjF1cUdoWWM2Y204andESUFFNUctX09JMFc4TTZRaF9ybU0wOUlWc3liejY0V2Y5UVNFZ1dSX1JLOThOcWRrakZvMnJDY1pWOGZSd2dmX3lnYjFyR1ZpTWNyN3JMSVJ4cXpGM2dXSGlCdy03SEgwaFdkbDc3NnhPZmt3R09TTE1KZDQ1dXdUSC1QX3c?oc=5",
      "source": "Time Out Worldwide",
      "published": "2026-08-10T03:00:00+00:00",
      "id": "41f9b19fba19"
-    },
-    {
-     "title": "Agenda cultural bonaerense",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nUGVBN05MQklKNEVXYjRKQnZTdlVBTGR5Y1gyUUxic0FyT2pNcENDZm5yTDZsanJCOS1WTFBpdHM5US1VeFJ3bzc2OXJXUFZENWNaUmRJT2U3MEF6VXBfLTllYWZpYXhrNnhkU2xEUlh6WHVI?oc=5",
-     "source": "Página|12",
-     "published": "2026-08-07T18:47:58+00:00",
-     "id": "d59d5cfa8362"
     }
    ]
   },
@@ -365,84 +348,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Independiente pierde con Atlético Tucumán por los octavos de final de la Copa Argentina",
-     "link": "https://www.infobae.com/deportes/2026/08/12/atletico-tucuman-e-independiente-se-juegan-un-lugar-en-los-cuartos-de-final-de-la-copa-argentina-en-rosario-hora-tv-y-formaciones/",
+     "title": "Correr no es la única vía para cuidar el corazón, expertos recomiendan alternativas con menos impacto articular",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/13/correr-no-es-la-unica-via-para-cuidar-el-corazon-expertos-recomiendan-alternativas-con-menos-impacto-articular/",
      "source": "Infobae",
-     "published": "2026-08-12T23:02:27+00:00",
-     "copete": "El Decano y el Rojo se miden este miércoles desde en el Estadio Marcelo Bielsa, con el arbitraje de Facundo Tello. Santiago Montiel falló un penal para el equipo de Avellaneda",
-     "id": "2518b1c37304"
+     "published": "2026-08-13T03:02:00+00:00",
+     "copete": "Los médicos y fisioterapeutas recomiendan alternativas para quienes no toleran la carrera por dolor o lesiones, y señalan que el ciclismo, el remo y la natación pueden cuidar el corazón con menos carga articular",
+     "id": "bd2b148b8506"
     },
     {
-     "title": "Tigre recibe a Montevideo City Torque por la ida de los octavos de final de la Copa Sudamericana",
-     "link": "https://www.infobae.com/deportes/2026/08/12/tigre-recibira-a-montevideo-city-torque-por-la-ida-de-los-octavos-de-final-de-la-copa-sudamericana-hora-tv-y-formaciones/",
+     "title": "Cómo el aprendizaje online está cambiando las carreras de ingeniería",
+     "link": "https://www.infobae.com/inhouse/2026/08/13/como-el-aprendizaje-online-esta-cambiando-las-carreras-de-ingenieria/",
      "source": "Infobae",
-     "published": "2026-08-12T23:02:12+00:00",
-     "copete": "El Matador abre su serie este miércoles en Victoria ante un rival uruguayo que fue el más goleador de la fase de grupos del certamen continental. Televisan Disney+ Premium y DSports",
-     "id": "52028095232d"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "La propuesta reúne carreras y posgrados vinculados con higiene y seguridad, ciberseguridad e informática forense, con alternativas de pregrado, grado y especialización",
+     "id": "1037c508dc92"
     },
     {
-     "title": "Messi irá al banco en el Inter Miami, que enfrenta a León con la obligación de ganar para no quedar afuera de la Leagues Cup",
-     "link": "https://www.infobae.com/deportes/2026/08/12/inter-miami-enfrentara-a-leon-con-la-obligacion-de-ganar-para-no-quedar-afuera-de-la-leagues-cup-hora-tv-y-formaciones/",
+     "title": "Una reconocida cadena gastronómica llegó a Junín con 80 nuevos puestos de trabajo",
+     "link": "https://www.infobae.com/inhouse/2026/08/13/una-reconocida-cadena-gastronomica-llego-a-junin-con-80-nuevos-puestos-de-trabajo/",
      "source": "Infobae",
-     "published": "2026-08-12T22:59:40+00:00",
-     "copete": "Las Garzas reciben al conjunto mexicano, líder con puntaje perfecto. Lionel Messi llegó a Florida por la mañana tras despedir a su padre Jorge, pero decidió ponerse a disposición del equipo",
-     "id": "a4d5581cbde3"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "McDonald’s sumó su primer establecimiento en la localidad bonaerense, con una propuesta que incluye Delivery Point, sala de cumpleaños y alternativas para familias",
+     "id": "8ffeb47d9900"
     },
     {
-     "title": "EN VIVO Made by Google: lanzamiento de Google Pixel 11 Pro, Pixel Watch 5, Pixel Buds Pro 2 y Gemini",
-     "link": "https://www.infobae.com/tecno/2026/08/12/en-vivo-made-by-google-lanzamiento-de-google-pixel-11-pro-pixel-watch-5-pixel-buds-pro-2-y-gemini/",
+     "title": "Currículums idénticos, una sola diferencia: el estudio que expuso el sesgo por edad y lo que revela sobre el desempleo senior",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/13/curriculums-identicos-una-sola-diferencia-el-estudio-que-expuso-el-sesgo-por-edad-y-lo-que-revela-sobre-el-desempleo-senior/",
      "source": "Infobae",
-     "published": "2026-08-12T22:58:30+00:00",
-     "copete": "La próxima generación de teléfonos Google Pixel encabezará el evento, con la introducción de los modelos Pixel 11, Pixel 11 Pro y Pixel 11 Pro XL",
-     "id": "57626beec565"
+     "published": "2026-08-13T03:01:00+00:00",
+     "copete": "Se enviaron perfiles casi calcados para puestos reales, cambiando solo la fecha de nacimiento. El resultado dejó una brecha de respuestas que obliga a duplicar esfuerzos. El impacto no termina en Recursos Humanos",
+     "id": "5bf55c7a3bca"
     },
     {
-     "title": "Los nutricionistas coinciden: lo más peligroso de los fiambres es la cantidad de colorantes y conservantes que tienen",
-     "link": "https://www.lanacion.com.ar/sociedad/los-nutricionistas-coinciden-lo-mas-peligroso-de-los-fiambres-es-la-cantidad-de-colorantes-y-nid10082026/",
+     "title": "El gesto solidario de Jorge Messi con un hospital de Rosario que permitió realizar 100 trasplantes",
+     "link": "https://www.lanacion.com.ar/sociedad/el-gesto-solidario-de-jorge-messi-con-un-hospital-de-rosario-que-permitio-realizar-100-trasplantes-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T22:56:00+00:00",
-     "copete": "En su visita a los estudios de LN+, Nadia Hrycyk advirtió sobre los riesgos ocultos de comer una picada y cuál sería la frecuencia ideal para atenuarlos; “Si la consumimos todos los días, es más peligroso”, señaló",
-     "id": "76ceaeab2ae4"
+     "published": "2026-08-13T02:50:58+00:00",
+     "copete": "El médico Jorge Tartaglione reveló en LN+ que el padre del futbolista financió la capacitación en Barcelona de médicos, enfermeros y hemoterapistas rosarinos",
+     "id": "286e0865b3db"
     },
     {
-     "title": "Messi con Inter Miami vs. León, por la Leagues Cup, en vivo",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/inter-miami-vs-leon-en-vivo-nid12082026/",
+     "title": "Idas y vueltas en Nueva York: Mamdani le responde a Trump sobre la posibilidad de eliminar el impuesto a los ricos",
+     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/idas-y-vueltas-en-nueva-york-mamdani-le-responde-a-trump-sobre-la-posibilidad-de-eliminar-el-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T22:51:43+00:00",
-     "copete": "Como local en el Nu Stadium, se define la clasificación con el argentino en el banco de suplentes; televisa Apple TV",
-     "id": "ff8b7e6c9c09"
+     "published": "2026-08-13T02:45:00+00:00",
+     "copete": "Conoce por qué Trump cuestionó el impuesto a las propiedades de lujo en Nueva York, qué respondió Mamdani y qué decidió un juez sobre la medida.",
+     "id": "be2e9409bf87"
     },
     {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “Somos arquitectos de nuestra vida; la felicidad está subordinada al bienestar físico por encima del nivel social o económico”",
-     "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-somos-arquitectos-de-nuestra-vida-la-felicidad-nid10082026/",
+     "title": "Adriana Baravalle es la nueva secretaria de Innovación en reemplazo de Darío Genua",
+     "link": "https://www.lanacion.com.ar/politica/adriana-baravalle-es-la-nueva-secretaria-de-innovacion-en-reemplazo-del-caputista-dario-genua-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T22:48:00+00:00",
-     "copete": "Un móvil de LN+ dialogó con la instructora Melani Giommetti, quien sostuvo que “la actividad sirve para fortalecer nuestros músculos de forma consciente y a largo plazo”; la técnica y sus beneficios",
-     "id": "746cb35578a5"
+     "published": "2026-08-13T02:41:06+00:00",
+     "copete": "Así lo pudo confirmar LA NACION de fuentes al tanto; su nombramiento sale por un decreto ya firmado; según fuentes de la Casa Rosada, al jefe de Gabinete se la presentó Martín Migoya, CEO de Globant",
+     "id": "dd9b34e3c2d5"
     },
     {
-     "title": "José Abadi, psicólogo: “Cuando perdemos a un padre se da una sensación de desamparo, que luego se va reconstituyendo”",
-     "link": "https://www.lanacion.com.ar/lnmas/jose-abadi-psicologo-cuando-perdemos-a-un-padre-se-da-una-sensacion-de-desamparo-que-luego-se-va-nid12082026/",
+     "title": "Así están los cruces de octavos de final de la Copa Sudamericana 2026",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/asi-estan-los-cruces-de-octavos-de-final-de-la-copa-sudamericana-2026-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T22:47:47+00:00",
-     "copete": "A partir de la pérdida que atraviesa el futbolista, el especialista analizó en LN+ qué sucede emocionalmente cuando muere una figura paterna",
-     "id": "0c08224d48f7"
+     "published": "2026-08-13T02:28:49+00:00",
+     "copete": "Los partidos de ida comenzaron con triunfo de Boca y un empate entre Bolívar y San Pablo; se postergo el cotejo de River por el terremoto en Colombia",
+     "id": "c8777361bfa5"
     },
     {
-     "title": "Habló la niñera argentina que fue arrestada por el ICE de Trump: \"Nos trataron como delincuentes y eso no está bien\"",
-     "link": "https://www.clarin.com/mundo/hablo-ninera-argentina-arrestada-ice-trump-trataron-delincuentes-bien_0_tPfhqzDetu.html",
+     "title": "Giro en el caso del joven asesinado por su novia en Chaco: investigan el faltante de una suma millonaria de la casa de la víctima",
+     "link": "https://www.clarin.com/policiales/giro-investigacion-joven-asesinado-novia-chaco-investigan-faltante-suma-millonaria-casa-victima_0_xGcM4SuVq8.html",
      "source": "Clarín",
-     "published": "2026-08-12T22:32:35+00:00",
-     "copete": "Iliana LIck había sido detenida el 11 de julio en el aeropuerto de Filadelfia mientras esperaba para ir a Kansas City a ver un partido de la Selección. El viernes pasado fue liberada tras pagar una fianza de 10.000 dólares.",
-     "id": "65b157e97cc4"
+     "published": "2026-08-13T02:24:07+00:00",
+     "copete": "Juan Arregín, representante de la familia de Julián Álvarez Guardia, declaró este miércoles que en la causa judicial se estudia la desaparición de miles de dólares. E informó que el joven ahorraba para comprarse su casa.",
+     "id": "68ed1907dce4"
     },
     {
-     "title": "Coca-Cola Argentina en Córdoba: más de 30 años impulsando empleo y desarrollo regional",
-     "link": "https://www.clarin.com/informacion-general/coca-cola-argentina-cordoba-30-anos-impulsando-empleo-desarrollo-regional_0_lXOgMvZx2r.html",
+     "title": "Bolivia: turistas estadounidenses quedan varados cerca de una laguna tras intensas nevadas",
+     "link": "https://www.clarin.com/estados-unidos/bolivia-turistas-estadounidenses-quedan-varados-cerca-de-una-laguna-tras-intensas-nevadas_0_ZGi39D6lkh.html",
      "source": "Clarín",
-     "published": "2026-08-12T22:30:24+00:00",
-     "copete": "Coca-Cola Andina, uno de los cuatro embotelladores del sistema Coca-Cola en Argentina, se consolidó como un actor clave en el desarrollo regional. Impulsa empleo, inversión y oportunidades a través de una operación que hoy abastece a más…",
-     "id": "37c2ad89b344"
+     "published": "2026-08-13T02:10:06+00:00",
+     "copete": "Tres turistas estadounidenses quedaron atrapados en una laguna al sur de Bolivia tras fuertes nevadas. Fueron hallados a salvo en un observatorio. Las condiciones climáticas dificultan el rescate en Potosí, región que declaró alerta por…",
+     "id": "73e367d1a8ec"
     }
    ]
   },
@@ -452,10 +435,10 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 239 muertos y 3.700 heridos",
+     "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-12T23:06:40.503788+00:00",
+     "published": "2026-08-13T03:03:47.785333+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
@@ -463,7 +446,7 @@
      "title": "Así fue el espectacular eclipse solar total que se pudo ver en parte de Europa",
      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-12T23:06:40.503586+00:00",
+     "published": "2026-08-13T03:03:47.785139+00:00",
      "copete": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
      "id": "b66af0e4ec06"
     },
@@ -522,6 +505,11 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
