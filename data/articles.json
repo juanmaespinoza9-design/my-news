@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-13T21:09:14.671470+00:00",
+ "generated_at": "2026-08-13T23:07:42.975840+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Dr Banerjee on the FDA Approval of Iberdomide Plus Daratumumab/Dexamethasone in R/R Myeloma",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXhuM2ZYem5YS21HV0gxWW9HYTZ4NnNKU2tyRmlnck9nTzZKbnE1U1pQNFFvTnMwSFVlQzZRZV9DekRGUzJMZzVxZURVQmRWbDhkVFQzd24wNGZoU0VHVnhnT3RKWEVfX1dxWU50WnJSNjByd01yNVBQeFg4dXhmbS10b3BsY2U5T1UwNER6OE1yV1JucWV1UlBGU0R2LUdJazU5c2NSa2duazA3YmJ3eW93NmRzTXd4eVNZcg?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-13T22:01:07+00:00",
+     "id": "89b32d60b364"
+    },
     {
      "title": "FDA Approves Iberdomide Plus Daratumumab/Dexamethasone for R/R Myeloma",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVm5LRHhsbGNKLW01WmUzTHBna1VDY0dZekxxOVBCZUlDU0ZGTWlKTjhrNW5vZVo4UzFZV0V2Z3ktazF4bjZxSjJnNTlUdGFvb0pubkRFTFoxbUkySlU0b1BzQ1YtODQ4WGd6SDMzVnpsdE9VNnctNkZuUTRCY2QwMWdrWHd5X2pabWNiTzN6dUxRZklkWWZIeTBUWmFZTEVy?oc=5",
@@ -24,7 +31,7 @@
      "title": "Darolutamide Plus Goserelin in AR-Positive Salivary Gland Carcinoma",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdm5DOURCS21LQUVtREpiMmNzNzBNZGxYUTdhbERvUUtIZEdoUDZrbUpJMk4waXpzcktRTE1aM1NCVnFtZWdmeHVwZ2k3Tjdxelo2THVfQ19iZ3FCa0dYdnJJaW13UkJxdDhWek5yeThHbWkyRTRVWFJlWUpRZjM0VXRqWVBFT0NHTVQzenhtZWs3bll4X1N4RnpXU2pJemxYbFFxN1FCNjhNUQ?oc=5",
      "source": "The ASCO Post",
-     "published": "2026-08-13T15:16:54+00:00",
+     "published": "2026-08-13T15:18:52+00:00",
      "id": "4b94c45d1c13"
     },
     {
@@ -40,13 +47,6 @@
      "source": "The ASCO Post",
      "published": "2026-08-13T14:59:35+00:00",
      "id": "4739048c5930"
-    },
-    {
-     "title": "Zipalertinib Plus Chemotherapy Improves PFS in First-Line EGFR Exon 20 Insertion+ NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcllKSW1WdDVPYmNGaDgwdkRKakxuS1ZQMkJoZXlneUhQd1Zadlo2YUMxRDAzUkpmSVNYV21hNXpPRVY3N1ZsY3F2aW1wV21tWDFJdWI0QWlpTDhFZHM4eFh6NElseFRSbUE1OTVfaHFEcXM3dXJPZDJXZ0pBV3JxSWhQY3RFZjRvaW5YMjFOZUtOZGhXRTl1b1pSdkVtYUlrZXdJYmJsdW5iV1hPQzZkTTFGU1V3dw?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-13T14:47:42+00:00",
-     "id": "669b03b4e61f"
     },
     {
      "title": "COMBI-I: Long-Term Overall Survival With Spartalizumab Plus Dabrafenib and Trametinib in BRAF V600-Mutant Advanced Melanoma",
@@ -79,22 +79,6 @@
      "published": "2026-08-11T00:00:00+00:00",
      "copete": "Hauschild A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "4e0690144d52"
-    },
-    {
-     "title": "Electronic Patient-Reported Outcome Monitoring With Alert-Based Interventions in Metastatic Breast Cancer: A Randomized Clinical Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42560727/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Karsten MM et al. · JAMA oncology",
-     "id": "11377b4344ee"
-    },
-    {
-     "title": "Overlapping Cohorts and Double Counting in Meta-Analyses",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42560711/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Vora N et al. · JAMA oncology",
-     "id": "0d398a8f292f"
     }
    ]
   },
@@ -104,9 +88,25 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "The Habit That Could Be Impacting Your Gut Microbiome",
+     "link": "https://www.vogue.com/article/gut-microbiome-posture",
+     "source": "Vogue",
+     "published": "2026-08-13T22:56:00+00:00",
+     "copete": "Experts explain the link between posture, the vagus nerve, and the gut microbiome.",
+     "id": "07ebe5e35ab3"
+    },
+    {
+     "title": "Meet the Next Generation of Chefs Redefining Modern Mexican Cuisine in the U.S.",
+     "link": "https://www.vogue.com/article/next-generation-of-chefs-redefining-modern-mexican-cuisine-in-the-us",
+     "source": "Vogue",
+     "published": "2026-08-13T22:31:53+00:00",
+     "copete": "While Enrique Olvera’s work undoubtedly changed the perception of Mexican cuisine in the US, many young chefs are now bringing their own culinary prowess and personal histories to cities like Miami and Washington, D.C.",
+     "id": "b1c4be091b1f"
+    },
+    {
      "title": "Vestidos de crochet de abuela que regresan de los 70 para llevar con sandalias planas y de tacón en verano 2026",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjVvS09kZm9PQmdGRlFWV183LXdCT3pEZHV4dHNMZTJ3UEotRDQ5Z2J5WUxNR3lybGZCampjQUZLZmFkZHpMQUk2S0lMbU9HWVZVOWVWZVMzWTdGMUJSOFFHSWRnZDJsdEVRQVNlaTdGQUs4VTVRSDNsSlZwU0JhUkFUQ1NTU1ZyOTZTQWV1ZXNjczhfX2hiMjMtNnF2T2RnUXRvQk5VVlVsXzV6WHFMNnJ6bWFaQTJ4Ync?oc=5",
-     "source": "vogue.mx",
+     "source": "Vogue México",
      "published": "2026-08-13T20:28:51+00:00",
      "id": "6697f5ac5566"
     },
@@ -128,14 +128,14 @@
     {
      "title": "IQOS ILUMA i Electric Purple, cuando los sueños se tiñen de morado",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbXh3UXRNVHNaSzF1QTNDbHlBcXRXTDZ5NFdTbXQ4SWF4eTVraF8wSUNNalZRcWdVQ0htclNOcTlZb1c4TGV3R2Fsb2x0MzBrUFdselBvNXRWNHVNVDRYYUdCM0k0d2xsMklzWkNzV1kxTVk4MzRrT0pWSjhCTmgyWWI0SXhWWHluUVJsaERDUFZydTA?oc=5",
-     "source": "vogue.mx",
+     "source": "Vogue México",
      "published": "2026-08-13T19:01:45+00:00",
      "id": "568323fe1f41"
     },
     {
      "title": "4 experiencias de slow travel con Airbnb para vivir (y saborear) México",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPck9IdDJBM3laSHlOR28yVWhiWVVqNnRuXzYzUmI1N1l3MVJxRERqdF9pTm5rUVpQVXFyRnhEVlhkSTJOaS1Fd1NWNHpIYmRPd0xsMVJ1b1Fnb0YtVlBkSnlHaF8xaGpMWHdnMS0wVjdObDVfS1NWZnEzZnhfcWhsemRxSlRvbkFZZllqWnBnbS1kUQ?oc=5",
-     "source": "vogue.mx",
+     "source": "Vogue México",
      "published": "2026-08-13T18:49:49+00:00",
      "id": "953c2d7900a4"
     },
@@ -148,17 +148,9 @@
      "id": "6155a794759b"
     },
     {
-     "title": "The Minimalist Trick to Making an Outfit Pop",
-     "link": "https://www.vogue.com/article/colorful-shoe-trick",
-     "source": "Vogue",
-     "published": "2026-08-13T18:16:31+00:00",
-     "copete": "A colorful shoe is the simplest way to make neutrals feel fresh and unexpected. Recreate these outfits now.",
-     "id": "4daafa9d6b77"
-    },
-    {
      "title": "Zapatos planos peep-toe color café: La nueva tendencia para lucir con vestido retro de lunares en verano 2026",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWJaUlVCWmZONzlCN0lCRlJHYXM5dUdqTW9vbzBKZHpONmdfYjZwalRjeDRxeWJkdFFNamJkc3JvemZfeEY3UXJPZl9aYVlpZVVZZ2VXcTlaVGZBZG9ab19zNHFCbU1DREdIc0FBa2M0c0xHSG1qWGdhVTZvWm1TekFYS1RKNURobWp1YmRLQU4tb19PcFV1VDN5MkJSeE9YWFVQQk1SMFV0Z0FlemlSdmdJU0paTVJQVE02aA?oc=5",
-     "source": "vogue.mx",
+     "source": "Vogue México",
      "published": "2026-08-13T17:54:18+00:00",
      "id": "d0e681e8efa2"
     },
@@ -168,14 +160,6 @@
      "source": "TN",
      "published": "2026-08-13T17:43:22+00:00",
      "id": "8aa112632971"
-    },
-    {
-     "title": "Tapestry Revenues Climb 11% in Q4 on Coach Gains",
-     "link": "https://www.vogue.com/article/tapestry-revenues-climb-11-in-q4-on-coach-gains",
-     "source": "Vogue",
-     "published": "2026-08-13T17:05:46+00:00",
-     "copete": "Coach and Kate Spade parent company Tapestry reported sales rose 17% for fiscal 2026.",
-     "id": "1a9fe286dbb6"
     }
    ]
   },
@@ -185,52 +169,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Tambores gigantes en un viaje musical por las cuatro estaciones de Japón: cómo es el show que llega a Buenos Aires",
-     "link": "https://www.lanacion.com.ar/que-sale/tambores-gigantes-en-un-viaje-musical-por-las-cuatro-estaciones-de-japon-como-es-el-show-que-llega-a-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-13T20:43:26+00:00",
-     "copete": "Kyōwa reúne a intérpretes locales e internacionales en una puesta de taiko, movimiento e instrumentos tradicionales; se presenta el 5 de septiembre en el Teatro del Globo; cuánto salen las entradas y cómo comprarlas",
-     "id": "2bac7c1bac3b"
-    },
-    {
-     "title": "Duki inaugura junto a Clutch una cancha de básquet",
-     "link": "https://www.infobae.com/teleshow/2026/08/13/duki-inaugura-junto-a-clutch-una-cancha-de-basquet/",
+     "title": "Moria Casán habló de los rumores de conflicto con Lali Espósito tras su ausencia en el estreno de su serie",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/moria-casan-hablo-de-los-rumores-de-conflicto-con-lali-esposito-tras-su-ausencia-en-el-estreno-de-su-serie/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-13T20:38:44+00:00",
-     "copete": "El evento “Estado de Flow” reúne a figuras del deporte, la música y el streaming. El equipo del músico se enfrentará al de Grego Rosello",
-     "id": "394b618b4ed1"
+     "published": "2026-08-13T23:05:53+00:00",
+     "copete": "Tras los rumores por la ausencia de Lali en la avant premiere de La One, la diva explicó cómo es hoy su vínculo con la artista",
+     "id": "8bac8e447634"
     },
     {
-     "title": "El nuevo rumbo que tomó una famosa exparticipante de Gran Hermano lejos de los reflectores",
-     "link": "https://www.infobae.com/teleshow/2026/08/13/el-nuevo-rumbo-que-tomo-una-famosa-exparticipante-de-gran-hermano-lejos-de-los-reflectores/",
+     "title": "Dillom se sumerge en el pantano del rock para hacer bailar a las bestias",
+     "link": "https://www.lanacion.com.ar/espectaculos/dillom-se-sumerge-en-el-pantano-del-rock-para-hacer-bailar-a-las-bestias-nid13082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-13T23:00:00+00:00",
+     "copete": "Su nuevo disco, La nueva violencia, deja atrás el trap para cabalgar en bajos distorsionados, guitarras eléctricas y bases dance que marcan otra etapa del artista",
+     "id": "0eb94d6b8f4e"
+    },
+    {
+     "title": "Brad Pitt habló del alto precio que pagó por protagonizar Troya: “Cambié mi vida por completo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-hablo-del-alto-precio-que-pago-por-protagonizar-troya-cambie-mi-vida-por-completo-nid11082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-13T22:53:06+00:00",
+     "copete": "Aunque Aquiles es uno de los personajes más destacados de su filmografía, a lo largo de los años el actor dejó en claro que tanto la preparación como el rodaje fueron una pesadilla",
+     "id": "faf5ddbd57ed"
+    },
+    {
+     "title": "De ver a su padre trabajar en los sets a compartir pantalla con él: la historia del heredero de Hollywood",
+     "link": "https://www.lanacion.com.ar/espectaculos/de-ver-a-su-padre-trabajar-en-los-sets-a-compartir-pantalla-con-el-la-historia-del-heredero-de-nid12082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-13T22:52:11+00:00",
+     "copete": "A los 40 años, Wyatt Russell es uno de los nepo babies que resuena en Hollywood: fue convocado por Steven Spielberg y se sumó a Marvel con un icónico personaje",
+     "id": "9f4d639e6e79"
+    },
+    {
+     "title": "Robin Williams, actor: “Solía pensar que lo peor de la vida era terminar solo, pero no lo es”",
+     "link": "https://www.lanacion.com.ar/espectaculos/robin-williams-actor-solia-pensar-que-lo-peor-de-la-vida-era-terminar-solo-pero-no-lo-es-nid12082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-13T22:52:06+00:00",
+     "copete": "La estrella de Hollywood que falleció en 2014 a los 63 años protagonizó icónicas películas con diálogos que generaron un profundo impacto en la audiencia",
+     "id": "3cd196107d32"
+    },
+    {
+     "title": "Daniela Celis apuntó contra su ex, Nick Sícaro, luego de que blanqueara su romance con Lolo Poggio: “Ni media chance”",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/daniela-celis-apunto-contra-su-ex-nick-sicaro-luego-de-que-blanqueara-su-romance-con-lolo-poggio-ni-media-chance/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-13T20:18:29+00:00",
-     "copete": "A cinco años de su participación en el reality, decidió cambiar su vida",
-     "id": "010e42a9d2c5"
+     "published": "2026-08-13T22:33:14+00:00",
+     "copete": "La ex Gran Hermano respondió sin filtro a la nueva relación de su expareja, contó que lo tiene bloqueado en todos lados y descartó por completo cualquier regreso entre ellos",
+     "id": "5b47f2b6f931"
     },
     {
-     "title": "Cristian Castro terminó el secundario a los 51 años: “Quiero que se sientan orgullosos de mí”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/cristian-castro-termino-el-secundario-a-los-51-anos-quiero-que-se-sientan-orgullosos-de-mi-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-13T20:04:43+00:00",
-     "copete": "El cantante completó sus estudios de bachillerato y contó que va a seguir la carrera de Diseño Industrial. Su madre, Verónica Castro, estuvo presente en la graduación a pesar de su estado de salud",
-     "id": "f3236a1e7b4c"
+     "title": "América TV está de luto por la muerte de Godofredo Lozano, director de legales del canal: la despedida de los conductores",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/america-tv-esta-de-luto-por-la-muerte-de-godrofredo-lozano-director-de-legales-del-canal-la-despedida-de-los-conductores/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-13T22:20:08+00:00",
+     "copete": "La pantalla del canal puso un lazo negro por el fallecimiento de su compañero. La tristeza de Rodrigo Lussich, Adrián Pallares, Marina Calabró y Facundo Pastor",
+     "id": "7f9557f33802"
     },
     {
-     "title": "Hairspray y Billy Elliot, las más nominadas de los Premios Hugo, lo mejor del teatro musical",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/hairspray-y-billy-elliot-las-mas-nominadas-de-los-premios-hugo-lo-mejor-del-teatro-musical-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-13T19:54:13+00:00",
-     "copete": "En los rubros protagónicos aparecen ternados Agustín Aristarán, Campi y Fernando Dente; y Alejandra Perlusky, Elena Roger y Julieta Nair Calvo",
-     "id": "660dedd047b9"
+     "title": "Cande Molfese recordó su separación de Gastón Soffritti tras las críticas por no ser madre con él: “No resisto el archivo”",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/cande-molfese-hablo-de-su-separacion-de-gaston-soffritti-tras-las-criticas-por-no-ser-madre-con-el-no-resisto-el-archivo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-13T22:06:53+00:00",
+     "copete": "La actriz de Violetta está atravesando su primer embarazo y decidió aclarar algunos de los comentarios que circularon en redes sociales acerca de su anterior relación",
+     "id": "b7f74332433b"
     },
     {
-     "title": "Cande Molfese respondió a las críticas que señalan que dejó a Gastón Soffritti porque no quería ser mamá y ahora está embarazada",
-     "link": "https://www.lanacion.com.ar/espectaculos/cande-molfese-respondio-a-las-criticas-que-senalan-que-dejo-a-gaston-soffritti-porque-no-queria-ser-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-13T19:48:54+00:00",
-     "copete": "La actriz se manifestó contra su ex en un comentario de redes sociales, luego de que se reviviera la razón de por qué decidió terminar el noviazgo ante sus deseos nulos de ser madre",
-     "id": "d067b6a026a4"
+     "title": "Juan Ruffo recordó cómo conoció a Tomás Rebord: “Nos juntamos en una productora que era una covacha”",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/juan-ruffo-recordo-como-conocio-a-tomas-rebord-nos-juntamos-en-una-productora-que-era-una-covacha/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-13T21:39:24+00:00",
+     "copete": "En diálogo con Infobae a la Tarde, Ruffo repasó sus comienzos junto a Tomás Rebord, el salto al streaming y el trabajo detrás de los contenidos que construyen una comunidad",
+     "id": "b24ba906fb60"
+    },
+    {
+     "title": "Quiénes son los invitados de Mirtha Legrand, Juana Viale y Andy Kusnetzoff este súperfinde",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/quienes-son-los-invitados-de-mirtha-legrand-juana-viale-y-andy-kusnetzoff-este-superfinde/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-13T21:20:49+00:00",
+     "copete": "La televisión del sábado y domingo ya tiene sus figuras confirmadas, con mesas cargadas de invitados del espectáculo, el periodismo y el deporte",
+     "id": "d0b589826d2e"
     },
     {
      "title": "Premios Hugo al teatro musical: Hairspray es la obra más nominada",
@@ -239,38 +255,6 @@
      "published": "2026-08-13T19:29:28+00:00",
      "copete": "Dirigida por Fer Dente, tiene 16 candidaturas, entre ellas a mejor musical, dirección general, coreografía, vestuario y escenografía. Y como intérpretes fueron nominados Agustín Aristarán, Iñaki Aldao, Roberto Peloni, Elena Roger, Julieta…",
      "id": "f0f9fb8d97e9"
-    },
-    {
-     "title": "Dillom lanzó “La nueva violencia”, su tercer álbum de estudio: la emoción de su equipo creativo",
-     "link": "https://www.infobae.com/teleshow/2026/08/13/dillom-lanzo-la-nueva-violencia-su-tercer-album-de-estudio-la-emocion-de-su-equipo-creativo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-13T19:17:17+00:00",
-     "copete": "El artista y su entorno celebraron la salida del disco con mensajes de gratitud y recuerdos del proceso, en el que la convivencia y la experimentación fueron claves para el resultado final",
-     "id": "9ea81ccc84ed"
-    },
-    {
-     "title": "Milo Lockett y el desafío permanente de conectar al público con la obra: “El arte tiene que ser accesible”",
-     "link": "https://www.infobae.com/teleshow/2026/08/13/del-origen-popular-a-las-grandes-galerias-la-historia-de-milo-lockett-el-artista-que-desafio-todos-los-moldes/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-13T18:34:50+00:00",
-     "copete": "En su paso por Infobae a las 9, el dibujante chaqueño recordó sus inicios fuera del circuito tradicional y anticipó la nueva edición de BADA, un encuentro para democratizar la cultura",
-     "id": "06016ec30b82"
-    },
-    {
-     "title": "La China Suárez mostró la intimidad de la casa de los sueños: el detalle que encendió la polémica con Wanda Nara",
-     "link": "https://www.infobae.com/teleshow/2026/08/13/la-china-suarez-mostro-la-intimidad-de-la-casa-de-los-suenos-el-detalle-que-encendio-la-polemica-con-wanda-nara/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-13T18:16:10+00:00",
-     "copete": "La actriz publicó en redes una imagen de su hija menor, Magnolia Vicuña, en el interior de la residencia de Mauro Icardi, en un momento de máxima tensión por la disputa legal con la empresaria",
-     "id": "db2a329a9374"
-    },
-    {
-     "title": "Julieta Cardinali contó la enseñanza que le dejó su madre antes de morir: “Me di cuenta mucho después”",
-     "link": "https://www.infobae.com/teleshow/2026/08/13/julieta-cardinali-conto-la-ensenanza-que-le-dejo-su-madre-antes-de-morir-me-di-cuenta-mucho-despues/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-13T18:14:08+00:00",
-     "copete": "Durante una charla en el ciclo Elenco inestable, la actriz recordó la frase que valoró con el tiempo y con la que cambió su actitud ante los desafíos diarios",
-     "id": "c677b9876856"
     },
     {
      "title": "A solas con Las Leonas: la serie en formato vertical que muestra el lado B de la preparación del equipo para el Mundial",
@@ -288,6 +272,27 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "“La ópera de tres centavos” llega al Teatro Alvear",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNkQ1S3VJUjk2Rl91ODc4eWVpTHAxSDF6aFdONmdNSFdZbXFkcVA3VGxBd3N2SUpncWdYcGQtNEdnUGpMa3BSVkhmSGdWUzNLTkotODRta1dFanpjSnRIck1rbi1ucExRWElLOVNsR1NRYVB2SjJ4Q0JJYXotUQ?oc=5",
+     "source": "lavereda.com.ar",
+     "published": "2026-08-13T22:49:00+00:00",
+     "id": "3c8edd421821"
+    },
+    {
+     "title": "LOS40 Primavera Pop hará su debut en América Latina en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWQ5bnlCZDNsRUUyM19hanYwYnptRHFFSDdtSDFFNDBpV2ozcmd6YjF2UHVsTXhFQm11NUZtd0JoX0tiWm5iZnhCdzYyUG5EZFdlcGZaNkw1Y1lEZjNiQUNNb09yNVZacm1DUDlPTXBPVHlxTlFKckVZc2txN2xYZzVtdVBhWE40YjFvZXZ2Xy1iSGE4d05YTHFtV1p2SThiaVdXUDh3?oc=5",
+     "source": "Billboard",
+     "published": "2026-08-13T22:21:18+00:00",
+     "id": "f247373b9f26"
+    },
+    {
+     "title": "Volar Roto: teatro y danza sobre una historia real",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2pBZkM3OFFYX0ZzRXVIMWpXVmhQeFYyNmxNM0MxSzdWbnNXR3JJTE1HYmVGV0dPQi0yc1pieDM5NFRhNkVyVVpSMENNcXFOOXl0UlVoR19NNF9SSHZvUUtyY0NocXF6MkR4QTBZWjRHcmFGUW4xVHFQeHV6cUI3V3F6VjJRRFFzMVZLdFJB?oc=5",
+     "source": "AM 1350 Radio Buenos Aires",
+     "published": "2026-08-13T21:59:51+00:00",
+     "id": "486062426977"
+    },
+    {
      "title": "Con Tchaikovsky y Mozart, la Filarmónica de Buenos Aires celebró al Teatro Solís",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZWYzYUpFdUs4Zmt3a19ZRk96Z3k4R2R2T2NhWUFSTHJsOEx6UFRiT2xJOFdpOG1lOTU5S05MNVMya2dhVTN1ckJRN01ibnl6N2hHX1E5WGhhZnRIZUFyWGRlUFJqWnhjdnZhTEg4bFpsWmFDVUtXa0VZMUMzeDFfM2lITFlvbWd4RE1pXzRJS2ZfcnRxT1p2enZrX3l5WWRoSDV4QjhMZGh6enFUOXpjWVA2UlN2QdIB2gFBVV95cUxNVEltaFNkY0UzT0R0RW5MN2hxOW43Z25hMmN5YlBHZ0ZzVjYxODVlY3dMa05hcWlQQzJwUDhKcW5TMHNRenFMZkNaQ3k3d0E1ZWhudFhBcE9FQ1FxbVd0d1g2THU0cFlLVlp5bVB1LUNrUUdCMmdOckpIUU1KdnRkYXpCWjFQb29TQkNwNjl1T3RsYXBjVW5rQ3Y0Q0Q0b1AxVHRTOTR3eXNkNExQRGJRaERoaHZuUnVzVWhwLWpVekh4Wk5oNWEyOEZycklKeV9UOWUtLTBCal9Pdw?oc=5",
      "source": "LatidoBEAT",
@@ -302,32 +307,11 @@
      "id": "5ce9e63b78ff"
     },
     {
-     "title": "Premios Hugo al teatro musical: Hairspray es la obra más nominada",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2dDTVBJSmRsS25LV09mUkRBcE9zU0p0S0gyaVZuTnUybjlpR3NlOWZwanFhRTdFQS1XNTBvMEh2d0E4MVJSNE1MN19lUmp4dU1XSmczSWN2LUo4OElSdXRfQTRyTFMxTjFRVmh3M3BfSGFHLW1FMjlEVGRmc1ZCaFVyQjZQa1lyVnJEWnNXUXlBLURnMHBrNjhPZ21iUkstYlY2QWZrZ0I?oc=5",
-     "source": "Clarin",
-     "published": "2026-08-13T19:29:28+00:00",
-     "id": "0f992a2ebcd9"
-    },
-    {
      "title": "Finca Bandini lleva a Buenos Aires su ciclo “Carne y Vino” con chefs y restaurantes invitados",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnRVdlVoZ1dFcS02S2l1R2FId3N0SERTVGstQkJwZXdTT19mVlpIYkcyekxqUWZ0NDBielBPSEZnZ01IclBIMVJFSmNOWHkxM3BtNWptaklrb25FWGFhTHFBTHJwMFhETktKMlk2bGdXMEdISlRzMFZoNmpnUmIzMERFT2tpX2UzMjNfZWo5NFlYMVluTlVVcHo0WTh0czIyMkVhR0xoMDBiM3ZIQkNQd0EtTWhMaHowVlh1SUxucTlheS1IR1E3WTVfWU4xRHhUSVRv0gHYAUFVX3lxTE1DWmNnLW1YRUpxVjdWNXY2RFhEa19ISnhBa1RLd2k0QmFHZEJJUHFhbFhiMUMycDJ1T2JhMFNiU2FqUGJVVjJQNWNXaGRmWHFVaGE0TXlTdlkyTndPQm1pSnFtN1QxUEhpenRzVXg2VjNjb2hNQXdaNmxNLVJHdm0tdGxmbHhNc2FxaDFRWU9LSThqOUp6akVLWTQ2VFFtMXRvN3J1RFpqTkcxUUxOeUltbDVOanVXbjBDdkJSV3QwdkR3TjZqVGw4b19YdGRKb2xtU2kwWHgzRw?oc=5",
      "source": "Perfil",
      "published": "2026-08-13T19:23:02+00:00",
      "id": "8c4f6de3034e"
-    },
-    {
-     "title": "Premios Hugo al Teatro Musical: todos los nominados y la fecha de la ceremonia",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVl91UlNZRDFIUHlBTW5NM3l1NzhfeVg3NjgydWgxWGRmaXMxb1hCSzh2YjFiOElmUEpSNkFGRElUR1RXMEJZMk1Rc2dBWXpTM1VfWjBWbzl0Q2VuX1h4R05mb0VUd3ZKdkFsX2dZeG1lMXY1WVpwMXlOc0VPb0s3dmRGZ3BKNHliSkRhTUNYRUlxbHB6bUpaSktEZThQODhqUzA2ZXRTSnQtUGxfcEHSAbMBQVVfeXFMT1EtYVExMkJnRzhLM2hNMDA4OWJzMHJiZXlGNVBmbkFjZ3N1RjQ0YUFHOFUteTZTdkNlaWwtVHFNREhaMWd0RGdKWXd4QVBBYXdqQVd6VzJGNFF6RlJmVmhkbnN0MTYzQU9OZzFHOEV3YWNpekpUWExmSWcwdjhSQzVyREM4WXVVZ0FuTno0TFNOb3ZESU1idDBEdWk0aWhsVVRWZVFJcExUX1YzN2FhaEhRZlE?oc=5",
-     "source": "Exitoina",
-     "published": "2026-08-13T18:16:19+00:00",
-     "id": "a77e710eb579"
-    },
-    {
-     "title": "Volar Roto: teatro y danza sobre una historia real",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2pBZkM3OFFYX0ZzRXVIMWpXVmhQeFYyNmxNM0MxSzdWbnNXR3JJTE1HYmVGV0dPQi0yc1pieDM5NFRhNkVyVVpSMENNcXFOOXl0UlVoR19NNF9SSHZvUUtyY0NocXF6MkR4QTBZWjRHcmFGUW4xVHFQeHV6cUI3V3F6VjJRRFFzMVZLdFJB?oc=5",
-     "source": "AM 1350 Radio Buenos Aires",
-     "published": "2026-08-13T16:49:13+00:00",
-     "id": "486062426977"
     },
     {
      "title": "Día de la Niñez: planes originales para celebrar con los más chicos en Buenos Aires",
@@ -365,84 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Karina Milei encabeza la apertura del local libertario de la Provincia y Pareja habla de Santilli como candidato",
-     "link": "https://www.lanacion.com.ar/politica/karina-milei-encabeza-la-apertura-del-local-libertario-de-la-provincia-y-pareja-habla-de-santilli-nid13082026/",
+     "title": "Créditos en dólares para empresas: cómo impactaría en el mercado inmobiliario",
+     "link": "https://www.lanacion.com.ar/propiedades/inversiones/creditos-en-dolares-para-empresas-como-impactaria-en-el-mercado-inmobiliario-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-13T21:05:41+00:00",
-     "copete": "La secretaria general, acompañada por Martín Menem, es recibida por la militancia que llegó desde el conurbano; el armador de LLA admitió sobre el jefe de Gabinete: “Es el que mejor nos representa”",
-     "id": "00942135576d"
+     "published": "2026-08-14T01:03:00+00:00",
+     "copete": "El Gobierno flexibilizará las condiciones para que los bancos puedan prestar dólares a las empresas y puso el foco principalmente en la industria de la construcción",
+     "id": "d2dbc402ded0"
     },
     {
-     "title": "Créditos hipotecarios: Caputo analiza usar fondos del FGS de ANSES para reforzar los préstamos a largo plazo",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-caputo-analiza-usar-fondos-de-anses-para-reforzar-los-prestamos-a-largo-plazo-nid13082026/",
+     "title": "Cuánto cuesta el Ford Territory en agosto 2026",
+     "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-ford-territory-en-agosto-2026-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-13T21:05:29+00:00",
-     "copete": "En una conferencia de prensa, el ministro de Economía anunció que el Gobierno estudia utilizar los recursos del Fondo de Garantía de Sustentabilidad para inyectar liquidez en los bancos",
-     "id": "4ad6b8425a45"
+     "published": "2026-08-13T23:05:08+00:00",
+     "copete": "El SUV mediano se ofrece en cuatro versiones, incluida la nueva Platinum presentada este mes; los precios parten de $48,8 millones",
+     "id": "56dc9717ae29"
     },
     {
-     "title": "Supercentenaria: tiene 115 años, es la tercera mujer más longeva del planeta y confirmó la receta que la mantuvo sana siempre",
-     "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/supercentenaria-tiene-115-anos-es-la-tercera-mujer-mas-longeva-del-planeta-y-confirmo-la-receta-que-nid13082026/",
+     "title": "Cuánto cuesta el Toyota Yaris en agosto 2026",
+     "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-toyota-yaris-en-agosto-2026-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-13T21:04:36+00:00",
-     "copete": "Lucía Laura Sangenito es una celebridad en su país y se volvió un ejemplo para cientos de adultos mayores que aspiran a superar el siglo de edad y gozar de buena salud",
-     "id": "0fe2d22033b7"
+     "published": "2026-08-13T23:05:04+00:00",
+     "copete": "El Toyota Yaris es uno de los pocos hatchback que se mantienen muy activos en los rankings de patentamientos, pese al avance de los SUV",
+     "id": "084aa3625082"
     },
     {
-     "title": "Las acciones de Globant caen en la Bolsa de Nueva York tras la presentación de su balance",
-     "link": "https://www.lanacion.com.ar/economia/negocios/las-acciones-de-globant-caen-en-la-bolsa-de-nueva-york-tras-la-presentacion-de-su-balance-nid13082026/",
+     "title": "Cuánto cuesta el Toyota Corolla Cross en agosto 2026",
+     "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-toyota-corolla-cross-en-agosto-2026-nid11082026/",
      "source": "La Nación",
-     "published": "2026-08-13T21:04:14+00:00",
-     "copete": "Las acciones de la compañía tecnológica retrocedieron hoy cerca de un 15% en el after market; fue tras la presentación de su balance del segundo trimestre",
-     "id": "ec411097b243"
+     "published": "2026-08-13T23:05:00+00:00",
+     "copete": "Toyota confirmó el precio del Corolla Cross para este octavo mes del año: cuánto vale el SUV mediano",
+     "id": "cf780636eba3"
     },
     {
-     "title": "Juró el nuevo juez federal de Lomas de Zamora, Juan Tomás Rodríguez Ponte",
-     "link": "https://www.infobae.com/judiciales/2026/08/13/juro-el-nuevo-juez-federal-de-lomas-de-zamora-juan-tomas-rodriguez-ponte/",
+     "title": "Independiente hizo oficial la salida de Gustavo Quinteros: el duro comunicado y quiénes se harán cargo del plantel",
+     "link": "https://www.infobae.com/deportes/2026/08/13/independiente-hizo-oficial-la-salida-de-gustavo-quinteros-el-duro-comunicado-y-quienes-se-haran-cargo-del-plantel/",
      "source": "Infobae",
-     "published": "2026-08-13T21:02:43+00:00",
-     "copete": "Con un salón repleto y acompañado por su mentor, Ariel Lijo, el flamante magistrado prestó juramento para hacerse cargo del Juzgado Federal N° 2, que hasta hoy subrogó Luis Armella. Participaron en el acto los jueces de la Corte Horacio…",
-     "id": "f4944a5ef9ef"
+     "published": "2026-08-13T23:00:33+00:00",
+     "copete": "El club de Avellaneda informó que el santafesino dejó su cargo tras la eliminación en Copa Argentina",
+     "id": "7d8178f228d2"
     },
     {
-     "title": "Un cortometraje que recrea con IA el encuentro entre San Martín y Sarmiento reunió a empresarios y dirigentes de todas las fuerzas políticas",
-     "link": "https://www.infobae.com/politica/2026/08/13/un-cortometraje-que-recrea-con-ia-el-encuentro-entre-san-martin-y-sarmiento-reunio-a-empresarios-y-dirigentes-de-todas-las-fuerzas-politicas/",
+     "title": "168 fotos de la presentación del cortometraje de Infobae que recrea con IA el encuentro entre San Martín y Sarmiento",
+     "link": "https://www.infobae.com/fotos/2026/08/13/158-fotos-de-la-presentacion-del-cortometraje-de-infobae-que-recrea-con-ia-el-encuentro-entre-san-martin-y-sarmiento/",
      "source": "Infobae",
-     "published": "2026-08-13T21:01:26+00:00",
-     "copete": "“El Libertador” es la primera producción de una iniciativa de Infobae para acercar la historia argentina a las nuevas generaciones. Estuvieron presentes Mauricio Macri, “Wado” de Pedro, Jorge Brito y los gobernadores Rogelio Frigerio…",
-     "id": "522968b04936"
+     "published": "2026-08-13T22:58:09+00:00",
+     "copete": "El evento se llevó a cabo en el Salón de Actos de la Facultad de Derecho de la UBA. Reunió a empresarios y dirigentes de todas las fuerzas políticas",
+     "id": "5c57718207e6"
     },
     {
-     "title": "Instagram cambia después de 10 años de colores: pasó a su etapa blanco y negro",
-     "link": "https://www.infobae.com/tecno/2026/08/13/instagram-cambia-despues-de-10-anos-de-colores-paso-a-su-etapa-blanco-y-negro/",
+     "title": "Anthropic detecta que sus agentes de IA se enfrentan entre sí cuando tienen la misma tarea",
+     "link": "https://www.infobae.com/tecno/2026/08/13/anthropic-detecta-que-sus-agentes-de-ia-se-enfrentan-entre-si-cuando-tienen-la-misma-tarea/",
      "source": "Infobae",
-     "published": "2026-08-13T21:00:17+00:00",
-     "copete": "El cambio se concentra en el logo tipográfico. El nuevo diseño combina rasgos de cursiva y letra de imprenta",
-     "id": "1ef991b7fb63"
+     "published": "2026-08-13T22:57:26+00:00",
+     "copete": "Una investigación reciente reveló que los modelos de Claude desplegaron malware al percibir competencia interna",
+     "id": "c53c4a0f8314"
     },
     {
-     "title": "El Ministerio de Justicia cedió “La Monedita” a la Procuración para reforzar el sistema acusatorio",
-     "link": "https://www.infobae.com/judiciales/2026/08/13/el-ministerio-de-justicia-cedio-la-monedita-a-la-procuracion-para-reforzar-el-sistema-acusatorio/",
+     "title": "Fiscalía de El Salvador ejecuta la quema de droga valorada en USD 39,260",
+     "link": "https://www.infobae.com/el-salvador/2026/08/13/fiscalia-de-el-salvador-ejecuta-la-quema-de-droga-valorada-en-usd-39260/",
      "source": "Infobae",
-     "published": "2026-08-13T20:58:44+00:00",
-     "copete": "El edificio, ubicado cerca de Comodoro Py, fue acondicionado para el Ministerio Público Fiscal. La medida se inscribe en la expansión operativa prevista por la implementación del nuevo Código Procesal Penal Federal",
-     "id": "a3ffe82251c5"
+     "published": "2026-08-13T22:57:25+00:00",
+     "copete": "La quema se realizó este jueves en Mejicanos, San Salvador y San Miguel, e incluyó marihuana, cocaína y metanfetamina vinculadas a 28 expedientes ya resueltos por los tribunales competentes",
+     "id": "3ae82023f5b0"
     },
     {
-     "title": "\"Lo desnudaron, lo ataron, lo encañonaron con una escopeta y lo tiraron a los chanchos\": revelan detalles del crimen de la chanchería en Neuquén",
-     "link": "https://www.clarin.com/sociedad/desnudaron-ataron-encanonaron-escopeta-tiraron-chanchos-revelan-detalles-crimen-chancheria-neuquen_0_z3gSm7BPzG.html",
+     "title": "Un elanio tijereta que sufrió un disparo volvió a volar en libertad tras una larga recuperación: \"Para un ave que pasa gran parte de su vida planeando por el cielo sin esfuerzo, era inevitable preguntarse si volvería a volar alguna vez\"",
+     "link": "https://www.clarin.com/internacional/elanio-tijereta-sufrio-disparo-volvio-volar-libertad-larga-recuperacion-ave-pasa-gran-parte-vida-planeando-cielo-esfuerzo-inevitable-preguntarse-volveria-volar-alguna-vez_0_q3d3Xobxhk.html",
      "source": "Clarín",
-     "published": "2026-08-13T20:33:42+00:00",
-     "copete": "Mario Forquera (46) estuvo desaparecido un mes y encontraron sus restos en un campo. La fiscal reconstruyó cómo los tres imputados cometieron el asesinato. Discusión, tortura y abandono fueron las claves del crimen.",
-     "id": "e13fc66d3267"
+     "published": "2026-08-13T22:33:24+00:00",
+     "copete": "Un ave rescatada fue devuelta a la naturaleza tras haber recibido atención veterinaria. Fue liberada junto a otro ejemplar de la misma especie. El hecho ocurrió en Estados Unidos.",
+     "id": "3790b42dcc67"
     },
     {
-     "title": "Qué va a pasar con la nena de 8 años tras el femicidio de su madre en Villa Devoto: \"Enorme impacto\"",
-     "link": "https://www.clarin.com/sociedad/va-pasar-nena-8-anos-femicidio-madre-villa-devoto-enorme-impacto_0_Nxq7Ms5hil.html",
+     "title": "\"Algún cartucho se quedó en el arma\": cortaban una escopeta en un programa de desarme oficial y cuatro personas terminaron baleadas",
+     "link": "https://www.clarin.com/internacional/algun-cartucho-quedo-arma-cortaban-escopeta-programa-desarme-gobierno-personas-terminaron-heridas-balazos_0_kskVzKznEy.html",
      "source": "Clarín",
-     "published": "2026-08-13T20:26:46+00:00",
-     "copete": "Expertos analizan los que sucede en la vida de los hijos luego de que una mujer es asesinada. Desde el primer Ni Una Menos de 2015, 3.840 hijas e hijos perdieron a su madre por la violencia de género.",
-     "id": "8c95c159ce21"
+     "published": "2026-08-13T22:30:17+00:00",
+     "copete": "Los heridos son civiles que presenciaban el acto donde personal militar realizaba la destrucción del arma que al ser presionada por una sierra se disparó. Ocurrió en la localidad mexicana de Tzintzuntzan, en Michoacán. Las víctimas se…",
+     "id": "518a452569ce"
     }
    ]
   },
@@ -455,7 +439,7 @@
      "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T21:09:13.762105+00:00",
+     "published": "2026-08-13T23:07:42.896753+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
@@ -463,9 +447,17 @@
      "title": "El espectacular eclipse solar total que se pudo ver en parte de Europa",
      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T21:09:13.762056+00:00",
+     "published": "2026-08-13T23:07:42.896528+00:00",
      "copete": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
      "id": "b66af0e4ec06"
+    },
+    {
+     "title": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
+     "link": "https://www.bbc.com/mundo/articles/c934x32d0n7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-13T22:01:01+00:00",
+     "copete": "Deivi y Winder Delfín tienen 15 y 17 años. En junio su edificio se derrumbó tras los sismos en Venezuela y pasaron 27 días para retirar con sus manos los cuerpos de su mamá y su hermanito. Se mudaron a Colombia con su papá y a los tres…",
+     "id": "3a20509ca846"
     },
     {
      "title": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
@@ -500,14 +492,6 @@
      "id": "1903d4323180"
     },
     {
-     "title": "\"Absolutamente inaceptable\": por qué la visita de Putin a una isla en el Pacífico causó la indignación de Japón",
-     "link": "https://www.bbc.com/mundo/articles/c4gj41jl0npo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-13T15:57:19+00:00",
-     "copete": "Es la primera vez que el líder ruso visita las islas Kuriles, según los medios estatales.",
-     "id": "484a48edea28"
-    },
-    {
      "title": "Israel envía tropas a una aldea palestina tras cuatro días de asedio a familias por parte de colonos radicales",
      "link": "https://elpais.com/internacional/2026-08-13/israel-envia-tropas-a-una-aldea-palestina-tras-cuatro-dias-de-asedio-a-familias-encerradas-por-colonos-radicales.html",
      "source": "El País Internacional",
@@ -522,6 +506,11 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
