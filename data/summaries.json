@@ -1,26 +1,6 @@
 {
-  "generated_at": "2026-08-13T10:09:32Z",
+  "generated_at": "2026-08-13T22:10:11Z",
   "summaries": {
-    "75dda724aeab": {
-      "resumen": "OncLive recoge los comentarios del Dr. Van Gorp sobre los datos de supervivencia libre de progresión (SLP) obtenidos con TUB-040, un fármaco en investigación, en cáncer de ovario resistente al platino. Vale la pena mirarlo porque este subtipo de cáncer de ovario tiene pocas opciones eficaces y representa un desafío terapéutico frecuente en la práctica oncológica.",
-      "destacado": false
-    },
-    "572a4a7fd3eb": {
-      "resumen": "OncLive presenta los comentarios del Dr. Garg sobre la evolución de la terapia con protones (radioterapia de partículas cargadas) en cáncer de cabeza y cuello. Interesa porque repasa cómo esta técnica busca reducir la toxicidad sobre tejidos sanos respecto de la radioterapia convencional, en una localización donde los efectos adversos del tratamiento afectan mucho la calidad de vida.",
-      "destacado": false
-    },
-    "f615f302cec7": {
-      "resumen": "OncLive plantea que todavía falta un ensayo clínico de segunda línea en carcinoma hepatocelular (CHC), el tumor primario de hígado más frecuente. Vale la pena mirarlo porque señala un vacío de evidencia en el tratamiento posterior a la primera línea, una instancia clave para definir qué ofrecer cuando falla el esquema inicial.",
-      "destacado": false
-    },
-    "cf14df30590a": {
-      "resumen": "The ASCO Post recoge los comentarios del Dr. Benjamin P. Levy sobre las opciones terapéuticas emergentes, en primera línea y en combinación, para el cáncer de pulmón de células no pequeñas (CPCNP) con mutación KRAS G12C. Interesa porque repasa cómo se está ampliando el arsenal de terapias dirigidas para un subgrupo molecular que hasta hace poco tenía pocas alternativas específicas.",
-      "destacado": false
-    },
-    "1c729beba7e7": {
-      "resumen": "The ASCO Post recoge los comentarios de la Dra. Mary-Ellen Taplin sobre el ensayo PROTEUS en cáncer de próstata localizado o localmente avanzado de alto riesgo. Vale la pena mirarlo porque ofrece la lectura de una especialista sobre un estudio relevante en un subgrupo de peor pronóstico dentro de la enfermedad localizada.",
-      "destacado": false
-    },
     "81f54de2f1de": {
       "resumen": "Actualización de la supervivencia global a largo plazo del ensayo COMBI-I, que evaluó agregar spartalizumab (un inhibidor del punto de control inmunitario anti-PD-1) al esquema estándar de dabrafenib más trametinib (inhibidores de BRAF y MEK) en melanoma avanzado con mutación BRAF V600. Vale la pena mirarlo porque aporta datos de seguimiento prolongado sobre si sumar inmunoterapia a la terapia dirigida sostiene el beneficio en supervivencia.",
       "destacado": false,
@@ -31,10 +11,6 @@
       "destacado": false,
       "analisis": "Diseño: Estudio, probablemente retrospectivo o de cohorte, sobre el valor pronóstico y predictivo de la edad en gliomas de bajo grado clasificados según categorías moleculares; el título no especifica el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con gliomas de bajo grado (grado 2), clasificados según su definición molecular (por ejemplo, estado de mutación de IDH y codeleción 1p/19q).\nIntervención: No es una intervención terapéutica activa; el estudio analiza el efecto pronóstico y predictivo de la edad del paciente dentro de los subgrupos moleculares.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Este tipo de análisis suele ser retrospectivo, con riesgo de sesgo de selección, y el efecto de la edad puede confundirse con otros factores como el estado funcional o el tratamiento recibido.\nMensaje: Podría ayudar a refinar la estratificación pronóstica y las decisiones terapéuticas en gliomas de bajo grado, incorporando la edad junto con la clasificación molecular vigente.\nNota: análisis sin acceso al abstract."
     },
-    "3916c5fe4502": {
-      "resumen": "The ASCO Post presenta los comentarios de la Dra. Jennifer Gile sobre el linfoma difuso de células B grandes (LDCBG) de alto riesgo, centrados en los esquemas evaluados en los ensayos frontMIND y POLARIX. Interesa porque resume la mirada de una especialista sobre cómo estos estudios podrían cambiar el tratamiento de primera línea en pacientes de alto riesgo.",
-      "destacado": false
-    },
     "e2319d4dd180": {
       "resumen": "Artículo breve del Journal of Clinical Oncology firmado por Berthaud FM y colaboradores, titulado escuetamente \"Forty\". Por el formato y la brevedad del título, podría tratarse de una pieza narrativa o reflexiva (como las de la sección Art of Oncology) antes que de un estudio clínico; sin acceso al texto no puede confirmarse con certeza.",
       "destacado": false
@@ -43,36 +19,6 @@
       "resumen": "Actualización de los resultados de eficacia y seguridad del ensayo de fase III PIVOTAL, que evalúa daromun (L19IL2/L19TNF, una combinación de citoquinas inmunoestimulantes administrada por vía intralesional) como tratamiento neoadyuvante —es decir, antes de la cirugía— en melanoma localmente avanzado resecable. Es un estudio clave porque busca mejorar la respuesta patológica y reducir recaídas mediante inmunoterapia intralesional previa a la cirugía.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III (estudio PIVOTAL); esta publicación se describe como una actualización de los resultados de eficacia y seguridad. El título no precisa aleatorización, cegamiento ni el número de centros o pacientes de esta actualización puntual.\nPoblación: Pacientes con melanoma localmente avanzado y resecable (enfermedad candidata a cirugía).\nIntervención: Daromun (combinación intralesional de L19IL2 y L19TNF, dos citoquinas inmunoestimulantes fusionadas a un anticuerpo) administrado en forma neoadyuvante, es decir antes de la cirugía; el comparador exacto (cirugía sola u otro esquema) no figura en el título.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización ni si confirma los hallazgos de reportes previos del mismo ensayo.\nMensaje: El tratamiento intralesional neoadyuvante podría sumarse como estrategia para mejorar los resultados quirúrgicos y oncológicos en melanoma localmente avanzado resecable, un escenario donde hoy la cirugía sigue siendo el pilar.\nNota: análisis sin acceso al abstract."
-    },
-    "5e8d6b27d214": {
-      "resumen": "Zara lanzó su primer uniforme de pre-temporada, a mitad de camino entre lo casual del verano y el estilo urbano de septiembre."
-    },
-    "1038ac370c3e": {
-      "resumen": "Zara estrena hoy las tendencias de otoño 2026, prendas que prometen agotarse antes de septiembre."
-    },
-    "97668a5a020c": {
-      "resumen": "La fórmula de estilo asociada a Carolina Herrera vuelve a ser tendencia con apenas dos básicos infaltables del placard."
-    },
-    "b02415c30940": {
-      "resumen": "Un repaso por las obras más importantes de la escritora mexicana Ángeles Mastretta."
-    },
-    "5f9df376b796": {
-      "resumen": "Un grupo de expertos en organización de bodas ofrece consejos para planificar un casamiento en Ciudad de México."
-    },
-    "71c90e4658f0": {
-      "resumen": "Cómo se usa el agua de arroz fermentada, una técnica de belleza capilar popular en Asia, para el lavado del cabello."
-    },
-    "09cc7805f3a1": {
-      "resumen": "La agenda de obras de teatro que se pueden ver en el país durante la semana del 13 al 20 de agosto."
-    },
-    "754bff2ca647": {
-      "resumen": "Toda la información sobre entradas, precios y ubicaciones para ver a la Filarmónica de Buenos Aires en el Teatro Colón."
-    },
-    "87a387b8289a": {
-      "resumen": "El director José María Muscari estrenó \"Lucio y yo\", una obra basada en su historia personal."
-    },
-    "da8180bb5c5b": {
-      "resumen": "Un espectáculo de tambores Taiko japoneses, con más de 20 instrumentos gigantes, llega por única vez a Buenos Aires."
     },
     "fd5572f6cc1f": {
       "resumen": "Revista OHLALÁ! propone planes originales para festejar el Día de la Niñez con los más chicos en Buenos Aires."
@@ -86,11 +32,79 @@
     "8f87b964942c": {
       "resumen": "El Destape recomienda nueve lugares para comer una buena lasaña en Buenos Aires."
     },
-    "0f90eb914faa": {
-      "resumen": "Veinte propuestas de ferias, conciertos y experiencias para hacer en Buenos Aires el fin de semana del 13 al 16 de agosto."
+    "5b3f193aba06": {
+      "resumen": "La agencia estadounidense de medicamentos (FDA, por sus siglas en inglés) aprobó el esquema de iberdomida junto con daratumumab y dexametasona para el mieloma múltiple en recaída o refractario (R/R, es decir que reapareció o no respondió a tratamientos previos). Vale la pena mirarlo porque suma una nueva combinación con un fármaco inmunomodulador de nueva generación para una población con pocas opciones tras progresar a líneas previas.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de aprobación regulatoria de la FDA (agencia de medicamentos de Estados Unidos); no es un estudio primario sino la cobertura periodística de una decisión regulatoria basada en un ensayo clínico previo cuyo diseño no se detalla en el título.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R), es decir que progresaron o no respondieron a líneas de tratamiento previas.\nIntervención: Combinación de iberdomida (fármaco inmunomodulador de nueva generación, familia CELMoD) con daratumumab (anticuerpo monoclonal anti-CD38) y dexametasona.\nResultados: No informados en el título ni disponibles sin acceso al texto completo de la nota o al ensayo pivotal que sustentó la aprobación.\nLimitaciones: Al tratarse de una nota sobre una aprobación regulatoria, no permite evaluar por sí misma el diseño metodológico, el tamaño muestral ni la magnitud del beneficio del ensayo que la sustenta.\nMensaje: Amplía el arsenal terapéutico disponible en mieloma múltiple en recaída o refractario, sumando una opción con un inmunomodulador de nueva generación combinado con el estándar daratumumab-dexametasona.\nNota: análisis sin acceso al abstract."
     },
-    "41f9b19fba19": {
-      "resumen": "Time Out recomienda sus lugares favoritos para comer papas fritas en Buenos Aires."
+    "a6f84f6ee210": {
+      "resumen": "OncLive recoge los comentarios del Dr. Morris sobre datos actualizados de lutecio Lu 177 vipivotida tetraxetán combinado con un inhibidor del receptor de andrógenos (ARPI, por sus siglas en inglés) en cáncer de próstata metastásico hormonosensible con expresión de PSMA (antígeno prostático específico de membrana). Interesa porque repasa la evolución de la terapia dirigida con radioligandos hacia etapas más tempranas de la enfermedad prostática.",
+      "destacado": false
+    },
+    "4b94c45d1c13": {
+      "resumen": "The ASCO Post reporta el uso de darolutamida (un inhibidor del receptor de andrógenos) junto con goserelina (un análogo de la hormona liberadora de gonadotrofinas) en carcinoma de glándula salival positivo para receptor de andrógenos (AR), un tumor infrecuente. Vale la pena mirarlo porque explora el bloqueo hormonal, ya validado en cáncer de próstata, en un tumor de cabeza y cuello poco común donde las opciones terapéuticas son limitadas.",
+      "destacado": false,
+      "analisis": "Diseño: No se especifica en el título si se trata de un ensayo clínico, una serie de casos o un reporte de caso; el carcinoma de glándula salival AR-positivo es una entidad infrecuente, por lo que este tipo de publicaciones suele corresponder a series pequeñas.\nPoblación: Pacientes con carcinoma de glándula salival positivo para receptor de andrógenos (AR).\nIntervención: Darolutamida (inhibidor del receptor de andrógenos) combinada con goserelina (análogo de la hormona liberadora de gonadotrofinas, que produce supresión hormonal).\nResultados: No informados en el título ni disponibles sin acceso al texto completo.\nLimitaciones: Por tratarse de un tumor infrecuente, es esperable un tamaño muestral pequeño y ausencia de grupo comparador, lo que limita la solidez de la evidencia.\nMensaje: Explora extrapolar el bloqueo hormonal antiandrogénico, ya establecido en cáncer de próstata, a un tumor de cabeza y cuello raro con opciones terapéuticas escasas.\nNota: análisis sin acceso al abstract."
+    },
+    "461693208cd0": {
+      "resumen": "The ASCO Post analiza si el seguimiento guiado por ADN tumoral circulante (ctDNA, un biomarcador que detecta fragmentos de tumor en sangre) mejora las tasas de tratamiento con intención curativa en el cáncer colorrectal ya operado. Interesa porque el ctDNA es una herramienta cada vez más usada para detectar recaídas tempranas, y esta nota discute si eso realmente se traduce en mejores resultados clínicos.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de discusión, en formato de pregunta, sobre el valor del seguimiento con ADN tumoral circulante (ctDNA) tras la cirugía; no se especifica si analiza un ensayo clínico puntual o revisa la evidencia disponible en conjunto.\nPoblación: Pacientes con cáncer colorrectal resecado (operado con intención curativa).\nIntervención: Vigilancia posoperatoria guiada por ctDNA para detectar enfermedad residual o recaída temprana, frente al seguimiento estándar con imágenes y marcadores convencionales.\nResultados: No informados en el título ni disponibles sin acceso al texto completo.\nLimitaciones: Al presentarse como pregunta abierta, es probable que la nota discuta evidencia aún no concluyente sobre si la detección temprana por ctDNA se traduce en mayor curación real.\nMensaje: Aporta al debate sobre si el uso del ctDNA en el seguimiento del cáncer colorrectal operado mejora desenlaces duros, más allá de anticipar la recaída.\nNota: análisis sin acceso al abstract."
+    },
+    "4739048c5930": {
+      "resumen": "The ASCO Post reporta un estudio sobre cáncer de piel no melanoma en pacientes inmunosuprimidos, que encontró que la disfunción de las células inmunitarias —y no su ausencia— explicaría el mayor riesgo tumoral en este grupo. Vale la pena mirarlo porque cambia el enfoque sobre por qué los pacientes trasplantados o inmunosuprimidos desarrollan más cánceres de piel, con potencial impacto en estrategias preventivas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio, probablemente de tipo traslacional o inmunológico, que caracteriza el estado funcional de las células inmunitarias en la piel de pacientes inmunosuprimidos; el título no precisa si es un estudio de cohorte, caso-control o un análisis de laboratorio sobre muestras de tejido.\nPoblación: Pacientes inmunosuprimidos (por ejemplo, receptores de trasplante de órganos) con cáncer de piel no melanoma.\nIntervención: No es una intervención terapéutica; el estudio compara la función de las células inmunitarias presentes en la piel (disfunción) frente a su ausencia como explicación del mayor riesgo tumoral.\nResultados: No informados en el título ni disponibles sin acceso al texto completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño de la muestra, la metodología usada para caracterizar la función inmunitaria ni si los hallazgos se replican en distintos tipos de inmunosupresión.\nMensaje: Sugiere que las estrategias preventivas o terapéuticas en pacientes inmunosuprimidos con alto riesgo de cáncer de piel deberían apuntar a restaurar la función inmunitaria local, más que a compensar una supuesta ausencia de células inmunes.\nNota: análisis sin acceso al abstract."
+    },
+    "669b03b4e61f": {
+      "resumen": "OncLive reporta que zipalertinib combinado con quimioterapia mejoró la supervivencia libre de progresión (SLP) en primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con inserción en el exón 20 del gen EGFR. Interesa porque este subtipo molecular históricamente respondió peor a los inhibidores de EGFR clásicos, y un nuevo fármaco dirigido en primera línea podría cambiar el estándar de tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (el título no especifica fase, aleatorización, cegamiento, número de centros ni de pacientes) que evalúa un esquema en primera línea.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con inserción en el exón 20 del gen EGFR, sin tratamiento sistémico previo (primera línea).\nIntervención: Zipalertinib (inhibidor de EGFR dirigido a inserciones del exón 20) combinado con quimioterapia; el comparador no figura en el título, probablemente quimioterapia sola o el estándar previo.\nResultados: Mejora en la supervivencia libre de progresión (SLP) según el título; no se dispone de las cifras concretas (medianas, razón de riesgo o intervalo de confianza) sin acceso al texto completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar la magnitud real del beneficio, el perfil de toxicidad del agregado de zipalertinib ni si hubo diferencias en supervivencia global.\nMensaje: Podría posicionar a zipalertinib más quimioterapia como nueva opción de primera línea en un subtipo de CPCNP con inserción en el exón 20 de EGFR, históricamente de peor respuesta a los inhibidores de EGFR clásicos.\nNota: análisis sin acceso al abstract."
+    },
+    "11377b4344ee": {
+      "resumen": "Karsten MM y colaboradores publican en JAMA Oncology un ensayo clínico aleatorizado sobre el monitoreo electrónico de síntomas reportados por el paciente (ePRO, por sus siglas en inglés), con alertas automáticas, en cáncer de mama metastásico. Vale la pena mirarlo porque evalúa si detectar y actuar tempranamente sobre síntomas mediante tecnología digital mejora el manejo clínico en enfermedad avanzada.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (según el propio título); no se detallan en el título el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer de mama metastásico.\nIntervención: Monitoreo electrónico de resultados reportados por el paciente (ePRO) con intervenciones basadas en alertas automáticas ante síntomas relevantes, frente al seguimiento clínico estándar.\nResultados: No informados en el título ni disponibles sin acceso al texto completo del artículo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el criterio de valoración principal, el tiempo de seguimiento ni la adherencia real de los pacientes al reporte electrónico de síntomas.\nMensaje: Aporta evidencia aleatorizada sobre si la vigilancia digital de síntomas con alertas mejora desenlaces clínicos o de calidad de vida en cáncer de mama metastásico, un modelo de atención cada vez más explorado en oncología.\nNota: análisis sin acceso al abstract."
+    },
+    "0d398a8f292f": {
+      "resumen": "Vora N y colaboradores publican en JAMA Oncology un análisis sobre el problema de las cohortes superpuestas y el doble conteo de pacientes en los metaanálisis oncológicos. Interesa porque advierte sobre un error metodológico que puede distorsionar las conclusiones de revisiones sistemáticas ampliamente citadas en la toma de decisiones clínicas.",
+      "destacado": false
+    },
+    "6697f5ac5566": {
+      "resumen": "Los vestidos tejidos al crochet, furor en los años 70, vuelven esta temporada para combinar con sandalias planas o de taco en el verano 2026."
+    },
+    "8c8107bffed0": {
+      "resumen": "Siete vestidos de Massimo Dutti que serán tendencia en otoño, pensados para lucir elegantes y cómodos a partir de los 60 años."
+    },
+    "568323fe1f41": {
+      "resumen": "Vogue México presenta el nuevo IQOS ILUMA i en color Electric Purple, la última edición de color del dispositivo de tabaco calentado."
+    },
+    "953c2d7900a4": {
+      "resumen": "Cuatro propuestas de slow travel con Airbnb para recorrer México con calma y disfrutar también de su gastronomía."
+    },
+    "d0e681e8efa2": {
+      "resumen": "Los zapatos chatos peep-toe color café se imponen como la tendencia para combinar con vestidos retro a lunares este verano 2026."
+    },
+    "8aa112632971": {
+      "resumen": "Mía Cambiaso lució un enterizo con recortes y detalles metálicos, la apuesta más audaz de su look de verano."
+    },
+    "b67604831189": {
+      "resumen": "La Filarmónica de Buenos Aires celebró al Teatro Solís de Montevideo con un programa dedicado a Tchaikovsky y Mozart."
+    },
+    "5ce9e63b78ff": {
+      "resumen": "Una guía con shows, propuestas gastronómicas y actividades culturales para aprovechar el fin de semana largo en Buenos Aires."
+    },
+    "0f992a2ebcd9": {
+      "resumen": "Hairspray se consagró como la obra más nominada en los Premios Hugo, que distinguen lo mejor del teatro musical."
+    },
+    "8c4f6de3034e": {
+      "resumen": "El ciclo gastronómico \"Carne y Vino\", de Finca Bandini, llega a Buenos Aires con chefs y restaurantes invitados."
+    },
+    "a77e710eb579": {
+      "resumen": "Se conocieron todos los nominados de los Premios Hugo al Teatro Musical y ya hay fecha confirmada para la ceremonia."
+    },
+    "486062426977": {
+      "resumen": "\"Volar Roto\" combina teatro y danza para contar una historia real, en cartel en Buenos Aires."
     }
   }
 }
