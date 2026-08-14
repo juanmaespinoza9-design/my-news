@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:10:11Z",
+  "generated_at": "2026-08-14T10:20:00Z",
   "summaries": {
     "81f54de2f1de": {
       "resumen": "Actualización de la supervivencia global a largo plazo del ensayo COMBI-I, que evaluó agregar spartalizumab (un inhibidor del punto de control inmunitario anti-PD-1) al esquema estándar de dabrafenib más trametinib (inhibidores de BRAF y MEK) en melanoma avanzado con mutación BRAF V600. Vale la pena mirarlo porque aporta datos de seguimiento prolongado sobre si sumar inmunoterapia a la terapia dirigida sostiene el beneficio en supervivencia.",
@@ -29,18 +29,6 @@
     "642f1938a248": {
       "resumen": "Revista Para Ti propone diez planes para el fin de semana largo en Buenos Aires, nueve de ellos gratuitos."
     },
-    "8f87b964942c": {
-      "resumen": "El Destape recomienda nueve lugares para comer una buena lasaña en Buenos Aires."
-    },
-    "5b3f193aba06": {
-      "resumen": "La agencia estadounidense de medicamentos (FDA, por sus siglas en inglés) aprobó el esquema de iberdomida junto con daratumumab y dexametasona para el mieloma múltiple en recaída o refractario (R/R, es decir que reapareció o no respondió a tratamientos previos). Vale la pena mirarlo porque suma una nueva combinación con un fármaco inmunomodulador de nueva generación para una población con pocas opciones tras progresar a líneas previas.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de aprobación regulatoria de la FDA (agencia de medicamentos de Estados Unidos); no es un estudio primario sino la cobertura periodística de una decisión regulatoria basada en un ensayo clínico previo cuyo diseño no se detalla en el título.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R), es decir que progresaron o no respondieron a líneas de tratamiento previas.\nIntervención: Combinación de iberdomida (fármaco inmunomodulador de nueva generación, familia CELMoD) con daratumumab (anticuerpo monoclonal anti-CD38) y dexametasona.\nResultados: No informados en el título ni disponibles sin acceso al texto completo de la nota o al ensayo pivotal que sustentó la aprobación.\nLimitaciones: Al tratarse de una nota sobre una aprobación regulatoria, no permite evaluar por sí misma el diseño metodológico, el tamaño muestral ni la magnitud del beneficio del ensayo que la sustenta.\nMensaje: Amplía el arsenal terapéutico disponible en mieloma múltiple en recaída o refractario, sumando una opción con un inmunomodulador de nueva generación combinado con el estándar daratumumab-dexametasona.\nNota: análisis sin acceso al abstract."
-    },
-    "a6f84f6ee210": {
-      "resumen": "OncLive recoge los comentarios del Dr. Morris sobre datos actualizados de lutecio Lu 177 vipivotida tetraxetán combinado con un inhibidor del receptor de andrógenos (ARPI, por sus siglas en inglés) en cáncer de próstata metastásico hormonosensible con expresión de PSMA (antígeno prostático específico de membrana). Interesa porque repasa la evolución de la terapia dirigida con radioligandos hacia etapas más tempranas de la enfermedad prostática.",
-      "destacado": false
-    },
     "4b94c45d1c13": {
       "resumen": "The ASCO Post reporta el uso de darolutamida (un inhibidor del receptor de andrógenos) junto con goserelina (un análogo de la hormona liberadora de gonadotrofinas) en carcinoma de glándula salival positivo para receptor de andrógenos (AR), un tumor infrecuente. Vale la pena mirarlo porque explora el bloqueo hormonal, ya validado en cáncer de próstata, en un tumor de cabeza y cuello poco común donde las opciones terapéuticas son limitadas.",
       "destacado": false,
@@ -56,55 +44,69 @@
       "destacado": false,
       "analisis": "Diseño: Estudio, probablemente de tipo traslacional o inmunológico, que caracteriza el estado funcional de las células inmunitarias en la piel de pacientes inmunosuprimidos; el título no precisa si es un estudio de cohorte, caso-control o un análisis de laboratorio sobre muestras de tejido.\nPoblación: Pacientes inmunosuprimidos (por ejemplo, receptores de trasplante de órganos) con cáncer de piel no melanoma.\nIntervención: No es una intervención terapéutica; el estudio compara la función de las células inmunitarias presentes en la piel (disfunción) frente a su ausencia como explicación del mayor riesgo tumoral.\nResultados: No informados en el título ni disponibles sin acceso al texto completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño de la muestra, la metodología usada para caracterizar la función inmunitaria ni si los hallazgos se replican en distintos tipos de inmunosupresión.\nMensaje: Sugiere que las estrategias preventivas o terapéuticas en pacientes inmunosuprimidos con alto riesgo de cáncer de piel deberían apuntar a restaurar la función inmunitaria local, más que a compensar una supuesta ausencia de células inmunes.\nNota: análisis sin acceso al abstract."
     },
-    "669b03b4e61f": {
-      "resumen": "OncLive reporta que zipalertinib combinado con quimioterapia mejoró la supervivencia libre de progresión (SLP) en primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con inserción en el exón 20 del gen EGFR. Interesa porque este subtipo molecular históricamente respondió peor a los inhibidores de EGFR clásicos, y un nuevo fármaco dirigido en primera línea podría cambiar el estándar de tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (el título no especifica fase, aleatorización, cegamiento, número de centros ni de pacientes) que evalúa un esquema en primera línea.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con inserción en el exón 20 del gen EGFR, sin tratamiento sistémico previo (primera línea).\nIntervención: Zipalertinib (inhibidor de EGFR dirigido a inserciones del exón 20) combinado con quimioterapia; el comparador no figura en el título, probablemente quimioterapia sola o el estándar previo.\nResultados: Mejora en la supervivencia libre de progresión (SLP) según el título; no se dispone de las cifras concretas (medianas, razón de riesgo o intervalo de confianza) sin acceso al texto completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar la magnitud real del beneficio, el perfil de toxicidad del agregado de zipalertinib ni si hubo diferencias en supervivencia global.\nMensaje: Podría posicionar a zipalertinib más quimioterapia como nueva opción de primera línea en un subtipo de CPCNP con inserción en el exón 20 de EGFR, históricamente de peor respuesta a los inhibidores de EGFR clásicos.\nNota: análisis sin acceso al abstract."
-    },
-    "11377b4344ee": {
-      "resumen": "Karsten MM y colaboradores publican en JAMA Oncology un ensayo clínico aleatorizado sobre el monitoreo electrónico de síntomas reportados por el paciente (ePRO, por sus siglas en inglés), con alertas automáticas, en cáncer de mama metastásico. Vale la pena mirarlo porque evalúa si detectar y actuar tempranamente sobre síntomas mediante tecnología digital mejora el manejo clínico en enfermedad avanzada.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (según el propio título); no se detallan en el título el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer de mama metastásico.\nIntervención: Monitoreo electrónico de resultados reportados por el paciente (ePRO) con intervenciones basadas en alertas automáticas ante síntomas relevantes, frente al seguimiento clínico estándar.\nResultados: No informados en el título ni disponibles sin acceso al texto completo del artículo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el criterio de valoración principal, el tiempo de seguimiento ni la adherencia real de los pacientes al reporte electrónico de síntomas.\nMensaje: Aporta evidencia aleatorizada sobre si la vigilancia digital de síntomas con alertas mejora desenlaces clínicos o de calidad de vida en cáncer de mama metastásico, un modelo de atención cada vez más explorado en oncología.\nNota: análisis sin acceso al abstract."
-    },
-    "0d398a8f292f": {
-      "resumen": "Vora N y colaboradores publican en JAMA Oncology un análisis sobre el problema de las cohortes superpuestas y el doble conteo de pacientes en los metaanálisis oncológicos. Interesa porque advierte sobre un error metodológico que puede distorsionar las conclusiones de revisiones sistemáticas ampliamente citadas en la toma de decisiones clínicas.",
-      "destacado": false
-    },
     "6697f5ac5566": {
       "resumen": "Los vestidos tejidos al crochet, furor en los años 70, vuelven esta temporada para combinar con sandalias planas o de taco en el verano 2026."
-    },
-    "8c8107bffed0": {
-      "resumen": "Siete vestidos de Massimo Dutti que serán tendencia en otoño, pensados para lucir elegantes y cómodos a partir de los 60 años."
-    },
-    "568323fe1f41": {
-      "resumen": "Vogue México presenta el nuevo IQOS ILUMA i en color Electric Purple, la última edición de color del dispositivo de tabaco calentado."
-    },
-    "953c2d7900a4": {
-      "resumen": "Cuatro propuestas de slow travel con Airbnb para recorrer México con calma y disfrutar también de su gastronomía."
-    },
-    "d0e681e8efa2": {
-      "resumen": "Los zapatos chatos peep-toe color café se imponen como la tendencia para combinar con vestidos retro a lunares este verano 2026."
-    },
-    "8aa112632971": {
-      "resumen": "Mía Cambiaso lució un enterizo con recortes y detalles metálicos, la apuesta más audaz de su look de verano."
-    },
-    "b67604831189": {
-      "resumen": "La Filarmónica de Buenos Aires celebró al Teatro Solís de Montevideo con un programa dedicado a Tchaikovsky y Mozart."
     },
     "5ce9e63b78ff": {
       "resumen": "Una guía con shows, propuestas gastronómicas y actividades culturales para aprovechar el fin de semana largo en Buenos Aires."
     },
-    "0f992a2ebcd9": {
-      "resumen": "Hairspray se consagró como la obra más nominada en los Premios Hugo, que distinguen lo mejor del teatro musical."
-    },
     "8c4f6de3034e": {
       "resumen": "El ciclo gastronómico \"Carne y Vino\", de Finca Bandini, llega a Buenos Aires con chefs y restaurantes invitados."
     },
-    "a77e710eb579": {
-      "resumen": "Se conocieron todos los nominados de los Premios Hugo al Teatro Musical y ya hay fecha confirmada para la ceremonia."
+    "b2e8dcccdc24": {
+      "resumen": "Entrevista de OncLive al Dr. Rodriguez sobre el fundamento científico para evaluar el bloqueo dual de LAG-3 (gen de activación de linfocitos 3) y PD-1 (proteína de muerte celular programada 1), dos puntos de control inmunitario, en cáncer de pulmón de células no pequeñas (CPCNP) no escamoso. Vale la pena mirarlo porque explora una nueva combinación de inmunoterapia para ampliar las opciones más allá del bloqueo único de PD-1/PD-L1.",
+      "destacado": false
     },
-    "486062426977": {
-      "resumen": "\"Volar Roto\" combina teatro y danza para contar una historia real, en cartel en Buenos Aires."
+    "2c7809f30485": {
+      "resumen": "Entrevista de OncLive al Dr. Carlino sobre los datos a 5 años del esquema adyuvante con intismeran autogén (una vacuna de ARN mensajero personalizada contra neoantígenos tumorales) más pembrolizumab (inhibidor del punto de control inmunitario PD-1) en melanoma resecado de alto riesgo. Interesa porque aporta seguimiento a largo plazo de una de las primeras terapias personalizadas basadas en ARN mensajero en oncología.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de datos a 5 años de seguimiento, probablemente del ensayo de fase II KEYNOTE-942; el título no detalla aleatorización, cegamiento ni número de centros o pacientes de este corte particular.\nPoblación: Pacientes con melanoma resecado (operado) de alto riesgo de recaída.\nIntervención: Intismeran autogén (vacuna individualizada de ARN mensajero contra neoantígenos tumorales, también conocida como mRNA-4157/V940) combinado con pembrolizumab (inhibidor del punto de control inmunitario PD-1), en el contexto adyuvante.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar la magnitud del beneficio en supervivencia libre de recaída u otros criterios a 5 años, ni el perfil de toxicidad a largo plazo.\nMensaje: Aporta seguimiento a largo plazo sobre una de las primeras estrategias de vacuna personalizada de ARN mensajero combinada con inmunoterapia en melanoma de alto riesgo, un enfoque que podría anticipar aplicaciones en otros tumores.\nNota: análisis sin acceso al abstract."
+    },
+    "89b32d60b364": {
+      "resumen": "Entrevista de OncLive a la Dra. Banerjee sobre la aprobación por la agencia estadounidense de medicamentos (FDA, por sus siglas en inglés) del esquema de iberdomida junto con daratumumab y dexametasona para el mieloma múltiple en recaída o refractario (R/R, es decir que reapareció o no respondió a tratamientos previos). Vale la pena mirarlo porque suma una nueva combinación con un fármaco inmunomodulador de nueva generación para una población con pocas opciones tras progresar a líneas previas.",
+      "destacado": false,
+      "analisis": "Diseño: Comentario/entrevista de OncLive sobre una aprobación regulatoria de la FDA (agencia de medicamentos de Estados Unidos); no es un estudio primario sino la cobertura periodística de una decisión regulatoria basada en un ensayo clínico previo cuyo diseño no se detalla en el título.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R), es decir que progresaron o no respondieron a líneas de tratamiento previas.\nIntervención: Combinación de iberdomida (fármaco inmunomodulador de nueva generación, familia CELMoD) con daratumumab (anticuerpo monoclonal anti-CD38) y dexametasona.\nResultados: No informados en el título ni disponibles sin acceso al texto completo de la nota o al ensayo pivotal que sustentó la aprobación.\nLimitaciones: Al tratarse de una nota sobre una aprobación regulatoria, no permite evaluar por sí misma el diseño metodológico, el tamaño muestral ni la magnitud del beneficio del ensayo que la sustenta.\nMensaje: Amplía el arsenal terapéutico disponible en mieloma múltiple en recaída o refractario, sumando una opción con un inmunomodulador de nueva generación combinado con el estándar daratumumab-dexametasona.\nNota: análisis sin acceso al abstract."
+    },
+    "cbac3321cff8": {
+      "resumen": "Carta de lectores publicada en The New England Journal of Medicine, firmada por Grossmann M y colaboradores, sobre el uso de parches transdérmicos de estradiol (una forma de terapia hormonal con estrógenos administrada a través de la piel) como alternativa a la castración farmacológica convencional en cáncer de próstata. Vale la pena mirarlo porque discute una estrategia hormonal alternativa que podría reducir efectos adversos cardiovasculares y óseos del bloqueo androgénico clásico.",
+      "destacado": false
+    },
+    "8fc27912d9ea": {
+      "resumen": "Respuesta de los autores (Langley RE et al.) a la carta de lectores sobre el uso de parches transdérmicos de estradiol en cáncer de próstata, publicada en The New England Journal of Medicine. Completa el intercambio de opiniones sobre esta alternativa hormonal al bloqueo androgénico convencional.",
+      "destacado": false
+    },
+    "3c8edd421821": {
+      "resumen": "El clásico teatral “La ópera de tres centavos”, de Bertolt Brecht y Kurt Weill, llega al Teatro Alvear porteño."
+    },
+    "f247373b9f26": {
+      "resumen": "El festival español LOS40 Primavera Pop desembarca por primera vez en América Latina, con sede en Buenos Aires."
+    },
+    "bce649aefe94": {
+      "resumen": "H&M lanzó una colección de blazers, jeans y camisas pensada para armar un guardarropa cápsula."
+    },
+    "bf96072488ae": {
+      "resumen": "Siete tendencias vistas en las pasarelas ya se pueden comprar en las tiendas para vestir el otoño 2026."
+    },
+    "32c8e067de10": {
+      "resumen": "Una editora de moda adelanta las tres compras que va a estrenar antes de que termine agosto."
+    },
+    "c7d558e41cd1": {
+      "resumen": "Se conocieron los nominados a los Premios Hugo 2026, con Hairspray, Billy Elliot y Company entre los más destacados."
+    },
+    "a82c0a056e51": {
+      "resumen": "Cine, ópera, ballet, salsa, teatro y exposiciones gratuitas: la agenda cultural de Lima para esta semana."
+    },
+    "404ca5783513": {
+      "resumen": "Ni lacio ni ondulado: el peinado de los 90 que vuelve en 2026 por su aire sofisticado."
+    },
+    "acfb995f206f": {
+      "resumen": "Las prendas clave para la transición al otoño, del vestido infalible a los zapatos que reemplazan a las bailarinas."
+    },
+    "ad9b263c3636": {
+      "resumen": "Marta Fort reveló una anécdota insólita sobre las costumbres de su papá, el mediático Ricardo Fort."
+    },
+    "5951d4a52eba": {
+      "resumen": "Ferias, FIBA y propuestas para festejar el Día de la Niñez en Buenos Aires."
     }
   }
 }
