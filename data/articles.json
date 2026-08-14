@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-14T11:12:11.572974+00:00",
+ "generated_at": "2026-08-14T13:49:36.329853+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Trastuzumab Rezetecan Elicits High ORR in HER2-High and HER2-Low Salivary Gland Carcinoma",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWldmVC1tU1gwQ0J3dFFXdUxId1lLN0Y0MjQ5bUlodm9pOVhFMmZMT284WWpqOFBQVXBiRHZJXy1YSHdBVlRCUUNDaWJRRklvNjFyMWJDRlQ2eGMwcGN6MF9kcWNTQ29fV2p5b3lrZVVkZVpNci0zWkd3N2tJWk55d1ZVTkxnbTh6R2t4YmZSWEc3UUJBTGg1a3Y2TnVrLVBXVkd5Ry13TzJDbDJzZGlEYkZtbWg3ZlBiVFE?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-14T12:05:25+00:00",
+     "id": "9f6c12426ab2"
+    },
     {
      "title": "Dr Rodriguez on the Rationale for Testing LAG-3/PD-1 Dual Blockade in Nonsquamous NSCLC",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1J1T3ZNMGcwcjZuZDdoUW5QSTlDVGthcFBOTWVWT0F0aWxsbWw0LWtlcExESVIyRmNtUGYzbm1XUHBkMHQ3YzFiUUhSQk5HODNsbDhtbHU4ZTVxT2tocU1vQlh2ckJtZVRobzZ5cXNaNDd4X2cwUmJkVWlRZFJVUlhNRVBkSjBWYW50Q3hRWVJqTm5QWVBXYm9qbGJJRGFBMVpoSnZ1VE1HV1Yyc0YxelNqcHZ3UU0?oc=5",
@@ -14,18 +21,11 @@
      "id": "b2e8dcccdc24"
     },
     {
-     "title": "Dr Carlino on 5-Year Data With Intismeran Plus Pembrolizumab in Resected Melanoma",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEpMTVk1QVVZdmZiTGZkMnlwLWxPblVPTHVocHVWc1dyMFFpTmVUd0xadHZscGNIU2UwRk1HM1Qyc3dWMFlCYTFDVllKQVF3WVhOMDdtRG9lSjRieEZaTjdJaHRNeUtmZHFuUktSbGNjWFRyX2hkUWZRSFpYaEZMOVM5RzAySkQ2cnZ5MjlJWkQ1QjZtNHFXeXhaMUhWQW9OUG51Vld4MUIyeGFmY1dn?oc=5",
+     "title": "Where Iberdomide Plus Daratumumab and Dexamethasone Fits in the R/R Myeloma Paradigm",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUd5NmY5R3dMUHdWX2RGZUhET1l0NGxIV2s0Qjd3YTdnMnF0UXBTaTBtdXRHbHd6OHk4SDdubDVPa2ZQRDVqV0tlMWVzRW1MVld6Z3RHVWNMYk5uUmJpemdPTE1GZUV1Z0xvc3NuSVZHalQtc2U2U3M4MWtsWlNXSzh5NV9oVlJIalkwc25RVUdLeG44VVFOUmZRR0o0Q1N6RGJuTGwzWFRudkV3UTZUYUFwVk1OUQ?oc=5",
      "source": "OncLive",
-     "published": "2026-08-14T02:01:17+00:00",
-     "id": "2c7809f30485"
-    },
-    {
-     "title": "Dr Garg on a Phase 3 Study of Proton Therapy in Head and Neck Cancer",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjBxUldRdWtLQkJHWTdRc0VmNmVlSG55dXJtZ0xnMFY4c291UUR3YWtFclJGbjdYVTdtS1JONWdiTkFFbkRNSThjeFVMOEh5ay1BRUxsaW5GTVRyRjNXUDB2dzQ4MXU3ZzlUaVRXMkFUNlZ4YmRoSmZvVkJoZnV1dmFUX3NwNzVqalkyY1BzNzBPUl9MYXg4WGt6Z0s2QQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-14T01:41:18+00:00",
-     "id": "e74502c1e255"
+     "published": "2026-08-13T23:49:27+00:00",
+     "id": "480eaabaa45f"
     },
     {
      "title": "Darolutamide Plus Goserelin in AR-Positive Salivary Gland Carcinoma",
@@ -49,38 +49,6 @@
      "id": "4739048c5930"
     },
     {
-     "title": "Redefining Progression in a Rapidly Evolving Therapeutic Landscape",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593813/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Vasan N et al. · JAMA oncology",
-     "id": "3e9b1753d2e9"
-    },
-    {
-     "title": "Oral Ulcers in a Patient With Myelodysplastic Syndrome",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593812/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Torres-Saavedra F et al. · JAMA oncology",
-     "id": "ca6ee5a8a9f8"
-    },
-    {
-     "title": "Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593785/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Shaver AL et al. · JAMA oncology",
-     "id": "5560b043d95b"
-    },
-    {
-     "title": "Managing Metabolic Syndrome and Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593778/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Marshall CH et al. · JAMA oncology",
-     "id": "02706adc0cac"
-    },
-    {
      "title": "COMBI-I: Long-Term Overall Survival With Spartalizumab Plus Dabrafenib and Trametinib in BRAF V600-Mutant Advanced Melanoma",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42585631/",
      "source": "Journal of Clinical Oncology",
@@ -95,6 +63,22 @@
      "published": "2026-08-12T00:00:00+00:00",
      "copete": "Kinslow CJ et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "a39c08ada4ce"
+    },
+    {
+     "title": "Forty",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42579837/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Berthaud FM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "e2319d4dd180"
+    },
+    {
+     "title": "Neoadjuvant Intralesional Daromun (L19IL2/L19TNF) in Resectable Locally Advanced Melanoma: An Update on the Efficacy and Safety Results of the PIVOTAL Phase III Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42579833/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Hauschild A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "4e0690144d52"
     }
    ]
   },
@@ -104,9 +88,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Tracee Ellis Ross Wants You To Have It All",
+     "link": "https://www.vogue.com/article/tracee-ellis-ross-wants-you-to-have-it-all",
+     "source": "Vogue",
+     "published": "2026-08-14T13:39:57+00:00",
+     "copete": "Curly, straight, or styled—the actor and entrepreneur shares her love for textured hair and how Pattern Beauty's newest collection supports beauty play.",
+     "id": "a8dc83ac41af"
+    },
+    {
+     "title": "Sassa de Osma adelanta las tendencias de otoño de las clásicas en este look con pantalón y mocasines",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWZLdV9lc2VPOUNvVjI5X24xYTlyWnJKNWhTX1FXVzJyYlJnVC1MaE02SU91YzA1cEgxWE5OVzZLdUcxUGVxcVhwVHlOMDVON29mdUpmaG1zZ29LYzM1NUcxR2tuM1RhNkRoMHhBWnJwTzVaMTAxOGt5a01RcmExY0NOZFVpYmtUODBveHlmZUp2bG9nbVhiT0xETFlKZENibi01T1JqcnNpWGdXdjFMN1hrUE4?oc=5",
+     "source": "ELLE",
+     "published": "2026-08-14T13:14:26+00:00",
+     "id": "27953a30e76c"
+    },
+    {
+     "title": "El vestido de playa con el que la duquesa de Alba conquistó Marbella en 1973 vuelve a ser tendencia 53 años después",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU5UQnVsTHhSU2tONE5mUnBzOU1FYnZZVEkyRDZva2FZclNyTmZfSlNVZGJlSzRYWjZwSEdjcjY3TURsTDZOWHZnWERYT3NJaEFKb2lKd2VZNXBTcUhWbGVETmhYVzk2S0d0dWxCUkhfb1l3b1U3aUVHY0JUWVZRY3FZUXlxaFdSbElzSDlWOWJxOXhIR21KTHNwbjZCNUxyU1IyU3lFSHVRRFlRRmJMbS1mUmVaWGduZHc?oc=5",
+     "source": "Harper's BAZAAR",
+     "published": "2026-08-14T12:08:18+00:00",
+     "id": "ab52a55e7cc6"
+    },
+    {
+     "title": "The Stars of London’s West End Hop a Chic Train (Reimagined by Baz Luhrmann and Catherine Martin) for an Opulent Fashion Trip",
+     "link": "https://www.vogue.com/article/baz-luhrmann-catherine-martin-reimagined-train-fashion",
+     "source": "Vogue",
+     "published": "2026-08-14T12:00:00+00:00",
+     "copete": "Brian Cox, Letitia Wright, Josephine Thiesen, Luke Thompson, Sadie Soverall, Harriet Walter, and more take the glamorous journey of a lifetime.",
+     "id": "32c0f40ddae0"
+    },
+    {
+     "title": "The Best Albums of 2026—So Far",
+     "link": "https://www.vogue.com/article/best-albums-of-2026",
+     "source": "Vogue",
+     "published": "2026-08-14T12:00:00+00:00",
+     "copete": "From the pop-star set to the up-and-comers, here are Vogue staffers' favorite albums of the year thus far.",
+     "id": "2d0251e5566e"
+    },
+    {
+     "title": "El estampado vichy sigue siendo tendencia y Zara lo confirma con estas camisas (que ya están casi agotadas)",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUjVhVDRmT182WlJSUGlaVTZHTjVGNjM0dDBLdWZ0dnYyMkktaXVNQjdkUjUxOFpQSWtVQU1TZllGTEpzVVNjTXZMUGh4MGhYRjRrWlVaNTRHMGI4Q3RScEEzejVwbFBBcHRxenItdGFTdUFndExHWEVpbHdCS2JQS2s1b0xNeUlYUFZPU0hQdVJfZEdzeDlQLVpjdlFrRXdKbWFEVWhYWdIBrAFBVV95cUxNWGF4bzEtbHpSYlVYX1RxZ2hBVUNOV0JsaHRiVFp4YUhVTlJMUmlLS3hhOEUtUV9DRzVwNG12U0tYN0lQdVZPMk1zbWttWXE4X0puQUNGb0F4eUVGN29wRjR2N0FGQ2dDNTVsMWlwc2JmdmcyTW1NWlp5NDVORGZFeHZvMzNzSlVaN1BQdzdjamxxcURFdDlyU2tBUHJUdlJSeXhSYnlaU1NmT0I1?oc=5",
+     "source": "Mujerhoy",
+     "published": "2026-08-14T11:08:06+00:00",
+     "id": "395c7455d510"
+    },
+    {
      "title": "Zara y Mango adelantan las tendencias en vestidos de septiembre y hemos encontrado en su catálogo varias opciones de confección sublime",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONFZPNVZNQ0JzNTBBRlRPTmtTRW1fVzdLS0xnYW9CWVFOU2c3UE9pWjJpT0U4d3lWMVJld3lzdXlmZXpqcHU4bTVZbzgxNG1lSjJNQ1E1NVB4RmhqOGotaHJOLVpRYlR3dGJ1QVhvYnItOVlha0c4UFdDRk42akszQ015bG5qYVEtLTVkck1zUS05bk1wRkk3NldKcC1IMWdRZWtLZGFxa2lHUGd6REJ2aldB?oc=5",
-     "source": "Cosmopolitan",
+     "source": "cosmopolitan",
      "published": "2026-08-14T11:08:05+00:00",
      "id": "033806b5cd78"
     },
@@ -126,51 +155,6 @@
      "id": "8f5c248433f7"
     },
     {
-     "title": "De Ingrid de Noruega a la princesa Leonor: las zapatillas de tendencia que conquistan los armarios de las jóvenes 'royals' este verano",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkxXd3NiWTRzQ2VCNmtzNGZkX1E3UkhYeVNyV09DejZHbGVJY1ZEQ291UFdocXVNRXZ6Zng4TFpZNkMzcFhOWG1iaThWT1ptcV9uVlB1OFFJbElZdFUtM3U2TWRjY2dNMzBsSXI0OUsyVlZFdjNrVWtCMGhvUmFZR2ZWVjR4bzVLZ3d3S0FCU0ZYZGlvc2NHY1ZUV1V0bnc?oc=5",
-     "source": "HOLA",
-     "published": "2026-08-14T10:18:00+00:00",
-     "id": "657d1517e614"
-    },
-    {
-     "title": "7 Airbnbs in British Columbia for a Weekend in the Pacific Northwest",
-     "link": "https://www.vogue.com/article/airbnbs-in-british-columbia",
-     "source": "Vogue",
-     "published": "2026-08-14T10:00:00+00:00",
-     "copete": "Heading to the Pacific Northwest? An Airbnb in British Columbia puts you right in the middle of the province’s lush nature and rugged terrain—here, seven to consider booking.",
-     "id": "ce5388ea7dcb"
-    },
-    {
-     "title": "The Best Jewelry Brands of 2026, According to Vogue’s Jewelry Director",
-     "link": "https://www.vogue.com/article/best-jewelry-brands",
-     "source": "Vogue",
-     "published": "2026-08-14T10:00:00+00:00",
-     "copete": "Shop the best jewelry brands from our designer jewelry labels; the thrill of discovering a new name is almost as good as finding that perfect piece of jewelry.",
-     "id": "61834e53c418"
-    },
-    {
-     "title": "Dua Lipa Supersizes the Vacation Tote Bag—Airline Restrictions Be Damned",
-     "link": "https://www.vogue.com/article/dua-lipa-supersize-vacation-tote-bag",
-     "source": "Vogue",
-     "published": "2026-08-14T09:58:59+00:00",
-     "copete": "Queen of La Vacanza as a lifestyle, Dua Lipa knows nothing should ever get in the way of a good travel look.",
-     "id": "432d41dd8abb"
-    },
-    {
-     "title": "¿Por qué estoy enganchada a la cuenta de Alison Loehnis, la ejecutiva americana más estilosa y reina del quiet luxury?",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BNHZsZDdFdjJWRVpfMTNDTHE3bW9MQlJzVWUzbVB5bXJJWXppMFVjYmg0V2k5Tk5NR09wLW0xQzNkRGJ0Nnc4WDVjZDdtLW96VjlkMnFRVHlDVFc5dGNDb2dfQzJXYnMwUTd4VnBwWmlPc3RFYkHSAXZBVV95cUxNNldPeUd0bU5PblIxZUpLWlFmakdWUUhMWkhVSkx6a3VnSFJfT1NkaE1BXzMxVTdaUGVreFA3Q2YycGh3UWhaNkNOU0FXX1pUWmYxZV9Fb2JEUUhuVUtzLS1NZWQ4cHNSNHpmX1U1bEhZWnJ4bEZB?oc=5",
-     "source": "Telva",
-     "published": "2026-08-14T09:25:13+00:00",
-     "id": "ad0b2154d14a"
-    },
-    {
-     "title": "Ni pelo lacio ni ondulado: el peinado tendencia de los 90 que vuelve este 2026 por ser más sofisticado y elegante",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkp6U1hLRHc5ZE8wRTNzY3dONENCLTd2LWNycm5pYS1KNC1sSHVSUGJZVXgyMDBIeF9fVlc5UTFrQnBRZjdfYkV3MTd1U0JoNEhTNEFiRW83NkZ4eHcyOWtEamlDN0ZmS1d3VHktdHBhaE93M2R3cTd1bm9ZQmw5MVZoUlNwRzlXaXQ5bzJaOGtWMnhqMno1OHNhZmhUMmY3bERtT3p6LUJtRFBManhUTHdhOU11SVd5dUtDV2tkc2M4UEw0WHd0U3M3SDZjVGJwOGFrMHdSVm5oUDhPZkhEckZyc3ZCNE5mTnl0UWdveTBKZ9IBhgJBVV95cUxQOFBRWnM3OWowSVBBTVdPaVJvZmtXVUt5S0lGd0pscXZCUGR1VjJON004d2pSY1VPZ1ZmUUV1NktEdFNjNjdCbkg2VldFNzZLWGhUbC02ZWJmb3FUQUNVTDZsWmxTM1BqNzNqTEVpaUJQWXp3T1gtYlQ2eHlFdUJNckcyVHRQUGNBQXlLZ1EzWlEyTUVZSUpjNkxNUldmZkpJdU95THhGcnFmRU1CQ2FBWWxtZllKYjQzSWtIVlFacHN1R0ZPT2xVS19YUnJvLUVmQ3JqVEJUN3pycFJoZ29tNmNZQWZ2STd0Mm9STGpKekE5dzZrSDVjeTFYbGpodmlsNWRWM2FR?oc=5",
-     "source": "TN",
-     "published": "2026-08-14T07:32:17+00:00",
-     "id": "404ca5783513"
-    },
-    {
      "title": "Con los blazers, jeans y camisas de esta colección de H&M podrás tener (finalmente) tu armario cápsula",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRU09fNVJlaTZnZFVtME4xSmhsZzRGTEFrNi0zVkFxTlBrUEl3a2NCeUdSRlpMR1NOV1lnUGtYa1BxTS10QkhHdGViOW9HM2RPbVJzeWgtRXZJQQ?oc=5",
      "source": "Vogue México",
@@ -185,100 +169,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Brian Lanzelotta confirmó que seguirá con su emprendimiento luego de ser estafado: “No me puedo dejar vencer”",
-     "link": "https://www.infobae.com/teleshow/2026/08/14/brian-lanzelotta-confirmo-que-seguira-con-su-emprendimiento-luego-de-ser-estafado-no-me-puedo-dejar-vencer/",
+     "title": "Un legislador kirchnerista presentó un proyecto para declarar a Martín Cirio como Personalidad Destacada de la Ciudad",
+     "link": "https://www.lanacion.com.ar/politica/un-legislador-kirchnerista-presento-un-proyecto-para-declarar-a-martin-cirio-como-personalidad-nid13082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-14T13:49:22+00:00",
+     "copete": "Federico Mochi, del espacio Fuerza por Buenos Aires, aseguró que el youtuber realizó un gran aporte a “las nuevas industrias culturales”",
+     "id": "1de8e6192308"
+    },
+    {
+     "title": "Después de contar que tiene TDAH y Síndóme de Tourette, Robbie Williams reveló que es autista: “Eso explica muchas cosas”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/despues-de-contar-que-tiene-tdah-y-sindome-de-tourette-robbie-williams-revelo-que-es-autista-eso-nid14082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-14T13:45:14+00:00",
+     "copete": "El cantante británico de 52 años reveló, además, que convive con pensamientos intrusivos y que siente pánico cada vez que tiene que enfrentar una gira",
+     "id": "7c897d2c5071"
+    },
+    {
+     "title": "Marta Fort sorprendió a Mario Pergolini al revelar uno de sus trabajos: “Tenía un sueño y lo cumplí”",
+     "link": "https://www.infobae.com/teleshow/2026/08/14/marta-fort-sorprendio-a-mario-pergolini-al-revelar-uno-de-sus-trabajos-tenia-un-sueno-y-lo-cumpli/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-14T10:38:00+00:00",
-     "copete": "El ex Gran Hermano contó que la reacción de sus allegados y seguidores lo impulsó a continua, después de haber sido víctima de una maniobra que le costó 17 millones de pesos",
-     "id": "77eb814d30ce"
+     "published": "2026-08-14T13:40:24+00:00",
+     "copete": "La influencer dejó atónito al conductor al contarle cómo uno de los juegos habituales de su niñez se transformó en una experiencia movilizante",
+     "id": "0ec9c722d082"
     },
     {
-     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este viernes 14 de agosto de 2026 en Argentina",
-     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-viernes-14-de-agosto-de-2026-en-argentina_0_hm0k9LfqRZ.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-14T10:15:02+00:00",
-     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
-     "id": "cdbd179098d2"
-    },
-    {
-     "title": "Jimena Barón se sinceró sobre sus problemas de pareja con Matías Palleiro: “Era una loba y ahora una iguana”",
-     "link": "https://www.lanacion.com.ar/espectaculos/jimena-baron-se-sincero-sobre-sus-problemas-de-pareja-con-matias-palleiro-era-una-loba-y-ahora-una-nid14082026/",
+     "title": "Foo Fighters vuelve a Argentina en 2027: cuándo es el show, cuál es el precio de las entradas y cómo comprarlas",
+     "link": "https://www.lanacion.com.ar/que-sale/foo-fighters-vuelve-a-argentina-en-2027-cuando-es-el-show-cual-es-el-precio-de-las-entradas-y-como-nid12082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-14T10:08:14+00:00",
-     "copete": "Con la sinceridad que la caracteriza, la actriz hizo catarsis sobre las dificultades para tener intimidad y abrió el debate",
-     "id": "7710d862fda1"
+     "published": "2026-08-14T13:39:38+00:00",
+     "copete": "La banda liderada por Dave Grohl se presentará el 25 de febrero junto a Usted Señálemelo y Pacifica; la venta general ya está habilitada y los tickets parten de $115.000",
+     "id": "468ce37afd33"
     },
     {
-     "title": "De ver a su padre trabajar en los sets a compartir pantalla con él: la historia del heredero de Hollywood",
-     "link": "https://www.lanacion.com.ar/espectaculos/de-ver-a-su-padre-trabajar-en-los-sets-a-compartir-pantalla-con-el-la-historia-del-heredero-de-nid12082026/",
+     "title": "Así es la participación “oculta” de Lali Espósito en la serie de Moria Casán",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/asi-es-la-participacion-oculta-de-lali-esposito-en-la-serie-de-moria-nid14082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-14T09:41:27+00:00",
-     "copete": "A los 40 años, Wyatt Russell es uno de los nepo babies que resuena en Hollywood: fue convocado por Steven Spielberg y se sumó a Marvel con un icónico personaje que volverá en Avengers: Doomsday",
-     "id": "9f4d639e6e79"
+     "published": "2026-08-14T13:01:00+00:00",
+     "copete": "La actriz y cantante, que había sido considerada para interpretar a la One en su juventud, tiene un cameo en el primer episodio",
+     "id": "700b8deb8b44"
     },
     {
-     "title": "Sabrina Rojas se sinceró sobre cómo es hoy su vínculo con Luciano Castro: “Yo no suelto”",
-     "link": "https://www.lanacion.com.ar/espectaculos/sabrina-rojas-se-sincero-sobre-como-es-hoy-su-vinculo-con-luciano-castro-yo-no-suelto-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-14T09:27:26+00:00",
-     "copete": "La conductora reflexionó sobre la relación que mantiene con el padre de sus dos hijos y dio detalles de la dinámica familiar que construyeron a pesar de los escándalos mediáticos; descubrí los detalles",
-     "id": "0a534f27f688"
+     "title": "Las postales de la escapada de Nicole Neumann y sus hijos a San Martín de los Andes: “Nieve en familia”",
+     "link": "https://www.infobae.com/teleshow/2026/08/14/las-postales-de-la-escapada-de-nicole-neumann-y-sus-hijos-a-san-martin-de-los-andes-nieve-en-familia/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-14T12:50:12+00:00",
+     "copete": "Entre el equipamiento colorido, momentos de complicidad y paisajes blancos, la modelo aprovechó el clima invernal para vivir una experiencia inolvidable con los suyos",
+     "id": "8554c25cfb8c"
     },
     {
-     "title": "Fue la mujer más deseada del mundo, transmitía sex appeal a los argentinos y ahora no le alcanza para vivir",
-     "link": "https://www.lanacion.com.ar/espectaculos/fue-la-mujer-mas-deseada-del-mundo-transmitia-sex-appeal-a-los-argentinos-y-ahora-no-le-alcanza-para-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-14T09:24:59+00:00",
-     "copete": "Ilona Staller, conocida mundialmente como Cicciolina, enfrenta hoy una realidad económica compleja tras décadas de fama; su historia mezcla espionaje, política, escándalos judiciales y un legado cultural imborrable en el país",
-     "id": "fd49831652d7"
-    },
-    {
-     "title": "Mel Gibson no para: por qué va a hacer Arma mortal 5 con Danny Glover con Alzheimer, y dividió La Resurrección de Cristo en dos",
-     "link": "https://www.clarin.com/espectaculos/mel-gibson-va-hacer-arma-mortal-5-danny-glover-alzheimer-dividio-resurreccion-cristo_0_znJbPQFVSe.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-14T09:02:50+00:00",
-     "copete": "A casi 30 años de la última \"Arma mortal\", dice que su guion es el mejor de la saga. Y ya filmó la continuación de \"La Pasión de Cristo\": cuándo estrena sus dos partes.",
-     "id": "a3ae66f011ff"
-    },
-    {
-     "title": "Qué hacer en Buenos Aires este fin de semana, más de 60 planes para disfrutar del viernes 14 al lunes 17 de agosto, con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://www.clarin.com/espectaculos/hacer-buenos-aires-fin-semana-60-planes-disfrutar-viernes-14-lunes-17-agosto-recitales-teatro-cine-streaming-muestras-gratis_0_omkq7qyd95.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-14T09:00:51+00:00",
-     "copete": "Desde teatros y estadios hasta el sillón de casa: planes para todos este finde en la ciudad. Este viernes, sábado y domingo hay una gran oferta de espectáculos. Para salir o ver desde el sillón.",
-     "id": "80b82cda9589"
-    },
-    {
-     "title": "Nahuel Pennisi y un regreso al origen: el viaje a Tucumán para homenajear a Mercedes Sosa que se convirtió en un recorrido por su propia historia",
-     "link": "https://www.clarin.com/espectaculos/nahuel-pennisi-regreso-origen-viaje-tucuman-homenajear-mercedes-sosa-convirtio-recorrido-propia-historia_0_AA6mzWJlSo.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-14T09:00:49+00:00",
-     "copete": "El músico estrenó un disco tributo a La Negra, con temas de la gran cantora argentina. En una charla íntima, repasa la infancia en una familia atravesada por la música, sus años como artista callejero, la importancia de las raíces y la…",
-     "id": "118fff5c14fd"
+     "title": "El romántico mensaje de Martina Vignolo a Matías Alé: “Gracias por enseñarme a crecer”",
+     "link": "https://www.infobae.com/teleshow/2026/08/14/el-romantico-mensaje-de-martina-vignolo-a-matias-ale-gracias-por-ensenarme-a-crecer/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-14T12:18:32+00:00",
+     "copete": "En el día del cumpleaños del actor, su esposa lo homenajeó con una carta abierta en la que destacó la convivencia y el aprendizaje mutuo en la relación",
+     "id": "405f76db0f45"
     },
     {
      "title": "Arturo Puig y Juan Leyrado le dieron voz a San Martín y Sarmiento en El Libertador: “Fue emocionante verlo completo”",
      "link": "https://www.infobae.com/teleshow/2026/08/14/el-libertador-como-infobae-recreo-con-inteligencia-artificial-el-encuentro-entre-san-martin-y-sarmiento/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-08-14T05:00:00+00:00",
+     "published": "2026-08-14T11:45:04+00:00",
      "copete": "El cortometraje hecho con Inteligencia Artificial por Infobae sobre el encuentro entre los dos próceres fue presentado en el Aula Magna de la Facultad de Derecho y se estrenará el próximo 17 de agosto. La palabra de los actores luego de la…",
      "id": "e3e418efec05"
     },
     {
-     "title": "Flor Torrente anunció el cierre de su negocio después de 13 años: “Es bastante triste”",
-     "link": "https://www.infobae.com/teleshow/2026/08/14/flor-torrente-anuncio-el-cierre-de-su-negocio-despues-de-13-anos-es-bastante-triste/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-14T03:58:42+00:00",
-     "copete": "La firma de indumentaria y accesorios veganos, creada en 2013 por la actriz junto a Agustina Bruzon, comunicó la decisión a través de un video. Su mensaje",
-     "id": "d99c7ae362a2"
+     "title": "Lo más visto en Netflix Uruguay: las 10 películas más exitosas del momento, con “La última casa” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-uruguay-las-10-peliculas-mas-exitosas-del-momento-con-la-ultima-casa-a-la-cabeza_0_TE2qy4InKg.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-14T11:41:18+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Uruguay. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "76037c7c6a99"
     },
     {
-     "title": "Mario Pergolini contó cómo fue su reunión con Adrián Suar por el futuro de su programa: \"Yo iba entregadísimo\"",
-     "link": "https://www.infobae.com/teleshow/2026/08/14/mario-pergolini-conto-como-fue-su-reunion-con-adrian-suar-por-el-futuro-de-su-programa-yo-iba-entregadisimo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-14T03:49:27+00:00",
-     "copete": "El conductor reveló los detalles de la cena que compartió con el gerente de programación del canal y contó cómo intentó negociar",
-     "id": "5c4e6393911a"
+     "title": "Lo más visto en Netflix Venezuela: las 10 películas más exitosas del momento, con “La última casa” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-venezuela-las-10-peliculas-mas-exitosas-del-momento-con-la-ultima-casa-a-la-cabeza_0_g9P9xIXJb1.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-14T11:41:18+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Venezuela. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "bf8714e1dd90"
+    },
+    {
+     "title": "Lo más visto en Netflix Estados Unidos: las 10 películas más exitosas del momento, con “La última casa” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-peliculas-mas-exitosas-del-momento-con-la-ultima-casa-a-la-cabeza_0_Oh2ZwxbmG4.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-14T11:41:16+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Estados Unidos. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "351355cc7af9"
+    },
+    {
+     "title": "Lo más visto en Netflix Paraguay: las 10 películas más exitosas del momento, con “La última casa” a la cabeza",
+     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-paraguay-las-10-peliculas-mas-exitosas-del-momento-con-la-ultima-casa-a-la-cabeza_0_yvJnZsHOpR.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-14T11:41:15+00:00",
+     "copete": "Netflix actualiza cada semana el listado de las mejores películas en Paraguay. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+     "id": "1262c6981419"
     }
    ]
   },
@@ -288,53 +272,46 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Fin de semana largo con frío, nubes y lluvias aisladas en el AMBA: cómo estará el clima para el Día del Niño",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTJmVVJOV3hsZ1FMWV9JUnZ1RWY2cG5aNmxQWlJOa2dIMEo2aG1NLWlfU3RhX19VMGdQZmZ6QTdNUTVhdGlrcnBrbHJBZzFaUDRKbXhWU2F4bnYyX0h1aGl1aHNRdFdtOExKMm01TUNoalNoUzR0Z2NLc0ViaG1Kai1NNzN5WEtSZmxSclB3N3UxeVVMb3VHOHY2WlEzMFNRRGgtUVQtcTRESnQ5R1huc01PSEl6M3B4bml6UUswNjFKT0VyQlZSSmgtWmo1dExDQXJjSWxMR1J6LW82eTdkWml3?oc=5",
-     "source": "Canal26",
-     "published": "2026-08-14T10:00:00+00:00",
-     "id": "85e97e1c1eca"
+     "title": "Día del Ron: 5 bares y restaurantes para descubrir nuevas recetas en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3AySXdRMUNGV0xTWUVOY1NUWGZPd1R0MF8ydVJXNVl2Q09QTkltSDJ1Z2MtRUg5Si00Y000cVFHOWI1cUZrVUd3bU9BZG9vdW44eW56bHJqa2RJLS0yWlJDako4N2lSVDZwb0ZjZXZiVi1GSnptQy1HWVd6ZkFSNTVKQ0luN2pOSm1IUTJ3TzFPdVlEYzM3ZjNzZk0tcXFXTkswUEFKZE90Z3NiZ1NQMjhB0gHGAUFVX3lxTE5zcWpuTktZUnVSQmRDeWoxdHFzVTRrR1RHbkxXS0FDekxjcGNMSGFVSW02Y2hucFQyNlhKYzVFZHlQQ3VyTHY2djFOYXJmYjdQOEJJSmpQWnNLLWxoTWRObWVybG82a09BaHp6NmQzWWt0aFg2dEdXNV9ncDFvM0ZQOHhWb3hpa2ZiS01WOWs4Mk80eXhveXpRMWdrTkFZQ0xpSTRZb0NFVUhBTEJPMnlVLTY2VjQ4alB0OGJRbWdUdHoxSmlqUQ?oc=5",
+     "source": "El Destape",
+     "published": "2026-08-14T12:46:21+00:00",
+     "id": "e5b37e14af44"
+    },
+    {
+     "title": "Premios Hugo al teatro musical: se conocieron los nominados de la 16ª edición",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckdrZ1RlY1NEUzNpVnBsMGxUemtmMnBRZ0ItNmVOTXR0X3NqWXN4ZDRHTXRlUFFJckxnNUJrN0VobkxveVVkdjRtQmhMeEZES0x5OUpOanItdy16eER4XzFhZ3VlTFI5YTNfbG05RUFjWXZMSHVjc1pPVmRJampiSnBJaTI5XzNWZDU5WmJ6VElvRHJIcEQ5V3VYcGxIVXBnQ2xrZGpxbU9XUnUzRDFGcEJKOVRGcnN40gG-AUFVX3lxTE11UjVkaWt3WmR3R0lZN011el9jR1otX05HajNqaE1CSV9qMG5weG1uQzdLWVRjYmVfTEN3UGVVckVwckZVMEhsNFJXUHQwTGdZQXkyTGRMb2hCRTdGY3FpVVpXZTRJVHhfUEEtMGZKVnA5LVBZbDdPdkEwWVBCREpGbF84M1EzbXR1UnNaUjkwd1pWSW5kM1lKRkRWaGgyT3pZYWJKY29aVG4xb2FYS0swU1dVR1ZsdW0yeTZsU2c?oc=5",
+     "source": "Ambito",
+     "published": "2026-08-14T12:12:00+00:00",
+     "id": "ed0c708d213b"
+    },
+    {
+     "title": "Finde XL en Buenos Aires: dónde ir y qué hacer para disfrutar del Día del Niño en familia",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTDBnWFFNU3F3VEF2cHBVaVdPUVpLZzBua3YwaElzQXNjdjRZOXUxb0JUc1I3Y2ZOV2NnWS1YTDI3WUlNY19NUTBSbDBwRkRzU0w2VDFhZnZJNkwyTUFNN3JuQkJjNzhYaTdSOXkxRW5JVWc0YWhEanhNVGJ4c3VKaEdHSHlXbUhnbUNNRTN5OG5uODJZaFc0ZGY5dUVMUDVTVENWN2lkWTBoMXhHeTZKQmU3TUE0N1I3dDRCWnR3VkljN3hpaE51b0FYdjBkM3F3?oc=5",
+     "source": "Meteored Argentina",
+     "published": "2026-08-14T12:02:00+00:00",
+     "id": "79409d68fedd"
+    },
+    {
+     "title": "A más de 100 km de la Ciudad de Buenos Aires: el pueblo ideal para celebrar el Día del Niño con una torta gigante, historia y tradición",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUGN2eko4d0JfdkZ2ck41MWZvVGNZVnR0LV9kUEhYNTEtMFBVM0h0amN0MGY5aDV1eVpQS0pyeHJ5M1U0RTZLTmRpNUR2S18xb2hqUjNJSFpNR3I3Mk5OR1hIdk85Qjd6djByTDlxQ2g2TEplR2FWZlZRT1hrdjdfdWgwT2g1emVJSDk5TjVLVnhfSXdqMW43MVpMN3ZOcVUwdWlnZ0pEMnhfVmZKSzYybHVJcUN4Z3c2LUs3d2daTS1peks3T3NrU01RMDJqUVNUM1l2RTV6eThLYW1zSzZYdzM3dVNPZkc0aXVtU3lkcUZ6TXN1UGppdFVfYmdkY2hUSHc?oc=5",
+     "source": "La 100",
+     "published": "2026-08-14T12:00:00+00:00",
+     "id": "360bcb8eb07f"
+    },
+    {
+     "title": "Los mejores planes para el fin de semana del Día del Niño en Buenos Aires: entre conciertos, cine y juegos",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUXpBbnpoRGRHX1pmM0FBdkxMRFY0LV9QSEduejJSNVJWRjcwNERzR1R4dUM2NU0tc1V5T3YyV0tLdVRndkVoNW9UckE5cVh2Y0ctQ2tLTXRaQVRjdFpac1hlTG1sYWU4a2Z3SnRDWENjbUI5T3RBdVRpZlQyclllZm80d1QyamNRUklvNF9NVld0ZTZGRjlwdmZqVm1wcnNTRFozMm1QakQyR0NPTEpxMldTRk9hNFYzSlNBTXVLcWVPOVhCMzlnUFBWSENwQTN4b1JTbV9TdmJ4NzA?oc=5",
+     "source": "La 100",
+     "published": "2026-08-14T11:45:00+00:00",
+     "id": "d4e22a13e9f2"
     },
     {
      "title": "Qué hacer en Buenos Aires este fin de semana, más de 60 planes para disfrutar del viernes 14 al lunes 17 de agosto, con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZzFSNVl3UWRPVW5XZ0E3RWQ0ZmVlVzcxSi1KQlRVS2ltOEd2a0Q1UFdVSk9wdEJRaks2MEQ3NUlKcjhfaGJpVV9ERWpkdmtReGtocDhIc0JzamJMUDdmZDN0N25HN3diR0x5cnNKWEprSVhpal9PT3M1b0dBQm5kTUxWdTRpLXFaemI1WTNVRUN4a25hTWF3V3Byc1hJWDdRbU14OWZxX1dQZ29zelFRMWwzSm5PbzZaNldiX3RPNjZpeF9HVjdTdHZZMkJldnpJQmlDV3FpZjNNU3JQYjgxaGNvWjc1V09OWUhUS1d2QVUxbW1DWnNkemFWcksydXR5NmFnQzlKanZPQdIBjwJBVV95cUxOV3gwaGNOckpfSnJYbG5TZnZ3Rm81aVV6QlVaTVhPVU9sR1I5WVJ5Y1FZNlNnU0NfQmhDMHBCTXdrd3FuV1g1OG56NnN6SUFrbTl1S1ZYY1RWcFUzWEw3dzhPUVFwdkhRSEpuZHZFeEFnYjgzeEV4dzNJSHJsaFhWNHFPRzQ0SlV2VnlNMFJqaXBtRm03Q2xrNmVnZ1RrR2tqT1JaSWVXNXFDZVl0QWdiN1hXam9jclFEQWpscS04dnBNMjVjczhpZGFTN3BvN1ZSODdRWElEX1laWnBYbWM4Q2ZsWmRWbXZjRHAwVjZpTk9NTURxNXNCQ2VoNEZaWjJhOGJTclRZODZ1Si1zWTNr?oc=5",
-     "source": "Clarin",
-     "published": "2026-08-14T09:00:51+00:00",
-     "id": "904439d7e68e"
-    },
-    {
-     "title": "Todos los nominados de los Premios Hugo 2026: Hairspray, Billy Elliot y Company, entre las más distinguidas",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVEI5dEwzT3VYV1JUZnBnN3RDNktRWDRiMlQyM3pyZ0p4Z0RlUmJQVVV0U1EtdGtzbW1vWmV4UkplMHlVLXFIUVF1NWIyaHhIaFh5WG0tTDVMQU1Oelc2NUt2akdSWE1SYXA0UmRkR3Z1a3VYRDFtQmdVZnNNdDI0SG5HaEtGUFZ0TW81STFKRm9UcWxmS0lFbjRRSEFtcWkxUzh4Vkh4TGh3ZlJhbWFJSlA4Q1U5ZjJZSy1IeWkzdk1XSjlyaDFoSXZLcmQxUjllMU0tZi1PTUlrTVJJQ2ZoMVdab9IB_gFBVV95cUxPRnJzd1BOa1hoeDZVaXRVaG5RQ2lyZUZVYUZuRVdJd1UxOURQenowaHdsNmE4UmRkNk12S2lheTU0QW5PeEQ0dWIxYzRlMXIxblhCRVFEdF9pWExkZDZsbkVPR0VoVFQyU0FJXzlucGlGRFFmby02T25Bb0J4YTlLZUVsWEpaTlNJcmZnOUYwc3ZCR2VQMkNiM19PbUFPOWREbl9WaGlYUjhnQ1ZYNWxDQ1F4RlhoQkZnWklKX2NhUko3bVR5dm9TenJMOFFpNWxZZnpGV01STU5xYU5aUWZpNkRkUG9LZ1MxbnhiZm12Um9zRnpvZXIzTjN0T0dydw?oc=5",
-     "source": "Infobae",
-     "published": "2026-08-14T00:53:00+00:00",
-     "id": "c7d558e41cd1"
-    },
-    {
-     "title": "Planes para el Día de la Niñez, ferias y FIBA en Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWWdfMFowSHhoYkt1VmN1OWU5LTNrdVVSUVVwZW0xakFPdDFBUmVkRGh5dElpOUN3Tkl3TUxuNklWM2M5NktYUE1CSlVYZ29SUzRxRHdLdzBxQXJiQ1VnVXM0VnZEVTdoVTk1emNiOTNSMEtCWHFrb2xiNXdVZEUxME5zMmFrMjBBVnlNMnh6YklLM1ZPdHE5MDJZa1plZmRyaEk0bW02ZEFrRlFKMzRjVXVrZkk3Zw?oc=5",
-     "source": "Identidad Correntina",
-     "published": "2026-08-14T00:07:25+00:00",
-     "id": "5951d4a52eba"
-    },
-    {
-     "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-     "source": "Infobae",
-     "published": "2026-08-13T23:53:07+00:00",
-     "id": "a82c0a056e51"
-    },
-    {
-     "title": "“La ópera de tres centavos” llega al Teatro Alvear",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNkQ1S3VJUjk2Rl91ODc4eWVpTHAxSDF6aFdONmdNSFdZbXFkcVA3VGxBd3N2SUpncWdYcGQtNEdnUGpMa3BSVkhmSGdWUzNLTkotODRta1dFanpjSnRIck1rbi1ucExRWElLOVNsR1NRYVB2SjJ4Q0JJYXotUQ?oc=5",
-     "source": "lavereda.com.ar",
-     "published": "2026-08-13T22:49:00+00:00",
-     "id": "3c8edd421821"
-    },
-    {
-     "title": "Qué hacer en la Ciudad durante el fin de semana largo: shows, gastronomía y cultura",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQTgyLThKUjVCbGE4SUd1cktQc0MxOGZVWXRHWnNIemc1ZlZLZ05abDlZVUZfZTRSWXNyR05BQndyb0duVTVDNTlCRDhveXhfSjVDSkdqMmZNRWpKYl9US05PUFhxWG9WQ1pLMS1tWDZSTFgtWFZ4cFpUSGFhaU50NTdkLU9ORUNnZXpUbjZneFpNbUd1dXRlTjd2ZnU3WjBUS3VDU09Mbk9KUnR0d1hNY09adUZxUmtrQWR5dGVLSWhmZ2dXVHZ2SVdqTllKR29nQl9iZU9BU2RPSUJ3UGpF?oc=5",
-     "source": "Border Periodismo",
-     "published": "2026-08-13T20:11:11+00:00",
-     "id": "5ce9e63b78ff"
+     "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcVY2Y2FVUHFMUmxTTmNOVjVENEhnOThCM3NEQlhkX0wxeGFGRnRoY200VHZROFRVUXlrU3E5Z2hkSjh5QUlEbF96VjFkaC1UWlh0RmgyM1dZQkFHRnFrTmZwZ1ExNTVwN2dMNk82RVFNdkxlbFctSGNZQ1Z6dDFlYzZYei1mOVVQSGNzVGFHUlhMMDJ4ZDBRYlU3bFMyWVhZYXl6b2FJMmdiS1NxQjdqbHU2ZW8xdXZReHZKSWNVcjZxZUdFbzA0LUZKNlV0VTdYVkh4UlFaVnBRUnRuTmdhdVRWOVVoeTJQQkQ0SmRaTWM1QUdaR2dDYVpwckY5ZkVoUTBpdnhtblRRNnBWR0FkbVdnNGM3Y2ctQklQaXFaLVloa0d0Y2NwNFJLeFZJTTUzbEFoV1FPU3g?oc=5",
+     "source": "radio3caseros.com.ar",
+     "published": "2026-08-14T11:20:21+00:00",
+     "id": "cb4f2b4c25cc"
     },
     {
      "title": "Finca Bandini lleva a Buenos Aires su ciclo “Carne y Vino” con chefs y restaurantes invitados",
@@ -342,13 +319,6 @@
      "source": "Perfil",
      "published": "2026-08-13T19:23:02+00:00",
      "id": "8c4f6de3034e"
-    },
-    {
-     "title": "Día de la Niñez: planes originales para celebrar con los más chicos en Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMi1uRHhpTDNJM3ZjVVJHNTRHdGplS2tScnNBWkVBRnhJZ1dzUk9BcGh4eDIwOVpraEpVdGdubUEtS3ptTHRhWThZZDVCWEhMXzBnRDlKMVhwVFVROGM3M092MkN0ZU9KcTEtX2laa2stYzFtaDhNdDAxVWcyazJBVnQ0ME54dy1ZeEMwRHU1N1VBTDZwOUJfQ2lSODV6STc0VzZ2YmEwTG9fdG9FYWlqbl9tajVxSnZBdEFyRDE3UHE2elEtODRPZ1E0Q3I?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-08-12T19:00:10+00:00",
-     "id": "fd5572f6cc1f"
     },
     {
      "title": "Cuales son las mejores papas fritas de Buenos Aires",
@@ -365,84 +335,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Javier Milei y sus medidas, en vivo: las repercusiones de la inflación de julio y el armado electoral de cara al 2027",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-inflacion-de-julio-y-el-armado-electoral-nid14082026/",
+     "title": "Victor Glover, astronauta del Artemis II: “Somos todos Homo Sapiens, sin importar de dónde vengas ni cómo te veas”",
+     "link": "https://www.lanacion.com.ar/el-mundo/victor-glover-astronauta-del-artemis-ii-somos-todos-homo-sapiens-sin-importar-de-donde-vengas-ni-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-14T11:03:56+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "8ed82c3fa633"
+     "published": "2026-08-14T13:49:14+00:00",
+     "copete": "Se trató de los primeros mensajes a la Tierra mientras realizaban la misión; el tripulante de la cápsula Orión reflexionó sobre las imágenes capturadas",
+     "id": "38038a263086"
     },
     {
-     "title": "¿Hasta qué edad conviene cursar un embarazo? La polémica que se reabre por el caso de la mujer que fue madre a los 62",
-     "link": "https://www.lanacion.com.ar/sociedad/hasta-que-edad-se-puede-cursar-un-embarazo-la-polemica-que-se-reabre-por-el-caso-de-la-mujer-que-fue-nid13082026/",
+     "title": "La reflexión de Aristóteles sobre la verdad: “En definitiva, tiene que ver con esa conexión entre el lenguaje o el pensamiento”",
+     "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-aristoteles-sobre-la-verdad-decir-de-lo-que-es-que-no-es-y-de-lo-que-no-es-que-es-es-nid14082026/",
      "source": "La Nación",
-     "published": "2026-08-14T11:02:20+00:00",
-     "copete": "Los médicos especializados en reproducción explican los riesgos asociados con la edad materna avanzada y también mencionan un dilema que crece",
-     "id": "2b3902ef1016"
+     "published": "2026-08-14T13:48:41+00:00",
+     "copete": "En una entrevista exclusiva para LA NACION, el filósofo Darío Sztajnszrajber profundizó en las nociones de la antigüedad frente a los desafíos de la posverdad",
+     "id": "9da7fdac2b27"
     },
     {
-     "title": "Lloviznas intermitentes y fuertes vientos: cómo estará el tiempo durante fin de semana largo en AMBA",
-     "link": "https://www.infobae.com/sociedad/2026/08/14/lloviznas-intermitentes-y-fuertes-vientos-como-estara-el-tiempo-durante-fin-de-semana-largo-en-amba/",
-     "source": "Infobae",
-     "published": "2026-08-14T11:00:52+00:00",
-     "copete": "Precipitaciones aisladas, cielo nublado y viento en CABA y alrededores. Las alertas amarillas por nevadas y ráfagas ventosas en la cordillera y el ciclogénesis en formación que podría afectar al Litoral",
-     "id": "31b1904e8b3e"
-    },
-    {
-     "title": "Harry Potter estará de regreso en los videojuegos: confirman el desarrollo de Hogwarts Legacy 2",
-     "link": "https://www.infobae.com/tecno/2026/08/14/harry-potter-estara-de-regreso-en-los-videojuegos-confirman-el-desarrollo-de-hogwarts-legacy-2/",
-     "source": "Infobae",
-     "published": "2026-08-14T11:00:00+00:00",
-     "copete": "Después de meses de rumores, Warner confirmó que el proyecto está en marcha y podría llegar pronto",
-     "id": "f1c014568703"
-    },
-    {
-     "title": "¿Quién le explica a Vargas Llosa? Del orgullo nacional al colapso, el viaje que Independiente jamás imaginó",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/quien-le-explica-a-vargas-llosa-del-orgullo-nacional-al-colapso-el-viaje-que-independiente-jamas-nid14082026/",
+     "title": "Envolver los billetes en papel aluminio: para qué sirve y qué beneficios tiene",
+     "link": "https://www.lanacion.com.ar/lifestyle/envolver-los-billetes-en-papel-aluminio-para-que-sirve-y-que-beneficios-tiene-nid14082026/",
      "source": "La Nación",
-     "published": "2026-08-14T10:56:59+00:00",
-     "copete": "¿Las malas administraciones llegaron primero o el germen fue la decadencia futbolística? Por donde haya empezado, la crisis de un gigante no encuentra piso, mientras desfilan entrenadores y presidentes",
-     "id": "e632f1b7ab3a"
+     "published": "2026-08-14T13:48:41+00:00",
+     "copete": "El método casero ganó popularidad entre quienes buscan conservar el dinero en efectivo y proteger los billetes de algunos factores del ambiente; cómo hacerlo",
+     "id": "189787676284"
     },
     {
-     "title": "Hay alerta amarilla por frío extremo, vientos y nevadas para este viernes 14 de agosto: las provincias afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-vientos-y-nevadas-para-este-viernes-14-de-agosto-las-provincias-nid14082026/",
+     "title": "Daniel López Rosetti, médico cardiólogo: “La dosis indicada de caminata rápida es llegar a 150 minutos semanales”",
+     "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-cardiologo-la-dosis-indicada-es-llegar-a-150-minutos-semanales-de-nid14082026/",
      "source": "La Nación",
-     "published": "2026-08-14T10:50:38+00:00",
-     "copete": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
-     "id": "dce205cf7aad"
+     "published": "2026-08-14T13:48:36+00:00",
+     "copete": "El especialista detalló cómo la actividad programada impacta en la salud mental; sostiene que el ejercicio físico actúa como una herramienta terapéutica efectiva para pacientes con cuadros de tristeza",
+     "id": "ab7c4aef1bb4"
     },
     {
-     "title": "Centroamérica avanza con un plan para agilizar fronteras y reducir costos logísticos",
-     "link": "https://www.infobae.com/movant/2026/08/14/centroamerica-avanza-con-un-plan-para-agilizar-fronteras-y-reducir-costos-logisticos/",
+     "title": "La Policía dominicana detuvo a “Polote” por una serie de arrebatos en la vía pública",
+     "link": "https://www.infobae.com/republica-dominicana/2026/08/14/la-policia-dominicana-detuvo-a-polote-por-una-serie-de-arrebatos-en-la-via-publica/",
      "source": "Infobae",
-     "published": "2026-08-14T10:45:00+00:00",
-     "copete": "La iniciativa prevé una inversión de 130 millones de dólares sobre el Corredor Pacífico, por donde circula cerca del 70% de la carga regional, y apunta a integrar tecnología, infraestructura y procesos fronterizos",
-     "id": "43175ababe80"
+     "published": "2026-08-14T13:44:20+00:00",
+     "copete": "Los agentes hallaron pasaportes haitianos, cédulas, permisos de trabajo, tarjetas bancarias, llaves y otros efectos personales luego de un operativo que llevó al imputado y las evidencias ante el Ministerio Público",
+     "id": "613769d0d508"
     },
     {
-     "title": "Sebastián Báez, Juan Manuel Cerúndolo y Marco Trungelliti debutan en el Masters 1000 de Cincinnati: hora, rivales y cómo verlos en vivo",
-     "link": "https://www.infobae.com/deportes/2026/08/14/sebastian-baez-juan-manuel-cerundolo-y-marco-trungelliti-debutan-en-el-masters-1000-de-cincinnati-hora-rivales-y-como-verlos-en-vivo/",
+     "title": "Juicio a “Pity” Álvarez, en vivo: declara el amigo de Cristian Díaz que intentó frenar la pelea y vecinos del barrio",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/14/juicio-a-pity-alvarez-en-vivo-declara-el-amigo-de-cristian-diaz-que-intento-frenar-la-pelea-y-vecinos-del-barrio/",
      "source": "Infobae",
-     "published": "2026-08-14T10:40:11+00:00",
-     "copete": "Enfrentarán a Grigor Dimitrov, Mark Lajal y Hamad Medjedovic, respectivamente. Mariano Navone y Thiago Tirante lograron los primeros triunfos argentinos",
-     "id": "325ddc1440f1"
+     "published": "2026-08-14T13:43:41+00:00",
+     "id": "a6c7e481b9dc"
     },
     {
-     "title": "Atacan a 2 petroleros de Emiratos en el estrecho de Ormuz y otras noticias de Oriente Medio",
-     "link": "https://www.clarin.com/estados-unidos/atacan-a-2-petroleros-de-emiratos-en-el-estrecho-de-ormuz-y-otras-noticias-de-oriente-medio_0_gMqWzNzjsx.html",
+     "title": "186 fotos de la presentación del cortometraje de Infobae que recrea con IA el encuentro entre San Martín y Sarmiento",
+     "link": "https://www.infobae.com/fotos/2026/08/13/158-fotos-de-la-presentacion-del-cortometraje-de-infobae-que-recrea-con-ia-el-encuentro-entre-san-martin-y-sarmiento/",
+     "source": "Infobae",
+     "published": "2026-08-14T13:42:44+00:00",
+     "copete": "El evento se llevó a cabo en el Salón de Actos de la Facultad de Derecho de la UBA. Reunió a empresarios y dirigentes de todas las fuerzas políticas",
+     "id": "5c57718207e6"
+    },
+    {
+     "title": "Quién era Gonzalo Balado, el surfista marplatense que murió ahogado en la Isla de Pascua",
+     "link": "https://www.infobae.com/sociedad/2026/08/14/quien-era-gonzalo-balado-el-surfista-marplatense-que-murio-ahogado-en-la-isla-de-pascua/",
+     "source": "Infobae",
+     "published": "2026-08-14T13:42:21+00:00",
+     "copete": "El hombre de 40 años sufrió una descompensación este martes en Rapa Nui cuando intentaba una maniobra en un sector de rompientes considerado de alta peligrosidad. Su pasión por las olas, el buceo y la gastronomía",
+     "id": "6d7b3c1b16bd"
+    },
+    {
+     "title": "Disminuyen inesperadamente las ventas minoristas en EEUU al desvanecerse reembolsos fiscales",
+     "link": "https://www.clarin.com/estados-unidos/disminuyen-inesperadamente-las-ventas-minoristas-en-eeuu-al-desvanecerse-reembolsos-fiscales_0_hLmFI0t1tn.html",
      "source": "Clarín",
-     "published": "2026-08-14T10:30:07+00:00",
-     "copete": "Drones atacan dos buques de ADNOC en Ormuz, sin víctimas, Emiratos culpa a Irán de piratería y violar la libertad de navegación. Kushner, junto a Mladenov y Blair, visitará Oriente Medio para impulsar un acuerdo de paz en Gaza tras…",
-     "id": "0445b69c42ac"
+     "published": "2026-08-14T13:10:10+00:00",
+     "copete": "El gasto de los ciudadanos disminuyó en julio, con una caída del 0,6% en ventas minoristas, afectado por la ausencia de reembolsos fiscales. Las ventas, excluyendo gasolineras y concesionarios, bajaron un 0,2%, mientras los restaurantes…",
+     "id": "960f5e7d00cb"
     },
     {
-     "title": "Ethereum hoy: cotización y precio del ETH este viernes 14 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-viernes-14-de-agosto-de-2026_0_mazaM4HGrQ.html",
+     "title": "Una ciudad se moviliza contra una persistente amenaza para la salud: los mosquitos",
+     "link": "https://www.clarin.com/new-york-times-international-weekly/ciudad-moviliza-persistente-amenaza-salud-mosquitos_0_DwuyBjpGpa.html",
      "source": "Clarín",
-     "published": "2026-08-14T10:30:02+00:00",
-     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
-     "id": "63bd306e0f8d"
+     "published": "2026-08-14T13:08:14+00:00",
+     "copete": "La ciudad de Belém, en el norte de Brasil, se vio desbordada por un brote de dengue hace dos años. Un esfuerzo municipal a gran escala ha logrado reducir el número de casos y podría servir de ejemplo.",
+     "id": "9efd3657b476"
     }
    ]
   },
@@ -455,25 +424,41 @@
      "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó cientos de muertos y miles de heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-14T11:12:11.018817+00:00",
+     "published": "2026-08-14T13:49:35.649980+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
     {
-     "title": "La maestra de preescolar que lo dejó todo y se convirtió en guardiana de 200 pingüinos rey en el sur de Chile",
-     "link": "https://www.bbc.com/mundo/articles/cx25yexnw7eo?at_medium=RSS&at_campaign=rss",
+     "title": "\"Si no eres conservador, no vengas\": el pueblo de EE.UU. que fabrica misiles y apoya a Trump con un fervor casi religioso",
+     "link": "https://www.bbc.com/mundo/articles/c8dn8z9j0epo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-14T10:42:34+00:00",
-     "copete": "\"Es maravilloso observarlos\", relata Cecilia Durán Gafo. Sus esfuerzos permitieron algo sin precedentes: el establecimiento de la única colonia de pingüinos rey en Chile y la más cercana al continente.",
-     "id": "f022461a6542"
+     "published": "2026-08-14T13:24:30+00:00",
+     "copete": "Los habitantes de Kingsport, en Tennessee, donde viven algunos de los más leales seguidores de Trump, también tienen que lidiar con el alto costo de la vida.",
+     "id": "97cd3bca4560"
     },
     {
-     "title": "\"Mientras mi padre no diga dónde está el cuerpo de mi madre, no debería ser puesto en libertad\"",
-     "link": "https://www.bbc.com/mundo/articles/c24m2mmvlqzo?at_medium=RSS&at_campaign=rss",
+     "title": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
+     "link": "https://elpais.com/internacional/2026-08-14/un-caza-italiano-bajo-mando-de-la-otan-derriba-un-dron-de-origen-desconocido-en-letonia.html",
+     "source": "El País Internacional",
+     "published": "2026-08-14T13:14:59+00:00",
+     "copete": "Las autoridades buscan los restos del aparato, en una zona boscosa a unos 35 kilómetros de la frontera con Rusia",
+     "id": "a0458390bd96"
+    },
+    {
+     "title": "\"Count Binface\", el candidato disfrazado de guerrero intergaláctico que logra cada vez más votos en las elecciones de Reino Unido",
+     "link": "https://www.bbc.com/mundo/articles/c62x1d6ey6eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-14T10:03:37+00:00",
-     "copete": "Cat Razzell, quien tenía 13 años cuando su madre fue asesinada, se ha opuesto a la puesta en libertad del autor del crimen: su propio padre.",
-     "id": "21ba220de5fb"
+     "published": "2026-08-14T12:37:47+00:00",
+     "copete": "El peculiar político, encarnado por un comediante, forma parte de una vieja tradición británica que permite que candidatos antisistema compitan en los distintos comicios.",
+     "id": "024a301dbfba"
+    },
+    {
+     "title": "La policía brasileña recupera una serie de obras de Henri Matisse robadas en Sao Paulo",
+     "link": "https://www.bbc.com/mundo/articles/ckge4jdwyeqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-14T11:45:44+00:00",
+     "copete": "Un hombre fue arrestado después de que las autoridades encontraron ocho ilustraciones del famoso artista francés en una casa en el área metropolitana de Sao Paulo.",
+     "id": "5dfe1c70764d"
     },
     {
      "title": "Los demócratas denuncian las malas condiciones que sufren los marineros del portaaviones ‘Abraham Lincoln’ desplegado en el Golfo",
@@ -492,28 +477,12 @@
      "id": "5c5534bfdd67"
     },
     {
-     "title": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al variopinto Conde Cubo de Basura",
+     "title": "El ultra británico Farage revalida su escaño en el Parlamento tras vencer al estrafalario Conde Cubo de Basura",
      "link": "https://elpais.com/internacional/2026-08-14/el-ultra-britanico-farage-revalida-su-escano-en-el-parlamento-tras-vencer-al-variopinto-conde-cubo-de-basura.html",
      "source": "El País Internacional",
      "published": "2026-08-14T06:24:28+00:00",
      "copete": "El líder de Reform UK, que había dimitido por investigaciones de posible corrupción, gana la elección en Clacton-On-Sea. El político no acude al anuncio del resultado por seguridad, pero la policía niega que hubiera riesgo",
      "id": "8659f0301260"
-    },
-    {
-     "title": "\"Putin puede destruir Ucrania, pero no podrá conquistarla\"",
-     "link": "https://www.bbc.com/mundo/articles/ckgd82zj14zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-14T03:40:41+00:00",
-     "copete": "El premio Nobel de la Paz ruso Dimitri Murátov afirma que el líder del Kremlin no podrá proclamar la victoria en Ucrania, ahora que la guerra se encuentra en su quinto año.",
-     "id": "a63a735e178d"
-    },
-    {
-     "title": "La “carrera de obstáculos” de las afganas para pedir el traslado a España: años de espera, documentos “imposibles” y recursos judiciales",
-     "link": "https://elpais.com/internacional/2026-08-14/la-carrera-de-obstaculos-de-las-afganas-para-pedir-el-traslado-a-espana-anos-de-espera-documentos-imposibles-y-recursos-judiciales.html",
-     "source": "El País Internacional",
-     "published": "2026-08-14T03:30:01+00:00",
-     "copete": "Las embajadas españolas en Irán y Pakistán deniegan un número creciente de peticiones de víctimas de los talibanes, según varias ONG",
-     "id": "0591a331f14e"
     }
    ]
   }
@@ -522,6 +491,11 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
