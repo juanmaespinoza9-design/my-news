@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-08-15T10:07:34Z",
+  "generated_at": "2026-08-15T22:08:12Z",
   "summaries": {
-    "81f54de2f1de": {
-      "resumen": "Actualización de la supervivencia global a largo plazo del ensayo COMBI-I, que evaluó agregar spartalizumab (un inhibidor del punto de control inmunitario anti-PD-1) al esquema estándar de dabrafenib más trametinib (inhibidores de BRAF y MEK) en melanoma avanzado con mutación BRAF V600. Vale la pena mirarlo porque aporta datos de seguimiento prolongado sobre si sumar inmunoterapia a la terapia dirigida sostiene el beneficio en supervivencia.",
-      "destacado": false,
-      "analisis": "Diseño: Actualización de supervivencia global a largo plazo del ensayo COMBI-I, un estudio de fase III; el título de esta publicación puntual no detalla el número de centros ni de pacientes incluidos en el análisis actualizado.\nPoblación: Pacientes con melanoma avanzado con mutación en BRAF V600.\nIntervención: Combinación de spartalizumab (inhibidor del punto de control inmunitario anti-PD-1) más dabrafenib (inhibidor de BRAF) y trametinib (inhibidor de MEK), frente al esquema estándar de dabrafenib más trametinib con placebo.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización, la magnitud del beneficio ni la tasa de eventos adversos asociados al agregado de inmunoterapia.\nMensaje: Aporta datos de seguimiento a largo plazo sobre si sumar inmunoterapia anti-PD-1 a la terapia dirigida BRAF/MEK mejora de forma sostenida la supervivencia global en este subgrupo molecular de melanoma.\nNota: análisis sin acceso al abstract."
+    "60b41eba757b": {
+      "resumen": "Resumen semanal de OncLive con los cinco artículos más relevantes en oncología de la semana del 9 de agosto. Sirve como puerta de entrada rápida a lo más destacado de la semana en la especialidad, aunque no aporta datos originales propios.",
+      "destacado": false
     },
-    "a39c08ada4ce": {
-      "resumen": "Estudio de Kinslow CJ y colaboradores en el Journal of Clinical Oncology sobre el efecto pronóstico y predictivo de la edad en gliomas de bajo grado (grado 2) clasificados según su perfil molecular. Interesa porque podría ayudar a afinar la estratificación de riesgo y las decisiones terapéuticas en este tipo de tumor cerebral.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio, probablemente retrospectivo o de cohorte, sobre el valor pronóstico y predictivo de la edad en gliomas de bajo grado clasificados según categorías moleculares; el título no especifica el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con gliomas de bajo grado (grado 2), clasificados según su definición molecular (por ejemplo, estado de mutación de IDH y codeleción 1p/19q).\nIntervención: No es una intervención terapéutica activa; el estudio analiza el efecto pronóstico y predictivo de la edad del paciente dentro de los subgrupos moleculares.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Este tipo de análisis suele ser retrospectivo, con riesgo de sesgo de selección, y el efecto de la edad puede confundirse con otros factores como el estado funcional o el tratamiento recibido.\nMensaje: Podría ayudar a refinar la estratificación pronóstica y las decisiones terapéuticas en gliomas de bajo grado, incorporando la edad junto con la clasificación molecular vigente.\nNota: análisis sin acceso al abstract."
+    "5d74532d3b27": {
+      "resumen": "Nota de OncLive que repasa el ensayo lidERA, un estudio en cáncer de mama en etapa temprana con receptores hormonales positivos y HER2 negativo (sin sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Vale la pena mirarla porque resume, en formato de entrevista, hacia dónde apunta esta línea de investigación en terapia endocrina adyuvante.",
+      "destacado": false
+    },
+    "cfd550ad0219": {
+      "resumen": "Entrevista de OncLive a la Dra. Viansone sobre cómo equilibrar el uso de ADC (conjugados anticuerpo-fármaco) con esquemas de quimioterapia de baja toxicidad en cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Interesa porque aborda el desafío de sostener la eficacia reduciendo el impacto de los efectos adversos.",
+      "destacado": false
     },
     "9873b0e04dd4": {
       "resumen": "The ASCO Post analiza cuál es el valor óptimo de PSA (antígeno prostático específico, el biomarcador usado para monitorear el cáncer de próstata) para definir si un tratamiento está siendo eficaz. Vale la pena mirarlo porque el PSA es la herramienta de seguimiento más usada en la práctica diaria y su punto de corte impacta directamente en las decisiones terapéuticas.",
@@ -26,19 +28,6 @@
       "destacado": false,
       "analisis": "Diseño: Noticia de aprobación regulatoria por parte de la FDA (agencia de medicamentos de Estados Unidos) de un esquema combinado que incluye un CELMoD (modulador de proteínas de unión a cereblón, una nueva clase de inmunomoduladores); el título no detalla el ensayo pivotal que sustentó la aprobación ni su diseño.\nPoblación: Pacientes con mieloma múltiple pretratado, que progresaron a líneas de tratamiento previas.\nIntervención: Esquema combinado con un CELMoD más otros fármacos no especificados en el título, frente a las opciones terapéuticas disponibles hasta el momento para esta población.\nResultados: No informados en el título ni disponibles sin acceso al texto completo ni al ensayo pivotal que respaldó la aprobación.\nLimitaciones: Las noticias de aprobación regulatoria no siempre reflejan el detalle completo de los datos de eficacia y seguridad del ensayo que las sustenta, ni las poblaciones exactas incluidas.\nMensaje: Suma una nueva opción terapéutica con un mecanismo de acción novedoso para pacientes con mieloma múltiple que progresaron a tratamientos previos, ampliando el arsenal disponible en la enfermedad recidivada o refractaria.\nNota: análisis sin acceso al abstract."
     },
-    "5d74532d3b27": {
-      "resumen": "Nota de OncLive que repasa el ensayo lidERA, un estudio en cáncer de mama en etapa temprana con receptores hormonales positivos y HER2 negativo (sin sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Vale la pena mirarla porque resume, en formato de entrevista, hacia dónde apunta esta línea de investigación en terapia endocrina adyuvante.",
-      "destacado": false
-    },
-    "cfd550ad0219": {
-      "resumen": "Entrevista de OncLive a la Dra. Viansone sobre cómo equilibrar el uso de ADC (conjugados anticuerpo-fármaco) con esquemas de quimioterapia de baja toxicidad en cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Interesa porque aborda el desafío de sostener la eficacia reduciendo el impacto de los efectos adversos.",
-      "destacado": false
-    },
-    "5022cea302d1": {
-      "resumen": "OncLive reporta que la combinación de pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) más denosumab (un inhibidor del ligando RANK, involucrado en la remodelación ósea) generó respuestas en pacientes con carcinoma renal de células claras avanzado ya tratado previamente. Vale la pena mirarlo porque explora una combinación novedosa de inmunoterapia con un fármaco dirigido al hueso en un escenario de rescate.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio, probablemente de fase temprana, que evalúa la combinación de pembrolizumab más denosumab; el título no precisa aleatorización, cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con carcinoma renal de células claras avanzado, previamente tratados (pretratados).\nIntervención: Combinación de pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1) más denosumab (inhibidor del ligando RANK); el título no menciona un brazo comparador.\nResultados: El título solo indica que la combinación \"generó respuestas\", sin tasas de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la durabilidad de las respuestas ni el perfil de eventos adversos de esta combinación.\nMensaje: Sugiere una señal de actividad al combinar inmunoterapia con un inhibidor del ligando RANK en carcinoma renal de células claras pretratado, un escenario de necesidad insatisfecha, aunque se requieren datos maduros para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
-    },
     "25115d8a7399": {
       "resumen": "Estudio del Journal of Clinical Oncology (Lynch RC et al.) que evalúa mosunetuzumab (un anticuerpo biespecífico que une CD20 y CD3, y así acerca a los linfocitos T al tumor) combinado, de forma adaptada a la respuesta, con polatuzumab vedotin (un conjugado anticuerpo-fármaco dirigido a CD79b) y obinutuzumab (un anticuerpo monoclonal anti-CD20), en pacientes sin tratamiento previo por linfoma no Hodgkin indolente de células B. Es el estudio destacado de la sección porque combina tres terapias dirigidas sin quimioterapia convencional en primera línea.",
       "destacado": true,
@@ -48,23 +37,33 @@
       "resumen": "Fe de erratas del Journal of Clinical Oncology (Piotrowska Z et al.) sobre la publicación original de seguridad, tolerabilidad y actividad antitumoral de zipalertinib (un inhibidor dirigido a inserciones en el exón 20 del receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas. Es una corrección puntual del artículo original, no un estudio nuevo.",
       "destacado": false
     },
-    "752572289017": {
-      "resumen": "Los modelos planos de los años 90 vuelven a estar en tendencia para combinar con faldas, pantalones y bermudas este verano."
+    "81f54de2f1de": {
+      "resumen": "Actualización de la supervivencia global a largo plazo del ensayo COMBI-I, que evaluó agregar spartalizumab (un inhibidor del punto de control inmunitario anti-PD-1) al esquema estándar de dabrafenib más trametinib (inhibidores de BRAF y MEK) en melanoma avanzado con mutación BRAF V600. Vale la pena mirarlo porque aporta datos de seguimiento prolongado sobre si sumar inmunoterapia a la terapia dirigida sostiene el beneficio en supervivencia.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de supervivencia global a largo plazo del ensayo COMBI-I, un estudio de fase III; el título de esta publicación puntual no detalla el número de centros ni de pacientes incluidos en el análisis actualizado.\nPoblación: Pacientes con melanoma avanzado con mutación en BRAF V600.\nIntervención: Combinación de spartalizumab (inhibidor del punto de control inmunitario anti-PD-1) más dabrafenib (inhibidor de BRAF) y trametinib (inhibidor de MEK), frente al esquema estándar de dabrafenib más trametinib con placebo.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización, la magnitud del beneficio ni la tasa de eventos adversos asociados al agregado de inmunoterapia.\nMensaje: Aporta datos de seguimiento a largo plazo sobre si sumar inmunoterapia anti-PD-1 a la terapia dirigida BRAF/MEK mejora de forma sostenida la supervivencia global en este subgrupo molecular de melanoma.\nNota: análisis sin acceso al abstract."
     },
-    "46282c6dfb39": {
-      "resumen": "Quince propuestas de nail art inspiradas en los años 70 para lucir antes de que termine el verano."
+    "a39c08ada4ce": {
+      "resumen": "Estudio de Kinslow CJ y colaboradores en el Journal of Clinical Oncology sobre el efecto pronóstico y predictivo de la edad en gliomas de bajo grado (grado 2) clasificados según su perfil molecular. Interesa porque podría ayudar a afinar la estratificación de riesgo y las decisiones terapéuticas en este tipo de tumor cerebral.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio, probablemente retrospectivo o de cohorte, sobre el valor pronóstico y predictivo de la edad en gliomas de bajo grado clasificados según categorías moleculares; el título no especifica el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con gliomas de bajo grado (grado 2), clasificados según su definición molecular (por ejemplo, estado de mutación de IDH y codeleción 1p/19q).\nIntervención: No es una intervención terapéutica activa; el estudio analiza el efecto pronóstico y predictivo de la edad del paciente dentro de los subgrupos moleculares.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Este tipo de análisis suele ser retrospectivo, con riesgo de sesgo de selección, y el efecto de la edad puede confundirse con otros factores como el estado funcional o el tratamiento recibido.\nMensaje: Podría ayudar a refinar la estratificación pronóstica y las decisiones terapéuticas en gliomas de bajo grado, incorporando la edad junto con la clasificación molecular vigente.\nNota: análisis sin acceso al abstract."
     },
-    "ae5cd6d3bd9b": {
-      "resumen": "Un repaso por los colores y las tendencias que van a marcar la temporada primavera-verano 2026."
+    "9f36563dfe21": {
+      "resumen": "Taylor Swift se dejó ver por primera vez tras su casamiento, con un minivestido violeta jacaranda y sandalias italianas."
     },
-    "4ec3f054c2d3": {
-      "resumen": "Después del mullet y los rizos, el mechón caído sobre la frente se instala como el próximo gesto de estilo entre los varones más fashionistas."
+    "f649c268ea01": {
+      "resumen": "Los blusones elegantes se imponen este verano para combinar con pantalones, polleras y jeans."
     },
-    "ca1755540999": {
-      "resumen": "Un conjunto verde de Massimo Dutti que funciona para el verano y promete seguir en tendencia cuando llegue septiembre."
+    "ef56ef65e9c6": {
+      "resumen": "Los vestidos con colores inspirados en los años 70 vuelven para lucir con sandalias, botas cortas y tacos este verano."
     },
-    "3acf6ce1f8de": {
-      "resumen": "Siete prendas con estampado vichy, la elección de las más entendidas en moda para lucir en verano y seguir usando en otoño."
+    "eb1e93ae727c": {
+      "resumen": "Una guía para lucir el estampado a lunares ('Polka Dot'), un clásico que nunca pierde vigencia."
+    },
+    "6aa19093e53e": {
+      "resumen": "Un adelanto de las prendas que marcarán la temporada primavera-verano 2026."
+    },
+    "438740823f87": {
+      "resumen": "La tendencia 'abuela italiana' arrasa este verano: las claves de estilo para lograr ese look."
     },
     "e3cb950978e6": {
       "resumen": "La obra infantil “Luna y su galaxia” se presenta durante agosto en el Teatro Border porteño."
@@ -72,17 +71,11 @@
     "70fb770d3d04": {
       "resumen": "Se dieron a conocer todos los nominados a los Premios Hugo de teatro musical de la temporada 2025/26."
     },
-    "d1662d5b2d8b": {
-      "resumen": "La ciudad presenta nuevas propuestas turísticas pensadas para aprovechar el fin de semana largo."
-    },
     "5db4212ddaf4": {
       "resumen": "El Senado mendocino reconoció a los nueve restaurantes de la provincia que obtuvieron una Estrella Michelin."
     },
     "c6537a7062dd": {
       "resumen": "Una guía de planes para el fin de semana largo porteño, con propuestas especiales por el Día del Niño."
-    },
-    "e5b37e14af44": {
-      "resumen": "Cinco bares y restaurantes porteños para celebrar el Día del Ron con tragos y recetas originales."
     },
     "150d7bffa4f6": {
       "resumen": "La actriz Blanca Oteyza regresa a Buenos Aires con una obra que rinde homenaje a la actriz española Margarita Xirgu."
@@ -95,6 +88,12 @@
     },
     "b1bf17f3291b": {
       "resumen": "Una guía con las mejores opciones para hacer en Buenos Aires durante el fin de semana largo de agosto."
+    },
+    "e638fbc92b1e": {
+      "resumen": "Buenos Aires tendrá un fin de semana lluvioso: cuándo se espera que vuelva el sol."
+    },
+    "adfd00af7c03": {
+      "resumen": "La historia de Clara Ulrich, la artista que dejó todo por amor y construyó su carrera en Miami sin dejar de soñar con actuar en Argentina."
     }
   }
 }
