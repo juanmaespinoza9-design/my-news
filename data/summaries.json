@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:11:04Z",
+  "generated_at": "2026-08-15T10:07:34Z",
   "summaries": {
     "81f54de2f1de": {
       "resumen": "Actualización de la supervivencia global a largo plazo del ensayo COMBI-I, que evaluó agregar spartalizumab (un inhibidor del punto de control inmunitario anti-PD-1) al esquema estándar de dabrafenib más trametinib (inhibidores de BRAF y MEK) en melanoma avanzado con mutación BRAF V600. Vale la pena mirarlo porque aporta datos de seguimiento prolongado sobre si sumar inmunoterapia a la terapia dirigida sostiene el beneficio en supervivencia.",
@@ -10,27 +10,6 @@
       "resumen": "Estudio de Kinslow CJ y colaboradores en el Journal of Clinical Oncology sobre el efecto pronóstico y predictivo de la edad en gliomas de bajo grado (grado 2) clasificados según su perfil molecular. Interesa porque podría ayudar a afinar la estratificación de riesgo y las decisiones terapéuticas en este tipo de tumor cerebral.",
       "destacado": false,
       "analisis": "Diseño: Estudio, probablemente retrospectivo o de cohorte, sobre el valor pronóstico y predictivo de la edad en gliomas de bajo grado clasificados según categorías moleculares; el título no especifica el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con gliomas de bajo grado (grado 2), clasificados según su definición molecular (por ejemplo, estado de mutación de IDH y codeleción 1p/19q).\nIntervención: No es una intervención terapéutica activa; el estudio analiza el efecto pronóstico y predictivo de la edad del paciente dentro de los subgrupos moleculares.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Este tipo de análisis suele ser retrospectivo, con riesgo de sesgo de selección, y el efecto de la edad puede confundirse con otros factores como el estado funcional o el tratamiento recibido.\nMensaje: Podría ayudar a refinar la estratificación pronóstica y las decisiones terapéuticas en gliomas de bajo grado, incorporando la edad junto con la clasificación molecular vigente.\nNota: análisis sin acceso al abstract."
-    },
-    "e2319d4dd180": {
-      "resumen": "Artículo breve del Journal of Clinical Oncology firmado por Berthaud FM y colaboradores, titulado escuetamente \"Forty\". Por el formato y la brevedad del título, podría tratarse de una pieza narrativa o reflexiva (como las de la sección Art of Oncology) antes que de un estudio clínico; sin acceso al texto no puede confirmarse con certeza.",
-      "destacado": false
-    },
-    "4e0690144d52": {
-      "resumen": "Actualización de los resultados de eficacia y seguridad del ensayo de fase III PIVOTAL, que evalúa daromun (L19IL2/L19TNF, una combinación de citoquinas inmunoestimulantes administrada por vía intralesional) como tratamiento neoadyuvante —es decir, antes de la cirugía— en melanoma localmente avanzado resecable. Es un estudio clave porque busca mejorar la respuesta patológica y reducir recaídas mediante inmunoterapia intralesional previa a la cirugía.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III (estudio PIVOTAL); esta publicación se describe como una actualización de los resultados de eficacia y seguridad. El título no precisa aleatorización, cegamiento ni el número de centros o pacientes de esta actualización puntual.\nPoblación: Pacientes con melanoma localmente avanzado y resecable (enfermedad candidata a cirugía).\nIntervención: Daromun (combinación intralesional de L19IL2 y L19TNF, dos citoquinas inmunoestimulantes fusionadas a un anticuerpo) administrado en forma neoadyuvante, es decir antes de la cirugía; el comparador exacto (cirugía sola u otro esquema) no figura en el título.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tiempo de seguimiento de esta actualización ni si confirma los hallazgos de reportes previos del mismo ensayo.\nMensaje: El tratamiento intralesional neoadyuvante podría sumarse como estrategia para mejorar los resultados quirúrgicos y oncológicos en melanoma localmente avanzado resecable, un escenario donde hoy la cirugía sigue siendo el pilar.\nNota: análisis sin acceso al abstract."
-    },
-    "806da04706ab": {
-      "resumen": "Nota de OncLive sobre los nuevos enfoques de investigación para el control del hematocrito en policitemia vera, una neoplasia mieloproliferativa que produce un exceso de glóbulos rojos. Vale la pena mirarla porque resume hacia dónde avanza la investigación sobre esta variable clave de la enfermedad.",
-      "destacado": false
-    },
-    "238efedc2913": {
-      "resumen": "Entrevista de OncLive a la Dra. Viansone sobre las estrategias para reducir el tipo y la duración de la quimioterapia en cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Interesa porque refleja la tendencia actual a desescalar tratamientos sin resignar eficacia.",
-      "destacado": false
-    },
-    "4a95b443d4b1": {
-      "resumen": "Cuestionario semanal de OncLive que repasa las noticias de la semana sobre mieloma múltiple, cáncer de pulmón y policitemia vera. Es un formato de repaso rápido, útil para no perderse las novedades clave, más que un artículo de investigación en sí.",
-      "destacado": false
     },
     "9873b0e04dd4": {
       "resumen": "The ASCO Post analiza cuál es el valor óptimo de PSA (antígeno prostático específico, el biomarcador usado para monitorear el cáncer de próstata) para definir si un tratamiento está siendo eficaz. Vale la pena mirarlo porque el PSA es la herramienta de seguimiento más usada en la práctica diaria y su punto de corte impacta directamente en las decisiones terapéuticas.",
@@ -44,6 +23,29 @@
     },
     "6819e164515d": {
       "resumen": "The ASCO Post reporta la aprobación por la agencia estadounidense de medicamentos (FDA) de un esquema combinado con un fármaco CELMoD (modulador de proteínas de unión a cereblón, una nueva clase de inmunomoduladores) para mieloma múltiple ya tratado previamente. Vale la pena mirarlo porque suma una nueva opción para pacientes que progresaron a líneas de tratamiento previas.",
+      "destacado": false,
+      "analisis": "Diseño: Noticia de aprobación regulatoria por parte de la FDA (agencia de medicamentos de Estados Unidos) de un esquema combinado que incluye un CELMoD (modulador de proteínas de unión a cereblón, una nueva clase de inmunomoduladores); el título no detalla el ensayo pivotal que sustentó la aprobación ni su diseño.\nPoblación: Pacientes con mieloma múltiple pretratado, que progresaron a líneas de tratamiento previas.\nIntervención: Esquema combinado con un CELMoD más otros fármacos no especificados en el título, frente a las opciones terapéuticas disponibles hasta el momento para esta población.\nResultados: No informados en el título ni disponibles sin acceso al texto completo ni al ensayo pivotal que respaldó la aprobación.\nLimitaciones: Las noticias de aprobación regulatoria no siempre reflejan el detalle completo de los datos de eficacia y seguridad del ensayo que las sustenta, ni las poblaciones exactas incluidas.\nMensaje: Suma una nueva opción terapéutica con un mecanismo de acción novedoso para pacientes con mieloma múltiple que progresaron a tratamientos previos, ampliando el arsenal disponible en la enfermedad recidivada o refractaria.\nNota: análisis sin acceso al abstract."
+    },
+    "5d74532d3b27": {
+      "resumen": "Nota de OncLive que repasa el ensayo lidERA, un estudio en cáncer de mama en etapa temprana con receptores hormonales positivos y HER2 negativo (sin sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Vale la pena mirarla porque resume, en formato de entrevista, hacia dónde apunta esta línea de investigación en terapia endocrina adyuvante.",
+      "destacado": false
+    },
+    "cfd550ad0219": {
+      "resumen": "Entrevista de OncLive a la Dra. Viansone sobre cómo equilibrar el uso de ADC (conjugados anticuerpo-fármaco) con esquemas de quimioterapia de baja toxicidad en cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Interesa porque aborda el desafío de sostener la eficacia reduciendo el impacto de los efectos adversos.",
+      "destacado": false
+    },
+    "5022cea302d1": {
+      "resumen": "OncLive reporta que la combinación de pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) más denosumab (un inhibidor del ligando RANK, involucrado en la remodelación ósea) generó respuestas en pacientes con carcinoma renal de células claras avanzado ya tratado previamente. Vale la pena mirarlo porque explora una combinación novedosa de inmunoterapia con un fármaco dirigido al hueso en un escenario de rescate.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio, probablemente de fase temprana, que evalúa la combinación de pembrolizumab más denosumab; el título no precisa aleatorización, cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con carcinoma renal de células claras avanzado, previamente tratados (pretratados).\nIntervención: Combinación de pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1) más denosumab (inhibidor del ligando RANK); el título no menciona un brazo comparador.\nResultados: El título solo indica que la combinación \"generó respuestas\", sin tasas de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la durabilidad de las respuestas ni el perfil de eventos adversos de esta combinación.\nMensaje: Sugiere una señal de actividad al combinar inmunoterapia con un inhibidor del ligando RANK en carcinoma renal de células claras pretratado, un escenario de necesidad insatisfecha, aunque se requieren datos maduros para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "25115d8a7399": {
+      "resumen": "Estudio del Journal of Clinical Oncology (Lynch RC et al.) que evalúa mosunetuzumab (un anticuerpo biespecífico que une CD20 y CD3, y así acerca a los linfocitos T al tumor) combinado, de forma adaptada a la respuesta, con polatuzumab vedotin (un conjugado anticuerpo-fármaco dirigido a CD79b) y obinutuzumab (un anticuerpo monoclonal anti-CD20), en pacientes sin tratamiento previo por linfoma no Hodgkin indolente de células B. Es el estudio destacado de la sección porque combina tres terapias dirigidas sin quimioterapia convencional en primera línea.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico publicado en el Journal of Clinical Oncology; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con linfoma no Hodgkin indolente de células B sin tratamiento previo (primera línea).\nIntervención: Mosunetuzumab (anticuerpo biespecífico CD20xCD3) combinado, con un esquema adaptado a la respuesta, con polatuzumab vedotin (conjugado anticuerpo-fármaco anti-CD79b) y obinutuzumab (anticuerpo monoclonal anti-CD20); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de seguridad de esta combinación libre de quimioterapia.\nMensaje: Explora una estrategia de primera línea sin quimioterapia convencional, combinando un anticuerpo biespecífico con un conjugado anticuerpo-fármaco y un anticuerpo anti-CD20, en un intento de mejorar la tolerancia sin resignar eficacia en linfoma indolente.\nNota: análisis sin acceso al abstract."
+    },
+    "1c38a047d30e": {
+      "resumen": "Fe de erratas del Journal of Clinical Oncology (Piotrowska Z et al.) sobre la publicación original de seguridad, tolerabilidad y actividad antitumoral de zipalertinib (un inhibidor dirigido a inserciones en el exón 20 del receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas. Es una corrección puntual del artículo original, no un estudio nuevo.",
       "destacado": false
     },
     "752572289017": {
@@ -52,26 +54,23 @@
     "46282c6dfb39": {
       "resumen": "Quince propuestas de nail art inspiradas en los años 70 para lucir antes de que termine el verano."
     },
-    "697f83c9fa09": {
-      "resumen": "La cantante Dua Lipa combinó botines de punta triangular con jeans deshilachados y una bolsa extra grande para viajar con estilo."
+    "ae5cd6d3bd9b": {
+      "resumen": "Un repaso por los colores y las tendencias que van a marcar la temporada primavera-verano 2026."
     },
-    "838846ce9139": {
-      "resumen": "Un adelanto de las seis tendencias que, según Europa, marcarán la moda del próximo verano."
+    "4ec3f054c2d3": {
+      "resumen": "Después del mullet y los rizos, el mechón caído sobre la frente se instala como el próximo gesto de estilo entre los varones más fashionistas."
     },
-    "e3168117c854": {
-      "resumen": "Seis modelos de pantalones capri que pisan fuerte esta temporada, ideales para combinar con calzado plano."
+    "ca1755540999": {
+      "resumen": "Un conjunto verde de Massimo Dutti que funciona para el verano y promete seguir en tendencia cuando llegue septiembre."
     },
-    "d9fda32bbe15": {
-      "resumen": "Una campera de Zara pensada para las lluvias de verano que además se perfila como tendencia para el otoño."
+    "3acf6ce1f8de": {
+      "resumen": "Siete prendas con estampado vichy, la elección de las más entendidas en moda para lucir en verano y seguir usando en otoño."
     },
     "e3cb950978e6": {
       "resumen": "La obra infantil “Luna y su galaxia” se presenta durante agosto en el Teatro Border porteño."
     },
     "70fb770d3d04": {
       "resumen": "Se dieron a conocer todos los nominados a los Premios Hugo de teatro musical de la temporada 2025/26."
-    },
-    "7bef4554909f": {
-      "resumen": "La lista completa de nominados a los Premios Hugo, que tendrán su gala en el Teatro Coliseo."
     },
     "d1662d5b2d8b": {
       "resumen": "La ciudad presenta nuevas propuestas turísticas pensadas para aprovechar el fin de semana largo."
@@ -85,17 +84,17 @@
     "e5b37e14af44": {
       "resumen": "Cinco bares y restaurantes porteños para celebrar el Día del Ron con tragos y recetas originales."
     },
-    "79409d68fedd": {
-      "resumen": "Ideas para disfrutar en familia el fin de semana largo porteño, con foco en los festejos del Día del Niño."
+    "150d7bffa4f6": {
+      "resumen": "La actriz Blanca Oteyza regresa a Buenos Aires con una obra que rinde homenaje a la actriz española Margarita Xirgu."
     },
-    "360bcb8eb07f": {
-      "resumen": "Un pueblo a más de 100 kilómetros de la Ciudad propone festejar el Día del Niño con una torta gigante, historia y tradición."
+    "59fa5d22bf13": {
+      "resumen": "Seis restaurantes porteños con propuestas pensadas para los chicos, ideales para celebrar el Día de las Infancias."
     },
-    "d4e22a13e9f2": {
-      "resumen": "Conciertos, cine y juegos, entre los mejores planes porteños para el fin de semana del Día del Niño."
+    "0f4b24d5d164": {
+      "resumen": "Un repaso por la agenda cultural de la provincia de Buenos Aires."
     },
-    "3341e11bf7a8": {
-      "resumen": "El videojuego High On Life VR renovó sus armas y su sistema de movimiento de cara a su estreno en 2027."
+    "b1bf17f3291b": {
+      "resumen": "Una guía con las mejores opciones para hacer en Buenos Aires durante el fin de semana largo de agosto."
     }
   }
 }
