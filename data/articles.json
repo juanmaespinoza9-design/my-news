@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T16:45:54.665353+00:00",
+ "generated_at": "2026-08-16T18:51:09.996724+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -9,21 +9,21 @@
     {
      "title": "Five Under 5: Top Oncology Videos for the Week of 8/9",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFlnN2VEVXhUcDNKRDJyZWxfR0xUejF5OWxBenhsR3dFaEt2MU1WeVJtdWxiNEtVaTVGSHdSbGp1d3h5YTdYLVJFdXNUaGVRQkhWaGltajVVZ3JZcUFzSUNmUngwNXp4d2phZ2lKS3RETkJLZlNqUlJ6QTBsb2ZiYjVlMXp0cnpY?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-08-16T14:03:45+00:00",
      "id": "0c68f0a6076e"
     },
     {
      "title": "Dive into the Data Supporting the FDA Approval of Iberdomide Plus Daratumumab/Dexamethasone in R/R Myeloma",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjN1WUtIMXJKTEZhSU5xNlU3R2dnUy1hVTBRcWt0aF80cjI0b3hVbTFON01tRXZ3YTNzSFdQdV92UGp2ZlFrV25kOXBXeUdHa2Jpc2lteEt4b3dMR0pJc3lmekc5bVI5YzFWS1pBNWRhQjZwV0xFbVpzX1puLVkzdVh5RWotWklTcnlJRjZrZFNOcWp0RjNBU3VkREQ4T2lFRHdQUExxN1JQenNaR0N6YnFNcFJ1bUtpaDNKWm5kTUZMdE9JZkpCcHg2cV9mS1Ex?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-08-16T10:42:45+00:00",
      "id": "a0b62bcac998"
     },
     {
      "title": "The OncFive: Top Oncology Articles for the Week of 8/9",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1NOZ0ZyRzJGOVdycnZqWGpBamoxWHN4VmVNeFJZU0ZNUEZIanNkUXFqWHUxMzlKSm03YWxudTVHY3o4SV8yS21UQ0dWcmRsMVp3eTVMQ0IzUnE3ZDFXX0Eya29tMExLMVIwU1UtU09yOVhGSTlxWkt1c0ZucWoyaVBqSHNOUmxBcEE?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-08-15T12:07:08+00:00",
      "id": "60b41eba757b"
     },
@@ -65,20 +65,36 @@
      "id": "1c38a047d30e"
     },
     {
-     "title": "COMBI-I: Long-Term Overall Survival With Spartalizumab Plus Dabrafenib and Trametinib in BRAF V600-Mutant Advanced Melanoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42585631/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-12T00:00:00+00:00",
-     "copete": "Ribas A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "81f54de2f1de"
+     "title": "Redefining Progression in a Rapidly Evolving Therapeutic Landscape",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593813/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Vasan N et al. · JAMA oncology",
+     "id": "3e9b1753d2e9"
     },
     {
-     "title": "Prognostic and Predictive Effect of Age in Molecularly Defined Lower-Grade Gliomas",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42585601/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-12T00:00:00+00:00",
-     "copete": "Kinslow CJ et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "a39c08ada4ce"
+     "title": "Oral Ulcers in a Patient With Myelodysplastic Syndrome",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593812/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Torres-Saavedra F et al. · JAMA oncology",
+     "id": "ca6ee5a8a9f8"
+    },
+    {
+     "title": "Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593785/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Shaver AL et al. · JAMA oncology",
+     "id": "5560b043d95b"
+    },
+    {
+     "title": "Managing Metabolic Syndrome and Prostate Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593778/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Marshall CH et al. · JAMA oncology",
+     "id": "02706adc0cac"
     }
    ]
   },
@@ -88,18 +104,25 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "¡Volvieron! Los jeans de los 70 que se llevan con blusas boho en verano 2026",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMi1ZcXN2ZGVKdEgtVlllN0RNXzM5dkVfaVVDYVhfc1ZiSXFvd2tZdndkcG83ZkNydTlHZWhGXy1TalhhXzRzejdpeFVwaGEzQUkwZFVIQTFBQkNKOVZhS1dWUzNKNnFkMzlCWllXd2FwaDN2djZHOFFvOGx2NlRCcUFTSWNUX25sRGc?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-08-16T17:04:52+00:00",
+     "id": "b84f34e013b0"
+    },
+    {
+     "title": "Zapatos cafés: Los más elegantes para lucir con vestidos, faldas y jeans en verano 2026",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcVU4aU9rSUlKLThHOHJQSzZ6R3NZV21LZGJzTFRIYkhMM1Jua2w3R3lacEE4WUtCeHd0REZZdVAxUm5FUlRmUmFZVkdzbGcxVk0wclY0UWhVa3RuVUtIMmt6OGxTTGJCSkxVVUtnbjU3ajZyeUx2M29XdERCLXJ4eTFHYm9WSEZvYXhpUDdfN1ZkeGFtRGltVGdlS2NhQ1k?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-08-16T16:44:35+00:00",
+     "id": "09402926ad39"
+    },
+    {
      "title": "Regresan estas sandalias de los 90 y 2000: Así se llevan con jeans, faldas y vestidos en verano 2026",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYl96a2RBeWxkc3NCcWt5VUxVd1htbER2SDVzM2NOOWppMURUTUJXeGxmbm92NEJ0MEVDaVkzZVNsbTU4N1k4RDBHS3I1ZmcxcC1NUlJaaHBVRnM5NjVWaE9QdlhiRkFXNkpNNzdFbmd4bDJyYzhmZXQxaGE2YzJVaWJpYmRaTjRXb2o0cnh1MnNGN1BkMHdFTmtGN21KVmx2cjRKQlh4NUM3REM3SFE?oc=5",
      "source": "vogue.mx",
      "published": "2026-08-16T16:27:15+00:00",
      "id": "91665e292897"
-    },
-    {
-     "title": "Cómo ha sido la relación de Georgina Rodríguez y Cristiano Ronaldo: Una línea del tiempo",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXdPUnhjVlAxbTdvWUtUNW1lNlJtTFBBa2N5cVNpNnJXQ2FybTdxWEtXSF9Ld1ZlM1Axc3ZNNlFZLUJPYThYUFlrc3BjX2wtTFBoZ1drQjgwaW5USWczcDd6a3BjbXE5NTI0czUxamw4Q0ExaXg4RkFCVS11aDRLNXFmRzNQUEJYT2FJbWVMUkcyN3JQZmpYVmJaTzc?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-08-16T15:07:10+00:00",
-     "id": "7766aae031d4"
     },
     {
      "title": "The Best Dressed Stars of the Week Opted for Vintage Touches",
@@ -108,13 +131,6 @@
      "published": "2026-08-16T15:01:51+00:00",
      "copete": "From archival runway to fabulous maternity wear, it was an exciting week on the red carpet, care of Sadie Sink, Anne Hathaway, and more.",
      "id": "74509427bcf6"
-    },
-    {
-     "title": "Georgina Rodríguez elige una falda midi y zapatos de tacón italianos para su boda con Cristiano Ronaldo",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk5hOUVjOEJMNWlHNFh2TU5DS3hVZkxLWVVhN25FaXo0Y0psLVdpS1RaczhYTWJscjZZTjBNbnhiUnZXRGlwREdZa1JoalFOZW52T29LdGo3ckpkVDlnUE5Pc2tlUVNRVFZoNXMzRkVPelYxQWE3MW00WnJkWlQyNHJWRFFGYjVDaERrWTAwY3paWXhmN1BzNlZWYmx4TDcyeEx4WHlUdUpCbzA?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-08-16T14:00:28+00:00",
-     "id": "79d5332c9815"
     },
     {
      "title": "A Timeline of Cristiano Ronaldo and Georgina Rodríguez’s Relationship",
@@ -169,6 +185,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Fue una de las mujeres más sexis de los 2000, brilló en la TV, pero se alejó de todo y disfruta su vida de casada con Ellen DeGeneres",
+     "link": "https://www.lanacion.com.ar/espectaculos/fue-una-de-las-mujeres-mas-sexis-de-los-2000-brillo-en-la-tv-pero-se-alejo-de-todo-y-disfruta-su-nid16082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-16T18:50:41+00:00",
+     "copete": "Lejos de los sets de grabación, la celebridad australiana se volcó de lleno a la conservación de los gorilas junto a su esposa la famosa conductora; cómo es su nueva realidad entre Inglaterra y la selva africana",
+     "id": "ef77167ab28c"
+    },
+    {
+     "title": "Quién se va de Gran Hermano este lunes 17 de agosto, según las encuestas",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-se-va-de-gran-hermano-este-lunes-17-de-agosto-segun-las-encuestas-nid14082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-16T18:35:55+00:00",
+     "copete": "El público tiene la posibilidad de sacar una vez más a un jugador de la casa y ya se conocieron los sondeos que marcan a una participante como la menos querida por la audiencia",
+     "id": "d42e93517637"
+    },
+    {
+     "title": "Wanda Nara celebró el Día del Niño con sus 5 hijos en el lugar más entretenido: “Siempre serán mis chiquitos”",
+     "link": "https://www.infobae.com/teleshow/2026/08/16/wanda-nara-celebro-el-dia-del-nino-con-sus-5-hijos-en-el-lugar-mas-entretenido-siempre-seran-mis-chiquitos/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-16T18:24:36+00:00",
+     "copete": "La empresaria no hace distinción de las edades de sus niños a la hora de homenajearlos en su jornada",
+     "id": "c067c3a6a42f"
+    },
+    {
+     "title": "Cami Homs mostró la fiesta de cumpleaños que le organizó a su hijo y los fans apuntaron contra Rodrigo De Paul por su ausencia",
+     "link": "https://www.lanacion.com.ar/espectaculos/cami-homs-mostro-la-fiesta-de-cumpleanos-que-le-organizo-a-su-hijo-y-los-fans-apuntaron-contra-nid16082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-16T18:09:15+00:00",
+     "copete": "El pequeño celebró sus cinco años con una temática integral basada en la Scaloneta; el festejo reafirmó la admiración del pequeño por su padre mediante guiños estéticos y deportivos en cada detalle de la organización",
+     "id": "73c2afbe53d8"
+    },
+    {
+     "title": "Fue la mujer más deseada del mundo, transmitía sex appeal a los argentinos y ahora no le alcanza para vivir",
+     "link": "https://www.lanacion.com.ar/espectaculos/fue-la-mujer-mas-deseada-del-mundo-transmitia-sex-appeal-a-los-argentinos-y-ahora-no-le-alcanza-para-nid13082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-16T18:08:57+00:00",
+     "copete": "Ilona Staller, conocida mundialmente como Cicciolina, enfrenta hoy una realidad económica compleja tras décadas de fama; su historia mezcla espionaje, política, escándalos judiciales y un legado cultural imborrable en el país",
+     "id": "fd49831652d7"
+    },
+    {
+     "title": "Risas, abrazos y charlas: así fue el reencuentro de Sofi Martínez y Diego Leuco en pleno evento",
+     "link": "https://www.infobae.com/teleshow/2026/08/16/risas-abrazos-y-charlas-asi-fue-el-reencuentro-de-sofi-martinez-y-diego-leuco-en-pleno-evento/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-16T17:39:06+00:00",
+     "copete": "A casi tres años de su separación, la expareja de periodistas llamó la atención al mostrar la cercanía de ambos en una inauguración",
+     "id": "7f31b2e8ef1d"
+    },
+    {
      "title": "Diego Topa celebró el Día del Niño con una tierna foto retro: “Hoy abrazo fuerte a mi pequeño”",
      "link": "https://www.infobae.com/teleshow/2026/08/16/diego-topa-celebro-el-dia-del-nino-con-una-tierna-foto-retro-hoy-abrazo-fuerte-a-mi-pequeno/",
      "source": "Teleshow (Infobae)",
@@ -185,14 +249,6 @@
      "id": "d3af644d63f9"
     },
     {
-     "title": "Selena Gomez y su madre fueron demandas por fraude: qué respondió el defensor de la actriz",
-     "link": "https://www.clarin.com/espectaculos/selena-gomez-madre-demandas-fraude-respondio-defensor-actriz_0_qeQ5YeOIfi.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-16T15:59:20+00:00",
-     "copete": "Ambas fueron acusadas ante la Justicia por un grupo de inversores de su empresa \"Wondermind\", dedicada a la salud mental. Los presuntos afectados alegan movimientos desleales por parte de la mega estrella estadounidense y sus socias.",
-     "id": "f91c836b3c42"
-    },
-    {
      "title": "Moria Casán cumple 80: los emotivos mensajes de los famosos a la icónica diva",
      "link": "https://www.infobae.com/teleshow/2026/08/16/moria-casan-cumple-80-los-emotivos-mensajes-de-los-famosos-a-la-iconica-diva/",
      "source": "Teleshow (Infobae)",
@@ -207,46 +263,6 @@
      "published": "2026-08-16T14:23:49+00:00",
      "copete": "En PH, Podemos Hablar, el actor abrió su corazón con respecto a la situación que atraviesa desde que su expareja, la China Suárez, decidió vivir en Turquía junto a Mauro Icardi",
      "id": "49f5860eaefd"
-    },
-    {
-     "title": "Cami Homs mostró la fiesta de cumpleaños que le organizó a su hijo y los fans apuntaron contra Rodrigo De Paul por su ausencia",
-     "link": "https://www.lanacion.com.ar/espectaculos/cami-homs-mostro-la-fiesta-de-cumpleanos-que-le-organizo-a-su-hijo-y-los-fans-apuntaron-contra-nid16082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-16T14:13:05+00:00",
-     "copete": "El pequeño celebró sus cinco años con una temática integral basada en la Scaloneta; el festejo reafirmó la admiración del pequeño por su padre mediante guiños estéticos y deportivos en cada detalle de la organización",
-     "id": "73c2afbe53d8"
-    },
-    {
-     "title": "Luck Ra se emocionó en vivo en su show luego de su separación de La Joaqui: “Yo ya sé quién soy”",
-     "link": "https://www.infobae.com/teleshow/2026/08/16/luck-ra-se-emociono-en-vivo-en-su-show-luego-de-su-separacion-de-la-joaqui-yo-ya-se-quien-soy/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-16T13:52:43+00:00",
-     "copete": "En medio de un show en Bariloche, el artista cordobés habló a corazón abierto ante el difícil momento que viene atravesando desde su ruptura con la referente de RKT",
-     "id": "53db2b05091f"
-    },
-    {
-     "title": "Fue la mujer más deseada del mundo, transmitía sex appeal a los argentinos y ahora no le alcanza para vivir",
-     "link": "https://www.lanacion.com.ar/espectaculos/fue-la-mujer-mas-deseada-del-mundo-transmitia-sex-appeal-a-los-argentinos-y-ahora-no-le-alcanza-para-nid13082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-16T13:50:45+00:00",
-     "copete": "Ilona Staller, conocida mundialmente como Cicciolina, enfrenta hoy una realidad económica compleja tras décadas de fama; su historia mezcla espionaje, política, escándalos judiciales y un legado cultural imborrable en el país",
-     "id": "fd49831652d7"
-    },
-    {
-     "title": "Jerónimo, el hijo de Julián Weich que se alejó de los lujos y construyó su propia casa sustentable en Córdoba",
-     "link": "https://www.lanacion.com.ar/espectaculos/asi-es-la-casa-sustentable-del-hijo-de-julian-weich-en-cordoba-nid14082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-16T13:34:58+00:00",
-     "copete": "Jerónimo “Momo” Weich levantó junto a su pareja su propia vivienda en Los Hornillos; a través de sus redes sociales detalló todo el proceso de realización",
-     "id": "b219b3afaefc"
-    },
-    {
-     "title": "De estrella infantil a productora en Europa: la nueva vida de Valeria Britos",
-     "link": "https://www.lanacion.com.ar/espectaculos/de-estrella-infantil-a-productora-en-europa-la-nueva-vida-de-valeria-britos-nid15082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-16T13:24:03+00:00",
-     "copete": "La actriz que cautivó a la audiencia en los 90 dejó atrás los estudios de televisión para emprender un camino artístico en el exterior junto a su familia",
-     "id": "c581a5c5989f"
     },
     {
      "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 16 de agosto de 2026 en Argentina",
@@ -281,7 +297,7 @@
     {
      "title": "Blanca Oteyza vuelve a Buenos Aires con su homenaje a Margarita Xirgu",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcllXclZJMVRlNk1GVDJBN0VEaTl1ZFlSYTYxTHZ4ZUgyRmM0MXdmcXh0UlBBczZGTjlrUE1yenlrdExwTTdkMW1CRzczeVBhRDM2a083TXZrRFI0bDJxYmhLM0ZZbEp6bXhOSHNROEs1MVJTMUlEeEFCa1BIV3l4NnJLM2gyUzVGd2JfM09sRFpUYktFdHZJM3J4SmlSX2NVS1ppT2FYRnJqX0o0NlE?oc=5",
-     "source": "KCH FM",
+     "source": "kchcomunicacion",
      "published": "2026-08-15T11:28:32+00:00",
      "id": "150d7bffa4f6"
     },
@@ -298,13 +314,6 @@
      "source": "Infobae",
      "published": "2026-08-15T06:05:00+00:00",
      "id": "adfd00af7c03"
-    },
-    {
-     "title": "Nominaciones de la 16ª edición de los Premios Hugo al Teatro Musical",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakJmOE5NNGd2TnFYY3lvelNFTkhCRGVWZFZ5QUdRYjZNRWVKT0VwY1lSSUh1YW96ZS1CaEp0Rko4U05tZG1qRElIblFKbGVXRHZJaGRjNWR2R1RzX3EwdUVfeFBTeTMzMlQ0VF9tTnJzY2h0TGtwZVE2V3FDYWZNRlo3dFZNR3pFaTl1VlNOdkE0eE9PSEdhVlJ5VUJiXzQ?oc=5",
-     "source": "agenciadaf.com.ar",
-     "published": "2026-08-15T01:37:00+00:00",
-     "id": "ab3c7cbebf08"
     },
     {
      "title": "“Luna y su galaxia”: la obra infantil que emociona a grandes y chicos llega al Teatro Border durante agosto",
@@ -328,6 +337,13 @@
      "id": "0f4b24d5d164"
     },
     {
+     "title": "Premios Hugo: todos los nominados al teatro musical 2025/26 - Diario El Norte",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelk4UTZlaUJ1cER5UjkwRlJiZVNZaUVhWTd0dHc3dzdkSVc0OXdualVlbVhXS09pZkFVc2VnbzdpZjRWQlRhQVEtRE51OXlOZ0Z6TkF6UHZrLTZseUlnenRjNVl4dWFxYkRVSUxRbnNxMEY5ZHVka0Z1Y29lay1nWFE5eHZITHhXU1A1TFNycFV3QQ?oc=5",
+     "source": "San Nicolás",
+     "published": "2026-08-14T20:02:10+00:00",
+     "id": "70fb770d3d04"
+    },
+    {
      "title": "Qué hacer en Buenos Aires este fin de semana largo de agosto: las mejores opciones",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTF81alcyUkRVQlpIMjJoSDVNVzlFYWw5WkRPZDltUHVYNkJ0WmhYRC0xa0pVREpZOUt6d2ZkeGxwWHVnaWVOVDdadmdsR2V4bi03WjdNbG90QTdHT2JqRzd6endDSUNOUmpuYVl4Z3AxYVJ2c0UxMDhQekxTTU9SYVJQQWVid25NMVp2aVZXVWE5QS1EZ3N2dVpxRWpFN3lkX1RkYjhla0IyQXJ1UVZkUEd0aHVnUWFkb0g4OXV2TV9tcUVIOVHSAcYBQVVfeXFMTkxfNWpXMlJEVUJaSDIyaEg1TVc5RWFsOVpET2Q5bVB1WDZCdFpoWEQtMWtKVURKWTlLendmZHhscFh1Z2llTlQ3WnZnbEdleG4tN1o3TWxvdEE3R09iakc3enp3Q0lDTlJqbmFZeGdwMWFSdnNFMTA4UHpMU01PUmFSUEFlYnduTTFadmlWV1VhOUEtRGdzdnVacUVqRTd5ZF9UZGI4ZWtCMkFydVFWZFBHdGh1Z1FhZG9IODl1dk1fbXFFSDlR?oc=5",
      "source": "Viajando.Travel",
@@ -337,7 +353,7 @@
     {
      "title": "Mendoza celebra su gastronomía: el Senado distinguió a los nueve restaurantes con Estrella MICHELIN",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeXdrX2RjdmxEUGU1dEpua0RDSUxsYmF3UTNPRTdsbnZjSzZfSDZiRkZZbkZ2U1RXQXRQcEtGYk5Uc2FHYThWVmF5Slc4MF9qbFRmaWFtcExORHJpbkkxaHlscERuR0RfLUxXY29TTnN1M0JRUTREYzhzMWYzYVktSExyMGwwVmV1Ujdja21RNmVNNjRjSVRLc2ZjOEtpZ0xIR0FjTTctMHMtU2V6LXBiU016eUV6T2ZtbWFONVBCRzYyTHBLVmh3WnpNeE5iSkNENEZZ?oc=5",
-     "source": "minutoya.com.ar",
+     "source": "MinutoYA",
      "published": "2026-08-14T15:51:52+00:00",
      "id": "5db4212ddaf4"
     }
@@ -349,84 +365,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Escribió que planeó el asesinato de Tupac Shakur, cobró por contarlo y ahora dice que fue pura ficción",
-     "link": "https://www.infobae.com/cultura/2026/08/16/escribio-que-planeo-el-asesinato-de-tupac-shakur-cobro-por-contarlo-y-ahora-dice-que-fue-pura-ficcion/",
-     "source": "Infobae",
-     "published": "2026-08-16T16:43:54+00:00",
-     "copete": "En el libro ‘Compton Street Legend’, Duane Davis alardeó de su participación. Estas memorias, de las que ahora se retracta, son una prueba relevante en el juicio que comienza esta semana",
-     "id": "9a7507ad0c16"
-    },
-    {
-     "title": "Victor Glover, piloto del Artemis II: “La vida en Orión era íntima, éramos un solo organismo”",
-     "link": "https://www.lanacion.com.ar/ciencia/victor-glover-piloto-del-artemis-ii-la-vida-en-orion-era-intima-eramos-un-solo-organismo-nid16082026/",
+     "title": "Ocho interrogantes detrás del programa de aviones F-16 que el Gobierno no responde",
+     "link": "https://www.lanacion.com.ar/politica/ocho-interrogantes-detras-del-programa-de-aviones-f-16-que-el-gobierno-no-responde-nid16082026/",
      "source": "La Nación",
-     "published": "2026-08-16T16:40:58+00:00",
-     "copete": "El astronauta reveló detalles sobre la convivencia extrema en la cápsula espacial; destacó la cohesión necesaria para superar los desafíos técnicos y físicos de la misión",
-     "id": "2a02593b5a89"
+     "published": "2026-08-16T18:49:55+00:00",
+     "copete": "Temas como los misiles, la capacidad y los plazos de entrega se encuentran bajo secreto militar; LA NACION visitó el hangar que los aloja en Córdoba mientras siguen las obras en Tandil, su destino final",
+     "id": "fd9a30f94760"
     },
     {
-     "title": "Honduras enfrenta una crisis de sequía en 75 municipios y alcaldes piden acelerar obras para garantizar agua",
-     "link": "https://www.infobae.com/honduras/2026/08/16/honduras-enfrenta-una-crisis-de-sequia-en-75-municipios-y-alcaldes-piden-acelerar-obras-para-garantizar-agua/",
-     "source": "Infobae",
-     "published": "2026-08-16T16:38:23+00:00",
-     "copete": "Las municipalidades plantean pasar de la distribución inmediata a una estrategia con infraestructura para almacenar y aprovechar el recurso, con obras como cosechadoras de agua, pozos y sistemas de riego.",
-     "id": "bb7318d115e0"
-    },
-    {
-     "title": "República Dominicana tendrá más mayores de 60 años que menores de 15 en 2044, según la Oficina Nacional de Estadística",
-     "link": "https://www.infobae.com/republica-dominicana/2026/08/16/republica-dominicana-tendra-mas-mayores-de-60-anos-que-menores-de-15-en-2044-segun-la-oficina-nacional-de-estadistica/",
-     "source": "Infobae",
-     "published": "2026-08-16T16:37:05+00:00",
-     "copete": "Las proyecciones oficiales anticipan un cambio en la estructura etaria del país, con una relación de 100.38 adultos mayores por cada 100 niños, en un escenario que presionará la salud, las pensiones y el empleo",
-     "id": "9c14de88410b"
-    },
-    {
-     "title": "Qué aporta la avena antes de dormir dentro de una rutina saludable de sueño, según la evidencia",
-     "link": "https://www.infobae.com/salud/2026/08/16/que-aporta-la-avena-antes-de-dormir-dentro-de-una-rutina-saludable-de-sueno-segun-la-evidencia/",
-     "source": "Infobae",
-     "published": "2026-08-16T16:35:10+00:00",
-     "copete": "El interés creció por su combinación de carbohidratos complejos, fibra y triptófano, un perfil que se estudia por su posible papel en la producción de serotonina y melatonina",
-     "id": "21850da20334"
-    },
-    {
-     "title": "Las redadas de ICE golpean a la construcción en Texas: empresarios advierten por falta de trabajadores",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/las-redadas-de-ice-golpean-a-la-construccion-en-texas-empresarios-advierten-por-falta-de-nid16082026/",
+     "title": "Javier Milei reposteó un irónico mensaje contra Facundo Moyano tras el escándalo con su novia en Belgrano",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-reposteo-un-ironico-mensaje-contra-facundo-moyano-tras-el-escandalo-con-su-novia-en-nid16082026/",
      "source": "La Nación",
-     "published": "2026-08-16T16:18:17+00:00",
-     "copete": "Conoce cómo las redadas de ICE afectan la construcción en Texas y por qué empresarios advierten a los legisladores sobre las elecciones de noviembre.",
-     "id": "332f5da1e193"
+     "published": "2026-08-16T18:49:43+00:00",
+     "copete": "El mandatario difundió en redes una crítica contra el exdiputado, protagonista de un confuso episodio junto a la modelo Candela Arizaga",
+     "id": "a1db4a888bac"
     },
     {
-     "title": "Noticias de Texas: nueva encuesta muestra que Abbott mejora su posición frente a Hinojosa para gobernador",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-de-texas-nueva-encuesta-muestra-que-abbott-mejora-su-posicion-frente-a-hinojosa-para-nid15082026/",
+     "title": "Cuáles son los animales más limpios, según la ciencia",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/16/cuales-son-los-animales-mas-limpios-segun-la-ciencia/",
+     "source": "Infobae",
+     "published": "2026-08-16T18:48:22+00:00",
+     "copete": "Estudios permiten comparar distintas formas de higiene, desde el acicalamiento del cuerpo hasta la organización de residuos y el cuidado del entorno",
+     "id": "bf984a32e8a5"
+    },
+    {
+     "title": "Escalaron un balcón para robar un departamento en Balvanera: la insólita maniobra de uno de los ladrones para esconderse",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/escalaron-un-balcon-para-robar-un-departamento-en-balvanera-la-insolita-maniobra-de-uno-de-los-ladrones-para-esconderse/",
+     "source": "Infobae",
+     "published": "2026-08-16T18:47:20+00:00",
+     "copete": "Los tres delincuentes son de nacionalidad chilena y tienen 28, 30 y 33 años. Las cámaras del Centro de Monitoreo Urbano siguieron en vivo su recorrido tras el robo y guiaron a los policías hasta detenerlos",
+     "id": "28f04ff9df99"
+    },
+    {
+     "title": "Sarmiento le gana a Huracán en Junín por la fecha cinco del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/08/16/continua-la-fecha-5-del-torneo-clausura-la-agenda-con-los-partidos-de-la-jornada/",
+     "source": "Infobae",
+     "published": "2026-08-16T18:45:28+00:00",
+     "copete": "El Verde se enfrenta al Globo. A las 20:15 jugarán Barracas Central-Rosario Central y Central Córdoba de Santiago del Estero-Instituto de Córdoba",
+     "id": "5c5430edfd6c"
+    },
+    {
+     "title": "Ucrania lanzó uno de sus mayores ataques aéreos sobre Rusia: al menos 13 muertos en una lluvia de drones",
+     "link": "https://www.lanacion.com.ar/el-mundo/ucrania-lanzo-uno-de-sus-mayores-ataques-aereos-sobre-rusia-al-menos-13-muertos-en-una-lluvia-de-nid16082026/",
      "source": "La Nación",
-     "published": "2026-08-16T16:13:16+00:00",
-     "copete": "Mira cómo Abbott lidera a Hinojosa por cuatro puntos y Paxton supera por uno a Talarico en Texas, según una nueva encuesta de Emerson.",
-     "id": "e02c9f8c49dd"
+     "published": "2026-08-16T18:40:49+00:00",
+     "copete": "Kiev intensificó su ofensiva de largo alcance con un ataque que alcanzó la región de Moscú y otros puntos del país",
+     "id": "4a34af99ae5e"
     },
     {
-     "title": "Cómo eligen los gatos a su persona favorita y cuál es la razón detrás",
-     "link": "https://www.lanacion.com.ar/lifestyle/mascotas/como-eligen-los-gatos-a-su-persona-favorita-y-cual-es-la-razon-detras-nid16082026/",
+     "title": "La catarata de bajas que sufrió Boca Juniors de cara a la revancha ante Recoleta: el sugerente mensaje de Leandro Paredes",
+     "link": "https://www.infobae.com/deportes/2026/08/16/la-catarata-de-bajas-que-sufrio-boca-juniors-de-cara-a-la-revancha-ante-recoleta-el-sugerente-mensaje-de-leandro-paredes/",
+     "source": "Infobae",
+     "published": "2026-08-16T18:38:40+00:00",
+     "copete": "El Xeneize padece varias lesiones, incluida la de su máximo referente. El martes se jugará el pase a los cuartos de final de la Copa Sudamericana",
+     "id": "ba07b2ca5b87"
+    },
+    {
+     "title": "Fue una de las mujeres más sexis de los 2000, brilló en la TV, pero se alejó de todo y disfruta su vida de casada con Ellen DeGeneres",
+     "link": "https://www.lanacion.com.ar/espectaculos/fue-una-de-las-mujeres-mas-sexis-de-los-2000-brillo-en-la-tv-pero-se-alejo-de-todo-y-disfruta-su-nid16082026/",
      "source": "La Nación",
-     "published": "2026-08-16T16:06:55+00:00",
-     "copete": "Especialistas en comportamiento animal analizan los factores biológicos y cotidianos que definen la jerarquía afectiva de los gatos; el rol del cuidador en el entorno doméstico resulta determinante",
-     "id": "6250938534a5"
+     "published": "2026-08-16T18:36:38+00:00",
+     "copete": "Lejos de los sets de grabación, la celebridad australiana se volcó de lleno a la conservación de los gorilas junto a su esposa la famosa conductora; cómo es su nueva realidad entre Inglaterra y la selva africana",
+     "id": "ef77167ab28c"
     },
     {
-     "title": "Selena Gomez y su madre fueron demandas por fraude: qué respondió el defensor de la actriz",
-     "link": "https://www.clarin.com/espectaculos/selena-gomez-madre-demandas-fraude-respondio-defensor-actriz_0_qeQ5YeOIfi.html",
+     "title": "Luck Ra se puso a llorar en pleno show por las críticas a su apariencia, tras su separación de La Joaqui",
+     "link": "https://www.clarin.com/fama/luck-ra-puso-llorar-pleno-show-criticas-apariencia-separacion-joaqui_0_Q19iTi0bfL.html",
      "source": "Clarín",
-     "published": "2026-08-16T15:59:20+00:00",
-     "copete": "Ambas fueron acusadas ante la Justicia por un grupo de inversores de su empresa \"Wondermind\", dedicada a la salud mental. Los presuntos afectados alegan movimientos desleales por parte de la mega estrella estadounidense y sus socias.",
-     "id": "f91c836b3c42"
+     "published": "2026-08-16T18:15:29+00:00",
+     "copete": "El cantante recibió numerosos comentarios negativos luego de que terminara su vínculo con la artista. Durante una presentación en Bariloche, dejó un mensaje sobre la importancia de aceptarse tal como uno es.",
+     "id": "707d419e1ca9"
     },
     {
-     "title": "\"Experto en paros\": Javier Milei se burló de Facundo Moyano tras el escándalo con su novia Candela Arizaga",
-     "link": "https://www.clarin.com/politica/experto-paros-javier-milei-burlo-facundo-moyano-escandalo-novia-candela-arizaga_0_MFlpI3KPEf.html",
+     "title": "Un comerciante mató a tiros a un adolescente de 16 años que habría intentado robarle la camioneta en Mar del Plata",
+     "link": "https://www.clarin.com/policiales/comerciante-mato-tiros-adolescente-16-anos-intentado-robarle-camioneta-mar-plata_0_YDC0khrjNH.html",
      "source": "Clarín",
-     "published": "2026-08-16T15:36:42+00:00",
-     "copete": "El Presidente compartió un posteo en su cuenta de Instagram en el que aludió al episodio en el que la pareja del exdiputado fue vista corriendo semidesnuda por Belgrano. En su versión pública del hecho, Moyano dijo que la joven sufrió un…",
-     "id": "c87a92508a9f"
+     "published": "2026-08-16T18:12:11+00:00",
+     "copete": "Ocurrió a las 4.30 de la madrugada en el barrio Regional. Otro joven de 15 años sufrió la pérdida de tres dedos de una mano. El tirador estaba dentro del auto vigilando su local, que había sido robado hora antes. Quedó detenido.",
+     "id": "5c06ae8ce7a1"
     }
    ]
   },
@@ -436,20 +452,20 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
+     "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
+     "source": "El País Internacional",
+     "published": "2026-08-16T18:31:26+00:00",
+     "copete": "El presidente y el hijo de Bolsonaro arrancan la campaña para los comicios de octubre con un empate técnico en los sondeos",
+     "id": "b2f0f5a8b9a3"
+    },
+    {
      "title": "Dos muertos y cuatro heridos en un incendio en la isla griega de Salamina",
      "link": "https://elpais.com/internacional/2026-08-16/dos-muertos-y-cuatro-heridos-en-un-incendio-en-la-isla-griega-de-salamina.html",
      "source": "El País Internacional",
      "published": "2026-08-16T16:06:16+00:00",
      "copete": "El fuerte viento dificulta las labores de extinción del fuego, que se expande con rapidez en dos focos",
      "id": "d93aa5f03614"
-    },
-    {
-     "title": "Lula arranca la campaña para conquistar un cuarto mandato: “No voy a permitir que la derecha regrese al poder”",
-     "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
-     "source": "El País Internacional",
-     "published": "2026-08-16T15:53:05+00:00",
-     "copete": "Bolsonaro hijo y el presidente de Brasil están en empate técnico en las encuestas",
-     "id": "b2f0f5a8b9a3"
     },
     {
      "title": "Se enamoraron y luego violaron la ley para comprobar que no eran hermanos",
@@ -506,11 +522,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
