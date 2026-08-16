@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T10:43:57.154504+00:00",
+ "generated_at": "2026-08-16T13:05:34.131268+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,25 +7,25 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Five Under 5: Top Oncology Videos for the Week of 8/9",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFlnN2VEVXhUcDNKRDJyZWxfR0xUejF5OWxBenhsR3dFaEt2MU1WeVJtdWxiNEtVaTVGSHdSbGp1d3h5YTdYLVJFdXNUaGVRQkhWaGltajVVZ3JZcUFzSUNmUngwNXp4d2phZ2lKS3RETkJLZlNqUlJ6QTBsb2ZiYjVlMXp0cnpY?oc=5",
+     "source": "onclive",
+     "published": "2026-08-16T11:03:45+00:00",
+     "id": "0c68f0a6076e"
+    },
+    {
      "title": "Dive into the Data Supporting the FDA Approval of Iberdomide Plus Daratumumab/Dexamethasone in R/R Myeloma",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjN1WUtIMXJKTEZhSU5xNlU3R2dnUy1hVTBRcWt0aF80cjI0b3hVbTFON01tRXZ3YTNzSFdQdV92UGp2ZlFrV25kOXBXeUdHa2Jpc2lteEt4b3dMR0pJc3lmekc5bVI5YzFWS1pBNWRhQjZwV0xFbVpzX1puLVkzdVh5RWotWklTcnlJRjZrZFNOcWp0RjNBU3VkREQ4T2lFRHdQUExxN1JQenNaR0N6YnFNcFJ1bUtpaDNKWm5kTUZMdE9JZkpCcHg2cV9mS1Ex?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-08-16T10:09:11+00:00",
      "id": "a0b62bcac998"
     },
     {
      "title": "The OncFive: Top Oncology Articles for the Week of 8/9",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1NOZ0ZyRzJGOVdycnZqWGpBamoxWHN4VmVNeFJZU0ZNUEZIanNkUXFqWHUxMzlKSm03YWxudTVHY3o4SV8yS21UQ0dWcmRsMVp3eTVMQ0IzUnE3ZDFXX0Eya29tMExLMVIwU1UtU09yOVhGSTlxWkt1c0ZucWoyaVBqSHNOUmxBcEE?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-08-15T12:07:08+00:00",
      "id": "60b41eba757b"
-    },
-    {
-     "title": "Spotlighting the lidERA Trial in Breast Cancer",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZDVQQk9lVEhwb29GajhoVUpmTENmekhuajNtS25fQVpjUWhKak9uZ212Z0tPT1dpUXBueFRfZm9SUHdDSHg2aV9QTkp6b2Y1S2QtbkZna3UxS2hLZ0pRTFJtTHdkSVdXdXR1RmdXYng0dmJaby1IaDFFZmpVb21aMkdYRQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-15T03:19:01+00:00",
-     "id": "5d74532d3b27"
     },
     {
      "title": "What Is the Optimal PSA to Determine Prostate Cancer Treatment Efficacy?",
@@ -65,36 +65,20 @@
      "id": "1c38a047d30e"
     },
     {
-     "title": "Redefining Progression in a Rapidly Evolving Therapeutic Landscape",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593813/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Vasan N et al. · JAMA oncology",
-     "id": "3e9b1753d2e9"
+     "title": "COMBI-I: Long-Term Overall Survival With Spartalizumab Plus Dabrafenib and Trametinib in BRAF V600-Mutant Advanced Melanoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42585631/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-12T00:00:00+00:00",
+     "copete": "Ribas A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "81f54de2f1de"
     },
     {
-     "title": "Oral Ulcers in a Patient With Myelodysplastic Syndrome",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593812/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Torres-Saavedra F et al. · JAMA oncology",
-     "id": "ca6ee5a8a9f8"
-    },
-    {
-     "title": "Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593785/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Shaver AL et al. · JAMA oncology",
-     "id": "5560b043d95b"
-    },
-    {
-     "title": "Managing Metabolic Syndrome and Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42593778/",
-     "source": "JAMA Oncology",
-     "published": "2026-08-13T00:00:00+00:00",
-     "copete": "Marshall CH et al. · JAMA oncology",
-     "id": "02706adc0cac"
+     "title": "Prognostic and Predictive Effect of Age in Molecularly Defined Lower-Grade Gliomas",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42585601/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-12T00:00:00+00:00",
+     "copete": "Kinslow CJ et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "a39c08ada4ce"
     }
    ]
   },
@@ -104,78 +88,78 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "30 Gingham Decor Pieces to Bring the Checkered Trend Home",
-     "link": "https://www.vogue.com/article/gingham-decor",
+     "title": "A Timeline of Cristiano Ronaldo and Georgina Rodríguez’s Relationship",
+     "link": "https://www.vogue.com/article/a-brief-timeline-of-cristiano-ronaldo-and-georgina-rodriguez-relationship",
      "source": "Vogue",
-     "published": "2026-08-16T10:00:00+00:00",
-     "copete": "Bring a bit of pattern home with some gingham decor—from pillows to blankets to even a bed frame, these are our favorites from brands like Hawkins New York, Serena & Lily, and more.",
-     "id": "b2656db23731"
+     "published": "2026-08-16T12:01:10+00:00",
+     "copete": "Ronaldo and his longtime partner, Georgina Rodríguez, tied the knot on Tuesday, August 11 in Cascais, Portugal after a decade together.",
+     "id": "f1f0b7306050"
     },
     {
-     "title": "Ask Earl With Laurel Pantin: How to Layer in a Heat Wave",
-     "link": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+     "title": "From the Archives: Escape to Formentera With Consuelo Castiglioni",
+     "link": "https://www.vogue.com/article/from-the-archives-everything-goes",
      "source": "Vogue",
-     "published": "2026-08-16T10:00:00+00:00",
-     "copete": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
-     "id": "8934ba7774cf"
+     "published": "2026-08-16T12:00:00+00:00",
+     "copete": "The couple who have made Marni the label of choice for chic hippie nomads, writes Hamish Bowles, satisfy their wanderlust with a rough-hewn island getaway.",
+     "id": "6998b9a1f4c3"
+    },
+    {
+     "title": "Exclusive Photos: Inside Cristiano Ronaldo and Georgina Rodríguez’s Intimate Wedding",
+     "link": "https://www.vogue.com/article/cristiano-ronaldo-and-georgina-rodriguez-wedding",
+     "source": "Vogue",
+     "published": "2026-08-16T12:00:00+00:00",
+     "copete": "“It was exactly as I’d imagined it,” Georgina Rodríguez tells Vogue exclusively of her wedding to Cristiano Ronaldo at home in Portugal.",
+     "id": "1f1d7b5fdf4f"
+    },
+    {
+     "title": "Juan Avellaneda, diseñador: “La tendencia más fuerte en zapatillas para el próximo Otoño/Invierno va a ser las ultrafinas tipo derby o tipo jazz”",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmYwWU5IcmxwMlVaMm41OTl3enNqRmk2LVVBZDY0VjIyT2x1Wm5ldVd6RkR2Ti1UUGlQS1lvME5jMHB3azUxOXB2blFSUHNvc0hJZmNpRWVBblFzMjlFenA4N2xkclVNaFYwRk9CUUVPa1JJMWVLSG9JZ1BRWE5kSFdRcC1FbE9pWWFDOGJsMDNqRGNHbkJCRy1wWm9VTml1eG13d0ZvdGM3SUdpZ1dr?oc=5",
+     "source": "Revista CLARA",
+     "published": "2026-08-16T12:00:00+00:00",
+     "id": "39cbe563d42d"
+    },
+    {
+     "title": "El regreso del vaquero: por qué las faldas maxi vuelven a estar de moda - es-us.vida-estilo.yahoo.com",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUVOSlpSbFFvTktRTXVkS0lvSFQ0em05RjRvZTVBQ0NIeGcwTWE5cFZkRmpxYmFIU2x0eDVlUjh5UGgyejZCWVdPbm15dFg4Q09nMWJEQmpycFdWOVhFT0JUVUVJcUkwWFJJRDVqMktGOU1POTlKVGdkN0tEYl9ULWdYTS1EQ1BTTkZ2dEVoMA?oc=5",
+     "source": "Moda (Google News)",
+     "published": "2026-08-16T11:45:38+00:00",
+     "id": "62c12bf998b0"
+    },
+    {
+     "title": "Ariana Grande Debuts a New Tattoo With a Not-So-Secret Reference",
+     "link": "https://www.vogue.com/article/ariana-grande-debuts-a-new-tattoo",
+     "source": "Vogue",
+     "published": "2026-08-16T11:37:26+00:00",
+     "copete": "For London’s first Eternal Sunshine show, Ariana Grande debuted the “I do love you” tattoo on her collarbone, which matches boyfriend Ricky Alvarez.",
+     "id": "37f1aee90797"
+    },
+    {
+     "title": "Tendencias de maquillaje primavera-verano 2026: una guía para no dejar pasar",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDBCM0VlMUo5NXhSclhTZWtsNzNXUTl1UURlOEpMTUloazgyajl6clhVOEt3Wk1sQThJUEF3b3lhOEFVVUU2T3ZIUDI5TmVPZk5aYmdTNktEclF3ZS1lbUZxUnRKT0duRUVmc3d1UFQ1NG0wM0I4eWQ1VmtpcVFNbGVZbzIzQXlJMjVOWF95QWlIWlJHQWxpQS1JWktEb2p5VTI5azFtQzVfSTBiRWMybWkzS04wUWVz?oc=5",
+     "source": "Diario de Cuyo",
+     "published": "2026-08-16T11:21:00+00:00",
+     "id": "a19b47350cef"
+    },
+    {
+     "title": "Horóscopo de hoy: 16 de agosto de 2026",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQXpUQTVyV0o0eEpZWGtyV0N1ODgyMjZwY0lpcXJSc1Q1WnlDdTlXYVhYanBqaERGNU9QX2hidlRWdXdHdDVhWXdXUWlYcUdtQXNXbmJ6QlhkamlxMVBLVm5hUzU1aHBTTjQ3NV9rRjFVNjBQcDhtN2prVTdNb3lFQg?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-08-16T11:00:00+00:00",
+     "id": "890e7f5e0f89"
     },
     {
      "title": "Copenhague ya ha hablado: así vestiremos en otoño de 2026",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVRWSTlGNjBlTkJPVmtnOWV5NGN2MDYtNUFZRmpRSmFxMXRaQ3Jjb0ViQ0NBUkpSUWh0UGVxb3pOX21oNUxZX3BNS3Ayd3l0NEY5WFpYMWMyQWxOYkJ5WC1fcEtWNnVDZzZENWhENnB2Vk5XTjlZT0lycVhWMjhwTHNoQmFjVWd0MzNiZXRsUHV6YkdxR2MxM193cjJEWHQ3b0s5eVhFaTY?oc=5",
-     "source": "larazon.es",
+     "source": "La Razón",
      "published": "2026-08-16T09:00:00+00:00",
      "id": "556593b697fc"
     },
     {
-     "title": "Las españolas y las francesas adelantamos ya la mayor tendencia de otoño de 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlZPRlNvM1hIMlRUTlF1TmxjbWNzUDZibmlvWS0zcDlyNW5DSnRTNXV2SDFIdjRuUXpWXzZvbVpic2xGdzhWVjdOeExpUWFIZVZuTFRnbUpOZ2NvbV9mVG5OME9jUmZFcXdUcHRCdzhmWHJvQmlfVXBERnZod2dCVXlhMkVNa09jUHBOTHpLUVZhSlpCb1ZocWtRWkROYkx2c2I3NlRrdjlWSVQ4RHYxNHFZNWdJN3ZudlNnV0l3SWw?oc=5",
-     "source": "ELLE",
-     "published": "2026-08-16T07:02:15+00:00",
-     "id": "0f8989bd081a"
-    },
-    {
-     "title": "De Nieves Álvarez a Eva Herzigová... Hablamos con los expertos sobre las tendencias en novias de más de 50",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wa2c5aC0zdk9DbTRJdkE3Q3AtSW96NjZFN3dCZ1U5Qk5ad2JseWNiOFh4enVhMUd2aTFJRzlSQVdIWTlmQzhsU2U3T1dDQUJVZ2lRaG1jTHlmT3dIYUp2QVZpYzFTREUzT1E2YVc3ZG1zLU9ZWGpqbNIBeEFVX3lxTE5mdlFtVHdCUnVMY2FreWVhQXV0TWtOZjlRUm52OXlndWJhdlVfTVVXbFZXX2E1MmFUNjRjWEVFOWFDbnJqYnVRdWdzeDJyQnlFNS1DaE4wcnNoekY5U0hCcHctbjMxTG15Y1RVS3hpSXZ6ODRDYzBXTw?oc=5",
-     "source": "Telva",
-     "published": "2026-08-16T06:12:40+00:00",
-     "id": "16da07849408"
-    },
-    {
-     "title": "Ni zapatos planos ni tacones: este es el calzado cómodo pero que estiliza que no se quitan las danesas",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeE1OdXBJTXc2YWtmekFhdDZack1jOFFucENzcHd6Yi1ONWh1bzJ2RnhEZUIzNTBvYkNGemVZVmprbnZpN2lHQnp1SFFpaVFibWd2eWxZMmtKcGlNQjNVNlVKanhTajhDQ05YWnNZZ2NhTmNOVzdkR0htRXVZdWVEQVNQMU1CMFI4X0pZeHFhQnNLb19rNUtHMzVlSHI0Qnd4bjdrd3hsUEYyRDlfMlR1b1ZwUUp2cjdX?oc=5",
-     "source": "harpersbazaar",
-     "published": "2026-08-16T06:08:50+00:00",
-     "id": "a193c1da8e85"
-    },
-    {
-     "title": "Un hijo propio: La historia real del documental de Netflix",
+     "title": "Un hijo propio: La historia real del doloroso documental de Netflix",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRMzdhUDdGM1FmS0NuZm9DVU4wOXZZX2NhU1NYT19fNy1EVlFtQ3AtVC1Nc05WdXQtSkdoYjQxajE3YzNPZW01RktWdlpuZWVYN1Zoay1nbGhjQ1p2akY5cWFOakpGdVhiMERORFZiWF9aTGg0?oc=5",
      "source": "vogue.mx",
      "published": "2026-08-16T01:42:31+00:00",
      "id": "08317b019970"
-    },
-    {
-     "title": "As Bulldozers Arrive at the Border in Big Bend, Here’s What You Can Still Do to Protect the Park",
-     "link": "https://www.vogue.com/article/how-to-help-big-bend-national-park",
-     "source": "Vogue",
-     "published": "2026-08-15T21:00:00+00:00",
-     "copete": "Nonprofits including the Big Bend Protection Alliance and the National Parks Conservation Association are mobilizing to fight Trump's takeover of Big Bend.",
-     "id": "b4f631dd833b"
-    },
-    {
-     "title": "Taylor Swift reaparece después de su boda con un minivestido color jacaranda y sandalias italianas",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY0N6N29HY2tTbjYyZjVpOHlNX19uajRuVVVqdnF6VFhiNFRxRUZNWm9Ed0IzM0NrajFWaE9QVFpQUGhMRHFKVE9uT0lUMmhJT19BSlI3SG05OTNpM3JjWE00UnJUSTZfRjBld1pqUVhwbkVOd2xSTWluQzk0MWxfYjhnVGNWVmQxaUxwdHJHdWpvVXAyamE5S3FNaXNyRFhnMGpPdzV1XzBHSjZt?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-08-15T16:44:17+00:00",
-     "id": "9f36563dfe21"
-    },
-    {
-     "title": "‘Heated Rivalry’ Season 2 Is on Its Way—and It Already Has a Stacked Cast",
-     "link": "https://www.vogue.com/article/everything-we-know-so-far-heated-rivalry-season-2",
-     "source": "Vogue",
-     "published": "2026-08-15T12:00:00+00:00",
-     "copete": "Here’s everything we know so far about the second outing of everyone’s favorite gay hockey show—including its expected air date.",
-     "id": "d148293e67f9"
     }
    ]
   },
@@ -184,6 +168,14 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 16 de agosto de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-16-de-agosto-de-2026-en-argentina_0_tPpALmn3eJ.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-16T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "4ad581776848"
+    },
     {
      "title": "Juan José Campanella y sus recuerdos de El hijo de la novia, que hoy cumple 25 años de su estreno",
      "link": "https://www.clarin.com/espectaculos/juan-jose-campanella-recuerdos-hijo-novia-hoy-cumple-25-anos-estreno_0_k4uNX3BJ7L.html",
@@ -217,20 +209,20 @@
      "id": "ab7c9299710c"
     },
     {
+     "title": "Carlos Portaluppi estrena Dribbling, una obra para reflexionar: “Queremos visibilizar el problema del abuso sexual”",
+     "link": "https://www.infobae.com/teleshow/2026/08/16/carlos-portaluppi-estrena-dribbling-una-obra-para-reflexionar-queremos-visibilizar-el-problema-del-abuso-sexual/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-16T05:00:00+00:00",
+     "copete": "En charla con Teleshow, el actor se refirió al inminente debut de su nuevo espectáculo en el Paseo La Plaza. La química en escena con Franco Masini y el valor del arte para exponer conflictos persistentes en diferentes escenarios",
+     "id": "d3af644d63f9"
+    },
+    {
      "title": "Uno por uno, todos los amores de Moria: pasiones y dolores de una diva popular",
      "link": "https://www.infobae.com/teleshow/2026/08/16/uno-por-uno-todos-los-amores-de-moria-casan-pasiones-y-dolores-de-la-one/",
      "source": "Teleshow (Infobae)",
      "published": "2026-08-16T05:00:00+00:00",
      "copete": "Entre bodas en distintos continentes, relaciones clandestinas, un romance que se niega a revelar y una unión simbólica en la madurez, quiénes fueron los hombres que marcaron su corazón",
      "id": "a935dbd05d07"
-    },
-    {
-     "title": "De “Si querés llorar, llorá” a “Soy el Obelisco con tetas”: 40 frases icónicas de La One",
-     "link": "https://www.infobae.com/teleshow/2026/08/16/del-si-queres-llorar-llora-a-soy-el-obelisco-con-tetas-las-frases-de-moria-marca-registrada/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-16T05:00:00+00:00",
-     "copete": "Moria Casán registró una infinidad de citas que traspasaron el mundo del espectáculo para instalarse en el lenguaje popular argentino. Aquí, una selección de las mejores",
-     "id": "17f093dc2c30"
     },
     {
      "title": "Ana María Casanova antes de ser Moria Casán: la infancia de una mujer que aprendió a construirse a sí misma",
@@ -241,12 +233,12 @@
      "id": "109cd1d42016"
     },
     {
-     "title": "Carlos Portaluppi estrena Dribbling, una obra para reflexionar: “Queremos visibilizar el problema del abuso sexual”",
-     "link": "https://www.infobae.com/teleshow/2026/08/16/carlos-portaluppi-estrena-dribbling-una-obra-para-reflexionar-queremos-visibilizar-el-problema-del-abuso-sexual/",
+     "title": "De “Si querés llorar, llorá” a “Soy el Obelisco con tetas”: 40 frases icónicas de La One",
+     "link": "https://www.infobae.com/teleshow/2026/08/16/del-si-queres-llorar-llora-a-soy-el-obelisco-con-tetas-las-frases-de-moria-marca-registrada/",
      "source": "Teleshow (Infobae)",
      "published": "2026-08-16T05:00:00+00:00",
-     "copete": "En charla con Teleshow, el actor se refirió al inminente debut de su nuevo espectáculo en el Paseo La Plaza. La química en escena con Franco Masini y el valor del arte para exponer conflictos persistentes en diferentes escenarios",
-     "id": "d3af644d63f9"
+     "copete": "Moria Casán registró una infinidad de citas que traspasaron el mundo del espectáculo para instalarse en el lenguaje popular argentino. Aquí, una selección de las mejores",
+     "id": "17f093dc2c30"
     },
     {
      "title": "Evangelina Anderson reveló el insólito pedido que recibió en una noche fogosa: \"Él es muy conocido en el mundo\"",
@@ -271,14 +263,6 @@
      "published": "2026-08-16T03:50:17+00:00",
      "copete": "En medio de una charla sobre el presente personal de Lionel Messi, la diva reveló cómo fue su despedida telefónica con Jorge y conmovió a todos los invitados",
      "id": "1ff0505535ff"
-    },
-    {
-     "title": "Rating: cómo fue la competencia entre Andy Kusnetzoff y Mirtha Legrand",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/rating-como-fue-la-competencia-entre-andy-kusnetzoff-y-mirtha-legrand-nid16082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-16T03:32:25+00:00",
-     "copete": "Desde el debut de PH, Podemos Hablar el encendido de los sábados subió considerablemente",
-     "id": "8f417c5f1ccc"
     }
    ]
   },
@@ -290,7 +274,7 @@
     {
      "title": "Turismo. Finde largo en Buenos Aires: 10 planes gratis para disfrutar la ciudad sin gastar dinero",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWYtY01nUFM2T3p3QnpxallpSTJCdGdlR1MxZnBIX3BkSUlCVDRTbmQzMVJDd0tZUldJQ2NTSTFlWEo1TUc5UF9aMmQ1aXpnSURSVVI1UVROS1U0TGhpdDY2bDRRUzFjZnlMdzJCVHgyd0NXWnhkbkZGREpIZjVqYUVsY1hPSDFGVXNkVEsyT2xwYnBkV0xDTDNBdjRTOEhlX1lVdmpTYlRONDFWZENGbm01UGFxLWxwS0QwcUtkaWkza1U?oc=5",
-     "source": "La Voz del Interior",
+     "source": "lavoz.com.ar",
      "published": "2026-08-16T03:11:16+00:00",
      "id": "6479ac01a4b2"
     },
@@ -304,23 +288,16 @@
     {
      "title": "Buenos Aires, pasado por agua este fin de semana: ¿Cuándo vuelve el sol?",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOE5XOHE3MU03NEpDMHdSWU5ocUxhREhKS0YyMjNFSjM1azdWYW5qRVhHWWV2bFlxblVrZllUX2pxRzNLSGtVZXY2RUZwZGhDVkdqTkZwSXVDaENkc1IwVzB2Mmp0Mm82aTRCbkRnbzVkX3lXdTh1dlQwOFRXcmRfZDlwY3JwUmhkbkV4NVhMMF9MR19LWmoxN3ZnUURkd9IBowFBVV95cUxPT1F5QjZNRDFwZC1ib1pVM0lIUFpoMmM3SThJSW40VGttT0dOM3BCTTdMcEFMZDhVV01TSXJxb2NlVmduTnZQOTZGenpzQWdJU3lBOTRhX2U0TElHeHpKRkFEalF4aWpsRVpjeVNFTFpza2JxdzYxMnFiNU8xaVhlZ1hDY3NtR0JnY1g3cGVqeHEzSmpfVjlvME5FNC1xQUJiTzBz?oc=5",
-     "source": "Crónica",
+     "source": "cronica.com.ar",
      "published": "2026-08-15T11:05:43+00:00",
      "id": "e638fbc92b1e"
     },
     {
      "title": "Clara Ulrich, la artista que dejó todo por amor y construyó una carrera en Miami: “Siempre soñé con actuar en Argentina”",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTG9wRjQ4NTVRMUlnYTg2OTZZcnZIS1RiaTl1c0lMQlNwaUVJYmRDOXZ4MHJxNUFQRENycVg5SXRPRDlVZkZUNHE5bzFZUzdiQXZTcWo1dDlnYkRyUEYtMEZLM2ljWWstSWJoOEhlU1g0REFvNnd2bng4WWtHYzZYOFl0M2t6QVF3WWgxRzd1Q0ZSdlM0YlB1Znh2REczMHBHOXcwX2tQaGpkZE1OSjdJb21hX09QWWNLS1dMNU9BZjFtMkNWSEdodTlPY9IB5gFBVV95cUxOUlRDU1lIbHQtVkZUbDFzMGlMbkZ6RXE1RUhfcExSM3NubmxaWTFKck9yd3ZYQVVhcV9zRVZvWXhQdEFOekdVLVBqOHdwdmUwWno5Q1BscFNoNWFBcWFLN1czR0QwTDBWY3NjelB3ZlVsS1Azd3hDenVxUWM5UDdsSzgzZ1dxeG51aGlUY3lqcmtOMXBuc0ZTZlJPUmUxWVZuYmlVY0MxcGtHNUxJZmtkeUlGS1VyM0hwTmotQThGZUJCTy0zclJyenZlX3A4R2RBRDVHVHc0MzVGSjIzeFZ2dl9rNzFnQQ?oc=5",
-     "source": "infobae",
+     "source": "Infobae",
      "published": "2026-08-15T06:05:00+00:00",
      "id": "adfd00af7c03"
-    },
-    {
-     "title": "Nominaciones de la 16ª edición de los Premios Hugo al Teatro Musical",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQakJmOE5NNGd2TnFYY3lvelNFTkhCRGVWZFZ5QUdRYjZNRWVKT0VwY1lSSUh1YW96ZS1CaEp0Rko4U05tZG1qRElIblFKbGVXRHZJaGRjNWR2R1RzX3EwdUVfeFBTeTMzMlQ0VF9tTnJzY2h0TGtwZVE2V3FDYWZNRlo3dFZNR3pFaTl1VlNOdkE0eE9PSEdhVlJ5VUJiXzQ?oc=5",
-     "source": "agenciadaf.com.ar",
-     "published": "2026-08-15T01:37:00+00:00",
-     "id": "ab3c7cbebf08"
     },
     {
      "title": "“Luna y su galaxia”: la obra infantil que emociona a grandes y chicos llega al Teatro Border durante agosto",
@@ -344,6 +321,13 @@
      "id": "0f4b24d5d164"
     },
     {
+     "title": "Premios Hugo: todos los nominados al teatro musical 2025/26 - Diario El Norte",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNelk4UTZlaUJ1cER5UjkwRlJiZVNZaUVhWTd0dHc3dzdkSVc0OXdualVlbVhXS09pZkFVc2VnbzdpZjRWQlRhQVEtRE51OXlOZ0Z6TkF6UHZrLTZseUlnenRjNVl4dWFxYkRVSUxRbnNxMEY5ZHVka0Z1Y29lay1nWFE5eHZITHhXU1A1TFNycFV3QQ?oc=5",
+     "source": "San Nicolás",
+     "published": "2026-08-14T20:02:10+00:00",
+     "id": "70fb770d3d04"
+    },
+    {
      "title": "Qué hacer en Buenos Aires este fin de semana largo de agosto: las mejores opciones",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTF81alcyUkRVQlpIMjJoSDVNVzlFYWw5WkRPZDltUHVYNkJ0WmhYRC0xa0pVREpZOUt6d2ZkeGxwWHVnaWVOVDdadmdsR2V4bi03WjdNbG90QTdHT2JqRzd6endDSUNOUmpuYVl4Z3AxYVJ2c0UxMDhQekxTTU9SYVJQQWVid25NMVp2aVZXVWE5QS1EZ3N2dVpxRWpFN3lkX1RkYjhla0IyQXJ1UVZkUEd0aHVnUWFkb0g4OXV2TV9tcUVIOVHSAcYBQVVfeXFMTkxfNWpXMlJEVUJaSDIyaEg1TVc5RWFsOVpET2Q5bVB1WDZCdFpoWEQtMWtKVURKWTlLendmZHhscFh1Z2llTlQ3WnZnbEdleG4tN1o3TWxvdEE3R09iakc3enp3Q0lDTlJqbmFZeGdwMWFSdnNFMTA4UHpMU01PUmFSUEFlYnduTTFadmlWV1VhOUEtRGdzdnVacUVqRTd5ZF9UZGI4ZWtCMkFydVFWZFBHdGh1Z1FhZG9IODl1dk1fbXFFSDlR?oc=5",
      "source": "Viajando.Travel",
@@ -365,84 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Procesaron a una funcionaria de La Plata por la presunta compra de cuentas que habría utilizado para lavar $27 mil millones",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/procesaron-a-una-funcionaria-de-la-plata-por-presuntamente-comprar-cuentas-y-usarlas-para-lavar-27-mil-millones/",
-     "source": "Infobae",
-     "published": "2026-08-16T10:33:43+00:00",
-     "copete": "Se trata de una empleada judicial que fue acusada de haber liderado una red de estafas y lavado de dinero. Sospechan que habría utilizado información pública para captar a sus víctimas",
-     "id": "0f11e8cdbffc"
-    },
-    {
-     "title": "El oficialismo busca anotarse una victoria en el Senado antes de fin de mes sin chocar con los aliados",
-     "link": "https://www.infobae.com/politica/2026/08/16/el-oficialismo-busca-anotarse-una-victoria-en-el-senado-sin-chocar-con-los-aliados-antes-de-fin-de-mes/",
-     "source": "Infobae",
-     "published": "2026-08-16T10:33:01+00:00",
-     "copete": "La ley Hojarasca ya está aprobada por Diputados y dictaminada en la Cámara alta, aunque persisten dudas por la relación resentida -por propiedad privada- con el ministro de Desregulación, Federico Sturzenegger. Salud mental, Sociedades y…",
-     "id": "1beeb491394a"
-    },
-    {
-     "title": "Juli Savioli: “‘No sos una mierda como pensás’, me digo”",
-     "link": "https://www.infobae.com/reportajes/2026/08/16/juli-savioli-no-sos-una-mierda-como-pensas-me-digo/",
-     "source": "Infobae",
-     "published": "2026-08-16T10:30:13+00:00",
-     "copete": "Intenta decirse palabras de confianza porque siempre se está castigando. Es talentosa, histriónica y muy graciosa. Su cabeza no le da descanso, quiere ser la mejor y todo lo que no sea productivo le genera culpa. Vive una etapa en la que…",
-     "id": "d1c25b4e708b"
-    },
-    {
-     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 16 de agosto",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-16-de-agosto-nid16082026/",
+     "title": "Confirmación oficial: el próximo fin de semana es largo por un feriado nacional en la Argentina",
+     "link": "https://www.lanacion.com.ar/feriados/2026/confirmacion-oficial-el-proximo-fin-de-semana-es-largo-por-un-feriado-nacional-nid09082026/",
      "source": "La Nación",
-     "published": "2026-08-16T10:18:00+00:00",
-     "copete": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
-     "id": "6efb4ed6b6f5"
+     "published": "2026-08-16T13:03:16+00:00",
+     "copete": "Los ciudadanos podrán disfrutar de un fin de semana extendido de tres días durante el octavo mes del año; qué se conmemora",
+     "id": "93ec20611952"
     },
     {
-     "title": "Hay alerta amarilla por tormentas, vientos y nevadas para este domingo 16 de agosto: las provincias afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-vientos-y-nevadas-para-este-domingo-16-de-agosto-las-provincias-nid15082026/",
+     "title": "Feriado de agosto: qué se sabe del próximo fin de semana largo y a quiénes les corresponde",
+     "link": "https://www.lanacion.com.ar/feriados/2026/feriado-de-agosto-que-se-sabe-del-proximo-fin-de-semana-largo-y-a-quienes-les-corresponde-nid06082026/",
      "source": "La Nación",
-     "published": "2026-08-16T10:15:50+00:00",
-     "copete": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
-     "id": "592d05871b4f"
+     "published": "2026-08-16T13:03:10+00:00",
+     "copete": "El octavo mes del año tiene un nuevo asueto; entérate qué días comprende el descanso extendido",
+     "id": "4a253f53d00b"
     },
     {
-     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 16 de agosto de 2026 en Argentina",
-     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-16-de-agosto-de-2026-en-argentina_0_tPpALmn3eJ.html",
-     "source": "Clarín",
-     "published": "2026-08-16T10:15:02+00:00",
-     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
-     "id": "4ad581776848"
-    },
-    {
-     "title": "Dólar tarjeta hoy: a cuánto cotiza este domingo 16 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-domingo-16-agosto_0_GbQydnG0vc.html",
-     "source": "Clarín",
-     "published": "2026-08-16T10:08:02+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-     "id": "1991530ab269"
-    },
-    {
-     "title": "Dólar CCL hoy: a cuánto cotiza este domingo 16 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-domingo-16-agosto_0_UVx3W8vU4B.html",
-     "source": "Clarín",
-     "published": "2026-08-16T10:08:01+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar CCL hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-     "id": "263eca862f56"
-    },
-    {
-     "title": "Los 25 minutos de la llamada Karina-Macri y la hora y media de Javier Milei con Daniel Hadad en la Quinta de Olivos",
-     "link": "https://www.clarin.com/politica/25-minutos-llamada-karina-macri-hora-media-javier-milei-daniel-hadad-quinta-olivos_0_RA9ZG9WjfJ.html",
-     "source": "Clarín",
-     "published": "2026-08-16T10:05:23+00:00",
-     "copete": "De qué hablaron la hermana del Presidente y el fundador del PRO, el rol de Santilli y las desconfianzas mutuas. La pelea de los outsiders, la visita del empresario al jefe de Estado y el revuelo en el PJ.",
-     "id": "371257167a05"
-    },
-    {
-     "title": "“Efecto dopamina”: cómo el celular nos atrapa y nos aleja de nuestros sueños y proyectos",
-     "link": "https://www.lanacion.com.ar/salud/efecto-dopamina-como-el-celular-nos-atrapa-y-nos-aleja-de-nuestros-suenos-y-proyectos-nid16082026/",
+     "title": "Según la ley: se confirmó la fecha del fin de semana largo con feriado de agosto 2026 en la Argentina",
+     "link": "https://www.lanacion.com.ar/feriados/2026/segun-la-ley-se-confirmo-la-fecha-del-fin-de-semana-largo-con-feriado-de-agosto-2026-en-la-argentina-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-16T10:05:00+00:00",
-     "copete": "Es necesario tomar conciencia del efecto tremendamente adictivo que tienen las pantallas y cómo impactan en la identidad de los niños",
-     "id": "9275cccd87d6"
+     "published": "2026-08-16T13:03:03+00:00",
+     "copete": "El octavo mes del año tendrá un nuevo asueto; entérate qué días comprende el descanso extendido",
+     "id": "cb4d278c61f2"
+    },
+    {
+     "title": "Es oficial: en agosto hay un feriado que forma un fin de semana largo en la Argentina",
+     "link": "https://www.lanacion.com.ar/feriados/2026/es-oficial-en-agosto-hay-un-feriado-que-forma-un-fin-de-semana-largo-en-la-argentina-nid02082026/",
+     "source": "La Nación",
+     "published": "2026-08-16T13:02:57+00:00",
+     "copete": "Los ciudadanos podrán disfrutar de un fin de semana extendido de tres días durante el octavo mes del año; qué se conmemora",
+     "id": "ecf6a4dd8aed"
+    },
+    {
+     "title": "El informe que reveló las mejoras que tendrá el Alpine de Franco Colapinto en el regreso de la F1",
+     "link": "https://www.infobae.com/deportes/2026/08/16/el-informe-que-revelo-las-mejoras-que-tendra-el-alpine-de-franco-colapinto-en-el-regreso-de-la-f1/",
+     "source": "Infobae",
+     "published": "2026-08-16T12:59:28+00:00",
+     "copete": "La escudería francesa quedó relegada en la grilla por la falta de actualizaciones y espera dar un salto de nivel en la reanudación del calendario en Países Bajos",
+     "id": "f0fd4fcd4e69"
+    },
+    {
+     "title": "Ganó USD 247 millones en la lotería y decidió destinarlos a investigar el cáncer",
+     "link": "https://www.infobae.com/historias/2026/08/16/gano-usd-247-millones-en-la-loteria-y-decidio-destinarlos-a-investigar-el-cancer/",
+     "source": "Infobae",
+     "published": "2026-08-16T12:54:31+00:00",
+     "copete": "Ed Lojewski ganó el premio en California, mantuvo su vida habitual y meses después financió un estudio de Stanford Medicine sobre el linfoma cutáneo de células T, enfermedad que le habían diagnosticado",
+     "id": "dc7bf0b642b5"
+    },
+    {
+     "title": "Juego de Pokémon supera los 5 millones de ventas y hace despegar las acciones de Nintendo",
+     "link": "https://www.infobae.com/tecno/2026/08/16/juego-de-pokemon-supera-los-5-millones-de-ventas-y-hace-despegar-las-acciones-de-nintendo/",
+     "source": "Infobae",
+     "published": "2026-08-16T12:53:31+00:00",
+     "copete": "Pokopia es un título exclusivo de Nintendo Switch 2 que combina el universo de Pokémon con una mecánica similar a Animal Crossing",
+     "id": "f6a62bc1b71d"
+    },
+    {
+     "title": "Continúa la fecha 5 del Torneo Clausura: la agenda con los partidos de la jornada",
+     "link": "https://www.infobae.com/deportes/2026/08/16/continua-la-fecha-5-del-torneo-clausura-la-agenda-con-los-partidos-de-la-jornada/",
+     "source": "Infobae",
+     "published": "2026-08-16T12:51:29+00:00",
+     "copete": "En primer turno, Sarmiento recibirá a Huracán (15) y a las 20:15 jugarán Barracas Central-Rosario Central y Central Córdoba de Santiago del Estero-Instituto de Córdoba",
+     "id": "5c5430edfd6c"
+    },
+    {
+     "title": "Ucrania lanzó uno de sus mayores ataques aéreos con drones contra Rusia desde el inicio de la guerra: hay al menos 6 muertos",
+     "link": "https://www.clarin.com/mundo/ucrania-lanzo-mayores-ataques-aereos-drones-rusia-inicio-guerra-6-muertos_0_8K98Ugraf4.html",
+     "source": "Clarín",
+     "published": "2026-08-16T12:45:23+00:00",
+     "copete": "El ministerio ruso de Defensa informó que destruyó 822 drones ucranianos durante la noche. Murió un hombre de 83 años en Moscú y otras cinco personas en Rostov.",
+     "id": "f97b14d14e43"
+    },
+    {
+     "title": "Horóscopo lunar semanal: tras el eclipse de Sol, qué te depara la Luna del 17 al 23 de agosto, con verdades que salen a la luz",
+     "link": "https://www.clarin.com/astrologia/horoscopo-lunar-semanal-eclipse-sol-depara-luna-17-23-agosto-verdades-salen-luz_0_ZQDlwqedDn.html",
+     "source": "Clarín",
+     "published": "2026-08-16T12:31:26+00:00",
+     "copete": "Los días posteriores al eclipse solar pueden sentirse más intensos de lo habitual. Las predicciones de la astróloga Rocío Sabatini.",
+     "id": "22214525fcfc"
     }
    ]
   },
@@ -451,6 +435,22 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud",
+     "link": "https://elpais.com/internacional/2026-08-16/los-equipos-de-rescate-de-indonesia-buscan-supervivientes-tras-el-terremoto-de-77-de-magnitud.html",
+     "source": "El País Internacional",
+     "published": "2026-08-16T12:23:51+00:00",
+     "copete": "Las autoridades elevan a 53 los fallecidos y miles de personas siguen evacuadas en la isla de Flores",
+     "id": "61ebbc6ac700"
+    },
+    {
+     "title": "Cómo se convirtió en el hombre más rico del mundo Jean Paul Getty, el excéntrico magnate cuya mascota era un león",
+     "link": "https://www.bbc.com/mundo/articles/c5yzzzr5mdeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-16T11:39:35+00:00",
+     "copete": "El multimillonario organizaba fiestas suntuosas con miles de invitados. Aquí te contamos algunas de sus excentricidades.",
+     "id": "89422bfa295e"
+    },
     {
      "title": "\"Me hice un escáner que tomó 2.000 fotos de mi cuerpo y aprendí una inesperada lección sobre mi piel\"",
      "link": "https://www.bbc.com/mundo/articles/c4gk0xj241jo?at_medium=RSS&at_campaign=rss",
@@ -484,14 +484,6 @@
      "id": "233c72bf6f06"
     },
     {
-     "title": "Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud",
-     "link": "https://elpais.com/internacional/2026-08-16/los-equipos-de-rescate-de-indonesia-buscan-supervivientes-tras-el-terremoto-de-77-de-magnitud.html",
-     "source": "El País Internacional",
-     "published": "2026-08-16T08:39:06+00:00",
-     "copete": "Las autoridades elevan a 51 los fallecidos y miles de personas siguen evacuadas en la isla de Flores",
-     "id": "61ebbc6ac700"
-    },
-    {
      "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
      "link": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -506,14 +498,6 @@
      "published": "2026-08-16T04:48:19+00:00",
      "copete": "El nuevo presidente arrancó con tropiezos políticos por no hacer el empalme con el Gobierno anterior, rechazar la ayuda de rescatistas internacionales y centralizar en su figura todas las comunicaciones sobre la emergencia. Aun así…",
      "id": "0747fe360fd6"
-    },
-    {
-     "title": "Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española",
-     "link": "https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-16T02:51:43+00:00",
-     "copete": "Más de 11.000 personas permanecen enterradas, sin identificar, en fosas comunes de España. Pero una de las más complicadas de encontrar es la del poeta universal de Granada.",
-     "id": "4438022742db"
     }
    ]
   }
@@ -522,6 +506,11 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
