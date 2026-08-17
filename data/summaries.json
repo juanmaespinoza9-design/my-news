@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-08-16T10:06:38Z",
+  "generated_at": "2026-08-17T10:10:56Z",
   "summaries": {
+    "0c68f0a6076e": {
+      "resumen": "Recopilación semanal de OncLive con los cinco videos más vistos sobre oncología de la semana del 9 de agosto. Es un formato de repaso audiovisual, sin datos originales, útil para ponerse al día rápido con lo más comentado de la semana.",
+      "destacado": false
+    },
+    "a0b62bcac998": {
+      "resumen": "OncLive repasa los datos que sustentaron la aprobación por la agencia estadounidense de medicamentos (FDA) del esquema iberdomida (un nuevo modulador de proteínas de unión a cereblón) combinado con daratumumab (anticuerpo monoclonal anti-CD38) y dexametasona, para mieloma múltiple recidivado o refractario (R/R). Interesa porque detalla la evidencia detrás de una nueva combinación aprobada para esta población pretratada.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de OncLive que analiza los datos del ensayo pivotal que sustentó la aprobación por la FDA (agencia de medicamentos de Estados Unidos); el título no precisa la fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple recidivado o refractario (R/R), es decir que progresaron luego de una o más líneas de tratamiento previas.\nIntervención: Iberdomida (nuevo modulador de proteínas de unión a cereblón, CELMoD) combinada con daratumumab (anticuerpo monoclonal anti-CD38) y dexametasona, frente a las opciones estándar disponibles hasta el momento para esta población.\nResultados: No informados en el título ni disponibles sin acceso al texto completo del ensayo pivotal.\nLimitaciones: Al tratarse de una nota que resume datos de aprobación regulatoria, es probable que no incluya el detalle completo de eficacia, seguridad ni las características exactas de la población del ensayo.\nMensaje: Amplía las opciones terapéuticas para mieloma múltiple recidivado o refractario con un nuevo modulador de proteínas de unión a cereblón combinado con un esquema ya validado (daratumumab más dexametasona).\nNota: análisis sin acceso al abstract."
+    },
     "60b41eba757b": {
       "resumen": "Resumen semanal de OncLive con los cinco artículos más relevantes en oncología de la semana del 9 de agosto. Sirve como puerta de entrada rápida a lo más destacado de la semana en la especialidad, aunque no aporta datos originales propios.",
-      "destacado": false
-    },
-    "5d74532d3b27": {
-      "resumen": "Nota de OncLive que repasa el ensayo lidERA, un estudio en cáncer de mama en etapa temprana con receptores hormonales positivos y HER2 negativo (sin sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Vale la pena mirarla porque resume, en formato de entrevista, hacia dónde apunta esta línea de investigación en terapia endocrina adyuvante.",
-      "destacado": false
-    },
-    "cfd550ad0219": {
-      "resumen": "Entrevista de OncLive a la Dra. Viansone sobre cómo equilibrar el uso de ADC (conjugados anticuerpo-fármaco) con esquemas de quimioterapia de baja toxicidad en cáncer de mama HER2-positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Interesa porque aborda el desafío de sostener la eficacia reduciendo el impacto de los efectos adversos.",
       "destacado": false
     },
     "9873b0e04dd4": {
@@ -47,35 +48,32 @@
       "destacado": false,
       "analisis": "Diseño: Estudio, probablemente retrospectivo o de cohorte, sobre el valor pronóstico y predictivo de la edad en gliomas de bajo grado clasificados según categorías moleculares; el título no especifica el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con gliomas de bajo grado (grado 2), clasificados según su definición molecular (por ejemplo, estado de mutación de IDH y codeleción 1p/19q).\nIntervención: No es una intervención terapéutica activa; el estudio analiza el efecto pronóstico y predictivo de la edad del paciente dentro de los subgrupos moleculares.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Este tipo de análisis suele ser retrospectivo, con riesgo de sesgo de selección, y el efecto de la edad puede confundirse con otros factores como el estado funcional o el tratamiento recibido.\nMensaje: Podría ayudar a refinar la estratificación pronóstica y las decisiones terapéuticas en gliomas de bajo grado, incorporando la edad junto con la clasificación molecular vigente.\nNota: análisis sin acceso al abstract."
     },
-    "8fc27912d9ea": {
-      "resumen": "Réplica de los autores (Langley RE et al.) publicada en el New England Journal of Medicine (NEJM) dentro de la sección de correspondencia sobre el uso de parches transdérmicos de estradiol (una forma de administrar estrógenos a través de la piel) en cáncer de próstata. Vale la pena mirarla porque responde a los cuestionamientos planteados sobre esta estrategia hormonal alternativa a la terapia de deprivación androgénica estándar."
+    "f5d8efdb3f2a": {
+      "resumen": "ELLE anticipa las tendencias de moda para el otoño-invierno 2026/27 que se impondrán a partir de septiembre."
     },
-    "cbac3321cff8": {
-      "resumen": "Carta de correspondencia publicada en el New England Journal of Medicine (NEJM, Grossmann M et al.) sobre el uso de parches transdérmicos de estradiol (una forma de administrar estrógenos a través de la piel) como alternativa a la terapia de deprivación androgénica estándar en cáncer de próstata. Interesa porque discute una vía hormonal con potencial menor toxicidad cardiovascular que los análogos de LHRH habituales."
+    "e4b2ee4a3625": {
+      "resumen": "Harper's Bazaar adelanta que el verde pistacho reemplaza al azul turquesa como el color tendencia de la temporada de otoño."
     },
-    "9f36563dfe21": {
-      "resumen": "Taylor Swift se dejó ver por primera vez tras su casamiento, con un minivestido violeta jacaranda y sandalias italianas."
+    "62bc92836497": {
+      "resumen": "Harper's Bazaar destaca un top a rayas de Massimo Dutti que combina para el verano y seguirá en tendencia durante septiembre."
     },
-    "0f8989bd081a": {
-      "resumen": "Elle adelanta cuál es la tendencia de moda que ya lucen las españolas y las francesas de cara al otoño 2026."
+    "31dc72315e2d": {
+      "resumen": "Infobae repasa cómo Victoria Beckham despliega su estética de lujo silencioso a través de su marca de moda en la Riviera italiana."
     },
-    "16da07849408": {
-      "resumen": "Telva consultó a especialistas sobre las tendencias en vestidos de novia para mujeres de más de 50 años, con referentes como Nieves Álvarez y Eva Herzigová."
+    "b84f34e013b0": {
+      "resumen": "Vogue México muestra el regreso de los jeans estilo años 70 combinados con blusas de estética boho para el verano 2026."
     },
-    "a193c1da8e85": {
-      "resumen": "Harper's Bazaar reveló cuál es el calzado que eligen las danesas para verse estilizadas sin sacrificar comodidad, ni chatas ni con taco."
+    "09402926ad39": {
+      "resumen": "Vogue México propone ideas para combinar zapatos color café con vestidos, polleras y jeans durante el verano 2026."
     },
-    "ffa58d38aa69": {
-      "resumen": "Cosmopolitan propone los mejores looks para vestir con estilo la semana del 17 de agosto, desde una campera tendencia de Zara hasta conjuntos elegantes."
+    "91665e292897": {
+      "resumen": "Vogue México repasa el regreso de las sandalias estilo años 90 y 2000, y cómo combinarlas con jeans, polleras y vestidos este verano."
     },
-    "08317b019970": {
-      "resumen": "Vogue México cuenta la historia real detrás del documental de Netflix \"Un hijo propio\"."
+    "6c329f9feaa6": {
+      "resumen": "Un espectáculo con más de 20 tambores japoneses tradicionales se presentará por única vez en Buenos Aires."
     },
-    "766f75de5dcf": {
-      "resumen": "El horóscopo diario de Vogue México para el 15 de agosto de 2026."
-    },
-    "e3cb950978e6": {
-      "resumen": "La obra infantil “Luna y su galaxia” se presenta durante agosto en el Teatro Border porteño."
+    "46c7d9c7c9b3": {
+      "resumen": "El pianista Ludovico Einaudi anunció una segunda fecha en Buenos Aires, esta vez en el Movistar Arena, para 2027."
     },
     "5db4212ddaf4": {
       "resumen": "El Senado mendocino reconoció a los nueve restaurantes de la provincia que obtuvieron una Estrella Michelin."
@@ -100,9 +98,6 @@
     },
     "6479ac01a4b2": {
       "resumen": "La Voz del Interior propone diez planes gratuitos para disfrutar Buenos Aires durante el fin de semana largo sin gastar dinero."
-    },
-    "ab3c7cbebf08": {
-      "resumen": "Se dieron a conocer las nominaciones de la 16ª edición de los Premios Hugo, que distinguen lo mejor del teatro musical."
     }
   }
 }
