@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-08-17T10:52:11.797434+00:00",
+ "generated_at": "2026-08-17T13:11:40.501993+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Adding SBRT to Nivolumab/Ipilimumab Fails to Improve Outcomes in mCRPC",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDhzckMweEZBakJ0dXJpRF9YZmdPU3hsbWJVRXo0LUFwU3BUdEN3WjBXd0ZDekY0d2l2TEd2dXJUc0pIRXRNSDJHVHdKRW1XVlduUlQ2eU1VbGlQd0FGX2F5bXNBSk9jY3BrWm1LUnBRYjA0U3o4UGNRU19MeHlEbUdWanBMcjJLQ3ltNTRkSzFjZkQzZFJDNTg5bUxsSnpJ?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-17T12:04:47+00:00",
+     "id": "1e0eba21a80e"
+    },
+    {
+     "title": "Jennifer Gile, MD, on High-Risk DLBCL: frontMIND and POLARIX Regimens",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc29BY2lfamliNi1kNTEyVFJndVdNbXpxeUp6X0JKNkNsQkJMWGk1SjhmODFfaUl6cFNDbVFUQm9QT3pSb2R4NG1SZjhZS2dyaFRxaG9ZVjhlcURjeUhSUXhCUjRFQTU1cE5KV3BJQUhBeG9Ud2VxZXVrSmJqUFFfa0ZpRy1Od2xfdWdfcUw5TGNhWkFNUllnMVhn?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-08-16T17:05:02+00:00",
+     "id": "3916c5fe4502"
+    },
     {
      "title": "Five Under 5: Top Oncology Videos for the Week of 8/9",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFlnN2VEVXhUcDNKRDJyZWxfR0xUejF5OWxBenhsR3dFaEt2MU1WeVJtdWxiNEtVaTVGSHdSbGp1d3h5YTdYLVJFdXNUaGVRQkhWaGltajVVZ3JZcUFzSUNmUngwNXp4d2phZ2lKS3RETkJLZlNqUlJ6QTBsb2ZiYjVlMXp0cnpY?oc=5",
@@ -21,13 +35,6 @@
      "id": "a0b62bcac998"
     },
     {
-     "title": "The OncFive: Top Oncology Articles for the Week of 8/9",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1NOZ0ZyRzJGOVdycnZqWGpBamoxWHN4VmVNeFJZU0ZNUEZIanNkUXFqWHUxMzlKSm03YWxudTVHY3o4SV8yS21UQ0dWcmRsMVp3eTVMQ0IzUnE3ZDFXX0Eya29tMExLMVIwU1UtU09yOVhGSTlxWkt1c0ZucWoyaVBqSHNOUmxBcEE?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-15T12:07:08+00:00",
-     "id": "60b41eba757b"
-    },
-    {
      "title": "What Is the Optimal PSA to Determine Prostate Cancer Treatment Efficacy?",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnFIYUVzTGRycGduZ1g0cHYweEc2eXNiN1dtNjVtYnVleXpqYmJzNkdlR282MURtN2hvaUZobDVqaUZoS1M2Vnh1WXJydVNLVlhQY2JnMUI4eERhcW1QczdrQlV0b1lwMjgwa3Y5RFZtY3lUMTZmY0RvLWt2Zk5EMXNqZnlkUWs4UV9paFkzWkJxTU5Ta0JjdlFWeHJfYUNxTlhIVHp2UnhzLUJheWdz?oc=5",
      "source": "The ASCO Post",
@@ -40,13 +47,6 @@
      "source": "The ASCO Post",
      "published": "2026-08-14T15:21:55+00:00",
      "id": "5042be0fbb48"
-    },
-    {
-     "title": "FDA Approves CELMoD Combination Regimen for Pretreated Multiple Myeloma",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3NTVllBbFBOWWJaMHRrRGdkemZHMkNCd19tU013SWd4dTF0cHlsUkEwaGFjQ3pzZDVlYzdkWkppTEVNaW5IRl9yOUYzZkZsU1dhRkV6SXFLRlZjMEFXUDBBSXlMYjdiUnJVRWVBb0ZIVk5PUUg0d3BhT2h6Y0t4dDdnMEdDNkYwN1Q0ODZ6V191ZU05SGdQV0ozUFdmdmh0aHplNXJmRzYxR3JFVGNn?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-08-14T14:46:24+00:00",
-     "id": "6819e164515d"
     },
     {
      "title": "Mosunetuzumab With Response-Adapted Polatuzumab Vedotin and Obinutuzumab in Untreated Indolent B-Cell Non-Hodgkin Lymphoma",
@@ -65,36 +65,36 @@
      "id": "1c38a047d30e"
     },
     {
-     "title": "COMBI-I: Long-Term Overall Survival With Spartalizumab Plus Dabrafenib and Trametinib in BRAF V600-Mutant Advanced Melanoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42585631/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-12T00:00:00+00:00",
-     "copete": "Ribas A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "81f54de2f1de"
+     "title": "Redefining Progression in a Rapidly Evolving Therapeutic Landscape",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593813/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Vasan N et al. · JAMA oncology",
+     "id": "3e9b1753d2e9"
     },
     {
-     "title": "Prognostic and Predictive Effect of Age in Molecularly Defined Lower-Grade Gliomas",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42585601/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-12T00:00:00+00:00",
-     "copete": "Kinslow CJ et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "a39c08ada4ce"
+     "title": "Oral Ulcers in a Patient With Myelodysplastic Syndrome",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593812/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Torres-Saavedra F et al. · JAMA oncology",
+     "id": "ca6ee5a8a9f8"
     },
     {
-     "title": "Transdermal Estradiol Patches in Prostate Cancer. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526039/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Langley RE et al. · The New England journal of medicine",
-     "id": "8fc27912d9ea"
+     "title": "Metabolic Dysfunction After Initiation of Androgen Receptor Pathway Inhibitors in Prostate Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593785/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Shaver AL et al. · JAMA oncology",
+     "id": "5560b043d95b"
     },
     {
-     "title": "Transdermal Estradiol Patches in Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526038/",
-     "source": "NEJM Oncología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Grossmann M et al. · The New England journal of medicine",
-     "id": "cbac3321cff8"
+     "title": "Managing Metabolic Syndrome and Prostate Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593778/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Marshall CH et al. · JAMA oncology",
+     "id": "02706adc0cac"
     }
    ]
   },
@@ -104,35 +104,50 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Nashville and Heroes Star Hayden Panettiere Has Died at 36",
+     "link": "https://www.vogue.com/article/hayden-panettiere-obituary",
+     "source": "Vogue",
+     "published": "2026-08-17T12:59:44+00:00",
+     "copete": "The actress starred in the series “Heroes” and “Nashville,” and featured in two of the latest installments of the “Scream” franchise.",
+     "id": "14a7eaed79e1"
+    },
+    {
+     "title": "Can Tariffs Be Fought in Court?",
+     "link": "https://www.vogue.com/article/can-tariffs-be-fought-in-court",
+     "source": "Vogue",
+     "published": "2026-08-17T12:30:00+00:00",
+     "copete": "A state-led trade court complaint challenges Trump’s forced labor tariff authority, leaving fashion caught between legal momentum and commercial reality.",
+     "id": "92f8e62f8ffa"
+    },
+    {
+     "title": "Zara and Beyond: How Marta Ortega Pérez Leads the World’s Biggest Fashion Retailer",
+     "link": "https://www.vogue.com/article/how-marta-ortega-perez-leads-the-worlds-biggest-fashion-retailer",
+     "source": "Vogue",
+     "published": "2026-08-17T12:00:00+00:00",
+     "copete": "Marta Ortega Pérez, 42, leads Zara and its parent company, Inditex—the biggest fashion retailer in the world—by focusing on relationships, image-making, and a mind-blowing infrastructure.",
+     "id": "322944241a23"
+    },
+    {
+     "title": "These Are the French Girl Haircuts Defining The Summer",
+     "link": "https://www.vogue.com/article/french-girl-haircuts-defining-the-summer",
+     "source": "Vogue",
+     "published": "2026-08-17T12:00:00+00:00",
+     "copete": "From Jane Birkin to Jeanne Damas, Lily-Rose Depp and Catherine Deneuve: these are the French girl haircuts defining summer 2026.",
+     "id": "21d2f57444b6"
+    },
+    {
+     "title": "Horóscopo de hoy: 17 de agosto de 2026",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OZDFpX0RlOGk0YmJhY0d0a184Snh3Mm1mQmVpR3B2VmJlSXVyZldia2NSSlRXNDdJdzhzdEdCVlFuV01ROG1MMU9kQTJMMnozRnZqczU0b2puWmpjcENuaHVlRXd6U21lUjdhXzFkWnVEMVdaT0QxcFRpcE5wUQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-08-17T11:00:00+00:00",
+     "id": "2799300194c8"
+    },
+    {
      "title": "En el año 2004 la reina Letizia ya llevó en Mallorca el vestido más cómodo y tendencia del verano (que puedes encontrar en Massimo Dutti)",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjB5azRjam42UE1qWlFuTGw0VVRVUmNPMlptamxuT0RqT24wQmxQNWktWXpQXzVwR3lmZkR4OWxuN1JBamlaM0JPX1lqODJsWk9tYjNienFGeDBQVVRKWkphWEJ6eUstX01NUlBFNGlzNUJwZnI0UnFUeVgyalJoWDVyUWjSAYQBQVVfeXFMUENQRE9oV3Z0Mkl3QmlLY2xqa0l0cVNDcXlUc0tjX3ZyUGxsMm1DbllNNmVqazM2U0o1eUlCZFZ1VF90NFV6MUNmMHhZUDZ5bW1IMjJlekJMTFB3MUloM3YyczRocnN5MW5PZ2kwQVN1SzU4aXJGWFREZXJobVp5Y3R1cl8t?oc=5",
      "source": "Telva",
      "published": "2026-08-17T10:35:18+00:00",
      "id": "7026cfdf54ee"
-    },
-    {
-     "title": "How to Wear the Nightie Dress Trend, According to Six of the Season’s It Girls",
-     "link": "https://www.vogue.com/article/how-to-wear-the-nightie-dress-trend",
-     "source": "Vogue",
-     "published": "2026-08-17T10:00:00+00:00",
-     "copete": "From Dôen, Madewell, and even Chloé, here’s how six of the season’s It girls are wearing the nightie dress trend.",
-     "id": "2b490307c6e2"
-    },
-    {
-     "title": "The Best Vanilla Perfumes Have Architecture and Attitude",
-     "link": "https://www.vogue.com/article/modern-vanilla-perfumes",
-     "source": "Vogue",
-     "published": "2026-08-17T10:00:00+00:00",
-     "copete": "The best vanilla perfumes are far from the sugary dessert scents you'd imagine. Crisp and light, moody and rich, these fragrances by Guerlain, Dior, and more make the note feel new.",
-     "id": "68ca1cf91dba"
-    },
-    {
-     "title": "34 Best Fall Wedding Guest Dresses to Wear for Autumnal RSVPs",
-     "link": "https://www.vogue.com/slideshow/best-fall-wedding-guest-dresses",
-     "source": "Vogue",
-     "published": "2026-08-17T10:00:00+00:00",
-     "copete": "Autumn ceremonies will be here before you know it. Start planning your look with our edit of the best fall wedding guest dresses to shop right now.",
-     "id": "e8a533eed8db"
     },
     {
      "title": "8 looks de Levi’s® (vistos en Copenhague) que tienen todas las claves y tendencias para el otoño 2026",
@@ -149,11 +164,11 @@
      "id": "38c1451ec5a3"
     },
     {
-     "title": "Tendencias otoño-invierno 2026/27: todo lo que llevaremos a partir de septiembre",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazh5TWs1cVlCZEd5bmk0cUdvTFFYcGxnVWJoQUo5QTFBMmowdG95QkI4S2J1SzIyTHBYR0tibm5ZOGJnV3dkaXFZSU1KQ0hkSWFfdUFfdkRDbW83X0ZocE1ZY2RmVG1PTGliQWJSdDZHWXVDb1gxX1FMbzVDa2tPZ0pteVoyR3FqVjhXek1CWQ?oc=5",
-     "source": "ELLE",
-     "published": "2026-08-17T07:23:05+00:00",
-     "id": "f5d8efdb3f2a"
+     "title": "6 vestidos de Zara y Mango con cintura vasca, la tendencia de los 80 que arrasa en las pasarelas y llevaremos en otoño/invierno 2026",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM25sLW0yZHFKd25EMmFyRWdQMzlyckNkZlZkemU2SlprMHA4VkV0dmlZRFZDUUhzNThITmU4LW5GV0ZaTEFHVjdJczNDaGwtdXV6Q255bG9YTmVXTFAyWkN5dnE3UnkyUkFQV2wtZl9UVkg4VC1DSU5CN3FreGx5dXZFQ3ZZNlNqY25uVVlvZmFwbEVuUmcwR0VOUjlrcFY0WjdfOXpwWlplYU9hOHlIc2IyUUFUM29jVUJKRTBR0gHDAUFVX3lxTFB4aFlVMkdZa3Y3NDdhVGN6UThNcUFaRWFXS0ZzcElZbTJTakx6Wm5lMmIwelBwaWhFN3llenVodnJkUUcwLUdybjBBV0JwcWRxZElWU2RlMXhKakZTQl9KWWt0bE9SZjVxX1dxU2NEak5GWHNrSzdfZlBOUHRScUhRcGg2d0lkNWhOX0U0MXF1d2tXU0FBNVNvc1ZBTmwxRTQ4Vi1GQndVNEFuRnR1WGNWTldpSXhJcUlfOUVPOUhILVR4SQ?oc=5",
+     "source": "woman.elperiodico",
+     "published": "2026-08-17T08:57:17+00:00",
+     "id": "39fec720766d"
     },
     {
      "title": "Estos son los colores que teñirán el otoño-invierno 2026/2027",
@@ -161,21 +176,6 @@
      "source": "Vogue España",
      "published": "2026-08-17T07:05:32+00:00",
      "id": "92e3f9f34174"
-    },
-    {
-     "title": "Calling All Rei Kawakubo Fans—dot COMME Is Auctioning 265 Pieces of His Epic Collection",
-     "link": "https://www.vogue.com/article/calling-all-rei-kawakubo-fan-comme-is-auctioning-pieces-of-his-epic-collection",
-     "source": "Vogue",
-     "published": "2026-08-17T06:05:00+00:00",
-     "copete": "Dot COMME: The Auction is a reminder of Rei Kawakubo’s exceptional and singular creativity, regardless of the era the Comme des Garçons piece comes from.",
-     "id": "e797b196a5ea"
-    },
-    {
-     "title": "¡Volvieron! Los jeans de los 70 que se llevan con blusas boho en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMi1ZcXN2ZGVKdEgtVlllN0RNXzM5dkVfaVVDYVhfc1ZiSXFvd2tZdndkcG83ZkNydTlHZWhGXy1TalhhXzRzejdpeFVwaGEzQUkwZFVIQTFBQkNKOVZhS1dWUzNKNnFkMzlCWllXd2FwaDN2djZHOFFvOGx2NlRCcUFTSWNUX25sRGc?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-16T17:04:52+00:00",
-     "id": "b84f34e013b0"
     }
    ]
   },
@@ -185,12 +185,76 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Murió a los 36 años la actriz Hayden Panettiere, estrella de las series “Héroes” y “Nashville”",
+     "title": "El mensaje de amor de la novia de Camilota al cumplir 6 meses de su relación: “Llegaste para iluminar mi vida”",
+     "link": "https://www.infobae.com/teleshow/2026/08/17/el-mensaje-de-amor-de-la-novia-de-camilota-al-cumplir-6-meses-de-su-relacion-llegaste-para-iluminar-mi-vida/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-17T13:03:14+00:00",
+     "copete": "La pareja de la influencer, conocida como La Baby Pop, le dedicó una romántico mensaje por el tiempo compartido juntas",
+     "id": "45a5f330de15"
+    },
+    {
+     "title": "Linternas: es una historia de superhéroes, parece un western y no le falta romance",
+     "link": "https://www.lanacion.com.ar/espectaculos/series-de-tv/linternas-es-una-historia-de-superheroes-parece-un-western-y-no-le-falta-romance-nid17082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-17T13:00:00+00:00",
+     "copete": "Se estrenó este domingo en HBO y HBO Max; son ocho episodios que estarán disponibles semanalmente",
+     "id": "63c7d97c71cf"
+    },
+    {
+     "title": "Mica Riera: su embarazo, su particular historia de amor y el “juego” de interpretar a Fabi Cantilo y Susana Giménez",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/mica-riera-su-embarazo-su-particular-historia-de-amor-y-el-juego-de-interpretar-a-fabi-cantilo-y-nid17082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-17T13:00:00+00:00",
+     "copete": "En diálogo con LA NACION la protagonista de El chat de mamis devela que conoció a su pareja a través de una app, pero que él nunca quiso googlearla ni buscarla en Youtube",
+     "id": "03569267abb1"
+    },
+    {
+     "title": "Murió a los 36 años la actriz Hayden Panettiere, estrella de las series Héroes y Nashville",
      "link": "https://www.lanacion.com.ar/el-mundo/murio-a-los-36-anos-la-actriz-hayden-panettiere-estrella-de-las-series-heroes-y-nashville-nid17082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-08-17T10:47:25+00:00",
+     "published": "2026-08-17T12:34:50+00:00",
      "copete": "Se desconoce la causa del deceso; tenía una hija de 12 años y su hermano menor había fallecido en 2023 a causa de una cardiopatía",
      "id": "c6e5b83e1ae9"
+    },
+    {
+     "title": "La particular imagen que eligió Mauro Icardi contra Benjamín Vicuña luego de sus dichos sobre su paternidad",
+     "link": "https://www.infobae.com/teleshow/2026/08/17/la-particular-imagen-que-eligio-mauro-icardi-contra-benjamin-vicuna-luego-de-sus-dichos-sobre-su-paternidad/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-17T12:29:34+00:00",
+     "copete": "En medio del tenso panorama entre el futbolista y el actor, el detalle de una foto resaltó en las últimas horas y causó revuelo en las redes",
+     "id": "4b9f50e504e7"
+    },
+    {
+     "title": "La China Suárez festejó el Día del Niño en la casa de los sueños en medio del duro mensaje de Icardi a Benjamín Vicuña",
+     "link": "https://www.infobae.com/teleshow/2026/08/17/la-china-suarez-festejo-el-dia-del-nino-en-la-casa-de-los-suenos-en-medio-del-duro-mensaje-de-icardi-a-benjamin-vicuna/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-17T11:28:10+00:00",
+     "copete": "Las postales mostraron una tarde de golosinas, risas y juegos con sus hijos y sobrinos, apenas unas horas antes de que el futbolista arremetiera contra el actor",
+     "id": "454f75f6a0a5"
+    },
+    {
+     "title": "Quién era Hayden Panettiere, la actriz de Héroes y Nashville que murió a los 36 años",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-era-hayden-panettiere-la-actriz-de-heroes-y-nashville-que-murio-a-los-36-anos-nid17082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-17T11:26:34+00:00",
+     "copete": "Protagonista de reconocidas series como Héroes y Nashville, había comenzado su carrera artística desde que era una bebé; en el comunicado de su representante no se aclararon las causas del fallecimiento",
+     "id": "e53e1acaf834"
+    },
+    {
+     "title": "Noche de agresiones en Gran Hermano: el fuerte cruce entre Sol Abraham y Tamara Paganini",
+     "link": "https://www.infobae.com/teleshow/2026/08/17/noche-de-agresiones-en-gran-hermano-el-fuerte-cruce-entre-sol-abraham-y-tamara-paganini/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-17T11:10:50+00:00",
+     "copete": "La circulación de videos editados generó confusión sobre el incidente. Tras la aclaración de Santiago del Moro se difundió el material íntegro",
+     "id": "9d64faae65d6"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este lunes 17 de agosto de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-lunes-17-de-agosto-de-2026-en-argentina_0_alprP2jFiv.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-17T10:15:03+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "00d773eeaeac"
     },
     {
      "title": "José Coronado, el Darín español que Netflix no puede parar de fichar: ocho series y películas imperdibles",
@@ -209,76 +273,12 @@
      "id": "37ce178c6f6d"
     },
     {
-     "title": "“Era un niño esclavo”: siete estrellas infantiles que debieron mantener a sus familias",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/era-un-nino-esclavo-siete-estrellas-infantiles-que-debieron-mantener-a-sus-familias-nid17082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-17T09:00:00+00:00",
-     "copete": "Desde Zendaya hasta Corey Feldman, los actores hablaron sobre las consecuencias de convertirse en el principal sostén económico de su hogar al comienzo de sus carreras",
-     "id": "eb13e67dd26c"
-    },
-    {
-     "title": "Una joya del off: fue una obra de culto, impulsó las carreras de Esteban Lamothe y Pilar Gamboa y hoy llega a la calle Corrientes",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/una-joya-del-off-fue-una-obra-de-culto-impulso-las-carreras-de-esteban-lamothe-y-pilar-gamboa-y-hoy-nid17082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-17T09:00:00+00:00",
-     "copete": "Los actores, junto a Susana Pampín y Esteban Bigliardi, reponen El tiempo todo entero, un espectáculo de Romina Paula, en el Paseo La Plaza",
-     "id": "308e28165f1f"
-    },
-    {
      "title": "Murió a los 36 años Hayden Panettiere, estrella de la saga Scream y expareja de un campeón mundial de boxeo",
      "link": "https://www.clarin.com/espectaculos/murio-36-anos-hayden-panettiere-estrella-saga-scream-expareja-campeon-mundial-boxeo_0_Lmsqp3pTGp.html",
      "source": "Clarín Espectáculos",
      "published": "2026-08-17T04:21:49+00:00",
      "copete": "La actriz, cuyo deceso fue confirmado por su representante, también alcanzó fama internacional por sus trabajos en Heroes y Nashville. Este año había publicado un libro autobiográfico en el que abordó sus problemas de adicción, la…",
      "id": "c352d3c723d1"
-    },
-    {
-     "title": "Migue Granados contó que le da vergüenza sacarse la remera en la playa: “Soy un gordo acomplejado de toda la vida”",
-     "link": "https://www.infobae.com/teleshow/2026/08/17/migue-granados-conto-que-le-da-verguenza-sacarse-la-remera-en-la-playa-soy-un-gordo-acomplejado-de-toda-la-vida/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-17T04:00:56+00:00",
-     "copete": "En una charla con Agustín Creevy, el conductor habló sin filtro sobre su cambio físico, el pudor que arrastra desde hace años y la incomodidad que todavía siente al mostrarse en público",
-     "id": "ffccbed78ef4"
-    },
-    {
-     "title": "El mensaje de orgullo de Lali Espósito a Pedro Rosemblat por el estreno de Get, su unipersonal: “Un arrojo necesario”",
-     "link": "https://www.infobae.com/teleshow/2026/08/17/el-mensaje-de-orgullo-de-lali-esposito-a-pedro-rosemblat-por-el-estreno-de-get-su-unipersonal-un-arrojo-necesario/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-17T03:40:52+00:00",
-     "copete": "La cantante le dedicó palabras de amor al conductor de Gelatina por el debut de su show en el Teatro Astros",
-     "id": "48d1f44ae94b"
-    },
-    {
-     "title": "Mauro Icardi arremetió contra Benjamín Vicuña: “Cuando te hacés la víctima en TV”",
-     "link": "https://www.infobae.com/teleshow/2026/08/17/mauro-icardi-arremetio-contra-benjamin-vicuna-cuando-te-haces-la-victima-en-tv/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-17T02:43:59+00:00",
-     "copete": "El futbolista salió al cruce del actor chileno después de su paso por PH Podemos Hablar, y cuestionó su relato sobre la paternidad con un mensaje duro publicado en Instagram",
-     "id": "cd421cb04286"
-    },
-    {
-     "title": "Evangelina Anderson reveló el insólito pedido que recibió en una noche fogosa: \"Él es muy conocido en el mundo\"",
-     "link": "https://www.infobae.com/teleshow/2026/08/16/evangelina-anderson-revelo-el-insolito-pedido-que-recibio-en-una-noche-fogosa-el-es-muy-conocido-en-el-mundo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-17T02:38:45+00:00",
-     "copete": "En PH Podemos Hablar, la modelo sorprendió al contar una experiencia íntima que desató risas, preguntas y bromas en el estudio",
-     "id": "e13221633cbc"
-    },
-    {
-     "title": "Las duras escenas de Helena, la nieta de Moria Casán, en su debut actoral en la serie de la diva",
-     "link": "https://www.infobae.com/teleshow/2026/08/17/las-duras-escenas-de-helena-la-nieta-de-moria-casan-en-su-debut-actoral-en-la-serie-de-la-diva/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-17T02:30:32+00:00",
-     "copete": "La hija de Sofía Gala interpreta en la biopic ficcionalizada de Netflix la etapa adolescente de La One en un impactante episodio trascendental de la diva",
-     "id": "fe14f625e3c1"
-    },
-    {
-     "title": "Wanda Nara volvió al país y habló sobre la nueva temporada de MasterChef Celebrity: “Me encantaría que estuviera L-Gante”",
-     "link": "https://www.infobae.com/teleshow/2026/08/17/wanda-nara-volvio-al-pais-y-hablo-sobre-la-nueva-temporada-de-masterchef-celebrity-me-encantaria-que-estuviera-l-gante/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-17T01:41:08+00:00",
-     "copete": "La conductora arribó este domingo a Ezeiza y, en diálogo con Infama por América TV, anticipó detalles de la próxima edición del reality. Su palabra sobre la batalla judicial con Mauro Icardi",
-     "id": "37438205b81f"
     }
    ]
   },
@@ -287,6 +287,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "La vampirización del teatro porteño",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGpCa0U4XzFjZVhOYTFER3Voam1NN2hMWGhMdng0RkRSTTVONkR1S2pSaDBEZ2NvLU9xSU5CYk9LWWJmVmE2cXU2YnRBb0pyTzlnbi1OMnJCNWR1UnROZ0VCQlhRWU9HS1R4a3Jjamx2d0NqeUdiRnRMWXIwR29nbw?oc=5",
+     "source": "Página|12",
+     "published": "2026-08-17T12:21:31+00:00",
+     "id": "73c2d332c0c8"
+    },
     {
      "title": "Cine Teatro El Plata encuentros tangueros y talleres para la comunidad",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFNyWmRKb1J2dkhIYlZOTWtUdW9vOUJGdmtMN2lsRi1oMXFXellXTDd5XzRDcjdPRjJ3NnNSeDZNeW9wbVB4ZjBveDV4YTkyNDlZcVZCZ3UwQmxGbExXaXFsR3JkWkhpNmE1MGRCWkV6aXdlbjFGTEVZUFpQekVCRW5Uel93NjlWQzNlZllQQ3lnZnZHVjlHZ0F1LTZWODV4eml4TVBKSkl1dw?oc=5",
@@ -314,13 +321,6 @@
      "source": "La Voz del Interior",
      "published": "2026-08-16T03:11:16+00:00",
      "id": "6479ac01a4b2"
-    },
-    {
-     "title": "Blanca Oteyza vuelve a Buenos Aires con su homenaje a Margarita Xirgu",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcllXclZJMVRlNk1GVDJBN0VEaTl1ZFlSYTYxTHZ4ZUgyRmM0MXdmcXh0UlBBczZGTjlrUE1yenlrdExwTTdkMW1CRzczeVBhRDM2a083TXZrRFI0bDJxYmhLM0ZZbEp6bXhOSHNROEs1MVJTMUlEeEFCa1BIV3l4NnJLM2gyUzVGd2JfM09sRFpUYktFdHZJM3J4SmlSX2NVS1ppT2FYRnJqX0o0NlE?oc=5",
-     "source": "KCH FM",
-     "published": "2026-08-15T11:28:32+00:00",
-     "id": "150d7bffa4f6"
     },
     {
      "title": "Buenos Aires, pasado por agua este fin de semana: ¿Cuándo vuelve el sol?",
@@ -365,84 +365,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Marvel revela Avengers: Doomsday y confirma a Doctor Doom como la gran amenaza",
-     "link": "https://www.infobae.com/que-puedo-ver/2026/08/17/marvel-revela-avengers-doomsday-y-confirma-a-doctor-doom-como-la-gran-amenaza/",
+     "title": "Orden en la cocina: qué artículos no deberían ir debajo del fregadero",
+     "link": "https://www.infobae.com/tendencias/2026/08/17/orden-en-la-cocina-que-articulos-no-deberian-ir-debajo-del-fregadero/",
      "source": "Infobae",
-     "published": "2026-08-17T10:47:00+00:00",
-     "copete": "El avance presentado en la D23 mostró a Robert Downey Jr. en su nuevo papel, reunió a figuras de varias sagas de Marvel y anticipó una colisión entre héroes de distintos universos",
-     "id": "902600a1674c"
+     "published": "2026-08-17T13:07:19+00:00",
+     "copete": "Fuentes especializadas en organización del hogar señalan que el espacio abajo de la bacha reúne condiciones que pueden afectar la conservación y el acceso a distintos objetos",
+     "id": "474aca652415"
     },
     {
-     "title": "La batalla legal de USD 50 millones entre una figura del deporte y su ex pareja: “Lo mejor para nuestros hijos”",
-     "link": "https://www.infobae.com/deportes/2026/08/17/la-batalla-legal-de-usd-50-millones-entre-una-figura-del-deporte-y-su-ex-pareja-lo-mejor-para-nuestros-hijos/",
+     "title": "Receta de canastitas de huevo, choclo y tomate, rápida y fácil",
+     "link": "https://www.infobae.com/tendencias/2026/08/17/receta-de-canastitas-de-huevo-choclo-y-tomate-rapida-y-facil/",
      "source": "Infobae",
-     "published": "2026-08-17T10:46:01+00:00",
-     "copete": "La estrella de Los Ángeles Lakers Luka Doncic afronta un conflicto con Anamaria Goltes por la manutención de sus dos hijas",
-     "id": "5042bc409d75"
+     "published": "2026-08-17T13:06:07+00:00",
+     "copete": "La preparación se arma en moldes de muffins y se hornea a 200°C hasta que el relleno quede aireado y firme",
+     "id": "f651ca0b306a"
     },
     {
-     "title": "Gran apagón en La Plata por el incendio que se desató en una central eléctrica de Tolosa",
-     "link": "https://www.infobae.com/sociedad/2026/08/17/gran-apagon-en-la-plata-por-el-incendio-que-se-desato-en-una-central-electrica-de-tolosa/",
+     "title": "Receta de omelette capresse, rápida y fácil",
+     "link": "https://www.infobae.com/tendencias/2026/08/17/receta-de-omelette-capresse-rapida-y-facil/",
      "source": "Infobae",
-     "published": "2026-08-17T10:45:57+00:00",
-     "copete": "El siniestro se registró a las 3:00 de la madrugada sobre la calle 9 entre 527 y 528. En el lugar trabajaban al menos cuatro dotaciones de bomberos",
-     "id": "d763c66b0553"
+     "published": "2026-08-17T13:05:27+00:00",
+     "copete": "La versión inspirada en la combinación italiana lleva tres huevos y un relleno cremoso, se cocina en sartén a fuego medio y puede resolverse para un desayuno tardío o una cena liviana sin complicaciones",
+     "id": "dda01f97e66d"
     },
     {
-     "title": "Masivo apagón de luz en La Plata, Tolosa y Gonnet por un incendio en una estación transformadora de energía",
-     "link": "https://www.lanacion.com.ar/sociedad/masivo-apagon-de-luz-en-la-plata-tolosa-y-gonnet-por-un-incendio-en-una-estacion-transformadora-de-nid17082026/",
+     "title": "En qué canal pasan Vélez vs. Defensa y Justicia por el Torneo Clausura 2026 hoy",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-velez-vs-defensa-y-justicia-por-el-torneo-clausura-2026-hoy-nid17082026/",
      "source": "La Nación",
-     "published": "2026-08-17T10:45:49+00:00",
-     "copete": "El siniestro comenzó alrededor de las 3 de la madrugada en 9 entre 527 y 528 y en el lugar trabajan al menos cuatro dotaciones de bomberos",
-     "id": "27749443ad99"
+     "published": "2026-08-17T13:04:02+00:00",
+     "copete": "El partido de la quinta fecha del Grupo A se desarrolla este lunes desde las 19.15 en el estadio José Amalfitani de Liniers con arbitraje de Nicolás Ramírez",
+     "id": "ccab7d7e306d"
     },
     {
-     "title": "En un traslado sin precedentes, 30 felinos dejan el exzoo de Luján rumbo a dos santuarios en el exterior",
-     "link": "https://www.lanacion.com.ar/sociedad/en-un-traslado-sin-precedentes-30-felinos-dejan-el-exzoo-de-lujan-rumbo-a-dos-santuarios-en-el-nid17082026/",
+     "title": "Crimen en Villa Devoto: un ataque de cuatro minutos y 46 puñaladas",
+     "link": "https://www.lanacion.com.ar/seguridad/crimen-en-villa-devoto-un-ataque-de-cuatro-minutos-y-46-punaladas-nid17082026/",
      "source": "La Nación",
-     "published": "2026-08-17T10:45:20+00:00",
-     "copete": "El megaoperativo es liderado por la organización Four Paws; la mitad de los ejemplares viajarán a Denver y la otra mitad, a Sudáfrica",
-     "id": "93bedf70e80c"
+     "published": "2026-08-17T13:02:45+00:00",
+     "copete": "El juez Darío Bonanno, a cargo de la investigación, tiene en su poder el informe de la autopsia; mañana declararían los hijos de la víctima",
+     "id": "6fb55b780b77"
     },
     {
-     "title": "¿Puede el té de hibisco ayudar a bajar la presión arterial?",
-     "link": "https://www.infobae.com/salud/2026/08/17/puede-el-te-de-hibisco-ayudar-a-bajar-la-presion-arterial/",
+     "title": "Linternas: es una historia de superhéroes, parece un western y no le falta romance",
+     "link": "https://www.lanacion.com.ar/espectaculos/series-de-tv/linternas-es-una-historia-de-superheroes-parece-un-western-y-no-le-falta-romance-nid17082026/",
+     "source": "La Nación",
+     "published": "2026-08-17T13:00:00+00:00",
+     "copete": "Se estrenó este domingo en HBO y HBO Max; son ocho episodios que estarán disponibles semanalmente",
+     "id": "63c7d97c71cf"
+    },
+    {
+     "title": "Mica Riera: su embarazo, su particular historia de amor y el “juego” de interpretar a Fabi Cantilo y Susana Giménez",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/mica-riera-su-embarazo-su-particular-historia-de-amor-y-el-juego-de-interpretar-a-fabi-cantilo-y-nid17082026/",
+     "source": "La Nación",
+     "published": "2026-08-17T13:00:00+00:00",
+     "copete": "En diálogo con LA NACION la protagonista de El chat de mamis devela que conoció a su pareja a través de una app, pero que él nunca quiso googlearla ni buscarla en Youtube",
+     "id": "03569267abb1"
+    },
+    {
+     "title": "Nintendo llevará Switch 2 y Switch a Indonesia en diciembre de 2026",
+     "link": "https://www.infobae.com/malditos-nerds/2026/08/17/nintendo-llevara-switch-2-y-switch-a-indonesia-en-diciembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-08-17T10:44:11+00:00",
-     "copete": "Investigaciones, revisiones académicas y recomendaciones médicas pusieron el foco en una preparación tradicional que hoy gana lugar en conversaciones sobre bienestar",
-     "id": "b1a780bd826d"
+     "published": "2026-08-17T13:00:00+00:00",
+     "copete": "El catálogo inicial tendrá cinco juegos, pero la eShop no estará disponible durante el estreno",
+     "id": "0451ffd045e8"
     },
     {
-     "title": "Coudet se cruzó con un periodista tras el triunfo de River: “Puse mi cabeza sobre la mesa”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/coudet-se-cruzo-con-un-periodista-tras-el-triunfo-de-river-puse-mi-cabeza-sobre-la-mesa-nid17082026/",
-     "source": "La Nación",
-     "published": "2026-08-17T10:43:33+00:00",
-     "copete": "Fue luego de que un cronista partidario dijera que el DT se había tomado las derrotas con “cierta liviandad”",
-     "id": "6b52e8ed69eb"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
-     "source": "La Nación",
-     "published": "2026-08-17T10:42:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "739393c07553"
-    },
-    {
-     "title": "Apagón en La Plata: se incendió una central eléctrica en Tolosa y miles de vecinos quedaron sin luz",
-     "link": "https://www.clarin.com/ciudades/apagon-plata-incendio-central-electrica-tolosa-miles-vecinos-quedaron-luz_0_ywJzrwSGPo.html",
+     "title": "La epidemia de ébola se propaga a una velocidad nunca antes vista en RD Congo: \"Mata una persona cada 30 minutos\"",
+     "link": "https://www.clarin.com/mundo/epidemia-ebola-rd-congo-propaga-velocidad-vista-mata-persona-30-minutos_0_oYqOh6Td9v.html",
      "source": "Clarín",
-     "published": "2026-08-17T10:12:03+00:00",
-     "copete": "El desperfecto ocurrió durante esta madrugada y dejó sin servicio distintos sectores de la capital bonaerense.",
-     "id": "b8e8410f68a7"
+     "published": "2026-08-17T12:27:54+00:00",
+     "copete": "El brote se convirtió en el más mortífero en la historia del país este lunes, cuando la cifra de víctimas ascendió a 2.325. Muchos pacientes mueren antes de llegar a los centros médicos y en Bunia, epicentro de la crisis, casi no hay…",
+     "id": "1da9409f065e"
     },
     {
-     "title": "Dólar CCL hoy: a cuánto cotiza este lunes 17 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-lunes-17-agosto_0_g7Hn9nfwFu.html",
+     "title": "\"¡Vergüenza!\": abucheos, gritos e insultos al primer ministro francés por los incendios",
+     "link": "https://www.clarin.com/mundo/verguenza-abucheos-gritos-insultos-primer-ministro-frances-incendios_0_BFsGdqC3JV.html",
      "source": "Clarín",
-     "published": "2026-08-17T10:08:00+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar CCL hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-     "id": "1408cab9710c"
+     "published": "2026-08-17T12:26:07+00:00",
+     "copete": "Sébastien Lecornu fue abucheado este lunes a su llegada a la localidad de Le Porge, zona siniestrada por un megaincendio. Aunque las autoridades lo niegan, muchos residentes se sintieron abandonados por los bomberos quienes habrían…",
+     "id": "defdbeb36b18"
     }
    ]
   },
@@ -451,6 +451,46 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
+     "link": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
+     "source": "El País Internacional",
+     "published": "2026-08-17T12:29:29+00:00",
+     "copete": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
+     "id": "2326fc75dbb4"
+    },
+    {
+     "title": "De actriz infantil a estrella en Scream y \"Héroes\": la vida en imágenes de Hayden Panettiere",
+     "link": "https://www.bbc.com/mundo/articles/cx2jz7jdx08o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-17T12:25:58+00:00",
+     "copete": "La exestrella infantil, cuyo salto a la fama se produjo en 2006, habló abiertamente sobre los problemas de salud mental que padeció a lo largo de su vida.",
+     "id": "ce1db34b98a1"
+    },
+    {
+     "title": "Burnham intercambió mensajes con alguien que se hizo pasar por la jefa de gabinete de Trump",
+     "link": "https://elpais.com/internacional/2026-08-17/burnham-intercambio-mensajes-con-alguien-que-se-hizo-pasar-por-la-jefa-de-gabinete-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-08-17T12:23:16+00:00",
+     "copete": "Susie Wiles denunció el año pasado que su dispositivo móvil había sido pirateado",
+     "id": "2b90ec323e0f"
+    },
+    {
+     "title": "Trump amenaza ahora con bombardear Omán si “se interpone” en su camino",
+     "link": "https://elpais.com/internacional/2026-08-17/trump-amenaza-ahora-con-bombardear-oman-si-se-interpone-en-su-camino.html",
+     "source": "El País Internacional",
+     "published": "2026-08-17T11:41:55+00:00",
+     "copete": "El presidente estadounidense insiste en que su objetivo número uno es que Irán no consiga el arma nuclear",
+     "id": "89b031a0bfc2"
+    },
+    {
+     "title": "\"La culpa del sobreviviente\": los retos de dar ayuda psicológica a las víctimas de los terremotos de Colombia y Venezuela",
+     "link": "https://www.bbc.com/mundo/articles/cp8x411l3d6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-17T11:04:46+00:00",
+     "copete": "Tras los terremotos que dejaron más de 6.000 muertos en Venezuela y más de 280 en Colombia, especialistas en salud mental enfrentan el reto de apoyar a los sobrevivientes, muchos de los cuales aún buscan a sus seres queridos entre los…",
+     "id": "7ad5182d2425"
+    },
     {
      "title": "Quién era el rapero Tupac Shakur, cómo fue asesinado y por qué 30 años después el crimen sigue sin esclarecerse",
      "link": "https://www.bbc.com/mundo/articles/c0rdxzg102zo?at_medium=RSS&at_campaign=rss",
@@ -468,52 +508,12 @@
      "id": "54990f291f40"
     },
     {
-     "title": "Muere a los 36 años Hayden Panettiere, actriz de las series Héroes y Nashville",
-     "link": "https://www.bbc.com/mundo/articles/cg5l96jnv37o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-17T09:40:34+00:00",
-     "copete": "Panettiere empezó su carrera actoral a los 4 años y su muerte ha causado shock en el gremio del entretenimiento.",
-     "id": "c9fc6954789d"
-    },
-    {
-     "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relaciones” con Kim Jong-un",
-     "link": "https://elpais.com/internacional/2026-08-17/trump-anuncia-que-reducira-los-ejercicios-militares-con-corea-del-sur-debido-a-sus-muy-buenas-relaciones-con-kim-jong-un.html",
-     "source": "El País Internacional",
-     "published": "2026-08-17T07:15:15+00:00",
-     "copete": "El presidente estadounidense critica la falta de cooperación de Seúl, aliado tradicional de Washington, en la guerra con Irán",
-     "id": "2326fc75dbb4"
-    },
-    {
      "title": "Alemania afronta dividida las propuestas para ilegalizar a la extrema derecha",
      "link": "https://elpais.com/internacional/2026-08-17/alemania-afronta-dividida-las-propuestas-para-ilegalizar-a-la-extrema-derecha.html",
      "source": "El País Internacional",
      "published": "2026-08-17T03:30:01+00:00",
      "copete": "Las campañas electorales regionales reavivan las iniciativas para solicitar la inconstitucionalidad del partido AfD",
      "id": "754b80d4a874"
-    },
-    {
-     "title": "Regreso a Zawtar el Gharbiyeh, el primer pueblo libanés del que Israel se retira tras dejarlo inhabitable: “En cualquier país, esto serían crímenes de guerra”",
-     "link": "https://elpais.com/internacional/2026-08-17/regreso-a-zawtar-el-garbiyeh-el-primer-pueblo-libanes-del-que-israel-se-retira-tras-dejarlo-inhabitable-en-cualquier-pais-esto-serian-crimenes-de-guerra.html",
-     "source": "El País Internacional",
-     "published": "2026-08-17T03:30:01+00:00",
-     "copete": "La fase experimental del frágil plan de paz impulsado por EE UU permite el retorno a uno de los 68 municipios ocupados, donde los civiles descubren escandalizados la destrucción de su comunidad",
-     "id": "bc3fce18c0db"
-    },
-    {
-     "title": "Forest City, la ciudad fantasma con rascacielos vacíos que se convirtió en un refugio para estafadores",
-     "link": "https://www.bbc.com/mundo/articles/cm2ggn9jm66o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-17T02:57:21+00:00",
-     "copete": "Forest City, un proyecto urbanístico de Malasia, se promocionaba como un \"paraíso\", pero atrajo clientes que no esperaba.",
-     "id": "01e7ca1564b2"
-    },
-    {
-     "title": "Alejandro Betancourt, el multimillonario investigado que conecta a Delcy Rodríguez con Trump",
-     "link": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html",
-     "source": "El País Internacional",
-     "published": "2026-08-16T23:00:00+00:00",
-     "copete": "El empresario venezolano, bajo la lupa de la justicia española y suiza, ha regresado a Caracas en las últimas semanas en vuelos privados rodeados de misterio",
-     "id": "e6b6f67b5870"
     }
    ]
   }
@@ -526,7 +526,7 @@
   },
   {
    "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
