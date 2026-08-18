@@ -1,33 +1,6 @@
 {
-  "generated_at": "2026-08-18T10:07:15Z",
+  "generated_at": "2026-08-18T22:15:00Z",
   "summaries": {
-    "2a2cfb489f50": {
-      "resumen": "Nota de OncLive con el comentario del Dr. Viansone sobre la secuenciación de conjugados anticuerpo-fármaco (ADC, fármacos que combinan un anticuerpo con una droga citotóxica) en cáncer de mama metastásico con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2+). Es una entrevista de opinión especializada sobre el orden óptimo de uso de estos fármacos, no un estudio con resultados propios.",
-      "destacado": false
-    },
-    "e6f707d1f707": {
-      "resumen": "Cobertura de OncLive sobre la investigación de golcadomide (un modulador de la ligasa E3 de cereblon, de la familia de fármacos CELMoD) en linfoma folicular recidivante o refractario (R/R), es decir que recayó o no respondió a tratamientos previos. Interesa porque explora una nueva clase de inmunomoduladores orales en un linfoma que suele recaer tras las terapias estándar.",
-      "destacado": false,
-      "analisis": "Diseño: No se especifica en el título; por el contexto (cobertura de OncLive sobre un fármaco en investigación) probablemente se trate de un ensayo clínico en fases tempranas presentado en un congreso, pero no puede confirmarse el diseño, la aleatorización ni el número de centros o pacientes.\nPoblación: Pacientes con linfoma folicular recidivante o refractario (R/R), que recayeron o no respondieron a líneas previas de tratamiento.\nIntervención: Golcadomide (modulador de la ligasa E3 de cereblon), posiblemente en combinación con otros agentes; el título no especifica comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar la fase del ensayo, el tamaño muestral, la magnitud de la respuesta ni la toxicidad del fármaco.\nMensaje: Es un fármaco en investigación temprana; de confirmarse actividad y buena tolerancia, podría sumar una opción oral más a la caja de herramientas para el linfoma folicular recidivante o refractario.\nNota: análisis sin acceso al abstract."
-    },
-    "d0477797d268": {
-      "resumen": "Entrevista de OncLive al Dr. Morillo, que explica el mecanismo de acción de golcadomide (modulador de la ligasa E3 de cereblon) en linfoma folicular recidivante o refractario (R/R). Es contenido educativo sobre cómo actúa el fármaco, no un estudio con resultados propios.",
-      "destacado": false
-    },
-    "a3329ab03523": {
-      "resumen": "La Asociación Americana para el Estudio de las Enfermedades del Hígado (AASLD) publicó un marco de referencia norteamericano para estandarizar las decisiones de tratamiento en cáncer de hígado (hepatocarcinoma). Es un documento de consenso de una sociedad científica, no un estudio clínico con resultados propios.",
-      "destacado": false
-    },
-    "7ecaa9c9bc97": {
-      "resumen": "Estudio publicado en The ASCO Post sobre agregar irinotecan (quimioterápico inhibidor de la topoisomerasa I) a la quimiorradioterapia preoperatoria estándar en cáncer de recto localmente avanzado. Según el título, la adición de irinotecan no mejoró los resultados, un dato relevante porque evita sumar toxicidad sin beneficio clínico.",
-      "destacado": false,
-      "analisis": "Diseño: El título no especifica el tipo de ensayo, la aleatorización, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de recto localmente avanzado candidatos a tratamiento preoperatorio (neoadyuvante).\nIntervención: Irinotecan agregado a la quimiorradioterapia preoperatoria estándar, comparado presumiblemente contra la quimiorradioterapia estándar sola.\nResultados: El título indica que no hubo mejoría en los resultados, sin especificar el criterio de valoración principal ni cifras.\nLimitaciones: Sin el abstract no se puede precisar qué desenlace se midió (respuesta patológica completa, supervivencia libre de enfermedad, etc.), el tamaño muestral ni la toxicidad de agregar irinotecan.\nMensaje: Resultado negativo relevante para la práctica: sugiere no sumar irinotecan a la quimiorradioterapia preoperatoria estándar en cáncer de recto localmente avanzado, ya que no aportaría beneficio y sí más toxicidad.\nNota: análisis sin acceso al abstract."
-    },
-    "2b2f69d084a9": {
-      "resumen": "Estudio publicado en The ASCO Post sobre la instilación intravesical temprana de pirarubicin (quimioterápico) tras la cirugía en pacientes con carcinoma urotelial del tracto urinario superior. Según el título, esta estrategia mejoró la supervivencia libre de recaída, una herramienta simple que podría reducir la recurrencia tumoral en la vejiga tras la cirugía.",
-      "destacado": false,
-      "analisis": "Diseño: El título no especifica el tipo de ensayo, la aleatorización, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes con carcinoma urotelial del tracto urinario superior tratados quirúrgicamente (presumiblemente con nefroureterectomía).\nIntervención: Instilación intravesical temprana (dentro de la vejiga, en el posoperatorio inmediato) de pirarubicin, comparada presumiblemente contra no intervención.\nResultados: El título indica mejoría en la supervivencia libre de recaída, sin cifras, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud del beneficio ni el perfil de seguridad de la instilación.\nMensaje: Sugiere que una intervención simple y de bajo costo tras la cirugía podría reducir la recurrencia vesical en el carcinoma urotelial del tracto urinario superior.\nNota: análisis sin acceso al abstract."
-    },
     "0adfb0da8749": {
       "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
       "destacado": false
@@ -46,38 +19,11 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico publicado en el Journal of Clinical Oncology; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con linfoma no Hodgkin indolente de células B sin tratamiento previo (primera línea).\nIntervención: Mosunetuzumab (anticuerpo biespecífico CD20xCD3) combinado, con un esquema adaptado a la respuesta, con polatuzumab vedotin (conjugado anticuerpo-fármaco anti-CD79b) y obinutuzumab (anticuerpo monoclonal anti-CD20); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de seguridad de esta combinación libre de quimioterapia.\nMensaje: Explora una estrategia de primera línea sin quimioterapia convencional, combinando un anticuerpo biespecífico con un conjugado anticuerpo-fármaco y un anticuerpo anti-CD20, en un intento de mejorar la tolerancia sin resignar eficacia en linfoma indolente.\nNota: análisis sin acceso al abstract."
     },
-    "a37031cadae2": {
-      "resumen": "Una selección de cinco libros imperdibles para quienes siguen de cerca la moda y sus tendencias."
-    },
-    "d9187e58de97": {
-      "resumen": "Stradivarius lanza sus primeras chaquetas de la temporada otoño 2026, que se perfilan como un éxito de ventas."
-    },
-    "f26621c7b359": {
-      "resumen": "El estilo 'american style' que marcó a las millennials en 2010 vuelve a ser tendencia en 2026: cómo lucirlo."
-    },
-    "30945d0c4378": {
-      "resumen": "Un repaso por las prendas elegantes que reemplazarán a las tendencias del verano cuando llegue el otoño."
-    },
-    "7f1f5d4c4190": {
-      "resumen": "Los zapatos de tacón estilo años 70 se imponen como opción versátil para combinar con jeans, faldas y vestidos este verano 2026."
-    },
-    "71b0bc995374": {
-      "resumen": "Quince peinados inspirados en los años 70 vuelven a estar de moda este verano 2026."
-    },
     "da96195716b6": {
       "resumen": "Un repaso por los seis meses que Federico García Lorca pasó en Buenos Aires, entre el arte y la política."
     },
-    "2dfb7d3179b6": {
-      "resumen": "El Trío Los Barros se presentará en el Teatro Ópera de Buenos Aires."
-    },
     "28ef5973b5cb": {
       "resumen": "Una parrilla porteña fue distinguida entre los mejores restaurantes del mundo."
-    },
-    "51f3eb8f8bf7": {
-      "resumen": "La obra AMARU llega al Teatro Picadero."
-    },
-    "290e131a5cb8": {
-      "resumen": "Un recorrido por las salas de teatro poco conocidas de Buenos Aires que quedan fuera de la cartelera tradicional."
     },
     "6479ac01a4b2": {
       "resumen": "La Voz del Interior propone diez planes gratuitos para disfrutar Buenos Aires durante el fin de semana largo sin gastar dinero."
@@ -91,8 +37,65 @@
     "2479c1a2a7d1": {
       "resumen": "Buenos Aires prepara un festival gratuito dedicado al alfajor este fin de semana, con una pieza gigante de 250 kilos."
     },
-    "0f4b24d5d164": {
-      "resumen": "Un repaso por la agenda cultural de la provincia de Buenos Aires."
+    "320aa19b1c5c": {
+      "resumen": "Artículo de revisión de The ASCO Post que repasa la evidencia presentada en los congresos 2026 de la Sociedad Americana de Oncología Clínica (ASCO) y la Asociación Europea de Hematología (EHA) sobre el manejo de la recaída temprana del mieloma múltiple (un cáncer de las células plasmáticas de la médula ósea). Sirve como puesta al día de las principales novedades del año en un escenario de alto impacto pronóstico.",
+      "destacado": false
+    },
+    "fc17ecc490e3": {
+      "resumen": "OncLive repasa los datos actualizados del ensayo SERENA-6, que evalúa el cambio temprano de tratamiento hormonal guiado por ADN tumoral circulante (ctDNA, fragmentos de ADN del tumor detectables en sangre) en cáncer de mama avanzado con receptores hormonales positivos. Profundiza el debate sobre si conviene anticipar el cambio de terapia antes de la progresión clínica o radiológica.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de datos del ensayo SERENA-6 (fase III); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado con receptores hormonales positivos, con progresión molecular detectada por ADN tumoral circulante (ctDNA) pero sin progresión clínica o radiológica todavía.\nIntervención: Cambio anticipado de tratamiento hormonal (a camizestrant, según el contexto del ensayo) guiado por la aparición de mutaciones en ctDNA, frente a mantener la terapia estándar hasta la progresión clínica.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Nota periodística sobre datos actualizados, sin acceso al artículo original; no permite evaluar significancia estadística ni magnitud del beneficio.\nMensaje: Refuerza el interés en el cambio de tratamiento guiado por ctDNA como estrategia de anticipación a la progresión, aunque el beneficio clínico neto de adelantar el cambio todavía genera debate.\nNota: análisis sin acceso al abstract."
+    },
+    "0caeb6f508e6": {
+      "resumen": "Entrevista de OncLive a la Dra. Sara Hurvitz, oncóloga especializada en cáncer de mama, sobre cómo interpretar los datos del ensayo SERENA-6 y la decisión de adelantar el cambio a camizestrant (un inhibidor oral del receptor de estrógeno) en cáncer de mama avanzado. Aporta la mirada clínica de una experta sobre cuándo conviene anticipar ese cambio de tratamiento.",
+      "destacado": false
+    },
+    "1a546f659691": {
+      "resumen": "The ASCO Post difunde un estudio que asocia el consumo de bebidas azucaradas con un mayor riesgo de cáncer gástrico (de estómago). Suma evidencia sobre un factor de riesgo dietético modificable para un tumor de mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (según el título); no se precisa en el título si es de cohorte o caso-control, ni el número de participantes o el tiempo de seguimiento.\nPoblación: Personas evaluadas según su consumo habitual de bebidas azucaradas; el título no especifica edad, región ni otros factores de riesgo considerados.\nIntervención: Exposición analizada: consumo de bebidas azucaradas (no es una intervención terapéutica sino un factor de riesgo dietético), comparando mayor versus menor consumo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Al ser aparentemente un estudio observacional, no permite establecer causalidad; sin el trabajo completo no se puede evaluar el ajuste por otros factores de riesgo conocidos (Helicobacter pylori, tabaquismo, dieta rica en sal) ni la magnitud del efecto.\nMensaje: Suma otro argumento para desalentar el consumo de bebidas azucaradas como medida de prevención oncológica, aunque hace falta ver el estudio completo para dimensionar el riesgo real.\nNota: análisis sin acceso al abstract."
+    },
+    "0359bab1c76b": {
+      "resumen": "La Administración de Alimentos y Medicamentos de Estados Unidos (FDA) otorgó la designación de vía rápida (Fast Track) a ETX-19477, una droga en investigación para el cáncer de mama con receptores hormonales positivos y HER2 negativo (sin sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano) en pacientes con mutación en los genes BRCA. Es una señal regulatoria a seguir, aunque todavía no hay resultados de eficacia publicados.",
+      "destacado": false
+    },
+    "e50be14b8a31": {
+      "resumen": "The ASCO Post reporta que rezatapopt, una droga que busca reactivar la proteína p53 mutada, mostró actividad clínica en cáncer de ovario avanzado con la mutación específica TP53 Y220C (una alteración del gen supresor tumoral TP53 potencialmente reactivable con fármacos). Interesa porque TP53 es el gen más mutado en cáncer y hasta ahora se lo consideraba \"no drogable\".",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico temprano (por el contexto, de tipo fase I/II tipo canasta); el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario avanzado portadoras de la mutación TP53 Y220C, una alteración puntual del gen supresor tumoral TP53 que genera una proteína inestable pero potencialmente reactivable.\nIntervención: Rezatapopt, droga que busca restaurar la conformación y función normal de la proteína p53 mutada; el título no menciona comparador, compatible con un estudio de un solo brazo.\nResultados: El título reporta \"actividad\" clínica pero sin cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Al tratarse -según el título- de un estudio temprano y de un solo brazo, no permite establecer beneficio comparativo; sin el trabajo completo no se puede evaluar el tamaño muestral ni la durabilidad de las respuestas.\nMensaje: Es una señal preliminar pero relevante para un subgrupo mutacional históricamente sin opciones dirigidas, aunque se necesitan estudios más grandes y comparativos para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "a8e850ff9535": {
+      "resumen": "La firma Bode presentó su colección de prêt-à-porter (ropa lista para usar) para la primavera 2027."
+    },
+    "8d760e5f721c": {
+      "resumen": "Un estilo de sandalias característico de los años 2000 vuelve a imponerse como tendencia para la temporada 2027."
+    },
+    "d1613478ea10": {
+      "resumen": "La manicura con lunares, inspirada en los años 70, se perfila como la tendencia de uñas del verano 2026."
+    },
+    "121aa38fa9f0": {
+      "resumen": "Un repaso de las tendencias de moda que se impondrán esta temporada de otoño."
+    },
+    "cca8b2542a0e": {
+      "resumen": "La modelo Nicole Neumann mostró tres looks de invierno durante una estadía en el sur argentino."
+    },
+    "ea6e23642e2a": {
+      "resumen": "Una selección de vestidos de la marca Parfois para cerrar el verano con estilo, cómodos y en colores de tendencia."
+    },
+    "3af018c7e004": {
+      "resumen": "Guía de planes, espectáculos y propuestas gastronómicas para agosto 2026 en la Ciudad de México."
+    },
+    "56fba385c265": {
+      "resumen": "El espectáculo Cindy Cats agotó cuatro funciones en Buenos Aires y sumó una fecha extra para cerrar el año."
+    },
+    "2868026b4e41": {
+      "resumen": "Una semana dedicada al teatro boliviano se realizará en el Auditorio AIC Abasto de Buenos Aires, con comedias en cartel."
+    },
+    "1993911fd90a": {
+      "resumen": "Ocho participantes se disputarán un premio millonario en la gran final del programa \"Es mi sueño\", en el Teatro Ópera."
+    },
+    "2517a40606ad": {
+      "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
     }
   }
 }
