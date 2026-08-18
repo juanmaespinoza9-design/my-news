@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T13:14:05.916633+00:00",
+ "generated_at": "2026-08-18T14:56:57.253266+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,46 +7,46 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "FDA Grants Fast Track Designation to BH-30643 in EGFR C797S+ NSCLC",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWllzaWpaQVlteGFyUWZxOWJOd2pnMHpZMWZhMk9ucjZrZ2RMS0xNWlhyT0pJb3BHZE5iY29mSEJ4T0kwMmhVdnJzazNjZlNVQk4zRmZCaUdtQ3FiME5tbkN4YXBxYWZkUFJ6WlZVaExqNGI4TG1jLXpBd3N0enI5SzEwYmEtdDRmcWV0eXdQZDlRajdZak1PdkRR?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-18T14:46:36+00:00",
+     "id": "a7cfa3687505"
+    },
+    {
+     "title": "Posttransplant Dordaviprone Maintenance Is Safe With Low Cytopenia Rates in High-Risk AML and MDS",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZGNrZFZGNFQ0ZWwyWHp3aTB3U3NBQmhXVi1SU09lRjFuMVBkOHVkM25LS3hpbUZIRHd4T3BvSXhyZkEybkcwSFAzRGxUbU50UUJmckdEdXhIZlEySWZpVWY2M3VLS3BwNVpBLWdhck13N1IycG93cnY2QkNockpvMklUX29Gb1BoUGRrZk9CMDdpV2s3MzFRU016VGlsWXJPaHI0RG91d1M?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-18T14:11:36+00:00",
+     "id": "1f58b6825b08"
+    },
+    {
+     "title": "Rezatapopt Shows Activity in TP53 Y220C–Mutated Advanced Ovarian Cancer",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVFESHJ0QkJWeGk2VkU5dF9zcFZXVUU4UWxtUk1RUW53aFdQMVdJR3B2d3IyYVJFTHpnQ0txZzlBRkJsak5haXhDd0VCNE1lNjg0YTM4TVBDTnpvMlA0V1FUQ3plUjI2cTd3UUFWdWN3NHJwYWxrT2F5azhrY01Fb095a3hUcVhjc2dTcldPWFZnam1WRHZkN29pYVYzeE9kWTZiS1A4MHEwWlFtcEFV?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-08-18T14:02:46+00:00",
+     "id": "e50be14b8a31"
+    },
+    {
+     "title": "High-Risk ERBB2-Negative Breast Cancer Adding Dual Checkpoint Blockade to Neoadjuvant Chemotherapy",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcmtQUFlWSXBybmxQSmVEc0p0dFliMWVjQmxjbkQ2Tm5GbW1Kb29jM0EwSzJULUZZOGViYVMtVzF0TEhEYW1ZYkRiZGhFcTh2RVUxZVJZY29nUUEzOVZHWThUSWx2M1k0Ukg5ZF8yUm9kdTFBUzlWaElfRjJBb2dEb1ZBXzBXNzJkTU9mSDk5c2Rhb2lRX2ZTSGRMV2tBTVpibThPZmRjLWxQSnU4OGNEVjdwOUUyWHV6NWQxLUVUa3c0blNTcW1ndjNNT3lPcG96U3pR?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-08-18T13:37:57+00:00",
+     "id": "58bf0dcbfdbc"
+    },
+    {
+     "title": "TACE Plus Thermal Ablation Improves Survival in Unresectable HCC",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNm5pM3pzaG90SGRKV1JnVmRhWDR1Q29lV1k5WllHZEdzTHZ3ZU9mTzVMOWcxS19lMEpHcGpWRnNzYWNEWC1aYWJLb0FzMFcwM0VSNEpRcUNUOEpZSC1qaVhMUnFCS2NXSFpYNmNPaWtxLUpwVm5SZFZ2QkFuRmpseG9mQ2daV0tGZU1QOUo5NHluOHZhcWIzaWRGR3VkYjN2R3ptc1BB?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-08-18T13:27:56+00:00",
+     "id": "9b1affba4c4b"
+    },
+    {
      "title": "NMA Associates MRD-Negative CR With PFS in Earlier-Line R/R Myeloma",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczFwUWgtcWg5cEFQZkp2ZHJKSk4wZHNRUncwWFZ3MVNzdEhjVm11eENtbk1oQzdOZGNpZ1pGd2lQdFBhN0VMUzljeFdSQ1h5U3Y0RWdXY2FBX1ZfeUkwdi1KdU8zUER3UkpjbUgtUEw5dXBsb3pXcDBmOVFfS1huTDF5clFGOU5rSEVKUGR4c1FITUxkaTlIYzhBWjA?oc=5",
-     "source": "onclive",
+     "source": "OncLive",
      "published": "2026-08-18T12:06:27+00:00",
      "id": "a2e42457c40c"
-    },
-    {
-     "title": "Dr Viansone on ADC Sequencing in Metastatic HER2+ Breast Cancer",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEJPaWFOTWZ6RjVOZFdvQ2J1eGlsSUwtc2NESWpFaU56clRrakh3eTdmeGVreXBBT3E0LUVTMExwLTBVUUtRd2M5RHRmdVFaZkR3cVU1YzJhR01PUWF4cS1uSG5PWFBsYnZlc2c0dUhXNjJPVGExVll6cmFNWlVUV0tUelFuRElWbVdfT3lWSUFmR0NBNmc?oc=5",
-     "source": "onclive",
-     "published": "2026-08-18T08:03:45+00:00",
-     "id": "2a2cfb489f50"
-    },
-    {
-     "title": "Investigating Golcadomide in R/R Follicular Lymphoma",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnhmdDVyS2dLMFdmanJmY1RTN0N3TFM2d0g0a2J4TWphUGdsWTB5eHNlSHJtbFd5WnU2Q3RPT2VWMWVVVnI0TTJhc0g5bm44bG9PMmZZaFFsdVVySVR0VFNPRmwwU1hLMEZlc1ctb2pSTk82c2twbC1UQlZ5VGRRQVpPdlNmNDV0Zi04?oc=5",
-     "source": "onclive",
-     "published": "2026-08-18T03:02:14+00:00",
-     "id": "e6f707d1f707"
-    },
-    {
-     "title": "AASLD Publishes Landmark North American Framework to Advance Treatment Decisions for Liver Cancer",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGxGNVVIOWxaa3p4Mm5RRnRiaTFvaU90c0xyQmwtWVR2b2ZreDliMm0tZVE5eTcyM1p3cXlpb1dYM1JHN1V2aVpYb01MNVhReUp1MExTbC1nNkZSS0Yyb1lzbXR3LVNqMHVMMjNwTHF1UGl0cmJnaGQxalU1NGItVmVtWWNQUjAzblNuRkRvZHZCeS14UzA3dGRJVmZkWUQwLXVsTzZwY3BKaS10RWRyNEFmUFplam9lZHo3OUFJUnQ2UjI4cEpGdlY0UnhDYkxKTkE?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-08-17T15:27:30+00:00",
-     "id": "a3329ab03523"
-    },
-    {
-     "title": "Adding Irinotecan to Preoperative Chemoradiotherapy Does Not Improve Outcomes in Locally Advanced Rectal Cancer",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYTdLUUFpRi1CMU94bTROVW1IWXVMWEotVFlxdFBDMDZWemNXZ3djYmwxLXBla2Q0WmhwQlZodURoR3FIRDdaR0ZCYkJrQkI0R3ZpVEJPWWxUWkhncm5MQ3E4aFV3aExnSXh4UklneWlZM0I3ODRwS1RVNmc4WVRiVWlMMnJ0bTlTVTRUT2ZEcWFtZTRrWlp2MzZTTmszQ3lxMThKUTNEWFlMZDNNakxIRHd6Tmo3TndobHZiQ3Jia3lzcDFPdmlkclJiaDVMNnFnRlFHampJRnNybUw2dTRLMGZKMHU?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-08-17T15:26:56+00:00",
-     "id": "7ecaa9c9bc97"
-    },
-    {
-     "title": "Early Intravesical Pirarubicin Improves Relapse-Free Survival in Upper Tract Urothelial Carcinoma",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMEZjQ28xTmV5OGI4V0dIQkFWRThQajh4bkFmTlp1QzZWZHFzcF9IbTQxejZmblNTN0tSZXNHRlUtVDZmVl9OUjZUUGRBU0UtRWFZZlFJWEp4U3Fpb0RZYVI3Qlp0ZGVPM21SU0psV21zX2NLNGhUcDN5NnhoV053aEhGVjJLemx5X1ZULW1XeS1kTUZRamZHQUo3b0MwQTdENDBvei0wUlB2cDRrSzJfYV93aWNWdnpuc2hHTnRabURpd0NsT2hOQTJWWERTRlVpY2c?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-08-17T15:06:55+00:00",
-     "id": "2b2f69d084a9"
     },
     {
      "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.3",
@@ -79,6 +79,22 @@
      "published": "2026-08-14T00:00:00+00:00",
      "copete": "Lynch RC et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "25115d8a7399"
+    },
+    {
+     "title": "Redefining Progression in a Rapidly Evolving Therapeutic Landscape",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593813/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Vasan N et al. · JAMA oncology",
+     "id": "3e9b1753d2e9"
+    },
+    {
+     "title": "Oral Ulcers in a Patient With Myelodysplastic Syndrome",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42593812/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-13T00:00:00+00:00",
+     "copete": "Torres-Saavedra F et al. · JAMA oncology",
+     "id": "ca6ee5a8a9f8"
     }
    ]
   },
@@ -88,50 +104,57 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Puppy Love! 11 Times Dogs Served as Witness for Their Parents’ Vogue Wedding",
-     "link": "https://www.vogue.com/slideshow/dogs-in-vogue-weddings-dogue-2026",
+     "title": "How to Style Wide-Leg Jeans, According to the Street-Style Set",
+     "link": "https://www.vogue.com/article/how-to-style-wide-leg-jeans-street-style",
      "source": "Vogue",
-     "published": "2026-08-18T13:00:00+00:00",
-     "copete": "Here are all the times dogs gave their paw of approval to their parents’ nuptials in Vogue.",
-     "id": "b8305a7e54bd"
+     "published": "2026-08-18T14:31:26+00:00",
+     "copete": "Wide-leg jeans are one of the most popular denim trends, and this is how to style yours, with inspiration straight from the street style set.",
+     "id": "386a20df244c"
     },
     {
-     "title": "9 Vogue Editors on the Dog Essentials They (and Their Four-Legged Friends) Can’t Live Without",
-     "link": "https://www.vogue.com/article/vogue-editor-dog-essentials",
+     "title": "The Best Suede Sneakers to Shop in 2026",
+     "link": "https://www.vogue.com/article/best-suede-sneakers",
      "source": "Vogue",
-     "published": "2026-08-18T13:00:00+00:00",
-     "copete": "From treats to toys to grooming essentials, Vogue editors share the dog essentials they (and their furry friends) can’t live without.",
-     "id": "b3523c3ef596"
+     "published": "2026-08-18T14:17:56+00:00",
+     "copete": "The best suede sneakers are wardrobe workhorses, and the options are virtually endless. From Miu Miu to Adidas, Nike, and more, these are the ones to shop now.",
+     "id": "11502accc99b"
     },
     {
-     "title": "A Bad Bunny and a Beagle Walk Into a Restaurant…",
-     "link": "https://www.vogue.com/article/bad-bunny-dogue-2026",
+     "title": "Margot Robbie’s Holiday Wardrobe Is Pure Samantha Jones",
+     "link": "https://www.vogue.com/article/margot-robbie-holiday-wardrobe-samantha-jones",
      "source": "Vogue",
-     "published": "2026-08-18T13:00:00+00:00",
-     "copete": "After wrapping his eight-month-long Debí Tirar Más Fotos World Tour, Bad Bunny had one thing left to do: an Italian dinner date with his beagle, Sansa.",
-     "id": "f9b474c71454"
+     "published": "2026-08-18T14:15:23+00:00",
+     "copete": "Margot Robbie went full Samantha Jones for a date night with her husband in Paris.",
+     "id": "0f3917394f62"
     },
     {
-     "title": "Lena Dunham’s Hairless Dogs Have Taught Her to Keep Calm and Carry On",
-     "link": "https://www.vogue.com/article/lena-dunham-dogue-2026",
+     "title": "On the Podcast: Our First Dogue Wedding and Hollywood’s Bombshell Designer",
+     "link": "https://www.vogue.com/article/on-the-podcast-our-first-dogue-wedding-and-hollywoods-bombshell-designer",
      "source": "Vogue",
-     "published": "2026-08-18T13:00:00+00:00",
-     "copete": "“I sometimes joke that Ingrid is my dog and Cornichon is her dog,” Dunham says of her two pooches.",
-     "id": "0c26e0f755ac"
+     "published": "2026-08-18T13:20:54+00:00",
+     "copete": "On this Tuesday’s episode of “The Run-Through,” we’re celebrating Dogue 2026. Plus, Mauricio and Roger Padilha talk about their forthcoming book, “Jean Louis: Hollywood's Bombshell Designer.”",
+     "id": "28636fb31a48"
+    },
+    {
+     "title": "Las mejores series de 2026",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oYXg2dFFiMmZ3WmdFdUpvRl8tYTFnRi00OWxZOXhQZk9vdUxrZ1YwbjRMb085QWRxcGtRakRQUGZmQk53VmdrTi14d1RTc3lWcXpwOWxNcHFKRXhoNmN4c1FZd0pHQ2tVZ200?oc=5",
+     "source": "Vogue España",
+     "published": "2026-08-18T12:22:35+00:00",
+     "id": "0bbfaef22491"
     },
     {
      "title": "Horóscopo de hoy: 18 de agosto de 2026",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONndKZlB0UTNzekNYZm1acjA3RkNvUDFQbFREcGlDVjRQNDN2Y3ZUTkFnVjB1dzNpRjNnOV9RX2h1YVFiTktEM29QZS0yRDY5S21ZMEJlNzFqeWZ5Q2l5NklYbHUwaHJMdzdEcHZCREtxdmNBUjRvUWh6LUpjSFE?oc=5",
-     "source": "Vogue México",
+     "source": "vogue.mx",
      "published": "2026-08-18T11:00:00+00:00",
      "id": "e5d2a4325692"
     },
     {
-     "title": "Pepa Gómez, experta en moda y estilista profesional: “El pitillo ha recuperado visibilidad en 2026, pero no ha sustituido a los pantalones amplios. El criterio depende de tu cuerpo y tu estilo”",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOC02NDZteHV6azdlUlBvYVpzS3FvLXc2X1pmRWhDWVVwZEJsRzlZcThnOEQ3d2FZSW0zdXdWdUpoeVVTOFRLcU5wTlRuZmVmWllic1c3RHU3M1VyVjRWWHR3Z0FfWlBhXzJTc0ZfUGhRWnV0b2R2bzU1YjdsM3JfdmYxaXhzOWotN3RYRVlvWnI1azJUREk5T21vdlBrNUtjYWVEMnN0cy1QcFVwVUg0eHR1ZUlEVmtWVzFzc0J5RHIzeXRJZERadzhaTFdHMWM2RlRNVUF5d2d2X3Jyd3kyaDlna092Nms?oc=5",
-     "source": "Lecturas",
-     "published": "2026-08-18T10:09:37+00:00",
-     "id": "40434cca0ba6"
+     "title": "Atención, fans de Comme des Garçons y Rei Kawakubo: dot COMME subasta 265 piezas de su épica colección",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUNTg2Y1htTkxnUmp3eWNlU1FGanBWeEVyMm0yOE9WZEtBTGFXTVZGVW85MjJHRHExVVNVYTJlNXpLd1E0eWhtRG1EeVhJVExlN09QMm9BTUo4dmpZUEozRk04SWd3UVFJMU01c0ZuRVBuMVk?oc=5",
+     "source": "Vogue España",
+     "published": "2026-08-18T09:52:41+00:00",
+     "id": "bb9141eaed7f"
     },
     {
      "title": "¿Te acuerdas del vestido rojo de Zara \"más bonito (y viral) del mundo\"? Acaba de llegar a Massimo Dutti una versión igual de favorecedora pero más sofisticada",
@@ -150,16 +173,9 @@
     {
      "title": "Cinco libros de moda para los amantes de las tendencias que son lectura imprescindible",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeHhjX04tZGxGOUV1NnVmQTBNQUR4S2l5VnRwYzNWMnplOE9EZDQ5TU9xM1pUNjlyUzFHTWFiTDFuYmo5WkFPa1htdkVBZEg3Q19yMklvUHgzdURNUm1RRzZRbEloRl9wVFNxa19hc0JjdGtHNUhUZ2gtUEJxOVhCRHd2MzhHRFAtR0NiMmNLMWlfcEhwY1JIZlY2UFNZeXFOWTFOT0Q0Y3h5ZzDSAbABQVVfeXFMUEkzT0d0Q2hINHVfQ0J3VGl1VUtIYk4yVjItRVo3cVFZR3o5VzBjc1prSjEyaFdzMHMzaHRhcGFMQTAwSDJBM1ZRMDhqZzlrXzBLVEE3T3NkN1lGT1VqN1pTRXdjQWM4ZnZXQnNBUnJsVTdveks3TGVsbi1VMUlQZkNSR0RuaC1CY1ZtYmduUS1xYjZGUnp3U1pNU0p0b0JOT2JaQ2JaQ1Zfa0ZkY2RRaGQ?oc=5",
-     "source": "okdiario",
+     "source": "OkDiario",
      "published": "2026-08-18T08:02:19+00:00",
      "id": "a37031cadae2"
-    },
-    {
-     "title": "Los looks de la fiesta de fin de curso de Vogue College of Fashion",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlNfc1ZKTzdTek1WUVlYV1lxMkVud3JQZHVZOU5pS1dGYXMzX3pIRjJ2bGdYX0JsM3dDMWJMeld1VEc4ZWk0WUhMbmFvYWVIdF9fZkluZnlYcnZrWDRxLUxJU2dWdUM3VVVPQjhHTzA5NzhCbWlZQURiQnVmWGpWZw?oc=5",
-     "source": "Vogue España",
-     "published": "2026-08-18T07:37:15+00:00",
-     "id": "720971483883"
     }
    ]
   },
@@ -168,6 +184,78 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Flor Vigna reveló que Cande Ruggeri se le tiró a Nico Occhiato cuando ellos eran novios: “Si me estás viendo, ya lo sé”",
+     "link": "https://www.lanacion.com.ar/espectaculos/flor-vigna-revelo-que-cande-ruggeri-se-le-tiro-a-nico-occhiato-cuando-ellos-eran-novios-si-me-estas-nid18082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-18T14:55:09+00:00",
+     "copete": "La influencer contó en La Casa de los Famosos México que la modelo, con quien tenía buena relación, intentó tener algo con quien por entonces era su pareja",
+     "id": "252658835ee0"
+    },
+    {
+     "title": "Uno por uno, todos los amores de Moria Casán: matrimonios y escándalos que marcaron su carrera",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/uno-por-uno-todos-los-amores-de-moria-casan-matrimonios-y-escandalos-que-marcaron-su-carrera-nid18082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-18T14:49:30+00:00",
+     "copete": "La artista vivió apasionados romances y también sufrió bastante por amor; si bien hay muchas parejas que se le conocieron, ella asegura que tuvo varias historias que nunca vieron la luz",
+     "id": "51167ee0da58"
+    },
+    {
+     "title": "Moria, la serie, ya tiene su primer conflicto legal: la familia de Luis Vadalá se presentará ante la Justicia",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/moria-la-serie-ya-tiene-su-primer-conflicto-legal-la-familia-de-luis-vadala-se-presentara-ante-la-nid18082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-18T14:46:58+00:00",
+     "copete": "La hija mayor del ex de la diva cuestionó la manera en que representaron a su padre en la ficción",
+     "id": "4dc0281a9103"
+    },
+    {
+     "title": "Mario Pergolini y Coco Sily revivieron su amistad, entre fideos con paté y robo de nafta: “No teníamos un peso”",
+     "link": "https://www.infobae.com/teleshow/2026/08/18/mario-pergolini-y-coco-sily-recordaron-su-amistad-entre-fideos-con-pate-y-robo-de-nafta-no-teniamos-un-peso/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-18T14:43:44+00:00",
+     "copete": "El conductor y el actor recordaron risas la época en que apenas alcanzaba para cenar y había que ingeniárselas para poder moverse por la ciudad",
+     "id": "c0e1d43274ea"
+    },
+    {
+     "title": "Wanda Nara se refugió en el Delta y apostó a la tranquilidad junto a sus hijas: mates, río y día nublado",
+     "link": "https://www.infobae.com/teleshow/2026/08/18/wanda-nara-se-refugio-en-el-delta-y-aposto-a-la-tranquilidad-junto-a-sus-hijas-mates-rio-y-dia-nublado/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-18T14:40:05+00:00",
+     "copete": "En un lunes feriado completamente gris, la empresaria eligió la naturaleza y la intimidad familiar para desconectarse del ruido mediático",
+     "id": "bda9ff2157b4"
+    },
+    {
+     "title": "Shakira viajó a Colombia, visitó la zona más afectada por el terremoto y anunció una megadonación",
+     "link": "https://www.lanacion.com.ar/espectaculos/shakira-viajo-a-colombia-visito-la-zona-mas-afectada-por-el-terremoto-y-anuncio-una-megadonacion-nid18082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-18T14:24:31+00:00",
+     "copete": "El lunes 17 de agosto, la intérprete barranquillera recorrió la localidad de Quibdó y aseguró que, junto a su fundación Pies Descalzos, ayudarán a reconstruir diez escuelas",
+     "id": "bbdbf06c5d21"
+    },
+    {
+     "title": "Llega la gran final de Es mi sueño: 8 participantes competirán en el Teatro Ópera por un premio millonario",
+     "link": "https://www.infobae.com/teleshow/2026/08/18/llega-la-gran-final-de-es-mi-sueno-8-participantes-competiran-en-el-teatro-opera-por-un-premio-millonario/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-18T14:00:10+00:00",
+     "copete": "El certamen de Guido Kaczka cambia sus reglas en la última noche para coronar a un nuevo talento en uno de los escenarios clásicos de Buenos Aires. Los detalles",
+     "id": "637a74de340c"
+    },
+    {
+     "title": "Cecilia Milone recordó a Chico Novarro a 3 años de su muerte: la foto que relata una historia de su intimidad",
+     "link": "https://www.infobae.com/teleshow/2026/08/18/cecilia-milone-recordo-a-chico-novarro-a-3-anos-de-su-muerte-la-foto-que-relata-una-historia-de-su-intimidad/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-18T13:42:51+00:00",
+     "copete": "La actriz y cantante compartió una imagen inédita del músico y evocó un romance que trascendió la diferencia de edad y el paso del tiempo",
+     "id": "0b05457c5b74"
+    },
+    {
+     "title": "Murió a los 98 años Laura Cardoso, una de las grandes estrellas de la telenovela brasileña",
+     "link": "https://www.clarin.com/espectaculos/murio-98-anos-laura-cardoso-grandes-estrellas-telenovela-brasilena_0_Qlp5VwCQLP.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-18T13:22:06+00:00",
+     "copete": "Hija de inmigrantes portugueses, brilló en las radionovelas y participó de los primeros grandes éxitos del género en la TV de Brasil. \"Nuestra grande estrella se despidió. Laura Cardoso estará para siempre en nuestros corazones\", la…",
+     "id": "9b05d22e8869"
+    },
     {
      "title": "Así fue la escapada de Rocío Igarzábal a la nieve: días de relax y esquí en Mendoza",
      "link": "https://www.infobae.com/teleshow/2026/08/18/asi-fue-la-escapada-de-rocio-igarzabal-a-la-nieve-dias-de-relax-y-esqui-en-mendoza/",
@@ -185,84 +273,12 @@
      "id": "6f5d1035c111"
     },
     {
-     "title": "La determinante decisión que tomaría Tini Stoessel sobre su carrera luego de casarse con Rodrigo De Paul",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-drastica-decision-que-tomaria-tini-stoessel-sobre-su-carrera-luego-de-casarse-con-rodrigo-de-paul-nid18082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-18T12:20:00+00:00",
-     "copete": "La pareja dará el sí en diciembre y, según revelaron en Puro Show (eltrece), la unión implicaría un punto de quiebre en la carrera de la artista",
-     "id": "5889bbb8272b"
-    },
-    {
-     "title": "Llega la gran final de Es mi sueño: 8 participantes competirán en el Teatro Ópera por un premio millonario",
-     "link": "https://www.infobae.com/teleshow/2026/08/18/llega-la-gran-final-de-es-mi-sueno-8-participantes-competiran-en-el-teatro-opera-por-un-premio-millonario/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-18T12:11:08+00:00",
-     "copete": "El certamen de Guido Kaczka cambia sus reglas en la última noche para coronar a un nuevo talento en uno de los escenarios clásicos de Buenos Aires. Los detalles",
-     "id": "637a74de340c"
-    },
-    {
-     "title": "Quién se fue de Gran Hermano este lunes 17 de agosto",
-     "link": "https://www.lanacion.com.ar/espectaculos/quien-se-fue-de-gran-hermano-este-lunes-17-de-agosto-nid18082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-18T11:46:42+00:00",
-     "copete": "La gala comenzó el domingo con votación positiva y terminó este lunes con un mano a mano entre dos participantes",
-     "id": "c5ad8ae5c33b"
-    },
-    {
      "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 18 de agosto de 2026 en Argentina",
      "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-18-de-agosto-de-2026-en-argentina_0_6YmrNUttKY.html",
      "source": "Clarín Espectáculos",
      "published": "2026-08-18T10:15:02+00:00",
      "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
      "id": "39cc7026caf3"
-    },
-    {
-     "title": "Qué reveló la autopsia de Hayden Panettiere y qué interrogantes quedan abiertos sobre su sorpresiva muerte",
-     "link": "https://www.clarin.com/espectaculos/revelo-autopsia-hayden-panettiere-interrogantes-deja-abiertos_0_RiAcSSpaXQ.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-18T10:12:19+00:00",
-     "copete": "El resultado preliminar de la pericia confirmó que no hay indicios de violencia ni de participación de terceros. La actriz de 36 años, que participó de la serie Héroes y la saga Scream, falleció el domingo en su casa de Carolina del Sur.",
-     "id": "abb52153b70a"
-    },
-    {
-     "title": "Benjamín Vicuña rompió el silencio tras el escándalo con Mauro Icardi y fue tajante",
-     "link": "https://www.lanacion.com.ar/espectaculos/benjamin-vicuna-rompio-el-silencio-tras-el-escandalo-con-mauro-icardi-y-fue-tajante-nid18082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-18T09:58:38+00:00",
-     "copete": "Luego de que el futbolista cuestionara su paternidad, el actor chileno se pronunció al respecto y dejó en claro cuáles son hoy sus prioridades",
-     "id": "90ba4a6e02b2"
-    },
-    {
-     "title": "La recibieron al grito de “te amamos” y estuvo nueve días en la cárcel: a once años de Moria Casán presa en Paraguay",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-recibieron-al-grito-de-te-amamos-y-estuvo-nueve-dias-en-la-carcel-a-diez-anos-de-moria-casan-nid16122025/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-18T09:20:52+00:00",
-     "copete": "En 2015, La One viajó a hacerle frente a una denuncia realizada por un joyero y escribió una de las páginas más bizarras de su carrera; compartió celda en el penal del Buen Pastor",
-     "id": "05f14eb36845"
-    },
-    {
-     "title": "Paul Mescal, Joseph Quinn, Barry Keoghan y Harris Dickinson fueron vistos filmando la biopic de los Beatles en el emblemático paso de cebra de Abbey Road",
-     "link": "https://www.clarin.com/espectaculos/paul-mescal-joseph-quinn-barry-keoghan-harris-dickinson-vistos-filmando-biopic-beatles-emblematico-paso-cebra-abbey-road_0_NljeRNSIP9.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-18T09:01:54+00:00",
-     "copete": "Recrearon la mítica escena para \"The Beatles - A Four-Film Cinematic Event\", que estrena en 2028. Mirá el video.",
-     "id": "baed0664e38d"
-    },
-    {
-     "title": "Lanterns, la nueva serie de DC, según sus protagonistas y los desafíos de un rodaje entre el policial y la ciencia ficción",
-     "link": "https://www.clarin.com/espectaculos/lanterns-nueva-serie-dc-protagonistas-desafios-rodaje-policial-ciencia-ficcion_0_IoWngplLWi.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-18T09:01:53+00:00",
-     "copete": "Kyle Chandler y Aaron Pierre hablaron en exclusiva con \"Clarín\". El domingo, por HBO Max, estrenó el primer episodio de la serie de los creadores de \"Ozark\" y \"Lost\".",
-     "id": "e856118900b4"
-    },
-    {
-     "title": "Mario Pergolini recordó una foto de su juventud junto a Charly García: “No pensaba que iba a tener hijos”",
-     "link": "https://www.infobae.com/teleshow/2026/08/18/mario-pergolini-recordo-una-foto-de-su-juventud-junto-a-charly-garcia-no-pensaba-que-iba-a-tener-hijos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-18T03:57:03+00:00",
-     "copete": "El conductor recordó anécdotas compartidas con el músico y explicó con el pacto de discreción que lo une con el músico",
-     "id": "963311cb17ce"
     }
    ]
   },
@@ -277,6 +293,13 @@
      "source": "Infobae",
      "published": "2026-08-18T12:20:50+00:00",
      "id": "1993911fd90a"
+    },
+    {
+     "title": "Pesca blanca en Buenos Aires: guía de restaurantes donde encontrarla",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXROa0Z6ZlBJcTZYMHRzSW40YVN1UnJzcXVvdTM1VG9CbzZ2ZG10M2pFMEF1a1R2TFRxeWFsZi1HVDd2cThndV9VVGRNdVFDVFFUb2tyYkxlTEcxSlJmUHJoenVNMzFtdmdwbktKU3Z2VWQwYUlNbWlzQ2NiZjkyUVZqQXduUWV1QTV6eWxtVUJLMEhyQUt4amhzNzBQYlc3SHJ30gGoAUFVX3lxTE01UFlGU211VEdic3FfLXZXUUl3Sks3dGl0V0V6bnhSOVF5a0NsdHhRTTItVElBalVKc3R4Zk1Xd2RFUm1OSHdxWE1yRDFhSFgxSHE4RWV0TWVTRGpxaEJSekI5V0RUdVVVc2dqMWV2Y2tDUTJ4RmFXYUxsNjJDUUFXd2xxblVMalBmZkV1dzJ0bkd5c3NFZXJob0Vpa3RLVnFSaTNMbzdpeQ?oc=5",
+     "source": "Ambito",
+     "published": "2026-08-18T12:14:11+00:00",
+     "id": "2517a40606ad"
     },
     {
      "title": "Buenos Aires, el refugio de Lorca: 6 meses de arte y política",
@@ -323,7 +346,7 @@
     {
      "title": "Día de las Infancias: los mejores 6 restaurantes de Buenos Aires con menús para chicos",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2JjZW9NXzFRRGM4R3h5cGlrMjczNTMtLXdhZWs2ZmFtMmpYUlNZbXFocEE5REI1ZXczNnFrVEw2UkRsN0piSG5Fb05VWXMyVGdqOHRTMWlPdGFoSWpFbGFxZVdxWE9BWFpFNGc3XzluNkg5OWpBOGdQZWVIRjBfZVdnMWJmR3l1SnJNU01wZUhhWXJTbHZhVFhwSk1MUURlUk1WVldIeXRzeHZxX2fSAcIBQVVfeXFMUEw3RUxrZ3VnZkJFdVZCUlJvRWIyMF9PdUFNVHRJYzkyMVlKdDh3YmdWamlDczFROFdhQ3NVNTNLTWRhTDltVHhzQlFjNERCaGNRemNZTnNpbkdkVkQ1WTFidjNISjh0SEdtaE9VaXdkMURsVFUzSzl6YjJfSjJBaVJaX2NsV1Y5ZXlFdXJUU1pwdmRaSDNjazJDQ1lSQmRlUGVTUnNYZGdLaTVSXzg0cjN4cWZSYlM0T2dlY3ZpMVRCS3c?oc=5",
-     "source": "El Destape",
+     "source": "eldestapeweb",
      "published": "2026-08-14T23:20:33+00:00",
      "id": "59fa5d22bf13"
     },
@@ -333,13 +356,6 @@
      "source": "Buenos Aires Secreta",
      "published": "2026-08-14T21:51:18+00:00",
      "id": "2479c1a2a7d1"
-    },
-    {
-     "title": "Agenda cultural bonaerense",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ldFZwRUozV0E4X1RpN0ZiM2Y3MWVMSHpNR3Zkcjhnb2QxOUhQY05nZFlSQ1NBX1d6MW5wU0ZWUkJCU3V6X2pMQU9qU183aGs3OVhFWjlTRFBBZzVvRVExalA4VjcwYlNDZHFfZHhWdXpWS01M?oc=5",
-     "source": "Página|12",
-     "published": "2026-08-14T20:46:57+00:00",
-     "id": "0f4b24d5d164"
     }
    ]
   },
@@ -349,84 +365,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El riesgo país se acerca a los 500 puntos básicos y ya llegó a su nivel más alto desde junio",
-     "link": "https://www.infobae.com/economia/2026/08/18/por-que-el-riesgo-pais-toco-el-nivel-mas-alto-desde-junio-y-se-acerco-a-los-500-puntos-basicos/",
+     "title": "Flor Vigna reveló que Cande Ruggeri se le tiró a Nico Occhiato cuando ellos eran novios: “Si me estás viendo, ya lo sé”",
+     "link": "https://www.lanacion.com.ar/espectaculos/flor-vigna-revelo-que-cande-ruggeri-se-le-tiro-a-nico-occhiato-cuando-ellos-eran-novios-si-me-estas-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T14:55:09+00:00",
+     "copete": "La influencer contó en La Casa de los Famosos México que la modelo, con quien tenía buena relación, intentó tener algo con quien por entonces era su pareja",
+     "id": "252658835ee0"
+    },
+    {
+     "title": "Murió Laura Cardoso, una de las grandes figuras de las telenovelas brasileñas",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/18/murio-laura-cardoso-una-de-las-grandes-figuras-de-las-telenovelas-brasilenas/",
      "source": "Infobae",
-     "published": "2026-08-18T13:12:27+00:00",
-     "copete": "Factores externos y locales se combinan para explicar el comportamiento del indicador elaborado por JP Morgan, que ascendió a 494 unidades en la apertura de los mercados",
-     "id": "50491eaa8f93"
+     "published": "2026-08-18T14:54:49+00:00",
+     "copete": "La actriz de “Mujeres de arena” deja atrás un legado de ocho décadas entre televisión, cine y teatro",
+     "id": "188fe482a009"
     },
     {
-     "title": "Detuvieron a Fernando Cerimedo en Bolivia: investigan al exasesor de Milei por el atentado a una activista política",
-     "link": "https://www.lanacion.com.ar/politica/detuvieron-a-fernando-cerimedo-en-bolivia-lo-investigan-por-un-ataque-a-balazos-a-su-expareja-nid18082026/",
+     "title": "Nostalgia del futuro: Rubén Blades cantó por última vez en Buenos Aires la canción que García Márquez hubiera querido escribir",
+     "link": "https://www.infobae.com/cultura/2026/08/18/nostalgia-del-futuro-ruben-blades-canto-por-ultima-vez-en-buenos-aires-la-cancion-que-garcia-marquez-hubiera-querido-escribir/",
+     "source": "Infobae",
+     "published": "2026-08-18T14:54:30+00:00",
+     "copete": "“Pedro Navaja”, una crónica urbana a la altura de lo mejor de la narrativa popular latinoamericana, cerró el show que el cantautor panameño brindó como parte de su gira despedida",
+     "id": "e82e0f952540"
+    },
+    {
+     "title": "La pista psicológica del femicidio de Villa Devoto",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/18/la-pista-psicologica-del-femicidio-de-villa-devoto/",
+     "source": "Infobae",
+     "published": "2026-08-18T14:53:55+00:00",
+     "copete": "Especialistas oficiales determinaron que los dos hijos mayores de Romina Calvo y el femicida Walter Verón todavía no están aptos para declarar. Sus relatos serán cruciales para despejar una fuerte duda en el expediente",
+     "id": "bcb543465940"
+    },
+    {
+     "title": "Quién es Fernando Cerimedo, el exasesor de Javier Milei detenido en Bolivia",
+     "link": "https://www.lanacion.com.ar/politica/quien-es-fernando-cerimedo-el-exasesor-de-javier-milei-detenido-en-bolivia-nid18082026/",
      "source": "La Nación",
-     "published": "2026-08-18T13:11:33+00:00",
-     "copete": "Fue aprehendido en el aeropuerto de Santa Cruz de la Sierra, cuando estaba por embarcar hacia la Argentina; según medios locales, la mujer fue su pareja; dos hombres disfrazados la atacaron a balazos en la puerta de un hotel",
-     "id": "6dc69236aeed"
+     "published": "2026-08-18T14:53:21+00:00",
+     "copete": "Es fundador de La Derecha Diario y CEO de Numen Publicidad; participó en las campañas de Milei, Jair Bolsonaro y Rodrigo Paz",
+     "id": "075ae8eb8e04"
     },
     {
-     "title": "Se viene una semana con lluvias intensas de más de 100 mm y otro “pulso de aire frío”, que traerá un marcado descenso térmico: las zonas afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/se-viene-una-semana-con-ciclogenesis-de-alto-impacto-que-traera-48-horas-de-tormentas-fuertes-nid17082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T13:11:30+00:00",
-     "copete": "El SMN anticipa un marcado contraste durante los próximos días; el Litoral y parte del noreste del país concentrarán las mayores probabilidades de precipitaciones; en paralelo, avanza una nueva masa de aire que cambiará por completo las…",
-     "id": "57a57809f3cd"
-    },
-    {
-     "title": "Juicio de los Cuadernos, en vivo: “Los ferrocarriles explican parte de la tragedia argentina”, dijo Randazzo",
+     "title": "Juicio de los Cuadernos, en vivo: Randazzo ponderó su gestión junto a Cristina Kirchner y dijo que nunca supo de coimas",
      "link": "https://www.infobae.com/judiciales/2026/08/18/juicio-de-los-cuadernos-en-vivo-varios-exfuncionarios-declaran-como-testigos/",
      "source": "Infobae",
-     "published": "2026-08-18T13:10:37+00:00",
-     "copete": "El Tribunal Oral Federal 7 retomó este martes las audiencias con la convocatoria como testigos a ex funcionarios, entre ellos el ex ministro de Transporte Florencio Randazzo",
+     "published": "2026-08-18T14:52:51+00:00",
+     "copete": "El ex ministro de Transporte Florencio Randazzo remarcó como testigo que “jamás” le pidieron favorecer a alguna empresa con el pago de subsidios, habló de su gestión pero dijo no estar al tanto de lo que pudo haber pasado antes. También…",
      "id": "eb84c42aeb5e"
     },
     {
-     "title": "Los Grammy revisan la categoría de pop asiático tras la baja de BTS",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/18/los-grammy-revisan-la-categoria-de-pop-asiatico-tras-la-baja-de-bts-para-postularse/",
-     "source": "Infobae",
-     "published": "2026-08-18T13:08:52+00:00",
-     "copete": "La Academia de la Grabación abrió una evaluación interna sobre ese apartado después de que la banda surcoreana dejara fuera a Arirang y reclamara que la música sea valorada sin importar idioma o región",
-     "id": "9f0db33df522"
-    },
-    {
-     "title": "El Gobierno vuelve a reunirse para analizar la estrategia legislativa y mira con cautela la actitud del PRO",
-     "link": "https://www.infobae.com/politica/2026/08/18/el-gobierno-vuelve-a-reunirse-para-analizar-la-estrategia-legislativa-y-mira-con-cautela-la-actitud-del-pro/",
-     "source": "Infobae",
-     "published": "2026-08-18T13:08:41+00:00",
-     "copete": "En la Casa Rosada habrá un nuevo encuentro de la mesa política, en la antesala de la sesión a la que Martín Menem quiere convocar en la Cámara de Diputados",
-     "id": "763cf7f438ab"
-    },
-    {
-     "title": "Mario Pergolini: “Soy el fundador de la frase la televisión está muerta; yo realmente creo que sí, que lo está”",
-     "link": "https://www.lanacion.com.ar/sociedad/mario-pergolini-soy-el-fundador-de-la-frase-la-television-esta-muerta-yo-realmente-creo-que-si-que-nid18082026/",
+     "title": "En qué canal pasan el Mundial de hockey 2026 hoy",
+     "link": "https://www.lanacion.com.ar/deportes/hockey/en-que-canal-pasan-el-mundial-de-hockey-2026-hoy-nid18082026/",
      "source": "La Nación",
-     "published": "2026-08-18T13:06:43+00:00",
-     "copete": "En una entrevista exclusiva con José del Rio, el reconocido conductor analizó la transformación de los medios, el impacto de la inteligencia artificial en la sociedad y su visión sobre la obsolescencia del formato televisivo tradicional",
-     "id": "13b550c17e57"
+     "published": "2026-08-18T14:51:56+00:00",
+     "copete": "Las Copas del Mundo femenina y masculina se disputan en Países Bajos y Bélgica entre el 15 y el 30 de agosto, con la participación de las Leonas y los Leones",
+     "id": "cf1ea750180c"
     },
     {
-     "title": "La reflexión de Jean-Paul Sartre sobre la identidad y el pasado: “Somos lo que hacemos con lo que hicieron de nosotros”",
-     "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-jean-paul-sartre-sobre-la-identidad-y-el-pasado-somos-lo-que-hacemos-con-lo-que-nid18082026/",
+     "title": "Quiebra de SanCor: el gremio pidió una definición de la Justicia y advirtió que los trabajadores están “a las puertas del hambre”",
+     "link": "https://www.lanacion.com.ar/economia/campo/quiebra-de-sancor-el-gremio-pidio-una-definicion-de-la-justicia-y-advirtio-que-los-trabajadores-nid18082026/",
      "source": "La Nación",
-     "published": "2026-08-18T13:06:37+00:00",
-     "copete": "La frase del filósofo francés fue retomada por Gabriel Rolón en una entrevista con LA NACION para explicar cómo los recuerdos y las experiencias moldean la personalidad",
-     "id": "79503575cc35"
+     "published": "2026-08-18T14:51:18+00:00",
+     "copete": "Atilra remarcó que la demora judicial para el traspaso de activos a interesados provoca un “daño pecuniario y social irreparable” a trabajadores y acreedores",
+     "id": "b2d84be6f209"
     },
     {
-     "title": "Cómo los avances satelitales están cambiando las reglas del juego para Ucrania",
-     "link": "https://www.clarin.com/new-york-times-international-weekly/avances-satelitales-cambiando-reglas-juego-ucrania_0_ercR2KtgBd.html",
+     "title": "Rating del lunes: noche caliente de feriado con Del Moro, Kaczka y De Pineda entre los cinco más vistos",
+     "link": "https://www.clarin.com/espectaculos/rating-lunes-noche-caliente-feriado-moro-kaczka-pineda-vistos_0_zYyjeC4DDG.html",
      "source": "Clarín",
-     "published": "2026-08-18T12:41:56+00:00",
-     "copete": "Los equipos ucranianos de drones cuentan con una nueva y potente herramienta: información casi en tiempo real sobre los movimientos y la ubicación de las tropas.",
-     "id": "de666801c6b8"
+     "published": "2026-08-18T14:05:08+00:00",
+     "copete": "Se armó un Top Five apretado, integrado por programas de los dos canales líderes. Y se coló uno de la tarde. Net le ganó a la TV Pública. Quiénes ganaron en cada señal.",
+     "id": "62da2d84b89c"
     },
     {
-     "title": "Detuvieron al ex asesor de Milei Fernando Cerimedo en Bolivia:  lo investigan por un ataque a tiros contra su ex pareja",
-     "link": "https://www.clarin.com/politica/detuvieron-ex-asesor-milei-fernando-cerimedo-bolivia-investigan-ataque-tiros-ex-pareja_0_RAevcod5AX.html",
+     "title": "La tajante respuesta de Benjamín Vicuña a las provocaciones de Mauro Icardi: \"No tengo tiempo para más\"",
+     "link": "https://www.clarin.com/fama/tajante-respuesta-benjamin-vicuna-provocaciones-mauro-icardi-tiempo_0_3S90vr8GQf.html",
      "source": "Clarín",
-     "published": "2026-08-18T12:40:40+00:00",
-     "copete": "Fue detenido esta madrugada en un aeropuerto de ese país apuntado como principal sospechoso por el ataque armado que sufrió su ex mujer en Santa Cruz de la Sierra.",
-     "id": "b04817aa6d6f"
+     "published": "2026-08-18T14:03:41+00:00",
+     "copete": "El artista chileno rompió el silencio luego de las acusaciones del futbolista. El mensaje de apoyo de Anita Espasandín al actor.",
+     "id": "bc7a189a2c9f"
     }
    ]
   },
@@ -468,7 +484,7 @@
      "id": "870e59829938"
     },
     {
-     "title": "\"El Chocó ha estado abandonado\": Shakira se compromete a reconstruir escuelas tras viajar a una de las zonas más pobres de Colombia después del terremoto",
+     "title": "\"El Chocó ha estado abandonado\": Shakira visita una de las zonas más pobres de Colombia después del terremoto y se compromete a reconstruir escuelas",
      "link": "https://www.bbc.com/mundo/articles/cq89jpp8vx4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-08-18T11:37:33+00:00",
@@ -506,11 +522,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
