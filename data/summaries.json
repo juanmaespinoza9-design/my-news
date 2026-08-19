@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-08-19T10:08:03Z",
+  "generated_at": "2026-08-19T22:09:05Z",
   "summaries": {
-    "44f5de4d1fad": {
-      "resumen": "Nota de OncLive sobre el monitoreo terapéutico de fármacos (TDM, medición de niveles del medicamento en sangre para ajustar la dosis) y la optimización de la dosis de pegaspargasa (forma pegilada de la enzima asparaginasa) en adolescentes y adultos jóvenes (AYA) con leucemia linfoblástica aguda (LLA). Repasa por qué ajustar la dosis según los niveles del fármaco podría mejorar la eficacia y reducir la toxicidad en este grupo etario.",
-      "destacado": false
-    },
-    "119327180102": {
-      "resumen": "Continuación de la cobertura de OncLive sobre pegaspargasa (asparaginasa pegilada) en adolescentes y adultos jóvenes (AYA) con leucemia linfoblástica aguda (LLA): aborda la hipersensibilidad al fármaco, la inactivación silente (pérdida de actividad de la droga sin síntomas clínicos evidentes) y las estrategias de premedicación para prevenir reacciones alérgicas. Relevante porque estas complicaciones pueden llevar a discontinuar un fármaco clave sin que el equipo tratante lo note a tiempo.",
-      "destacado": false
-    },
-    "c4590577c853": {
-      "resumen": "Entrevista de OncLive al Dr. Joshua Richter sobre el desarrollo de vacunas contra el mieloma múltiple (cáncer de las células plasmáticas de la médula ósea). Aporta la mirada de un experto sobre un abordaje inmunológico todavía en investigación para esta enfermedad.",
-      "destacado": false
-    },
-    "320aa19b1c5c": {
-      "resumen": "Artículo de revisión de The ASCO Post que repasa la evidencia presentada en los congresos 2026 de la Sociedad Americana de Oncología Clínica (ASCO) y la Asociación Europea de Hematología (EHA) sobre el manejo de la recaída temprana del mieloma múltiple (un cáncer de las células plasmáticas de la médula ósea). Sirve como puesta al día de las principales novedades del año en un escenario de alto impacto pronóstico.",
-      "destacado": false
-    },
-    "1a546f659691": {
-      "resumen": "The ASCO Post difunde un estudio que asocia el consumo de bebidas azucaradas con un mayor riesgo de cáncer gástrico (de estómago). Suma evidencia sobre un factor de riesgo dietético modificable para un tumor de mal pronóstico.",
+    "2b8d9a9fe0a3": {
+      "resumen": "Nota de OncLive sobre el uso de vacunas de ARN mensajero (ARNm) para intentar prolongar el control de la enfermedad en el cáncer de páncreas (adenocarcinoma ductal de páncreas, PDAC). Interesa porque el PDAC tiene mal pronóstico y pocas estrategias inmunológicas probadas, y las vacunas de ARNm personalizadas son una de las líneas de investigación más prometedoras del momento.",
       "destacado": false,
-      "analisis": "Diseño: Estudio observacional (según el título); no se precisa en el título si es de cohorte o caso-control, ni el número de participantes o el tiempo de seguimiento.\nPoblación: Personas evaluadas según su consumo habitual de bebidas azucaradas; el título no especifica edad, región ni otros factores de riesgo considerados.\nIntervención: Exposición analizada: consumo de bebidas azucaradas (no es una intervención terapéutica sino un factor de riesgo dietético), comparando mayor versus menor consumo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Al ser aparentemente un estudio observacional, no permite establecer causalidad; sin el trabajo completo no se puede evaluar el ajuste por otros factores de riesgo conocidos (Helicobacter pylori, tabaquismo, dieta rica en sal) ni la magnitud del efecto.\nMensaje: Suma otro argumento para desalentar el consumo de bebidas azucaradas como medida de prevención oncológica, aunque hace falta ver el estudio completo para dimensionar el riesgo real.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: No precisado en el título; por el formato de nota de OncLive probablemente se trate de una cobertura de datos de un estudio clínico temprano o de una entrevista sobre investigación en curso, no necesariamente el reporte primario de un ensayo.\nPoblación: Pacientes con cáncer de páncreas (adenocarcinoma ductal de páncreas, PDAC); el título no especifica estadio ni línea de tratamiento.\nIntervención: Vacunas de ARN mensajero (ARNm), sin precisar si se administran solas o combinadas con otro tratamiento, ni el comparador.\nResultados: El título sugiere un posible beneficio en el control de la enfermedad a largo plazo, pero sin cifras de supervivencia libre de progresión, supervivencia global ni intervalos de confianza.\nLimitaciones: Sin el cuerpo de la nota no se puede confirmar el diseño del estudio, el tamaño muestral ni la fase de desarrollo clínico de la vacuna.\nMensaje: Es una señal alentadora en un tumor de muy mal pronóstico y con escasas opciones inmunoterapéuticas, pero preliminar hasta contar con datos maduros de ensayos controlados.\nNota: análisis sin acceso al abstract."
     },
-    "e50be14b8a31": {
-      "resumen": "The ASCO Post reporta que rezatapopt, una droga que busca reactivar la proteína p53 mutada, mostró actividad clínica en cáncer de ovario avanzado con la mutación específica TP53 Y220C (una alteración del gen supresor tumoral TP53 potencialmente reactivable con fármacos). Interesa porque TP53 es el gen más mutado en cáncer y hasta ahora se lo consideraba \"no drogable\".",
+    "5dded03c387a": {
+      "resumen": "The ASCO Post reporta que agregar un radiofármaco (fármaco que emite radiación dirigida al tumor) al tratamiento estándar en cáncer renal metastásico (mRCC) no logró reducir los eventos óseos (fracturas, necesidad de radioterapia o cirugía ósea, compresión medular). Es un resultado negativo relevante porque acota el uso de esta estrategia combinada en pacientes con metástasis óseas.",
       "destacado": false,
-      "analisis": "Diseño: Estudio clínico temprano (por el contexto, de tipo fase I/II tipo canasta); el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario avanzado portadoras de la mutación TP53 Y220C, una alteración puntual del gen supresor tumoral TP53 que genera una proteína inestable pero potencialmente reactivable.\nIntervención: Rezatapopt, droga que busca restaurar la conformación y función normal de la proteína p53 mutada; el título no menciona comparador, compatible con un estudio de un solo brazo.\nResultados: El título reporta \"actividad\" clínica pero sin cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Al tratarse -según el título- de un estudio temprano y de un solo brazo, no permite establecer beneficio comparativo; sin el trabajo completo no se puede evaluar el tamaño muestral ni la durabilidad de las respuestas.\nMensaje: Es una señal preliminar pero relevante para un subgrupo mutacional históricamente sin opciones dirigidas, aunque se necesitan estudios más grandes y comparativos para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: No precisado en el título; por el tema (comparación de un agregado terapéutico contra el tratamiento estándar) es compatible con un ensayo clínico aleatorizado, sin datos de cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer renal metastásico (mRCC, carcinoma de células renales con enfermedad a distancia).\nIntervención: Agregado de un radiofármaco (fármaco que emite radiación dirigida, probablemente contra metástasis óseas) al tratamiento sistémico estándar, comparado con el tratamiento estándar solo.\nResultados: El título indica que no hubo mejoría en los eventos óseos (fracturas, necesidad de radioterapia o cirugía ósea, compresión medular), sin cifras de riesgo relativo ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si el estudio tenía poder estadístico suficiente para detectar diferencias.\nMensaje: Resultado negativo que, de confirmarse, no respalda agregar este radiofármaco de forma sistemática para prevenir eventos óseos en mRCC, aunque podría conservar un rol en otros desenlaces no evaluados en este análisis.\nNota: análisis sin acceso al abstract."
+    },
+    "de39368370a4": {
+      "resumen": "The ASCO Post informa que Charles W.M. Roberts, médico y doctor en ciencias (MD, PhD), fue designado presidente y director ejecutivo (CEO) del St. Jude Children's Research Hospital, uno de los centros de referencia mundial en oncología pediátrica. Es una noticia institucional sobre liderazgo, sin datos clínicos propios.",
+      "destacado": false
+    },
+    "e59e03702a62": {
+      "resumen": "The ASCO Post repasa un estudio sobre si el exceso de tejido adiposo (grasa corporal) se asocia con la progresión de fracturas vertebrales en mujeres con cáncer de mama temprano tratadas con inhibidores de aromatasa (fármacos que bloquean la producción de estrógenos). Interesa porque la pérdida ósea es un efecto adverso frecuente y poco visibilizado de este tratamiento hormonal tan usado.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el tema (asociación entre una variable clínica y un desenlace óseo) es compatible con un estudio observacional o un subanálisis de cohorte, sin datos de número de pacientes ni de centros.\nPoblación: Mujeres con cáncer de mama temprano tratadas con inhibidores de aromatasa (fármacos que bloquean la producción de estrógenos y aceleran la pérdida ósea).\nIntervención: No es una intervención terapéutica sino un factor evaluado: el exceso de tejido adiposo (grasa corporal), en relación con la progresión de fracturas vertebrales.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Al ser aparentemente observacional, no permite establecer causalidad; sin el trabajo completo no se puede evaluar el ajuste por otros factores de riesgo óseo (densidad mineral ósea basal, uso de bifosfonatos, tiempo en tratamiento).\nMensaje: Suma evidencia sobre la necesidad de vigilar la salud ósea en pacientes con exceso de adiposidad que reciben inhibidores de aromatasa, un dato útil para el seguimiento clínico habitual.\nNota: análisis sin acceso al abstract."
+    },
+    "ea285f368970": {
+      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) otorgó la designación de vía rápida (Fast Track, un mecanismo que acelera el desarrollo y la revisión de fármacos promisorios) a la combinación de PLN-101095 más pembrolizumab (un inhibidor de punto de control inmunológico anti-PD-1) en tumores sólidos. Es una señal regulatoria temprana, todavía sin datos de eficacia.",
+      "destacado": false
+    },
+    "c5ea9b800d84": {
+      "resumen": "OncLive despide a Harold P. Freeman, médico pionero en la navegación de pacientes (acompañamiento estructurado para reducir barreras de acceso al sistema de salud) y en la investigación de las disparidades raciales y socioeconómicas en cáncer, fallecido a los 93 años. Vale la pena conocer su legado porque sentó las bases de un modelo de atención oncológica hoy adoptado en todo el mundo.",
+      "destacado": false
     },
     "0adfb0da8749": {
       "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
@@ -45,29 +46,31 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico publicado en el Journal of Clinical Oncology; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con linfoma no Hodgkin indolente de células B sin tratamiento previo (primera línea).\nIntervención: Mosunetuzumab (anticuerpo biespecífico CD20xCD3) combinado, con un esquema adaptado a la respuesta, con polatuzumab vedotin (conjugado anticuerpo-fármaco anti-CD79b) y obinutuzumab (anticuerpo monoclonal anti-CD20); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de seguridad de esta combinación libre de quimioterapia.\nMensaje: Explora una estrategia de primera línea sin quimioterapia convencional, combinando un anticuerpo biespecífico con un conjugado anticuerpo-fármaco y un anticuerpo anti-CD20, en un intento de mejorar la tolerancia sin resignar eficacia en linfoma indolente.\nNota: análisis sin acceso al abstract."
     },
-    "a8e850ff9535": {
-      "resumen": "La firma Bode presentó su colección de prêt-à-porter (ropa lista para usar) para la primavera 2027."
+    "8fc27912d9ea": {
+      "resumen": "Carta de respuesta (Reply) publicada en The New England Journal of Medicine sobre el uso de parches transdérmicos de estradiol (una forma de administrar estrógenos a través de la piel) en cáncer de próstata, en el marco de un intercambio de correspondencia científica sobre un estudio previo. Es una discusión entre autores, no un estudio nuevo, pero puede aclarar puntos metodológicos relevantes.",
+      "destacado": false
     },
-    "72fb4dfb43ec": {
-      "resumen": "Zara definió cuál será el color estrella de la temporada de otoño, por encima del amarillo manteca y el marrón."
+    "cbac3321cff8": {
+      "resumen": "Carta publicada en The New England Journal of Medicine que comenta aspectos de un estudio sobre parches transdérmicos de estradiol (una forma de administrar estrógenos a través de la piel) como estrategia hormonal en cáncer de próstata. Es correspondencia científica, útil para entender los puntos en debate sobre esta terapia experimental.",
+      "destacado": false
     },
-    "243a14368065": {
-      "resumen": "Una aplicación se volvió viral por reunir calzado artesanal, desde sandalias menorquinas hasta bailarinas, las grandes tendencias del momento."
+    "bdce99d01412": {
+      "resumen": "Vogue México repasa los diseños de uñas ochentosos que se impondrán como tendencia este otoño 2026."
     },
-    "17728bdcffa9": {
-      "resumen": "La edición de septiembre de InStyle reúne todas las tendencias de moda y belleza para la temporada de otoño."
+    "eb1b843195f9": {
+      "resumen": "Vogue México cuenta por qué unos premios de diseño dedicados a los perros se transformaron en la nueva obsesión del ambiente creativo."
     },
-    "0f751cf5c40b": {
-      "resumen": "Especialistas explican por qué muchas personas creen que odian correr y cómo el running se convirtió en un fenómeno masivo."
+    "dc55f269dbd7": {
+      "resumen": "Una guía de Vogue México para combinar los pantalones a rayas estilo años 70 con sandalias, botas y tacos durante el verano 2026."
     },
-    "63156a64d2a1": {
-      "resumen": "Un repaso por los modelos de pollera que se impondrán como tendencia en el otoño-invierno 2026-2027."
+    "9f81ed977f67": {
+      "resumen": "El Sol de México analiza el regreso de la moda de los años 70 y anticipa las prendas que serán tendencia en el otoño 2026."
     },
-    "4f67588d9f06": {
-      "resumen": "Una periodista probó los llamativos looks con brillantina y accesorios (\"drips\") que se popularizaron en el festival Coachella."
+    "850ef7992217": {
+      "resumen": "Teletrece presenta a Max Alexander, un niño prodigio de la moda de 10 años que visitó el vertedero de ropa en el desierto de Chile."
     },
-    "1e59facb319e": {
-      "resumen": "Consejos para combinar prendas básicas, tendencias y rebajas y así vestir a la moda sin gastar de más."
+    "c74807713181": {
+      "resumen": "Una selección de ocho bailarinas trenzadas de marcas como Parfois y H&M para dejar las sandalias en septiembre y adelantarse a las tendencias de otoño 2026."
     },
     "0cf70999a88f": {
       "resumen": "Una agenda de actividades con perspectiva de diversidad sexual para disfrutar este fin de semana en Buenos Aires."
@@ -77,9 +80,6 @@
     },
     "99e7be820673": {
       "resumen": "Buenos Aires recibe por única vez un espectáculo con más de veinte tambores tradicionales japoneses, dentro del ciclo KYŌWA."
-    },
-    "d8b32402808e": {
-      "resumen": "Más de 20 tambores tradicionales japoneses se presentarán en Buenos Aires como parte del espectáculo KYŌWA."
     },
     "2517a40606ad": {
       "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
@@ -93,11 +93,14 @@
     "e638fbc92b1e": {
       "resumen": "Buenos Aires tendrá un fin de semana lluvioso: cuándo se espera que vuelva el sol."
     },
-    "59fa5d22bf13": {
-      "resumen": "Seis restaurantes porteños con propuestas pensadas para los chicos, ideales para celebrar el Día de las Infancias."
-    },
     "0f4b24d5d164": {
       "resumen": "Un repaso por las principales propuestas culturales de la provincia de Buenos Aires."
+    },
+    "c77694601e44": {
+      "resumen": "El Destape propone una ruta por los cinco mejores restaurantes porteños para disfrutar Pinot Noir."
+    },
+    "1812cd22ee91": {
+      "resumen": "Un recorrido por cómo el tango sigue marcando el pulso cultural y social de Buenos Aires."
     }
   }
 }
