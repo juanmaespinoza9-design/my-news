@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-18T22:15:00Z",
+  "generated_at": "2026-08-19T10:08:03Z",
   "summaries": {
+    "44f5de4d1fad": {
+      "resumen": "Nota de OncLive sobre el monitoreo terapéutico de fármacos (TDM, medición de niveles del medicamento en sangre para ajustar la dosis) y la optimización de la dosis de pegaspargasa (forma pegilada de la enzima asparaginasa) en adolescentes y adultos jóvenes (AYA) con leucemia linfoblástica aguda (LLA). Repasa por qué ajustar la dosis según los niveles del fármaco podría mejorar la eficacia y reducir la toxicidad en este grupo etario.",
+      "destacado": false
+    },
+    "119327180102": {
+      "resumen": "Continuación de la cobertura de OncLive sobre pegaspargasa (asparaginasa pegilada) en adolescentes y adultos jóvenes (AYA) con leucemia linfoblástica aguda (LLA): aborda la hipersensibilidad al fármaco, la inactivación silente (pérdida de actividad de la droga sin síntomas clínicos evidentes) y las estrategias de premedicación para prevenir reacciones alérgicas. Relevante porque estas complicaciones pueden llevar a discontinuar un fármaco clave sin que el equipo tratante lo note a tiempo.",
+      "destacado": false
+    },
+    "c4590577c853": {
+      "resumen": "Entrevista de OncLive al Dr. Joshua Richter sobre el desarrollo de vacunas contra el mieloma múltiple (cáncer de las células plasmáticas de la médula ósea). Aporta la mirada de un experto sobre un abordaje inmunológico todavía en investigación para esta enfermedad.",
+      "destacado": false
+    },
+    "320aa19b1c5c": {
+      "resumen": "Artículo de revisión de The ASCO Post que repasa la evidencia presentada en los congresos 2026 de la Sociedad Americana de Oncología Clínica (ASCO) y la Asociación Europea de Hematología (EHA) sobre el manejo de la recaída temprana del mieloma múltiple (un cáncer de las células plasmáticas de la médula ósea). Sirve como puesta al día de las principales novedades del año en un escenario de alto impacto pronóstico.",
+      "destacado": false
+    },
+    "1a546f659691": {
+      "resumen": "The ASCO Post difunde un estudio que asocia el consumo de bebidas azucaradas con un mayor riesgo de cáncer gástrico (de estómago). Suma evidencia sobre un factor de riesgo dietético modificable para un tumor de mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (según el título); no se precisa en el título si es de cohorte o caso-control, ni el número de participantes o el tiempo de seguimiento.\nPoblación: Personas evaluadas según su consumo habitual de bebidas azucaradas; el título no especifica edad, región ni otros factores de riesgo considerados.\nIntervención: Exposición analizada: consumo de bebidas azucaradas (no es una intervención terapéutica sino un factor de riesgo dietético), comparando mayor versus menor consumo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Al ser aparentemente un estudio observacional, no permite establecer causalidad; sin el trabajo completo no se puede evaluar el ajuste por otros factores de riesgo conocidos (Helicobacter pylori, tabaquismo, dieta rica en sal) ni la magnitud del efecto.\nMensaje: Suma otro argumento para desalentar el consumo de bebidas azucaradas como medida de prevención oncológica, aunque hace falta ver el estudio completo para dimensionar el riesgo real.\nNota: análisis sin acceso al abstract."
+    },
+    "e50be14b8a31": {
+      "resumen": "The ASCO Post reporta que rezatapopt, una droga que busca reactivar la proteína p53 mutada, mostró actividad clínica en cáncer de ovario avanzado con la mutación específica TP53 Y220C (una alteración del gen supresor tumoral TP53 potencialmente reactivable con fármacos). Interesa porque TP53 es el gen más mutado en cáncer y hasta ahora se lo consideraba \"no drogable\".",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico temprano (por el contexto, de tipo fase I/II tipo canasta); el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario avanzado portadoras de la mutación TP53 Y220C, una alteración puntual del gen supresor tumoral TP53 que genera una proteína inestable pero potencialmente reactivable.\nIntervención: Rezatapopt, droga que busca restaurar la conformación y función normal de la proteína p53 mutada; el título no menciona comparador, compatible con un estudio de un solo brazo.\nResultados: El título reporta \"actividad\" clínica pero sin cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Al tratarse -según el título- de un estudio temprano y de un solo brazo, no permite establecer beneficio comparativo; sin el trabajo completo no se puede evaluar el tamaño muestral ni la durabilidad de las respuestas.\nMensaje: Es una señal preliminar pero relevante para un subgrupo mutacional históricamente sin opciones dirigidas, aunque se necesitan estudios más grandes y comparativos para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
+    },
     "0adfb0da8749": {
       "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
       "destacado": false
@@ -19,8 +45,44 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico publicado en el Journal of Clinical Oncology; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con linfoma no Hodgkin indolente de células B sin tratamiento previo (primera línea).\nIntervención: Mosunetuzumab (anticuerpo biespecífico CD20xCD3) combinado, con un esquema adaptado a la respuesta, con polatuzumab vedotin (conjugado anticuerpo-fármaco anti-CD79b) y obinutuzumab (anticuerpo monoclonal anti-CD20); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de seguridad de esta combinación libre de quimioterapia.\nMensaje: Explora una estrategia de primera línea sin quimioterapia convencional, combinando un anticuerpo biespecífico con un conjugado anticuerpo-fármaco y un anticuerpo anti-CD20, en un intento de mejorar la tolerancia sin resignar eficacia en linfoma indolente.\nNota: análisis sin acceso al abstract."
     },
-    "da96195716b6": {
-      "resumen": "Un repaso por los seis meses que Federico García Lorca pasó en Buenos Aires, entre el arte y la política."
+    "a8e850ff9535": {
+      "resumen": "La firma Bode presentó su colección de prêt-à-porter (ropa lista para usar) para la primavera 2027."
+    },
+    "72fb4dfb43ec": {
+      "resumen": "Zara definió cuál será el color estrella de la temporada de otoño, por encima del amarillo manteca y el marrón."
+    },
+    "243a14368065": {
+      "resumen": "Una aplicación se volvió viral por reunir calzado artesanal, desde sandalias menorquinas hasta bailarinas, las grandes tendencias del momento."
+    },
+    "17728bdcffa9": {
+      "resumen": "La edición de septiembre de InStyle reúne todas las tendencias de moda y belleza para la temporada de otoño."
+    },
+    "0f751cf5c40b": {
+      "resumen": "Especialistas explican por qué muchas personas creen que odian correr y cómo el running se convirtió en un fenómeno masivo."
+    },
+    "63156a64d2a1": {
+      "resumen": "Un repaso por los modelos de pollera que se impondrán como tendencia en el otoño-invierno 2026-2027."
+    },
+    "4f67588d9f06": {
+      "resumen": "Una periodista probó los llamativos looks con brillantina y accesorios (\"drips\") que se popularizaron en el festival Coachella."
+    },
+    "1e59facb319e": {
+      "resumen": "Consejos para combinar prendas básicas, tendencias y rebajas y así vestir a la moda sin gastar de más."
+    },
+    "0cf70999a88f": {
+      "resumen": "Una agenda de actividades con perspectiva de diversidad sexual para disfrutar este fin de semana en Buenos Aires."
+    },
+    "2a6f4e4ee918": {
+      "resumen": "Margarita Ponce, una nena de 11 años oriunda de Salta, se consagró ganadora de la final del certamen de canto \"Es mi sueño\"."
+    },
+    "99e7be820673": {
+      "resumen": "Buenos Aires recibe por única vez un espectáculo con más de veinte tambores tradicionales japoneses, dentro del ciclo KYŌWA."
+    },
+    "d8b32402808e": {
+      "resumen": "Más de 20 tambores tradicionales japoneses se presentarán en Buenos Aires como parte del espectáculo KYŌWA."
+    },
+    "2517a40606ad": {
+      "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
     },
     "28ef5973b5cb": {
       "resumen": "Una parrilla porteña fue distinguida entre los mejores restaurantes del mundo."
@@ -34,68 +96,8 @@
     "59fa5d22bf13": {
       "resumen": "Seis restaurantes porteños con propuestas pensadas para los chicos, ideales para celebrar el Día de las Infancias."
     },
-    "2479c1a2a7d1": {
-      "resumen": "Buenos Aires prepara un festival gratuito dedicado al alfajor este fin de semana, con una pieza gigante de 250 kilos."
-    },
-    "320aa19b1c5c": {
-      "resumen": "Artículo de revisión de The ASCO Post que repasa la evidencia presentada en los congresos 2026 de la Sociedad Americana de Oncología Clínica (ASCO) y la Asociación Europea de Hematología (EHA) sobre el manejo de la recaída temprana del mieloma múltiple (un cáncer de las células plasmáticas de la médula ósea). Sirve como puesta al día de las principales novedades del año en un escenario de alto impacto pronóstico.",
-      "destacado": false
-    },
-    "fc17ecc490e3": {
-      "resumen": "OncLive repasa los datos actualizados del ensayo SERENA-6, que evalúa el cambio temprano de tratamiento hormonal guiado por ADN tumoral circulante (ctDNA, fragmentos de ADN del tumor detectables en sangre) en cáncer de mama avanzado con receptores hormonales positivos. Profundiza el debate sobre si conviene anticipar el cambio de terapia antes de la progresión clínica o radiológica.",
-      "destacado": false,
-      "analisis": "Diseño: Actualización de datos del ensayo SERENA-6 (fase III); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado con receptores hormonales positivos, con progresión molecular detectada por ADN tumoral circulante (ctDNA) pero sin progresión clínica o radiológica todavía.\nIntervención: Cambio anticipado de tratamiento hormonal (a camizestrant, según el contexto del ensayo) guiado por la aparición de mutaciones en ctDNA, frente a mantener la terapia estándar hasta la progresión clínica.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Nota periodística sobre datos actualizados, sin acceso al artículo original; no permite evaluar significancia estadística ni magnitud del beneficio.\nMensaje: Refuerza el interés en el cambio de tratamiento guiado por ctDNA como estrategia de anticipación a la progresión, aunque el beneficio clínico neto de adelantar el cambio todavía genera debate.\nNota: análisis sin acceso al abstract."
-    },
-    "0caeb6f508e6": {
-      "resumen": "Entrevista de OncLive a la Dra. Sara Hurvitz, oncóloga especializada en cáncer de mama, sobre cómo interpretar los datos del ensayo SERENA-6 y la decisión de adelantar el cambio a camizestrant (un inhibidor oral del receptor de estrógeno) en cáncer de mama avanzado. Aporta la mirada clínica de una experta sobre cuándo conviene anticipar ese cambio de tratamiento.",
-      "destacado": false
-    },
-    "1a546f659691": {
-      "resumen": "The ASCO Post difunde un estudio que asocia el consumo de bebidas azucaradas con un mayor riesgo de cáncer gástrico (de estómago). Suma evidencia sobre un factor de riesgo dietético modificable para un tumor de mal pronóstico.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (según el título); no se precisa en el título si es de cohorte o caso-control, ni el número de participantes o el tiempo de seguimiento.\nPoblación: Personas evaluadas según su consumo habitual de bebidas azucaradas; el título no especifica edad, región ni otros factores de riesgo considerados.\nIntervención: Exposición analizada: consumo de bebidas azucaradas (no es una intervención terapéutica sino un factor de riesgo dietético), comparando mayor versus menor consumo.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Al ser aparentemente un estudio observacional, no permite establecer causalidad; sin el trabajo completo no se puede evaluar el ajuste por otros factores de riesgo conocidos (Helicobacter pylori, tabaquismo, dieta rica en sal) ni la magnitud del efecto.\nMensaje: Suma otro argumento para desalentar el consumo de bebidas azucaradas como medida de prevención oncológica, aunque hace falta ver el estudio completo para dimensionar el riesgo real.\nNota: análisis sin acceso al abstract."
-    },
-    "0359bab1c76b": {
-      "resumen": "La Administración de Alimentos y Medicamentos de Estados Unidos (FDA) otorgó la designación de vía rápida (Fast Track) a ETX-19477, una droga en investigación para el cáncer de mama con receptores hormonales positivos y HER2 negativo (sin sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano) en pacientes con mutación en los genes BRCA. Es una señal regulatoria a seguir, aunque todavía no hay resultados de eficacia publicados.",
-      "destacado": false
-    },
-    "e50be14b8a31": {
-      "resumen": "The ASCO Post reporta que rezatapopt, una droga que busca reactivar la proteína p53 mutada, mostró actividad clínica en cáncer de ovario avanzado con la mutación específica TP53 Y220C (una alteración del gen supresor tumoral TP53 potencialmente reactivable con fármacos). Interesa porque TP53 es el gen más mutado en cáncer y hasta ahora se lo consideraba \"no drogable\".",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico temprano (por el contexto, de tipo fase I/II tipo canasta); el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario avanzado portadoras de la mutación TP53 Y220C, una alteración puntual del gen supresor tumoral TP53 que genera una proteína inestable pero potencialmente reactivable.\nIntervención: Rezatapopt, droga que busca restaurar la conformación y función normal de la proteína p53 mutada; el título no menciona comparador, compatible con un estudio de un solo brazo.\nResultados: El título reporta \"actividad\" clínica pero sin cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Al tratarse -según el título- de un estudio temprano y de un solo brazo, no permite establecer beneficio comparativo; sin el trabajo completo no se puede evaluar el tamaño muestral ni la durabilidad de las respuestas.\nMensaje: Es una señal preliminar pero relevante para un subgrupo mutacional históricamente sin opciones dirigidas, aunque se necesitan estudios más grandes y comparativos para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "a8e850ff9535": {
-      "resumen": "La firma Bode presentó su colección de prêt-à-porter (ropa lista para usar) para la primavera 2027."
-    },
-    "8d760e5f721c": {
-      "resumen": "Un estilo de sandalias característico de los años 2000 vuelve a imponerse como tendencia para la temporada 2027."
-    },
-    "d1613478ea10": {
-      "resumen": "La manicura con lunares, inspirada en los años 70, se perfila como la tendencia de uñas del verano 2026."
-    },
-    "121aa38fa9f0": {
-      "resumen": "Un repaso de las tendencias de moda que se impondrán esta temporada de otoño."
-    },
-    "cca8b2542a0e": {
-      "resumen": "La modelo Nicole Neumann mostró tres looks de invierno durante una estadía en el sur argentino."
-    },
-    "ea6e23642e2a": {
-      "resumen": "Una selección de vestidos de la marca Parfois para cerrar el verano con estilo, cómodos y en colores de tendencia."
-    },
-    "3af018c7e004": {
-      "resumen": "Guía de planes, espectáculos y propuestas gastronómicas para agosto 2026 en la Ciudad de México."
-    },
-    "56fba385c265": {
-      "resumen": "El espectáculo Cindy Cats agotó cuatro funciones en Buenos Aires y sumó una fecha extra para cerrar el año."
-    },
-    "2868026b4e41": {
-      "resumen": "Una semana dedicada al teatro boliviano se realizará en el Auditorio AIC Abasto de Buenos Aires, con comedias en cartel."
-    },
-    "1993911fd90a": {
-      "resumen": "Ocho participantes se disputarán un premio millonario en la gran final del programa \"Es mi sueño\", en el Teatro Ópera."
-    },
-    "2517a40606ad": {
-      "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
+    "0f4b24d5d164": {
+      "resumen": "Un repaso por las principales propuestas culturales de la provincia de Buenos Aires."
     }
   }
 }
