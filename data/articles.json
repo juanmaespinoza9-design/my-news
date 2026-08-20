@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-20T20:51:32.642460+00:00",
+ "generated_at": "2026-08-20T22:50:21.928846+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "ASCO Guideline Update Broadens First-Line Treatment Options for HER2+ Gastroesophageal Cancer",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTZqMXhIdEFUc1pySk5IWURvSUFZYXJrdXJCcHd4V2xZOG5TREo0VjBlOXpqa1EwSXQtY2tsZXBId2VHR0VWTjE0RmdveVNCQ1RuV29wZ0NrMmRSdXpSVEJQcDNHdW16MTZvSGdyWGYzZGxBV0laQWhXTWxUMVZlTDdUR0VyYXRsWjhSbnlvcEQwakJPSW9IYTd6RXFGTFZYNDFxenl6bnh1T3VTbWlEbXFkVkt2NEdVdFZjdXVn?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-20T20:56:48+00:00",
+     "id": "708f0d310325"
+    },
     {
      "title": "pTVG-HP DNA Vaccine Extends Overall Survival vs Placebo in PSA-Recurrent Prostate Cancer",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkR1TDlYeEY4MnRzODFNb0Z1eFR5MEVxZXhwOVhyOEZ0NHZhLUlKcXB4RWRGak9TU2lIcHR6Vm1iM19mNlRjdkdNLWgxcjhyR1ZjQmFJd2ZNNlNEaVVMM0QwTTJMZ2FwWlZKUXJEXzgwb2czSTlBTlhJZV8xS19oalpFVHBEMEE5amlaMDdwRmRrNEpoSWVBVFB2RU1jRnNBclRvUVlsNENIT0JLekIxcUhrWG1HaW4y?oc=5",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-08-20T16:41:24+00:00",
      "id": "8b1d6a02dac2"
-    },
-    {
-     "title": "CAR T-Cell Therapy Continues to Make Its Case in Early Relapsed Myeloma",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY05WQ1lrUlhIR3J3TXctWmVvUHBMQ21nV2NscDdmRS1tQzRFc0tSRFMwSlhrYWR2V2QzQjhkSXpJdXBzbnVQdVQ1RGtlNUljUm9UdXdLV3Z3MDI0NFNXdFo1eDgyTjBiYkptcUxpem52VWZJLUJxM1hRUXhnajVfZHpMYzFiZ3FFN25VR1BBVVlQSHRXbzZZRFZQWldEdV81a0E?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-20T16:01:24+00:00",
-     "id": "cd5cb6a7ed8d"
     },
     {
      "title": "Chemotherapy, Immunotherapy, and Targeted Therapy in Advanced, Refractory Malignancies",
@@ -49,36 +49,52 @@
      "id": "5b0d53e48068"
     },
     {
+     "title": "Pathologic Complete Response (pCR) Rate and Predictors of Response to Taxane, Trastuzumab, and Pertuzumab in HER2‑Positive Breast Cancer: Secondary Analyses of EA1181/CompassHER2 pCR",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623567/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Tung N et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "57c646afa2f2"
+    },
+    {
+     "title": "Federal and Industry Sponsorship in US Cancer Clinical Trials",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623089/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Unger JM et al. · JAMA oncology",
+     "id": "c0614db257d2"
+    },
+    {
+     "title": "Trends in Meningioma Incidence, Treatment, and Imaging Surveillance",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623066/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Korshøj AR et al. · JAMA oncology",
+     "id": "d3dd774f600d"
+    },
+    {
+     "title": "Racial and Ethnic Disparities in US Colorectal Cancer Mortality by County, Sex, and Age",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623048/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "GBD US Health Disparities Collaborators et al. · JAMA oncology",
+     "id": "bdcfb6cd5d73"
+    },
+    {
+     "title": "Concerns Regarding NSCLC Immunoradiotherapy Study Interpretability",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623047/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Xiang J et al. · JAMA oncology",
+     "id": "94fd6115ce83"
+    },
+    {
      "title": "Practice Change Following Small Trials in Rare Cancers With Rare Biomarkers",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42617140/",
      "source": "Journal of Clinical Oncology",
      "published": "2026-08-19T00:00:00+00:00",
      "copete": "Lawrence BJ et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "92e215865e5e"
-    },
-    {
-     "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.3",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42607282/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-17T00:00:00+00:00",
-     "copete": "Wheatley Price P et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "0adfb0da8749"
-    },
-    {
-     "title": "Immunotherapy and Targeted Therapy for Advanced Gastroesophageal Cancer: ASCO Living Guideline, Version 2026.1.2",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42607281/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-17T00:00:00+00:00",
-     "copete": "Shah MA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "b503332f7b44"
-    },
-    {
-     "title": "Laser Interstitial Thermal Therapy for Brain Tumors: A Prospective Multicenter Analysis of Patients From the LAANTERN Study",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42607280/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-17T00:00:00+00:00",
-     "copete": "Leuthardt EC et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "7b0eeafb3cc6"
     }
    ]
   },
@@ -91,8 +107,31 @@
      "title": "Alexander Wang Fall 2026 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/alexander-wang",
      "source": "Vogue",
-     "published": "2026-08-20T20:47:25+00:00",
+     "published": "2026-08-20T22:47:58+00:00",
      "id": "354546418a30"
+    },
+    {
+     "title": "Las sandalias sin suelas del verano 2026 debutan en la alfombra roja con Margaret Qualley",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlc1Q3pLTUczTjNodjkzaTNxajBHYjdtS2ZySXFfeF92b1VUdzJncGdhbXN1c0JJLTRLZ2FRdS1MX3RNMFdPQUEzSi1wU2dpeGpaek5TRG9rY29hekZyUEdsR0ZheG42WmxFUnZ3MVVKSTl5VXdad29ReDNfUFJLVW5KSm1PdkFiY3I5enNXNmc1cU8zdVFSNlV4b3J4ZmplZjIyVi1qbw?oc=5",
+     "source": "Vogue México",
+     "published": "2026-08-20T22:12:54+00:00",
+     "id": "c5e2f82723b3"
+    },
+    {
+     "title": "This Underrated California Wine Country Will Transport You Straight to Europe",
+     "link": "https://www.vogue.com/article/temecula-valley-wine-country-guide",
+     "source": "Vogue",
+     "published": "2026-08-20T21:22:35+00:00",
+     "copete": "Want the feel of an Italian or Spanish vineyard vacation, without actually traveling across the Atlantic? Head to Temecula Valley Wine Country.",
+     "id": "7367f2b47ab6"
+    },
+    {
+     "title": "This Jewelry-Designer Bride Created All Her Own Looks for Her Tuscan Castle Wedding",
+     "link": "https://www.vogue.com/slideshow/rene-barnes-and-christian-dicroce-wedding",
+     "source": "Vogue",
+     "published": "2026-08-20T21:11:30+00:00",
+     "copete": "Rene Barnes created six looks using deadstock fabric from Dior, Armani, and Oscar de la Renta to marry Christian DiCroce at a 13th-century castle outside Siena.",
+     "id": "7eb909548ffc"
     },
     {
      "title": "Descubre cómo Houston cambia a lo largo del año y cuál es el mejor momento para visitarla",
@@ -124,34 +163,11 @@
      "id": "83c1768329c0"
     },
     {
-     "title": "Dogue: Así es como Bad Bunny y una tierna beagle disfrutan una cena juntos",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KcWR0bHRmWWxEelU2Q1dZOGgtR3R6dlZONGprczBxZ2hPU0dJaUlPOFFTeUIyQUh5TU9LbFFGenZzeFZJYk1hZkpJSk5lUTl2MmRBT2EzM0I?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-20T18:24:21+00:00",
-     "id": "266454ccf4e9"
-    },
-    {
-     "title": "30+ Best Trench Coats for Women in 2026",
-     "link": "https://www.vogue.com/article/best-trench-coats-for-women",
-     "source": "Vogue",
-     "published": "2026-08-20T17:52:26+00:00",
-     "copete": "Shop Vogue’s guide to the best trench coats for women in 2026, from tried-and-true classics to reimagined silhouettes from Khaite, Burberry, Nour Hammour and more.",
-     "id": "4b5d0ae5b8d7"
-    },
-    {
      "title": "6 tendencias asequibles de Lefties para la transición al otoño 2026 - marie-claire.es",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2FZTUM0cWVlN3JVYUFFd2UtM1plSTRWY3BSVzg2ZldXWjZ5MW9mT3dVVEpMNlpkUDlfQnZjbjVvQjdOTnRiUFJ3SUVjZ0NMM2loaURwWDNJQWZhNUdTOV93M0daMFBaOXZZZlUzdV8tYXJCNmktTWVHQzE4Ui16b2NROXZ6UjEwTWR1VUI3ZnJqM0hpRTc5V1dYcldnVXFHSHc?oc=5",
      "source": "Moda (Google News)",
      "published": "2026-08-20T16:23:01+00:00",
      "id": "724bfa290954"
-    },
-    {
-     "title": "Coty Sales Fall 1% as It Gears Up for “Transition Year”",
-     "link": "https://www.vogue.com/article/coty-sales-fall-1-as-it-gears-up-for-transition-year",
-     "source": "Vogue",
-     "published": "2026-08-20T15:53:00+00:00",
-     "copete": "Coty ended 2026 on a high note, with Q4 results beating analyst expectations. Now, it’s preparing for the next phase of growth.",
-     "id": "61fb68057ca8"
     },
     {
      "title": "Las mujeres más elegantes del norte de España han dado el visto bueno a estas 3 chaquetas de Zara que serán tendencia en otoño",
@@ -168,28 +184,67 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "En medio de los rumores con Luck Ra, Tuli Acosta hizo una confesión inesperada sobre su presente amoroso",
+     "link": "https://www.infobae.com/teleshow/2026/08/20/en-medio-de-los-rumores-con-luck-ra-tuli-acosta-hizo-una-confesion-inesperada-sobre-su-presente-amoroso/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-20T22:34:56+00:00",
+     "id": "b5405f4a4dc1"
+    },
+    {
+     "title": "Selton Mello, el brasileño que protagonizó un film ganador del Oscar, es fan del cine argentino y dio el salto a Hollywood",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/selton-mello-el-brasileno-que-protagonizo-un-film-ganador-del-oscar-es-fan-del-cine-argentino-y-dio-nid20082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-20T22:26:34+00:00",
+     "copete": "El actor de Aún estoy aquí, de Walter Salles, recibió un reconocimiento a la trayectoria en el Festival de Cine de Gramado",
+     "id": "d3b31aacd346"
+    },
+    {
+     "title": "Alejandro Stoessel, el papá de Tini, recibió el alta tras pasar dos noches en observación",
+     "link": "https://www.infobae.com/teleshow/2026/08/20/alejandro-stoessel-el-papa-de-tini-recibio-el-alta-tras-pasar-dos-noches-en-observacion/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-20T22:22:19+00:00",
+     "copete": "El productor dejó el Sanatorio de la Trinidad de San Isidro este jueves, luego de que los estudios por el dolor en el pecho descartaran complicaciones graves y la necesidad de una intervención. La información de Teleshow",
+     "id": "c901d0edc1fa"
+    },
+    {
+     "title": "Ricardo Canaletti habló del enfrentamiento con Matías Bertolotti: “La pelota no se mancha”",
+     "link": "https://www.infobae.com/teleshow/2026/08/20/ricardo-canaletti-hablo-del-enfrentamiento-con-matias-bertolotti-la-pelota-no-se-mancha/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-20T22:19:52+00:00",
+     "copete": "El periodista de policiales hizo referencia a los dichos de su compañero de señal y uso una frase de Diego Maradona",
+     "id": "3dcd9f3f8b93"
+    },
+    {
+     "title": "Preocupación por Pablo Alborán: canceló todos sus shows y confirmó atraviesa un delicado estado de salud",
+     "link": "https://www.lanacion.com.ar/espectaculos/preocupacion-por-pablo-alboran-cancelo-todos-sus-shows-y-confirmo-atraviesa-un-delicado-estado-de-nid20082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-20T21:40:25+00:00",
+     "copete": "El malagueño de 37 años recurrió a su cuenta de Instagram para contar cuál es el cuadro que padece; “Ahora solo toca descansar”, expresó",
+     "id": "ac66f5a93907"
+    },
+    {
+     "title": "Las vacaciones de Moria Casán en el Caribe: Bikini verde, columpio y mar turquesa",
+     "link": "https://www.infobae.com/teleshow/2026/08/20/las-vacaciones-de-moria-casan-en-el-caribe-bikini-verde-columpio-y-mar-turquesa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-20T21:31:43+00:00",
+     "copete": "La One eligió pasar su cumpleaños lejos de los reclectores y eligió irse de vacaciones en medio del éxito de su biopic",
+     "id": "8a9ea2d017a5"
+    },
+    {
+     "title": "La muerte de Sergio Denis: la Justicia rechazó la demanda de sus hijos y responsabilizó al cantante",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-muerte-de-sergio-denis-la-justicia-rechazo-la-demanda-de-sus-hijos-y-responsabilizo-al-cantante-nid20082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-20T21:17:42+00:00",
+     "copete": "La Cámara en lo Contencioso Administrativo de Tucumán consideró que la trágica caída del artista, ocurrida en marzo de 2019 en el Teatro Mercedes Sosa de la capital provincial, se produjo porque caminó de espaldas por una pasarela",
+     "id": "27c0b6563c46"
+    },
+    {
      "title": "Agustina Gandolfo reveló la exigente rutina que sigue para mantener su físico privilegiado",
      "link": "https://www.lanacion.com.ar/espectaculos/agustina-gandolfo-revelo-la-exigente-rutina-que-sigue-para-mantener-su-fisico-privilegiado-nid20082026/",
      "source": "La Nación Espectáculos",
      "published": "2026-08-20T20:42:00+00:00",
      "copete": "La influencer y esposa de Lautaro Martínez compartió detalles de su plan de entrenamiento integral en el gimnasio, además de su estrategia nutricional basada en el equilibrio constante",
      "id": "bbf8942738a6"
-    },
-    {
-     "title": "Creamfields Argentina 2026 con Charlotte de Witte, Fisher y más: cuáles son las figuras internacionales que tocan",
-     "link": "https://www.lanacion.com.ar/que-sale/creamfields-argentina-2026-con-charlotte-de-witte-fisher-y-mas-las-figuras-internacionales-que-tocan-nid20082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-20T20:41:12+00:00",
-     "copete": "La cita será el 14 de noviembre desde las 14.00 en el Parque de la Ciudad; los tickets están disponibles desde $180.000 y la programación reúne referentes globales y artistas de la escena local",
-     "id": "d6b1079c3b20"
-    },
-    {
-     "title": "Hayden Panettiere: un dato desconocido sobre sus últimos días y la drástica medida tomada por los vecinos de la actriz",
-     "link": "https://www.lanacion.com.ar/espectaculos/hayden-panettiere-un-dato-desconocido-sobre-sus-ultimos-dias-y-la-drastica-medida-tomada-por-los-nid20082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-20T20:21:46+00:00",
-     "copete": "El director de una de sus últimas películas aseguró que el círculo cercano de la protagonista de Héroes estaba evaluando hacer una “intervención” por su dificultad para dejar las drogas",
-     "id": "5bbf01135a5b"
     },
     {
      "title": "Cosquín Rock 2027: se confirmó la grilla completa del festival cordobés",
@@ -206,46 +261,6 @@
      "published": "2026-08-20T19:57:52+00:00",
      "copete": "La influencer estuvo en Machu Pichu en un retiro de yoga que cambió su manera de ver la vida y la ayudo a desconectar",
      "id": "7c8ea489ef05"
-    },
-    {
-     "title": "Emily Watson reveló que creció “en una especie de secta religiosa muy estricta” y contó cómo logró salir",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/emily-watson-revelo-que-crecio-en-una-especie-de-secta-religiosa-muy-estricta-y-conto-como-logro-nid20082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-20T19:33:53+00:00",
-     "copete": "La multipremiada actriz habló de su infancia en Londres y reveló un capítulo desconocido de su pasado",
-     "id": "286654436678"
-    },
-    {
-     "title": "La Justicia de Tucumán rechazó indemnizar a la familia de Sergio Denis y culpó al cantante por el accidente que le costó la vida",
-     "link": "https://www.infobae.com/teleshow/2026/08/20/la-justicia-de-tucuman-rechazo-indemnizar-a-la-familia-de-sergio-denis-y-culpo-al-cantante-por-el-accidente-que-le-costo-la-vida/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-20T19:24:21+00:00",
-     "copete": "Lo decidió la Sala I de la Cámara en lo Contencioso Administrativo de esa provincia. Los detalles del fallo",
-     "id": "18cc63580ce7"
-    },
-    {
-     "title": "Silvina Escudero habló de la icónica pelea con Moria Casán en el Bailando: “¡Cómo no me va a molestar!”",
-     "link": "https://www.infobae.com/teleshow/2026/08/20/silvina-escudero-hablo-de-la-iconica-pelea-con-moria-casan-en-el-bailando-como-no-me-va-a-molestar/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-20T18:50:49+00:00",
-     "copete": "En medio del furor por la serie de La One, la modelo confesó cómo recuerda el fuerte cruce al aire durante el reality de 2011 cuando la exjurado le dijo una frase que se viralizó hasta el día de hoy",
-     "id": "782e3d473772"
-    },
-    {
-     "title": "La contundente declaración de Anita Espasandín sobre Benjamín Vicuña tras los dichos de Icardi: “Es un padrazo”",
-     "link": "https://www.infobae.com/teleshow/2026/08/20/la-contundente-declaracion-de-anita-espasandin-sobre-benjamin-vicuna-tras-los-dichos-de-icardi-es-un-padrazo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-20T17:39:29+00:00",
-     "copete": "La arquitecta habló en medio de la escalada mediática entre su pareja y el futbolista. “Cuando hay niños hay que ser respetuosos”, aseguró",
-     "id": "3e9b31974e68"
-    },
-    {
-     "title": "Cami Mayan habló de su conflicto legal con Alexis Mac Allister: “Cada uno juzga con sus propios ojos”",
-     "link": "https://www.infobae.com/teleshow/2026/08/20/cami-mayan-hablo-de-su-conflicto-legal-con-alexis-mac-allister-cada-uno-juzga-con-sus-propios-ojos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-20T17:14:09+00:00",
-     "copete": "La influencer se encuentra enfrentada a su expareja desde el 2023 por el reclamo que inició para recibir una compensación económica por los años que estuvieron juntos",
-     "id": "038a30703f87"
     },
     {
      "title": "Cosquín Rock 2027 confirmó su grilla: Ciro, Divididos, Babasónicos y Jack Johnson entre los anunciados",
@@ -348,84 +363,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Céline Dion en su regreso a los escenarios: “Pasó tanto tiempo que me gustaría mostrarles cuánto los extrañé”",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/20/celine-dion-en-su-regreso-a-los-escenarios-paso-tanto-tiempo-que-me-gustaria-mostrarles-cuanto-los-extrane/",
+     "title": "El instituto Malbrán activa una nueva estrategia para abordar enfermedades infecciosas en Argentina",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/20/el-instituto-malbran-activa-una-nueva-estrategia-para-abordar-enfermedades-infecciosas-en-argentina/",
      "source": "Infobae",
-     "published": "2026-08-20T20:48:21+00:00",
-     "copete": "La cantante se presentará en París el mes próximo y atribuyó su decisión de hablar abiertamente sobre el síndrome de la persona rígida a la conexión genuina que mantiene con su audiencia",
-     "id": "1390fe8c8f25"
+     "published": "2026-08-20T22:46:11+00:00",
+     "copete": "La nueva etapa se centra en proyectos de investigación y diagnóstico temprano, con el objetivo de mejorar la capacidad de respuesta. Un convenio prevé la incorporación de herramientas científicas y acuerdos para generar datos locales",
+     "id": "7058598c2413"
     },
     {
-     "title": "Guatemala: Un camión que trasladaba a niños y otros pasajeros hacia un desfile volcó en la ruta entre Sepajch y Lanquín, en Alta Verapaz",
-     "link": "https://www.infobae.com/guatemala/2026/08/20/guatemala-un-camion-que-trasladaba-a-ninos-y-otros-pasajeros-hacia-un-desfile-volco-en-la-ruta-entre-sepajch-y-lanquin-en-alta-verapaz/",
+     "title": "Intento de femicidio en Rosario: atacó a puñaladas a su novia de 18 años y luego trató de quitarse la vida",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/intento-de-femicidio-en-rosario-ataco-a-punaladas-a-su-novia-de-18-anos-y-luego-trato-de-quitarse-la-vida/",
      "source": "Infobae",
-     "published": "2026-08-20T20:48:14+00:00",
-     "copete": "La atención prehospitalaria priorizó a los casos graves y permitió definir qué personas debían ser derivadas al CAP de Lanquín y cuáles podían permanecer bajo observación en la escena mientras continuaban las revisiones",
-     "id": "38356c7726aa"
+     "published": "2026-08-20T22:46:00+00:00",
+     "copete": "La joven fue trasladada de urgencia a un hospital con múltiples heridas de arma blanca y permanece internada en estado reservado. El agresor, de 19 años, fue hallado en el mismo domicilio con lesiones autoinfligidas",
+     "id": "608225597438"
     },
     {
-     "title": "Mercados: las acciones argentinas terminaron dispares y cayeron los bonos, arrastrados por las bajas de Wall Street",
-     "link": "https://www.infobae.com/economia/2026/08/20/mercados-las-acciones-y-los-bonos-argentinos-son-negociados-con-alzas-moderadas-mientras-baja-wall-street/",
+     "title": "El drama de Jonathan Gómez con la adicción al juego: claves médicas de la ludopatía y cómo detectarla",
+     "link": "https://www.infobae.com/salud/2026/08/20/el-drama-de-jonathan-gomez-con-la-adiccion-al-juego-claves-medicas-de-la-ludopatia-y-como-detectarla/",
      "source": "Infobae",
-     "published": "2026-08-20T20:47:21+00:00",
-     "copete": "El S&P Merval porteño cerró sin variantes y los ADR tuvieron cierre mixto. Los índices de Nueva York cayeron hasta 1,3%. El riesgo país subió a 534 puntos básicos",
-     "id": "2a882b4ec85c"
+     "published": "2026-08-20T22:45:37+00:00",
+     "copete": "El mediocampista relató cómo el impulso incontrolable por apostar lo llevó a endeudarse y atravesar una crisis familiar. Qué dicen los expertos sobre síntomas, factores de riesgo y alternativas de tratamiento",
+     "id": "b3f3f7a9f4d9"
     },
     {
-     "title": "Dólar hoy en vivo: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 20 de agosto",
-     "link": "https://www.infobae.com/economia/2026/08/20/dolar-hoy-en-vivo-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-20-de-agosto/",
+     "title": "Por qué buscar Cienciano vs. Botafogo en Roja Directa o Fútbol Libre pone en riesgo tu PC",
+     "link": "https://www.infobae.com/tecno/2026/08/20/por-que-buscar-cienciano-vs-botafogo-en-roja-directa-o-futbol-libre-pone-en-riesgo-tu-pc/",
      "source": "Infobae",
-     "published": "2026-08-20T20:45:58+00:00",
-     "copete": "El billete al público continuó ofrecido a $1.515 para la venta en el Banco Nación. El dólar blue cedió a $1.550. Las reservas crecieron en USD 340 millones y alcanzaron un nuevo máximo desde 2019",
-     "id": "36fdc9a9bcb6"
+     "published": "2026-08-20T22:40:58+00:00",
+     "copete": "Estos portales pueden convertirse en focos de propagación de malware, spyware y troyanos",
+     "id": "50dc2273d408"
     },
     {
-     "title": "Pilar Sordo, psicóloga: “Cómo te hablás, define tu amor propio y visión del mundo”",
-     "link": "https://www.lanacion.com.ar/sociedad/pilar-sordo-psicologa-como-te-hablas-define-tu-amor-propio-y-vision-del-mundo-nid19082026/",
+     "title": "Preocupación por Augusto Batalla: una gran atajada, un fuerte golpe y la salida en camilla entre aplausos",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/preocupacion-por-augusto-batalla-una-gran-atajada-un-fuerte-golpe-y-la-salida-en-camilla-entre-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T20:45:00+00:00",
-     "copete": "En una entrevista con LA NACION, la psicóloga chilena analizó la transformación de la conducta humana frente a las experiencias de vida y la importancia del discurso interno",
-     "id": "541ce215ade2"
+     "published": "2026-08-20T22:38:13+00:00",
+     "copete": "El arquero argentino quedó tendido tras un choque cuando evitó un gol de Alavés; no hay parte médico",
+     "id": "3f82d884267b"
     },
     {
-     "title": "ATE advirtió que la deuda de las familias podría desencadenar un “estallido social” en el país",
-     "link": "https://www.lanacion.com.ar/politica/ate-advirtio-que-la-deuda-de-las-familias-podria-desencadenar-un-estallido-social-en-el-pais-nid20082026/",
+     "title": "Milei habla en el Council of the Americas, en vivo: las últimas medidas y el minuto a minuto",
+     "link": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T20:44:07+00:00",
-     "copete": "“El Presidente miente cuando dice que no le pusieron una pistola en la cabeza a la gente”, manifestó el secretario general del gremio de los estatales, Rodolfo Aguiar",
-     "id": "cd5859aa390f"
+     "published": "2026-08-20T22:37:39+00:00",
+     "copete": "El Presidente participa de la reunión anual organizada por el Consejo de las Américas y la Cámara Argentina de Comercio; arrancó su discurso con críticas a economistas y adelantó que su exposición se centrará en el “modelo de crecimiento”",
+     "id": "b420e3feeeb9"
     },
     {
-     "title": "Juan Barcos, cocinero, explica cómo hacer papas fritas perfectas: “La última fritura es con aceite a alta temperatura para dar corteza y color”",
-     "link": "https://www.lanacion.com.ar/que-sale/juan-barcos-cocinero-explica-como-hacer-papas-fritas-perfectas-la-ultima-fritura-es-con-aceite-a-nid20082026/",
+     "title": "Naufragó por 438 días y sobrevivió tras recorrer 10.800 kilómetros sin agua ni comida",
+     "link": "https://www.lanacion.com.ar/lifestyle/naufrago-por-438-dias-y-sobrevivio-tras-recorrer-10800-kilometros-sin-agua-ni-comida-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T20:42:36+00:00",
-     "copete": "Son mucho más que un acompañamiento; la importancia de la variedad con poca agua y los diferentes tipos de cocción",
-     "id": "27b5de77b9f6"
+     "published": "2026-08-20T22:36:11+00:00",
+     "copete": "El pescador salvadoreño José Salvador Alvarenga protagonizó una de las hazañas de supervivencia más extremas de la historia moderna; tras quedar a la deriva en el Pacífico, logró mantenerse con vida en condiciones físicas límite",
+     "id": "835e4e1ee3ac"
     },
     {
-     "title": "Oficial en Nueva York: Hochul firma una nueva ley que impacta en la salud de los adultos mayores",
-     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/oficial-en-nueva-york-hochul-firma-una-nueva-ley-que-impacta-en-la-salud-de-los-adultos-mayores-nid20082026/",
+     "title": "Evo Morales denuncia un supuesto complot entre el gobierno de Paz y EE.UU. para matarlo",
+     "link": "https://www.lanacion.com.ar/el-mundo/evo-morales-denuncia-un-supuesto-complot-entre-el-gobierno-de-paz-y-eeuu-para-matarlo-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T20:42:33+00:00",
-     "copete": "Nueva ley en Nueva York firmada por la gobernadora Hochul orienta la toma de decisiones informadas ante enfermedades en adultos mayores.",
-     "id": "303e8ac6a237"
+     "published": "2026-08-20T22:33:58+00:00",
+     "copete": "El expresidente afirmó que militares y policías le advirtieron sobre un nuevo operativo en el Trópico de Cochabamba",
+     "id": "e197a4e69590"
     },
     {
-     "title": "Un hombre murió tras sufrir un paro cardíaco mientras comía en la pizzería Güerrín",
-     "link": "https://www.clarin.com/sociedad/hombre-murio-sufrir-paro-cardiaco-comia-pizzeria-guerrin_0_M08iJqwMhC.html",
+     "title": "En bikini en el Caribe, Moria Casán celebró el éxito de su serie: \"Volviendo a ser niña\"",
+     "link": "https://www.clarin.com/fama/bikini-caribe-moria-casan-celebro-exito-serie-volviendo-nina_0_4XebmgCUCk.html",
      "source": "Clarín",
-     "published": "2026-08-20T20:25:07+00:00",
-     "copete": "El hombre sufrió un paro cardíaco mientras almorzaba en el local ubicado en Avenida Corrientes al 1300. Personal del SAME se hizo presente en el lugar. El local quedó clausurado.",
-     "id": "558aa482feca"
+     "published": "2026-08-20T22:01:46+00:00",
+     "copete": "Mientras su biopic arrasa en Netflix, La One se alejó de Buenos Aires para recargar energías. El impactante look que eligió para disfrutar de su merecido descanso.",
+     "id": "c8ee4c327382"
     },
     {
-     "title": "Cartografía y escenarios futuros \npara el diseño",
-     "link": "https://www.clarin.com/arq/diseno/cartografia-escenarios-futuros-diseno_0_yN9a5WQnrm.html",
+     "title": "El vice de Caputo: \"Cuando hay un shock, el sistema cambiario se mantiene\"",
+     "link": "https://www.clarin.com/economia/vice-caputo-shock-sistema-cambiario-mantiene_0_AaGaxRLOEL.html",
      "source": "Clarín",
-     "published": "2026-08-20T20:24:58+00:00",
-     "copete": "En el marco de la XXI Semana del Diseño en la Universidad de Palermo, los diseñadores Gustavo Lento Navarro y Matías Kirschenbaum presentaron “Instinto de Futuros”. Es un recorrido por las señales emergentes, las innovaciones y los cambios…",
-     "id": "65ab92c3aa5e"
+     "published": "2026-08-20T21:59:41+00:00",
+     "copete": "José Luis Daza dijo la ayuda de EE.UU. refleja el cambio. Dijo que la inflación \"dejó de ser un tema\". Y que el modelo de Milei es \"permanente\".",
+     "id": "9c7c0eaa86f8"
     }
    ]
   },
@@ -434,6 +449,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
+     "link": "https://www.bbc.com/mundo/articles/cx2d9yvj4qeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-20T22:46:50+00:00",
+     "copete": "Daniel y José, dos pescadores artesanales de Chiapas, en el sur de México, pasaron cinco días en mar abierto sin agua potable ni comida hasta que la Armada los rescató en un punto donde parecía imposible verlos.",
+     "id": "317c5b69f1f1"
+    },
+    {
+     "title": "Un fuerte terremoto de magnitud 7,2 sacude el sur de Perú",
+     "link": "https://www.bbc.com/mundo/articles/c62epjggd7mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-20T21:14:31+00:00",
+     "copete": "El movimiento ocurrió a las 13:00 hora local con epicentro cerca de la localidad de Coracora, en la región de Ayacucho.",
+     "id": "0da1e814ada8"
+    },
+    {
+     "title": "Suspenden al académico que acusó de plagio al profesor de la Universidad de Cambridge que apareció muerto",
+     "link": "https://www.bbc.com/mundo/articles/ce859yel4lzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-20T20:55:31+00:00",
+     "copete": "Nathan Cofnas afirma que está siendo investigado por discriminar al fallecido profesor de Cambridge.",
+     "id": "d6b722b159dc"
+    },
+    {
+     "title": "¿Por qué ahora? y otras 4 preguntas sobre el regreso de Harry y Meghan a Reino Unido",
+     "link": "https://www.bbc.com/mundo/articles/c9d871y2pnvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-20T20:47:59+00:00",
+     "copete": "La repentina decisión de regresar de Estados Unidos plantea varias preguntas para los duques de Sussex y la familia real.",
+     "id": "23f224ff9df7"
+    },
     {
      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
      "link": "https://elpais.com/america/2026-08-20/un-terremoto-de-magnitud-72-sacude-la-region-andina-de-ayacucho-en-el-sur-de-peru.html",
@@ -451,44 +498,12 @@
      "id": "33aa1318b5ae"
     },
     {
-     "title": "Un fuerte terremoto de magnitud 7,2 sacude el sur de Perú",
-     "link": "https://www.bbc.com/mundo/articles/c62epjggd7mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-20T19:33:02+00:00",
-     "copete": "El movimiento ocurrió a las 13:00 hora local con epicentro cerca de la localidad de Coracora, en la región de Ayacucho.",
-     "id": "0da1e814ada8"
-    },
-    {
-     "title": "Condenan a cadena perpetua a Hui Ka Yan, fundador del gigante inmobiliario chino Evergrande",
-     "link": "https://www.bbc.com/mundo/articles/cx2kr9n31qgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-20T16:26:34+00:00",
-     "copete": "La sentencia de Hui marca un momento clave en las repercusiones del colapso de Evergrande, que sacudió el sector inmobiliario de China.",
-     "id": "f8a448611d49"
-    },
-    {
      "title": "La guerra contra Irán abre una herida económica en Estados Unidos con más inflación, más deuda y menos crecimiento",
      "link": "https://elpais.com/internacional/2026-08-20/la-guerra-contra-iran-abre-una-herida-economica-en-estados-unidos-con-mas-inflacion-mas-deuda-y-menos-crecimiento.html",
      "source": "El País Internacional",
      "published": "2026-08-20T15:41:47+00:00",
      "copete": "Seis meses después del inicio de los bombardeos, Washington se enfrenta a renovadas tensiones, incertidumbre y volatilidad en los mercados financieros",
      "id": "e7d2345301e1"
-    },
-    {
-     "title": "El vendedor de autos de Bélgica que se convirtió en príncipe luego de que se confirmara su parentesco con la familia real",
-     "link": "https://www.bbc.com/mundo/articles/c3w0vwpj2zvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-20T14:13:52+00:00",
-     "copete": "Clément Vandenkerckhove fue acogido discretamente en la familia del príncipe Laurent, hermano del rey Felipe de Bélgica, durante una ceremonia en un ayuntamiento.",
-     "id": "e585eebe6657"
-    },
-    {
-     "title": "\"Mi prioridad era sacar a esos niños\": la historia de una de las imágenes más conmovedoras del terremoto en Colombia",
-     "link": "https://www.bbc.com/mundo/articles/c8en3n78x5go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-20T12:05:55+00:00",
-     "copete": "En medio del caos, el personal del Hospital Universitario del Valle reaccionó con rapidez y vocación, salvando vidas y reorganizándose contrarreloj.",
-     "id": "23c5e3aa1683"
     },
     {
      "title": "Al menos 17 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev y sus alrededores",
@@ -505,16 +520,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
