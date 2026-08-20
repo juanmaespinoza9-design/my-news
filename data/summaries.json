@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-20T10:15:00Z",
+  "generated_at": "2026-08-20T22:10:00Z",
   "summaries": {
-    "5dded03c387a": {
-      "resumen": "The ASCO Post reporta que agregar un radiofármaco (fármaco que emite radiación dirigida al tumor) al tratamiento estándar en cáncer renal metastásico (mRCC) no logró reducir los eventos óseos (fracturas, necesidad de radioterapia o cirugía ósea, compresión medular). Es un resultado negativo relevante porque acota el uso de esta estrategia combinada en pacientes con metástasis óseas.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el tema (comparación de un agregado terapéutico contra el tratamiento estándar) es compatible con un ensayo clínico aleatorizado, sin datos de cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer renal metastásico (mRCC, carcinoma de células renales con enfermedad a distancia).\nIntervención: Agregado de un radiofármaco (fármaco que emite radiación dirigida, probablemente contra metástasis óseas) al tratamiento sistémico estándar, comparado con el tratamiento estándar solo.\nResultados: El título indica que no hubo mejoría en los eventos óseos (fracturas, necesidad de radioterapia o cirugía ósea, compresión medular), sin cifras de riesgo relativo ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si el estudio tenía poder estadístico suficiente para detectar diferencias.\nMensaje: Resultado negativo que, de confirmarse, no respalda agregar este radiofármaco de forma sistemática para prevenir eventos óseos en mRCC, aunque podría conservar un rol en otros desenlaces no evaluados en este análisis.\nNota: análisis sin acceso al abstract."
-    },
-    "de39368370a4": {
-      "resumen": "The ASCO Post informa que Charles W.M. Roberts, médico y doctor en ciencias (MD, PhD), fue designado presidente y director ejecutivo (CEO) del St. Jude Children's Research Hospital, uno de los centros de referencia mundial en oncología pediátrica. Es una noticia institucional sobre liderazgo, sin datos clínicos propios.",
-      "destacado": false
-    },
     "0adfb0da8749": {
       "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
       "destacado": false
@@ -23,8 +14,39 @@
       "destacado": false,
       "analisis": "Diseño: Análisis prospectivo multicéntrico de pacientes incluidos en el registro LAANTERN; al ser un estudio de registro (no un ensayo clínico aleatorizado), el título no precisa el número de centros ni de pacientes.\nPoblación: Pacientes con tumores cerebrales tratados con terapia térmica intersticial con láser (LITT).\nIntervención: Terapia térmica intersticial con láser (LITT), un procedimiento mínimamente invasivo guiado por resonancia magnética; al ser un registro, no hay un brazo comparador definido.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Al ser un registro no aleatorizado, los resultados pueden estar sujetos a sesgos de selección; sin el abstract tampoco se puede evaluar el tamaño muestral, el tiempo de seguimiento ni los desenlaces medidos.\nMensaje: Aporta evidencia del mundo real sobre el uso de la terapia térmica intersticial con láser en tumores cerebrales, una opción a considerar en pacientes no candidatos a cirugía abierta.\nNota: análisis sin acceso al abstract."
     },
-    "9f81ed977f67": {
-      "resumen": "El Sol de México analiza el regreso de la moda de los años 70 y anticipa las prendas que serán tendencia en el otoño 2026."
+    "92e215865e5e": {
+      "resumen": "Artículo del Journal of Clinical Oncology (Lawrence BJ et al.) que analiza cómo ensayos clínicos pequeños en cánceres raros con biomarcadores raros pueden, o no, cambiar la práctica clínica. Interesa porque discute un problema metodológico central en oncología: cómo generar evidencia sólida cuando la población de pacientes es muy chica.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el enfoque (análisis de cómo ensayos pequeños impactan en la práctica) podría tratarse de un artículo de análisis secundario o de revisión metodológica sobre múltiples estudios, más que de un único ensayo clínico primario.\nPoblación: Pacientes con cánceres raros que presentan biomarcadores raros (alteraciones moleculares de baja frecuencia).\nIntervención: No es una intervención única; se analiza el impacto de ensayos clínicos pequeños (de bajo número de pacientes) sobre el cambio de práctica clínica.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si es un análisis cuantitativo de una serie de estudios o una discusión cualitativa; tampoco se puede evaluar la metodología usada para definir \"cambio de práctica\".\nMensaje: Aporta una reflexión relevante sobre cómo interpretar y aplicar en la práctica diaria la evidencia de ensayos pequeños en poblaciones raras, un escenario cada vez más frecuente con la fragmentación molecular del cáncer.\nNota: análisis sin acceso al abstract."
+    },
+    "09252df77b50": {
+      "resumen": "OncLive reporta que la vacuna de ADN pTVG-HP (una vacuna terapéutica que estimula al sistema inmune contra células prostáticas) prolongó la supervivencia global frente a placebo en pacientes con cáncer de próstata con recaída bioquímica (elevación del antígeno prostático específico, PSA, tras el tratamiento inicial). Es una noticia destacada porque un beneficio en supervivencia global es el resultado más sólido que puede mostrar un ensayo oncológico.",
+      "destacado": true,
+      "analisis": "Diseño: No precisado en el título; por la comparación contra placebo es compatible con un ensayo clínico aleatorizado y controlado, sin datos de cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata con recaída bioquímica, es decir, elevación del antígeno prostático específico (PSA) luego del tratamiento local inicial, sin enfermedad metastásica evidente por imágenes convencionales.\nIntervención: Vacuna de ADN pTVG-HP (vacuna terapéutica que induce una respuesta inmune dirigida contra la fosfatasa ácida prostática) comparada contra placebo.\nResultados: El título indica una prolongación de la supervivencia global frente a placebo, sin cifras de razón de riesgo (HR), intervalo de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si la diferencia fue estadísticamente significativa.\nMensaje: Si se confirma con los datos completos, respaldaría el uso de esta vacuna terapéutica como estrategia de intervención temprana en la recaída bioquímica del cáncer de próstata, un escenario donde hoy las opciones son limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "8b1d6a02dac2": {
+      "resumen": "OncLive informa que la agencia regulatoria estadounidense (FDA) otorgó la designación de vía rápida (Fast Track, un mecanismo que acelera el desarrollo y revisión de fármacos para necesidades médicas no cubiertas) a safusidenib para el glioma con mutación IDH1 (isocitrato deshidrogenasa 1, una alteración molecular frecuente en tumores cerebrales de bajo grado). Es relevante porque anticipa un desarrollo clínico más ágil para una droga dirigida en un subgrupo molecular específico.",
+      "destacado": false
+    },
+    "cd5cb6a7ed8d": {
+      "resumen": "OncLive repasa la evidencia creciente sobre la terapia con células T con receptor quimérico de antígeno (CAR T, linfocitos del propio paciente modificados genéticamente para atacar células tumorales) en el mieloma múltiple en recaída temprana. Interesa porque explora si esta terapia celular, hoy reservada para etapas más avanzadas, podría anticiparse en el curso de la enfermedad.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; el texto sugiere una nota de revisión o cobertura de datos de ensayos clínicos sobre células T con receptor quimérico de antígeno (CAR T) más que un único estudio primario, sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída temprana (tras una o pocas líneas de tratamiento previas).\nIntervención: Terapia con células T con receptor quimérico de antígeno (CAR T), sin brazo comparador explícito en el título.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si se trata de un ensayo clínico primario, un análisis conjunto de varios estudios o una nota de opinión especializada; tampoco hay datos de eficacia ni de toxicidad.\nMensaje: Refuerza el interés en adelantar el uso de la terapia CAR T a etapas más tempranas del mieloma múltiple en recaída, una tendencia a confirmar con ensayos aleatorizados maduros.\nNota: análisis sin acceso al abstract."
+    },
+    "cd419e7c76af": {
+      "resumen": "The ASCO Post reporta datos sobre el uso combinado de quimioterapia, inmunoterapia y terapia dirigida en neoplasias malignas avanzadas y refractarias (que ya no responden a los tratamientos habituales). Es relevante porque explora alternativas terapéuticas para pacientes que agotaron las opciones estándar.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el tema (evaluación de un esquema combinado en enfermedad refractaria) es compatible con un ensayo clínico, posiblemente de fase temprana o un estudio tipo canasta (basket trial), sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con neoplasias malignas avanzadas y refractarias, es decir, que progresaron a los tratamientos estándar disponibles, sin precisar el tipo de tumor en el título.\nIntervención: Combinación de quimioterapia, inmunoterapia y terapia dirigida; el título no especifica el esquema exacto ni un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la heterogeneidad tumoral incluida ni el perfil de toxicidad de la combinación.\nMensaje: Aporta una opción a considerar en pacientes con enfermedad refractaria que agotaron líneas estándar, a confirmar con los resultados completos y su perfil de seguridad.\nNota: análisis sin acceso al abstract."
+    },
+    "7bd7dcb8f739": {
+      "resumen": "The ASCO Post reporta que una intervención personalizada para bajar de peso mostró beneficios en sobrevivientes de cáncer de mama. Es relevante porque el control del peso corporal se asocia con menor riesgo de recurrencia y mejor pronóstico a largo plazo en esta población.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; el uso de la palabra \"Study\" y el carácter \"personalizado\" de la intervención sugieren un ensayo clínico o un estudio de intervención prospectivo, sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Sobrevivientes de cáncer de mama, sin precisar estadio, tiempo desde el diagnóstico ni índice de masa corporal basal en el título.\nIntervención: Intervención personalizada para el descenso de peso (probablemente con componentes de dieta y actividad física adaptados a cada paciente); el título no especifica un brazo comparador.\nResultados: El título indica que el estudio \"respalda\" la intervención, sin cifras de descenso de peso, desenlaces oncológicos ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la adherencia a la intervención ni si se midieron desenlaces oncológicos duros (recurrencia, supervivencia) o solo antropométricos.\nMensaje: Refuerza el rol de las intervenciones de estilo de vida personalizadas como complemento del seguimiento oncológico en sobrevivientes de cáncer de mama, aunque el impacto sobre desenlaces oncológicos duros requiere confirmación.\nNota: análisis sin acceso al abstract."
+    },
+    "5b0d53e48068": {
+      "resumen": "The ASCO Post reporta que un mayor nivel de deuda médica a nivel de condado en Estados Unidos se asoció con diagnósticos de cáncer en estadios más avanzados y peor supervivencia en adultos recién diagnosticados. Es relevante porque muestra cómo un factor económico y social puede impactar directamente en los resultados oncológicos.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el enfoque (asociación entre una variable socioeconómica agregada por condado y desenlaces oncológicos) es compatible con un estudio observacional o de cohorte basado en registros poblacionales, sin datos de número de centros ni de pacientes.\nPoblación: Adultos con diagnóstico reciente de cáncer en Estados Unidos, estratificados según el nivel de deuda médica del condado de residencia.\nIntervención: No hay una intervención propiamente dicha; se analiza la asociación entre la deuda médica a nivel de condado (como exposición) y el estadio al diagnóstico y la supervivencia (como desenlaces).\nResultados: El título indica una asociación entre mayor deuda médica y diagnóstico en estadios más avanzados y peor supervivencia, sin cifras de riesgo relativo, intervalo de confianza ni valor de p.\nLimitaciones: Al ser un estudio ecológico o de asociación, no permite establecer causalidad directa a nivel individual; sin el abstract tampoco se puede evaluar si se ajustó por otros factores socioeconómicos (acceso a cobertura, ingresos, raza) que podrían confundir la asociación.\nMensaje: Aporta evidencia sobre cómo las barreras económicas en salud pueden traducirse en peores desenlaces oncológicos, un argumento a favor de políticas que reduzcan la carga de deuda médica y mejoren el acceso a la detección temprana.\nNota: análisis sin acceso al abstract."
     },
     "0cf70999a88f": {
       "resumen": "Una agenda de actividades con perspectiva de diversidad sexual para disfrutar este fin de semana en Buenos Aires."
@@ -38,62 +60,44 @@
     "6479ac01a4b2": {
       "resumen": "La Voz del Interior propone diez planes gratuitos para disfrutar Buenos Aires durante el fin de semana largo sin gastar dinero."
     },
-    "e638fbc92b1e": {
-      "resumen": "Buenos Aires tendrá un fin de semana lluvioso: cuándo se espera que vuelva el sol."
-    },
-    "0f4b24d5d164": {
-      "resumen": "Un repaso por las principales propuestas culturales de la provincia de Buenos Aires."
-    },
     "c77694601e44": {
       "resumen": "El Destape propone una ruta por los cinco mejores restaurantes porteños para disfrutar Pinot Noir."
     },
-    "1812cd22ee91": {
-      "resumen": "Un recorrido por cómo el tango sigue marcando el pulso cultural y social de Buenos Aires."
+    "354546418a30": {
+      "resumen": "Vogue repasa la colección otoño 2026 de prêt-à-porter que Alexander Wang presentó en la pasarela."
     },
-    "18c5884b375e": {
-      "resumen": "Nota de OnLive con la opinión de un especialista sobre si conviene mantener el inhibidor de tirosina quinasa (TKI, fármaco que bloquea una enzima clave para el crecimiento tumoral) al pasar a la siguiente línea de tratamiento en cáncer de pulmón de células no pequeñas (NSCLC) con mutación del receptor del factor de crecimiento epidérmico (EGFR). Interesa porque es una decisión frecuente en la práctica diaria sin una respuesta única establecida."
+    "06ef197b4a4b": {
+      "resumen": "Vogue México cuenta cómo cambia Houston a lo largo del año y cuál es el mejor momento para visitarla."
     },
-    "50b599f77bec": {
-      "resumen": "OnLive resume los datos del estudio KRASCENDO 170 sobre la combinación de divarasib (un inhibidor de KRAS G12C, mutación conductora presente en un subgrupo de cáncer de pulmón) con pembrolizumab (un inhibidor de punto de control inmunológico anti-PD-1) en cáncer de pulmón. Es relevante porque explora si sumar un inhibidor dirigido a la inmunoterapia mejora los resultados frente a cada estrategia por separado.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el nombre del estudio (KRASCENDO 170) se trataría de un ensayo clínico que evalúa una combinación de dos fármacos, sin datos de fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón (probablemente de células no pequeñas) con mutación KRAS G12C, dato no explicitado en el título.\nIntervención: Combinación de divarasib (inhibidor de KRAS G12C) con pembrolizumab (inhibidor de punto de control inmunológico anti-PD-1); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el perfil de toxicidad de la combinación ni si alcanzó su objetivo primario.\nMensaje: Aporta datos sobre una estrategia de combinación dirigida más inmunoterapia en un subgrupo molecular específico de cáncer de pulmón, a confirmar con los resultados completos.\nNota: análisis sin acceso al abstract."
+    "7ebce2727e32": {
+      "resumen": "Vogue México explora el costado más creativo de Houston a través del arte, la moda, la gastronomía y el diseño."
     },
-    "c3bd75502866": {
-      "resumen": "Entrevista de OnLive a la Dra. Morillo sobre el perfil de seguridad de golcadomide (un fármaco inmunomodulador) en linfoma folicular recidivado o refractario (R/R, que reapareció o no respondió a tratamientos previos). Sirve para conocer los efectos adversos esperables de una droga en investigación para un linfoma indolente de difícil manejo cuando recae."
+    "a6f252d7dd44": {
+      "resumen": "Grazia selecciona siete mocasines que serán tendencia en el otoño-invierno 2026."
     },
-    "cc3a2807e07f": {
-      "resumen": "The ASCO Post reporta que un programa de medicina integrativa digital (intervenciones de bienestar como actividad física, nutrición o apoyo psicológico entregadas por vía digital) mejoró la supervivencia global en pacientes que reciben tratamiento oncológico sistémico. Es una noticia destacada porque sugiere que intervenciones de apoyo, más allá del tratamiento antitumoral directo, podrían impactar en la sobrevida.",
-      "destacado": true,
-      "analisis": "Diseño: No precisado en el título; por el tema (programa de intervención comparado implícitamente contra su ausencia) es compatible con un estudio clínico prospectivo o un análisis de cohorte, sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes en tratamiento oncológico sistémico (quimioterapia, terapia dirigida o inmunoterapia), sin precisar tipo de tumor en el título.\nIntervención: Programa de medicina integrativa entregado por vía digital (probablemente incluye ejercicio, nutrición, manejo del estrés o apoyo psicológico), comparado presumiblemente con la atención estándar sin este programa.\nResultados: El título indica una mejora en la supervivencia global, sin cifras de razón de riesgo (HR), intervalo de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento, el riesgo de sesgos de selección (los pacientes que adhieren a programas de bienestar podrían diferir sistemáticamente de los que no) ni si el diseño permite inferir causalidad.\nMensaje: Si se confirma con datos maduros y diseño robusto, respaldaría incorporar programas de apoyo digital como complemento del tratamiento oncológico, aunque por ahora es una señal a interpretar con cautela.\nNota: análisis sin acceso al abstract."
+    "266454ccf4e9": {
+      "resumen": "Vogue México muestra, en su serie Dogue, cómo Bad Bunny comparte una cena junto a una tierna beagle."
     },
-    "92e215865e5e": {
-      "resumen": "Artículo del Journal of Clinical Oncology (Lawrence BJ et al.) que analiza cómo ensayos clínicos pequeños en cánceres raros con biomarcadores raros pueden, o no, cambiar la práctica clínica. Interesa porque discute un problema metodológico central en oncología: cómo generar evidencia sólida cuando la población de pacientes es muy chica.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el enfoque (análisis de cómo ensayos pequeños impactan en la práctica) podría tratarse de un artículo de análisis secundario o de revisión metodológica sobre múltiples estudios, más que de un único ensayo clínico primario.\nPoblación: Pacientes con cánceres raros que presentan biomarcadores raros (alteraciones moleculares de baja frecuencia).\nIntervención: No es una intervención única; se analiza el impacto de ensayos clínicos pequeños (de bajo número de pacientes) sobre el cambio de práctica clínica.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si es un análisis cuantitativo de una serie de estudios o una discusión cualitativa; tampoco se puede evaluar la metodología usada para definir \"cambio de práctica\".\nMensaje: Aporta una reflexión relevante sobre cómo interpretar y aplicar en la práctica diaria la evidencia de ensayos pequeños en poblaciones raras, un escenario cada vez más frecuente con la fragmentación molecular del cáncer.\nNota: análisis sin acceso al abstract."
+    "724bfa290954": {
+      "resumen": "Marie Claire España reúne seis tendencias accesibles de Lefties para la transición al otoño 2026."
     },
-    "8f11817faa48": {
-      "resumen": "Cosmopolitan selecciona siete vestidos, polleras y sandalias de Zara para lucir a fines de verano y seguir usando en septiembre."
+    "f903294e4841": {
+      "resumen": "Telva cuenta que las mujeres más elegantes del norte de España eligieron tres camperas de Zara que serán tendencia en otoño."
     },
-    "0b031e5cf830": {
-      "resumen": "Cosmopolitan destaca un vestido de encaje de Mango como la gran tendencia del otoño y da consejos para combinarlo."
+    "d4f8f37f5e81": {
+      "resumen": "Página|12 entrevista a Alejandro Poquet sobre su obra de teatro que reflexiona sobre el propio teatro."
     },
-    "09804708d3a4": {
-      "resumen": "Harper's Bazaar señala que el corte de pelo bob que usó la reina Letizia en Mallorca en 2015 vuelve a ser furor este verano por elegante y favorecedor."
+    "9d1ab6ebe74d": {
+      "resumen": "Zona Norte Hoy reúne los planes imperdibles para disfrutar el fin de semana en la Ciudad de Buenos Aires."
     },
-    "4cba7fb2136f": {
-      "resumen": "Vogue España repasa los vestidos que se impondrán como tendencia en el otoño-invierno 2026/2027."
+    "e06075e03701": {
+      "resumen": "El Tango BA Festival y Mundial 2026 arrancó en Buenos Aires con una gran fiesta cultural que reúne a más de dos mil artistas en escena."
     },
-    "541efeb823ea": {
-      "resumen": "Vogue España presenta a Loli Bahía dentro de su serie sobre las chicas que marcaron el verano de 2026."
+    "911f07270bb0": {
+      "resumen": "Nota al Pie repasa la agenda cultural porteña, con \"Fransia\", música nacional, teatro y cine, entre otras propuestas."
     },
-    "8c0ae68bbb61": {
-      "resumen": "Vogue España informa que el príncipe Harry y Meghan Markle podrían regresar a vivir al Reino Unido."
-    },
-    "6c50eec02248": {
-      "resumen": "Fernando Samartín presentará un espectáculo sinfónico en homenaje a Sandro en el Teatro Gran Rex de Buenos Aires."
-    },
-    "637b9e20f984": {
-      "resumen": "Dos obras de teatro de Buenos Aires llegarán al festival CEINA."
+    "733b45ae015f": {
+      "resumen": "Perfil reúne actividades gratuitas para chicos en la Ciudad y el Gran Buenos Aires durante el fin de semana largo por el Día del Niño."
     }
   }
 }
