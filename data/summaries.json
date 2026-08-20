@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-19T22:09:05Z",
+  "generated_at": "2026-08-20T10:15:00Z",
   "summaries": {
-    "2b8d9a9fe0a3": {
-      "resumen": "Nota de OncLive sobre el uso de vacunas de ARN mensajero (ARNm) para intentar prolongar el control de la enfermedad en el cáncer de páncreas (adenocarcinoma ductal de páncreas, PDAC). Interesa porque el PDAC tiene mal pronóstico y pocas estrategias inmunológicas probadas, y las vacunas de ARNm personalizadas son una de las líneas de investigación más prometedoras del momento.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el formato de nota de OncLive probablemente se trate de una cobertura de datos de un estudio clínico temprano o de una entrevista sobre investigación en curso, no necesariamente el reporte primario de un ensayo.\nPoblación: Pacientes con cáncer de páncreas (adenocarcinoma ductal de páncreas, PDAC); el título no especifica estadio ni línea de tratamiento.\nIntervención: Vacunas de ARN mensajero (ARNm), sin precisar si se administran solas o combinadas con otro tratamiento, ni el comparador.\nResultados: El título sugiere un posible beneficio en el control de la enfermedad a largo plazo, pero sin cifras de supervivencia libre de progresión, supervivencia global ni intervalos de confianza.\nLimitaciones: Sin el cuerpo de la nota no se puede confirmar el diseño del estudio, el tamaño muestral ni la fase de desarrollo clínico de la vacuna.\nMensaje: Es una señal alentadora en un tumor de muy mal pronóstico y con escasas opciones inmunoterapéuticas, pero preliminar hasta contar con datos maduros de ensayos controlados.\nNota: análisis sin acceso al abstract."
-    },
     "5dded03c387a": {
       "resumen": "The ASCO Post reporta que agregar un radiofármaco (fármaco que emite radiación dirigida al tumor) al tratamiento estándar en cáncer renal metastásico (mRCC) no logró reducir los eventos óseos (fracturas, necesidad de radioterapia o cirugía ósea, compresión medular). Es un resultado negativo relevante porque acota el uso de esta estrategia combinada en pacientes con metástasis óseas.",
       "destacado": false,
@@ -13,19 +8,6 @@
     },
     "de39368370a4": {
       "resumen": "The ASCO Post informa que Charles W.M. Roberts, médico y doctor en ciencias (MD, PhD), fue designado presidente y director ejecutivo (CEO) del St. Jude Children's Research Hospital, uno de los centros de referencia mundial en oncología pediátrica. Es una noticia institucional sobre liderazgo, sin datos clínicos propios.",
-      "destacado": false
-    },
-    "e59e03702a62": {
-      "resumen": "The ASCO Post repasa un estudio sobre si el exceso de tejido adiposo (grasa corporal) se asocia con la progresión de fracturas vertebrales en mujeres con cáncer de mama temprano tratadas con inhibidores de aromatasa (fármacos que bloquean la producción de estrógenos). Interesa porque la pérdida ósea es un efecto adverso frecuente y poco visibilizado de este tratamiento hormonal tan usado.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el tema (asociación entre una variable clínica y un desenlace óseo) es compatible con un estudio observacional o un subanálisis de cohorte, sin datos de número de pacientes ni de centros.\nPoblación: Mujeres con cáncer de mama temprano tratadas con inhibidores de aromatasa (fármacos que bloquean la producción de estrógenos y aceleran la pérdida ósea).\nIntervención: No es una intervención terapéutica sino un factor evaluado: el exceso de tejido adiposo (grasa corporal), en relación con la progresión de fracturas vertebrales.\nResultados: No informados en el título ni disponibles sin acceso al artículo completo.\nLimitaciones: Al ser aparentemente observacional, no permite establecer causalidad; sin el trabajo completo no se puede evaluar el ajuste por otros factores de riesgo óseo (densidad mineral ósea basal, uso de bifosfonatos, tiempo en tratamiento).\nMensaje: Suma evidencia sobre la necesidad de vigilar la salud ósea en pacientes con exceso de adiposidad que reciben inhibidores de aromatasa, un dato útil para el seguimiento clínico habitual.\nNota: análisis sin acceso al abstract."
-    },
-    "ea285f368970": {
-      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) otorgó la designación de vía rápida (Fast Track, un mecanismo que acelera el desarrollo y la revisión de fármacos promisorios) a la combinación de PLN-101095 más pembrolizumab (un inhibidor de punto de control inmunológico anti-PD-1) en tumores sólidos. Es una señal regulatoria temprana, todavía sin datos de eficacia.",
-      "destacado": false
-    },
-    "c5ea9b800d84": {
-      "resumen": "OncLive despide a Harold P. Freeman, médico pionero en la navegación de pacientes (acompañamiento estructurado para reducir barreras de acceso al sistema de salud) y en la investigación de las disparidades raciales y socioeconómicas en cáncer, fallecido a los 93 años. Vale la pena conocer su legado porque sentó las bases de un modelo de atención oncológica hoy adoptado en todo el mundo.",
       "destacado": false
     },
     "0adfb0da8749": {
@@ -41,45 +23,11 @@
       "destacado": false,
       "analisis": "Diseño: Análisis prospectivo multicéntrico de pacientes incluidos en el registro LAANTERN; al ser un estudio de registro (no un ensayo clínico aleatorizado), el título no precisa el número de centros ni de pacientes.\nPoblación: Pacientes con tumores cerebrales tratados con terapia térmica intersticial con láser (LITT).\nIntervención: Terapia térmica intersticial con láser (LITT), un procedimiento mínimamente invasivo guiado por resonancia magnética; al ser un registro, no hay un brazo comparador definido.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Al ser un registro no aleatorizado, los resultados pueden estar sujetos a sesgos de selección; sin el abstract tampoco se puede evaluar el tamaño muestral, el tiempo de seguimiento ni los desenlaces medidos.\nMensaje: Aporta evidencia del mundo real sobre el uso de la terapia térmica intersticial con láser en tumores cerebrales, una opción a considerar en pacientes no candidatos a cirugía abierta.\nNota: análisis sin acceso al abstract."
     },
-    "25115d8a7399": {
-      "resumen": "Estudio del Journal of Clinical Oncology (Lynch RC et al.) que evalúa mosunetuzumab (un anticuerpo biespecífico que une CD20 y CD3, y así acerca a los linfocitos T al tumor) combinado, de forma adaptada a la respuesta, con polatuzumab vedotin (un conjugado anticuerpo-fármaco dirigido a CD79b) y obinutuzumab (un anticuerpo monoclonal anti-CD20), en pacientes sin tratamiento previo por linfoma no Hodgkin indolente de células B. Es el estudio destacado de la sección porque combina tres terapias dirigidas sin quimioterapia convencional en primera línea.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico publicado en el Journal of Clinical Oncology; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con linfoma no Hodgkin indolente de células B sin tratamiento previo (primera línea).\nIntervención: Mosunetuzumab (anticuerpo biespecífico CD20xCD3) combinado, con un esquema adaptado a la respuesta, con polatuzumab vedotin (conjugado anticuerpo-fármaco anti-CD79b) y obinutuzumab (anticuerpo monoclonal anti-CD20); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de seguridad de esta combinación libre de quimioterapia.\nMensaje: Explora una estrategia de primera línea sin quimioterapia convencional, combinando un anticuerpo biespecífico con un conjugado anticuerpo-fármaco y un anticuerpo anti-CD20, en un intento de mejorar la tolerancia sin resignar eficacia en linfoma indolente.\nNota: análisis sin acceso al abstract."
-    },
-    "8fc27912d9ea": {
-      "resumen": "Carta de respuesta (Reply) publicada en The New England Journal of Medicine sobre el uso de parches transdérmicos de estradiol (una forma de administrar estrógenos a través de la piel) en cáncer de próstata, en el marco de un intercambio de correspondencia científica sobre un estudio previo. Es una discusión entre autores, no un estudio nuevo, pero puede aclarar puntos metodológicos relevantes.",
-      "destacado": false
-    },
-    "cbac3321cff8": {
-      "resumen": "Carta publicada en The New England Journal of Medicine que comenta aspectos de un estudio sobre parches transdérmicos de estradiol (una forma de administrar estrógenos a través de la piel) como estrategia hormonal en cáncer de próstata. Es correspondencia científica, útil para entender los puntos en debate sobre esta terapia experimental.",
-      "destacado": false
-    },
-    "bdce99d01412": {
-      "resumen": "Vogue México repasa los diseños de uñas ochentosos que se impondrán como tendencia este otoño 2026."
-    },
-    "eb1b843195f9": {
-      "resumen": "Vogue México cuenta por qué unos premios de diseño dedicados a los perros se transformaron en la nueva obsesión del ambiente creativo."
-    },
-    "dc55f269dbd7": {
-      "resumen": "Una guía de Vogue México para combinar los pantalones a rayas estilo años 70 con sandalias, botas y tacos durante el verano 2026."
-    },
     "9f81ed977f67": {
       "resumen": "El Sol de México analiza el regreso de la moda de los años 70 y anticipa las prendas que serán tendencia en el otoño 2026."
     },
-    "850ef7992217": {
-      "resumen": "Teletrece presenta a Max Alexander, un niño prodigio de la moda de 10 años que visitó el vertedero de ropa en el desierto de Chile."
-    },
-    "c74807713181": {
-      "resumen": "Una selección de ocho bailarinas trenzadas de marcas como Parfois y H&M para dejar las sandalias en septiembre y adelantarse a las tendencias de otoño 2026."
-    },
     "0cf70999a88f": {
       "resumen": "Una agenda de actividades con perspectiva de diversidad sexual para disfrutar este fin de semana en Buenos Aires."
-    },
-    "2a6f4e4ee918": {
-      "resumen": "Margarita Ponce, una nena de 11 años oriunda de Salta, se consagró ganadora de la final del certamen de canto \"Es mi sueño\"."
-    },
-    "99e7be820673": {
-      "resumen": "Buenos Aires recibe por única vez un espectáculo con más de veinte tambores tradicionales japoneses, dentro del ciclo KYŌWA."
     },
     "2517a40606ad": {
       "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
@@ -101,6 +49,51 @@
     },
     "1812cd22ee91": {
       "resumen": "Un recorrido por cómo el tango sigue marcando el pulso cultural y social de Buenos Aires."
+    },
+    "18c5884b375e": {
+      "resumen": "Nota de OnLive con la opinión de un especialista sobre si conviene mantener el inhibidor de tirosina quinasa (TKI, fármaco que bloquea una enzima clave para el crecimiento tumoral) al pasar a la siguiente línea de tratamiento en cáncer de pulmón de células no pequeñas (NSCLC) con mutación del receptor del factor de crecimiento epidérmico (EGFR). Interesa porque es una decisión frecuente en la práctica diaria sin una respuesta única establecida."
+    },
+    "50b599f77bec": {
+      "resumen": "OnLive resume los datos del estudio KRASCENDO 170 sobre la combinación de divarasib (un inhibidor de KRAS G12C, mutación conductora presente en un subgrupo de cáncer de pulmón) con pembrolizumab (un inhibidor de punto de control inmunológico anti-PD-1) en cáncer de pulmón. Es relevante porque explora si sumar un inhibidor dirigido a la inmunoterapia mejora los resultados frente a cada estrategia por separado.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el nombre del estudio (KRASCENDO 170) se trataría de un ensayo clínico que evalúa una combinación de dos fármacos, sin datos de fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón (probablemente de células no pequeñas) con mutación KRAS G12C, dato no explicitado en el título.\nIntervención: Combinación de divarasib (inhibidor de KRAS G12C) con pembrolizumab (inhibidor de punto de control inmunológico anti-PD-1); el título no especifica un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el perfil de toxicidad de la combinación ni si alcanzó su objetivo primario.\nMensaje: Aporta datos sobre una estrategia de combinación dirigida más inmunoterapia en un subgrupo molecular específico de cáncer de pulmón, a confirmar con los resultados completos.\nNota: análisis sin acceso al abstract."
+    },
+    "c3bd75502866": {
+      "resumen": "Entrevista de OnLive a la Dra. Morillo sobre el perfil de seguridad de golcadomide (un fármaco inmunomodulador) en linfoma folicular recidivado o refractario (R/R, que reapareció o no respondió a tratamientos previos). Sirve para conocer los efectos adversos esperables de una droga en investigación para un linfoma indolente de difícil manejo cuando recae."
+    },
+    "cc3a2807e07f": {
+      "resumen": "The ASCO Post reporta que un programa de medicina integrativa digital (intervenciones de bienestar como actividad física, nutrición o apoyo psicológico entregadas por vía digital) mejoró la supervivencia global en pacientes que reciben tratamiento oncológico sistémico. Es una noticia destacada porque sugiere que intervenciones de apoyo, más allá del tratamiento antitumoral directo, podrían impactar en la sobrevida.",
+      "destacado": true,
+      "analisis": "Diseño: No precisado en el título; por el tema (programa de intervención comparado implícitamente contra su ausencia) es compatible con un estudio clínico prospectivo o un análisis de cohorte, sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes en tratamiento oncológico sistémico (quimioterapia, terapia dirigida o inmunoterapia), sin precisar tipo de tumor en el título.\nIntervención: Programa de medicina integrativa entregado por vía digital (probablemente incluye ejercicio, nutrición, manejo del estrés o apoyo psicológico), comparado presumiblemente con la atención estándar sin este programa.\nResultados: El título indica una mejora en la supervivencia global, sin cifras de razón de riesgo (HR), intervalo de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento, el riesgo de sesgos de selección (los pacientes que adhieren a programas de bienestar podrían diferir sistemáticamente de los que no) ni si el diseño permite inferir causalidad.\nMensaje: Si se confirma con datos maduros y diseño robusto, respaldaría incorporar programas de apoyo digital como complemento del tratamiento oncológico, aunque por ahora es una señal a interpretar con cautela.\nNota: análisis sin acceso al abstract."
+    },
+    "92e215865e5e": {
+      "resumen": "Artículo del Journal of Clinical Oncology (Lawrence BJ et al.) que analiza cómo ensayos clínicos pequeños en cánceres raros con biomarcadores raros pueden, o no, cambiar la práctica clínica. Interesa porque discute un problema metodológico central en oncología: cómo generar evidencia sólida cuando la población de pacientes es muy chica.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el enfoque (análisis de cómo ensayos pequeños impactan en la práctica) podría tratarse de un artículo de análisis secundario o de revisión metodológica sobre múltiples estudios, más que de un único ensayo clínico primario.\nPoblación: Pacientes con cánceres raros que presentan biomarcadores raros (alteraciones moleculares de baja frecuencia).\nIntervención: No es una intervención única; se analiza el impacto de ensayos clínicos pequeños (de bajo número de pacientes) sobre el cambio de práctica clínica.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si es un análisis cuantitativo de una serie de estudios o una discusión cualitativa; tampoco se puede evaluar la metodología usada para definir \"cambio de práctica\".\nMensaje: Aporta una reflexión relevante sobre cómo interpretar y aplicar en la práctica diaria la evidencia de ensayos pequeños en poblaciones raras, un escenario cada vez más frecuente con la fragmentación molecular del cáncer.\nNota: análisis sin acceso al abstract."
+    },
+    "8f11817faa48": {
+      "resumen": "Cosmopolitan selecciona siete vestidos, polleras y sandalias de Zara para lucir a fines de verano y seguir usando en septiembre."
+    },
+    "0b031e5cf830": {
+      "resumen": "Cosmopolitan destaca un vestido de encaje de Mango como la gran tendencia del otoño y da consejos para combinarlo."
+    },
+    "09804708d3a4": {
+      "resumen": "Harper's Bazaar señala que el corte de pelo bob que usó la reina Letizia en Mallorca en 2015 vuelve a ser furor este verano por elegante y favorecedor."
+    },
+    "4cba7fb2136f": {
+      "resumen": "Vogue España repasa los vestidos que se impondrán como tendencia en el otoño-invierno 2026/2027."
+    },
+    "541efeb823ea": {
+      "resumen": "Vogue España presenta a Loli Bahía dentro de su serie sobre las chicas que marcaron el verano de 2026."
+    },
+    "8c0ae68bbb61": {
+      "resumen": "Vogue España informa que el príncipe Harry y Meghan Markle podrían regresar a vivir al Reino Unido."
+    },
+    "6c50eec02248": {
+      "resumen": "Fernando Samartín presentará un espectáculo sinfónico en homenaje a Sandro en el Teatro Gran Rex de Buenos Aires."
+    },
+    "637b9e20f984": {
+      "resumen": "Dos obras de teatro de Buenos Aires llegarán al festival CEINA."
     }
   }
 }
