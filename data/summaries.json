@@ -1,37 +1,18 @@
 {
-  "generated_at": "2026-08-20T22:10:00Z",
+  "generated_at": "2026-08-21T10:08:49Z",
   "summaries": {
-    "0adfb0da8749": {
-      "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
+    "8a5045168322": {
+      "resumen": "OncLive reporta que golcadomide (un modulador de la enzima cereblon, de la familia de los fármacos inmunomoduladores) combinado con rituximab (anticuerpo monoclonal anti-CD20) generó respuestas duraderas en pacientes con linfoma folicular en recaída o refractario (R/R). Es relevante porque explora una nueva combinación para una enfermedad que suele recaer tras las terapias estándar.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por tratarse de un fármaco en desarrollo (golcadomide) es compatible con un ensayo clínico de fase temprana (fase 1 o 2), sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con linfoma folicular en recaída o refractario (R/R), es decir que progresaron luego de uno o más tratamientos previos.\nIntervención: Golcadomide combinado con rituximab; el título no especifica un brazo comparador.\nResultados: El título indica respuestas \"duraderas\", sin cifras de tasa de respuesta global, supervivencia libre de progresión, razón de riesgo ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni el perfil de toxicidad de la combinación.\nMensaje: Aporta una opción terapéutica en investigación para el linfoma folicular en recaída, a confirmar con datos maduros y comparación frente al estándar actual.\nNota: análisis sin acceso al abstract."
+    },
+    "32b4aedd1af5": {
+      "resumen": "OncLive analiza las diferencias mecanísticas entre el bloqueo de PD-1 (proteína de muerte celular programada 1) y PD-L1 (su ligando), dos dianas centrales de la inmunoterapia oncológica. Es relevante para entender por qué ciertos tumores responden distinto según qué molécula del eje se bloquee, más allá de la elección práctica entre fármacos disponibles.",
       "destacado": false
     },
-    "b503332f7b44": {
-      "resumen": "Guía viva de la Sociedad Americana de Oncología Clínica (ASCO) sobre inmunoterapia y terapias dirigidas en cáncer gastroesofágico avanzado, publicada en el Journal of Clinical Oncology. Sintetiza la evidencia disponible y ofrece recomendaciones de práctica clínica actualizadas, no es un estudio con resultados propios.",
+    "59b8151078f3": {
+      "resumen": "OncLive entrevista a la Dra. Jennifer B. Valerin sobre los avances en el tratamiento del cáncer de páncreas y el rol renovado de la irinotecán liposomal (formulación de este quimioterápico encapsulada en liposomas para mejorar su eficacia y tolerancia). Es útil como puesta al día desde la mirada de una especialista, sin datos de un estudio propio.",
       "destacado": false
-    },
-    "7b0eeafb3cc6": {
-      "resumen": "Estudio publicado en el Journal of Clinical Oncology (Leuthardt EC et al.) que analiza de forma prospectiva y multicéntrica a pacientes tratados con terapia térmica intersticial con láser (LITT, un procedimiento mínimamente invasivo que destruye tejido tumoral con calor guiado por resonancia magnética) para tumores cerebrales, dentro del registro LAANTERN. Interesa porque aporta datos de la vida real sobre una técnica poco invasiva alternativa a la cirugía abierta.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis prospectivo multicéntrico de pacientes incluidos en el registro LAANTERN; al ser un estudio de registro (no un ensayo clínico aleatorizado), el título no precisa el número de centros ni de pacientes.\nPoblación: Pacientes con tumores cerebrales tratados con terapia térmica intersticial con láser (LITT).\nIntervención: Terapia térmica intersticial con láser (LITT), un procedimiento mínimamente invasivo guiado por resonancia magnética; al ser un registro, no hay un brazo comparador definido.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Al ser un registro no aleatorizado, los resultados pueden estar sujetos a sesgos de selección; sin el abstract tampoco se puede evaluar el tamaño muestral, el tiempo de seguimiento ni los desenlaces medidos.\nMensaje: Aporta evidencia del mundo real sobre el uso de la terapia térmica intersticial con láser en tumores cerebrales, una opción a considerar en pacientes no candidatos a cirugía abierta.\nNota: análisis sin acceso al abstract."
-    },
-    "92e215865e5e": {
-      "resumen": "Artículo del Journal of Clinical Oncology (Lawrence BJ et al.) que analiza cómo ensayos clínicos pequeños en cánceres raros con biomarcadores raros pueden, o no, cambiar la práctica clínica. Interesa porque discute un problema metodológico central en oncología: cómo generar evidencia sólida cuando la población de pacientes es muy chica.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el enfoque (análisis de cómo ensayos pequeños impactan en la práctica) podría tratarse de un artículo de análisis secundario o de revisión metodológica sobre múltiples estudios, más que de un único ensayo clínico primario.\nPoblación: Pacientes con cánceres raros que presentan biomarcadores raros (alteraciones moleculares de baja frecuencia).\nIntervención: No es una intervención única; se analiza el impacto de ensayos clínicos pequeños (de bajo número de pacientes) sobre el cambio de práctica clínica.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si es un análisis cuantitativo de una serie de estudios o una discusión cualitativa; tampoco se puede evaluar la metodología usada para definir \"cambio de práctica\".\nMensaje: Aporta una reflexión relevante sobre cómo interpretar y aplicar en la práctica diaria la evidencia de ensayos pequeños en poblaciones raras, un escenario cada vez más frecuente con la fragmentación molecular del cáncer.\nNota: análisis sin acceso al abstract."
-    },
-    "09252df77b50": {
-      "resumen": "OncLive reporta que la vacuna de ADN pTVG-HP (una vacuna terapéutica que estimula al sistema inmune contra células prostáticas) prolongó la supervivencia global frente a placebo en pacientes con cáncer de próstata con recaída bioquímica (elevación del antígeno prostático específico, PSA, tras el tratamiento inicial). Es una noticia destacada porque un beneficio en supervivencia global es el resultado más sólido que puede mostrar un ensayo oncológico.",
-      "destacado": true,
-      "analisis": "Diseño: No precisado en el título; por la comparación contra placebo es compatible con un ensayo clínico aleatorizado y controlado, sin datos de cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata con recaída bioquímica, es decir, elevación del antígeno prostático específico (PSA) luego del tratamiento local inicial, sin enfermedad metastásica evidente por imágenes convencionales.\nIntervención: Vacuna de ADN pTVG-HP (vacuna terapéutica que induce una respuesta inmune dirigida contra la fosfatasa ácida prostática) comparada contra placebo.\nResultados: El título indica una prolongación de la supervivencia global frente a placebo, sin cifras de razón de riesgo (HR), intervalo de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si la diferencia fue estadísticamente significativa.\nMensaje: Si se confirma con los datos completos, respaldaría el uso de esta vacuna terapéutica como estrategia de intervención temprana en la recaída bioquímica del cáncer de próstata, un escenario donde hoy las opciones son limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "8b1d6a02dac2": {
-      "resumen": "OncLive informa que la agencia regulatoria estadounidense (FDA) otorgó la designación de vía rápida (Fast Track, un mecanismo que acelera el desarrollo y revisión de fármacos para necesidades médicas no cubiertas) a safusidenib para el glioma con mutación IDH1 (isocitrato deshidrogenasa 1, una alteración molecular frecuente en tumores cerebrales de bajo grado). Es relevante porque anticipa un desarrollo clínico más ágil para una droga dirigida en un subgrupo molecular específico.",
-      "destacado": false
-    },
-    "cd5cb6a7ed8d": {
-      "resumen": "OncLive repasa la evidencia creciente sobre la terapia con células T con receptor quimérico de antígeno (CAR T, linfocitos del propio paciente modificados genéticamente para atacar células tumorales) en el mieloma múltiple en recaída temprana. Interesa porque explora si esta terapia celular, hoy reservada para etapas más avanzadas, podría anticiparse en el curso de la enfermedad.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; el texto sugiere una nota de revisión o cobertura de datos de ensayos clínicos sobre células T con receptor quimérico de antígeno (CAR T) más que un único estudio primario, sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída temprana (tras una o pocas líneas de tratamiento previas).\nIntervención: Terapia con células T con receptor quimérico de antígeno (CAR T), sin brazo comparador explícito en el título.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si se trata de un ensayo clínico primario, un análisis conjunto de varios estudios o una nota de opinión especializada; tampoco hay datos de eficacia ni de toxicidad.\nMensaje: Refuerza el interés en adelantar el uso de la terapia CAR T a etapas más tempranas del mieloma múltiple en recaída, una tendencia a confirmar con ensayos aleatorizados maduros.\nNota: análisis sin acceso al abstract."
     },
     "cd419e7c76af": {
       "resumen": "The ASCO Post reporta datos sobre el uso combinado de quimioterapia, inmunoterapia y terapia dirigida en neoplasias malignas avanzadas y refractarias (que ya no responden a los tratamientos habituales). Es relevante porque explora alternativas terapéuticas para pacientes que agotaron las opciones estándar.",
@@ -48,6 +29,24 @@
       "destacado": false,
       "analisis": "Diseño: No precisado en el título; por el enfoque (asociación entre una variable socioeconómica agregada por condado y desenlaces oncológicos) es compatible con un estudio observacional o de cohorte basado en registros poblacionales, sin datos de número de centros ni de pacientes.\nPoblación: Adultos con diagnóstico reciente de cáncer en Estados Unidos, estratificados según el nivel de deuda médica del condado de residencia.\nIntervención: No hay una intervención propiamente dicha; se analiza la asociación entre la deuda médica a nivel de condado (como exposición) y el estadio al diagnóstico y la supervivencia (como desenlaces).\nResultados: El título indica una asociación entre mayor deuda médica y diagnóstico en estadios más avanzados y peor supervivencia, sin cifras de riesgo relativo, intervalo de confianza ni valor de p.\nLimitaciones: Al ser un estudio ecológico o de asociación, no permite establecer causalidad directa a nivel individual; sin el abstract tampoco se puede evaluar si se ajustó por otros factores socioeconómicos (acceso a cobertura, ingresos, raza) que podrían confundir la asociación.\nMensaje: Aporta evidencia sobre cómo las barreras económicas en salud pueden traducirse en peores desenlaces oncológicos, un argumento a favor de políticas que reduzcan la carga de deuda médica y mejoren el acceso a la detección temprana.\nNota: análisis sin acceso al abstract."
     },
+    "57c646afa2f2": {
+      "resumen": "Análisis secundario del ensayo EA1181/CompassHER2 publicado en el Journal of Clinical Oncology sobre la tasa de respuesta patológica completa (pCR, ausencia de tumor residual tras el tratamiento) y sus predictores en cáncer de mama HER2 positivo (con sobreexpresión del receptor HER2) tratado con un taxano, trastuzumab y pertuzumab. Es relevante porque identificar quién logra pCR ayuda a personalizar la intensidad del tratamiento neoadyuvante.",
+      "destacado": true,
+      "analisis": "Diseño: Análisis secundario del ensayo EA1181/CompassHER2 pCR; no se precisan en el título la aleatorización, el cegamiento ni el número de centros o de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer de mama HER2 positivo tratadas en el contexto neoadyuvante (previo a la cirugía) con un esquema basado en taxano, trastuzumab y pertuzumab.\nIntervención: Taxano combinado con los anticuerpos anti-HER2 trastuzumab y pertuzumab; el título no menciona un brazo comparador dentro de este subanálisis.\nResultados: El título indica que se evalúan la tasa de respuesta patológica completa (pCR) y sus predictores, sin cifras concretas de la tasa ni de los factores predictivos.\nLimitaciones: Al ser un análisis secundario, tiene menor poder estadístico que el ensayo principal y sus hallazgos son de carácter exploratorio; sin el abstract tampoco se puede evaluar el tamaño muestral de este subanálisis ni el ajuste por factores de confusión.\nMensaje: Podría ayudar a identificar qué pacientes con cáncer de mama HER2 positivo tienen mayor probabilidad de lograr respuesta patológica completa con este esquema neoadyuvante, un dato útil para discutir la desescalada o intensificación del tratamiento.\nNota: análisis sin acceso al abstract."
+    },
+    "92e215865e5e": {
+      "resumen": "Artículo del Journal of Clinical Oncology (Lawrence BJ et al.) que analiza cómo ensayos clínicos pequeños en cánceres raros con biomarcadores raros pueden, o no, cambiar la práctica clínica. Interesa porque discute un problema metodológico central en oncología: cómo generar evidencia sólida cuando la población de pacientes es muy chica.",
+      "destacado": false,
+      "analisis": "Diseño: No precisado en el título; por el enfoque (análisis de cómo ensayos pequeños impactan en la práctica) podría tratarse de un artículo de análisis secundario o de revisión metodológica sobre múltiples estudios, más que de un único ensayo clínico primario.\nPoblación: Pacientes con cánceres raros que presentan biomarcadores raros (alteraciones moleculares de baja frecuencia).\nIntervención: No es una intervención única; se analiza el impacto de ensayos clínicos pequeños (de bajo número de pacientes) sobre el cambio de práctica clínica.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si es un análisis cuantitativo de una serie de estudios o una discusión cualitativa; tampoco se puede evaluar la metodología usada para definir \"cambio de práctica\".\nMensaje: Aporta una reflexión relevante sobre cómo interpretar y aplicar en la práctica diaria la evidencia de ensayos pequeños en poblaciones raras, un escenario cada vez más frecuente con la fragmentación molecular del cáncer.\nNota: análisis sin acceso al abstract."
+    },
+    "0adfb0da8749": {
+      "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
+      "destacado": false
+    },
+    "b503332f7b44": {
+      "resumen": "Guía viva de la Sociedad Americana de Oncología Clínica (ASCO) sobre inmunoterapia y terapias dirigidas en cáncer gastroesofágico avanzado, publicada en el Journal of Clinical Oncology. Sintetiza la evidencia disponible y ofrece recomendaciones de práctica clínica actualizadas, no es un estudio con resultados propios.",
+      "destacado": false
+    },
     "0cf70999a88f": {
       "resumen": "Una agenda de actividades con perspectiva de diversidad sexual para disfrutar este fin de semana en Buenos Aires."
     },
@@ -57,32 +56,11 @@
     "28ef5973b5cb": {
       "resumen": "Una parrilla porteña fue distinguida entre los mejores restaurantes del mundo."
     },
-    "6479ac01a4b2": {
-      "resumen": "La Voz del Interior propone diez planes gratuitos para disfrutar Buenos Aires durante el fin de semana largo sin gastar dinero."
-    },
     "c77694601e44": {
       "resumen": "El Destape propone una ruta por los cinco mejores restaurantes porteños para disfrutar Pinot Noir."
     },
     "354546418a30": {
       "resumen": "Vogue repasa la colección otoño 2026 de prêt-à-porter que Alexander Wang presentó en la pasarela."
-    },
-    "06ef197b4a4b": {
-      "resumen": "Vogue México cuenta cómo cambia Houston a lo largo del año y cuál es el mejor momento para visitarla."
-    },
-    "7ebce2727e32": {
-      "resumen": "Vogue México explora el costado más creativo de Houston a través del arte, la moda, la gastronomía y el diseño."
-    },
-    "a6f252d7dd44": {
-      "resumen": "Grazia selecciona siete mocasines que serán tendencia en el otoño-invierno 2026."
-    },
-    "266454ccf4e9": {
-      "resumen": "Vogue México muestra, en su serie Dogue, cómo Bad Bunny comparte una cena junto a una tierna beagle."
-    },
-    "724bfa290954": {
-      "resumen": "Marie Claire España reúne seis tendencias accesibles de Lefties para la transición al otoño 2026."
-    },
-    "f903294e4841": {
-      "resumen": "Telva cuenta que las mujeres más elegantes del norte de España eligieron tres camperas de Zara que serán tendencia en otoño."
     },
     "d4f8f37f5e81": {
       "resumen": "Página|12 entrevista a Alejandro Poquet sobre su obra de teatro que reflexiona sobre el propio teatro."
@@ -98,6 +76,30 @@
     },
     "733b45ae015f": {
       "resumen": "Perfil reúne actividades gratuitas para chicos en la Ciudad y el Gran Buenos Aires durante el fin de semana largo por el Día del Niño."
+    },
+    "c833e23d7ec8": {
+      "resumen": "Diario Tiempo Digital reúne una selección de planes para hacer este fin de semana."
+    },
+    "4d2c8ee74373": {
+      "resumen": "HOLA descubre una versión económica del jersey azul furor en redes sociales, muy usado por las mujeres más estilosas."
+    },
+    "4d35db3a7bfc": {
+      "resumen": "HOLA presenta las zapatillas de Nike tendencia de la temporada de otoño, cómodas y en un color sorprendente."
+    },
+    "1803ca680ea4": {
+      "resumen": "La actriz Margaret Qualley lució en una alfombra roja unas llamativas sandalias 'barefoot' (de suela mínima, efecto descalzo) de Chanel."
+    },
+    "4b354972f281": {
+      "resumen": "Vogue España reflexiona sobre cómo la búsqueda de una vida idealizada en redes sociales nos hace perder de vista el disfrute de lo cotidiano."
+    },
+    "9c973957107d": {
+      "resumen": "Vogue España propone la pedicura azul como la tendencia veraniega y elegante que se puede seguir luciendo después de las vacaciones."
+    },
+    "52f9ed9862f4": {
+      "resumen": "Mujerhoy anticipa la tendencia inesperada en vestidos de invitada que se impondrá en las bodas de otoño, con cinco ejemplos que la confirman."
+    },
+    "91195789182d": {
+      "resumen": "Telva presenta una guía con los colores tendencia del otoño 2026 y consejos para combinarlos con estilo."
     }
   }
 }
