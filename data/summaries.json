@@ -1,33 +1,31 @@
 {
-  "generated_at": "2026-08-21T10:08:49Z",
+  "generated_at": "2026-08-21T22:06:43Z",
   "summaries": {
-    "8a5045168322": {
-      "resumen": "OncLive reporta que golcadomide (un modulador de la enzima cereblon, de la familia de los fármacos inmunomoduladores) combinado con rituximab (anticuerpo monoclonal anti-CD20) generó respuestas duraderas en pacientes con linfoma folicular en recaída o refractario (R/R). Es relevante porque explora una nueva combinación para una enfermedad que suele recaer tras las terapias estándar.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por tratarse de un fármaco en desarrollo (golcadomide) es compatible con un ensayo clínico de fase temprana (fase 1 o 2), sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con linfoma folicular en recaída o refractario (R/R), es decir que progresaron luego de uno o más tratamientos previos.\nIntervención: Golcadomide combinado con rituximab; el título no especifica un brazo comparador.\nResultados: El título indica respuestas \"duraderas\", sin cifras de tasa de respuesta global, supervivencia libre de progresión, razón de riesgo ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni el perfil de toxicidad de la combinación.\nMensaje: Aporta una opción terapéutica en investigación para el linfoma folicular en recaída, a confirmar con datos maduros y comparación frente al estándar actual.\nNota: análisis sin acceso al abstract."
-    },
-    "32b4aedd1af5": {
-      "resumen": "OncLive analiza las diferencias mecanísticas entre el bloqueo de PD-1 (proteína de muerte celular programada 1) y PD-L1 (su ligando), dos dianas centrales de la inmunoterapia oncológica. Es relevante para entender por qué ciertos tumores responden distinto según qué molécula del eje se bloquee, más allá de la elección práctica entre fármacos disponibles.",
+    "4d169d99813c": {
+      "resumen": "OncLive responde preguntas frecuentes sobre el manejo de primera línea del cáncer de mama triple negativo metastásico (TNBC, sin receptores de estrógeno, progesterona ni HER2). Sirve como puesta al día práctica sobre un subtipo agresivo con pocas dianas terapéuticas disponibles.",
       "destacado": false
     },
-    "59b8151078f3": {
-      "resumen": "OncLive entrevista a la Dra. Jennifer B. Valerin sobre los avances en el tratamiento del cáncer de páncreas y el rol renovado de la irinotecán liposomal (formulación de este quimioterápico encapsulada en liposomas para mejorar su eficacia y tolerancia). Es útil como puesta al día desde la mirada de una especialista, sin datos de un estudio propio.",
+    "e3653a28cec6": {
+      "resumen": "OncLive reúne la mirada de expertos sobre la terapia puente (bridging therapy), el tratamiento que se administra mientras se espera la infusión de células CAR-T (linfocitos T modificados genéticamente) en mieloma múltiple en recaída o refractario. Interesa porque el control de la enfermedad en esa espera condiciona el resultado final del CAR-T.",
       "destacado": false
     },
-    "cd419e7c76af": {
-      "resumen": "The ASCO Post reporta datos sobre el uso combinado de quimioterapia, inmunoterapia y terapia dirigida en neoplasias malignas avanzadas y refractarias (que ya no responden a los tratamientos habituales). Es relevante porque explora alternativas terapéuticas para pacientes que agotaron las opciones estándar.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el tema (evaluación de un esquema combinado en enfermedad refractaria) es compatible con un ensayo clínico, posiblemente de fase temprana o un estudio tipo canasta (basket trial), sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con neoplasias malignas avanzadas y refractarias, es decir, que progresaron a los tratamientos estándar disponibles, sin precisar el tipo de tumor en el título.\nIntervención: Combinación de quimioterapia, inmunoterapia y terapia dirigida; el título no especifica el esquema exacto ni un brazo comparador.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la heterogeneidad tumoral incluida ni el perfil de toxicidad de la combinación.\nMensaje: Aporta una opción a considerar en pacientes con enfermedad refractaria que agotaron líneas estándar, a confirmar con los resultados completos y su perfil de seguridad.\nNota: análisis sin acceso al abstract."
+    "b29d9d747381": {
+      "resumen": "OncLive analiza, con opinión de especialistas, la importancia de la derivación temprana y la coordinación del cuidado en mieloma múltiple en recaída o refractario. Relevante porque el acceso oportuno a centros especializados puede definir la elegibilidad para terapias avanzadas como el CAR-T.",
+      "destacado": false
     },
-    "7bd7dcb8f739": {
-      "resumen": "The ASCO Post reporta que una intervención personalizada para bajar de peso mostró beneficios en sobrevivientes de cáncer de mama. Es relevante porque el control del peso corporal se asocia con menor riesgo de recurrencia y mejor pronóstico a largo plazo en esta población.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; el uso de la palabra \"Study\" y el carácter \"personalizado\" de la intervención sugieren un ensayo clínico o un estudio de intervención prospectivo, sin datos de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Sobrevivientes de cáncer de mama, sin precisar estadio, tiempo desde el diagnóstico ni índice de masa corporal basal en el título.\nIntervención: Intervención personalizada para el descenso de peso (probablemente con componentes de dieta y actividad física adaptados a cada paciente); el título no especifica un brazo comparador.\nResultados: El título indica que el estudio \"respalda\" la intervención, sin cifras de descenso de peso, desenlaces oncológicos ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la adherencia a la intervención ni si se midieron desenlaces oncológicos duros (recurrencia, supervivencia) o solo antropométricos.\nMensaje: Refuerza el rol de las intervenciones de estilo de vida personalizadas como complemento del seguimiento oncológico en sobrevivientes de cáncer de mama, aunque el impacto sobre desenlaces oncológicos duros requiere confirmación.\nNota: análisis sin acceso al abstract."
+    "76c25755b720": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) abrió una consulta pública sobre el marco regulatorio para dispositivos médicos con inteligencia artificial generativa. Importa porque este tipo de herramientas empieza a usarse en diagnóstico y planificación oncológica.",
+      "destacado": false
     },
-    "5b0d53e48068": {
-      "resumen": "The ASCO Post reporta que un mayor nivel de deuda médica a nivel de condado en Estados Unidos se asoció con diagnósticos de cáncer en estadios más avanzados y peor supervivencia en adultos recién diagnosticados. Es relevante porque muestra cómo un factor económico y social puede impactar directamente en los resultados oncológicos.",
+    "bf47386ea282": {
+      "resumen": "The ASCO Post reporta un estudio que halló mayor mortalidad por cáncer relacionado con radiación en pilotos y tripulantes de cabina, población expuesta de forma crónica a radiación cósmica por la altitud de vuelo. Es un dato relevante sobre riesgo oncológico ocupacional a largo plazo.",
       "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el enfoque (asociación entre una variable socioeconómica agregada por condado y desenlaces oncológicos) es compatible con un estudio observacional o de cohorte basado en registros poblacionales, sin datos de número de centros ni de pacientes.\nPoblación: Adultos con diagnóstico reciente de cáncer en Estados Unidos, estratificados según el nivel de deuda médica del condado de residencia.\nIntervención: No hay una intervención propiamente dicha; se analiza la asociación entre la deuda médica a nivel de condado (como exposición) y el estadio al diagnóstico y la supervivencia (como desenlaces).\nResultados: El título indica una asociación entre mayor deuda médica y diagnóstico en estadios más avanzados y peor supervivencia, sin cifras de riesgo relativo, intervalo de confianza ni valor de p.\nLimitaciones: Al ser un estudio ecológico o de asociación, no permite establecer causalidad directa a nivel individual; sin el abstract tampoco se puede evaluar si se ajustó por otros factores socioeconómicos (acceso a cobertura, ingresos, raza) que podrían confundir la asociación.\nMensaje: Aporta evidencia sobre cómo las barreras económicas en salud pueden traducirse en peores desenlaces oncológicos, un argumento a favor de políticas que reduzcan la carga de deuda médica y mejoren el acceso a la detección temprana.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: No precisado en el título; por el tipo de hallazgo (comparación de mortalidad por cáncer en una población ocupacional) es compatible con un estudio de cohorte retrospectivo o un análisis de mortalidad ocupacional, sin datos de aleatorización ni de número de centros o de participantes.\nPoblación: Pilotos y tripulantes de cabina (tripulación de vuelo), grupo con exposición ocupacional crónica a radiación cósmica por la altitud de vuelo.\nIntervención: No hay intervención; se compara la mortalidad por cáncer relacionado con radiación en esta cohorte frente a la población general u otro grupo de referencia.\nResultados: El título indica una mortalidad \"elevada\" por cáncer relacionado con radiación, sin cifras de riesgo relativo, intervalo de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el ajuste por otros factores de riesgo (tabaquismo, exposición solar, antecedentes personales), el tiempo de seguimiento ni el tamaño de la cohorte.\nMensaje: Refuerza la importancia de vigilar el riesgo oncológico ocupacional en tripulaciones de vuelo y de sostener las medidas de protección radiológica en esta población.\nNota: análisis sin acceso al abstract."
+    },
+    "340baeee66c8": {
+      "resumen": "El ensayo INTerpath-001 evaluó una terapia individualizada basada en ARN mensajero (ARNm) dirigida a neoantígenos (proteínas mutadas específicas de cada tumor) en pacientes con melanoma de alto riesgo resecado, y alcanzó su objetivo principal y objetivos secundarios clave. Es un hito porque representa una de las primeras vacunas oncológicas personalizadas con resultados positivos en un ensayo de fase avanzada.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico que reporta el cumplimiento del criterio de valoración principal y de criterios secundarios clave; el título no precisa la fase, la aleatorización, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes con melanoma de alto riesgo en estadio resecado (contexto posquirúrgico/adyuvante).\nIntervención: Terapia individualizada basada en ARN mensajero dirigida a neoantígenos (vacuna oncológica personalizada); el título no especifica el brazo comparador.\nResultados: El título indica que se cumplieron el criterio de valoración principal y criterios secundarios clave, sin cifras de supervivencia libre de recurrencia, razón de riesgo, intervalo de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del trabajo no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de eventos adversos de la vacuna.\nMensaje: Si se confirma con los datos completos, podría consolidar el rol de las vacunas de ARNm personalizadas como parte del tratamiento adyuvante del melanoma de alto riesgo, un área en rápida evolución.\nNota: análisis sin acceso al abstract."
     },
     "57c646afa2f2": {
       "resumen": "Análisis secundario del ensayo EA1181/CompassHER2 publicado en el Journal of Clinical Oncology sobre la tasa de respuesta patológica completa (pCR, ausencia de tumor residual tras el tratamiento) y sus predictores en cáncer de mama HER2 positivo (con sobreexpresión del receptor HER2) tratado con un taxano, trastuzumab y pertuzumab. Es relevante porque identificar quién logra pCR ayuda a personalizar la intensidad del tratamiento neoadyuvante.",
@@ -47,59 +45,59 @@
       "resumen": "Guía viva de la Sociedad Americana de Oncología Clínica (ASCO) sobre inmunoterapia y terapias dirigidas en cáncer gastroesofágico avanzado, publicada en el Journal of Clinical Oncology. Sintetiza la evidencia disponible y ofrece recomendaciones de práctica clínica actualizadas, no es un estudio con resultados propios.",
       "destacado": false
     },
-    "0cf70999a88f": {
-      "resumen": "Una agenda de actividades con perspectiva de diversidad sexual para disfrutar este fin de semana en Buenos Aires."
+    "0ba60600f3dc": {
+      "resumen": "Vogue repasa la colección primavera 2026 de prêt-à-porter que la firma australiana Romance Was Born presentó en la pasarela."
     },
-    "2517a40606ad": {
-      "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
+    "fa017dc2c705": {
+      "resumen": "Vogue repasa la colección otoño 2026 de prêt-à-porter que Simon Miller presentó en la pasarela."
     },
-    "28ef5973b5cb": {
-      "resumen": "Una parrilla porteña fue distinguida entre los mejores restaurantes del mundo."
+    "2b5c4ce636ec": {
+      "resumen": "Vogue México comparte tres recetas caseras con aceite de coco para lucir un cabello más sano y brillante."
     },
-    "c77694601e44": {
-      "resumen": "El Destape propone una ruta por los cinco mejores restaurantes porteños para disfrutar Pinot Noir."
+    "398a5824b504": {
+      "resumen": "ELLE adelanta que los zapatos rojos, según la diseñadora Sassa de Osma, serán una de las tendencias del otoño 2026."
     },
-    "354546418a30": {
-      "resumen": "Vogue repasa la colección otoño 2026 de prêt-à-porter que Alexander Wang presentó en la pasarela."
+    "3b43f7573414": {
+      "resumen": "La modelo Vanesa Lorenzo protagoniza la portada de septiembre de InStyle, con un adelanto en video de las tendencias de otoño."
     },
-    "d4f8f37f5e81": {
-      "resumen": "Página|12 entrevista a Alejandro Poquet sobre su obra de teatro que reflexiona sobre el propio teatro."
+    "68a8d3f781b8": {
+      "resumen": "Vogue México anticipa que los jeans bordados, a mitad de camino entre el estilo boho y la alta costura, serán tendencia en el otoño 2026."
     },
-    "9d1ab6ebe74d": {
-      "resumen": "Zona Norte Hoy reúne los planes imperdibles para disfrutar el fin de semana en la Ciudad de Buenos Aires."
+    "0d2b4a93fc92": {
+      "resumen": "Vogue México explica por qué caminar al estilo del taichí trae beneficios para el cuerpo y la mente."
     },
-    "e06075e03701": {
-      "resumen": "El Tango BA Festival y Mundial 2026 arrancó en Buenos Aires con una gran fiesta cultural que reúne a más de dos mil artistas en escena."
+    "885c57e160a5": {
+      "resumen": "InStyle presenta el rubio mantequilla como el tono de coloración que se impondrá en el otoño/invierno 2026."
     },
-    "911f07270bb0": {
-      "resumen": "Nota al Pie repasa la agenda cultural porteña, con \"Fransia\", música nacional, teatro y cine, entre otras propuestas."
+    "452e6494d4dd": {
+      "resumen": "Un amigo cercano de Sofía Gala reveló detalles de su relación con el músico Fito Páez, tras trascender que la pareja habría decidido separarse."
     },
-    "733b45ae015f": {
-      "resumen": "Perfil reúne actividades gratuitas para chicos en la Ciudad y el Gran Buenos Aires durante el fin de semana largo por el Día del Niño."
+    "a505cd2f8dd4": {
+      "resumen": "La actriz y productora Nazarena Vélez presenta su nueva obra, una comedia que invita a ponerse en el lugar del otro."
+    },
+    "57f0f4d4095d": {
+      "resumen": "El Teatro Colón ofrecerá en transmisión gratuita el concierto de la Filarmónica de Buenos Aires."
+    },
+    "4e12ce1bb25a": {
+      "resumen": "Revista OHLALÁ! propone planes porteños para el fin de semana: el Festival y Mundial de Tango, gastronomía y teatro de lujo."
+    },
+    "df497db4ff5c": {
+      "resumen": "Urgente24 reúne los planes del fin de semana en el área metropolitana: el Mundial de Tango, la Feria Francesa, los 21K de Buenos Aires y más."
+    },
+    "4f0b8458c8b0": {
+      "resumen": "FM Universo 97.3 reúne más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine y actividades gratuitas."
+    },
+    "07f8685c9347": {
+      "resumen": "Forbes Argentina recomienda tres restaurantes porteños donde la carne es la gran protagonista."
     },
     "c833e23d7ec8": {
       "resumen": "Diario Tiempo Digital reúne una selección de planes para hacer este fin de semana."
     },
-    "4d2c8ee74373": {
-      "resumen": "HOLA descubre una versión económica del jersey azul furor en redes sociales, muy usado por las mujeres más estilosas."
+    "c77694601e44": {
+      "resumen": "El Destape propone una ruta por los cinco mejores restaurantes porteños para disfrutar Pinot Noir."
     },
-    "4d35db3a7bfc": {
-      "resumen": "HOLA presenta las zapatillas de Nike tendencia de la temporada de otoño, cómodas y en un color sorprendente."
-    },
-    "1803ca680ea4": {
-      "resumen": "La actriz Margaret Qualley lució en una alfombra roja unas llamativas sandalias 'barefoot' (de suela mínima, efecto descalzo) de Chanel."
-    },
-    "4b354972f281": {
-      "resumen": "Vogue España reflexiona sobre cómo la búsqueda de una vida idealizada en redes sociales nos hace perder de vista el disfrute de lo cotidiano."
-    },
-    "9c973957107d": {
-      "resumen": "Vogue España propone la pedicura azul como la tendencia veraniega y elegante que se puede seguir luciendo después de las vacaciones."
-    },
-    "52f9ed9862f4": {
-      "resumen": "Mujerhoy anticipa la tendencia inesperada en vestidos de invitada que se impondrá en las bodas de otoño, con cinco ejemplos que la confirman."
-    },
-    "91195789182d": {
-      "resumen": "Telva presenta una guía con los colores tendencia del otoño 2026 y consejos para combinarlos con estilo."
+    "2517a40606ad": {
+      "resumen": "Una guía con los restaurantes porteños donde se puede disfrutar de pesca blanca."
     }
   }
 }
