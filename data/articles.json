@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T10:45:20.634106+00:00",
+ "generated_at": "2026-08-23T13:07:00.618236+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -36,10 +36,10 @@
     },
     {
      "title": "FDA Seeks Public Input Relating to Regulatory Considerations for Generative AI–Enabled Medical Devices",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONm9qM3lnZ3czSDJNTmFFcl9DelJQZEhLUE1pSGkzUHVsVElDY2tSeFVnY2NLOXMzWnMzZUR3VEVDX3IxVXlnM2tfbEd5Z0lqSzQxR25YaVo2dklneU1nT0w4UW9jZ2llUlkxRGQ1MFZXRWdwZ09WVlJSZXRkazFUcW8xSlBMZEpsaUNqQU9lcWxXczBoakFnSW9NNGJlczk4TzlMTllQdENUYXZVWlB0YWFobXU2TmxwQ0Z3WHlDc1M1Wkx3a3Axbk5VdVEtVlpzVUJid094bw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOW1ZTlhFQV9wNHNtMEtrcnVyUGhJRFpzZU02YkkyUGJCVmRROUhXOG9BV0tJeTNBZTY2TldncGwtTlhVUHd3QVpYa3hxMnZnZXBSMzlNWjB5ckdxWVNYbU51UlRkNTh1UmREdXpkbEdZcWRJTVRVTlFUX1JFTmJJakxOeHhiVmxwU25EbnhMUFhVWHlvUnJvSEs4RjN1QmxIQm81dW5UbjhXUE8tTnUyQWlvVkNVVk5KNVY2WmpQd0w0M1pjUWZ0QVg1NjJoVUMxcHN6YmY1U2I?oc=5",
      "source": "The ASCO Post",
      "published": "2026-08-21T14:59:22+00:00",
-     "id": "be3603b16348"
+     "id": "76c25755b720"
     },
     {
      "title": "Pilots and Flight Attendants Show Elevated Radiation-Related Cancer Mortality",
@@ -57,28 +57,44 @@
      "id": "57c646afa2f2"
     },
     {
+     "title": "Federal and Industry Sponsorship in US Cancer Clinical Trials",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623089/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Unger JM et al. · JAMA oncology",
+     "id": "c0614db257d2"
+    },
+    {
+     "title": "Trends in Meningioma Incidence, Treatment, and Imaging Surveillance",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623066/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Korshøj AR et al. · JAMA oncology",
+     "id": "d3dd774f600d"
+    },
+    {
+     "title": "Racial and Ethnic Disparities in US Colorectal Cancer Mortality by County, Sex, and Age",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623048/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "GBD US Health Disparities Collaborators et al. · JAMA oncology",
+     "id": "bdcfb6cd5d73"
+    },
+    {
+     "title": "Concerns Regarding NSCLC Immunoradiotherapy Study Interpretability",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623047/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Xiang J et al. · JAMA oncology",
+     "id": "94fd6115ce83"
+    },
+    {
      "title": "Practice Change Following Small Trials in Rare Cancers With Rare Biomarkers",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42617140/",
      "source": "Journal of Clinical Oncology",
      "published": "2026-08-19T00:00:00+00:00",
      "copete": "Lawrence BJ et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "92e215865e5e"
-    },
-    {
-     "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.3",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42607282/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-17T00:00:00+00:00",
-     "copete": "Wheatley Price P et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "0adfb0da8749"
-    },
-    {
-     "title": "Immunotherapy and Targeted Therapy for Advanced Gastroesophageal Cancer: ASCO Living Guideline, Version 2026.1.2",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42607281/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-17T00:00:00+00:00",
-     "copete": "Shah MA et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "b503332f7b44"
     }
    ]
   },
@@ -91,15 +107,23 @@
      "title": "Romance Was Born Spring 2026 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/romance-was-born",
      "source": "Vogue",
-     "published": "2026-08-23T10:43:14+00:00",
+     "published": "2026-08-23T13:06:08+00:00",
      "id": "0ba60600f3dc"
     },
     {
      "title": "Simon Miller Fall 2026 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/simon-miller",
      "source": "Vogue",
-     "published": "2026-08-23T10:43:14+00:00",
+     "published": "2026-08-23T13:06:08+00:00",
      "id": "fa017dc2c705"
+    },
+    {
+     "title": "A First Look At Sézane’s “New Era” Autumn Collection",
+     "link": "https://www.vogue.com/article/sezane-new-in",
+     "source": "Vogue",
+     "published": "2026-08-23T13:00:00+00:00",
+     "copete": "Vogue hears from Sézane founder Morgane Sezalory about the brand’s new era. Expect trenches, denim and suede accessories aplenty.",
+     "id": "f4bdb0ecf306"
     },
     {
      "title": "La gatita que es tendencia y las famosas llevan en microbikinis y looks de nieve",
@@ -115,14 +139,6 @@
      "published": "2026-08-23T10:00:00+00:00",
      "copete": "An Airbnb in Morocco gives you lots of space, privacy, and (if you book one of our favorite riads) unique architectural charm. Here, seven favorites.",
      "id": "361a493ddebd"
-    },
-    {
-     "title": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival",
-     "link": "https://www.vogue.com/slideshow/20-times-italian-bombshells-ruled-the-venice-film-festival",
-     "source": "Vogue",
-     "published": "2026-08-23T10:00:00+00:00",
-     "copete": "From Sophia Loren to Monica Bellucci, we look back at the Venice Film Festival’s most stylish attendees from decades past.",
-     "id": "5a1e9d6cf716"
     },
     {
      "title": "10 claves de estilo para llevar antes que nadie las tendencias de nueva temporada y vestir este otoño de forma impecable",
@@ -166,6 +182,22 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Murió a los 31, hizo de argentino y fue el primer latin lover: adelantó Párense de Manos y 100.000 personas fueron a su funeral",
+     "link": "https://www.clarin.com/espectaculos/murio-31-hizo-argentino-primer-latin-lover-adelanto-parense-manos-100000-personas-funeral_0_PdxSFyd81r.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-23T11:13:10+00:00",
+     "copete": "Valentino fue el actor más deseado de Hollywood: escándalos, duelos y rumores sobre su sexualidad. La historia de la primera estrella mundial que impuso moda y estilo: los hombres copiaban su look y las mujeres lo adoraban.",
+     "id": "c66f977aa244"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 23 de agosto de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-23-de-agosto-de-2026-en-argentina_0_pqKsADNLQF.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-08-23T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "2206fc0ac213"
+    },
     {
      "title": "Brenda Asnicar y Laura Esquivel: el mito de la rivalidad en Patito Feo y por qué ya no se identifican con el nombre de la serie ni de sus personajes",
      "link": "https://www.clarin.com/espectaculos/brenda-asnicar-laura-esquivel-mito-rivalidad-patito-feo-identifican-nombre-serie-personajes_0_2dxxQn3S5Z.html",
@@ -245,22 +277,6 @@
      "published": "2026-08-23T03:39:21+00:00",
      "copete": "La conductora lució un elegante diseño en negro y, durante la cena, habló sobre la posibilidad de llevar su historia a la pantalla",
      "id": "9b9518b05145"
-    },
-    {
-     "title": "Contra el buen cine no hay revelación anticipada que pueda arruinarlo",
-     "link": "https://www.lanacion.com.ar/espectaculos/contra-el-buen-cine-no-hay-revelacion-anticipada-que-pueda-arruinarlo-nid23082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-23T03:28:00+00:00",
-     "copete": "El alerta constante en contra de conocer la trama de un film antes de verlo se convirtió en una pesadilla de época; no obstante, suele ser sólo una herramienta de marketing",
-     "id": "522672dfeacf"
-    },
-    {
-     "title": "La muerte de Hayden Panettiere: su cuñado reveló cómo fueron las últimas horas de la actriz",
-     "link": "https://www.clarin.com/espectaculos/muerte-hayden-panettiere-cunado-revelo-ultimas-horas-actriz_0_5eSo5TBFaV.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-08-22T19:44:42+00:00",
-     "copete": "La actriz murió el domingo 16 de agosto, a los 36 años, y la investigación continúa abierta. El hermano de su expareja contó qué ocurrió cuando la encontró inconsciente junto a Brian Hickerson.",
-     "id": "592b4336eefe"
     }
    ]
   },
@@ -347,84 +363,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los “cajeritos”, las empresas de juego clandestino llegan a usar menores como intermediarios",
-     "link": "https://www.lanacion.com.ar/politica/los-cajeritos-las-empresas-de-juego-clandestino-llegan-a-usar-menores-como-intermediarios-nid23082026/",
+     "title": "Las predicciones de Jimena La Torre: conocé tu horóscopo para la semana del 23 al 30 de agosto",
+     "link": "https://www.lanacion.com.ar/horoscopo/las-predicciones-de-jimena-la-torre-conoce-tu-horoscopo-para-la-semana-del-23-al-30-de-agosto-nid23082026/",
      "source": "La Nación",
-     "published": "2026-08-23T10:41:56+00:00",
-     "copete": "Cuentas a nombre de menores de edad recibieron pagos a cambio de dar crédito para apuestas online, según detectó LA NACION en documentos judiciales; un padre aseguró que el hijo abrió sin su autorización la cuenta bancaria que usaba para…",
-     "id": "998b0cb037d2"
+     "published": "2026-08-23T13:01:14+00:00",
+     "copete": "Descubrí las claves de lo que le depara a los diferentes signos del Zodíaco para estos siete días; cuál es la carta de la suerte de cada uno",
+     "id": "84fab145342c"
     },
     {
-     "title": "¿Se adelantó el nerviosismo electoral? Los bonos argentinos empiezan a incorporar el riesgo por las elecciones de 2027",
-     "link": "https://www.lanacion.com.ar/economia/se-adelanto-el-nerviosismo-electoral-los-bonos-argentinos-empiezan-a-incorporar-el-riesgo-por-las-nid23082026/",
+     "title": "“Perdimos nuestra casa”: la gobernadora de Arizona reveló el duro momento que vivió con su esposo en la crisis de 2008",
+     "link": "https://www.lanacion.com.ar/estados-unidos/arizona/perdimos-nuestra-casa-la-gobernadora-de-arizona-revelo-el-duro-momento-que-vivio-junto-a-su-esposo-nid23082026/",
      "source": "La Nación",
-     "published": "2026-08-23T10:35:13+00:00",
-     "copete": "Los expertos afirman que apareció en el mercado una mayor cautela debido a la incertidumbre que genera el escenario político; eso ya se observa, dicen, en los movimientos de los papeles argentinos y en las tasas de interés",
-     "id": "3c7a1c3a21ff"
+     "published": "2026-08-23T13:00:00+00:00",
+     "copete": "La gobernadora de Arizona reveló que perdió su casa en la crisis de 2008: descubre la vivencia personal de Katie Hobbs y la influencia en su agenda.",
+     "id": "69001c91607b"
     },
     {
-     "title": "Para mayores de 40: con mente de principiante, la revolución de los que se animan a ser novatos",
-     "link": "https://www.lanacion.com.ar/salud/para-mayores-de-40-con-mente-de-principiante-la-revolucion-de-los-que-se-animan-a-ser-novatos-nid23082026/",
+     "title": "Fórmula 1: Mark Sutton, el fotógrafo oficial que vio debutar a Ayrton Senna, hace imágenes espectaculares y es leyenda en lo suyo",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/formula-1-mark-sutton-el-fotografo-oficial-que-vio-debutar-a-ayrton-senna-hace-imagenes-nid23082026/",
      "source": "La Nación",
-     "published": "2026-08-23T10:33:00+00:00",
-     "copete": "Un movimiento global en crecimiento invita a adultos exitosos a buscar una actividad que los saque de su lugar de autoridad y les genere un verdadero desafío; testimonios de los que se suman a esta tendencia",
-     "id": "48482f3b7428"
+     "published": "2026-08-23T12:59:58+00:00",
+     "copete": "Inglés de 61 años, lleva 42 cubriendo la máxima categoría; Finlandés Volador, Hoja de Arce y Panzazo están entre sus placas célebres",
+     "id": "849b495d1f90"
     },
     {
-     "title": "Una tarde de abrazos en el Ministerio y la nueva cacería en tres paraísos fiscales",
-     "link": "https://www.lanacion.com.ar/economia/una-tarde-de-abrazos-en-el-ministerio-y-la-nueva-caceria-en-tres-paraisos-fiscales-nid23082026/",
-     "source": "La Nación",
-     "published": "2026-08-23T10:26:52+00:00",
-     "copete": "Caputo gana peso en la política con acuerdos que combinan subsidios, votos y concesiones; las medidas en juego para empujar la economía sin caer en el manual keynesiano",
-     "id": "385865a68bf7"
-    },
-    {
-     "title": "Este domingo seis provincias están bajo alerta por frío extremo: qué precauciones tener en cuenta",
-     "link": "https://www.infobae.com/sociedad/2026/08/23/este-domingo-seis-provincias-estaran-bajo-alerta-por-frio-extremo-que-precauciones-tener-en-cuenta/",
+     "title": "Por qué el cuerpo absorbe menos vitamina B12 después de los 50 años y cuáles son los alimentos que ayudan a incorporarla",
+     "link": "https://www.infobae.com/salud/2026/08/23/por-que-el-cuerpo-absorbe-menos-vitamina-b12-despues-de-los-50-anos-y-cuales-son-los-alimentos-que-ayudan-a-incorporarla/",
      "source": "Infobae",
-     "published": "2026-08-23T10:09:30+00:00",
-     "copete": "Tras el ingreso de una masa de aire polar, el SMN difundió recomendaciones preventivas ante el descenso térmico previsto para distintas zonas de Argentina",
-     "id": "4e0ec476e38a"
+     "published": "2026-08-23T12:58:18+00:00",
+     "copete": "Distintos nutricionistas consultados por Men’s Health explicaron cómo los cambios del envejecimiento pueden modificar el aprovechamiento de este nutriente y señalaron las opciones de la dieta que pueden contribuir a cubrir los…",
+     "id": "002cb7640be6"
     },
     {
-     "title": "Dólar MEP hoy: a cuánto cotiza este domingo 23 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-domingo-23-agosto_0_cV5SxPKpnk.html",
-     "source": "Clarín",
-     "published": "2026-08-23T10:05:06+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar MEP hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-     "id": "ccaa9654d0ca"
+     "title": "Erling Haaland se rapó y le dijo adiós a su mítica melena rubia",
+     "link": "https://www.lanacion.com.ar/deportes/erling-haaland-se-rapo-y-le-dijo-adios-a-su-mitica-melena-rubia-nid23082026/",
+     "source": "La Nación",
+     "published": "2026-08-23T12:58:01+00:00",
+     "copete": "El delantero de Noruega y el Manchester City se cortó el pelo y dejó a todos sin palabras tras su radical cambio de look; mostró el resultado en las redes",
+     "id": "4a13aef9ffb8"
     },
     {
-     "title": "Si querés llorar, llorá: Javier Milei no se mueve de su plan, desafía a todos y hay gente muy nerviosa",
-     "link": "https://www.clarin.com/politica/queres-llorar-llora-javier-milei-mueve-plan-desafia-gente-nerviosa_0_7wE3RNO8gS.html",
-     "source": "Clarín",
-     "published": "2026-08-23T10:01:09+00:00",
-     "copete": "Los encuentros privados del Presidente, sus reacciones y la discusión por el modelo económico.",
-     "id": "64340d0ebc93"
-    },
-    {
-     "title": "Media Maratón de Buenos Aires: a qué hora larga, recorrido y calles cortadas",
-     "link": "https://www.infobae.com/tendencias/2026/08/23/media-maraton-de-buenos-aires-a-que-hora-larga-recorrido-y-calles-cortadas/",
+     "title": "Franco Colapinto larga en el puesto 14 el Gran Premio de los Países Bajos de la Fórmula 1",
+     "link": "https://www.infobae.com/deportes/2026/08/23/franco-colapinto-largara-en-el-puesto-14-el-gran-premio-de-los-paises-bajos-de-la-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
      "source": "Infobae",
-     "published": "2026-08-23T09:52:09+00:00",
-     "copete": "Con más de 31.000 corredores, la competencia de 21K se disputará desde las 8 en Palermo. Pondrá en escena a deportistas de élite, atletas amateurs y un esquema logístico que impactará sobre varias arterias porteñas",
-     "id": "a32f9c79c038"
+     "published": "2026-08-23T12:50:07+00:00",
+     "copete": "El piloto argentino completó un buen trabajo en la clasificación sin las actualizaciones que tuvo Pierre Gasly (11°) en su Alpine. Lando Norris saldrá desde la pole",
+     "id": "0c31b2bcac5d"
     },
     {
-     "title": "El campo que viene, en Visión 360°: producción, innovación y valor en la nueva economía",
-     "link": "https://www.clarin.com/economia/campo-viene-vision-360-produccion-innovacion-valor-nueva-economia_0_FwdHyGELVA.html",
-     "source": "Clarín",
-     "published": "2026-08-23T09:37:08+00:00",
-     "copete": "El panorama del agro estará en la mesa de debate del ciclo de Clarín, que se transmitirá este martes a las 19 en Clarín.com. Representantes del sector repasarán las cuestiones vinculadas a la sustentabilidad y la competitividad.",
-     "id": "d22aa3f01819"
+     "title": "Qué expresa el color de las uñas, según una neuropsicóloga",
+     "link": "https://www.infobae.com/tendencias/2026/08/23/que-expresa-el-color-de-las-unas-segun-una-neuropsicologa/",
+     "source": "Infobae",
+     "published": "2026-08-23T12:49:48+00:00",
+     "copete": "La elección del esmalte no define la personalidad, pero puede funcionar como una forma de expresión, de acuerdo con especialistas y estudios internacionales",
+     "id": "fd5b03acf6d5"
     },
     {
-     "title": "Marc Márquez, 33 años: ''Me despierto a las 8 de la mañana. Desayuno avena o tostadas de pavo con aguacate y café y después entreno''",
-     "link": "https://www.clarin.com/internacional/marc-marquez-33-anos-despierto-8-manana-desayuno-avena-tostadas-pavo-aguacate-cafe-despues-entreno_0_G8KLRaHyri.html",
+     "title": "Dónde ver todas las películas de “La noche del demonio”",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/23/donde-ver-todas-las-peliculas-de-la-noche-del-demonio/",
+     "source": "Infobae",
+     "published": "2026-08-23T12:44:55+00:00",
+     "copete": "La franquicia “Insidious” construyó su universo alrededor de El Más Allá, tomando las historias de la familia Lambert y la médium Elise Rainier",
+     "id": "0aa2674ce3bc"
+    },
+    {
+     "title": "Barracas Central vs Platense por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+     "link": "https://www.clarin.com/deportes/barracas-central-vs-platense-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_IXS0QxsCFe.html",
      "source": "Clarín",
-     "published": "2026-08-23T09:29:08+00:00",
-     "copete": "El nueve veces campeón del mundo de MotoGP revelaba en una entrevista cómo en un día normal en su vida.",
-     "id": "5410f83bb762"
+     "published": "2026-08-23T12:27:52+00:00",
+     "copete": "El Guapo y el Calamar chocan en la Barracas por la sexta jornada del torneo. Con el arbitraje de Hernán Mastrángelo y Sebastián Habib en el VAR. Por ESPN Premium.",
+     "id": "a509b8278106"
+    },
+    {
+     "title": "Sarmiento vs Estudiantes de La Plata por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+     "link": "https://www.clarin.com/deportes/sarmiento-vs-estudiantes-plata-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_QzehSo2UXN.html",
+     "source": "Clarín",
+     "published": "2026-08-23T12:21:16+00:00",
+     "copete": "El Verde y el Pincha chocan en Junín por la sexta jornada del torneo. Con el arbitraje de Hernán Mastrángelo y Sebastián Habib en el VAR.",
+     "id": "194d8995bae6"
     }
    ]
   },
@@ -433,6 +449,30 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "¿Por qué sentimos miedo ante cosas que probablemente no nos harán daño?",
+     "link": "https://www.bbc.com/mundo/articles/cn8ndd0e459o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-23T12:30:50+00:00",
+     "copete": "Muchos de nosotros le tememos a cosas que no representan un riesgo grave. Los científicos no creen que el miedo sea innato, entonces, ¿de dónde provienen estas fobias?",
+     "id": "d7a03deccd47"
+    },
+    {
+     "title": "Quién fue John Ponsonby, el diplomático británico que intercedió para la \"creación\" de Uruguay y Bélgica",
+     "link": "https://www.bbc.com/mundo/articles/c9qdp7gn45po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-23T11:27:05+00:00",
+     "copete": "Definido como un \"esgrimista oral\" y gran seductor, este lord de origen irlandés medió en América y Europa para que los intereses de Londres triunfaran.",
+     "id": "213c5b4437c7"
+    },
+    {
+     "title": "Zelenski alerta de que Putin prevé movilizar a 300.000 militares adicionales en Ucrania tras las elecciones de septiembre",
+     "link": "https://elpais.com/internacional/2026-08-23/zelenski-alerta-de-que-putin-preve-movilizar-a-300000-militares-adicionales-en-ucrania-tras-las-elecciones-de-septiembre.html",
+     "source": "El País Internacional",
+     "published": "2026-08-23T10:52:58+00:00",
+     "copete": "El presidente cree que Rusia está sufriendo “grandes” pérdidas de efectivos en su intento de avanzar hacia el “cinturón fortaleza” de la región oriental del Donbás",
+     "id": "18af183612d6"
+    },
     {
      "title": "\"Nuestra amistad es tan fuerte que decidimos casarnos\": las amigas unidas por un vínculo platónico",
      "link": "https://www.bbc.com/mundo/articles/cj03lyl6jzvo?at_medium=RSS&at_campaign=rss",
@@ -458,14 +498,6 @@
      "id": "b83ae5d7ecc4"
     },
     {
-     "title": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
-     "link": "https://www.bbc.com/mundo/articles/cpd7dvg6jepo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-23T07:09:55+00:00",
-     "copete": "Un nuevo arancel del 50% sobre importaciones canadienses por valor de 20.000 millones de dólares entra en vigor tras el fracaso de última hora de las negociaciones comerciales.",
-     "id": "21f875ad5fc1"
-    },
-    {
      "title": "Irán: una guerra sin vencedores que ha cambiado el mundo",
      "link": "https://elpais.com/internacional/2026-08-23/iran-una-guerra-sin-vencedores-que-ha-cambiado-el-mundo.html",
      "source": "El País Internacional",
@@ -480,22 +512,6 @@
      "published": "2026-08-23T03:45:01+00:00",
      "copete": "El sultanato, una de las puertas al disputado estrecho de Ormuz, negocia con Irán y transmite propuestas a EE UU para que el conflicto no se enquiste",
      "id": "3234909865bb"
-    },
-    {
-     "title": "La sombra de Estados Unidos se alarga sobre el sur de Groenlandia: “Vamos a perder nuestras casas”",
-     "link": "https://elpais.com/internacional/europa/informada/2026-08-23/la-sombra-de-estados-unidos-se-alarga-sobre-el-sur-de-groenlandia-vamos-a-perder-nuestras-casas.html",
-     "source": "El País Internacional",
-     "published": "2026-08-23T03:45:01+00:00",
-     "copete": "El interés de Trump por controlar la gigantesca isla danesa y explotar sus recursos naturales inquieta a la población",
-     "id": "d003b059c77a"
-    },
-    {
-     "title": "Especial BBC: los niños invisibles nacidos de crímenes de guerra",
-     "link": "https://www.bbc.com/mundo/articles/c5yevxyd21eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-23T02:26:22+00:00",
-     "copete": "Los bebés nacidos como consecuencia de una violación a menudo no pueden obtener un certificado de nacimiento, lo que conlleva problemas para toda la vida.",
-     "id": "758443724459"
     }
    ]
   }
@@ -504,16 +520,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
