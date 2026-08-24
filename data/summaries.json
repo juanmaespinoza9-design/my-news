@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:10:06Z",
+  "generated_at": "2026-08-24T22:10:05Z",
   "summaries": {
     "57c646afa2f2": {
       "resumen": "Análisis secundario del ensayo EA1181/CompassHER2 publicado en el Journal of Clinical Oncology sobre la tasa de respuesta patológica completa (pCR, ausencia de tumor residual tras el tratamiento) y sus predictores en cáncer de mama HER2 positivo (con sobreexpresión del receptor HER2) tratado con un taxano, trastuzumab y pertuzumab. Es relevante porque identificar quién logra pCR ayuda a personalizar la intensidad del tratamiento neoadyuvante.",
@@ -22,80 +22,74 @@
     "df497db4ff5c": {
       "resumen": "Urgente24 reúne los planes del fin de semana en el área metropolitana: el Mundial de Tango, la Feria Francesa, los 21K de Buenos Aires y más."
     },
-    "a3e7ae23d7f4": {
-      "resumen": "Buenos Aires es sede del Festival y Mundial de Tango 2026, con clases, milongas y competencias en distintos puntos de la ciudad."
-    },
-    "78dabf65c32c": {
-      "resumen": "Ámbito recomienda restaurantes porteños que cocinan con horno de barro y fuego vivo."
-    },
-    "7d4fd60187e4": {
-      "resumen": "El Destape recomienda la Feria Francesa en el Planetario como plan gratuito para este sábado."
-    },
-    "e30681bb2125": {
-      "resumen": "La obra \"La Ratonera\", el clásico policial de Agatha Christie, llega a Buenos Aires para desafiar al público a descubrir al asesino."
-    },
     "23bfe59ef46c": {
       "resumen": "Un relevamiento de Mundo Empresarial AR estima que los restaurantes porteños tienen una vida útil promedio de cinco años."
-    },
-    "a6b7dede2b6f": {
-      "resumen": "Clarín detalla cuándo se realiza el Festival Internacional de Buenos Aires (FIBA) 2026 y qué obras incluirá su programación."
-    },
-    "be99da7850f5": {
-      "resumen": "Clarín analiza por qué la puesta de La ópera de tres centavos resulta hoy más política y sexual que nunca."
     },
     "1a9fdfd7b692": {
       "resumen": "Un relevamiento reúne más de 60 planes para hacer en Buenos Aires el fin de semana del 21 al 23 de agosto, entre recitales, teatro, cine, streaming y muestras gratuitas."
     },
-    "327137fbcfa1": {
-      "resumen": "El durvalumab es un anticuerpo monoclonal que bloquea PD-L1 (ligando 1 de muerte programada), una proteína que los tumores usan para evadir al sistema inmune; el BCG (bacilo de Calmette-Guérin) es la inmunoterapia intravesical estándar en el cáncer de vejiga no músculo-invasivo de alto riesgo. Vale la pena mirarlo porque combinar ambos podría mejorar los resultados frente al BCG solo en pacientes con alto riesgo de recaída y progresión.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico que compara un esquema combinado de durvalumab más BCG contra el tratamiento estándar en cáncer de vejiga no músculo-invasivo de alto riesgo; sin abstract disponible no se puede precisar fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo de alto riesgo, candidatos a terapia intravesical con BCG.\nIntervención: Durvalumab (anti-PD-L1) sumado a BCG intravesical, comparado presumiblemente contra BCG solo.\nResultados: El título indica una mejora en los resultados, pero no hay cifras de supervivencia libre de recurrencia ni intervalos de confianza disponibles en esta fuente.\nLimitaciones: Sin acceso al artículo original no puede evaluarse el diseño estadístico, el tamaño muestral ni la magnitud real del beneficio.\nMensaje: Si se confirma con el estudio completo, sumar inmunoterapia sistémica al BCG podría ser una opción adicional en vejiga de alto riesgo, pero por ahora es una señal a seguir, no un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "96708b5b4fd5": {
-      "resumen": "HER2 (receptor 2 del factor de crecimiento epidérmico humano) es una proteína sobreexpresada en un subtipo agresivo de cáncer de mama; la respuesta patológica completa (pCR) es la desaparición total del tumor tras el tratamiento neoadyuvante y se asocia a mejor pronóstico. Vale la pena mirarlo porque reporta una tasa alta de pCR con un esquema dirigido a HER2 en enfermedad localmente avanzada.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio sobre un esquema neoadyuvante dirigido a HER2; sin abstract disponible no se puede precisar fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama HER2-positivo localmente avanzado, candidatas a tratamiento neoadyuvante.\nIntervención: Esquema dirigido a HER2 (posible combinación de terapia anti-HER2 con quimioterapia), sin comparador precisado en el título.\nResultados: Se reporta una tasa alta de respuesta patológica completa, pero sin el porcentaje exacto ni intervalo de confianza disponibles en esta fuente.\nLimitaciones: Sin el abstract no se puede confirmar el tamaño muestral, la definición exacta de pCR usada ni si hubo seguimiento a supervivencia libre de enfermedad.\nMensaje: Refuerza la tendencia a intensificar o ajustar los esquemas anti-HER2 en enfermedad localmente avanzada, aunque la pCR es un criterio subrogante y no reemplaza datos de supervivencia a largo plazo.\nNota: análisis sin acceso al abstract."
-    },
-    "769cf910bd44": {
-      "resumen": "Rezatapopt es una droga en investigación que busca reactivar la proteína p53 (un supresor tumoral clave) en tumores con la mutación puntual TP53 Y220C, presente en un subgrupo de cánceres de ovario avanzados. Vale la pena mirarlo porque es una de las primeras estrategias dirigidas a restaurar la función de p53 mutado, un blanco históricamente difícil de tratar.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de fase temprana sobre un fármaco en investigación; sin abstract disponible no se puede precisar aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario avanzado portadoras de la mutación TP53 Y220C, en general con enfermedad pretratada.\nIntervención: Rezatapopt (reactivador de p53 mutado), sin comparador especificado en el título.\nResultados: El título menciona actividad del fármaco, pero sin tasas de respuesta objetiva, supervivencia libre de progresión ni intervalos de confianza disponibles en esta fuente.\nLimitaciones: Sin el abstract no se puede confirmar el tamaño muestral, la magnitud de la respuesta ni el perfil de toxicidad.\nMensaje: Es una señal temprana y prometedora para un blanco molecular sin opciones dirigidas hasta ahora, pero se necesitan datos maduros de eficacia y seguridad antes de pensar en un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "39b3d94770de": {
-      "resumen": "Un análisis comparativo sobre el manejo de la toxicidad del tratamiento oncológico entre tumores sólidos y neoplasias hematológicas, con lecciones que podrían aplicarse de una especialidad a la otra. Vale la pena mirarlo como puesta al día práctica sobre manejo de efectos adversos, más que como un estudio con resultados propios.",
-      "destacado": false
-    },
-    "e883e474bc28": {
-      "resumen": "Un repaso sobre cómo abordar la neurotoxicidad y preservar la calidad de vida en pacientes que reciben líneas tardías de tratamiento oncológico, cuando las opciones terapéuticas son más limitadas. Vale la pena mirarlo por su enfoque práctico en el cuidado de pacientes muy tratados.",
-      "destacado": false
-    },
-    "d4ae78ce1bef": {
-      "resumen": "Los inhibidores de RAS son fármacos dirigidos contra una familia de genes mutados con frecuencia en varios tumores sólidos y considerados durante décadas \"no targeteables\". Vale la pena mirarlo porque repasa cómo esta nueva generación de terapias está cambiando el panorama de tratamiento en oncología.",
-      "destacado": false
-    },
     "981c79151d78": {
       "resumen": "La Ciudad de Buenos Aires lanza la Semana de los Bodegones, con descuentos en más de 100 restaurantes clásicos porteños: cuándo arranca y cómo aprovecharla."
     },
-    "3524929f8fac": {
-      "resumen": "Zara lanzó cinco prendas básicas inspiradas en el estilo minimalista de Carolyn Bessette, ideales para sumar al placard de otoño."
+    "9e2b650cf039": {
+      "resumen": "El estudio FIT-001, comentado por el Dr. Ayanambakkam en esta nota de OncLive, evalúa una estrategia en investigación para el carcinoma de células renales (cáncer de riñón). Vale la pena seguirlo porque puede sumar datos sobre nuevas opciones de tratamiento para este tumor.",
+      "destacado": false,
+      "analisis": "Diseño: la nota es un comentario/entrevista sobre el ensayo FIT-001; no se especifica en el título el tipo de estudio, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: pacientes con carcinoma de células renales (cáncer de riñón).\nIntervención: no se detalla el esquema evaluado en la fuente disponible.\nResultados: no informados en el título ni en el material consultado.\nLimitaciones: se trata de un comentario de un investigador y no del reporte primario del estudio, por lo que falta acceso a los datos concretos del ensayo.\nMensaje: sin datos de eficacia o seguridad publicados en esta nota, todavía no es posible extraer implicancias para la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "73403a7fc533": {
-      "resumen": "El beige deja de ser el color protagonista: repasamos las paletas que se perfilan como tendencia para este otoño."
+    "ba44882c97e6": {
+      "resumen": "The ASCO Post informa que la Dra. Lori J. Pierce, especialista en oncología radioterápica, fue nombrada Distinguished University Professor (profesora distinguida) en la Universidad de Michigan, un reconocimiento a su trayectoria académica. Es una noticia institucional, no un estudio, pero vale la pena conocer a las referentes del campo.",
+      "destacado": false
     },
-    "0b09e8beba7e": {
-      "resumen": "Una estilista selecciona las seis tendencias de moda que se van a imponer este otoño."
+    "b2b3060a4966": {
+      "resumen": "Japón aprobó el sevabertinib, un inhibidor dirigido contra mutaciones de HER2 (receptor 2 del factor de crecimiento epidérmico humano), para el cáncer de pulmón de células no pequeñas que presenta esta alteración. Es relevante porque suma una opción más para un subgrupo de pacientes con este biomarcador específico.",
+      "destacado": false
     },
-    "9d1c63f1bc29": {
-      "resumen": "Un repaso por los ocho estilos de vestidos que marcarán la temporada otoño-invierno 2026-27."
+    "2dbb22234f21": {
+      "resumen": "Un estudio sobre sobrevivientes a largo plazo de linfoma de Hodgkin (un cáncer del sistema linfático) encontró que estos pacientes podrían tener mayor riesgo de otros problemas de salud con los años. Importa porque orienta el seguimiento a largo plazo de quienes superaron esta enfermedad.",
+      "destacado": false,
+      "analisis": "Diseño: no se especifica en el título el tipo exacto de estudio (probablemente una cohorte de seguimiento a largo plazo), ni el número de centros o de pacientes incluidos.\nPoblación: sobrevivientes a largo plazo de linfoma de Hodgkin.\nIntervención: no aplica un tratamiento en evaluación; el estudio analiza desenlaces de salud a lo largo del tiempo tras el tratamiento original de la enfermedad.\nResultados: el título señala un mayor riesgo de problemas de salud, pero no se informan cifras (razones de riesgo, intervalos de confianza) en la fuente disponible.\nLimitaciones: sin el abstract no puede evaluarse el tamaño muestral, el tiempo de seguimiento ni si se ajustó por factores de confusión.\nMensaje: refuerza la importancia del seguimiento clínico prolongado en sobrevivientes de linfoma de Hodgkin, aunque sin cifras concretas todavía no cambia los protocolos de seguimiento.\nNota: análisis sin acceso al abstract."
     },
-    "97e77f4ba771": {
-      "resumen": "Alfonso Herrera protagoniza La captura, la película de Netflix basada en una historia real: de qué se trata el caso que retrata."
+    "b6a99903217b": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) le otorgó revisión prioritaria al dostarlimab, un inhibidor de punto de control inmunológico, para el cáncer de recto localmente avanzado con deficiencia en la reparación de errores de apareamiento (dMMR) o alta inestabilidad microsatelital (MSI-H). Es una noticia a seguir porque este enfoque busca evitar cirugía y radioterapia en ese subgrupo de pacientes.",
+      "destacado": false
     },
-    "72438e7f13ed": {
-      "resumen": "Los mocasines de los años 90 vuelven con fuerza y le ganan terreno a los tacones para el verano 2026."
+    "84df221d35fe": {
+      "resumen": "Un estudio evaluó si un programa de descenso de peso antes de la cirugía es viable en pacientes con cáncer de endometrio (el revestimiento interno del útero). Interesa porque el sobrepeso es un factor de riesgo frecuente en este tumor y la estrategia podría mejorar los resultados quirúrgicos.",
+      "destacado": false,
+      "analisis": "Diseño: estudio de factibilidad; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: pacientes con cáncer de endometrio candidatas a cirugía.\nIntervención: programa de descenso de peso previo a la cirugía; no se menciona un comparador claro en el título.\nResultados: el título indica que el programa mostró ser factible, pero no se informan cifras de adherencia, porcentaje de descenso de peso ni desenlaces quirúrgicos.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, la duración de la intervención ni los resultados a largo plazo.\nMensaje: si se confirma en estudios más grandes, podría sumar una estrategia perioperatoria útil en pacientes con cáncer de endometrio y sobrepeso, pero por ahora es solo una prueba de factibilidad.\nNota: análisis sin acceso al abstract."
     },
-    "b7d9441d2bf2": {
-      "resumen": "Sofía Vergara muestra cómo combinar jeans de los años 2000 con sandalias de tacón al estilo colombiano."
+    "e1e20ff0331c": {
+      "resumen": "Una top model eligió un vestido de novia francés para su boda íntima en Italia, un look que ya marca tendencia."
+    },
+    "c33554fc3b49": {
+      "resumen": "La reina Máxima de Holanda volvió a lucir un look que anticipa las tendencias de moda del próximo verano."
+    },
+    "3e4853f8a05b": {
+      "resumen": "Un método tradicional chino en seis pasos promete un pelo más suave, largo y brillante."
+    },
+    "ffdb42bb06d1": {
+      "resumen": "Los vestidos inspirados en los años 70 y 80 vuelven para despedir el verano 2026 con estilo."
+    },
+    "b9d86c4999c8": {
+      "resumen": "La revista Para Ti realizó una tapa en vivo en su Gala para adelantar las tendencias de la próxima temporada."
+    },
+    "4d598928d097": {
+      "resumen": "\"Farmear aura\" es la nueva moda viral en la que se compite por mostrar quién tiene más actitud."
+    },
+    "2c0657ec442a": {
+      "resumen": "Una ciudad del norte del Gran Buenos Aires crece a paso acelerado con restaurantes, shoppings, hoteles y propiedades de lujo, al punto de ser comparada con Miami."
+    },
+    "62a1d9358579": {
+      "resumen": "El Teatro Alvear repone \"La ópera de tres centavos\", el clásico de Bertolt Brecht sobre desigualdad y corrupción."
+    },
+    "6ab515dd1b0c": {
+      "resumen": "El Teatro Tronador recibió una factura de luz por más de 13 millones de pesos, un monto que generó sorpresa."
+    },
+    "4cdcd50c4e91": {
+      "resumen": "El bailarín y coreógrafo Iñaki Urlezaga vuelve a los escenarios y lo cuenta en una entrevista exclusiva."
+    },
+    "9d1ab6ebe74d": {
+      "resumen": "Una guía reúne los planes imperdibles para disfrutar el fin de semana en Buenos Aires."
     }
   }
 }
