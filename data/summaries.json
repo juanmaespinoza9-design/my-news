@@ -1,35 +1,16 @@
 {
-  "generated_at": "2026-08-24T22:10:05Z",
+  "generated_at": "2026-08-25T10:10:59Z",
   "summaries": {
     "57c646afa2f2": {
       "resumen": "Análisis secundario del ensayo EA1181/CompassHER2 publicado en el Journal of Clinical Oncology sobre la tasa de respuesta patológica completa (pCR, ausencia de tumor residual tras el tratamiento) y sus predictores en cáncer de mama HER2 positivo (con sobreexpresión del receptor HER2) tratado con un taxano, trastuzumab y pertuzumab. Es relevante porque identificar quién logra pCR ayuda a personalizar la intensidad del tratamiento neoadyuvante.",
       "destacado": true,
       "analisis": "Diseño: Análisis secundario del ensayo EA1181/CompassHER2 pCR; no se precisan en el título la aleatorización, el cegamiento ni el número de centros o de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer de mama HER2 positivo tratadas en el contexto neoadyuvante (previo a la cirugía) con un esquema basado en taxano, trastuzumab y pertuzumab.\nIntervención: Taxano combinado con los anticuerpos anti-HER2 trastuzumab y pertuzumab; el título no menciona un brazo comparador dentro de este subanálisis.\nResultados: El título indica que se evalúan la tasa de respuesta patológica completa (pCR) y sus predictores, sin cifras concretas de la tasa ni de los factores predictivos.\nLimitaciones: Al ser un análisis secundario, tiene menor poder estadístico que el ensayo principal y sus hallazgos son de carácter exploratorio; sin el abstract tampoco se puede evaluar el tamaño muestral de este subanálisis ni el ajuste por factores de confusión.\nMensaje: Podría ayudar a identificar qué pacientes con cáncer de mama HER2 positivo tienen mayor probabilidad de lograr respuesta patológica completa con este esquema neoadyuvante, un dato útil para discutir la desescalada o intensificación del tratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "92e215865e5e": {
-      "resumen": "Artículo del Journal of Clinical Oncology (Lawrence BJ et al.) que analiza cómo ensayos clínicos pequeños en cánceres raros con biomarcadores raros pueden, o no, cambiar la práctica clínica. Interesa porque discute un problema metodológico central en oncología: cómo generar evidencia sólida cuando la población de pacientes es muy chica.",
-      "destacado": false,
-      "analisis": "Diseño: No precisado en el título; por el enfoque (análisis de cómo ensayos pequeños impactan en la práctica) podría tratarse de un artículo de análisis secundario o de revisión metodológica sobre múltiples estudios, más que de un único ensayo clínico primario.\nPoblación: Pacientes con cánceres raros que presentan biomarcadores raros (alteraciones moleculares de baja frecuencia).\nIntervención: No es una intervención única; se analiza el impacto de ensayos clínicos pequeños (de bajo número de pacientes) sobre el cambio de práctica clínica.\nResultados: No informados en el título ni disponibles sin acceso al abstract completo.\nLimitaciones: Sin el cuerpo del trabajo no se puede precisar si es un análisis cuantitativo de una serie de estudios o una discusión cualitativa; tampoco se puede evaluar la metodología usada para definir \"cambio de práctica\".\nMensaje: Aporta una reflexión relevante sobre cómo interpretar y aplicar en la práctica diaria la evidencia de ensayos pequeños en poblaciones raras, un escenario cada vez más frecuente con la fragmentación molecular del cáncer.\nNota: análisis sin acceso al abstract."
-    },
-    "0adfb0da8749": {
-      "resumen": "Guía viva (documento de actualización continua) de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del cáncer de pulmón de células no pequeñas (NSCLC) en estadio IV con alteraciones genéticas conductoras, publicada en el Journal of Clinical Oncology. Es un documento de consenso que sintetiza evidencia y da recomendaciones, útil como referencia práctica actualizada, no un estudio con resultados propios.",
-      "destacado": false
-    },
-    "b503332f7b44": {
-      "resumen": "Guía viva de la Sociedad Americana de Oncología Clínica (ASCO) sobre inmunoterapia y terapias dirigidas en cáncer gastroesofágico avanzado, publicada en el Journal of Clinical Oncology. Sintetiza la evidencia disponible y ofrece recomendaciones de práctica clínica actualizadas, no es un estudio con resultados propios.",
-      "destacado": false
-    },
     "df497db4ff5c": {
       "resumen": "Urgente24 reúne los planes del fin de semana en el área metropolitana: el Mundial de Tango, la Feria Francesa, los 21K de Buenos Aires y más."
     },
     "23bfe59ef46c": {
       "resumen": "Un relevamiento de Mundo Empresarial AR estima que los restaurantes porteños tienen una vida útil promedio de cinco años."
-    },
-    "1a9fdfd7b692": {
-      "resumen": "Un relevamiento reúne más de 60 planes para hacer en Buenos Aires el fin de semana del 21 al 23 de agosto, entre recitales, teatro, cine, streaming y muestras gratuitas."
-    },
-    "981c79151d78": {
-      "resumen": "La Ciudad de Buenos Aires lanza la Semana de los Bodegones, con descuentos en más de 100 restaurantes clásicos porteños: cuándo arranca y cómo aprovecharla."
     },
     "9e2b650cf039": {
       "resumen": "El estudio FIT-001, comentado por el Dr. Ayanambakkam en esta nota de OncLive, evalúa una estrategia en investigación para el carcinoma de células renales (cáncer de riñón). Vale la pena seguirlo porque puede sumar datos sobre nuevas opciones de tratamiento para este tumor.",
@@ -49,32 +30,10 @@
       "destacado": false,
       "analisis": "Diseño: no se especifica en el título el tipo exacto de estudio (probablemente una cohorte de seguimiento a largo plazo), ni el número de centros o de pacientes incluidos.\nPoblación: sobrevivientes a largo plazo de linfoma de Hodgkin.\nIntervención: no aplica un tratamiento en evaluación; el estudio analiza desenlaces de salud a lo largo del tiempo tras el tratamiento original de la enfermedad.\nResultados: el título señala un mayor riesgo de problemas de salud, pero no se informan cifras (razones de riesgo, intervalos de confianza) en la fuente disponible.\nLimitaciones: sin el abstract no puede evaluarse el tamaño muestral, el tiempo de seguimiento ni si se ajustó por factores de confusión.\nMensaje: refuerza la importancia del seguimiento clínico prolongado en sobrevivientes de linfoma de Hodgkin, aunque sin cifras concretas todavía no cambia los protocolos de seguimiento.\nNota: análisis sin acceso al abstract."
     },
-    "b6a99903217b": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) le otorgó revisión prioritaria al dostarlimab, un inhibidor de punto de control inmunológico, para el cáncer de recto localmente avanzado con deficiencia en la reparación de errores de apareamiento (dMMR) o alta inestabilidad microsatelital (MSI-H). Es una noticia a seguir porque este enfoque busca evitar cirugía y radioterapia en ese subgrupo de pacientes.",
-      "destacado": false
-    },
     "84df221d35fe": {
       "resumen": "Un estudio evaluó si un programa de descenso de peso antes de la cirugía es viable en pacientes con cáncer de endometrio (el revestimiento interno del útero). Interesa porque el sobrepeso es un factor de riesgo frecuente en este tumor y la estrategia podría mejorar los resultados quirúrgicos.",
       "destacado": false,
       "analisis": "Diseño: estudio de factibilidad; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: pacientes con cáncer de endometrio candidatas a cirugía.\nIntervención: programa de descenso de peso previo a la cirugía; no se menciona un comparador claro en el título.\nResultados: el título indica que el programa mostró ser factible, pero no se informan cifras de adherencia, porcentaje de descenso de peso ni desenlaces quirúrgicos.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, la duración de la intervención ni los resultados a largo plazo.\nMensaje: si se confirma en estudios más grandes, podría sumar una estrategia perioperatoria útil en pacientes con cáncer de endometrio y sobrepeso, pero por ahora es solo una prueba de factibilidad.\nNota: análisis sin acceso al abstract."
-    },
-    "e1e20ff0331c": {
-      "resumen": "Una top model eligió un vestido de novia francés para su boda íntima en Italia, un look que ya marca tendencia."
-    },
-    "c33554fc3b49": {
-      "resumen": "La reina Máxima de Holanda volvió a lucir un look que anticipa las tendencias de moda del próximo verano."
-    },
-    "3e4853f8a05b": {
-      "resumen": "Un método tradicional chino en seis pasos promete un pelo más suave, largo y brillante."
-    },
-    "ffdb42bb06d1": {
-      "resumen": "Los vestidos inspirados en los años 70 y 80 vuelven para despedir el verano 2026 con estilo."
-    },
-    "b9d86c4999c8": {
-      "resumen": "La revista Para Ti realizó una tapa en vivo en su Gala para adelantar las tendencias de la próxima temporada."
-    },
-    "4d598928d097": {
-      "resumen": "\"Farmear aura\" es la nueva moda viral en la que se compite por mostrar quién tiene más actitud."
     },
     "2c0657ec442a": {
       "resumen": "Una ciudad del norte del Gran Buenos Aires crece a paso acelerado con restaurantes, shoppings, hoteles y propiedades de lujo, al punto de ser comparada con Miami."
@@ -85,11 +44,66 @@
     "6ab515dd1b0c": {
       "resumen": "El Teatro Tronador recibió una factura de luz por más de 13 millones de pesos, un monto que generó sorpresa."
     },
-    "4cdcd50c4e91": {
-      "resumen": "El bailarín y coreógrafo Iñaki Urlezaga vuelve a los escenarios y lo cuenta en una entrevista exclusiva."
-    },
     "9d1ab6ebe74d": {
       "resumen": "Una guía reúne los planes imperdibles para disfrutar el fin de semana en Buenos Aires."
+    },
+    "f864c5493b73": {
+      "resumen": "Artículo de revisión de OncLive sobre las alteraciones del gen MET (mesenchymal-epithelial transition, receptor tirosina quinasa) en el cáncer de pulmón de células no pequeñas (CPCNP): repasa los avances diagnósticos recientes y las terapias dirigidas disponibles para esta alteración molecular. Útil para actualizar el enfoque diagnóstico y terapéutico de un subgrupo cada vez más relevante de CPCNP.",
+      "destacado": false
+    },
+    "8a0858557e5f": {
+      "resumen": "Estudio internacional retrospectivo publicado en Journal of Clinical Oncology que evalúa si se puede omitir la punción-biopsia de médula ósea en pacientes con rabdomiosarcoma (un sarcoma de partes blandas, más frecuente en pediatría) ávido en la PET (tomografía por emisión de positrones) con 18F-FDG (fluorodesoxiglucosa marcada con flúor-18) cuando la médula ósea resulta negativa en ese estudio. Relevante porque podría simplificar la estadificación y evitar un procedimiento invasivo.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio internacional retrospectivo (probablemente multicéntrico), sin aleatorización ni cegamiento; no se dispone del número de centros ni de pacientes por falta de acceso al abstract completo.\nPoblación: Pacientes con rabdomiosarcoma (sarcoma de partes blandas, predominantemente pediátrico) con PET con 18F-FDG positiva y médula ósea negativa en ese mismo estudio.\nIntervención: Comparación entre estrategias de estadificación con y sin punción-biopsia de médula ósea sistemática.\nResultados: No disponibles en el título; el abstract completo no pudo consultarse.\nLimitaciones: Diseño retrospectivo (riesgo de sesgo de selección), variabilidad entre centros participantes y dependencia de la interpretación uniforme de la PET.\nMensaje: Si confirma que la médula ósea negativa en la PET predice de forma confiable la ausencia de infiltración medular, podría respaldar omitir la biopsia sistemática en estos pacientes, reduciendo procedimientos invasivos en oncología pediátrica.\nNota: análisis sin acceso al abstract."
+    },
+    "968a72809bb5": {
+      "resumen": "Fe de erratas de Journal of Clinical Oncology sobre el estudio original de Mobley et al. que reportó los cambios longitudinales de la función cardíaca tras el tratamiento con doxorrubicina (quimioterápico cardiotóxico) y dexrazoxano (cardioprotector) en sobrevivientes pediátricos de cáncer, dentro del ensayo ALTE11C2 del Children's Oncology Group. Es una corrección puntual, no un estudio nuevo: relevante solo para quienes siguen de cerca esa cohorte de cardio-oncología pediátrica.",
+      "destacado": false
+    },
+    "c0614db257d2": {
+      "resumen": "Estudio publicado en JAMA Oncology (Unger et al.) que analiza cómo se distribuye el financiamiento —estatal o federal versus de la industria farmacéutica— en los ensayos clínicos oncológicos de Estados Unidos. Importa porque la fuente de financiamiento puede influir en qué preguntas de investigación se priorizan y en el acceso equitativo a los ensayos.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional descriptivo, probablemente basado en registros de ensayos clínicos, sin aleatorización; no se cuenta con el número exacto de ensayos ni el período analizado por falta de acceso al abstract completo.\nPoblación: Ensayos clínicos oncológicos realizados en Estados Unidos, categorizados según su fuente de financiamiento (federal/gubernamental versus industria farmacéutica).\nIntervención: No aplica en sentido terapéutico; se trata de una comparación de patrones de financiamiento entre sponsors.\nResultados: No disponibles en el título; el abstract completo no pudo consultarse.\nLimitaciones: Datos probablemente de registros públicos (riesgo de subregistro o clasificación inexacta del sponsor) y análisis descriptivo sin poder establecer causalidad sobre el impacto del financiamiento en los resultados de investigación.\nMensaje: Entender el balance entre financiamiento público y privado ayuda a identificar brechas de investigación (por ejemplo en tumores poco frecuentes o en optimización de dosis) que dependen más de fondos federales que de la industria.\nNota: análisis sin acceso al abstract."
+    },
+    "d3dd774f600d": {
+      "resumen": "Estudio de tendencias publicado en JAMA Oncology (Korshøj et al.) sobre la incidencia, el tratamiento y el seguimiento por imágenes del meningioma, el tumor intracraneal primario más frecuente en adultos. Interesa porque el aumento de los diagnósticos incidentales por resonancia magnética (RM) está cambiando las decisiones entre vigilancia activa y tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de tendencias temporales, probablemente basado en registros poblacionales; no se dispone del período exacto ni del tamaño de la cohorte por falta de acceso al abstract completo.\nPoblación: Pacientes diagnosticados con meningioma (tumor generalmente benigno originado en las meninges).\nIntervención: No aplica en sentido terapéutico; se compara la evolución en el tiempo de la incidencia diagnóstica, las modalidades de tratamiento (cirugía, radioterapia, vigilancia) y el uso de imágenes de seguimiento.\nResultados: No disponibles en el título; el abstract completo no pudo consultarse.\nLimitaciones: Datos de registros administrativos (riesgo de sesgo de codificación), posible sesgo de detección por el mayor uso de RM a lo largo del tiempo, y dificultad para capturar decisiones clínicas individuales de vigilancia versus tratamiento.\nMensaje: Si confirma un aumento sostenido de diagnósticos incidentales, refuerza la necesidad de criterios claros para decidir entre vigilancia activa y tratamiento en meningiomas de bajo riesgo, evitando el sobretratamiento.\nNota: análisis sin acceso al abstract."
+    },
+    "bdcfb6cd5d73": {
+      "resumen": "Estudio del Global Burden of Disease (GBD) US Health Disparities Collaborators, publicado en JAMA Oncology, sobre las disparidades raciales y étnicas en la mortalidad por cáncer colorrectal en Estados Unidos, desglosadas por condado, sexo y edad. Relevante para entender cómo factores estructurales y de acceso a la salud generan brechas en los resultados oncológicos.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional ecológico de carga de enfermedad (marco Global Burden of Disease), con análisis desagregado por condado, sexo y grupo etario; no se dispone del período ni la fuente de datos exacta por falta de acceso al abstract completo.\nPoblación: Población de Estados Unidos con mortalidad por cáncer colorrectal, estratificada por raza/etnia, sexo, edad y condado de residencia.\nIntervención: No aplica; se trata de un análisis descriptivo de disparidades, no de una intervención terapéutica.\nResultados: No disponibles en el título; el abstract completo no pudo consultarse.\nLimitaciones: Datos ecológicos a nivel de condado (riesgo de sesgo ecológico, no siempre reflejan el riesgo individual), calidad heterogénea del registro de raza/etnia en las bases de mortalidad, y posible confusión con factores socioeconómicos no ajustados.\nMensaje: Cuantificar estas brechas por geografía y grupo demográfico ayuda a orientar políticas de detección temprana y acceso equitativo a la colonoscopía y al tratamiento en las poblaciones más afectadas.\nNota: análisis sin acceso al abstract."
+    },
+    "167dbf6e5ad4": {
+      "resumen": "La reina Letizia repite hace más de dos décadas un pantalón capri que hoy se impone como tendencia de la temporada de otoño."
+    },
+    "c84c93a33513": {
+      "resumen": "Vogue España repasa los bolsos de la colección personal de la cantante Dua Lipa como inspiración de estilo."
+    },
+    "15eadeca1ee9": {
+      "resumen": "La estilista Almu Carnicero analiza para Telva la amplia variedad de jeans que se vienen la próxima temporada, aptos tanto para looks arreglados como informales."
+    },
+    "1301a73fb40b": {
+      "resumen": "A los 56 años, la modelo Claudia Schiffer mantiene el mismo estilo noventoso de siempre y no se deja llevar por las modas pasajeras."
+    },
+    "2332b881a49a": {
+      "resumen": "La cantante argentina Nicki Nicole cumple 26 años y repasa cómo cada uno de sus looks se convirtió en una declaración de vanguardia y moda."
+    },
+    "3243ebbe352d": {
+      "resumen": "La actriz Griselda Siciliani respondió sin filtro a los dichos de Sabrina Rojas y aseguró estar cansada de sus comentarios."
+    },
+    "baffe0b35986": {
+      "resumen": "El músico Gustavo Santaolalla se presenta en el Teatro Colón dentro de su gira \"Ronroco\"."
+    },
+    "3457e74e4ad1": {
+      "resumen": "La ópera Otello, de Giuseppe Verdi, llega a los escenarios de Buenos Aires."
+    },
+    "cae9931afe52": {
+      "resumen": "Time Out selecciona diez restaurantes familiares porteños que mantienen viva la tradición gastronómica de siempre."
+    },
+    "bf0b232d9b2f": {
+      "resumen": "Clarín propone más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine, streaming, muestras y actividades gratuitas."
     }
   }
 }
