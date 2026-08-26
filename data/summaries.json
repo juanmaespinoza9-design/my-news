@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-08-25T22:10:00Z",
+  "generated_at": "2026-08-26T10:07:57Z",
   "summaries": {
-    "57c646afa2f2": {
-      "resumen": "Análisis secundario del ensayo EA1181/CompassHER2 publicado en el Journal of Clinical Oncology sobre la tasa de respuesta patológica completa (pCR, ausencia de tumor residual tras el tratamiento) y sus predictores en cáncer de mama HER2 positivo (con sobreexpresión del receptor HER2) tratado con un taxano, trastuzumab y pertuzumab. Es relevante porque identificar quién logra pCR ayuda a personalizar la intensidad del tratamiento neoadyuvante.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis secundario del ensayo EA1181/CompassHER2 pCR; no se precisan en el título la aleatorización, el cegamiento ni el número de centros o de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer de mama HER2 positivo tratadas en el contexto neoadyuvante (previo a la cirugía) con un esquema basado en taxano, trastuzumab y pertuzumab.\nIntervención: Taxano combinado con los anticuerpos anti-HER2 trastuzumab y pertuzumab; el título no menciona un brazo comparador dentro de este subanálisis.\nResultados: El título indica que se evalúan la tasa de respuesta patológica completa (pCR) y sus predictores, sin cifras concretas de la tasa ni de los factores predictivos.\nLimitaciones: Al ser un análisis secundario, tiene menor poder estadístico que el ensayo principal y sus hallazgos son de carácter exploratorio; sin el abstract tampoco se puede evaluar el tamaño muestral de este subanálisis ni el ajuste por factores de confusión.\nMensaje: Podría ayudar a identificar qué pacientes con cáncer de mama HER2 positivo tienen mayor probabilidad de lograr respuesta patológica completa con este esquema neoadyuvante, un dato útil para discutir la desescalada o intensificación del tratamiento.\nNota: análisis sin acceso al abstract."
-    },
     "df497db4ff5c": {
       "resumen": "Urgente24 reúne los planes del fin de semana en el área metropolitana: el Mundial de Tango, la Feria Francesa, los 21K de Buenos Aires y más."
     },
@@ -29,44 +24,13 @@
       "destacado": false,
       "analisis": "Diseño: Estudio internacional retrospectivo (probablemente multicéntrico), sin aleatorización ni cegamiento; no se dispone del número de centros ni de pacientes por falta de acceso al abstract completo.\nPoblación: Pacientes con rabdomiosarcoma (sarcoma de partes blandas, predominantemente pediátrico) con PET con 18F-FDG positiva y médula ósea negativa en ese mismo estudio.\nIntervención: Comparación entre estrategias de estadificación con y sin punción-biopsia de médula ósea sistemática.\nResultados: No disponibles en el título; el abstract completo no pudo consultarse.\nLimitaciones: Diseño retrospectivo (riesgo de sesgo de selección), variabilidad entre centros participantes y dependencia de la interpretación uniforme de la PET.\nMensaje: Si confirma que la médula ósea negativa en la PET predice de forma confiable la ausencia de infiltración medular, podría respaldar omitir la biopsia sistemática en estos pacientes, reduciendo procedimientos invasivos en oncología pediátrica.\nNota: análisis sin acceso al abstract."
     },
-    "968a72809bb5": {
-      "resumen": "Fe de erratas de Journal of Clinical Oncology sobre el estudio original de Mobley et al. que reportó los cambios longitudinales de la función cardíaca tras el tratamiento con doxorrubicina (quimioterápico cardiotóxico) y dexrazoxano (cardioprotector) en sobrevivientes pediátricos de cáncer, dentro del ensayo ALTE11C2 del Children's Oncology Group. Es una corrección puntual, no un estudio nuevo: relevante solo para quienes siguen de cerca esa cohorte de cardio-oncología pediátrica."
-    },
-    "baffe0b35986": {
-      "resumen": "El músico Gustavo Santaolalla se presenta en el Teatro Colón dentro de su gira \"Ronroco\"."
-    },
-    "3457e74e4ad1": {
-      "resumen": "La ópera Otello, de Giuseppe Verdi, llega a los escenarios de Buenos Aires."
-    },
-    "cae9931afe52": {
-      "resumen": "Time Out selecciona diez restaurantes familiares porteños que mantienen viva la tradición gastronómica de siempre."
-    },
     "bf0b232d9b2f": {
       "resumen": "Clarín propone más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine, streaming, muestras y actividades gratuitas."
-    },
-    "4bdc0eed4564": {
-      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó esquemas de primera línea basados en zanidatamab, un anticuerpo biespecífico dirigido contra HER2 (receptor 2 del factor de crecimiento epidérmico humano), para el cáncer gástrico localmente avanzado o metastásico con sobreexpresión de HER2. Vale la pena seguirlo porque suma una opción de primera línea dirigida a un subgrupo con biomarcador definido, en un tumor de pronóstico habitualmente reservado.",
-      "destacado": true,
-      "analisis": "Diseño: no se detalla en el título; la aprobación regulatoria se basa en un ensayo clínico pivotal que no se especifica en la fuente disponible.\nPoblación: pacientes con cáncer gástrico (incluida la unión gastroesofágica) HER2 positivo, localmente avanzado o metastásico, en primera línea de tratamiento.\nIntervención: esquemas basados en zanidatamab, probablemente combinado con quimioterapia; no se especifica el comparador en el título.\nResultados: no informados en el título ni en la fuente disponible.\nLimitaciones: al ser una nota de aprobación regulatoria y no el reporte primario del ensayo, faltan los datos de eficacia y seguridad (supervivencia global, supervivencia libre de progresión) que sustentaron la decisión de la FDA.\nMensaje: si se confirma con los datos del ensayo pivotal, esta aprobación suma una opción de primera línea dirigida a HER2 en cáncer gástrico avanzado, ampliando el arsenal terapéutico en un subgrupo definido por biomarcador.\nNota: análisis sin acceso al abstract."
     },
     "0c7996baa5b0": {
       "resumen": "The ASCO Post confirma la aprobación por la FDA (agencia regulatoria de medicamentos de Estados Unidos) de esquemas combinados con zanidatamab, anticuerpo biespecífico dirigido contra HER2 (receptor 2 del factor de crecimiento epidérmico humano), para el cáncer HER2 positivo de la unión gastroesofágica o del esófago. Es la misma novedad regulatoria reportada por OncLive, relevante por sumar una opción dirigida en primera línea para estos tumores.",
       "destacado": false,
       "analisis": "Diseño: no se detalla en el título; la aprobación regulatoria se basa en un ensayo clínico pivotal que no se especifica en la fuente disponible.\nPoblación: pacientes con cáncer HER2 positivo de la unión gastroesofágica o del esófago, en el contexto de primera línea de tratamiento.\nIntervención: esquemas combinados con zanidatamab; no se especifica el comparador en el título.\nResultados: no informados en el título ni en la fuente disponible.\nLimitaciones: al ser una nota de aprobación regulatoria y no el reporte primario del ensayo, faltan los datos de eficacia y seguridad que sustentaron la decisión de la FDA.\nMensaje: amplía, junto con la aprobación para cáncer gástrico, el uso de zanidatamab a tumores HER2 positivos del tracto digestivo superior, sumando una opción dirigida por biomarcador.\nNota: análisis sin acceso al abstract."
-    },
-    "6096dc6364a8": {
-      "resumen": "OncLive reporta que datos actualizados de seguimiento muestran que olverembatinib, un inhibidor de tirosina quinasa de tercera generación usado en leucemia mieloide crónica (LMC), profundiza su eficacia en pacientes tratados en segunda línea. Es relevante porque suma evidencia sobre una alternativa para quienes progresan o no toleran el tratamiento previo.",
-      "destacado": false,
-      "analisis": "Diseño: no se especifica en el título el tipo de estudio ni si se trata de un análisis actualizado de un ensayo en curso; no hay datos de aleatorización, cegamiento, número de centros o de pacientes en la fuente disponible.\nPoblación: pacientes con leucemia mieloide crónica (LMC) en segunda línea de tratamiento, presumiblemente resistentes o intolerantes a un inhibidor de tirosina quinasa previo.\nIntervención: olverembatinib, inhibidor de tirosina quinasa de tercera generación; no se especifica comparador en el título.\nResultados: el título indica una \"profundización\" de la eficacia con mayor seguimiento, pero no se informan cifras de respuesta molecular, supervivencia libre de progresión ni intervalos de confianza en la fuente disponible.\nLimitaciones: sin el abstract no puede evaluarse el tamaño muestral, la duración del seguimiento ni el diseño exacto del estudio.\nMensaje: si se confirma con los datos completos, reforzaría el rol de olverembatinib como alternativa en segunda línea para pacientes con LMC que no responden o no toleran el tratamiento previo.\nNota: análisis sin acceso al abstract."
-    },
-    "b8e4b890d6e4": {
-      "resumen": "OncLive presenta el ensayo INTREPID, que evalúa sapablursen, un oligonucleótido antisentido en investigación, para pacientes con policitemia vera (una neoplasia mieloproliferativa) que dependen de flebotomías repetidas para controlar el hematocrito. Interesa porque busca una alternativa que reduzca la necesidad de este procedimiento.",
-      "destacado": false,
-      "analisis": "Diseño: ensayo clínico en curso (INTREPID); el título no especifica su fase, aleatorización, cegamiento, número de centros ni de pacientes previstos.\nPoblación: pacientes con policitemia vera dependientes de flebotomía para el control del hematocrito.\nIntervención: sapablursen, un oligonucleótido antisentido en investigación; no se especifica comparador en el título.\nResultados: no disponibles, ya que la nota describe el objetivo del ensayo y no resultados de eficacia o seguridad.\nLimitaciones: al tratarse de un ensayo en curso sin resultados publicados, no hay datos que permitan evaluar eficacia, seguridad ni significancia estadística.\nMensaje: si logra reducir la dependencia de flebotomías, podría sumar una opción no citorreductora para el manejo de la policitemia vera, pero por ahora es solo un ensayo en marcha.\nNota: análisis sin acceso al abstract."
-    },
-    "92e215865e5e": {
-      "resumen": "Artículo del Journal of Clinical Oncology que reflexiona sobre cómo los ensayos pequeños en cánceres raros con biomarcadores infrecuentes terminan modificando la práctica clínica, pese a sus limitaciones metodológicas. Es útil para entender qué nivel de evidencia sostiene los cambios de conducta en oncología de precisión cuando faltan estudios grandes.",
-      "destacado": false
     },
     "cb7ab5143b59": {
       "resumen": "Vogue repasa la colección masculina de Kith para el otoño 2026, presentada en la semana de la moda."
@@ -74,29 +38,74 @@
     "b3efec3501df": {
       "resumen": "La cantante Danna combina pantalones acampanados con estampado animal print y tacos de estilo años 70, una tendencia que vuelve para el verano 2026."
     },
-    "91591cd4651b": {
-      "resumen": "Agustina Díaz sumó a sus looks un top qipao, la prenda de inspiración oriental que se instaló como tendencia."
-    },
-    "a9668db6db55": {
-      "resumen": "Claudia Fontán lució dos looks de invitada en una boda en Italia que anticipan las tendencias de la temporada."
-    },
-    "d14c65a37968": {
-      "resumen": "InStyle México repasa las tendencias en calzado para lograr un look cool esta temporada."
-    },
-    "208ba129517f": {
-      "resumen": "Se estrena la adaptación al cine de La hipótesis del amor, la novela que nació como un fan fiction de Star Wars."
-    },
-    "7fd86460c189": {
-      "resumen": "Zara presenta una camisa con un detalle de diseño que le da un giro renovado a la prenda clásica."
-    },
     "ce89ef9916db": {
       "resumen": "Página 12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
     },
     "fecadaf3f75a": {
       "resumen": "Canal26 recuerda la insólita visita de un príncipe a Buenos Aires, que se quedó dormido en el Teatro Colón y desapareció, generando una alerta de Scotland Yard (la policía metropolitana de Londres)."
     },
-    "d874257a1df5": {
-      "resumen": "TV Pública informa que se dieron a conocer los nominados a los Premios Hugo, que distinguen a las producciones teatrales porteñas."
+    "3e5459a38ab3": {
+      "resumen": "Video de OncLive en el que un especialista comenta el diseño del ensayo clínico FIT-001, que evalúa un nuevo esquema en carcinoma de células renales (cáncer de riñón). Sirve para seguir de cerca cómo se están armando los próximos estudios en esta enfermedad.",
+      "destacado": false
+    },
+    "abae097df211": {
+      "resumen": "Entrevista de OncLive sobre las diferencias entre los degradadores de BTK (Bruton tyrosine kinase, una proteína clave en la señalización de las células B) y los inhibidores de BTK ya conocidos, en el tratamiento de la leucemia linfática crónica (LLC). Ayuda a entender hacia dónde va esta clase de fármacos.",
+      "destacado": false
+    },
+    "20639d8e6809": {
+      "resumen": "OncLive entrevista sobre las futuras líneas de investigación de golcadomide, una droga en desarrollo para el linfoma folicular recaído o refractario (R/R, es decir que reapareció o no respondió al tratamiento inicial). Da pistas de por dónde vienen los próximos ensayos.",
+      "destacado": false
+    },
+    "a6c620f2e7be": {
+      "resumen": "Relato publicado en Journal of Clinical Oncology (JCO), dentro de su sección de narrativa médica ('Art of Oncology'), sobre la experiencia de un paciente y su equipo tratante. Una lectura para pensar la práctica clínica desde lo humano, más que un estudio con datos duros.",
+      "destacado": false
+    },
+    "274b2ba20be1": {
+      "resumen": "Ensayo clínico de fase III publicado en Journal of Clinical Oncology (JCO) que compara la radioterapia de rescate hipofraccionada acelerada (dosis más altas en menos sesiones) contra el esquema estándar, en pacientes con recurrencia bioquímica (aumento del PSA) tras una prostatectomía radical. Relevante porque podría acortar los tratamientos de rescate sin perder eficacia.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (según el título); no se cuenta con el abstract completo para precisar cegamiento, número de centros ni de pacientes.\nPoblación: Varones con cáncer de próstata y recurrencia bioquímica (aumento del PSA) luego de prostatectomía radical, candidatos a radioterapia de rescate.\nIntervención: Radioterapia de rescate hipofraccionada acelerada (mayor dosis por sesión, tratamiento más corto) versus radioterapia de rescate estándar (fraccionamiento convencional).\nResultados: No disponibles en este resumen; el título no incluye cifras de eficacia ni de toxicidad.\nLimitaciones: Sin acceso al texto completo no se pueden evaluar el poder estadístico, la duración del seguimiento ni los eventos adversos reportados.\nMensaje: Si confirma no inferioridad, la hipofraccionación acortaría el tratamiento de rescate y aliviaría la carga para el paciente; hay que esperar los resultados numéricos para saber si cambia la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "516122843f48": {
+      "resumen": "Estudio publicado en Journal of Clinical Oncology (JCO) que evalúa la combinación de becotatug vedotin (un anticuerpo conjugado a droga citotóxica) con pucotenlimab (un inhibidor de PD-1, molécula de inmunoterapia) en carcinoma de nasofaringe recurrente o metastásico resistente a platino e inmunoterapia previa. Interesa porque aborda una población con pocas opciones terapéuticas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no especifica fase ni aleatorización); sin el abstract no se puede precisar si es fase I, II, el cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes con carcinoma de nasofaringe recurrente o metastásico, resistentes tanto a platino como a inmunoterapia previa (población pretratada y de mal pronóstico).\nIntervención: Combinación de becotatug vedotin (anticuerpo conjugado a droga) con pucotenlimab (inhibidor de PD-1), sin comparador claro en el título.\nResultados: No disponibles en este resumen; no se cuenta con tasas de respuesta, supervivencia ni datos de toxicidad.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni la solidez estadística de los hallazgos.\nMensaje: Es una señal temprana en una población resistente y con pocas alternativas; su impacto real en la práctica dependerá de datos de eficacia y seguridad que no están disponibles en este resumen.\nNota: análisis sin acceso al abstract."
+    },
+    "c0614db257d2": {
+      "resumen": "Estudio publicado en JAMA Oncology que analiza el financiamiento federal versus el de la industria farmacéutica en los ensayos clínicos oncológicos de Estados Unidos. Da un panorama de quién está poniendo la plata para investigar nuevos tratamientos contra el cáncer.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional, probablemente transversal o de tendencias a partir de registros de ensayos clínicos; sin el abstract no se puede precisar la fuente de datos exacta, el período analizado ni el número de ensayos incluidos.\nPoblación: Ensayos clínicos oncológicos realizados en Estados Unidos, clasificados según su fuente de financiamiento (federal versus industria).\nIntervención: No aplica un tratamiento; el estudio compara categorías de financiamiento (agencias federales, como el NCI —National Cancer Institute— versus la industria farmacéutica).\nResultados: No disponibles en este resumen; no hay cifras de proporción de ensayos por tipo de financiamiento ni de su evolución en el tiempo.\nLimitaciones: Sin el abstract no se puede juzgar la representatividad de la muestra de ensayos ni si se ajustó por tipo de tumor o fase del estudio.\nMensaje: Este tipo de análisis ayuda a entender qué áreas de investigación oncológica dependen más del financiamiento público y cuáles del privado, algo relevante para pensar prioridades de investigación futuras.\nNota: análisis sin acceso al abstract."
+    },
+    "d3dd774f600d": {
+      "resumen": "Estudio publicado en JAMA Oncology sobre las tendencias en la incidencia, el tratamiento y el seguimiento por imágenes del meningioma (el tumor primario del sistema nervioso central más frecuente, generalmente de crecimiento lento). Sirve para entender cómo cambió el manejo de estos tumores con el uso creciente de resonancias magnéticas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de tendencias, probablemente basado en registros poblacionales; sin el abstract no se puede precisar el período analizado, la fuente de datos ni el número de casos.\nPoblación: Pacientes diagnosticados con meningioma (tumor primario del sistema nervioso central, mayoritariamente benigno).\nIntervención: No aplica una intervención puntual; se describen patrones de tratamiento (cirugía, radioterapia, observación) y de seguimiento con imágenes a lo largo del tiempo.\nResultados: No disponibles en este resumen; no hay cifras de incidencia ni de proporción de estrategias de manejo.\nLimitaciones: Sin el abstract no se puede evaluar si el estudio ajustó por edad, tamaño tumoral o localización, factores que influyen mucho en la conducta terapéutica.\nMensaje: Entender estas tendencias ayuda a dimensionar el peso creciente del \"sobrediagnóstico\" por imágenes y a discutir cuándo conviene solo observar un meningioma en vez de tratarlo activamente.\nNota: análisis sin acceso al abstract."
+    },
+    "952fc1160d98": {
+      "resumen": "La Razón repasa seis tendencias de moda imprescindibles para lucir a la moda este otoño."
+    },
+    "5298d8bd3c60": {
+      "resumen": "Cosmopolitan presenta siete colores de pelo que serán tendencia en otoño, del 'Golden Brunette' al 'Espresso Copper'."
+    },
+    "0138d1e68256": {
+      "resumen": "El Mundo anticipa las siete tendencias de moda que llegan con septiembre de 2026."
+    },
+    "f21458f859df": {
+      "resumen": "OkDiario explica cómo lucir el corte 'Bixie', la nueva tendencia de pelo pensada para cabello maduro."
+    },
+    "4aeda62f8d53": {
+      "resumen": "Vogue México presenta una nueva línea de smartphones pensada para combinar con cualquier look."
+    },
+    "2050264dddc2": {
+      "resumen": "El grupo Ballet Agitando Pañuelos se consagró primero en el certamen de danza Elemental Dance."
+    },
+    "4eb770922a9b": {
+      "resumen": "El Teatro Colón será sede del cierre del Mundial de Tango 2026 y hay entradas gratuitas disponibles, según El Cronista."
+    },
+    "df537979153b": {
+      "resumen": "Gustavo Santaolalla arrancó la gira que lo traerá al Teatro Colón el 21 de septiembre."
+    },
+    "5d3ae1aedc69": {
+      "resumen": "Restaurantes porteños lanzan propuestas especiales de ñoquis para este sábado 29, según Panorama Directo."
     }
   }
 }
