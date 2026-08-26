@@ -1,43 +1,11 @@
 {
- "generated_at": "2026-08-26T07:14:14.432848+00:00",
+ "generated_at": "2026-08-26T09:06:31.828920+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
-    {
-     "title": "Challenges in the use of the European Society for Radiotherapy and Oncology-European Organisation for Research and Treatment of Cancer oligometastatic disease classification system in ovarian cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42636843/",
-     "source": "Lancet Oncology",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Macchia G et al. · The Lancet. Oncology",
-     "id": "a197d7e5eb01"
-    },
-    {
-     "title": "Tumour-infiltrating lymphocytes and breast radiotherapy: perspectives from the International Immuno-Oncology Biomarker Working Group",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42636842/",
-     "source": "Lancet Oncology",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Gunster JLB et al. · The Lancet. Oncology",
-     "id": "8a5429e8b36e"
-    },
-    {
-     "title": "Correction to Lancet Oncol 2026; 27: 686-98",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42636841/",
-     "source": "Lancet Oncology",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "The Lancet. Oncology",
-     "id": "7b8b3d74a25e"
-    },
-    {
-     "title": "Closing the gap in southeast Asia's diagnostic molecular oncology testing",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42636840/",
-     "source": "Lancet Oncology",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Poon KS et al. · The Lancet. Oncology",
-     "id": "247a5feacf5a"
-    },
     {
      "title": "Dr Ayanambakkam on the Design of the FIT-001 Trial in Renal Cell Carcinoma",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmFfTkRqWGpXTVp5NmNVNy1Fb1hUWEJyaC1mbGVoRWVXd1FTeVhqTnl2eXFKQ2VBVDNKTDFMelEtZnVvbzBMNUJQQW4zQzlqZm5WRE15WHE0bDlVeWhoOGIxSzg4ZnpKSU5rMjdJejRnX0xOTmJvV3BKM0pPYzRqUmh6dVRrWFZ0Y0Y4YVVyWENOdlZnSHFSTHpBbzV2UnFBMjVYTlFR?oc=5",
@@ -60,7 +28,7 @@
      "id": "20639d8e6809"
     },
     {
-     "title": "FDA Approves Zanidatamab Combination Regimens for HER2 Gastric GEJ or Esophageal Cancer",
+     "title": "FDA Approves Zanidatamab Combination Regimens for HER2-Positive Gastric, GEJ, or Esophageal Cancer",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSy1qYmI1S0tVQWlsT3hrWUtpZ3FDQmhVYkVQNDk5MXhvVUgtdDd6Uk5aWENtTUpmZWQyX0VNVGdPRmJxV1dFRTFFWkRDS3QxQk5Kekd2TGxhODl6bFl1QmtvR1FHU2hLMkdCTktOZHhUMjAxOF9MaHRvMmdueU1QNFVORFBmam12TnhwcXJZaTY5WUFZazgyZUVlOVBTTlFIaTdlRHpSeExnS3NFdmFoSGRuYThoUDQzREJVSmpjUWlKVXJS?oc=5",
      "source": "The ASCO Post",
      "published": "2026-08-25T16:03:20+00:00",
@@ -96,6 +64,37 @@
      "source": "The ASCO Post",
      "published": "2026-08-24T18:03:47+00:00",
      "id": "ba44882c97e6"
+    },
+    {
+     "title": "Long-Term Survivors of Hodgkin Lymphoma May Face Elevated Health Risks, Study Finds",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkZiOVFJSzE3T05zTWNmNnhRUzYzTHVXX0RJa3ZyeUtUd2dnUEVCUDRDS29SeF9QalVhdkdTb1Y1eWRRN3MxT1VGLUE0ekFadUFRMmt3OW1hNmNXbWxFTzdpTVdqVFZtVS1WUE5xRjBWRU1DM2FjRnBOUmJoVnpVWHpWTlNYVTZ4ajBER2R5QmNCVlA0RU4xekFQSDlGUVZvb2ZpcjhoYmlmRWhvd2h1ZF9Db184dW13Mld5bTBR?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-08-24T17:15:41+00:00",
+     "id": "2dbb22234f21"
+    },
+    {
+     "title": "Omitting Bone Marrow Sampling in FDG-Avid Rhabdomyosarcoma With 2-[(18)F]FDG PET-Negative Marrow: Results From an International Retrospective Study",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636421/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-08-24T00:00:00+00:00",
+     "copete": "Mercolini F et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "8a0858557e5f"
+    },
+    {
+     "title": "Federal and Industry Sponsorship in US Cancer Clinical Trials",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623089/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Unger JM et al. · JAMA oncology",
+     "id": "c0614db257d2"
+    },
+    {
+     "title": "Trends in Meningioma Incidence, Treatment, and Imaging Surveillance",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42623066/",
+     "source": "JAMA Oncology",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Korshøj AR et al. · JAMA oncology",
+     "id": "d3dd774f600d"
     }
    ]
   },
@@ -108,8 +107,15 @@
      "title": "Kith Fall 2026 Menswear",
      "link": "https://www.vogue.com/fashion-shows/fall-2026-menswear/kith",
      "source": "Vogue",
-     "published": "2026-08-26T07:12:49+00:00",
+     "published": "2026-08-26T09:02:33+00:00",
      "id": "cb7ab5143b59"
+    },
+    {
+     "title": "Estas son las 6 tendencias que debes fichar sí o sí este otoño si quieres vestir como una experta en moda",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWYyR1d3Mi13LUx1bEpzUV9fa0UxNWtTaVhsbnJMS2RnVU5NdWpmSXJZUDhiZjBZOGxiTEE3SXNBNlBsM19QZ0hTLWZsWEJvU2E4QWFQREI2bU9zRThVQWg4WUhjdjJlTWNEZzhrLXRUcFdjRjN5Q1RTTjJ3ZnI4czRjMUhlcHl4SDJWUUZRMFNZYUU1c0U5U3h1WVF0NnhwZUZ5NHMzX2VjM2tjYzZrdzd4Y2ZmbWtoMnBBdnZsV2xDa3RqSlo1RlRxOGdZb2VoeXJUbm8yb2xPeE42STZTRjl2NDROdW5OM1pxZ2xJMzfSAYQCQVVfeXFMTjFyVndTT0YyMEhvVGNURzQ4TnB4cmNNUE1wTVhta3RuTXdneXZ0dkY1cS1NR0lsdWRjeFc1TE1OczNMMURZM0I2UU1oNUpxOEltdjJ2aDNtLVpnZGpUU1BkV1hPSl8zUnNZd1RobkdkbGdYVVlCdVNOSVNYZm1PdlhmcmtybS1yWGdyLUl6TE9KVHRSTjZGUndNNkJjdThqQy0tQTFOR2lrSDVvN25JYzdkTllsYk1WSW8zaTdvWmpoNU15bVpHZGtZNjFCaklBeDdJamhZZU9FZmtxT3ladkR6VFRNTWpZVmJsODdzX3F6RHkwYnpRYUJ2R29wYWRuS2sxT20?oc=5",
+     "source": "La Razón",
+     "published": "2026-08-26T08:07:00+00:00",
+     "id": "952fc1160d98"
     },
     {
      "title": "Del 'Golden Brunette' al 'Espresso Copper': 7 colores de pelo que serán tendencia en otoño",
@@ -126,18 +132,11 @@
      "id": "0138d1e68256"
     },
     {
-     "title": "Las tribus de estilo que marcarán las tendencias del otoño: desde 'The Heritage Rebel' hasta el 'Power Dressing'",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vSzdaZEsxOTg5dlUxSVlwNTNCQlRmaF9DdmhmV1k1SGJxXzFMTmZ2c0J0eU93akN4OHJnYW9FUjlvd3NSQmNXc2Z0dXU2cjVlN2ZNVU5BZjJmU1lzY0pCM29wQS1yQkVZYWgwMg?oc=5",
-     "source": "instyle.es",
-     "published": "2026-08-26T06:25:00+00:00",
-     "id": "60d02ef443eb"
-    },
-    {
-     "title": "'Nonna-maxxing': cuando los secretos de belleza de las abuelas se convierten en la nueva tendencia.",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGFUdDRnUGhTMUdkRFppc2p3Ti1PSHJDZjVyTFlmX0NuWVJIaDU2V19BYmlrUmFZWVlYdjRjTzJuM2lSS3NwVkVIdHpwXzd4WnV5cXNpdlo0R0pBMTU0T2hXU00xNFdPczlNdlozN3RLRGxpc2xnd1Zfa2FxUDRfbkFZcDZralZLdHFzcVBZVjRNUzhIdDZsWmF3d3gzaUgxcHc?oc=5",
-     "source": "Vietnam.vn",
-     "published": "2026-08-26T06:08:04+00:00",
-     "id": "bebef8d82008"
+     "title": "Cortes ‘Bixie’ para cabello maduro: cómo lograr que la nueva moda para el pelo te favorezca",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDFaQlB2eHYxNk1aTUM1cXp4U1BqSFhSZ1JNX1pzTlFuOVVnUEVqUVlrUEF3TUtVQml2b2R0SnZnZkl1M2xSYlhWRVBsdDBxRDl6a2w5blBjTThpOVc0bGpIY1dFWDhBRHR0NTRkbjBrVHFNa2xNTlZSNmtDc1Ffcl9IaDE3OTJKTzBSQlBhZ1l5VnlBV3NhVUhISUhCdy13WGVIMzBtRklOei1lX2Y2UUxMUXczUdIBuwFBVV95cUxOWkxRZ0d4UEhLZzdiZDRrZ2szSjFPOC1hR1ZyRUNzRU5uVHlmamFmWG1nUzAwMzg4bVRqXzFiczV2bmEwVWNJbzFIaDBQcWxGcjdRWVFwNk5xblB0S0VsYTRvS2plSWJiYkYwaHRZdmFsdkRSb0xlYmpRYjlKdnhSVkY1TXFvWUU4ZlpRbDRwSGg5VGJtT2ZjWU96Z2o1am1tWXUxczM3MjdWTFBhUWlwcmpHSGs5MnA1dWk4?oc=5",
+     "source": "OkDiario",
+     "published": "2026-08-26T06:30:19+00:00",
+     "id": "f21458f859df"
     },
     {
      "title": "From Notting Hill to Rio: The Brand Guide to Carnival",
@@ -185,6 +184,30 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Moria y Luis Vadalá: un amor de diez años que terminó en denuncias, un juicio y un escándalo que comentó todo un país",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/moria-y-luis-vadala-un-amor-de-diez-anos-que-termino-en-denuncias-un-juicio-y-un-escandalo-que-nid26082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-26T09:01:00+00:00",
+     "copete": "Se conocieron en 1990 y al poco tiempo se casaron; emprendieron junto la vanguardista Playa Franka y otros negocios; en 2001, se separaron en medio de acusaciones mediáticas",
+     "id": "1c151ebaeb95"
+    },
+    {
+     "title": "Darío Barassi: de la transformación para su nueva serie a los innegociables en su vida y la exposición de sus hijas",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/dario-barassi-de-la-transformacion-para-su-nueva-serie-a-los-innegociables-en-su-vida-y-la-nid26082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-26T09:01:00+00:00",
+     "copete": "En diálogo con LA NACION, el actor y conductor habló del desafío al que se enfrentó con Gutiérrez is mai neim, la serie de ocho episodios que se estrena hoy en Disney+",
+     "id": "47dc11ffa450"
+    },
+    {
+     "title": "Sandra Bullock se refirió al momento personal más oscuro de su vida: “Fue un espectáculo de terror”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/sandra-bullock-se-refirio-al-momento-personal-mas-oscuro-de-su-vida-fue-un-espectaculo-de-terror-nid26082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-08-26T07:25:44+00:00",
+     "copete": "La actriz reveló cómo fueron los últimos meses junto a su esposo, Bryan Randall, fallecido en 2023, y por qué decidió abandonar la actuación al menos por un tiempo",
+     "id": "27d58fa2dc4b"
+    },
+    {
      "title": "Confirmaron la causa de la muerte de la cantante Dolly Parton",
      "link": "https://www.clarin.com/espectaculos/confirmaron-causa-muerte-cantante-dolly-parton_0_B9pwMIaWTq.html",
      "source": "Clarín Espectáculos",
@@ -193,20 +216,20 @@
      "id": "f7bc347cec1d"
     },
     {
-     "title": "Natalie Weber en “Lo de Pampita”: “Olí cuellos de camisas de Mauro para ver si había perfume de mujer”",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/natalie-weber-en-lo-de-pampita-oli-cuellos-de-camisas-de-mauro-para-ver-si-habia-perfume-de-mujer/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T05:00:00+00:00",
-     "copete": "La modelo y panelista habló de los celos que atravesó durante su relación con Mauro Zárate, recordó el vínculo con su papá y reflexionó sobre la dinámica familiar con el paso del tiempo y su regreso al trabajo",
-     "id": "73865a3dc109"
-    },
-    {
      "title": "Vir Módica, de casi ser una Bandana hace 25 años a directora vocal de Popstars: “Emociona que la vida me ponga de este lado”",
      "link": "https://www.infobae.com/teleshow/2026/08/26/vir-modica-la-directora-vocal-de-popstars-que-hace-25-anos-casi-fue-una-bandana-emociona-que-la-vida-me-ponga-de-este-lado/",
      "source": "Teleshow (Infobae)",
      "published": "2026-08-26T05:00:00+00:00",
      "copete": "En 2001 fue una de las jóvenes que soñaba con formar una banda pop. En diálogo con Teleshow recordó aquel inicio que comenzó por un aviso en un diario. Cómo su sueño roto generó un vuelco en su carrera. El regreso al formato",
      "id": "ffeb476a487a"
+    },
+    {
+     "title": "Natalie Weber en “Lo de Pampita”: “Olí cuellos de camisas de Mauro para ver si había perfume de mujer”",
+     "link": "https://www.infobae.com/teleshow/2026/08/26/natalie-weber-en-lo-de-pampita-oli-cuellos-de-camisas-de-mauro-para-ver-si-habia-perfume-de-mujer/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-26T05:00:00+00:00",
+     "copete": "La modelo y panelista habló de los celos que atravesó durante su relación con Mauro Zárate, recordó el vínculo con su papá y reflexionó sobre la dinámica familiar con el paso del tiempo y su regreso al trabajo",
+     "id": "73865a3dc109"
     },
     {
      "title": "Dolly Parton: confirmaron la causa de muerte de la leyenda norteamericana de la música country",
@@ -249,30 +272,6 @@
      "id": "380f8adef771"
     },
     {
-     "title": "La muerte de Dolly Parton: de Jane Fonda hasta Sabrina Carpenter y Mick Jagger, el desconsuelo de los famosos en las redes",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-muerte-de-dolly-parton-de-jane-fonda-hasta-sabrina-carpenter-y-mick-jagger-el-desconsuelo-de-los-nid25082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-26T02:16:36+00:00",
-     "copete": "La cantante, compositora, productora y actriz falleció este martes a los 80 años y sus colegas la despidieron y homenajearon",
-     "id": "800e2cc54f97"
-    },
-    {
-     "title": "Alejandro Awada, actor: “Lamenté que mi hija quisiera ser actriz, me hubiera gustado que estudiara una carrera”",
-     "link": "https://www.lanacion.com.ar/espectaculos/alejandro-awada-actor-lamente-que-mi-hija-quisiera-ser-actriz-me-hubiera-gustado-que-estudiara-una-nid25082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-25T23:42:08+00:00",
-     "copete": "En su visita al programa de Juana Viale, el reconocido intérprete recordó la reacción que tuvo cuando su hija le comunicó su vocación artística y reflexionó sobre los desafíos del oficio",
-     "id": "a63522f2fe8d"
-    },
-    {
-     "title": "La serie de cinco capítulos de Netflix que revoluciona a los fanáticos de los casos criminales",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-serie-de-cinco-capitulos-de-netflix-que-revoluciona-a-los-fanaticos-de-los-casos-criminales-nid25082026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-08-25T23:16:00+00:00",
-     "copete": "“Sacrificio en sangre” aterrizó en el gigante del streaming el jueves 20 de agosto y ya es una de las más vistas por los suscriptores de Argentina",
-     "id": "ff7a22fd1b46"
-    },
-    {
      "title": "Donald Trump lamentó la muerte de Dolly Parton y anunció un gesto de luto a nivel nacional: \"Nunca hubo nadie como ella, y nunca habrá\"",
      "link": "https://www.clarin.com/espectaculos/donald-trump-lamento-muerte-dolly-parton-anuncio-gesto-luto-nivel-nacional-nadie_0_q76upbLnYb.html",
      "source": "Clarín Espectáculos",
@@ -291,7 +290,7 @@
      "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmhRbEFsWG1pZElLX0ctSGNiZk1acHgydVZLWDhDdWE2bzU5Zkp0T2RQZ1dlc0ZjVFByZk9iRFAwTlhRQXZvOE51MEdBSVY0cWE1NFdjb3JDNVZPRHpxc3RZdW5memdLQjFZS2ZaeFBOX1lQOUVtUGY3WHNQUFR4WUpEbkVkNG9sZk15WnM0S0ozaGY4Z2x3Q0ZsWXF3M0lk?oc=5",
      "source": "Página|12",
-     "published": "2026-08-26T06:04:37+00:00",
+     "published": "2026-08-26T09:04:37+00:00",
      "id": "ce89ef9916db"
     },
     {
@@ -373,76 +372,76 @@
      "id": "ea5af4ec1911"
     },
     {
-     "title": "Murieron 14 niños en el incendio de una sala de recién nacidos en un hospital de Pakistán",
-     "link": "https://www.lanacion.com.ar/el-mundo/murieron-14-ninos-en-un-incendio-en-una-sala-de-recien-nacidos-en-un-hospital-de-pakistan-nid26082026/",
+     "title": "Darío Barassi: de la transformación para su nueva serie a los innegociables en su vida y la exposición de sus hijas",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/dario-barassi-de-la-transformacion-para-su-nueva-serie-a-los-innegociables-en-su-vida-y-la-nid26082026/",
      "source": "La Nación",
-     "published": "2026-08-26T07:09:32+00:00",
-     "copete": "En la habitación había 15 bebés y solo uno de ellos pudo ser rescatado; el primer ministro pakistaní definió al episodio como una “tragedia”",
-     "id": "6a4e998ec1c3"
+     "published": "2026-08-26T09:01:00+00:00",
+     "copete": "En diálogo con LA NACION, el actor y conductor habló del desafío al que se enfrentó con Gutiérrez is mai neim, la serie de ocho episodios que se estrena hoy en Disney+",
+     "id": "47dc11ffa450"
     },
     {
-     "title": "Otro robo de viuda negra: conoció a una mujer, la llevó a su departamento y lo drogó",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/26/otro-robo-de-viuda-negra-conocio-a-una-mujer-la-llevo-a-su-departamento-y-lo-drogo/",
-     "source": "Infobae",
-     "published": "2026-08-26T07:05:44+00:00",
-     "copete": "La víctima relató que una mujer lo sedó en su domicilio de San Salvador de Jujuy y le sustrajo $4 millones, documentos y pertenencias. La policía avanza en la identificación de la sospechosa",
-     "id": "f51e15fd79c0"
-    },
-    {
-     "title": "Sergio Massa reapareció en un acto en Rosario y dejó un mensaje para el peronismo: “La unidad es lo más importante”",
-     "link": "https://www.lanacion.com.ar/politica/sergio-massa-reaparecio-en-un-acto-en-rosario-y-dejo-un-mensaje-para-el-peronismo-la-unidad-es-lo-nid26082026/",
+     "title": "Moria y Luis Vadalá: un amor de diez años que terminó en denuncias, un juicio y un escándalo que comentó todo un país",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/moria-y-luis-vadala-un-amor-de-diez-anos-que-termino-en-denuncias-un-juicio-y-un-escandalo-que-nid26082026/",
      "source": "La Nación",
-     "published": "2026-08-26T07:02:06+00:00",
-     "copete": "El dirigente del Frente Renovador se mostró en público luego del viaje que emprendió con su esposa, Malena Galmarini, a Barbados",
-     "id": "fa9a5430d12b"
+     "published": "2026-08-26T09:01:00+00:00",
+     "copete": "Se conocieron en 1990 y al poco tiempo se casaron; emprendieron junto la vanguardista Playa Franka y otros negocios; en 2001, se separaron en medio de acusaciones mediáticas",
+     "id": "1c151ebaeb95"
     },
     {
-     "title": "Ni gimnasio ni caminata: el ejercicio de fuerza ideal para frenar la pérdida de masa muscular y mantenerse saludable",
-     "link": "https://www.lanacion.com.ar/sociedad/ni-gimnasio-ni-caminata-el-ejercicio-de-fuerza-ideal-para-frenar-la-perdida-de-masa-muscular-y-nid26082026/",
+     "title": "Costa Rica: un viaje por la selva, para navegar entre canales y ver tortugas",
+     "link": "https://www.lanacion.com.ar/salud/costa-rica-un-viaje-por-la-selva-para-navegar-entre-canales-y-ver-tortugas-nid25082026/",
      "source": "La Nación",
-     "published": "2026-08-26T07:00:00+00:00",
-     "copete": "El entrenador Álvaro Puche planteó una alternativa para poner en práctica a partir de los 60 años orientada a preservar la calidad de vida en esta etapa",
-     "id": "7121a8a3f352"
+     "published": "2026-08-26T09:00:01+00:00",
+     "copete": "En el Caribe norte del país, el Parque Nacional Tortuguero, rodeado de un frondoso bosque húmedo, recibe a las tortugas marinas para desovar y es gran reservorio de flora y fauna para descubrir en paseos en lancha",
+     "id": "ba3897a8c1c6"
     },
     {
-     "title": "Consulta en familia: los hijos de Daniel Ortega respaldan las reformas contra elecciones libres en Nicaragua",
-     "link": "https://www.infobae.com/nicaragua/2026/08/26/consulta-en-familia-los-hijos-de-daniel-ortega-respaldan-las-reformas-contra-elecciones-libres-en-nicaragua/",
+     "title": "La pandemia los unió en plena ruta: cómo es la vida de la pareja argentina que dejó todo para vivir en una combi y recorrer el mundo en familia",
+     "link": "https://www.infobae.com/sociedad/2026/08/26/la-pandemia-los-unio-en-plena-ruta-como-es-la-vida-de-la-pareja-argentina-que-dejo-todo-para-vivir-en-una-combi-y-recorrer-el-mundo-en-familia/",
      "source": "Infobae",
-     "published": "2026-08-26T07:00:00+00:00",
-     "copete": "Cuatro hijos de la pareja gobernante representan a distintos sectores en unas consultas que avanzan sin objeciones públicas y buscan respaldar los cambios impulsados por Daniel Ortega",
-     "id": "f3dd456849d7"
+     "published": "2026-08-26T09:00:01+00:00",
+     "copete": "Sergio “Totti” Huczek llevaba dos años y medio recorriendo el país solo cuando el Covid-19 lo dejó varado en Santa Cruz. Ahí conoció a Ana Fontana, y ninguno de los dos volvió a quedarse quieto",
+     "id": "d27c2537347f"
     },
     {
-     "title": "La CIDH otorgó medidas cautelares a favor de una funcionaria judicial desaparecida por el régimen de Nicaragua",
-     "link": "https://www.infobae.com/nicaragua/2026/08/26/la-cidh-otorgo-medidas-cautelares-a-favor-de-una-funcionaria-judicial-desaparecida-por-el-regimen-de-nicaragua/",
+     "title": "6 señales de que el cuerpo no recibe suficientes calorías y cuándo consultar al médico",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/26/6-senales-de-que-el-cuerpo-no-recibe-suficientes-calorias-y-cuando-consultar-al-medico/",
      "source": "Infobae",
-     "published": "2026-08-26T06:47:50+00:00",
-     "copete": "Hasta la fecha, no existen cargos formales públicos ni se informó el motivo oficial de la detención de Daysi Amelia Castillo Álvarez. “Sus derechos a la vida, integridad personal y salud enfrentan un riesgo de daño irreparable”, indicó el…",
-     "id": "8e001b6545f7"
+     "published": "2026-08-26T09:00:01+00:00",
+     "copete": "La restricción calórica prolongada deteriora funciones clave del organismo, desde la energía disponible hasta la salud del cabello y la piel",
+     "id": "21a779a7cccf"
     },
     {
-     "title": "En cuidados paliativos, la solidaridad es un motor que transforma el dolor en alivio",
-     "link": "https://www.infobae.com/opinion/2026/08/26/en-cuidados-paliativos-la-solidaridad-es-un-motor-que-transforma-el-dolor-en-alivio/",
+     "title": "Qué le pasa al cuerpo cuando se deja de entrenar y en cuánto tiempo se pierde la condición física",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/26/que-le-pasa-al-cuerpo-cuando-se-deja-de-entrenar-y-en-cuanto-tiempo-se-pierde-la-condicion-fisica/",
      "source": "Infobae",
-     "published": "2026-08-26T06:18:48+00:00",
-     "copete": "La solidaridad en el contexto de una enfermedad que amenaza la vida es la certeza de que el derecho a vivir con dignidad pertenece a todos sin importar sus recursos económicos. Cuando la medicina ya no puede curar, la comunidad todavía…",
-     "id": "74444492d9f3"
+     "published": "2026-08-26T09:00:01+00:00",
+     "copete": "Dejar la rutina de ejercicio dispara una serie de adaptaciones internas que comienzan antes de lo esperado. La capacidad cardiovascular y la fuerza no se deterioran al mismo ritmo ni en el mismo plazo",
+     "id": "775df2310b7d"
     },
     {
-     "title": "\"Después de 30 años en el departamento de admisiones, la lección más importante que aprendí me la dio mi propio hijo\"",
-     "link": "https://www.clarin.com/estados-unidos/despues-30-anos-departamento-admisiones-leccion-importante-aprendi-dio-propio-hijo_0_Q55yj7uLZb.html",
+     "title": "Desarrollan una interfaz intuitiva que permite manejar excavadoras con gestos naturales",
+     "link": "https://www.infobae.com/tecno/2026/08/26/desarrollan-una-interfaz-intuitiva-que-permite-manejar-excavadoras-con-gestos-naturales/",
+     "source": "Infobae",
+     "published": "2026-08-26T09:00:01+00:00",
+     "copete": "Ingenieros del MIT crearon un brazo mecánico a escala que reemplaza los joysticks tradicionales, logrando que principiantes alcancen un rendimiento similar al de operadores expertos desde la primera sesión",
+     "id": "1e6d05a8c2ee"
+    },
+    {
+     "title": "El USS Abraham Lincoln va a Tailandia para una breve escala tras un largo despliegue en el mar",
+     "link": "https://www.clarin.com/estados-unidos/el-uss-abraham-lincoln-va-a-tailandia-para-una-breve-escala-tras-un-largo-despliegue-en-el-mar_0_KLTVJWAJpl.html",
      "source": "Clarín",
-     "published": "2026-08-26T06:11:49+00:00",
-     "copete": "Una especialista en educación superior tuvo que acompañar a su hijo después de un fracaso académico. Tres años después, el joven regresó a la universidad y consiguió resultados que sorprendieron a su familia.",
-     "id": "2f36d96b44d6"
+     "published": "2026-08-26T08:10:08+00:00",
+     "copete": "El USS Abraham Lincoln, tras un extenso despliegue en Medio Oriente, hará una parada en Tailandia para descanso. La visita no incluirá maniobras militares, según la Marina Real Tailandesa, y busca aliviar la presión sobre la tripulación.",
+     "id": "e3be65a79f28"
     },
     {
-     "title": "Canciller mexicano llega a EEUU para su primer encuentro formal con Rubio",
-     "link": "https://www.clarin.com/estados-unidos/canciller-mexicano-llega-a-eeuu-para-su-primer-encuentro-formal-con-rubio_0_ioteW9QmwO.html",
+     "title": "Tos que no se va: por qué ocurre y cuándo consultar",
+     "link": "https://www.clarin.com/buena-vida/tos-va-ocurre-consultar_0_vWjgNdVt3t.html",
      "source": "Clarín",
-     "published": "2026-08-26T06:10:10+00:00",
-     "copete": "El canciller mexicano Velasco se reunirá con el secretario de Estado de EE.UU. Rubio para discutir temas bilaterales cruciales, incluyendo migración y seguridad. El regreso del exgobernador de Sinaloa y las tensiones comerciales con EE.UU…",
-     "id": "ef4980ccae63"
+     "published": "2026-08-26T08:01:50+00:00",
+     "copete": "Puede prolongarse varias semanas tras una infección. Claves para diferenciar la tos posinfecciosa de la crónica.",
+     "id": "0f870524d8de"
     }
    ]
   },
@@ -451,6 +450,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Estados Unidos suspende las citas para solicitar visados en embajadas y consulados de todo el mundo",
+     "link": "https://elpais.com/internacional/2026-08-26/estados-unidos-suspende-las-citas-para-solicitar-visados-en-embajadas-y-consulados-de-todo-el-mundo.html",
+     "source": "El País Internacional",
+     "published": "2026-08-26T08:45:59+00:00",
+     "copete": "El Departamento de Estado, en plena ofensiva de la Administración Trump contra la inmigración, enmarca la medida en una iniciativa de formación en las legaciones",
+     "id": "9f214667f1ee"
+    },
     {
      "title": "Mueren al menos 15 recién nacidos en un incendio en un hospital en Pakistán",
      "link": "https://elpais.com/internacional/2026-08-26/mueren-varios-recien-nacidos-en-un-incendio-en-un-hospital-en-pakistan.html",
@@ -506,14 +513,6 @@
      "published": "2026-08-25T21:54:39+00:00",
      "copete": "La cantante estrella de la música country, que surgió de orígenes humildes, llegó a convertirse en una de las artistas más queridas del mundo.",
      "id": "a73eb90112db"
-    },
-    {
-     "title": "Las sanciones de EE UU para aislar la economía de Irán excluyen entidades clave",
-     "link": "https://elpais.com/internacional/2026-08-25/las-sanciones-de-ee-uu-para-aislar-la-economia-de-iran-excluyen-entidades-clave.html",
-     "source": "El País Internacional",
-     "published": "2026-08-25T18:52:08+00:00",
-     "copete": "El Departamento del Tesoro castiga a la flota fantasma iraní y a empresas, pero deja fuera a los bancos de China, uno de los grandes apoyos del sistema financiero de Teherán",
-     "id": "d6e4e6db478e"
     }
    ]
   }
@@ -521,7 +520,7 @@
  "_errors": [
   {
    "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
+   "feed": "Lancet Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
