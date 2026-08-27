@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T23:46:35.721986+00:00",
+ "generated_at": "2026-08-27T10:00:35.132000+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,31 +7,63 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Uma Borate, MBBS, MS",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQYzBjR2wwcy10ai1Pa1R2dmk1WjhKdy1YejlPQW5vbm41SDE2WmlzWVNhbUpWeDEtWGk4c3pNWHlqYTUyMENlcUNpeklVWEhHb2FrRmpLNFVUZkk4UWpv?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-26T20:58:19+00:00",
-     "id": "406b4c0277ba"
+     "title": "Challenges in the use of the European Society for Radiotherapy and Oncology-European Organisation for Research and Treatment of Cancer oligometastatic disease classification system in ovarian cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636843/",
+     "source": "Lancet Oncology",
+     "published": "2026-09-01T00:00:00+00:00",
+     "copete": "Macchia G et al. · The Lancet. Oncology",
+     "id": "a197d7e5eb01"
     },
     {
-     "title": "ASCO Issues Warning Regarding Ifosfamide Shortage for Cancer Care",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmpHWjRVVjFNMTIwX29ZcmhOYUNJLVFmR2dEeXdLZFFKUjdBM0xubXV4Y1QzajdBaTlYVmpzMG02d2Z3V0RQbjBxSlRkVEY0U3UxMUtVRUlSeEl0dkZ6NEJWWnc2dk15blBzem9oc1RpYjBFYmRwdnV1TFQ2QWlxQ29fTUpsQWM3ZjNRYmdYaG85VklVM1NGN3RR?oc=5",
-     "source": "OncLive",
-     "published": "2026-08-26T19:41:15+00:00",
-     "id": "d805aad07c01"
+     "title": "Tumour-infiltrating lymphocytes and breast radiotherapy: perspectives from the International Immuno-Oncology Biomarker Working Group",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636842/",
+     "source": "Lancet Oncology",
+     "published": "2026-09-01T00:00:00+00:00",
+     "copete": "Gunster JLB et al. · The Lancet. Oncology",
+     "id": "8a5429e8b36e"
     },
     {
-     "title": "sNDA Submitted to FDA for Gedatolisib in PIK3CA-Mutant, HR+/HER2-Negative Advanced Breast Cancer",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejZnaktCd2hOMTU4dzIxaThXSFVkRUs3d0RwRTdZWjkzS0hXS0ZyZ0NFWjN0aTVWSGV3dy1aY1pvcVZGMkx2WTg4elFzQzR5bGZPTXY3X2lKVWJIbS1YMVc5ZkZKT2RvWU9hRlNOUzllT2xmcmZ1aUN4X2NVTEp4czFSUmd1di1VMnRkRHZvUG14Q0g3dFd5TGRoNFRfbXFRVzNhSGw1MWRyNTlDN1BwOXdmTXNSeUZJNHE2R2F1MVY?oc=5",
+     "title": "Correction to Lancet Oncol 2026; 27: 686-98",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636841/",
+     "source": "Lancet Oncology",
+     "published": "2026-09-01T00:00:00+00:00",
+     "copete": "The Lancet. Oncology",
+     "id": "7b8b3d74a25e"
+    },
+    {
+     "title": "Closing the gap in southeast Asia's diagnostic molecular oncology testing",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636840/",
+     "source": "Lancet Oncology",
+     "published": "2026-09-01T00:00:00+00:00",
+     "copete": "Poon KS et al. · The Lancet. Oncology",
+     "id": "247a5feacf5a"
+    },
+    {
+     "title": "Dr Borate on Efficacy Data for Shorter Venetoclax-Plus-Azacitidine Dosing in AML",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVB5M01oYzFHdTQxWXgwbVNONnFOR3lRdHp4RzJnTnIxTndwMkJaZjQ4LTEzRnJkeDNQU2RtSF8zR3RwUFNXN2F4Sk5GVk4tNkVrdWFoWFUwc1JtOHlmQndMS082M3VvcUdxYTFtNmt0WWdhQ05jTDVRMDN2bXV6Sk82TENDX2E1UFUxRHVJMXJoUS1iQVdiUGdXQWR1OEdNclJDYjFaMGdSTDRuclE?oc=5",
      "source": "OncLive",
-     "published": "2026-08-26T19:09:07+00:00",
-     "id": "3431fd950690"
+     "published": "2026-08-27T06:56:15+00:00",
+     "id": "513446496230"
+    },
+    {
+     "title": "PEAK Trial Results With Bezuclastinib Plus Sunitinib in GIST",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHZJNzFwaFYzcE41RHFvZDVCYTNaRVY1WHJGVXFlZUY4N0RYMm11U1U0dTFrbUkwWFNVQlFXdjFaY1lBSTZUTEtzN3FFSGw0bEYzQXFJVWZrd2t2V0NGbnk4SElkMGMwNllXekVxRzZJdE5WMzNJdGYyZGJMd19rVjJobjhacjFGR1loaG1NS0JlQ0U?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-27T03:22:30+00:00",
+     "id": "e0dd49219fb6"
+    },
+    {
+     "title": "Advancing Allogeneic Transplant: GVHD Management and Optimizing Treatment Selection",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEwtbmRURGdreTlBWnFuZG9LRGx5Y2tjVWRYRGRuY2JOejNIMWlsZmtObF95U2FhWWJlTHgxbW1JcUJkOC1zeWJ1enJnMWMxWDhqMEJ3V2h4ZG9EOHhCWmY0em1fNk9OYWdaUHBFN3B4UDcwNmI5RmRzUWszaE1hWnlWMlRFRl9hZTgySm1EUUM2Nk1kN2J1ZkQyMmVMMk9YVk1uS0ZqWnVvM3RWZTRiT3BWQnlJdw?oc=5",
+     "source": "OncLive",
+     "published": "2026-08-27T02:02:05+00:00",
+     "id": "c858d14d2906"
     },
     {
      "title": "Cleveland Clinic President Discusses AI Summit for Health-Care Professionals",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHZkOUZRdHVZYXI4ZjllOW9KZXRVZ2o2ZlhPOF9maDlISURXZFZPeXJ6bUxEenBJSHUyRTBDR0lvaE1kQnlLOHVLUEdzSXhfZERNdmFUa3hMQ2FacmpTOWpmbzZpUWJPbHRCR3FDVUxSTGpCVG5qdk1YREZnY3liMTBoclI3RE5qQ3Z5UzJTLVBPVlpzRmpoaDl2TDcwak1vMWhFSlFpUm5YVzdSTk5COGxaTGF6Zw?oc=5",
      "source": "The ASCO Post",
-     "published": "2026-08-26T18:42:06+00:00",
+     "published": "2026-08-27T00:18:58+00:00",
      "id": "01804263b5c3"
     },
     {
@@ -63,22 +95,6 @@
      "published": "2026-08-25T00:00:00+00:00",
      "copete": "Song Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "274b2ba20be1"
-    },
-    {
-     "title": "The Patient Who Could Not Die",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42641122/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-25T00:00:00+00:00",
-     "copete": "Ramsdale E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "a6c620f2e7be"
-    },
-    {
-     "title": "Becotatug Vedotin Combined With Pucotenlimab in Platinum- and Immunotherapy-Resistant Recurrent or Metastatic Nasopharyngeal Carcinoma",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42641116/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-25T00:00:00+00:00",
-     "copete": "Ruan DY et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "516122843f48"
     }
    ]
   },
@@ -88,11 +104,71 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "10 blusas de los 70 que vuelven para llevarse con estos 10 tipos de pantalones antes de que acabe el verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNm1kMkE1dF9JcGlTSnluZXRVMmI0ZUFrRUVaZ3J6ZjVVX2lBekc3NV9IWkRJX0J6ZU9RM1VuX29NaF9xV1R6anBGN1B3ckt4OFFrVTI5Wk05UU9oSUdSeTBhTUhOWmVBVm9zdzFCYU9hWTBoZkRFZUJnX1BMT1JVZkY3Q3U4YUtZckFybWQ1UW5JUQ?oc=5",
+     "title": "Kering Invites 10 Designers to Reimagine Sustainable Materials",
+     "link": "https://www.vogue.com/article/kering-invites-10-designers-to-reimagine-sustainable-materials",
+     "source": "Vogue",
+     "published": "2026-08-27T09:30:00+00:00",
+     "copete": "Hoping to show the creative possibilities in innovative, sustainable materials, luxury group Kering enlisted 10 emerging designers from across the world. Will established houses follow?",
+     "id": "b4126189f547"
+    },
+    {
+     "title": "Nuevo en Zara: 7 vestidos, faldas y zapatos de tendencia que arrasarán en entretiempo",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZG1IUDJaQTNSMmtPOUJGQzFhVkxYdTRuRTBMdU8wREpZM3JIR0twQlVXdURIR2t5MUVqNDd3YnRnWEJnQlhZT3B2aFczSWhlRFZoLVpEaWs5YUpJSjdEZ21FUVZVWVZTYm1Mck1QMDRTaV9GSlpUVHlsS3BseUJVbUQxYTd0Tk91M3ltQUJVbHdlRTBzeFZoa1lWWFZScDh2ZnI0YXFocF9FdkE?oc=5",
+     "source": "Cosmopolitan",
+     "published": "2026-08-27T08:22:31+00:00",
+     "id": "540dfd66a416"
+    },
+    {
+     "title": "Cristina García Vivanco, estilista de TELVA, nos da las claves para conseguir y llevar el vaquero de la temporada: \"Ni pitillo, ni de tiro bajo, ni con rotos\"",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR1pmLWVjQ0tPMUVZZnA5dlJVYlNkcHlwc2lOaVNZVFItblMydnd5TE1XRVpRd0tucFRtRUlhMFZtNXpFOUt1a3BlU0hRajdJSXBuWDgzYWs3SVhrX0s5LTJLSHdpSDFicFF2bzcyR09iNUtDeG5CcVFiOGJUUWtjd19fX23SAYQBQVVfeXFMUC1aRUY4Nm5uaUVIamc4YXVFN2FXeEExLVdFV2pVTnZGRWstamFYUFJIc0dScFg3clZzZ1lNWGl2amgyNG1fLVNscXpBS1Q2NEp5RFY0OGdBTHM3RmdvRk1rZ01aZmRwSWFyLXNjdUdUekVLS2JUTzBWMjhSOS1JSTJHVHgy?oc=5",
+     "source": "Telva",
+     "published": "2026-08-27T07:35:38+00:00",
+     "id": "7d69371bfd66"
+    },
+    {
+     "title": "Los 9 colores que serán tendencia el otoño 2026 y cómo combinarlos según las expertas en moda",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcE5DN0pENm92Qk1BSk1lR0lMbllOanBjQmJHU0lqN1hLTHp3MjhoeTdzQ3N5OFhOdnhxb0E2dXNtc1lBOTdEb1RmNUpveU1aZG1Rb0RnU2tYQW0yRnlTc1dNNjVoODA3LUNVNmV3WHl6dE1Ta1hwNTNENENPYWJtWm9fLXlzMDJQVkNjS1hHSGtLNnBYcUZWaWptdV9Mc2JrN0dYMHRVTm9ETm11UUJzcExQOA?oc=5",
+     "source": "Cosmopolitan",
+     "published": "2026-08-27T06:07:30+00:00",
+     "id": "946650331550"
+    },
+    {
+     "title": "Nicolás Montenegro, diseñador: \"Llevar los zapatos y la cartera del mismo color me parece una aberración. La moda está para romper la combinación perfecta\"",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGRCT3hXNXBEckd5VVkzZlZlNE82cnppVzRKaWJHU1Bab1NwS1lmVGZWU3JMbDlYV1pwa3F6X1NVV20xYU0tdjFoeWN6YWJ3OVFRUC0xVElxQ2l5dnE4R1djNFVYX25Gb3NRbm5yTmZUX3JIbExwY1BFeEVFOHUxY3hpcVrSAYQBQVVfeXFMTlZhUElKS0FfQXk3ZVdIbTd1dklLVWN4S0xncG1CYlU0eTFOem80UE55cF9yNmVJWWM4eDJocmkyVkxKVHlVQnJBWWNDUmhrQ1lnVmlaMEltbDFWdUpWcHU4eFI1ZU50TGR2S215Qjdvbk9RdS0xSGFOcndEdDdzcklibUJf?oc=5",
+     "source": "Telva",
+     "published": "2026-08-27T05:50:59+00:00",
+     "id": "d62d7581e5e5"
+    },
+    {
+     "title": "Why Guerlain Is Launching a New L’Heure Bleue",
+     "link": "https://www.vogue.com/article/why-guerlain-is-launching-a-new-lheure-bleue",
+     "source": "Vogue",
+     "published": "2026-08-27T04:30:00+00:00",
+     "copete": "Coinciding with the house’s first women’s perfume launch in a decade, CEO Gabrielle Saint-Genis shares her strategy with Vogue Business.",
+     "id": "57439dec86d2"
+    },
+    {
+     "title": "5 Emerging Designers on Running a Label in Japan",
+     "link": "https://www.vogue.com/article/5-emerging-designers-on-running-a-label-in-japan",
+     "source": "Vogue",
+     "published": "2026-08-27T04:30:00+00:00",
+     "copete": "While Japan’s fashion scene is enjoying a global moment, harnessing international appeal has its fair share of obstacles. Five designers weigh in on what it takes to succeed.",
+     "id": "fa3511dc9989"
+    },
+    {
+     "title": "Artist Yayoi Kusama Has Died at 97",
+     "link": "https://www.vogue.com/article/yayoi-kusama-obituary",
+     "source": "Vogue",
+     "published": "2026-08-27T04:00:00+00:00",
+     "copete": "The renowned Japanese avant-gardist died on Wednesday at a hospital in Tokyo from multiple organ failure, according to her US gallery, David Zwirner. She was 97.",
+     "id": "943be30ef036"
+    },
+    {
+     "title": "Peinados de los años 80: 12 estilos que regresan a las tendencias de verano 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVNVazRGdDg0SGoxSkFZT2FSZ0g2RTFXT05LcEdMLURjWTRrN1podGZvRmplNnI3aFNBVDE0R00tLTcxN0JjUlA4TnltVE5TRmNrdlgxR0xrU0xDZl9kaWNrSUtBQW9HY1FzeDNaQkt0YUF6dkhhTzZJR0VNX1dnVkNhVDlCRnh3TTNGMG4wM3pNM2lGUmlXbHMwWUdISDVabzNn?oc=5",
      "source": "Vogue México",
-     "published": "2026-08-26T23:30:48+00:00",
-     "id": "82ab549d5d7d"
+     "published": "2026-08-27T01:06:16+00:00",
+     "id": "be1eb838a90d"
     },
     {
      "title": "Rolex SailGP Championship: Un evento que celebra la destreza de los atletas y el poder de la inclusión",
@@ -100,66 +176,6 @@
      "source": "Vogue México",
      "published": "2026-08-26T22:37:53+00:00",
      "id": "5df31693ef43"
-    },
-    {
-     "title": "Los mom jeans de los 80 están de vuelta con mocasines elegantes en verano 2026",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkVpQWRkZUtpVnoxYWNoTFExWHVOUWRlSVNReFVraDVuaTRIeENJQXBjRzNFRWI5bld4ZTNtZ25VYXZobTZqQ0Y1ajBpT0wyazlXSF85azJ5NEZLallJa1cxQ2JoM2t3bF9QQzFHcDctNHFKM01NdS1WNC0wV0JEYndXbEgyYjBHTUxCU2h3SG1fTi1xYkU2OXU0b253UQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-26T21:57:36+00:00",
-     "id": "79e54ffa95a1"
-    },
-    {
-     "title": "“She Doesn’t Follow Trends”; Dolly Parton’s Longtime Stylist on Her One-of-a-Kind Style",
-     "link": "https://www.vogue.com/article/dolly-parton-steve-summers-stylist-interview",
-     "source": "Vogue",
-     "published": "2026-08-26T21:39:24+00:00",
-     "copete": "Steve Summers is responsible for delivering over 30 years of iconic Dolly looks.",
-     "id": "c85f4b8bafa8"
-    },
-    {
-     "title": "Required Reading: 10 Books That Changed 'Fruit Fly' Author Josh Silver’s Life",
-     "link": "https://www.vogue.com/article/required-reading-josh-silvers",
-     "source": "Vogue",
-     "published": "2026-08-26T21:31:11+00:00",
-     "copete": "'Fruit Fly' is out Tuesday, August 25 from Simon & Schuster.",
-     "id": "11e146cd3e44"
-    },
-    {
-     "title": "The 11 Best Skin-Care Ingredients That Support Collagen",
-     "link": "https://www.vogue.com/article/best-skincare-ingredients-that-support-collagen",
-     "source": "Vogue",
-     "published": "2026-08-26T21:00:00+00:00",
-     "copete": "Supporting collagen production is vital to skin health. Here, experts break down the best skin-care ingredients you need for firm, hydrated, and plump skin.",
-     "id": "57a67b853fde"
-    },
-    {
-     "title": "Sandra Bullock and Nicole Kidman Kick Off Their Practical Magic 2 Tour",
-     "link": "https://www.vogue.com/article/nicole-kidman-sandra-bullock-practical-magic-2-premiere",
-     "source": "Vogue",
-     "published": "2026-08-26T20:40:27+00:00",
-     "copete": "What’s better than one Hollywood legends on a splashy press tour? Two of them—in dramatic fashions, duh.",
-     "id": "ec78c6bd3f16"
-    },
-    {
-     "title": "Pampita en Saint-Tropez: el look lencero con encaje que anticipa una de las tendencias de la próxima temporada",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnFWVmR2YmRXQ0NhZldDSmhJZk9PY08yVjlvM0VDOUdpU25tNkVtWmV3QkxpU2xOQ0VqR0VZUXROYmEyc0RzSUV4blFxdGV0Y0RrUDczRmVwdkJCaXJ4bEF0eGdnWXNlMEpQMkZnMmZNQ1YySkdCeGFBUm9jQVBsR01Qcm9memU1dXdMT29wR3Nlemtxa1o4WmZ4Q014aF82TlhDS1RSTnMtTW50N1lLM1IwR1d3RTJtZHVpakljZUdDTGZRaWw4V242c0o3UWd4bHlkeHowcTM?oc=5",
-     "source": "Revista Para Ti",
-     "published": "2026-08-26T19:55:57+00:00",
-     "id": "e78d9ebd51c5"
-    },
-    {
-     "title": "BAFWEEK: los desfiles que están marcando las tendencias de la primavera-verano 2026/2027",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQmFVT3JoaHpIWGRRdzI0ZzZsMFBIYi1uaElza1ptREFuRjlOLS1VT3FYdVdScHg3aVZ6MGVqUVdvZ1F2UlR1SHdBa1FaOFFPQkhMNlJUaWhOS01wZlV0YS12UEZ3MHNSem04M0lwd0s5bmR5QmgyVjFWRUc3UFdycllnZkZmX1JnMi1JVUJVLXZxSVhCbHlwYjA1N2NRb01KYnpGLVNYV1hxcVc5MHRLZTBJUDA2SGZoZ0dDYkx4YVF6WkFpY3RhRDJjbw?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-08-26T19:31:23+00:00",
-     "id": "e9c54e2c534a"
-    },
-    {
-     "title": "Zuecos de tacón elegantes: Los zapatos en tendencia que conquistarán el otoño 2026, según Zoë Kravitz",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVRsbGRKcngtM2FwMHhSc3dXU0lHODRScXRMOEM0aXVTM3ZicGJLelJhdFpmT3N0c01QdDdkR2Qza2Nya3lYTnUyM0J3a0hvSy1tMjlSS0Vza25hcU8tU3VqeFY2Z1llaVd0Wk05dXZ6Z1hQaEdhNzkwSWJGU3BNa1RXbWYwN1VrVHJ6ZFQ5aUx5SFhHRXdpSHRXVmVLQ2ZBZGV3TQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-08-26T17:46:48+00:00",
-     "id": "611a3d5a4406"
     }
    ]
   },
@@ -169,84 +185,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Juana Repetto mostró el llanto inconsolable de Timoteo en el auto y pidió ayuda a sus seguidoras",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/juana-repetto-mostro-el-llanto-inconsolable-de-timoteo-en-el-auto-y-pidio-ayuda-a-sus-seguidoras/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T23:31:19+00:00",
-     "copete": "La influencer grabó el desesperante trayecto con su hijo menor y, al llegar a lo de su mamá, Reina Reech, reveló el truco con el sacaleche que la tiene fascinada",
-     "id": "b258490d85cb"
-    },
-    {
-     "title": "Murió Juan Manuel Figueroa, La Momia de Titanes en el Ring",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/murio-juan-manuel-figueroa-el-hombre-que-convirtio-a-la-momia-en-una-leyenda-de-titanes-en-el-ring/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T23:25:34+00:00",
-     "copete": "Tenía 76 años y más de cinco décadas dedicadas a la lucha libre argentina. La historia detrás de las vendas, sus otros personajes dentro de la troupe y la polémica detrás de la máscara",
-     "id": "c53f94c85d3d"
-    },
-    {
-     "title": "El apoyo de Rubén Rada a las nuevas generaciones de músicos antes de su muerte: “Todo tiempo pasado no fue mejor”",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/el-apoyo-de-ruben-rada-a-las-nuevas-generaciones-de-musicos-antes-de-su-muerte-todo-tiempo-pasado-no-fue-mejor/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T22:49:24+00:00",
-     "copete": "En una de sus últimas charlas con Teleshow, el músico uruguayo celebró el presente de los artistas jóvenes, destacó su talento y les dejó una advertencia sobre la necesidad de evolucionar",
-     "id": "e5221ea636c3"
-    },
-    {
-     "title": "Rubén Rada y la historia de “Muriendo de plena”, la canción que convirtió la muerte en una celebración de la vida",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/ruben-rada-y-la-historia-de-muriendo-de-plena-la-cancion-que-convirtio-la-muerte-en-una-celebracion-de-la-vida/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T21:46:39+00:00",
-     "copete": "La canción, incluida en Quién va a cantar en 2000, se convirtió en uno de sus clásicos. De hit radial, cortina del talk de Moria Casán a himno de cancha. “Cuando yo me muera, no quiero llanto ni pena, prefiero que se me vele bailando una…",
-     "id": "f0f5d86d0c53"
-    },
-    {
-     "title": "Dolor en el ambiente artístico: la despedida de los famosos a Rubén Rada",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/dolor-en-el-ambiente-artistico-la-despedida-de-los-famosos-a-ruben-rada/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T21:23:36+00:00",
-     "copete": "Charly García, Natalia Oreiro, Fito Páez, Trueno, Nicki Nicole, Mario Pergolini, Valeria Lynch, Griselda Siciliani, David Lebón y muchísimos otros dejaron su último adiós al músico uruguayo",
-     "id": "e33500e18a82"
-    },
-    {
-     "title": "Rubén Rada: el día que conoció a Mick Jagger, le pidió agua y le dieron de la canilla",
-     "link": "https://www.infobae.com/teleshow/2026/08/26/ruben-rada-el-dia-que-conocio-a-mick-jagger-le-pidio-agua-y-le-dieron-de-la-canilla/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-08-26T21:16:47+00:00",
-     "copete": "Cuando la banda británica se presentó en Uruguay en 2016, se produjo un curioso encuentro",
-     "id": "5750de5a6e39"
-    },
-    {
-     "title": "Murió Ruben Rada, una de las figuras más importantes de la música popular uruguaya y un argentino por adopción",
-     "link": "https://www.clarin.com/espectaculos/ruben-rada-motor-candombe-beat_0_RuXveiBjZe.html",
+     "title": "Jacob Elordi mata, sufre y llora en La guerra de los últimos, de Ridley Scott",
+     "link": "https://www.clarin.com/espectaculos/jacob-elordi-mata-sufre-llora-guerra-ultimos-ridley-scott_0_lCi7Srhja6.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-08-26T20:40:59+00:00",
-     "copete": "De las comparsas de Montevideo a los grandes escenarios del continente, construyó una trayectoria irrepetible que transformó para siempre la música rioplatense. Tenía 83 años.",
-     "id": "413a92e40e02"
+     "published": "2026-08-27T09:02:08+00:00",
+     "copete": "El actor de \"Euphoria\" y \"Frankenstein\" es uno de los pocos que sobreviven a una epidemia. También actúan Margaret Qualley (\"La sustancia\") y Josh Brolin.",
+     "id": "f122303d1a6c"
     },
     {
-     "title": "Murió Ruben Rada, minuto a minuto: las reacciones y homenajes al ícono musical uruguayo",
-     "link": "https://www.clarin.com/espectaculos/murio-ruben-rada-83-anos_0_YpdNQ5htmR.html",
+     "title": "El Coyote se cansó de perseguir al Correcaminos y ahora va por ACME: divertidísima",
+     "link": "https://www.clarin.com/espectaculos/coyote-canso-perseguir-correcaminos-ahora-va-acme-divertidisima_0_oUuY8fIpQl.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-08-26T19:47:02+00:00",
-     "copete": "El cantante y actor uruguayo tenía 83 años. Era una figura del rock rioplatense. Todas las novedades y las repercusiones, en la cobertura de Clarín.",
-     "id": "d4d485c1cbdb"
+     "published": "2026-08-27T09:02:08+00:00",
+     "copete": "La película combina animación y actores de carne y hueso, como John Cena y Will Forte. Y están Bugs Bunny, el Pato Lucas, Porky... Estuvo a punto de no estrenarse. ¿Por qué?",
+     "id": "f2183f5c3c31"
     },
     {
-     "title": "Gutiérrez is mai neim: de qué trata la nueva comedia policial de Darío Barassi y Yayo, y el cambio extremo que hizo el conductor",
-     "link": "https://www.clarin.com/espectaculos/gutierrez-is-mai-neim-trata-nueva-comedia-policial-dario-barassi-yayo-cambio-extremo-hizo-conductor_0_fL25HQroHx.html",
+     "title": "Lu & Pau, con Jazmín Stuart y Lorena Vega como Thelma & Louise, pero no",
+     "link": "https://www.clarin.com/espectaculos/lu-pau-jazmin-stuart-lorena-vega-thelma-louise_0_rIZ8WJ4HMM.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-08-26T19:39:38+00:00",
-     "copete": "La serie de Disney+ estrenó este miércoles 26 de agosto. Barassi es un subcomisario bonaerense que investiga el asesinato del embajador ruso mientras compite con la CIA. Debió cambiar su aspecto físico y dejar de lado varios de sus…",
-     "id": "67241526f4f2"
+     "published": "2026-08-27T09:02:08+00:00",
+     "copete": "Jazmín Stuart y Lorena Vega son dos amigas que se convierten en delincuentes. Es de Nicanor Loreti, el director de \"Kryptonita\".",
+     "id": "206e7cce8b24"
     },
     {
-     "title": "Los actores se vuelcan a las series verticales, de consumo voraz en celulares: ahora Marcela Kloosterboer protagonizará La escena prohibida",
-     "link": "https://www.clarin.com/espectaculos/actores-vuelcan-series-verticales-consumo-voraz-celulares-ahora-marcela-kloosterboer-protagonizara-escena-prohibida_0_sh0uVAgH6k.html",
+     "title": "Javiera Balmaceda, la mujer detrás de los éxitos de Prime Video en Latinoamérica y la posibilidad de trabajar con su hermano, Pedro Pascal: \"Me encantaría, está en la cima\"",
+     "link": "https://www.clarin.com/espectaculos/javiera-balmaceda-mujer-detras-exitos-prime-video-latinoamerica-posibilidad-trabajar-hermano-pedro-pascal-encantaria-cima_0_eWCSsQQvXm.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-08-26T17:47:55+00:00",
-     "copete": "La actriz encabeza la microserie de thriller y misterio producida por The Eleven Hub que se estrenará este año, aún sin fecha precisa. América TV emitirá adelantos de los capítulos y luego la historia completa podrá verse en Shorta, la…",
-     "id": "1060da48fc6c"
+     "published": "2026-08-27T09:00:06+00:00",
+     "copete": "La ejecutiva de la plataforma de streaming es la encargada de las creaciones originales en Argentina, Chile, Brasil, Colombia y México. Impulsó \"Argentina, 1985\", \"Belén\", \"Cromañón\" y \"Menem\", entre muchos otros títulos. La admiración…",
+     "id": "cd6ba6c79efb"
+    },
+    {
+     "title": "Mario Pergolini quiso recordar su encuentro con Sandra Mihanovich pero se arrepintió de contar la anécdota: “Para qué lo dije”",
+     "link": "https://www.infobae.com/teleshow/2026/08/27/mario-pergolini-quiso-recordar-su-encuentro-con-sandra-mihanovich-pero-se-arrepintio-de-contar-la-anecdota/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-27T04:04:00+00:00",
+     "copete": "Todo surgió en Otro Día Perdido a partir de un comentario sobre la estatura del conductor y derivó en una confesión inesperada",
+     "id": "75a63d4ff3b4"
+    },
+    {
+     "title": "Gran Hermano Generación Dorada definió a sus tres finalistas: quiénes lucharán por el premio mayor y las últimas nominadas",
+     "link": "https://www.infobae.com/teleshow/2026/08/27/gran-hermano-generacion-dorada-definio-a-sus-tres-finalistas-quienes-lucharan-por-el-premio-mayor-y-las-ultimas-nominadas/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-27T04:02:07+00:00",
+     "copete": "La líder de la semana usó su beneficio para bajar a dos compañeras de la nominación y terminó de definir una instancia clave del reality, que ya tiene a tres jugadoras con lugar asegurado",
+     "id": "8e4ebb6d156d"
+    },
+    {
+     "title": "El gesto de Ángela Torres con una participante que se olvidó la letra en su presentación en Popstars: “No nos defraudes”",
+     "link": "https://www.infobae.com/teleshow/2026/08/27/el-gesto-de-angela-torres-con-una-participante-que-se-olvido-la-letra-en-su-presentacion-en-popstars-no-nos-defraudes/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-27T03:47:24+00:00",
+     "copete": "La jurado reaccionó cuando Morena Orellana se olvidó la letra, rompió en llanto y empezó a temblar en vivo, y terminó dándole un voto de confianza con una frase que quedó resonando",
+     "id": "cf22bc00e7b1"
+    },
+    {
+     "title": "Emilia Attias frenó a Jimena Barón luego de que revelara un detalle de sus salidas juntas: \"No se deschavan esas cosas\"",
+     "link": "https://www.infobae.com/teleshow/2026/08/27/emilia-attias-freno-a-jimena-baron-luego-de-que-revelara-un-detalle-de-sus-salidas-juntas-no-se-deschavan-esas-cosas/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-27T03:16:03+00:00",
+     "copete": "La actriz reaccionó entre risas después de que la jurado insinuara cómo son sus noches compartidas y dejó una frase que se volvió viral",
+     "id": "00adda8c773e"
+    },
+    {
+     "title": "La reacción de Mica Viciconte cuando sus compañeras le contaron cómo fue trabajar con Fabián Cubero: “No me gusta”",
+     "link": "https://www.infobae.com/teleshow/2026/08/27/la-reaccion-de-mica-viciconte-cuando-sus-companeras-le-contaron-como-fue-trabajar-con-fabian-cubero-no-me-gusta/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-27T02:31:07+00:00",
+     "copete": "En La Jugada, la conductora reaccionó con ironía cuando sus compañeras contaron cómo les fue trabajando con su pareja",
+     "id": "ad6142aafadb"
+    },
+    {
+     "title": "El llamativo golpe que sufrió Darío Barassi al aire al intentar probar un alfajor: “Ay, me pegué”",
+     "link": "https://www.infobae.com/teleshow/2026/08/27/el-llamativo-golpe-que-sufrio-dario-barassi-al-aire-al-intentar-probar-un-alfajor-ay-me-pegue/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-08-27T02:00:00+00:00",
+     "copete": "El conductor se entusiasmó con un regalo de un participante y terminó protagonizando un blooper en pleno estudio",
+     "id": "8ce37cc20ab4"
     }
    ]
   },
@@ -256,11 +272,11 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Jorge Rojas anunció una nueva gira íntima: cuándo comienza Piano & Voz y dónde se presenta",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnRtanJDSWlNUUtreHE2d19fcXVQX2VZdThtdVFHYlc1MmdjUXA4VmlXQXdJN3ctZGdoT1QxRmFNYjVVbS10ZndMaWR4RkZMZF91dEV2UWd2QXlWb3JvRmVZUmswdXNCMmVHWHVLMV9qUTl2N0tJVkg0c3pzeHBERlJYZFRCZ0twdVgxSlRDMHVFT2V2dEpjRHI0SnN0cXFVTFN3R2R4aEV0MXlfclBvVmlkUFh4alcwbUhDOHdlZERfdV9EQ0xpNV9aN295Z1Jv0gHQAUFVX3lxTE1mdG1qckNJaU1RS2t4cTZ3X19xdVBfZVl1OG11UUdiVzUyZ2NRcDhWaVdBd0k3dy1kZ2hPVDFGYU1iNVVtLXRmd0xpZHhGRkxkX3V0RXZRZ3ZBeVZvcm9GZVlSazB1c0IyZUdYdUsxX2pROXY3S0lWSDRzenN4cERGUlhkVEJnS3B1WDFKVEMwdUVPZXZ0SmNEcjRKc3RxcVVMU3dHZHhoRXQxeV9yUG9WaWRQWHhqVzBtSEM4d2VkRF91X0RDTGk1X1o3b3lnUm8?oc=5",
-     "source": "MinutoUno",
-     "published": "2026-08-26T22:04:27+00:00",
-     "id": "f03d732b9b27"
+     "title": "“El Colibrí” vuelve a escena: una travesía por América que combina teatro, clown y música en vivo",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenVEdVg3RDNfVHAxelpOek9kYVZGRGpaWXVNdEZTdTloSlVSWmJ2a1FNc2w1bjNEcmJnYkpwbjNhUkVKRkVqQkl5SnBBZW4wRlBiaXV0TGQzeWhwRHJJVERqRTkzMWNWNjlUaVhic2pUMDY1TWxESmJ5TVhnMVNGdVNPajZWcFk3c0l0NnBtbkxIb0ZpNUNOaGl0RGM3azhNd3VUcHczZHEwMUFLcFQzb1JrTmNlRDNtSXNOU3RHRTBKUXo0cWx6Zi1YSXpNZ3hBM0NIR9IB6AFBVV95cUxOTGZEQlJsRGptRkEzQ2Mtd3d1Tk5RQ05ZR3pXMmFmQmJtOTR6TEhMY3pScEJnV2lZS0pCM2dtbWFrY0dyTjF2Y1VpdFlJaEZTaEFuamJ1ek14d3JaamFyTE1PVWpRajItWnBwN1U1NmJTazd4YzZndUQtMmdhZ3h6R09JUjFmS0tIQVU4UlhvRzJUY2JsYzNFWnNqZk5lbUJGUHo0bGFzOVdRTlJIRWZzTTdjVEZhN0JCWWNuMEN5Nl9fTUl3dU42YkhiZmFIbTJibVBpWmRCemx3d0RwSGdVbDhxWUtLWFR2?oc=5",
+     "source": "Ciudad Magazine",
+     "published": "2026-08-27T00:46:00+00:00",
+     "id": "a1660fd17465"
     },
     {
      "title": "Teatro Maipo: fue “Catedral de la revista porteña” y ahora es casa de los musicales más exitosos, mientras los fantasmas siguen allí",
@@ -270,18 +286,18 @@
      "id": "6f5ff56f6802"
     },
     {
+     "title": "Jorge Rojas anunció una nueva gira íntima: cuándo comienza Piano & Voz y dónde se presenta",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZnRtanJDSWlNUUtreHE2d19fcXVQX2VZdThtdVFHYlc1MmdjUXA4VmlXQXdJN3ctZGdoT1QxRmFNYjVVbS10ZndMaWR4RkZMZF91dEV2UWd2QXlWb3JvRmVZUmswdXNCMmVHWHVLMV9qUTl2N0tJVkg0c3pzeHBERlJYZFRCZ0twdVgxSlRDMHVFT2V2dEpjRHI0SnN0cXFVTFN3R2R4aEV0MXlfclBvVmlkUFh4alcwbUhDOHdlZERfdV9EQ0xpNV9aN295Z1Jv0gHQAUFVX3lxTE1mdG1qckNJaU1RS2t4cTZ3X19xdVBfZVl1OG11UUdiVzUyZ2NRcDhWaVdBd0k3dy1kZ2hPVDFGYU1iNVVtLXRmd0xpZHhGRkxkX3V0RXZRZ3ZBeVZvcm9GZVlSazB1c0IyZUdYdUsxX2pROXY3S0lWSDRzenN4cERGUlhkVEJnS3B1WDFKVEMwdUVPZXZ0SmNEcjRKc3RxcVVMU3dHZHhoRXQxeV9yUG9WaWRQWHhqVzBtSEM4d2VkRF91X0RDTGk1X1o3b3lnUm8?oc=5",
+     "source": "MinutoUno",
+     "published": "2026-08-26T17:52:00+00:00",
+     "id": "f03d732b9b27"
+    },
+    {
      "title": "Sueño de una noche de Rock llega a Buenos Aires: así Shakespeare se encontrará con el rock argentino",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHhNbnZBSzhSMnpXRUZ0OERhZzIwUjVtWHR0MWVnUmJWMXNETXhRM3FRNjhxcEI1SWNHMzc5Sm01ei1aa1pRZktidi1xMFJldDFETzVCWm1BQjlLTmNkbVk5MHI3QTBEeWtYVGhWNEl2aUNZTENGV3hERUVPMk9uc24tYmhvcXdjNjBjVDRaa05WQWdZOC1OWk1qWkpFTURpWURfcDY1S1h0YTh3VGlxQjNadlZFVGFRM0tHUzV5OXc0ajcxdFlseW56MUxfV2RuV2laTG84ZWp6TFZm0gHwAUFVX3lxTFBhN2RjWFhUMTRtOUxRY3E5Mm41WDFhMFVpUkhkbXlFR1l6UC1YQXVHd3JnU0hnbFNSaUxySHVrWTJ1a3pXdVJLWS1uOXNNNmthaFRmYWRNcjRNOVFtMXdHZk1WclNjenhxbmQxbUVCYXZFSkxPMVFmX0ZSeko2eFdiZldYZ2tyc0Z3Z2o4QlZnd1V6RGRmVVF5QnJyUWhseHh6Z0tyQ2NiLXktNEFRUDdkOUJEOEFUMy1sa3VseWd5UWVlU0t2ei12TkFCYXhiTEZGUm9KS3RGZ2ZuZVZ6aXFRa0ZWMGhMeWNPNnkya0s0VQ?oc=5",
      "source": "Ciudad Magazine",
      "published": "2026-08-26T15:59:18+00:00",
      "id": "6407ff1d9f3e"
-    },
-    {
-     "title": "Amores de Ópera llega al Teatro Español",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2dfcVluX0pnN0FmdVNTc2FxanZqV1FYU1M1eVM3MktKdmxaUEV6eUREVVdMLTlIT1lwLTEzaGtTSTFtMVZXdllfbW5PTHBsdW5TRTZFMmhxUHpJeHdRYnNfLWtrMGkzc29Zdm1mMUJ4OWIyRmFQY0FqQ05hYzNyTnZCbmNncUVQUFoxcFg2N2dlUQ?oc=5",
-     "source": "La Arena",
-     "published": "2026-08-26T15:36:38+00:00",
-     "id": "014c6c74faea"
     },
     {
      "title": "Guía Michelin Buenos Aires & Mendoza edición 2027",
@@ -333,68 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "River Plate se juega el pase a los cuartos de la Copa Sudamericana ante Independiente Santa Fe: formaciones confirmadas",
-     "link": "https://www.infobae.com/deportes/2026/08/26/river-plate-se-jugara-el-pase-a-los-cuartos-de-final-de-la-copa-sudamericana-ante-independiente-santa-fe-hora-tv-y-formaciones/",
+     "title": "Suben a 270 los muertos en Nepal por las inundaciones que arrasaron pueblos",
+     "link": "https://www.lanacion.com.ar/el-mundo/suben-a-270-los-muertos-en-nepal-por-las-inundaciones-que-arrasaron-pueblos-nid27082026/",
+     "source": "La Nación",
+     "published": "2026-08-27T09:53:51+00:00",
+     "copete": "Las autoridades reportaron más de 1300 desaparecidos; muchos de ellos eran extranjeros que estaban en la zona para hacer senderismo o peregrinar a un sitio sagrado del hinduismo",
+     "id": "2b6e4463e320"
+    },
+    {
+     "title": "La decisión que tomó Eduardo Coudet tras la eliminación de River Plate de la Copa Sudamericana",
+     "link": "https://www.infobae.com/deportes/2026/08/27/la-decision-que-tomo-eduardo-coudet-tras-la-eliminacion-de-river-plate-de-la-copa-sudamericana/",
      "source": "Infobae",
-     "published": "2026-08-26T23:42:32+00:00",
-     "copete": "El Millonario busca hacerse fuerte en el Monumental ante el conjunto colombiano tras igualar 0 a 0 en la ida. Desde las 21.30, por DSports y Disney+",
-     "id": "15d26892e7f0"
+     "published": "2026-08-27T09:51:01+00:00",
+     "copete": "El entrenador de 51 años se marchó al vestuario apenas se consumó el triunfo por penales de Independiente Santa Fe",
+     "id": "a9f4b28398df"
     },
     {
-     "title": "Renunció el representante argentino ante el principal organismo internacional antilavado",
-     "link": "https://www.infobae.com/politica/2026/08/26/renuncio-el-representante-argentino-ante-el-principal-organismo-internacional-antilavado/",
+     "title": "Diluvia en el AMBA y llega el frío: el pronóstico para los próximos días",
+     "link": "https://www.infobae.com/sociedad/2026/08/27/diluvia-en-el-amba-y-llega-el-frio-el-pronostico-para-los-proximos-dias/",
      "source": "Infobae",
-     "published": "2026-08-26T23:41:51+00:00",
-     "copete": "Se trata de Agustín Flash, quien había sido designado por el Gobierno para estar en el GAFI hace cuatro meses. La crítica del abogado Juan Félix Marteau, quien fue representante argentino ante ese organismo y, en dos oportunidades…",
-     "id": "38357a8cdb7a"
+     "published": "2026-08-27T09:49:46+00:00",
+     "copete": "El Servicio Meteorológico Nacional indicó que hoy será una jornada lluvia en la Ciudad de Buenos Aires y alrededores",
+     "id": "dba63bc47322"
     },
     {
-     "title": "El dólar subió por cuarta rueda consecutiva y se consolida por encima de los 1.500 pesos",
-     "link": "https://www.infobae.com/economia/2026/08/26/el-dolar-subio-por-cuarta-rueda-consecutiva-y-se-consolida-por-encima-de-los-1500-pesos/",
+     "title": "El incómodo momento que vivió la mamá de Tini con Yanina Latorre al aire: “No digas que te llamé”",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-incomodo-momento-que-vivio-la-mama-de-tini-con-yanina-latorre-al-aire-perdoname-no-sabia-nid27082026/",
+     "source": "La Nación",
+     "published": "2026-08-27T09:48:47+00:00",
+     "copete": "Mariana Muzlera llamó a la conductora de Sálvese quien pueda (América TV) en pleno programa y se generó una situación muy tensa",
+     "id": "fa4b11622a6c"
+    },
+    {
+     "title": "Cecilia Scalia, astrónoma, sobre el eclipse: “Es una oportunidad única; elegiría ver el máximo de la Luna rojiza, que en Argentina va a ser a la 1 de la mañana”",
+     "link": "https://www.lanacion.com.ar/ciencia/cecilia-scalia-astronoma-sobre-el-eclipse-es-una-oportunidad-unica-elegiria-ver-el-maximo-de-la-luna-nid26082026/",
+     "source": "La Nación",
+     "published": "2026-08-27T09:45:36+00:00",
+     "copete": "La especialista habló con LA NACION y detalló las claves para observar el fenómeno astronómico de esta semana; la importancia de disfrutar el evento natural sin temores ni expectativas erróneas",
+     "id": "2558a73b5391"
+    },
+    {
+     "title": "Cómo es el eclipse lunar de agosto 2026: llega la noche del jueves a la Argentina",
+     "link": "https://www.lanacion.com.ar/ciencia/como-es-el-eclipse-lunar-de-agosto-2026-llega-a-la-noche-del-jueves-a-la-argentina-nid26082026/",
+     "source": "La Nación",
+     "published": "2026-08-27T09:44:12+00:00",
+     "copete": "El fenómeno astronómico podrá observarse desde todo el territorio nacional sin necesidad de equipamiento especial; el Planetario Galileo Galilei organizó una jornada gratuita de observación para quienes estén interesados",
+     "id": "10f1d5760dc4"
+    },
+    {
+     "title": "¿Por qué caminar no es suficiente? El circuito funcional de 4 minutos que ayuda a preservar la masa muscular y mejorar la calidad de vida",
+     "link": "https://www.infobae.com/salud/2026/08/27/por-que-caminar-no-es-suficiente-el-circuito-funcional-de-4-minutos-que-ayuda-a-preservar-la-masa-muscular-y-mejorar-la-calidad-de-vida/",
      "source": "Infobae",
-     "published": "2026-08-26T23:32:44+00:00",
-     "copete": "El tipo de cambio oficial alcanzó un nuevo máximo nominal de $1.514 con un importante monto operado de casi USD 700 millones. Al público subió a $1.535 en el Banco Nación",
-     "id": "a8fceecd8856"
+     "published": "2026-08-27T09:39:34+00:00",
+     "copete": "Distintas investigaciones analizan qué hábitos permiten sostener la fuerza, el equilibrio y la autonomía en adultos mayores. La evidencia pone el foco en incorporar estímulos breves y regulares que complementen la actividad aeróbica",
+     "id": "d378128e04be"
     },
     {
-     "title": "Jornada financiera: la Bolsa porteña sumó cinco jornadas consecutivas en alza, pero el riesgo país volvió a subir",
-     "link": "https://www.infobae.com/economia/2026/08/26/jornada-financiera-la-bolsa-portena-sumo-cinco-jornadas-consecutivas-en-alza-pero-el-riesgo-pais-volvio-a-subir/",
+     "title": "ANSES: quiénes cobran hoy, jueves 27 de agosto de 2026",
+     "link": "https://www.infobae.com/economia/2026/08/27/anses-quienes-cobran-hoy-jueves-27-de-agosto-de-2026/",
      "source": "Infobae",
-     "published": "2026-08-26T23:30:37+00:00",
-     "copete": "Sin el impulso de Wall Street, los activos argentinos tuvieron leves variantes. El S&P Merval ganó 0,5% y los bonos cayeron 0,1%. El dólar subió a $1.535 en el Banco Nación y el BCRA compró USD 61 millones en el mercado",
-     "id": "7fec75bf78fd"
+     "published": "2026-08-27T09:38:15+00:00",
+     "copete": "La entidad previsional continúa con el pago de haberes y asignaciones de este mes, bajo un esquema organizado para ordenar el acceso a los depósitos y facilitar la acreditación en las cuentas bancarias",
+     "id": "6238b9696f01"
     },
     {
-     "title": "Un reo federal avanza en las primarias por el escaño de Alaska en la cámara baja de EEUU",
-     "link": "https://www.clarin.com/estados-unidos/un-reo-federal-avanza-en-las-primarias-por-el-escano-de-alaska-en-la-camara-baja-de-eeuu_0_b7rzeUyM3B.html",
+     "title": "Mayerling, la tragedia que sacudió a los Habsburgo: un heredero muerto, su amante y un supuesto pacto",
+     "link": "https://www.clarin.com/internacional/mayerling-tragedia-sacudio-habsburgo-heredero-muerto-amante-supuesto-pacto_0_OBgTvDwmKw.html",
      "source": "Clarín",
-     "published": "2026-08-26T23:20:07+00:00",
-     "copete": "Un candidato encarcelado en Nueva York avanza en las primarias para el único escaño de Alaska en la Cámara de Representantes, desafiando impugnaciones. El demócrata Eric Hafner, condenado por amenazas, logró un lugar en la boleta de 2024…",
-     "id": "d811ed54af74"
+     "published": "2026-08-27T09:16:08+00:00",
+     "copete": "El heredero del Imperio austrohúngaro y su amante adolescente aparecieron muertos en un pabellón de caza, en 1889. Las cartas encontradas posteriormente apuntaron a un pacto de muerte, pero las irregularidades alrededor del cuerpo de la…",
+     "id": "02bbded9f3a5"
     },
     {
-     "title": "La emotiva carta de despedida de Natalia Oreiro a Rubén Rada: \"Fuiste, sos y serás lo más grande del Uruguay\"",
-     "link": "https://www.clarin.com/fama/emotiva-carta-despedida-natalia-oreiro-ruben-rada-sos-grande-uruguay_0_ovLV0rSEVp.html",
+     "title": "Jacob Elordi mata, sufre y llora en La guerra de los últimos, de Ridley Scott",
+     "link": "https://www.clarin.com/espectaculos/jacob-elordi-mata-sufre-llora-guerra-ultimos-ridley-scott_0_lCi7Srhja6.html",
      "source": "Clarín",
-     "published": "2026-08-26T23:00:54+00:00",
-     "copete": "La cantante se expresó sobre el fallecimiento del cantautor uruguayo en redes sociales. \"Cada canción te tendrá siempre presente en todos los corazones\", expresó.",
-     "id": "9bb8face8dbc"
-    },
-    {
-     "title": "Caputo se peronizó por un rato y levantó la bandera de la justicia social",
-     "link": "https://www.clarin.com/opinion/caputo-peronizo-rato-levanto-bandera-justicia-social_0_Kvzes25Uc6.html",
-     "source": "Clarín",
-     "published": "2026-08-26T22:56:56+00:00",
-     "copete": "Afirmó que los créditos hipotecarios \"hacen a la justicia social\", un concepto denostado por el presidente Javier Milei. Por qué la medida marca es más simbólica que estructural, en medio de un debate sobre otro problema que afecta a casi…",
-     "id": "87dfcae649df"
-    },
-    {
-     "title": "Paredes, Flores, Villa y todo el Mundo Boca le envió mensajes de apoyo a Tomás Aranda: \"Fuerza hermano, estamos con vos\"",
-     "link": "https://www.clarin.com/deportes/paredes-flores-villa-mundo-boca-envio-mensajes-apoyo-tomas-aranda-fuerza-hermano-vos_0_jikK6QL6k7.html",
-     "source": "Clarín",
-     "published": "2026-08-26T22:53:32+00:00",
-     "copete": "El futbolista sufrió una fractura de peroné durante un entrenamiento en la previa del partido ante Lanús. Deberá ser intervenido quirúrgicamente.",
-     "id": "5ebcd9a96cc9"
+     "published": "2026-08-27T09:02:08+00:00",
+     "copete": "El actor de \"Euphoria\" y \"Frankenstein\" es uno de los pocos que sobreviven a una epidemia. También actúan Margaret Qualley (\"La sustancia\") y Josh Brolin.",
+     "id": "f122303d1a6c"
     }
    ]
   },
@@ -404,68 +436,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Una avalancha en la frontera entre Nepal y Tíbet deja más de 270 muertos y centenares de desaparecidos",
+     "link": "https://www.bbc.com/mundo/articles/cje83dn5480o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-27T09:58:45+00:00",
+     "copete": "Las autoridades locales admiten que la cifra de víctimas podría crecer y que los daños causados por el suceso son cuantiosos.",
+     "id": "e0e782d5394a"
+    },
+    {
+     "title": "España, Suecia, Países Bajos y Polonia presionan para reabrir el debate de los activos rusos congelados y ayudar así a Ucrania",
+     "link": "https://elpais.com/internacional/2026-08-27/espana-suecia-paises-bajos-y-polonia-presionan-para-reabrir-el-debate-de-los-activos-rusos-congelados-y-ayudar-asi-a-ucrania.html",
+     "source": "El País Internacional",
+     "published": "2026-08-27T09:56:20+00:00",
+     "copete": "Pese a la negativa de Bélgica, los ministros de Exteriores advierten de que el préstamo de 90.000 millones ya aprobado no basta y reclaman “nuevas opciones” sobre los fondos de Moscú",
+     "id": "e52ad38cd72c"
+    },
+    {
+     "title": "Muere a los 97 años Yayoi Kusama, la artista japonesa que convirtió los lunares en un símbolo del arte contemporáneo",
+     "link": "https://www.bbc.com/mundo/articles/c20ljrlv0qvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-27T09:46:28+00:00",
+     "copete": "Sus coloridas creaciones atrajeron a grandes multitudes y alcanzaron algunos de los precios más altos jamás pagados por una artista femenina.",
+     "id": "9ea9d66cace6"
+    },
+    {
+     "title": "El colapso de un glaciar y una gigantesca riada: qué sabemos de la tragedia de Nepal y qué falta por aclarar",
+     "link": "https://elpais.com/ciencia/2026-08-27/el-colapso-de-un-glaciar-y-una-gigantesca-riada-que-sabemos-de-la-tragedia-de-nepal-y-que-falta-por-aclarar.html",
+     "source": "El País Internacional",
+     "published": "2026-08-27T09:17:05+00:00",
+     "copete": "Los servicios geológicos registraron un temblor de magnitud 5,2 tras el desprendimiento. Exteriores confirma que hay cuatro españoles desaparecidos",
+     "id": "555c603410cd"
+    },
+    {
+     "title": "Más de 270 muertos y 1.300 desaparecidos por la fuerte riada y deslizamiento masivo de tierra entre Nepal y Tíbet",
+     "link": "https://elpais.com/internacional/2026-08-27/el-numero-de-desaparecidos-en-nepal-y-tibet-tras-la-fuerte-riada-asciende-a-mas-de-1100-segun-dos-registros.html",
+     "source": "El País Internacional",
+     "published": "2026-08-27T09:05:53+00:00",
+     "copete": "Los equipos de rescate siguen sin poder acceder a algunas de las zonas más devastadas. Hay cuatro españoles sin localizar",
+     "id": "6061901f95f1"
+    },
+    {
+     "title": "Un conductor mata a dos personas en un atropello múltiple en el norte de Francia",
+     "link": "https://elpais.com/internacional/2026-08-27/un-conductor-atropella-a-un-grupo-de-personas-y-mata-a-dos-personas-en-el-norte-de-francia.html",
+     "source": "El País Internacional",
+     "published": "2026-08-27T07:50:39+00:00",
+     "copete": "El atacante, nacido en Rusia, actuó presumiblemente en respuesta a una pelea anterior",
+     "id": "e143a15afc21"
+    },
+    {
+     "title": "Por qué Irán no le teme a la ofensiva financiera de EE.UU. y qué más puede intentar Washington contra la economía de Teherán",
+     "link": "https://www.bbc.com/mundo/articles/c93vyng55zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-27T03:53:12+00:00",
+     "copete": "Teherán apuesta a que las nuevas sanciones económicas no los afecten como lo ha hecho el embargo que sufren desde hace años.",
+     "id": "d425f71d180e"
+    },
+    {
      "title": "\"Un ángel a mi lado\": Miley Cyrus rinde un sentido homenaje a su madrina Dolly Parton",
      "link": "https://www.bbc.com/mundo/articles/cn74y15482do?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-08-26T22:32:41+00:00",
      "copete": "El padre de Miley Cyrus, el también cantante Billy Ray Cyrus, se hizo amigo íntimo de Dolly Parton después de que ambos salieran de gira juntos a principios de los años 90.",
      "id": "0780d654f163"
-    },
-    {
-     "title": "Las impresionantes imágenes de la devastadora avalancha que dejó cientos de muertos y desaparecidos en la frontera de Nepal",
-     "link": "https://www.bbc.com/mundo/articles/cnvld6p2djpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-26T21:46:13+00:00",
-     "copete": "Se teme que cientos de personas hayan muerto a causa de las inundaciones y los deslizamientos de tierra en la frontera entre Nepal y Tíbet.",
-     "id": "04c70e35b8a6"
-    },
-    {
-     "title": "El gobierno de Trump cancela las entrevistas y otros trámites para las visas de inmigrantes en los consulados de EE.UU. en todo el mundo",
-     "link": "https://www.bbc.com/mundo/articles/c70lzkq5j8yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-26T21:07:34+00:00",
-     "copete": "Se trata de \"una iniciativa de capacitación global\" para \"garantizar que todos los funcionarios consulares estén plenamente preparados para evaluar a cada solicitante de visa de manera integral y coherente\", informó el Departamento de…",
-     "id": "5be232234427"
-    },
-    {
-     "title": "En video: la impactante imagen de la avalancha que provocó decenas de muertos y desaparecidos entre Nepal y Tíbet",
-     "link": "https://www.bbc.com/mundo/articles/cgqd8z5dv99o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-26T20:08:07+00:00",
-     "copete": "Nepal y el territorio fronterizo de Tíbet fueron golpeados por una inundación repentina que ha causado centenares de víctimas.",
-     "id": "1c8a8f48670a"
-    },
-    {
-     "title": "La sombra de Vichy regresa en un complejo año electoral",
-     "link": "https://elpais.com/internacional/2026-08-26/la-sombra-de-vichy-regresa-en-un-complejo-ano-electoral.html",
-     "source": "El País Internacional",
-     "published": "2026-08-26T18:34:52+00:00",
-     "copete": "La ciudad donde se instauró el gobierno de Pétain, colaboracionista con la Alemania nazi, celebra los 82 años de su liberación y se reivindica como símbolo de la fragilidad de las democracias ante el auge de los extremismos",
-     "id": "0afd3b37f718"
-    },
-    {
-     "title": "Al menos 160 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada entre Nepal y Tíbet",
-     "link": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html",
-     "source": "El País Internacional",
-     "published": "2026-08-26T17:15:11+00:00",
-     "copete": "El desastre ha arrasado edificios, puentes y otras infraestructuras en esa remota zona del Himalaya muy frecuentada por montañeros y peregrinos. Las autoridades nepalíes afirman que hay dos españoles sin localizar",
-     "id": "ed24fa5ecb58"
-    },
-    {
-     "title": "Mark Carney acudirá como invitado de honor al discurso sobre la UE de Von der Leyen en septiembre",
-     "link": "https://elpais.com/internacional/2026-08-26/mark-carney-asistira-al-discurso-sobre-la-ue-de-von-der-leyen-en-septiembre.html",
-     "source": "El País Internacional",
-     "published": "2026-08-26T16:40:03+00:00",
-     "copete": "La confirmación de la visita a Europa se conoce en medio de un nuevo pulso arancelario entre el primer ministro canadiense y el presidente de Estados Unidos, Donald Trump. Carney también hablará ante la Eurocámara",
-     "id": "0afc5b023fe7"
-    },
-    {
-     "title": "Los bombardeos rusos se ceban con los niños",
-     "link": "https://elpais.com/internacional/2026-08-26/los-bombardeos-rusos-se-ceban-con-los-ninos.html",
-     "source": "El País Internacional",
-     "published": "2026-08-26T15:01:45+00:00",
-     "copete": "Más de 800 menores han muerto en Ucrania desde el inicio de la invasión. La suma de víctimas mortales y heridos en julio es la mayor desde abril de 2022, con ataques a hogares y escuelas",
-     "id": "946d7f8f0771"
     }
    ]
   }
@@ -473,17 +505,7 @@
  "_errors": [
   {
    "section": "oncologia",
-   "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
