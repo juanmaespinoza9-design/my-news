@@ -1,95 +1,20 @@
 {
-  "generated_at": "2026-08-27T10:10:00Z",
+  "generated_at": "2026-08-27T22:10:00Z",
   "summaries": {
-    "a197d7e5eb01": {
-      "resumen": "Artículo de The Lancet Oncology que analiza las dificultades para aplicar el sistema de clasificación de enfermedad oligometastásica de la Sociedad Europea de Radioterapia y Oncología (ESTRO) y la Organización Europea para la Investigación y el Tratamiento del Cáncer (EORTC) en cáncer de ovario. Vale la pena mirarlo porque esa clasificación busca guiar qué pacientes con metástasis limitadas podrían beneficiarse de tratamientos locales dirigidos.",
-      "destacado": false
-    },
-    "8a5429e8b36e": {
-      "resumen": "Documento de perspectiva del Grupo Internacional de Trabajo en Biomarcadores de Inmuno-Oncología sobre el rol de los linfocitos infiltrantes de tumor (células inmunes presentes dentro del tumor) como posible biomarcador para orientar decisiones de radioterapia en cáncer de mama. Interesa porque podría ayudar a personalizar quién realmente se beneficia de la radioterapia.",
-      "destacado": false
-    },
-    "7b8b3d74a25e": {
-      "resumen": "Fe de erratas de The Lancet Oncology sobre un artículo publicado previamente en la revista (Lancet Oncol 2026; 27: 686-98). Sin relevancia clínica propia, es solo una corrección editorial.",
-      "destacado": false
-    },
-    "247a5feacf5a": {
-      "resumen": "Artículo de opinión de The Lancet Oncology sobre las brechas en el acceso a estudios moleculares diagnósticos oncológicos en el sudeste asiático y posibles estrategias para achicarlas. Relevante para pensar la equidad global en el acceso a la medicina de precisión en oncología.",
-      "destacado": false
-    },
-    "513446496230": {
-      "resumen": "Entrevista de OncLive donde una especialista comenta datos de eficacia de un esquema más corto de venetoclax (inhibidor de BCL-2) combinado con azacitidina (agente hipometilante) en leucemia mieloide aguda (LMA). Es contenido de divulgación con opinión de experta, no un estudio original.",
-      "destacado": false
-    },
-    "e0dd49219fb6": {
-      "resumen": "Cobertura de OncLive sobre los resultados del ensayo PEAK, que evalúa la combinación de bezuclastinib (inhibidor de KIT/PDGFRA) más sunitinib (inhibidor multiquinasa) en tumor del estroma gastrointestinal (GIST). Interesa porque el GIST que progresa a imatinib tiene pocas opciones terapéuticas.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes).\nPoblación: Pacientes con tumor del estroma gastrointestinal (GIST), un sarcoma originado en el tubo digestivo; el título no precisa la línea de tratamiento ni los criterios de inclusión.\nIntervención: Combinación de bezuclastinib (inhibidor de KIT/PDGFRA) más sunitinib (inhibidor multiquinasa); no se especifica el comparador en el título.\nResultados: No disponibles en este resumen; no se cuenta con cifras de supervivencia libre de progresión, supervivencia global ni intervalos de confianza.\nLimitaciones: Sin el abstract no es posible evaluar el diseño exacto, el tamaño muestral ni la solidez estadística de los resultados.\nMensaje: Es una señal a seguir en GIST, donde las opciones tras progresar a imatinib son limitadas; el impacto real en la práctica dependerá de conocer los datos completos.\nNota: análisis sin acceso al abstract."
-    },
-    "c858d14d2906": {
-      "resumen": "Contenido educativo de OncLive sobre el manejo de la enfermedad de injerto contra huésped (GVHD) y la selección de tratamiento en trasplante alogénico de células madre hematopoyéticas. Es una puesta al día práctica de expertos, no reporta un estudio nuevo.",
-      "destacado": false
-    },
     "bc8d86ab5173": {
       "resumen": "Actualización de la guía viva de la Sociedad Estadounidense de Oncología Clínica (ASCO) sobre el tratamiento sistémico del cáncer de mama con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) negativo en estadios I a III. Es una guía de práctica clínica de actualización periódica, útil como referencia rápida de manejo.",
       "destacado": false
-    },
-    "01804263b5c3": {
-      "resumen": "Nota institucional donde la presidencia de Cleveland Clinic habla sobre una cumbre de inteligencia artificial (IA) para profesionales de la salud. Más una entrevista de agenda que un estudio, útil para tomarle el pulso a hacia dónde va la IA en oncología.",
-      "destacado": false
-    },
-    "e06bb833c4a0": {
-      "resumen": "Cobertura de The ASCO Post sobre la aprobación por parte de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA) del inhibidor de RAS daraxonrasib para el adenocarcinoma pancreático metastásico, el mismo hito regulatorio reportado también por OncLive.",
-      "destacado": false
-    },
-    "c12c768d442a": {
-      "resumen": "Un estudio encontró que los supercentenarios (personas de 110 años o más) tienen una proporción inusualmente alta de células T citotóxicas, el tipo de célula inmune que destruye células tumorales. Llama la atención porque conecta longevidad extrema con vigilancia inmunológica contra el cáncer.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional que caracterizó el perfil inmunológico de un grupo reducido de supercentenarios frente a controles de menor edad; el título no precisa aleatorización, cegamiento ni número de centros o participantes.\nPoblación: Personas supercentenarias (110 años o más); no se trata de pacientes con un tumor específico sino de un estudio de envejecimiento e inmunidad.\nIntervención: No aplica: es un estudio observacional/descriptivo del sistema inmune, sin intervención ni comparador terapéutico.\nResultados: No disponibles a partir del título; se menciona una mayor proporción de células T citotóxicas (killer) pero sin cifras, razones de riesgo ni valores de p.\nLimitaciones: Los supercentenarios son una población extremadamente reducida y autoseleccionada (sobrevivientes de edad extrema), lo que limita la generalización; sin el abstract no se puede evaluar el tamaño muestral ni los controles.\nMensaje: Es un hallazgo hipótesis-generador sobre inmunovigilancia y longevidad, no cambia la práctica clínica oncológica hoy, pero podría orientar futura investigación en inmunidad antitumoral.\nNota: análisis sin acceso al abstract."
     },
     "274b2ba20be1": {
       "resumen": "Ensayo clínico de fase III publicado en Journal of Clinical Oncology (JCO) que compara la radioterapia de rescate hipofraccionada acelerada (dosis más altas en menos sesiones) contra el esquema estándar, en pacientes con recurrencia bioquímica (aumento del PSA) tras una prostatectomía radical. Relevante porque podría acortar los tratamientos de rescate sin perder eficacia.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (según el título); no se cuenta con el abstract completo para precisar cegamiento, número de centros ni de pacientes.\nPoblación: Varones con cáncer de próstata y recurrencia bioquímica (aumento del PSA) luego de prostatectomía radical, candidatos a radioterapia de rescate.\nIntervención: Radioterapia de rescate hipofraccionada acelerada (mayor dosis por sesión, tratamiento más corto) versus radioterapia de rescate estándar (fraccionamiento convencional).\nResultados: No disponibles en este resumen; el título no incluye cifras de eficacia ni de toxicidad.\nLimitaciones: Sin acceso al texto completo no se pueden evaluar el poder estadístico, la duración del seguimiento ni los eventos adversos reportados.\nMensaje: Si confirma no inferioridad, la hipofraccionación acortaría el tratamiento de rescate y aliviaría la carga para el paciente; hay que esperar los resultados numéricos para saber si cambia la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "540dfd66a416": {
-      "resumen": "Cosmopolitan armó una selección de siete vestidos, polleras y zapatos nuevos de Zara que se perfilan como tendencia para la temporada de entretiempo."
-    },
-    "7d69371bfd66": {
-      "resumen": "La estilista de TELVA Cristina García Vivanco explica cómo elegir y llevar el jean de la temporada, que no es ni pitillo, ni de tiro bajo, ni con roturas."
-    },
-    "946650331550": {
-      "resumen": "Especialistas en moda consultadas por Cosmopolitan repasan los nueve colores tendencia del otoño 2026 y cómo combinarlos."
-    },
-    "d62d7581e5e5": {
-      "resumen": "El diseñador Nicolás Montenegro opina que combinar zapatos y cartera del mismo color es un error, y defiende romper las reglas de la combinación perfecta."
-    },
-    "be1eb838a90d": {
-      "resumen": "Vogue México repasa doce peinados de los años 80 que vuelven a estar de moda para el verano 2026."
-    },
-    "5df31693ef43": {
-      "resumen": "Vogue México cubre el Rolex SailGP Championship, un evento de vela que combina alto rendimiento deportivo y un mensaje de inclusión."
-    },
-    "a1660fd17465": {
-      "resumen": "Vuelve a cartel \"El Colibrí\", un espectáculo que recorre América combinando teatro, clown y música en vivo."
-    },
-    "d4e206a3e6c1": {
-      "resumen": "Clarín reúne más de cien bodegones porteños con menú y bebida desde $17.000, con día y lugar para aprovecharlos."
-    },
     "ce89ef9916db": {
       "resumen": "Página 12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
     },
     "5d3ae1aedc69": {
       "resumen": "Restaurantes porteños lanzan propuestas especiales de ñoquis para este sábado 29, según Panorama Directo."
-    },
-    "6f5ff56f6802": {
-      "resumen": "El Teatro Maipo, que supo ser la 'catedral de la revista porteña', hoy es sede de los musicales más taquilleros -y dicen que todavía lo habitan sus fantasmas."
-    },
-    "f03d732b9b27": {
-      "resumen": "Jorge Rojas anunció 'Piano & Voz', su nueva gira en formato íntimo: cuándo arranca y dónde se presenta."
-    },
-    "6407ff1d9f3e": {
-      "resumen": "Llega a Buenos Aires 'Sueño de una noche de Rock', un cruce entre Shakespeare y el rock nacional."
     },
     "47eb21e404d0": {
       "resumen": "Se presentó la edición 2027 de la Guía Michelin para Buenos Aires y Mendoza."
@@ -100,8 +25,73 @@
     "4e12ce1bb25a": {
       "resumen": "Agenda porteña: Festival y Mundial de Tango, propuestas gastronómicas y teatro de primer nivel."
     },
-    "e0e782d5394a": {
-      "resumen": "Una avalancha en la frontera entre Nepal y Tíbet dejó más de 150 muertos y cientos de desaparecidos."
+    "1228efed3763": {
+      "resumen": "Cobertura de The ASCO Post sobre un ensayo de ADN tumoral circulante (ctDNA) que no necesita una biopsia de tejido previa (tissue-free) para estimar el riesgo de recaída en cáncer de mama triple negativo (CMTN) en estadio temprano. Vale la pena seguirlo porque simplificaría el monitoreo de recaída sin depender de tejido tumoral archivado.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio que evalúa el desempeño de un ensayo de ADN tumoral circulante (ctDNA) sin necesidad de secuenciar tejido tumoral previo (tissue-free); el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama triple negativo (CMTN) en estadio temprano, en seguimiento posterior al tratamiento inicial.\nIntervención: Detección de ctDNA mediante un ensayo tissue-free para estratificar riesgo de recurrencia; no se especifica comparador en el título.\nResultados: No disponibles en este resumen; no se cuenta con cifras de sensibilidad, especificidad ni de supervivencia libre de recaída.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, el tiempo de seguimiento ni la validación externa del ensayo.\nMensaje: Es una señal prometedora para simplificar la vigilancia molecular en CMTN temprano, pero hace falta validación prospectiva más amplia antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "4c0f943142f9": {
+      "resumen": "Cobertura de The ASCO Post sobre un estudio que evalúa una combinación cuádruple sin quimioterapia en cáncer de mama metastásico con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) positivo. Interesa porque busca controlar la enfermedad evitando la toxicidad de la quimioterapia.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico que evalúa un esquema cuádruple libre de quimioterapia (el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes).\nPoblación: Pacientes con cáncer de mama metastásico con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) positivo.\nIntervención: Combinación de cuatro fármacos sin quimioterapia (el título no detalla los agentes específicos ni el comparador).\nResultados: No disponibles en este resumen; no se cuenta con cifras de supervivencia libre de progresión ni de respuesta objetiva.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad del esquema.\nMensaje: Si los resultados son sólidos, ofrecería una alternativa a la quimioterapia en esta población, ampliando las opciones libres de citotóxicos en primera o segunda línea.\nNota: análisis sin acceso al abstract."
+    },
+    "7d9251000cef": {
+      "resumen": "Nota de análisis de The ASCO Post sobre cómo los ensayos oncológicos financiados por organismos federales y por la industria farmacéutica cumplen roles complementarios en el desarrollo de nuevos tratamientos. Es una pieza de contexto sobre el ecosistema de investigación, no reporta resultados de un estudio puntual.",
+      "destacado": false
+    },
+    "29445612ae28": {
+      "resumen": "La Administración de Alimentos y Medicamentos de Estados Unidos (FDA) otorgó la designación de vía rápida (Fast Track) a varsetatug masetecan para cáncer colorrectal metastásico en recaída o refractario. Es una noticia regulatoria que acelera el desarrollo del fármaco, todavía sin datos de eficacia publicados.",
+      "destacado": false
+    },
+    "10b73ba250af": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) concedió la designación de vía rápida a SYS6090 en cáncer colorrectal metastásico con estabilidad de microsatélites (MSS) y reparación de disparidad de bases intacta (pMMR) ya tratado previamente. Este subgrupo responde poco a la inmunoterapia, por lo que cualquier nueva opción es relevante.",
+      "destacado": false
+    },
+    "0ceee4037246": {
+      "resumen": "Contenido de OncLive con opinión de especialistas sobre cómo secuenciar tratamientos después de progresar a un esquema basado en osimertinib (inhibidor de EGFR, el receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR. Es una puesta al día práctica, no un estudio original.",
+      "destacado": false
+    },
+    "a6c620f2e7be": {
+      "resumen": "Relato narrativo publicado en Journal of Clinical Oncology (JCO), dentro de su sección de historias clínicas y reflexión humanística, sobre un paciente cuya evolución desafió los pronósticos habituales. Vale la pena leerlo como mirada humana sobre la práctica oncológica, no como un estudio con resultados.",
+      "destacado": false
+    },
+    "516122843f48": {
+      "resumen": "Estudio publicado en Journal of Clinical Oncology (JCO) sobre la combinación de becotatug vedotin (un anticuerpo conjugado a fármaco) más pucotenlimab (un inhibidor de PD-1) en carcinoma de nasofaringe recurrente o metastásico resistente a platino e inmunoterapia previa. Interesa porque aborda una población con pocas alternativas terapéuticas tras agotar los tratamientos estándar.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (probablemente de fase temprana) publicado en JCO; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma de nasofaringe recurrente o metastásico, resistente tanto a platino como a inmunoterapia previa, es decir, tras agotar líneas estándar.\nIntervención: Combinación de becotatug vedotin (anticuerpo conjugado a fármaco) más pucotenlimab (inhibidor de PD-1); el título no especifica comparador, lo que sugiere un diseño de un solo brazo.\nResultados: No disponibles en este resumen; no se cuenta con cifras de tasa de respuesta, supervivencia libre de progresión ni de toxicidad.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni el perfil de eventos adversos.\nMensaje: Es una señal a seguir en una población con pocas opciones tras progresar a platino e inmunoterapia; el impacto real en la práctica dependerá de conocer los datos completos de eficacia y seguridad.\nNota: análisis sin acceso al abstract."
+    },
+    "8473afcffe0a": {
+      "resumen": "Vogue México repasa las blusas largas de los años 80 que vuelven a estar de moda para combinar con pantalones este verano 2026."
+    },
+    "6926e408c391": {
+      "resumen": "Vogue México anticipa que los pantalones estilo años 70 combinados con top blanco serán una de las apuestas más elegantes del otoño 2026."
+    },
+    "54a35dbed47f": {
+      "resumen": "Vogue México cuenta cómo celebridades como Dua Lipa y Zendaya reactualizaron el peinado beehive de los años 60, uno de los estilos más elegantes de esa década."
+    },
+    "32be38dd58a7": {
+      "resumen": "El estilista Law Roach, conocido por vestir a Zendaya, reflexionó en una entrevista con La Razón sobre soltar rencores y su efecto en la propia imagen."
+    },
+    "89725f5ddb51": {
+      "resumen": "Grazia repasa los estilos de pantalones que se perfilan como tendencia para el otoño-invierno 2026."
+    },
+    "7ab000c16a61": {
+      "resumen": "Vogue México propone los jeans blancos estilo años 70 como opción versátil para combinar con sandalias, tacos o botines este verano 2026."
+    },
+    "23bfe59ef46c": {
+      "resumen": "Un relevamiento de Mundo Empresarial AR señala que los restaurantes porteños tienen una vida útil promedio de apenas cinco años."
+    },
+    "e0740e577bc7": {
+      "resumen": "Diego Detona, oriundo de Concordia, llegó como finalista al Teatro Ópera de Buenos Aires en el certamen \"Es mi sueño\", según cuenta AHORA Entre Ríos."
+    },
+    "ee4843914980": {
+      "resumen": "El músico uruguayo-estadounidense Juan Wauters vuelve a Buenos Aires para tocar en el Teatro Margarita Xirgu, según indieclubargentina."
+    },
+    "01293f098197": {
+      "resumen": "El músico y compositor Gustavo Santaolalla se presentará en el Teatro Colón de Buenos Aires, según diariopopular.com.ar."
+    },
+    "29bf6389f22d": {
+      "resumen": "FM Luzu 92.3 repasa los 106 años de la radio argentina, un medio que arrancó transmitiendo desde una azotea porteña."
     }
   }
 }
