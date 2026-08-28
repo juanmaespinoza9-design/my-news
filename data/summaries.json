@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-08-27T22:10:00Z",
+  "generated_at": "2026-08-28T10:09:28Z",
   "summaries": {
-    "bc8d86ab5173": {
-      "resumen": "Actualización de la guía viva de la Sociedad Estadounidense de Oncología Clínica (ASCO) sobre el tratamiento sistémico del cáncer de mama con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) negativo en estadios I a III. Es una guía de práctica clínica de actualización periódica, útil como referencia rápida de manejo.",
-      "destacado": false
-    },
-    "274b2ba20be1": {
-      "resumen": "Ensayo clínico de fase III publicado en Journal of Clinical Oncology (JCO) que compara la radioterapia de rescate hipofraccionada acelerada (dosis más altas en menos sesiones) contra el esquema estándar, en pacientes con recurrencia bioquímica (aumento del PSA) tras una prostatectomía radical. Relevante porque podría acortar los tratamientos de rescate sin perder eficacia.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (según el título); no se cuenta con el abstract completo para precisar cegamiento, número de centros ni de pacientes.\nPoblación: Varones con cáncer de próstata y recurrencia bioquímica (aumento del PSA) luego de prostatectomía radical, candidatos a radioterapia de rescate.\nIntervención: Radioterapia de rescate hipofraccionada acelerada (mayor dosis por sesión, tratamiento más corto) versus radioterapia de rescate estándar (fraccionamiento convencional).\nResultados: No disponibles en este resumen; el título no incluye cifras de eficacia ni de toxicidad.\nLimitaciones: Sin acceso al texto completo no se pueden evaluar el poder estadístico, la duración del seguimiento ni los eventos adversos reportados.\nMensaje: Si confirma no inferioridad, la hipofraccionación acortaría el tratamiento de rescate y aliviaría la carga para el paciente; hay que esperar los resultados numéricos para saber si cambia la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "ce89ef9916db": {
-      "resumen": "Página 12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
-    },
-    "5d3ae1aedc69": {
-      "resumen": "Restaurantes porteños lanzan propuestas especiales de ñoquis para este sábado 29, según Panorama Directo."
-    },
-    "47eb21e404d0": {
-      "resumen": "Se presentó la edición 2027 de la Guía Michelin para Buenos Aires y Mendoza."
-    },
-    "a68fac8ebc7f": {
-      "resumen": "Nueve planes gratuitos o económicos para salir en familia por Buenos Aires."
-    },
-    "4e12ce1bb25a": {
-      "resumen": "Agenda porteña: Festival y Mundial de Tango, propuestas gastronómicas y teatro de primer nivel."
-    },
     "1228efed3763": {
       "resumen": "Cobertura de The ASCO Post sobre un ensayo de ADN tumoral circulante (ctDNA) que no necesita una biopsia de tejido previa (tissue-free) para estimar el riesgo de recaída en cáncer de mama triple negativo (CMTN) en estadio temprano. Vale la pena seguirlo porque simplificaría el monitoreo de recaída sin depender de tejido tumoral archivado.",
       "destacado": false,
@@ -39,59 +15,80 @@
       "resumen": "Nota de análisis de The ASCO Post sobre cómo los ensayos oncológicos financiados por organismos federales y por la industria farmacéutica cumplen roles complementarios en el desarrollo de nuevos tratamientos. Es una pieza de contexto sobre el ecosistema de investigación, no reporta resultados de un estudio puntual.",
       "destacado": false
     },
-    "29445612ae28": {
-      "resumen": "La Administración de Alimentos y Medicamentos de Estados Unidos (FDA) otorgó la designación de vía rápida (Fast Track) a varsetatug masetecan para cáncer colorrectal metastásico en recaída o refractario. Es una noticia regulatoria que acelera el desarrollo del fármaco, todavía sin datos de eficacia publicados.",
-      "destacado": false
-    },
-    "10b73ba250af": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) concedió la designación de vía rápida a SYS6090 en cáncer colorrectal metastásico con estabilidad de microsatélites (MSS) y reparación de disparidad de bases intacta (pMMR) ya tratado previamente. Este subgrupo responde poco a la inmunoterapia, por lo que cualquier nueva opción es relevante.",
-      "destacado": false
-    },
-    "0ceee4037246": {
-      "resumen": "Contenido de OncLive con opinión de especialistas sobre cómo secuenciar tratamientos después de progresar a un esquema basado en osimertinib (inhibidor de EGFR, el receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR. Es una puesta al día práctica, no un estudio original.",
-      "destacado": false
-    },
-    "a6c620f2e7be": {
-      "resumen": "Relato narrativo publicado en Journal of Clinical Oncology (JCO), dentro de su sección de historias clínicas y reflexión humanística, sobre un paciente cuya evolución desafió los pronósticos habituales. Vale la pena leerlo como mirada humana sobre la práctica oncológica, no como un estudio con resultados.",
-      "destacado": false
-    },
-    "516122843f48": {
-      "resumen": "Estudio publicado en Journal of Clinical Oncology (JCO) sobre la combinación de becotatug vedotin (un anticuerpo conjugado a fármaco) más pucotenlimab (un inhibidor de PD-1) en carcinoma de nasofaringe recurrente o metastásico resistente a platino e inmunoterapia previa. Interesa porque aborda una población con pocas alternativas terapéuticas tras agotar los tratamientos estándar.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (probablemente de fase temprana) publicado en JCO; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma de nasofaringe recurrente o metastásico, resistente tanto a platino como a inmunoterapia previa, es decir, tras agotar líneas estándar.\nIntervención: Combinación de becotatug vedotin (anticuerpo conjugado a fármaco) más pucotenlimab (inhibidor de PD-1); el título no especifica comparador, lo que sugiere un diseño de un solo brazo.\nResultados: No disponibles en este resumen; no se cuenta con cifras de tasa de respuesta, supervivencia libre de progresión ni de toxicidad.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni el perfil de eventos adversos.\nMensaje: Es una señal a seguir en una población con pocas opciones tras progresar a platino e inmunoterapia; el impacto real en la práctica dependerá de conocer los datos completos de eficacia y seguridad.\nNota: análisis sin acceso al abstract."
-    },
-    "8473afcffe0a": {
-      "resumen": "Vogue México repasa las blusas largas de los años 80 que vuelven a estar de moda para combinar con pantalones este verano 2026."
-    },
-    "6926e408c391": {
-      "resumen": "Vogue México anticipa que los pantalones estilo años 70 combinados con top blanco serán una de las apuestas más elegantes del otoño 2026."
-    },
-    "54a35dbed47f": {
-      "resumen": "Vogue México cuenta cómo celebridades como Dua Lipa y Zendaya reactualizaron el peinado beehive de los años 60, uno de los estilos más elegantes de esa década."
-    },
-    "32be38dd58a7": {
-      "resumen": "El estilista Law Roach, conocido por vestir a Zendaya, reflexionó en una entrevista con La Razón sobre soltar rencores y su efecto en la propia imagen."
-    },
-    "89725f5ddb51": {
-      "resumen": "Grazia repasa los estilos de pantalones que se perfilan como tendencia para el otoño-invierno 2026."
-    },
-    "7ab000c16a61": {
-      "resumen": "Vogue México propone los jeans blancos estilo años 70 como opción versátil para combinar con sandalias, tacos o botines este verano 2026."
-    },
-    "23bfe59ef46c": {
-      "resumen": "Un relevamiento de Mundo Empresarial AR señala que los restaurantes porteños tienen una vida útil promedio de apenas cinco años."
-    },
     "e0740e577bc7": {
       "resumen": "Diego Detona, oriundo de Concordia, llegó como finalista al Teatro Ópera de Buenos Aires en el certamen \"Es mi sueño\", según cuenta AHORA Entre Ríos."
     },
-    "ee4843914980": {
-      "resumen": "El músico uruguayo-estadounidense Juan Wauters vuelve a Buenos Aires para tocar en el Teatro Margarita Xirgu, según indieclubargentina."
-    },
-    "01293f098197": {
-      "resumen": "El músico y compositor Gustavo Santaolalla se presentará en el Teatro Colón de Buenos Aires, según diariopopular.com.ar."
-    },
     "29bf6389f22d": {
       "resumen": "FM Luzu 92.3 repasa los 106 años de la radio argentina, un medio que arrancó transmitiendo desde una azotea porteña."
+    },
+    "47eb21e404d0": {
+      "resumen": "Se presentó la edición 2027 de la Guía Michelin para Buenos Aires y Mendoza."
+    },
+    "a68fac8ebc7f": {
+      "resumen": "Nueve planes gratuitos o económicos para salir en familia por Buenos Aires."
+    },
+    "ce89ef9916db": {
+      "resumen": "Página 12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
+    },
+    "5d3ae1aedc69": {
+      "resumen": "Restaurantes porteños lanzan propuestas especiales de ñoquis para este sábado 29, según Panorama Directo."
+    },
+    "553c131b650a": {
+      "resumen": "Video-entrevista de OncLive a la Dra. Uma Borate sobre cómo optimizar la dosis y manejar la toxicidad del tratamiento en pacientes mayores con leucemia mieloide aguda (LMA). Interesa porque aborda un desafío frecuente en la práctica: ajustar la intensidad terapéutica en población añosa sin resignar eficacia.",
+      "destacado": false
+    },
+    "80789c4df65e": {
+      "resumen": "Entrevista de OncLive al Dr. Sagar Lonial sobre la aprobación de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA) de una terapia basada en iberdomida para el mieloma múltiple en recaída o refractario (R/R). Suma una opción más para pacientes que ya agotaron líneas de tratamiento previas.",
+      "destacado": false
+    },
+    "d2f743dec83a": {
+      "resumen": "Nota de OncLive que resalta la importancia creciente de los biomarcadores en el manejo del cáncer de cabeza y cuello, donde la selección de tratamiento según el perfil molecular del tumor viene ganando terreno. Es una puesta al día conceptual, no reporta resultados de un estudio propio.",
+      "destacado": false
+    },
+    "7bbd86240594": {
+      "resumen": "Carta de correspondencia en Journal of Clinical Oncology (JCO) que discute si la exposición previa a un inhibidor de BRAF alcanza por sí sola para definir resistencia en el estudio de fase I de mosperafenib, un fármaco en investigación para tumores con mutación BRAF. Aporta al debate metodológico sobre cómo clasificar la resistencia a esta clase de fármacos."
+    },
+    "89d184a6572b": {
+      "resumen": "Respuesta de los autores del estudio de fase I de mosperafenib a la carta anterior, donde defienden su criterio para definir la resistencia a los inhibidores de BRAF en pacientes con exposición previa a esa clase de fármacos. Cierra el intercambio de correspondencia científica sobre el tema."
+    },
+    "be94e2bb9d4b": {
+      "resumen": "Artículo de perspectiva en Journal of Clinical Oncology (JCO) sobre las barreras que enfrentan los pacientes para acceder a nuevas terapias contra el cáncer de pulmón una vez aprobadas (barreras posteriores a la aprobación regulatoria). Es una pieza de análisis sobre el sistema de salud, no un estudio con datos propios.",
+      "destacado": false
+    },
+    "d28215cb0338": {
+      "resumen": "Análisis final del ensayo DEEPER, publicado en Journal of Clinical Oncology (JCO), que compara a largo plazo el esquema FOLFOXIRI modificado (combinación de tres quimioterápicos) más cetuximab (anticuerpo anti-EGFR, receptor del factor de crecimiento epidérmico) frente al mismo esquema más bevacizumab (anticuerpo anti-VEGF, factor de crecimiento del endotelio vascular) en cáncer colorrectal metastásico con genes RAS y BRAF sin mutaciones. Aporta datos de supervivencia a largo plazo para definir el mejor acompañante de la quimioterapia en primera línea.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (según indica el nombre \"ensayo DEEPER\"); el título corresponde al análisis final de supervivencia a largo plazo. Sin el abstract no se puede precisar fase, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con genes RAS y BRAF sin mutaciones (wild-type), candidatos a quimioterapia de primera línea.\nIntervención: FOLFOXIRI modificado (combinación de tres quimioterápicos: 5-fluorouracilo, oxaliplatino e irinotecán) más cetuximab (anticuerpo monoclonal anti-EGFR) versus el mismo esquema de quimioterapia más bevacizumab (anticuerpo monoclonal anti-VEGF).\nResultados: No disponibles en este resumen; el título no incluye cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Los datos de supervivencia a largo plazo del DEEPER ayudan a definir si el anti-EGFR o el anti-VEGF ofrece mejor beneficio duradero junto a FOLFOXIRI en primera línea para este subgrupo molecular, un debate vigente en la práctica oncológica.\nNota: análisis sin acceso al abstract."
+    },
+    "788ff0c4f2b8": {
+      "resumen": "Telva propone cinco prendas clave para renovar el placard de cara al otoño."
+    },
+    "6f6639c6fd0f": {
+      "resumen": "Telva cuenta cuál es la falda furor en redes sociales: ni bohemia ni lencera, la que usaba Kate Moss en los años 90."
+    },
+    "38003e86cd1f": {
+      "resumen": "Telva repasa cómo visten los diseñadores esta temporada, con guiños a los años 20 del siglo pasado."
+    },
+    "21da56695213": {
+      "resumen": "Infobae cuenta cómo Dakota Fanning convirtió las prendas básicas en su sello de estilo."
+    },
+    "6b6ae7da42e6": {
+      "resumen": "Vogue México presenta su plataforma Vogue Leaders, centrada en la creatividad y el liderazgo empresarial en América Latina."
+    },
+    "03393a08cbdd": {
+      "resumen": "Vogue México propone cinco diseños de uñas inspirados en los años 90 para este verano."
+    },
+    "02e3cc7232ae": {
+      "resumen": "Elonce anuncia para octubre la tercera edición del Festival de Teatro Gualeguay, con actividades de formación y obras."
+    },
+    "d8d83827275f": {
+      "resumen": "Zona Norte Hoy recomienda los planes imperdibles para disfrutar este fin de semana en Buenos Aires."
+    },
+    "cbb167008e04": {
+      "resumen": "Perfil presenta \"Remilgada Fantasía\", una obra en Moscú Teatro sobre lazos de sangre y versos en una Buenos Aires que muta."
+    },
+    "d4e206a3e6c1": {
+      "resumen": "Clarín relevó más de cien bodegones porteños donde se puede comer con bebida desde $17.000."
     }
   }
 }
