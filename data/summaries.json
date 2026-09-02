@@ -1,94 +1,91 @@
 {
-  "generated_at": "2026-08-28T10:09:28Z",
+  "generated_at": "2026-09-02T22:08:11Z",
   "summaries": {
-    "1228efed3763": {
-      "resumen": "Cobertura de The ASCO Post sobre un ensayo de ADN tumoral circulante (ctDNA) que no necesita una biopsia de tejido previa (tissue-free) para estimar el riesgo de recaída en cáncer de mama triple negativo (CMTN) en estadio temprano. Vale la pena seguirlo porque simplificaría el monitoreo de recaída sin depender de tejido tumoral archivado.",
+    "862721809263": {
+      "resumen": "Cobertura de OncLive sobre un estudio que compara la administración locorregional de gemcitabina mediante un sistema llamado TAMP con la infusión intravenosa (IV) convencional en cáncer de páncreas localmente avanzado. Vale la pena mirarlo porque busca bajar la exposición sistémica al fármaco -y su toxicidad- sin perder eficacia local.",
       "destacado": false,
-      "analisis": "Diseño: Estudio que evalúa el desempeño de un ensayo de ADN tumoral circulante (ctDNA) sin necesidad de secuenciar tejido tumoral previo (tissue-free); el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama triple negativo (CMTN) en estadio temprano, en seguimiento posterior al tratamiento inicial.\nIntervención: Detección de ctDNA mediante un ensayo tissue-free para estratificar riesgo de recurrencia; no se especifica comparador en el título.\nResultados: No disponibles en este resumen; no se cuenta con cifras de sensibilidad, especificidad ni de supervivencia libre de recaída.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, el tiempo de seguimiento ni la validación externa del ensayo.\nMensaje: Es una señal prometedora para simplificar la vigilancia molecular en CMTN temprano, pero hace falta validación prospectiva más amplia antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio (probablemente de fase temprana) que compara la exposición sistémica de gemcitabina administrada por un sistema locorregional (TAMP) frente a la infusión intravenosa estándar; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de páncreas localmente avanzado.\nIntervención: Administración de gemcitabina mediante el sistema TAMP versus infusión intravenosa (IV) convencional.\nResultados: El título indica menor exposición sistémica al fármaco con la vía TAMP frente a la IV, pero no aporta cifras de farmacocinética, respuesta tumoral ni supervivencia.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el diseño exacto (fase, aleatorización) ni el perfil de toxicidad comparado.\nMensaje: Si se confirma la menor exposición sistémica sin pérdida de eficacia, podría ofrecer una alternativa más segura de administración de gemcitabina en esta población de difícil manejo.\nNota: análisis sin acceso al abstract."
     },
-    "4c0f943142f9": {
-      "resumen": "Cobertura de The ASCO Post sobre un estudio que evalúa una combinación cuádruple sin quimioterapia en cáncer de mama metastásico con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) positivo. Interesa porque busca controlar la enfermedad evitando la toxicidad de la quimioterapia.",
+    "28578ae53fba": {
+      "resumen": "Entrevista de OncLive al Dr. Sykes sobre los fundamentos para explorar mavorixafor, un inhibidor del receptor de quimiocinas CXCR4, en el tratamiento de la neutropenia crónica. Es una pieza de opinión sobre el racional terapéutico, no reporta resultados de un ensayo.",
+      "destacado": false
+    },
+    "3406ae92abaf": {
+      "resumen": "Cobertura de The ASCO Post sobre un estudio que muestra que el triplete basado en spartalizumab (anticuerpo anti-PD-1) mejora la supervivencia global a largo plazo en melanoma con mutación BRAF V600. Interesa porque suma evidencia de durabilidad para un esquema de inmunoterapia combinada con terapia dirigida en este subgrupo molecular.",
       "destacado": false,
-      "analisis": "Diseño: Estudio clínico que evalúa un esquema cuádruple libre de quimioterapia (el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes).\nPoblación: Pacientes con cáncer de mama metastásico con receptores hormonales positivos y HER2 (receptor 2 del factor de crecimiento epidérmico humano) positivo.\nIntervención: Combinación de cuatro fármacos sin quimioterapia (el título no detalla los agentes específicos ni el comparador).\nResultados: No disponibles en este resumen; no se cuenta con cifras de supervivencia libre de progresión ni de respuesta objetiva.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad del esquema.\nMensaje: Si los resultados son sólidos, ofrecería una alternativa a la quimioterapia en esta población, ampliando las opciones libres de citotóxicos en primera o segunda línea.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio clínico (el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes) que reporta resultados de supervivencia global a largo plazo.\nPoblación: Pacientes con melanoma con mutación BRAF V600.\nIntervención: Esquema triplete basado en spartalizumab (anticuerpo anti-PD-1), presumiblemente combinado con terapia dirigida anti-BRAF/MEK; el título no detalla el comparador.\nResultados: El título indica una mejora en la supervivencia global a largo plazo, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad del triplete.\nMensaje: Si se confirma la ganancia de supervivencia a largo plazo, refuerza el rol de combinar inmunoterapia con terapia dirigida en melanoma BRAF-mutado, aunque hace falta el detalle estadístico para dimensionar el beneficio real.\nNota: análisis sin acceso al abstract."
     },
-    "7d9251000cef": {
-      "resumen": "Nota de análisis de The ASCO Post sobre cómo los ensayos oncológicos financiados por organismos federales y por la industria farmacéutica cumplen roles complementarios en el desarrollo de nuevos tratamientos. Es una pieza de contexto sobre el ecosistema de investigación, no reporta resultados de un estudio puntual.",
+    "b046d8a9b849": {
+      "resumen": "The ASCO Post cubre un estudio sociológico sobre el concepto de \"desajuste temporal\" (temporal misalignment) en pacientes con cáncer terminal, es decir, la brecha entre el tiempo que sienten que les queda y el tiempo que efectivamente transcurre en su atención. Aporta una mirada cualitativa poco habitual sobre la experiencia del paciente oncológico al final de la vida.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de tipo sociológico/cualitativo; el título no especifica la metodología exacta, el número de participantes ni los centros involucrados.\nPoblación: Pacientes con cáncer en estadio terminal.\nIntervención: No aplica en sentido terapéutico; se trata de un abordaje conceptual/exploratorio sobre la vivencia del tiempo en la enfermedad terminal.\nResultados: El título no aporta datos cuantitativos; describe la identificación conceptual del \"desajuste temporal\" como fenómeno vivido por estos pacientes.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la muestra, el método de recolección de datos (entrevistas, encuestas) ni la generalización de los hallazgos.\nMensaje: Aporta un marco conceptual que podría ayudar a los equipos de oncología y cuidados paliativos a comprender mejor la experiencia subjetiva del tiempo en pacientes terminales, más allá de lo estrictamente biomédico.\nNota: análisis sin acceso al abstract."
+    },
+    "53765c3c45e2": {
+      "resumen": "Análisis exploratorio del ensayo ASCENT-04, publicado en The ASCO Post, que evalúa sacituzumab govitecan (anticuerpo conjugado dirigido a Trop-2) combinado con pembrolizumab (anticuerpo anti-PD-1) en cáncer de mama triple negativo. Interesa porque muestra mejoras en la supervivencia libre de progresión tras el siguiente tratamiento (PFS2) y en el tiempo hasta el próximo tratamiento, datos que hablan del beneficio acumulado más allá de la primera línea.",
+      "destacado": true,
+      "analisis": "Diseño: Análisis exploratorio de un ensayo clínico (ASCENT-04); el título no especifica fase, aleatorización, cegamiento ni número exacto de centros o pacientes, aunque por el nombre del estudio se trata de un ensayo en cáncer de mama triple negativo (CMTN) metastásico.\nPoblación: Pacientes con cáncer de mama triple negativo (CMTN), presumiblemente en primera línea metastásica según el diseño habitual de este tipo de ensayos.\nIntervención: Sacituzumab govitecan (anticuerpo conjugado a fármaco dirigido contra Trop-2) más pembrolizumab (anticuerpo anti-PD-1), frente a un comparador no especificado en el título.\nResultados: El título reporta una mejora en la supervivencia libre de progresión tras la siguiente línea de tratamiento (PFS2, por sus siglas en inglés) y una demora en el inicio del próximo tratamiento, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Se trata de un análisis exploratorio (no el criterio de valoración principal); sin el abstract no se puede evaluar el tamaño muestral, la madurez del seguimiento ni la solidez estadística de los hallazgos.\nMensaje: Refuerza el beneficio de combinar sacituzumab govitecan con pembrolizumab en CMTN al mostrar un efecto que se sostiene más allá del primer criterio de valoración, aunque al ser un análisis exploratorio no alcanza por sí solo para cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "6546cf036061": {
+      "resumen": "Nota de OncLive sobre el debate que generan los nuevos esquemas guiados por biomarcadores respecto de intensificar el tratamiento en cáncer de próstata avanzado. Es una pieza de discusión clínica, no reporta resultados de un estudio puntual.",
       "destacado": false
     },
-    "e0740e577bc7": {
-      "resumen": "Diego Detona, oriundo de Concordia, llegó como finalista al Teatro Ópera de Buenos Aires en el certamen \"Es mi sueño\", según cuenta AHORA Entre Ríos."
-    },
-    "29bf6389f22d": {
-      "resumen": "FM Luzu 92.3 repasa los 106 años de la radio argentina, un medio que arrancó transmitiendo desde una azotea porteña."
-    },
-    "47eb21e404d0": {
-      "resumen": "Se presentó la edición 2027 de la Guía Michelin para Buenos Aires y Mendoza."
-    },
-    "a68fac8ebc7f": {
-      "resumen": "Nueve planes gratuitos o económicos para salir en familia por Buenos Aires."
-    },
-    "ce89ef9916db": {
-      "resumen": "Página 12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
-    },
-    "5d3ae1aedc69": {
-      "resumen": "Restaurantes porteños lanzan propuestas especiales de ñoquis para este sábado 29, según Panorama Directo."
-    },
-    "553c131b650a": {
-      "resumen": "Video-entrevista de OncLive a la Dra. Uma Borate sobre cómo optimizar la dosis y manejar la toxicidad del tratamiento en pacientes mayores con leucemia mieloide aguda (LMA). Interesa porque aborda un desafío frecuente en la práctica: ajustar la intensidad terapéutica en población añosa sin resignar eficacia.",
+    "8bae70831bda": {
+      "resumen": "Artículo de revisión en Journal of Clinical Oncology (JCO) sobre la integración clínica de los agonistas del receptor de trombopoyetina (TPO-RA) para manejar la trombocitopenia inducida por quimioterapia (CIT) en cánceres gastrointestinales. Es útil como puesta al día práctica de una complicación frecuente que puede obligar a retrasar o reducir la quimioterapia.",
       "destacado": false
     },
-    "80789c4df65e": {
-      "resumen": "Entrevista de OncLive al Dr. Sagar Lonial sobre la aprobación de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA) de una terapia basada en iberdomida para el mieloma múltiple en recaída o refractario (R/R). Suma una opción más para pacientes que ya agotaron líneas de tratamiento previas.",
-      "destacado": false
-    },
-    "d2f743dec83a": {
-      "resumen": "Nota de OncLive que resalta la importancia creciente de los biomarcadores en el manejo del cáncer de cabeza y cuello, donde la selección de tratamiento según el perfil molecular del tumor viene ganando terreno. Es una puesta al día conceptual, no reporta resultados de un estudio propio.",
-      "destacado": false
+    "50c3c8ca6476": {
+      "resumen": "Actualización de los resultados del ensayo de fase III AEGEAN, publicada en Journal of Clinical Oncology (JCO), sobre durvalumab (anticuerpo anti-PD-L1) perioperatorio -neoadyuvante y adyuvante- en cáncer de pulmón de células no pequeñas (CPCNP) resecable. Interesa porque consolida el rol de la inmunoterapia perioperatoria en enfermedad operable, un cambio de paradigma reciente en esta población.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, doble ciego, controlado con placebo y multicéntrico (según el diseño conocido de AEGEAN); esta nota reporta una actualización de los resultados, sin que el título precise el número exacto de pacientes ni el tiempo de seguimiento de este corte.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) resecable, candidatos a tratamiento perioperatorio.\nIntervención: Durvalumab (anticuerpo anti-PD-L1) neoadyuvante combinado con quimioterapia, seguido de durvalumab adyuvante, frente a quimioterapia neoadyuvante más placebo seguida de placebo adyuvante.\nResultados: El título indica una actualización de los resultados de eficacia (probablemente supervivencia libre de eventos y/o supervivencia global), pero no aporta cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no se puede precisar la madurez del seguimiento de este corte actualizado, el tamaño muestral exacto ni el desglose por subgrupos (por ejemplo, estadio o expresión de PD-L1).\nMensaje: Una actualización favorable reforzaría el estándar ya vigente de inmunoterapia perioperatoria con durvalumab en CPCNP resecable; de mostrar resultados neutros o inciertos en algún subgrupo, podría matizar a quién ofrecerlo.\nNota: análisis sin acceso al abstract."
     },
     "7bbd86240594": {
       "resumen": "Carta de correspondencia en Journal of Clinical Oncology (JCO) que discute si la exposición previa a un inhibidor de BRAF alcanza por sí sola para definir resistencia en el estudio de fase I de mosperafenib, un fármaco en investigación para tumores con mutación BRAF. Aporta al debate metodológico sobre cómo clasificar la resistencia a esta clase de fármacos."
-    },
-    "89d184a6572b": {
-      "resumen": "Respuesta de los autores del estudio de fase I de mosperafenib a la carta anterior, donde defienden su criterio para definir la resistencia a los inhibidores de BRAF en pacientes con exposición previa a esa clase de fármacos. Cierra el intercambio de correspondencia científica sobre el tema."
     },
     "be94e2bb9d4b": {
       "resumen": "Artículo de perspectiva en Journal of Clinical Oncology (JCO) sobre las barreras que enfrentan los pacientes para acceder a nuevas terapias contra el cáncer de pulmón una vez aprobadas (barreras posteriores a la aprobación regulatoria). Es una pieza de análisis sobre el sistema de salud, no un estudio con datos propios.",
       "destacado": false
     },
-    "d28215cb0338": {
-      "resumen": "Análisis final del ensayo DEEPER, publicado en Journal of Clinical Oncology (JCO), que compara a largo plazo el esquema FOLFOXIRI modificado (combinación de tres quimioterápicos) más cetuximab (anticuerpo anti-EGFR, receptor del factor de crecimiento epidérmico) frente al mismo esquema más bevacizumab (anticuerpo anti-VEGF, factor de crecimiento del endotelio vascular) en cáncer colorrectal metastásico con genes RAS y BRAF sin mutaciones. Aporta datos de supervivencia a largo plazo para definir el mejor acompañante de la quimioterapia en primera línea.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (según indica el nombre \"ensayo DEEPER\"); el título corresponde al análisis final de supervivencia a largo plazo. Sin el abstract no se puede precisar fase, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con genes RAS y BRAF sin mutaciones (wild-type), candidatos a quimioterapia de primera línea.\nIntervención: FOLFOXIRI modificado (combinación de tres quimioterápicos: 5-fluorouracilo, oxaliplatino e irinotecán) más cetuximab (anticuerpo monoclonal anti-EGFR) versus el mismo esquema de quimioterapia más bevacizumab (anticuerpo monoclonal anti-VEGF).\nResultados: No disponibles en este resumen; el título no incluye cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Los datos de supervivencia a largo plazo del DEEPER ayudan a definir si el anti-EGFR o el anti-VEGF ofrece mejor beneficio duradero junto a FOLFOXIRI en primera línea para este subgrupo molecular, un debate vigente en la práctica oncológica.\nNota: análisis sin acceso al abstract."
+    "acac38009202": {
+      "resumen": "Vogue repasa la colección primavera 2027 del diseñador Yushokobayashi presentada en la Semana de la Moda de Tokio."
     },
-    "788ff0c4f2b8": {
-      "resumen": "Telva propone cinco prendas clave para renovar el placard de cara al otoño."
+    "3881baffa64c": {
+      "resumen": "Vogue presenta la colección primavera 2027 de Pillings mostrada en la Semana de la Moda de Tokio."
     },
-    "6f6639c6fd0f": {
-      "resumen": "Telva cuenta cuál es la falda furor en redes sociales: ni bohemia ni lencera, la que usaba Kate Moss en los años 90."
+    "f28ccdd89c83": {
+      "resumen": "Vogue México recorre un penthouse en Miami renovado con juegos de reflejos, texturas y luz para convertirlo en un refugio diseñado a medida."
     },
-    "38003e86cd1f": {
-      "resumen": "Telva repasa cómo visten los diseñadores esta temporada, con guiños a los años 20 del siglo pasado."
+    "d49a27eb8afd": {
+      "resumen": "Vogue México repasa los looks a juego que eligieron George y Amal Clooney para su paso por el Festival de Venecia 2026."
     },
-    "21da56695213": {
-      "resumen": "Infobae cuenta cómo Dakota Fanning convirtió las prendas básicas en su sello de estilo."
+    "eb3e4389d7f9": {
+      "resumen": "TN adelanta cuáles serán los colores de esmalte que se van a imponer esta primavera 2026, dejando atrás el negro y los diseños con flores."
     },
-    "6b6ae7da42e6": {
-      "resumen": "Vogue México presenta su plataforma Vogue Leaders, centrada en la creatividad y el liderazgo empresarial en América Latina."
+    "71ee6b6f52bd": {
+      "resumen": "Lecturas propone ocho cortes de pelo sofisticados pensados para mujeres elegantes de más de 50 años de cara al otoño."
     },
-    "03393a08cbdd": {
-      "resumen": "Vogue México propone cinco diseños de uñas inspirados en los años 90 para este verano."
+    "be6f256fb7b0": {
+      "resumen": "El diseñador Juan Avellaneda adelanta a Revista CLARA cuál será la prenda estrella del próximo Otoño/Invierno: las polleras tubo, especialmente las de tipo cuero."
     },
-    "02e3cc7232ae": {
-      "resumen": "Elonce anuncia para octubre la tercera edición del Festival de Teatro Gualeguay, con actividades de formación y obras."
+    "0b2c82dfd650": {
+      "resumen": "El Destape cuenta cómo los jubilados de la Ciudad de Buenos Aires pueden acceder gratis a funciones de teatro musical."
+    },
+    "529a03fa16ae": {
+      "resumen": "Eltrece cuenta que Maia Reficco volvió a mostrarse en la noche de Buenos Aires con un look total black y sin Franco Colapinto, en medio de los rumores de crisis de pareja."
+    },
+    "183fd5c07858": {
+      "resumen": "Cadena 3 informa que la cantidad de espectadores de teatro en Buenos Aires cayó un 5% en agosto y que la asistencia sigue en baja."
+    },
+    "fdf84e478e85": {
+      "resumen": "Página|12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
+    },
+    "7cdf032b2940": {
+      "resumen": "Time Out repasa la agenda de planes para hacer en Buenos Aires durante septiembre."
+    },
+    "969acce4b46e": {
+      "resumen": "iProfesional propone una agenda de planes para el fin de semana en Buenos Aires, con tango, moda y otras actividades."
     },
     "d8d83827275f": {
       "resumen": "Zona Norte Hoy recomienda los planes imperdibles para disfrutar este fin de semana en Buenos Aires."
-    },
-    "cbb167008e04": {
-      "resumen": "Perfil presenta \"Remilgada Fantasía\", una obra en Moscú Teatro sobre lazos de sangre y versos en una Buenos Aires que muta."
-    },
-    "d4e206a3e6c1": {
-      "resumen": "Clarín relevó más de cien bodegones porteños donde se puede comer con bebida desde $17.000."
     }
   }
 }
