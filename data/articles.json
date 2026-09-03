@@ -1,18 +1,11 @@
 {
- "generated_at": "2026-09-03T04:49:04.296723+00:00",
+ "generated_at": "2026-09-03T11:26:31.986613+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
-    {
-     "title": "Real-World Tirabrutinib Use in Primary CNS Lymphoma",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlMyUlpCQXRucjhqdnZ1d3dvTHdtZXpyQ1RkUk9mamk0QW9FUkZ5NVpZcXQ1NmVtODhWMUcwVW9melNsbU0xWjJvenpsSTExNVdHY09sOTd2eUdSblBjMXUyWnp3cFFGemJ6TEhpbVd4U1J5OFRBOEVoVmtOLUJ4bjUxSC1qUlE?oc=5",
-     "source": "OncLive",
-     "published": "2026-09-03T01:56:48+00:00",
-     "id": "9cffac16bade"
-    },
     {
      "title": "Tirabrutinib in Relapsed/Refractory Primary CNS Lymphoma",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjN2RWhEMGlfekh0NEM5bHBhZ0pRYTh0TzVwR1gxOVJxZG9EMUpuNldsRWZ2MHF5ZnVoQTYzQlotNmg1T3hwc3oyT1JxZ0dFdTRKVmlZTzZBZldDMW95Ym5NTW8wMnlPWE5lcmozeXNhOXIxSl95S2Z0NHJkWkhPR2dySDhFV0JUaFVlVUxR?oc=5",
@@ -26,6 +19,13 @@
      "source": "OncLive",
      "published": "2026-09-02T20:49:53+00:00",
      "id": "ad7331eb330d"
+    },
+    {
+     "title": "TAMP-Mediated Gemcitabine Lowers Systemic Exposure vs IV Delivery in Locally Advanced Pancreatic Cancer",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZS1lQlVDNHpTN3kwMnFBQktFWElBT0VFcjZyaUZPV1JuZlpYQnRzZ2o3MXRvaGItaUZwaGc2ZndtVV9PZ2RvN1J4Qk96czN2NkVUT0pwZ01FaEVyTklSR0xGUEM1ZFhzMVV0cE83clRQVFR3UFJPLUFSQlJFbFVWTS03Y2s3c2ZjeFpzaUJMS0duY181ZTBSYjZIRm9ZNVRpVWdHRnJaZ2YyZnhhNWdhWG5wbFllNDFEdTB5akYyOGxaYTQ0NXFBMERmaGY?oc=5",
+     "source": "OncLive",
+     "published": "2026-09-02T20:48:36+00:00",
+     "id": "862721809263"
     },
     {
      "title": "Spartalizumab-Based Triplet Improves Long-Term Overall Survival in BRAF V600–Mutant Melanoma",
@@ -49,6 +49,30 @@
      "id": "53765c3c45e2"
     },
     {
+     "title": "Bridging the Gap: Mounting Evidence for Metastasis-Directed Therapy in Oligometastatic Disease",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685304/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-09-02T00:00:00+00:00",
+     "copete": "LaVigne AW et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "24e9a5c1af78"
+    },
+    {
+     "title": "Endoscopic Response Should Not Yet Select Nonoperative Management in RESET-C",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685303/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-09-02T00:00:00+00:00",
+     "copete": "Wu X et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "843c1d608a13"
+    },
+    {
+     "title": "Reply to: Endoscopic Response Should Not Yet Select Nonoperative Management in RESET-C",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685301/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-09-02T00:00:00+00:00",
+     "copete": "Chieng M et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "5e3f506d375f"
+    },
+    {
      "title": "Bridging the Gap: Clinical Integration of Thrombopoietin Receptor Agonists in GI Cancer-Associated Chemotherapy-Induced Thrombocytopenia",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42679335/",
      "source": "Journal of Clinical Oncology",
@@ -57,28 +81,20 @@
      "id": "8bae70831bda"
     },
     {
-     "title": "Perioperative Durvalumab for Resectable Non-Small Cell Lung Cancer: Updated Outcomes From the Phase III AEGEAN Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42664473/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-28T00:00:00+00:00",
-     "copete": "Heymach JV et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "50c3c8ca6476"
+     "title": "Challenges in the use of the European Society for Radiotherapy and Oncology-European Organisation for Research and Treatment of Cancer oligometastatic disease classification system in ovarian cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636843/",
+     "source": "Lancet Oncology",
+     "published": "2026-09-01T00:00:00+00:00",
+     "copete": "Macchia G et al. · The Lancet. Oncology",
+     "id": "a197d7e5eb01"
     },
     {
-     "title": "Speeding to a Stop: Postapproval Barriers to Accessing New Lung Cancer Therapies",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42659602/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-27T00:00:00+00:00",
-     "copete": "Dagogo-Jack I et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "be94e2bb9d4b"
-    },
-    {
-     "title": "Prior BRAF Inhibitor Exposure Is Not Enough to Define Resistance in the Phase I Mosperafenib Study",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42659591/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-08-27T00:00:00+00:00",
-     "copete": "Zhao C et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "7bbd86240594"
+     "title": "Tumour-infiltrating lymphocytes and breast radiotherapy: perspectives from the International Immuno-Oncology Biomarker Working Group",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42636842/",
+     "source": "Lancet Oncology",
+     "published": "2026-09-01T00:00:00+00:00",
+     "copete": "Gunster JLB et al. · The Lancet. Oncology",
+     "id": "8a5429e8b36e"
     }
    ]
   },
@@ -88,56 +104,71 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Yushokobayashi Tokyo Spring 2027",
-     "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/yushokobayashi",
-     "source": "Vogue",
-     "published": "2026-09-03T04:46:36+00:00",
-     "id": "acac38009202"
+     "title": "De los archivos: La leyenda feminista Gloria Steinem compartió con Vogue sus perlas de sabiduría",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFRFcnpxNjB6LTlyeFctNDdiZTFyN2ZaNkdBZ1dpUFRRUlhDVE9UZU5QakNCSFRxYkZ3bXFxVVFrYjhCenZvZVYwWjc2RHBwTklMWTJrUW9fVWhnQkdKMmRlblhFU0h0SzdPSDVjWGVsR1N3SVJmeDRlYnVYdm9Hbzl3?oc=5",
+     "source": "vogue.es",
+     "published": "2026-09-03T11:18:30+00:00",
+     "id": "3a665d8acaef"
     },
     {
-     "title": "Meet the Indian Wedding Stylists Brands Need to Know",
-     "link": "https://www.vogue.com/article/meet-the-indian-wedding-stylists-brands-need-to-know",
-     "source": "Vogue",
-     "published": "2026-09-03T04:30:00+00:00",
-     "copete": "Luxury brands are chasing India’s biggest bridal budgets. They need the handful of stylists who decide where that money actually goes.",
-     "id": "472913a01c57"
-    },
-    {
-     "title": "How CEO Olivier Bron Capitalized on Bloomingdale’s Big Moment",
-     "link": "https://www.vogue.com/article/how-ceo-olivier-bron-capitalized-on-bloomingdales-big-moment",
-     "source": "Vogue",
-     "published": "2026-09-03T04:30:00+00:00",
-     "copete": "Saks Global’s bankruptcy became an opportunity for Bloomingdale’s, which had been laying the groundwork to win in a difficult market for the last three years under Bron.",
-     "id": "fb9152be8570"
-    },
-    {
-     "title": "Beyond Lab-Grown: How Dorsey Is Building a New Kind of Jewelry Brand",
-     "link": "https://www.vogue.com/article/beyond-lab-grown-how-dorsey-is-building-a-new-kind-of-jewelry-brand",
-     "source": "Vogue",
-     "published": "2026-09-03T04:30:00+00:00",
-     "copete": "Dorsey founder Meg Strachan shares how she’s building a lab-grown jewelry business to last.",
-     "id": "8d62231d5ab2"
-    },
-    {
-     "title": "TODOS los jeans en tendencia de Otoño-Invierno 2026: cigarette, baggy, acampanados y más",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByb09VZ3ZSZXoxVndfRHNHRlZKdnF2Y3ZrSy1vLWdKcFNWdEFoeEpHMzRvSUhWQl9vVnZmc0txZ1JqWG1pVUNfb2RfTllMcnNYc0pSRFpSbmdFeG1sTjFBbzU4SGJUUQ?oc=5",
+     "title": "Horóscopo de hoy: 3 de septiembre de 2026",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVFEeU5adzJITzc1S0taRllYSFQ2ZURPUll2akVobWRVa1B4c3FwT1FhVVVYWkZOaFlFWG41a1p3UWZMNG96RlFfSVNlNDZOaUdjc3g1OUxBSUszN2FlcEV4UWxhZjMyVWMzVnhjMEc5NGVvY2R6UEtJTVdDZTBKVlZMUQ?oc=5",
      "source": "Vogue México",
-     "published": "2026-09-03T03:11:13+00:00",
-     "id": "55c3d6d64da6"
+     "published": "2026-09-03T11:00:00+00:00",
+     "id": "4decec7858d0"
     },
     {
-     "title": "Tendencias de belleza para Otoño-Invierno 2026: Peinados, cabello, cejas y maquillaje",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PRTNTdGxLREJOYUhOZTVIZXpHR2R1WjF6TVh1TTBfd3dfQmtaR21oaS1DbE1MOTllMU1KN1o1TmJOYmlwWFFZNjF3d1c0NlNVTDRsN2xuUlR5NGdtSm9qMExYWEg5bU40dVRRbElXM1MwQjNxS3RIa29hRQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-03T02:07:39+00:00",
-     "id": "d0e52b9b35f0"
+     "title": "On the Podcast: Isaac Mizrahi Talks Food, Culture, and the Legacy of ‘Unzipped‘",
+     "link": "https://www.vogue.com/article/on-the-podcast-isaac-mizrahi-talks-food-culture-and-the-legacy-of-unzipped",
+     "source": "Vogue",
+     "published": "2026-09-03T10:30:00+00:00",
+     "copete": "For this Thursday’s episode of “The Run-Through,” Nicole Phelps catches up with Isaac Mizrahi ahead of the re-release of his cult 1995 fashion documentary.",
+     "id": "155f8787940d"
     },
     {
-     "title": "Danna se inspira en los años 80 para lucir un vestido de lentejuelas con sandalias de tacón",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVZnWHNfdUpZaDlacFp2S3JBYTJWMHdQd1Y2TldtblotWGJoZUdjQVd0NFMyMlA5Q1NrT0tNZEZEUmFhN2l5WURYcFJvZkpqYk4tWVd0Vm52MDNSRDJ1WEpJZWROemg4RmFRSDJpT19LeVRvSi1oZktIekRmdXUxTG1sVWk4dUhlSFloUEJLT2RJOEMwWF9j?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-03T00:18:09+00:00",
-     "id": "fa63551208d3"
+     "title": "Gloria Steinem, Feminist Icon and Activist, Has Died at 92",
+     "link": "https://www.vogue.com/article/gloria-steinem-obituary",
+     "source": "Vogue",
+     "published": "2026-09-03T10:28:52+00:00",
+     "copete": "A social movement trailblazer who galvanized generations of young women and girls, Gloria Steinem passed away peacefully at her home on September 2, 2026.",
+     "id": "a6d9ee3f0db2"
+    },
+    {
+     "title": "My Packing Style: Leset Founder Lili Chemla",
+     "link": "https://www.vogue.com/article/packing-style-lili-chemla",
+     "source": "Vogue",
+     "published": "2026-09-03T10:00:00+00:00",
+     "copete": "Take a peek inside Leset founder Lili Chemla’s travel bag—as well as the packing tips she swears by.",
+     "id": "d24ea0e18a36"
+    },
+    {
+     "title": "At Last, Victoria Beckham Has a New York Store to Call Her Own",
+     "link": "https://www.vogue.com/article/at-last-victoria-beckham-has-a-new-york-store-to-call-her-own",
+     "source": "Vogue",
+     "published": "2026-09-03T10:00:00+00:00",
+     "copete": "Victoria Beckham’s new store at 150 Mercer Store is a full-circle moment, after she showed her first collection in the city in 2008.",
+     "id": "5111d939fe3f"
+    },
+    {
+     "title": "Fallece Gloria Steinem a los 92 años",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PN2F4aDN0bTVIaDRsc292N1BWejdIdFVuX0NSX1o4S3d2aDhPb0RqUzZWU29WMDUyZWJwRVMtSTFuSzlFV2p5YUxCOXNMZFlDb2o0am1JTVRPNjQ5aDczU3U4eXY3MkFBQWZnd2lONC1ES0dZLVR3T09wUllIUQ?oc=5",
+     "source": "vogue.es",
+     "published": "2026-09-03T09:46:08+00:00",
+     "id": "d86bd35480e0"
+    },
+    {
+     "title": "De las bailarinas de tacón a las bicolor: así se reinventan los zapatos tipo 'merceditas' como la gran tendencia en moda del otoño",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3FIWGI1QWdXSFllVHlobUJYOWN2cmRfLUhycGdlUG1Xd1djRElVZE9ab1RvU0RfQTk4RFlvOW9LWC1QVHB0cGhfSUZHdkNKVDBKckRoU1RtZ1FFR3FGc2lWWGdocC1KU09aV3BhUVdoLWpvQ3k1bDlVZkxMQUNCM0laT0VNb0hwVmpzbDh3RVBHMXUwQ19jNGRR?oc=5",
+     "source": "Cosmopolitan",
+     "published": "2026-09-03T04:36:13+00:00",
+     "id": "57e52494476d"
+    },
+    {
+     "title": "Adiós a los conjuntos de dos piezas: Zara, Primark y Mango tienen los cuatro looks de oficina elegantes y sencillos para volver al trabajo y marcar tendencia esta temporada",
+     "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQMVZHQ3o1R2MtMzVCZ3daM191akZRcW1yMFVuaDVEOFllV0c3NEFuLXFrSEdZamdjcXc4RFRoYTlLTUdsbklRUEhLNl9HUGQ4UWhNM2hUbG55NmxFUUg4dmJuNlB0cU5wZDlHaWdjYzRyRTByOEJIaGpSaDgtQWFyUldkMERnOTJ1Z1BOeU1IckZjZ2xtYmtGaVgtUmhCTm5Cb2R6QVcwNzM4Mlp6dUZwR3lTWEVBNXJLUzVhdEJmTzRpalF1QkJFN2xWMENoNUYtc21Zcms3SUcxTDdNc1lBUENaQ3NhV0lDWmo1ZGVCOGM1Y2NPZTdSSlZIUDE3b3J2aDVhb2ZZRVZpYlZrN2lqdnl2WXlBem9NZkJ6WGNPeDZPSTFFVW1ncUlLbjRaUDVldjBHb1lNbnAxb2ZsQVpaNlZUbEE?oc=5",
+     "source": "The Objective",
+     "published": "2026-09-03T03:25:00+00:00",
+     "id": "124a234bea19"
     },
     {
      "title": "Moda: Todo lo que necesitas saber para la moda otoño 2026 - El Sol de Cuernavaca",
@@ -145,20 +176,6 @@
      "source": "El Sol de México",
      "published": "2026-09-02T22:44:22+00:00",
      "id": "17cae4bb97de"
-    },
-    {
-     "title": "5 tendencias de bolsas para agregar a tu wishlist este otoño",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdl9VOHVHVmUzZjJwcmhQYjdSaWg3aC00Yy0xOE45SkxIaEVXTDZhZXR6S3E3azZiY0VYQ2ZkSlVfR2d6QjlRajB6aVZRQWE3NHRadU45OThPQlhxUEVjVjNMbDE3Mmw0Mkx1Qld0QTliSS1iSThjek1MQnhMTDFUZGk5aVppbVdQMVA2bg?oc=5",
-     "source": "InStyle México",
-     "published": "2026-09-02T19:50:00+00:00",
-     "id": "32a84905f343"
-    },
-    {
-     "title": "5 ítems tendencia que tenés que tener esta primavera-verano",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRy14a1JmSXNOVjVDZ191M0hrQThLUW4wNGRrcWdiTHJ6emNkVWxDQjFTbnlWOGJkQ1VERHBXU2xsbW1tbW9lbnRGXzIzaXctdFBaNzgzNDhUNFBmX3ZVdlJRLW1WMnNRS2dWcDhlZ1dpUzNVaDEyQVRBZVF6Z1JMTUMzTU1xSlRTdno0VzFzRkdGVzVBVGNpOHRfRVF6NzE2S1BYNWZQOA?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-09-02T18:18:49+00:00",
-     "id": "610eb392147d"
     }
    ]
   },
@@ -168,20 +185,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "En el Oeste “está el agite”, y el tango ya tiene sus nuevos campeones de baile de escenario",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/en-el-oeste-esta-el-agite-y-el-tango-ya-tiene-sus-nuevos-campeones-de-baile-de-escenario-nid03092026/",
+     "title": "En medio del escándalo familiar, Tini volvió a los escenarios: “Estoy más firme que nunca, más feliz que nunca y muy agradecida con mi equipo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/en-medio-del-escandalo-familiar-tini-volvio-a-los-escenarios-estoy-mas-firme-que-nunca-mas-feliz-que-nid03092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-03T04:22:46+00:00",
-     "copete": "De Merlo y Moreno llegaron Nicolás Schell y Nair Schinca, para imponerse en la gran final del Festival y Mundial Tango BA",
-     "id": "4aa4a3cb9d5c"
+     "published": "2026-09-03T11:17:13+00:00",
+     "copete": "Mientras continúa el distanciamiento con sus padres, la cantante se presentó en Guadalajara, Ciudad de México, y dejó en claro cómo se encuentra hoy",
+     "id": "c892dafe1612"
     },
     {
-     "title": "Tini Stoessel regresa a los escenarios, en medio de los rumores de un fuerte conflicto familiar",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/tini-stoessel-regresa-a-los-escenarios-en-medio-de-los-rumores-de-un-fuerte-conflicto-familiar-nid03092026/",
+     "title": "Quién toca en el Movistar Arena hoy: todos los recitales del mes de septiembre 2026 en la Argentina",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-toca-en-el-movistar-arena-hoy-todos-los-recitales-del-mes-de-septiembre-2026-en-la-argentina-nid31082026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-03T04:15:31+00:00",
-     "copete": "La cantante retomó la parte latinoamericana de su gira Futtura, con un show en Guadalajara, México",
-     "id": "bdd5b06711c2"
+     "published": "2026-09-03T10:45:50+00:00",
+     "copete": "El microestadio ganó popularidad en los últimos años al ser el escenario de artistas nacionales e internacionales",
+     "id": "76a5e0764b89"
+    },
+    {
+     "title": "Así vive hoy Balthazar, el hijo mayor de Valeria Mazza y Alejandro Gravier: de su título de ingeniero a su emprendimiento inmobiliario en Madrid",
+     "link": "https://www.lanacion.com.ar/espectaculos/asi-vive-hoy-balthazar-el-hijo-mayor-de-valeria-mazza-y-alejandro-gravier-de-su-titulo-de-ingeniero-nid03092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-03T10:17:18+00:00",
+     "copete": "El joven de 27 años, que desde hace un tiempo está instalado en la capital española, mantiene un bajo perfil y se dedica a los negocios",
+     "id": "16ba7dc2c595"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este jueves 3 de septiembre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-jueves-3-de-septiembre-de-2026-en-argentina_0_nfmGWN94hA.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-03T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "52c52fcafb79"
+    },
+    {
+     "title": "Así vive hoy Clara, la hija menor de Ricardo Darín y Florencia Bas: de su emprendimiento de cerámica a la fotografía y su rol de tía",
+     "link": "https://www.lanacion.com.ar/espectaculos/asi-vive-hoy-clara-la-hija-menor-de-ricardo-darin-y-florencia-bas-de-su-emprendimiento-de-ceramica-a-nid01092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-03T09:51:34+00:00",
+     "copete": "A los 33 años mantiene un bajo perfil y está abocada al arte; tiene su propia marca de objetos artesanales y es la encargada de retratar a su familia con la cámara; descubrí su historia",
+     "id": "def2169fd6bf"
+    },
+    {
+     "title": "Luisana Lopilato es la mujer valiente antes de ser Pepita, la pistolera",
+     "link": "https://www.clarin.com/espectaculos/luisana-lopilato-mujer-valiente-pepita-pistolera_0_a7r6IKf1l3.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-03T09:03:47+00:00",
+     "copete": "Lucía Puenzo dirigió la película que se centra en un momento preciso de la carrera delictiva de la protagonista. Actúan Marcelo Subiotto, Camila Peralta, Alberto Ajaka y Claudio Tolcachir.",
+     "id": "4adf814142b0"
+    },
+    {
+     "title": "La negociación, con aires de Tarde de perros (y con Al Pacino)",
+     "link": "https://www.clarin.com/espectaculos/negociacion-aires-tarde-perros-pacino_0_XObgdjZXZ8.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-03T09:01:48+00:00",
+     "copete": "La película de Gus Van Sant toma un hecho real. La protagoniza Bill Skarsgård, y Pacino es el padre al que secuestran a su hijo.",
+     "id": "5371792a2247"
+    },
+    {
+     "title": "Esa cosa con alas y con Benedict Cumberbatch que hace una de las mejores interpretaciones de su carrera",
+     "link": "https://www.clarin.com/espectaculos/cosa-alas-benedict-cumberbatch-hace-mejores-interpretaciones-carrera_0_FxyAd4ebLe.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-03T09:01:47+00:00",
+     "copete": "Un dibujante pierde a su esposa y se le aparece un cuervo tamaño humano, que lo acosa. El drama psicológico está basado en los recuerdos de un escritor que quedó viudo.",
+     "id": "c676dafb9928"
     },
     {
      "title": "Luana versus Mariela Prieto en Gran Hermano Generación Dorada: cuál fue la finalista que quedó eliminada",
@@ -200,14 +265,6 @@
      "id": "fffa4e7f1d92"
     },
     {
-     "title": "Rating: cuánto midió la gala de eliminación de Gran Hermano",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/rating-cuanto-midio-la-gala-de-eliminacion-de-gran-hermano-nid03092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-03T03:43:02+00:00",
-     "copete": "El reality de Telefe fue seguido por más de 715.000 individuos según las nuevas métricas de Ibope",
-     "id": "e630af7c3990"
-    },
-    {
      "title": "El comunicado del equipo de Emilia Mernes tras una polémica versión que la relacionó con Rodrigo de Paul",
      "link": "https://www.infobae.com/teleshow/2026/09/03/el-comunicado-del-equipo-de-emilia-mernes-tras-una-polemica-version-que-la-relaciono-con-rodrigo-de-paul/",
      "source": "Teleshow (Infobae)",
@@ -216,52 +273,12 @@
      "id": "37b6d7ce906e"
     },
     {
-     "title": "La negociación reconstruye con ecos actuales un tenso caso policial de los años 70",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/la-negociacion-reconstruye-con-ecos-actuales-un-tenso-caso-policial-de-los-anos-70-nid03092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-03T03:02:00+00:00",
-     "copete": "Protagonizada por Bill Skarsgård, Colman Domingo y con una breve aparición de Al Pacino, la película marca la reaparición del director Gus Van Sant",
-     "id": "71bfde26505c"
-    },
-    {
      "title": "Laetitia d’Arenberg celebró sus 85 años: “En mi día solo pido salud”",
      "link": "https://www.infobae.com/teleshow/2026/09/03/laetitia-darenberg-celebro-sus-85-anos-en-mi-dia-solo-pido-salud/",
      "source": "Teleshow (Infobae)",
      "published": "2026-09-03T02:47:06+00:00",
      "copete": "La socialité mostró en Instagram un festejo íntimo en tonos rojos y dorados, acompañado por su chihuahua, y dejó una frase muy personal. Los saludos de sus amigos",
      "id": "23ccc995f6bb"
-    },
-    {
-     "title": "Vero Lozano se desnudó en su programa para entrevistar a Pincoya de Gran Hermano: las imágenes",
-     "link": "https://www.infobae.com/teleshow/2026/09/03/vero-lozano-se-desnudo-en-su-programa-para-entrevistar-a-pincoya-de-gran-hermano-las-imagenes/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-03T01:55:27+00:00",
-     "copete": "La conductora se animó a sacarse la ropa con la última eliminada del reality, conocida por practicar nudismo dentro de la casa. El momento",
-     "id": "9743895187e8"
-    },
-    {
-     "title": "Las tiernas fotos de Oriana Sabatini y Paulo Dybala por los seis meses de su hija Gia",
-     "link": "https://www.infobae.com/teleshow/2026/09/03/las-tiernas-fotos-de-oriana-sabatini-y-paulo-dybala-por-los-seis-meses-de-su-hija-gia/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-03T01:28:43+00:00",
-     "copete": "La cantante y el futbolista compartieron nuevas imágenes por el cumplemés de su beba con mensajes a puro amor",
-     "id": "b4f012a5b5d2"
-    },
-    {
-     "title": "Murió Cassandra Wilson, \"la dama del jazz\", a los 70 años",
-     "link": "https://www.clarin.com/espectaculos/murio-70-anos-cassandra-wilson-dama-jazz_0_2Vw1OXmZgV.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-09-02T21:24:55+00:00",
-     "copete": "Ganó dos premios Grammy, incluyendo el de Mejor Interpretación Vocal de Jazz por \"New Moon Daughter\". No se especificó aún la causa de su fallecimiento.",
-     "id": "b49a1fbcdd99"
-    },
-    {
-     "title": "\"Hemos creado un ser humano\": nació el primer nieto de John Lennon",
-     "link": "https://www.clarin.com/espectaculos/creado-humano-nacio-primer-nieto-john-lennon_0_71J2WCU99r.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-09-02T20:11:12+00:00",
-     "copete": "Con esas palabras subió la noticias a sus redes sociales Sean Ono Lennon. \"Es alienígena\", bromeó Charlotte, la pareja de Sean.",
-     "id": "69a4f2980abc"
     }
    ]
   },
@@ -271,13 +288,6 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Cayó la cifra de espectadores en los teatros de la Ciudad de Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUp3eG5QQkxTd0FYVXVyUWxqbWJPa1J0Y2gyVG92Slc5SnhTNjNrVWhlMmRoVWJCN1RZTmhoRXZKVUJCdGRUUnFhdEQzZlRudWVoZm9KeTR5ZC1mLXYtNHRNR2ZQb3liOVY0Q1Y5dlNVeDBaMGZnNjBLbXVmVGU0VnV1QTVHTkZkWE9fZjZKUF81V0NsbWNlZGl3Z2hHd2VPa0twaVBCWC1mVldoYVB0OXdsQ3hySUxIZ2tTYWFwaHZhYVk?oc=5",
-     "source": "Diario Digital Conclusión",
-     "published": "2026-09-03T00:02:10+00:00",
-     "id": "565abbea58d8"
-    },
-    {
      "title": "Exclusivo jubilados en la ciudad de Buenos Aires: cómo disfrutar de un musical en el teatro completamente gratis",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3FvN2h0WE01ZkFvcTJQaUhveHZIZGpGMmJ3ZjlvVzhrMlYxa1lHcy1ldXRLbWlkU2ppR0pkWEc3Z1l0eS1NZ1lXdDJzR3BBODdiRnhQWWd0ZjFWZ040eUlWZzhyRi1FZ29qcnE1RG9tQlpIMUp4UU5JT284LXNYUFB2UExCOHQzYUM0U2tJT2tGMWRoRmxraV93bDdqTWpXOWZURFFfdTRQSDBUeHRwY1VTMXFydlHSAcsBQVVfeXFMUDNUNjl2emxrNTFMX0hlU3BqN25YSUhaWFlYMTU2cXlidjlyTkpoaEhxVTdwV0MtMDBtNGhkMTZfZlhVS2FFcklCNGhfeVpDb2VyZlF0eGE5NHhxeTBmWktZcGlmMW5GbmNZU0hpUk85aFFjODRvbGlEZkhnYnhGdnNzMktLY3JRb0NYTWNHS1B0bUROa2JiOG1FYWd2ZUtqSS0za1Q4dkFUcTlzc3VvM182RGtoU0xUSUNRcnpWdDZiaXJRNUNtTmlaOEU?oc=5",
      "source": "El Destape",
@@ -285,39 +295,25 @@
      "id": "0b2c82dfd650"
     },
     {
+     "title": "Se viene el Festival Internacional de Buenos Aires 2026: cuándo es, dónde y todo lo que hay que saber para disfrutar del evento",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObi1sSW9tWGJMdkJnb3VXU21Na3ZjMjFhWXQzTjNxY2U5eGVMRW9RcmZja2tGTXMxbzRVSC0xNkgwUVQtMW9JbVV1V2NZc2pVV1BxajhIQ0publMya0xVN2l1dUpZYTcwdjV5VFFmMDVkdGJkbEowVUk2X0cwUTNnRHZNdkNFTlFRaGtZdG9NY1NhaTRZTEs3cUF0TzUwUFNzZWNVbUw1d21qZGwxUFhxOUVYZlpBQWpRbXVHOFRMNWhpaVVqUmx6Uy1Zc3diRFZUcExac2pJbjRMTGtOaVplN1R5MS1qRTU0aVA5N0o5WkhjS1JUaklZUmdZZXF3QQ?oc=5",
+     "source": "Canal26",
+     "published": "2026-09-02T19:00:00+00:00",
+     "id": "374305527fa4"
+    },
+    {
+     "title": "Charly García celebra sus 75 años con un homenaje musical en el Teatro Coliseo",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR2dWMmVVSlBNeUNVMUxWajZNVmN2M2s0cExocDc5RnhRdzloZmttYnhmTWVzb2h6Qll4OU55Sk5VWlJVcGVVNHg4MDRHWTVPVVIxRjZIZDZnZTdEaVg4dFJsNnZSWU0wN2Q1RWpnMDZXVHhyRWlyQUlqY0ZvaHl2N1lVNXlFQkFKVXhEaGt3Y1NQTjZMSV9UeHgtUzI0ZTB2cm9JUGticTBtYkpzREtxUFotRHFtcV9PYVBGY0t0amZPM3FGaXQw0gHMAUFVX3lxTFBxY3dxcUpHZzlKaDI4U0k4VG9iN1dLZEJqNHZ2dkJYck5MOEc5c0hyNjQ3TzdhZkNVb1hwaTllNGhZNDRLNVhNVE9FbENWRl90UnJuWWZ1QTJtZW5Gd1Q2TVpvU2liVUVHTWMwaHU0c25aUlZvbmtQSy15Q3NrdU5aVzN3NmNaZXNaVWl2dTg4U0dKLXlYNUlYSzlSM1c2SDVIeVRpT3FpdjZmbkRzZ3ZKRFkyQWs2ZGJib2EzbHlDd0R1T0VXb2lfeVVmQw?oc=5",
+     "source": "La Popu",
+     "published": "2026-09-02T18:24:00+00:00",
+     "id": "d5a0019ed42f"
+    },
+    {
      "title": "Look total black y sin Colapinto: Maia Reficco reapareció en la noche porteña tras los rumores de crisis",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVpDWl8zRHREV1Z3Ti16anVLRElEbkx4MEdWdnoxVHZtQXkzTUQ3MXFXc21MR2RBYTE3OUJ5emptZFlPck5jWklYQWxXV0JNZ2h2QmpCbGNib3NYNmFRWWtucGZLVzRfM1JiOUlyajdvZGhyUWViZ0NYRTZsNTlFMDJYOXRSblJhXzh0MVNoNjJvTElpRk00TGlBUHYzOTlPQTRwcGRUMVpNTVdvSkY4V1FGZ1B5TGFGVldBV2JnVG9Gemt5cWdfb0Zuc1pFdDd4Z2tSeklJdlE2dUVwalNwLVNaV2stZkdR0gH8AUFVX3lxTE5Md2o3cjVVOW5QV2dGR3BUQ2FjckFXaFdabTV2ejl2aFQ3VmZQdzAzRXBWdl8yM253QU5XMU9iZWdEWFp2LTNOUEpsVzdSUHp6VV9sYzR6VWhKM1E1anRsVEpNZ0lJZDFaaUgtNEFuM0RLeVRXQ2JTZGFCazVKWkhHWEFTeG5uV0EtcHlSZTduUElsSEFwcHRFeFVXczV4bXBXWnVBTXBwOXVscnhVbThnVTYyOUZjclJ2YXYyc3pobWJObXVOcWdRQkVJWk8ya2ZqVExJRmVEamhYYUdUMElFVUZHRnNyTUdKUHdCSjc3V2dzZElhdEJ2cDdobw?oc=5",
      "source": "eltrecetv",
      "published": "2026-09-02T14:26:06+00:00",
      "id": "529a03fa16ae"
-    },
-    {
-     "title": "La asistencia al teatro en Buenos Aires sigue cayendo: un 5% menos de espectadores en agosto",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVDd4aC1EYjRJOVc5NGJYSnZHX3ZmZVlUazN5X2RQNlhiOVJSVVdUTlA5d2lNLUQxLW9oa0R4eDFHUjBhT2dyZVRWVmlnbHdidWVQd0s0VUNUaWZnN3R4anFQMEJ1RmNWYmJja1M1M3NsLXNCTWNsSko0SGhTQ1RwZjIxMS1rSWhmTWZZUVBiYnAyTmZQSTRPU0dPZWxrZHlCNXhZZHRMb2poT3pxN29IM0FWem1vdEpycVFvQmVfTDRUS0RvZ1dmdENZblhUbGNSc0VjeXNVOE83d9IB3wFBVV95cUxNQ2YwRWt4cTk2TzkwRzhDcm1GU2gwV1d3NklLZnRkc2paZFRGUWZRV3FKdW5VcmhqQm9tMnBOMWZhYlZuS3Jxa0lYbGhta19iYWxXV2FlcUxWdzR2NVYxYklsYlRUcjRLMENXamdCNGpIZTZfUkRnYkVzMFFGVFlyNHk4Ui1ZMl9DWjhQaWZ0eTB5ejN6dFlZME5YSkU1VVBab1R2U0JnTG10WkZkZTB4RjNCcGN6QXE2cTV5RlhTRGZmNUp1SFZYc0JLSl9tUXJnOEw2ZkdTWGR4dzAtUDUw?oc=5",
-     "source": "Cadena 3 Argentina",
-     "published": "2026-09-02T12:52:48+00:00",
-     "id": "183fd5c07858"
-    },
-    {
-     "title": "Qué hacer en Buenos Aires en septiembre",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84ZTZYS0NNNTdyNTRWbGdtQXhVX0hoVjBZQ0N3Mk8tVFh0TGpnbHhGUWpCZEhnQjRGSEJreDNtWUt2ZFZBNkdMcDRMMW9LRTZmWUxmR1lZQlZ6R2RPSklxM29RVlpGUGV3akhYYkVOcldnS2s?oc=5",
-     "source": "Time Out Worldwide",
-     "published": "2026-08-31T03:00:00+00:00",
-     "id": "7cdf032b2940"
-    },
-    {
-     "title": "Hamburguesas gourmet en Buenos Aires: la guía 2026",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY1VPUE91QzBmVW9tZXE5U3Z3U3VwNEdEcDBSVWVKRWlOQnhaVTVKX3BxWVZfam45Z25NcV9fRXlULXR4Z0hTMTgxV0p6N3hHSU1kT1JfdFA3ODk3YXl3dUxPUzBnUDU1Wko2cUZma2dvZC1zRXo4aHBPUnlMb3dUenktcnd5NXVzMzFIbHZB?oc=5",
-     "source": "Time Out Worldwide",
-     "published": "2026-08-31T03:00:00+00:00",
-     "id": "aa3ae2248ac0"
-    },
-    {
-     "title": "Villa Devoto: un recorrido por sus restaurantes y sabores",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlhIMDg5VDZyRTBvbFFWU3RSU0YtTFZQUHZvajRVRF8zZzJkajg5VFIzRjBGT1dLY1hOWTc0RktuS3gydnV3SG13a1RZbjg2dmFaUWIxSGdfOGtuQzg1Y19qMV9oNTd2UmcyMVdBZUFEZ3lpT3VCN3BaOHVfM2FEbmpIY3h0WFlrQnZPRW1aa19NUzBSRVpv0gGcAUFVX3lxTE9oSFZNWjhvY2JEX3hibC1HbG1fUmJRMERxY3ZHRExWSlZOTHA3T1o1ODMyRFJoQzYxOVdfTWxEZDJJTVZjQ0ZvYy04N01RbTYtdmthYVZrVDFETVBjU0RsdGQtLUg2QnFaT2g2WVlSb0NmV0x3SEYtTGEyenpULWJiUVItVHFRNmRVUWZDWU5LNWd0SVZFQk5wSVlBeA?oc=5",
-     "source": "Ambito",
-     "published": "2026-08-29T15:24:22+00:00",
-     "id": "b51aa94c8009"
     },
     {
      "title": "#Restaurantes de sushi en Buenos Aires",
@@ -339,6 +335,13 @@
      "source": "Clarin",
      "published": "2026-08-28T11:57:45+00:00",
      "id": "04f59cefac74"
+    },
+    {
+     "title": "Los imperdibles para disfrutar el fin de semana en la Ciudad más linda del mundo",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSktUZVpTUUdKU18tTTdWWVlSVFVPaVBIYklSdjFlZ2V5SkxuaWZ2d25PU3R2OWg2OXNsdkpYUDRNak56MHRDOHllMmlXaWNxbUVnUXFMNVY5QVlhZS1LTy1adTFOajFVOU1iMEpvcWNvcjl5VGFrdGdoS216Mm5QeVRKbjdidldubnlJUzBSS1lWUkhfT2NOR19sM3hMYkxBX250LUtadUo5UHdETmd6c2JjaGtOZw?oc=5",
+     "source": "zonanortehoy",
+     "published": "2026-08-27T23:08:55+00:00",
+     "id": "d8d83827275f"
     }
    ]
   },
@@ -348,83 +351,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Leire se concertó con Serrano para “ayudar” a Sánchez tras su periodo de reflexión - Clone - Clone asd",
-     "link": "https://www.infobae.com/arc-support/2026/08/10/leire-se-concerto-con-serrano-para-ayudar-a-sanchez-tras-su-periodo-de-reflexion-clone-clone-asd/",
+     "title": "Cipreses: calidad del aire este 3 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/03/cipreses-calidad-del-aire-este-3-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-03T04:39:51+00:00",
-     "id": "4aecab69a0b4"
+     "published": "2026-09-03T11:24:00+00:00",
+     "copete": "Estas son algunas sugerencias a considerar para el estado actual de la calidad del aire",
+     "id": "69ab33669943"
     },
     {
-     "title": "Detuvieron en Mendoza a un hombre sobre quien pesaba una recompensa millonaria por balear a dos personas en Rosario",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/09/03/detuvieron-en-mendoza-a-un-hombre-sobre-quien-pesaba-una-recompensa-millonaria-por-balear-a-dos-personas-en-rosario/",
+     "title": "Coquimbo: calidad del aire este 3 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/03/coquimbo-calidad-del-aire-este-3-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-03T04:39:16+00:00",
-     "copete": "Duamn Nihuel Cassino tenía pedido de captura por una tentativa de homicidio ocurrida en septiembre de 2025. En el operativo también fue detenida su pareja, que estaba vinculada a la misma causa",
-     "id": "17dfe2d6a359"
+     "published": "2026-09-03T11:23:43+00:00",
+     "copete": "Estas son las medidas que se aplican para el actual estado de la calidad del aire",
+     "id": "b8c2e6da8dde"
     },
     {
-     "title": "Hay alerta amarilla por tormentas, nevadas, vientos y Zonda para este jueves 3 de septiembre: las provincias afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-nevadas-vientos-y-zonda-para-este-jueves-3-de-septiembre-las-nid03092026/",
-     "source": "La Nación",
-     "published": "2026-09-03T04:36:41+00:00",
-     "copete": "El Servicio Meteorológico Nacional advirtió sobre posible caída de granizo y actividad eléctrica; en la Ciudad, la máxima será de 19°C",
-     "id": "0ebd6e454113"
-    },
-    {
-     "title": "Suben a USD 3.636 la multa por no instalar el limitador de velocidad en transporte de carga y pasajeros en Guatemala",
-     "link": "https://www.infobae.com/guatemala/2026/09/03/suben-a-usd-3636-la-multa-por-no-instalar-el-limitador-de-velocidad-en-transporte-de-carga-y-pasajeros-en-guatemala/",
+     "title": "Estatus de la calidad del aire en Lautaro este 3 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/03/estatus-de-la-calidad-del-aire-en-lautaro-este-3-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-03T04:30:14+00:00",
-     "copete": "Nueve de cada 10 buses y camiones obligados aún circulan sin el dispositivo, pese a la exigencia vigente desde marzo de 2026. Los registros oficiales y el nuevo esquema de sanciones abren un pulso con las empresas",
-     "id": "25eeb73fd942"
+     "published": "2026-09-03T11:23:26+00:00",
+     "copete": "Estas son las medidas que se aplican para el actual estado de la calidad del aire",
+     "id": "0639e8fa56c7"
     },
     {
-     "title": "Unidad Nacional llama a los militares nicaragüenses a ponerse del lado de la justicia",
-     "link": "https://www.infobae.com/nicaragua/2026/09/03/unidad-nacional-llama-a-los-militares-nicaraguenses-a-ponerse-del-lado-de-la-justicia/",
+     "title": "Calidad del aire en Mirasol este 3 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/03/calidad-del-aire-en-mirasol-este-3-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-03T04:27:04+00:00",
-     "copete": "El pronunciamiento sostiene que la institución fue desvirtuada para servir a intereses de la familia Ortega-Murillo, y señala que parte del alto mando se pone al servicio del poder mientras se ejecutan acciones represivas",
-     "id": "0b5efe170a7d"
+     "published": "2026-09-03T11:23:10+00:00",
+     "copete": "Estas son las restricciones aplicables para el actual estado de la calidad del aire",
+     "id": "24d52532b9b3"
     },
     {
-     "title": "En el Oeste “está el agite”, y el tango ya tiene sus nuevos campeones de baile de escenario",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/en-el-oeste-esta-el-agite-y-el-tango-ya-tiene-sus-nuevos-campeones-de-baile-de-escenario-nid03092026/",
+     "title": "Javier Milei y sus medidas, en vivo: Kicillof dijo que la gestión libertaria es “un plan de exterminio de la industria”",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/",
      "source": "La Nación",
-     "published": "2026-09-03T04:22:46+00:00",
-     "copete": "De Merlo y Moreno llegaron Nicolás Schell y Nair Schinca, para imponerse en la gran final del Festival y Mundial Tango BA",
-     "id": "4aa4a3cb9d5c"
+     "published": "2026-09-03T11:17:17+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "40f359a99ebb"
     },
     {
-     "title": "Avanza el ICE en Nueva York: operativos migratorios han llevado a un récord de detenciones",
-     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/avanza-el-ice-en-nueva-york-operativos-migratorios-han-llevado-a-un-record-de-detenciones-nid02092026/",
+     "title": "En medio del escándalo familiar, Tini volvió a los escenarios: “Estoy más firme que nunca, más feliz que nunca y muy agradecida con mi equipo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/en-medio-del-escandalo-familiar-tini-volvio-a-los-escenarios-estoy-mas-firme-que-nunca-mas-feliz-que-nid03092026/",
      "source": "La Nación",
-     "published": "2026-09-03T04:19:00+00:00",
-     "copete": "Los operativos del ICE en Nueva York alcanzaron niveles récord y contribuyeron a un aumento histórico de detenciones migratorias. A nivel nacional, más de 50.000 personas fueron arrestadas por la agencia. Conoce qué dice el DHS sobre las…",
-     "id": "1e66052455ef"
+     "published": "2026-09-03T11:17:13+00:00",
+     "copete": "Mientras continúa el distanciamiento con sus padres, la cantante se presentó en Guadalajara, Ciudad de México, y dejó en claro cómo se encuentra hoy",
+     "id": "c892dafe1612"
     },
     {
-     "title": "Falucho, el héroe de la Independencia que prefirió el fusilamiento a la traición e inspiró un monumento histórico",
-     "link": "https://www.lanacion.com.ar/lifestyle/falucho-el-heroe-de-la-independencia-que-prefirio-el-fusilamiento-a-la-traicion-e-inspiro-un-nid03092026/",
+     "title": "México: un argentino fue detenido por el asesinato de un músico y su familia en su casa",
+     "link": "https://www.lanacion.com.ar/el-mundo/mexico-un-argentino-fue-detenido-por-el-asesinato-de-un-musico-y-su-familia-en-su-casa-nid03092026/",
      "source": "La Nación",
-     "published": "2026-09-03T04:18:00+00:00",
-     "copete": "Antonio Ruiz, más conocido como Falucho, fue un soldado de la independencia porteño de origen africano que tuvo una muerte épica en Perú por no sumarse a una sublevación en contra de la causa emancipadora",
-     "id": "bf6f7b415123"
+     "published": "2026-09-03T11:14:18+00:00",
+     "copete": "La víctima fue identificada como Jonathan Meléndez Ochoa, tecladista de la banda Camilo Séptimo; el presunto homicida sería Diego Sebastián Rosen, de 51 años, quién fue captado por las cámaras de seguridad de la residencia",
+     "id": "bea1a476e02b"
     },
     {
-     "title": "Chourio brilla y Cerveceros vencen 9-5 a Cachorros pese a mala apertura de Misiorowski",
-     "link": "https://www.clarin.com/estados-unidos/chourio-brilla-y-cerveceros-vencen-9-5-a-cachorros-pese-a-mala-apertura-de-misiorowski_0_atiMakOAVB.html",
+     "title": "Hernán Lacunza se reunió con Alfredo Cornejo en el inicio de su recorrida por el país de cara a las elecciones de 2027",
+     "link": "https://www.lanacion.com.ar/politica/hernan-lacunza-se-reunio-con-alfredo-cornejo-en-el-inicio-de-su-recorrida-por-el-pais-de-cara-a-las-nid03092026/",
+     "source": "La Nación",
+     "published": "2026-09-03T11:13:00+00:00",
+     "copete": "El exministro de Economía también mantuvo encuentros con empresarios y productores mendocinos; pretende competir en las presidenciales como una “alternativa de centro”",
+     "id": "e17c8d19fd07"
+    },
+    {
+     "title": "Dólar hoy en Paraguay: precio y cotización de la divisa este jueves 3 de septiembre de 2026",
+     "link": "https://www.clarin.com/economia/dolar-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-jueves-3-de-septiembre-de-2026_0_2OKOgLYhqo.html",
      "source": "Clarín",
-     "published": "2026-09-03T04:10:07+00:00",
-     "copete": "El conjunto de Milwaukee venció 9-5 a Chicago, destacando el jonrón de Chourio y el sencillo clave de Contreras. Misiorowski tuvo un desempeño irregular. Con esta victoria, los Cerveceros amplían su ventaja en la división central, mientras…",
-     "id": "9c271b33ab53"
+     "published": "2026-09-03T10:40:13+00:00",
+     "copete": "Mirá la cotización del dólar en Paraguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+     "id": "4d985eb4557a"
     },
     {
-     "title": "La lapidaria carta que podría haber salvado de morir a casi cien personas por el fentanilo contaminado",
-     "link": "https://www.clarin.com/sociedad/lapidaria-carta-podria-salvado-morir-cien-personas-fentanilo-contaminado_0_zqE5q0oZnd.html",
+     "title": "Dólar hoy en Perú: precio y cotización de la divisa este jueves 3 de septiembre de 2026",
+     "link": "https://www.clarin.com/economia/dolar-hoy-en-peru-precio-y-cotizacion-de-la-divisa-este-jueves-3-de-septiembre-de-2026_0_GGQQzo9esg.html",
      "source": "Clarín",
-     "published": "2026-09-03T04:01:43+00:00",
-     "copete": "El juez Kreplak la resaltó en el duro dictamen en el que procesó a las dos ex máximas funcionarias de la ANMAT. Era una nota de advertencia que tendrían que haber firmado por las irregularidades de HLB. Pero lo hicieron un mes después, y…",
-     "id": "5222da410bda"
+     "published": "2026-09-03T10:40:13+00:00",
+     "copete": "Mirá la cotización del dólar en Perú, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+     "id": "b283c7c32751"
     }
    ]
   },
@@ -434,6 +438,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "El Kremlin cerrará el Instituto Goethe en respuesta a las medidas de Berlín tras los sabotajes: “Es el fin de su presencia cultural en Rusia”",
+     "link": "https://elpais.com/internacional/2026-09-03/el-kremlin-cerrara-el-instituto-goethe-en-respuesta-a-las-medidas-de-berlin-tras-los-sabotajes-es-el-fin-de-su-presencia-cultural-en-rusia.html",
+     "source": "El País Internacional",
+     "published": "2026-09-03T10:36:14+00:00",
+     "copete": "El jefe de la diplomacia asegura que Moscú no quiere negociar el levantamiento de sanciones con Europa: “Es la naturaleza de nuestro pueblo. Tenemos nuestro propio orgullo”",
+     "id": "cf8b049ca6df"
+    },
+    {
+     "title": "\"En distintas partes del mundo ya está en marcha un movimiento de reacción a la distopía del presente\"",
+     "link": "https://www.bbc.com/mundo/articles/c62k479j1l5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-03T10:34:13+00:00",
+     "copete": "La socióloga y politóloga española Cristina Monge sostiene que pasar del pesimismo al activismo, que no es lo mismo que el optimismo, es parte de la receta para abordar los tiempos apartemente distópicos que vivimos. Entrevista.",
+     "id": "e6bd2f8e4fa7"
+    },
+    {
+     "title": "Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial",
+     "link": "https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html",
+     "source": "El País Internacional",
+     "published": "2026-09-03T10:09:38+00:00",
+     "copete": "En total, se han retirado 86 toneladas, un 14% del total de sus reservas. El Banco Central neerlandés explica que la finalidad es garantizar rapidez y disponibilidad en momentos de crisis",
+     "id": "99aa98de33f1"
+    },
+    {
+     "title": "\"Un asesinato literario\": cómo \"Life of M\" desató un escándalo en Hollywood que involucra a Natalie Portman",
+     "link": "https://www.bbc.com/mundo/articles/cvgye5g46ylo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-03T09:46:55+00:00",
+     "copete": "La nueva novela de Rachel Cusk narra la historia de una actriz de ficción llamada M, cuyos detalles biográficos guardan un parecido sorprendente con los de la estrella de cine Natalie Portman.",
+     "id": "252e14662251"
+    },
+    {
+     "title": "Maduro apela a su inmunidad como jefe de Estado e insta al juez estadounidense a desestimar los cargos",
+     "link": "https://elpais.com/internacional/2026-09-03/maduro-apela-a-su-inmunidad-como-jefe-de-estado-e-insta-al-juez-estadounidense-a-desestimar-los-cargos.html",
+     "source": "El País Internacional",
+     "published": "2026-09-03T07:50:23+00:00",
+     "copete": "El depuesto mandatario venezolano, encarcelado en Nueva York, se aferra a su condición de presidente, que Washington no reconoce, en una moción defendida por su abogado ante un tribunal federal",
+     "id": "a3330f0f6e42"
+    },
+    {
+     "title": "Irán califica de “crimen de guerra” el ataque estadounidense en el que murieron cuatro civiles que asistían a una boda",
+     "link": "https://elpais.com/internacional/2026-09-02/iran-responde-a-estados-unidos-con-nuevos-ataques-contra-bahrein-jordania-y-kuwait.html",
+     "source": "El País Internacional",
+     "published": "2026-09-03T06:31:17+00:00",
+     "copete": "Al menos 19 personas fallecieron en los últimos bombardeos de Washington, según Teherán, que ha apuntado hacia objetivos militares en Bahréin, Jordania y Kuwait",
+     "id": "3d24685fd265"
+    },
+    {
      "title": "La BBC viaja al interior del Líbano ocupado por Israel, donde los ataques y demoliciones siguen a pesar del alto al fuego",
      "link": "https://www.bbc.com/mundo/articles/cx2z83yvpp7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -442,60 +494,12 @@
      "id": "e2ceec526637"
     },
     {
-     "title": "Fedorov, el ex ministro ucranio que hace la guerra por su cuenta",
-     "link": "https://elpais.com/internacional/2026-09-03/fedorov-el-ex-ministro-ucranio-que-hace-la-guerra-por-su-cuenta.html",
-     "source": "El País Internacional",
-     "published": "2026-09-03T03:30:01+00:00",
-     "copete": "El joven titular de Defensa defenestrado por Zelenski en julio reclama elecciones, denuncia corrupción y emprende una gira internacional para buscar fondos con los que hacer frente a la invasión rusa",
-     "id": "7879377536db"
-    },
-    {
-     "title": "Un circo ambulante para el horror de Gaza",
-     "link": "https://elpais.com/internacional/2026-09-03/un-circo-ambulante-para-el-horror-de-gaza.html",
-     "source": "El País Internacional",
-     "published": "2026-09-03T03:30:01+00:00",
-     "copete": "La invasión israelí transforma una iniciativa educativa en un espectáculo centrado en hacer reír a todas las edades en medio de la destrucción",
-     "id": "7d6cb28b7116"
-    },
-    {
      "title": "Miles de personas protestan en España por la respuesta del gobierno de Pedro Sánchez a la crisis migratoria en Ceuta",
      "link": "https://www.bbc.com/mundo/articles/cddvyvqpvd1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-09-03T02:40:15+00:00",
      "copete": "Los partidos opositores al gobierno de España acusan a Pedro Sánchez de abandonar a los habitantes de Ceuta.",
      "id": "efefa0660895"
-    },
-    {
-     "title": "Quién es Alejandro Betancourt, el polémico \"bolichico\" multimillonario detrás del acuerdo petrolero entre EE.UU. y Venezuela",
-     "link": "https://www.bbc.com/mundo/articles/c8jd037kg19o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-03T00:01:02+00:00",
-     "copete": "Pese a las dudas que han rodeado el origen de su fortuna y a sus vínculos con el chavismo, Washington eligió a este empresario para explotar los 17 yacimientos petrolíferos incluidos en el pacto con el gobierno interino de Delcy Rodríguez",
-     "id": "76834959160a"
-    },
-    {
-     "title": "Qué se sabe del asesinato del músico del grupo Camilo Séptimo, su pareja embarazada y su hija de 3 años que conmociona a México",
-     "link": "https://www.bbc.com/mundo/articles/czxz7q4eg5zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-02T23:21:21+00:00",
-     "copete": "Las autoridades de México informaron de la detención de dos sospechosos por su presunta participación en el múltiple homicidio.",
-     "id": "a60be7b29124"
-    },
-    {
-     "title": "Donald Trump sostiene que Venezuela no está aún preparada para ir a elecciones",
-     "link": "https://elpais.com/us/2026-09-02/donald-trump-advierte-de-que-venezuela-no-esta-preparada-para-ir-a-elecciones.html",
-     "source": "El País Internacional",
-     "published": "2026-09-02T19:58:23+00:00",
-     "copete": "El republicano asegura que la presidenta interina, Delcy Rodríguez, “quiere” que haya comicios",
-     "id": "db9b9e6501bf"
-    },
-    {
-     "title": "Chevron dobla su presencia en Venezuela con una inversión de 7.000 millones de dólares",
-     "link": "https://elpais.com/america/2026-09-02/chevron-dobla-su-presencia-en-venezuela-con-una-inversion-de-7000-millones-de-dolares.html",
-     "source": "El País Internacional",
-     "published": "2026-09-02T16:32:47+00:00",
-     "copete": "El gigante petrolero planea ampliar su producción en el país sudamericano de 280.000 a 600.000 barriles en cinco años",
-     "id": "dd087e6a985b"
     }
    ]
   }
@@ -503,12 +507,12 @@
  "_errors": [
   {
    "section": "oncologia",
-   "feed": "Lancet Oncology (PubMed)",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
