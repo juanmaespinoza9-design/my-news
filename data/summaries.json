@@ -1,13 +1,18 @@
 {
-  "generated_at": "2026-09-02T22:08:11Z",
+  "generated_at": "2026-09-03T10:10:00Z",
   "summaries": {
-    "862721809263": {
-      "resumen": "Cobertura de OncLive sobre un estudio que compara la administración locorregional de gemcitabina mediante un sistema llamado TAMP con la infusión intravenosa (IV) convencional en cáncer de páncreas localmente avanzado. Vale la pena mirarlo porque busca bajar la exposición sistémica al fármaco -y su toxicidad- sin perder eficacia local.",
+    "9cffac16bade": {
+      "resumen": "Cobertura de OncLive sobre un estudio de mundo real (real-world) que evalúa el uso de tirabrutinib -un inhibidor de la tirosina quinasa de Bruton (BTK)- en pacientes con linfoma primario del sistema nervioso central (SNC). Vale la pena mirarlo porque aporta datos de la práctica clínica diaria, por fuera del contexto controlado de un ensayo, sobre un fármaco relativamente nuevo en esta localización poco frecuente.",
       "destacado": false,
-      "analisis": "Diseño: Estudio (probablemente de fase temprana) que compara la exposición sistémica de gemcitabina administrada por un sistema locorregional (TAMP) frente a la infusión intravenosa estándar; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de páncreas localmente avanzado.\nIntervención: Administración de gemcitabina mediante el sistema TAMP versus infusión intravenosa (IV) convencional.\nResultados: El título indica menor exposición sistémica al fármaco con la vía TAMP frente a la IV, pero no aporta cifras de farmacocinética, respuesta tumoral ni supervivencia.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el diseño exacto (fase, aleatorización) ni el perfil de toxicidad comparado.\nMensaje: Si se confirma la menor exposición sistémica sin pérdida de eficacia, podría ofrecer una alternativa más segura de administración de gemcitabina en esta población de difícil manejo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio de mundo real (real-world), de tipo observacional/registro; el título no precisa si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC) tratados con tirabrutinib en la práctica clínica habitual.\nIntervención: Tirabrutinib, inhibidor de la tirosina quinasa de Bruton (BTK), sin comparador definido (dato de mundo real, no ensayo controlado).\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, el seguimiento ni el riesgo de sesgos propio de los estudios retrospectivos de mundo real.\nMensaje: Los datos de mundo real ayudan a entender cómo se comporta tirabrutinib fuera del ensayo pivotal, aunque no reemplazan la evidencia de ensayos aleatorizados para cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "28578ae53fba": {
-      "resumen": "Entrevista de OncLive al Dr. Sykes sobre los fundamentos para explorar mavorixafor, un inhibidor del receptor de quimiocinas CXCR4, en el tratamiento de la neutropenia crónica. Es una pieza de opinión sobre el racional terapéutico, no reporta resultados de un ensayo.",
+    "a7f9cc097921": {
+      "resumen": "Cobertura de OncLive sobre el uso de tirabrutinib, inhibidor de la tirosina quinasa de Bruton (BTK), en linfoma primario del sistema nervioso central (SNC) recaído o refractario. Interesa porque esta localización tiene pocas opciones eficaces tras la progresión, y los inhibidores de BTK vienen mostrando actividad en linfomas del SNC.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes) centrado en enfermedad recaída o refractaria.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC) en recaída o refractario a tratamiento previo.\nIntervención: Tirabrutinib, inhibidor de la tirosina quinasa de Bruton (BTK); el título no especifica comparador ni esquema de dosis.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad.\nMensaje: Si confirma actividad en esta población de difícil manejo y pocas alternativas, tirabrutinib podría sumarse como opción terapéutica en linfoma primario del SNC recaído o refractario.\nNota: análisis sin acceso al abstract."
+    },
+    "ad7331eb330d": {
+      "resumen": "Entrevista de OncLive sobre el uso de mavorixafor, un inhibidor del receptor de quimiocinas CXCR4, en el manejo de la neutropenia crónica. Es una pieza de discusión clínica sobre el racional del fármaco, no reporta resultados nuevos de un ensayo.",
       "destacado": false
     },
     "3406ae92abaf": {
@@ -25,10 +30,6 @@
       "destacado": true,
       "analisis": "Diseño: Análisis exploratorio de un ensayo clínico (ASCENT-04); el título no especifica fase, aleatorización, cegamiento ni número exacto de centros o pacientes, aunque por el nombre del estudio se trata de un ensayo en cáncer de mama triple negativo (CMTN) metastásico.\nPoblación: Pacientes con cáncer de mama triple negativo (CMTN), presumiblemente en primera línea metastásica según el diseño habitual de este tipo de ensayos.\nIntervención: Sacituzumab govitecan (anticuerpo conjugado a fármaco dirigido contra Trop-2) más pembrolizumab (anticuerpo anti-PD-1), frente a un comparador no especificado en el título.\nResultados: El título reporta una mejora en la supervivencia libre de progresión tras la siguiente línea de tratamiento (PFS2, por sus siglas en inglés) y una demora en el inicio del próximo tratamiento, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Se trata de un análisis exploratorio (no el criterio de valoración principal); sin el abstract no se puede evaluar el tamaño muestral, la madurez del seguimiento ni la solidez estadística de los hallazgos.\nMensaje: Refuerza el beneficio de combinar sacituzumab govitecan con pembrolizumab en CMTN al mostrar un efecto que se sostiene más allá del primer criterio de valoración, aunque al ser un análisis exploratorio no alcanza por sí solo para cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "6546cf036061": {
-      "resumen": "Nota de OncLive sobre el debate que generan los nuevos esquemas guiados por biomarcadores respecto de intensificar el tratamiento en cáncer de próstata avanzado. Es una pieza de discusión clínica, no reporta resultados de un estudio puntual.",
-      "destacado": false
-    },
     "8bae70831bda": {
       "resumen": "Artículo de revisión en Journal of Clinical Oncology (JCO) sobre la integración clínica de los agonistas del receptor de trombopoyetina (TPO-RA) para manejar la trombocitopenia inducida por quimioterapia (CIT) en cánceres gastrointestinales. Es útil como puesta al día práctica de una complicación frecuente que puede obligar a retrasar o reducir la quimioterapia.",
       "destacado": false
@@ -38,33 +39,36 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, doble ciego, controlado con placebo y multicéntrico (según el diseño conocido de AEGEAN); esta nota reporta una actualización de los resultados, sin que el título precise el número exacto de pacientes ni el tiempo de seguimiento de este corte.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) resecable, candidatos a tratamiento perioperatorio.\nIntervención: Durvalumab (anticuerpo anti-PD-L1) neoadyuvante combinado con quimioterapia, seguido de durvalumab adyuvante, frente a quimioterapia neoadyuvante más placebo seguida de placebo adyuvante.\nResultados: El título indica una actualización de los resultados de eficacia (probablemente supervivencia libre de eventos y/o supervivencia global), pero no aporta cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no se puede precisar la madurez del seguimiento de este corte actualizado, el tamaño muestral exacto ni el desglose por subgrupos (por ejemplo, estadio o expresión de PD-L1).\nMensaje: Una actualización favorable reforzaría el estándar ya vigente de inmunoterapia perioperatoria con durvalumab en CPCNP resecable; de mostrar resultados neutros o inciertos en algún subgrupo, podría matizar a quién ofrecerlo.\nNota: análisis sin acceso al abstract."
     },
-    "7bbd86240594": {
-      "resumen": "Carta de correspondencia en Journal of Clinical Oncology (JCO) que discute si la exposición previa a un inhibidor de BRAF alcanza por sí sola para definir resistencia en el estudio de fase I de mosperafenib, un fármaco en investigación para tumores con mutación BRAF. Aporta al debate metodológico sobre cómo clasificar la resistencia a esta clase de fármacos."
-    },
     "be94e2bb9d4b": {
       "resumen": "Artículo de perspectiva en Journal of Clinical Oncology (JCO) sobre las barreras que enfrentan los pacientes para acceder a nuevas terapias contra el cáncer de pulmón una vez aprobadas (barreras posteriores a la aprobación regulatoria). Es una pieza de análisis sobre el sistema de salud, no un estudio con datos propios.",
       "destacado": false
     },
+    "7bbd86240594": {
+      "resumen": "Carta de correspondencia en Journal of Clinical Oncology (JCO) que discute si la exposición previa a un inhibidor de BRAF alcanza por sí sola para definir resistencia en el estudio de fase I de mosperafenib, un fármaco en investigación para tumores con mutación BRAF. Aporta al debate metodológico sobre cómo clasificar la resistencia a esta clase de fármacos."
+    },
     "acac38009202": {
       "resumen": "Vogue repasa la colección primavera 2027 del diseñador Yushokobayashi presentada en la Semana de la Moda de Tokio."
     },
-    "3881baffa64c": {
-      "resumen": "Vogue presenta la colección primavera 2027 de Pillings mostrada en la Semana de la Moda de Tokio."
+    "55c3d6d64da6": {
+      "resumen": "Vogue México repasa los jeans que serán tendencia en otoño-invierno 2026: desde el cigarette y el baggy hasta los acampanados."
     },
-    "f28ccdd89c83": {
-      "resumen": "Vogue México recorre un penthouse en Miami renovado con juegos de reflejos, texturas y luz para convertirlo en un refugio diseñado a medida."
+    "d0e52b9b35f0": {
+      "resumen": "Vogue México anticipa las tendencias de belleza para el otoño-invierno 2026: peinados, cabello, cejas y maquillaje."
     },
-    "d49a27eb8afd": {
-      "resumen": "Vogue México repasa los looks a juego que eligieron George y Amal Clooney para su paso por el Festival de Venecia 2026."
+    "fa63551208d3": {
+      "resumen": "La cantante Danna lució un vestido de lentejuelas con inspiración ochentosa combinado con sandalias de tacón."
     },
-    "eb3e4389d7f9": {
-      "resumen": "TN adelanta cuáles serán los colores de esmalte que se van a imponer esta primavera 2026, dejando atrás el negro y los diseños con flores."
+    "17cae4bb97de": {
+      "resumen": "El Sol de México repasa todo lo que hay que saber sobre las tendencias de moda para este otoño 2026."
     },
-    "71ee6b6f52bd": {
-      "resumen": "Lecturas propone ocho cortes de pelo sofisticados pensados para mujeres elegantes de más de 50 años de cara al otoño."
+    "32a84905f343": {
+      "resumen": "InStyle México selecciona cinco tendencias de bolsos para sumar a la lista de deseos esta temporada de otoño."
     },
-    "be6f256fb7b0": {
-      "resumen": "El diseñador Juan Avellaneda adelanta a Revista CLARA cuál será la prenda estrella del próximo Otoño/Invierno: las polleras tubo, especialmente las de tipo cuero."
+    "610eb392147d": {
+      "resumen": "OHLALÁ! propone cinco prendas clave que van a ser tendencia esta primavera-verano."
+    },
+    "565abbea58d8": {
+      "resumen": "La cantidad de espectadores en los teatros porteños volvió a caer, según un relevamiento reciente."
     },
     "0b2c82dfd650": {
       "resumen": "El Destape cuenta cómo los jubilados de la Ciudad de Buenos Aires pueden acceder gratis a funciones de teatro musical."
@@ -75,17 +79,23 @@
     "183fd5c07858": {
       "resumen": "Cadena 3 informa que la cantidad de espectadores de teatro en Buenos Aires cayó un 5% en agosto y que la asistencia sigue en baja."
     },
-    "fdf84e478e85": {
-      "resumen": "Página|12 recomienda planes de cultura LGBTIQ (lesbianas, gays, bisexuales, trans, intersex y queer) para este fin de semana en Buenos Aires."
-    },
     "7cdf032b2940": {
       "resumen": "Time Out repasa la agenda de planes para hacer en Buenos Aires durante septiembre."
+    },
+    "aa3ae2248ac0": {
+      "resumen": "Time Out arma una guía con las mejores hamburguesas gourmet para probar en Buenos Aires este 2026."
+    },
+    "b51aa94c8009": {
+      "resumen": "Ámbito propone un recorrido por los restaurantes y sabores del barrio de Villa Devoto."
+    },
+    "5aa562b72211": {
+      "resumen": "Forbes Argentina recomienda una selección de restaurantes de sushi para visitar en Buenos Aires."
     },
     "969acce4b46e": {
       "resumen": "iProfesional propone una agenda de planes para el fin de semana en Buenos Aires, con tango, moda y otras actividades."
     },
-    "d8d83827275f": {
-      "resumen": "Zona Norte Hoy recomienda los planes imperdibles para disfrutar este fin de semana en Buenos Aires."
+    "04f59cefac74": {
+      "resumen": "Clarín reúne más de 60 planes para el fin de semana en Buenos Aires, con recitales, teatro, cine, streaming y actividades gratuitas."
     }
   }
 }
