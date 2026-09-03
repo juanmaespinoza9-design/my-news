@@ -1,101 +1,103 @@
 {
-  "generated_at": "2026-09-03T10:10:00Z",
+  "generated_at": "2026-09-03T22:07:57Z",
   "summaries": {
-    "9cffac16bade": {
-      "resumen": "Cobertura de OncLive sobre un estudio de mundo real (real-world) que evalúa el uso de tirabrutinib -un inhibidor de la tirosina quinasa de Bruton (BTK)- en pacientes con linfoma primario del sistema nervioso central (SNC). Vale la pena mirarlo porque aporta datos de la práctica clínica diaria, por fuera del contexto controlado de un ensayo, sobre un fármaco relativamente nuevo en esta localización poco frecuente.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de mundo real (real-world), de tipo observacional/registro; el título no precisa si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC) tratados con tirabrutinib en la práctica clínica habitual.\nIntervención: Tirabrutinib, inhibidor de la tirosina quinasa de Bruton (BTK), sin comparador definido (dato de mundo real, no ensayo controlado).\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, el seguimiento ni el riesgo de sesgos propio de los estudios retrospectivos de mundo real.\nMensaje: Los datos de mundo real ayudan a entender cómo se comporta tirabrutinib fuera del ensayo pivotal, aunque no reemplazan la evidencia de ensayos aleatorizados para cambiar la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "a7f9cc097921": {
-      "resumen": "Cobertura de OncLive sobre el uso de tirabrutinib, inhibidor de la tirosina quinasa de Bruton (BTK), en linfoma primario del sistema nervioso central (SNC) recaído o refractario. Interesa porque esta localización tiene pocas opciones eficaces tras la progresión, y los inhibidores de BTK vienen mostrando actividad en linfomas del SNC.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes) centrado en enfermedad recaída o refractaria.\nPoblación: Pacientes con linfoma primario del sistema nervioso central (SNC) en recaída o refractario a tratamiento previo.\nIntervención: Tirabrutinib, inhibidor de la tirosina quinasa de Bruton (BTK); el título no especifica comparador ni esquema de dosis.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad.\nMensaje: Si confirma actividad en esta población de difícil manejo y pocas alternativas, tirabrutinib podría sumarse como opción terapéutica en linfoma primario del SNC recaído o refractario.\nNota: análisis sin acceso al abstract."
-    },
-    "ad7331eb330d": {
-      "resumen": "Entrevista de OncLive sobre el uso de mavorixafor, un inhibidor del receptor de quimiocinas CXCR4, en el manejo de la neutropenia crónica. Es una pieza de discusión clínica sobre el racional del fármaco, no reporta resultados nuevos de un ensayo.",
-      "destacado": false
-    },
-    "3406ae92abaf": {
-      "resumen": "Cobertura de The ASCO Post sobre un estudio que muestra que el triplete basado en spartalizumab (anticuerpo anti-PD-1) mejora la supervivencia global a largo plazo en melanoma con mutación BRAF V600. Interesa porque suma evidencia de durabilidad para un esquema de inmunoterapia combinada con terapia dirigida en este subgrupo molecular.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes) que reporta resultados de supervivencia global a largo plazo.\nPoblación: Pacientes con melanoma con mutación BRAF V600.\nIntervención: Esquema triplete basado en spartalizumab (anticuerpo anti-PD-1), presumiblemente combinado con terapia dirigida anti-BRAF/MEK; el título no detalla el comparador.\nResultados: El título indica una mejora en la supervivencia global a largo plazo, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no es posible evaluar el tamaño muestral, la duración del seguimiento ni el perfil de toxicidad del triplete.\nMensaje: Si se confirma la ganancia de supervivencia a largo plazo, refuerza el rol de combinar inmunoterapia con terapia dirigida en melanoma BRAF-mutado, aunque hace falta el detalle estadístico para dimensionar el beneficio real.\nNota: análisis sin acceso al abstract."
-    },
-    "b046d8a9b849": {
-      "resumen": "The ASCO Post cubre un estudio sociológico sobre el concepto de \"desajuste temporal\" (temporal misalignment) en pacientes con cáncer terminal, es decir, la brecha entre el tiempo que sienten que les queda y el tiempo que efectivamente transcurre en su atención. Aporta una mirada cualitativa poco habitual sobre la experiencia del paciente oncológico al final de la vida.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de tipo sociológico/cualitativo; el título no especifica la metodología exacta, el número de participantes ni los centros involucrados.\nPoblación: Pacientes con cáncer en estadio terminal.\nIntervención: No aplica en sentido terapéutico; se trata de un abordaje conceptual/exploratorio sobre la vivencia del tiempo en la enfermedad terminal.\nResultados: El título no aporta datos cuantitativos; describe la identificación conceptual del \"desajuste temporal\" como fenómeno vivido por estos pacientes.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la muestra, el método de recolección de datos (entrevistas, encuestas) ni la generalización de los hallazgos.\nMensaje: Aporta un marco conceptual que podría ayudar a los equipos de oncología y cuidados paliativos a comprender mejor la experiencia subjetiva del tiempo en pacientes terminales, más allá de lo estrictamente biomédico.\nNota: análisis sin acceso al abstract."
-    },
-    "53765c3c45e2": {
-      "resumen": "Análisis exploratorio del ensayo ASCENT-04, publicado en The ASCO Post, que evalúa sacituzumab govitecan (anticuerpo conjugado dirigido a Trop-2) combinado con pembrolizumab (anticuerpo anti-PD-1) en cáncer de mama triple negativo. Interesa porque muestra mejoras en la supervivencia libre de progresión tras el siguiente tratamiento (PFS2) y en el tiempo hasta el próximo tratamiento, datos que hablan del beneficio acumulado más allá de la primera línea.",
-      "destacado": true,
-      "analisis": "Diseño: Análisis exploratorio de un ensayo clínico (ASCENT-04); el título no especifica fase, aleatorización, cegamiento ni número exacto de centros o pacientes, aunque por el nombre del estudio se trata de un ensayo en cáncer de mama triple negativo (CMTN) metastásico.\nPoblación: Pacientes con cáncer de mama triple negativo (CMTN), presumiblemente en primera línea metastásica según el diseño habitual de este tipo de ensayos.\nIntervención: Sacituzumab govitecan (anticuerpo conjugado a fármaco dirigido contra Trop-2) más pembrolizumab (anticuerpo anti-PD-1), frente a un comparador no especificado en el título.\nResultados: El título reporta una mejora en la supervivencia libre de progresión tras la siguiente línea de tratamiento (PFS2, por sus siglas en inglés) y una demora en el inicio del próximo tratamiento, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Se trata de un análisis exploratorio (no el criterio de valoración principal); sin el abstract no se puede evaluar el tamaño muestral, la madurez del seguimiento ni la solidez estadística de los hallazgos.\nMensaje: Refuerza el beneficio de combinar sacituzumab govitecan con pembrolizumab en CMTN al mostrar un efecto que se sostiene más allá del primer criterio de valoración, aunque al ser un análisis exploratorio no alcanza por sí solo para cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    "04f59cefac74": {
+      "resumen": "Clarín reúne más de 60 planes para el fin de semana en Buenos Aires, con recitales, teatro, cine, streaming y actividades gratuitas."
     },
     "8bae70831bda": {
       "resumen": "Artículo de revisión en Journal of Clinical Oncology (JCO) sobre la integración clínica de los agonistas del receptor de trombopoyetina (TPO-RA) para manejar la trombocitopenia inducida por quimioterapia (CIT) en cánceres gastrointestinales. Es útil como puesta al día práctica de una complicación frecuente que puede obligar a retrasar o reducir la quimioterapia.",
       "destacado": false
     },
-    "50c3c8ca6476": {
-      "resumen": "Actualización de los resultados del ensayo de fase III AEGEAN, publicada en Journal of Clinical Oncology (JCO), sobre durvalumab (anticuerpo anti-PD-L1) perioperatorio -neoadyuvante y adyuvante- en cáncer de pulmón de células no pequeñas (CPCNP) resecable. Interesa porque consolida el rol de la inmunoterapia perioperatoria en enfermedad operable, un cambio de paradigma reciente en esta población.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, doble ciego, controlado con placebo y multicéntrico (según el diseño conocido de AEGEAN); esta nota reporta una actualización de los resultados, sin que el título precise el número exacto de pacientes ni el tiempo de seguimiento de este corte.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) resecable, candidatos a tratamiento perioperatorio.\nIntervención: Durvalumab (anticuerpo anti-PD-L1) neoadyuvante combinado con quimioterapia, seguido de durvalumab adyuvante, frente a quimioterapia neoadyuvante más placebo seguida de placebo adyuvante.\nResultados: El título indica una actualización de los resultados de eficacia (probablemente supervivencia libre de eventos y/o supervivencia global), pero no aporta cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no se puede precisar la madurez del seguimiento de este corte actualizado, el tamaño muestral exacto ni el desglose por subgrupos (por ejemplo, estadio o expresión de PD-L1).\nMensaje: Una actualización favorable reforzaría el estándar ya vigente de inmunoterapia perioperatoria con durvalumab en CPCNP resecable; de mostrar resultados neutros o inciertos en algún subgrupo, podría matizar a quién ofrecerlo.\nNota: análisis sin acceso al abstract."
-    },
-    "be94e2bb9d4b": {
-      "resumen": "Artículo de perspectiva en Journal of Clinical Oncology (JCO) sobre las barreras que enfrentan los pacientes para acceder a nuevas terapias contra el cáncer de pulmón una vez aprobadas (barreras posteriores a la aprobación regulatoria). Es una pieza de análisis sobre el sistema de salud, no un estudio con datos propios.",
-      "destacado": false
-    },
-    "7bbd86240594": {
-      "resumen": "Carta de correspondencia en Journal of Clinical Oncology (JCO) que discute si la exposición previa a un inhibidor de BRAF alcanza por sí sola para definir resistencia en el estudio de fase I de mosperafenib, un fármaco en investigación para tumores con mutación BRAF. Aporta al debate metodológico sobre cómo clasificar la resistencia a esta clase de fármacos."
-    },
-    "acac38009202": {
-      "resumen": "Vogue repasa la colección primavera 2027 del diseñador Yushokobayashi presentada en la Semana de la Moda de Tokio."
-    },
-    "55c3d6d64da6": {
-      "resumen": "Vogue México repasa los jeans que serán tendencia en otoño-invierno 2026: desde el cigarette y el baggy hasta los acampanados."
-    },
-    "d0e52b9b35f0": {
-      "resumen": "Vogue México anticipa las tendencias de belleza para el otoño-invierno 2026: peinados, cabello, cejas y maquillaje."
-    },
-    "fa63551208d3": {
-      "resumen": "La cantante Danna lució un vestido de lentejuelas con inspiración ochentosa combinado con sandalias de tacón."
-    },
-    "17cae4bb97de": {
-      "resumen": "El Sol de México repasa todo lo que hay que saber sobre las tendencias de moda para este otoño 2026."
-    },
-    "32a84905f343": {
-      "resumen": "InStyle México selecciona cinco tendencias de bolsos para sumar a la lista de deseos esta temporada de otoño."
-    },
-    "610eb392147d": {
-      "resumen": "OHLALÁ! propone cinco prendas clave que van a ser tendencia esta primavera-verano."
-    },
-    "565abbea58d8": {
-      "resumen": "La cantidad de espectadores en los teatros porteños volvió a caer, según un relevamiento reciente."
-    },
-    "0b2c82dfd650": {
-      "resumen": "El Destape cuenta cómo los jubilados de la Ciudad de Buenos Aires pueden acceder gratis a funciones de teatro musical."
-    },
-    "529a03fa16ae": {
-      "resumen": "Eltrece cuenta que Maia Reficco volvió a mostrarse en la noche de Buenos Aires con un look total black y sin Franco Colapinto, en medio de los rumores de crisis de pareja."
-    },
-    "183fd5c07858": {
-      "resumen": "Cadena 3 informa que la cantidad de espectadores de teatro en Buenos Aires cayó un 5% en agosto y que la asistencia sigue en baja."
+    "969acce4b46e": {
+      "resumen": "iProfesional propone una agenda de planes para el fin de semana en Buenos Aires, con tango, moda y otras actividades."
     },
     "7cdf032b2940": {
       "resumen": "Time Out repasa la agenda de planes para hacer en Buenos Aires durante septiembre."
     },
-    "aa3ae2248ac0": {
-      "resumen": "Time Out arma una guía con las mejores hamburguesas gourmet para probar en Buenos Aires este 2026."
+    "fe9c79a2e660": {
+      "resumen": "Cobertura de OncLive sobre las opciones de tratamiento tras la progresión a osimertinib (inhibidor de tercera generación de la tirosina quinasa del receptor del factor de crecimiento epidérmico, EGFR) en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR. Vale la pena mirarlo porque resume el panorama de opciones futuras en un escenario clínico con pocas alternativas estandarizadas tras la resistencia.",
+      "destacado": false
     },
-    "b51aa94c8009": {
-      "resumen": "Ámbito propone un recorrido por los restaurantes y sabores del barrio de Villa Devoto."
+    "981f4745be74": {
+      "resumen": "Cobertura de OncLive sobre un ensayo que muestra que ivonescimab (anticuerpo biespecífico contra PD-1 y VEGF) alcanzó el criterio de valoración de supervivencia global frente a pembrolizumab (anticuerpo anti-PD-1) en primera línea de cáncer de pulmón de células no pequeñas (CPCNP) con expresión positiva de PD-L1. Es la nota más relevante de la semana porque, de confirmarse, podría desplazar al estándar actual de inmunoterapia en primera línea.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, según el título comparativo cabeza a cabeza (head-to-head) frente a pembrolizumab; el artículo no precisa el número de centros, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en primera línea, con expresión positiva de PD-L1 (ligando 1 de muerte celular programada).\nIntervención: Ivonescimab, anticuerpo biespecífico dirigido contra PD-1 (receptor de muerte celular programada 1) y VEGF (factor de crecimiento endotelial vascular), frente a pembrolizumab (anticuerpo anti-PD-1) en monoterapia.\nResultados: El título indica que ivonescimab alcanzó el criterio de valoración de supervivencia global (overall survival) frente a pembrolizumab, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad del biespecífico frente al comparador.\nMensaje: Si se confirma con los datos completos, sería el primer fármaco en superar a pembrolizumab en supervivencia global en primera línea de CPCNP PD-L1 positivo, un resultado con potencial para cambiar el estándar de tratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "5aa562b72211": {
-      "resumen": "Forbes Argentina recomienda una selección de restaurantes de sushi para visitar en Buenos Aires."
+    "7c840f3e791b": {
+      "resumen": "Cobertura de The ASCO Post sobre un esquema oral doble que mostró actividad alentadora en cáncer colorrectal metastásico con mutación KRAS G12C. Interesa porque las opciones dirigidas orales en este subgrupo molecular todavía son escasas y la vía oral facilita el tratamiento ambulatorio.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico, probablemente de fase temprana (fase I o I/II) dado que reporta \"actividad alentadora\"; el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con mutación KRAS G12C.\nIntervención: Esquema oral doble (dual oral regimen), sin especificar en el título los fármacos exactos ni el comparador (probablemente sin comparador, al ser un estudio de actividad temprana).\nResultados: El título menciona \"actividad alentadora\" sin cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de la respuesta ni el perfil de toxicidad del esquema.\nMensaje: Si los datos maduran favorablemente, podría sumar una opción oral dirigida en un subgrupo molecular con alternativas limitadas, aunque se necesitan estudios más avanzados antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "969acce4b46e": {
-      "resumen": "iProfesional propone una agenda de planes para el fin de semana en Buenos Aires, con tango, moda y otras actividades."
+    "cde390b8de74": {
+      "resumen": "The ASCO Post cubre un estudio que define subgrupos pronósticos moleculares en las neoplasias mieloides relacionadas con la terapia (t-MN), es decir, leucemias o síndromes mielodisplásicos que aparecen como complicación tardía de la quimioterapia o radioterapia previas. Interesa porque estratificar el riesgo molecular ayuda a definir seguimiento y tratamiento en una población con antecedente oncológico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de cohorte/registro con caracterización molecular, orientado a definir subgrupos pronósticos; el título no precisa si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con neoplasias mieloides relacionadas con la terapia (t-MN), es decir, leucemia mieloide aguda o síndrome mielodisplásico secundarios a tratamiento oncológico previo (quimioterapia o radioterapia).\nIntervención: No aplica en sentido terapéutico; se trata de un estudio de caracterización molecular y estratificación pronóstica, no de una intervención farmacológica.\nResultados: El título indica la identificación de subgrupos pronósticos moleculares diferenciados, sin cifras de supervivencia ni de significancia estadística.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, los métodos de secuenciación utilizados ni si los hallazgos fueron validados en una cohorte independiente.\nMensaje: Una mejor estratificación molecular de las t-MN podría afinar las decisiones de seguimiento y tratamiento en pacientes con antecedente oncológico, aunque el impacto clínico directo depende de validación adicional.\nNota: análisis sin acceso al abstract."
     },
-    "04f59cefac74": {
-      "resumen": "Clarín reúne más de 60 planes para el fin de semana en Buenos Aires, con recitales, teatro, cine, streaming y actividades gratuitas."
+    "31c0e7b32ea9": {
+      "resumen": "Nota de OncLive sobre las barreras de acceso y la toxicidad financiera que enfrentan los pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico). Es una pieza de discusión sobre el sistema de salud, no reporta resultados nuevos de un estudio.",
+      "destacado": false
+    },
+    "5ed1aa982d6a": {
+      "resumen": "The ASCO Post cubre un estudio sobre radioterapia de rescate hipofraccionada (en menos sesiones, con dosis más altas por sesión) tras la prostatectomía en pacientes con recurrencia bioquímica de cáncer de próstata. Interesa porque un esquema más corto facilita el tratamiento sin resignar eficacia, si los resultados lo confirman.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico que evalúa un esquema de radioterapia hipofraccionada de rescate; el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de próstata y recurrencia bioquímica (aumento del antígeno prostático específico) tras la prostatectomía radical.\nIntervención: Radioterapia de rescate hipofraccionada (esquema de menor número de sesiones con mayor dosis por fracción), sin comparador explícito en el título (posiblemente frente a fraccionamiento convencional).\nResultados: El título no aporta cifras de control bioquímico, supervivencia libre de progresión ni toxicidad.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni el perfil de toxicidad genitourinaria y gastrointestinal del esquema hipofraccionado.\nMensaje: Si demuestra eficacia y seguridad comparables al fraccionamiento convencional, un esquema hipofraccionado de rescate podría acortar el tratamiento y mejorar la comodidad de los pacientes con recurrencia bioquímica.\nNota: análisis sin acceso al abstract."
+    },
+    "24e9a5c1af78": {
+      "resumen": "Artículo de la serie \"Bridging the Gap\" en Journal of Clinical Oncology (JCO) sobre la evidencia creciente a favor de la terapia dirigida a la metástasis (metastasis-directed therapy) en la enfermedad oligometastásica, es decir, con pocas lesiones a distancia. Es útil como puesta al día del debate sobre cuándo tratar localmente las metástasis en lugar de solo con terapia sistémica.",
+      "destacado": false
+    },
+    "843c1d608a13": {
+      "resumen": "Carta de correspondencia en Journal of Clinical Oncology (JCO) que cuestiona el uso de la respuesta endoscópica para seleccionar el manejo no quirúrgico (nonoperative management) en el estudio RESET-C. Aporta al debate metodológico sobre qué criterios son suficientes para evitar la cirugía en cáncer rectal.",
+      "destacado": false
+    },
+    "5e3f506d375f": {
+      "resumen": "Respuesta de los autores del estudio RESET-C, publicada en Journal of Clinical Oncology (JCO), a la carta que cuestionaba el uso de la respuesta endoscópica para seleccionar el manejo no quirúrgico en cáncer rectal. Completa el intercambio de correspondencia sobre los criterios de selección para evitar la cirugía.",
+      "destacado": false
+    },
+    "573e2708b352": {
+      "resumen": "Artículo en JAMA Oncology sobre la leucemia/linfoma de células T del adulto (ATL, por sus siglas en inglés) y su relación con el tamizaje materno del virus linfotrópico de células T humanas tipo 1 (HTLV-1), responsable de esta enfermedad. Interesa porque el cribado prenatal es clave para prevenir la transmisión vertical del virus que causa la ATL.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio observacional o de registro vinculado a programas de tamizaje materno; no se especifica si es retrospectivo, prospectivo, el número de centros ni el tamaño de la cohorte.\nPoblación: Mujeres embarazadas y sus hijos en el contexto del tamizaje del virus linfotrópico de células T humanas tipo 1 (HTLV-1), y pacientes con leucemia/linfoma de células T del adulto (ATL) asociado a este virus.\nIntervención: Programa de tamizaje materno (screening) de HTLV-1 durante el embarazo, sin un comparador farmacológico definido en el título.\nResultados: El título no aporta cifras de incidencia, tasas de transmisión vertical ni de reducción de casos de ATL.\nLimitaciones: Sin el abstract no se puede evaluar el diseño exacto del estudio, el tamaño de la población ni la solidez de la asociación entre el tamizaje y la reducción de casos.\nMensaje: Refuerza la importancia del tamizaje prenatal de HTLV-1 como estrategia de prevención de la leucemia/linfoma de células T del adulto, una enfermedad endémica en ciertas regiones y de mal pronóstico.\nNota: análisis sin acceso al abstract."
+    },
+    "dbfd6ca7d932": {
+      "resumen": "Artículo de revisión en JAMA Oncology sobre el uso de suplementos dietarios y productos de bienestar (wellness) durante el tratamiento del cáncer. Es una guía práctica útil para orientar a los pacientes sobre qué productos pueden interactuar con los tratamientos oncológicos o carecer de evidencia de beneficio.",
+      "destacado": false
+    },
+    "70c89ec9f1fe": {
+      "resumen": "Kendall Jenner sorprendió en el Festival de Venecia 2026 con un vestido italiano de lentejuelas de inspiración noventosa."
+    },
+    "96265709b78d": {
+      "resumen": "Jennifer Aniston lució sandalias de tacón doradas y las confirmó como el calzado elegante para septiembre 2026."
+    },
+    "a1b8e93a22ca": {
+      "resumen": "Dakota Johnson combinó pantalones elegantes con zapatos planos de estilo noventoso para septiembre 2026."
+    },
+    "a532222ed0fb": {
+      "resumen": "La experta en uñas Lina Paola señala al burdeos aterciopelado como la tendencia de uñas clave de este otoño."
+    },
+    "f1a830f88223": {
+      "resumen": "Los portarretratos sobre los muebles quedaron atrás: Canal26 repasa la tendencia de decoración más simple que los reemplaza en 2026."
+    },
+    "9e93997a8549": {
+      "resumen": "La periodista de moda María G. de Jaime adelanta en Telva las principales tendencias del otoño 2026."
+    },
+    "bb963d75de7a": {
+      "resumen": "El Complejo Teatral de Buenos Aires presenta una propuesta sobre actuación y escritura, dos disciplinas con historia propia en las artes escénicas."
+    },
+    "d4955ca085c7": {
+      "resumen": "La obra \"Los habitantes\" llega al Teatro Picadero de Buenos Aires."
+    },
+    "39edf3cb79e7": {
+      "resumen": "Filo.news arma su agenda con los espectáculos porteños que no hay que perderse."
+    },
+    "63963412956f": {
+      "resumen": "Fito Páez presentó su espectáculo \"Clásico\" en el Teatro Real de Madrid, con sus canciones convertidas en un homenaje a Latinoamérica."
+    },
+    "fdf84e478e85": {
+      "resumen": "Página/12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "add65279ccdd": {
+      "resumen": "Time Out selecciona 12 escapadas cerca de Buenos Aires para hacer en el día o pasar el fin de semana."
     }
   }
 }
