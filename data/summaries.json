@@ -1,62 +1,9 @@
 {
-  "generated_at": "2026-09-04T10:08:52Z",
+  "generated_at": "2026-09-04T22:08:07Z",
   "summaries": {
-    "969acce4b46e": {
-      "resumen": "iProfesional propone una agenda de planes para el fin de semana en Buenos Aires, con tango, moda y otras actividades."
-    },
-    "7cdf032b2940": {
-      "resumen": "Time Out repasa la agenda de planes para hacer en Buenos Aires durante septiembre."
-    },
-    "fe9c79a2e660": {
-      "resumen": "Cobertura de OncLive sobre las opciones de tratamiento tras la progresión a osimertinib (inhibidor de tercera generación de la tirosina quinasa del receptor del factor de crecimiento epidérmico, EGFR) en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR. Vale la pena mirarlo porque resume el panorama de opciones futuras en un escenario clínico con pocas alternativas estandarizadas tras la resistencia.",
-      "destacado": false
-    },
-    "981f4745be74": {
-      "resumen": "Cobertura de OncLive sobre un ensayo que muestra que ivonescimab (anticuerpo biespecífico contra PD-1 y VEGF) alcanzó el criterio de valoración de supervivencia global frente a pembrolizumab (anticuerpo anti-PD-1) en primera línea de cáncer de pulmón de células no pequeñas (CPCNP) con expresión positiva de PD-L1. Es la nota más relevante de la semana porque, de confirmarse, podría desplazar al estándar actual de inmunoterapia en primera línea.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, según el título comparativo cabeza a cabeza (head-to-head) frente a pembrolizumab; el artículo no precisa el número de centros, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en primera línea, con expresión positiva de PD-L1 (ligando 1 de muerte celular programada).\nIntervención: Ivonescimab, anticuerpo biespecífico dirigido contra PD-1 (receptor de muerte celular programada 1) y VEGF (factor de crecimiento endotelial vascular), frente a pembrolizumab (anticuerpo anti-PD-1) en monoterapia.\nResultados: El título indica que ivonescimab alcanzó el criterio de valoración de supervivencia global (overall survival) frente a pembrolizumab, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad del biespecífico frente al comparador.\nMensaje: Si se confirma con los datos completos, sería el primer fármaco en superar a pembrolizumab en supervivencia global en primera línea de CPCNP PD-L1 positivo, un resultado con potencial para cambiar el estándar de tratamiento.\nNota: análisis sin acceso al abstract."
-    },
-    "7c840f3e791b": {
-      "resumen": "Cobertura de The ASCO Post sobre un esquema oral doble que mostró actividad alentadora en cáncer colorrectal metastásico con mutación KRAS G12C. Interesa porque las opciones dirigidas orales en este subgrupo molecular todavía son escasas y la vía oral facilita el tratamiento ambulatorio.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico, probablemente de fase temprana (fase I o I/II) dado que reporta \"actividad alentadora\"; el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer colorrectal metastásico con mutación KRAS G12C.\nIntervención: Esquema oral doble (dual oral regimen), sin especificar en el título los fármacos exactos ni el comparador (probablemente sin comparador, al ser un estudio de actividad temprana).\nResultados: El título menciona \"actividad alentadora\" sin cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de la respuesta ni el perfil de toxicidad del esquema.\nMensaje: Si los datos maduran favorablemente, podría sumar una opción oral dirigida en un subgrupo molecular con alternativas limitadas, aunque se necesitan estudios más avanzados antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "cde390b8de74": {
-      "resumen": "The ASCO Post cubre un estudio que define subgrupos pronósticos moleculares en las neoplasias mieloides relacionadas con la terapia (t-MN), es decir, leucemias o síndromes mielodisplásicos que aparecen como complicación tardía de la quimioterapia o radioterapia previas. Interesa porque estratificar el riesgo molecular ayuda a definir seguimiento y tratamiento en una población con antecedente oncológico.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de cohorte/registro con caracterización molecular, orientado a definir subgrupos pronósticos; el título no precisa si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con neoplasias mieloides relacionadas con la terapia (t-MN), es decir, leucemia mieloide aguda o síndrome mielodisplásico secundarios a tratamiento oncológico previo (quimioterapia o radioterapia).\nIntervención: No aplica en sentido terapéutico; se trata de un estudio de caracterización molecular y estratificación pronóstica, no de una intervención farmacológica.\nResultados: El título indica la identificación de subgrupos pronósticos moleculares diferenciados, sin cifras de supervivencia ni de significancia estadística.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, los métodos de secuenciación utilizados ni si los hallazgos fueron validados en una cohorte independiente.\nMensaje: Una mejor estratificación molecular de las t-MN podría afinar las decisiones de seguimiento y tratamiento en pacientes con antecedente oncológico, aunque el impacto clínico directo depende de validación adicional.\nNota: análisis sin acceso al abstract."
-    },
-    "5ed1aa982d6a": {
-      "resumen": "The ASCO Post cubre un estudio sobre radioterapia de rescate hipofraccionada (en menos sesiones, con dosis más altas por sesión) tras la prostatectomía en pacientes con recurrencia bioquímica de cáncer de próstata. Interesa porque un esquema más corto facilita el tratamiento sin resignar eficacia, si los resultados lo confirman.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico que evalúa un esquema de radioterapia hipofraccionada de rescate; el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de próstata y recurrencia bioquímica (aumento del antígeno prostático específico) tras la prostatectomía radical.\nIntervención: Radioterapia de rescate hipofraccionada (esquema de menor número de sesiones con mayor dosis por fracción), sin comparador explícito en el título (posiblemente frente a fraccionamiento convencional).\nResultados: El título no aporta cifras de control bioquímico, supervivencia libre de progresión ni toxicidad.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni el perfil de toxicidad genitourinaria y gastrointestinal del esquema hipofraccionado.\nMensaje: Si demuestra eficacia y seguridad comparables al fraccionamiento convencional, un esquema hipofraccionado de rescate podría acortar el tratamiento y mejorar la comodidad de los pacientes con recurrencia bioquímica.\nNota: análisis sin acceso al abstract."
-    },
     "24e9a5c1af78": {
       "resumen": "Artículo de la serie \"Bridging the Gap\" en Journal of Clinical Oncology (JCO) sobre la evidencia creciente a favor de la terapia dirigida a la metástasis (metastasis-directed therapy) en la enfermedad oligometastásica, es decir, con pocas lesiones a distancia. Es útil como puesta al día del debate sobre cuándo tratar localmente las metástasis en lugar de solo con terapia sistémica.",
       "destacado": false
-    },
-    "70c89ec9f1fe": {
-      "resumen": "Kendall Jenner sorprendió en el Festival de Venecia 2026 con un vestido italiano de lentejuelas de inspiración noventosa."
-    },
-    "bb963d75de7a": {
-      "resumen": "El Complejo Teatral de Buenos Aires presenta una propuesta sobre actuación y escritura, dos disciplinas con historia propia en las artes escénicas."
-    },
-    "d4955ca085c7": {
-      "resumen": "La obra \"Los habitantes\" llega al Teatro Picadero de Buenos Aires."
-    },
-    "39edf3cb79e7": {
-      "resumen": "Filo.news arma su agenda con los espectáculos porteños que no hay que perderse."
-    },
-    "fdf84e478e85": {
-      "resumen": "Página/12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
-    },
-    "add65279ccdd": {
-      "resumen": "Time Out selecciona 12 escapadas cerca de Buenos Aires para hacer en el día o pasar el fin de semana."
-    },
-    "4f84a4cc7ead": {
-      "resumen": "Cobertura de OncLive sobre daraxonrasib, un inhibidor pan-RAS oral en investigación, que mostró respuestas duraderas en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS ya tratado. Vale la pena mirarlo porque las mutaciones de RAS distintas de KRAS G12C todavía tienen pocas opciones dirigidas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (según la cobertura de OncLive, de fase temprana) que evalúa daraxonrasib, inhibidor pan-RAS oral en investigación; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS, previamente tratados.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral), sin comparador explícito en el título.\nResultados: El título menciona \"respuestas duraderas\" sin cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud ni la durabilidad exacta de las respuestas, ni el perfil de toxicidad.\nMensaje: Si se confirma, ampliaría las opciones dirigidas para pacientes con CPCNP RAS-mutado más allá de KRAS G12C, un subgrupo con alternativas limitadas tras la progresión.\nNota: análisis sin acceso al abstract."
     },
     "22ea9568fa16": {
       "resumen": "Artículo en Journal of Clinical Oncology (JCO) sobre daraxonrasib, inhibidor pan-RAS oral en investigación, en cáncer de páncreas, que repasa la evidencia desde los resultados iniciales en segunda línea hasta los datos emergentes en primera línea. Interesa porque el cáncer de páncreas tiene pocas terapias dirigidas y la mayoría de sus tumores porta mutaciones de RAS (KRAS).",
@@ -68,44 +15,91 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
     },
-    "acb239ddd145": {
-      "resumen": "Ensayo publicado en The New England Journal of Medicine (NEJM) que compara agentes hipometilantes (como la azacitidina) combinados con venetoclax (inhibidor de BCL-2) frente a la quimioterapia intensiva convencional en pacientes con leucemia mieloide aguda (LMA). Interesa porque podría redefinir el estándar de inducción en un subgrupo de pacientes con LMA.",
+    "87d139492517": {
+      "resumen": "Cobertura de OncLive sobre el manejo de la progresión en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico): cuándo repetir la biopsia, cómo identificar la transformación a células pequeñas y cómo vigilar el sistema nervioso central. Interesa porque ordena las decisiones prácticas ante la progresión, un escenario clínico frecuente y heterogéneo.",
+      "destacado": false
+    },
+    "a50dd9c1a840": {
+      "resumen": "Cobertura de OncLive sobre aspectos prácticos del tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR: logística de las infusiones, manejo de la toxicidad cutánea y calidad de vida. Sirve como guía operativa para el día a día del tratamiento con estos esquemas.",
+      "destacado": false
+    },
+    "c311096f1f66": {
+      "resumen": "Cobertura de OncLive sobre el impacto pronóstico de las co-mutaciones de TP53 (gen supresor tumoral) en el cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR. Interesa porque la coexistencia de TP53 suele asociarse a peor respuesta y podría influir en la elección terapéutica.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, probablemente aleatorizado de fase III dada la publicación en NEJM y la comparación directa con el estándar de inducción; el título no precisa el número de centros, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), sin que el título especifique edad, aptitud para quimioterapia intensiva ni citogenética de riesgo.\nIntervención: Agentes hipometilantes (como la azacitidina) combinados con venetoclax (inhibidor de BCL-2) frente a quimioterapia intensiva convencional.\nResultados: El título no aporta cifras de supervivencia global, tasas de remisión completa ni de mortalidad relacionada con el tratamiento.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad comparativa ni si hay subgrupos que se benefician más de un esquema u otro.\nMensaje: Si el esquema con hipometilante más venetoclax iguala o supera a la quimioterapia intensiva con menor toxicidad, podría ampliar esta estrategia menos intensiva a más pacientes con LMA, incluso a los aptos para tratamiento intensivo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Análisis pronóstico, probablemente de una cohorte retrospectiva que evalúa el efecto de las co-mutaciones de TP53; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico), con o sin co-mutación de TP53.\nIntervención: No aplica en sentido terapéutico; se trata de un análisis de asociación molecular-pronóstica, no de una intervención farmacológica.\nResultados: El título no aporta cifras de supervivencia global, supervivencia libre de progresión ni valores de p asociados a la co-mutación de TP53.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, el diseño exacto ni si el análisis ajustó por otros factores pronósticos.\nMensaje: Confirmar el peor pronóstico asociado a TP53 podría justificar vigilancia más estrecha o intensificación terapéutica en este subgrupo, aunque el impacto directo en la práctica depende de datos prospectivos.\nNota: análisis sin acceso al abstract."
     },
-    "6027d233d7a6": {
-      "resumen": "Ensayo publicado en The New England Journal of Medicine (NEJM) sobre daraxonrasib, inhibidor pan-RAS oral en investigación, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS ya tratado. Es la publicación primaria del estudio que motivó la cobertura periodística de la semana; interesa porque las mutaciones de RAS distintas de KRAS G12C tienen pocas opciones dirigidas.",
+    "0d4622fc0ee7": {
+      "resumen": "The ASCO Post reporta un estudio sobre el uso de inteligencia artificial (IA) aplicada a mamografías para detectar afecciones cardiovasculares frecuentes. Interesa porque abre la puerta a aprovechar un estudio ya indicado para el cribado de cáncer de mama como herramienta de detección cardiovascular oportunista.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, según su publicación en NEJM probablemente de fase temprana (fase I/II) o pivotal; el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS, previamente tratados.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral en investigación), sin comparador explícito en el título.\nResultados: El título no incluye cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud y durabilidad de las respuestas, ni el perfil de toxicidad del fármaco.\nMensaje: Si los resultados son sólidos, daraxonrasib podría convertirse en una nueva opción dirigida para el CPCNP con mutaciones de RAS más allá de KRAS G12C, ampliando el tratamiento de precisión en este tumor.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio que aplica un algoritmo de inteligencia artificial (IA) sobre mamografías para identificar hallazgos cardiovasculares; el título no especifica si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Mujeres sometidas a mamografía de cribado o diagnóstica, presumiblemente sin diagnóstico cardiovascular previo conocido.\nIntervención: Aplicación de un modelo de inteligencia artificial sobre las imágenes mamográficas para detectar signos de afecciones cardiovasculares comunes (por ejemplo, calcificación arterial), sin comparador farmacológico.\nResultados: El título no aporta cifras de sensibilidad, especificidad ni de concordancia con el diagnóstico cardiovascular de referencia.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la validación externa del algoritmo ni el impacto clínico real de detectar estos hallazgos de forma oportunista.\nMensaje: Si se valida, la IA aplicada a mamografías podría sumar un cribado cardiovascular oportunista sin estudios adicionales, aprovechando una práctica ya instalada en oncología.\nNota: análisis sin acceso al abstract."
     },
-    "b50c5ea9e4cf": {
-      "resumen": "Ensayo publicado en The New England Journal of Medicine (NEJM) que compara azacitidina más venetoclax (inhibidor de BCL-2) frente a la quimioterapia de inducción convencional en pacientes con leucemia mieloide aguda (LMA). Interesa porque, junto con el estudio de hipometilantes más venetoclax de esta misma edición, podría reforzar el corrimiento hacia esquemas menos intensivos en LMA.",
+    "b0571edd1e16": {
+      "resumen": "The ASCO Post cubre un estudio sobre factores de riesgo cardiovascular en pacientes con cáncer de próstata que podrían ayudar a identificar a quiénes se beneficiarían de un seguimiento cardiológico adicional. Interesa porque la terapia de privación androgénica se asocia a mayor riesgo cardiovascular y una mejor estratificación podría prevenir eventos.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, probablemente aleatorizado de fase III dada la publicación en NEJM y la comparación directa con el estándar de inducción; el título no precisa el número de centros, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), sin que el título especifique edad ni aptitud para quimioterapia intensiva.\nIntervención: Azacitidina más venetoclax (inhibidor de BCL-2) frente a quimioterapia de inducción convencional.\nResultados: El título no aporta cifras de supervivencia global, tasas de remisión completa ni de mortalidad relacionada con el tratamiento.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad comparativa ni la consistencia con el estudio hermano de hipometilantes más venetoclax.\nMensaje: De confirmarse la no inferioridad o superioridad de azacitidina-venetoclax, podría consolidarse una alternativa menos tóxica a la quimioterapia de inducción en LMA.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio de cohorte que evalúa factores de riesgo cardiovascular en pacientes con cáncer de próstata; el título no precisa si es retrospectivo o prospectivo, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata, presumiblemente bajo terapia de privación androgénica u otro tratamiento con impacto cardiovascular conocido.\nIntervención: No aplica en sentido terapéutico; se trata de un análisis de factores de riesgo para identificar candidatos a cuidado cardiológico adicional, no de una intervención farmacológica.\nResultados: El título no aporta cifras de incidencia de eventos cardiovasculares, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, la duración del seguimiento ni si el modelo de riesgo fue validado externamente.\nMensaje: Identificar mejor a los pacientes con cáncer de próstata en riesgo cardiovascular podría justificar la derivación proactiva a cardiología, sumando cuidado cardio-oncológico a la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
-    "a56133c610a5": {
-      "resumen": "El ciclo \"Reporter\" abre un espacio para repasar las tendencias que marcan a la moda urbana."
+    "3feed6c8659c": {
+      "resumen": "The ASCO Post repasa un informe que estima que la inversión en investigación sobre cánceres de la sangre salvó casi 26 millones de años de vida, aunque persisten brechas importantes de supervivencia entre distintos subtipos y poblaciones. Da contexto sobre el retorno de la inversión en investigación oncológica y dónde falta avanzar.",
+      "destacado": false
     },
-    "eef4a2047ae7": {
-      "resumen": "Especialistas en peluquería muestran cómo llevar los peinados que se imponen para el otoño-invierno 2026."
+    "843c1d608a13": {
+      "resumen": "Publicación en Journal of Clinical Oncology (JCO) sobre el estudio RESET-C, que advierte que la respuesta endoscópica por sí sola todavía no debería usarse para seleccionar el manejo no operatorio (estrategia de \"esperar y ver\") en cáncer de recto. Es la nota destacada de la semana porque cuestiona un criterio cada vez más usado en la práctica para evitar la cirugía.",
+      "destacado": true,
+      "analisis": "Diseño: Publicación en Journal of Clinical Oncology sobre el estudio RESET-C; por el título parece un análisis o subestudio que evalúa la respuesta endoscópica como criterio de selección, sin que se precise si es un ensayo prospectivo, una cohorte o un análisis secundario, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de recto tratados con terapia neoadyuvante y evaluados para manejo no operatorio (estrategia de vigilancia y espera) según la respuesta clínica y endoscópica.\nIntervención: Uso de la respuesta endoscópica (visualizada por endoscopía tras el tratamiento neoadyuvante) como criterio para seleccionar el manejo no operatorio, en comparación con otros criterios de respuesta o con el manejo quirúrgico estándar.\nResultados: El título concluye que la respuesta endoscópica \"todavía no\" debería seleccionar por sí sola el manejo no operatorio, lo que sugiere una tasa relevante de recurrencia o de respuesta incompleta no detectada por endoscopía, aunque no incluye cifras de sensibilidad, tasa de recurrencia local ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte del estudio RESET-C, el tiempo de seguimiento ni qué otros criterios (por ejemplo, resonancia magnética o biopsia) se compararon con la endoscopía.\nMensaje: Refuerza la cautela en la práctica real: la respuesta endoscópica aislada no alcanza para ofrecer manejo no operatorio en cáncer de recto, y debe combinarse con otros métodos de evaluación antes de evitar la cirugía.\nNota: análisis sin acceso al abstract."
     },
-    "14604f36460a": {
-      "resumen": "El Destape selecciona cinco prendas económicas para renovar el placard de cara a la temporada primavera-verano 2026/2027."
+    "e24a21371516": {
+      "resumen": "Vogue repasa la colección otoño 1994 de Isaac Mizrahi, un vistazo retro a una de las temporadas emblemáticas del diseñador neoyorquino."
     },
-    "ecf916837976": {
-      "resumen": "El pelo rizado abre un debate en las redes sociales que cruza cultura, moda y estética personal."
+    "c8c599a9edd2": {
+      "resumen": "Vogue presenta la colección primavera 2027 de la marca japonesa Khoki, exhibida en Tokio."
     },
-    "7e1fafd6a0af": {
-      "resumen": "Dakota Johnson combina pantalones de vestir con zapatos planos de estética noventosa, la apuesta elegante para septiembre 2026."
+    "647abfb2b2ba": {
+      "resumen": "Vogue México propone las manicuras más elegantes para lucir en las fiestas patrias de septiembre."
     },
-    "273d63666b5d": {
-      "resumen": "El espectáculo IMPULSO combina tango y tap sobre un mismo escenario; la propuesta y dónde disfrutarla."
+    "4961cfcb73f0": {
+      "resumen": "Vogue México muestra cómo la cantante Danna instaló los talismanes como la joya clave del otoño."
     },
-    "b304dd57a483": {
-      "resumen": "HOTELGA 2026 reúne una propuesta que combina la gastronomía porteña con la hotelería de excelencia de Buenos Aires."
+    "ce88524f51d9": {
+      "resumen": "El cantante Danny Ocean celebró con estilo la apertura de la nueva boutique de Tiffany & Co. en Monterrey."
     },
-    "b51aa94c8009": {
-      "resumen": "Un recorrido por los restaurantes y sabores que ofrece el barrio porteño de Villa Devoto."
+    "a13bf96a10d7": {
+      "resumen": "InStyle repasa los vestidos tendencia del otoño 2026 que más favorecen esta temporada."
+    },
+    "87d51da84d01": {
+      "resumen": "La Prensa Gráfica cuenta cómo la marca RojoTú combina moda, innovación y sostenibilidad."
+    },
+    "be46d4f969ce": {
+      "resumen": "Lecturas destaca un conjunto cómodo y en tendencia recién llegado a Zara, ideal para los días de entretiempo."
+    },
+    "c16df839f0a6": {
+      "resumen": "La Orquesta Infanto Juvenil de Puerto Madryn se presentó en el Teatro Colón de Buenos Aires."
+    },
+    "5fd0434388c8": {
+      "resumen": "El cantautor español El Kanka vuelve a presentarse en Argentina."
+    },
+    "c686d305a8e5": {
+      "resumen": "Urgente24 arma la agenda de planes para el fin de semana en el AMBA: Cafecito BA, un intento de alfajor récord, conciertos Candlelight y más."
+    },
+    "4390d5773870": {
+      "resumen": "El ciclo \"Clásica en el Pueyrredón\" ofrece este sábado un concierto de cello a cargo de Kapai Dúo en San Isidro."
+    },
+    "57602f1fab38": {
+      "resumen": "Ocho restaurantes tradicionales porteños fueron distinguidos como íconos de la Ciudad de Buenos Aires."
+    },
+    "1b4a8746a7e1": {
+      "resumen": "Página/12 propone su agenda cultural para la provincia de Buenos Aires."
+    },
+    "d061aeeadc20": {
+      "resumen": "El musical \"La llamada\" vuelve al Teatro Astros de Buenos Aires."
+    },
+    "e7020f0c445c": {
+      "resumen": "El Planeta Urbano recomienda tres restaurantes porteños para conocer."
+    },
+    "2f56aa2ebc1c": {
+      "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
+    },
+    "ba3961a761a1": {
+      "resumen": "iProfesional detalla cuáles son los ocho restaurantes porteños distinguidos con el título de \"Icónicos\"."
     }
   }
 }
