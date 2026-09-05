@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-09-05T10:07:14Z",
+  "generated_at": "2026-09-05T22:05:43Z",
   "summaries": {
-    "22ea9568fa16": {
-      "resumen": "Artículo en Journal of Clinical Oncology (JCO) sobre daraxonrasib, inhibidor pan-RAS oral en investigación, en cáncer de páncreas, que repasa la evidencia desde los resultados iniciales en segunda línea hasta los datos emergentes en primera línea. Interesa porque el cáncer de páncreas tiene pocas terapias dirigidas y la mayoría de sus tumores porta mutaciones de RAS (KRAS).",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un artículo que resume la evolución de la evidencia clínica de daraxonrasib en cáncer de páncreas (posiblemente con datos originales de un estudio en curso); no se especifica fase, aleatorización ni tamaño muestral.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación de RAS (KRAS), en distintas líneas de tratamiento.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral en investigación), sin comparador definido en el título.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede confirmar si se trata de datos originales de un ensayo o de una síntesis narrativa de estudios previos, ni evaluar la solidez estadística de los hallazgos.\nMensaje: Si la evidencia en primera línea se confirma, daraxonrasib podría sumar una opción dirigida en un tumor con necesidad urgente de terapias más allá de la quimioterapia citotóxica.\nNota: análisis sin acceso al abstract."
+    "721577d53c3c": {
+      "resumen": "Perfil/entrevista de OncLive a E. Anders Kolb, médico hemato-oncólogo pediátrico conocido por su rol al frente de Alex's Lemonade Stand Foundation, una organización dedicada a financiar investigación en cáncer infantil. Interesa como mirada de un referente en oncología pediátrica más que por datos de un estudio puntual.",
+      "destacado": false
     },
-    "c55fe42c10bd": {
-      "resumen": "Publicación en Journal of Clinical Oncology (JCO) con los datos actualizados de eficacia y seguridad del estudio CUPISCO, un ensayo aleatorizado de fase II que compara terapia guiada molecularmente (según el perfil genómico del tumor) frente a continuar con quimioterapia en cáncer de origen primario desconocido (CUP) de perfil desfavorable. Interesa porque el CUP desfavorable tiene mal pronóstico y pocas opciones basadas en biomarcadores.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
+    "4c91308edf75": {
+      "resumen": "\"The OncFive\" de OncLive, el resumen semanal de los artículos más destacados de oncología de la semana del 30/8. Sirve como panorama rápido de la actualidad del área, sin profundizar en un estudio específico.",
+      "destacado": false
+    },
+    "5713e34f9f5e": {
+      "resumen": "Entrevista de OncLive al urólogo Herbert Lepor, que repasa su experiencia tras 1000 procedimientos de crioterapia focal (destrucción del tumor por frío, una alternativa mínimamente invasiva a la cirugía) para cáncer de próstata, con la mención del caso del actor Andre De Shields. Aporta la mirada de un especialista con mucho volumen sobre la técnica, más que datos de un ensayo.",
+      "destacado": false
+    },
+    "0b4e20100148": {
+      "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un esquema combinado con camizestrant, un inhibidor oral del receptor de estrógeno de nueva generación, para cáncer de mama localmente avanzado o metastásico. Relevante porque amplía las opciones de tratamiento hormonal dirigido en un subtipo muy frecuente de la enfermedad.",
+      "destacado": false
     },
     "0d4622fc0ee7": {
       "resumen": "The ASCO Post reporta un estudio sobre el uso de inteligencia artificial (IA) aplicada a mamografías para detectar afecciones cardiovasculares frecuentes. Interesa porque abre la puerta a aprovechar un estudio ya indicado para el cribado de cáncer de mama como herramienta de detección cardiovascular oportunista.",
@@ -21,14 +27,47 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de cohorte que evalúa factores de riesgo cardiovascular en pacientes con cáncer de próstata; el título no precisa si es retrospectivo o prospectivo, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata, presumiblemente bajo terapia de privación androgénica u otro tratamiento con impacto cardiovascular conocido.\nIntervención: No aplica en sentido terapéutico; se trata de un análisis de factores de riesgo para identificar candidatos a cuidado cardiológico adicional, no de una intervención farmacológica.\nResultados: El título no aporta cifras de incidencia de eventos cardiovasculares, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, la duración del seguimiento ni si el modelo de riesgo fue validado externamente.\nMensaje: Identificar mejor a los pacientes con cáncer de próstata en riesgo cardiovascular podría justificar la derivación proactiva a cardiología, sumando cuidado cardio-oncológico a la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
+    "81cba7ef8c81": {
+      "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
+      "destacado": false
+    },
+    "1bacb314e307": {
+      "resumen": "Artículo en Journal of Clinical Oncology (JCO) que analiza qué enseñan los grandes ensayos internacionales de cáncer de mama sobre la secuencia óptima de los tratamientos, es decir, en qué orden conviene indicar las distintas líneas terapéuticas. Funciona como una mirada integradora de la evidencia disponible, más que el reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "22ea9568fa16": {
+      "resumen": "Artículo en Journal of Clinical Oncology (JCO) sobre daraxonrasib, inhibidor pan-RAS oral en investigación, en cáncer de páncreas, que repasa la evidencia desde los resultados iniciales en segunda línea hasta los datos emergentes en primera línea. Interesa porque el cáncer de páncreas tiene pocas terapias dirigidas y la mayoría de sus tumores porta mutaciones de RAS (KRAS).",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un artículo que resume la evolución de la evidencia clínica de daraxonrasib en cáncer de páncreas (posiblemente con datos originales de un estudio en curso); no se especifica fase, aleatorización ni tamaño muestral.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación de RAS (KRAS), en distintas líneas de tratamiento.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral en investigación), sin comparador definido en el título.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede confirmar si se trata de datos originales de un ensayo o de una síntesis narrativa de estudios previos, ni evaluar la solidez estadística de los hallazgos.\nMensaje: Si la evidencia en primera línea se confirma, daraxonrasib podría sumar una opción dirigida en un tumor con necesidad urgente de terapias más allá de la quimioterapia citotóxica.\nNota: análisis sin acceso al abstract."
+    },
+    "c55fe42c10bd": {
+      "resumen": "Publicación en Journal of Clinical Oncology (JCO) con los datos actualizados de eficacia y seguridad del estudio CUPISCO, un ensayo aleatorizado de fase II que compara terapia guiada molecularmente (según el perfil genómico del tumor) frente a continuar con quimioterapia en cáncer de origen primario desconocido (CUP) de perfil desfavorable. Interesa porque el CUP desfavorable tiene mal pronóstico y pocas opciones basadas en biomarcadores.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
+    },
     "e24a21371516": {
       "resumen": "Vogue repasa la colección otoño 1994 de Isaac Mizrahi, un vistazo retro a una de las temporadas emblemáticas del diseñador neoyorquino."
     },
-    "c8c599a9edd2": {
-      "resumen": "Vogue presenta la colección primavera 2027 de la marca japonesa Khoki, exhibida en Tokio."
+    "c27a01f544cc": {
+      "resumen": "\"Wild Horse Nine\", la película sobre el golpe de Estado en Chile, recibió una ovación de 14 minutos en el Festival de Venecia 2026."
     },
-    "647abfb2b2ba": {
-      "resumen": "Vogue México propone las manicuras más elegantes para lucir en las fiestas patrias de septiembre."
+    "a8a46468b7da": {
+      "resumen": "Así fue la bienvenida a \"Despertares\", la gala anual organizada por el bailarín Isaac Hernández que celebra la danza internacional."
+    },
+    "127a4f2c692d": {
+      "resumen": "La actriz Mariana Di Girolamo eligió un romántico look con falda y corsé para el Festival de Venecia 2026."
+    },
+    "654110a58bce": {
+      "resumen": "Massimo Dutti rebajó por sorpresa tres faldas largas de tendencia para looks de entretiempo este otoño."
+    },
+    "85541f1805bb": {
+      "resumen": "La bañera quedó atrás: repasamos la tendencia de baños 2026, más simple y elegante."
+    },
+    "7be7a0abf769": {
+      "resumen": "El diseñador Juan Avellaneda adelanta que los pantalones de satén serán tendencia este otoño/invierno y comparte un truco para plancharlos y que luzcan más elevados."
+    },
+    "66a2af99547d": {
+      "resumen": "La comedia \"Solución Rápida\" vuelve a Caballito con una función única, antes de su paso por el festival FES TiN."
     },
     "c16df839f0a6": {
       "resumen": "La Orquesta Infanto Juvenil de Puerto Madryn se presentó en el Teatro Colón de Buenos Aires."
@@ -45,47 +84,8 @@
     "1b4a8746a7e1": {
       "resumen": "Página/12 propone su agenda cultural para la provincia de Buenos Aires."
     },
-    "d061aeeadc20": {
-      "resumen": "El musical \"La llamada\" vuelve al Teatro Astros de Buenos Aires."
-    },
     "2f56aa2ebc1c": {
       "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
-    },
-    "a25153cdeb50": {
-      "resumen": "Segmento en video de OncLive de la serie \"Minutes With Markman\", en el que el oncólogo Maurie Markman responde preguntas breves sobre oncología clínica. Es un formato de entrevista rápida, sin datos de un estudio puntual.",
-      "destacado": false
-    },
-    "5713e34f9f5e": {
-      "resumen": "Entrevista de OncLive al urólogo Herbert Lepor, que repasa su experiencia tras 1000 procedimientos de crioterapia focal (destrucción del tumor por frío, una alternativa mínimamente invasiva a la cirugía) para cáncer de próstata, con la mención del caso del actor Andre De Shields. Aporta la mirada de un especialista con mucho volumen sobre la técnica, más que datos de un ensayo.",
-      "destacado": false
-    },
-    "8891e47257c9": {
-      "resumen": "OncLive recopila las respuestas del oncólogo Maurie Markman a preguntas clínicas sobre el uso de inteligencia artificial (IA) en oncología ginecológica. Da un panorama de opinión experta sobre las aplicaciones de la IA en esa subespecialidad, sin datos de un estudio específico.",
-      "destacado": false
-    },
-    "0b4e20100148": {
-      "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un esquema combinado con camizestrant, un inhibidor oral del receptor de estrógeno de nueva generación, para cáncer de mama localmente avanzado o metastásico. Relevante porque amplía las opciones de tratamiento hormonal dirigido en un subtipo muy frecuente de la enfermedad.",
-      "destacado": false
-    },
-    "81cba7ef8c81": {
-      "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
-      "destacado": false
-    },
-    "1bacb314e307": {
-      "resumen": "Artículo en Journal of Clinical Oncology (JCO) que analiza qué enseñan los grandes ensayos internacionales de cáncer de mama sobre la secuencia óptima de los tratamientos, es decir, en qué orden conviene indicar las distintas líneas terapéuticas. Funciona como una mirada integradora de la evidencia disponible, más que el reporte de un estudio nuevo.",
-      "destacado": false
-    },
-    "24150cd5f9b1": {
-      "resumen": "Cosmopolitan explica cómo combinar el amarillo manteca, el color furor del entretiempo 2026, en distintos looks."
-    },
-    "797d543d6c71": {
-      "resumen": "Vanitatis repasa los cuatro cortes de pelo que se van a imponer este otoño 2026, desde una nueva versión del bob hasta capas que suman volumen."
-    },
-    "c1b37f685fa2": {
-      "resumen": "El Español propone tres looks con estampado animal print, de la cebra a la serpiente, para lucir este otoño 2026."
-    },
-    "f1a830f88223": {
-      "resumen": "Canal26 cuenta que los portarretratos sobre los muebles quedaron atrás y describe la nueva tendencia de decoración 2026, más simple y elegante."
     },
     "b86ec0100d5d": {
       "resumen": "La Ciudad de Buenos Aires ya distinguió a 24 restaurantes icónicos y habilitó a otros locales a sumarse a esa promoción."
