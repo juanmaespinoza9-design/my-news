@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-09-04T22:08:07Z",
+  "generated_at": "2026-09-05T10:07:14Z",
   "summaries": {
-    "24e9a5c1af78": {
-      "resumen": "Artículo de la serie \"Bridging the Gap\" en Journal of Clinical Oncology (JCO) sobre la evidencia creciente a favor de la terapia dirigida a la metástasis (metastasis-directed therapy) en la enfermedad oligometastásica, es decir, con pocas lesiones a distancia. Es útil como puesta al día del debate sobre cuándo tratar localmente las metástasis en lugar de solo con terapia sistémica.",
-      "destacado": false
-    },
     "22ea9568fa16": {
       "resumen": "Artículo en Journal of Clinical Oncology (JCO) sobre daraxonrasib, inhibidor pan-RAS oral en investigación, en cáncer de páncreas, que repasa la evidencia desde los resultados iniciales en segunda línea hasta los datos emergentes en primera línea. Interesa porque el cáncer de páncreas tiene pocas terapias dirigidas y la mayoría de sus tumores porta mutaciones de RAS (KRAS).",
       "destacado": false,
@@ -12,21 +8,8 @@
     },
     "c55fe42c10bd": {
       "resumen": "Publicación en Journal of Clinical Oncology (JCO) con los datos actualizados de eficacia y seguridad del estudio CUPISCO, un ensayo aleatorizado de fase II que compara terapia guiada molecularmente (según el perfil genómico del tumor) frente a continuar con quimioterapia en cáncer de origen primario desconocido (CUP) de perfil desfavorable. Interesa porque el CUP desfavorable tiene mal pronóstico y pocas opciones basadas en biomarcadores.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
-    },
-    "87d139492517": {
-      "resumen": "Cobertura de OncLive sobre el manejo de la progresión en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico): cuándo repetir la biopsia, cómo identificar la transformación a células pequeñas y cómo vigilar el sistema nervioso central. Interesa porque ordena las decisiones prácticas ante la progresión, un escenario clínico frecuente y heterogéneo.",
-      "destacado": false
-    },
-    "a50dd9c1a840": {
-      "resumen": "Cobertura de OncLive sobre aspectos prácticos del tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR: logística de las infusiones, manejo de la toxicidad cutánea y calidad de vida. Sirve como guía operativa para el día a día del tratamiento con estos esquemas.",
-      "destacado": false
-    },
-    "c311096f1f66": {
-      "resumen": "Cobertura de OncLive sobre el impacto pronóstico de las co-mutaciones de TP53 (gen supresor tumoral) en el cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR. Interesa porque la coexistencia de TP53 suele asociarse a peor respuesta y podría influir en la elección terapéutica.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis pronóstico, probablemente de una cohorte retrospectiva que evalúa el efecto de las co-mutaciones de TP53; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico), con o sin co-mutación de TP53.\nIntervención: No aplica en sentido terapéutico; se trata de un análisis de asociación molecular-pronóstica, no de una intervención farmacológica.\nResultados: El título no aporta cifras de supervivencia global, supervivencia libre de progresión ni valores de p asociados a la co-mutación de TP53.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, el diseño exacto ni si el análisis ajustó por otros factores pronósticos.\nMensaje: Confirmar el peor pronóstico asociado a TP53 podría justificar vigilancia más estrecha o intensificación terapéutica en este subgrupo, aunque el impacto directo en la práctica depende de datos prospectivos.\nNota: análisis sin acceso al abstract."
     },
     "0d4622fc0ee7": {
       "resumen": "The ASCO Post reporta un estudio sobre el uso de inteligencia artificial (IA) aplicada a mamografías para detectar afecciones cardiovasculares frecuentes. Interesa porque abre la puerta a aprovechar un estudio ya indicado para el cribado de cáncer de mama como herramienta de detección cardiovascular oportunista.",
@@ -38,15 +21,6 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de cohorte que evalúa factores de riesgo cardiovascular en pacientes con cáncer de próstata; el título no precisa si es retrospectivo o prospectivo, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata, presumiblemente bajo terapia de privación androgénica u otro tratamiento con impacto cardiovascular conocido.\nIntervención: No aplica en sentido terapéutico; se trata de un análisis de factores de riesgo para identificar candidatos a cuidado cardiológico adicional, no de una intervención farmacológica.\nResultados: El título no aporta cifras de incidencia de eventos cardiovasculares, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, la duración del seguimiento ni si el modelo de riesgo fue validado externamente.\nMensaje: Identificar mejor a los pacientes con cáncer de próstata en riesgo cardiovascular podría justificar la derivación proactiva a cardiología, sumando cuidado cardio-oncológico a la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
-    "3feed6c8659c": {
-      "resumen": "The ASCO Post repasa un informe que estima que la inversión en investigación sobre cánceres de la sangre salvó casi 26 millones de años de vida, aunque persisten brechas importantes de supervivencia entre distintos subtipos y poblaciones. Da contexto sobre el retorno de la inversión en investigación oncológica y dónde falta avanzar.",
-      "destacado": false
-    },
-    "843c1d608a13": {
-      "resumen": "Publicación en Journal of Clinical Oncology (JCO) sobre el estudio RESET-C, que advierte que la respuesta endoscópica por sí sola todavía no debería usarse para seleccionar el manejo no operatorio (estrategia de \"esperar y ver\") en cáncer de recto. Es la nota destacada de la semana porque cuestiona un criterio cada vez más usado en la práctica para evitar la cirugía.",
-      "destacado": true,
-      "analisis": "Diseño: Publicación en Journal of Clinical Oncology sobre el estudio RESET-C; por el título parece un análisis o subestudio que evalúa la respuesta endoscópica como criterio de selección, sin que se precise si es un ensayo prospectivo, una cohorte o un análisis secundario, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de recto tratados con terapia neoadyuvante y evaluados para manejo no operatorio (estrategia de vigilancia y espera) según la respuesta clínica y endoscópica.\nIntervención: Uso de la respuesta endoscópica (visualizada por endoscopía tras el tratamiento neoadyuvante) como criterio para seleccionar el manejo no operatorio, en comparación con otros criterios de respuesta o con el manejo quirúrgico estándar.\nResultados: El título concluye que la respuesta endoscópica \"todavía no\" debería seleccionar por sí sola el manejo no operatorio, lo que sugiere una tasa relevante de recurrencia o de respuesta incompleta no detectada por endoscopía, aunque no incluye cifras de sensibilidad, tasa de recurrencia local ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte del estudio RESET-C, el tiempo de seguimiento ni qué otros criterios (por ejemplo, resonancia magnética o biopsia) se compararon con la endoscopía.\nMensaje: Refuerza la cautela en la práctica real: la respuesta endoscópica aislada no alcanza para ofrecer manejo no operatorio en cáncer de recto, y debe combinarse con otros métodos de evaluación antes de evitar la cirugía.\nNota: análisis sin acceso al abstract."
-    },
     "e24a21371516": {
       "resumen": "Vogue repasa la colección otoño 1994 de Isaac Mizrahi, un vistazo retro a una de las temporadas emblemáticas del diseñador neoyorquino."
     },
@@ -55,21 +29,6 @@
     },
     "647abfb2b2ba": {
       "resumen": "Vogue México propone las manicuras más elegantes para lucir en las fiestas patrias de septiembre."
-    },
-    "4961cfcb73f0": {
-      "resumen": "Vogue México muestra cómo la cantante Danna instaló los talismanes como la joya clave del otoño."
-    },
-    "ce88524f51d9": {
-      "resumen": "El cantante Danny Ocean celebró con estilo la apertura de la nueva boutique de Tiffany & Co. en Monterrey."
-    },
-    "a13bf96a10d7": {
-      "resumen": "InStyle repasa los vestidos tendencia del otoño 2026 que más favorecen esta temporada."
-    },
-    "87d51da84d01": {
-      "resumen": "La Prensa Gráfica cuenta cómo la marca RojoTú combina moda, innovación y sostenibilidad."
-    },
-    "be46d4f969ce": {
-      "resumen": "Lecturas destaca un conjunto cómodo y en tendencia recién llegado a Zara, ideal para los días de entretiempo."
     },
     "c16df839f0a6": {
       "resumen": "La Orquesta Infanto Juvenil de Puerto Madryn se presentó en el Teatro Colón de Buenos Aires."
@@ -80,9 +39,6 @@
     "c686d305a8e5": {
       "resumen": "Urgente24 arma la agenda de planes para el fin de semana en el AMBA: Cafecito BA, un intento de alfajor récord, conciertos Candlelight y más."
     },
-    "4390d5773870": {
-      "resumen": "El ciclo \"Clásica en el Pueyrredón\" ofrece este sábado un concierto de cello a cargo de Kapai Dúo en San Isidro."
-    },
     "57602f1fab38": {
       "resumen": "Ocho restaurantes tradicionales porteños fueron distinguidos como íconos de la Ciudad de Buenos Aires."
     },
@@ -92,14 +48,53 @@
     "d061aeeadc20": {
       "resumen": "El musical \"La llamada\" vuelve al Teatro Astros de Buenos Aires."
     },
-    "e7020f0c445c": {
-      "resumen": "El Planeta Urbano recomienda tres restaurantes porteños para conocer."
-    },
     "2f56aa2ebc1c": {
       "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
     },
-    "ba3961a761a1": {
-      "resumen": "iProfesional detalla cuáles son los ocho restaurantes porteños distinguidos con el título de \"Icónicos\"."
+    "a25153cdeb50": {
+      "resumen": "Segmento en video de OncLive de la serie \"Minutes With Markman\", en el que el oncólogo Maurie Markman responde preguntas breves sobre oncología clínica. Es un formato de entrevista rápida, sin datos de un estudio puntual.",
+      "destacado": false
+    },
+    "5713e34f9f5e": {
+      "resumen": "Entrevista de OncLive al urólogo Herbert Lepor, que repasa su experiencia tras 1000 procedimientos de crioterapia focal (destrucción del tumor por frío, una alternativa mínimamente invasiva a la cirugía) para cáncer de próstata, con la mención del caso del actor Andre De Shields. Aporta la mirada de un especialista con mucho volumen sobre la técnica, más que datos de un ensayo.",
+      "destacado": false
+    },
+    "8891e47257c9": {
+      "resumen": "OncLive recopila las respuestas del oncólogo Maurie Markman a preguntas clínicas sobre el uso de inteligencia artificial (IA) en oncología ginecológica. Da un panorama de opinión experta sobre las aplicaciones de la IA en esa subespecialidad, sin datos de un estudio específico.",
+      "destacado": false
+    },
+    "0b4e20100148": {
+      "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un esquema combinado con camizestrant, un inhibidor oral del receptor de estrógeno de nueva generación, para cáncer de mama localmente avanzado o metastásico. Relevante porque amplía las opciones de tratamiento hormonal dirigido en un subtipo muy frecuente de la enfermedad.",
+      "destacado": false
+    },
+    "81cba7ef8c81": {
+      "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
+      "destacado": false
+    },
+    "1bacb314e307": {
+      "resumen": "Artículo en Journal of Clinical Oncology (JCO) que analiza qué enseñan los grandes ensayos internacionales de cáncer de mama sobre la secuencia óptima de los tratamientos, es decir, en qué orden conviene indicar las distintas líneas terapéuticas. Funciona como una mirada integradora de la evidencia disponible, más que el reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "24150cd5f9b1": {
+      "resumen": "Cosmopolitan explica cómo combinar el amarillo manteca, el color furor del entretiempo 2026, en distintos looks."
+    },
+    "797d543d6c71": {
+      "resumen": "Vanitatis repasa los cuatro cortes de pelo que se van a imponer este otoño 2026, desde una nueva versión del bob hasta capas que suman volumen."
+    },
+    "c1b37f685fa2": {
+      "resumen": "El Español propone tres looks con estampado animal print, de la cebra a la serpiente, para lucir este otoño 2026."
+    },
+    "f1a830f88223": {
+      "resumen": "Canal26 cuenta que los portarretratos sobre los muebles quedaron atrás y describe la nueva tendencia de decoración 2026, más simple y elegante."
+    },
+    "b86ec0100d5d": {
+      "resumen": "La Ciudad de Buenos Aires ya distinguió a 24 restaurantes icónicos y habilitó a otros locales a sumarse a esa promoción."
+    },
+    "5ee6e0dcd6ba": {
+      "resumen": "El violinista y director Pinchas Zukerman vuelve al Teatro Colón para tocar junto al Ensamble Musical de Buenos Aires."
+    },
+    "63bc318cfec2": {
+      "resumen": "La Ciudad de Buenos Aires entregó un reconocimiento oficial a un grupo de restaurantes considerados íconos gastronómicos porteños."
     }
   }
 }
