@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T11:07:07.921202+00:00",
+ "generated_at": "2026-09-06T15:34:05.693138+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,25 +7,25 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Five Under 5: Top Oncology Videos for the Week of 8/31/26",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVZEdzVveTByMUJzYlFvVGN1aEhBbXNZSzBTa2trSGIyclFQUGJwaGczU2ZJMjhuRENBLWwxY2t5bEZ5R0s3LVlaYTU0aE9Ea0V6Z0pIOU5ld2t4N2ZyTnBBd0FaTXZ0cUlKM0pyOVdVbFZtb2s0ZUVtdk5fNjM5YzlTeGxIck1DT2syWkZB?oc=5",
+     "source": "OncLive",
+     "published": "2026-09-06T14:37:30+00:00",
+     "id": "3638cbbcc061"
+    },
+    {
+     "title": "CARiBOU Regimen Drives Complete Metabolic Responses in First-Line Mantle Cell Lymphoma",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObkZIZFd2UVZtNURRcDhiX0tnZGhBOHYxS0pqMWNobEl6MG85bnpabXNqcEtrSFVuUWlsUWR2ZVo3dGlDcFFRcnltRkNvWXprdkZYX0djcnJiNi1BT3gxUFZ6VmVzeTVuckJ4RnVWYXdMNjAyZm9XbWRYSURycGMwNmdYTnV3RGJ4UWppTEp6dWhqRjVpUVE5c2JETFJkNHE3MUduWi16b3YxTTAzZEJyUTBJT29tZw?oc=5",
+     "source": "OncLive",
+     "published": "2026-09-06T12:22:19+00:00",
+     "id": "1aa880f0e248"
+    },
+    {
      "title": "Jill Burke, Adult Nurse Practitioner",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GRXdvZmQtYkdJUHoydkVfd0VTUmJzeFNzOHRvby1Db3Q2SzFYTWZ2ZkZuQ1JBMm5rcS05VjlXZ2ItQ3NXYnFMdm4yVFdBRjMzVkNiYklPSDREWTktTEc1TVRHSHhmbFc1SHpNZ1UxMFozZmI0bnc?oc=5",
      "source": "OncLive",
      "published": "2026-09-05T20:41:55+00:00",
      "id": "cd78474ec544"
-    },
-    {
-     "title": "E. Anders Kolb, MD",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRlpSQmNWUVhKUnQ5aDVCeVJmYjdudm9KaDBMN0RYWXJ3aTRZVU1TMmI2RWZITmlRTEJkb3Z1ZVgzcnZqSmI4MUFCYTJ3SjRqeGE3T1lkdmE3Y3VR?oc=5",
-     "source": "OncLive",
-     "published": "2026-09-05T16:24:24+00:00",
-     "id": "721577d53c3c"
-    },
-    {
-     "title": "The OncFive: Top Oncology Articles for the Week of 8/30",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbE1HaURiMGpkdFpTRGttdjgzVDBHVUxfanJjMWVycmlPZEstQWU4ZTk4VWRZcmFka00xZjV3N29Na3FDdzZ3UEdBTHlxMFR6STMweGJvZFJSZ0x1NDJCSmlhZGYwOWx4ODNtdkI3NHpia3FyU0NNY1ZFeWFlTnpPZE1LTEVjdzU3WHpv?oc=5",
-     "source": "OncLive",
-     "published": "2026-09-05T12:05:38+00:00",
-     "id": "4c91308edf75"
     },
     {
      "title": "FDA Approves Camizestrant Combination Regimen for Locally Advanced or Metastatic Breast Cancer",
@@ -79,6 +79,22 @@
      "published": "2026-09-03T00:00:00+00:00",
      "copete": "Krämer A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "c55fe42c10bd"
+    },
+    {
+     "title": "Hypomethylating Agents plus Venetoclax as Compared with Intensive Chemotherapy in Patients with AML",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685322/",
+     "source": "NEJM Oncología",
+     "published": "2026-09-03T00:00:00+00:00",
+     "copete": "Schiffer CA et al. · The New England journal of medicine",
+     "id": "acb239ddd145"
+    },
+    {
+     "title": "Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685317/",
+     "source": "NEJM Oncología",
+     "published": "2026-09-03T00:00:00+00:00",
+     "copete": "Arbour KC et al. · The New England journal of medicine",
+     "id": "6027d233d7a6"
     }
    ]
   },
@@ -88,19 +104,71 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Horóscopo de hoy: 6 de septiembre de 2026",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTlsblM2c2F0Nm8xcnVGZ3o3ZjVkNkx4WUFfeTRGc29qZGduOFh5dWdqT1R6WEVhVWlDM0d5NVRLeDdtV3NYck0wMXQteUp3MExKd0htX3JXUkprX3EwTWtrUDBMcHFJS3RJbDBLLW0welFEQWRUZmJ4QnZnT2JjZXhZVGQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-06T11:00:00+00:00",
-     "id": "b66730bad2c3"
+     "title": "Los repasadores con dibujos pasaron de moda: la tendencia en 2026 que es más simple y elegante",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTRwWThwbHN6OFZ2eXpwalpTa3B3ZXU3QUxCYjh0Y1podWlkVDdySW95SzgwZVhLU1ZRbkRCMDY3Z3NvbUJQZ3dCbWJMWk9GaGNDMUJhdHllRG5RaVkzZ2hfRzhza1lWR1lEWkN5OXBRblpwT21haEFLX3MtOGQ2TEdNeVB2UkQybWtLOHJnUktZOGlzdXgxaW5NMWxKT29aSWhMRGJ3ZXkxbEhsSjVza3ZLbm0tTWtYQkFncUl3eHZGaFhETjBweHdOZDZXSWY5eGplV1ZWMA?oc=5",
+     "source": "Canal26",
+     "published": "2026-09-06T14:58:00+00:00",
+     "id": "b6ad9f431bd0"
     },
     {
-     "title": "Natalie Portman Gives Birth to Her Third Child",
-     "link": "https://www.vogue.com/article/natalie-portman-gives-birth-to-her-third-child",
+     "title": "All the Best Looks From the 2026 Venice Film Festival",
+     "link": "https://www.vogue.com/slideshow/all-the-best-looks-from-the-2026-venice-film-festival",
      "source": "Vogue",
-     "published": "2026-09-06T10:38:51+00:00",
-     "copete": "Congratulations are in order for Natalie Portman, who has welcomed her third child and first baby with partner Tanguy Destable.",
-     "id": "c6dc6f38b9ca"
+     "published": "2026-09-06T14:09:54+00:00",
+     "copete": "As the 2026 Venice Film Festival kicks off this week, all eyes will be on the red carpet—with the likes of George and Amal Clooney, Claire Foy, and Robert Pattinson arriving in the Italian city. See all the best fashion from Venice Film…",
+     "id": "17aedeff6a1f"
+    },
+    {
+     "title": "The “Curtain Crop” Is The Cool-Girl Haircut for Fall 2026",
+     "link": "https://www.vogue.com/article/curtain-crop-2026",
+     "source": "Vogue",
+     "published": "2026-09-06T14:00:00+00:00",
+     "copete": "Part Kiera Knightley in ‘Bend It Like Beckham,’ part Gina Gershon in ‘Bound,’ part Carrie-Anne Moss in ‘The Matrix,’ the grown-out crop is already this year’s most in-demand style.",
+     "id": "d58adeb078ce"
+    },
+    {
+     "title": "Blusas largas de los 2000: Regresaron y se llevan con jeans acampanados y zapatos de tacón en septiembre 2026",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWZRT081NVFRZlRaeUhjMV9tVDJIQXZnSmdWVFNEQ242elR6SjJBWHBOOGIxNnEyUEFwajlaUWRROHVaTzBmVExLWDVGTERaejhCOWpqcGphbDN0cENMYlFvMndSU1BCU1hobm9qSDF2LURLU1ZNd0E0QUxjU3JFZVRYU1FxX0FlYlAxMVFEQzJvVWIzWWtUc2VVSEQxdlo0c0dNTW4tLVduUkpmdF9ESUROelV5blAxWTlhM3Fn?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-06T14:00:00+00:00",
+     "id": "8dde854b733a"
+    },
+    {
+     "title": "Las faldas fluidas de los 90 vuelven con botines en tendencia para septiembre 2026",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmR5YTJRQmc3SXRNR21aQ01WLVJWWURVb0hxNW1XSWxUOVhmNnl0bFU3VWZPYzlVT2tlQzFRYnNOeUtYcV9nWWRIRWtfXzRfaTluOFNvcDJLWGFRUVdtbGJ4SjMzN1JLbndreTJMTFpEaldVVVEzSkVPVG1Wd09QN0xyMFd4c1NYZmhEaUhOZnVHQ1dz?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-06T14:00:00+00:00",
+     "id": "4c5b5faa2d7e"
+    },
+    {
+     "title": "Primetime: La película del Festival de Venecia 2026 que podría darle su primer Oscar a Robert Pattinson",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11NEFFRF8wdEdkdkFfNm5TbFN0VTBsYWdQbF9JSHUtTnBzOEVyWFVGVi1lWm5hcVBkZFozamNOX25TU2ZzQjNscGVPdWl5cGM4WlVoMnFCMkpzMUdz?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-06T14:00:00+00:00",
+     "id": "7bc3068b8151"
+    },
+    {
+     "title": "Tendencias de moda desechable para viajar a China.",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0xKYjl6N3QtMjRzcDlHbnBjOU56WXR0ZFZOWjM3cGl2bE40dGdRNi1ERFRIUHlaR0Zralo4RmpLR3RzaENBUW5XZ3haQjk0R0lyM1MzRmxoLWZCZDNDT0N1RHRxX25SM2pWeE9zMW1yQllrVnlsWEdncUwxU0d2VzhsSnVOdVNmSTQ1WFBR?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-09-06T13:45:13+00:00",
+     "id": "ad7c70d530f6"
+    },
+    {
+     "title": "17 Unique Wedding Traditions From Around the World",
+     "link": "https://www.vogue.com/article/wedding-traditions-from-around-the-world",
+     "source": "Vogue",
+     "published": "2026-09-06T13:00:00+00:00",
+     "copete": "Whether you decide to jet off for your wedding or spice up your hometown nuptial, say “I do” with the most unique wedding traditions from around the world.",
+     "id": "ee8993b8d3b3"
+    },
+    {
+     "title": "From the Archives: The Hope-Affirming Power of Fashion",
+     "link": "https://www.vogue.com/article/from-the-archives-amazing-grace",
+     "source": "Vogue",
+     "published": "2026-09-06T12:00:00+00:00",
+     "copete": "Forgoing the usual pomp and ceremony of runway presentations, American designers showed their stripes for spring with unquestionably strong, straightforwardly beautiful collections. Here, Vogue salutes the hope-affirming power of fashion.",
+     "id": "0d6eee06a551"
     },
     {
      "title": "Kylie Jenner resucita la moda de Britney y Paris Hilton con esta tendencia de cristales",
@@ -108,58 +176,6 @@
      "source": "OkDiario",
      "published": "2026-09-06T10:08:09+00:00",
      "id": "7645d03a0a72"
-    },
-    {
-     "title": "The Best Black Flats Outfits Inspired by Celebrities in 2026",
-     "link": "https://www.vogue.com/article/celebrities-black-flats-outfits",
-     "source": "Vogue",
-     "published": "2026-09-06T10:00:00+00:00",
-     "copete": "From the ballerinas loved by Kaia Gerber to the glove flats Kendall Jenner relies on, shop outfit ideas on how to wear black flats.",
-     "id": "d71bd74d3772"
-    },
-    {
-     "title": "In ‘Primetime,’ the True-Crime Thriller About ‘To Catch a Predator,’ Robert Pattinson Lets Rip",
-     "link": "https://www.vogue.com/article/primetime-review-venice-film-festival",
-     "source": "Vogue",
-     "published": "2026-09-06T09:00:00+00:00",
-     "copete": "The actor transforms into Chris Hansen, the host of the 2000s TV phenomenon, in Lance Oppenheim’s Venice Film Festival drama.",
-     "id": "354ec895dc0b"
-    },
-    {
-     "title": "Amanda Seyfried, Susan Sarandon, Pamela Anderson, and More Joined Miu Miu for Venice Film Festival’s Most Glamorous Dinner",
-     "link": "https://www.vogue.com/slideshow/miu-miu-fondazione-prada-dinner-venice-film-festival-2026",
-     "source": "Vogue",
-     "published": "2026-09-06T07:40:15+00:00",
-     "copete": "There are plenty of glitzy parties at Venice Film Festival, but none with quite the same sparkle as Miu Miu’s annual dinner at Ca' Corner della Regina.",
-     "id": "4bf3474fe2a9"
-    },
-    {
-     "title": "Los pantalones de montar a caballo vuelven este otoño y la moda quiere llevarlos con tacones",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHFSTWF5YTBERU9LLVpITHpfWE1nODhZSjBoMFVLb1dLSXFIWEFFckVWNE13c1ZRSEIyVktBTXd5NEZMaUtfb2M0aXZfWUdNMU44ZGlXMEJHaVExUW0wek53Y0pXeE8zWW85VEl2V2ZkVnY4RzlOMXhzb216N1ZYeUhvX0c3MGJBRmVKS1RYaFBoUkJJQ1duU2xmN2p5Tjl4OEt3UTAydkpfZk85U0hOU3NPRW9IU1NudHFNZHdYUzFUazNlVTA2UlhZN0U?oc=5",
-     "source": "Harper's BAZAAR",
-     "published": "2026-09-06T06:14:07+00:00",
-     "id": "51472ce734b4"
-    },
-    {
-     "title": "De prenda militar a imprescindible de otoño: las gabardinas que serán tendencia en 2026",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMW9Ld0FMa0lGdkRodEhaU1lVeW5OVEVydmJRd2xlN2RCbHhtT1BCUmpIel9zZS1pWjZjYU1HVTVaZEpENUVXbDlMZnBROXRIY3B0dnJSMkFRUlZ0eXlVdWotWGtNeUVNUWNIaHVBQnNnMG8wVlZYS2w2VXg3ajFRRUN3M2pxVHk5ek1WTEtOSkxZTEQ4VkFpNnM3QUtoOVd6dWc5UEk4eldRc3FHbXFILVRkcVJhak5tT0pwZzFmZzVhdDFHclVDMWlVSzMyMFNiTXcyS3VQWXlFWFIzUlFDNtIB9AFBVV95cUxONlRsdG5Md2plRUtlRmdTQ2UzNXdXRW1XaUFFZk92cGFXYTZJSjZwYm04aFRxQkpfajhNeUNDZnltN1VCWjF4bWZZeWFRQXJFM2MzTzV0b1hLUzNNQV9qaXhhN21wem4zVzA3bUxOUk5XYWNHRlB2NUY5Wm1JcUctc0wzNmhGcmMxbmtlNVZkT1FKTGU0VWhUNUg1V3JyWll1amxWUjFySlowZmRKUC13MFRRSy1Yc04zOHZ4bTBqdlY3SnM2dXY0NzRFYUtUQTU0MjZRNW1peTAzbVYxbFNieGNZZ0l2blZ3QjNPWnZWUGlURmhG?oc=5",
-     "source": "La Razón",
-     "published": "2026-09-06T04:00:34+00:00",
-     "id": "aa87d4393699"
-    },
-    {
-     "title": "Es oficial: estas son las 10 tendencias que dominarán el otoño-invierno y las compras que puedes hacer en Zara, Mango y Primark para sumarte a ellas a precios asequibles",
-     "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWWVMb3dYZlc5UGNROGppVFJ3cU03ZHBmZUNCcHpZT0JxdWc2RlU0dkJfMEVqdmlJN1ZFRVNadVhGbEl1M1E4NkhpSmh6Z0tuTVBQamw4TzhtM0g2ZVlDNFF5NDhVd2FETEVPdDFscVVWNlhqSXJKWWVmRXRYNHZDXzNkTnZyWGw3aWNnSTk2UEZTdExsWlFhNWtkQ2k3bjQ4Y1BPX2xqTjB1a0JSQzBlZnFXQWJCSFVfQTJPaHB0RXdiYi1GckZ6anJNc19QWWZwQS1ZUjdMRUZPbmNic0NjTnkwdm5rVjZzUkdkeUYxV0V1ODc3bEFQRFFXaUNLQjlIVm9UQ0t3bjVlR25fbmd4UTgteFdObTZZR0cyODgyS1k0dURTS3RQeFVEckw3bVR4SmVKc29PZ0p2MHJUTURKZNIBxgJBVV95cUxPMFVLZWExNGJaTXh4UFpBOTRKdFppUmhaMWw2Yk5PbEl4V2l3YVRmZlpQTEhDR3lzem5xVS1kRnAxVkhYaTVBZXRtOEVCM1RjaWZ0LVpFdVJtaHJCNzZWejVhakUyd0VsQzloc1ZmMm5wWFE0R2VqNlU1aURBUnZpTFY0REQ2MHhXVjVfSTBRR3VqSmlUOGdJWTR0enZ3MEJUTWhfX21sNzhOMWx3b2llVWF6eDNUZ1NnWHk0V2xkNjdqbHFuMHdmcGNDMTgxX1JIS1dGU2NoOVJJVy1aU0NWamNqUGdHdlVSUEFBOUlvejd2dkg2aExVYlVLS1RrekJLTXduQ2pZSUhLMHFEVVc2WGpKS1ZaZ3NsSm50aTAwRDM0MGJJSW80ckFhckNjS3lFdkFkbEJmNWRsbG44RWlKdk1YZFIwUQ?oc=5",
-     "source": "The Objective",
-     "published": "2026-09-06T03:25:00+00:00",
-     "id": "3131b8a8ddd4"
-    },
-    {
-     "title": "Todas las celebridades en la alfombra roja del Festival de Cine de Venecia 2026",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTVPeDZmRzZDT2h2a2RuOUJPWS1YUjBpRFVyWEtUMHAyOENBY3NjOW9oRlVBZE51blVpb3ZYMEh0QTRadGE5RGowd3RWanQ5UnFxdWFjZzg5UFg5RjZYaXFTZDFtSXU1RnJYajBTeDZKOTBPU01OczkzeU4xVWItNHJZUkI?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-05T19:25:09+00:00",
-     "id": "8ef009f39615"
     }
    ]
   },
@@ -168,6 +184,46 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Sebastián Yatra rompió el silencio sobre el escándalo de Tini Stoessel con su papá y fue contundente con su postura",
+     "link": "https://www.lanacion.com.ar/espectaculos/sebastian-yatra-rompio-el-silencio-sobre-el-escandalo-de-tini-stoessel-con-su-papa-y-fue-contundente-nid06092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-06T14:38:00+00:00",
+     "copete": "El cantante colombiano evitó profundizar sobre el conflicto familiar de su expareja en un aeropuerto; remarcó su desconocimiento sobre el tema y valoró los buenos deseos hacia los involucrados",
+     "id": "93f07bd6a710"
+    },
+    {
+     "title": "Karina Mazzocco apostó por un radical cambio de look y causó sensación con el resultado final: el video",
+     "link": "https://www.infobae.com/teleshow/2026/09/06/karina-mazzocco-aposto-por-un-radical-cambio-de-look-y-causo-sensacion-con-el-resultado-final-el-video/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-06T14:18:40+00:00",
+     "copete": "La participante de la próxima edición de MasterChef Celebrity mostró el proceso de renovar su estilo y lograr un antiguo deseo",
+     "id": "d91912c985e9"
+    },
+    {
+     "title": "El gesto de la madre de Darío Cvitanich con Ivana Figueiras que podría enfurecer a Chechu Bonelli",
+     "link": "https://www.infobae.com/teleshow/2026/09/06/el-gesto-de-la-madre-de-dario-cvitanich-con-ivana-figueiras-que-podria-enfurecer-de-chechu-bonelli/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-06T14:00:44+00:00",
+     "copete": "En pleno cumpleaños de María, el exfutbolista publicó una imagen de su mamá junto a su actual pareja que cobró otra dimensión por la relación que la modelo tenía con su exsuegra",
+     "id": "fa885766e2ed"
+    },
+    {
+     "title": "Quién toca en el Movistar Arena hoy: todos los recitales del mes de septiembre 2026 en la Argentina",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-toca-en-el-movistar-arena-hoy-todos-los-recitales-del-mes-de-septiembre-2026-en-la-argentina-nid31082026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-06T13:09:05+00:00",
+     "copete": "El microestadio ganó popularidad en los últimos años al ser el escenario de artistas nacionales e internacionales",
+     "id": "76a5e0764b89"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 6 de septiembre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-6-de-septiembre-de-2026-en-argentina_0_JwufhdPzVU.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-06T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "66bc45fbc32a"
+    },
     {
      "title": "La “Ley Taylor Swift” llegó a Brasil: las nuevas reglas que se deberán cumplir en los recitales",
      "link": "https://www.clarin.com/espectaculos/ley-taylor-swift-llego-brasil-nuevas-reglas-deberan-cumplir-recitales_0_hQgBsdwPHB.html",
@@ -223,46 +279,6 @@
      "published": "2026-09-06T03:51:16+00:00",
      "copete": "Una foto en un restaurante fue suficientes para confirmar lo que muchos esperaban tras semanas de peleas a distancia, un plantón en el altar y una eliminación sin reencuentro en Gran Hermano: Generación Dorada",
      "id": "0089a7bdbf7c"
-    },
-    {
-     "title": "Round a round: el tenso cruce de Elba Marcovecchio y Ana Rosenfeld en la mesa de Juana Viale",
-     "link": "https://www.infobae.com/teleshow/2026/09/06/round-a-roundo-el-tenso-cruce-de-elba-marcovecchio-y-ana-rosenfeld-en-la-mesa-de-juana-viale/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-06T03:32:21+00:00",
-     "copete": "Las abogadas de Mauro Icardi y Wanda Nara se enfrentan en vivo en La Noche de Mirtha, hoy conducido por su nieta",
-     "id": "18478f581288"
-    },
-    {
-     "title": "Rating: cuánto midió la inesperada competencia entre Juana Viale y Andy Kusnetzoff",
-     "link": "https://www.lanacion.com.ar/espectaculos/rating-cuanto-midio-la-inesperada-competencia-entre-juana-viale-y-andy-kusnetzoff-nid06092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-06T03:25:39+00:00",
-     "copete": "Los ciclos de Telefe y Eltrece fueron seguidos por más de 750.000 individuos según las nuevas métricas de ibope",
-     "id": "71c530d3a06c"
-    },
-    {
-     "title": "Carmen Barbieri recordó su peor anécdota en la noche porteña: \"La policía tiró la puerta abajo\"",
-     "link": "https://www.infobae.com/teleshow/2026/09/06/carmen-barbieri-recordo-su-peor-anecdota-en-la-noche-portena-la-policia-tiro-la-puerta-abajo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-06T03:08:51+00:00",
-     "copete": "La capocómica contó en PH: Podemos Hablar que una vez fue a la casa de un extraño con amigos y que la situación escaló a tal punto que tuvieron que intervenir los agentes uniformados",
-     "id": "ef8fba95dc68"
-    },
-    {
-     "title": "¿Qué atractivo tienen los casos policiales argentinos para las audiencias globales?",
-     "link": "https://www.lanacion.com.ar/espectaculos/que-atractivo-tienen-los-casos-policiales-argentinos-para-las-audiencias-globales-nid06092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-06T03:08:00+00:00",
-     "copete": "Desde Barreda a Pepita, la pistolera, las producciones locales abrevan cada vez más en los prontuarios para contar historias; el true crime es como los reality de la TV, pero, ¿funciona realmente?",
-     "id": "74c5ce7806ff"
-    },
-    {
-     "title": "La noche de Mirtha: Juana Viale reemplazó a la Chiqui, deslumbró con un look “fresco” y habló de la salud de su abuela",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-noche-de-mirtha-juana-viale-reemplazo-a-la-chiqui-deslumbro-con-un-look-fresco-y-hablo-de-la-nid06092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-06T03:05:29+00:00",
-     "copete": "Mientras la gran diva de la televisión argentina se recupera de una gripe, su nieta tomó la posta y se puso al frente de la tradicional mesa de los sábados por la noche",
-     "id": "b089c6be9b53"
     }
    ]
   },
@@ -271,13 +287,6 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
-    {
-     "title": "“La magia sobrevive”: Marilú Marini y el teatro como un lugar donde se cuentan historias a la tribu, en plena era de las pantallas",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVmdqTk03VDVZS3VEMEZNbTlsbjFCSTlVeHljcmNSZkhWSXhHVk54ZWFKU3B1cHhibEVBdmN2TzdLMXVQdS1Mbm0wdHRMRXU2eFJEUm1wQV9kU1VfNUhPUjV0LUJXLTJuaG5IUm9nM09xZXBMOTQyOHFaUmtqNllYX05hcEZUYldDc2YzN244aWQ4b001alJnZVJIRllFMGxwU1ExOTBvcW1uLXNOWnNrclFIQlZpWldjSUxjV1hQdVpKYjc0TXBWbFRNcURSTzVJM0pnbFBYVWdVa1FsdVdRdERYRFV6NzFoSC1NOExSZFVaWml0SjM4ZnVtVmE0ZjQz0gGbAkFVX3lxTE5iSTU4ekFzUkpoR01fRVVoZ3M3bU9qTUNvTHEzWjE5Z0g3bjJucEFKTER3cDQyYklHSURBcU16YVpTOEd5VUthMGpxcVFlbzFSQWVKeWl0VnJSZFZoNFZhcWJJLVJKYTlWYW1MdTVVV3MzXzFTMHNxcDVxa0IzS3B1bVVyVjRjcTNfdjlreTA0YVQteE52RndwRThVSEw2RXgxYkpHNHdIRzg5U3IyY1VLYkRyVkF6N1BTb2IyeXdEUUVicjVsLTAtY1lKdUVkUUpnaFRqTFFESGpaVkJ1U2QxV08xUmJha1ZoaG1KWFRTMlJKZW5nUkg3VkdRQ19hbThUN3ZDTFhXblFNT0dPVDhOZGlhUXZfNVhWWms?oc=5",
-     "source": "infobae",
-     "published": "2026-09-06T04:14:05+00:00",
-     "id": "40508ab92396"
-    },
     {
      "title": "\"Cervecería López\", de Villa Ortúzar, fue incorporado al listado de restaurantes \"icónicos\" de la Ciudad",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUpGdURTVExHNnZYNEF1Z1R3UnFaQ0xrZGRSLVh0TktwZWxrNVVYVUVvelhTd0ZTeGtLSUVDaFdkNElNSFk3dmNUQ0s5VE5HSkRYaVd5ZmZjZjdZanVuUGhMSnp2R0Y3Yk1hSmZnUGxYa3E5aUZaSkduZU9TUVl6ZURtc2pVTXRPQkNEa0w4eWJ4T3Q2T0N1TFJUNHQtWUhkbU93SWZTRUNxUFY2Z3AzN1ZLR3RnSWJkeFVnZmI0TzM?oc=5",
@@ -312,6 +321,13 @@
      "source": "CUISINE & VINS",
      "published": "2026-09-05T19:37:01+00:00",
      "id": "0afbbba91778"
+    },
+    {
+     "title": "Banff Mountain Film Festival 2026 llega a Buenos Aires: fechas, programación y entradas",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdk1fZW1xVVRMVWUtZ1Q5WF9lMk03SXlxdS1JTk5LcjBGU0RBaFV4Qmh4VGU2MDlsMWJ5TWlIZU1Tc2treVF3S19DT0tSVllOVk1iaWxpLTlfWjhybTlFTm1USGlOTGk4T29uSHlDcmQ1ajBuY3Y2c3YydVFUNG93TkEwZ0JnYmdDRFY0TV9yLWF6SWVyTHRVa3drQTRpM1pZVlR2UTl2dWFXSy1VTzBFbDl3MUxKSmVNc2NkM2xBMTlGcHJZRVAxUWtXWDRjeWh2cXRCVzlQY09zdEXSAeABQVVfeXFMUDJhOHdpY1B2QWJ6ckZ0aXNrcXhrYU52eEpnUGhLLVhVLWdvcGRWUHl1SnFPRk9qSEl4SkxsLWtwMXBJUFlfQ2hWYnY0LWxqaEtVbjZqLWZIM0NsSGh6Z25rQXMtY1hhM1Jwd3B4Ul93UlNpc0Z6Slc4TnppMUxXSTZLTk5jVTNwb1czX1lYSmU3VUMzODEwV0NXa0VPbkhxdVczQ0JTZXBCSVpLanJEMHotZW5SR05zczU4WGJOY0gyQk5kUUdzRWwyazJ3cS14dk04el9fYk83RnhlYzh5aEo?oc=5",
+     "source": "EscribiendoCine",
+     "published": "2026-09-05T18:33:45+00:00",
+     "id": "77ab11a01864"
     },
     {
      "title": "La Ciudad de Buenos Aires ya tiene 24 restaurantes icónicos: cuáles son y cómo se suman a la promoción",
@@ -349,84 +365,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Florida endurece los exámenes para licencias: la conducta que ahora puede tener consecuencias penales",
-     "link": "https://www.lanacion.com.ar/estados-unidos/florida/florida-endurece-los-examenes-para-licencias-cdl-la-conducta-que-ahora-puede-tener-consecuencias-nid06092026/",
+     "title": "El llanto de Colapinto tras el GP de Italia de F1: “Tenía una gran oportunidad y no la aproveché”",
+     "link": "https://www.infobae.com/deportes/2026/09/06/el-llanto-de-colapinto-tras-el-gp-de-italia-de-f1-tenia-una-gran-oportunidad-y-no-la-aproveche/",
+     "source": "Infobae",
+     "published": "2026-09-06T15:30:42+00:00",
+     "copete": "El argentino se emocionó luego de un despiste que lo relegó en la grilla. Más allá de su gran recuperación, el joven de 23 años sintió qu dejó pasar una gran chance con el equipo en Monza",
+     "id": "44c796304859"
+    },
+    {
+     "title": "Gran carrera de Franco Colapinto en el GP de Italia de F1: se recuperó tras un despiste, ganó siete lugares y terminó en el 9° lugar",
+     "link": "https://www.infobae.com/deportes/2026/09/06/franco-colapinto-largara-en-el-puesto-7-con-su-alpine-el-gran-premio-de-italia-de-la-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-09-06T15:30:15+00:00",
+     "copete": "Andrea Kimi Antonelli se quedó con un triunfo heroico frente a su gente tras largar 19° y dio un enorme paso para ganar el campeonato. El argentino llegó a estar tercero en Monza y, pese al error, se redimió con varios adelantamientos…",
+     "id": "5a906cc75a71"
+    },
+    {
+     "title": "Radiografía de la carrera de Colapinto en el GP de Italia de F1: despiste, grandes sobrepasos y otra vez en los puntos con Alpine",
+     "link": "https://www.infobae.com/deportes/2026/09/06/radiografia-de-la-carrera-de-colapinto-en-el-gp-de-italia-de-f1-despiste-grandes-sobrepasos-y-otra-vez-en-los-puntos-con-alpine/",
+     "source": "Infobae",
+     "published": "2026-09-06T15:29:14+00:00",
+     "copete": "El argentino peleó adelante en el inicio, pero se retrasó. Se recuperó y terminó noveno. Cosechó dos unidades y lleva siete fechas de 14 con esa racha",
+     "id": "03bf3d0ff87b"
+    },
+    {
+     "title": "Franco Colapinto llegó a estar tercero, pero se despistó en el Gran Premio de Italia",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-llego-a-estar-tercero-pero-se-despisto-en-el-gran-premio-de-monza-nid06092026/",
      "source": "La Nación",
-     "published": "2026-09-06T11:00:00+00:00",
-     "copete": "Florida sanciona penalmente como delito grave la ayuda no autorizada durante el examen para la licencia CDL tras el endurecimiento de la normativa.",
-     "id": "f0757c069086"
+     "published": "2026-09-06T15:26:50+00:00",
+     "copete": "El argentino perdió el control de su monoplaza de Alpine tras el choque de Leclerc que obligó a frenar la carrera por varios minutos; perdió varios lugares y cayó al puesto 16",
+     "id": "714a5acbd1f1"
     },
     {
-     "title": "MrBeast y Google mostrarán cómo usar Gemini en la producción de videos de YouTube",
-     "link": "https://www.infobae.com/tecno/2026/09/06/mrbeast-y-google-mostraran-como-usar-gemini-en-la-produccion-de-videos-de-youtube/",
+     "title": "James Heckman, Nobel de Economía: “Milei tiene una mente muy activa, fue muy estimulante hablar con él”",
+     "link": "https://www.infobae.com/economia/2026/09/06/james-heckman-nobel-de-economia-milei-tiene-una-mente-muy-activa-fue-muy-estimulante-hablar-con-el/",
      "source": "Infobae",
-     "published": "2026-09-06T11:00:00+00:00",
-     "copete": "El youtuber también mostrará en un video cómo utiliza la IA para sobrevivir a retos en entornos extremos como la jungla, el desierto y el Ártico",
-     "id": "ed9335feca61"
+     "published": "2026-09-06T15:26:15+00:00",
+     "copete": "El profesor de la Universidad de Chicago participó en el evento “Vientos de Cambio”, del que destacó el optimismo y la orientación del gobierno argentino, pero también la falta de detalles y de programas concretos. Fue distinguido con el…",
+     "id": "39674800f590"
     },
     {
-     "title": "Tomás Etcheverry va por los cuartos de final del US Open ante Alex Michelsen: hora y cómo verlo en vivo",
-     "link": "https://www.infobae.com/deportes/2026/09/06/tomas-etcheverry-va-por-los-cuartos-de-final-del-us-open-ante-alex-michelsen-hora-y-como-verlo-en-vivo/",
-     "source": "Infobae",
-     "published": "2026-09-06T10:55:52+00:00",
-     "copete": "El argentino, que viene de superar por primera vez la tercera ronda en Nueva York tras vencer a Mariano Navone, buscará meterse entre los 8 mejores de un Grand Slam por segunda vez en su carrera. Su rival será el estadounidense, de 22 años…",
-     "id": "eb34d3da3e94"
-    },
-    {
-     "title": "El detrás de escena del histórico US Open que ganó Gabriela Sabatini: la estrategia contra Steffi Graf y cómo ayudó a cambiar su carrera",
-     "link": "https://www.infobae.com/deportes/2026/09/06/el-detras-de-escena-del-historico-us-open-que-gano-gabriela-sabatini-la-estrategia-contra-steffi-graf-y-como-ayudo-a-cambiar-su-carrera/",
-     "source": "Infobae",
-     "published": "2026-09-06T10:54:49+00:00",
-     "copete": "En una charla con Infobae, el entrenador brasileño Carlos Kirmayr reconstruyó el camino hacia el único Grand Slam de la carrera de la argentina hace 36 años",
-     "id": "5f75bcd368fc"
+     "title": "Cómo le fue a Franco Colapinto en el GP de Italia de la Fórmula 1",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/como-le-fue-a-franco-colapinto-en-el-gp-de-italia-de-la-formula-1-nid06092026/",
+     "source": "La Nación",
+     "published": "2026-09-06T15:19:51+00:00",
+     "copete": "El argentino largó séptimo y llegó a estar tercero, pero se despistó y tuvo que recuperar posiciones desde muy atrás",
+     "id": "8df33941fd64"
     },
     {
      "title": "Multas millonarias, arrestos y trabajo comunitario: cómo se prepara una provincia para enfrentar el Súper Niño",
      "link": "https://www.lanacion.com.ar/sociedad/multas-millonarias-arrestos-y-trabajo-comunitario-como-se-prepara-una-provincia-para-enfrentar-el-nid06092026/",
      "source": "La Nación",
-     "published": "2026-09-06T10:52:31+00:00",
+     "published": "2026-09-06T15:16:12+00:00",
      "copete": "Mendoza inició una campaña de limpieza de cauces de riego, acequias y colectores para prevenir los eventiales desbordes que generarían el fenómeno climático",
      "id": "17b568c09876"
     },
     {
-     "title": "Franco Colapinto largará en el puesto 7 con su Alpine el Gran Premio de Italia de la Fórmula 1: hora, TV y todo lo que hay que saber",
-     "link": "https://www.infobae.com/deportes/2026/09/06/franco-colapinto-largara-en-el-puesto-7-con-su-alpine-el-gran-premio-de-italia-de-la-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
-     "source": "Infobae",
-     "published": "2026-09-06T10:47:11+00:00",
-     "copete": "El piloto argentino logró el octavo mejor tiempo en la clasificación final, pero se benefició por la sanción a Antonelli. Pierre Gasly saldrá desde la pole. Transmiten Disney+ y Fox Sports",
-     "id": "5a906cc75a71"
-    },
-    {
-     "title": "Llegaron como inmigrantes y dejaron sus trabajos para perseguir su sueño: hoy tienen más de 80 obras en EE.UU.",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/llegaron-como-inmigrantes-y-dejaron-sus-trabajos-para-perseguir-su-sueno-hoy-tienen-mas-de-80-obras-nid06092026/",
+     "title": "Zelensky se reunió con los enviados de Trump y afirmó que “la paz es necesaria”",
+     "link": "https://www.lanacion.com.ar/el-mundo/zelensky-se-reunio-con-los-enviados-de-trump-y-afirmo-que-la-paz-es-necesaria-nid06092026/",
      "source": "La Nación",
-     "published": "2026-09-06T10:36:00+00:00",
-     "copete": "Conoce a Isaac Tapia y Rico Alvarez, dos muralistas inmigrantes que dejaron empleos estables y hoy llevan su arte a distintos puntos de EE.UU.",
-     "id": "3c0cd74c8f6d"
+     "published": "2026-09-06T15:15:09+00:00",
+     "copete": "El presidente ucraniano recibió a la comitiva estadounidense; aseguró que su objetivo es “acelerar el fin de la guerra”",
+     "id": "57d6f9889b6b"
     },
     {
-     "title": "Ethereum hoy: cotización y precio del ETH este domingo 6 de septiembre de 2026",
-     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-domingo-6-de-septiembre-de-2026_0_AZKVWaMvjE.html",
+     "title": "Un diputado denunció que una petrolera británica sancionada por operar en Malvinas accedió al RIGI con otro nombre",
+     "link": "https://www.clarin.com/politica/diputado-denuncio-petrolera-britanica-sancionada-operar-malvinas-accedio-rigi-nombre_0_pA0TIb5JUv.html",
      "source": "Clarín",
-     "published": "2026-09-06T10:30:02+00:00",
-     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
-     "id": "75934d4ef804"
+     "published": "2026-09-06T14:56:26+00:00",
+     "copete": "Se trata de Premier Oil PLC, que fue inhabilitada en la Argentina hasta 2028. Maximiliano Ferraro denunció que la compañía cambió de denominación y hoy participa con el 15% en Southern Energy, al que le aprobaron un RIGI para desarrollar y…",
+     "id": "ee4b2590440a"
     },
     {
-     "title": "Montañismo: 4 testimonios de los que se animaron a hacer cumbre en las picos más famosos del mundo",
-     "link": "https://www.lanacion.com.ar/salud/montanismo-4-testimonios-de-los-que-se-animaron-a-hacer-cumbre-en-las-montanas-mas-famosas-del-mundo-nid06092026/",
-     "source": "La Nación",
-     "published": "2026-09-06T10:30:00+00:00",
-     "copete": "Estos deportistas encontraron en la altura una pasión que impulsa sus vidas; las recomendaciones para iniciarse en una actividad que implica superación, tenacidad y perseverancia",
-     "id": "383c3f024bce"
-    },
-    {
-     "title": "Real hoy: precio y a cuánto cotiza este domingo 6 de septiembre de 2026",
-     "link": "https://www.clarin.com/economia/real-hoy-precio-y-a-cuanto-cotiza-este-domingo-6-de-septiembre-de-2026_0_WvzthRclxr.html",
+     "title": "Subcampeona en Miss Mundo 2026: quién es Elisabeth Reynés, la española que combina belleza, propósitos y juventud",
+     "link": "https://www.clarin.com/internacional/subcampeona-miss-mundo-2026-elisabeth-reynes-espanola-combina-belleza-propositos-juventud_0_amAFpF1zLj.html",
      "source": "Clarín",
-     "published": "2026-09-06T10:25:03+00:00",
-     "copete": "Conocé la variación del real para la compra y venta. La cotización de la divisa de Brasil según el Banco Nación.",
-     "id": "75506e769aef"
+     "published": "2026-09-06T14:51:07+00:00",
+     "copete": "La representante de 22 años llegó a Vietnam con un perfil discreto y logró una histórica actuación en el célebre certamen. Su recorrido en la reciente edición derivó en tres hitos inéditos para su país.",
+     "id": "e93ce803671d"
     }
    ]
   },
@@ -436,6 +452,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Los aciertos y errores de 3 mapas que usamos hoy (y por qué el aprobado ahora por la ONU tampoco representa correctamente al mundo)",
+     "link": "https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-06T15:27:51+00:00",
+     "copete": "Ahora que la ONU ha aprobado un nuevo mapa, hacemos un repaso de otros que se han utilizado a lo largo de la historia.",
+     "id": "4ea5f49e6146"
+    },
+    {
+     "title": "Pattaya, la aldea de pescadores en Tailandia que la guerra de Vietnam convirtió en \"la ciudad del pecado\"",
+     "link": "https://www.bbc.com/mundo/articles/cx2zy390ewvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-06T15:02:08+00:00",
+     "copete": "La llegada a Pattaya de casi 5.000 militares estadounidenses revive la historia de la conocida como \"ciudad del pecado\", cuya industria del ocio nocturno para adultos se remonta a la guerra de Vietnam.",
+     "id": "b19cab8a5288"
+    },
+    {
+     "title": "La participación se dispara en las elecciones regionales alemanas donde la extrema derecha aspira a gobernar",
+     "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html",
+     "source": "El País Internacional",
+     "published": "2026-09-06T12:22:41+00:00",
+     "copete": "Un 34% de los convocados a las urnas en Sajonia-Anhalt han votado a mediodía, frente al 22% de los comicios de 2021",
+     "id": "4cbf6de3a7e3"
+    },
+    {
+     "title": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
+     "link": "https://www.bbc.com/mundo/articles/cpw9lgvenkgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-06T12:15:53+00:00",
+     "copete": "El matemático Jared Duker Lichtman de la Universidad de Stanford recibió un inesperado correo con la respuesta al problema 1196 de Erdős, un enigma con décadas de antigüedad en el que estaba trabajando.",
+     "id": "bd541af88287"
+    },
+    {
+     "title": "Por qué Keiko Fujimori ha declarado el estado de emergencia en 5 cárceles peruanas y qué busca con esta medida",
+     "link": "https://www.bbc.com/mundo/articles/cvgy90jpg97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-06T11:41:35+00:00",
+     "copete": "Las prisiones seleccionadas por las autoridades albergan a numerosos cabecillas y miembros de organizaciones criminales, que desde allí coordinan actividades delictivas en el exterior.",
+     "id": "d17ccb5e06a7"
+    },
+    {
+     "title": "Los enviados de Trump se reúnen con Zelenski en Kiev para intentar relanzar las negociaciones de paz",
+     "link": "https://elpais.com/internacional/2026-09-06/los-enviados-de-trump-se-reunen-con-zelenski-para-intentar-relanzar-las-negociaciones-de-paz.html",
+     "source": "El País Internacional",
+     "published": "2026-09-06T11:19:35+00:00",
+     "copete": "Jared Kushner y Steve Witkoff fueron recibidos el sábado por Vladímir Putin en Moscú en un momento en que se incrementan los ataques aéreos mútuos",
+     "id": "253df8a3c9ee"
+    },
+    {
      "title": "Al menos cuatro muertos en bombardeos israelíes en el sur del Líbano",
      "link": "https://elpais.com/internacional/2026-09-06/israel-ataca-de-nuevo-el-sur-del-libano-y-acusa-a-hezbola-de-lanzar-drones-contra-sus-soldados.html",
      "source": "El País Internacional",
@@ -444,60 +508,12 @@
      "id": "444e33e8d77a"
     },
     {
-     "title": "La \"nueva generación sangrienta de mujeres\" que recurre al terror para contar América Latina",
-     "link": "https://www.bbc.com/mundo/articles/c1l6gr8zm9lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-06T10:01:16+00:00",
-     "copete": "La escritora cubana Elaine Vilar Madruga recoge en su última novela, \"La piel hembra\", sus obsesiones: la memoria, la violencia y el cuerpo como lugar de conflicto.",
-     "id": "d6e38f4ee676"
-    },
-    {
-     "title": "Una doble explosión en un cuartel militar de Bolivia deja al menos 3 muertos y 81 heridos",
-     "link": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-06T09:00:23+00:00",
-     "copete": "Mientras continúa la búsqueda de desaparecidos, las autoridades advierten sobre el riesgo de nuevas detonaciones y temen que la cifra de fallecidos siga aumentando en Viacha.",
-     "id": "35e1d4211b75"
-    },
-    {
-     "title": "Por qué nos salen úlceras en la boca y qué puedes hacer para aliviar sus síntomas",
-     "link": "https://www.bbc.com/mundo/articles/cp8djeyrpd8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-06T08:44:08+00:00",
-     "copete": "Estas pequeñas llagas pueden ser extremadamente dolorosas. Te contamos por qué pueden aparecer y qué hacer para reducir el dolor que provocan y acortar su duración.",
-     "id": "34f2615b4cce"
-    },
-    {
-     "title": "Las Malvinas: la herida abierta que une a los argentinos",
-     "link": "https://elpais.com/argentina/2026-09-06/las-malvinas-la-herida-abierta-que-une-a-los-argentinos.html",
+     "title": "México ante la penúltima crueldad",
+     "link": "https://elpais.com/mexico/2026-09-06/mexico-ante-la-penultima-crueldad.html",
      "source": "El País Internacional",
      "published": "2026-09-06T04:00:00+00:00",
-     "copete": "Las islas ocupadas por Gran Bretaña desde 1833 son un símbolo que toca una fibra muy sensible en el país sudamericano",
-     "id": "0ae63b85c7d2"
-    },
-    {
-     "title": "Escalada de amenazas en las fronteras de Europa",
-     "link": "https://elpais.com/internacional/2026-09-06/escalada-de-amenazas-en-las-fronteras-de-europa.html",
-     "source": "El País Internacional",
-     "published": "2026-09-06T03:30:01+00:00",
-     "copete": "La más que probable intensificación del conflicto bélico en Ucrania en otoño se suma a la guerra híbrida que ha emprendido Rusia contra la Unión Europea",
-     "id": "a399a3ecaf16"
-    },
-    {
-     "title": "Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?\"",
-     "link": "https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html",
-     "source": "El País Internacional",
-     "published": "2026-09-06T03:30:01+00:00",
-     "copete": "Sancionada por Estados Unidos, la magistrada considera que el TPI afronta la mayor crisis desde su creación pero cree que la búsqueda de justicia es una responsabilidad compartida y un derecho de las víctimas",
-     "id": "d47fe171cc42"
-    },
-    {
-     "title": "\"Los ilegales\": cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
-     "link": "https://www.bbc.com/mundo/articles/ce8kl8yd76yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-06T03:28:19+00:00",
-     "copete": "El programa clandestino empezó antes del Revolución Rusa y llega hasta nuestros días, con Putin como gran valedor. Fue revelado en toda su dimensión en 2010 con el arresto de espías \"durmientes\" en EE.UU. Y ha tenido una larga relación con…",
-     "id": "b8d12d571b7c"
+     "copete": "El asesinato múltiple de Atizapán, que dejó cuatro víctimas, entre ellas dos mujeres y una niña, muestra de nuevo el horror de un país que cuenta decenas de atrocidades al año",
+     "id": "ddba54393587"
     }
    ]
   }
@@ -511,11 +527,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
