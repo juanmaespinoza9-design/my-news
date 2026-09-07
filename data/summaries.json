@@ -1,18 +1,9 @@
 {
-  "generated_at": "2026-09-07T10:08:06Z",
+  "generated_at": "2026-09-07T22:08:17Z",
   "summaries": {
-    "cd78474ec544": {
-      "resumen": "Perfil de OncLive a Jill Burke, enfermera especializada (nurse practitioner) en oncología, sobre su rol en el cuidado de pacientes con cáncer. Interesa como mirada desde el equipo de enfermería más que por datos de un estudio puntual.",
-      "destacado": false
-    },
     "0b4e20100148": {
       "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un esquema combinado con camizestrant, un inhibidor oral del receptor de estrógeno de nueva generación, para cáncer de mama localmente avanzado o metastásico. Relevante porque amplía las opciones de tratamiento hormonal dirigido en un subtipo muy frecuente de la enfermedad.",
       "destacado": false
-    },
-    "0d4622fc0ee7": {
-      "resumen": "The ASCO Post reporta un estudio sobre el uso de inteligencia artificial (IA) aplicada a mamografías para detectar afecciones cardiovasculares frecuentes. Interesa porque abre la puerta a aprovechar un estudio ya indicado para el cribado de cáncer de mama como herramienta de detección cardiovascular oportunista.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio que aplica un algoritmo de inteligencia artificial (IA) sobre mamografías para identificar hallazgos cardiovasculares; el título no especifica si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Mujeres sometidas a mamografía de cribado o diagnóstica, presumiblemente sin diagnóstico cardiovascular previo conocido.\nIntervención: Aplicación de un modelo de inteligencia artificial sobre las imágenes mamográficas para detectar signos de afecciones cardiovasculares comunes (por ejemplo, calcificación arterial), sin comparador farmacológico.\nResultados: El título no aporta cifras de sensibilidad, especificidad ni de concordancia con el diagnóstico cardiovascular de referencia.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la validación externa del algoritmo ni el impacto clínico real de detectar estos hallazgos de forma oportunista.\nMensaje: Si se valida, la IA aplicada a mamografías podría sumar un cribado cardiovascular oportunista sin estudios adicionales, aprovechando una práctica ya instalada en oncología.\nNota: análisis sin acceso al abstract."
     },
     "81cba7ef8c81": {
       "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
@@ -41,66 +32,66 @@
     "2f56aa2ebc1c": {
       "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
     },
-    "e699d0cb5889": {
-      "resumen": "Página/12 repasa la programación del Festival Internacional de Buenos Aires."
-    },
-    "bb963d75de7a": {
-      "resumen": "El Complejo Teatral de Buenos Aires propone un recorrido por artistas que combinan la actuación con la escritura."
-    },
-    "0afbbba91778": {
-      "resumen": "Ocho restaurantes porteños se suman al mapa de locales gastronómicos icónicos de la Ciudad de Buenos Aires."
-    },
     "3638cbbcc061": {
       "resumen": "OncLive presenta su resumen semanal en video \"Five Under 5\" con los cinco temas más comentados en oncología durante la semana del 31 de agosto. Sirve como panorama rápido de la actualidad del campo, sin ser en sí mismo un estudio.",
       "destacado": false
-    },
-    "1aa880f0e248": {
-      "resumen": "OncLive reporta que el esquema CARiBOU logró respuestas metabólicas completas (evaluadas por tomografía por emisión de positrones, PET) en pacientes con linfoma de células del manto (un linfoma no Hodgkin agresivo) tratados en primera línea. Interesa porque una respuesta metabólica completa temprana suele asociarse a mejor pronóstico a largo plazo.",
-      "destacado": false,
-      "analisis": "Diseño: El título indica un estudio (posiblemente de fase temprana o datos presentados en un congreso) que evalúa el esquema combinado \"CARiBOU\"; no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con linfoma de células del manto (linfoma no Hodgkin de células B) en primera línea de tratamiento.\nIntervención: Esquema combinado denominado CARiBOU (su composición exacta no surge del título), sin comparador especificado.\nResultados: El título reporta respuestas metabólicas completas por PET como hallazgo principal, pero no hay tasa exacta, supervivencia libre de progresión ni supervivencia global disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni si los datos provienen de un ensayo controlado o de una serie presentada en congreso.\nMensaje: Si se confirma con datos maduros, un régimen que logra respuestas metabólicas completas tempranas en primera línea podría mejorar el control a largo plazo del linfoma de células del manto, aunque por ahora es evidencia preliminar.\nNota: análisis sin acceso al abstract."
-    },
-    "4c5b5faa2d7e": {
-      "resumen": "Vogue México señala el regreso de las polleras fluidas estilo años 90, combinadas con botines, como tendencia para septiembre 2026."
-    },
-    "7bc3068b8151": {
-      "resumen": "Vogue México repasa \"Primetime\", la película exhibida en el Festival de Venecia que podría darle a Robert Pattinson su primera nominación al Oscar."
-    },
-    "ab3fdcbdde34": {
-      "resumen": "La Cervecería López, de Villa Ortúzar, se suma al listado de restaurantes declarados \"icónicos\" por la Ciudad de Buenos Aires."
     },
     "8d581b2ed8a0": {
       "resumen": "The ASCO Post recoge la perspectiva de la especialista Christine Lovly sobre selpercatinib adyuvante (un inhibidor oral dirigido a fusiones del gen RET) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano con fusión de RET. Interesa porque el tratamiento adyuvante dirigido podría reducir el riesgo de recaída tras la cirugía en un subgrupo molecular específico, aunque se trata de un comentario de experta y no del reporte de un estudio nuevo.",
       "destacado": false
     },
-    "f9e083dfc96d": {
-      "resumen": "Ensayo clínico de fase 3 publicado en JAMA Oncology que evalúa anbenitamab y HB1801 (dos fármacos dirigidos contra ERBB2, también conocido como HER2) como tratamiento neoadyuvante, es decir, previo a la cirugía, en cáncer de mama ERBB2-positivo. Interesa porque busca ampliar las opciones de terapia dirigida anti-HER2 en la etapa previa a la cirugía.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3, según indica el título; no se dispone de datos sobre cegamiento, número de centros ni tamaño muestral exacto sin el abstract.\nPoblación: Pacientes con cáncer de mama ERBB2-positivo (antes denominado HER2-positivo) candidatas a tratamiento neoadyuvante, es decir, previo a la cirugía.\nIntervención: Combinación de anbenitamab y HB1801, dos agentes dirigidos contra ERBB2/HER2, en esquema neoadyuvante; el comparador no surge del título (posiblemente el estándar con trastuzumab y/o pertuzumab u otro esquema anti-HER2).\nResultados: El título no aporta cifras de tasa de respuesta patológica completa, supervivencia libre de eventos ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el comparador exacto, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si confirma eficacia y seguridad, esta combinación podría sumar una alternativa de terapia dirigida anti-HER2 en el escenario neoadyuvante del cáncer de mama ERBB2-positivo.\nNota: análisis sin acceso al abstract."
-    },
-    "f91084caacab": {
-      "resumen": "Relato en primera persona publicado en JAMA Oncology de una genetista especializada en cáncer que recibió el diagnóstico incidental de una variante en el gen SDHA (asociado a tumores neuroendocrinos y paragangliomas) y reflexiona sobre la experiencia desde su doble rol de médica y paciente. Interesa como mirada humana sobre los hallazgos incidentales en genética oncológica, más que por datos de un estudio.",
-      "destacado": false
-    },
-    "4c0f816b4668": {
-      "resumen": "La Razón anticipa el regreso de los zapatos blancos, un calzado que las generaciones mayores solían rechazar, como tendencia fuerte para el otoño 2026."
-    },
-    "567cfc14b06c": {
-      "resumen": "Cadena SER repasa los cortes de pelo que se imponen para la vuelta a clases y el trabajo, del clásico bob al wolfcut."
-    },
-    "13e80380dc2d": {
-      "resumen": "Telediario cuenta cómo la estética minimalista da paso a una tendencia viral que suma gemas, cristales y color a la moda y a los objetos cotidianos."
-    },
-    "f1a830f88223": {
-      "resumen": "Canal26 señala que los portarretratos sobre los muebles quedaron atrás y da paso a una decoración más simple y elegante en 2026."
-    },
     "5842c6c566bb": {
       "resumen": "El Destape anuncia una nueva edición del Festival Internacional de Buenos Aires, con artistas internacionales de teatro, danza y música."
     },
-    "77e81b53c575": {
-      "resumen": "Indie Hoy adelanta la llegada a la Argentina del pianista y compositor italiano Ludovico Einaudi."
-    },
     "3036d01800f1": {
       "resumen": "El restaurante porteño Puerto Cristal fue distinguido como local icónico de la Ciudad de Buenos Aires."
+    },
+    "fcee7795b9e2": {
+      "resumen": "OncLive informa sobre datos de calidad de vida relacionada con la salud en pacientes con mieloma múltiple en recaída o refractario tratados con linvoseltamab, un anticuerpo biespecífico que se une al BCMA (antígeno de maduración de células B) de las células tumorales y al CD3 de los linfocitos T. Interesa porque, además de la eficacia antitumoral, la tolerancia y el impacto en la calidad de vida son claves para sostener este tipo de terapias en el tiempo.",
+      "destacado": false,
+      "analisis": "Diseño: El título indica un análisis de calidad de vida relacionada con la salud dentro de un estudio clínico con linvoseltamab; no se especifica la fase, el diseño (aleatorizado o de un solo brazo), el número de centros ni el tamaño muestral.\nPoblación: Pacientes adultos con mieloma múltiple en recaída o refractario, es decir que progresó tras al menos una línea previa de tratamiento o no respondió a la terapia.\nIntervención: Linvoseltamab, anticuerpo biespecífico BCMA×CD3, sin comparador especificado en el título.\nResultados: El título no aporta puntajes ni cuestionarios específicos de calidad de vida, ni valores estadísticos.\nLimitaciones: Sin el abstract no se puede confirmar el cuestionario de calidad de vida utilizado, el tiempo de seguimiento ni si los datos provienen de un ensayo pivotal o de una extensión.\nMensaje: Si se confirma una mejora sostenida de la calidad de vida, refuerza el perfil de tolerabilidad de linvoseltamab como opción en mieloma múltiple muy pretratado.\nNota: análisis sin acceso al abstract."
+    },
+    "93a9141408a6": {
+      "resumen": "OncLive reporta un estudio que compara una única dosis de G-CSF (factor estimulante de colonias de granulocitos) pegilado frente al esquema clásico de G-CSF diario para movilizar células madre en donantes de trasplante alogénico. Relevante porque simplificar la movilización sin perder eficacia mejoraría la experiencia del donante sano.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio comparativo, posiblemente aleatorizado, entre un esquema de dosis única de G-CSF pegilado y el esquema estándar de G-CSF diario; no se precisan en el título la fase, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Donantes sanos de células progenitoras hematopoyéticas para trasplante alogénico.\nIntervención: G-CSF pegilado en dosis única versus G-CSF de acción corta administrado a diario, ambos para movilizar células madre hacia la sangre periférica.\nResultados: El título indica equivalencia (\"matches\") en la movilización, pero no brinda cifras de células CD34+ recolectadas, tasas de éxito de la aféresis ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el margen de no inferioridad, los eventos adversos comparados entre esquemas ni la representatividad de la población de donantes.\nMensaje: De confirmarse la equivalencia, una dosis única de G-CSF pegilado podría simplificar el proceso para el donante alogénico, con menos inyecciones y visitas.\nNota: análisis sin acceso al abstract."
+    },
+    "30dd7de350c2": {
+      "resumen": "The ASCO Post recoge la palabra del oncólogo Xin Gao sobre LY4101174, una terapia en investigación para el carcinoma urotelial (cáncer de vejiga y de las vías urinarias) avanzado o metastásico. Interesa como mirada de un especialista sobre un fármaco en desarrollo para una enfermedad con opciones limitadas tras la quimioterapia y la inmunoterapia, aunque se trata de un comentario y no del reporte de un estudio.",
+      "destacado": false
+    },
+    "affd1af49f25": {
+      "resumen": "Vogue México repasa el look de la princesa Leonor de España, heredera al trono, en su primer día de clases universitarias: zapatillas de estilo japonés combinadas con jeans arremangados."
+    },
+    "50be8bd8d79b": {
+      "resumen": "Vogue México destaca cómo la actriz Jessica Alba combinó sandalias planas de doble hebilla con shorts de seda, en lo que la revista señala como el look más elegante de septiembre."
+    },
+    "78ce23e71085": {
+      "resumen": "Vogue México cuenta que la actriz Jennifer Aniston ya usó los zapatos de tacón negros que, según la revista, serán tendencia este otoño boreal 2026."
+    },
+    "98ea0a790e85": {
+      "resumen": "lagaceta.com.ar repasa cinco tendencias que, según la nota, van a dominar la moda de la próxima temporada primavera-verano: de los drapeados al volumen."
+    },
+    "e4b35b03f1a8": {
+      "resumen": "Revista Para Ti analiza el look de la conductora y actriz Flor de la V y cómo, según la nota, anticipa dos tendencias clave de la temporada que se viene."
+    },
+    "15fd9afc25d9": {
+      "resumen": "Harper's Bazaar repasa los modelos de zapatos de Zara, H&M y Stradivarius que reemplazarían a las clásicas bailarinas como tendencia de calzado este otoño."
+    },
+    "04f4a54a7f87": {
+      "resumen": "AM 1350 Radio Buenos Aires cuenta que la cantante española Bebe vuelve a presentarse en la Argentina a veinte años de su debut en el país."
+    },
+    "d8d155232af7": {
+      "resumen": "Ámbito repasa el regreso del género de la revista porteña a Buenos Aires, con Carmen Barbieri, Álvaro Navia y Gabriel Villalba encabezando el elenco."
+    },
+    "949d5bbf5e03": {
+      "resumen": "El Complejo Teatral de Buenos Aires anuncia el inicio de los ensayos de 'Esperando a Godot', de Samuel Beckett, que se presentará en el Teatro Alvear."
+    },
+    "00fc28f49e98": {
+      "resumen": "Ámbito propone un recorrido por restaurantes porteños que suman cavas de vino como atractivo diferencial a la propuesta gastronómica."
+    },
+    "ba3961a761a1": {
+      "resumen": "iProfesional repasa los ocho restaurantes de Buenos Aires que recibieron la distinción de 'Icónicos' por parte del Gobierno porteño."
     }
   }
 }
