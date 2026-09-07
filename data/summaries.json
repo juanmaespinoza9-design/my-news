@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:08:26Z",
+  "generated_at": "2026-09-07T10:08:06Z",
   "summaries": {
     "cd78474ec544": {
       "resumen": "Perfil de OncLive a Jill Burke, enfermera especializada (nurse practitioner) en oncología, sobre su rol en el cuidado de pacientes con cáncer. Interesa como mirada desde el equipo de enfermería más que por datos de un estudio puntual.",
@@ -13,11 +13,6 @@
       "resumen": "The ASCO Post reporta un estudio sobre el uso de inteligencia artificial (IA) aplicada a mamografías para detectar afecciones cardiovasculares frecuentes. Interesa porque abre la puerta a aprovechar un estudio ya indicado para el cribado de cáncer de mama como herramienta de detección cardiovascular oportunista.",
       "destacado": false,
       "analisis": "Diseño: Estudio que aplica un algoritmo de inteligencia artificial (IA) sobre mamografías para identificar hallazgos cardiovasculares; el título no especifica si es retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Mujeres sometidas a mamografía de cribado o diagnóstica, presumiblemente sin diagnóstico cardiovascular previo conocido.\nIntervención: Aplicación de un modelo de inteligencia artificial sobre las imágenes mamográficas para detectar signos de afecciones cardiovasculares comunes (por ejemplo, calcificación arterial), sin comparador farmacológico.\nResultados: El título no aporta cifras de sensibilidad, especificidad ni de concordancia con el diagnóstico cardiovascular de referencia.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la validación externa del algoritmo ni el impacto clínico real de detectar estos hallazgos de forma oportunista.\nMensaje: Si se valida, la IA aplicada a mamografías podría sumar un cribado cardiovascular oportunista sin estudios adicionales, aprovechando una práctica ya instalada en oncología.\nNota: análisis sin acceso al abstract."
-    },
-    "b0571edd1e16": {
-      "resumen": "The ASCO Post cubre un estudio sobre factores de riesgo cardiovascular en pacientes con cáncer de próstata que podrían ayudar a identificar a quiénes se beneficiarían de un seguimiento cardiológico adicional. Interesa porque la terapia de privación androgénica se asocia a mayor riesgo cardiovascular y una mejor estratificación podría prevenir eventos.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de cohorte que evalúa factores de riesgo cardiovascular en pacientes con cáncer de próstata; el título no precisa si es retrospectivo o prospectivo, el número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata, presumiblemente bajo terapia de privación androgénica u otro tratamiento con impacto cardiovascular conocido.\nIntervención: No aplica en sentido terapéutico; se trata de un análisis de factores de riesgo para identificar candidatos a cuidado cardiológico adicional, no de una intervención farmacológica.\nResultados: El título no aporta cifras de incidencia de eventos cardiovasculares, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte, la duración del seguimiento ni si el modelo de riesgo fue validado externamente.\nMensaje: Identificar mejor a los pacientes con cáncer de próstata en riesgo cardiovascular podría justificar la derivación proactiva a cardiología, sumando cuidado cardio-oncológico a la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
     "81cba7ef8c81": {
       "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
@@ -46,17 +41,8 @@
     "2f56aa2ebc1c": {
       "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
     },
-    "b86ec0100d5d": {
-      "resumen": "La Ciudad de Buenos Aires ya distinguió a 24 restaurantes icónicos y habilitó a otros locales a sumarse a esa promoción."
-    },
-    "40508ab92396": {
-      "resumen": "La actriz Marilú Marini reflexiona sobre el teatro como un espacio para contar historias a la comunidad, frente al avance de las pantallas."
-    },
     "e699d0cb5889": {
       "resumen": "Página/12 repasa la programación del Festival Internacional de Buenos Aires."
-    },
-    "64e92f6e1693": {
-      "resumen": "Se dieron a conocer los nominados a la 16ª edición de los Premios Hugo, que distinguen al teatro musical porteño."
     },
     "bb963d75de7a": {
       "resumen": "El Complejo Teatral de Buenos Aires propone un recorrido por artistas que combinan la actuación con la escritura."
@@ -73,36 +59,48 @@
       "destacado": false,
       "analisis": "Diseño: El título indica un estudio (posiblemente de fase temprana o datos presentados en un congreso) que evalúa el esquema combinado \"CARiBOU\"; no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con linfoma de células del manto (linfoma no Hodgkin de células B) en primera línea de tratamiento.\nIntervención: Esquema combinado denominado CARiBOU (su composición exacta no surge del título), sin comparador especificado.\nResultados: El título reporta respuestas metabólicas completas por PET como hallazgo principal, pero no hay tasa exacta, supervivencia libre de progresión ni supervivencia global disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni si los datos provienen de un ensayo controlado o de una serie presentada en congreso.\nMensaje: Si se confirma con datos maduros, un régimen que logra respuestas metabólicas completas tempranas en primera línea podría mejorar el control a largo plazo del linfoma de células del manto, aunque por ahora es evidencia preliminar.\nNota: análisis sin acceso al abstract."
     },
-    "acb239ddd145": {
-      "resumen": "The New England Journal of Medicine publica un ensayo que compara agentes hipometilantes (fármacos que actúan sobre la regulación epigenética del ADN, como azacitidina o decitabina) combinados con venetoclax (un inhibidor de la proteína BCL-2) frente a la quimioterapia intensiva convencional en pacientes con leucemia mieloide aguda (LMA). Interesa porque define si un esquema menos tóxico puede reemplazar a la quimioterapia intensiva en ciertos pacientes.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un ensayo clínico comparativo entre dos estrategias de tratamiento, típico de un artículo original en The New England Journal of Medicine; no se dispone del número de centros, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), presumiblemente aptos para quimioterapia intensiva según el diseño comparativo planteado.\nIntervención: Agentes hipometilantes (por ejemplo, azacitidina) combinados con venetoclax (inhibidor de BCL-2) frente a quimioterapia intensiva convencional como comparador.\nResultados: El título no aporta cifras de supervivencia global, supervivencia libre de eventos, tasa de remisión completa ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad relativo de cada brazo ni la madurez del seguimiento.\nMensaje: Si el esquema con agentes hipometilantes más venetoclax resulta no inferior o superior a la quimioterapia intensiva, podría ofrecer una alternativa menos tóxica para tratar la LMA, ampliando las opciones más allá de la quimioterapia clásica.\nNota: análisis sin acceso al abstract."
-    },
-    "6027d233d7a6": {
-      "resumen": "The New England Journal of Medicine presenta un estudio sobre daraxonrasib, un inhibidor pan-RAS oral en investigación, en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS que ya recibieron tratamiento previo. Interesa porque las mutaciones de RAS son frecuentes en cáncer de pulmón y durante mucho tiempo se consideraron difíciles de abordar farmacológicamente.",
-      "destacado": false,
-      "analisis": "Diseño: El título indica un estudio clínico sobre un fármaco en investigación; no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS, previamente tratados (al menos una línea de tratamiento previa).\nIntervención: Daraxonrasib (inhibidor pan-RAS oral en investigación), sin comparador especificado en el título, posiblemente un estudio de un solo brazo.\nResultados: El título no aporta cifras de tasa de respuesta objetiva, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni la magnitud del beneficio clínico.\nMensaje: Si los resultados son sólidos, daraxonrasib podría sumar una opción dirigida para el cáncer de pulmón con mutación de RAS pretratado, un escenario con opciones limitadas más allá de la quimioterapia y la inmunoterapia.\nNota: análisis sin acceso al abstract."
-    },
-    "b6ad9f431bd0": {
-      "resumen": "Canal26 repasa por qué los repasadores de cocina estampados quedaron atrás y qué diseño más simple los reemplaza en la temporada 2026."
-    },
     "4c5b5faa2d7e": {
       "resumen": "Vogue México señala el regreso de las polleras fluidas estilo años 90, combinadas con botines, como tendencia para septiembre 2026."
-    },
-    "8dde854b733a": {
-      "resumen": "Vogue México cuenta que las blusas largas de los años 2000 volvieron y ahora se combinan con jeans acampanados y zapatos de taco."
     },
     "7bc3068b8151": {
       "resumen": "Vogue México repasa \"Primetime\", la película exhibida en el Festival de Venecia que podría darle a Robert Pattinson su primera nominación al Oscar."
     },
-    "7645d03a0a72": {
-      "resumen": "OkDiario cuenta cómo Kylie Jenner retoma la estética de cristales que hicieron furor con Britney Spears y Paris Hilton en los 2000."
-    },
     "ab3fdcbdde34": {
       "resumen": "La Cervecería López, de Villa Ortúzar, se suma al listado de restaurantes declarados \"icónicos\" por la Ciudad de Buenos Aires."
     },
-    "703cbb71262a": {
-      "resumen": "Susan Sarandon aseguró en el Festival de Venecia que quedó afuera de proyectos por sus críticas a Israel."
+    "8d581b2ed8a0": {
+      "resumen": "The ASCO Post recoge la perspectiva de la especialista Christine Lovly sobre selpercatinib adyuvante (un inhibidor oral dirigido a fusiones del gen RET) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano con fusión de RET. Interesa porque el tratamiento adyuvante dirigido podría reducir el riesgo de recaída tras la cirugía en un subgrupo molecular específico, aunque se trata de un comentario de experta y no del reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "f9e083dfc96d": {
+      "resumen": "Ensayo clínico de fase 3 publicado en JAMA Oncology que evalúa anbenitamab y HB1801 (dos fármacos dirigidos contra ERBB2, también conocido como HER2) como tratamiento neoadyuvante, es decir, previo a la cirugía, en cáncer de mama ERBB2-positivo. Interesa porque busca ampliar las opciones de terapia dirigida anti-HER2 en la etapa previa a la cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3, según indica el título; no se dispone de datos sobre cegamiento, número de centros ni tamaño muestral exacto sin el abstract.\nPoblación: Pacientes con cáncer de mama ERBB2-positivo (antes denominado HER2-positivo) candidatas a tratamiento neoadyuvante, es decir, previo a la cirugía.\nIntervención: Combinación de anbenitamab y HB1801, dos agentes dirigidos contra ERBB2/HER2, en esquema neoadyuvante; el comparador no surge del título (posiblemente el estándar con trastuzumab y/o pertuzumab u otro esquema anti-HER2).\nResultados: El título no aporta cifras de tasa de respuesta patológica completa, supervivencia libre de eventos ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el comparador exacto, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si confirma eficacia y seguridad, esta combinación podría sumar una alternativa de terapia dirigida anti-HER2 en el escenario neoadyuvante del cáncer de mama ERBB2-positivo.\nNota: análisis sin acceso al abstract."
+    },
+    "f91084caacab": {
+      "resumen": "Relato en primera persona publicado en JAMA Oncology de una genetista especializada en cáncer que recibió el diagnóstico incidental de una variante en el gen SDHA (asociado a tumores neuroendocrinos y paragangliomas) y reflexiona sobre la experiencia desde su doble rol de médica y paciente. Interesa como mirada humana sobre los hallazgos incidentales en genética oncológica, más que por datos de un estudio.",
+      "destacado": false
+    },
+    "4c0f816b4668": {
+      "resumen": "La Razón anticipa el regreso de los zapatos blancos, un calzado que las generaciones mayores solían rechazar, como tendencia fuerte para el otoño 2026."
+    },
+    "567cfc14b06c": {
+      "resumen": "Cadena SER repasa los cortes de pelo que se imponen para la vuelta a clases y el trabajo, del clásico bob al wolfcut."
+    },
+    "13e80380dc2d": {
+      "resumen": "Telediario cuenta cómo la estética minimalista da paso a una tendencia viral que suma gemas, cristales y color a la moda y a los objetos cotidianos."
+    },
+    "f1a830f88223": {
+      "resumen": "Canal26 señala que los portarretratos sobre los muebles quedaron atrás y da paso a una decoración más simple y elegante en 2026."
+    },
+    "5842c6c566bb": {
+      "resumen": "El Destape anuncia una nueva edición del Festival Internacional de Buenos Aires, con artistas internacionales de teatro, danza y música."
+    },
+    "77e81b53c575": {
+      "resumen": "Indie Hoy adelanta la llegada a la Argentina del pianista y compositor italiano Ludovico Einaudi."
+    },
+    "3036d01800f1": {
+      "resumen": "El restaurante porteño Puerto Cristal fue distinguido como local icónico de la Ciudad de Buenos Aires."
     }
   }
 }
