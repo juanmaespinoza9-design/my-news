@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-09-07T22:08:17Z",
+  "generated_at": "2026-09-08T10:10:00Z",
   "summaries": {
-    "0b4e20100148": {
-      "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un esquema combinado con camizestrant, un inhibidor oral del receptor de estrógeno de nueva generación, para cáncer de mama localmente avanzado o metastásico. Relevante porque amplía las opciones de tratamiento hormonal dirigido en un subtipo muy frecuente de la enfermedad.",
+    "fcee7795b9e2": {
+      "resumen": "OncLive informa sobre datos de calidad de vida relacionada con la salud en pacientes con mieloma múltiple en recaída o refractario tratados con linvoseltamab, un anticuerpo biespecífico que se une al BCMA (antígeno de maduración de células B) de las células tumorales y al CD3 de los linfocitos T. Interesa porque, además de la eficacia antitumoral, la tolerancia y el impacto en la calidad de vida son claves para sostener este tipo de terapias en el tiempo.",
+      "destacado": false,
+      "analisis": "Diseño: El título indica un análisis de calidad de vida relacionada con la salud dentro de un estudio clínico con linvoseltamab; no se especifica la fase, el diseño (aleatorizado o de un solo brazo), el número de centros ni el tamaño muestral.\nPoblación: Pacientes adultos con mieloma múltiple en recaída o refractario, es decir que progresó tras al menos una línea previa de tratamiento o no respondió a la terapia.\nIntervención: Linvoseltamab, anticuerpo biespecífico BCMA×CD3, sin comparador especificado en el título.\nResultados: El título no aporta puntajes ni cuestionarios específicos de calidad de vida, ni valores estadísticos.\nLimitaciones: Sin el abstract no se puede confirmar el cuestionario de calidad de vida utilizado, el tiempo de seguimiento ni si los datos provienen de un ensayo pivotal o de una extensión.\nMensaje: Si se confirma una mejora sostenida de la calidad de vida, refuerza el perfil de tolerabilidad de linvoseltamab como opción en mieloma múltiple muy pretratado.\nNota: análisis sin acceso al abstract."
+    },
+    "93a9141408a6": {
+      "resumen": "OncLive reporta un estudio que compara una única dosis de G-CSF (factor estimulante de colonias de granulocitos) pegilado frente al esquema clásico de G-CSF diario para movilizar células madre en donantes de trasplante alogénico. Relevante porque simplificar la movilización sin perder eficacia mejoraría la experiencia del donante sano.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio comparativo, posiblemente aleatorizado, entre un esquema de dosis única de G-CSF pegilado y el esquema estándar de G-CSF diario; no se precisan en el título la fase, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Donantes sanos de células progenitoras hematopoyéticas para trasplante alogénico.\nIntervención: G-CSF pegilado en dosis única versus G-CSF de acción corta administrado a diario, ambos para movilizar células madre hacia la sangre periférica.\nResultados: El título indica equivalencia (\"matches\") en la movilización, pero no brinda cifras de células CD34+ recolectadas, tasas de éxito de la aféresis ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el margen de no inferioridad, los eventos adversos comparados entre esquemas ni la representatividad de la población de donantes.\nMensaje: De confirmarse la equivalencia, una dosis única de G-CSF pegilado podría simplificar el proceso para el donante alogénico, con menos inyecciones y visitas.\nNota: análisis sin acceso al abstract."
+    },
+    "ee8495e85309": {
+      "resumen": "The ASCO Post recoge la perspectiva del hematólogo Mazyar Shadman sobre el uso combinado de sonorotoclax (un inhibidor de BCL-2 en investigación) y zanubrutinib (un inhibidor de BTK) en leucemia linfocítica crónica y linfoma linfocítico de células pequeñas (LLC/LLCP). Interesa como mirada de un especialista sobre una combinación de terapias dirigidas orales para esta neoplasia, aunque se trata de un comentario y no del reporte de un estudio.",
+      "destacado": false
+    },
+    "3638cbbcc061": {
+      "resumen": "OncLive presenta su resumen semanal en video \"Five Under 5\" con los cinco temas más comentados en oncología durante la semana del 31 de agosto. Sirve como panorama rápido de la actualidad del campo, sin ser en sí mismo un estudio.",
+      "destacado": false
+    },
+    "30dd7de350c2": {
+      "resumen": "The ASCO Post recoge la palabra del oncólogo Xin Gao sobre LY4101174, una terapia en investigación para el carcinoma urotelial (cáncer de vejiga y de las vías urinarias) avanzado o metastásico. Interesa como mirada de un especialista sobre un fármaco en desarrollo para una enfermedad con opciones limitadas tras la quimioterapia y la inmunoterapia, aunque se trata de un comentario y no del reporte de un estudio.",
+      "destacado": false
+    },
+    "8d581b2ed8a0": {
+      "resumen": "The ASCO Post recoge la perspectiva de la especialista Christine Lovly sobre selpercatinib adyuvante (un inhibidor oral dirigido a fusiones del gen RET) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano con fusión de RET. Interesa porque el tratamiento adyuvante dirigido podría reducir el riesgo de recaída tras la cirugía en un subgrupo molecular específico, aunque se trata de un comentario de experta y no del reporte de un estudio nuevo.",
       "destacado": false
     },
     "81cba7ef8c81": {
@@ -23,60 +45,42 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
     },
-    "c686d305a8e5": {
-      "resumen": "Urgente24 arma la agenda de planes para el fin de semana en el AMBA: Cafecito BA, un intento de alfajor récord, conciertos Candlelight y más."
-    },
-    "1b4a8746a7e1": {
-      "resumen": "Página/12 propone su agenda cultural para la provincia de Buenos Aires."
-    },
-    "2f56aa2ebc1c": {
-      "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
-    },
-    "3638cbbcc061": {
-      "resumen": "OncLive presenta su resumen semanal en video \"Five Under 5\" con los cinco temas más comentados en oncología durante la semana del 31 de agosto. Sirve como panorama rápido de la actualidad del campo, sin ser en sí mismo un estudio.",
-      "destacado": false
-    },
-    "8d581b2ed8a0": {
-      "resumen": "The ASCO Post recoge la perspectiva de la especialista Christine Lovly sobre selpercatinib adyuvante (un inhibidor oral dirigido a fusiones del gen RET) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano con fusión de RET. Interesa porque el tratamiento adyuvante dirigido podría reducir el riesgo de recaída tras la cirugía en un subgrupo molecular específico, aunque se trata de un comentario de experta y no del reporte de un estudio nuevo.",
-      "destacado": false
-    },
-    "5842c6c566bb": {
-      "resumen": "El Destape anuncia una nueva edición del Festival Internacional de Buenos Aires, con artistas internacionales de teatro, danza y música."
-    },
-    "3036d01800f1": {
-      "resumen": "El restaurante porteño Puerto Cristal fue distinguido como local icónico de la Ciudad de Buenos Aires."
-    },
-    "fcee7795b9e2": {
-      "resumen": "OncLive informa sobre datos de calidad de vida relacionada con la salud en pacientes con mieloma múltiple en recaída o refractario tratados con linvoseltamab, un anticuerpo biespecífico que se une al BCMA (antígeno de maduración de células B) de las células tumorales y al CD3 de los linfocitos T. Interesa porque, además de la eficacia antitumoral, la tolerancia y el impacto en la calidad de vida son claves para sostener este tipo de terapias en el tiempo.",
+    "acb239ddd145": {
+      "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) que compara agentes hipometilantes (como azacitidina o decitabina) combinados con venetoclax, un inhibidor de la proteína BCL-2, frente a la quimioterapia intensiva convencional en pacientes con leucemia mieloide aguda (LMA). Interesa porque define si un esquema más tolerable puede reemplazar a la quimioterapia intensiva en pacientes elegibles para ambas estrategias.",
       "destacado": false,
-      "analisis": "Diseño: El título indica un análisis de calidad de vida relacionada con la salud dentro de un estudio clínico con linvoseltamab; no se especifica la fase, el diseño (aleatorizado o de un solo brazo), el número de centros ni el tamaño muestral.\nPoblación: Pacientes adultos con mieloma múltiple en recaída o refractario, es decir que progresó tras al menos una línea previa de tratamiento o no respondió a la terapia.\nIntervención: Linvoseltamab, anticuerpo biespecífico BCMA×CD3, sin comparador especificado en el título.\nResultados: El título no aporta puntajes ni cuestionarios específicos de calidad de vida, ni valores estadísticos.\nLimitaciones: Sin el abstract no se puede confirmar el cuestionario de calidad de vida utilizado, el tiempo de seguimiento ni si los datos provienen de un ensayo pivotal o de una extensión.\nMensaje: Si se confirma una mejora sostenida de la calidad de vida, refuerza el perfil de tolerabilidad de linvoseltamab como opción en mieloma múltiple muy pretratado.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: El título indica un estudio comparativo publicado en NEJM entre agentes hipometilantes más venetoclax y quimioterapia intensiva; no se especifica en el título si es aleatorizado, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), presumiblemente aptos para recibir quimioterapia intensiva.\nIntervención: Agentes hipometilantes (azacitidina o decitabina) combinados con venetoclax (inhibidor de BCL-2) versus quimioterapia intensiva convencional de inducción.\nResultados: El título no aporta cifras de supervivencia global, tasa de remisión completa ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede confirmar el diseño exacto (aleatorizado o no), la madurez del seguimiento ni el perfil de toxicidad comparado entre los dos brazos.\nMensaje: Si el esquema con venetoclax demuestra eficacia similar o superior con menor toxicidad, podría desplazar a la quimioterapia intensiva como estándar incluso en pacientes aptos para recibirla, ampliando el uso de esquemas menos tóxicos en LMA.\nNota: análisis sin acceso al abstract."
     },
-    "93a9141408a6": {
-      "resumen": "OncLive reporta un estudio que compara una única dosis de G-CSF (factor estimulante de colonias de granulocitos) pegilado frente al esquema clásico de G-CSF diario para movilizar células madre en donantes de trasplante alogénico. Relevante porque simplificar la movilización sin perder eficacia mejoraría la experiencia del donante sano.",
+    "6027d233d7a6": {
+      "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) sobre daraxonrasib, un inhibidor oral pan-RAS en investigación, en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS ya tratados previamente. Interesa porque las mutaciones de RAS son frecuentes en este tumor y históricamente difíciles de inhibir farmacológicamente.",
       "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio comparativo, posiblemente aleatorizado, entre un esquema de dosis única de G-CSF pegilado y el esquema estándar de G-CSF diario; no se precisan en el título la fase, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Donantes sanos de células progenitoras hematopoyéticas para trasplante alogénico.\nIntervención: G-CSF pegilado en dosis única versus G-CSF de acción corta administrado a diario, ambos para movilizar células madre hacia la sangre periférica.\nResultados: El título indica equivalencia (\"matches\") en la movilización, pero no brinda cifras de células CD34+ recolectadas, tasas de éxito de la aféresis ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el margen de no inferioridad, los eventos adversos comparados entre esquemas ni la representatividad de la población de donantes.\nMensaje: De confirmarse la equivalencia, una dosis única de G-CSF pegilado podría simplificar el proceso para el donante alogénico, con menos inyecciones y visitas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: El título sugiere un estudio clínico publicado en NEJM sobre daraxonrasib en cáncer de pulmón; no se especifica en el título la fase, la aleatorización, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS, previamente tratados (progresión tras al menos una línea de terapia).\nIntervención: Daraxonrasib (inhibidor oral pan-RAS en investigación), sin comparador especificado en el título.\nResultados: El título no aporta tasa de respuesta objetiva, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede confirmar si el estudio es de un solo brazo o aleatorizado, ni evaluar la magnitud del beneficio o los eventos adversos.\nMensaje: Si los resultados son positivos, daraxonrasib podría sumar una opción dirigida para un subgrupo de CPCNP con mutación de RAS que hasta ahora tenía escasas terapias específicas más allá del subtipo KRAS G12C.\nNota: análisis sin acceso al abstract."
     },
-    "30dd7de350c2": {
-      "resumen": "The ASCO Post recoge la palabra del oncólogo Xin Gao sobre LY4101174, una terapia en investigación para el carcinoma urotelial (cáncer de vejiga y de las vías urinarias) avanzado o metastásico. Interesa como mirada de un especialista sobre un fármaco en desarrollo para una enfermedad con opciones limitadas tras la quimioterapia y la inmunoterapia, aunque se trata de un comentario y no del reporte de un estudio.",
-      "destacado": false
+    "8377772ff762": {
+      "resumen": "El Sol de México explica en qué consiste el bedazzling, la técnica de decorar prendas y accesorios con brillos y strass que resurgió como tendencia."
     },
-    "affd1af49f25": {
-      "resumen": "Vogue México repasa el look de la princesa Leonor de España, heredera al trono, en su primer día de clases universitarias: zapatillas de estilo japonés combinadas con jeans arremangados."
+    "e0449c680fbf": {
+      "resumen": "The Objective repasa diez looks de Zara, Mango y otras marcas españolas que anticipan la paleta de colores que se impondrá este otoño boreal 2026."
     },
-    "50be8bd8d79b": {
-      "resumen": "Vogue México destaca cómo la actriz Jessica Alba combinó sandalias planas de doble hebilla con shorts de seda, en lo que la revista señala como el look más elegante de septiembre."
+    "1ccf5a8cc437": {
+      "resumen": "Última Hora repasa el look de esencia mediterránea, inspirado en Dolce & Gabbana, que lució Mery Perelló en su escapada a Croacia."
     },
-    "78ce23e71085": {
-      "resumen": "Vogue México cuenta que la actriz Jennifer Aniston ya usó los zapatos de tacón negros que, según la revista, serán tendencia este otoño boreal 2026."
+    "99b4e8ff4633": {
+      "resumen": "Vogue México cubre la edición itinerante de IXEL en Valledupar, que combina moda y música vallenata."
     },
-    "98ea0a790e85": {
-      "resumen": "lagaceta.com.ar repasa cinco tendencias que, según la nota, van a dominar la moda de la próxima temporada primavera-verano: de los drapeados al volumen."
+    "add3e2e5ffe2": {
+      "resumen": "El Colombiano comparte el prompt para transformar fotos al estilo de los años 80 con ChatGPT y explica por qué esa tendencia se viralizó en las redes sociales."
     },
-    "e4b35b03f1a8": {
-      "resumen": "Revista Para Ti analiza el look de la conductora y actriz Flor de la V y cómo, según la nota, anticipa dos tendencias clave de la temporada que se viene."
+    "f03a4f8b66d3": {
+      "resumen": "Vogue México repasa los estilos de cejas que serán tendencia este otoño-invierno 2026: finas al estilo de los años 90, laminadas, naturales y más."
     },
-    "15fd9afc25d9": {
-      "resumen": "Harper's Bazaar repasa los modelos de zapatos de Zara, H&M y Stradivarius que reemplazarían a las clásicas bailarinas como tendencia de calzado este otoño."
+    "eadf6ed17d09": {
+      "resumen": "Vogue México destaca el look elegante de Penélope Cruz, con vestido cruzado y tacones negros, en el Festival de Venecia 2026."
+    },
+    "640e59061783": {
+      "resumen": "noticiasd anuncia la segunda convocatoria de 'Dramaturgias de (A)rchivo', un programa para crear obras de teatro a partir de documentos históricos."
+    },
+    "6a3314243675": {
+      "resumen": "Weekend/Perfil informa que ocho nuevos locales se suman al listado de Restaurantes Icónicos de la Ciudad de Buenos Aires."
     },
     "04f4a54a7f87": {
       "resumen": "AM 1350 Radio Buenos Aires cuenta que la cantante española Bebe vuelve a presentarse en la Argentina a veinte años de su debut en el país."
@@ -92,6 +96,15 @@
     },
     "ba3961a761a1": {
       "resumen": "iProfesional repasa los ocho restaurantes de Buenos Aires que recibieron la distinción de 'Icónicos' por parte del Gobierno porteño."
+    },
+    "c686d305a8e5": {
+      "resumen": "Urgente24 arma la agenda de planes para el fin de semana en el AMBA: Cafecito BA, un intento de alfajor récord, conciertos Candlelight y más."
+    },
+    "1b4a8746a7e1": {
+      "resumen": "Página/12 propone su agenda cultural para la provincia de Buenos Aires."
+    },
+    "2f56aa2ebc1c": {
+      "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
     }
   }
 }
