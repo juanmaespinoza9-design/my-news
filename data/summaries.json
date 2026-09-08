@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-09-08T10:10:00Z",
+  "generated_at": "2026-09-08T22:08:12Z",
   "summaries": {
-    "fcee7795b9e2": {
-      "resumen": "OncLive informa sobre datos de calidad de vida relacionada con la salud en pacientes con mieloma múltiple en recaída o refractario tratados con linvoseltamab, un anticuerpo biespecífico que se une al BCMA (antígeno de maduración de células B) de las células tumorales y al CD3 de los linfocitos T. Interesa porque, además de la eficacia antitumoral, la tolerancia y el impacto en la calidad de vida son claves para sostener este tipo de terapias en el tiempo.",
-      "destacado": false,
-      "analisis": "Diseño: El título indica un análisis de calidad de vida relacionada con la salud dentro de un estudio clínico con linvoseltamab; no se especifica la fase, el diseño (aleatorizado o de un solo brazo), el número de centros ni el tamaño muestral.\nPoblación: Pacientes adultos con mieloma múltiple en recaída o refractario, es decir que progresó tras al menos una línea previa de tratamiento o no respondió a la terapia.\nIntervención: Linvoseltamab, anticuerpo biespecífico BCMA×CD3, sin comparador especificado en el título.\nResultados: El título no aporta puntajes ni cuestionarios específicos de calidad de vida, ni valores estadísticos.\nLimitaciones: Sin el abstract no se puede confirmar el cuestionario de calidad de vida utilizado, el tiempo de seguimiento ni si los datos provienen de un ensayo pivotal o de una extensión.\nMensaje: Si se confirma una mejora sostenida de la calidad de vida, refuerza el perfil de tolerabilidad de linvoseltamab como opción en mieloma múltiple muy pretratado.\nNota: análisis sin acceso al abstract."
-    },
-    "93a9141408a6": {
-      "resumen": "OncLive reporta un estudio que compara una única dosis de G-CSF (factor estimulante de colonias de granulocitos) pegilado frente al esquema clásico de G-CSF diario para movilizar células madre en donantes de trasplante alogénico. Relevante porque simplificar la movilización sin perder eficacia mejoraría la experiencia del donante sano.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio comparativo, posiblemente aleatorizado, entre un esquema de dosis única de G-CSF pegilado y el esquema estándar de G-CSF diario; no se precisan en el título la fase, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Donantes sanos de células progenitoras hematopoyéticas para trasplante alogénico.\nIntervención: G-CSF pegilado en dosis única versus G-CSF de acción corta administrado a diario, ambos para movilizar células madre hacia la sangre periférica.\nResultados: El título indica equivalencia (\"matches\") en la movilización, pero no brinda cifras de células CD34+ recolectadas, tasas de éxito de la aféresis ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el margen de no inferioridad, los eventos adversos comparados entre esquemas ni la representatividad de la población de donantes.\nMensaje: De confirmarse la equivalencia, una dosis única de G-CSF pegilado podría simplificar el proceso para el donante alogénico, con menos inyecciones y visitas.\nNota: análisis sin acceso al abstract."
-    },
-    "ee8495e85309": {
-      "resumen": "The ASCO Post recoge la perspectiva del hematólogo Mazyar Shadman sobre el uso combinado de sonorotoclax (un inhibidor de BCL-2 en investigación) y zanubrutinib (un inhibidor de BTK) en leucemia linfocítica crónica y linfoma linfocítico de células pequeñas (LLC/LLCP). Interesa como mirada de un especialista sobre una combinación de terapias dirigidas orales para esta neoplasia, aunque se trata de un comentario y no del reporte de un estudio.",
-      "destacado": false
-    },
-    "3638cbbcc061": {
-      "resumen": "OncLive presenta su resumen semanal en video \"Five Under 5\" con los cinco temas más comentados en oncología durante la semana del 31 de agosto. Sirve como panorama rápido de la actualidad del campo, sin ser en sí mismo un estudio.",
-      "destacado": false
-    },
-    "30dd7de350c2": {
-      "resumen": "The ASCO Post recoge la palabra del oncólogo Xin Gao sobre LY4101174, una terapia en investigación para el carcinoma urotelial (cáncer de vejiga y de las vías urinarias) avanzado o metastásico. Interesa como mirada de un especialista sobre un fármaco en desarrollo para una enfermedad con opciones limitadas tras la quimioterapia y la inmunoterapia, aunque se trata de un comentario y no del reporte de un estudio.",
-      "destacado": false
-    },
-    "8d581b2ed8a0": {
-      "resumen": "The ASCO Post recoge la perspectiva de la especialista Christine Lovly sobre selpercatinib adyuvante (un inhibidor oral dirigido a fusiones del gen RET) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano con fusión de RET. Interesa porque el tratamiento adyuvante dirigido podría reducir el riesgo de recaída tras la cirugía en un subgrupo molecular específico, aunque se trata de un comentario de experta y no del reporte de un estudio nuevo.",
-      "destacado": false
-    },
     "81cba7ef8c81": {
       "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
       "destacado": false
@@ -45,51 +19,8 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
     },
-    "acb239ddd145": {
-      "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) que compara agentes hipometilantes (como azacitidina o decitabina) combinados con venetoclax, un inhibidor de la proteína BCL-2, frente a la quimioterapia intensiva convencional en pacientes con leucemia mieloide aguda (LMA). Interesa porque define si un esquema más tolerable puede reemplazar a la quimioterapia intensiva en pacientes elegibles para ambas estrategias.",
-      "destacado": false,
-      "analisis": "Diseño: El título indica un estudio comparativo publicado en NEJM entre agentes hipometilantes más venetoclax y quimioterapia intensiva; no se especifica en el título si es aleatorizado, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Pacientes con leucemia mieloide aguda (LMA), presumiblemente aptos para recibir quimioterapia intensiva.\nIntervención: Agentes hipometilantes (azacitidina o decitabina) combinados con venetoclax (inhibidor de BCL-2) versus quimioterapia intensiva convencional de inducción.\nResultados: El título no aporta cifras de supervivencia global, tasa de remisión completa ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede confirmar el diseño exacto (aleatorizado o no), la madurez del seguimiento ni el perfil de toxicidad comparado entre los dos brazos.\nMensaje: Si el esquema con venetoclax demuestra eficacia similar o superior con menor toxicidad, podría desplazar a la quimioterapia intensiva como estándar incluso en pacientes aptos para recibirla, ampliando el uso de esquemas menos tóxicos en LMA.\nNota: análisis sin acceso al abstract."
-    },
-    "6027d233d7a6": {
-      "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) sobre daraxonrasib, un inhibidor oral pan-RAS en investigación, en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS ya tratados previamente. Interesa porque las mutaciones de RAS son frecuentes en este tumor y históricamente difíciles de inhibir farmacológicamente.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio clínico publicado en NEJM sobre daraxonrasib en cáncer de pulmón; no se especifica en el título la fase, la aleatorización, el cegamiento ni el tamaño muestral.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de RAS, previamente tratados (progresión tras al menos una línea de terapia).\nIntervención: Daraxonrasib (inhibidor oral pan-RAS en investigación), sin comparador especificado en el título.\nResultados: El título no aporta tasa de respuesta objetiva, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede confirmar si el estudio es de un solo brazo o aleatorizado, ni evaluar la magnitud del beneficio o los eventos adversos.\nMensaje: Si los resultados son positivos, daraxonrasib podría sumar una opción dirigida para un subgrupo de CPCNP con mutación de RAS que hasta ahora tenía escasas terapias específicas más allá del subtipo KRAS G12C.\nNota: análisis sin acceso al abstract."
-    },
-    "8377772ff762": {
-      "resumen": "El Sol de México explica en qué consiste el bedazzling, la técnica de decorar prendas y accesorios con brillos y strass que resurgió como tendencia."
-    },
-    "e0449c680fbf": {
-      "resumen": "The Objective repasa diez looks de Zara, Mango y otras marcas españolas que anticipan la paleta de colores que se impondrá este otoño boreal 2026."
-    },
-    "1ccf5a8cc437": {
-      "resumen": "Última Hora repasa el look de esencia mediterránea, inspirado en Dolce & Gabbana, que lució Mery Perelló en su escapada a Croacia."
-    },
-    "99b4e8ff4633": {
-      "resumen": "Vogue México cubre la edición itinerante de IXEL en Valledupar, que combina moda y música vallenata."
-    },
-    "add3e2e5ffe2": {
-      "resumen": "El Colombiano comparte el prompt para transformar fotos al estilo de los años 80 con ChatGPT y explica por qué esa tendencia se viralizó en las redes sociales."
-    },
-    "f03a4f8b66d3": {
-      "resumen": "Vogue México repasa los estilos de cejas que serán tendencia este otoño-invierno 2026: finas al estilo de los años 90, laminadas, naturales y más."
-    },
-    "eadf6ed17d09": {
-      "resumen": "Vogue México destaca el look elegante de Penélope Cruz, con vestido cruzado y tacones negros, en el Festival de Venecia 2026."
-    },
-    "640e59061783": {
-      "resumen": "noticiasd anuncia la segunda convocatoria de 'Dramaturgias de (A)rchivo', un programa para crear obras de teatro a partir de documentos históricos."
-    },
     "6a3314243675": {
       "resumen": "Weekend/Perfil informa que ocho nuevos locales se suman al listado de Restaurantes Icónicos de la Ciudad de Buenos Aires."
-    },
-    "04f4a54a7f87": {
-      "resumen": "AM 1350 Radio Buenos Aires cuenta que la cantante española Bebe vuelve a presentarse en la Argentina a veinte años de su debut en el país."
-    },
-    "d8d155232af7": {
-      "resumen": "Ámbito repasa el regreso del género de la revista porteña a Buenos Aires, con Carmen Barbieri, Álvaro Navia y Gabriel Villalba encabezando el elenco."
-    },
-    "949d5bbf5e03": {
-      "resumen": "El Complejo Teatral de Buenos Aires anuncia el inicio de los ensayos de 'Esperando a Godot', de Samuel Beckett, que se presentará en el Teatro Alvear."
     },
     "00fc28f49e98": {
       "resumen": "Ámbito propone un recorrido por restaurantes porteños que suman cavas de vino como atractivo diferencial a la propuesta gastronómica."
@@ -105,6 +36,76 @@
     },
     "2f56aa2ebc1c": {
       "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
+    },
+    "c03fd3029682": {
+      "resumen": "Cobertura de OncLive sobre un estudio en primera línea que combina el fármaco en investigación mipletamig con otros agentes (esquema triple) en pacientes con leucemia mieloide aguda (LMA) con mutación en el gen TP53, un subgrupo de altísimo riesgo y mal pronóstico. Interesa porque hay pocas opciones eficaces para esta población y se reporta beneficio clínico.",
+      "destacado": false,
+      "analisis": "Diseño: El título no precisa la fase del ensayo, la aleatorización, el cegamiento ni el número de centros o pacientes; por el estadio de desarrollo del fármaco es probable que se trate de un estudio en fase temprana (fase 1/2).\nPoblación: Pacientes con leucemia mieloide aguda (LMA) con mutación en el gen TP53, en primera línea de tratamiento.\nIntervención: Esquema triple con mipletamig más otros dos agentes, sin comparador especificado en el título.\nResultados: El título indica beneficio clínico (\"drives clinical benefit\"), pero no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la madurez del seguimiento ni si hubo grupo control.\nMensaje: Si se confirma el beneficio, podría sumar una opción para un subgrupo de LMA de pronóstico muy adverso con pocas alternativas terapéuticas eficaces.\nNota: análisis sin acceso al abstract."
+    },
+    "621cab9a7e88": {
+      "resumen": "Nota de OncLive sobre un estudio de mantenimiento en primera línea que combina durvalumab (inmunoterapia anti-PD-L1) con tarlatamab (anticuerpo biespecífico que se une a DLL3 y CD3) en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC). Los resultados muestran mejoría en la supervivencia frente al estándar actual, un dato relevante en un tumor agresivo con pocas novedades terapéuticas.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un ensayo clínico que evalúa mantenimiento tras la inducción; no se detalla fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer), en mantenimiento de primera línea tras la inducción.\nIntervención: Durvalumab (anti-PD-L1) más tarlatamab (biespecífico DLL3xCD3) como mantenimiento; comparador no especificado en el título (probablemente durvalumab solo, el estándar actual).\nResultados: El título indica una mejora en supervivencia (\"boosts survival\"), sin cifras de supervivencia global, supervivencia libre de progresión, razón de riesgo ni valor de p.\nLimitaciones: Sin el abstract no se puede confirmar la magnitud del beneficio ni el perfil de toxicidad, relevante porque tarlatamab se asocia a síndrome de liberación de citoquinas.\nMensaje: Si se confirma, podría posicionar la combinación como nuevo estándar de mantenimiento en un tumor de pronóstico muy adverso donde la inmunoterapia sola aporta beneficios modestos.\nNota: análisis sin acceso al abstract."
+    },
+    "f494d3746565": {
+      "resumen": "Nota de OncLive en la que los especialistas Camidge y Singhi seleccionan los resúmenes de cáncer de pulmón más relevantes para seguir en el Congreso Mundial de Cáncer de Pulmón (WCLC) 2026. Funciona como guía anticipada de los datos que podrían marcar tendencia en oncología torácica este año.",
+      "destacado": false
+    },
+    "a09d60c40a78": {
+      "resumen": "Nota de The ASCO Post sobre un estudio observacional que asocia un mayor consumo de grasas saturadas con peores desenlaces en cáncer de próstata. Suma evidencia sobre el rol de la dieta en el pronóstico oncológico, aunque el diseño observacional no permite establecer causalidad.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio observacional (probablemente de cohorte); no se especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de próstata; el título no precisa estadio ni línea de tratamiento.\nIntervención: No es una intervención sino una exposición dietética, mayor ingesta de grasas saturadas, comparada presumiblemente con menor ingesta.\nResultados: El título usa \"may be linked\" (podría estar asociado), lo que sugiere una asociación estadística sin certeza causal; no hay cifras de riesgo relativo, razón de riesgo (hazard ratio) ni intervalos de confianza.\nLimitaciones: Los estudios observacionales de dieta están sujetos a factores de confusión (comorbilidades, nivel socioeconómico, otros hábitos) y a sesgo de memoria si la dieta se autorreportó.\nMensaje: Un dato más para reforzar el consejo general de reducir grasas saturadas en pacientes oncológicos, pero sin base por sí solo para cambiar conductas clínicas.\nNota: análisis sin acceso al abstract."
+    },
+    "678f6bef90e9": {
+      "resumen": "Noticia institucional de The ASCO Post: el doctor Duane A. Mitchell fue nombrado director del UF Health Cancer Institute (Instituto de Cáncer de la Universidad de Florida). Es una novedad de gestión académica más que un dato clínico, pero marca a un referente en inmunoterapia e investigación de tumores cerebrales.",
+      "destacado": false
+    },
+    "a8303348d867": {
+      "resumen": "Cobertura de The ASCO Post sobre un estudio de quimiorradioterapia de curso largo en cáncer de recto, con resultados tempranos que muestran una ventaja en preservación de órgano (evitar la cirugía con colostomía) frente a otros esquemas. Interesa por la tendencia creciente a estrategias de preservación de órgano en cáncer de recto.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio o ensayo clínico comparativo de quimiorradioterapia de curso largo, con resultados descriptos como \"tempranos\"; el título no especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de recto candidatos a estrategias de preservación de órgano.\nIntervención: Quimiorradioterapia de curso largo (long-course), con comparador no especificado en el título (probablemente radioterapia de curso corto u otro esquema).\nResultados: El título menciona una ventaja temprana en preservación de órgano, sin cifras de tasa de respuesta clínica completa, supervivencia libre de eventos ni intervalos de confianza.\nLimitaciones: Al tratarse de resultados \"tempranos\", el seguimiento podría ser corto, lo que limita conclusiones sobre control oncológico a largo plazo y recidiva.\nMensaje: Suma evidencia a favor de estrategias de preservación de órgano en cáncer de recto, aunque el seguimiento a más largo plazo será clave para confirmar que la ventaja se mantiene sin comprometer el control tumoral.\nNota: análisis sin acceso al abstract."
+    },
+    "f9e083dfc96d": {
+      "resumen": "Publicación en JAMA Oncology de un ensayo clínico aleatorizado de fase III que evalúa el tratamiento neoadyuvante (previo a la cirugía) con anbenitamab y HB1801 en cáncer de mama con sobreexpresión de ERBB2 (HER2 positivo). Interesa por tratarse de un ensayo de fase III, el nivel de evidencia más sólido, en un subtipo con terapias dirigidas en constante evolución.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III; el título no especifica cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de mama ERBB2 positivo (HER2 positivo) candidatas a tratamiento neoadyuvante (previo a la cirugía).\nIntervención: Anbenitamab y HB1801 (agentes dirigidos a HER2, en investigación) en el contexto neoadyuvante; el título no especifica el brazo comparador.\nResultados: No se dispone de cifras de tasa de respuesta patológica completa, supervivencia libre de eventos ni intervalos de confianza a partir del título.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la definición exacta del criterio de valoración principal ni el perfil de toxicidad de la combinación.\nMensaje: Si los resultados son positivos, podría sumar una nueva opción neoadyuvante dirigida en cáncer de mama HER2 positivo, un escenario donde la respuesta patológica completa se asocia a mejor pronóstico a largo plazo.\nNota: análisis sin acceso al abstract."
+    },
+    "f91084caacab": {
+      "resumen": "Columna de opinión en JAMA Oncology en la que una genetista especializada en cáncer relata, desde su propia experiencia como paciente, el hallazgo incidental de una variante en el gen SDHA (asociado a riesgo de tumores como paragangliomas y feocromocitomas). Aporta una mirada personal sobre el impacto de los hallazgos genéticos incidentales.",
+      "destacado": false
+    },
+    "c019d7187223": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Donna Karan."
+    },
+    "266fa9ca31c3": {
+      "resumen": "La Voz del Interior cubre la Expo Córdoba Corazón de Moda 2026, que propone repensar cómo nos vinculamos con el cuerpo y la edad."
+    },
+    "fbf1c2adc6de": {
+      "resumen": "Quién repasa las tendencias de moda otoñal que eligen las it girls esta temporada."
+    },
+    "a00d04c56da9": {
+      "resumen": "El Universal propone tendencias de otoño para incorporar al look de todos los días."
+    },
+    "0058e49119d3": {
+      "resumen": "Vogue México destaca el regreso de las uñas milky, la manicura elegante que impone Penélope Cruz para este otoño."
+    },
+    "8205f45168dc": {
+      "resumen": "Vogue México repasa el look de Kate Middleton, con zapatos de taco marrones y vestido verde, en el primer día de clases de sus hijos."
+    },
+    "68387fcb3152": {
+      "resumen": "Vogue México presenta Bunker, la película protagonizada por Penélope Cruz y Javier Bardem que compite en el Festival de Venecia 2026."
+    },
+    "2a3edd168867": {
+      "resumen": "Crónica cuenta que Zoe Gotusso suma una función en Buenos Aires y cierra su gira 2026 con dos noches en el Teatro Coliseo."
+    },
+    "cf896df3f923": {
+      "resumen": "Página/12 anuncia el comienzo del Festival Internacional de Buenos Aires."
+    },
+    "1af12769bd1d": {
+      "resumen": "Ciudad Magazine informa que Zoe Gotusso suma una nueva fecha en el Teatro Coliseo tras agotar entradas, con detalles de cuándo y cómo conseguirlas."
+    },
+    "d354af6e37e5": {
+      "resumen": "RPP Noticias cuenta que Mauricio Diez Canseco estrena en Buenos Aires 'La Revista Vuelve', con Carmen Barbieri y Aixa Sosa."
     }
   }
 }
