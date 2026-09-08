@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T22:53:09.080699+00:00",
+ "generated_at": "2026-09-08T04:52:00.839782+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -21,6 +21,13 @@
      "id": "93a9141408a6"
     },
     {
+     "title": "Mazyar Shadman, MD, on CLL/SLL: Sonorotoclax and Zanubrutinib",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeDNhSlVJd1VKSU56aXV0bVBPaWtwTU45d0diWmExNmpRMkVONFVxQ2Iwd1h0cndJNmcySDJWbUpOczFFU2dja3UwcTd5ZU1yT054RmlRMkdtTUlEWFc5V2REbzRoRDNGRGNRLVdfT2ZJYndQNVdBOF8waE1pSXJUSXBrOWpXVVNQWmU0aV8zT25jbTB6QVVNOFdaU1BhNU9EM2NfSm1sZU83aWl2M0xaVEtGMGY0Rnd4RkxXamR1bXljcGNVNjBuX1dUSERkWjNMeDIwRzN4N19VREJFM0tpcGxPdkZtRnhlZ1BCWVl6X3BJN0NNMTZZ?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-09-07T10:56:13+00:00",
+     "id": "ee8495e85309"
+    },
+    {
      "title": "Five Under 5: Top Oncology Videos for the Week of 8/31/26",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVZEdzVveTByMUJzYlFvVGN1aEhBbXNZSzBTa2trSGIyclFQUGJwaGczU2ZJMjhuRENBLWwxY2t5bEZ5R0s3LVlaYTU0aE9Ea0V6Z0pIOU5ld2t4N2ZyTnBBd0FaTXZ0cUlKM0pyOVdVbFZtb2s0ZUVtdk5fNjM5YzlTeGxIck1DT2syWkZB?oc=5",
      "source": "OncLive",
@@ -40,13 +47,6 @@
      "source": "The ASCO Post",
      "published": "2026-09-06T08:49:36+00:00",
      "id": "8d581b2ed8a0"
-    },
-    {
-     "title": "FDA Approves Camizestrant Combination Regimen for Locally Advanced or Metastatic Breast Cancer",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2lHczZ0RkxvUXZwTDZwTEFjWjl1S1kza0xNSjBLbTliQ2tUTk1uMHlyQlFNQUdzYzBTTkI4VmF1SjZjYXFCeTlkX3VHOGxFRDVleVYwV1JzX203V0JXblM4YlkxSDZ1OHYxSnI2NzZDSG1HUmRMYzNiTVQyaEZRSmRwbFpadzJMOUpOYXBPTU14YkxBZ0xneWxOLXk0SXVLcUw1N0tiVmhyNFNRLTdybVViVnFxOWNsbV81RFBnX3FPWWtSUWQxcDY4SDlCdkl6Smc?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-09-04T21:13:55+00:00",
-     "id": "0b4e20100148"
     },
     {
      "title": "Breast Cancer Risk Assessment Has a Data Integration Problem: Can Artificial Intelligence Solve It?",
@@ -79,6 +79,22 @@
      "published": "2026-09-03T00:00:00+00:00",
      "copete": "Krämer A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "c55fe42c10bd"
+    },
+    {
+     "title": "Hypomethylating Agents plus Venetoclax as Compared with Intensive Chemotherapy in Patients with AML",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685322/",
+     "source": "NEJM Oncología",
+     "published": "2026-09-03T00:00:00+00:00",
+     "copete": "Schiffer CA et al. · The New England journal of medicine",
+     "id": "acb239ddd145"
+    },
+    {
+     "title": "Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42685317/",
+     "source": "NEJM Oncología",
+     "published": "2026-09-03T00:00:00+00:00",
+     "copete": "Arbour KC et al. · The New England journal of medicine",
+     "id": "6027d233d7a6"
     }
    ]
   },
@@ -88,78 +104,77 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Las lecciones de moda de Rihanna en París: cómo destacar sin necesidad de usar colores intensos",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmpKSnNSLVhFRkFGZ0JOTDRaZ2doaEVjSUFWaG91VXRJUjU0eG0xR3lHZi1zVURhM0hqZHlmdVpaZ0YxNWp2VElwU0xVdEFqY0ZldHpiMnRJaW1QMXBiMWRPSWkzRWJvbi1fdVZfUC1RQlp5X0RXZFF5dVBmRWRPZHplSmk0WkUyYzFMSExFWWFWR2Z1VHFteUVERk9TT2VkOWplb0M1bzV1cnZoZWNQeE5UdE0xNXpDYmpwQ0EyQXp1M2ZPaEVCN3kxV0dyX2JaT214SFFvXzLSAfMBQVVfeXFMUGZoMVUycWhtY0pLdkptRGdPVmRpY0RuRjdpX1p1WVQ2X1VKOEo1ZThFb0RwSGxqWVQ3aEExRF9kMkpMby1kLUdaVVhwZHJLUkwxa3hhY1Jpd1hkVjhNMXMtOVhZNkJHWndNRjRHenc4ZnF6NlhESi1UbkdxZWtLT3ZmSndHQlh3bk5YRmNtQVZqUmkyb3dVNzFNZU1fZmlXQ0lPT0hxMk5FbDBDbEFHVVcyaEdRTzBEZ3JTY2p2NjNRZnE1bGd4QkJyY01MdFRNMXF3VUxiaGhyeTJ2WGl3aXBZMzdpZTNyRTdXVExUUlNIN1A0?oc=5",
-     "source": "Infobae",
-     "published": "2026-09-07T22:44:17+00:00",
-     "id": "d8edf0f5e5bd"
+     "title": "A New Luxury Marketplace Is Making Adaptive Fashion More Discoverable",
+     "link": "https://www.vogue.com/article/a-new-luxury-marketplace-is-making-adaptive-fashion-more-discoverable",
+     "source": "Vogue",
+     "published": "2026-09-08T04:30:00+00:00",
+     "copete": "Weldun founder and CEO Carly Berlin’s new marketplace is built on the premise that functional clothing exists in luxury already — and can be big business.",
+     "id": "4dea3db64bd2"
     },
     {
-     "title": "Hombre al agua: La película dirigida por Gael García y protagonizada por Ricky Martin lleva al Festival de Venecia 2026",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54UktISDg0MnNraXNCLWNXbHBEODV4Ml9kRUVxX0JyODB6LWRJVEEtRUMzUUx1OTlCOWg2NHd3RFRFZjJqU2VOaEtyVzU1Z2RpZW5JWTdtRHdlMFNxTHJBN3h0bw?oc=5",
+     "title": "Fine Jewelry’s Newest Discovery Channel? TikTok",
+     "link": "https://www.vogue.com/article/fine-jewelrys-newest-discovery-channel-tiktok",
+     "source": "Vogue",
+     "published": "2026-09-08T04:30:00+00:00",
+     "copete": "Sophie Whitelaw found online fame designing jewelry online. It’s helped grow her brand and is propelling other businesses in the same way.",
+     "id": "f61f95baaf23"
+    },
+    {
+     "title": "6 Trend Predictions for Spring/Summer 2027",
+     "link": "https://www.vogue.com/article/bye-bye-clean-girl-6-trend-predictions-for-spring-summer-2027",
+     "source": "Vogue",
+     "published": "2026-09-08T04:30:00+00:00",
+     "copete": "SS27 is reflecting consumer desire to unplug, have fun, and say goodbye to the clean girl.",
+     "id": "21a802231216"
+    },
+    {
+     "title": "¿Qué es el Bedazzling y por qué volvió a estar de moda?",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0lsRG5YNkhfdks4eWJ4VFFmYWNrdmxiNWFFU1ZOMHRpeTJYX01ZbWo3RHBlNUtZYkU4engxUkNsclA1R3NHbDd1Tk0ybE85SUc0YUE5ZUtTU1VRcnBRa1IzWlFKZ0lVZXFDRnRXQ1FDQVlmWTlRN0NxallqVlBlcHBpX2E4dEtuNEJXNm9veVBhbk8wWlpmQm5uelo2NzhDTVNLVXhyQVY1OTZUazVN?oc=5",
+     "source": "El Sol de México",
+     "published": "2026-09-08T04:22:39+00:00",
+     "id": "8377772ff762"
+    },
+    {
+     "title": "10 looks de Zara, Mango y marcas españolas que adelantan los colores que serán tendencia este otoño 2026 para vestir con estilo esta temporada",
+     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPX3laN3F4ZDlJSG9oNUxLWmpjRm5JanNLTjdDUnFyLUo1bkh1RjlmM1VUMVU4RzVfYTZ2T25BcWlaZUE0cERxRmYtOHRSWmRONGtOOGthVE9FYnFWV3Nqb0FrcnlWdy1pYWtMcGk1Z1dhLTdtUWFseUhjdzNGZlRxNHdNdFp4YWJ2Q3NoOXVnYTd5STdIU1U1VVl2X3hTcFpfQ05BTVdWcXhlYzNvZUtVTGJmVXdjMm91dVpSTFpSX0lwZlpRTU9ZZFA0d29qbHVZVVhLZlNNOGNqeFIwWUNVeklnaEJDYlRFYkpuV3pfN0xoVFhFX1JYRU1MLVVfa1RBeHpLaTY3bllxWm43OFF3MHl5S1hUZzNOd01GblVn0gGjAkFVX3lxTE9aQlJQc0NCTDZZbWRQSmxuaEJ5X1V5T05yVmp6X2JGQ1BuM2UtMmc0QjNlX1NZQ0VHajVCRURTMFcwUFBTTU13LUtWUGx0WThOTmlkdThhZWNFVTQ4LWhkV0JPWjBrcnluQTZ0aHg3WVlYTE1pMmtqS05zYzRCNmVNNUpPRWhJV010SGtseTQ3VTJ0MXo4T0dBQU12c3p3bDZKd3hTcXJKdDZ6N0RPVnVZQTBHd2pxOGpoLXZzR1BIN1hfWFlaMVNfYWQ1ZzhNMkFrYmZiU3RYV3FkTFZUNXhVMHdtNkQySXhEZi1CVXJVNllYRjVPa2JSWGNQbC0ySXJKbkQ3T0VCT0RKZVc2NnIyTHBRN2RLa09BLWRmY0pVS2JpYw?oc=5",
+     "source": "The Objective",
+     "published": "2026-09-08T03:25:00+00:00",
+     "id": "e0449c680fbf"
+    },
+    {
+     "title": "La última moda del verano ya la viste Mery Perelló en su escapada a Croacia: esencia mediterránea con origen en Dolce & Gabbana",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY0ROVmZhNWJ2Tl91azdJeDFBdm1mcUE3aEY5eHJodEpfSFU0bUdscWhmRFlObWJfYV9HMVV1QWtmLWJmbHdQN3pIakJid0NZNS1kS3c1ZjZKWTZ6V3YzbTllanYwNnRxYWFTLU40U2F6LURLUTJheV9pWWQybUFZNkxLLUxyVWpvbTdCSFFaYjdoRFp4ZEVMYXpnQkhWUldiWHJoTzFEd01zWmllMFNLVjlmQ2lGR05Ebnl6M083N2JISmt1WHh6QmM4bkZpZk5sX0xvRXAzQTJFOWd4aGxJZE05WXU5VUNfRkxfSlZZQWZkVHhBc0ZwWFVLaDjSAfwBQVVfeXFMTmRqLWxxVzJKU1ZiWjdtWHd4UnNBSXpjR0JzWHl0Q0xjbnJaMlk5UmFSWW1BR1B6a3RfTVBlc2sxS3FuQ1czb01vczkyeFRueFVrcWhKZ21IN2Q0cmt6T2dQWlhHOFdGVDlQM2ZiOV9QMWh5ZTUydFl6VGQwakM1RW41RDU1NmZTUWJEN2h5MDljb2ZmWHZYNTZ5dkFWQnVtd21BOElOR09qNXRzWWRUTGNObmdmRUszRVpKcTNJWlRIR09qdUdubUxqU2xicjkzcVNOSGJBNWpXRnhJTzUtM21YYXlMZDVJV243cUlWVS0wczV3dkJfb3BRX2xE?oc=5",
+     "source": "Ultima Hora",
+     "published": "2026-09-08T01:47:34+00:00",
+     "id": "1ccf5a8cc437"
+    },
+    {
+     "title": "IXEL Itinerante Valledupar 2026: Entre moda y vallenatos",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NV1FwZEtCVTRiT1gxTFA2ODd3LUluRWNuWW11dkZHNTVLTjdrbE5DNlNTVjRUQUwwQW9famdpeXV2bjFZWjBGRENjTkpwVEgxNng3aFFaYjVrcUIwb0hOc0JNYmdOYVlDc0IwZHFB?oc=5",
      "source": "Vogue México",
-     "published": "2026-09-07T22:07:01+00:00",
-     "id": "86667c8924a5"
+     "published": "2026-09-08T01:18:18+00:00",
+     "id": "99b4e8ff4633"
     },
     {
-     "title": "Estelle y Bertrand celebraron una boda de jardín el mejor estilo francés",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmd4cHhTT29GVmlWYkNPbjFyX1lqcmRoWElOcklWU3dXQTNuQ04yeDhTRFpRMl8zbW9STFpxaUg2eUgyM250eGZHM1g1WjYwNTQ3a0U3eTJmRlI0YTB0ajV3TUM0VERCaUJqTV9IdXN6U0FMSFVWTEdVcF80NS0wUTllNlZySXJmV1dCbWJmdHdMa3gwSEwxY2FBWWNPS3lLeEZv?oc=5",
+     "title": "El prompt que puede usar para convertir su foto al estilo de los años 80 con ChatGPT, ¿por qué se puso de moda esa tendencia en redes? | El Colombiano",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDdpcVhybm5WLUdnZnByb0VIMkRrVDVQdVc1bkhHR1lXWk9yR0ZBSzhlLTJPay1xUDEyLU1VNWFFUXdFY2Zsb2FDSmVIcHZKbzdZaWFfekhiOUJtSHNXX1FNdHZQSF9SZEpodzExNHVDM25GVFhTQ1FtZDBNM240QnFuZVFvRkNDdWFWNU55MklPR2ZSak1RbHB5dGZ4MzlqSmkzN0hmTEdFdG9PNEVLS0pYdGwtdDFGdFHSAb8BQVVfeXFMTjh3eHZJdFlobmZOTm0xYUxkbWNoSGduRnk5eTRuQ01wRURlcElfTVJuVnZzOVVDUUxQbTN2WVQ3SU1pemY0RkhmVzFtS2pfZ0FBMjF2bzZDR1ZkT3pNcG5mTkZsb0NuTk0yYUlYT256Sl9sRHZpc2dISEVOelFDYy03bjVXMzFaZExidTloWjd4RFhLU0pvTEZucWVoTDd1Y2docDRweWxXa3YyaUREU2VWdGtfOEctSFVhQkpfMHc?oc=5",
+     "source": "El Colombiano",
+     "published": "2026-09-08T01:08:46+00:00",
+     "id": "add3e2e5ffe2"
+    },
+    {
+     "title": "Cejas en tendencia para Otoño-Invierno 2026: Delgadas de los 90, laminadas, naturales y más",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PeHdYejdlN0dSdklBdXU5M0pkTXpickJjcENmci1HVGRtSlpMQThRRkQzdkttTHJOTzFQTlA2dUxZQ2lBZ3RzbzMxc2E3ZzdzM3Q1Vjl1TzFiVFRCNzVVOGo4VVIzUl9Ha1hQMVczdlY0Rk5Bd1dJSi05THpfQQ?oc=5",
      "source": "Vogue México",
-     "published": "2026-09-07T21:05:26+00:00",
-     "id": "923ac9f0bc10"
+     "published": "2026-09-08T00:38:02+00:00",
+     "id": "f03a4f8b66d3"
     },
     {
-     "title": "Las joyas más impresionantes de la alfombra roja del Festival de Cine de Venecia 2026",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUN5dW5kOGw3ckFFbWJ4RmtHb2xSd3JOZ05GTGUyeUNHNGZLX3Bob1kxNWoyQ3dTZlpWYmRIdlJBeU11Y2JIODdGX2F0cDBjcWg2QjdmOVNZNzdRR1VSUGI4bmZta2VpRVZXWFJVYWRTUXBqTjJRYXJRSDV6VUdiNnY2S004TkNHV01iRk1QY18xdFhN?oc=5",
+     "title": "Penélope Cruz luce elegante con un vestido wrap y zapatos de tacón negros en Venecia 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOENSUm5HV2JFZ0NWXzNwRDN4X0NBOUUwb0ltazlWVE5PS0Zkcll1ellicjY4QUJIRjUtXzFqdFYzaHJ5UzhZbWx2d0xsZlJxa1lZRFg1NUhueF9qbjNZc0lqdTBmUnpyeUlFa0x6N2g5WmFYX2lwbFpLM2htMk9DVU5SbEwtUWRsdVYzV19DUWF3VVBldk1IRTRCLVo5V3kyNUhNUEoyWTVvNjM2SFB2YXVFUy0wRFg2SjZr?oc=5",
      "source": "Vogue México",
-     "published": "2026-09-07T20:58:36+00:00",
-     "id": "e31562d14f77"
-    },
-    {
-     "title": "La marca colombiana de lujo que llevará su nueva colección a la Semana de la Moda de Milán",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQm9zcFdvUXhvanpNVEctb2VpbXdSOVRVLVN4ajJnR2dmOXJjZmVWMURWR0RjdDdZYUhpUWJXUDRkalNxZTdaSS1ldGRqWThjbmhCZWw1S3FGc2ZGX0o1VmE0Q1Q2TW52a1pmYnlQaVV5QVBoWEd5azdSSzBSeWU0cmdzVGFBbjhHUElodUNGWF9mZkE2a2NRR1VUVEZXbWVYTk9NNW9nbFdFUzNQSE9lblIwS0h2REJLTlRkSTlLQWFrRml5aWNST04zbEJySzJUUXBRV09B0gHbAUFVX3lxTFBxN0VvUko2XzU2VmFDa1JTeWdwVDhkREhqUENGX0w3cXV0ZThYdl9oSlVDbTRleU1xSU0zaWppelo5MTZ4S2dNMDk3bUNqRnl6VlZjRm5yUzh0Q2t1T3pEYXlhaGVzNVEtWkg1LXdnaHlrVFhrUWkwMVpZb1QtM3FZNF9LekY5TkdQZlJPV2VpVktsdlh0N3M2Nk9hZEEtUzA2OTk3b3dvQlQ4bERqTnAwTHRIM1IwcTNxakgxbXVSd3hWa1NjQkpVY2FoVXJfeE5IbzhVRVhUZ1k0NA?oc=5",
-     "source": "El Tiempo",
-     "published": "2026-09-07T20:56:25+00:00",
-     "id": "7125de381129"
-    },
-    {
-     "title": "Buy a Ticket — Vogue Business Global Summit: New York",
-     "link": "https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-new-york",
-     "source": "Vogue",
-     "published": "2026-09-07T20:00:00+00:00",
-     "copete": "Join us on 4 November for our annual Global Summit.",
-     "id": "ece4f5521ecf"
-    },
-    {
-     "title": "Tendencias de belleza: estos son los looks que marcarán el Otoño-Invierno 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWTY5V2ZTWU1abTQ5dV9uT21BU3VzMmc4Z1NwcEU4SkV1Q08xOGJteTl0QWZidHlvcF9sTHktWWhEdkpWQm5Kd0VCSEc3TlpnVmNfSlZfMlhnTGlFYzNjbjE4cFdhamJPd0hRRnZwa1NhYkxMSWZKV0xYZkVDZ0pacGRLazZOckc3TUpjMVM5V0RzZS1vSElwRVhZbVUtQ1Y2eVl0R0ZUQ2tMaHkwdkxIRjJneUIxRUdPUWhGVmJZWlJZcUdTcmh3ZXhKdlRXRnE00gHWAUFVX3lxTFBLODI2aFNCd2NjMEg1cEpBQzdDekFoeUxndHNIbE1aMGRkQUZReVRwSDlkQTBaek82QmwxSVl3QTFVTTVjMmR3WmFtWUY0dVozd2tnOUpBenlES2RiRXB6eE1FWFQ1THJRWG15T2Z5QUtZSmxMMHhEajk0dDd0Yjhmb1J5NW9Ga2pHOXhmOFNNQjVWTDNLYVpGR0ZvSjlBeHdaLWlsOVZTeU1JM3NWM1k2cDJXN05rY29yYk12VFBYcU5UYW9ZVVJ3RmxrMnE4Tk5pRjh3Qnc?oc=5",
-     "source": "Por Esto!",
-     "published": "2026-09-07T17:50:57+00:00",
-     "id": "c78129b27e42"
-    },
-    {
-     "title": "Rihanna Has Found Her Fall Color Palette—With a Suitably Rihanna Twist",
-     "link": "https://www.vogue.com/article/rihanna-has-found-her-fall-color-palette",
-     "source": "Vogue",
-     "published": "2026-09-07T17:48:12+00:00",
-     "copete": "Earth tones, chocolate, oatmeal—Rihanna is usurping the fall neutrals from the quagmire of quiet luxury for something much more cool.",
-     "id": "073fa71db502"
-    },
-    {
-     "title": "Why You Should Visit the Original ‘Practical Magic’ Filming Location This Fall",
-     "link": "https://www.vogue.com/article/where-was-practical-magic-filmed",
-     "source": "Vogue",
-     "published": "2026-09-07T17:11:33+00:00",
-     "copete": "A travel guide to Washington state's Whidbey Island: the filming location for the original ‘Practical Magic,’ where orca sightings, historic wharves, and misty nature reserves are just another day.",
-     "id": "5499d5531a32"
-    },
-    {
-     "title": "Inside the Most Glittering Parties of Venice Film Festival 2026 (So Far)",
-     "link": "https://www.vogue.com/article/venice-film-festival-2026-best-parties",
-     "source": "Vogue",
-     "published": "2026-09-07T17:02:59+00:00",
-     "copete": "From fashion dinners to charity galas, here, find Vogue’s roundup of the best and most star-studded parties at the 2026 Venice Film Festival.",
-     "id": "da601385c98e"
+     "published": "2026-09-07T23:47:14+00:00",
+     "id": "eadf6ed17d09"
     }
    ]
   },
@@ -169,44 +184,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Murió Marcos Farías, reconocido productor y manager del mundo del cuarteto: la despedida de La Mona Jímenez y Ulises Bueno",
-     "link": "https://www.infobae.com/teleshow/2026/09/07/murio-marcos-farias-reconocido-productor-y-manager-del-mundo-del-cuarteto-la-despedida-de-la-mona-jimenez-y-ulises-bueno/",
+     "title": "Charlotte Caniggia versus Yanina Zilli en Gran Hermano: una jugadora fue eliminada y se definieron las cuatro finalistas",
+     "link": "https://www.infobae.com/teleshow/2026/09/08/charlotte-caniggia-versus-yanina-zilli-en-gran-hermano-una-jugadora-fue-eliminada-y-se-definieron-las-cuatro-finalistas/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-07T22:25:17+00:00",
-     "copete": "La muerte del empresario cordobés y propietario de Radio Máxima (89.3 FM) a los 53 años fue confirmada por su tras un cáncer de hígado detectado hace un mes. Los conmovedores mensajes por su fallecimiento de Tyago Griffo, Q’Lokura y Damián…",
-     "id": "c353da70596c"
+     "published": "2026-09-08T03:52:08+00:00",
+     "copete": "La participante, una de las más queridas, quedó quinta tras perder un mano a mano en un tramo caliente rumbo a la final de Generación Dorada",
+     "id": "f285bace427c"
     },
     {
-     "title": "Gary Oldman aseguró que ya eligieron al próximo James Bond y sorprendió al revelar a quién quiere como 007",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/gary-oldman-aseguro-que-ya-eligieron-al-proximo-james-bond-y-sorprendio-al-revelar-a-quien-quiere-nid07092026/",
+     "title": "Rating: cuánto midió la gala de eliminación de Gran Hermano",
+     "link": "https://www.lanacion.com.ar/espectaculos/television/rating-cuanto-midio-la-gala-de-eliminacion-de-gran-hermano-nid08092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-07T22:24:29+00:00",
-     "copete": "El actor contó que ya se tomó la decisión de quién sucederá a Daniel Craig en la icónica franquicia y apostó por alguien que conoce de cerca",
-     "id": "d95c6ccb775c"
+     "published": "2026-09-08T03:46:30+00:00",
+     "copete": "El reality de Telefe fue seguido por más de 760.000 individuos según Ibope",
+     "id": "514998d5c21e"
     },
     {
-     "title": "El enojo de Gastón Edul por un supuesto video íntimo: “Es totalmente falso”",
-     "link": "https://www.infobae.com/teleshow/2026/09/07/el-enojo-de-gaston-edul-por-un-supuesto-video-intimo-es-totalmente-falso/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-07T21:54:24+00:00",
-     "copete": "La versión se instaló tras la difusión de clips pornográficos en X durante la madrugada del domingo, donde incluso involucraban a Nati Jota. Las palabra del periodista deportivo. Las alarmantes cifras sobre el contenido deepfake",
-     "id": "8573cadaf666"
-    },
-    {
-     "title": "La tardía reflexión de Rob Lowe sobre su carrera: “Ese infame Tom Cruise siempre fue mi némesis”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-tardia-reflexion-de-rob-lowe-sobre-su-carrera-ese-infame-tom-cruise-siempre-fue-mi-nemesis-nid07092026/",
+     "title": "Internaron a Soledad Silveyra tras sufrir una caída en su casa",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/internaron-a-soledad-silveyra-tras-sufrir-una-caida-en-su-casa-nid08092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-07T21:46:14+00:00",
-     "copete": "El actor, que debutó en el cine junto a su colega en Los marginados, aseguró que el protagonista de Top Gun se quedó con muchos de los papeles por los que audicionó",
-     "id": "56b0424c6955"
+     "published": "2026-09-08T03:12:54+00:00",
+     "copete": "La actriz de 74 años tendría una fisura en la cadera y permanece en el sanatorio Otamendi",
+     "id": "a3e30c6106d6"
     },
     {
-     "title": "Flor Vigna quedó eliminada de La Casa de los Famosos México tras una polémica: “Le huele a caca su boca”",
-     "link": "https://www.infobae.com/teleshow/2026/09/07/flor-vigna-quedo-eliminada-de-la-casa-de-los-famosos-mexico-tras-una-polemica-le-huele-a-caca-su-boca/",
+     "title": "Tini Stoessel posó con carteras de Gucci, stilettos y un look de lujo valuado en miles de dólares: las fotos",
+     "link": "https://www.infobae.com/teleshow/2026/09/08/tini-stoessel-poso-con-carteras-de-gucci-stilettos-y-un-look-de-lujo-valuado-en-miles-de-dolares-las-fotos/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-07T21:28:04+00:00",
-     "copete": "La influencer salió del reality por elección de la gente luego de un fuerte cruce con Ese Pérez, influencer mexicano y compañero del programa. El momento",
-     "id": "af33f45efacf"
+     "published": "2026-09-08T03:08:53+00:00",
+     "copete": "La cantante compartió una producción en un hotel mexicano con prendas y accesorios de lujo, mientras sigue con la etapa americana de sus shows",
+     "id": "c623dbc9c5f9"
+    },
+    {
+     "title": "Susana Giménez sorprendió con un glamoroso look floral y habló por primera vez de la serie de Moria Casán",
+     "link": "https://www.infobae.com/teleshow/2026/09/08/susana-gimenez-sorprendio-con-un-glamoroso-look-floral-y-hablo-por-primera-vez-de-la-serie-de-moria-casan/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-08T02:42:27+00:00",
+     "copete": "En la gala solidaria de Fundaleu, la diva eligió un peinado recoquido junto a un despampanante vestido. Qué dijo de la producción de Netflix sobre La One. Habló sobre su propia biopic y le dedicó palabras a Messi y Mirtha",
+     "id": "e7ee51e07939"
+    },
+    {
+     "title": "Mark Wahlberg sorprendió al opinar sobre la renuncia de Messi a la selección argentina: “Es demasiada presión”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/mark-wahlberg-sorprendio-al-opinar-sobre-la-renuncia-de-messi-a-la-seleccion-argentina-es-demasiada-nid07092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-08T02:22:19+00:00",
+     "copete": "El reconocido actor sorprendió al compartir una mirada relacionada al icónico futbolista",
+     "id": "bd92b0fb590f"
+    },
+    {
+     "title": "Donald Trump: entre ser un Linterna verde, o un objeto de burla por los ganadores de un premio Emmy",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/donald-trump-entre-ser-un-linterna-verde-o-un-objeto-de-burla-por-los-ganadores-de-un-premio-emmy-nid07092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-08T02:21:00+00:00",
+     "copete": "El presidente de Estados Unidos hizo referencia a un superhéroe actual, pero también fue parodiado por South Park",
+     "id": "04f0e1334550"
+    },
+    {
+     "title": "Soledad Silveyra fue internada tras sufrir una caída en su casa: “Tiene una fisura en la cadera”",
+     "link": "https://www.infobae.com/teleshow/2026/09/08/soledad-silveyra-fue-internada-tras-sufrir-una-caida-en-su-casa-tiene-una-fisura-en-la-cadera/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-08T01:43:19+00:00",
+     "copete": "La actriz permanece en el Sanatorio Otamendi después de un accidente doméstico, según contaron en LAM. Los detalles",
+     "id": "3f8815dce2af"
+    },
+    {
+     "title": "MasterChef Celebrity anunció a una estrella de la cumbia, dos periodistas de noticiero y un galán para su próxima temporada",
+     "link": "https://www.infobae.com/teleshow/2026/09/08/masterchef-celebrity-anuncio-a-una-estrella-de-la-cumbia-dos-periodistas-de-noticiero-y-un-galan-para-su-proxima-temporada/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-08T00:43:13+00:00",
+     "copete": "Vero Lozano presentó a cuatro figuras que serán parte del reality culinario que encabeza Wanda Nara. Quiénes son",
+     "id": "8cb911beee5f"
+    },
+    {
+     "title": "Marcela Tinayre bromeó sobre la internación de Mirtha Legrand: “Esto le pasa por salidora”",
+     "link": "https://www.infobae.com/teleshow/2026/09/08/marcela-tinayre-bromeo-sobre-la-internacion-de-mirtha-legrand-esto-le-pasa-por-salidora/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-08T00:25:40+00:00",
+     "copete": "La hija de la conductora buscó llevar calma sobre el cuadro de bronquitis de la diva y explicó que su madre sigue de buen ánimo en el Sanatorio Mater Dei",
+     "id": "1a80058e6bc4"
     },
     {
      "title": "La virgen de la tosquera es la película argentina para el Goya",
@@ -217,47 +272,7 @@
      "id": "682aced3099e"
     },
     {
-     "title": "Goya 2027: La virgen de la tosquera, la elegida para representar a la Argentina en la competencia",
-     "link": "https://www.lanacion.com.ar/espectaculos/cine/goya-2027-la-virgen-de-la-tosquera-la-elegida-para-representar-a-la-argentina-en-la-competencia-nid07092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-07T21:13:21+00:00",
-     "copete": "El film de Laura Casabé, basado en dos textos de Mariana Enríquez, fue la seleccionada por la Academia de Cine para optar por el galardón a Mejor película iberoamericana en la 41° edición de los premios españoles",
-     "id": "1671993327c0"
-    },
-    {
-     "title": "Qué se sabe de la salud de Mirtha Legrand",
-     "link": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-de-la-salud-de-mirtha-legrand-nid07092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-07T21:00:42+00:00",
-     "copete": "La conductora de 99 años se encuentra internada en el Mater Dei; no se presentó a la grabación del programa del sábado",
-     "id": "371e9086e316"
-    },
-    {
-     "title": "El contundente posteo de un amigo de La Joaqui contra los dichos de Tuli Acosta: “Hay una cuestión de lealtad”",
-     "link": "https://www.infobae.com/teleshow/2026/09/07/el-contundente-posteo-de-un-amigo-de-la-joaqui-contra-los-dichos-de-tuli-acosta-hay-una-cuestion-de-lealtad/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-07T20:01:17+00:00",
-     "copete": "Luego de los dichos de la artista cordobesa en el ciclo de Andy Kusnetzoff, uno de los integrantes del círculo íntimo de la cantante de RKT, Facundo Guarino, lanzó un fuerte comunicado en su contra y Luck Ra",
-     "id": "f8176718a482"
-    },
-    {
-     "title": "Wanda Nara se tomó un respiro: cómo fue su despedida de las redes y el reencuentro de sus hijas con Mauro Icardi",
-     "link": "https://www.infobae.com/teleshow/2026/09/07/wanda-nara-se-tomo-un-respiro-como-fue-su-despedida-de-las-redes-y-el-reencuentro-de-sus-hijas-con-mauro-icardi/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-07T19:00:04+00:00",
-     "copete": "Tras semanas de tensión, acuerdos judiciales y reencuentros familiares, la conductora de MasterChef Celebrity eligió hacer una pausa y priorizar el bienestar personal",
-     "id": "b0da083d6198"
-    },
-    {
-     "title": "El bailarín Iñaki Urlezaga regresa a la danza después de 8 años fuera de los escenarios",
-     "link": "https://www.infobae.com/teleshow/2026/09/07/el-bailarin-inaki-urlezaga-regresa-a-la-danza-despues-de-8-anos-fuera-de-los-escenarios/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-07T18:02:27+00:00",
-     "copete": "Tras un parate en la actividad, el artista se prepara para volver con El aplauso final, un espectáculo que aborda el retiro, la vocación y la exigencia física",
-     "id": "7b5fc994c8f4"
-    },
-    {
-     "title": "Segunda gala de los Emmy: \"Widow's Bay\", ganó 8 estatuillas, \"The Pitt\" se llevó 4 y una fue para Rob Reiner a nueve meses de su asesinato",
+     "title": "Segunda gala de los Emmy: \"Widow's Bay\" ganó 8 estatuillas, \"The Pitt\" se llevó 4, y una fue para Rob Reiner a nueve meses de su asesinato",
      "link": "https://www.clarin.com/espectaculos/segunda-gala-emmy-widows-bay-gano-8-estatuillas-the-pitt-llevo-4-rob-reiner-meses-asesinato_0_4rQ5HdhLb4.html",
      "source": "Clarín Espectáculos",
      "published": "2026-09-07T17:16:57+00:00",
@@ -271,6 +286,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Dramaturgias de (A)rchivo: lanzaron la segunda convocatoria para crear teatro desde documentos históricos",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU25WWm55NEE5TjR1VUw4bGRLUHJHdmRROXRoQ00wZ2lnYXB4RjB1bGNCNnhVOEZSbVBRZHVrLUdZMkk1NU1rbV8tWHNZcXJqU25CQVBNOUE1amQzN21YelVGdEFEQ2tJWnlKdzYtNV9nMzZNUkNWeW1IUnN1VlhwX2t1dXVrQ2dFQ2xXcl9PT2Q4OG9xdXFLOEFXU0FrUG10TDgwb2FLOHNBQkEyVUtzQU9EaHZWTUxqcjFBa2pTRlNOZi1RTTY0VVhfcW1jUjRBLW5vOUpmMHVmcUQxZVFNQ3ptVUNPYTg3dXBsQVJ3?oc=5",
+     "source": "noticiasd",
+     "published": "2026-09-07T19:42:04+00:00",
+     "id": "640e59061783"
+    },
     {
      "title": "8 nuevos Restaurantes Icónicos se suman al listado porteño",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmhkazZ6N244RDNaem9JTDV5Y3Fial9yRDV2VFpTVHJfcU5FbW1CdXY0cWZFWUl2eTFlSnFZRDhOdm1YVkpaZmUxTUh3T2lkMkZ6VmVzTXFpZWdrMk1ITXlQMEJ6cGhBdUtncEZjUV85TUZlY1lwVE1OSnhTaUdfMVBMU2NMTVVaWVA1ZnVTejRYU3FEM3d5dzRIcmplcWR3MkwxcDJ4NFJsMGQxRVJmQUhn0gG3AUFVX3lxTE50WnBwSjdURlllblFHVHpYempoUU94S1ZIQkNiXzdVZnRfbHFGd0NXRkt2VkxVakx3LS02ZU1KaHBGSFhDSkdRXzFQakhQTlY5bndOSFZpckRLSE1SQ1djaEhxYmhhQlNCTVl0VEpOMVBVdk1ZY3ZhaTc2MS1LbkJ1dkZZU2p5RUV4WDQ3Y2p1bjRoblNpdl9QemhjWkVvVkJSQWk1YmdtdWx0U1BvY291Q2F2SGhMRQ?oc=5",
@@ -288,7 +310,7 @@
     {
      "title": "Vuelve la revista a Buenos Aires con Carmen Barbieri, Álvaro Navia y Gabriel Villalba",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3VyWm1tQy1ZTU93ZFdvVmlVZTQ2UHozODVua3NrTDRkTGVqYTJ4Zm83NS11TExZU1J3TWJpNFlaTzlwb3l3MDVOY3FGYUN5T3BlQkNuemFsVUtsVmMwSFFPYWlpVDhKbWMyOGMydEFfWXZBX1NuanhWNVU0MnJjVzhhZW83UmdVa25rOUhWcERWNDRxOEN4MTZMdk1mM1BJVUVaZl9sTzFQU0JrQUl1bEJkQ2lHMzRJUGtlYUQ0S3XSAcYBQVVfeXFMTk5zeU5sMVhLVVJNekhEeTBIUWdrQnhGV01LQjQtbHlzVE5MSTJDN2lYWTFLSEJpNmYyRzdPMlFRdzNTMUswVVlCTUtVSEU2UHVPdThOVlpZeE43VXB0YWZqMkpvbzBOaHc4bXZGTGxuYVl4OEdrQVZTYW9SS0RJM01VUnNMa2pJa2pLT3lETnBORE1PdE9jaWtxbVNwZTdrMm9CRVVsdFE4THlaUGNRY1o5aVZVR1JSZFFEVEhYTWQ2VmFBVDhB?oc=5",
-     "source": "Ambito",
+     "source": "ambito",
      "published": "2026-09-07T15:41:28+00:00",
      "id": "d8d155232af7"
     },
@@ -302,16 +324,9 @@
     {
      "title": "Cavas a la vista: restaurantes de Buenos Aires que suman un atractivo diferencial",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDdWTnpLMmVSTXgyN3BDaXZnZVhKMTEtaURteTg4T2J0TnowaHNQQUJpTmVJRHd5aUQ0R1RJRlJJR0t5RldaMlVwVjBwU3U1X0g4ZHZSQXY0MG9hV1FsYjhJOXZwS1lzNjJlS2s2MFFUYjFHMGVkNERFMUJUMVFmLUxrc1E1clZyUGxidkdwRFRFd0xWY2dtTXRzRnE0SWtsZkVXcU5VajQ1V2lFQWs0NGU3dWxoZ9IBuwFBVV95cUxPV2w1WlVUWWx4Tnhob204aGE3UjFta3d4U2Zma3JEMnpfd3E3bjY3VzdmQTItX0M0UHNzZFJNOG5oZi1McWVid2xvXzF6MjllcDdKQkhNUURqcm1FTGdCYmlmb01hWXZsWUxvRGJhVW81SGUwZ2dsTGJXQXVNUFNNVEZMbEtsVTdwLVYxZWdhRXRWb3hTUDZVSXA0T0RMMlJmV1lneWVNTFdVcGl5UEpfQk5IRFRFRU9naTNr?oc=5",
-     "source": "Ambito",
+     "source": "ambito",
      "published": "2026-09-07T10:19:00+00:00",
      "id": "00fc28f49e98"
-    },
-    {
-     "title": "Con artistas internacionales de teatro, danza y música: llega otra edición del Festival Internacional de Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa2d2b2l6X0x3aTVNdy1Yd2lweFU1Z1RtTEV0UFFkUUZJWHVaWktPWjYtalQ2RF9uYnNuVzlfSHFyeDhUVmRBUWUzUnpoc1M1bUlIUTBjbUtKZjB3VGJxS0JraEdtZUduN3U5WGl5TkFHRU5odV8zUzFfbHNFeHFGR1pmTzZBMXozMEM4WjVjUmNIVXFIa0puVk95cVVuazAtZ09RWDdicVNYT0ZVNWhaNU5EcXJpai1DeFJocDRCSlJ6ZmtiVURnNkQta3pPWFp1bjhvT09FX0ZKX0VfdDA3MTZB0gH2AUFVX3lxTE5STXFBMk9lOXpHdHFJeDFvd21RWlI4RmNnaERUTGV1QktVOVVwS2t3eEtuNmY2VnJVQ3JQZlpSQkpGWHVkU2JCNFJxYk56akZXU1AyenNnVDJMYTlNMUdHT2NwbzdOSEVDelhXNDVZWHB0TnhWWGxwZmZ3NkJuenJaSFhvNG9FRmJBN0ZfdVhqZm9uUWxsVTFxYzQ3V29Pc2NsVXROdktNSkpTdHY2NmxwSmhtQ2cycFJsSGtoWVFfQ19FdDFmTHBuVGVSZnVpTkNYcmhKdS11YVM0T0o0Q1oxZTFOM1ZYMWlwbEU2TWV4NHVmdkhvUQ?oc=5",
-     "source": "El Destape",
-     "published": "2026-09-06T22:04:50+00:00",
-     "id": "5842c6c566bb"
     },
     {
      "title": "Estos ocho restaurantes porteños que recibieron el título de \"Icónicos\"",
@@ -330,7 +345,7 @@
     {
      "title": "Agenda cultural bonaerense",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBScW9VY1ZMTjZoTHdtWjVwcUpCRE1VWGt4SHJmNnZzcGVfUmF0aDY4WVVoeVJXMXdrcXZuSWZNemk2ejNscUZpVHVrWjVLVzVxSF9KamhsaFRXSFFxdjRvLUd1VzhFZTcwRldvd3MzWm0yWEF4?oc=5",
-     "source": "Página|12",
+     "source": "pagina12.com.ar",
      "published": "2026-09-04T16:55:47+00:00",
      "id": "1b4a8746a7e1"
     },
@@ -349,84 +364,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Un poderoso ministro de Israel le pide a Netanyahu que reconozca la soberanía argentina sobre Malvinas",
-     "link": "https://www.lanacion.com.ar/el-mundo/un-poderoso-ministro-de-israel-le-pide-a-netanyahu-que-reconozca-la-soberania-argentina-sobre-nid07092026/",
-     "source": "La Nación",
-     "published": "2026-09-07T22:49:57+00:00",
-     "copete": "Itamar Ben Gvir, titular de Seguridad Nacional, acusó a Londres de apropiarse de los recursos del archipiélago; reclamó sanciones mientras continúe la ocupación británica en las islas",
-     "id": "c6c7b8bda386"
-    },
-    {
-     "title": "Tres policías declararon en la causa contra Facundo Moyano: qué dijeron y por qué el ex diputado podría ir a a juicio oral",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/09/07/tres-policias-declararon-en-la-causa-contra-facundo-moyano-que-dijeron-y-por-que-el-ex-diputado-podria-ir-a-a-juicio-oral/",
+     "title": "Cómo fueron las jornadas de Alfabetización de TICMAS, que cada año se preguntan sobre los desafíos de enseñar a leer y escribir",
+     "link": "https://www.infobae.com/educacion/2026/09/08/dia-internacional-de-la-alfabetizacion-como-fueron-las-jornadas-de-ticmas-que-cada-ano-se-pregunta-sobre-los-desafios-de-ensenar-a-leer-y-escribir/",
      "source": "Infobae",
-     "published": "2026-09-07T22:49:25+00:00",
-     "copete": "Las agentes reconstruyeron cómo encontraron a Candela Arizaga y qué ocurrió durante el procedimiento. Fuentes del caso señalaron a Infobae cuáles son los elementos que podrían resultar clave para definir el futuro de la investigación",
-     "id": "1489a4e8ce93"
+     "published": "2026-09-08T04:49:35+00:00",
+     "copete": "TICMAS recapitula las Jornadas llevadas adelante en la 50° Feria Internacional del Libro en las que diversos especialistas conversaron sobre el derecho y la fuerza poderosa de aprender a leer y escribir",
+     "id": "64df31867ef0"
     },
     {
-     "title": "Argentinos iguala con Barracas en el cierre de la fecha 8 del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/09/07/se-cierra-la-fecha-8-del-torneo-clausura-la-agenda-de-partidos-y-las-posiciones/",
+     "title": "El testimonio de la acompañante complicó al tiktoker López Gagliasso en el juicio por el choque fatal en Rosario",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/09/08/el-testimonio-de-la-acompanante-complico-al-tiktoker-lopez-gagliasso-en-el-juicio-por-el-choque-fatal-en-rosario/",
      "source": "Infobae",
-     "published": "2026-09-07T22:48:57+00:00",
-     "copete": "El Guapo se mide con el Bicho se miden, mientras que Unión e Instituto se cruzarán desde las 21:15 en el último duelo de la jornada",
-     "id": "767bd28a7c41"
+     "published": "2026-09-08T04:48:13+00:00",
+     "copete": "La joven que viajaba en el auto declaró que le pidió varias veces que frenara antes del impacto en el que murieron una mujer y su hija. La Fiscalía sostiene la acusación por dolo eventual",
+     "id": "e262c71ac9f3"
     },
     {
-     "title": "Conrado Estol, neurólogo: “Si no se logra controlar la ansiedad con hábitos, hay que consultar a un profesional”",
-     "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-si-no-se-logra-controlar-la-ansiedad-con-habitos-hay-que-consultar-a-un-nid31082026/",
+     "title": "El loco de la ruta: la verdad sobre el asesino serial ¿inventado? cuyos crímenes recrea la película Pepita la Pistolera",
+     "link": "https://www.lanacion.com.ar/lifestyle/el-loco-de-la-ruta-la-verdad-sobre-el-asesino-serial-inventado-cuyos-crimenes-recrea-la-pelicula-nid08092026/",
      "source": "La Nación",
-     "published": "2026-09-07T22:48:00+00:00",
-     "copete": "En una entrevista exclusiva para LA NACION, el especialista detalló cómo alcanzar una longevidad saludable a través de cambios en el estilo de vida; advirtió sobre el manejo médico de la salud mental",
-     "id": "a4a7e4b2f715"
+     "published": "2026-09-08T04:41:00+00:00",
+     "copete": "El filme protagonizado por Luisana Lopilato revive la historia de la madama marplatense en el contexto de una serie de muertes y desapariciones de prostitutas atribuidas a un psicópata que habría sido inventado",
+     "id": "6046203b6068"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el Gobierno le canjeó US$2000 millones en títulos al Banco Central para que mantenga contenido al dólar",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-por-los-anuncios-sobre-malvinas-y-una-sesion-clave-nid07092026/",
+     "title": "Retiraron la camioneta que había ingresado de forma ilegal en la Pampa del Leoncito: qué pasó con el conductor",
+     "link": "https://www.lanacion.com.ar/sociedad/retiraron-la-camioneta-que-habia-ingresado-de-forma-ilegal-en-la-pampa-del-leoncito-que-paso-con-el-nid08092026/",
      "source": "La Nación",
-     "published": "2026-09-07T22:47:56+00:00",
-     "copete": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "0b1cb22882f7"
+     "published": "2026-09-08T04:34:04+00:00",
+     "copete": "La Justicia local autorizó la extracción del rodado y aplicó una multa de $8.600.000 a los responsables",
+     "id": "29769e7ac2c6"
     },
     {
-     "title": "Frenan cacería ilegal en área protegida de Panamá y capturan a los infractores",
-     "link": "https://www.infobae.com/panama/2026/09/07/frenan-caceria-ilegal-en-area-protegida-de-panama-y-capturan-a-los-infractores/",
+     "title": "Hernán Lacunza, exministro de Economía: “Si el Gobierno sigue así, va a ganar el kirchnerismo”",
+     "link": "https://www.lanacion.com.ar/politica/hernan-lacunza-exministro-de-economia-si-el-gobierno-sigue-asi-va-a-ganar-el-kirchnerismo-nid08092026/",
+     "source": "La Nación",
+     "published": "2026-09-08T04:22:32+00:00",
+     "copete": "El exfuncionario nacional diferenció la propuesta de Pro de la del oficialismo de cara a 2027 y sostuvo que sus diferencias con el oficialismo son “económicas pero también institucionales”",
+     "id": "87fe9cbb5de9"
+    },
+    {
+     "title": "“El Mufa”: el Boeing argentino que sufrió dos secuestros, aterrizó sin tren delantero, perdió una puerta en el aire y terminó en llamas",
+     "link": "https://www.lanacion.com.ar/lifestyle/el-mufa-el-boeing-argentino-que-sufrio-dos-secuestros-aterrizo-sin-tren-delantero-perdio-una-puerta-nid08092026/",
+     "source": "La Nación",
+     "published": "2026-09-08T04:19:00+00:00",
+     "copete": "El avión fue incorporado a Aerolíneas Argentinas en 1970, acumuló un historial difícil de igualar y terminó siendo recordado por un apodo poco auspicioso",
+     "id": "5217ce1defbb"
+    },
+    {
+     "title": "Gobierno salvadoreño lanza licitación internacional para construir un estacionamiento de cuatro niveles en el aeropuerto internacional",
+     "link": "https://www.infobae.com/el-salvador/2026/09/08/gobierno-salvadoreno-lanza-licitacion-internacional-para-construir-un-estacionamiento-de-cuatro-niveles-en-el-aeropuerto-internacional/",
      "source": "Infobae",
-     "published": "2026-09-07T22:47:19+00:00",
-     "copete": "La cacería está prohibida en todas las áreas protegidas del país, y quienes incurran en esta práctica pueden enfrentar el decomiso de armas, multas y penas de prisión",
-     "id": "02c99eabad72"
+     "published": "2026-09-08T04:11:49+00:00",
+     "copete": "La obra prevé 2.050 espacios para vehículos y será el primer proyecto activado con el crédito de 195 millones de dólares del BID firmado en enero de 2026",
+     "id": "b44b4360bc26"
     },
     {
-     "title": "Costa Rica reduce a cuatro los centros educativos que mantienen suspendidas las lecciones presenciales tras fuertes lluvias",
-     "link": "https://www.infobae.com/costa-rica/2026/09/07/costa-rica-reduce-a-cuatro-los-centros-educativos-que-mantienen-suspendidas-las-lecciones-presenciales-tras-fuertes-lluvias/",
+     "title": "Decomisan 800 galones de combustible presuntamente destinados al contrabando en Honduras",
+     "link": "https://www.infobae.com/honduras/2026/09/08/decomisan-800-galones-de-combustible-presuntamente-destinados-al-contrabando-en-honduras/",
      "source": "Infobae",
-     "published": "2026-09-07T22:46:06+00:00",
-     "copete": "Las instituciones afectadas se concentran en Guápiles, donde persisten condiciones que dificultan el acceso seguro de estudiantes y personal.",
-     "id": "4165ad48d080"
+     "published": "2026-09-08T04:10:21+00:00",
+     "copete": "La intervención de la Fuerza Naval en los cayos al norte de la Barra de Caratasca, en Gracias a Dios, permitió ubicar varios sitios usados para reabastecimiento clandestino de lanchas.",
+     "id": "dce368b88df1"
     },
     {
-     "title": "Jugó en el fútbol argentino y hoy es dueño de dos concesionarios de motos: “Hay que tener la cabeza ocupada, si no empezás a deprimirte, no hay que darle lugar a eso”",
-     "link": "https://www.lanacion.com.ar/deportes/jugo-en-el-futbol-argentino-lo-dirigio-maradona-y-hoy-es-dueno-de-dos-concesionarios-hay-que-tener-nid07092026/",
-     "source": "La Nación",
-     "published": "2026-09-07T22:45:09+00:00",
-     "copete": "Compartió un año con el Diez cuando dirigió en Dorados de Sinaloa; el título que conquistó con Arsenal y su desembarco en el mundo de las motos",
-     "id": "c119c0e9b7ed"
-    },
-    {
-     "title": "Recuperan la caja negra del avión de Amazon que se salió de la pista en Miami",
-     "link": "https://www.clarin.com/estados-unidos/recuperan-la-caja-negra-del-avion-de-amazon-que-se-salio-de-la-pista-en-miami_0_L6aKRAZtnO.html",
+     "title": "México y EE.UU. activan operación binacional antidrones en frontera Tijuana-San Diego",
+     "link": "https://www.clarin.com/estados-unidos/mexico-y-ee-uu-activan-operacion-binacional-antidrones-en-frontera-tijuana-san-diego_0_nAeLupmCg4.html",
      "source": "Clarín",
-     "published": "2026-09-07T22:20:10+00:00",
-     "copete": "Un avión de carga fletado por un gigante del comercio en línea se salió de pista en Miami, chocando con vehículos y dejando cinco víctimas mortales. Las cajas negras fueron recuperadas para análisis. El accidente, que afectó operaciones…",
-     "id": "c8235c058dd4"
+     "published": "2026-09-08T04:10:08+00:00",
+     "copete": "México y EE.UU. lanzan 'Águila Alta', una operación conjunta para neutralizar drones usados por el crimen organizado en la frontera. La colaboración busca asegurar la frontera con equipos antidrones, respetando la soberanía y coordinando…",
+     "id": "f8495d841ecd"
     },
     {
-     "title": "Casi la mitad de las empresas industriales tuvo problemas para afrontar sus gastos y más de la mitad de ellas recurrió a deuda",
-     "link": "https://www.clarin.com/economia/mitad-empresas-industriales-problemas-afrontar-gastos-mitad-recurrio-deuda_0_DYFTRkBulx.html",
+     "title": "Un ministro de Israel definió a las Malvinas como \"territorio ocupado\" y le pidió a Netanyahu que reconozca la soberanía argentina",
+     "link": "https://www.clarin.com/politica/ministro-israel-definio-malvinas-territorio-ocupado-pidio-netanyahu-reconozca-soberania-argentina_0_QJIofAqEvW.html",
      "source": "Clarín",
-     "published": "2026-09-07T22:15:44+00:00",
-     "copete": "Es un relevamiento de la Unión Industrial Argentina. Los impuestos aparecen como el ítem que más complicaciones generó.",
-     "id": "b78787a51099"
+     "published": "2026-09-08T04:02:35+00:00",
+     "copete": "Itamar Ben Gvir, encargado del área de Seguridad Nacional israelí, dijo que \"los británicos le roban violentamente al pueblo argentino\". Además, reclamó medidas contra el Reino Unido por su presencia en el archipiélago. Javier Milei…",
+     "id": "ccd0125f9b1d"
     }
    ]
   },
@@ -436,6 +451,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Los vínculos con Arabia Saudita del hombre en el centro de una multimillonaria demanda por los ataques del 11-S",
+     "link": "https://www.bbc.com/mundo/articles/clyk8dve3zko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-08T03:50:49+00:00",
+     "copete": "Las imágenes y otras pruebas que el FBI no compartió ponen en duda la declaración de inocencia que Omar al-Bayoumi ha mantenido durante 25 años.",
+     "id": "24ea11858a35"
+    },
+    {
+     "title": "Las autoridades investigan las causas del accidente de avión que dejó al menos 5 muertos tras chocar con varios vehículos en el aeropuerto de Miami",
+     "link": "https://www.bbc.com/mundo/articles/cj641kkdekno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-08T03:49:48+00:00",
+     "copete": "El avión de carga de la compañía Amazon se salió de la pista de aterrizaje a casi 209 km/h este domingo sobre las 14:00 hora local.",
+     "id": "f8758ff0dd71"
+    },
+    {
+     "title": "Lo que ocurre cuando se deja crecer a la bestia",
+     "link": "https://elpais.com/internacional/2026-09-08/lo-que-ocurre-cuando-se-deja-crecer-a-la-bestia.html",
+     "source": "El País Internacional",
+     "published": "2026-09-08T03:40:00+00:00",
+     "copete": "Cerrar los ojos ante el racismo y los discursos del odio tiene consecuencias",
+     "id": "e9431a6b6f29"
+    },
+    {
+     "title": "Por qué el triunfo de AfD en Alemania es una victoria para el plan de Trump de desestabilizar Europa",
+     "link": "https://elpais.com/internacional/2026-09-08/por-que-el-triunfo-de-afd-en-alemania-es-una-victoria-para-el-plan-de-trump-de-desestabilizar-europa.html",
+     "source": "El País Internacional",
+     "published": "2026-09-08T03:40:00+00:00",
+     "copete": "El partido ultra contaba con el apoyo de Elon Musk, quien, junto con otras personalidades MAGA, ha celebrado los históricos resultados en Sajonia-Anhalt",
+     "id": "e2bf966c529b"
+    },
+    {
+     "title": "Estados Unidos llega dividido al 25º aniversario del trauma del 11-S",
+     "link": "https://elpais.com/internacional/2026-09-08/estados-unidos-llega-dividido-al-25-aniversario-del-trauma-del-11-s.html",
+     "source": "El País Internacional",
+     "published": "2026-09-08T03:40:00+00:00",
+     "copete": "Rudolph Giuliani, alcalde de Nueva York en el momento de los atentados y estrecho aliado de Trump, pide a Mamdani que no participe en la conmemoración, a la que tampoco irá el presidente",
+     "id": "544b4c255949"
+    },
+    {
+     "title": "Vivir en Gaza a la espera de una llamada",
+     "link": "https://elpais.com/internacional/2026-09-08/vivir-en-gaza-a-la-espera-de-una-llamada.html",
+     "source": "El País Internacional",
+     "published": "2026-09-08T03:40:00+00:00",
+     "copete": "Miles de palestinos pasan sus días pendientes de ser evacuados de la Franja, sobre todo por motivos médicos, al albur de Israel y de los países de acogida",
+     "id": "6bc9e739800a"
+    },
+    {
      "title": "El rey Carlos III deja claro que Harry y Meghan siguen sin ejercer funciones para la monarquía británica pese a su regreso a Reino Unido",
      "link": "https://www.bbc.com/mundo/articles/cde0z4g7718o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -444,60 +507,12 @@
      "id": "8ebacb1410ee"
     },
     {
-     "title": "Serbia, a un paso de las elecciones anticipadas tras casi dos años de protestas estudiantiles",
-     "link": "https://elpais.com/internacional/2026-09-07/serbia-a-un-paso-de-las-elecciones-anticipadas-tras-casi-dos-anos-de-protestas-estudiantiles.html",
-     "source": "El País Internacional",
-     "published": "2026-09-07T20:52:06+00:00",
-     "copete": "El Gobierno de Duro Macut llama a Aleksandar Vucic a disolver el Parlamento. El presidente, que no puede repetir mandato, concurrirá como candidato a primer ministro",
-     "id": "82dbc44a2cdf"
-    },
-    {
-     "title": "Miles de personas salen a la calle en Alemania para plantar cara a la extrema derecha",
-     "link": "https://elpais.com/internacional/2026-09-07/miles-de-personas-salen-a-la-calle-en-alemania-para-plantar-cara-a-la-extrema-derecha.html",
-     "source": "El País Internacional",
-     "published": "2026-09-07T20:07:38+00:00",
-     "copete": "Varios representantes del partido conservador CDU se suman a la manifestación en Berlín",
-     "id": "cdae7f79bbcc"
-    },
-    {
-     "title": "Por qué AfD es un partido de extrema derecha",
-     "link": "https://elpais.com/internacional/2026-09-07/por-que-afd-es-un-partido-de-extrema-derecha.html",
-     "source": "El País Internacional",
-     "published": "2026-09-07T19:20:59+00:00",
-     "copete": "La formación que lidera Alice Weidel está a un paso de hacerse con el Gobierno de Sajonia-Anhalt, uno de los Estados más pobres de Alemania",
-     "id": "82367bacb11b"
-    },
-    {
-     "title": "La victoria de la extrema derecha en Sajonia-Anhalt abre una crisis en el Gobierno alemán",
-     "link": "https://elpais.com/internacional/2026-09-07/la-victoria-de-la-extrema-derecha-en-sajonia-anhalt-sacude-a-la-coalicion-de-gobierno-en-alemania.html",
-     "source": "El País Internacional",
-     "published": "2026-09-07T19:18:05+00:00",
-     "copete": "Merz admite que “no se puede volver a la normalidad” tras el triunfo de AfD. Los resultados ponen sobre aviso a Europa de cara a un 2027 con elecciones clave",
-     "id": "d52dffb366ea"
-    },
-    {
      "title": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
      "link": "https://www.bbc.com/mundo/articles/cvgy1jyg6dwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-09-07T18:06:24+00:00",
      "copete": "Décadas después de la caída del Muro de Berlín, la baja en las tasas de natalidad en el este de Alemania revela profundas divisiones en el país.",
      "id": "5dae267318a7"
-    },
-    {
-     "title": "\"No reconocí a mi novio cuando me lo crucé en el supermercado\": cómo descubrí que tenía ceguera facial",
-     "link": "https://www.bbc.com/mundo/articles/cy5zwgq579wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-07T17:41:28+00:00",
-     "copete": "Tras ser diagnosticada con prosopagnosia, o ceguera facial, la periodista de la BBC Caroline Steele examina la ciencia que hay detrás de esta afección, incluyendo sus causas y cómo los expertos determinan si una persona podría padecerla o…",
-     "id": "66f0be01a6e5"
-    },
-    {
-     "title": "El dilema que enfrenta Europa tras la primera victoria de la extrema derecha en Alemania desde la Segunda Guerra Mundial",
-     "link": "https://www.bbc.com/mundo/articles/c07ldmj0dryo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-07T16:02:12+00:00",
-     "copete": "La corresponsal de la BBC para Europa, Katya Adler, considera que la victoria de la extrema derecha en el estado de Sajonia-Anhalt es una señal de alarma para la UE y los partidos tradicionales.",
-     "id": "fd7cf968570c"
     }
    ]
   }
@@ -511,11 +526,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
