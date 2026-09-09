@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T22:08:12Z",
+  "generated_at": "2026-09-09T10:07:54Z",
   "summaries": {
     "81cba7ef8c81": {
       "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
@@ -13,11 +13,6 @@
       "resumen": "Artículo en Journal of Clinical Oncology (JCO) sobre daraxonrasib, inhibidor pan-RAS oral en investigación, en cáncer de páncreas, que repasa la evidencia desde los resultados iniciales en segunda línea hasta los datos emergentes en primera línea. Interesa porque el cáncer de páncreas tiene pocas terapias dirigidas y la mayoría de sus tumores porta mutaciones de RAS (KRAS).",
       "destacado": false,
       "analisis": "Diseño: El título sugiere un artículo que resume la evolución de la evidencia clínica de daraxonrasib en cáncer de páncreas (posiblemente con datos originales de un estudio en curso); no se especifica fase, aleatorización ni tamaño muestral.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación de RAS (KRAS), en distintas líneas de tratamiento.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral en investigación), sin comparador definido en el título.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede confirmar si se trata de datos originales de un ensayo o de una síntesis narrativa de estudios previos, ni evaluar la solidez estadística de los hallazgos.\nMensaje: Si la evidencia en primera línea se confirma, daraxonrasib podría sumar una opción dirigida en un tumor con necesidad urgente de terapias más allá de la quimioterapia citotóxica.\nNota: análisis sin acceso al abstract."
-    },
-    "c55fe42c10bd": {
-      "resumen": "Publicación en Journal of Clinical Oncology (JCO) con los datos actualizados de eficacia y seguridad del estudio CUPISCO, un ensayo aleatorizado de fase II que compara terapia guiada molecularmente (según el perfil genómico del tumor) frente a continuar con quimioterapia en cáncer de origen primario desconocido (CUP) de perfil desfavorable. Interesa porque el CUP desfavorable tiene mal pronóstico y pocas opciones basadas en biomarcadores.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase II (estudio CUPISCO), con datos actualizados de eficacia y seguridad; el título no precisa el número de centros, el cegamiento ni el tamaño muestral exacto.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP, cancer of unknown primary) de perfil desfavorable.\nIntervención: Terapia molecularmente guiada (seleccionada según el perfil genómico del tumor) frente a continuar con quimioterapia convencional.\nResultados: El título indica que se presentan datos actualizados de eficacia y seguridad, pero no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la madurez del seguimiento ni el perfil de toxicidad de cada brazo.\nMensaje: Si la actualización confirma un beneficio de la terapia guiada molecularmente, reforzaría el rol de la secuenciación genómica amplia para orientar el tratamiento en el CUP desfavorable, un escenario con pronóstico ominoso y pocas alternativas basadas en biomarcadores.\nNota: análisis sin acceso al abstract."
     },
     "6a3314243675": {
       "resumen": "Weekend/Perfil informa que ocho nuevos locales se suman al listado de Restaurantes Icónicos de la Ciudad de Buenos Aires."
@@ -44,12 +39,8 @@
     },
     "621cab9a7e88": {
       "resumen": "Nota de OncLive sobre un estudio de mantenimiento en primera línea que combina durvalumab (inmunoterapia anti-PD-L1) con tarlatamab (anticuerpo biespecífico que se une a DLL3 y CD3) en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC). Los resultados muestran mejoría en la supervivencia frente al estándar actual, un dato relevante en un tumor agresivo con pocas novedades terapéuticas.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: El título sugiere un ensayo clínico que evalúa mantenimiento tras la inducción; no se detalla fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer), en mantenimiento de primera línea tras la inducción.\nIntervención: Durvalumab (anti-PD-L1) más tarlatamab (biespecífico DLL3xCD3) como mantenimiento; comparador no especificado en el título (probablemente durvalumab solo, el estándar actual).\nResultados: El título indica una mejora en supervivencia (\"boosts survival\"), sin cifras de supervivencia global, supervivencia libre de progresión, razón de riesgo ni valor de p.\nLimitaciones: Sin el abstract no se puede confirmar la magnitud del beneficio ni el perfil de toxicidad, relevante porque tarlatamab se asocia a síndrome de liberación de citoquinas.\nMensaje: Si se confirma, podría posicionar la combinación como nuevo estándar de mantenimiento en un tumor de pronóstico muy adverso donde la inmunoterapia sola aporta beneficios modestos.\nNota: análisis sin acceso al abstract."
-    },
-    "f494d3746565": {
-      "resumen": "Nota de OncLive en la que los especialistas Camidge y Singhi seleccionan los resúmenes de cáncer de pulmón más relevantes para seguir en el Congreso Mundial de Cáncer de Pulmón (WCLC) 2026. Funciona como guía anticipada de los datos que podrían marcar tendencia en oncología torácica este año.",
-      "destacado": false
     },
     "a09d60c40a78": {
       "resumen": "Nota de The ASCO Post sobre un estudio observacional que asocia un mayor consumo de grasas saturadas con peores desenlaces en cáncer de próstata. Suma evidencia sobre el rol de la dieta en el pronóstico oncológico, aunque el diseño observacional no permite establecer causalidad.",
@@ -64,15 +55,6 @@
       "resumen": "Cobertura de The ASCO Post sobre un estudio de quimiorradioterapia de curso largo en cáncer de recto, con resultados tempranos que muestran una ventaja en preservación de órgano (evitar la cirugía con colostomía) frente a otros esquemas. Interesa por la tendencia creciente a estrategias de preservación de órgano en cáncer de recto.",
       "destacado": false,
       "analisis": "Diseño: Estudio o ensayo clínico comparativo de quimiorradioterapia de curso largo, con resultados descriptos como \"tempranos\"; el título no especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de recto candidatos a estrategias de preservación de órgano.\nIntervención: Quimiorradioterapia de curso largo (long-course), con comparador no especificado en el título (probablemente radioterapia de curso corto u otro esquema).\nResultados: El título menciona una ventaja temprana en preservación de órgano, sin cifras de tasa de respuesta clínica completa, supervivencia libre de eventos ni intervalos de confianza.\nLimitaciones: Al tratarse de resultados \"tempranos\", el seguimiento podría ser corto, lo que limita conclusiones sobre control oncológico a largo plazo y recidiva.\nMensaje: Suma evidencia a favor de estrategias de preservación de órgano en cáncer de recto, aunque el seguimiento a más largo plazo será clave para confirmar que la ventaja se mantiene sin comprometer el control tumoral.\nNota: análisis sin acceso al abstract."
-    },
-    "f9e083dfc96d": {
-      "resumen": "Publicación en JAMA Oncology de un ensayo clínico aleatorizado de fase III que evalúa el tratamiento neoadyuvante (previo a la cirugía) con anbenitamab y HB1801 en cáncer de mama con sobreexpresión de ERBB2 (HER2 positivo). Interesa por tratarse de un ensayo de fase III, el nivel de evidencia más sólido, en un subtipo con terapias dirigidas en constante evolución.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III; el título no especifica cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de mama ERBB2 positivo (HER2 positivo) candidatas a tratamiento neoadyuvante (previo a la cirugía).\nIntervención: Anbenitamab y HB1801 (agentes dirigidos a HER2, en investigación) en el contexto neoadyuvante; el título no especifica el brazo comparador.\nResultados: No se dispone de cifras de tasa de respuesta patológica completa, supervivencia libre de eventos ni intervalos de confianza a partir del título.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la definición exacta del criterio de valoración principal ni el perfil de toxicidad de la combinación.\nMensaje: Si los resultados son positivos, podría sumar una nueva opción neoadyuvante dirigida en cáncer de mama HER2 positivo, un escenario donde la respuesta patológica completa se asocia a mejor pronóstico a largo plazo.\nNota: análisis sin acceso al abstract."
-    },
-    "f91084caacab": {
-      "resumen": "Columna de opinión en JAMA Oncology en la que una genetista especializada en cáncer relata, desde su propia experiencia como paciente, el hallazgo incidental de una variante en el gen SDHA (asociado a riesgo de tumores como paragangliomas y feocromocitomas). Aporta una mirada personal sobre el impacto de los hallazgos genéticos incidentales.",
-      "destacado": false
     },
     "c019d7187223": {
       "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Donna Karan."
@@ -89,23 +71,38 @@
     "0058e49119d3": {
       "resumen": "Vogue México destaca el regreso de las uñas milky, la manicura elegante que impone Penélope Cruz para este otoño."
     },
-    "8205f45168dc": {
-      "resumen": "Vogue México repasa el look de Kate Middleton, con zapatos de taco marrones y vestido verde, en el primer día de clases de sus hijos."
-    },
     "68387fcb3152": {
       "resumen": "Vogue México presenta Bunker, la película protagonizada por Penélope Cruz y Javier Bardem que compite en el Festival de Venecia 2026."
     },
     "2a3edd168867": {
       "resumen": "Crónica cuenta que Zoe Gotusso suma una función en Buenos Aires y cierra su gira 2026 con dos noches en el Teatro Coliseo."
     },
-    "cf896df3f923": {
-      "resumen": "Página/12 anuncia el comienzo del Festival Internacional de Buenos Aires."
+    "1ecf042ec651": {
+      "resumen": "Cobertura de OncLive sobre datos de la vida real (real-world data) que confirman el valor pronóstico del ADN tumoral circulante (ctDNA, circulating tumor DNA) en linfomas: su detección o persistencia se asocia a mayor riesgo de recaída. Interesa porque el ctDNA es una herramienta cada vez más usada para monitorear la enfermedad mínima residual.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de datos de vida real (real-world data), probablemente de cohorte retrospectiva o registro; el título no especifica número de centros ni de pacientes.\nPoblación: Pacientes con linfoma; el título no precisa subtipo, estadio ni línea de tratamiento.\nIntervención: No es una intervención terapéutica sino la evaluación del ADN tumoral circulante (ctDNA) como biomarcador pronóstico, medido en distintos momentos del tratamiento.\nResultados: El título indica que los datos \"destacan el valor pronóstico\" del ctDNA, pero no aporta cifras de razón de riesgo, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el punto de corte usado para definir positividad del ctDNA ni la solidez estadística del hallazgo; los estudios de vida real además pueden tener sesgos de selección.\nMensaje: Refuerza el rol emergente del ctDNA como herramienta de estratificación pronóstica en linfomas, aunque se necesita validación prospectiva antes de que guíe cambios de conducta terapéutica.\nNota: análisis sin acceso al abstract."
     },
-    "1af12769bd1d": {
-      "resumen": "Ciudad Magazine informa que Zoe Gotusso suma una nueva fecha en el Teatro Coliseo tras agotar entradas, con detalles de cuándo y cómo conseguirlas."
+    "5da91ccbf353": {
+      "resumen": "Pieza de la sección 'Art of Oncology' de Journal of Clinical Oncology (JCO), un espacio dedicado a relatos y reflexiones personales sobre la experiencia del cáncer, tanto desde la mirada de pacientes como de profesionales. No reporta un estudio clínico; interesa como mirada humanística sobre la práctica oncológica.",
+      "destacado": false
     },
-    "d354af6e37e5": {
-      "resumen": "RPP Noticias cuenta que Mauricio Diez Canseco estrena en Buenos Aires 'La Revista Vuelve', con Carmen Barbieri y Aixa Sosa."
+    "1aeb5bb09d5b": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca Rag & Bone."
+    },
+    "98cb9bcc2ba1": {
+      "resumen": "Vogue México cuenta cuál es, según Alexandra Leclerc, el rubor favorito de la temporada, que ahora llega en una versión mini."
+    },
+    "33dafce68011": {
+      "resumen": "La Nación Espectáculos repasa el proceso creativo de \"Principio de éxtasis\", una puesta que propone una mirada inédita sobre el universo de Jorge Luis Borges."
+    },
+    "2898b8ae011c": {
+      "resumen": "Palermo Mio presenta FIBA 2026, doce días de programación de teatro y danza que se despliegan en Buenos Aires."
+    },
+    "ed63ace0a4fb": {
+      "resumen": "Agencia NOVA repasa el regreso a escena de \"La Ratonera\", el clásico de Agatha Christie, que tuvo su avant premiere en el Teatro Liceo."
+    },
+    "115f7dc65659": {
+      "resumen": "MDZ Online informa que Zoe Gotusso agotó las entradas de su show en Buenos Aires y sumó una nueva fecha."
     }
   }
 }
