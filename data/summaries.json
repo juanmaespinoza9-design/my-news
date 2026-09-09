@@ -1,6 +1,35 @@
 {
-  "generated_at": "2026-09-09T10:07:54Z",
+  "generated_at": "2026-09-09T22:07:08Z",
   "summaries": {
+    "cdf0a8a2324b": {
+      "resumen": "Datos de un estudio en fase temprana sobre un anticuerpo biespecífico conjugado a droga (ADC, antibody-drug conjugate) de primera clase en su tipo, que muestra actividad en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer) que recayó tras el tratamiento inicial. Vale la pena seguirlo porque es un tumor muy agresivo con pocas opciones eficaces en recaída.",
+      "destacado": true,
+      "analisis": "Diseño: El título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes; por tratarse de un producto \"first-in-class\" es probable que se trate de un estudio en fase temprana (fase 1 o 1/2).\nPoblación: Pacientes con cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC), en recaída tras tratamiento previo.\nIntervención: Un anticuerpo biespecífico conjugado a droga (ADC) de primera clase en su tipo, sin comparador especificado en el título (probablemente estudio de un solo brazo).\nResultados: El título indica que el fármaco \"muestra actividad\", sin cifras de tasa de respuesta objetiva, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud del beneficio ni el perfil de toxicidad de este mecanismo novedoso.\nMensaje: Un dato temprano pero relevante en un tumor de pronóstico muy adverso con escasas alternativas en recaída; habrá que esperar datos más maduros antes de cualquier cambio de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "e989e23e40d0": {
+      "resumen": "The ASCO Post despide al doctor Gary R. Morrow, pionero en investigación oncológica, fallecido a los 82 años. Es una nota necrológica más que un dato clínico, pero reconoce a un referente en el estudio de los efectos adversos del tratamiento del cáncer.",
+      "destacado": false
+    },
+    "c3c19074e782": {
+      "resumen": "Cobertura de OncLive sobre namodenoson, agonista oral del receptor de adenosina A3 en investigación, que en carcinoma hepatocelular (HCC, hepatocellular carcinoma) avanzado logró una supervivencia global (OS, overall survival) mayor a la esperada. Interesa porque el HCC avanzado tiene opciones limitadas más allá de la inmunoterapia y los inhibidores de tirosina-quinasa.",
+      "destacado": false,
+      "analisis": "Diseño: El título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma hepatocelular (HCC) avanzado; el título no precisa línea de tratamiento ni función hepática basal.\nIntervención: Namodenoson, agonista oral del receptor de adenosina A3, sin comparador especificado en el título.\nResultados: El título destaca una supervivencia global \"mayor a la esperada\", sin cifras concretas de meses de supervivencia, razón de riesgo ni intervalo de confianza.\nLimitaciones: Sin el abstract no se puede confirmar si hubo grupo control, cuál fue la comparación histórica usada para calificar la supervivencia como \"mayor a la esperada\", ni el tamaño muestral.\nMensaje: Un resultado alentador en un escenario de necesidad insatisfecha, pero la ausencia de comparador claro en el título obliga a esperar la publicación completa antes de considerar cambios de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "d8918a9a9502": {
+      "resumen": "OncLive reporta respuestas con micvotabart pelidotin, un anticuerpo conjugado a droga (ADC) en monoterapia, en carcinoma escamoso de cabeza y cuello (HNSCC, head and neck squamous cell carcinoma) recurrente o metastásico ya tratado previamente. Relevante porque estos pacientes suelen tener pocas opciones eficaces tras progresar a los esquemas estándar.",
+      "destacado": false,
+      "analisis": "Diseño: El título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes; que sea \"monoterapia\" en población pretratada sugiere un estudio en fase temprana de un solo brazo.\nPoblación: Pacientes con carcinoma escamoso de cabeza y cuello (HNSCC) recurrente o metastásico, ya tratados con líneas previas.\nIntervención: Micvotabart pelidotin (anticuerpo conjugado a droga, ADC) en monoterapia, sin comparador en el título.\nResultados: El título indica que el fármaco \"genera respuestas\", sin cifras de tasa de respuesta objetiva, duración de respuesta ni supervivencia libre de progresión.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de las respuestas ni la toxicidad asociada al ADC.\nMensaje: Señal de actividad temprana en un escenario de pocas alternativas tras progresión; se necesitan datos más maduros y comparativos para definir su lugar en la secuencia terapéutica.\nNota: análisis sin acceso al abstract."
+    },
+    "4068872dcc69": {
+      "resumen": "The ASCO Post cubre un estudio observacional que asocia el uso de agonistas del receptor de GLP-1 (glucagon-like peptide-1, usados originalmente para diabetes y obesidad) con menor riesgo de cáncer colorrectal en pacientes con enfermedad inflamatoria intestinal (IBD, inflammatory bowel disease). Interesante porque la IBD ya de por sí aumenta el riesgo de cáncer colorrectal y estos fármacos son cada vez más usados.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio observacional, probablemente de cohorte retrospectiva sobre bases de datos o registros; no se especifica número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad inflamatoria intestinal (IBD), comparando quienes recibieron agonistas del receptor de GLP-1 versus quienes no.\nIntervención: No es una intervención sino una exposición farmacológica (agonistas de GLP-1, usados para diabetes u obesidad), analizada de forma retrospectiva.\nResultados: El título indica una asociación (\"linked to lower risk\") con menor riesgo de cáncer colorrectal, sin cifras de razón de riesgo, hazard ratio ni intervalos de confianza.\nLimitaciones: Al ser observacional, el hallazgo puede estar confundido por otros factores (índice de masa corporal, control de la enfermedad inflamatoria, adherencia a controles endoscópicos) y no permite establecer causalidad.\nMensaje: Una señal interesante que amerita estudios prospectivos, pero no alcanza aún para modificar las indicaciones de estos fármacos ni el esquema de vigilancia de cáncer colorrectal en IBD.\nNota: análisis sin acceso al abstract."
+    },
+    "f89e7c9c7597": {
+      "resumen": "OncLive informa sobre dabogratinib, inhibidor del receptor 3 del factor de crecimiento fibroblástico (FGFR3, fibroblast growth factor receptor 3), que logró respuestas en cáncer de vejiga no músculo-invasivo (NMIBC, non-muscle invasive bladder cancer) de bajo grado y riesgo intermedio con esa alteración molecular. Interesa porque abre una alternativa dirigida frente a la instilación intravesical estándar en un subgrupo definido molecularmente.",
+      "destacado": false,
+      "analisis": "Diseño: El título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo (NMIBC) de bajo grado y riesgo intermedio, con alteración en FGFR3 (FGFR3+).\nIntervención: Dabogratinib, inhibidor de FGFR3, sin comparador especificado en el título (probablemente frente al manejo estándar con instilaciones intravesicales).\nResultados: El título indica que el fármaco \"genera respuestas\", sin cifras de tasa de respuesta completa, duración de respuesta ni tasa de recurrencia.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de las respuestas ni si hubo comparación directa con el tratamiento estándar.\nMensaje: Una opción dirigida promisoria para un subgrupo molecularmente seleccionado de NMIBC, que podría reducir la necesidad de instilaciones repetidas si se confirma en estudios comparativos.\nNota: análisis sin acceso al abstract."
+    },
     "81cba7ef8c81": {
       "resumen": "Artículo de opinión en Journal of Clinical Oncology (JCO) que plantea que la evaluación de riesgo de cáncer de mama tiene un problema de integración de datos (historia familiar, imágenes, genética y factores clínicos dispersos en distintos sistemas) y discute si la inteligencia artificial (IA) puede ayudar a resolverlo. Interesa como mirada conceptual sobre un obstáculo práctico para personalizar el cribado.",
       "destacado": false
@@ -14,17 +43,42 @@
       "destacado": false,
       "analisis": "Diseño: El título sugiere un artículo que resume la evolución de la evidencia clínica de daraxonrasib en cáncer de páncreas (posiblemente con datos originales de un estudio en curso); no se especifica fase, aleatorización ni tamaño muestral.\nPoblación: Pacientes con cáncer de páncreas avanzado con mutación de RAS (KRAS), en distintas líneas de tratamiento.\nIntervención: Daraxonrasib (inhibidor pan-RAS oral en investigación), sin comparador definido en el título.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede confirmar si se trata de datos originales de un ensayo o de una síntesis narrativa de estudios previos, ni evaluar la solidez estadística de los hallazgos.\nMensaje: Si la evidencia en primera línea se confirma, daraxonrasib podría sumar una opción dirigida en un tumor con necesidad urgente de terapias más allá de la quimioterapia citotóxica.\nNota: análisis sin acceso al abstract."
     },
+    "5da91ccbf353": {
+      "resumen": "Pieza de la sección 'Art of Oncology' de Journal of Clinical Oncology (JCO), un espacio dedicado a relatos y reflexiones personales sobre la experiencia del cáncer, tanto desde la mirada de pacientes como de profesionales. No reporta un estudio clínico; interesa como mirada humanística sobre la práctica oncológica.",
+      "destacado": false
+    },
+    "46d049b8f1d4": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Adam Lippes."
+    },
+    "a739598dfd44": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Rachel Comey."
+    },
+    "4c810be7493b": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Cult Gaia."
+    },
+    "957bad20f138": {
+      "resumen": "Vogue México cuenta que Taylor Swift ya lució las sandalias de tiras gruesas que se perfilan como tendencia para el otoño 2026."
+    },
+    "c72158652f8a": {
+      "resumen": "Vogue México repasa las faldas que serán tendencia en otoño-invierno 2026: largas, drapeadas, plisadas y más."
+    },
+    "5d00bf98cca9": {
+      "resumen": "Caras destaca un look de Flor Torrente que anticipa una de las grandes tendencias de la temporada de primavera."
+    },
+    "7451c9ba8b05": {
+      "resumen": "InStyle cuenta que Zara lanzó jerséis finos con cuello panadero, la tendencia de otoño 2026 más viral en redes sociales."
+    },
+    "59de94efc6fe": {
+      "resumen": "Vogue México destaca el vestido rojo de diseño francés con el que Penélope Cruz brilló en el Festival de Venecia 2026."
+    },
+    "d8d25a2f302c": {
+      "resumen": "OHLALÁ! repasa cinco tendencias de verano que Dua Lipa mostró durante sus vacaciones en un destino paradisíaco."
+    },
     "6a3314243675": {
       "resumen": "Weekend/Perfil informa que ocho nuevos locales se suman al listado de Restaurantes Icónicos de la Ciudad de Buenos Aires."
     },
     "00fc28f49e98": {
       "resumen": "Ámbito propone un recorrido por restaurantes porteños que suman cavas de vino como atractivo diferencial a la propuesta gastronómica."
-    },
-    "ba3961a761a1": {
-      "resumen": "iProfesional repasa los ocho restaurantes de Buenos Aires que recibieron la distinción de 'Icónicos' por parte del Gobierno porteño."
-    },
-    "c686d305a8e5": {
-      "resumen": "Urgente24 arma la agenda de planes para el fin de semana en el AMBA: Cafecito BA, un intento de alfajor récord, conciertos Candlelight y más."
     },
     "1b4a8746a7e1": {
       "resumen": "Página/12 propone su agenda cultural para la provincia de Buenos Aires."
@@ -32,77 +86,23 @@
     "2f56aa2ebc1c": {
       "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
     },
-    "c03fd3029682": {
-      "resumen": "Cobertura de OncLive sobre un estudio en primera línea que combina el fármaco en investigación mipletamig con otros agentes (esquema triple) en pacientes con leucemia mieloide aguda (LMA) con mutación en el gen TP53, un subgrupo de altísimo riesgo y mal pronóstico. Interesa porque hay pocas opciones eficaces para esta población y se reporta beneficio clínico.",
-      "destacado": false,
-      "analisis": "Diseño: El título no precisa la fase del ensayo, la aleatorización, el cegamiento ni el número de centros o pacientes; por el estadio de desarrollo del fármaco es probable que se trate de un estudio en fase temprana (fase 1/2).\nPoblación: Pacientes con leucemia mieloide aguda (LMA) con mutación en el gen TP53, en primera línea de tratamiento.\nIntervención: Esquema triple con mipletamig más otros dos agentes, sin comparador especificado en el título.\nResultados: El título indica beneficio clínico (\"drives clinical benefit\"), pero no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la madurez del seguimiento ni si hubo grupo control.\nMensaje: Si se confirma el beneficio, podría sumar una opción para un subgrupo de LMA de pronóstico muy adverso con pocas alternativas terapéuticas eficaces.\nNota: análisis sin acceso al abstract."
+    "26f717967e3b": {
+      "resumen": "La Nación adelanta cómo será el Campeonato Mundial de Carnes en Buenos Aires y qué restaurantes porteños participan."
     },
-    "621cab9a7e88": {
-      "resumen": "Nota de OncLive sobre un estudio de mantenimiento en primera línea que combina durvalumab (inmunoterapia anti-PD-L1) con tarlatamab (anticuerpo biespecífico que se une a DLL3 y CD3) en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC). Los resultados muestran mejoría en la supervivencia frente al estándar actual, un dato relevante en un tumor agresivo con pocas novedades terapéuticas.",
-      "destacado": true,
-      "analisis": "Diseño: El título sugiere un ensayo clínico que evalúa mantenimiento tras la inducción; no se detalla fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer), en mantenimiento de primera línea tras la inducción.\nIntervención: Durvalumab (anti-PD-L1) más tarlatamab (biespecífico DLL3xCD3) como mantenimiento; comparador no especificado en el título (probablemente durvalumab solo, el estándar actual).\nResultados: El título indica una mejora en supervivencia (\"boosts survival\"), sin cifras de supervivencia global, supervivencia libre de progresión, razón de riesgo ni valor de p.\nLimitaciones: Sin el abstract no se puede confirmar la magnitud del beneficio ni el perfil de toxicidad, relevante porque tarlatamab se asocia a síndrome de liberación de citoquinas.\nMensaje: Si se confirma, podría posicionar la combinación como nuevo estándar de mantenimiento en un tumor de pronóstico muy adverso donde la inmunoterapia sola aporta beneficios modestos.\nNota: análisis sin acceso al abstract."
+    "f2804343eaaf": {
+      "resumen": "Noticias Urbanas anuncia el comienzo del Festival Internacional de Buenos Aires (FIBA)."
     },
-    "a09d60c40a78": {
-      "resumen": "Nota de The ASCO Post sobre un estudio observacional que asocia un mayor consumo de grasas saturadas con peores desenlaces en cáncer de próstata. Suma evidencia sobre el rol de la dieta en el pronóstico oncológico, aunque el diseño observacional no permite establecer causalidad.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio observacional (probablemente de cohorte); no se especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de próstata; el título no precisa estadio ni línea de tratamiento.\nIntervención: No es una intervención sino una exposición dietética, mayor ingesta de grasas saturadas, comparada presumiblemente con menor ingesta.\nResultados: El título usa \"may be linked\" (podría estar asociado), lo que sugiere una asociación estadística sin certeza causal; no hay cifras de riesgo relativo, razón de riesgo (hazard ratio) ni intervalos de confianza.\nLimitaciones: Los estudios observacionales de dieta están sujetos a factores de confusión (comorbilidades, nivel socioeconómico, otros hábitos) y a sesgo de memoria si la dieta se autorreportó.\nMensaje: Un dato más para reforzar el consejo general de reducir grasas saturadas en pacientes oncológicos, pero sin base por sí solo para cambiar conductas clínicas.\nNota: análisis sin acceso al abstract."
+    "936542b02cb3": {
+      "resumen": "Infobae cuenta cómo el Festival Internacional de Buenos Aires (FIBA) convierte a la ciudad en escenario de las artes escénicas mundiales durante doce días."
     },
-    "678f6bef90e9": {
-      "resumen": "Noticia institucional de The ASCO Post: el doctor Duane A. Mitchell fue nombrado director del UF Health Cancer Institute (Instituto de Cáncer de la Universidad de Florida). Es una novedad de gestión académica más que un dato clínico, pero marca a un referente en inmunoterapia e investigación de tumores cerebrales.",
-      "destacado": false
+    "6439d121963f": {
+      "resumen": "ANSA Latina informa sobre un acuerdo de cooperación entre el Teatro San Carlo de Nápoles y el Teatro Colón de Buenos Aires."
     },
-    "a8303348d867": {
-      "resumen": "Cobertura de The ASCO Post sobre un estudio de quimiorradioterapia de curso largo en cáncer de recto, con resultados tempranos que muestran una ventaja en preservación de órgano (evitar la cirugía con colostomía) frente a otros esquemas. Interesa por la tendencia creciente a estrategias de preservación de órgano en cáncer de recto.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio o ensayo clínico comparativo de quimiorradioterapia de curso largo, con resultados descriptos como \"tempranos\"; el título no especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer de recto candidatos a estrategias de preservación de órgano.\nIntervención: Quimiorradioterapia de curso largo (long-course), con comparador no especificado en el título (probablemente radioterapia de curso corto u otro esquema).\nResultados: El título menciona una ventaja temprana en preservación de órgano, sin cifras de tasa de respuesta clínica completa, supervivencia libre de eventos ni intervalos de confianza.\nLimitaciones: Al tratarse de resultados \"tempranos\", el seguimiento podría ser corto, lo que limita conclusiones sobre control oncológico a largo plazo y recidiva.\nMensaje: Suma evidencia a favor de estrategias de preservación de órgano en cáncer de recto, aunque el seguimiento a más largo plazo será clave para confirmar que la ventaja se mantiene sin comprometer el control tumoral.\nNota: análisis sin acceso al abstract."
+    "4f89bf537c9f": {
+      "resumen": "La Vereda presenta la programación del FIBA 2026, doce días de teatro, danza y arte en Buenos Aires."
     },
-    "c019d7187223": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Donna Karan."
-    },
-    "266fa9ca31c3": {
-      "resumen": "La Voz del Interior cubre la Expo Córdoba Corazón de Moda 2026, que propone repensar cómo nos vinculamos con el cuerpo y la edad."
-    },
-    "fbf1c2adc6de": {
-      "resumen": "Quién repasa las tendencias de moda otoñal que eligen las it girls esta temporada."
-    },
-    "a00d04c56da9": {
-      "resumen": "El Universal propone tendencias de otoño para incorporar al look de todos los días."
-    },
-    "0058e49119d3": {
-      "resumen": "Vogue México destaca el regreso de las uñas milky, la manicura elegante que impone Penélope Cruz para este otoño."
-    },
-    "68387fcb3152": {
-      "resumen": "Vogue México presenta Bunker, la película protagonizada por Penélope Cruz y Javier Bardem que compite en el Festival de Venecia 2026."
-    },
-    "2a3edd168867": {
-      "resumen": "Crónica cuenta que Zoe Gotusso suma una función en Buenos Aires y cierra su gira 2026 con dos noches en el Teatro Coliseo."
-    },
-    "1ecf042ec651": {
-      "resumen": "Cobertura de OncLive sobre datos de la vida real (real-world data) que confirman el valor pronóstico del ADN tumoral circulante (ctDNA, circulating tumor DNA) en linfomas: su detección o persistencia se asocia a mayor riesgo de recaída. Interesa porque el ctDNA es una herramienta cada vez más usada para monitorear la enfermedad mínima residual.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de datos de vida real (real-world data), probablemente de cohorte retrospectiva o registro; el título no especifica número de centros ni de pacientes.\nPoblación: Pacientes con linfoma; el título no precisa subtipo, estadio ni línea de tratamiento.\nIntervención: No es una intervención terapéutica sino la evaluación del ADN tumoral circulante (ctDNA) como biomarcador pronóstico, medido en distintos momentos del tratamiento.\nResultados: El título indica que los datos \"destacan el valor pronóstico\" del ctDNA, pero no aporta cifras de razón de riesgo, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el punto de corte usado para definir positividad del ctDNA ni la solidez estadística del hallazgo; los estudios de vida real además pueden tener sesgos de selección.\nMensaje: Refuerza el rol emergente del ctDNA como herramienta de estratificación pronóstica en linfomas, aunque se necesita validación prospectiva antes de que guíe cambios de conducta terapéutica.\nNota: análisis sin acceso al abstract."
-    },
-    "5da91ccbf353": {
-      "resumen": "Pieza de la sección 'Art of Oncology' de Journal of Clinical Oncology (JCO), un espacio dedicado a relatos y reflexiones personales sobre la experiencia del cáncer, tanto desde la mirada de pacientes como de profesionales. No reporta un estudio clínico; interesa como mirada humanística sobre la práctica oncológica.",
-      "destacado": false
-    },
-    "1aeb5bb09d5b": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca Rag & Bone."
-    },
-    "98cb9bcc2ba1": {
-      "resumen": "Vogue México cuenta cuál es, según Alexandra Leclerc, el rubor favorito de la temporada, que ahora llega en una versión mini."
-    },
-    "33dafce68011": {
-      "resumen": "La Nación Espectáculos repasa el proceso creativo de \"Principio de éxtasis\", una puesta que propone una mirada inédita sobre el universo de Jorge Luis Borges."
-    },
-    "2898b8ae011c": {
-      "resumen": "Palermo Mio presenta FIBA 2026, doce días de programación de teatro y danza que se despliegan en Buenos Aires."
-    },
-    "ed63ace0a4fb": {
-      "resumen": "Agencia NOVA repasa el regreso a escena de \"La Ratonera\", el clásico de Agatha Christie, que tuvo su avant premiere en el Teatro Liceo."
-    },
-    "115f7dc65659": {
-      "resumen": "MDZ Online informa que Zoe Gotusso agotó las entradas de su show en Buenos Aires y sumó una nueva fecha."
+    "acff53b99bab": {
+      "resumen": "Página/12 arma la agenda de propuestas culturales LGBTIQ para hacer este fin de semana en Buenos Aires."
     }
   }
 }
