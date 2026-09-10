@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-09-10T10:07:45Z",
+  "generated_at": "2026-09-10T22:08:09Z",
   "summaries": {
-    "d8918a9a9502": {
-      "resumen": "OncLive reporta respuestas con micvotabart pelidotin, un anticuerpo conjugado a droga (ADC) en monoterapia, en carcinoma escamoso de cabeza y cuello (HNSCC, head and neck squamous cell carcinoma) recurrente o metastásico ya tratado previamente. Relevante porque estos pacientes suelen tener pocas opciones eficaces tras progresar a los esquemas estándar.",
-      "destacado": false,
-      "analisis": "Diseño: El título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes; que sea \"monoterapia\" en población pretratada sugiere un estudio en fase temprana de un solo brazo.\nPoblación: Pacientes con carcinoma escamoso de cabeza y cuello (HNSCC) recurrente o metastásico, ya tratados con líneas previas.\nIntervención: Micvotabart pelidotin (anticuerpo conjugado a droga, ADC) en monoterapia, sin comparador en el título.\nResultados: El título indica que el fármaco \"genera respuestas\", sin cifras de tasa de respuesta objetiva, duración de respuesta ni supervivencia libre de progresión.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de las respuestas ni la toxicidad asociada al ADC.\nMensaje: Señal de actividad temprana en un escenario de pocas alternativas tras progresión; se necesitan datos más maduros y comparativos para definir su lugar en la secuencia terapéutica.\nNota: análisis sin acceso al abstract."
-    },
-    "6a3314243675": {
-      "resumen": "Weekend/Perfil informa que ocho nuevos locales se suman al listado de Restaurantes Icónicos de la Ciudad de Buenos Aires."
-    },
-    "00fc28f49e98": {
-      "resumen": "Ámbito propone un recorrido por restaurantes porteños que suman cavas de vino como atractivo diferencial a la propuesta gastronómica."
-    },
-    "1b4a8746a7e1": {
-      "resumen": "Página/12 propone su agenda cultural para la provincia de Buenos Aires."
-    },
-    "2f56aa2ebc1c": {
-      "resumen": "Meteored propone cuatro planes gastronómicos para el primer fin de semana de septiembre en Buenos Aires."
-    },
     "26f717967e3b": {
       "resumen": "La Nación adelanta cómo será el Campeonato Mundial de Carnes en Buenos Aires y qué restaurantes porteños participan."
     },
@@ -30,19 +13,6 @@
     },
     "88a6c77b7a26": {
       "resumen": "The ASCO Post reporta sobre la campaña 'Save Research', que impulsa el sostenimiento del financiamiento federal estadounidense para investigación oncológica. Nota de índole institucional/política científica, relevante para entender el contexto de la investigación en cáncer en Estados Unidos.",
-      "destacado": false
-    },
-    "2b9d063b7614": {
-      "resumen": "The ASCO Post reporta que un esquema con envafolimab, anticuerpo anti-PD-L1 de dominio único administrado por vía subcutánea, mejoró la respuesta patológica completa (pCR, pathologic complete response) en cáncer de recto localmente avanzado con estabilidad microsatelital (MSS, microsatellite stable). Llama la atención porque los tumores MSS suelen responder poco a la inmunoterapia, a diferencia de los MSI-H/dMMR.",
-      "destacado": false,
-      "analisis": "Diseño: El título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de recto localmente avanzado y estabilidad microsatelital (MSS), un subgrupo que históricamente responde poco a la inmunoterapia.\nIntervención: Esquema con envafolimab (anticuerpo anti-PD-L1 de dominio único, subcutáneo), sin comparador explícito en el título.\nResultados: El título indica una mejora en la respuesta patológica completa (pCR), sin cifras de tasa de pCR, intervalo de confianza ni comparación estadística.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, si hubo grupo control, ni la durabilidad del beneficio a mediano plazo.\nMensaje: Si se confirma, sería un dato relevante porque extendería el beneficio de la inmunoterapia neoadyuvante a la mayoría de los cánceres de recto (los MSS), hoy fuera del alcance de estas estrategias.\nNota: análisis sin acceso al abstract."
-    },
-    "15d726215675": {
-      "resumen": "OncLive publica un artículo de perspectiva sobre cómo optimizar la primera línea de tratamiento en carcinoma renal avanzado, tanto de células claras como no claras, buscando maximizar la profundidad de respuesta. Es una nota de opinión/revisión de expertos más que el reporte de un estudio nuevo, útil como puesta al día del enfoque terapéutico actual.",
-      "destacado": false
-    },
-    "9a585fb599ce": {
-      "resumen": "OncLive analiza cómo el estado de mutación del dominio tirosina-quinasa (TKD, tyrosine kinase domain) y los datos de compromiso del sistema nervioso central (SNC) orientan la secuencia de tratamientos de primera línea en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación de HER2. Es un artículo de discusión de expertos, no el reporte de un ensayo puntual.",
       "destacado": false
     },
     "2b9ad19e2167": {
@@ -64,47 +34,78 @@
       "destacado": false,
       "analisis": "Diseño: Análisis secundario/traslacional del ensayo SU2C-SARC032; no se especifican en el título el número de centros ni de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con sarcomas localizados tratados dentro del ensayo SU2C-SARC032, con muestras seriadas para ADN tumoral circulante (ctDNA).\nIntervención: Radioterapia asociada a pembrolizumab (inhibidor de PD-1), con seguimiento mediante ctDNA personalizado (diseñado por tumor individual) para predecir y rastrear la respuesta.\nResultados: El título indica que el ctDNA \"predice desenlaces y rastrea la respuesta\", sin cifras de sensibilidad, correlación con supervivencia libre de recaída ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral de este subanálisis, la proporción de pacientes con ctDNA detectable, ni si el hallazgo se validó de forma independiente.\nMensaje: Si se confirma, el ctDNA podría convertirse en una herramienta de seguimiento temprano en sarcomas localizados tratados con radioterapia e inmunoterapia, anticipando recaídas antes que los estudios de imagen.\nNota: análisis sin acceso al abstract."
     },
-    "552a8a75e866": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Monique Lhuillier."
+    "63a53c205801": {
+      "resumen": "El esquema ACTIVE combina varias drogas para tratar la leucemia mieloide aguda (LMA) con mutación en el gen NPM1 que recayó o no respondió a tratamientos previos (recaída/refractaria, R/R). OncLive reporta tasas de respuesta altas en este escenario de difícil manejo. Interesa porque las opciones para pacientes que recaen tras terapias dirigidas siguen siendo escasas.",
+      "destacado": false,
+      "analisis": "Diseño: No hay abstract disponible; según la cobertura de OncLive se trata de un estudio clínico que evalúa el esquema combinado ACTIVE en LMA recaída/refractaria (R/R) con mutación NPM1, sin precisiones sobre aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Adultos con LMA con mutación en NPM1 en recaída o refractariedad a tratamientos previos.\nIntervención: Esquema combinado denominado ACTIVE; el título no detalla los fármacos que lo componen ni el comparador.\nResultados: El título indica \"altas tasas de respuesta\", sin cifras concretas de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Nota basada solo en el título de OncLive; se desconocen el diseño exacto, el tamaño muestral y si los datos corresponden a una publicación revisada por pares o a una presentación de congreso.\nMensaje: Podría sumar una alternativa en un escenario de pronóstico adverso, pero hace falta la publicación completa con datos maduros antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
     },
-    "11525dc6d37e": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de 3.1 Phillip Lim."
+    "62086d253623": {
+      "resumen": "Entrevista a un especialista sobre datos de eficacia y seguridad de fase 2 de DISC-3405, una droga en investigación para la policitemia vera (PV), una neoplasia mieloproliferativa crónica con exceso de glóbulos rojos. Aporta la mirada de un experto sobre una molécula en desarrollo para esta enfermedad.",
+      "destacado": false,
+      "analisis": "Diseño: Se trata de una nota en formato entrevista (\"Dr X on...\") en la que un especialista comenta datos de un estudio de fase 2; no es el reporte primario del estudio y no hay abstract disponible.\nPoblación: Pacientes con policitemia vera (PV).\nIntervención: DISC-3405, fármaco en investigación cuyo mecanismo no se especifica en el título.\nResultados: No hay cifras disponibles; el título solo indica que se discuten datos de eficacia y seguridad de fase 2.\nLimitaciones: Es una nota de opinión/entrevista sobre datos presentados en otro lugar, no la publicación original; sin abstract no se pueden confirmar los resultados numéricos ni el diseño del estudio.\nMensaje: Aporta contexto de un especialista sobre una molécula en desarrollo para PV; es prematuro definir su lugar en la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "b56d09fa7105": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Ralph Lauren."
+    "fa289faedc65": {
+      "resumen": "Revumenib es un inhibidor de la interacción menina-KMT2A, una diana molecular relevante en la leucemia mieloide aguda (LMA) con mutación en NPM1 o reordenamiento del gen KMT2A. OncLive reporta que, sumado a quimioterapia en pacientes recién diagnosticados, logró altas tasas de respuesta y de negativización de la enfermedad residual mínima (ERM). Relevante porque podría cambiar el estándar de primera línea en este subgrupo molecular.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título se trata de un estudio clínico que combina revumenib con quimioterapia estándar en LMA de diagnóstico reciente; no se dispone del abstract completo para precisar aleatorización, cegamiento, centros ni número de pacientes.\nPoblación: Pacientes con LMA recién diagnosticada, con mutación en NPM1 o reordenamiento de KMT2A.\nIntervención: Revumenib asociado a quimioterapia de inducción/consolidación estándar; el título no menciona un comparador explícito.\nResultados: Se reportan \"altas tasas de respuesta\" y de negativización de la ERM, sin cifras concretas de respuesta, supervivencia libre de progresión ni supervivencia global disponibles sin el abstract.\nLimitaciones: Nota basada solo en el título; faltan datos maduros de supervivencia y el perfil de toxicidad del esquema.\nMensaje: Combinación prometedora en un subgrupo molecular de mal pronóstico, pero se necesitan datos de supervivencia a más largo plazo antes de considerarla estándar de primera línea.\nNota: análisis sin acceso al abstract."
     },
-    "a65b9100cec2": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de LaPointe."
+    "ff94df270e8f": {
+      "resumen": "Columna de opinión de The ASCO Post sobre cómo la inteligencia artificial (IA) está redefiniendo el concepto de expertise clínica en oncología. Vale la pena leerla como disparador de debate sobre el rol del oncólogo frente a las nuevas herramientas de IA.",
+      "destacado": false
     },
-    "19fb57265be7": {
-      "resumen": "La Razón cuenta cómo Madrid se suma a las tendencias de primavera-verano 2027 de la mano de Dolores Promesas, Juan Duyos y Juan Avellaneda."
+    "9d9b51960c11": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Nili Lotan, la diseñadora conocida por su estética urbana y minimalista."
     },
-    "c14a9a7179b1": {
-      "resumen": "Vanitatis repasa las novedades en perfumes de otoño: las notas que serán tendencia y las fragancias para no dejar pasar."
+    "328cb9ae7e78": {
+      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Tommy Hilfiger, la marca estadounidense de estética preppy."
     },
-    "fc146f275978": {
-      "resumen": "Infobae cuenta cómo arrancó la Semana de la Moda de Nueva York, con color, textura y volumen como protagonistas."
+    "79ffa6813ebc": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Bad Binch Tongtong, la firma parisina conocida por su estética irreverente y colorida."
     },
-    "228b958361ba": {
-      "resumen": "Vogue México repasa los colores de cabello tendencia para el otoño-invierno 2026: rubio italiano, raíces estilo años 90, reflejos rojizos y más."
+    "797841d41303": {
+      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Proenza Schouler, la marca neoyorquina fundada por Lazaro Hernandez y Jack McCollough."
     },
-    "558f62f8f3c6": {
-      "resumen": "Vogue México cuenta que los baggy jeans de los años 80 vuelven en septiembre 2026, combinados con zapatillas, sandalias y zapatos de tacón españoles."
+    "64e0f4b8b48b": {
+      "resumen": "Una selección de los looks de street style más destacados durante la Semana de la Moda de Nueva York primavera-verano 2027."
     },
-    "74238d773eea": {
-      "resumen": "ReconquistaHOY anuncia la llegada de Fabián Medina Flores a la región para un conversatorio sobre moda, estilo y tendencias."
+    "5793f7431035": {
+      "resumen": "El look elegido por Penélope Cruz para su despedida del Festival de Cine de Venecia 2026: vestido floral y zapatos de tacón negros."
     },
-    "8fb4cac15ecb": {
-      "resumen": "Agencia NOVA cuenta que \"La Ratonera\", el clásico de Agatha Christie, volvió a escena con su avant premiere en el Teatro Liceo."
+    "4b0d88f08ebc": {
+      "resumen": "La actriz Eiza González combina pantalones skinny con botas de tacón, una de las tendencias del mes."
     },
-    "72c6b9d3160b": {
-      "resumen": "Xinhua Español informa que se inauguró el Festival de artes escénicas de Buenos Aires, con la participación de 15 países."
+    "792f441a5f41": {
+      "resumen": "La revista OHLALÁ! adelanta las cinco tendencias de moda que se impondrán en 2027."
     },
-    "cbb167008e04": {
-      "resumen": "Perfil presenta \"Remilgada Fantasía\", una obra en Moscú Teatro sobre versos, lazos de sangre y una Buenos Aires que muta."
+    "d4da33cd7ee5": {
+      "resumen": "La influencer española Laura Escanes combina una camisa de cuadros de Pull&Bear con pantalones capri, dos tendencias del mes."
     },
-    "41e55981ff4c": {
-      "resumen": "Cadena 3 Argentina informa el fallecimiento de la actriz y directora Victoria Fraga, a los 73 años, en Buenos Aires."
+    "1549ab487c43": {
+      "resumen": "El testimonio de una empresaria que construyó desde cero un imperio de la moda, se volvió multimillonaria y terminó en bancarrota."
+    },
+    "372fd630d673": {
+      "resumen": "La Embajada de España recomienda cinco restaurantes porteños para comer platos típicos españoles."
+    },
+    "26fad30c2cb7": {
+      "resumen": "El Festival Internacional de Buenos Aires (FIBA) 2026 despliega teatro, danza y arte en 35 sedes de la ciudad."
+    },
+    "611ffa300c5c": {
+      "resumen": "Una guía con los planes imperdibles para hacer este fin de semana en la Ciudad de Buenos Aires."
+    },
+    "4cdda42271eb": {
+      "resumen": "Se realizan las XII Jornadas del Fuero Penal Juvenil de la Provincia en el Teatro Municipal, según Hecho en Quilmes."
+    },
+    "c974185dc72e": {
+      "resumen": "La agenda de planes y actividades en Buenos Aires para el fin de semana del 11 al 13 de septiembre."
+    },
+    "acc2922f28c4": {
+      "resumen": "El ciclo Estación Buenos Aires se suma al Septiembre Musical con un concierto de música de cámara."
+    },
+    "ac9123e72187": {
+      "resumen": "Buenos Aires propone una semana cultural con teatro, música y tango."
+    },
+    "67b6a5c5ba54": {
+      "resumen": "Una selección de los mejores restaurantes kosher porteños para celebrar Rosh Hashaná, el Año Nuevo judío."
     }
   }
 }
