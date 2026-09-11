@@ -1,18 +1,54 @@
 {
-  "generated_at": "2026-09-10T22:08:09Z",
+  "generated_at": "2026-09-11T10:08:43Z",
   "summaries": {
-    "26f717967e3b": {
-      "resumen": "La Nación adelanta cómo será el Campeonato Mundial de Carnes en Buenos Aires y qué restaurantes porteños participan."
+    "d426c0745dc5": {
+      "resumen": "Entrevista de OncLive al Dr. Sallman sobre los próximos pasos para ofirnoflast, una droga en investigación para el síndrome mielodisplásico (SMD) de bajo riesgo, una enfermedad de la médula ósea que afecta la producción normal de células sanguíneas. Sirve para seguir el desarrollo clínico de esta molécula en un escenario con pocas opciones de tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Nota en formato entrevista donde un especialista comenta los próximos pasos de desarrollo clínico de ofirnoflast; no es el reporte primario de un estudio y no hay abstract disponible.\nPoblación: Pacientes con síndrome mielodisplásico (SMD) de bajo riesgo.\nIntervención: Ofirnoflast, fármaco en investigación cuyo mecanismo no se detalla en el título.\nResultados: El título no aporta cifras de eficacia ni seguridad.\nLimitaciones: Es una nota de opinión/entrevista sobre un programa de desarrollo, no la publicación de un estudio; sin abstract no se pueden confirmar datos numéricos ni el diseño.\nMensaje: Aporta la mirada de un especialista sobre una molécula en desarrollo para el SMD de bajo riesgo; es prematuro definir su lugar en la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "acff53b99bab": {
-      "resumen": "Página/12 arma la agenda de propuestas culturales LGBTIQ para hacer este fin de semana en Buenos Aires."
+    "5eee9395f869": {
+      "resumen": "OncLive reporta que ELVN-001, un inhibidor en investigación, logró respuestas moleculares en pacientes con leucemia mieloide crónica en fase crónica (LMC-FC) muy pretratados, es decir que ya recibieron varias líneas previas. Relevante porque hay pocas alternativas para quienes ya fallaron a los inhibidores de tirosina quinasa disponibles.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título se trata de un estudio clínico que evalúa ELVN-001 en pacientes muy pretratados; no hay abstract disponible para precisar fase, aleatorización ni número de centros o pacientes.\nPoblación: Pacientes con leucemia mieloide crónica en fase crónica (LMC-FC), heavily pretreated, es decir con múltiples líneas previas de tratamiento.\nIntervención: ELVN-001, inhibidor en investigación; el título no menciona comparador.\nResultados: Se reportan \"respuestas moleculares\", sin cifras concretas de tasa de respuesta molecular mayor ni profundidad de respuesta.\nLimitaciones: Nota basada solo en el título; faltan datos de seguridad, durabilidad de la respuesta y tamaño muestral.\nMensaje: Podría sumar una opción para pacientes con LMC muy pretratados y resistencia a inhibidores previos, pero se necesitan datos maduros antes de un cambio de práctica.\nNota: análisis sin acceso al abstract."
     },
-    "d38da97789b6": {
-      "resumen": "The ASCO Post cubre la entrega del 20.º Premio Anual a la Trayectoria en Medicina Personalizada, un reconocimiento a referentes que impulsaron el uso de biomarcadores y terapias dirigidas en oncología. Es una nota institucional, no un estudio clínico, pero sirve para ver quién marca agenda en el campo.",
+    "63a53c205801": {
+      "resumen": "El esquema ACTIVE combina varias drogas para tratar la leucemia mieloide aguda (LMA) con mutación en el gen NPM1 que recayó o no respondió a tratamientos previos (recaída/refractaria, R/R). OncLive reporta tasas de respuesta altas en este escenario de difícil manejo. Interesa porque las opciones para pacientes que recaen tras terapias dirigidas siguen siendo escasas.",
+      "destacado": false,
+      "analisis": "Diseño: No hay abstract disponible; según la cobertura de OncLive se trata de un estudio clínico que evalúa el esquema combinado ACTIVE en LMA recaída/refractaria (R/R) con mutación NPM1, sin precisiones sobre aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Adultos con LMA con mutación en NPM1 en recaída o refractariedad a tratamientos previos.\nIntervención: Esquema combinado denominado ACTIVE; el título no detalla los fármacos que lo componen ni el comparador.\nResultados: El título indica \"altas tasas de respuesta\", sin cifras concretas de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Nota basada solo en el título de OncLive; se desconocen el diseño exacto, el tamaño muestral y si los datos corresponden a una publicación revisada por pares o a una presentación de congreso.\nMensaje: Podría sumar una alternativa en un escenario de pronóstico adverso, pero hace falta la publicación completa con datos maduros antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "ff94df270e8f": {
+      "resumen": "Columna de opinión de The ASCO Post sobre cómo la inteligencia artificial (IA) está redefiniendo el concepto de expertise clínica en oncología. Vale la pena leerla como disparador de debate sobre el rol del oncólogo frente a las nuevas herramientas de IA.",
       "destacado": false
     },
-    "88a6c77b7a26": {
-      "resumen": "The ASCO Post reporta sobre la campaña 'Save Research', que impulsa el sostenimiento del financiamiento federal estadounidense para investigación oncológica. Nota de índole institucional/política científica, relevante para entender el contexto de la investigación en cáncer en Estados Unidos.",
+    "5190a830ecd6": {
+      "resumen": "The ASCO Post cubre un estudio que muestra que un programa de ejercicio estructurado luego de la quimioterapia adyuvante en cáncer de colon mejora la supervivencia y además reduce costos del sistema de salud. Es una intervención de bajo costo con impacto en desenlaces duros, algo poco común en oncología.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título se trata de un ensayo clínico que compara un programa de ejercicio estructurado post-quimioterapia adyuvante contra la atención habitual en cáncer de colon; no hay abstract disponible para precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de colon que completaron quimioterapia adyuvante.\nIntervención: Programa de ejercicio físico estructurado, comparado presumiblemente con cuidado estándar o consejo de actividad física no supervisado.\nResultados: El título indica mejora en la supervivencia y ahorro de costos, sin cifras de supervivencia libre de enfermedad, supervivencia global ni magnitud del ahorro.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni la adherencia al programa de ejercicio.\nMensaje: Si se confirma, respalda incorporar programas de ejercicio estructurado como parte del cuidado estándar post-adyuvancia en cáncer de colon, con beneficio clínico y económico.\nNota: análisis sin acceso al abstract."
+    },
+    "95b8ed4621af": {
+      "resumen": "The ASCO Post reporta los resultados a largo plazo de un ensayo que respalda el uso selectivo de la disección extendida de ganglios linfáticos pelvianos en cáncer de próstata de alto grado, un tema debatido en cirugía urológica oncológica. Interesa porque ayuda a definir en qué pacientes vale la pena ampliar la cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo con seguimiento a largo plazo que evalúa la disección extendida de ganglios linfáticos pelvianos versus disección estándar o limitada en cáncer de próstata; no hay abstract disponible para precisar aleatorización, cegamiento, centros ni número de pacientes.\nPoblación: Pacientes con cáncer de próstata de alto grado sometidos a cirugía.\nIntervención: Disección extendida de ganglios linfáticos pelvianos, presumiblemente comparada con disección estándar/limitada.\nResultados: El título indica que el ensayo \"respalda el uso selectivo\" de la disección extendida, sin cifras de supervivencia libre de recaída bioquímica, supervivencia global ni morbilidad quirúrgica.\nLimitaciones: Sin el abstract no se puede precisar qué subgrupo se benefició, el tiempo de seguimiento exacto ni las complicaciones asociadas a la cirugía extendida.\nMensaje: Orienta hacia un uso más selectivo (no rutinario) de la disección extendida, reservándola para pacientes de alto riesgo, pero se necesita el detalle completo para definir criterios de selección.\nNota: análisis sin acceso al abstract."
+    },
+    "528228d3d360": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
+      "destacado": false
+    },
+    "c26f7fb45d47": {
+      "resumen": "JAMA Oncology publica una revisión sobre el manejo de los leiomiosarcomas de partes blandas y viscerales, un subtipo poco frecuente de sarcoma que se origina en el músculo liso. Útil como puesta al día del abordaje diagnóstico y terapéutico de un tumor infrecuente y heterogéneo.",
+      "destacado": false
+    },
+    "491f45c64490": {
+      "resumen": "Relato personal publicado en JAMA Oncology, dentro de sus columnas de narrativa médica, donde el autor o autora reflexiona sobre su experiencia con el cáncer y cuestiona la idea de que la enfermedad necesariamente \"enseña\" algo. Una lectura breve para el costado humano de la práctica oncológica.",
+      "destacado": false
+    },
+    "7665959b5c60": {
+      "resumen": "JAMA Oncology publica un análisis exploratorio del ensayo clínico aleatorizado KEYNOTE-826, que evaluó pembrolizumab (un inhibidor del punto de control inmunológico PD-1) sumado a quimioterapia en cáncer de cuello uterino. Interesa porque profundiza en subgrupos o desenlaces secundarios de un estudio que ya cambió la práctica en esta enfermedad.",
+      "destacado": true,
+      "analisis": "Diseño: Análisis exploratorio (secundario) del ensayo clínico aleatorizado KEYNOTE-826; no se especifican en el título el cegamiento ni el número de centros o pacientes de este subanálisis.\nPoblación: Pacientes con cáncer de cuello uterino incluidas en el ensayo KEYNOTE-826 (enfermedad persistente, recurrente o metastásica).\nIntervención: Pembrolizumab (inhibidor de PD-1) más quimioterapia, comparado contra quimioterapia sola (esquema original del KEYNOTE-826).\nResultados: El título no aporta cifras de supervivencia global, supervivencia libre de progresión ni razones de riesgo de este análisis exploratorio.\nLimitaciones: Sin el abstract no se puede precisar qué subgrupo o desenlace secundario se analizó, ni el poder estadístico del análisis.\nMensaje: Aporta información complementaria sobre el beneficio de pembrolizumab más quimioterapia en cáncer de cuello uterino, reforzando los hallazgos primarios del KEYNOTE-826 ya incorporados a la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "c927e22ad391": {
+      "resumen": "Artículo de opinión en JAMA Oncology que propone modernizar los criterios de toma de decisiones subrogadas (cuando un familiar u otra persona decide por un paciente que no puede hacerlo) para reflejar mejor la complejidad actual del cuidado oncológico. Un aporte al debate bioético sobre autonomía y representación en cáncer.",
       "destacado": false
     },
     "2b9ad19e2167": {
@@ -20,92 +56,65 @@
       "destacado": false,
       "analisis": "Diseño: El título sugiere un estudio traslacional de desarrollo/validación de una firma predictiva (LymphGen-Sig) que combina datos genéticos y transcripcionales; no se especifican fase, aleatorización ni número de centros o pacientes.\nPoblación: Pacientes con linfoma difuso de células B grandes (DLBCL), presumiblemente con datos moleculares disponibles de cohortes previas.\nIntervención: No es una intervención terapéutica sino el desarrollo de una firma pronóstica/predictiva integrando genética y transcriptoma, aplicada de forma retrospectiva sobre datos de tratamiento estándar.\nResultados: El título no aporta cifras de sensibilidad, especificidad, razón de riesgo ni valor predictivo del modelo.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte de entrenamiento y validación, ni si el modelo fue validado externamente.\nMensaje: Una herramienta molecular más granular podría ayudar a seleccionar terapia en DLBCL, pero su utilidad clínica real depende de validación prospectiva antes de poder aplicarse en la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "a3f16ee3069d": {
-      "resumen": "Fe de erratas en Journal of Clinical Oncology (JCO) sobre los resultados a cinco años del estudio CheckMate 743, que comparó nivolumab más ipilimumab contra quimioterapia como primera línea en mesotelioma pleural irresecable. No aporta datos nuevos, solo corrige la publicación original.",
-      "destacado": false
+    "87bd1b6997b9": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Kate Barton."
     },
-    "e12b6746f0f3": {
-      "resumen": "Estudio en Journal of Clinical Oncology (JCO) sobre optimización de la terapia neoadyuvante adaptada al riesgo en cáncer de mama temprano con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2+, human epidermal growth factor receptor 2). Relevante porque busca ajustar la intensidad del tratamiento previo a la cirugía según el riesgo individual, para no sobretratar ni subtratar.",
-      "destacado": true,
-      "analisis": "Diseño: El título indica un estudio sobre optimización adaptada al riesgo de la terapia neoadyuvante; no se especifican fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama en estadio temprano y receptor HER2 positivo (HER2+), candidatas a tratamiento neoadyuvante (previo a la cirugía).\nIntervención: Esquema neoadyuvante \"adaptado al riesgo\" (probablemente escalado o desescalado según factores pronósticos), sin comparador explícito en el título.\nResultados: El título no aporta cifras de respuesta patológica completa, supervivencia libre de eventos ni supervivencia global.\nLimitaciones: Sin el abstract no se puede precisar qué variables definieron el riesgo, el tamaño muestral ni si el diseño fue aleatorizado o de cohorte.\nMensaje: Si los datos sostienen la estrategia, permitiría personalizar mejor la intensidad de la neoadyuvancia en HER2+, reduciendo toxicidad en pacientes de bajo riesgo sin perder eficacia en las de alto riesgo.\nNota: análisis sin acceso al abstract."
+    "ba72992260ad": {
+      "resumen": "Vogue presenta la colección masculina primavera 2027 de Public School."
     },
-    "644c8c265968": {
-      "resumen": "Análisis del estudio SU2C-SARC032 publicado en Journal of Clinical Oncology (JCO) sobre el uso personalizado de ADN tumoral circulante (ctDNA, circulating tumor DNA) para predecir desenlaces y monitorear la respuesta a radioterapia más pembrolizumab en sarcomas localizados. Interesa porque el ctDNA podría anticipar recaídas antes que la imagen convencional en un tumor donde faltan buenos marcadores de seguimiento.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis secundario/traslacional del ensayo SU2C-SARC032; no se especifican en el título el número de centros ni de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con sarcomas localizados tratados dentro del ensayo SU2C-SARC032, con muestras seriadas para ADN tumoral circulante (ctDNA).\nIntervención: Radioterapia asociada a pembrolizumab (inhibidor de PD-1), con seguimiento mediante ctDNA personalizado (diseñado por tumor individual) para predecir y rastrear la respuesta.\nResultados: El título indica que el ctDNA \"predice desenlaces y rastrea la respuesta\", sin cifras de sensibilidad, correlación con supervivencia libre de recaída ni valores de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral de este subanálisis, la proporción de pacientes con ctDNA detectable, ni si el hallazgo se validó de forma independiente.\nMensaje: Si se confirma, el ctDNA podría convertirse en una herramienta de seguimiento temprano en sarcomas localizados tratados con radioterapia e inmunoterapia, anticipando recaídas antes que los estudios de imagen.\nNota: análisis sin acceso al abstract."
+    "039ecb4c5a66": {
+      "resumen": "Vogue repasa la colección otoño 2026 ready-to-wear de Rachel Antonoff."
     },
-    "63a53c205801": {
-      "resumen": "El esquema ACTIVE combina varias drogas para tratar la leucemia mieloide aguda (LMA) con mutación en el gen NPM1 que recayó o no respondió a tratamientos previos (recaída/refractaria, R/R). OncLive reporta tasas de respuesta altas en este escenario de difícil manejo. Interesa porque las opciones para pacientes que recaen tras terapias dirigidas siguen siendo escasas.",
-      "destacado": false,
-      "analisis": "Diseño: No hay abstract disponible; según la cobertura de OncLive se trata de un estudio clínico que evalúa el esquema combinado ACTIVE en LMA recaída/refractaria (R/R) con mutación NPM1, sin precisiones sobre aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Adultos con LMA con mutación en NPM1 en recaída o refractariedad a tratamientos previos.\nIntervención: Esquema combinado denominado ACTIVE; el título no detalla los fármacos que lo componen ni el comparador.\nResultados: El título indica \"altas tasas de respuesta\", sin cifras concretas de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Nota basada solo en el título de OncLive; se desconocen el diseño exacto, el tamaño muestral y si los datos corresponden a una publicación revisada por pares o a una presentación de congreso.\nMensaje: Podría sumar una alternativa en un escenario de pronóstico adverso, pero hace falta la publicación completa con datos maduros antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    "a131b278df05": {
+      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de PH5."
     },
-    "62086d253623": {
-      "resumen": "Entrevista a un especialista sobre datos de eficacia y seguridad de fase 2 de DISC-3405, una droga en investigación para la policitemia vera (PV), una neoplasia mieloproliferativa crónica con exceso de glóbulos rojos. Aporta la mirada de un experto sobre una molécula en desarrollo para esta enfermedad.",
-      "destacado": false,
-      "analisis": "Diseño: Se trata de una nota en formato entrevista (\"Dr X on...\") en la que un especialista comenta datos de un estudio de fase 2; no es el reporte primario del estudio y no hay abstract disponible.\nPoblación: Pacientes con policitemia vera (PV).\nIntervención: DISC-3405, fármaco en investigación cuyo mecanismo no se especifica en el título.\nResultados: No hay cifras disponibles; el título solo indica que se discuten datos de eficacia y seguridad de fase 2.\nLimitaciones: Es una nota de opinión/entrevista sobre datos presentados en otro lugar, no la publicación original; sin abstract no se pueden confirmar los resultados numéricos ni el diseño del estudio.\nMensaje: Aporta contexto de un especialista sobre una molécula en desarrollo para PV; es prematuro definir su lugar en la práctica clínica.\nNota: análisis sin acceso al abstract."
+    "0bfd1ce2595c": {
+      "resumen": "theobjective repasa la tendencia de tonos y diseños que dejó atrás los pasteles y los básicos, y que ya se impone en Zara, Primark y otras marcas españolas."
     },
-    "fa289faedc65": {
-      "resumen": "Revumenib es un inhibidor de la interacción menina-KMT2A, una diana molecular relevante en la leucemia mieloide aguda (LMA) con mutación en NPM1 o reordenamiento del gen KMT2A. OncLive reporta que, sumado a quimioterapia en pacientes recién diagnosticados, logró altas tasas de respuesta y de negativización de la enfermedad residual mínima (ERM). Relevante porque podría cambiar el estándar de primera línea en este subgrupo molecular.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título se trata de un estudio clínico que combina revumenib con quimioterapia estándar en LMA de diagnóstico reciente; no se dispone del abstract completo para precisar aleatorización, cegamiento, centros ni número de pacientes.\nPoblación: Pacientes con LMA recién diagnosticada, con mutación en NPM1 o reordenamiento de KMT2A.\nIntervención: Revumenib asociado a quimioterapia de inducción/consolidación estándar; el título no menciona un comparador explícito.\nResultados: Se reportan \"altas tasas de respuesta\" y de negativización de la ERM, sin cifras concretas de respuesta, supervivencia libre de progresión ni supervivencia global disponibles sin el abstract.\nLimitaciones: Nota basada solo en el título; faltan datos maduros de supervivencia y el perfil de toxicidad del esquema.\nMensaje: Combinación prometedora en un subgrupo molecular de mal pronóstico, pero se necesitan datos de supervivencia a más largo plazo antes de considerarla estándar de primera línea.\nNota: análisis sin acceso al abstract."
+    "c5a494d68d8b": {
+      "resumen": "Chic Magazine presenta el 3D Hydra Xtreme, un gloss que recupera la estética editorial glamorosa de los años 90."
     },
-    "ff94df270e8f": {
-      "resumen": "Columna de opinión de The ASCO Post sobre cómo la inteligencia artificial (IA) está redefiniendo el concepto de expertise clínica en oncología. Vale la pena leerla como disparador de debate sobre el rol del oncólogo frente a las nuevas herramientas de IA.",
-      "destacado": false
+    "91a0d9a3fe1d": {
+      "resumen": "Cartier lanza su colección \"Into the Wild\" y suma a la actriz Tilda Swinton como nueva embajadora de la marca."
     },
-    "9d9b51960c11": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Nili Lotan, la diseñadora conocida por su estética urbana y minimalista."
+    "18955222a78e": {
+      "resumen": "Emisoras Unidas explica en qué consiste el bedazzling, la técnica de decorar prendas con brillos y strass que volvió a ponerse de moda."
     },
-    "328cb9ae7e78": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Tommy Hilfiger, la marca estadounidense de estética preppy."
+    "bcdcf690149b": {
+      "resumen": "Vogue México repasa los cortes de pelo tendencia para otoño-invierno 2026, del fleco francés al shag de los 70 y la melena extra larga."
     },
-    "79ffa6813ebc": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Bad Binch Tongtong, la firma parisina conocida por su estética irreverente y colorida."
+    "0a2b9a4b9ed9": {
+      "resumen": "Vogue México repasa el desfile de Coach para primavera-verano 2027, con sastrería relajada, maxi bolsos y vestidos de fiesta."
     },
-    "797841d41303": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Proenza Schouler, la marca neoyorquina fundada por Lazaro Hernandez y Jack McCollough."
+    "87a6538efcaf": {
+      "resumen": "La Prensa Digital cuenta sobre un puente cultural y productivo que se está construyendo entre Nápoles y Buenos Aires."
     },
-    "64e0f4b8b48b": {
-      "resumen": "Una selección de los looks de street style más destacados durante la Semana de la Moda de Nueva York primavera-verano 2027."
+    "28aecb7804e1": {
+      "resumen": "iProfesional propone planes para el fin de semana en Buenos Aires, con el FIBA, la Fiesta de las Colectividades y otras opciones."
     },
-    "5793f7431035": {
-      "resumen": "El look elegido por Penélope Cruz para su despedida del Festival de Cine de Venecia 2026: vestido floral y zapatos de tacón negros."
-    },
-    "4b0d88f08ebc": {
-      "resumen": "La actriz Eiza González combina pantalones skinny con botas de tacón, una de las tendencias del mes."
-    },
-    "792f441a5f41": {
-      "resumen": "La revista OHLALÁ! adelanta las cinco tendencias de moda que se impondrán en 2027."
-    },
-    "d4da33cd7ee5": {
-      "resumen": "La influencer española Laura Escanes combina una camisa de cuadros de Pull&Bear con pantalones capri, dos tendencias del mes."
-    },
-    "1549ab487c43": {
-      "resumen": "El testimonio de una empresaria que construyó desde cero un imperio de la moda, se volvió multimillonaria y terminó en bancarrota."
+    "16c78ed6fb8c": {
+      "resumen": "Billboard Argentina cuenta que una foto del show de Oasis en Buenos Aires fue elegida entre las mejores imágenes musicales del año."
     },
     "372fd630d673": {
       "resumen": "La Embajada de España recomienda cinco restaurantes porteños para comer platos típicos españoles."
     },
-    "26fad30c2cb7": {
-      "resumen": "El Festival Internacional de Buenos Aires (FIBA) 2026 despliega teatro, danza y arte en 35 sedes de la ciudad."
+    "3d4a172ba161": {
+      "resumen": "TN repasa la apertura del FIBA con \"Dorian\", la puesta de Robert Wilson hablada en lituano, que convirtió a Buenos Aires en escenario internacional."
     },
     "611ffa300c5c": {
       "resumen": "Una guía con los planes imperdibles para hacer este fin de semana en la Ciudad de Buenos Aires."
     },
-    "4cdda42271eb": {
-      "resumen": "Se realizan las XII Jornadas del Fuero Penal Juvenil de la Provincia en el Teatro Municipal, según Hecho en Quilmes."
-    },
     "c974185dc72e": {
       "resumen": "La agenda de planes y actividades en Buenos Aires para el fin de semana del 11 al 13 de septiembre."
     },
-    "acc2922f28c4": {
-      "resumen": "El ciclo Estación Buenos Aires se suma al Septiembre Musical con un concierto de música de cámara."
+    "2c59e9fd8605": {
+      "resumen": "Yahoo recomienda los mejores restaurantes kosher de Buenos Aires para celebrar Rosh Hashaná, el Año Nuevo judío."
     },
-    "ac9123e72187": {
-      "resumen": "Buenos Aires propone una semana cultural con teatro, música y tango."
+    "acff53b99bab": {
+      "resumen": "Página/12 arma la agenda de propuestas culturales LGBTIQ para hacer este fin de semana en Buenos Aires."
     },
-    "67b6a5c5ba54": {
-      "resumen": "Una selección de los mejores restaurantes kosher porteños para celebrar Rosh Hashaná, el Año Nuevo judío."
+    "1b4a8746a7e1": {
+      "resumen": "Página/12 repasa la agenda cultural de la provincia de Buenos Aires."
     }
   }
 }
