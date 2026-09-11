@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T00:15:30.493487+00:00",
+ "generated_at": "2026-09-11T04:51:53.407960+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -24,7 +24,7 @@
      "title": "ACTIVE Regimen Elicits High Response Rates in R/R NPM1-Mutated AML",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDdHci1uX2J4NmlKZW11MXpiZFJxbW13clZwMG9ZOTQta2MxelYteDVxS09rZUw3bkxkMWFBN2hMTTA3NVI2anhTdzVJV1ZBRVFMdlBySDlDZFFBbGFPcGtqQlk4dmJRMDhrZ1dKNUxxSkpBajNOUXlrT29JLUtibGEtNHR6cllYSDlwb0lUZ2FpLTlBbFNEWGdpQQ?oc=5",
      "source": "OncLive",
-     "published": "2026-09-10T20:00:43+00:00",
+     "published": "2026-09-10T20:21:15+00:00",
      "id": "63a53c205801"
     },
     {
@@ -57,28 +57,44 @@
      "id": "528228d3d360"
     },
     {
+     "title": "Management of Soft Tissue and Visceral Leiomyosarcomas",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42720945/",
+     "source": "JAMA Oncology",
+     "published": "2026-09-10T00:00:00+00:00",
+     "copete": "Campos F et al. · JAMA oncology",
+     "id": "c26f7fb45d47"
+    },
+    {
+     "title": "Cancer Didn't Teach Me Much",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42720941/",
+     "source": "JAMA Oncology",
+     "published": "2026-09-10T00:00:00+00:00",
+     "copete": "Karaoli Taylor C et al. · JAMA oncology",
+     "id": "491f45c64490"
+    },
+    {
+     "title": "Pembrolizumab Plus Chemotherapy for Cervical Cancer: An Exploratory Analysis of the KEYNOTE-826 Randomized Clinical Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42720936/",
+     "source": "JAMA Oncology",
+     "published": "2026-09-10T00:00:00+00:00",
+     "copete": "Hasegawa K et al. · JAMA oncology",
+     "id": "7665959b5c60"
+    },
+    {
+     "title": "Modernizing Surrogate Decision-Making to Reflect the Complexity of Cancer Care",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42720925/",
+     "source": "JAMA Oncology",
+     "published": "2026-09-10T00:00:00+00:00",
+     "copete": "Blackstone EC et al. · JAMA oncology",
+     "id": "c927e22ad391"
+    },
+    {
      "title": "LymphGen-Sig: Integrating Genetic and Transcriptional States to Predict Therapeutic Response in Diffuse Large B-Cell Lymphoma",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42715516/",
      "source": "Journal of Clinical Oncology",
      "published": "2026-09-09T00:00:00+00:00",
      "copete": "Tumuluru S et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "2b9ad19e2167"
-    },
-    {
-     "title": "Erratum: Five-Year Clinical Outcomes With Nivolumab Plus Ipilimumab Versus Chemotherapy as First-Line Treatment for Unresectable Pleural Mesothelioma in CheckMate 743",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42715515/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-09-09T00:00:00+00:00",
-     "copete": "Scherpereel A et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "a3f16ee3069d"
-    },
-    {
-     "title": "Risk-Adapted Optimization of Neoadjuvant Therapy in Human Epidermal Growth Factor Receptor 2-Positive Early-Stage Breast Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42715513/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-09-09T00:00:00+00:00",
-     "copete": "Kleeman SO et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "e12b6746f0f3"
     }
    ]
   },
@@ -88,32 +104,46 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Kate Barton Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kate-barton",
+     "source": "Vogue",
+     "published": "2026-09-11T04:49:24+00:00",
+     "id": "87bd1b6997b9"
+    },
+    {
+     "title": "Public School Spring 2027 Menswear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/public-school",
+     "source": "Vogue",
+     "published": "2026-09-11T04:49:24+00:00",
+     "id": "ba72992260ad"
+    },
+    {
+     "title": "Rachel Antonoff Fall 2026 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/rachel-antonoff",
+     "source": "Vogue",
+     "published": "2026-09-11T04:49:24+00:00",
+     "id": "039ecb4c5a66"
+    },
+    {
      "title": "PH5 Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/ph5",
      "source": "Vogue",
-     "published": "2026-09-11T00:15:12+00:00",
+     "published": "2026-09-11T04:49:24+00:00",
      "id": "a131b278df05"
     },
     {
-     "title": "Kallmeyer Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/kallmeyer",
-     "source": "Vogue",
-     "published": "2026-09-11T00:15:12+00:00",
-     "id": "0b38f6b8e21c"
+     "title": "Ni colores pastel ni prendas básicas: la nueva tendencia de tonos y diseños que regresa con fuerza en septiembre y ya arrasa en Zara, Primark y más marcas españolas",
+     "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNckhabmp6NVM4SUI2M05FeF9DNVpQWjY3N291dE4xVUhUTWRSYTBqelFwaEhMaFZ2LWVrZ1B5MTJIM2pscVN4SmdfbDRZaWlEQjBfUjlEOHR2b1RMVlc1cllUbnRreEUzVGcyNGVqNlktb1J4bUtlTGlKVDU2NmRKUlNCV1JjaV80WjlYZjR2LXViQktNV3BWV0hHLWhaN0phNGVvTng2SnY4SWgzUW5zTUs1azlIcUdSZDBfY1Z5NzFqeXAwa2F2eEJFNXNjc1Z6bnlzbzhZbl9QTjdzSVpPbWlpUFhJejY0SVFPaU9IcW9PbW5LUzFvUE8xZU9SSHEwQ3V1ZVRKY0RlYVBOZUxkMGJMZ3ZHNmFveTJTaGhuVGVxcWJhdVNXbXkwU0dtdnpDSDVXMk9XLXZIQdIBvwJBVV95cUxOWHI3NDc1MUVicHI2SWFsNmd6dkFWSDcxcXgtbUtMbFEtcm9zNElJZl9USVJEX2FETjZtYko5NWd2QnlXbjliX0V3bC1XY055TTVNQUdVM3E3Ukp2c0tZSGk4LWNDWEhwY0lKWEQ4MjRZYkVTa3NvTlZ2N0dWbm9fU3pZdXh4aFAxMURrYWtkZ3lpLUZubXN6SlFzQmlIOXRMVnU4WF96bzhfNHJXZU1YcXp0TGZhY291RE9reDBLdk5oUGYzOW1tLVFQRUdPeXE2R2Q0RGtmUnpPNUJlUWhIdnR3ZjJrV196VllvMzdUVFRTRzNnQ2MxZU9aS1pRSGZoMTFNUWhsc2VJVENyOTdxUV9ORERRUEVvYW1HT0dYMzBTVXdNSTJGSi1RbDVSVU1ic2VOYVlNV0ZhUFdkSC0w?oc=5",
+     "source": "theobjective",
+     "published": "2026-09-11T03:25:00+00:00",
+     "id": "0bfd1ce2595c"
     },
     {
-     "title": "Tory Burch Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/tory-burch",
-     "source": "Vogue",
-     "published": "2026-09-11T00:15:12+00:00",
-     "id": "5c10f3d1779f"
-    },
-    {
-     "title": "Alice + Olivia Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alice-olivia",
-     "source": "Vogue",
-     "published": "2026-09-11T00:15:12+00:00",
-     "id": "c94715cf36b0"
+     "title": "3D Hydra Xtreme: el gloss que revive el glamour editorial de los 90",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakF6M0hYLUVwcVo0ZGRVRmR0ejYxV0NNQXFDLUhMMTM2bDFvYzdJZnFhRXJFck5mQWFTVmpqeThwVk9LNnhyS0pJTUNGVTVSMU5tOTNJQlQzc0lRbWJPVnV3Z21nVnpraFh5QkpBTWVXVUsyeEhsVTRFdTAzbDlhbEFTNXdvd2dwaWVJY2Y0eEJXQlNLSDJZbHNpU21EOE44c1g2RHI4MkRVOWJGb0xBTldJTUlIU1pzQTFJRWxNOA?oc=5",
+     "source": "Chic Magazine",
+     "published": "2026-09-11T01:19:00+00:00",
+     "id": "c5a494d68d8b"
     },
     {
      "title": "Cartier celebra su nueva colección \"Into the Wild\" y abre un nuevo capítulo junto a Tilda Swinton como embajadora",
@@ -142,20 +172,6 @@
      "source": "Vogue México",
      "published": "2026-09-10T21:12:56+00:00",
      "id": "0a2b9a4b9ed9"
-    },
-    {
-     "title": "Nuevo en Zara: 7 vestidos, chaquetas y zapatos que acaban de llegar y serán tendencia en otoño",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTg3MlJnQWpYX0ZqRk5HREFRLXM2LWphTHhYd1ZiVm1Zam1Da0hGQ092YkNuUllPNm5qS2Y1Nm9kTFJTRzF4TElvYTNUMXZ3dFNZMTZ0VnNKeDNNNl96WlR3ZmlLOEs1U1E4NDZqdnc0VmVnNmd0VDByYWVvMjVIV0tWMV84UDNXTUJtSWxHZTlySVE3dWdvSEFicVhmUFNta0JObnNoR1FYUmdrU1doQ09lOFZVSDg?oc=5",
-     "source": "Cosmopolitan",
-     "published": "2026-09-10T19:23:07+00:00",
-     "id": "e05f70a72f0d"
-    },
-    {
-     "title": "Lo que viene: estas son las 5 tendencias que serán furor en 2027",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjNyMFVPcFJ4Y0I5SVkxcVpTNnlTRmQyWkV0UWJKTHkzbzF4QUF6Um9pcXpGNWJDTUU4cUczWXR4YWtXWVBMdXlPWlhxZW1xc3B0ZXF2NmJERzcyejgtc2xUd2xybENkLWVVcGZBTmFxV0R6R0k5UVpmTDNOSkJvQnZ1RVJRV0t4Q3NVTjFOekRkOUFVN0VOWnFJX2hJR1RHX3REQ0dNcDlScXo0?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-09-10T17:02:45+00:00",
-     "id": "792f441a5f41"
     }
    ]
   },
@@ -165,83 +181,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La confesión de Nicole Kidman sobre la noche en que ganó el Oscar: “Me sentía tan agradecida y a la vez tan sola”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-confesion-de-nicole-kidman-sobre-la-noche-en-que-gano-el-oscar-me-sentia-tan-agradecida-y-a-la-nid10092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-11T00:06:30+00:00",
-     "copete": "La actriz recordó cómo uno de los momentos más importantes de su carrera se vio empañado por su dolorosa separación de Tom Cruise",
-     "id": "09d3575db34e"
+     "title": "El duro cruce de Eliana Guercio con Juanicar en Gran Hermano: “Te querés colgar de todo el mundo”",
+     "link": "https://www.infobae.com/teleshow/2026/09/11/el-duro-cruce-de-eliana-guercio-con-juanicar-en-gran-hermano-te-queres-colgar-de-todo-el-mundo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-11T03:55:41+00:00",
+     "copete": "El debate sumó una de sus noches más picantes cuando el exjugador cuestionó a la panelista por su postura sobre la finalista y terminó desatando un ida y vuelta cargado de ironías",
+     "id": "4ae2d8b2ac28"
     },
     {
-     "title": "“Extraño a mi hermano”: el conmovedor mensaje de Victoria Bernardi en el Día de la Prevención del Suicidio",
-     "link": "https://www.infobae.com/teleshow/2026/09/11/extrano-a-mi-hermano-el-conmovedor-mensaje-de-victoria-bernardi-en-el-dia-de-la-prevencion-del-suicidio/",
+     "title": "Juli Poggio habló de las acusaciones de divismo en MasterChef Celebrity: “Es verdad”",
+     "link": "https://www.infobae.com/teleshow/2026/09/11/juli-poggio-hablo-de-las-acusaciones-de-divismo-en-masterchef-celebrity-es-verdad/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-11T00:01:32+00:00",
-     "copete": "La cantante y actriz compartió una foto familiar y contó que decidió hablar tras años de silencio y de canalizar el duelo en obras propias. Su emocionante reflexión",
-     "id": "82dda85130ce"
+     "published": "2026-09-11T03:46:07+00:00",
+     "copete": "La actriz explicó que necesita un espacio para cambiarse durante extensas grabaciones y rechazó las versiones sobre conflictos con la producción de Telefe",
+     "id": "5862f9aa91e4"
+    },
+    {
+     "title": "Ludovico Di Santo habló del bullying que sufrió por su nombre y reveló por qué eligió uno particular para su hijo",
+     "link": "https://www.infobae.com/teleshow/2026/09/11/ludovico-di-santo-hablo-del-bullying-que-sufrio-por-su-nombre-y-revelo-por-que-hizo-una-particular-eleccion-para-su-hijo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-11T03:31:22+00:00",
+     "copete": "El actor recordó en Otro Día Perdido los apodos que recibió en la escuela y contó cómo esas experiencias moldearon su carácter",
+     "id": "9e77a54816cc"
+    },
+    {
+     "title": "Nico Vázquez lloró al escuchar “The climb” por Avril Lerman en Popstars: “Ella tiene algo”",
+     "link": "https://www.infobae.com/teleshow/2026/09/11/nico-vazquez-lloro-al-escuchar-the-climb-por-avril-lerman-en-popstars-ella-tiene-algo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-11T03:12:49+00:00",
+     "copete": "El conductor del certamen se emocionó con la participante santafesina al escuchar su interpretación, solo acompañada por un piano, del éxito de Miley Cyrus. El momento",
+     "id": "4fc85f9f2188"
     },
     {
      "title": "Gran Hermano, EN VIVO: quién deja la casa y quién será el ganador de la Generación Dorada según las encuestas, hoy 10 de septiembre",
      "link": "https://www.lanacion.com.ar/espectaculos/gran-hermano-en-vivo-quien-deja-la-casa-y-quien-sera-el-ganador-de-la-generacion-dorada-segun-las-nid10092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-11T00:00:00+00:00",
+     "published": "2026-09-11T02:46:00+00:00",
      "copete": "El reality más famoso de la Argentina está próximo a terminar y la tensión cada vez es más perceptible entre las participantes que quedan; seguí el minuto a minuto",
      "id": "78a033cf6ef1"
     },
     {
-     "title": "Lali Espósito presentó el primer trailer de Glaxo, la película que competirá en el Festival de Cine de San Sebastián",
-     "link": "https://www.infobae.com/teleshow/2026/09/10/lali-esposito-presento-el-primer-trailer-de-glaxo-la-pelicula-que-competira-en-el-festival-de-cine-de-san-sebastian/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-10T23:40:24+00:00",
-     "copete": "La actriz compartió imágenes del film de Benjamín Naishtat, basado en la novela de Hernán Ronsino, que se estrenará en el Festival de Toronto. “Qué emoción”, palpitó",
-     "id": "e8232f6136bc"
-    },
-    {
-     "title": "La curiosa respuesta de Marta Fort cuando le preguntaron si tiene más plata que Juana Tinelli",
-     "link": "https://www.infobae.com/teleshow/2026/09/10/la-curiosa-respuesta-de-marta-fort-cuando-le-preguntaron-si-tiene-mas-plata-que-juana-tinelli/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-10T23:10:21+00:00",
-     "copete": "La conductora de Blender pasó por comparaciones entre figuras del espectáculo y el deporte, eligió entre Taylor Swift, Lionel Messi y Wanda Nara, y dejó una de las salidas más comentadas del programa",
-     "id": "4a45996b3b1b"
-    },
-    {
-     "title": "Shailene Woodley y el desagradable comentario de su ex: “Me dijo que quería acostarse con otro antes de casarse conmigo”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/shailene-woodley-y-el-desagradable-comentario-de-su-ex-me-dijo-que-queria-acostarse-con-otro-antes-nid10092026/",
+     "title": "¿Mito o verdad? El explosivo romance de Chiche Gelblung y Marcela Tinayre",
+     "link": "https://www.lanacion.com.ar/espectaculos/mito-o-verdad-el-explosivo-romance-de-chiche-gelblung-y-marcela-tinayre-nid09092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-10T22:52:36+00:00",
-     "copete": "El jugador de fútbol americano Aaron Rodgers habló sobre su relación con la actriz de Big Little Lies y aseguró que fue ella quien decidió romper el compromiso",
-     "id": "1623f2e22c07"
+     "published": "2026-09-11T02:27:49+00:00",
+     "copete": "A raíz de la muerte del icónico periodista, resurgió una de las historias más comentadas de la televisión argentina; la verdad detrás de un rumor que duró décadas y que no muchos conocen la realidad",
+     "id": "be4872c83a03"
     },
     {
-     "title": "Fernanda Iglesias contó su decisión de pasar por el quirófano: “Me las quiero sacar porque me molestan”",
-     "link": "https://www.infobae.com/teleshow/2026/09/10/fernanda-iglesias-conto-su-decision-de-pasar-por-el-quirofano-me-las-quiero-sacar-porque-me-molestan/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-10T22:24:14+00:00",
-     "id": "9d5c5c513830"
-    },
-    {
-     "title": "La escena argentina del documental de Oasis, con la hinchada de San Lorenzo como protagonista",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-escena-argentina-del-documental-de-oasis-con-la-hinchada-de-san-lorenzo-como-protagonista-nid10092026/",
+     "title": "Juan Manuel Herrera, el reconocido cocinero de El Gourmet, reveló su duro diagnóstico: “Me operaron de cáncer de pulmón”",
+     "link": "https://www.lanacion.com.ar/espectaculos/juan-manuel-herrera-el-reconocido-cocinero-de-el-gourmet-revelo-su-duro-diagnostico-me-operaron-de-nid09092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-10T22:02:59+00:00",
-     "copete": "La película sobre el regreso de los hermanos Gallagher a los escenarios incluye imágenes grabadas en el Nuevo Gasómetro",
-     "id": "fdc6963f7df2"
+     "published": "2026-09-11T02:27:29+00:00",
+     "copete": "El pastelero terminó con las especulaciones sobre su salud y contó qué fue lo que le detectaron el año pasado en un control médico; descubrí su historia",
+     "id": "ef43df424966"
     },
     {
-     "title": "Juana Viale reemplaza a Mirtha Legrand en su mesaza y Andy Kusnetzoff recibe visitas: los invitados del fin de semana",
-     "link": "https://www.infobae.com/teleshow/2026/09/10/juana-viale-reemplaza-a-mirtha-legrand-en-su-mesaza-y-andy-kusnetzoff-recibe-visitas-los-invitados-del-fin-de-semana/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-10T21:54:21+00:00",
-     "copete": "Con la diva internada por un cuadro respiratorio bronquial, su nieta conducirá La Noche de Mirtha y el almuerzo del domingo en Eltrece, mientras Podemos Hablar presenta a un grupo heterogéneo por Telefe",
-     "id": "ff25c9baa0a0"
+     "title": "Mick Jagger, a los 83 años: “Entreno seis días por semana, corro 12 kilómetros diarios y como muchísimo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/mick-jagger-a-los-83-anos-entreno-seis-dias-por-semana-corro-12-kilometros-diarios-y-como-muchisimo-nid08092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-11T02:25:40+00:00",
+     "copete": "El líder de los Rolling Stones mantiene un estricto régimen de entrenamiento para sostener su nivel sobre el escenario; el artista combina disciplinas físicas con una alimentación basada en productos orgánicos, fundamental para su edad",
+     "id": "2ba08514b218"
     },
     {
-     "title": "El terrible susto que vivió Juana Repetto junto a su bebé, Timoteo: “Se incendió el edificio”",
-     "link": "https://www.infobae.com/teleshow/2026/09/10/el-terrible-susto-que-vivio-juana-repetto-junto-a-su-bebe-timoteo-se-incendio-el-edificio/",
+     "title": "Duros rumores de separación entre Natalia Pastorutti y su marido Andrés Manini: “Temas monetarios, peleas y gritos”",
+     "link": "https://www.infobae.com/teleshow/2026/09/11/duros-rumores-de-separacion-entre-natalia-pastorutti-y-su-marido-andres-manini-temas-monetarios-peleas-y-gritos/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-10T21:28:04+00:00",
-     "copete": "Con las manos temblando, la actriz relató en sus redes la evacuación de urgencia que atravesó con su hijo de siete meses",
-     "id": "107ba4c3f298"
+     "published": "2026-09-11T02:24:15+00:00",
+     "copete": "Pilar Smith contó en LAM el problemático divorcio que la actual figura de Es mi sueño estaría atravesando con el padre de sus dos hijos, luego de 30 años juntos. La palabra de la cantante",
+     "id": "2bb2aabaf315"
+    },
+    {
+     "title": "El fuerte gesto que la China Suárez habría tenido con Martín Cirio cuando visitó el programa de Pergolini: “Lo destrozó”",
+     "link": "https://www.infobae.com/teleshow/2026/09/11/el-fuerte-gesto-que-la-china-suarez-habria-tenido-con-martin-cirio-cuando-visito-el-programa-de-pergolini-lo-destrozo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-11T02:09:19+00:00",
+     "copete": "Marina Calabró contó la versión de la producción de Otro día perdido que detectó lo sucedido durante el paso de la actriz por el programa",
+     "id": "36af716474b3"
     },
     {
      "title": "Harry Styles anunció su gira 2027 y tendrá a Ca7riel & Paco Amoroso como invitados",
@@ -267,11 +284,25 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Puente cultural y productivo entre Nápoles y Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFV6WXZnQ2N5bkxXckp5ZFZCU1BzUXMyRGFWLTZvcGR4aHZGYVgwaGdDQlNQNmV2ODdlY2dfYTJ3c21FOGhrVEFzZHZuc3d2OWRNVkdVOEVoR29ZcDlMeW5seno3cklVZEZmNURfcVl6YW5BbS1jQkVrSENRTDZaeGdnUklOcW1XQmZ0dTlPWWdmd096LUlrRVNVeWxsZElVTDZOQQ?oc=5",
+     "source": "La Prensa Digital",
+     "published": "2026-09-11T00:24:11+00:00",
+     "id": "87a6538efcaf"
+    },
+    {
      "title": "Qué hacer este fin de semana en Buenos Aires: FIBA, Colectividades y más",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUtMSVFqYWJXZnRST0tTRWx3cW1qWkc4bEwxUkVMYVZ5RjZISUdLLWo0dTV1blZDVjNmWUR3Qy1YdlV3aEtjRGdtTjJDWk1QQkxfTlNfM05xUGkzWXVLRFRFZHoxRFFJdktoclJNN3Z0NGhtU1FHUExDTzZnNkg0cW5uNnpXRmo1d2ZleFNvckMwbnpnRkszZXhqMDBMOVhfbTExRVlUNXJSS0MyS3dlSXRnSdIBuAFBVV95cUxNNTU2aUE0NHpqMU1Qa05pbkwyYzk2end4X05McDhjUENsRXdHcGx4dkhFZDF3SXZRQl9uWWlTZ0VXemxlRkp5MEF0MHQ4UnlOOUNycHMya05IM1VpQnlDS2NQNXRldE51dnFlNkJqcFBSWExjV0VmczJMZWdobDRBOTFQQUZFNURiMmZJOXJwNVE2ZDM5WldNN1lLLWRtMnQ4c0dHR0FKNDlOWlc4djdGcjJBeV9PNmNj?oc=5",
      "source": "iProfesional",
      "published": "2026-09-10T21:09:00+00:00",
      "id": "28aecb7804e1"
+    },
+    {
+     "title": "Oasis: una foto de su show en Buenos Aires fue elegida entre las mejores imágenes musicales del año",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmNMbFJxa3dRRHJDWnY3Sy02NUtKZ1ZCY003Vk5yYmZDUVppLVdRb3U4Qjd5OXlOcGxqd09iQ0VGMHowV1BkWm5heGNXU25IZ0xyTzRqWklCbEl6MkU3QTAxZkxybm93ZmxQT2JqZWVrbTg1QlNHUWN0dl80dkhEUmNuZHVFcUFIQlpzamk4clZmeFFoTHJVZU5NbWpNbTIzMWVBd3VoVlBnNDZsbmw5U0xjeDZsdlVaNHV1bmgzYWtZaE9waDVObkplMA?oc=5",
+     "source": "Billboard Argentina",
+     "published": "2026-09-10T19:36:44+00:00",
+     "id": "16c78ed6fb8c"
     },
     {
      "title": "Cuáles son los cinco restaurantes de Buenos Aires para comer “como en España”, según la propia Embajada",
@@ -288,25 +319,11 @@
      "id": "3d4a172ba161"
     },
     {
-     "title": "FIBA 2026: Buenos Aires se convierte en escenario del mundo con teatro, danza y arte en 35 sedes",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnNrZXZWZGphcFd1RklNQVc4WUJuSnc1VTRrVFFDcFgwVDI5WC1kN0hsMGQ4T1g5eHd4NUNFWklZZ09QSFpzX1owQVNYaEZYQm5EVThYUEYzMTVEcTViZHBZeHpROTNWR1BOdEtSMnNqbllUZzhzcjJXNnpRN0RNLW8tcEdPMXNOajhhMVFzWlVVZE10RE92Nnl2QTVPMXNpY3pNZl9BTjh1UFhwQklhWHYzY0tTSk0?oc=5",
-     "source": "Diario CEMBA",
-     "published": "2026-09-10T18:25:40+00:00",
-     "id": "26fad30c2cb7"
-    },
-    {
      "title": "Qué hacer este fin de semana en la Ciudad? Los imperdibles",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlVycVF2c1QwS3UxaTd2aDdhQTRKeWtrclpvekpUa203enNMMXpSc2lCSGd2SHgwQm9fWW4ydUE3c3RXSmVYLTg3RnVNckd4aHNoNnNuSTZOcEt1b0hVNkJxVFhRVXNPMXBJYXRvQWpTN2tfdnE2UGllMllheUtDWXc2TldKMGdQdldRUHcwbGxWNTNYV0M4S28waVU?oc=5",
      "source": "InfoBAN",
      "published": "2026-09-10T18:14:00+00:00",
      "id": "611ffa300c5c"
-    },
-    {
-     "title": "XII Jornadas del Fuero Penal Juvenil de la Provincia en el Teatro Municipal",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTlRTW9wXzFHTkRPOUE0aGFhV0otVDhCeFo1NmFaSnI3dmp5eC0zYnQ1eFM2c3BRTGZhaDJLOExMVDRQbnNKS3ppV01tcUwyLWVkem54VXBrNDVFU1NDVG9uUEJEbjVLOWFiOWFfa3d5QnFacHladWphbE1Tel9Zc2VUSDRja21jM25mOU51bWx0MUNZWldvVHFlcmVNZEJzdVEzV2VuYVNyS0tjX1NCS25WT1Zrdw?oc=5",
-     "source": "Hecho en Quilmes",
-     "published": "2026-09-10T17:56:04+00:00",
-     "id": "4cdda42271eb"
     },
     {
      "title": "Qué hacer este fin de semana en Buenos Aires: agenda del 11 al 13 de septiembre",
@@ -317,17 +334,10 @@
     },
     {
      "title": "Restaurantes kosher en Buenos Aires: los mejores para Rosh Hashaná",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSjYwNDI5SDVkSVo1N2R0ZWR0X2lKaElsMVo1b2E1eFJTUS1pQTdPNzV2bzFVcXVRUXB3cklxU09WYVRzODdNU2FlZkJfY0ZmLVRHb1JOSGkwRVByZ3FKUjUzeG8wRlJORzFZbEJ2MkZVV3g0YXhTTGc5SklSaU96dVNxQ2RwX3owT3hqSVNzNVhGM1hlRGIxR0VsNzBZcUo4b19rUHVOZ1EtV3VZVGdWaWs1eE1JUQ?oc=5",
-     "source": "La Nación",
-     "published": "2026-09-10T13:51:00+00:00",
-     "id": "67b6a5c5ba54"
-    },
-    {
-     "title": "Bife ancho o bife angosto: cómo será el Campeonato Mundial de Carnes y qué restaurantes participan como sedes de evaluación",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdExEaTZMMGRsX2REeDhiU1gzd3ZacC1kYlVWdzBHSE5EcVhwSHctNVNkVnlEZHRXeURqODZ6ZHVfeHJYV09fb0hhZmhna0IxcnMtZFZZQVotbExvOUhXeU95Z2t5bWRzYjJVMUdtS2N1QzRBOFhkNUFsZnRvbDRtWkxFa0V2R2dXeTlJYXl0akM0OW92X0RKNm9YeVJkM0toUXprV0RaLWluRGRXUGxXcWZucnctVnB3SWRXbjRwRVZPRkVRd3dSTWJrc0NzbmJsWmdsQUNyNVRjN01nWjE5VQ?oc=5",
-     "source": "La Nación",
-     "published": "2026-09-09T20:44:00+00:00",
-     "id": "26f717967e3b"
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajRyZ3llTE5xZUNuWW50VWdRMlM3amJlNzZMNmN6UmtuYm1XN2pDbFRTUnJlTXhGeVl3QWxQQWdPdF81cktHSnR3QmFXamgwYXQ2eXJEZG9hRXNHUjNQeEdqMVBzdk5KRFR2QnE1M2RsbEhBdjhmR2NKVjJWVFhhRU8wcHIzbDliMXhwRnBRYw?oc=5",
+     "source": "Yahoo",
+     "published": "2026-09-10T13:51:38+00:00",
+     "id": "2c59e9fd8605"
     },
     {
      "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
@@ -335,6 +345,13 @@
      "source": "Página|12",
      "published": "2026-09-08T23:01:00+00:00",
      "id": "acff53b99bab"
+    },
+    {
+     "title": "Agenda cultural bonaerense",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBScW9VY1ZMTjZoTHdtWjVwcUpCRE1VWGt4SHJmNnZzcGVfUmF0aDY4WVVoeVJXMXdrcXZuSWZNemk2ejNscUZpVHVrWjVLVzVxSF9KamhsaFRXSFFxdjRvLUd1VzhFZTcwRldvd3MzWm0yWEF4?oc=5",
+     "source": "Página|12",
+     "published": "2026-09-04T16:55:47+00:00",
+     "id": "1b4a8746a7e1"
     }
    ]
   },
@@ -344,84 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Con US$100.000: cuántos metros cuadrados se pueden comprar en cada barrio de CABA en septiembre 2026",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/con-us100000-cuantos-metros-cuadrados-se-pueden-comprar-en-cada-barrio-de-caba-en-septiembre-2026-nid09092026/",
-     "source": "La Nación",
-     "published": "2026-09-11T00:12:00+00:00",
-     "copete": "En el barrio más barato de la ciudad se pueden comparar 78,64 m² más que en el más caro con ese monto",
-     "id": "9e700dddd1dd"
-    },
-    {
-     "title": "Crédito hipotecario “clase media”: la alianza entre una desarrolladora y un banco para financiar hasta el 80% a 20 años en pozo",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/credito-hipotecario-la-alianza-entre-una-desarrolladora-y-un-banco-para-financiar-hasta-el-80-a-20-nid09092026/",
-     "source": "La Nación",
-     "published": "2026-09-11T00:12:00+00:00",
-     "copete": "El esquema permite acceder al financiamiento desde la firma del boleto de compraventa, sin esperar a que la propiedad esté escriturada",
-     "id": "4c6956ae040e"
-    },
-    {
-     "title": "El impactante show de drones en Nueva York que recreó con luces las Torres Gemelas",
-     "link": "https://www.lanacion.com.ar/el-mundo/el-impactante-show-de-drones-en-nueva-york-que-recreo-con-luces-las-torres-gemelas-nid10092026/",
-     "source": "La Nación",
-     "published": "2026-09-11T00:11:51+00:00",
-     "copete": "El evento se realizó a horas de cumplirse 25 años del atentado que se llevó la vida de 2977 personas",
-     "id": "905e2c6e14c7"
-    },
-    {
-     "title": "Créditos hipotecarios: tres bancos se suman a la baja de tasas y uno la reduce a la mitad",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-3-bancos-se-suman-a-la-baja-de-tasas-y-uno-la-reduce-a-la-mitad-nid09092026/",
-     "source": "La Nación",
-     "published": "2026-09-11T00:11:00+00:00",
-     "copete": "Ya son 5 las entidades que anunciaron la baja de sus préstamos hipotecarios luego de que se conociera la primera licitación del FGS",
-     "id": "7153b0e3b9e8"
-    },
-    {
-     "title": "El tenso cruce entre Rodrigo De Paul y Robert Lewandowski en el empate de Inter Miami ante Chicago Fire: “¿Quién sos, bobo?\"",
-     "link": "https://www.infobae.com/deportes/2026/09/10/los-videos-del-tenso-cruce-entre-de-paul-y-lewandowski-en-el-empate-de-inter-miami-ante-chicago-fire/",
+     "title": "Estados Unidos ofreció petróleo e inversiones a Cuba a cambio de la salida de Díaz-Canel y la privatización de Cupet",
+     "link": "https://www.infobae.com/cuba/2026/09/11/estados-unidos-ofrecio-petroleo-e-inversiones-a-cuba-a-cambio-de-la-salida-de-diaz-canel-y-la-privatizacion-de-cupet/",
      "source": "Infobae",
-     "published": "2026-09-11T00:08:02+00:00",
-     "copete": "El mediodía de tensión llegó sobre el final del partido por la MLS, cuando el argentino salió en defensa de un compañero y quedó cara a cara con el delantero polaco",
-     "id": "2425853ed5bb"
+     "published": "2026-09-11T04:44:50+00:00",
+     "copete": "El diario Miami Herald informó que la iniciativa incluía el ingreso de capital privado al área de hidrocarburos y fue transmitida mediante emisarios a Raúl Guillermo Rodríguez Castro, según una fuente del medio",
+     "id": "fa92c84ba848"
     },
     {
-     "title": "Filial panameña de empresa costarricense de producción láctea consolida avances",
-     "link": "https://www.infobae.com/panama/2026/09/11/filial-panamena-de-empresa-costarricense-de-produccion-lactea-consolida-avances/",
+     "title": "Delincuentes intentaron robar una vivienda en City Bell y el dueño los echó a los tiros",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/09/11/delincuentes-intentaron-robar-una-vivienda-en-city-bell-y-el-dueno-los-echo-a-los-tiros/",
      "source": "Infobae",
-     "published": "2026-09-11T00:06:19+00:00",
-     "copete": "Gestiona un modelo cooperativo que busca combinar la actividad comercial con beneficios para su cadena de valor y las comunidades",
-     "id": "8be5975a6272"
+     "published": "2026-09-11T04:44:23+00:00",
+     "copete": "Ocurrió cerca de las 5 de la madrugada de ayer en 27 y 463. Vecinos aseguraron haber escuchado varias detonaciones",
+     "id": "a0fdb81f8be0"
     },
     {
-     "title": "Costa Rica inicia proceso de despido contra 36 funcionarios que habrían usado un software para simular que trabajaban desde casa",
-     "link": "https://www.infobae.com/costa-rica/2026/09/10/costa-rica-inicia-proceso-de-despido-contra-36-funcionarios-que-habrian-usado-un-software-para-simular-que-trabajaban-desde-casa/",
+     "title": "Se les quemó la casa por una falla en una heladera recién comprada y la Justicia ordenó indemnizarlos",
+     "link": "https://www.infobae.com/judiciales/2026/09/11/se-les-quemo-la-casa-por-una-falla-en-una-heladera-recien-comprada-y-la-justicia-ordeno-indemnizarlos/",
      "source": "Infobae",
-     "published": "2026-09-10T23:59:01+00:00",
-     "copete": "El Ministerio de Hacienda detectó que empleados en teletrabajo instalaron sin autorización una herramienta que simulaba el movimiento del mouse para aparentar actividad durante su jornada laboral.",
-     "id": "29d1b469b57b"
+     "published": "2026-09-11T04:40:03+00:00",
+     "copete": "Los peritajes de los bomberos determinaron que el fuego se originó en la parte baja del electrodoméstico por un desperfecto eléctrico. Un tribunal de La Plata ordenó a la fabricante de la heladera y a la vendedora pagarles más de $16…",
+     "id": "693075cea40d"
     },
     {
-     "title": "Córdoba: murió un hombre que había sido golpeado por una máquina chipeadora de ramas y estaba internado",
-     "link": "https://www.infobae.com/sociedad/2026/09/10/cordoba-murio-un-hombre-que-habia-sido-golpeado-por-una-maquina-chipeadora-de-ramas-y-estaba-internado/",
+     "title": "Compensación económica: su exmarido deberá pagarle $23,5 millones más una multa por su actitud dilatoria durante el juicio",
+     "link": "https://www.infobae.com/judiciales/2026/09/11/compensacion-economica-su-exmarido-debera-pagarle-235-millones-mas-una-multa-por-su-actitud-dilatoria-durante-el-juicio/",
      "source": "Infobae",
-     "published": "2026-09-10T23:57:56+00:00",
-     "copete": "El trabajador había sido asistido de urgencia luego de quedar en el radio de acción del equipo forestal que operaba un hombre de 26 años. La causa está a cargo de la Fiscalía de Morteros",
-     "id": "4d01af4002cf"
+     "published": "2026-09-11T04:39:47+00:00",
+     "copete": "La Cámara de Apelaciones triplicó el monto fijado en primera instancia. El tribunal señaló que la mujer contaba con vivienda, auto y ahorros antes de convivir, pero que su autonomía se vio afectada durante la relación por la violencia…",
+     "id": "fecbfd7b17ee"
     },
     {
-     "title": "Elon Musk amenaza con acciones legales por un documental sobre su vida",
-     "link": "https://www.clarin.com/estados-unidos/elon-musk-amenaza-con-acciones-legales-por-un-documental-sobre-su-vida_0_kpeHmUOUut.html",
+     "title": "La Justicia dictó que el camionero que hizo grafitis en el Parque Nahuel Huapi deberá restaurar las piedras que vandalizó",
+     "link": "https://www.clarin.com/sociedad/justicia-dicto-camionero-hizo-grafitis-parque-nahuel-huapi-debera-restaurar-piedras-vandalizo_0_zhEUZXBvD4.html",
      "source": "Clarín",
-     "published": "2026-09-10T23:30:18+00:00",
-     "copete": "Los representantes legales del magnate han acusado de difamación a un documental sobre su vida, alegando falta de verificación de datos. El filme, aclamado en Venecia, retrata al empresario como narcisista y cruel, generando controversia y…",
-     "id": "dd09cb4b2f57"
+     "published": "2026-09-11T04:30:23+00:00",
+     "copete": "El hecho ocurrió el 26 de diciembre del año pasado: el hombre se detuvo al costado de la ruta 237, y escribió con aerosol en las rocas. Pero esa pintada no fue la única. También deberá reparar otras intervenciones relevadas a lo largo del…",
+     "id": "5e2a4cd64a23"
     },
     {
-     "title": "El susto de Juana Repetto al quedar atrapada en medio de un incendio con su hijo menor: “Corriendo por las escaleras”",
-     "link": "https://www.clarin.com/fama/susto-juana-repetto-quedar-atrapada-medio-incendio-hijo-menor-corriendo-escaleras_0_gWBdW82Rwr.html",
+     "title": "Gobernador de California firma leyes para limitar riesgos de las redes sociales en los niños",
+     "link": "https://www.clarin.com/estados-unidos/gobernador-de-california-firma-leyes-para-limitar-riesgos-de-las-redes-sociales-en-los-ninos_0_0PaaVGNARR.html",
      "source": "Clarín",
-     "published": "2026-09-10T23:23:55+00:00",
-     "copete": "La actriz relató el dramático momento que vivió junto a Timoteo durante una producción de fotos. Documentó en redes los momentos posteriores a la evacuación de urgencia.",
-     "id": "c7376f3ed0e3"
+     "published": "2026-09-11T04:30:19+00:00",
+     "copete": "California impulsa leyes para proteger a menores en internet, prohibiendo a redes sociales ofrecer funciones adictivas a usuarios menores de 16. Newsom destaca que estas medidas superan la prohibición australiana, enfocándose en funciones…",
+     "id": "7fd0f38aa4f1"
+    },
+    {
+     "title": "Khabib Nurmagomedov revela el sueño que tenía antes de ser una estrella de UFC: “Quería ser futbolista”",
+     "link": "https://www.clarin.com/internacional/khabib-nurmagomedov-revela-sueno-estrella-ufc-queria-futbolista_0_4LZuDdquMA.html",
+     "source": "Clarín",
+     "published": "2026-09-11T04:27:47+00:00",
+     "copete": "El excampeón invicto de UFC creció en Daguestán y terminó construyendo una carrera histórica dentro de las artes marciales mixtas. Sin embargo, antes de los guantes la pelota ocupó un lugar central desde su infancia.",
+     "id": "edf84e040349"
+    },
+    {
+     "title": "Un trauma de 25 años: cómo el país que se unió tras los atentados del 11-S terminó atrapado en una polarización tóxica",
+     "link": "https://www.lanacion.com.ar/estados-unidos/un-trauma-de-25-anos-como-el-pais-que-se-unio-tras-los-atentados-del-11-s-termino-atrapado-en-una-nid11092026/",
+     "source": "La Nación",
+     "published": "2026-09-11T04:23:10+00:00",
+     "copete": "Tras la inédita unidad nacional que siguió a los ataques de Al-Qaeda, las guerras, las crisis y el descrédito de las instituciones alimentaron una fractura política que hoy marca a fuego a EE.UU",
+     "id": "3bc010618f09"
+    },
+    {
+     "title": "El “Dunkerque estadounidense”: la masiva e improvisada evacuación marítima del 11-S que salvó a miles",
+     "link": "https://www.lanacion.com.ar/lifestyle/el-dunkerque-estadounidense-la-masiva-e-improvisada-evacuacion-maritima-del-11-s-que-salvo-a-miles-nid11092026/",
+     "source": "La Nación",
+     "published": "2026-09-11T04:23:00+00:00",
+     "copete": "En medio del pánico del 11 de septiembre, una flota improvisada de ferrys, remolcadores y lanchas rescató a medio millón de personas; una hazaña colectiva que superó los números de la Segunda Guerra Mundial",
+     "id": "9a92e3ba3aff"
+    },
+    {
+     "title": "Mario Casas y Óscar no son los únicos: los cinco hermanos Casas y la relación que comparten",
+     "link": "https://www.clarin.com/internacional/mario-casas-oscar-unicos-hermanos-casas-relacion-comparten_0_5GiO5BdpLa.html",
+     "source": "Clarín",
+     "published": "2026-09-11T04:22:24+00:00",
+     "copete": "Mario y Óscar construyeron sus carreras frente a las cámaras, pero son parte de una familia de cinco hermanos. Sheila, Christian y Daniel mantienen perfiles diferentes y ocupan lugares particulares dentro del clan Casas.",
+     "id": "d909f0d2715a"
     }
    ]
   },
@@ -430,6 +447,46 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+     "link": "https://www.bbc.com/mundo/articles/c62jl6gyrjyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-11T04:11:48+00:00",
+     "copete": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001.",
+     "id": "d442d14ef26c"
+    },
+    {
+     "title": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
+     "link": "https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html",
+     "source": "El País Internacional",
+     "published": "2026-09-11T04:00:00+00:00",
+     "copete": "La comunidad que profesa la fe a Mahoma ha ganado peso e influencia en la ciudad en estos 25 años. Los republicanos usan el miedo al islam como arma electoral en todo el país",
+     "id": "e0bca8540a09"
+    },
+    {
+     "title": "Los socialdemócratas y la ultraderecha pugnan por el voto obrero en Suecia",
+     "link": "https://elpais.com/internacional/2026-09-11/los-socialdemocratas-y-la-ultraderecha-pugnan-por-el-voto-obrero-en-suecia.html",
+     "source": "El País Internacional",
+     "published": "2026-09-11T03:40:00+00:00",
+     "copete": "Los progresistas aspiran a recuperar el poder en el país escandinavo en las elecciones del domingo",
+     "id": "23f1c203b623"
+    },
+    {
+     "title": "¿Han ganado los terroristas tras el 11-S?",
+     "link": "https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html",
+     "source": "El País Internacional",
+     "published": "2026-09-11T03:30:01+00:00",
+     "copete": "Estados Unidos respondió al atentado en Nueva York como querían sus atacantes y contribuyó a crear un mundo donde el terrorismo es tan normal que ya ni sabemos cuándo usar esa palabra",
+     "id": "ffbc80dd3706"
+    },
+    {
+     "title": "Talarico lidera la resistencia demócrata en Dallas a la convención de Trump",
+     "link": "https://elpais.com/us/2026-09-11/talarico-lidera-la-resistencia-democrata-en-dallas-a-la-convencion-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-09-11T01:55:22+00:00",
+     "copete": "El candidato al Senado por Texas comparece con víctimas de Epstein, mientras una protesta contra el terror migratorio de la Administración toma las calles de la ciudad",
+     "id": "39f9dd4515b4"
+    },
     {
      "title": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
      "link": "https://www.bbc.com/mundo/articles/c0lrk4zn809o?at_medium=RSS&at_campaign=rss",
@@ -447,52 +504,12 @@
      "id": "87715e3381d2"
     },
     {
-     "title": "Un accidente de autobús causa varios muertos en el pueblo de los Alpes suizos de Susch",
-     "link": "https://elpais.com/internacional/2026-09-10/un-accidente-de-autobus-causa-varios-muertos-en-el-pueblo-de-los-alpes-suizos-de-susch.html",
-     "source": "El País Internacional",
-     "published": "2026-09-10T20:17:50+00:00",
-     "copete": "A bordo del vehículo turístico viajaba medio centenar de personas. Se desconoce de momento el número de víctimas",
-     "id": "c7642de8ec67"
-    },
-    {
      "title": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
      "link": "https://www.bbc.com/mundo/articles/c62jlnne88ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-09-10T18:12:10+00:00",
      "copete": "Los analistas cuestionan que la oferta del presidente estadounidense en año electoral sea viable, legal o asequible.",
      "id": "dfadf7746691"
-    },
-    {
-     "title": "Argelia rompe relaciones con Emiratos Árabes Unidos, país aliado de Marruecos e Israel, tras acusarle de acciones hostiles",
-     "link": "https://elpais.com/internacional/2026-09-10/argelia-rompe-relaciones-con-emiratos-arabes-unidos-pais-aliado-de-marruecos-e-israel-tras-acusarle-de-acciones-hostiles.html",
-     "source": "El País Internacional",
-     "published": "2026-09-10T17:49:44+00:00",
-     "copete": "Argel ha denunciado en los últimos años la “injerencia” emiratí en sus asuntos internos y los conflictos del norte de África",
-     "id": "c781b67051be"
-    },
-    {
-     "title": "Ken Paxton, la arriesgada apuesta de Trump para no perder Texas frente al demócrata Talarico",
-     "link": "https://elpais.com/us/2026-09-10/ken-paxton-la-apuesta-mas-arriesgada-de-trump-para-no-perder-texas-frente-al-democrata-talarico.html",
-     "source": "El País Internacional",
-     "published": "2026-09-10T17:41:57+00:00",
-     "copete": "El controvertido fiscal general, aspirante al Senado, recibe en Dallas el apoyo del presidente y usa su discurso en el cónclave republicano para intentar movilizar a los suyos",
-     "id": "f5e465261dad"
-    },
-    {
-     "title": "La lucha por la sucesión en el seno de la familia real de Uganda tras la muerte del monarca más joven del mundo",
-     "link": "https://www.bbc.com/mundo/articles/c0lrk15j391o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-10T16:27:12+00:00",
-     "copete": "La familia del rey Oyo afirma que dejó un testamento en el que nombraba a su hijo pequeño como heredero del reino de Tooro.",
-     "id": "2945e9496801"
-    },
-    {
-     "title": "Los hutíes toman el puerto estratégico de Moca y amenazan con un doble estrangulamiento del suministro global de hidrocarburos",
-     "link": "https://elpais.com/internacional/2026-09-10/los-huties-toman-el-puerto-estrategico-de-moca-y-amenazan-con-un-doble-estrangulamiento-del-suministro-global-de-hidrocarburos.html",
-     "source": "El País Internacional",
-     "published": "2026-09-10T15:25:01+00:00",
-     "copete": "La milicia yemení amenaza con controlar el estrecho de Bab el Mandeb, abriendo la puerta a un doble bloqueo con Ormuz en plena escalada bélica entre EE UU e Irán",
-     "id": "c7808f3aaeb7"
     }
    ]
   }
@@ -501,11 +518,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
