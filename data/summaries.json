@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:10:00Z",
+  "generated_at": "2026-09-13T10:07:13Z",
   "summaries": {
     "528228d3d360": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
@@ -10,14 +10,6 @@
       "destacado": false,
       "analisis": "Diseño: El título sugiere un estudio traslacional de desarrollo/validación de una firma predictiva (LymphGen-Sig) que combina datos genéticos y transcripcionales; no se especifican fase, aleatorización ni número de centros o pacientes.\nPoblación: Pacientes con linfoma difuso de células B grandes (DLBCL), presumiblemente con datos moleculares disponibles de cohortes previas.\nIntervención: No es una intervención terapéutica sino el desarrollo de una firma pronóstica/predictiva integrando genética y transcriptoma, aplicada de forma retrospectiva sobre datos de tratamiento estándar.\nResultados: El título no aporta cifras de sensibilidad, especificidad, razón de riesgo ni valor predictivo del modelo.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte de entrenamiento y validación, ni si el modelo fue validado externamente.\nMensaje: Una herramienta molecular más granular podría ayudar a seleccionar terapia en DLBCL, pero su utilidad clínica real depende de validación prospectiva antes de poder aplicarse en la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "744020d8cff3": {
-      "resumen": "Relato personal publicado en The ASCO Post de alguien que, tras superar un cáncer, orientó su carrera hacia la investigación oncológica. Es una historia testimonial y no un reporte de resultados científicos, pero ilustra la mirada de un paciente convertido en investigador.",
-      "destacado": false
-    },
-    "298e39ff45ec": {
-      "resumen": "The ASCO Post publica una reflexión sobre qué significa hoy la experiencia clínica en oncología en la era de la inteligencia artificial (IA), a medida que estas herramientas se suman al proceso diagnóstico y terapéutico. Invita a pensar el rol del criterio médico frente a la automatización creciente.",
-      "destacado": false
-    },
     "db68110ebfdb": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de fase III, abierto y aleatorizado, que compara trastuzumab botidotin —un nuevo conjugado anticuerpo-fármaco (ADC, antibody-drug conjugate)— contra trastuzumab emtansina (T-DM1, el ADC de referencia) en cáncer de mama avanzado con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Es un estudio clave para saber si hay una alternativa mejor o equivalente al estándar actual en este escenario.",
       "destacado": true,
@@ -27,54 +19,8 @@
       "resumen": "Journal of Clinical Oncology (JCO) publica su agradecimiento anual a los revisores externos que colaboraron con el proceso editorial durante 2026. Es una nota institucional sin contenido clínico relevante para la práctica.",
       "destacado": false
     },
-    "727ceade60a4": {
-      "resumen": "OncLive reporta un análisis que compara un esquema de dosificación extendida de tarlatamab —anticuerpo biespecífico que se une a DLL3 (ligando delta-like 3) y a CD3, usado en cáncer de pulmón de células pequeñas (CPCP, small cell lung cancer)— frente al esquema estándar cada dos semanas (Q2W) en pacientes ya tratados. Importa porque un intervalo de dosificación más largo facilitaría la administración sin resignar eficacia ni exposición al fármaco.",
-      "destacado": false,
-      "analisis": "Diseño: Presumiblemente un análisis farmacocinético y de eficacia comparativo (posible subanálisis o cohorte de extensión de un ensayo como DeLLphi) entre un esquema de dosificación extendida y el esquema estándar cada dos semanas (Q2W) de tarlatamab; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (CPCP) previamente tratados.\nIntervención: Tarlatamab (biespecífico DLL3xCD3) en esquema de intervalo extendido, comparado contra el esquema estándar cada dos semanas (Q2W).\nResultados: El título indica exposición y supervivencia \"comparables\" entre ambos esquemas, pero no se dispone de cifras de supervivencia global, supervivencia libre de progresión, razón de riesgo ni intervalos de confianza.\nLimitaciones: Sin el cuerpo del artículo no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si el diseño permite concluir no inferioridad formal.\nMensaje: Si se confirma, un esquema más espaciado simplificaría la administración de tarlatamab para el paciente y el sistema de salud sin resignar eficacia, aunque conviene esperar la publicación completa de los datos.\nNota: análisis sin acceso al abstract."
-    },
-    "d6661e036dbe": {
-      "resumen": "OncLive resume, en su sección semanal \"The OncFive\", los cinco artículos más destacados de oncología de la semana del 6 de septiembre. Sirve como puerta de entrada rápida a las noticias más relevantes de la semana en la especialidad.",
-      "destacado": false
-    },
-    "ef065554eb05": {
-      "resumen": "OncLive informa que agregar terapia local consolidativa (LCT, local consolidative therapy) después de la inducción con nivolumab más ipilimumab no logró mejorar la supervivencia en cáncer de pulmón de células no pequeñas (CPCNP) metastásico. Interesa porque buscaba reforzar la respuesta a la inmunoterapia combinada tratando también los sitios de enfermedad visibles.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, presumiblemente aleatorizado, sin datos en el título sobre cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) metastásico que recibieron inducción con nivolumab más ipilimumab.\nIntervención: Agregado de terapia local consolidativa (LCT, por ejemplo radioterapia a los sitios de enfermedad) tras la inducción con inmunoterapia combinada, comparado contra continuar sin LCT.\nResultados: El título señala que la LCT no mejoró la supervivencia; no se dispone de cifras de supervivencia global, supervivencia libre de progresión, razón de riesgo ni valor de p.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tipo específico de LCT empleada, ni el poder estadístico del estudio para detectar diferencias.\nMensaje: El resultado negativo sugiere que sumar terapia local a la inducción con nivolumab/ipilimumab no aportaría beneficio de supervivencia en CPCNP metastásico, lo que no respalda incorporar esta estrategia de rutina.\nNota: análisis sin acceso al abstract."
-    },
-    "b24fe1151ba5": {
-      "resumen": "The ASCO Post entrevista a Ramaswamy Govindan sobre los resultados finales de supervivencia global del ensayo Alliance A081105 en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico). Interesa porque aporta el dato de supervivencia a largo plazo, el desenlace más duro y esperado, en esta población.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico cooperativo del grupo Alliance (Alliance A081105); el título indica resultados finales de supervivencia global, sin precisar fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación del receptor del factor de crecimiento epidérmico (EGFR).\nIntervención: No se especifica en el título el esquema ni el comparador evaluados en el estudio.\nResultados: El título anuncia resultados finales de supervivencia global pero no incluye cifras de mediana de supervivencia, razón de riesgo, intervalo de confianza ni valor de p.\nLimitaciones: Sin el abstract no se puede conocer el tamaño de la muestra, el tiempo de seguimiento ni el poder estadístico del análisis de supervivencia global.\nMensaje: Contar con el dato maduro de supervivencia global en CPCNP EGFR mutado es valioso para consolidar (o cuestionar) el estándar de tratamiento en esta población, aunque la interpretación definitiva requiere revisar las cifras completas del estudio.\nNota: análisis sin acceso al abstract."
-    },
-    "338a53d79d61": {
-      "resumen": "Vogue repasa los looks de la colección primavera 2027 de Rio presentada en la pasarela."
-    },
-    "7e2de7811029": {
-      "resumen": "Vogue repasa la colección primavera 2027 de la firma neoyorquina Eckhaus Latta presentada en la pasarela."
-    },
-    "38ac8fb58f1c": {
-      "resumen": "Vogue muestra la colección primavera 2027 de la marca Nomia presentada en la pasarela."
-    },
-    "54001f4870e4": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Jonathan Simkhai presentada en la pasarela de Nueva York."
-    },
     "23e714140a57": {
       "resumen": "Vogue México destaca el look elegante de la cantante mexicana Kenia Os en la Semana de la Moda de Nueva York, con mocasines de tacón y calcetas."
-    },
-    "9d9971fe69d7": {
-      "resumen": "Canal26 cuenta cuál es la nueva tendencia en árboles de Navidad para 2026, que reemplaza al clásico verde por una opción más elegante."
-    },
-    "f87dc7e25d0a": {
-      "resumen": "Vogue México repasa los zapatos de tacón de estilo ochentoso de Carolina Herrera que vuelven a estar de moda en septiembre de 2026."
-    },
-    "87123ce34b47": {
-      "resumen": "El Trece cuenta que el pantalón bombacho reemplaza al ajustado como la tendencia que se impone esta primavera."
-    },
-    "6d98d47641c8": {
-      "resumen": "Canal26 presenta la tendencia que reemplaza a las piletas tradicionales en los patios: ocupa menos espacio, es más fácil de limpiar y se usa todo el año."
-    },
-    "fd476055fd07": {
-      "resumen": "LOS40 repasa diez cortes de pelo de mujer que serán tendencia esta temporada de otoño 2026."
     },
     "372fd630d673": {
       "resumen": "La Embajada de España recomienda cinco restaurantes porteños para comer platos típicos españoles."
@@ -82,20 +28,11 @@
     "41354dbecade": {
       "resumen": "El musical \"Hedwig y la Pulgada Furiosa\" llega a Buenos Aires con una puesta en escena inmersiva."
     },
-    "485cd1d3cc0b": {
-      "resumen": "Perfil repasa la trayectoria del músico Julián Vat, su vínculo con Piazzolla y los premios Grammy, antes de su próximo show en Buenos Aires."
-    },
-    "52a2570e2945": {
-      "resumen": "Urgente24 recomienda planes para el fin de semana en el AMBA, entre ellos la Fiesta del Cine, el Festival Internacional de Buenos Aires (FIBA) y un evento de café."
-    },
     "28aecb7804e1": {
       "resumen": "iProfesional propone planes para el fin de semana en Buenos Aires, con el FIBA, la Fiesta de las Colectividades y otras opciones."
     },
     "d81eb288448e": {
       "resumen": "Contextotucuman recomienda cinco restaurantes de Buenos Aires para disfrutar de la auténtica gastronomía española."
-    },
-    "2c2d605a0249": {
-      "resumen": "Jorge Dubatti, Patricia Sormani y Mauricio Kartun encabezarán un ciclo virtual y gratuito dedicado al teatro argentino."
     },
     "4dbc9eab5448": {
       "resumen": "Ámbito recomienda dónde comer comida peruana en Buenos Aires y qué platos probar."
@@ -105,6 +42,68 @@
     },
     "6d9a691880d6": {
       "resumen": "Clarín propone más de 60 planes para el fin de semana del 11 al 13 de septiembre en Buenos Aires, con recitales, teatro, cine, streaming y muestras, muchas gratuitas."
+    },
+    "f08b1cc3bfc6": {
+      "resumen": "Entrevista de OncLive al Dr. Luis Paz-Ares sobre cómo manejar en la práctica los efectos adversos de las terapias más nuevas para el cáncer de pulmón de células pequeñas (CPCP, small cell lung cancer). Sirve para actualizar el manejo clínico de la toxicidad de fármacos en expansión para esta enfermedad.",
+      "destacado": false
+    },
+    "7d7f34da4174": {
+      "resumen": "Entrevista a la Dra. Shilpa Gupta en The ASCO Post sobre el ensayo de fase III MAIN-CAV en cáncer urotelial (de las vías urinarias) localmente avanzado o metastásico. Da contexto clínico sobre este estudio, aunque el título no aporta resultados numéricos concretos.",
+      "destacado": false
+    },
+    "2441a10187b4": {
+      "resumen": "Cobertura de OncLive de un estudio en el que el esquema Ris-Rez extendió la supervivencia global mediana a 18,5 meses frente a topotecán, la quimioterapia estándar de segunda línea, en cáncer de pulmón de células pequeñas (CPCP) en recaída. Relevante porque topotecán es desde hace años el comparador de referencia en una indicación con pocas opciones.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de OncLive sobre resultados de un estudio (probablemente un ensayo clínico) que compara el esquema \"Ris-Rez\" contra topotecán; el título no detalla fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (CPCP) en recaída, tras progresar a un tratamiento previo, el escenario habitual de uso de topotecán de segunda línea.\nIntervención: Esquema \"Ris-Rez\" comparado contra topotecán, el estándar de segunda línea en CPCP en recaída.\nResultados: Según el título, la supervivencia global mediana fue de 18,5 meses con Ris-Rez frente a topotecán; no se dispone de la razón de riesgo, el intervalo de confianza ni el valor de p porque no se pudo acceder al artículo completo ni al abstract.\nLimitaciones: Sin el trabajo completo no se puede evaluar el diseño exacto del estudio, el tamaño muestral, la magnitud real del beneficio ni el perfil de toxicidad del nuevo esquema.\nMensaje: Si se confirma con la publicación completa, una supervivencia mediana de 18,5 meses superaría ampliamente lo esperado con topotecán y sería un avance relevante en una indicación de mal pronóstico; hay que esperar los datos completos antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "3acfe3ef56d5": {
+      "resumen": "Cobertura de OncLive de un estudio en el que el esquema Tam-Peli redujo un 54% el riesgo de muerte frente a topotecán en cáncer de pulmón de células pequeñas (CPCP) en recaída. Es otro dato que compite por redefinir el estándar de segunda línea en esta enfermedad de pronóstico adverso.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de OncLive sobre resultados de un estudio (probablemente un ensayo clínico) que compara el esquema \"Tam-Peli\" contra topotecán; el título no especifica fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (CPCP) en recaída, tras progresión a un tratamiento previo.\nIntervención: Esquema \"Tam-Peli\" comparado contra topotecán, el estándar de segunda línea en este escenario.\nResultados: Según el título, hubo una reducción del 54% en el riesgo de muerte con Tam-Peli frente a topotecán (equivalente aproximado a una razón de riesgo cercana a 0,46); no se conoce el intervalo de confianza ni el valor de p porque no se pudo acceder al artículo completo.\nLimitaciones: Sin el estudio completo no se puede confirmar el diseño, el tamaño muestral, la supervivencia libre de progresión ni la toxicidad del esquema.\nMensaje: Una reducción del riesgo de muerte de esa magnitud frente a topotecán sería clínicamente relevante en una indicación con pronóstico adverso, aunque hay que confirmar los datos completos antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "0e03480b9289": {
+      "resumen": "Ítem con título vacío o mal formado proveniente del feed de The ASCO Post (aparece solo como \"- The ASCO Post\"), aparentemente un error de captura de la fuente; no hay información suficiente para resumir el contenido real de la nota.",
+      "destacado": false
+    },
+    "9f93274576c4": {
+      "resumen": "Entrevista a la Dra. Lauren Averett Byers en The ASCO Post sobre ABBV-706, una droga en investigación para el cáncer de pulmón de células pequeñas (CPCP) en recaída o refractario. Da contexto sobre un fármaco en desarrollo, sin resultados numéricos en el título.",
+      "destacado": false
+    },
+    "675d60fbf29e": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la diseñadora estadounidense Elena Velez."
+    },
+    "e49f08966f42": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear del colectivo de diseño Threeasfour."
+    },
+    "c287adcd65cf": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear del diseñador Prabal Gurung."
+    },
+    "253dd520cd0b": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la firma Ashlyn."
+    },
+    "0a11411ccb14": {
+      "resumen": "Vogue México repasa el regreso de los leggings de encaje ochentosos, combinados con zapatos de tacón, sandalias y botas para el otoño 2026."
+    },
+    "1a5b46e0b375": {
+      "resumen": "ABC repasa las tendencias de moda para el otoño: prendas románticas, siluetas amplias y un aire inglés."
+    },
+    "89f688c0c514": {
+      "resumen": "Nicole Neumann y sus tres hijas mostraron las tendencias de la primavera: blanco, denim y el detalle que vuelve con fuerza."
+    },
+    "2b8f0d58067a": {
+      "resumen": "Vogue México publica la lista completa de los ganadores del Festival de Venecia 2026."
+    },
+    "f6f571b15d0e": {
+      "resumen": "Lecturas repasa todas las tendencias que marcarán el otoño/invierno 2026-2027, de las prendas favoritas a los estampados de moda."
+    },
+    "97c73cc70d6c": {
+      "resumen": "Perfil repasa los recitales que más convocan al público cordobés, de Coldplay a BTS."
+    },
+    "747451203148": {
+      "resumen": "La obra \"Una Navidad de Locos\" ya tiene fecha confirmada en Lima, con Marco Zunino, Ximena Díaz, Luciana Arispe y Jorge Guerra en el elenco."
+    },
+    "611ffa300c5c": {
+      "resumen": "InfoBAN propone los planes imperdibles para hacer este fin de semana en la Ciudad de Buenos Aires."
     }
   }
 }
