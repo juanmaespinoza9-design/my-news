@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:07:43Z",
+  "generated_at": "2026-09-14T10:07:41Z",
   "summaries": {
     "528228d3d360": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
@@ -12,7 +12,7 @@
     },
     "db68110ebfdb": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de fase III, abierto y aleatorizado, que compara trastuzumab botidotin —un nuevo conjugado anticuerpo-fármaco (ADC, antibody-drug conjugate)— contra trastuzumab emtansina (T-DM1, el ADC de referencia) en cáncer de mama avanzado con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Es un estudio clave para saber si hay una alternativa mejor o equivalente al estándar actual en este escenario.",
-      "destacado": true,
+      "destacado": false,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, abierto (open-label, sin cegamiento); el título no detalla número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado HER2-positivo (receptor 2 del factor de crecimiento epidérmico humano), presumiblemente con progresión luego de tratamiento previo con trastuzumab y taxano, el escenario habitual de uso de T-DM1.\nIntervención: Trastuzumab botidotin (nuevo conjugado anticuerpo-fármaco, ADC) comparado contra trastuzumab emtansina (T-DM1), el ADC estándar en esta indicación.\nResultados: No se dispone de las cifras de supervivencia libre de progresión, supervivencia global, razón de riesgo ni valor de p, por no haber podido acceder al abstract completo.\nLimitaciones: El diseño abierto puede introducir sesgo en la evaluación de eventos que dependen del criterio del investigador (por ejemplo, progresión radiológica); sin datos numéricos no se puede juzgar la magnitud del beneficio ni la seguridad comparada.\nMensaje: Si trastuzumab botidotin demuestra no inferioridad o superioridad frente a T-DM1, podría convertirse en una nueva opción en cáncer de mama HER2-positivo avanzado; habrá que revisar los resultados completos cuando se publiquen.\nNota: análisis sin acceso al abstract."
     },
     "c57936bd7857": {
@@ -29,54 +29,10 @@
       "destacado": false,
       "analisis": "Diseño: El título sugiere un estudio en fase temprana de desarrollo clínico (probablemente fase I/II) de una droga en investigación; no se especifican aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (CPCP) en recaída o refractario a tratamiento previo.\nIntervención: ABBV-706, un fármaco en investigación (conjugado dirigido, según su nomenclatura), sin comparador especificado en el título.\nResultados: El título no aporta cifras de tasa de respuesta, supervivencia libre de progresión ni supervivencia global.\nLimitaciones: Al tratarse presumiblemente de un estudio en fase temprana, los resultados suelen ser preliminares, con cohortes pequeñas y sin grupo comparador; sin el abstract no se puede confirmar el diseño ni el tamaño muestral.\nMensaje: ABBV-706 es un fármaco en desarrollo para una indicación de difícil manejo (CPCP en recaída); los datos preliminares son alentadores para seguir su desarrollo, pero se necesitan estudios más avanzados antes de definir su rol clínico.\nNota: análisis sin acceso al abstract."
     },
-    "47e4fd8b81c2": {
-      "resumen": "Cobertura de OncLive sobre un estudio que evalúa gefitinib (inhibidor de la tirosina quinasa del receptor del factor de crecimiento epidérmico, EGFR) intercalado con quimioterapia adyuvante en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) resecado y mutación de EGFR, con mejora en la supervivencia libre de enfermedad (DFS, disease-free survival). Interesa porque el tratamiento adyuvante dirigido en NSCLC EGFR-mutado es un área en plena evolución.",
-      "destacado": false,
-      "analisis": "Diseño: El título indica un estudio (probablemente un ensayo clínico) que evalúa un esquema de gefitinib intercalado con quimioterapia adyuvante frente a un comparador; no se especifican fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado quirúrgicamente, con mutación activadora de EGFR (receptor del factor de crecimiento epidérmico), en contexto de tratamiento adyuvante.\nIntervención: Gefitinib (inhibidor de tirosina quinasa de EGFR) administrado de forma intercalada con quimioterapia adyuvante, comparado presumiblemente contra quimioterapia adyuvante sola.\nResultados: El título indica una mejoría en la supervivencia libre de enfermedad (DFS) con el esquema intercalado, pero no se dispone de las cifras exactas (razón de riesgo, intervalo de confianza, valor de p) por no contar con el abstract completo.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, la magnitud real del beneficio, el impacto en supervivencia global ni el perfil de toxicidad del esquema intercalado.\nMensaje: Si se confirma con los datos completos, la intercalación de gefitinib con quimioterapia adyuvante podría sumarse a las estrategias adyuvantes dirigidas en NSCLC EGFR-mutado (junto a osimertinib), aunque hay que esperar la publicación completa antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "d5b621065818": {
-      "resumen": "Recopilación semanal de OncLive con los cinco videos más destacados sobre oncología correspondientes a la semana del 6 de septiembre. Es un resumen de contenidos multimedia, sin datos clínicos propios que analizar.",
-      "destacado": false
-    },
-    "de84764118ae": {
-      "resumen": "Cobertura de OncLive sobre un estudio que muestra que discontinuar tempranamente el tratamiento adyuvante con osimertinib (inhibidor de tirosina quinasa de EGFR de tercera generación) duplica el riesgo de recaída en cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR. Relevante porque la adherencia al tratamiento adyuvante completo es clave para sostener el beneficio de osimertinib tras la cirugía.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio observacional o un análisis real-world (probablemente retrospectivo) que compara desenlaces según la duración del tratamiento adyuvante con osimertinib; no se especifican diseño exacto, aleatorización ni número de pacientes o centros.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado con mutación de EGFR (receptor del factor de crecimiento epidérmico), tratados con osimertinib adyuvante, comparando quienes discontinuaron tempranamente el tratamiento frente a quienes lo completaron según lo planificado.\nIntervención: Discontinuación temprana de osimertinib adyuvante versus finalización del esquema planificado (habitualmente 3 años).\nResultados: Según el título, la discontinuación temprana duplicó el riesgo de recurrencia; no se dispone de la razón de riesgo exacta, el intervalo de confianza ni el valor de p por no contar con el abstract completo.\nLimitaciones: Un diseño observacional conlleva riesgo de sesgo de indicación (los pacientes que discontinúan pueden tener peor estado general o mayor toxicidad basal); sin el trabajo completo no se puede evaluar el ajuste por factores de confusión ni el tamaño de la cohorte.\nMensaje: Refuerza la importancia de sostener la adherencia al esquema completo de osimertinib adyuvante siempre que sea tolerado, ya que interrumpirlo tempranamente podría comprometer significativamente el control de la enfermedad.\nNota: análisis sin acceso al abstract."
-    },
     "b24fe1151ba5": {
       "resumen": "Entrevista en The ASCO Post al Dr. Ramaswamy Govindan sobre los resultados finales de supervivencia global del ensayo Alliance A081105 en cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR (receptor del factor de crecimiento epidérmico). Interesa porque aporta el dato de supervivencia a largo plazo de un ensayo cooperativo en esta población.",
       "destacado": false,
       "analisis": "Diseño: Se trata de un ensayo clínico cooperativo (grupo Alliance, protocolo A081105) del que se presentan los resultados finales de supervivencia global; el título no especifica fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR.\nIntervención: No se especifica en el título el esquema evaluado ni el comparador utilizado en el ensayo.\nResultados: El título indica que se presentan resultados finales de supervivencia global, pero no aporta cifras (mediana de supervivencia, razón de riesgo, intervalo de confianza ni valor de p).\nLimitaciones: Sin el trabajo completo no se puede evaluar el diseño, el tamaño muestral, la madurez del seguimiento ni la magnitud del beneficio.\nMensaje: Los datos finales de supervivencia global de un ensayo cooperativo aportan información de largo plazo relevante para consolidar (o no) el rol de la estrategia evaluada en NSCLC EGFR-mutado; conviene revisar los resultados completos antes de sacar conclusiones para la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "2fcfcee3e1cf": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la firma Campillo."
-    },
-    "8fb9ea7bfcc3": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca estadounidense Khaite."
-    },
-    "d7cb8b54bb66": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la diseñadora Sandy Liang."
-    },
-    "4bb3d22b7c41": {
-      "resumen": "Vogue repasa la colección otoño 2026 ready-to-wear de la marca Cos."
-    },
-    "f385e91bd318": {
-      "resumen": "Vogue México destaca el look ochentoso de vestido de lentejuelas y tacones que lució la cantante Danna en el escenario de Mentiras All Stars."
-    },
-    "6b8c19260437": {
-      "resumen": "Revista CLARA destaca las faldas midi estilo años 20 de Cortefiel como opción elegante y cómoda para la oficina en otoño."
-    },
-    "f34ae9af47a1": {
-      "resumen": "Vogue México repasa el vestido con estampado de diario, al estilo de los años 2000, que lució Inés de Ramón en una cita con Brad Pitt en el US Open."
-    },
-    "74be04df41d3": {
-      "resumen": "Vogue México destaca el regreso de los jeans palazzo setentosos combinados con blusas boho para septiembre 2026."
-    },
-    "e77a8ff4b7d8": {
-      "resumen": "El sitio courant explora por qué Brasil se volvió una referencia de moda a nivel global."
-    },
-    "abae695e1860": {
-      "resumen": "Mujerhoy consulta a dos expertas sobre qué hay detrás de la tendencia de los parches antiestrés."
     },
     "372fd630d673": {
       "resumen": "La Embajada de España recomienda cinco restaurantes porteños para comer platos típicos españoles."
@@ -84,29 +40,74 @@
     "28aecb7804e1": {
       "resumen": "iProfesional propone planes para el fin de semana en Buenos Aires, con el FIBA, la Fiesta de las Colectividades y otras opciones."
     },
-    "4dbc9eab5448": {
-      "resumen": "Ámbito recomienda dónde comer comida peruana en Buenos Aires y qué platos probar."
-    },
     "6d9a691880d6": {
       "resumen": "Clarín propone más de 60 planes para el fin de semana del 11 al 13 de septiembre en Buenos Aires, con recitales, teatro, cine, streaming y muestras, muchas gratuitas."
-    },
-    "97c73cc70d6c": {
-      "resumen": "Perfil repasa los recitales que más convocan al público cordobés, de Coldplay a BTS."
     },
     "22a3431de7a0": {
       "resumen": "Indie Hoy anuncia la presentación de Flor Bertotti en el Teatro Gran Rex."
     },
-    "dbcfb251f8f5": {
-      "resumen": "Infobae repasa los 140 años del Teatro Coliseo Podestá, su reciente distinción como Teatro del Mundo y las particularidades de su temporada."
-    },
     "ce324b306a0c": {
       "resumen": "Revista GENTE detalla el precio del menú premium de un nuevo restaurante de Puerto Madero distinguido como \"icónico\", famoso por sus langostas y su vista al río."
     },
-    "c04af7a6c276": {
-      "resumen": "Indie Hoy anuncia la presentación de Los Tipitos en el Teatro Coliseo."
-    },
     "52a2570e2945": {
       "resumen": "Urgente24 repasa los planes del fin de semana en el AMBA, con la Fiesta del Cine, el FIBA y otras propuestas."
+    },
+    "9b1437f172fd": {
+      "resumen": "OncLive reporta datos actualizados del ensayo PAPILLON, que evalúa amivantamab (anticuerpo biespecífico anti-EGFR/MET) más quimioterapia en primera línea para cáncer de pulmón de células no pequeñas (NSCLC) con inserción en el exón 20 del receptor del factor de crecimiento epidérmico (EGFR). El esquema alcanzó una mediana de supervivencia global de 34.3 meses, un dato relevante para consolidar su rol como estándar en esta población de mal pronóstico.",
+      "destacado": true,
+      "analisis": "Diseño: Actualización de supervivencia global (SG) del ensayo PAPILLON, un estudio de fase III, aleatorizado, abierto (open-label) e internacional multicéntrico, ya conocido por su beneficio en supervivencia libre de progresión.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con inserción en el exón 20 del receptor del factor de crecimiento epidérmico (EGFR), en primera línea de tratamiento.\nIntervención: Amivantamab (anticuerpo biespecífico anti-EGFR/MET) más quimioterapia basada en platino, comparado contra quimioterapia sola.\nResultados: El título reporta una mediana de supervivencia global de 34.3 meses con el esquema con amivantamab; no se dispone de la mediana del grupo control, la razón de riesgo, el intervalo de confianza ni el valor de p.\nLimitaciones: Sin el valor comparativo del brazo control ni las medidas de significancia estadística no se puede dimensionar el beneficio real; los datos surgen de una nota de conferencia y no del artículo original.\nMensaje: Una mediana de supervivencia global superior a los 34 meses en una población de mal pronóstico refuerza el rol de amivantamab más quimioterapia como estándar de primera línea en NSCLC con inserción en exón 20 de EGFR, aunque conviene confirmar con la publicación completa.\nNota: análisis sin acceso al abstract."
+    },
+    "cf1fd7a75d61": {
+      "resumen": "OncLive presenta resultados de zidesamtinib, un nuevo inhibidor de tirosina quinasa (TKI), en pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado con reordenamiento de ROS1 que no recibieron tratamiento previo con TKI. El fármaco mostró altas tasas de respuesta, por lo que se perfila como candidato de primera línea en este subgrupo molecular.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio en fase temprana de desarrollo clínico (probablemente fase I/II) de un nuevo inhibidor de tirosina quinasa (TKI); el título no especifica aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado, con reordenamiento de ROS1 positivo, sin tratamiento previo con inhibidores de tirosina quinasa (TKI-naive).\nIntervención: Zidesamtinib, un inhibidor de tirosina quinasa (TKI) de nueva generación dirigido a ROS1, sin comparador especificado.\nResultados: El título menciona \"altas tasas de respuesta\" pero no aporta la cifra exacta de tasa de respuesta objetiva, duración de la respuesta ni supervivencia libre de progresión.\nLimitaciones: Al ser un estudio de fase temprana, es probable que se trate de una cohorte pequeña, sin grupo comparador y con seguimiento corto; sin el abstract no se puede confirmar el diseño.\nMensaje: Zidesamtinib se perfila como una opción prometedora de primera línea en NSCLC ROS1-positivo, un subgrupo poco frecuente pero con opciones dirigidas; se necesitan datos maduros y comparativos antes de definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "c63690bbb561": {
+      "resumen": "OncLive repasa el ensayo DESTINY-Lung04, que evalúa trastuzumab deruxtecán (T-DXd), un conjugado anticuerpo-fármaco, como primera línea en cáncer de pulmón de células no pequeñas (NSCLC) con mutación de HER2 (receptor 2 del factor de crecimiento epidérmico humano). El estudio mostró un beneficio en supervivencia libre de progresión (SLP), un dato clave para un subgrupo con pocas opciones dirigidas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III (DESTINY-Lung04); el título no detalla aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación de HER2 (receptor 2 del factor de crecimiento epidérmico humano), en primera línea de tratamiento.\nIntervención: Trastuzumab deruxtecán (T-DXd), un conjugado anticuerpo-fármaco (ADC) dirigido a HER2, en primera línea; el título no especifica el comparador.\nResultados: El título indica un \"beneficio en supervivencia libre de progresión\" (SLP) pero no aporta la mediana de SLP, la razón de riesgo, el intervalo de confianza ni el valor de p.\nLimitaciones: Sin cifras concretas no se puede dimensionar la magnitud del beneficio ni compararlo con el estándar actual; tampoco hay datos de supervivencia global ni de seguridad.\nMensaje: Si se confirma el beneficio en primera línea, T-DXd podría consolidarse como opción temprana en NSCLC HER2-mutado, un subgrupo pequeño con pocas terapias dirigidas disponibles; hay que esperar los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "ed03b0775acb": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear del diseñador Zaldy."
+    },
+    "6eac28a227f2": {
+      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de la diseñadora Grace Ling."
+    },
+    "1ff470d81dfe": {
+      "resumen": "Vogue muestra los diseños de la nueva camada de graduados del posgrado en moda (MFA) de Parsons para la primavera 2027."
+    },
+    "a299b72c51d4": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la diseñadora Zoe Gustavia Anna Whalen."
+    },
+    "a5027329df75": {
+      "resumen": "Infobae repasa cómo el estilo rebelde de Amy Winehouse dejó huella en los códigos estéticos del pop."
+    },
+    "ecf84df9cb34": {
+      "resumen": "ELLE señala los tres vestidos que Zara acaba de sumar y que se perfilan como tendencia para el otoño."
+    },
+    "1fe1a1503a7f": {
+      "resumen": "Pinker Moda cuenta cómo la quinta edición de Swimwear Barcelona apostó por nuevas tendencias, inteligencia artificial y la transformación de la industria textil."
+    },
+    "d2f26beeba5a": {
+      "resumen": "Cosmopolitan repasa cinco modelos de camperas de entretiempo que ya son furor en Zara, Mango y Stradivarius."
+    },
+    "c09d93c31447": {
+      "resumen": "Vogue México explora por qué dormir las horas recomendadas no siempre alcanza para sentirse descansada."
+    },
+    "0084c2ab12db": {
+      "resumen": "Vogue México compara las diferencias entre la serie \"Mal de amores\" y la novela de Ángeles Mastretta en la que se basa."
+    },
+    "8140e734b556": {
+      "resumen": "ADNSUR cuenta que la Orquesta del Barrio INTA, que va de Trelew al Teatro Colón, festeja sus 25 años con un show en Buenos Aires."
+    },
+    "0a4b944162a4": {
+      "resumen": "Carmen Barbieri anunció una revista con seis funciones en Buenos Aires."
+    },
+    "c20e2afcd915": {
+      "resumen": "Terraviva repasa la doble fecha histórica de Lázaro Caballero en el Teatro Gran Rex."
+    },
+    "d81eb288448e": {
+      "resumen": "Contexto Tucumán recomienda cinco restaurantes porteños para disfrutar de la auténtica gastronomía española."
     }
   }
 }
