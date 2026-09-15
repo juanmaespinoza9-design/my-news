@@ -1,62 +1,33 @@
 {
-  "generated_at": "2026-09-15T10:06:42Z",
+  "generated_at": "2026-09-15T22:07:09Z",
   "summaries": {
-    "528228d3d360": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
+    "eae79589abca": {
+      "resumen": "OncLive difunde datos de bexobrutideg, una droga en investigación que logró altas tasas de respuesta en distintas líneas de tratamiento de la leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas (LLC/LLCP). Vale la pena seguirlo porque suma opciones para pacientes ya tratados previamente con otras terapias dirigidas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico difundido por OncLive, probablemente presentado en un congreso oncológico; el título no precisa si hubo aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica o linfoma linfocítico de células pequeñas (LLC/LLCP) en distintas líneas de tratamiento, incluyendo probablemente pacientes ya tratados con inhibidores de la tirosina quinasa de Bruton (BTK) u otras terapias dirigidas.\nIntervención: Bexobrutideg, un fármaco en investigación dirigido a la vía de BTK, sin comparador explícito mencionado en el título.\nResultados: No se dispone de cifras de tasa de respuesta global, supervivencia libre de progresión ni intervalos de confianza, por no haber podido acceder al artículo ni al abstract original.\nLimitaciones: Sin datos numéricos no puede evaluarse la magnitud del beneficio; al tratarse de difusión periodística de un congreso, faltan detalles metodológicos clave como aleatorización, comparador y seguimiento.\nMensaje: Si se confirman las altas tasas de respuesta en líneas avanzadas de tratamiento, bexobrutideg podría sumarse como opción para pacientes con LLC/LLCP resistentes a terapias previas; hay que esperar la publicación completa.\nNota: análisis sin acceso al abstract."
+    },
+    "65fd75a187b6": {
+      "resumen": "La agencia estadounidense de medicamentos (FDA, Food and Drug Administration) aceptó a revisión la solicitud de nuevo fármaco (NDA, New Drug Application) para bezuclastinib en mastocitosis sistémica avanzada, una enfermedad clonal poco frecuente de los mastocitos. Es un paso regulatorio a seguir porque podría sumar una nueva terapia dirigida para esta población de difícil manejo.",
       "destacado": false
     },
-    "db68110ebfdb": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de fase III, abierto y aleatorizado, que compara trastuzumab botidotin —un nuevo conjugado anticuerpo-fármaco (ADC, antibody-drug conjugate)— contra trastuzumab emtansina (T-DM1, el ADC de referencia) en cáncer de mama avanzado con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Es un estudio clave para saber si hay una alternativa mejor o equivalente al estándar actual en este escenario.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, abierto (open-label, sin cegamiento); el título no detalla número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado HER2-positivo (receptor 2 del factor de crecimiento epidérmico humano), presumiblemente con progresión luego de tratamiento previo con trastuzumab y taxano, el escenario habitual de uso de T-DM1.\nIntervención: Trastuzumab botidotin (nuevo conjugado anticuerpo-fármaco, ADC) comparado contra trastuzumab emtansina (T-DM1), el ADC estándar en esta indicación.\nResultados: No se dispone de las cifras de supervivencia libre de progresión, supervivencia global, razón de riesgo ni valor de p, por no haber podido acceder al abstract completo.\nLimitaciones: El diseño abierto puede introducir sesgo en la evaluación de eventos que dependen del criterio del investigador (por ejemplo, progresión radiológica); sin datos numéricos no se puede juzgar la magnitud del beneficio ni la seguridad comparada.\nMensaje: Si trastuzumab botidotin demuestra no inferioridad o superioridad frente a T-DM1, podría convertirse en una nueva opción en cáncer de mama HER2-positivo avanzado; habrá que revisar los resultados completos cuando se publiquen.\nNota: análisis sin acceso al abstract."
+    "1700e728f1d6": {
+      "resumen": "El estudio ECHO mostró que agregar acalabrutinib, un inhibidor de la tirosina quinasa de Bruton (BTK), al esquema bendamustina-rituximab (BR) prolonga la supervivencia libre de progresión (SLP) en primera línea del linfoma de células del manto (LCM). Es una combinación a seguir porque podría cambiar el estándar de tratamiento inicial de esta neoplasia.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III (el nombre ECHO corresponde a un estudio ya conocido en LCM); el título no detalla número de centros ni de pacientes.\nPoblación: Pacientes con linfoma de células del manto (LCM) sin tratamiento previo (primera línea), candidatos a quimioinmunoterapia.\nIntervención: Acalabrutinib (inhibidor de BTK) sumado a bendamustina-rituximab (BR) versus BR solo, el comparador habitual en este diseño.\nResultados: Se reporta una extensión de la supervivencia libre de progresión (SLP), pero no se dispone de las cifras exactas (mediana de SLP, razón de riesgo, intervalo de confianza, valor de p) por no haber accedido al artículo completo.\nLimitaciones: Sin los números no se puede dimensionar el beneficio absoluto ni la toxicidad agregada del inhibidor de BTK; falta información sobre supervivencia global y calidad de vida.\nMensaje: Si el beneficio en SLP se confirma con un perfil de seguridad manejable, la combinación con acalabrutinib podría convertirse en una nueva opción de primera línea en LCM; conviene esperar la publicación completa con los datos duros.\nNota: análisis sin acceso al abstract."
     },
-    "28aecb7804e1": {
-      "resumen": "iProfesional propone planes para el fin de semana en Buenos Aires, con el FIBA, la Fiesta de las Colectividades y otras opciones."
-    },
-    "6d9a691880d6": {
-      "resumen": "Clarín propone más de 60 planes para el fin de semana del 11 al 13 de septiembre en Buenos Aires, con recitales, teatro, cine, streaming y muestras, muchas gratuitas."
-    },
-    "22a3431de7a0": {
-      "resumen": "Indie Hoy anuncia la presentación de Flor Bertotti en el Teatro Gran Rex."
-    },
-    "ce324b306a0c": {
-      "resumen": "Revista GENTE detalla el precio del menú premium de un nuevo restaurante de Puerto Madero distinguido como \"icónico\", famoso por sus langostas y su vista al río."
-    },
-    "52a2570e2945": {
-      "resumen": "Urgente24 repasa los planes del fin de semana en el AMBA, con la Fiesta del Cine, el FIBA y otras propuestas."
-    },
-    "d81eb288448e": {
-      "resumen": "Contexto Tucumán recomienda cinco restaurantes porteños para disfrutar de la auténtica gastronomía española."
-    },
-    "b1d8aff6d2e2": {
-      "resumen": "Julián Álvarez anunció el comienzo de las obras del Teatro Amado Nervo."
-    },
-    "4dbc9eab5448": {
-      "resumen": "Ámbito recomienda dónde comer cocina peruana en Buenos Aires y qué platos probar."
-    },
-    "b9cbabbaa02a": {
-      "resumen": "El oncólogo Alexander Drilon analiza para OncLive cómo los resultados del estudio ARROS-1 podrían cambiar el abordaje del cáncer de pulmón de células no pequeñas (CPCNP) con reordenamiento del gen ROS1. Vale la pena mirarlo porque plantea un posible nuevo estándar de tratamiento para ese subgrupo molecular.",
+    "36ff1b7653d8": {
+      "resumen": "The ASCO Post anuncia el nombramiento de un nuevo director ejecutivo del Duke Cancer Institute, uno de los centros oncológicos académicos de referencia en Estados Unidos. Es una nota institucional para estar al tanto de los cambios de liderazgo en el ecosistema oncológico académico.",
       "destacado": false
     },
-    "b70b3d4690b1": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 dotatato inyectable para tumores neuroendocrinos gastroenteropancreáticos (GEP-NETs) positivos para receptores de somatostatina (SSTR). Es una terapia dirigida con radioligando que amplía las opciones para estos tumores poco frecuentes.",
-      "destacado": false
+    "f825cdd326d8": {
+      "resumen": "El estudio MAVERICK respalda el uso de la vigilancia con resonancia magnética (RM) cerebral sola, sin irradiación craneal profiláctica (ICP), como manejo estándar en el cáncer de pulmón a células pequeñas (CPCP). Es una noticia relevante porque la ICP se asocia a deterioro cognitivo y este enfoque buscaría evitarlo sin perder el control de las metástasis cerebrales.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (el nombre MAVERICK corresponde a un estudio prospectivo); el título no precisa aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón a células pequeñas (CPCP), presumiblemente en estadio limitado o extendido con respuesta al tratamiento inicial, la población habitual candidata a irradiación craneal profiláctica (ICP).\nIntervención: Vigilancia con resonancia magnética (RM) cerebral periódica sola, sin ICP, frente a la estrategia estándar que incluye ICP.\nResultados: No se dispone de cifras de incidencia de metástasis cerebrales, supervivencia global ni función cognitiva comparada, por no haber accedido al artículo completo.\nLimitaciones: Sin los números no puede evaluarse si la estrategia es realmente no inferior en el control de metástasis cerebrales; el seguimiento con RM periódica exige logística y adherencia que no siempre están garantizadas en la práctica real.\nMensaje: Si los resultados sostienen que la vigilancia con RM sola es segura, podría evitarse la irradiación craneal profiláctica y su toxicidad cognitiva asociada en pacientes con CPCP; hay que confirmar con los datos completos publicados.\nNota: análisis sin acceso al abstract."
     },
-    "2af73c6f876a": {
-      "resumen": "El radioncólogo Chad G. Rusthoven comenta para The ASCO Post los resultados de un estudio que compara la vigilancia con resonancia magnética (RM) cerebral sola frente a la irradiación craneal profiláctica (ICP) en cáncer de pulmón a células pequeñas (CPCP). Interesa porque la ICP tiene efectos cognitivos y este abordaje busca evitarla sin perder control de las metástasis cerebrales.",
-      "destacado": false
-    },
-    "a1c7fcb13614": {
-      "resumen": "Roy S. Herbst repasa para The ASCO Post los datos de supervivencia global a largo plazo con osimertinib adyuvante en cáncer de pulmón de células no pequeñas (CPCNP) resecado con mutación de EGFR (receptor del factor de crecimiento epidérmico), en referencia al estudio ADAURA. Es relevante porque consolida el rol de esta terapia dirigida después de la cirugía.",
-      "destacado": false
-    },
-    "e388614657cd": {
-      "resumen": "OncLive reúne testimonios de oncólogos sobre qué aprendieron de sus pacientes a lo largo de su carrera. Es una nota de color sobre el vínculo médico-paciente en oncología, útil como pausa reflexiva dentro de la práctica clínica diaria.",
-      "destacado": false
-    },
-    "12ce8b69521b": {
-      "resumen": "Alexander Drilon repasa para The ASCO Post los resultados con zidesamtinib, un inhibidor de tirosina quinasa (TKI) de nueva generación, en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) ROS1 positivo metastásico que nunca habían recibido un TKI previo. Aporta datos sobre una alternativa emergente para la primera línea de tratamiento en ese subgrupo.",
-      "destacado": false
+    "1bd725c8cd71": {
+      "resumen": "El estudio DAROL analiza el uso combinado de darolutamide, un antiandrógeno de nueva generación, con agentes hipolipemiantes (como las estatinas) en el cáncer de próstata resistente a la castración no metastásico (CPRCnm). Interesa porque explora si controlar el perfil lipídico mejora los resultados o reduce eventos cardiovasculares asociados a esta terapia hormonal.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico cuyo título no especifica si es un ensayo aleatorizado, una cohorte o un análisis retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de próstata resistente a la castración no metastásico (CPRCnm), en tratamiento con terapia de privación androgénica.\nIntervención: Darolutamide (antiandrógeno de nueva generación) combinado con agentes hipolipemiantes frente a darolutamide solo o a otro comparador no especificado en el título.\nResultados: No se dispone de datos numéricos de supervivencia libre de metástasis, eventos cardiovasculares ni perfil lipídico, por no haber accedido al artículo completo.\nLimitaciones: Sin los números no se puede valorar si la combinación aporta un beneficio clínico real o solo un efecto sobre el perfil lipídico; falta conocer el diseño exacto (aleatorización, ciego, seguimiento).\nMensaje: Si se confirma un beneficio clínico al sumar agentes hipolipemiantes a darolutamide, podría considerarse su uso combinado de rutina en CPRCnm; por ahora es un dato exploratorio a confirmar.\nNota: análisis sin acceso al abstract."
     },
     "b694321c40eb": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre las mutaciones compresoras del lazo P/hélice αC y las inserciones en el exón 20 del EGFR (receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas (CPCNP), un panorama terapéutico en rápida evolución. Sirve para actualizarse sobre estos subtipos moleculares poco frecuentes y sus terapias dirigidas emergentes.",
@@ -66,41 +37,82 @@
       "resumen": "JCO (Journal of Clinical Oncology) repasa el estado de la oncología de precisión en el cáncer de origen primario desconocido (CUP), es decir, tumores metastásicos en los que no se identifica el sitio de origen. Interesa porque el perfilado molecular cada vez permite tratamientos más dirigidos en esta entidad históricamente difícil de abordar.",
       "destacado": false
     },
-    "3e9b6ecfd8e9": {
-      "resumen": "Una orquesta comunitaria del barrio INTA viaja a la Ciudad de Buenos Aires para presentarse en el histórico Teatro Colón."
+    "db68110ebfdb": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de fase III, abierto y aleatorizado, que compara trastuzumab botidotin —un nuevo conjugado anticuerpo-fármaco (ADC, antibody-drug conjugate)— contra trastuzumab emtansina (T-DM1, el ADC de referencia) en cáncer de mama avanzado con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Es un estudio clave para saber si hay una alternativa mejor o equivalente al estándar actual en este escenario.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, abierto (open-label, sin cegamiento); el título no detalla número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado HER2-positivo (receptor 2 del factor de crecimiento epidérmico humano), presumiblemente con progresión luego de tratamiento previo con trastuzumab y taxano, el escenario habitual de uso de T-DM1.\nIntervención: Trastuzumab botidotin (nuevo conjugado anticuerpo-fármaco, ADC) comparado contra trastuzumab emtansina (T-DM1), el ADC estándar en esta indicación.\nResultados: No se dispone de las cifras de supervivencia libre de progresión, supervivencia global, razón de riesgo ni valor de p, por no haber podido acceder al abstract completo.\nLimitaciones: El diseño abierto puede introducir sesgo en la evaluación de eventos que dependen del criterio del investigador (por ejemplo, progresión radiológica); sin datos numéricos no se puede juzgar la magnitud del beneficio ni la seguridad comparada.\nMensaje: Si trastuzumab botidotin demuestra no inferioridad o superioridad frente a T-DM1, podría convertirse en una nueva opción en cáncer de mama HER2-positivo avanzado; habrá que revisar los resultados completos cuando se publiquen.\nNota: análisis sin acceso al abstract."
+    },
+    "528228d3d360": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
+      "destacado": false
+    },
+    "c26f7fb45d47": {
+      "resumen": "JAMA Oncology publica una revisión sobre el manejo de los leiomiosarcomas de partes blandas y viscerales, tumores mesenquimales poco frecuentes y de comportamiento agresivo. Sirve para actualizar el enfoque diagnóstico y terapéutico de esta entidad infrecuente.",
+      "destacado": false
+    },
+    "491f45c64490": {
+      "resumen": "JAMA Oncology publica un relato personal en el que se reflexiona sobre la experiencia de atravesar un cáncer, cuestionando la idea de que la enfermedad necesariamente deja grandes enseñanzas. Es una lectura de color, útil para pensar la narrativa alrededor de la experiencia oncológica más allá de lo clínico.",
+      "destacado": false
+    },
+    "ea1e745c534f": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter del diseñador indio Sabyasachi."
+    },
+    "1cd690e6eaa5": {
+      "resumen": "Vogue presenta la nueva colección primavera 2027 de prêt-à-porter de la marca CDLM."
+    },
+    "595a199db317": {
+      "resumen": "Vogue muestra la colección primavera 2027 de prêt-à-porter del diseñador Frederick Anderson."
+    },
+    "289bddb46353": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de la marca 6397."
+    },
+    "cf11456feb2f": {
+      "resumen": "Selena Gómez dejó atrás el corte bob y volvió al pelo largo y ondulado que usaba en 2016."
+    },
+    "a0af743a4782": {
+      "resumen": "Michelle Salas mostró en exclusiva las imágenes de su paso por el Festival de Venecia 2026, donde lució un vestido de encaje."
+    },
+    "89f3a96c4a6a": {
+      "resumen": "Todos los detalles sobre la fecha de los Latin Grammy 2026, el anuncio de nominados y dónde seguir la ceremonia."
+    },
+    "9d9971fe69d7": {
+      "resumen": "El clásico árbol de Navidad verde quedó atrás: repasamos la tendencia decorativa que se impone en 2026."
+    },
+    "1c0f66d53da0": {
+      "resumen": "Las mujeres mejor vestidas de la Fashion Week de Madrid anticipan las tendencias de la temporada de entretiempo."
+    },
+    "d57ae374e6ae": {
+      "resumen": "Wes Gordon repasa los 45 años de historia de Carolina Herrera y su impronta distintiva, más allá de las tendencias pasajeras."
+    },
+    "d67a51af2200": {
+      "resumen": "Una orquesta comunitaria del barrio INTA, en Chubut, viaja a Buenos Aires para festejar sus 25 años con un show en el Teatro Colón."
+    },
+    "388c99aa287e": {
+      "resumen": "La reapertura total del histórico Teatro Argentino de La Plata sufrió anuncios, demoras y hasta una clausura, y ahora tiene una nueva fecha prometida."
+    },
+    "6525e8cecc76": {
+      "resumen": "Una nueva puesta de \"El jardín de los cerezos\" en el circuito off apuesta al humor y la farsa con un aire bien ruso."
+    },
+    "b290197b4219": {
+      "resumen": "El Teatro Picadero recibe un festival dedicado a Ennio Morricone con orquesta, coros y 50 artistas en escena."
+    },
+    "435b6312d991": {
+      "resumen": "La Embajada de España certificó a un grupo de restaurantes porteños como \"Restaurants from Spain\": la lista completa."
+    },
+    "95054f150a4d": {
+      "resumen": "La agenda cultural del fin de semana en Buenos Aires tiene como figuras a Guillermo Francella, Adrián Suar y Serú Girán."
+    },
+    "170e11500e20": {
+      "resumen": "Un fiambre de carne vacuna gana terreno en los mejores restaurantes porteños y compite mano a mano con el jamón crudo."
+    },
+    "28aecb7804e1": {
+      "resumen": "iProfesional propone planes para el fin de semana en Buenos Aires, con el FIBA, la Fiesta de las Colectividades y otras opciones."
+    },
+    "ce324b306a0c": {
+      "resumen": "Revista GENTE detalla el precio del menú premium de un nuevo restaurante de Puerto Madero distinguido como \"icónico\", famoso por sus langostas y su vista al río."
     },
     "55e395e6f653": {
       "resumen": "Guía de planes culturales en Buenos Aires, con teatro, música, el Festival Internacional de Buenos Aires (FIBA) y propuestas gratuitas."
-    },
-    "fb052d059b35": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la diseñadora Maria McManus."
-    },
-    "41aa0388c502": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de la diseñadora Snow Xue Gao."
-    },
-    "139b79970bea": {
-      "resumen": "Vogue muestra la nueva colección primavera 2027 de prêt-à-porter del diseñador LaQuan Smith."
-    },
-    "4510910d6830": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la marca Luar."
-    },
-    "963fd4374a0a": {
-      "resumen": "La actriz y cantante Selena Gomez eligió un vestido dorado para desfilar por la alfombra roja de los Premios Emmy 2026."
-    },
-    "917eacef0538": {
-      "resumen": "Los vestidos estilo años 20 vuelven a estar de moda en 2026, y cadenas como Zara y Mango ya lanzaron sus propias versiones."
-    },
-    "d37bdd309b6c": {
-      "resumen": "Tamara Falcó lució en la Mercedes-Benz Fashion Week Madrid (MBFWM) un traje color burdeos que anticipa una de las tendencias de la temporada."
-    },
-    "3433db56d9a5": {
-      "resumen": "El listado completo de todos los ganadores de la ceremonia de los Premios Emmy 2026."
-    },
-    "303b264ccaff": {
-      "resumen": "Un repaso por todos los looks que desfilaron por la alfombra roja de los Premios Emmy 2026."
-    },
-    "b3bc9f519602": {
-      "resumen": "Cinco prendas de Zara, Primark y Mango que ya pisan fuerte en septiembre y anticipan las tendencias del otoño-invierno 2026-2027."
     }
   }
 }
