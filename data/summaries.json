@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-14T22:07:00Z",
+  "generated_at": "2026-09-15T10:06:42Z",
   "summaries": {
     "528228d3d360": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
       "destacado": false
-    },
-    "2b9ad19e2167": {
-      "resumen": "Estudio en Journal of Clinical Oncology (JCO) que presenta LymphGen-Sig, una herramienta que integra estados genéticos y transcripcionales para predecir la respuesta al tratamiento en linfoma difuso de células B grandes (DLBCL, diffuse large B-cell lymphoma). Interesa porque busca ir más allá de la clasificación molecular actual (LymphGen) para anticipar qué pacientes responden mejor a cada esquema.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un estudio traslacional de desarrollo/validación de una firma predictiva (LymphGen-Sig) que combina datos genéticos y transcripcionales; no se especifican fase, aleatorización ni número de centros o pacientes.\nPoblación: Pacientes con linfoma difuso de células B grandes (DLBCL), presumiblemente con datos moleculares disponibles de cohortes previas.\nIntervención: No es una intervención terapéutica sino el desarrollo de una firma pronóstica/predictiva integrando genética y transcriptoma, aplicada de forma retrospectiva sobre datos de tratamiento estándar.\nResultados: El título no aporta cifras de sensibilidad, especificidad, razón de riesgo ni valor predictivo del modelo.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la cohorte de entrenamiento y validación, ni si el modelo fue validado externamente.\nMensaje: Una herramienta molecular más granular podría ayudar a seleccionar terapia en DLBCL, pero su utilidad clínica real depende de validación prospectiva antes de poder aplicarse en la práctica.\nNota: análisis sin acceso al abstract."
     },
     "db68110ebfdb": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de fase III, abierto y aleatorizado, que compara trastuzumab botidotin —un nuevo conjugado anticuerpo-fármaco (ADC, antibody-drug conjugate)— contra trastuzumab emtansina (T-DM1, el ADC de referencia) en cáncer de mama avanzado con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Es un estudio clave para saber si hay una alternativa mejor o equivalente al estándar actual en este escenario.",
@@ -33,79 +28,79 @@
     "d81eb288448e": {
       "resumen": "Contexto Tucumán recomienda cinco restaurantes porteños para disfrutar de la auténtica gastronomía española."
     },
-    "0a69bcf19ba4": {
-      "resumen": "The ASCO Post reporta datos de calidad de vida (QoL, quality of life) durante 2 años de tratamiento adyuvante con alectinib en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) resecado y ALK-positivo (con reordenamiento del gen de la quinasa del linfoma anaplásico). Sirve para saber si el beneficio de este esquema se sostiene sin deteriorar la calidad de vida durante un tratamiento prolongado.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis secundario/subestudio de calidad de vida (QoL) del tratamiento adyuvante con alectinib en NSCLC resecado; el título no detalla aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado, ALK-positivo, tratados en el contexto adyuvante.\nIntervención: Alectinib adyuvante durante 2 años, con evaluación seriada de calidad de vida mediante cuestionarios; el título no especifica el comparador.\nResultados: El título indica que la calidad de vida se mantuvo a lo largo de los 2 años de tratamiento, pero no aporta puntajes ni diferencias estadísticas entre brazos.\nLimitaciones: Como análisis secundario, puede tener menor poder estadístico que el desenlace principal; sin el trabajo completo no se puede evaluar la tasa de respuesta a los cuestionarios ni el manejo de datos faltantes.\nMensaje: Sostener la calidad de vida durante un tratamiento adyuvante de 2 años refuerza la tolerabilidad de alectinib en NSCLC ALK-positivo resecado, un dato relevante para sostener la adherencia.\nNota: análisis sin acceso al abstract."
-    },
-    "795f4b6de27c": {
-      "resumen": "OncLive compara las tasas de síndrome de lisis tumoral (TLS, tumor lysis syndrome) con esquemas basados en venetoclax entre leucemia linfocítica crónica (CLL, chronic lymphocytic leukemia) y linfoma de células del manto (MCL, mantle cell lymphoma). Interesa porque el TLS es una complicación temida de venetoclax y conocer en qué tumor es más frecuente ayuda a calibrar el monitoreo.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio comparativo (probablemente retrospectivo o un análisis agrupado de datos de vida real) sobre incidencia de síndrome de lisis tumoral (TLS) con esquemas basados en venetoclax; el título no especifica aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica (CLL) y pacientes con linfoma de células del manto (MCL) tratados con venetoclax.\nIntervención: Venetoclax (inhibidor de BCL-2) en distintos esquemas, comparando la incidencia de TLS entre ambas enfermedades.\nResultados: El título indica tasas más bajas de TLS en CLL respecto de MCL, pero no aporta los porcentajes exactos, razón de riesgo ni valor de p.\nLimitaciones: Sin cifras no se puede dimensionar la diferencia real de riesgo; diferencias en carga tumoral basal y esquemas de titulación entre ambas enfermedades pueden confundir la comparación.\nMensaje: El mayor riesgo de TLS en MCL respecto de CLL refuerza la necesidad de protocolos de titulación y monitoreo más estrictos al iniciar venetoclax en linfoma de células del manto.\nNota: análisis sin acceso al abstract."
-    },
-    "6dec6162da47": {
-      "resumen": "The ASCO Post presenta datos de seguridad y eficacia de un esquema de dosificación en intervalos extendidos de tarlatamab (anticuerpo biespecífico anti-DLL3/CD3) en cáncer de pulmón de células pequeñas (SCLC, small cell lung cancer). Es relevante porque espaciar las dosis podría facilitar la adherencia sin resignar eficacia.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio (probablemente un brazo o análisis dentro de un ensayo en curso) que evalúa un esquema de dosificación en intervalos extendidos de tarlatamab; el título no especifica fase, aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (SCLC).\nIntervención: Tarlatamab (anticuerpo biespecífico anti-DLL3/CD3) con esquema de dosificación en intervalos extendidos, sin comparador especificado en el título.\nResultados: El título reporta que el esquema resultó seguro y eficaz, pero no aporta tasas de respuesta, supervivencia libre de progresión ni incidencia de eventos adversos.\nLimitaciones: Sin cifras concretas no se puede comparar frente al esquema estándar; puede tratarse de una cohorte pequeña o un análisis interino.\nMensaje: Un esquema más espaciado, si mantiene eficacia y seguridad, simplificaría la administración de tarlatamab y mejoraría la calidad de vida de los pacientes con SCLC.\nNota: análisis sin acceso al abstract."
-    },
-    "b65e80de795c": {
-      "resumen": "The ASCO Post reporta un perfil de seguridad favorable para la formulación subcutánea de tarlatamab en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer). Importa porque una presentación subcutánea podría simplificar la administración frente a la infusión intravenosa actual.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio (probablemente de fase temprana o un brazo de formulación) que evalúa la seguridad de tarlatamab administrado por vía subcutánea; el título no especifica aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC).\nIntervención: Tarlatamab (anticuerpo biespecífico anti-DLL3/CD3) en formulación subcutánea, sin comparador especificado en el título.\nResultados: El título señala un \"perfil de seguridad favorable\" pero no aporta la incidencia de eventos adversos, tasas de síndrome de liberación de citoquinas ni datos de eficacia.\nLimitaciones: Sin cifras concretas no se puede comparar la seguridad frente a la formulación intravenosa estándar; probablemente se trate de una cohorte pequeña en fase temprana.\nMensaje: Una formulación subcutánea segura podría facilitar la administración de tarlatamab en la práctica, reduciendo el tiempo de infusión, aunque se necesitan más datos de eficacia comparada.\nNota: análisis sin acceso al abstract."
-    },
-    "64486ebea0c1": {
-      "resumen": "OncLive publica una discusión de especialistas sobre la aplicación práctica del esquema ADAURA (osimertinib adyuvante) en cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR (receptor del factor de crecimiento epidérmico): duración del tratamiento, adherencia y toma de decisiones compartida con el paciente. Es una guía práctica de manejo más que un nuevo dato de eficacia.",
-      "destacado": false
-    },
-    "611367ac9511": {
-      "resumen": "OncLive reúne opiniones de especialistas sobre terapia consolidativa local, manejo de la oligoprogresión y selección de esquemas en cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR (receptor del factor de crecimiento epidérmico). Es una puesta al día práctica sobre decisiones de manejo en esta población, sin datos nuevos de un ensayo.",
-      "destacado": false
-    },
-    "a3f16ee3069d": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una fe de erratas sobre el artículo de resultados a 5 años del ensayo CheckMate 743, que comparó nivolumab más ipilimumab contra quimioterapia como primera línea en mesotelioma pleural irresecable. Es una corrección editorial, sin cambios en los hallazgos clínicos del estudio original.",
-      "destacado": false
-    },
-    "97c95285d8df": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca Zankov."
-    },
-    "af98dd807121": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear del diseñador Amir Taghi."
-    },
-    "f1f08b3bafdf": {
-      "resumen": "Vogue muestra la colección primavera 2027 ready-to-wear de la marca Lii."
-    },
-    "f66ec1619073": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca Fforme."
-    },
-    "85722d187d72": {
-      "resumen": "Salma Hayek deslumbró en el US Open 2026 con un look de pantalones acampanados estilo años 70 y sandalias de plataforma."
-    },
-    "9192a7af0171": {
-      "resumen": "Kate Moss lució un look noventoso con camisa y jeans rectos de Tommy Hilfiger."
-    },
-    "825b3eea7104": {
-      "resumen": "La princesa Leonor combinó blusa boho y pantalones palazzo en la F1 de Madrid, marcando los colores de moda de la temporada."
-    },
-    "1c9f95de0a19": {
-      "resumen": "Una campera bomber a lunares de Zara se perfila como la prenda favorita para el otoño 2026."
-    },
-    "2eae5e975c68": {
-      "resumen": "Galerías Pacífico presentó un adelanto de las tendencias de moda para la temporada primavera-verano."
-    },
-    "c790fe487f40": {
-      "resumen": "La Mercedes-Benz Fashion Week Madrid arrancó su 84ª edición con más de 45 desfiles."
-    },
     "b1d8aff6d2e2": {
       "resumen": "Julián Álvarez anunció el comienzo de las obras del Teatro Amado Nervo."
     },
-    "dcd24373f96e": {
-      "resumen": "La obra Wachay, nacida en Catamarca, llega al Teatro Cervantes de Buenos Aires con tres funciones gratuitas."
-    },
-    "db871bec4b2f": {
-      "resumen": "Telefe Noticias destaca al escenógrafo Héctor Calmet por sus seis décadas de trayectoria en el teatro porteño."
-    },
     "4dbc9eab5448": {
       "resumen": "Ámbito recomienda dónde comer cocina peruana en Buenos Aires y qué platos probar."
+    },
+    "b9cbabbaa02a": {
+      "resumen": "El oncólogo Alexander Drilon analiza para OncLive cómo los resultados del estudio ARROS-1 podrían cambiar el abordaje del cáncer de pulmón de células no pequeñas (CPCNP) con reordenamiento del gen ROS1. Vale la pena mirarlo porque plantea un posible nuevo estándar de tratamiento para ese subgrupo molecular.",
+      "destacado": false
+    },
+    "b70b3d4690b1": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el lutecio Lu 177 dotatato inyectable para tumores neuroendocrinos gastroenteropancreáticos (GEP-NETs) positivos para receptores de somatostatina (SSTR). Es una terapia dirigida con radioligando que amplía las opciones para estos tumores poco frecuentes.",
+      "destacado": false
+    },
+    "2af73c6f876a": {
+      "resumen": "El radioncólogo Chad G. Rusthoven comenta para The ASCO Post los resultados de un estudio que compara la vigilancia con resonancia magnética (RM) cerebral sola frente a la irradiación craneal profiláctica (ICP) en cáncer de pulmón a células pequeñas (CPCP). Interesa porque la ICP tiene efectos cognitivos y este abordaje busca evitarla sin perder control de las metástasis cerebrales.",
+      "destacado": false
+    },
+    "a1c7fcb13614": {
+      "resumen": "Roy S. Herbst repasa para The ASCO Post los datos de supervivencia global a largo plazo con osimertinib adyuvante en cáncer de pulmón de células no pequeñas (CPCNP) resecado con mutación de EGFR (receptor del factor de crecimiento epidérmico), en referencia al estudio ADAURA. Es relevante porque consolida el rol de esta terapia dirigida después de la cirugía.",
+      "destacado": false
+    },
+    "e388614657cd": {
+      "resumen": "OncLive reúne testimonios de oncólogos sobre qué aprendieron de sus pacientes a lo largo de su carrera. Es una nota de color sobre el vínculo médico-paciente en oncología, útil como pausa reflexiva dentro de la práctica clínica diaria.",
+      "destacado": false
+    },
+    "12ce8b69521b": {
+      "resumen": "Alexander Drilon repasa para The ASCO Post los resultados con zidesamtinib, un inhibidor de tirosina quinasa (TKI) de nueva generación, en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) ROS1 positivo metastásico que nunca habían recibido un TKI previo. Aporta datos sobre una alternativa emergente para la primera línea de tratamiento en ese subgrupo.",
+      "destacado": false
+    },
+    "b694321c40eb": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre las mutaciones compresoras del lazo P/hélice αC y las inserciones en el exón 20 del EGFR (receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas (CPCNP), un panorama terapéutico en rápida evolución. Sirve para actualizarse sobre estos subtipos moleculares poco frecuentes y sus terapias dirigidas emergentes.",
+      "destacado": false
+    },
+    "0f3fcdbbaa40": {
+      "resumen": "JCO (Journal of Clinical Oncology) repasa el estado de la oncología de precisión en el cáncer de origen primario desconocido (CUP), es decir, tumores metastásicos en los que no se identifica el sitio de origen. Interesa porque el perfilado molecular cada vez permite tratamientos más dirigidos en esta entidad históricamente difícil de abordar.",
+      "destacado": false
+    },
+    "3e9b6ecfd8e9": {
+      "resumen": "Una orquesta comunitaria del barrio INTA viaja a la Ciudad de Buenos Aires para presentarse en el histórico Teatro Colón."
+    },
+    "55e395e6f653": {
+      "resumen": "Guía de planes culturales en Buenos Aires, con teatro, música, el Festival Internacional de Buenos Aires (FIBA) y propuestas gratuitas."
+    },
+    "fb052d059b35": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la diseñadora Maria McManus."
+    },
+    "41aa0388c502": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de la diseñadora Snow Xue Gao."
+    },
+    "139b79970bea": {
+      "resumen": "Vogue muestra la nueva colección primavera 2027 de prêt-à-porter del diseñador LaQuan Smith."
+    },
+    "4510910d6830": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la marca Luar."
+    },
+    "963fd4374a0a": {
+      "resumen": "La actriz y cantante Selena Gomez eligió un vestido dorado para desfilar por la alfombra roja de los Premios Emmy 2026."
+    },
+    "917eacef0538": {
+      "resumen": "Los vestidos estilo años 20 vuelven a estar de moda en 2026, y cadenas como Zara y Mango ya lanzaron sus propias versiones."
+    },
+    "d37bdd309b6c": {
+      "resumen": "Tamara Falcó lució en la Mercedes-Benz Fashion Week Madrid (MBFWM) un traje color burdeos que anticipa una de las tendencias de la temporada."
+    },
+    "3433db56d9a5": {
+      "resumen": "El listado completo de todos los ganadores de la ceremonia de los Premios Emmy 2026."
+    },
+    "303b264ccaff": {
+      "resumen": "Un repaso por todos los looks que desfilaron por la alfombra roja de los Premios Emmy 2026."
+    },
+    "b3bc9f519602": {
+      "resumen": "Cinco prendas de Zara, Primark y Mango que ya pisan fuerte en septiembre y anticipan las tendencias del otoño-invierno 2026-2027."
     }
   }
 }
