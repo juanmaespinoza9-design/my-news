@@ -1,100 +1,9 @@
 {
-  "generated_at": "2026-09-15T22:07:09Z",
+  "generated_at": "2026-09-16T10:08:17Z",
   "summaries": {
-    "eae79589abca": {
-      "resumen": "OncLive difunde datos de bexobrutideg, una droga en investigación que logró altas tasas de respuesta en distintas líneas de tratamiento de la leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas (LLC/LLCP). Vale la pena seguirlo porque suma opciones para pacientes ya tratados previamente con otras terapias dirigidas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico difundido por OncLive, probablemente presentado en un congreso oncológico; el título no precisa si hubo aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica o linfoma linfocítico de células pequeñas (LLC/LLCP) en distintas líneas de tratamiento, incluyendo probablemente pacientes ya tratados con inhibidores de la tirosina quinasa de Bruton (BTK) u otras terapias dirigidas.\nIntervención: Bexobrutideg, un fármaco en investigación dirigido a la vía de BTK, sin comparador explícito mencionado en el título.\nResultados: No se dispone de cifras de tasa de respuesta global, supervivencia libre de progresión ni intervalos de confianza, por no haber podido acceder al artículo ni al abstract original.\nLimitaciones: Sin datos numéricos no puede evaluarse la magnitud del beneficio; al tratarse de difusión periodística de un congreso, faltan detalles metodológicos clave como aleatorización, comparador y seguimiento.\nMensaje: Si se confirman las altas tasas de respuesta en líneas avanzadas de tratamiento, bexobrutideg podría sumarse como opción para pacientes con LLC/LLCP resistentes a terapias previas; hay que esperar la publicación completa.\nNota: análisis sin acceso al abstract."
-    },
-    "65fd75a187b6": {
-      "resumen": "La agencia estadounidense de medicamentos (FDA, Food and Drug Administration) aceptó a revisión la solicitud de nuevo fármaco (NDA, New Drug Application) para bezuclastinib en mastocitosis sistémica avanzada, una enfermedad clonal poco frecuente de los mastocitos. Es un paso regulatorio a seguir porque podría sumar una nueva terapia dirigida para esta población de difícil manejo.",
-      "destacado": false
-    },
-    "1700e728f1d6": {
-      "resumen": "El estudio ECHO mostró que agregar acalabrutinib, un inhibidor de la tirosina quinasa de Bruton (BTK), al esquema bendamustina-rituximab (BR) prolonga la supervivencia libre de progresión (SLP) en primera línea del linfoma de células del manto (LCM). Es una combinación a seguir porque podría cambiar el estándar de tratamiento inicial de esta neoplasia.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase III (el nombre ECHO corresponde a un estudio ya conocido en LCM); el título no detalla número de centros ni de pacientes.\nPoblación: Pacientes con linfoma de células del manto (LCM) sin tratamiento previo (primera línea), candidatos a quimioinmunoterapia.\nIntervención: Acalabrutinib (inhibidor de BTK) sumado a bendamustina-rituximab (BR) versus BR solo, el comparador habitual en este diseño.\nResultados: Se reporta una extensión de la supervivencia libre de progresión (SLP), pero no se dispone de las cifras exactas (mediana de SLP, razón de riesgo, intervalo de confianza, valor de p) por no haber accedido al artículo completo.\nLimitaciones: Sin los números no se puede dimensionar el beneficio absoluto ni la toxicidad agregada del inhibidor de BTK; falta información sobre supervivencia global y calidad de vida.\nMensaje: Si el beneficio en SLP se confirma con un perfil de seguridad manejable, la combinación con acalabrutinib podría convertirse en una nueva opción de primera línea en LCM; conviene esperar la publicación completa con los datos duros.\nNota: análisis sin acceso al abstract."
-    },
     "36ff1b7653d8": {
       "resumen": "The ASCO Post anuncia el nombramiento de un nuevo director ejecutivo del Duke Cancer Institute, uno de los centros oncológicos académicos de referencia en Estados Unidos. Es una nota institucional para estar al tanto de los cambios de liderazgo en el ecosistema oncológico académico.",
       "destacado": false
-    },
-    "f825cdd326d8": {
-      "resumen": "El estudio MAVERICK respalda el uso de la vigilancia con resonancia magnética (RM) cerebral sola, sin irradiación craneal profiláctica (ICP), como manejo estándar en el cáncer de pulmón a células pequeñas (CPCP). Es una noticia relevante porque la ICP se asocia a deterioro cognitivo y este enfoque buscaría evitarlo sin perder el control de las metástasis cerebrales.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (el nombre MAVERICK corresponde a un estudio prospectivo); el título no precisa aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón a células pequeñas (CPCP), presumiblemente en estadio limitado o extendido con respuesta al tratamiento inicial, la población habitual candidata a irradiación craneal profiláctica (ICP).\nIntervención: Vigilancia con resonancia magnética (RM) cerebral periódica sola, sin ICP, frente a la estrategia estándar que incluye ICP.\nResultados: No se dispone de cifras de incidencia de metástasis cerebrales, supervivencia global ni función cognitiva comparada, por no haber accedido al artículo completo.\nLimitaciones: Sin los números no puede evaluarse si la estrategia es realmente no inferior en el control de metástasis cerebrales; el seguimiento con RM periódica exige logística y adherencia que no siempre están garantizadas en la práctica real.\nMensaje: Si los resultados sostienen que la vigilancia con RM sola es segura, podría evitarse la irradiación craneal profiláctica y su toxicidad cognitiva asociada en pacientes con CPCP; hay que confirmar con los datos completos publicados.\nNota: análisis sin acceso al abstract."
-    },
-    "1bd725c8cd71": {
-      "resumen": "El estudio DAROL analiza el uso combinado de darolutamide, un antiandrógeno de nueva generación, con agentes hipolipemiantes (como las estatinas) en el cáncer de próstata resistente a la castración no metastásico (CPRCnm). Interesa porque explora si controlar el perfil lipídico mejora los resultados o reduce eventos cardiovasculares asociados a esta terapia hormonal.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico cuyo título no especifica si es un ensayo aleatorizado, una cohorte o un análisis retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de próstata resistente a la castración no metastásico (CPRCnm), en tratamiento con terapia de privación androgénica.\nIntervención: Darolutamide (antiandrógeno de nueva generación) combinado con agentes hipolipemiantes frente a darolutamide solo o a otro comparador no especificado en el título.\nResultados: No se dispone de datos numéricos de supervivencia libre de metástasis, eventos cardiovasculares ni perfil lipídico, por no haber accedido al artículo completo.\nLimitaciones: Sin los números no se puede valorar si la combinación aporta un beneficio clínico real o solo un efecto sobre el perfil lipídico; falta conocer el diseño exacto (aleatorización, ciego, seguimiento).\nMensaje: Si se confirma un beneficio clínico al sumar agentes hipolipemiantes a darolutamide, podría considerarse su uso combinado de rutina en CPRCnm; por ahora es un dato exploratorio a confirmar.\nNota: análisis sin acceso al abstract."
-    },
-    "b694321c40eb": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre las mutaciones compresoras del lazo P/hélice αC y las inserciones en el exón 20 del EGFR (receptor del factor de crecimiento epidérmico) en cáncer de pulmón de células no pequeñas (CPCNP), un panorama terapéutico en rápida evolución. Sirve para actualizarse sobre estos subtipos moleculares poco frecuentes y sus terapias dirigidas emergentes.",
-      "destacado": false
-    },
-    "0f3fcdbbaa40": {
-      "resumen": "JCO (Journal of Clinical Oncology) repasa el estado de la oncología de precisión en el cáncer de origen primario desconocido (CUP), es decir, tumores metastásicos en los que no se identifica el sitio de origen. Interesa porque el perfilado molecular cada vez permite tratamientos más dirigidos en esta entidad históricamente difícil de abordar.",
-      "destacado": false
-    },
-    "db68110ebfdb": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de fase III, abierto y aleatorizado, que compara trastuzumab botidotin —un nuevo conjugado anticuerpo-fármaco (ADC, antibody-drug conjugate)— contra trastuzumab emtansina (T-DM1, el ADC de referencia) en cáncer de mama avanzado con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Es un estudio clave para saber si hay una alternativa mejor o equivalente al estándar actual en este escenario.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado, abierto (open-label, sin cegamiento); el título no detalla número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama avanzado HER2-positivo (receptor 2 del factor de crecimiento epidérmico humano), presumiblemente con progresión luego de tratamiento previo con trastuzumab y taxano, el escenario habitual de uso de T-DM1.\nIntervención: Trastuzumab botidotin (nuevo conjugado anticuerpo-fármaco, ADC) comparado contra trastuzumab emtansina (T-DM1), el ADC estándar en esta indicación.\nResultados: No se dispone de las cifras de supervivencia libre de progresión, supervivencia global, razón de riesgo ni valor de p, por no haber podido acceder al abstract completo.\nLimitaciones: El diseño abierto puede introducir sesgo en la evaluación de eventos que dependen del criterio del investigador (por ejemplo, progresión radiológica); sin datos numéricos no se puede juzgar la magnitud del beneficio ni la seguridad comparada.\nMensaje: Si trastuzumab botidotin demuestra no inferioridad o superioridad frente a T-DM1, podría convertirse en una nueva opción en cáncer de mama HER2-positivo avanzado; habrá que revisar los resultados completos cuando se publiquen.\nNota: análisis sin acceso al abstract."
-    },
-    "528228d3d360": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una revisión sobre la evolución de 30 años de las drogas inmunomoduladoras (IMiDs) y los moduladores de la E3 ligasa cereblon (CELMoDs) en el mieloma múltiple, la familia de fármacos que incluye a la talidomida, lenalidomida, pomalidomida y los nuevos CELMoDs. Sirve para repasar cómo evolucionó esta clase terapéutica clave en mieloma.",
-      "destacado": false
-    },
-    "c26f7fb45d47": {
-      "resumen": "JAMA Oncology publica una revisión sobre el manejo de los leiomiosarcomas de partes blandas y viscerales, tumores mesenquimales poco frecuentes y de comportamiento agresivo. Sirve para actualizar el enfoque diagnóstico y terapéutico de esta entidad infrecuente.",
-      "destacado": false
-    },
-    "491f45c64490": {
-      "resumen": "JAMA Oncology publica un relato personal en el que se reflexiona sobre la experiencia de atravesar un cáncer, cuestionando la idea de que la enfermedad necesariamente deja grandes enseñanzas. Es una lectura de color, útil para pensar la narrativa alrededor de la experiencia oncológica más allá de lo clínico.",
-      "destacado": false
-    },
-    "ea1e745c534f": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter del diseñador indio Sabyasachi."
-    },
-    "1cd690e6eaa5": {
-      "resumen": "Vogue presenta la nueva colección primavera 2027 de prêt-à-porter de la marca CDLM."
-    },
-    "595a199db317": {
-      "resumen": "Vogue muestra la colección primavera 2027 de prêt-à-porter del diseñador Frederick Anderson."
-    },
-    "289bddb46353": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de la marca 6397."
-    },
-    "cf11456feb2f": {
-      "resumen": "Selena Gómez dejó atrás el corte bob y volvió al pelo largo y ondulado que usaba en 2016."
-    },
-    "a0af743a4782": {
-      "resumen": "Michelle Salas mostró en exclusiva las imágenes de su paso por el Festival de Venecia 2026, donde lució un vestido de encaje."
-    },
-    "89f3a96c4a6a": {
-      "resumen": "Todos los detalles sobre la fecha de los Latin Grammy 2026, el anuncio de nominados y dónde seguir la ceremonia."
-    },
-    "9d9971fe69d7": {
-      "resumen": "El clásico árbol de Navidad verde quedó atrás: repasamos la tendencia decorativa que se impone en 2026."
-    },
-    "1c0f66d53da0": {
-      "resumen": "Las mujeres mejor vestidas de la Fashion Week de Madrid anticipan las tendencias de la temporada de entretiempo."
-    },
-    "d57ae374e6ae": {
-      "resumen": "Wes Gordon repasa los 45 años de historia de Carolina Herrera y su impronta distintiva, más allá de las tendencias pasajeras."
-    },
-    "d67a51af2200": {
-      "resumen": "Una orquesta comunitaria del barrio INTA, en Chubut, viaja a Buenos Aires para festejar sus 25 años con un show en el Teatro Colón."
-    },
-    "388c99aa287e": {
-      "resumen": "La reapertura total del histórico Teatro Argentino de La Plata sufrió anuncios, demoras y hasta una clausura, y ahora tiene una nueva fecha prometida."
-    },
-    "6525e8cecc76": {
-      "resumen": "Una nueva puesta de \"El jardín de los cerezos\" en el circuito off apuesta al humor y la farsa con un aire bien ruso."
-    },
-    "b290197b4219": {
-      "resumen": "El Teatro Picadero recibe un festival dedicado a Ennio Morricone con orquesta, coros y 50 artistas en escena."
     },
     "435b6312d991": {
       "resumen": "La Embajada de España certificó a un grupo de restaurantes porteños como \"Restaurants from Spain\": la lista completa."
@@ -102,17 +11,100 @@
     "95054f150a4d": {
       "resumen": "La agenda cultural del fin de semana en Buenos Aires tiene como figuras a Guillermo Francella, Adrián Suar y Serú Girán."
     },
-    "170e11500e20": {
-      "resumen": "Un fiambre de carne vacuna gana terreno en los mejores restaurantes porteños y compite mano a mano con el jamón crudo."
-    },
     "28aecb7804e1": {
       "resumen": "iProfesional propone planes para el fin de semana en Buenos Aires, con el FIBA, la Fiesta de las Colectividades y otras opciones."
     },
-    "ce324b306a0c": {
-      "resumen": "Revista GENTE detalla el precio del menú premium de un nuevo restaurante de Puerto Madero distinguido como \"icónico\", famoso por sus langostas y su vista al río."
-    },
     "55e395e6f653": {
       "resumen": "Guía de planes culturales en Buenos Aires, con teatro, música, el Festival Internacional de Buenos Aires (FIBA) y propuestas gratuitas."
+    },
+    "41389689a146": {
+      "resumen": "AMIGO-1 es un ensayo clínico que evalúa amivantamab (anticuerpo biespecífico contra EGFR y MET) combinado con otras dos drogas (\"triplete\") como tratamiento de primera línea del cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico). El estudio alcanzó su punto final de supervivencia libre de progresión (SLP) a los 18 meses. Vale la pena seguirlo porque podría consolidar un nuevo estándar de inicio de tratamiento en este subgrupo molecular.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico que evalúa un esquema triplete con amivantamab en primera línea; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación activadora de EGFR (receptor del factor de crecimiento epidérmico), sin tratamiento sistémico previo.\nIntervención: Amivantamab (anticuerpo biespecífico anti-EGFR/MET) combinado con otras dos drogas (triplete) en primera línea; el título no especifica el comparador.\nResultados: El estudio \"cumplió\" el punto final de supervivencia libre de progresión (SLP) evaluado a los 18 meses, pero no se dispone de la mediana de SLP, razón de riesgo, intervalo de confianza ni valor de p.\nLimitaciones: Sin cifras concretas no puede dimensionarse la magnitud del beneficio; los esquemas triplete suelen asociarse a mayor toxicidad acumulada, dato no evaluable desde el título.\nMensaje: Si el beneficio en SLP se traduce en ventaja clínica relevante con toxicidad manejable, el triplete con amivantamab podría reforzarse como opción de primera línea en CPCNP EGFR+; hay que esperar los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "420f554c0cc7": {
+      "resumen": "Un estudio sugiere que combinar osimertinib con gefitinib, dos inhibidores de la tirosina quinasa de EGFR (receptor del factor de crecimiento epidérmico), suprimiría la aparición de mutaciones de resistencia adquirida cuando se usan en primera línea del cáncer de pulmón de células no pequeñas (CPCNP) con EGFR mutado. Interesa porque la resistencia adquirida es la principal causa de fracaso terapéutico a mediano plazo en este subgrupo.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio sobre la combinación de dos inhibidores de tirosina quinasa de EGFR; el título no aclara si es un ensayo aleatorizado, un análisis de mecanismos de resistencia u otro diseño, ni el número de pacientes o centros.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico) en primera línea de tratamiento.\nIntervención: Osimertinib (inhibidor de tercera generación de EGFR) combinado con gefitinib (inhibidor de primera generación) frente a osimertinib solo, el estándar actual.\nResultados: Se describe cualitativamente que la combinación \"suprime\" la aparición de mutaciones de resistencia adquirida, pero no se dispone de cifras de supervivencia libre de progresión ni de significancia estadística.\nLimitaciones: Sin datos numéricos no se puede establecer si la menor resistencia se traduce en beneficio clínico; combinar dos inhibidores de EGFR podría aumentar la toxicidad cutánea y digestiva.\nMensaje: Si se confirma que retrasa la resistencia adquirida sin sumar toxicidad relevante, esta combinación podría explorarse para prolongar la eficacia de la inhibición de EGFR en primera línea; por ahora es un hallazgo a confirmar en ensayos controlados.\nNota: análisis sin acceso al abstract."
+    },
+    "ce4335dd6209": {
+      "resumen": "Un nuevo análisis del estudio FLAURA2 muestra que el beneficio de agregar quimioterapia a osimertinib (inhibidor de EGFR, receptor del factor de crecimiento epidérmico) en primera línea del cáncer de pulmón de células no pequeñas (CPCNP) con EGFR mutado se mantiene sin importar el estado basal del gen TP53. Interesa porque las mutaciones de TP53 suelen asociarse a peor pronóstico, y este dato reforzaría el uso de la combinación en todo el espectro de pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: FLAURA2 es un ensayo clínico de fase III, aleatorizado, sobre el que se presenta un análisis de subgrupo según el estado basal de TP53; el título no detalla el número de pacientes de este subanálisis en particular.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico) sin tratamiento previo, estratificados según presencia o ausencia de mutación de TP53 (gen supresor tumoral) al inicio.\nIntervención: Osimertinib más quimioterapia basada en platino frente a osimertinib solo, comparando el beneficio según el estado de TP53.\nResultados: Se informa que el beneficio de la combinación \"se mantiene\" independientemente del estado de TP53, pero no se dispone de las cifras de supervivencia libre de progresión, razón de riesgo ni intervalo de confianza para cada subgrupo.\nLimitaciones: Los análisis por subgrupos de biomarcadores suelen tener menor poder estadístico que el estudio global; sin los números no puede confirmarse si la magnitud del beneficio es realmente similar entre subgrupos.\nMensaje: Si se confirma que el estado de TP53 no modifica el beneficio, la combinación osimertinib-quimioterapia podría mantenerse como primera línea también en pacientes con peor pronóstico molecular por TP53 mutado; conviene revisar los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "c90a7c9fe5af": {
+      "resumen": "Un ensayo clínico muestra que ivonescimab, un anticuerpo biespecífico contra PD-1 y VEGF (factor de crecimiento endotelial vascular), mejoró de forma significativa la supervivencia global frente a pembrolizumab (un inhibidor de PD-1) en cáncer de pulmón de células no pequeñas (CPCNP) avanzado con expresión positiva de PD-L1 (ligando de muerte programada 1). Es un dato importante porque podría desplazar a la inmunoterapia estándar actual en primera línea.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico, probablemente de fase III y aleatorizado, que compara dos fármacos activos frente a frente; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) avanzado con expresión positiva de PD-L1 (ligando de muerte programada 1), candidatos a inmunoterapia de primera línea.\nIntervención: Ivonescimab (anticuerpo biespecífico anti-PD-1/VEGF) frente a pembrolizumab (inhibidor de PD-1), el estándar actual en monoterapia para PD-L1 positivo.\nResultados: Se reporta una mejora \"significativa\" en supervivencia global, pero no se dispone de la mediana de supervivencia, razón de riesgo, intervalo de confianza ni valor de p exactos.\nLimitaciones: Sin los números no puede dimensionarse la magnitud real del beneficio ni compararla con el perfil de toxicidad, habitualmente mayor en fármacos que suman bloqueo de VEGF; falta información sobre supervivencia libre de progresión y calidad de vida.\nMensaje: Si el beneficio en supervivencia global se confirma con un perfil de toxicidad manejable, ivonescimab podría convertirse en una nueva alternativa a pembrolizumab en primera línea de CPCNP PD-L1 positivo; es un dato para seguir de cerca por su potencial impacto en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "b0ace7bc7fa3": {
+      "resumen": "Izalontamab brenitecan, un nuevo conjugado anticuerpo-fármaco (ADC) dirigido contra EGFR (receptor del factor de crecimiento epidérmico), mostró actividad clínica en cáncer de pulmón de células no pequeñas (CPCNP) con EGFR mutado ya tratado previamente. Interesa porque suma una opción más para pacientes que progresaron a los inhibidores de EGFR disponibles.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico, probablemente de fase temprana, sobre un conjugado anticuerpo-fármaco; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico) previamente tratados, presumiblemente con progresión a inhibidores de tirosina quinasa de EGFR.\nIntervención: Izalontamab brenitecan (conjugado anticuerpo-fármaco anti-EGFR), sin comparador explícito mencionado en el título, compatible con un estudio de un solo brazo.\nResultados: Se describe que el fármaco es \"activo\", pero no se dispone de la tasa de respuesta objetiva, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin datos numéricos no puede evaluarse la magnitud de la actividad antitumoral ni el perfil de seguridad; al tratarse posiblemente de un estudio de fase temprana, la evidencia es preliminar y sin comparador.\nMensaje: Si la actividad se confirma en estudios más grandes y controlados, izalontamab brenitecan podría sumarse a las opciones para CPCNP EGFR mutado resistente a tratamientos previos; todavía es evidencia preliminar.\nNota: análisis sin acceso al abstract."
+    },
+    "76ffc37ebd29": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un artículo que discute si los biomarcadores pueden guiar de forma efectiva la personalización del tratamiento en cáncer de mama temprano con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Sirve para repasar el debate actual sobre estrategias de escalamiento o desescalamiento terapéutico guiadas por biomarcadores en esta población."
+    },
+    "b54f81fd66e8": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio que analiza la relación entre los pagos financieros de la industria farmacéutica a oncólogos y el uso de tratamientos oncológicos preferidos por las guías clínicas. Es relevante porque explora un potencial conflicto de interés que podría influir en las decisiones terapéuticas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional, probablemente de cohorte retrospectiva cruzando bases de datos de pagos de la industria con registros de tratamiento; el título no precisa el número de oncólogos ni de pacientes incluidos.\nPoblación: Oncólogos que indican tratamiento a pacientes con cáncer, y los pacientes que reciben esas indicaciones, analizados según los pagos recibidos por sus médicos de parte de fabricantes de medicamentos.\nIntervención: No hay una intervención en sentido estricto: se compara el uso de tratamientos \"preferidos por las guías\" (guideline-preferred) según el monto o la existencia de pagos financieros recibidos por el oncólogo tratante.\nResultados: No se dispone de las cifras de asociación (odds ratio, razón de riesgo, intervalos de confianza, valor de p) entre pagos y uso de tratamientos guideline-preferred, por no haber accedido al abstract completo.\nLimitaciones: Al ser un estudio observacional, no puede establecer causalidad entre los pagos y las decisiones de tratamiento; puede haber factores de confusión, por ejemplo oncólogos más especializados que reciben más pagos y también siguen más las guías por otros motivos.\nMensaje: Si se confirma una asociación entre pagos de la industria y el uso de tratamientos preferidos por las guías, el hallazgo reabre el debate sobre conflictos de interés en oncología y la necesidad de mayor transparencia; no cambia la práctica per se pero es un llamado de atención.\nNota: análisis sin acceso al abstract."
+    },
+    "ff050a701021": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la retractación de un artículo previo sobre la participación de cuidados paliativos al final de la vida en cáncer avanzado. Vale la pena registrarlo porque implica que las conclusiones de ese trabajo ya no deben considerarse válidas ni citarse como evidencia."
+    },
+    "426479fc6e78": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio poblacional sobre las tendencias recientes en la utilización de servicios ambulatorios de oncología médica. Interesa para entender cómo cambió el acceso y la demanda de atención oncológica en los últimos años.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de tendencias poblacionales, probablemente un análisis de series temporales sobre bases de datos administrativas o de reclamos; el título no precisa el período analizado, la fuente de datos ni el tamaño de la muestra.\nPoblación: Pacientes que utilizaron servicios ambulatorios de oncología médica, analizados a nivel poblacional, sin restringirse a un tipo tumoral particular.\nIntervención: No aplica intervención: es un estudio descriptivo de utilización de servicios a lo largo del tiempo, sin comparador experimental.\nResultados: No se dispone de las cifras de variación porcentual en la utilización, ni de los subgrupos o regiones más afectados, por no haber accedido al abstract completo.\nLimitaciones: Los estudios de utilización basados en registros administrativos pueden verse afectados por cambios en la codificación o el acceso al sistema de salud, no solo por la demanda real; sin cifras no se puede dimensionar la magnitud del cambio.\nMensaje: Conocer las tendencias de utilización de servicios de oncología ambulatoria ayuda a planificar recursos y anticipar cuellos de botella en la atención, aunque el estudio no evalúa directamente resultados clínicos ni cambia la práctica médica individual.\nNota: análisis sin acceso al abstract."
+    },
+    "6eee03f21438": {
+      "resumen": "Markarian presentó su colección primavera 2027 de prêt-à-porter en la Semana de la Moda de Nueva York."
+    },
+    "de8961df0800": {
+      "resumen": "Staud mostró su colección primavera 2027 de prêt-à-porter."
+    },
+    "1321e15953fa": {
+      "resumen": "SC103 presentó su colección primavera 2027 de prêt-à-porter."
+    },
+    "650b4e3163ae": {
+      "resumen": "Norma Kamali presentó su colección primavera 2027 de prêt-à-porter."
+    },
+    "2a9d1fa8adf7": {
+      "resumen": "El uniforme que repiten las expertas en moda en los desfiles de septiembre, y por qué conviene copiarlo."
+    },
+    "3575f3c72c25": {
+      "resumen": "El pantalón de tiro bajo vuelve a imponerse en la Semana de la Moda de Nueva York (NYFW) 2026."
+    },
+    "6adfe367e2a9": {
+      "resumen": "Los vestidos estilo años 20 vuelven con efecto estilizador, de la mano de Zara y Mango."
+    },
+    "8c7e540fb7e1": {
+      "resumen": "El peinado con \"efecto joya\" se perfila como tendencia de la temporada."
+    },
+    "b6331cd0bc06": {
+      "resumen": "Los colores de uñas que se impondrán este otoño-invierno 2026."
+    },
+    "3560f80307b3": {
+      "resumen": "Cinco accesorios de inspiración vintage de Coach para tener en el radar este otoño 2026."
+    },
+    "d600b2840306": {
+      "resumen": "Se suman nuevos locales a la lista de Restaurantes Icónicos de la Ciudad de Buenos Aires."
+    },
+    "64e1ea5e3fef": {
+      "resumen": "Agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
+    },
+    "d8515f5f5cb4": {
+      "resumen": "Tres restaurantes argentinos entraron al top 10 de un ranking mundial de alta cocina."
+    },
+    "b888b3c604b7": {
+      "resumen": "Los jubilados porteños pueden ver gratis una obra de teatro imperdible en la Ciudad de Buenos Aires."
+    },
+    "da2efbaef76d": {
+      "resumen": "La obra catamarqueña \"Wachay\" llega al Teatro Nacional Cervantes."
+    },
+    "b3777ae73a4c": {
+      "resumen": "Murió a los 98 años Griselda Gambaro, referente histórica del teatro argentino."
     }
   }
 }
