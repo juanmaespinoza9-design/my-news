@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T22:06:04Z",
+  "generated_at": "2026-09-17T10:07:05Z",
   "summaries": {
-    "3a46eb703aa5": {
-      "resumen": "OncLive repasa, en formato de entrevista a un especialista, los defectos inmunológicos característicos de la leucemia linfocítica crónica (LLC) y cómo evaluar el riesgo basal de infecciones en estos pacientes. Sirve para tener presente un aspecto clave del manejo clínico de la LLC, más allá del tratamiento antitumoral en sí.",
+    "77c8aa2e37ee": {
+      "resumen": "OncLive presenta su cobertura en video desde el Congreso Mundial de Cáncer de Pulmón (WCLC, World Conference on Lung Cancer) 2026. Sirve como puerta de entrada a las novedades que se van a discutir en el encuentro, aunque la nota en sí no aporta datos propios.",
       "destacado": false
     },
-    "e940a7a5a754": {
-      "resumen": "OncLive aborda, en una entrevista con especialistas, la importancia de la educación del paciente en el tratamiento de primera línea del mieloma múltiple. Interesa como recordatorio de la comunicación médico-paciente en una enfermedad hematológica compleja y de tratamiento prolongado.",
+    "dbfa93d3e966": {
+      "resumen": "En una entrevista de OncLive, el especialista Kadia comenta la eficacia y seguridad de dibotatug, un anticuerpo en investigación, en la leucemia linfocítica granular grande (LGLL), una neoplasia hematológica poco frecuente. Interesa para seguir el desarrollo de nuevas opciones en una enfermedad con pocas alternativas terapéuticas.",
       "destacado": false
     },
-    "2b5555449751": {
-      "resumen": "OncLive repasa, en formato de entrevista, el rol de la enfermedad residual mínima (ERM) como marcador de respuesta al tratamiento en mieloma múltiple. Vale la pena mirarlo porque la ERM se está consolidando como herramienta para guiar decisiones terapéuticas en esta enfermedad.",
+    "d145032c54ee": {
+      "resumen": "En una entrevista de OncLive, el especialista Bianchi explica el mecanismo de acción de anselamimab, un anticuerpo dirigido contra los depósitos de cadenas livianas en la amiloidosis AL (amiloidosis por cadenas livianas de inmunoglobulina), una enfermedad relacionada con discrasias de células plasmáticas. Útil para entender el racional de esta terapia dirigida en desarrollo.",
       "destacado": false
     },
     "a6f64bd10ee6": {
@@ -26,23 +26,22 @@
       "destacado": true,
       "analisis": "Diseño: Estudio clínico sobre adyuvancia con osimertinib en CPCNP con EGFR mutado, con datos de seguimiento a largo plazo; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico) tratados con osimertinib en contexto adyuvante, tras la resección quirúrgica del tumor.\nIntervención: Osimertinib (inhibidor de tirosina quinasa de EGFR) como tratamiento adyuvante; el título no detalla el comparador, aunque este tipo de diseños suele confrontarlo contra placebo.\nResultados: Se reporta beneficio \"a largo plazo\", pero no se dispone de cifras de supervivencia libre de enfermedad, supervivencia global, razón de riesgo ni intervalo de confianza.\nLimitaciones: Sin datos numéricos no puede dimensionarse la magnitud del beneficio sostenido; los seguimientos extendidos pueden verse afectados por los tratamientos recibidos tras una eventual progresión.\nMensaje: Si se confirma el beneficio sostenido en el tiempo, refuerza el uso de osimertinib adyuvante como estándar en CPCNP resecado con EGFR mutado; conviene revisar las cifras completas cuando estén disponibles.\nNota: análisis sin acceso al abstract."
     },
-    "76ffc37ebd29": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un artículo que discute si los biomarcadores pueden guiar de forma efectiva la personalización del tratamiento en cáncer de mama temprano con receptor 2 del factor de crecimiento epidérmico humano positivo (HER2-positivo). Sirve para repasar el debate actual sobre estrategias de escalamiento o desescalamiento terapéutico guiadas por biomarcadores en esta población.",
+    "06d2a692c023": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un ensayo fase II estratificado por biomarcadores sobre trastuzumab rezetecan (anticuerpo conjugado a fármaco dirigido contra HER2, receptor 2 del factor de crecimiento epidérmico humano) en carcinoma avanzado de glándula salival, en cohortes con expresión alta y baja de HER2. Vale la pena registrarlo para no citar datos desactualizados del artículo original.",
       "destacado": false
     },
-    "b54f81fd66e8": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio que analiza la relación entre los pagos financieros de la industria farmacéutica a oncólogos y el uso de tratamientos oncológicos preferidos por las guías clínicas. Es relevante porque explora un potencial conflicto de interés que podría influir en las decisiones terapéuticas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional, probablemente de cohorte retrospectiva cruzando bases de datos de pagos de la industria con registros de tratamiento; el título no precisa el número de oncólogos ni de pacientes incluidos.\nPoblación: Oncólogos que indican tratamiento a pacientes con cáncer, y los pacientes que reciben esas indicaciones, analizados según los pagos recibidos por sus médicos de parte de fabricantes de medicamentos.\nIntervención: No hay una intervención en sentido estricto: se compara el uso de tratamientos \"preferidos por las guías\" (guideline-preferred) según el monto o la existencia de pagos financieros recibidos por el oncólogo tratante.\nResultados: No se dispone de las cifras de asociación (odds ratio, razón de riesgo, intervalos de confianza, valor de p) entre pagos y uso de tratamientos guideline-preferred, por no haber accedido al abstract completo.\nLimitaciones: Al ser un estudio observacional, no puede establecer causalidad entre los pagos y las decisiones de tratamiento; puede haber factores de confusión, por ejemplo oncólogos más especializados que reciben más pagos y también siguen más las guías por otros motivos.\nMensaje: Si se confirma una asociación entre pagos de la industria y el uso de tratamientos preferidos por las guías, el hallazgo reabre el debate sobre conflictos de interés en oncología y la necesidad de mayor transparencia; no cambia la práctica per se pero es un llamado de atención.\nNota: análisis sin acceso al abstract."
-    },
-    "ff050a701021": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica la retractación de un artículo previo sobre la participación de cuidados paliativos al final de la vida en cáncer avanzado. Vale la pena registrarlo porque implica que las conclusiones de ese trabajo ya no deben considerarse válidas ni citarse como evidencia.",
+    "7f9267e85ac1": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un estudio sobre profilaxis de la enfermedad de injerto contra huésped (EICH) basada en ciclofosfamida postrasplante, en trasplante de células madre de sangre periférica de donante no emparentado con incompatibilidad. Importa para actualizar la referencia del trabajo original.",
       "destacado": false
     },
-    "426479fc6e78": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio poblacional sobre las tendencias recientes en la utilización de servicios ambulatorios de oncología médica. Interesa para entender cómo cambió el acceso y la demanda de atención oncológica en los últimos años.",
+    "b7f173ef4335": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un artículo de perspectiva sobre el uso del ADN tumoral circulante (ctDNA) para el seguimiento de la enfermedad residual molecular después de la resección curativa en cáncer colorrectal en estadios I a III. Interesa porque plantea cómo pasar de detectar la recaída molecular a una intervención curativa, un debate central en oncología de precisión digestiva.",
+      "destacado": false
+    },
+    "f3d874a1eee6": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo de efectividad comparativa, con diseño parcialmente aleatorizado según preferencia del paciente, sobre mindfulness y tai chi para mejorar el sueño, la fatiga y el dolor en personas con malestar psicológico tras el tratamiento del cáncer. Interesa porque aborda intervenciones no farmacológicas para síntomas muy prevalentes en sobrevivientes de cáncer.",
       "destacado": false,
-      "analisis": "Diseño: Estudio observacional de tendencias poblacionales, probablemente un análisis de series temporales sobre bases de datos administrativas o de reclamos; el título no precisa el período analizado, la fuente de datos ni el tamaño de la muestra.\nPoblación: Pacientes que utilizaron servicios ambulatorios de oncología médica, analizados a nivel poblacional, sin restringirse a un tipo tumoral particular.\nIntervención: No aplica intervención: es un estudio descriptivo de utilización de servicios a lo largo del tiempo, sin comparador experimental.\nResultados: No se dispone de las cifras de variación porcentual en la utilización, ni de los subgrupos o regiones más afectados, por no haber accedido al abstract completo.\nLimitaciones: Los estudios de utilización basados en registros administrativos pueden verse afectados por cambios en la codificación o el acceso al sistema de salud, no solo por la demanda real; sin cifras no se puede dimensionar la magnitud del cambio.\nMensaje: Conocer las tendencias de utilización de servicios de oncología ambulatoria ayuda a planificar recursos y anticipar cuellos de botella en la atención, aunque el estudio no evalúa directamente resultados clínicos ni cambia la práctica médica individual.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo de efectividad comparativa con diseño parcialmente aleatorizado según preferencia del paciente (partially randomized patient-preference trial); el título no especifica número de centros ni de pacientes incluidos.\nPoblación: Personas con malestar psicológico (distress) tras completar el tratamiento oncológico, con síntomas de trastornos del sueño, fatiga y dolor.\nIntervención: Mindfulness y tai chi, comparados entre sí y/o frente a atención habitual según la preferencia declarada por cada paciente; el título no detalla el grupo control exacto.\nResultados: No se dispone de cifras de mejoría en las escalas de sueño, fatiga o dolor, ni de valores de p o intervalos de confianza, por no haber accedido al abstract completo.\nLimitaciones: El diseño de preferencia del paciente introduce un componente no aleatorizado que puede sesgar la comparación entre grupos; los desenlaces son autorreportados y por lo tanto vulnerables al efecto placebo y a la falta de cegamiento.\nMensaje: Si los resultados son positivos, suma evidencia a favor de ofrecer mindfulness o tai chi como intervenciones complementarias válidas para el manejo de síntomas en sobrevivientes de cáncer, respetando la preferencia de cada paciente.\nNota: análisis sin acceso al abstract."
     },
     "fca0b2e48450": {
       "resumen": "La marca Mel Usine presentó su colección primavera 2027 de prêt-à-porter."
@@ -56,26 +55,29 @@
     "e373a3135c55": {
       "resumen": "Palomo Spain mostró su colección primavera 2027 de prêt-à-porter."
     },
+    "0d38c2415b62": {
+      "resumen": "Telva reúne las siete prendas clave que, según las expertas en moda, no pueden faltar este otoño."
+    },
+    "d7a88df670bf": {
+      "resumen": "Zara renueva su calzado de otoño con los modelos que reemplazan a las sandalias del verano."
+    },
+    "9500ebb14326": {
+      "resumen": "Las blusas de colores de los años 80 vuelven a la moda combinadas con jeans rectos, acampanados y baggy."
+    },
+    "6313a51cd761": {
+      "resumen": "La diseñadora Camila Romano señala a la corsetería y las faldas con volumen como las tendencias que están redefiniendo la alta costura."
+    },
     "0994faf5f9ce": {
       "resumen": "Un repaso por los mejores momentos de Espacio Vogue Monterrey 2026."
     },
-    "f9725a8aa881": {
-      "resumen": "Zara confirma que el pantalón ancho de camuflaje de los 2000 vuelve como tendencia en 2026, y cómo combinarlo."
-    },
-    "c5989134228b": {
-      "resumen": "Los pantalones satinados de los años 90 regresan este otoño 2026, combinados con zapatos de taco, sandalias y bailarinas."
-    },
-    "28af277f9d67": {
-      "resumen": "Los mini shorts se perfilan como la prenda que va a dominar este otoño 2026."
-    },
-    "c2b8ba258ae3": {
-      "resumen": "Jennifer Lawrence lució un look cómodo y desestructurado en la Semana de la Moda, con jeans rectos, zuecos y remera."
-    },
-    "2b0ab2a2ed22": {
-      "resumen": "Los jeans acampanados con blusas largas, de estética años 70, vuelven como tendencia este otoño 2026."
+    "2eb1965c47c5": {
+      "resumen": "Una guía de las propuestas teatrales para ver esta semana en Buenos Aires."
     },
     "3f753b17a60d": {
       "resumen": "Una selección de bares y restaurantes porteños para festejar la llegada de la primavera."
+    },
+    "d9ba8646e3ac": {
+      "resumen": "La actriz Maia Tarcic estrena en Tucumán la obra \"El Rigor\"."
     },
     "19ece322c664": {
       "resumen": "Agenda de espectáculos del FIBA (Festival Internacional de Buenos Aires) para ver del 17 al 20 en la ciudad."
@@ -85,12 +87,6 @@
     },
     "7d14c2f0dfb1": {
       "resumen": "Guía de restaurantes y bodegones con descuentos y ofertas por el Día de la Paella, el 20 de septiembre."
-    },
-    "ab8bf22ee3bd": {
-      "resumen": "Un actor oriundo de Punta Alta se llevó el premio máximo del teatro musical por su papel de Drácula."
-    },
-    "9ef218386041": {
-      "resumen": "Confirman la apertura de un nuevo teatro con capacidad para 900 personas en Tortugas Open Mall."
     },
     "e6f97b71a05b": {
       "resumen": "Pronóstico del clima para este fin de semana en el AMBA, para elegir entre planes al aire libre o bajo techo."
