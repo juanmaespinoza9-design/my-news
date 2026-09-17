@@ -1,30 +1,32 @@
 {
-  "generated_at": "2026-09-17T10:07:05Z",
+  "generated_at": "2026-09-17T22:07:40Z",
   "summaries": {
-    "77c8aa2e37ee": {
-      "resumen": "OncLive presenta su cobertura en video desde el Congreso Mundial de Cáncer de Pulmón (WCLC, World Conference on Lung Cancer) 2026. Sirve como puerta de entrada a las novedades que se van a discutir en el encuentro, aunque la nota en sí no aporta datos propios.",
+    "468feda036ef": {
+      "resumen": "The ASCO Post repasa cómo la inteligencia artificial (IA) se va integrando de forma transversal en la atención clínica hospitalaria, más allá de aplicaciones puntuales. Sirve para tomar el pulso de hacia dónde avanza la adopción de IA en oncología y otras especialidades.",
       "destacado": false
     },
-    "dbfa93d3e966": {
-      "resumen": "En una entrevista de OncLive, el especialista Kadia comenta la eficacia y seguridad de dibotatug, un anticuerpo en investigación, en la leucemia linfocítica granular grande (LGLL), una neoplasia hematológica poco frecuente. Interesa para seguir el desarrollo de nuevas opciones en una enfermedad con pocas alternativas terapéuticas.",
+    "025353952179": {
+      "resumen": "El Comité de Medicamentos de Uso Humano (CHMP) de la Agencia Europea de Medicamentos recomendó ampliar la indicación de melflufén (agente alquilante peptídico) a pacientes con mieloma múltiple refractarios a lenalidomida en tercera línea. Importa porque, de aprobarse, sumaría una opción más en una población con pocas alternativas terapéuticas.",
       "destacado": false
     },
-    "d145032c54ee": {
-      "resumen": "En una entrevista de OncLive, el especialista Bianchi explica el mecanismo de acción de anselamimab, un anticuerpo dirigido contra los depósitos de cadenas livianas en la amiloidosis AL (amiloidosis por cadenas livianas de inmunoglobulina), una enfermedad relacionada con discrasias de células plasmáticas. Útil para entender el racional de esta terapia dirigida en desarrollo.",
+    "dfcb7371fd3c": {
+      "resumen": "OncLive reporta datos de fase 1 que respaldan el avance del estudio DAWN-303, que evalúa INCB161734 (inhibidor en investigación) como tratamiento de primera línea en adenocarcinoma ductal de páncreas (PDAC) con mutación KRAS G12D. Interesa porque KRAS G12D es un blanco molecular históricamente difícil de abordar en un tumor de mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio fase 1, presumiblemente de escalada de dosis; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC) con mutación KRAS G12D tratados en primera línea, en el marco del estudio DAWN-303.\nIntervención: INCB161734, un inhibidor en investigación dirigido a KRAS G12D; el título no especifica esquema de combinación ni comparador.\nResultados: No se dispone de cifras de respuesta objetiva, supervivencia libre de progresión ni perfil de seguridad, por no haber accedido al abstract completo.\nLimitaciones: Al tratarse de datos de fase 1, la muestra suele ser pequeña y el objetivo principal habitualmente es seguridad y dosis recomendada, no eficacia definitiva.\nMensaje: Si los datos preliminares son sólidos, respaldan continuar el desarrollo clínico de INCB161734 en esta población de difícil tratamiento; aún es temprano para cambios de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "d28ad66cade0": {
+      "resumen": "OncLive publica el segundo episodio de una serie en video donde los especialistas Crowley y Moghanaki repasan las tendencias en terapia sistémica y local para cáncer de pulmón. Sirve como resumen conversacional del estado del arte, aunque no aporta datos originales.",
       "destacado": false
     },
-    "a6f64bd10ee6": {
-      "resumen": "El oncólogo Chul Kim comenta, en una entrevista de The ASCO Post, los datos de amivantamab (anticuerpo biespecífico contra EGFR y MET) combinado con quimioterapia frente a quimioterapia sola como primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con inserciones en el exón 20 de EGFR (receptor del factor de crecimiento epidérmico). Es relevante porque este subgrupo molecular responde peor a los inhibidores de EGFR convencionales.",
-      "destacado": false
+    "bb2041626156": {
+      "resumen": "The ASCO Post reporta que agregar zipalertinib (inhibidor de tirosina quinasa de EGFR) a la quimioterapia mejora la supervivencia libre de progresión (SLP) como primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con inserciones en el exón 20 de EGFR. Relevante porque este subgrupo tiene opciones limitadas y responde mal a los inhibidores de EGFR convencionales.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (probablemente aleatorizado, dado que compara un esquema combinado contra quimioterapia) que evalúa zipalertinib más quimioterapia; el título no detalla cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con inserciones en el exón 20 de EGFR (receptor del factor de crecimiento epidérmico), tratados en primera línea.\nIntervención: Zipalertinib (inhibidor de tirosina quinasa de EGFR) combinado con quimioterapia, frente a quimioterapia sola (comparador inferido del título).\nResultados: Se informa mejoría en la supervivencia libre de progresión (SLP), pero no hay cifras de mediana de SLP, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin datos numéricos no puede dimensionarse la magnitud del beneficio ni evaluarse el perfil de toxicidad agregado de la combinación.\nMensaje: Si se confirma, posicionaría a zipalertinib combinado con quimioterapia como una nueva opción de primera línea para este subgrupo molecular de difícil tratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "dde03d22944b": {
-      "resumen": "La Sociedad Estadounidense del Cáncer (American Cancer Society) lanzó un llamado a que los hombres conozcan su riesgo individual de cáncer de próstata. Es una nota de concientización, útil para reforzar mensajes de prevención y detección temprana en la consulta.",
-      "destacado": false
-    },
-    "5d1e67e302cd": {
-      "resumen": "The ASCO Post reporta datos de seguimiento a largo plazo que confirman el beneficio de osimertinib (inhibidor de tirosina quinasa de EGFR, receptor del factor de crecimiento epidérmico) como tratamiento adyuvante en cáncer de pulmón de células no pequeñas (CPCNP) con EGFR mutado. Interesa porque consolida la evidencia de este esquema, ya estándar tras la resección quirúrgica en esta población.",
+    "d120624511f2": {
+      "resumen": "The ASCO Post informa que trastuzumab deruxtecán (anticuerpo conjugado a fármaco dirigido contra HER2, receptor 2 del factor de crecimiento epidérmico humano) prolonga la supervivencia libre de progresión (SLP) usado en primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de HER2. Vale la pena seguirlo porque podría correr esta terapia, hoy usada en líneas posteriores, hacia etapas más tempranas del tratamiento.",
       "destacado": true,
-      "analisis": "Diseño: Estudio clínico sobre adyuvancia con osimertinib en CPCNP con EGFR mutado, con datos de seguimiento a largo plazo; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR (receptor del factor de crecimiento epidérmico) tratados con osimertinib en contexto adyuvante, tras la resección quirúrgica del tumor.\nIntervención: Osimertinib (inhibidor de tirosina quinasa de EGFR) como tratamiento adyuvante; el título no detalla el comparador, aunque este tipo de diseños suele confrontarlo contra placebo.\nResultados: Se reporta beneficio \"a largo plazo\", pero no se dispone de cifras de supervivencia libre de enfermedad, supervivencia global, razón de riesgo ni intervalo de confianza.\nLimitaciones: Sin datos numéricos no puede dimensionarse la magnitud del beneficio sostenido; los seguimientos extendidos pueden verse afectados por los tratamientos recibidos tras una eventual progresión.\nMensaje: Si se confirma el beneficio sostenido en el tiempo, refuerza el uso de osimertinib adyuvante como estándar en CPCNP resecado con EGFR mutado; conviene revisar las cifras completas cuando estén disponibles.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio clínico que evalúa trastuzumab deruxtecán en primera línea; el título no especifica si es aleatorizado, el cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación de HER2 (receptor 2 del factor de crecimiento epidérmico humano) sin tratamiento sistémico previo.\nIntervención: Trastuzumab deruxtecán (anticuerpo conjugado a fármaco anti-HER2) como monoterapia o combinación de primera línea; el título no aclara el comparador utilizado.\nResultados: Se reporta prolongación de la supervivencia libre de progresión (SLP), sin cifras de mediana, razón de riesgo, intervalo de confianza ni valor de p disponibles por falta de acceso al abstract.\nLimitaciones: Sin los números no se puede juzgar la magnitud real del beneficio ni el balance con la toxicidad conocida de este fármaco, en particular el riesgo de enfermedad pulmonar intersticial.\nMensaje: Si los datos se confirman con cifras robustas, podría respaldar el uso de trastuzumab deruxtecán como primera línea en CPCNP HER2 mutado, corriendo hacia etapas más tempranas una terapia hoy reservada para líneas posteriores.\nNota: análisis sin acceso al abstract."
     },
     "06d2a692c023": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un ensayo fase II estratificado por biomarcadores sobre trastuzumab rezetecan (anticuerpo conjugado a fármaco dirigido contra HER2, receptor 2 del factor de crecimiento epidérmico humano) en carcinoma avanzado de glándula salival, en cohortes con expresión alta y baja de HER2. Vale la pena registrarlo para no citar datos desactualizados del artículo original.",
@@ -43,56 +45,69 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo de efectividad comparativa con diseño parcialmente aleatorizado según preferencia del paciente (partially randomized patient-preference trial); el título no especifica número de centros ni de pacientes incluidos.\nPoblación: Personas con malestar psicológico (distress) tras completar el tratamiento oncológico, con síntomas de trastornos del sueño, fatiga y dolor.\nIntervención: Mindfulness y tai chi, comparados entre sí y/o frente a atención habitual según la preferencia declarada por cada paciente; el título no detalla el grupo control exacto.\nResultados: No se dispone de cifras de mejoría en las escalas de sueño, fatiga o dolor, ni de valores de p o intervalos de confianza, por no haber accedido al abstract completo.\nLimitaciones: El diseño de preferencia del paciente introduce un componente no aleatorizado que puede sesgar la comparación entre grupos; los desenlaces son autorreportados y por lo tanto vulnerables al efecto placebo y a la falta de cegamiento.\nMensaje: Si los resultados son positivos, suma evidencia a favor de ofrecer mindfulness o tai chi como intervenciones complementarias válidas para el manejo de síntomas en sobrevivientes de cáncer, respetando la preferencia de cada paciente.\nNota: análisis sin acceso al abstract."
     },
-    "fca0b2e48450": {
-      "resumen": "La marca Mel Usine presentó su colección primavera 2027 de prêt-à-porter."
+    "29bc93f37e39": {
+      "resumen": "Lancet Oncology publica un estudio de cohorte retrospectivo basado en registros que analiza si la exposición prolongada a material particulado fino (PM2,5) derivado de incendios forestales afecta la supervivencia global de pacientes mayores con cáncer de pulmón. Interesa porque suma evidencia sobre el impacto ambiental —cada vez más relevante— en los resultados oncológicos.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de cohorte retrospectivo, basado en registros (registry-based); el título no precisa cegamiento, número de centros ni tamaño exacto de la muestra (la aleatorización no aplica a este diseño observacional).\nPoblación: Pacientes de edad avanzada (older patients) con diagnóstico de cáncer de pulmón, identificados a través de registros poblacionales.\nIntervención: No es una intervención terapéutica sino una exposición ambiental: contaminación por material particulado fino (PM2,5) proveniente de incendios forestales, evaluada de forma prolongada en el tiempo.\nResultados: Se busca asociación con la supervivencia global, pero no hay cifras de razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract completo.\nLimitaciones: Al ser un estudio observacional y retrospectivo, es vulnerable a factores de confusión (comorbilidades, tabaquismo, nivel socioeconómico, acceso a tratamiento) que pueden influir en la supervivencia además de la exposición ambiental.\nMensaje: Si confirma una asociación negativa, refuerza la necesidad de considerar la exposición a contaminación por incendios forestales como un factor pronóstico adicional y un problema de salud pública en pacientes oncológicos.\nNota: análisis sin acceso al abstract."
     },
-    "b8362c9553ba": {
-      "resumen": "Reem Acra mostró su colección primavera 2027 de prêt-à-porter."
+    "3aa7ee98be28": {
+      "resumen": "Lancet Oncology presenta un análisis sistemático del estudio Global Burden of Disease (Carga Global de Enfermedad) 2023 sobre la carga de cáncer en África entre 1990 y 2023. Es una referencia clave para dimensionar la magnitud y evolución del problema oncológico en el continente con menos recursos de detección y tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis sistemático de datos epidemiológicos en el marco del estudio Global Burden of Disease (GBD) 2023, con series temporales desde 1990 hasta 2023; no aplica aleatorización ni cegamiento por tratarse de un estudio de carga de enfermedad.\nPoblación: Población general de los países africanos incluidos en el marco del GBD, estratificada presumiblemente por tipo de cáncer, edad, sexo y país o región.\nIntervención: No corresponde (no evalúa una intervención terapéutica), sino que estima incidencia, mortalidad, años de vida ajustados por discapacidad (DALY) y factores de riesgo asociados al cáncer.\nResultados: No se dispone de cifras específicas de incidencia, mortalidad ni tendencias por no haber accedido al abstract completo.\nLimitaciones: Los estudios de carga de enfermedad dependen fuertemente de la calidad y cobertura de los registros de cáncer locales, que suelen ser incompletos en buena parte de África, lo que puede subestimar o sesgar las estimaciones.\nMensaje: Sirve para orientar prioridades de salud pública y asignación de recursos en oncología en el continente, aunque las cifras deben interpretarse con cautela dada la variabilidad en la calidad de los datos subyacentes.\nNota: análisis sin acceso al abstract."
     },
-    "840e6b10488a": {
-      "resumen": "Theory presentó su colección primavera 2027 de prêt-à-porter."
+    "e7d0bb6a3afb": {
+      "resumen": "El diseñador Harris Reed presentó su colección primavera 2027 de prêt-à-porter."
     },
-    "e373a3135c55": {
-      "resumen": "Palomo Spain mostró su colección primavera 2027 de prêt-à-porter."
+    "00b4d21f0fab": {
+      "resumen": "La marca Lauren Manoogian mostró su colección primavera 2027 de prêt-à-porter."
     },
-    "0d38c2415b62": {
-      "resumen": "Telva reúne las siete prendas clave que, según las expertas en moda, no pueden faltar este otoño."
+    "ff76eddf7ce0": {
+      "resumen": "La firma Dagmar presentó su colección primavera 2027 de prêt-à-porter."
     },
-    "d7a88df670bf": {
-      "resumen": "Zara renueva su calzado de otoño con los modelos que reemplazan a las sandalias del verano."
+    "0a00f5999bc0": {
+      "resumen": "La marca Batsheva mostró su colección primavera 2027 de prêt-à-porter."
     },
-    "9500ebb14326": {
-      "resumen": "Las blusas de colores de los años 80 vuelven a la moda combinadas con jeans rectos, acampanados y baggy."
+    "0746fad08bc1": {
+      "resumen": "Vogue México explica en qué consiste la manicura rusa, la técnica en seco que promete manos más cuidadas y rejuvenecidas."
     },
-    "6313a51cd761": {
-      "resumen": "La diseñadora Camila Romano señala a la corsetería y las faldas con volumen como las tendencias que están redefiniendo la alta costura."
+    "85ca6cde5fed": {
+      "resumen": "Un repaso de las tendencias que dejó la Semana de la Moda de Nueva York, con la sastrería relajada como protagonista."
     },
-    "0994faf5f9ce": {
-      "resumen": "Un repaso por los mejores momentos de Espacio Vogue Monterrey 2026."
+    "161e7656fe47": {
+      "resumen": "Una selección de zapatos de tacón negros para combinar con jeans, faldas y vestidos este otoño."
     },
-    "2eb1965c47c5": {
-      "resumen": "Una guía de las propuestas teatrales para ver esta semana en Buenos Aires."
+    "dbf7ff69e54b": {
+      "resumen": "Los peinados con volumen de los años 70 y 80 reaparecen entre las tendencias retro que triunfan en Nueva York."
     },
-    "3f753b17a60d": {
-      "resumen": "Una selección de bares y restaurantes porteños para festejar la llegada de la primavera."
+    "bf5ca81b4a82": {
+      "resumen": "Kim Kardashian lució un vestido blanco estilo años 2000 combinado con zapatos de serpiente, una de las apuestas del otoño."
     },
-    "d9ba8646e3ac": {
-      "resumen": "La actriz Maia Tarcic estrena en Tucumán la obra \"El Rigor\"."
+    "532099265bb0": {
+      "resumen": "Los inodoros blancos tradicionales quedan atrás frente a una nueva tendencia de diseño más elegante y funcional."
     },
-    "19ece322c664": {
-      "resumen": "Agenda de espectáculos del FIBA (Festival Internacional de Buenos Aires) para ver del 17 al 20 en la ciudad."
+    "1e95423bd339": {
+      "resumen": "La obra \"Invasiones I\", protagonizada por Elena Roger, vuelve al Teatro San Martín en 2027 tras agotar 88 funciones y recibir el elogio de Charly García."
     },
-    "b380f80c9fd2": {
-      "resumen": "Chubut lanza la temporada de primavera en Buenos Aires con un mapping en el Obelisco y el Teatro Colón, con música de la Orquesta Infanto Juvenil de Trelew."
+    "1d86fbfadcf5": {
+      "resumen": "Restaurantes porteños celebran el Día de la Paella con descuentos y promociones especiales."
     },
-    "7d14c2f0dfb1": {
-      "resumen": "Guía de restaurantes y bodegones con descuentos y ofertas por el Día de la Paella, el 20 de septiembre."
+    "25b79264f1dd": {
+      "resumen": "El actor Álvaro Navia reflexiona sobre los desafíos de sostener el teatro de revista en la actualidad."
+    },
+    "e921b94d95a9": {
+      "resumen": "Una guía con los planes imperdibles para disfrutar de la primavera en la Ciudad de Buenos Aires."
+    },
+    "1f8858c38642": {
+      "resumen": "Una nena de 7 años que hace trap en Jujuy se prepara para presentarse en el Teatro Ópera de Buenos Aires."
+    },
+    "def238628481": {
+      "resumen": "Una selección de cinco restaurantes de cocina asiática para descubrir en Buenos Aires."
+    },
+    "7b240598bdad": {
+      "resumen": "Tres restaurantes argentinos, entre ellos uno mendocino, fueron incluidos entre los más lujosos del mundo."
     },
     "e6f97b71a05b": {
       "resumen": "Pronóstico del clima para este fin de semana en el AMBA, para elegir entre planes al aire libre o bajo techo."
-    },
-    "d600b2840306": {
-      "resumen": "Se suman nuevos locales a la lista de Restaurantes Icónicos de la Ciudad de Buenos Aires."
     },
     "64e1ea5e3fef": {
       "resumen": "Agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
