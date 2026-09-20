@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-09-20T05:02:37.069602+00:00",
+ "generated_at": "2026-09-20T11:36:56.517268+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "The OncFive: Top Oncology Articles for the Week of 9/14/2026",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcV92SFdsbk9Tem5URHZuYUxxaUJoZkZ4QVZYNkhhTlh2eGdFMGMtNlR6N0I4VUEtaFd3NVJ4NjdwcnoyVDZkNVZpSUtEamU1Wk5BZk9OT3Q1bG9hbElHWjhLNDJsWm1WQUR3WFV6enRZaXd3VWVvNVhQcGQ2dDhIdUxLUTAtclhrSU9UUzlxeHVsQQ?oc=5",
+     "source": "OncLive",
+     "published": "2026-09-19T12:17:31+00:00",
+     "id": "04170c870146"
+    },
     {
      "title": "OncLive Weekly News Quiz (9/19/2026): Did You Catch the Latest NETs, Lung, Mastocytosis, and Pancreatic Cancer News?",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTNxR29hMC1ST0xFQlY3aE1wUDFwUXl3MGNOUmx1YTRUcm5iVlptVEZ0NDdJZzFGZHhBV1NVS0sxd2FqNWtIMG56OTN6Um8zMHFmZVBKMWR0YnI4NFhFTUVYMDBOSzI5RUEwbTJoUHZCeHEzMkxjV3ZQQ184WHlDMFlfQ0RuMmVXMmI5WkIwUV9aTmlpMmtoS2hJMFhjVU9fd1pfU3dFbjJkaUpmbXdkb2x4RWlPQXpGT2Qxc2VsM25MVHZOTU5kUS1lWm1mbTJaRElzTmdB?oc=5",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-09-19T09:37:14+00:00",
      "id": "26c569eafb09"
-    },
-    {
-     "title": "Zipalertinib + Chemotherapy Extends PFS by 6 Months in Frontline EGFR Exon 20 Insertion–Positive NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeThMVG9aUEtpcGM3QzQ0YUNRcHJIVE9waWt4amJock5yQVRCYVZBMW84Z0tkRjRRMEpsQ2lHamR5RzRyTjdsSFpIOVIwWVIzTXo0MjdzSWZHeWQyQTltbExocmNrazhHeHNlMk1HYmExdGU0WmJjOXJrZkozTG0wWnNOcmlJRHFVRU4ya3FTbm5RSVViVktMMDVZTGVBaDJ1MUxzelhwTDRiQjRfdm9sX0UxVF92RzJkMVJQVVVnRHJWMm8?oc=5",
-     "source": "OncLive",
-     "published": "2026-09-19T04:36:18+00:00",
-     "id": "e1df76723d2d"
     },
     {
      "title": "Losing Weight and Breast Cancer Risk? The GLP-1 Question",
@@ -65,36 +65,20 @@
      "id": "2d4438b04609"
     },
     {
-     "title": "Colorectal Cancer Risk among Patients with Serrated Polyps",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42748438/",
-     "source": "NEJM Oncología",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Dekker E et al. · The New England journal of medicine",
-     "id": "b15fc07002dd"
-    },
-    {
-     "title": "Initial Screening for Colorectal Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42748437/",
-     "source": "NEJM Oncología",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Campos A et al. · The New England journal of medicine",
-     "id": "583855a64637"
-    },
-    {
-     "title": "Blinatumomab - A New Standard of Care in Acute Lymphoblastic Leukemia",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42748435/",
-     "source": "NEJM Oncología",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Myers RM et al. · The New England journal of medicine",
-     "id": "11333eb4f736"
-    },
-    {
      "title": "Erratum: Biomarker-Stratified Phase II Trial of Trastuzumab Rezetecan in Advanced Salivary Gland Carcinoma Across Cohorts With High and Low Human Epidermal Growth Factor Receptor 2 Expression",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42748389/",
      "source": "Journal of Clinical Oncology",
      "published": "2026-09-16T00:00:00+00:00",
      "copete": "Chen GL et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "06d2a692c023"
+    },
+    {
+     "title": "Erratum: Post-Transplant Cyclophosphamide-Based Graft-Versus-Host Disease Prophylaxis After Mismatched Unrelated Donor Peripheral Blood Stem Cell Transplantation",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42748388/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-09-16T00:00:00+00:00",
+     "copete": "Al Malki MM et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "7f9267e85ac1"
     }
    ]
   },
@@ -104,38 +88,66 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Edeline Lee Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/edeline-lee",
+     "source": "Vogue",
+     "published": "2026-09-20T11:31:53+00:00",
+     "id": "d0e59c54d5b4"
+    },
+    {
+     "title": "Yaku Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yaku",
+     "source": "Vogue",
+     "published": "2026-09-20T11:31:53+00:00",
+     "id": "d463a38e75f0"
+    },
+    {
+     "title": "Simone Rocha Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/simone-rocha",
+     "source": "Vogue",
+     "published": "2026-09-20T11:31:53+00:00",
+     "id": "b88b95799904"
+    },
+    {
      "title": "Steve O Smith Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/steve-o-smith",
      "source": "Vogue",
-     "published": "2026-09-20T04:59:58+00:00",
+     "published": "2026-09-20T11:31:53+00:00",
      "id": "8ba528a0f6c7"
     },
     {
-     "title": "Chopova Lowena Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chopova-lowena",
-     "source": "Vogue",
-     "published": "2026-09-20T04:59:58+00:00",
-     "id": "36d0a5806907"
+     "title": "Lo mejor de la semana de la moda de Madrid",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbWRvLWcwU2hDa0IxajhyejNESjJXZjBEN2hGYUtidUw1TGlTSHlOM3JUUVFBbnM5SFJRNUFxRlJtcUhDWml0MDdESzEwbDgxTGFzZ3VUWVk2TnJQQWNrU3VLV3ZIY3J2TmNQWnNWcVVZUUs4a3RQeHdRb2p0M05SVjNmNXlpZw?oc=5",
+     "source": "ELLE",
+     "published": "2026-09-20T11:09:28+00:00",
+     "id": "433eed400a07"
     },
     {
-     "title": "Yuhan Wang Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yuhan-wang",
-     "source": "Vogue",
-     "published": "2026-09-20T04:59:58+00:00",
-     "id": "991ed1e2e884"
+     "title": "Horóscopo de hoy: 20 de septiembre de 2026",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlp2QkROVXZIS3BIbkc3Yi03TTUycmdkTHU5d1oyNXN4bUI0X1JpRWhJQ1BWS29EZ01mbjhYNGx5TmVaSlFheU4tZlMtZkY5RE5rSVJFdkVSeHdkQmhuVWZWQVlXSHF0THZmYUFNVXZjRE1aTjRfbmFua3JGZVUyaW9Jd1BvQQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-20T11:00:00+00:00",
+     "id": "372d522999ea"
     },
     {
-     "title": "Richard Quinn Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/richard-quinn",
-     "source": "Vogue",
-     "published": "2026-09-20T04:59:58+00:00",
-     "id": "e2679072cb4f"
+     "title": "Lo único que quiero este otoño es una chaqueta cortavientos con un toque atrevido",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTUY4RVhCRFJhTFNuWUJPUzB5alVoN2FQMFVpOFhXSDBvVi1DYmhxZmRDczlncGNXVmRkZWR1Zm1lUzBLSE85UDJ5UDVYc0RBbHFfU3Q2OVd4VnVLV2RDWFoybkpzb2RSMTVRVFRVTHRSdG1DUGRIcUVia2JGazR1UkxNazBfZ0VXVUZzazVqUm5pWFU?oc=5",
+     "source": "Vogue España",
+     "published": "2026-09-20T08:09:53+00:00",
+     "id": "9afbe7c78973"
+    },
+    {
+     "title": "El peplum ha vuelto, pero no como lo llevábamos en 2010: así se combina ahora",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXFpVWNkZ1NRcmtYcFUzUUhZcTBpcnk5MWE0clMwYm1qV3FCSV9BdjBsZkhZMkFPSFNYYVZJeEU5cXVQaXFWbE9CaVlxa1cyNHBVMGxDbUZWTF9RRXRtWWtpa2pRVjNtLU4xX0Viai1mdlFoQ2hIWTN0SDFVa3FsR0lKUjN2THJsYV8yYlRET182TGRVaEtPZE1Gb1JmMG9OLTB5WVRYRmtPODZ0RlNoX9IBtgFBVV95cUxOQWVydWJCTVhwUmp0T2xGaGt0QmZ0ZkhiYXlMQmtQR3p2T2w3LXpKODJTX3dLeVRzMXF1RFpoR3RWendKTV80Y0p0dUpOa19DZmdVNHkyNGc2YmtiOGJxX3RmZm9HRXlpZEV5WHE2UTJySkNueDY4SjR6ZUFhZmZSVDRJMFhTbFR5WXNMSmE0VElYNmZycEFaOFJBYXY0dDdmNnVGLXYxWUNXOUtPa1prQUdHeC1odw?oc=5",
+     "source": "Mujerhoy",
+     "published": "2026-09-20T06:46:23+00:00",
+     "id": "3cf5b6bc90a5"
     },
     {
      "title": "Del pantalón boho de Zara al top de tendencia favorito de las neoyorkinas: los mejores looks para la semana del 21 de septiembre",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcm5JYlR2ZTI3WUNLRDdTS3NsOGRtbVpZa3R2TWtmTmIxaUFNSjc3alMtRHplQjFlTUx3Y2JGQ01NdUItMkk3N1VtYl9JRi04RU8wcnBvNC1pWkQ1RURJYzltNkZrdkthZW15cm1WWEdsTXZ1aENNa0pBd1VLVjFLaXQwdkdzZnI2THpsZmE5TFdHNVItd1hfLVRJUTVIRktncDB5VU1CeUdUblN2OTZuaHBRX1o3blkwdURGX2RJSmY2ek1RSXFB?oc=5",
      "source": "Cosmopolitan",
-     "published": "2026-09-20T04:42:21+00:00",
+     "published": "2026-09-20T06:03:57+00:00",
      "id": "6ed9a6947a52"
     },
     {
@@ -144,34 +156,6 @@
      "source": "La Razón",
      "published": "2026-09-20T04:00:44+00:00",
      "id": "e9aa45d5666a"
-    },
-    {
-     "title": "Del rojo al juego de capas: lo que dejó la Semana de la Moda de Nueva York",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaHBjd3JPSlBCWjJ2LVpNd1hVRmZZdm5JZnBYaFBnb3JyWE5JTi1sY0IzZU1pYlVaTVRaU09tdjRuTE5ja0xOdmFsVjk1ZFRYblJ2aVIweExBTGx4MW5RSk1leGkwWmpCQzliNFhqTHVHR0djZklUbHQwSXMwUl9IWTJkOThnSzQzd19UX21vRnpEdGhJWW9tN0lVakhDVHZpMnVXZTFKMWZRTXNaVnlMdUVaQnRtMWhzdUE?oc=5",
-     "source": "Diario El Día de La Plata",
-     "published": "2026-09-20T03:33:57+00:00",
-     "id": "e484caedfcdc"
-    },
-    {
-     "title": "Stefi Roitman marcó tendencia con looks de verano",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON19qdjBwWnFHUkhPNkZKaUtzaExGbW9iZ0Q4RDJ0d3BJLWN6V0d1cXFTTXpCMnQ4MlV2V1NpakRJUlNJMExEV0xkZmJZNlI1Q2ViZkxZbkJ6WWh1SlhyVEt4TWxZTGhpSS1HQlhxZTJTTGI0ek5XUkp1ZXJObF9icjlURnJva0R0eW51N3c1bEVWZnMyY0Zlamd2VEV4cDhXSmt6OVdGSy0?oc=5",
-     "source": "Identidad Correntina",
-     "published": "2026-09-20T00:05:15+00:00",
-     "id": "fd6ee905406c"
-    },
-    {
-     "title": "Los zapatos inspirados en el estilo elegante de Carolina Herrera que regresan en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTm5VR0FkVmtSWVUwT3hqZHg1c2E4OXVObk9uaXBMVlpzRlR1ZGVWaVBIaW8yZVhDTndXSldlMkxkWVdaX1JHQS05TmRGYkoxUjVGekVYaTdTLU5YSEZtN1N1NnRYUlBXVUxZZHh3Y3RIakp4X3VzWlRCQ2tzaU5CRW9EY29jcTk5NlVkNjU5Z3prRzVYQnpwVG1jcnNJaEQwWDd0STRFZGV1Z2ZaMHVz?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-09-19T23:55:01+00:00",
-     "id": "78cd6f9b0fc2"
-    },
-    {
-     "title": "Alejandra Capetillo sobre el arte de vestir: “Gran parte de conocer tu estilo es conocerte a ti misma”",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemIwVWMtbkVzaTc5NDVQMzlKUDhFRjVVMnp6OTZrXzJtNFF2UGJnd0dvSjFUQXg0TzVVaDl5cGZoZ0hhVFlycVZRUXlFY3cyS3hPd0Nkby10Nk9EaWttMkJhQldfVmlNZVQ1a1ZjTW5CNjAyV2FBNGpDcTNpaE9sWGhwSjc3ODRyd1E?oc=5",
-     "source": "vogue.mx",
-     "published": "2026-09-19T18:45:26+00:00",
-     "id": "7b8950d01406"
     }
    ]
   },
@@ -181,20 +165,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 20 de septiembre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-20-de-septiembre-de-2026-en-argentina_0_FEm65ZBNo8.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-20T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "84f17c6b5772"
+    },
+    {
+     "title": "León Gieco y Gustavo Santaolalla recibieron el Doctor Honoris Causa y celebraron los 40 años de De Ushuaia a La Quiaca",
+     "link": "https://www.clarin.com/espectaculos/leon-gieco-gustavo-santaolalla-recibieron-doctor-honoris-causa-celebraron-40-anos-ushuaia-quiaca_0_Lo53euBLR6.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-20T09:00:42+00:00",
+     "copete": "Las universidades nacionales de Tierra del Fuego y de Jujuy distinguieron a los artistas por su trayectoria, su compromiso con los derechos humanos y su aporte a la identidad cultural latinoamericana. Tambièn hubo un concierto íntimo en el…",
+     "id": "03bf6294a12d"
+    },
+    {
+     "title": "Carolina Kopelioff, la chica Disney que supo meterse en el barro y que ahora será una carmelita descalza abusada y torturada",
+     "link": "https://www.clarin.com/espectaculos/carolina-kopelioff-chica-disney-supo-meterse-barro-ahora-carmelita-descalza-abusada-torturada_0_wca3sChVTE.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-20T09:00:40+00:00",
+     "copete": "Es la protagonista de \"Cautiva\", la miniserie basada en el caso real de una joven que se internó en un convento de clausura y sufrió vejaciones durante 14 años. A los 30, ya fue una de las protagonistas de \"Soy Luna\", una de las jóvenes de…",
+     "id": "46a0c08bb74a"
+    },
+    {
+     "title": "Cómo sigue el estado de salud de Mirtha Legrand tras su nueva internación",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-debio-ser-nuevamente-internada-nid18092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-20T06:37:48+00:00",
+     "copete": "La conductora fue ingresada en el sanatorio Mater Dei el viernes por la tarde a raíz de un cuadro compatible con neumopatía; qué dice el parte médico",
+     "id": "6a67bdcaf350"
+    },
+    {
+     "title": "Carolina Kopelioff habló de Cautiva, la serie inspirada en un caso de abuso: “La mente no puede borrar algunas heridas”",
+     "link": "https://www.infobae.com/teleshow/2026/09/20/carolina-kopelioff-hablo-de-cautiva-la-serie-inspirada-en-un-caso-de-abuso-la-mente-no-puede-borrar-algunas-heridas/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-20T05:03:00+00:00",
+     "copete": "La actriz compartió con Teleshow su visión sobre la recuperación de Silvia Albarenque, la mujer que inspiró la ficción. Además contó cómo el relato aborda la valentía y la posibilidad de reconstruirse tras años de violencia y encierro",
+     "id": "8e80953c46fd"
+    },
+    {
+     "title": "La voz que viajó del escenario al micrófono: Juan Balvín, el argentino detrás de grandes personajes",
+     "link": "https://www.infobae.com/teleshow/2026/09/20/la-voz-que-viajo-del-escenario-al-microfono-juan-balvin-el-argentino-detras-de-grandes-personajes/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-20T05:01:00+00:00",
+     "copete": "El actor, cantante y director de doblaje habló en exclusiva con Teleshow sobre su recorrido artístico, sus trabajos más reconocidos y el camino que lo llevó a construir personajes con la voz",
+     "id": "4e5567550ecc"
+    },
+    {
+     "title": "Paula Roth, una cantante entre Piazzolla y Charly García: “Son las músicas que me conectan con mi identidad”",
+     "link": "https://www.infobae.com/teleshow/2026/09/20/paula-roth-una-cantante-entre-piazzolla-y-charly-garcia-son-las-musicas-que-me-conectan-con-mi-identidad/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-20T05:00:00+00:00",
+     "copete": "Con TangoMina, una banda que mezcla rock y bandoneón y cuyo director musical es Omar Serna, su marido, la artista que cantó artistas tan disímiles como Pappo y Peteco Carabajal camina sobre una línea que combina elementos de distintos…",
+     "id": "907ed6d699b3"
+    },
+    {
      "title": "Celeste Cid compartió el álbum de su viaje a Nueva York con Santiago Korovsky: rascacielos, teatro y moda callejera",
      "link": "https://www.infobae.com/teleshow/2026/09/20/celeste-cid-compartio-el-album-de-su-viaje-a-nueva-york-con-santiago-korovsky-rascacielos-teatro-y-moda-callejera/",
      "source": "Teleshow (Infobae)",
      "published": "2026-09-20T03:53:03+00:00",
      "copete": "La pareja pasó unas semanas en Estados Unidos y la actriz compartió su recorrido por Manhattan",
      "id": "57c5afa91294"
-    },
-    {
-     "title": "Mirtha Legrand fue internada nuevamente: cómo sigue su estado de salud",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-debio-ser-nuevamente-internada-nid18092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-20T03:48:04+00:00",
-     "copete": "La conductora fue ingresada en el sanatorio Mater Dei el viernes por la tarde a raíz de un cuadro compatible con neumopatía; qué dice el parte médico",
-     "id": "6a67bdcaf350"
     },
     {
      "title": "Rating: cómo fue la competencia entre Andy Kusnetzoff y Juana Viale",
@@ -221,60 +253,12 @@
      "id": "7c05eaf7331f"
     },
     {
-     "title": "Martín Menem y Guillermo Pfening protagonizaron un fuerte cruce en La noche de Mirtha: “Tengo un hermano con discapacidad”",
+     "title": "Martín Menem y Guillermo Pfening protagonizaron un fuerte cruce sobre las pensiones",
      "link": "https://www.lanacion.com.ar/espectaculos/personajes/martin-menem-y-guillermo-pfening-protagonizaron-un-fuerte-cruce-en-la-noche-de-mirtha-tengo-un-nid20092026/",
      "source": "La Nación Espectáculos",
      "published": "2026-09-20T03:29:29+00:00",
      "copete": "El presidente de la Cámara de Diputados y el actor mantuvieron un tenso ida y vuelta al hablar de las pensiones de las personas con discapacidad; también discutieron sobre el financiamiento del cine",
      "id": "8f6a59f2d13d"
-    },
-    {
-     "title": "Nati Jota confesó que fue tóxica en su noviazgo y contó la estadística que la hace desconfiar de los hombres: “9 de cada 10”",
-     "link": "https://www.infobae.com/teleshow/2026/09/20/nati-jota-confeso-que-fue-toxica-en-su-noviazgo-y-conto-la-estadistica-que-la-hace-desconfiar-de-los-hombres-9-de-cada-10/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-20T03:03:46+00:00",
-     "copete": "En una charla con Andy Kusnetzoff, la comunicadora admitió conductas de control y detalló la idea sobre la infidelidad que condicionaba su manera de vincularse",
-     "id": "5a3afb778fcc"
-    },
-    {
-     "title": "El esperanzador mensaje de Juana Viale en medio de la internación de Mirtha Legrand: “La abuela se termina de recuperar”",
-     "link": "https://www.infobae.com/teleshow/2026/09/20/el-esperanzador-mensaje-de-juana-viale-en-medio-de-la-internacion-de-mirtha-legrand-la-abuela-se-termina-de-recuperar/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-20T02:32:30+00:00",
-     "copete": "La actriz volvió a reemplazar a la Chiqui en la conducción del programa y se refirió a la salud de la figura de la televisión",
-     "id": "f9fee3f78ea3"
-    },
-    {
-     "title": "Eliana Guercio se quebró en llanto al recordar su conflicto con Ximena Capristo: “Hubo un ensañamiento fuerte conmigo”",
-     "link": "https://www.infobae.com/teleshow/2026/09/20/eliana-guercio-se-quebro-en-llanto-al-recordar-su-conflicto-con-ximena-capristo-hubo-un-ensanamiento-fuerte-conmigo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-20T02:11:50+00:00",
-     "copete": "La modelo relató ante Andy Kusnetzoff el hostigamiento que sufrió durante una temporada teatral en Mar del Plata y explicó por qué decidió no volver al escenario",
-     "id": "8c1f10b5d3a8"
-    },
-    {
-     "title": "Las Trillizas de Oro festejaron los 88 años de Chichita, su madre: la reunión que convocó a hijos, nietos y bisnietos",
-     "link": "https://www.infobae.com/teleshow/2026/09/20/las-trillizas-de-oro-festejaron-los-88-anos-de-chichita-su-madre-la-reunion-que-convoco-a-hijos-nietos-y-bisnietos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-20T01:13:40+00:00",
-     "copete": "Las cantante celebraron en sus redes sociales un nuevo año en la vida de la matriarca familiar junto a todos los bisnietos",
-     "id": "fe93f92085c8"
-    },
-    {
-     "title": "¿Lizzie Borden y Bridget 'Maggie' Sullivan tuvieron un romance en la vida real? La verdadera historia detrás del papel de Vicky Krieps en la cuarta entrega de 'Monstruo' de Netflix",
-     "link": "https://www.clarin.com/estados-unidos/lizzie-borden-bridget-maggie-sullivan-romance-vida-real-verdadera-historia-detras-papel-vicky-krieps-cuarta-entrega-monstruo-netflix_0_uphkcJM6T0.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-09-19T19:49:00+00:00",
-     "copete": "La cuarta temporada de \"Monstruo\" en Netflix retrata una apasionada complicidad y conspiración criminal entre la acusada y su sirvienta. Qué dicen las actas judiciales de 1893, las brechas sociales, el mito del romance y la verdad detrás…",
-     "id": "76be92dc426e"
-    },
-    {
-     "title": "El último gesto de Dolly Parton con Miley Cyrus y la charla que tuvieron antes de su muerte",
-     "link": "https://www.clarin.com/espectaculos/ultimo-gesto-dolly-parton-miley-cyrus-charla-muerte_0_JQIhCqbSVG.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-09-19T17:05:01+00:00",
-     "copete": "La cantante recordó a su madrina durante una entrevista con Zane Lowe, mientras promociona su nuevo disco Bass Persuades. Hablaron sobre música, su identidad artística y las emociones que le despiertan sus shows.",
-     "id": "a54378883de9"
     }
    ]
   },
@@ -283,6 +267,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Miranda destaca la importancia de que la danza gallega esté presente en las principales capitales del mundo",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb0RqQ1dlcWtncWpCTF9fSE9GRG5iSy1BcGR4UHNOOGN0TmlqZS1qOUtXNGZDUTc2dFpTZ2ttazRlOVZMeHR5WUJQUjV6TVFubW41elg4aVpVZnJfX2ZqaXJnSmNocVRIanowZzVMTURMWFprQy15aF9HR2FBRmF0Q1F1cTNYUVBjQ3JwdDU3N1B4LUplOWxlakswby15UUNPZDBzdU52Q2g2djlITUhodWJwNGFJakpMUUZKWDRSRnFkMTlEN1ZJ?oc=5",
+     "source": "GaliciaAberta",
+     "published": "2026-09-20T08:22:24+00:00",
+     "id": "8a685c28e3a0"
+    },
     {
      "title": "Lázaro Caballero hizo historia en el teatro Gran Rex con dos funciones memorables",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHdvT2F3RVFtYW1wR1FBN2ktS00wZzNPVDJRN2dTOGluZjA5eWdfcmRxSXByUDR1cGdYR1ZFSWNmX3JERHBRTUcta2pzM29jdndZOHNYQlNIeFNOWVJSSlppMDd2UXYtUHNXVUNOYm44UW1PUEpiZzFzSmR1NW5ienNOWnFWZGZXSnc5cXo4czdFWHNuQ0c1NGxFWFFiY2NzZW11UjNaZlh1RjlqaHlxaWhDa3J4Vl90LWl0ZVBTdGk?oc=5",
@@ -293,14 +284,14 @@
     {
      "title": "De Trelew al Teatro Colón: una orquesta juvenil hizo historia",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1dwZ0RTZUxER3VZSDQ4ZXJNSExnQlR0Z1JSNTVDNnhVbnNobGR5VE5hUGZ3TEVOT1VhbE5jTl9QQUFja3BsbHRNV3VqU1BYOEVJcFZPRzFya3hyN0FnNDF5LWFMUkpLYW14SDBrZWloZ1gyT21ORDBRY2JCRU9KTklncUxUQU1zQmkxYWstal9ncTVYQWNzTXJ4Qzh3ck4wbnc2UmRFSFhPMkxuQmNxWDZPV2hvZDNnbUlhdzQ3dm92Xy1LTmc3UG9fRmN5bWx3RlE?oc=5",
-     "source": "datadiario",
+     "source": "Data Diario",
      "published": "2026-09-19T21:08:26+00:00",
      "id": "ac3afb21dad9"
     },
     {
      "title": "Este domingo hay plan gastronómico: restaurantes de Buenos Aires tendrán descuentos en paella",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWlppTFhwZVpKa3lTOWVBR3NCckxqS3ppVEJ6OHpMLUFhRExsZkZQNk93b3JTVXAtaDZFbnpwLUM5cUlWUEIyQWZhUHZwb2haQi11VV82cVZESmp2ZlpadU9lTDNVWGtwUEMxbFA4QndZQ1VFOWZNNkt3bTY2Z2JXcnhDOUpudWM1STdieEprcElrVFk3TVI2bE0xMHg2dTkwS3Z2dkpid042bFhhTTFhUzg5ODZkbFVPeU9DR3ZFMVg0ZjRrSzZFM2RiV3VkY015YUxR0gHnAUFVX3lxTE9UcUxMYzdqZjlJQUlNNi02bXdUMmUtbWQ1U3VLU3N4bG1xcUhqdkxWbk9jRVd0ZFhiQ1F1OVQ3MEh5dzAtbTFTV3BkSGlRbGhCSl9oME9RSG5nT0FfRmVxWnlwR3dwblFrUTFtOFFVTFBxM0k2VmhCMzJ3cXFXVmJrS1A3UFYxejlUaDNKWTJ3NzFLMDRRN0JkaHBvTXRsZzhNR0E2WkpmTncySFpfbWwwRVlBemRiU1NLb0tUWU00NGJaVTZIVWhValpxcmt5TkxvOG9NUHRJNFlWU0lxcjd4RzNhT1h4bw?oc=5",
-     "source": "eldestapeweb",
+     "source": "El Destape",
      "published": "2026-09-19T20:10:38+00:00",
      "id": "1e514b418f33"
     },
@@ -310,13 +301,6 @@
      "source": "Buenos Aires No Duerme",
      "published": "2026-09-19T19:55:21+00:00",
      "id": "361c9ad44964"
-    },
-    {
-     "title": "Eugenio Zanetti: del Oscar con Robert Downey Jr a su último trabajo para el Teatro Colón",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcy1OYkxweDlTTGg5cUltbktHMEFZQkl4TkEzT040dHNhcjdRN1RXbDlQTkNjdUZ3V2ZhcjJSSVhGRy1odkdWNksyV1ZrUENBWTYzWWlVU1VFWUY2UW5GQ0FUck10VXJRdFhtLTF3TG9NbFBfSTVZcVk1Nld4OHVrekY0Mm9LeC1YN0ZiZExzbTNaNkZ0T2xLdlI5Zkl2RnAxMVA4cE9Gc2lZUFEta0RmZmpoZGhJNlBuYlBUTnBVWnlmWVlscjc0bUx4bUFLMmJxV2JmdWFn?oc=5",
-     "source": "todobasquet.com.ar",
-     "published": "2026-09-19T16:51:47+00:00",
-     "id": "6d40cf2723bd"
     },
     {
      "title": "Fin de semana largo: Qué hacer en la Provincia durante el próximo feriado",
@@ -361,84 +345,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Sophia Loren cumple 92: su infancia difícil, el productor 22 años mayor que le cambió la vida y las tentaciones de Hollywood",
-     "link": "https://www.infobae.com/sociedad/personajes/2026/09/20/sophia-loren-cumple-92-su-infancia-dificil-el-productor-22-anos-mayor-que-le-cambio-la-vida-y-las-tentaciones-de-hollywood/",
+     "title": "Estatus de la calidad del aire en Laja este 20 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/20/estatus-de-la-calidad-del-aire-en-laja-este-20-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-20T05:01:55+00:00",
-     "copete": "La actriz italiana nació en Roma, el 20 de septiembre de 1934. Hija de una madre soltera, se enamoró del productor Carlo Ponti, un hombre mayor que se convirtió en su gran consejero, y llegó a ser una de las grandes estrellas de la época…",
-     "id": "e9f99404b589"
+     "published": "2026-09-20T11:34:19+00:00",
+     "copete": "Chile tiene 8 de las 10 ciudades de Sudamérica con la peor calidad del aire, según IQ Air",
+     "id": "be9ce530f413"
     },
     {
-     "title": "Salió en bicicleta y desapareció sin dejar rastros: la foto de una joven amordazada que obsesionó a la familia de Tara Calico",
-     "link": "https://www.infobae.com/historias/2026/09/20/salio-en-bicicleta-y-desaparecio-sin-dejar-rastros-la-foto-de-una-joven-amordazada-que-obsesiono-a-la-familia-de-tara-calico/",
+     "title": "Cómo lavar verduras según su tipo para eliminar tierra y prevenir bacterias en la cocina",
+     "link": "https://www.infobae.com/salud/2026/09/20/como-lavar-verduras-segun-su-tipo-para-eliminar-tierra-y-prevenir-bacterias-en-la-cocina/",
      "source": "Infobae",
-     "published": "2026-09-20T05:01:30+00:00",
-     "copete": "La estudiante Tara Calico, de 19 años, salió de su casa de Nuevo México para realizar su habitual recorrido en bicicleta y nunca regresó. Tiempo después surgió en Florida una foto de una joven atada y amordazada que parecía ser ella…",
-     "id": "9be4d79e1c2d"
+     "published": "2026-09-20T11:34:09+00:00",
+     "copete": "La FDA y expertos en ciencias de los alimentos detallaron por qué se deben higienizar las piezas antes de pelarlas y advirtieron que volver a lavar ensaladas embolsadas puede ser un error",
+     "id": "b4e4c4a2c8a8"
     },
     {
-     "title": "Simon Wiesenthal: sobrevivió a doce campos de concentración, tres intentos de suicidio y dedicó su vida a cazar nazis por el mundo",
-     "link": "https://www.infobae.com/historias/2026/09/20/simon-wiesenthal-sobrevivio-a-doce-campos-de-concentracion-tres-intentos-de-suicidio-y-dedico-su-vida-a-cazar-nazis-por-el-mundo/",
+     "title": "Calidad del aire en Cauquenes este 20 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/20/calidad-del-aire-en-cauquenes-este-20-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-20T05:01:10+00:00",
-     "copete": "Luego de salvarse de fusilamientos eligió otra batalla: conseguir información, perseverar y encontrar a jerarcas del régimen hitleriano que se habían escondido",
-     "id": "ea606c3943a3"
+     "published": "2026-09-20T11:34:02+00:00",
+     "copete": "Estas son las medidas aplicables para el actual estado de la calidad del aire",
+     "id": "ef84fa09ace1"
     },
     {
-     "title": "¿Se puede optimizar la fertilidad? Qué dice la ciencia sobre hábitos, suplementos y mitos en redes",
-     "link": "https://www.infobae.com/salud/2026/09/20/se-puede-optimizar-la-fertilidad-que-dice-la-ciencia-sobre-habitos-suplementos-y-mitos-en-redes/",
+     "title": "Loncura: calidad del aire este 20 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/20/loncura-calidad-del-aire-este-20-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-20T05:00:00+00:00",
-     "copete": "La edad y la calidad de los gametos son factores determinantes, pero el contexto metabólico y el estilo de vida también influyen en la salud reproductiva. Qué rol tienen la alimentación y los suplementos, y qué recomiendan los…",
-     "id": "21f91df25038"
+     "published": "2026-09-20T11:33:46+00:00",
+     "copete": "Estas son algunas recomendaciones a considerar para el estado actual de la calidad del aire",
+     "id": "7f2fe40285a7"
     },
     {
-     "title": "Dos argentinos que viven en Grecia revelan lo más difícil de emigrar: “Los griegos a veces hablan con un tono rudo, fuerte, cortante y parece que estuvieran de mal humor, pero es la manera que tienen de hablar”",
-     "link": "https://www.clarin.com/internacional/argentinos-viven-grecia-revelan-dificil-emigrar-griegos-veces-hablan-tono-rudo-fuerte-cortante-parece-mal-humor-manera-hablar_0_jCPkUNr5cT.html",
-     "source": "Clarín",
-     "published": "2026-09-20T04:30:38+00:00",
-     "copete": "Lisandro y Horacio viven en Atenas y contaron cuáles fueron los principales choques culturales que atravesaron al instalarse en el país. La forma de dialogar, los gestos y hasta los saludos fueron algunas de las costumbres que tuvieron que…",
-     "id": "0f28605925d7"
-    },
-    {
-     "title": "Iba en moto por la vereda, atropelló a una nena de 8 años que salía de su casa y escapó: la policía busca identificar por las cámaras al agresor",
-     "link": "https://www.clarin.com/policiales/iba-moto-vereda-atropello-nena-8-anos-salia-casa-escapo-policia-busca-identificar-camaras-agresor_0_O9zDnikxnz.html",
-     "source": "Clarín",
-     "published": "2026-09-20T03:51:59+00:00",
-     "copete": "La nena sufrió politraumatismos y fue llevada al Hospital de Niños. Está fuera de peligro. Ocurrió sobre calle 6 entre 66 y 67, en La Plata.",
-     "id": "21fc5cfa73b9"
-    },
-    {
-     "title": "Goya llega al Bellas Artes: los tapices que nunca habían viajado a América",
-     "link": "https://www.clarin.com/cultura/goya-llega-bellas-artes-tapices-viajado-america_0_QZBFGSl9ZM.html",
-     "source": "Clarín",
-     "published": "2026-09-20T03:48:19+00:00",
-     "copete": "Por primera vez, dos obras maestras de las Colecciones Reales de España se exhiben en Buenos Aires y revelan la faceta más luminosa del gran artista. Hasta enero, el Bellas Artes exhibe dos extraordinarios tapices de las Colecciones Reales…",
-     "id": "b564ee955f2b"
-    },
-    {
-     "title": "Mirtha Legrand fue internada nuevamente: cómo sigue su estado de salud",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/mirtha-legrand-debio-ser-nuevamente-internada-nid18092026/",
+     "title": "Un terremoto de magnitud 5 sacudió esta madrugada a Tucumán",
+     "link": "https://www.lanacion.com.ar/sociedad/un-terremoto-de-magnitud-5-sacudio-esta-madrugada-a-tucuman-nid20092026/",
      "source": "La Nación",
-     "published": "2026-09-20T03:48:04+00:00",
-     "copete": "La conductora fue ingresada en el sanatorio Mater Dei el viernes por la tarde a raíz de un cuadro compatible con neumopatía; qué dice el parte médico",
-     "id": "6a67bdcaf350"
+     "published": "2026-09-20T11:24:33+00:00",
+     "copete": "Así lo informó el Instituto Nacional de Prevención Sísmica; el temblor, que tuvo su epicentro en el norte de Trancas, se sintió con fuerza en la capital provincial",
+     "id": "ee0d6f5afe06"
     },
     {
-     "title": "Bernat Escolano, mecánico de desguace: “Si arrancas un auto de segunda mano y saca humo blanco o azul por el tubo de escape, es mala señal y puede que te hayan estafado con los kilómetros”",
-     "link": "https://www.clarin.com/internacional/bernat-escolano-mecanico-desguace-arrancas-auto-segunda-mano-saca-humo-blanco-azul-tubo-escape-mala-senal-puede-estafado-kilometros_0_gDCKOoYiEu.html",
-     "source": "Clarín",
-     "published": "2026-09-20T03:40:37+00:00",
-     "copete": "La manipulación de los kilómetros es uno de los fraudes más habituales en el mercado de ocasión.",
-     "id": "10338c50e63e"
-    },
-    {
-     "title": "Rating: cómo fue la competencia entre Andy Kusnetzoff y Juana Viale",
-     "link": "https://www.lanacion.com.ar/espectaculos/rating-como-fue-la-competencia-entre-andy-kusnetzoff-y-juana-viale-nid20092026/",
+     "title": "Confirmado por el Uscis: se acerca una fecha decisiva para venezolanos con TPS y permiso de trabajo EAD",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/confirmado-por-el-uscis-se-acerca-una-fecha-decisiva-para-venezolanos-con-tps-y-permiso-de-trabajo-nid20092026/",
      "source": "La Nación",
-     "published": "2026-09-20T03:39:37+00:00",
-     "copete": "PH, podemos Hablar y La Noche de Mirtha tuvieron un encendido bastante por debajo de lo habitual",
-     "id": "2482691313a0"
+     "published": "2026-09-20T11:22:00+00:00",
+     "copete": "Revisa la fecha decisiva para venezolanos con TPS y permiso de trabajo EAD y las alternativas de permanencia legal señaladas por el Uscis.",
+     "id": "01e8b1a83bdc"
+    },
+    {
+     "title": "Jugar y ganar con la mamá: la experiencia de las Lavinia y una hermosa sensación “para toda la vida”",
+     "link": "https://www.lanacion.com.ar/deportes/polo/jugar-y-ganar-con-la-mama-la-experiencia-de-las-lavinia-y-una-hermosa-sensacion-para-toda-la-vida-nid20092026/",
+     "source": "La Nación",
+     "published": "2026-09-20T11:20:02+00:00",
+     "copete": "La historia de cómo las hermanas Cata, Juana y Bella convencieron a Brígida de jugar un torneo de polo; un título muy especial",
+     "id": "fa4c4b6a7994"
+    },
+    {
+     "title": "Por la Maratón de Buenos Aires: los cortes de calle que afectan a la ciudad",
+     "link": "https://www.lanacion.com.ar/sociedad/por-la-maraton-de-buenos-aires-los-cortes-de-calle-que-afectaran-a-la-ciudad-desde-las-9-de-hoy-nid19092026/",
+     "source": "La Nación",
+     "published": "2026-09-20T11:17:03+00:00",
+     "copete": "Los 42K de Buenos Aires cumplirán su edición 42° este domingo; atraviesa varios barrios porteños y habrá restricciones al tránsito",
+     "id": "1af7704f5161"
+    },
+    {
+     "title": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 20 de septiembre de 2026",
+     "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-20-de-septiembre-de-2026_0_3hto8VAWno.html",
+     "source": "Clarín",
+     "published": "2026-09-20T10:45:12+00:00",
+     "copete": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+     "id": "214d095d3364"
+    },
+    {
+     "title": "Euro hoy en Paraguay: precio y cotización de la divisa este domingo 20 de septiembre de 2026",
+     "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-domingo-20-de-septiembre-de-2026_0_7fe2TtIqRd.html",
+     "source": "Clarín",
+     "published": "2026-09-20T10:45:11+00:00",
+     "copete": "Mirá la cotización del euro en Paraguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+     "id": "c90536ad0f7f"
     }
    ]
   },
@@ -447,6 +431,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie",
+     "link": "https://www.bbc.com/mundo/articles/cqn4kvv0jv7xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-20T10:55:07+00:00",
+     "copete": "La BBC se traslada a Bélgica para caminar un tramo con el aventurero Karl Bushby, cuyo viaje de regreso a casa se acerca al final tras 28 años.",
+     "id": "3d385eb8893d"
+    },
+    {
+     "title": "Por qué Zeus creó a Pandora, la primera mujer según la mitología griega y ¿realmente abrió una caja?",
+     "link": "https://www.bbc.com/mundo/articles/c30j01ygzq2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-20T10:12:28+00:00",
+     "copete": "¿Por qué Zeus castigó a los hombres si fue Prometeo quien desobedeció? ¿Y qué papel juega la esperanza en todo esto? Te contamos la historia detrás del mito.",
+     "id": "ff50aeae5a9c"
+    },
+    {
+     "title": "Ucrania lanza uno de sus mayores ataques sobre Moscú en el último día de elecciones rusas",
+     "link": "https://elpais.com/internacional/2026-09-20/ucrania-lanza-uno-de-sus-mayores-ataques-sobre-moscu-en-el-ultimo-dia-de-elecciones-rusas.html",
+     "source": "El País Internacional",
+     "published": "2026-09-20T08:59:52+00:00",
+     "copete": "“Rusia debe poner fin a su brutal guerra y optar por la paz”, afirma Zelenski en un mensaje en el que admite la ofensiva. Al menos dos muertos",
+     "id": "e22e90aa47fd"
+    },
+    {
+     "title": "Las razones por las que Michelle Bachelet se retira de la carrera por la Secretaría General de la ONU",
+     "link": "https://www.bbc.com/mundo/articles/c52e0v8xxlk3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-20T08:20:15+00:00",
+     "copete": "La candidatura de la exmandataria chilena venía perdiendo apoyo en las últimas votaciones no vinculantes del organismo multilateral.",
+     "id": "6de0f055a658"
+    },
     {
      "title": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
      "link": "https://www.bbc.com/mundo/articles/cm2dw10jdlrpo?at_medium=RSS&at_campaign=rss",
@@ -478,38 +494,6 @@
      "published": "2026-09-20T03:30:01+00:00",
      "copete": "Las candidatas del SPD y de los poscomunistas de Die Linke llegan empatadas con AfD para ganar en las elecciones de este domingo en Mecklemburgo-Pomerania y Berlín",
      "id": "01fa02e23ab8"
-    },
-    {
-     "title": "El estrecho infinito",
-     "link": "https://elpais.com/internacional/2026-09-20/el-estrecho-infinito.html",
-     "source": "El País Internacional",
-     "published": "2026-09-20T03:30:01+00:00",
-     "copete": "Un cierre de Ormuz prolongado y desbordado sería el punto de inflexión de unos mercados energéticos al límite y tener efectos políticos duraderos",
-     "id": "7496054b4d70"
-    },
-    {
-     "title": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore",
-     "link": "https://www.bbc.com/mundo/articles/cm790jgwj0z4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-20T02:22:20+00:00",
-     "copete": "El artista habló sobre el tema y sobre Israel y Gaza en su primer concierto desde que el rapero Macklemore fue excluido de su gira y otros artistas se retiraran.",
-     "id": "098ed9979b28"
-    },
-    {
-     "title": "Oktoberfest: la boda real en Alemania que dio origen a la mayor fiesta de la cerveza del mundo (y cómo llegó a América Latina)",
-     "link": "https://www.bbc.com/mundo/articles/c6wyzg19mvm2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-19T15:07:01+00:00",
-     "copete": "Nació para crear una identidad germana décadas antes de que existiera Alemania, soportó dos guerras, se reinventó y se multiplicó.",
-     "id": "4477c9fab933"
-    },
-    {
-     "title": "La madre que se volvió viral por correr descalza (y ganar) una carrera para poder comprar los útiles escolares de su hija",
-     "link": "https://www.bbc.com/mundo/articles/cw804jpgr4z9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-19T13:01:35+00:00",
-     "copete": "La hazaña de esta mujer de 47 años ha contribuido a avivar las críticas a la situación económica y educativa del país.",
-     "id": "41911de8462f"
     }
    ]
   }
@@ -523,6 +507,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
