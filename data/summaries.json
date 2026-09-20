@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-20T10:06:42Z",
+  "generated_at": "2026-09-20T22:07:04Z",
   "summaries": {
+    "75eaa4ac1b8c": {
+      "resumen": "OncLive recopila los cinco videos más vistos de la semana sobre oncología, con lo más comentado por especialistas en distintos tumores. Sirve como resumen rápido para no perderse los temas que están dando que hablar en el ambiente oncológico.",
+      "destacado": false
+    },
+    "04170c870146": {
+      "resumen": "OncLive presenta su selección semanal de artículos más relevantes en oncología, \"The OncFive\", que reúne las noticias y actualizaciones clínicas más consultadas de la semana. Es una forma ágil de estar al tanto de las novedades sin rastrear cada fuente por separado.",
+      "destacado": false
+    },
+    "aa9eadaed8a5": {
+      "resumen": "OncLive arma un quiz semanal para repasar las noticias más comentadas en tumores neuroendocrinos (NET), cáncer de pulmón, mastocitosis y cáncer de páncreas. Un resumen rápido y entretenido para no perderse los desarrollos clave de la semana en oncología.",
+      "destacado": false
+    },
     "34522a068123": {
       "resumen": "The ASCO Post analiza si los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), usados para bajar de peso, podrían modificar el riesgo de cáncer de mama. Vale la pena seguirlo porque estos fármacos se recetan cada vez más y todavía se debate su impacto oncológico a largo plazo.",
       "destacado": false
@@ -10,13 +22,67 @@
       "destacado": false,
       "analisis": "Diseño: Estudio clínico sobre un esquema combinado (TMC-I) en cáncer de cabeza y cuello; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer avanzado de cabeza y cuello.\nIntervención: Esquema TMC-I (no se detalla su composición exacta en el título); no se especifica el comparador.\nResultados: Se menciona que podría \"expandir el acceso al tratamiento\", pero no hay cifras de eficacia (supervivencia, tasas de respuesta) disponibles sin el abstract.\nLimitaciones: La falta de datos numéricos impide evaluar la magnitud del beneficio y el perfil de toxicidad del esquema.\nMensaje: Si se confirma, podría sumar una alternativa terapéutica en un escenario con opciones limitadas para cáncer avanzado de cabeza y cuello.\nNota: análisis sin acceso al abstract."
     },
+    "cc1e6fea595f": {
+      "resumen": "The ASCO Post difunde los resultados de un estudio clínico global sobre izalontamab brenitecan, un anticuerpo conjugado a fármaco (ADC) en investigación, en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación de EGFR (receptor del factor de crecimiento epidérmico). Vale la pena seguirlo porque explora una nueva clase de terapia dirigida para un subgrupo molecular con necesidades no cubiertas.",
+      "destacado": true,
+      "analisis": "Diseño: Estudio clínico global (fase no especificada en el título) sobre izalontamab brenitecan; no se detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación de EGFR (receptor del factor de crecimiento epidérmico).\nIntervención: Izalontamab brenitecan (anticuerpo conjugado a fármaco en investigación); no se especifica el comparador en el título.\nResultados: No hay cifras de supervivencia global, supervivencia libre de progresión, tasa de respuesta ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse el diseño exacto, el tamaño muestral ni el perfil de seguridad del fármaco.\nMensaje: Si los resultados se confirman, podría sumar una nueva opción terapéutica dirigida para el CPCNP con mutación de EGFR, especialmente tras la progresión a los tratamientos estándar.\nNota: análisis sin acceso al abstract."
+    },
+    "a27653823d3b": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) que analiza la asociación entre resultados informados por el paciente (PRO) y utilización de recursos de salud; el título no precisa el número de pacientes ni el diseño exacto.\nPoblación: Pacientes con cáncer atendidos en el sistema de salud estudiado, con datos de PRO registrados.\nIntervención: No aplica intervención farmacológica; se trata de un análisis asociativo entre variables de resultado (PRO) y utilización de recursos.\nResultados: No hay cifras de asociación, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de este tipo suelen tener limitaciones por factores de confusión no medidos y heterogeneidad en cómo se recogen los PRO.\nMensaje: Aporta evidencia para justificar la incorporación sistemática de los resultados informados por el paciente como herramienta de valor en la planificación de recursos oncológicos.\nNota: análisis sin acceso al abstract."
+    },
     "2d4438b04609": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) del ensayo fase II aleatorizado CUPISCO, que comparó terapia guiada molecularmente frente a quimioterapia continuada en cáncer de origen primario desconocido desfavorable. Importa para actualizar la referencia y no citar datos desactualizados del artículo original.",
       "destacado": false
     },
-    "06d2a692c023": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un ensayo fase II estratificado por biomarcadores sobre trastuzumab rezetecán (anticuerpo conjugado a fármaco dirigido contra HER2, receptor 2 del factor de crecimiento epidérmico humano) en carcinoma avanzado de glándula salival, en cohortes con expresión alta y baja de HER2. Vale la pena registrarlo para no citar datos desactualizados del artículo original.",
+    "518457afc44d": {
+      "resumen": "JAMA Oncology se pregunta si la inmunoterapia específica contra antígenos abre una nueva frontera en el tratamiento del cáncer de cabeza y cuello originado por el virus del papiloma humano (VPH). Vale la pena leerlo porque plantea hacia dónde podría evolucionar el abordaje inmunológico de estos tumores.",
       "destacado": false
+    },
+    "8dd3218c6a85": {
+      "resumen": "JAMA Oncology publica un estudio sobre las trayectorias de síntomas y el uso de la asistencia médica para morir en adolescentes y adultos jóvenes con cáncer. Interesa porque aporta datos poco frecuentes sobre el final de vida en una población oncológica particularmente vulnerable.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) publicado en JAMA Oncology sobre trayectorias de síntomas y uso de asistencia médica para morir; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Adolescentes y adultos jóvenes con cáncer, en el contexto de cuidados de fin de vida.\nIntervención: No aplica intervención farmacológica; se trata de un análisis descriptivo/asociativo entre trayectorias de síntomas y la solicitud o uso de asistencia médica para morir.\nResultados: No hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño muestral, el contexto legal/geográfico del estudio ni los factores de confusión considerados.\nMensaje: Podría orientar la identificación temprana de necesidades de cuidados paliativos y de fin de vida en adolescentes y adultos jóvenes con cáncer.\nNota: análisis sin acceso al abstract."
+    },
+    "411649eb69a7": {
+      "resumen": "JAMA Oncology analiza las tendencias en el uso de la resonancia magnética (RM) previa a la biopsia para la detección de cáncer de próstata. Importa porque refleja cómo fue cambiando la práctica diagnóstica en los últimos años y si ese cambio llegó parejo a toda la población.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de tendencias (probablemente con datos poblacionales o de registros) publicado en JAMA Oncology; el título no precisa el diseño exacto, aleatorización ni tamaño muestral.\nPoblación: Varones sometidos a evaluación diagnóstica por sospecha de cáncer de próstata.\nIntervención: No aplica intervención terapéutica; se analiza la utilización de resonancia magnética (RM) previa a la biopsia prostática a lo largo del tiempo.\nResultados: No hay cifras de tasas de utilización, diferencias por subgrupos ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el período estudiado, la fuente de los datos ni posibles sesgos de acceso a la RM según región o cobertura de salud.\nMensaje: Podría evidenciar brechas de acceso a la resonancia magnética prebiopsia, una herramienta que mejora la precisión diagnóstica y podría reducir biopsias innecesarias.\nNota: análisis sin acceso al abstract."
+    },
+    "4225a7423403": {
+      "resumen": "JAMA Oncology publica la réplica de los autores originales al comentario recibido sobre su estudio de trayectorias de síntomas y asistencia médica para morir en adolescentes y adultos jóvenes con cáncer. Completa el intercambio científico en torno a ese trabajo.",
+      "destacado": false
+    },
+    "8174317db695": {
+      "resumen": "La diseñadora Emilia Wickstead presentó su colección primavera 2027 de prêt-à-porter."
+    },
+    "fdb4f422f53c": {
+      "resumen": "La firma Roksanda presentó su colección primavera 2027 de prêt-à-porter."
+    },
+    "08228cf0d364": {
+      "resumen": "El diseñador Charlie Constantinou presentó su colección primavera 2027 de prêt-à-porter."
+    },
+    "26efde432616": {
+      "resumen": "La firma Mulberry presentó su colección primavera 2027 de prêt-à-porter."
+    },
+    "9fef76579b30": {
+      "resumen": "Elle explica por qué las tendencias de moda duran cada vez menos y cómo ese ritmo acelerado agrava la crisis medioambiental."
+    },
+    "f66a3efbdd6f": {
+      "resumen": "Según OkDiario, el look en jeans de Anne Hathaway se perfila como la tendencia en denim que se impondrá por sobre las demás."
+    },
+    "2d2e305d789b": {
+      "resumen": "Vogue México destaca las botas negras que combinó Inés de Ramón con un minivestido para arrancar el otoño 2026."
+    },
+    "db80012614e3": {
+      "resumen": "Elle señala que Sara Carbonero lució los zuecos que se perfilan como tendencia para el otoño 2026."
+    },
+    "402edabd0451": {
+      "resumen": "Chic Magazine repasa los colores y diseños de uñas que serán tendencia este otoño 2026."
+    },
+    "a0dae61a988a": {
+      "resumen": "Vogue México cuenta que Zara trae de vuelta las camisas grunge de los años 90 para este otoño 2026, combinadas con faldas y pantalones."
     },
     "e787c550dcda": {
       "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
@@ -24,80 +90,8 @@
     "e1e59d960fa7": {
       "resumen": "Por el Día Mundial de la Paella, 31 restaurantes porteños ofrecerán descuentos y promociones este domingo."
     },
-    "a95f4c520c26": {
-      "resumen": "Una selección de nueve restaurantes porteños donde el arroz, el caldo y el socarrat son los protagonistas de la paella."
-    },
-    "e1df76723d2d": {
-      "resumen": "OncLive resume los datos de un ensayo clínico que evaluó zipalertinib combinado con quimioterapia como primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con inserciones en el exón 20 de EGFR (receptor del factor de crecimiento epidérmico), con una extensión de 6 meses en la supervivencia libre de progresión (SLP) frente al esquema estándar. Vale la pena seguirlo porque esta alteración molecular tiene pocas opciones dirigidas eficaces.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico (fase no precisada en el título) que evalúa zipalertinib más quimioterapia en primera línea; el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) metastásico con inserciones en el exón 20 de EGFR (receptor del factor de crecimiento epidérmico) sin tratamiento previo.\nIntervención: Zipalertinib (inhibidor de EGFR) combinado con quimioterapia estándar; el comparador exacto no se especifica en el título.\nResultados: Se reporta una extensión de 6 meses en la supervivencia libre de progresión frente al comparador, sin razón de riesgo, intervalo de confianza ni valor de p disponibles en el título.\nLimitaciones: Sin el abstract no puede confirmarse el tamaño muestral, la magnitud estadística del beneficio ni el perfil de toxicidad del esquema.\nMensaje: Si se confirma con datos completos, podría consolidar una opción dirigida de primera línea para una alteración de EGFR con opciones terapéuticas históricamente limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "26c569eafb09": {
-      "resumen": "OncLive difunde el análisis del Dr. Gilbert sobre la eficacia de relacorilant (antagonista del receptor de glucocorticoides) combinado con nab-paclitaxel en cáncer de ovario, un esquema en investigación para enfermedad resistente al platino. Interesa porque plantea una alternativa en un escenario terapéutico de opciones acotadas.",
-      "destacado": false,
-      "analisis": "Diseño: Comentario de un especialista sobre los resultados de un ensayo clínico con relacorilant más nab-paclitaxel; el título no precisa fase, aleatorización, cegamiento ni número de pacientes.\nPoblación: Pacientes con cáncer de ovario, presumiblemente resistente o refractario al platino (población habitual en el desarrollo de relacorilant).\nIntervención: Relacorilant (antagonista selectivo del receptor de glucocorticoides) combinado con nab-paclitaxel; el comparador no se especifica en el título.\nResultados: No hay cifras de supervivencia libre de progresión, tasa de respuesta ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al tratarse de un comentario de un investigador y no del artículo original, no permite evaluar el diseño metodológico completo del estudio.\nMensaje: Si los datos se confirman, relacorilant más nab-paclitaxel podría sumar una alternativa en cáncer de ovario resistente al platino, un escenario con pronóstico desfavorable y pocas opciones.\nNota: análisis sin acceso al abstract."
-    },
-    "a27653823d3b": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) que analiza la asociación entre resultados informados por el paciente (PRO) y utilización de recursos de salud; el título no precisa el número de pacientes ni el diseño exacto.\nPoblación: Pacientes con cáncer atendidos en el sistema de salud estudiado, con datos de PRO registrados.\nIntervención: No aplica intervención farmacológica; se trata de un análisis asociativo entre variables de resultado (PRO) y utilización de recursos.\nResultados: No hay cifras de asociación, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de este tipo suelen tener limitaciones por factores de confusión no medidos y heterogeneidad en cómo se recogen los PRO.\nMensaje: Aporta evidencia para justificar la incorporación sistemática de los resultados informados por el paciente como herramienta de valor en la planificación de recursos oncológicos.\nNota: análisis sin acceso al abstract."
-    },
     "a11279a3865a": {
       "resumen": "Una guía de planes para aprovechar el próximo fin de semana largo en la Provincia de Buenos Aires."
-    },
-    "aa9eadaed8a5": {
-      "resumen": "OncLive arma un quiz semanal para repasar las noticias más comentadas en tumores neuroendocrinos (NET), cáncer de pulmón, mastocitosis y cáncer de páncreas. Un resumen rápido y entretenido para no perderse los desarrollos clave de la semana en oncología.",
-      "destacado": false
-    },
-    "b15fc07002dd": {
-      "resumen": "The New England Journal of Medicine publica un estudio sobre el riesgo de cáncer colorrectal en pacientes con pólipos serrados, un tipo de lesión precancerosa que puede pasar más desapercibida en la colonoscopía que los pólipos adenomatosos clásicos. Interesa porque puede cambiar la forma de vigilar a estos pacientes después de una colonoscopía.",
-      "destacado": false,
-      "analisis": "Diseño: Probablemente un estudio de cohorte; el título no confirma si es prospectivo o retrospectivo, ni el número de pacientes o centros participantes.\nPoblación: Pacientes con diagnóstico de pólipos serrados en la colonoscopía.\nIntervención: No aplica una intervención terapéutica; se trata de un estudio de riesgo y seguimiento según el hallazgo endoscópico de pólipos serrados.\nResultados: No hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, los factores de confusión considerados ni la representatividad de la población.\nMensaje: Podría afinar las recomendaciones de vigilancia endoscópica en pacientes con pólipos serrados, una lesión con potencial de malignización que suele recibir menos atención que los pólipos adenomatosos.\nNota: análisis sin acceso al abstract."
-    },
-    "583855a64637": {
-      "resumen": "The New England Journal of Medicine aborda cuál debería ser el estudio inicial más adecuado para el tamizaje de cáncer colorrectal. Vale la pena seguirlo porque el tamizaje temprano es clave para reducir la mortalidad de este tumor, uno de los más prevenibles cuando se detecta a tiempo.",
-      "destacado": false,
-      "analisis": "Diseño: El título no permite confirmar si se trata de un ensayo clínico, un estudio comparativo de estrategias de tamizaje o una revisión de la evidencia disponible; no se detalla aleatorización, cegamiento ni tamaño muestral.\nPoblación: Adultos en edad de tamizaje para cáncer colorrectal (habitualmente a partir de los 45-50 años según las guías vigentes).\nIntervención: Comparación de métodos de tamizaje inicial (por ejemplo, colonoscopía frente a test de sangre oculta en materia fecal u otras pruebas no invasivas), sin precisarse en el título.\nResultados: No hay cifras de sensibilidad, especificidad, detección de lesiones ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: La falta de datos numéricos impide comparar el rendimiento diagnóstico entre estrategias.\nMensaje: Podría orientar qué prueba priorizar como primer paso del tamizaje de cáncer colorrectal en la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "11333eb4f736": {
-      "resumen": "The New England Journal of Medicine plantea a blinatumomab (anticuerpo biespecífico que dirige a los linfocitos T contra las células con el marcador CD19) como nuevo estándar de tratamiento en la leucemia linfoblástica aguda. Interesa porque marcaría un cambio en el manejo de un tumor hematológico donde la inmunoterapia viene ganando terreno.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un artículo de posicionamiento (posiblemente un editorial o perspectiva) sobre el rol de blinatumomab en la leucemia linfoblástica aguda; no queda claro si presenta datos originales de un ensayo o comenta resultados ya publicados, ni se detalla aleatorización, cegamiento o tamaño muestral.\nPoblación: Pacientes con leucemia linfoblástica aguda (probablemente de linaje B, dado el mecanismo de blinatumomab).\nIntervención: Blinatumomab (anticuerpo biespecífico BiTE anti-CD19/anti-CD3) frente a quimioterapia convencional o como consolidación; el esquema exacto no se especifica en el título.\nResultados: No hay cifras de supervivencia global, supervivencia libre de enfermedad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse si el artículo aporta datos originales o es un comentario sobre evidencia previa, lo que condiciona el peso que debe dársele.\nMensaje: Si se confirma como estándar, blinatumomab consolidaría a la inmunoterapia como pilar del tratamiento de la leucemia linfoblástica aguda, reduciendo la dependencia de la quimioterapia intensiva.\nNota: análisis sin acceso al abstract."
-    },
-    "cc1e6fea595f": {
-      "resumen": "The ASCO Post difunde los resultados de un estudio clínico global sobre izalontamab brenitecan, un anticuerpo conjugado a fármaco (ADC) en investigación, en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación de EGFR (receptor del factor de crecimiento epidérmico). Vale la pena seguirlo porque explora una nueva clase de terapia dirigida para un subgrupo molecular con necesidades no cubiertas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico global (fase no especificada en el título) sobre izalontamab brenitecan; no se detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación de EGFR (receptor del factor de crecimiento epidérmico).\nIntervención: Izalontamab brenitecan (anticuerpo conjugado a fármaco en investigación); no se especifica el comparador en el título.\nResultados: No hay cifras de supervivencia global, supervivencia libre de progresión, tasa de respuesta ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse el diseño exacto, el tamaño muestral ni el perfil de seguridad del fármaco.\nMensaje: Si los resultados se confirman, podría sumar una nueva opción terapéutica dirigida para el CPCNP con mutación de EGFR, especialmente tras la progresión a los tratamientos estándar.\nNota: análisis sin acceso al abstract."
-    },
-    "36d0a5806907": {
-      "resumen": "La firma Chopova Lowena presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "991ed1e2e884": {
-      "resumen": "La diseñadora Yuhan Wang presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "e2679072cb4f": {
-      "resumen": "El diseñador Richard Quinn presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "8ba528a0f6c7": {
-      "resumen": "El diseñador Steve O Smith presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "6ed9a6947a52": {
-      "resumen": "Cosmopolitan repasa los looks imprescindibles para la semana del 21 de septiembre, del pantalón boho de Zara al top de tendencia entre las neoyorquinas."
-    },
-    "e9aa45d5666a": {
-      "resumen": "La Razón anticipa que la chaqueta con aire \"de abuela\" será una de las grandes tendencias de la moda de este otoño."
-    },
-    "e484caedfcdc": {
-      "resumen": "Un repaso de las principales tendencias que dejó la Semana de la Moda de Nueva York, del color rojo al juego de capas."
-    },
-    "fd6ee905406c": {
-      "resumen": "Stefi Roitman marcó tendencia con una selección de looks de verano."
-    },
-    "78cd6f9b0fc2": {
-      "resumen": "Vogue México repasa los zapatos inspirados en el estilo elegante de Carolina Herrera que vuelven a imponerse este otoño."
-    },
-    "7b8950d01406": {
-      "resumen": "Alejandra Capetillo reflexiona sobre el arte de vestir y por qué conocer el propio estilo empieza por conocerse a una misma."
     },
     "1e514b418f33": {
       "resumen": "Este domingo varios restaurantes de Buenos Aires ofrecerán descuentos especiales en paella."
@@ -114,8 +108,11 @@
     "ac3afb21dad9": {
       "resumen": "Una orquesta juvenil de Trelew hizo historia al presentarse en el Teatro Colón."
     },
-    "6d40cf2723bd": {
-      "resumen": "Un repaso por la carrera de Eugenio Zanetti, desde el Oscar que compartió con Robert Downey Jr. hasta su último trabajo para el Teatro Colón."
+    "8a685c28e3a0": {
+      "resumen": "GaliciaAberta recoge las declaraciones de Miranda sobre la importancia de que la danza gallega esté presente en las principales capitales del mundo."
+    },
+    "fb2f8f6d45f3": {
+      "resumen": "Eltrece TV recomienda nueve restaurantes porteños donde el arroz, el caldo y el socarrat son los protagonistas de la paella."
     }
   }
 }
