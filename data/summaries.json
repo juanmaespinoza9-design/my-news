@@ -1,27 +1,31 @@
 {
-  "generated_at": "2026-09-21T10:07:49Z",
+  "generated_at": "2026-09-21T22:06:27Z",
   "summaries": {
-    "75eaa4ac1b8c": {
-      "resumen": "OncLive recopila los cinco videos más vistos de la semana sobre oncología, con lo más comentado por especialistas en distintos tumores. Sirve como resumen rápido para no perderse los temas que están dando que hablar en el ambiente oncológico.",
+    "4daaca1c07e6": {
+      "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) le otorgó la designación de Vía Rápida (Fast Track) a LYT-200, un agente en investigación, para el síndrome mielodisplásico (SMD) de alto riesgo recaído o refractario (R/R). Vale la pena seguirlo porque esta designación acelera la revisión regulatoria en un escenario con pocas opciones terapéuticas.",
       "destacado": false
     },
-    "04170c870146": {
-      "resumen": "OncLive presenta su selección semanal de artículos más relevantes en oncología, \"The OncFive\", que reúne las noticias y actualizaciones clínicas más consultadas de la semana. Es una forma ágil de estar al tanto de las novedades sin rastrear cada fuente por separado.",
+    "044052c2d9aa": {
+      "resumen": "OncLive reporta que los datos del estudio NAPISTAR-1-01 respaldan el desarrollo acelerado de TUB-040, un anticuerpo conjugado a fármaco (ADC) en investigación, en cáncer de ovario sin restricción por biomarcador. Interesa porque plantea una nueva opción terapéutica dirigida para una población amplia de pacientes con este tumor.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico en fase temprana (NAPISTAR-1-01); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de ovario, sin selección por biomarcador (biomarker-unrestricted).\nIntervención: TUB-040, un anticuerpo conjugado a fármaco (ADC) en investigación; no se especifica comparador.\nResultados: El título indica que los datos \"respaldan\" el desarrollo acelerado del fármaco, pero no hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse el tamaño muestral, la fase del estudio ni el perfil de seguridad del ADC.\nMensaje: Si se confirma el beneficio, TUB-040 podría convertirse en una opción dirigida para el cáncer de ovario independientemente del estado de biomarcadores, ampliando la población candidata a terapias con ADC.\nNota: análisis sin acceso al abstract."
+    },
+    "c30d93b15ce4": {
+      "resumen": "The ASCO Post cubre cómo las unidades móviles de tomografía computada (TC) de baja dosis podrían ampliar el acceso al tamizaje de cáncer de pulmón en poblaciones desatendidas. Relevante porque la falta de acceso geográfico es una barrera conocida para la detección temprana.",
+      "destacado": false,
+      "analisis": "Diseño: Reporte sobre un programa/iniciativa de tamizaje con tomografía computada (TC) móvil; el título no precisa si se trata de un estudio prospectivo formal, aleatorización, ni número de centros o participantes.\nPoblación: Poblaciones desatendidas o con acceso geográfico limitado a centros de tamizaje de cáncer de pulmón.\nIntervención: Unidades móviles de TC de baja dosis para tamizaje de cáncer de pulmón; no se especifica comparador.\nResultados: No hay cifras de tasa de detección, adherencia ni reducción de mortalidad disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el diseño metodológico, el tamaño de la muestra ni la representatividad de la población estudiada.\nMensaje: Si se sostiene el hallazgo, este tipo de estrategias podría reducir inequidades en el acceso al tamizaje de cáncer de pulmón en comunidades con barreras geográficas o socioeconómicas.\nNota: análisis sin acceso al abstract."
+    },
+    "33ab4d41a76b": {
+      "resumen": "OncLive informa que Japón aprobó la formulación subcutánea de pembrolizumab, un inhibidor de PD-1 (proteína de muerte celular programada 1), para todas las indicaciones ya aprobadas del fármaco intravenoso. Importa porque simplifica la administración y podría reducir el tiempo que los pacientes pasan en el centro de infusión.",
+      "destacado": false
+    },
+    "eb08d090c6d1": {
+      "resumen": "The ASCO Post reporta que ASTRO (Sociedad Americana de Oncología Radioterápica) publicó su primera guía clínica sobre radioterapia para cáncer de vejiga. Relevante porque estandariza recomendaciones en un tumor donde la radioterapia compite y se combina con la cirugía y la quimioterapia.",
       "destacado": false
     },
     "34522a068123": {
       "resumen": "The ASCO Post analiza si los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), usados para bajar de peso, podrían modificar el riesgo de cáncer de mama. Vale la pena seguirlo porque estos fármacos se recetan cada vez más y todavía se debate su impacto oncológico a largo plazo.",
       "destacado": false
-    },
-    "1ced8f2604bf": {
-      "resumen": "The ASCO Post reporta que el esquema TMC-I podría ampliar el acceso al tratamiento en cáncer avanzado de cabeza y cuello. Interesa porque plantea una alternativa terapéutica en un escenario donde las opciones siguen siendo limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico sobre un esquema combinado (TMC-I) en cáncer de cabeza y cuello; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer avanzado de cabeza y cuello.\nIntervención: Esquema TMC-I (no se detalla su composición exacta en el título); no se especifica el comparador.\nResultados: Se menciona que podría \"expandir el acceso al tratamiento\", pero no hay cifras de eficacia (supervivencia, tasas de respuesta) disponibles sin el abstract.\nLimitaciones: La falta de datos numéricos impide evaluar la magnitud del beneficio y el perfil de toxicidad del esquema.\nMensaje: Si se confirma, podría sumar una alternativa terapéutica en un escenario con opciones limitadas para cáncer avanzado de cabeza y cuello.\nNota: análisis sin acceso al abstract."
-    },
-    "cc1e6fea595f": {
-      "resumen": "The ASCO Post difunde los resultados de un estudio clínico global sobre izalontamab brenitecan, un anticuerpo conjugado a fármaco (ADC) en investigación, en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación de EGFR (receptor del factor de crecimiento epidérmico). Vale la pena seguirlo porque explora una nueva clase de terapia dirigida para un subgrupo molecular con necesidades no cubiertas.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio clínico global (fase no especificada en el título) sobre izalontamab brenitecan; no se detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación de EGFR (receptor del factor de crecimiento epidérmico).\nIntervención: Izalontamab brenitecan (anticuerpo conjugado a fármaco en investigación); no se especifica el comparador en el título.\nResultados: No hay cifras de supervivencia global, supervivencia libre de progresión, tasa de respuesta ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse el diseño exacto, el tamaño muestral ni el perfil de seguridad del fármaco.\nMensaje: Si los resultados se confirman, podría sumar una nueva opción terapéutica dirigida para el CPCNP con mutación de EGFR, especialmente tras la progresión a los tratamientos estándar.\nNota: análisis sin acceso al abstract."
     },
     "a27653823d3b": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
@@ -33,41 +37,18 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico fase II, aleatorizado (estudio CUPISCO); el título no detalla cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP) de perfil desfavorable.\nIntervención: Terapia guiada molecularmente versus quimioterapia continuada.\nResultados: El título indica que se trata de datos actualizados de eficacia y seguridad, pero no hay cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; además, esta publicación es una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no puede evaluarse la magnitud del beneficio actualizado ni el perfil de seguridad; al tratarse de un erratum, algunos datos previamente publicados podrían haberse corregido.\nMensaje: La terapia guiada molecularmente podría ofrecer una alternativa a la quimioterapia convencional en cáncer de origen primario desconocido desfavorable, un escenario con pronóstico históricamente malo y pocas opciones dirigidas.\nNota: análisis sin acceso al abstract."
     },
-    "8174317db695": {
-      "resumen": "La diseñadora Emilia Wickstead presentó su colección primavera 2027 de prêt-à-porter."
+    "b15fc07002dd": {
+      "resumen": "The New England Journal of Medicine (NEJM) publica un estudio sobre el riesgo de cáncer colorrectal en pacientes con pólipos serrados, un subtipo de pólipo con una vía de progresión molecular distinta a los adenomas clásicos. Interesa porque podría afectar los intervalos de vigilancia colonoscópica recomendados.",
+      "destacado": true,
+      "analisis": "Diseño: Probable estudio de cohorte (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con antecedente de pólipos serrados detectados en colonoscopia.\nIntervención: No aplica intervención farmacológica; se trata de un análisis de riesgo asociado a un hallazgo endoscópico (pólipos serrados) y su seguimiento.\nResultados: No hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios de este tipo suelen depender de la calidad de la colonoscopia índice y de la clasificación histológica de los pólipos, lo que puede introducir variabilidad entre centros.\nMensaje: Podría aportar evidencia para ajustar los intervalos de vigilancia colonoscópica en pacientes con pólipos serrados, un grupo con riesgo potencialmente subestimado de cáncer colorrectal.\nNota: análisis sin acceso al abstract."
     },
-    "fdb4f422f53c": {
-      "resumen": "La firma Roksanda presentó su colección primavera 2027 de prêt-à-porter."
+    "583855a64637": {
+      "resumen": "NEJM aborda el tamizaje inicial del cáncer colorrectal, un tema central en prevención oncológica dado el peso de esta enfermedad a nivel mundial. Vale la pena revisarlo por su potencial impacto en las recomendaciones de detección temprana.",
+      "destacado": false,
+      "analisis": "Diseño: El título no permite determinar con certeza si se trata de un estudio original, una revisión clínica o una guía práctica; no se especifica aleatorización, cegamiento, centros ni número de pacientes.\nPoblación: Adultos en edad de inicio de tamizaje para cáncer colorrectal.\nIntervención: Estrategias de tamizaje inicial (por ejemplo, colonoscopia, test de sangre oculta en materia fecal u otras modalidades); no se especifica comparador exacto en el título.\nResultados: No hay cifras de sensibilidad, especificidad, reducción de mortalidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse si se trata de datos originales o de una síntesis de evidencia previa, lo que limita la solidez de las conclusiones.\nMensaje: Aporta información relevante para orientar la decisión sobre cuándo y cómo iniciar el tamizaje de cáncer colorrectal en la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "e787c550dcda": {
-      "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
-    },
-    "e1e59d960fa7": {
-      "resumen": "Por el Día Mundial de la Paella, 31 restaurantes porteños ofrecerán descuentos y promociones este domingo."
-    },
-    "a11279a3865a": {
-      "resumen": "Una guía de planes para aprovechar el próximo fin de semana largo en la Provincia de Buenos Aires."
-    },
-    "1e514b418f33": {
-      "resumen": "Este domingo varios restaurantes de Buenos Aires ofrecerán descuentos especiales en paella."
-    },
-    "e3ecd5a8e080": {
-      "resumen": "La agenda cultural de la provincia de Buenos Aires para estos días."
-    },
-    "13a98a3d7d44": {
-      "resumen": "El humorista Lázaro Caballero hizo historia en el teatro Gran Rex con dos funciones memorables."
-    },
-    "ac3afb21dad9": {
-      "resumen": "Una orquesta juvenil de Trelew hizo historia al presentarse en el Teatro Colón."
-    },
-    "8a685c28e3a0": {
-      "resumen": "GaliciaAberta recoge las declaraciones de Miranda sobre la importancia de que la danza gallega esté presente en las principales capitales del mundo."
-    },
-    "fb2f8f6d45f3": {
-      "resumen": "Eltrece TV recomienda nueve restaurantes porteños donde el arroz, el caldo y el socarrat son los protagonistas de la paella."
-    },
-    "1b9ffcf13cb6": {
-      "resumen": "OncLive es un portal de noticias y educación médica continua en oncología clínica; este enlace remite a su página principal con las últimas novedades y perspectivas de especialistas. Sirve como puerta de entrada a la cobertura general del sitio, sin un tema puntual asociado.",
+    "11333eb4f736": {
+      "resumen": "NEJM publica un artículo de perspectiva sobre blinatumomab, un anticuerpo biespecífico que redirige linfocitos T contra el antígeno CD19, como nuevo estándar de tratamiento en la leucemia linfoblástica aguda (LLA). Interesa porque consolida el lugar de la inmunoterapia en una enfermedad hematológica donde la quimioterapia intensiva fue durante décadas la única opción.",
       "destacado": false
     },
     "06d2a692c023": {
@@ -75,37 +56,65 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico fase II, estratificado por biomarcador (biomarker-stratified), con cohortes según expresión alta y baja de HER2 (receptor 2 del factor de crecimiento epidérmico humano); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de glándula salival avanzado, estratificados según expresión de HER2.\nIntervención: Trastuzumab rezetecan (anticuerpo conjugado a fármaco anti-HER2); no se especifica comparador en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; se trata además de una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud del beneficio por cohorte ni el perfil de toxicidad; al ser un erratum, los datos corregidos podrían modificar cifras ya publicadas.\nMensaje: Si se confirma el beneficio, trastuzumab rezetecan podría sumar una opción dirigida para el carcinoma de glándula salival avanzado, especialmente en el subgrupo con expresión alta de HER2.\nNota: análisis sin acceso al abstract."
     },
-    "7f9267e85ac1": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un estudio sobre profilaxis de la enfermedad de injerto contra huésped (EICH) basada en ciclofosfamida postrasplante, en trasplante de células madre de sangre periférica de donante no emparentado e incompatible. Relevante para el manejo de trasplantes en hematología oncológica.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio sobre profilaxis de la enfermedad de injerto contra huésped (EICH); el título no precisa si fue aleatorizado, el cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes sometidos a trasplante de células madre de sangre periférica de donante no emparentado y con incompatibilidad HLA (mismatched unrelated donor).\nIntervención: Profilaxis de EICH basada en ciclofosfamida postrasplante; no se especifica comparador en el título.\nResultados: No hay cifras de incidencia de EICH, supervivencia global ni intervalos de confianza disponibles sin el abstract; se trata de una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no puede confirmarse el diseño exacto, el tamaño muestral ni si hubo ajuste por factores de confusión.\nMensaje: Aporta evidencia sobre una estrategia de profilaxis que podría ampliar el uso de donantes no compatibles en trasplante de células madre, relevante para pacientes sin donante HLA-compatible disponible.\nNota: análisis sin acceso al abstract."
+    "c92fb970a0e2": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Burberry."
     },
-    "cb4ffaa7fe88": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la casa McQueen."
+    "d326480405d6": {
+      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Brooks Brothers."
     },
-    "03cc00998c5f": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de la diseñadora Johanna Parv."
+    "545ece353258": {
+      "resumen": "Vogue muestra la colección primavera 2027 ready-to-wear del diseñador Huishan Zhang."
     },
-    "933ed3a845dc": {
-      "resumen": "La Razón repasa cinco tendencias que van a marcar la ropa de entretiempo para vestirse fácil y con estilo."
+    "eba362bac29a": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la diseñadora Bianca Saunders."
     },
-    "b44f79d9f34f": {
-      "resumen": "TN cuenta cuál es la nueva tendencia de diseño de cocina que reemplaza a la clásica cocina en L en 2026."
+    "8eb2115588a2": {
+      "resumen": "La cantante puertorriqueña Villano Antillano lanzó un nuevo álbum en el que asegura no haberse guardado nada."
     },
-    "6a9bc0f76647": {
-      "resumen": "Vogue México propone cinco modelos de zapatos de taco rojo inspirados en Carolina Herrera para septiembre 2026."
+    "a0e7f84cf004": {
+      "resumen": "Editoras de moda de Londres cuentan cuáles son las tendencias de otoño que se impusieron en la ciudad."
     },
-    "053aeb3a38ab": {
-      "resumen": "Vogue México repasa la historia real de Lizzie Borden y quiénes fueron los personajes detrás de la serie \"Monstruo\"."
+    "69ccb68b0ec0": {
+      "resumen": "Perfil de Rosa Vásquez Espinoza, la científica peruana dedicada a la conservación de abejas y el cuidado del planeta."
     },
-    "9f3d85859e4b": {
-      "resumen": "Mujerhoy adelanta qué manicuras van a estar de moda este otoño 2026, según especialistas: colores, formas y efectos."
+    "ec03211fb600": {
+      "resumen": "Una guía sobre qué aceite esencial elegir según el signo zodiacal y el ascendente de cada persona."
     },
-    "99fbd6387a8e": {
-      "resumen": "Vogue México muestra cómo Anne Hathaway combina sandalias de taco bajo, tendencia del otoño 2026, con faldas, vestidos y pantalones de punto."
+    "19b2d9622226": {
+      "resumen": "Victoria Federica muestra una forma de combinar pantalones blancos para lucir en el otoño."
     },
-    "8747e5a93c2b": {
-      "resumen": "Canal26 recorre un pueblo bonaerense de 184 habitantes que preparó un boulevard para recibir a un príncipe y conserva un teatro centenario, ideal para una escapada."
+    "fade49897c08": {
+      "resumen": "Un análisis sobre por qué la Generación Z volvió a adoptar la estética de los años 90 y 2000."
+    },
+    "26f6820f4222": {
+      "resumen": "El cuerpo de baile del Teatro Colón se presentará en el Teatro Tronador, una oportunidad poco habitual para verlo fuera de su sede."
+    },
+    "555c6398c90a": {
+      "resumen": "El cantante español Raphael dará dos shows en el Teatro Gran Rex el 17 y el 19 de octubre."
+    },
+    "a1d0ea9972cd": {
+      "resumen": "La historia de una joven sanjuanina que cumplió su sueño de trabajar en el área de vestuario y sastrería del Teatro Colón."
+    },
+    "89f7bd2a278d": {
+      "resumen": "El recorrido de una joven de San Juan hasta lograr sumarse al Teatro Colón de Buenos Aires."
+    },
+    "1e514b418f33": {
+      "resumen": "Este domingo varios restaurantes de Buenos Aires ofrecerán descuentos especiales en paella."
+    },
+    "a11279a3865a": {
+      "resumen": "Una guía de planes para aprovechar el próximo fin de semana largo en la Provincia de Buenos Aires."
+    },
+    "e787c550dcda": {
+      "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
+    },
+    "e1e59d960fa7": {
+      "resumen": "Por el Día Mundial de la Paella, 31 restaurantes porteños ofrecerán descuentos y promociones este domingo."
+    },
+    "398f2c1ac9eb": {
+      "resumen": "Cuisine es un festival gastronómico que invita a recorrer Buenos Aires a través de propuestas de cocina francesa."
+    },
+    "e3ecd5a8e080": {
+      "resumen": "La agenda cultural de la provincia de Buenos Aires para estos días."
     }
   }
 }
