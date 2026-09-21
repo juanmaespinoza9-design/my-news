@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:07:04Z",
+  "generated_at": "2026-09-21T10:07:49Z",
   "summaries": {
     "75eaa4ac1b8c": {
       "resumen": "OncLive recopila los cinco videos más vistos de la semana sobre oncología, con lo más comentado por especialistas en distintos tumores. Sirve como resumen rápido para no perderse los temas que están dando que hablar en el ambiente oncológico.",
@@ -7,10 +7,6 @@
     },
     "04170c870146": {
       "resumen": "OncLive presenta su selección semanal de artículos más relevantes en oncología, \"The OncFive\", que reúne las noticias y actualizaciones clínicas más consultadas de la semana. Es una forma ágil de estar al tanto de las novedades sin rastrear cada fuente por separado.",
-      "destacado": false
-    },
-    "aa9eadaed8a5": {
-      "resumen": "OncLive arma un quiz semanal para repasar las noticias más comentadas en tumores neuroendocrinos (NET), cáncer de pulmón, mastocitosis y cáncer de páncreas. Un resumen rápido y entretenido para no perderse los desarrollos clave de la semana en oncología.",
       "destacado": false
     },
     "34522a068123": {
@@ -34,55 +30,14 @@
     },
     "2d4438b04609": {
       "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) del ensayo fase II aleatorizado CUPISCO, que comparó terapia guiada molecularmente frente a quimioterapia continuada en cáncer de origen primario desconocido desfavorable. Importa para actualizar la referencia y no citar datos desactualizados del artículo original.",
-      "destacado": false
-    },
-    "518457afc44d": {
-      "resumen": "JAMA Oncology se pregunta si la inmunoterapia específica contra antígenos abre una nueva frontera en el tratamiento del cáncer de cabeza y cuello originado por el virus del papiloma humano (VPH). Vale la pena leerlo porque plantea hacia dónde podría evolucionar el abordaje inmunológico de estos tumores.",
-      "destacado": false
-    },
-    "8dd3218c6a85": {
-      "resumen": "JAMA Oncology publica un estudio sobre las trayectorias de síntomas y el uso de la asistencia médica para morir en adolescentes y adultos jóvenes con cáncer. Interesa porque aporta datos poco frecuentes sobre el final de vida en una población oncológica particularmente vulnerable.",
       "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) publicado en JAMA Oncology sobre trayectorias de síntomas y uso de asistencia médica para morir; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Adolescentes y adultos jóvenes con cáncer, en el contexto de cuidados de fin de vida.\nIntervención: No aplica intervención farmacológica; se trata de un análisis descriptivo/asociativo entre trayectorias de síntomas y la solicitud o uso de asistencia médica para morir.\nResultados: No hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño muestral, el contexto legal/geográfico del estudio ni los factores de confusión considerados.\nMensaje: Podría orientar la identificación temprana de necesidades de cuidados paliativos y de fin de vida en adolescentes y adultos jóvenes con cáncer.\nNota: análisis sin acceso al abstract."
-    },
-    "411649eb69a7": {
-      "resumen": "JAMA Oncology analiza las tendencias en el uso de la resonancia magnética (RM) previa a la biopsia para la detección de cáncer de próstata. Importa porque refleja cómo fue cambiando la práctica diagnóstica en los últimos años y si ese cambio llegó parejo a toda la población.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional de tendencias (probablemente con datos poblacionales o de registros) publicado en JAMA Oncology; el título no precisa el diseño exacto, aleatorización ni tamaño muestral.\nPoblación: Varones sometidos a evaluación diagnóstica por sospecha de cáncer de próstata.\nIntervención: No aplica intervención terapéutica; se analiza la utilización de resonancia magnética (RM) previa a la biopsia prostática a lo largo del tiempo.\nResultados: No hay cifras de tasas de utilización, diferencias por subgrupos ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el período estudiado, la fuente de los datos ni posibles sesgos de acceso a la RM según región o cobertura de salud.\nMensaje: Podría evidenciar brechas de acceso a la resonancia magnética prebiopsia, una herramienta que mejora la precisión diagnóstica y podría reducir biopsias innecesarias.\nNota: análisis sin acceso al abstract."
-    },
-    "4225a7423403": {
-      "resumen": "JAMA Oncology publica la réplica de los autores originales al comentario recibido sobre su estudio de trayectorias de síntomas y asistencia médica para morir en adolescentes y adultos jóvenes con cáncer. Completa el intercambio científico en torno a ese trabajo.",
-      "destacado": false
+      "analisis": "Diseño: Ensayo clínico fase II, aleatorizado (estudio CUPISCO); el título no detalla cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP) de perfil desfavorable.\nIntervención: Terapia guiada molecularmente versus quimioterapia continuada.\nResultados: El título indica que se trata de datos actualizados de eficacia y seguridad, pero no hay cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; además, esta publicación es una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no puede evaluarse la magnitud del beneficio actualizado ni el perfil de seguridad; al tratarse de un erratum, algunos datos previamente publicados podrían haberse corregido.\nMensaje: La terapia guiada molecularmente podría ofrecer una alternativa a la quimioterapia convencional en cáncer de origen primario desconocido desfavorable, un escenario con pronóstico históricamente malo y pocas opciones dirigidas.\nNota: análisis sin acceso al abstract."
     },
     "8174317db695": {
       "resumen": "La diseñadora Emilia Wickstead presentó su colección primavera 2027 de prêt-à-porter."
     },
     "fdb4f422f53c": {
       "resumen": "La firma Roksanda presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "08228cf0d364": {
-      "resumen": "El diseñador Charlie Constantinou presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "26efde432616": {
-      "resumen": "La firma Mulberry presentó su colección primavera 2027 de prêt-à-porter."
-    },
-    "9fef76579b30": {
-      "resumen": "Elle explica por qué las tendencias de moda duran cada vez menos y cómo ese ritmo acelerado agrava la crisis medioambiental."
-    },
-    "f66a3efbdd6f": {
-      "resumen": "Según OkDiario, el look en jeans de Anne Hathaway se perfila como la tendencia en denim que se impondrá por sobre las demás."
-    },
-    "2d2e305d789b": {
-      "resumen": "Vogue México destaca las botas negras que combinó Inés de Ramón con un minivestido para arrancar el otoño 2026."
-    },
-    "db80012614e3": {
-      "resumen": "Elle señala que Sara Carbonero lució los zuecos que se perfilan como tendencia para el otoño 2026."
-    },
-    "402edabd0451": {
-      "resumen": "Chic Magazine repasa los colores y diseños de uñas que serán tendencia este otoño 2026."
-    },
-    "a0dae61a988a": {
-      "resumen": "Vogue México cuenta que Zara trae de vuelta las camisas grunge de los años 90 para este otoño 2026, combinadas con faldas y pantalones."
     },
     "e787c550dcda": {
       "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
@@ -95,9 +50,6 @@
     },
     "1e514b418f33": {
       "resumen": "Este domingo varios restaurantes de Buenos Aires ofrecerán descuentos especiales en paella."
-    },
-    "361c9ad44964": {
-      "resumen": "La vida del papa Francisco llega al teatro musical porteño con el estreno de \"Francisco, el musical del fin del mundo\"."
     },
     "e3ecd5a8e080": {
       "resumen": "La agenda cultural de la provincia de Buenos Aires para estos días."
@@ -113,6 +65,47 @@
     },
     "fb2f8f6d45f3": {
       "resumen": "Eltrece TV recomienda nueve restaurantes porteños donde el arroz, el caldo y el socarrat son los protagonistas de la paella."
+    },
+    "1b9ffcf13cb6": {
+      "resumen": "OncLive es un portal de noticias y educación médica continua en oncología clínica; este enlace remite a su página principal con las últimas novedades y perspectivas de especialistas. Sirve como puerta de entrada a la cobertura general del sitio, sin un tema puntual asociado.",
+      "destacado": false
+    },
+    "06d2a692c023": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un ensayo fase II estratificado por biomarcador sobre trastuzumab rezetecan, un anticuerpo conjugado a fármaco anti-HER2 (receptor 2 del factor de crecimiento epidérmico humano), en carcinoma avanzado de glándula salival. Relevante porque explora una opción dirigida para un tumor raro con pocas alternativas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico fase II, estratificado por biomarcador (biomarker-stratified), con cohortes según expresión alta y baja de HER2 (receptor 2 del factor de crecimiento epidérmico humano); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma de glándula salival avanzado, estratificados según expresión de HER2.\nIntervención: Trastuzumab rezetecan (anticuerpo conjugado a fármaco anti-HER2); no se especifica comparador en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; se trata además de una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud del beneficio por cohorte ni el perfil de toxicidad; al ser un erratum, los datos corregidos podrían modificar cifras ya publicadas.\nMensaje: Si se confirma el beneficio, trastuzumab rezetecan podría sumar una opción dirigida para el carcinoma de glándula salival avanzado, especialmente en el subgrupo con expresión alta de HER2.\nNota: análisis sin acceso al abstract."
+    },
+    "7f9267e85ac1": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) de un estudio sobre profilaxis de la enfermedad de injerto contra huésped (EICH) basada en ciclofosfamida postrasplante, en trasplante de células madre de sangre periférica de donante no emparentado e incompatible. Relevante para el manejo de trasplantes en hematología oncológica.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio sobre profilaxis de la enfermedad de injerto contra huésped (EICH); el título no precisa si fue aleatorizado, el cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes sometidos a trasplante de células madre de sangre periférica de donante no emparentado y con incompatibilidad HLA (mismatched unrelated donor).\nIntervención: Profilaxis de EICH basada en ciclofosfamida postrasplante; no se especifica comparador en el título.\nResultados: No hay cifras de incidencia de EICH, supervivencia global ni intervalos de confianza disponibles sin el abstract; se trata de una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no puede confirmarse el diseño exacto, el tamaño muestral ni si hubo ajuste por factores de confusión.\nMensaje: Aporta evidencia sobre una estrategia de profilaxis que podría ampliar el uso de donantes no compatibles en trasplante de células madre, relevante para pacientes sin donante HLA-compatible disponible.\nNota: análisis sin acceso al abstract."
+    },
+    "cb4ffaa7fe88": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la casa McQueen."
+    },
+    "03cc00998c5f": {
+      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de la diseñadora Johanna Parv."
+    },
+    "933ed3a845dc": {
+      "resumen": "La Razón repasa cinco tendencias que van a marcar la ropa de entretiempo para vestirse fácil y con estilo."
+    },
+    "b44f79d9f34f": {
+      "resumen": "TN cuenta cuál es la nueva tendencia de diseño de cocina que reemplaza a la clásica cocina en L en 2026."
+    },
+    "6a9bc0f76647": {
+      "resumen": "Vogue México propone cinco modelos de zapatos de taco rojo inspirados en Carolina Herrera para septiembre 2026."
+    },
+    "053aeb3a38ab": {
+      "resumen": "Vogue México repasa la historia real de Lizzie Borden y quiénes fueron los personajes detrás de la serie \"Monstruo\"."
+    },
+    "9f3d85859e4b": {
+      "resumen": "Mujerhoy adelanta qué manicuras van a estar de moda este otoño 2026, según especialistas: colores, formas y efectos."
+    },
+    "99fbd6387a8e": {
+      "resumen": "Vogue México muestra cómo Anne Hathaway combina sandalias de taco bajo, tendencia del otoño 2026, con faldas, vestidos y pantalones de punto."
+    },
+    "8747e5a93c2b": {
+      "resumen": "Canal26 recorre un pueblo bonaerense de 184 habitantes que preparó un boulevard para recibir a un príncipe y conserva un teatro centenario, ideal para una escapada."
     }
   }
 }
