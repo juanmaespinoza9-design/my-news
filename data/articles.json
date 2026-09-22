@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-09-22T05:09:59.583906+00:00",
+ "generated_at": "2026-09-22T11:51:30.832324+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Integrating Bispecific Antibodies Into Frontline Therapy for Newly Diagnosed Multiple Myeloma",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHM4QXdub01VQ0E5bXpmSnVXbWYtZkNnMTlJRy1kY1NyTnBHX3JCZ2dkdG5QQ2dHTEtObkxhLW1mZjg3Ny11V2d4MU5hd1BsaDhBUy01MTdlN0h5bzF3WUFsMGhCcmRlWXI1aHhrTHRaS0JIUW5UVjJHVUxLNXJ4N1JPNDBzSEtPdmJPc0s1NVdhM255X0J5bXRmZWFjTEVERnVBNmhubFJFVkRLbTJOUjBad0E1eTRoRG1yd1lMSQ?oc=5",
+     "source": "OncLive",
+     "published": "2026-09-22T09:33:45+00:00",
+     "id": "c9b6fedc76be"
+    },
     {
      "title": "Pancreatic Cancer Experts Map Treatment Sequencing With Liposomal Irinotecan and Beyond",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmtXajNwVVRJM3lGZ2pxYjEzZFY0Y3RJZk5zNkVMUDZwN0phYUZHdHR6S2Y3M1NkbHprblRfeGw3SDFBcEphMWNzTnMzMGdhT3JLbzN1b2dJdURFTFViNlY0dXljUWtFSnhuY3pVRmYtaDlRZW1xbGZ6ZlVWX0dHTUx6LURqNWpTQkV2cHQ5aV9Gc01SRUFJVU9VZTVWd1BqZHBlZFdEcnBROXF1RnVWVkhnT2U2WEE?oc=5",
@@ -19,13 +26,6 @@
      "source": "OncLive",
      "published": "2026-09-21T21:56:24+00:00",
      "id": "5b5dc17be795"
-    },
-    {
-     "title": "FDA Grants Fast Track Designation to LYT-200 in R/R High-Risk MDS",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZm5GV1oweW5GOUVIUVJTSFh0LXZ3ZlkzVTF2SGhFeWpoeVFHRzVDWWZPOWlpWE9RVmdzTTlyRTJ1MUtWcnZmMXU2b3lLUWtBRm5sbFN5SnhZSjdxRVR0WkdIOF8wSGw0a19abmtKWnpDUnZPbHZqMEtnUlRLUXQ0aUlJMTZQaXdxWEFBeXFiM040SVZhUERJRFFB?oc=5",
-     "source": "OncLive",
-     "published": "2026-09-21T18:48:21+00:00",
-     "id": "4daaca1c07e6"
     },
     {
      "title": "Martin Reck, MD, PhD, on Resectable/Borderline Resectable NSCLC: Neoadjuvant Durvalumab Plus Chemotherapy",
@@ -73,28 +73,12 @@
      "id": "2d4438b04609"
     },
     {
-     "title": "Colorectal Cancer Risk among Patients with Serrated Polyps",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42748438/",
-     "source": "NEJM Oncología",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Dekker E et al. · The New England journal of medicine",
-     "id": "b15fc07002dd"
-    },
-    {
-     "title": "Initial Screening for Colorectal Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42748437/",
-     "source": "NEJM Oncología",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Campos A et al. · The New England journal of medicine",
-     "id": "583855a64637"
-    },
-    {
-     "title": "Blinatumomab - A New Standard of Care in Acute Lymphoblastic Leukemia",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42748435/",
-     "source": "NEJM Oncología",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Myers RM et al. · The New England journal of medicine",
-     "id": "11333eb4f736"
+     "title": "Erratum: Biomarker-Stratified Phase II Trial of Trastuzumab Rezetecan in Advanced Salivary Gland Carcinoma Across Cohorts With High and Low Human Epidermal Growth Factor Receptor 2 Expression",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42748389/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-09-16T00:00:00+00:00",
+     "copete": "Chen GL et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "06d2a692c023"
     }
    ]
   },
@@ -107,71 +91,73 @@
      "title": "Lela Rose Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lela-rose",
      "source": "Vogue",
-     "published": "2026-09-22T05:09:19+00:00",
+     "published": "2026-09-22T11:47:10+00:00",
      "id": "f66ce229f0a4"
     },
     {
      "title": "Burberry Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/burberry-prorsum",
      "source": "Vogue",
-     "published": "2026-09-22T05:09:19+00:00",
+     "published": "2026-09-22T11:47:10+00:00",
      "id": "c92fb970a0e2"
     },
     {
-     "title": "Brooks Brothers Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brooks-brothers",
+     "title": "Olvídate de las tendencias: Coco Rocha quiere que te pongas lo que te haga sentir tú misma",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWEhROGp3dnJBMjVzdWZLTFIxMTNlRVVldi1rb1VQVE5uYVFwWGhMcVpOQ0FMZ09KSjNhZmR3UkdqaEpfWU45bkc2Z0c3Zjl4Y2FwYmFYTVh3eGlVZlFSOUxjYlNnRzVsVzA0OG45Yk9EUk42RVk2M01CUmsxNS01OGtROFJUc19nQmE2MUFiMkpPX2c?oc=5",
+     "source": "Yahoo en Español Vida y Estilo",
+     "published": "2026-09-22T11:09:22+00:00",
+     "id": "1c8f35c22d24"
+    },
+    {
+     "title": "Las uñas rosa vía láctea son tendencia: el tono que reemplaza a los colores oscuros",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOU9lSExPZVdWS0FLVERjVHluR1ZSOVJnSUpuaF81WlQ2dkRNNE14QnloaVIyMXlWRW1JVWM3OGhPbHF6QW9aR2hDR05UZHI4VjByeEd0TU1BWmFTbjBfZjBrWnJfenFzZS1YUmJaeFB5bUxSaXppNERNWmNKMUptOFczUU9oRWlRTnJBbnVqbm91WUJ4UlNjUnRLZGxNNUFqMk1TeWxBYjJydTREZUd5dG4yR09jM1dLS1p3dnBNZzZyNmZ6SDF6SEw1VEdwYll1R1YyWThPczZFNG_SAeABQVVfeXFMT1JnQWpIX2ZSclZMUlJxOU81SWc2aV84MWdaSlhOOWFWWUYtOGNGaUZ2eFdHMmtQTWNPMFdaUzljSUpOMnY0ek9mZDVMd3NnWGxpR1Q0dnp3X1p3LURtNm45RUh6QnpCNXhjSU9OQUQ4NnljTnEzYVhWRFVVUnRUUmozcjJnLTM0QlRkd3NnN2tBZWdkRDZMYWNVRTdjVGlTb1A2dDRIYmtVZXFqQXMxd0JRdmVtYW5XcUxLSjI2aW9sVUh5N2l0Vmo4VE5FQVFmYlJVQ3A3RlQ3NHlFVmpMTnc?oc=5",
+     "source": "El Litoral",
+     "published": "2026-09-22T11:06:24+00:00",
+     "id": "1cc99836a461"
+    },
+    {
+     "title": "‘It’s Fundamentally Unacceptable’: A Longtime White House Correspondent on Trump’s MS NOW, CNN, and Politico Bans",
+     "link": "https://www.vogue.com/article/longtime-white-house-correspondent-on-trumps-ms-now-cnn-and-politico-bans",
      "source": "Vogue",
-     "published": "2026-09-22T05:09:19+00:00",
-     "id": "d326480405d6"
+     "published": "2026-09-22T11:06:09+00:00",
+     "copete": "“Just because you are not physically on the premises, it doesn’t stop us from doing our jobs,” says Ashley Parker, currently a staff writer at The Atlantic.",
+     "id": "6a39322e7914"
     },
     {
-     "title": "Huishan Zhang Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/huishan-zhang",
+     "title": "Horóscopo de hoy: 22 de septiembre de 2026",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmNJSl9ET1hja080ekltUE9raGsxTGV1MFAzbFVWS2tudTYwT2o0dG9wMkhnSC1xcUNyWEhtTVYwSDdBbmtzZkVZb1V2bWRMLU9Fby12cERFbnpUVnpFWXB3VWp5cXBfZkVQZ1pCeGZJa3VPUVRiaTJIaTQweXZ1SVJMSHE?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-22T11:00:00+00:00",
+     "id": "6333ba595293"
+    },
+    {
+     "title": "The Vogue Business AI Tracker",
+     "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
      "source": "Vogue",
-     "published": "2026-09-22T05:09:19+00:00",
-     "id": "545ece353258"
+     "published": "2026-09-22T10:35:45+00:00",
+     "copete": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+     "id": "8f8dc96a5312"
     },
     {
-     "title": "La Semana de la Moda de Londres revela lo que llevaremos el próximo verano",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUc0UTBVcVc5cTZIeFQxU0hxVXRsSXJfUFBENUQ2OEwxLUdjRDRZWjRPZmJOUHBVaWsxTTVvYS1rRVN2T0t2WUZHSkxnLTJYeWEyc1g2Mzl1LTR3TFVlUmI1X3BlS3UwSFRmcHBpRnBpald3dWhaSElPaXFzcEU4ZjVuMjBFTzUzc3dFeUJCcVB4cG5pUlNLeVZSSmEwQzhlXy1HYmtRem5JWUotN2JJYm5pM0xwMnJ0N1o5ZVlzRzFCc29XZlZkTlhOTDLSAeABQVVfeXFMT2UxWUpvWDhMN2FBUXMxREl6c3RCSm1QN0UwSWpESExOQnJOXzlQTkk3bDBLMFVDTWNoOTAtRlR5cU5PeXRvZm1veXJSMEhYV2hBcVNpcHFKc0Qwc0s3NGRzYUFZTkFWblRfdkpNYWtTRWVtOE9qazgwU0lwcW40cmdTWmVpTzhBUkFjVHlNeFZGSERCTDQ0NDZEWmgxRmZqUlduODFmQURrWDJuVFJKb3M5dGM3ZWVxTHpKbkE4V213ZGhsV3NQU1g4cGZiNW9GdE5IN2UzekxaMTJKa1JTeko?oc=5",
-     "source": "La Razón",
-     "published": "2026-09-22T04:00:39+00:00",
-     "id": "626835649cf0"
+     "title": "María Baraza adelanta cómo serán las novias de 2027: \"El azul es tendencia, se asocia a la buena suerte y es momento de darle más protagonismo\"",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZDNmTWwzUGVmT2luQlpLZ0tNLWJOMkdTRERIWHp3ZDVudUFLMHpxSmJTMjIyNF9NVzlBQW91Z2NybjI1cnRfWW5PaDYyd2tOYVhQV3ZfeDNrZlRvVUs3SkdBWHRKS0ZjNUdjLUxIWEl0SVlRY1RtZVp4QkRSUm81cGs0b2s0bFNMOWlLakZvUEZVdy05Rmg1dGswZ3FOVmc?oc=5",
+     "source": "HOLA",
+     "published": "2026-09-22T10:33:00+00:00",
+     "id": "6480128a89ed"
     },
     {
-     "title": "48 horas en Morelia: Qué ver, dónde comer y qué visitar en Michoacán",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS3JxUmd3bk9oX29PVGNpWURtd09yMnBYNnl0Uk5GZDFfSFVWQ0lRd0dxYkNLdUtTUFotVjZvYkIyXzQ3MXhjX1U2amNqcWtyVnNwb0Vjc19Ka2xkVVNGbHQtOGttekl0eGhweQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-22T02:31:41+00:00",
-     "id": "e30b73e5a47c"
+     "title": "By Belén muestra las últimas tendencias de moda y comunión en Torredonjimeno",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSl9HQXBrRGl2dThOS3JpZXpvT0sxUE01ZzNqZjU0MHZPdHA4RHFadGx5aHl6WkZLaDdkd2VDZG9GYWt2cTlSSDkxcWpfYmdnTm9FQVF2aXhaVTllZEpWeVpLaTNKTkNsRHY2SWRDM0k2Rl94X2ZYam5NV08xb3padHhaMUdDMVFVbUZ3SE9GZ1F6LUgzUm0yRkRyNDJzd2tuTGh6bElwUWVhTU1yTTJuRzRaNkNydDZieEVkX1hTb1l1RktoQWRnLTNPOWN1SjdzYW9xSW5DWVJ2bWlZWk9xZ0o2dzBVZ9IB6wFBVV95cUxOSVpXUlU0eGVwY3RDbHZYV1NtdVFTZ0hWblE3Xzk3N0xBUTFINDRlZ1BwRVVYM2U2VWJZT29FcW5QTUx2a0k1SmV6c3VuNmN2emt2RlhiTURkR25rNTZieEJWYnRqRC00dnVWWWhPcVlRRVRVZDJ4NnZ6UnM5V1VQM2FpTVNFTHVpYl9KS080Z2pVbWJyMklvRjZhTWp5ODZVNXNJaTFKR3huSmR6MkxsZ0FCaGw5d0Z5NHQyTkVYaUlISnNhUWwxVG53bEFGMnFyY3NKOE9la3J5anZIVUJpR09GaUxyUVladUlj?oc=5",
+     "source": "Andalucía Información",
+     "published": "2026-09-22T09:47:32+00:00",
+     "id": "a19661260386"
     },
     {
-     "title": "Mocasines elegantes para llevar a la oficina con pantalones, vestidos y faldas según COS Primavera-Verano 2027",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYWRzUUxEcHZrMFdaUExlcTZUbTlGdlVscURGeHpBTnhWUE1ad0lxa0l1ZVJvajd5RWlZTm5ENzFPVEJBeEJsbjRRbUtTbHNUaEJ3NDVWc0wxMWtQTDFKbUlBeDBIX3Z5R21BaTliam4wamI2bk1YNTVGa3djVzdzZXE3THlyOEhpNWE3RURVdkRianhPQ3ZVMlEteFp0TDJrQk1wX0ZMckkxS19ORnI2VkZkTTVraTY4TkhfN0VsUm56MVZnZGFrbEw5TjhDdw?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-22T02:24:23+00:00",
-     "id": "fa0d01eadcfd"
-    },
-    {
-     "title": "Las botas negras inspiradas en Coco Chanel que las más elegantes llevaran con jeans este otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2xmcGhoUU5xNGpOQVFWVFpxbDN3VzU3OFBzRUItSXNORWFzdEF4dFh4eGlsc0hmMEpVZFU1aDJPRUQxN2ZUdXdleW1zMURYRmF1dUJEOF9wY2JVUURvVnhQNm85c0ZDMVpVaU5SSnNPT3N6dzNiR3g0WmhzcjMxbmozVUhrVnFJbVh0RlA5RzZKVWZsa1l1V24xWlNhTERhMWwwcWFKYi1aQQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-22T02:04:40+00:00",
-     "id": "ed84864c3876"
-    },
-    {
-     "title": "Kim Kardashian impactó en la Semana de la Moda de Londres: transparencias y detalles de cuero",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkowNUo5WW9LNnB6RThSQU84dVgtWE1ZRFNFLUtoTVMxcDJuLW5TZzZwY1BOVEFkYVBhNlNfallfVG9lb1NFcmp0NWZDOG1VQ3J1SG80amh6azJtUzlqOUt6NTByQ3JZeFc1NG1iVDFhNG8ydHFiZ1A4c3pmOFRhU3JkQ2NXczdnNmFuaHhEZEFNSmF0bGpiWWtQdFRTMDIzdzJmMml0QnhsMEgtai1Na0JIeEpMSXlVR0kwbkE0YjMwMU9JcUthMGlVbUdmOEhZTmV3NFZB0gHwAUFVX3lxTE1qTlIzRHkzLUMyVGVYWjE3STRqR1J4cjZRWnlBYmN0SXB4WHZlNmlOVjNHVkw1THF5Rk5vajdVNXhiN08zT1dNeUM0bU9mN0xLU2FOcTJfOXlfaVZqOGRSQV82YmRVdkxFaTE2ZjZWSzdhLWRnWHVNQ2twQ3pJU09XcEZ4VEViR1VDRmVic1p0eVR3ZGZGZVh5d3ZFalZ1blc1czBrbTZMbERKblNNTHRBQ29BWWNPSUZ4VUdkcndhUkZDcUlnalZVSTdVQzEtNHNvSXkzZDJQVjBHZGJ5VXpSYzBoZEZ5RGlqdUc5azdQcQ?oc=5",
-     "source": "Infobae",
-     "published": "2026-09-22T00:42:00+00:00",
-     "id": "5bd102e63a5b"
-    },
-    {
-     "title": "El bordó pasó de moda: el diseño de uñas que será tendencia esta temporada de verano 2027",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGkwUjdiWjJiN2YtUTBybUVVSkNYMDNqWlRtZ290cVZvaFkzTEVaRHFvMHF1eUhScGh3b1lQTDhBaU52dG1DajVFUEJNbjhERV9tR2RYQWNEZG50VExSVE4wZHFtOWw5cGJIY1N4OC1obkZYZjl6N2hpYWl1SjhWWFh5UmtpVS1KSUlWNVRRQzVFclpDeEppQnFFODVfNHNSX2pXcGlXUldHd1F5Q2szN1FSNVRUa0lILW1oLS0yWTlXd0U4dHfSAdoBQVVfeXFMUGQyQ3poUFoxQVpieW45LW1qRzl6UnR0ZTBDWGZVR1ZLVUhNbzcxczNZMXg1LWxYWnVjZ2xMTU9GcWhIUzdJZUhyZFBlYkJISGo1dFdXZHhBYnJOXzh5SDAtM2R6NmJYalkyRklYQzIta1dpdzhuSG5TZXNkVXhYbDNRUjlPQmxCRmpxR0pMcmwzNHVVOXdqakt0VWhGODRaSmRxT2ZxNG5taWhuODNiNGcxNmM4RXRKMmlqODNKcFdIRzBzYTlfbmFrbGlCMjVYUmNKbTQ5VnpaMUE?oc=5",
-     "source": "TN",
-     "published": "2026-09-22T00:05:00+00:00",
-     "id": "e6a02b54d002"
+     "title": "Todo fluye, el mármol permanece",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40Sy0zekxyeElhc3ptWDYyV0NXdjRnZkhxT1VxSG5SV04wbFhXU2k0RngxbjBEcGczRUd3el80OC10dG82R2dxRjJ1Yk1KdV9pa2g2dzZWcm9WdTJUMUJnVGk5SkczbnRlRF83MGRxUmR0NWYxXzQ0YkhyeTU?oc=5",
+     "source": "Vogue España",
+     "published": "2026-09-22T09:27:09+00:00",
+     "id": "0b313813b168"
     }
    ]
   },
@@ -180,6 +166,78 @@
    "title": "Chimentos",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Débora Bello habló por primera vez de su separación de Diego Torres y fue contundente: “Muy traumática”",
+     "link": "https://www.lanacion.com.ar/espectaculos/debora-bello-hablo-por-primera-vez-de-su-separacion-de-diego-torres-y-fue-contundente-muy-traumatica-nid22092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-22T11:32:34+00:00",
+     "copete": "A casi cinco años de la ruptura, la modelo reflexionó sobre cómo atravesó el final de su relación con el músico y cómo empezó de cero junto a su hija Nina",
+     "id": "e7ba7ebd332d"
+    },
+    {
+     "title": "Diego Torres tuvo que frenar su show por un problema técnico y su reacción se volvió viral: “Son cosas que pasan”",
+     "link": "https://www.infobae.com/teleshow/2026/09/22/diego-torres-tuvo-que-frenar-su-show-por-un-problema-tecnico-y-su-reaccion-se-volvio-viral-son-cosas-que-pasan/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-22T11:01:39+00:00",
+     "copete": "El artista estaba en uno de los tramos íntimos de su concierto cuando advirtió la falla y apeló al humor para salir del paso",
+     "id": "1aa56f960fb3"
+    },
+    {
+     "title": "Presley Gerber: qué determinó la autopsia y la hipótesis de la sobredosis en la muerte del hijo de Cindy Crawford",
+     "link": "https://www.clarin.com/espectaculos/presley-gerber-hipotesis-sobredosis-sigue-investigacion-muerte-hijo-cindy-crawford_0_DxKaMdaoUD.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-22T10:49:00+00:00",
+     "copete": "El joven de 27 años fue hallado muerto en un centro de rehabilitación, tras un llamado al 911 por un presunto abuso de drogas. Las autoridades pidieron una serie de pericias y se posterga la definición de la causa de su muerte.",
+     "id": "a76631fa8f7d"
+    },
+    {
+     "title": "Fue la niña de Buena suerte, Charlie y se convirtió en un icónico meme: ahora cumplió 18 años y luce irreconocible",
+     "link": "https://www.lanacion.com.ar/espectaculos/fue-la-nina-de-buena-suerte-charlie-y-se-convirtio-en-un-iconico-meme-ahora-cumplio-18-anos-y-luce-nid19092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-22T10:19:31+00:00",
+     "copete": "Mia Talerico tenía apenas nueve meses cuando comenzó a interpretar a Charlie Duncan en la recordada serie de Disney; a 16 años de su debut en televisión, celebró su mayoría de edad y sorprendió a sus seguidores al mostrar cómo luce en la…",
+     "id": "9a26197a0fba"
+    },
+    {
+     "title": "La serie furor de Netflix: desplazó a Moria, es N°1 en Argentina y parece imparable con sus siete capítulos",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-serie-furor-de-netflix-desplazo-a-moria-es-n1-en-argentina-y-parece-imparable-con-sus-siete-nid18092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-22T10:19:20+00:00",
+     "copete": "Una ficción internacional se metió de lleno en el catálogo del gigante del streaming y logró arrebatarle el liderazgo a la exitosa biopic de “La One”; de qué trata",
+     "id": "5889e1fe27fa"
+    },
+    {
+     "title": "Leonardo DiCaprio, actor, tras pagar casi US$2 millones por una isla: “El objetivo principal es hacer algo que cambie el mundo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/leonardo-dicaprio-actor-tras-pagar-casi-us2-millones-por-una-isla-el-objetivo-principal-es-hacer-nid21092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-22T10:17:30+00:00",
+     "copete": "Adquirió Blackadore Caye en Belice con la meta de restaurar su ecosistema mediante un complejo autosustentable; la iniciativa enfrenta desafíos y críticas de diversos sectores",
+     "id": "317d5313af48"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 22 de septiembre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-22-de-septiembre-de-2026-en-argentina_0_PTuWGgAntM.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-22T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "88cd95e0d2ec"
+    },
+    {
+     "title": "Se cumplen 100 años del nacimiento del genial saxofonista John Coltrane, otro gran hijo del viento",
+     "link": "https://www.clarin.com/espectaculos/cumplen-100-anos-nacimiento-genial-saxofonista-john-coltrane-gran-hijo-viento_0_IgcZhmrbfD.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-22T09:01:13+00:00",
+     "copete": "Había nacido el 23 de septiembre de 1926 en Carolina del Norte, aunque su carrera la desarolló en Filadelfia. Tocó con todos los grandes de su época, de Miles Davis a Thelonious Monk. Luchó contra su adicción a las drogas y al alcohol y…",
+     "id": "fbf4fa4bf8e0"
+    },
+    {
+     "title": "La carta que Sydney Sweeney le escribió a Charles Manson para quedarse con un papel en la última película de Tarantino",
+     "link": "https://www.clarin.com/espectaculos/carta-sydney-sweeney-escribio-charles-manson-quedarse-papel-ultima-pelicula-tarantino_0_BmHRmuxmWB.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-09-22T09:01:11+00:00",
+     "copete": "La actriz de \"Euphoria\" lo hizo para quedar tras la audición para \"Había una vez... en Hollywood\". En ella interpreta a una de las chicas del Clan Manson.",
+     "id": "b56698234cf1"
+    },
     {
      "title": "La fuerte advertencia que Nicole Neumann recibió de su hermana antes de comenzar su relación con Manu Urcera",
      "link": "https://www.infobae.com/teleshow/2026/09/22/la-fuerte-advertencia-que-nicole-neumann-recibio-de-su-hermana-antes-de-comenzar-su-relacion-con-manu-urcera/",
@@ -203,78 +261,6 @@
      "published": "2026-09-22T02:56:13+00:00",
      "copete": "El conductor explicó que recurrió a la Policía tras el gesto frente al canal de streaming Olga y reclamó una intervención judicial y sanitaria, sin alentar agresiones en redes contra el señalado por el caso",
      "id": "3f1443db1587"
-    },
-    {
-     "title": "Gladys La Bomba Tucumana se reunió con el gobernador de su provincia: “Me gusta la justicia social”",
-     "link": "https://www.infobae.com/teleshow/2026/09/22/gladys-la-bomba-tucumana-se-reunio-con-el-gobernador-de-su-provincia-me-gusta-la-justicia-social/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-22T02:37:38+00:00",
-     "copete": "La cantante se reunió con Osvaldo Jaldo, luego de contar sus intenciones de darle un vuelco a su carrera artística para abocarse a la política. “Admiro muchísimo la doctrina de Evita Duarte y a Juan Domingo Perón”, aseguró",
-     "id": "63b316c37aa8"
-    },
-    {
-     "title": "Debutó Gran Hermano Uruguay, la primera edición del reality que se filma en Argentina: todos los participantes",
-     "link": "https://www.infobae.com/teleshow/2026/09/22/debuto-gran-hermano-uruguay-la-primera-edicion-del-reality-que-se-filma-en-argentina-todos-los-participantes/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-22T01:47:49+00:00",
-     "copete": "El programa conducido por Eduardo “Colo” Gianarelli promedió más de 25 puntos de rating en la primera adaptación que tiene el formato en el país vecino",
-     "id": "0e04b3ed369c"
-    },
-    {
-     "title": "El calvario que atravesó Juan Otero, el hijo de Florencia Peña, a los 14 años: “Mamá, me están amenazando”",
-     "link": "https://www.infobae.com/teleshow/2026/09/22/el-calvario-que-atraveso-juan-otero-el-hijo-de-florencia-pena-a-los-14-anos-mama-me-estan-amenazando/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-22T01:13:51+00:00",
-     "copete": "Pepe Ochoa reveló en LAM el caso que involucró al hijo de la actriz, quien fue víctima de extorsión. Robos, vulneración y una condena judicial",
-     "id": "988a41a46368"
-    },
-    {
-     "title": "FIBA: más de 50.000 personas disfrutaron del festival",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/fiba-mas-de-50000-personas-disfrutaron-del-festival-nid21092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-22T00:00:48+00:00",
-     "copete": "Entre los títulos internacionales, el montaje de Bob Wilson como las propuestas coreográficas de la brasileña Lisa Rodriguez y del coreógrafo francés Rachid Ouramdame acapararon los aplausos",
-     "id": "025f43ac1bb0"
-    },
-    {
-     "title": "Patricia Dal se metió en la polémica en torno a Jorge Porcel: “Era una persona muy complicada”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/patricia-dal-se-metio-en-la-polemica-en-torno-a-jorge-porcel-era-una-persona-muy-complicada-nid21092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-21T22:06:51+00:00",
-     "copete": "La actriz y exvedette fue una de las que más trabajó junto al capocómico y recordó algunas situaciones incómodas que vivió a su lado",
-     "id": "5b6bacb9e724"
-    },
-    {
-     "title": "Leonardo DiCaprio, actor, tras pagar casi US$2 millones por una isla: “El objetivo principal es hacer algo que cambie el mundo”",
-     "link": "https://www.lanacion.com.ar/espectaculos/leonardo-dicaprio-actor-tras-pagar-casi-us2-millones-por-una-isla-el-objetivo-principal-es-hacer-nid21092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-21T21:30:08+00:00",
-     "copete": "Adquirió Blackadore Caye en Belice con la meta de restaurar su ecosistema mediante un complejo autosustentable; la iniciativa enfrenta desafíos y críticas de diversos sectores",
-     "id": "317d5313af48"
-    },
-    {
-     "title": "Qué se sabe de la salud de Mirtha Legrand tras su nueva internación",
-     "link": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-de-la-salud-de-mirtha-legrand-tras-su-nueva-internacion-nid21092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-21T20:56:03+00:00",
-     "copete": "La conductora de 99 años, ingresó al sanatorio Mater Dei el viernes por la tarde, por un cuadro compatible con neumopatía; deberá quedar bajo cuidados médicos; el nuevo parte médico",
-     "id": "04c89d53be50"
-    },
-    {
-     "title": "Qué es de la vida de Aaron Paul, el actor de Breaking Bad que vuelve al cine junto a Russell Crowe",
-     "link": "https://www.clarin.com/espectaculos/vida-aaron-paul-actor-breaking-bad-vuelve-cine-junto-russell-crowe_0_B6nCywrAKB.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-09-21T17:12:45+00:00",
-     "copete": "A 13 años del final de la serie que lo llevó a la fama mundial, el hombre que interpretó a Jesse Pinkman protagoniza un nuevo thriller que llega este jueves a los cines argentinos. Cómo siguió su carrera y qué pasó con su vida personal.",
-     "id": "2856584c417d"
-    },
-    {
-     "title": "Lo que viene: la serie \"Mis muertos tristes\", por Netflix, encabeza los estrenos de la semana en el streaming",
-     "link": "https://www.clarin.com/espectaculos/viene-serie-muertos-tristes-netflix-encabeza-estrenos-semana-streaming_0_lhQMixAoIZ.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-09-21T16:26:30+00:00",
-     "copete": "La ficción con Mercedes Morán y Dolores Fonzi -que ahora están en el Festival de San Sebastián- llega el jueves a la plataforma y está basada en cuatro cuentos de la escritora Mariana Enriquez. Y todo lo que se suma a las diferentes…",
-     "id": "7fb7940d0a65"
     }
    ]
   },
@@ -286,7 +272,7 @@
     {
      "title": "Día Mundial de la Paella: las promociones continúan hasta el miércoles en restaurantes porteños",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWmlRUEtrajIxY3VLTzNmbEhoN2VELVJmMVQyMldMQ2VFVzdSUnlQZjhNZ05ieEhIaE9tVzhXY0t2OTZWZUJZOVh1NmRSZWpjNkJTQXdyOG9EX1dmZEtyUVZyWnJvWWR1aWduVl9oa1BSM3hoMUs5MTFFckJ4bXVGR3lrMTJsbkZlQVBGR2w1ckw3RWRoWnZraFV0QjM3YnFpUEVwT2ZhUHNaREVBTDhOcnY0aWpMUkZTYWJxLTROMG5MR3c?oc=5",
-     "source": "puraciudad.com.ar",
+     "source": "Pura Ciudad",
      "published": "2026-09-22T00:25:52+00:00",
      "id": "c67dd257129c"
     },
@@ -300,14 +286,14 @@
     {
      "title": "RAPHAEL EN ARGENTINA: El cantante español se presenta el 17 Y 19 de octubre en el Teatro Gran Rex",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2FCZnFYMDBxcWttMDNsWGFpUExURzV4ak92OERZOXpuOWMzaW1SMC1idXJ2MGw3eUotMXRDMHppLXB2RGVSYVRJbXNSTnVYeGtZNWdfLW1xa1p3V2tneHRBZG9rdW1CQnRFeHpQZlB3ajlkYkpQTnA4VjFOYjZrZ1lfdFpvaG5PeUZCTmRpc2tuSGVOdnFzUUZtQ01acjZjajZvem1zM0lHcTR5d2Q5Z2ZHZ2ZXWU9OdVBaU0M1eDVKejI3dEYyNnRDbVl4VHM?oc=5",
-     "source": "radiobuenosaires.com.ar",
+     "source": "AM 1350 Radio Buenos Aires",
      "published": "2026-09-21T16:47:42+00:00",
      "id": "555c6398c90a"
     },
     {
      "title": "Restaurantes de Buenos Aires con premios y reconocimientos",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelBsbUxJVWRmU1p3a3l3UXR2alhUblpSbnFtOGZKWkp4WkFRNDAyb0RLeDRmNHltdGpleFVhWDRxTXVRYXllOUdGM3VDbkhhMEtjQXhpZWVfUWRrc0tMV3VwT1ZvSFpRbmhNRTlwcFJkWXVFN2Y1NEdlWGNZblhfc3pyYWMyUU9RVEhmY3o1VU1WVGlaTmw2ck96Z9IBmwFBVV95cUxPelBsbUxJVWRmU1p3a3l3UXR2alhUblpSbnFtOGZKWkp4WkFRNDAyb0RLeDRmNHltdGpleFVhWDRxTXVRYXllOUdGM3VDbkhhMEtjQXhpZWVfUWRrc0tMV3VwT1ZvSFpRbmhNRTlwcFJkWXVFN2Y1NEdlWGNZblhfc3pyYWMyUU9RVEhmY3o1VU1WVGlaTmw2ck96Zw?oc=5",
-     "source": "Ambito",
+     "source": "ambito",
      "published": "2026-09-21T16:44:21+00:00",
      "id": "075e6ef2c33a"
     },
@@ -361,84 +347,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Una enfermedad crónica causa ataques repentinos de sueño: la mitad de los pacientes no sabe que la tiene",
-     "link": "https://www.infobae.com/salud/2026/09/22/la-enfermedad-cronica-que-causa-ataques-de-sueno-repentinos-cual-es-y-como-impacta-en-la-vida-diaria/",
+     "title": "Juicio de los Cuadernos: tras los videos del allanamiento a CFK, siguen declarando los testigos",
+     "link": "https://www.infobae.com/judiciales/2026/09/22/juicio-de-los-cuadernos-tras-los-videos-del-allanamiento-a-cfk-siguen-declarando-los-testigos/",
      "source": "Infobae",
-     "published": "2026-09-22T05:00:00+00:00",
-     "copete": "El trastorno se manifiesta con somnolencia diurna extrema, pérdida súbita del control muscular ante emociones intensas y episodios de adormecimiento inoportunos, factores que perjudican el rendimiento laboral, alteran las relaciones…",
-     "id": "0cced450d94f"
+     "published": "2026-09-22T11:48:50+00:00",
+     "copete": "El Tribunal convocó a una nueva tanda de involucrados en los procedimientos que se hicieron durante la investigación",
+     "id": "a039b3872aab"
     },
     {
-     "title": "Alergia al polen en primavera: cómo reconocer los síntomas y cuándo consultar",
-     "link": "https://www.infobae.com/salud/ciencia/2026/09/22/alergia-al-polen-en-primavera-como-reconocer-los-sintomas-y-cuando-consultar/",
+     "title": "Calidad del aire en Las Encinas Temuco este 22 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/22/calidad-del-aire-en-las-encinas-temuco-este-22-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-22T05:00:00+00:00",
-     "copete": "Uno de cada cinco argentinos presenta rinitis alérgica, pero una mayoría de quienes padecen molestias recurrentes todavía no cuenta con un diagnóstico profesional",
-     "id": "fc8fff319a39"
+     "published": "2026-09-22T11:48:33+00:00",
+     "copete": "Estas son las restricciones aplicables para el actual estado de la calidad del aire",
+     "id": "5ca81793357f"
     },
     {
-     "title": "Claves para cuidar a un familiar con Alzheimer: cómo organizar el entorno y prever situaciones de emergencia",
-     "link": "https://www.infobae.com/salud/ciencia/2026/09/22/claves-para-cuidar-a-un-familiar-con-alzheimer-como-organizar-el-entorno-y-prever-situaciones-de-emergencia/",
+     "title": "La Florida: calidad del aire este 22 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/22/la-florida-calidad-del-aire-este-22-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-22T05:00:00+00:00",
-     "copete": "La evolución de la enfermedad suele alterar de manera paulatina la convivencia doméstica y sobrecargar la rutina de los allegados. Expertos recomiendan adaptar la vivienda y acordar decisiones de manera anticipada para evitar resoluciones…",
-     "id": "9208e490efb6"
+     "published": "2026-09-22T11:48:17+00:00",
+     "copete": "El país tiene 8 de las 10 ciudades sudamericanas con la peor calidad del aire, según IQ Air",
+     "id": "182f14edbe00"
     },
     {
-     "title": "Por qué controlar cinco factores de salud a los 40 años permite vivir más tiempo y con mayor autonomía: qué reveló un estudio",
-     "link": "https://www.infobae.com/salud/ciencia/2026/09/22/por-que-controlar-cinco-factores-de-salud-a-los-40-anos-permite-vivir-mas-tiempo-y-con-mayor-autonomia-que-revelo-un-estudio/",
+     "title": "Los Andes: calidad del aire este 22 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/22/los-andes-calidad-del-aire-este-22-de-septiembre-de-2026/",
      "source": "Infobae",
-     "published": "2026-09-22T05:00:00+00:00",
-     "copete": "Una investigación realizada en Finlandia siguió a casi 2.700 hombres. El trabajo, publicado en la European Journal of Preventive Cardiology, comprobó que llegar a esa etapa intermedia con parámetros óptimos multiplica por seis las…",
-     "id": "7fdd94eaf332"
+     "published": "2026-09-22T11:48:00+00:00",
+     "copete": "El Sistema de Información Nacional de Calidad del Aire (Sinca) toma en cuenta cinco etapas: bueno, regular, alerta, pre-emergencia y emergencia",
+     "id": "6a94d5ed1c49"
     },
     {
-     "title": "Icardi le respondió al Ministerio de Transporte bonaerense tras la inhabilitación de su licencia para conducir",
-     "link": "https://www.lanacion.com.ar/sociedad/icardi-le-respondio-al-ministerio-de-transporte-bonaerense-tras-la-inhabilitacion-de-su-licencia-nid22092026/",
+     "title": "Vuelve una delegación del FMI al país; Messi mostró la camiseta que usará en su último partido con la Selección",
+     "link": "https://www.lanacion.com.ar/sociedad/vuelve-una-delegacion-del-fmi-al-pais-messi-mostro-la-camiseta-que-usara-en-su-ultimo-partido-con-la-nid22092026/",
      "source": "La Nación",
-     "published": "2026-09-22T04:18:24+00:00",
-     "copete": "El futbolista cuestionó el anuncio y aseguró que tiene una licencia italiana vigente hasta 2029; la cartera que dirige Martín Marinucci había afirmado que tenía el registro vencido",
-     "id": "98310f61fb75"
+     "published": "2026-09-22T11:44:47+00:00",
+     "id": "8037d4f91479"
     },
     {
-     "title": "El presidente surcoreano aboga por congelar el programa nuclear de Corea del Norte",
-     "link": "https://www.clarin.com/estados-unidos/el-presidente-surcoreano-aboga-por-congelar-el-programa-nuclear-de-corea-del-norte_0_dcLyNSRlKN.html",
-     "source": "Clarín",
-     "published": "2026-09-22T03:50:14+00:00",
-     "copete": "El líder surcoreano sugiere frenar el programa nuclear norcoreano a cambio de alivios en sanciones, en lugar de buscar su eliminación inmediata. Lee Jae Myung busca diálogo sin condiciones con Pyongyang, que aún no responde, mientras…",
-     "id": "5e9b40cfd87c"
-    },
-    {
-     "title": "Lo último sobre las clasificaciones a playoffs de MLB, actualizaciones de salud de Ohtani y Judge",
-     "link": "https://www.clarin.com/estados-unidos/lo-ultimo-sobre-las-clasificaciones-a-playoffs-de-mlb-actualizaciones-de-salud-de-ohtani-y-judge_0_ZByj3IednV.html",
-     "source": "Clarín",
-     "published": "2026-09-22T03:50:07+00:00",
-     "copete": "Los Dodgers buscan su tercer título seguido en la MLB, enfrentando a equipos fuertes como los Cerveceros y Rays. La salud de Ohtani es clave. La postemporada se perfila con 12 equipos casi definidos. Yankees, Medias Rojas y Bravos ya…",
-     "id": "88b6d6ed21f2"
-    },
-    {
-     "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este martes 22 septiembre de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-martes-22-septiembre-2026_0_g8CkGQmtDb.html",
-     "source": "Clarín",
-     "published": "2026-09-22T03:45:41+00:00",
-     "copete": "El SMN anticipa para este martes temperaturas entre 5°C y 12°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "4fc0e6bbb4c2"
-    },
-    {
-     "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 22 septiembre de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-22-septiembre-2026_0_Ze0kGBMRuL.html",
-     "source": "Clarín",
-     "published": "2026-09-22T03:45:18+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "4aa9525e0497"
-    },
-    {
-     "title": "Vendieron su casa, cambiaron de vida y encontraron en las sierras algo que no sabían que buscaban",
-     "link": "https://www.lanacion.com.ar/revista-lugares/vendieron-su-casa-cambiaron-de-vida-y-encontraron-en-las-sierras-algo-que-no-sabian-que-buscaban-nid20092026/",
+     "title": "Discapacidad: la advertencia por una ola de juicios forzó un cambio de estrategia en el oficialismo",
+     "link": "https://www.lanacion.com.ar/politica/discapacidad-la-advertencia-por-una-ola-de-juicios-forzo-un-cambio-de-estrategia-en-el-oficialismo-nid22092026/",
      "source": "La Nación",
-     "published": "2026-09-22T03:30:00+00:00",
-     "copete": "Tenían una vida cómoda en La Plata, pero un viaje a Traslasierra les hizo imaginar otra y fue el origen de su refugio entre las sierras, donde reciben huéspedes",
-     "id": "bb40312be98d"
+     "published": "2026-09-22T11:39:34+00:00",
+     "copete": "Los libertarios admiten que avanzar con un recorte de las prestaciones podía multiplicar las demandas contra el Estado y convertir el ahorro fiscal en un costo judicial; ahora buscan con sus aliados una ley permanente que preserve el piso…",
+     "id": "b0e9f048fe7d"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: “La progresía quiere mostrar esta política como modelo a seguir”, dijo sobre Brasil",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-a-la-causa-malvinas-y-sostuvo-que-no-nid22092026/",
+     "source": "La Nación",
+     "published": "2026-09-22T11:39:17+00:00",
+     "copete": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "f1c425b33789"
+    },
+    {
+     "title": "Débora Bello habló por primera vez de su separación de Diego Torres y fue contundente: “Muy traumática”",
+     "link": "https://www.lanacion.com.ar/espectaculos/debora-bello-hablo-por-primera-vez-de-su-separacion-de-diego-torres-y-fue-contundente-muy-traumatica-nid22092026/",
+     "source": "La Nación",
+     "published": "2026-09-22T11:32:34+00:00",
+     "copete": "A casi cinco años de la ruptura, la modelo reflexionó sobre cómo atravesó el final de su relación con el músico y cómo empezó de cero junto a su hija Nina",
+     "id": "e7ba7ebd332d"
+    },
+    {
+     "title": "Organizaron el primer combate entre un humano y un robot Terminator",
+     "link": "https://www.clarin.com/internacional/organizaron-primer-combate-humano-robot-terminator_0_KI0vUAVNNH.html",
+     "source": "Clarín",
+     "published": "2026-09-22T11:02:50+00:00",
+     "copete": "El combate se desarrolló en San Francisco, Estados Unidos. Hubo un amplio ganador.",
+     "id": "c1ccce866f95"
+    },
+    {
+     "title": "Artesanas de Chiapas registran 208 diseños ancestrales para evitar que las grandes marcas los copien",
+     "link": "https://www.clarin.com/cultura/artesanas-chiapas-registran-208-disenos-ancestrales-evitar-grandes-marcas-copien_0_W8eUshOYYK.html",
+     "source": "Clarín",
+     "published": "2026-09-22T11:01:13+00:00",
+     "copete": "Mujeres indígenas tsotsiles de San Andrés Larrainzar, Chiapas, documentaron 208 símbolos textiles transmitidos generacionalmente. El catálogo busca preservar sus significados y, al mismo tiempo, aportar herramientas frente al plagio y la…",
+     "id": "da866e26aa5a"
     }
    ]
   },
@@ -448,6 +433,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Irán se muestra dispuesto a reabrir Ormuz si Trump afloja la presión militar y levanta su bloqueo",
+     "link": "https://elpais.com/internacional/2026-09-22/iran-se-muestra-dispuesto-a-reabrir-ormuz-si-trump-afloja-la-presion-militar-y-levanta-su-bloqueo.html",
+     "source": "El País Internacional",
+     "published": "2026-09-22T11:31:55+00:00",
+     "copete": "El anuncio de la delegación de Teherán a la Asamblea de la ONU presiona a la baja el precio del petróleo, que cae por debajo de los 100 dólares",
+     "id": "59d751945da3"
+    },
+    {
+     "title": "\"Es un hada madrina\": la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
+     "link": "https://www.bbc.com/mundo/articles/cm5y798z1lv1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-22T11:29:19+00:00",
+     "copete": "Casey Revkin empezó a ayudar a menores afectados por las políticas migratorias durante el primer gobierno de Trump. Hoy deposita dinero en las cuentas de las familias detenidas en Dilley.",
+     "id": "561a5ec7e42d"
+    },
+    {
+     "title": "\"Nuestro director era un abusador\": cómo dos exalumnos de un internado unieron fuerzas para buscar justicia y terminaron casándose",
+     "link": "https://www.bbc.com/mundo/articles/c6y0z1x7z79zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-22T10:24:48+00:00",
+     "copete": "Dos excompañeros de clase indonesios dedicaron años a reunir pruebas contra el director de su escuela antes de enamorarse.",
+     "id": "b712b1217df6"
+    },
+    {
+     "title": "Los voluntarios que arriesgan sus vidas para desactivar las \"bombas de carbono\" de los catastróficos incendios forestales que azotan Indonesia",
+     "link": "https://www.bbc.com/mundo/articles/c36lxky8ky2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-22T09:32:15+00:00",
+     "copete": "Los incendios en las turberas de Borneo están liberando antiguas reservas de carbono y extendiendo una nube tóxica por todo el sudeste asiático.",
+     "id": "3e1987937f10"
+    },
+    {
+     "title": "Lo que estamos escuchando de los votantes latinos: los republicanos tienen las prioridades totalmente equivocadas",
+     "link": "https://elpais.com/us/2026-09-22/lo-que-estamos-escuchando-de-los-votantes-latinos-los-republicanos-tienen-las-prioridades-totalmente-equivocadas.html",
+     "source": "El País Internacional",
+     "published": "2026-09-22T09:30:00+00:00",
+     "copete": "Los demócratas buscan ganarse el apoyo de los latinos en las ‘midterms’, enfocándose en los temas importantes: la economía, el costo de vida y la seguridad para ellos y sus familias",
+     "id": "93a941092fe9"
+    },
+    {
+     "title": "La Fiscalía de Ruanda pide cadena perpetua para la opositora Victoire Ingabire, acusada de conspirar contra el presidente Kagame",
+     "link": "https://elpais.com/internacional/2026-09-22/la-fiscalia-de-ruanda-pide-cadena-perpetua-para-la-opositora-victoire-ingabire-acusada-de-conspirar-contra-el-presidente-kagame.html",
+     "source": "El País Internacional",
+     "published": "2026-09-22T06:48:09+00:00",
+     "copete": "Expertos de la ONU consideran arbitraria su detención y el Parlamento Europeo denunció “graves irregularidades” en el juicio",
+     "id": "8b4d59f9e1ea"
+    },
+    {
      "title": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
      "link": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html",
      "source": "El País Internacional",
@@ -456,60 +489,12 @@
      "id": "3be575d878c2"
     },
     {
-     "title": "La Izquierda rompe la alternancia en Berlín y acaricia la alcaldía con la promesa de abaratar la vivienda",
-     "link": "https://elpais.com/internacional/2026-09-22/la-izquierda-rompe-la-alternancia-en-berlin-y-acaricia-la-alcaldia-con-la-promesa-de-abaratar-la-vivienda.html",
-     "source": "El País Internacional",
-     "published": "2026-09-22T03:30:01+00:00",
-     "copete": "Elif Eralp, de origen turco, necesitará pactar una coalición con Los Verdes y el SPD",
-     "id": "09afddd5e168"
-    },
-    {
-     "title": "Putin militariza el Parlamento ruso",
-     "link": "https://elpais.com/internacional/2026-09-22/putin-militariza-el-parlamento-ruso.html",
-     "source": "El País Internacional",
-     "published": "2026-09-22T03:30:01+00:00",
-     "copete": "La formación del presidente ruso reserva decenas de escaños para veteranos. El Partido Comunista le apoya pese a denunciar el fraude electoral",
-     "id": "8e759c13c703"
-    },
-    {
-     "title": "Laura Chinchilla, expresidenta de Costa Rica: “Felipe González tiene mucha fisga”",
-     "link": "https://elpais.com/internacional/2026-09-22/laura-chinchilla-expresidenta-de-costa-rica-felipe-gonzalez-tiene-mucha-fisga.html",
-     "source": "El País Internacional",
-     "published": "2026-09-22T03:30:01+00:00",
-     "copete": "La política centroamericana lucha por no convertirse en jarrón chino. Hoy lidera el Club de Madrid, que reúne a exjefes de Estado",
-     "id": "4f1360f8eb70"
-    },
-    {
      "title": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
      "link": "https://www.bbc.com/mundo/articles/cr93ex2jyz54o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-09-22T01:54:30+00:00",
      "copete": "La inmigración, el declive económico, las secuelas de la reunificación e incluso el legado del nazismo son algunos de los factores que los expertos señalan para explicar el voto de los alemanes orientales.",
      "id": "cdbafa68ee51"
-    },
-    {
-     "title": "\"Sigo con la bala dentro\": Wilber Garcés, el repartidor venezolano de comida que recibió un disparo de un agente de ICE en Texas",
-     "link": "https://www.bbc.com/mundo/articles/cq986rke4ny6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-21T22:21:52+00:00",
-     "copete": "Su abogada confirmó que se encuentra en un centro de procesamiento mientras es interrogado. El incidente provocó protestas en Austin, Texas.",
-     "id": "ba3ec63e81c7"
-    },
-    {
-     "title": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-     "link": "https://www.bbc.com/mundo/articles/c6wyz27241l2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-21T19:45:54+00:00",
-     "copete": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\".",
-     "id": "ea2955318ee8"
-    },
-    {
-     "title": "Muere Presley Gerber: la lucha contra los problemas de adicción y salud mental del hijo de la modelo Cindy Crawford",
-     "link": "https://www.bbc.com/mundo/articles/crwyz2076608o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-21T19:36:15+00:00",
-     "copete": "El joven, quien murió en un centro de rehabilitación este domingo, hablaba abiertamente del tema en entrevistas y en su perfil en Instagram, en una serie de publicaciones al que llamaba \"lunes de salud mental\".",
-     "id": "98df040e8b1b"
     }
    ]
   }
@@ -523,6 +508,11 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
