@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-09-22T10:16:14Z",
+  "generated_at": "2026-09-22T22:16:26Z",
   "summaries": {
-    "4daaca1c07e6": {
-      "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) le otorgó la designación de Vía Rápida (Fast Track) a LYT-200, un agente en investigación, para el síndrome mielodisplásico (SMD) de alto riesgo recaído o refractario (R/R). Vale la pena seguirlo porque esta designación acelera la revisión regulatoria en un escenario con pocas opciones terapéuticas.",
-      "destacado": false
-    },
-    "c30d93b15ce4": {
-      "resumen": "The ASCO Post cubre cómo las unidades móviles de tomografía computada (TC) de baja dosis podrían ampliar el acceso al tamizaje de cáncer de pulmón en poblaciones desatendidas. Relevante porque la falta de acceso geográfico es una barrera conocida para la detección temprana.",
-      "destacado": false,
-      "analisis": "Diseño: Reporte sobre un programa/iniciativa de tamizaje con tomografía computada (TC) móvil; el título no precisa si se trata de un estudio prospectivo formal, aleatorización, ni número de centros o participantes.\nPoblación: Poblaciones desatendidas o con acceso geográfico limitado a centros de tamizaje de cáncer de pulmón.\nIntervención: Unidades móviles de TC de baja dosis para tamizaje de cáncer de pulmón; no se especifica comparador.\nResultados: No hay cifras de tasa de detección, adherencia ni reducción de mortalidad disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el diseño metodológico, el tamaño de la muestra ni la representatividad de la población estudiada.\nMensaje: Si se sostiene el hallazgo, este tipo de estrategias podría reducir inequidades en el acceso al tamizaje de cáncer de pulmón en comunidades con barreras geográficas o socioeconómicas.\nNota: análisis sin acceso al abstract."
-    },
-    "eb08d090c6d1": {
-      "resumen": "The ASCO Post reporta que ASTRO (Sociedad Americana de Oncología Radioterápica) publicó su primera guía clínica sobre radioterapia para cáncer de vejiga. Relevante porque estandariza recomendaciones en un tumor donde la radioterapia compite y se combina con la cirugía y la quimioterapia.",
-      "destacado": false
-    },
     "a27653823d3b": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
       "destacado": false,
@@ -24,40 +11,44 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico fase II, aleatorizado (estudio CUPISCO); el título no detalla cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP) de perfil desfavorable.\nIntervención: Terapia guiada molecularmente versus quimioterapia continuada.\nResultados: El título indica que se trata de datos actualizados de eficacia y seguridad, pero no hay cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; además, esta publicación es una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no puede evaluarse la magnitud del beneficio actualizado ni el perfil de seguridad; al tratarse de un erratum, algunos datos previamente publicados podrían haberse corregido.\nMensaje: La terapia guiada molecularmente podría ofrecer una alternativa a la quimioterapia convencional en cáncer de origen primario desconocido desfavorable, un escenario con pronóstico históricamente malo y pocas opciones dirigidas.\nNota: análisis sin acceso al abstract."
     },
-    "b15fc07002dd": {
-      "resumen": "The New England Journal of Medicine (NEJM) publica un estudio sobre el riesgo de cáncer colorrectal en pacientes con pólipos serrados, un subtipo de pólipo con una vía de progresión molecular distinta a los adenomas clásicos. Interesa porque podría afectar los intervalos de vigilancia colonoscópica recomendados.",
-      "destacado": true,
-      "analisis": "Diseño: Probable estudio de cohorte (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con antecedente de pólipos serrados detectados en colonoscopia.\nIntervención: No aplica intervención farmacológica; se trata de un análisis de riesgo asociado a un hallazgo endoscópico (pólipos serrados) y su seguimiento.\nResultados: No hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios de este tipo suelen depender de la calidad de la colonoscopia índice y de la clasificación histológica de los pólipos, lo que puede introducir variabilidad entre centros.\nMensaje: Podría aportar evidencia para ajustar los intervalos de vigilancia colonoscópica en pacientes con pólipos serrados, un grupo con riesgo potencialmente subestimado de cáncer colorrectal.\nNota: análisis sin acceso al abstract."
-    },
-    "583855a64637": {
-      "resumen": "NEJM aborda el tamizaje inicial del cáncer colorrectal, un tema central en prevención oncológica dado el peso de esta enfermedad a nivel mundial. Vale la pena revisarlo por su potencial impacto en las recomendaciones de detección temprana.",
+    "df6772d8aa04": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un análisis a nivel de paciente sobre el ancho de margen quirúrgico óptimo en la tumorectomía (lumpectomía) para el carcinoma ductal in situ (CDIS), usando datos de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer) de Estados Unidos. Relevante porque el margen quirúrgico ideal en CDIS es un tema históricamente controvertido que impacta las tasas de recidiva y de reoperación.",
       "destacado": false,
-      "analisis": "Diseño: El título no permite determinar con certeza si se trata de un estudio original, una revisión clínica o una guía práctica; no se especifica aleatorización, cegamiento, centros ni número de pacientes.\nPoblación: Adultos en edad de inicio de tamizaje para cáncer colorrectal.\nIntervención: Estrategias de tamizaje inicial (por ejemplo, colonoscopia, test de sangre oculta en materia fecal u otras modalidades); no se especifica comparador exacto en el título.\nResultados: No hay cifras de sensibilidad, especificidad, reducción de mortalidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede confirmarse si se trata de datos originales o de una síntesis de evidencia previa, lo que limita la solidez de las conclusiones.\nMensaje: Aporta información relevante para orientar la decisión sobre cuándo y cómo iniciar el tamizaje de cáncer colorrectal en la práctica clínica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio observacional retrospectivo, análisis a nivel de paciente dentro de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer); el título no especifica número de pacientes ni de centros.\nPoblación: Pacientes con diagnóstico de carcinoma ductal in situ (CDIS) tratadas con tumorectomía (lumpectomía).\nIntervención: Comparación de distintos anchos de margen quirúrgico obtenidos en la cirugía; no es una intervención farmacológica sino un análisis de la práctica quirúrgica real.\nResultados: No hay cifras de tasa de recidiva local, de reoperación ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser un análisis retrospectivo de una base de datos administrativa, está sujeto a heterogeneidad en la técnica quirúrgica y el reporte patológico entre centros, y no permite establecer causalidad.\nMensaje: Podría aportar evidencia de la práctica real para ajustar las recomendaciones sobre el margen quirúrgico óptimo en la tumorectomía por CDIS, buscando reducir reoperaciones sin aumentar el riesgo de recidiva.\nNota: análisis sin acceso al abstract."
     },
-    "11333eb4f736": {
-      "resumen": "NEJM publica un artículo de perspectiva sobre blinatumomab, un anticuerpo biespecífico que redirige linfocitos T contra el antígeno CD19, como nuevo estándar de tratamiento en la leucemia linfoblástica aguda (LLA). Interesa porque consolida el lugar de la inmunoterapia en una enfermedad hematológica donde la quimioterapia intensiva fue durante décadas la única opción.",
+    "5faec935b8a2": {
+      "resumen": "OncLive entrevista al Dr. Barot sobre el uso de mantenimiento con palbociclib, un inhibidor de las quinasas dependientes de ciclina 4 y 6 (CDK4/6), en cáncer de mama metastásico con receptores hormonales positivos y HER2 positivo (receptor 2 del factor de crecimiento epidérmico humano). Interesa porque explora cómo extender el beneficio de estos fármacos más allá de la primera línea en un subtipo con terapias dirigidas específicas.",
       "destacado": false
     },
-    "c92fb970a0e2": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de Burberry."
+    "62ec601b670c": {
+      "resumen": "OncLive dialoga con el Dr. Kahl sobre los datos del ensayo TRIANGLE, que cuestionan el rol del trasplante autólogo de células madre (TACM) en el tratamiento de primera línea del linfoma de células del manto (LCM) cuando se suma ibrutinib. Relevante porque podría cambiar un pilar histórico del tratamiento en esta enfermedad.",
+      "destacado": false
     },
-    "d326480405d6": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Brooks Brothers."
+    "1acc171da238": {
+      "resumen": "The ASCO Post entrevista a la Dra. Rotow sobre el uso de trastuzumab deruxtecán (T-DXd), un anticuerpo conjugado a droga, como tratamiento de primera línea en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación en HER2. Vale la pena seguirlo porque el subgrupo HER2 mutado es minoritario y históricamente tuvo pocas opciones dirigidas.",
+      "destacado": false
     },
-    "545ece353258": {
-      "resumen": "Vogue muestra la colección primavera 2027 ready-to-wear del diseñador Huishan Zhang."
+    "c448d0a376ef": {
+      "resumen": "The ASCO Post reporta una investigación que muestra que las distintas clases de alteraciones en el gen BRAF en cáncer de pulmón de células no pequeñas (CPCNP) tienen características clínicas, pronóstico y co-mutaciones diferentes. Importa porque no todas las mutaciones de BRAF se comportan igual y esto podría afectar la elección de la terapia dirigida.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de investigación (probablemente cohorte retrospectiva o análisis molecular) que compara distintas clases de alteraciones en el gen BRAF; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) portadores de alteraciones en el gen BRAF, agrupados según la clase molecular de la alteración.\nIntervención: No aplica intervención terapéutica; se trata de una caracterización molecular y clínica que compara clases de alteraciones de BRAF (por ejemplo, clase I V600E frente a clases II y III).\nResultados: No hay cifras de supervivencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño muestral, el ajuste por factores de confusión ni la representatividad de la cohorte.\nMensaje: Si se confirma, respaldaría un enfoque terapéutico diferenciado según la clase de alteración de BRAF, en lugar de tratar a todos los pacientes con BRAF alterado como un grupo homogéneo.\nNota: análisis sin acceso al abstract."
     },
-    "26f6820f4222": {
-      "resumen": "El cuerpo de baile del Teatro Colón se presentará en el Teatro Tronador, una oportunidad poco habitual para verlo fuera de su sede."
+    "8588c22ecda9": {
+      "resumen": "OncLive informa sobre datos preliminares de tegavivint combinado con osimertinib, un inhibidor del receptor del factor de crecimiento epidérmico (EGFR), como tratamiento de primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR. Interesa porque busca prevenir o retrasar la resistencia que suele aparecer con osimertinib en monoterapia.",
+      "destacado": true,
+      "analisis": "Diseño: Datos preliminares, probablemente de un ensayo clínico en fase temprana, que evalúan una combinación de dos fármacos; el título no especifica fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR, en primera línea de tratamiento.\nIntervención: Tegavivint, un agente en investigación, combinado con osimertinib; comparador implícito el estándar de osimertinib en monoterapia.\nResultados: El título menciona \"actividad temprana\" pero no hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al tratarse de datos preliminares, es probable que la muestra sea pequeña y el seguimiento corto, lo que limita las conclusiones sobre eficacia y durabilidad de la respuesta.\nMensaje: Si los datos maduran favorablemente, esta combinación podría representar una estrategia para retrasar la resistencia a osimertinib en primera línea, un problema clínico central en este subgrupo.\nNota: análisis sin acceso al abstract."
+    },
+    "f9367881bba7": {
+      "resumen": "The ASCO Post repasa el informe anual de la Asociación Americana para la Investigación del Cáncer (AACR, por sus siglas en inglés) sobre el progreso en la lucha contra el cáncer. Sirve como panorama general de tendencias en investigación, prevención y tratamiento oncológico a nivel país.",
+      "destacado": false
+    },
+    "06d2a692c023": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) del ensayo fase II estratificado por biomarcador de trastuzumab rezetecán en carcinoma avanzado de glándula salival, que comparó cohortes con expresión alta y baja del receptor 2 del factor de crecimiento epidérmico humano (HER2). Importa para actualizar la referencia y no citar datos desactualizados del artículo original.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico fase II, estratificado por biomarcador (expresión de HER2); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes. La publicación es una corrección (erratum) del artículo original.\nPoblación: Pacientes con carcinoma avanzado de glándula salival, divididos en cohortes según expresión alta o baja del receptor 2 del factor de crecimiento epidérmico humano (HER2).\nIntervención: Trastuzumab rezetecán, un anticuerpo conjugado a droga dirigido a HER2; no se especifica comparador en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; además, al ser un erratum, algunos datos del artículo original podrían haberse corregido.\nLimitaciones: El carcinoma de glándula salival es un tumor raro y heterogéneo, por lo que los estudios suelen incluir pocos pacientes por cohorte, lo que limita la precisión de las estimaciones.\nMensaje: Sugiere que trastuzumab rezetecán podría tener actividad tanto en tumores con expresión alta como baja de HER2, ampliando potencialmente la población candidata a esta terapia dirigida en un tumor raro con opciones limitadas.\nNota: análisis sin acceso al abstract."
     },
     "555c6398c90a": {
       "resumen": "El cantante español Raphael dará dos shows en el Teatro Gran Rex el 17 y el 19 de octubre."
-    },
-    "a1d0ea9972cd": {
-      "resumen": "La historia de una joven sanjuanina que cumplió su sueño de trabajar en el área de vestuario y sastrería del Teatro Colón."
-    },
-    "89f7bd2a278d": {
-      "resumen": "El recorrido de una joven de San Juan hasta lograr sumarse al Teatro Colón de Buenos Aires."
     },
     "a11279a3865a": {
       "resumen": "Una guía de planes para aprovechar el próximo fin de semana largo en la Provincia de Buenos Aires."
@@ -68,44 +59,6 @@
     "e3ecd5a8e080": {
       "resumen": "La agenda cultural de la provincia de Buenos Aires para estos días."
     },
-    "aaf469bf56ce": {
-      "resumen": "OncLive recoge la mirada de un panel de expertos sobre cómo secuenciar los tratamientos en cáncer de páncreas, con foco en el irinotecán liposomal y otras opciones disponibles. Interesa porque el orden de las líneas de tratamiento es clave en un tumor con pronóstico difícil y ventanas terapéuticas acotadas.",
-      "destacado": false
-    },
-    "5b5dc17be795": {
-      "resumen": "OncLive entrevista al Dr. Wainberg sobre el diseño del ensayo DAWN-303, que evalúa INCB161734 combinado con quimioterapia en el adenocarcinoma ductal de páncreas (PDAC). Vale la pena seguirlo porque anticipa una nueva estrategia combinada en investigación para un tumor con opciones terapéuticas limitadas.",
-      "destacado": false
-    },
-    "9a86111a2d69": {
-      "resumen": "The ASCO Post recoge la opinión del Dr. Martin Reck sobre el uso neoadyuvante de durvalumab, un inhibidor de PD-L1 (ligando 1 de muerte celular programada), combinado con quimioterapia en cáncer de pulmón de células no pequeñas (CPCNP) resecable o en el límite de la resecabilidad. Relevante porque el tratamiento neoadyuvante viene ganando terreno para mejorar los resultados quirúrgicos en estadios tempranos.",
-      "destacado": false
-    },
-    "df6772d8aa04": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un análisis a nivel de paciente sobre el ancho de margen quirúrgico óptimo en la tumorectomía (lumpectomía) para el carcinoma ductal in situ (CDIS), usando datos de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer) de Estados Unidos. Relevante porque el margen quirúrgico ideal en CDIS es un tema históricamente controvertido que impacta las tasas de recidiva y de reoperación.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional retrospectivo, análisis a nivel de paciente dentro de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer); el título no especifica número de pacientes ni de centros.\nPoblación: Pacientes con diagnóstico de carcinoma ductal in situ (CDIS) tratadas con tumorectomía (lumpectomía).\nIntervención: Comparación de distintos anchos de margen quirúrgico obtenidos en la cirugía; no es una intervención farmacológica sino un análisis de la práctica quirúrgica real.\nResultados: No hay cifras de tasa de recidiva local, de reoperación ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser un análisis retrospectivo de una base de datos administrativa, está sujeto a heterogeneidad en la técnica quirúrgica y el reporte patológico entre centros, y no permite establecer causalidad.\nMensaje: Podría aportar evidencia de la práctica real para ajustar las recomendaciones sobre el margen quirúrgico óptimo en la tumorectomía por CDIS, buscando reducir reoperaciones sin aumentar el riesgo de recidiva.\nNota: análisis sin acceso al abstract."
-    },
-    "f66ce229f0a4": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de Lela Rose."
-    },
-    "626835649cf0": {
-      "resumen": "Un repaso por las tendencias que dejó la Semana de la Moda de Londres para el próximo verano."
-    },
-    "e30b73e5a47c": {
-      "resumen": "Una guía de 48 horas para recorrer, comer y conocer Morelia, en el estado mexicano de Michoacán."
-    },
-    "fa0d01eadcfd": {
-      "resumen": "Mocasines elegantes para combinar con pantalones, vestidos y faldas según la colección primavera-verano 2027 de COS."
-    },
-    "ed84864c3876": {
-      "resumen": "Las botas negras inspiradas en Coco Chanel que se combinan con jeans esta temporada de otoño."
-    },
-    "5bd102e63a5b": {
-      "resumen": "Kim Kardashian dio que hablar en la Semana de la Moda de Londres con transparencias y detalles de cuero."
-    },
-    "e6a02b54d002": {
-      "resumen": "El bordó quedó atrás: cuál es el diseño de uñas que se impondrá como tendencia en el verano 2027."
-    },
     "c67dd257129c": {
       "resumen": "Por el Día Mundial de la Paella, las promociones en restaurantes porteños se extienden hasta el miércoles."
     },
@@ -114,6 +67,36 @@
     },
     "99944a91cd18": {
       "resumen": "Un recorrido por las nuevas aperturas gastronómicas de Buenos Aires durante 2026."
+    },
+    "5cc817e3d02c": {
+      "resumen": "La banda Eslavos presenta su espectáculo 'ALMA' en el Teatro Flores de Buenos Aires."
+    },
+    "c0287c0476c4": {
+      "resumen": "El actor español Luis Zahera llega a la Argentina con su espectáculo 'Chungo', con funciones en Buenos Aires y otras ciudades."
+    },
+    "bec91d5bcc61": {
+      "resumen": "Luis Zahera, conocido por las series \"Entrevías\" y \"Animal\", llega a la Argentina con un espectáculo en vivo."
+    },
+    "da4c46f36e27": {
+      "resumen": "Vogue presenta el desfile Vogue World correspondiente a la temporada primavera 2027 ready-to-wear."
+    },
+    "7bb6bc706a9c": {
+      "resumen": "La manicura de estilo italiano se destacó entre los looks de uñas más elegantes de Vogue World 2026 en Milán."
+    },
+    "26c63f5af95b": {
+      "resumen": "Un repaso de las tendencias de moda que dejó la Semana de la Moda de Londres."
+    },
+    "59b995a88884": {
+      "resumen": "Vogue World 2026 explica en qué consiste la manicura italiana, la tendencia en uñas del momento."
+    },
+    "9129c749e193": {
+      "resumen": "El repaso de todas las supermodelos que desfilaron en Vogue World 2026 en Milán."
+    },
+    "e0d16a19d1ea": {
+      "resumen": "Donatella Versace, referente de la moda, vuelve a la escena con un nuevo proyecto."
+    },
+    "9254b94a1a0e": {
+      "resumen": "Seis tendencias que dejó la Semana de la Moda de Londres y que se verán en el verano 2027."
     }
   }
 }
