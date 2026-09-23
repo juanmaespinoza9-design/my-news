@@ -1,30 +1,35 @@
 {
-  "generated_at": "2026-09-23T10:16:21Z",
+  "generated_at": "2026-09-23T22:17:02Z",
   "summaries": {
-    "83e82553c6a8": {
-      "resumen": "OncLive repasa los puntos clave sobre el uso de la terapia CAR-T (células T con receptor de antígeno quimérico) en enfermedades autoinmunes, un campo que expande esta tecnología más allá de los cánceres hematológicos donde nació. Interesa por su potencial como nueva vía terapéutica en enfermedades autoinmunes refractarias a los tratamientos habituales.",
-      "destacado": false
-    },
-    "6cc2fcbe2ead": {
-      "resumen": "OncLive aborda el manejo de la enterocolitis asociada a células efectoras inmunes (IEC-EC, por sus siglas en inglés) refractaria a corticoides, una complicación de las terapias celulares como el CAR-T, y cómo monitorear otras complicaciones asociadas. Relevante para quienes siguen de cerca la seguridad de las inmunoterapias celulares.",
-      "destacado": false
-    },
-    "9099ebba81fb": {
-      "resumen": "OncLive analiza los beneficios y las limitaciones de las herramientas de inteligencia artificial (IA) aplicadas a la oncología mamaria. Vale la pena mirarlo por el rol creciente de la IA en el diagnóstico por imágenes y el manejo del cáncer de mama, junto con las voces de cautela sobre sus límites actuales.",
-      "destacado": false
-    },
-    "1acc171da238": {
-      "resumen": "The ASCO Post entrevista a la Dra. Rotow sobre el uso de trastuzumab deruxtecán (T-DXd), un anticuerpo conjugado a droga, como tratamiento de primera línea en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación en HER2. Vale la pena seguirlo porque el subgrupo HER2 mutado es minoritario y históricamente tuvo pocas opciones dirigidas.",
-      "destacado": false
-    },
-    "c448d0a376ef": {
-      "resumen": "The ASCO Post reporta una investigación que muestra que las distintas clases de alteraciones en el gen BRAF en cáncer de pulmón de células no pequeñas (CPCNP) tienen características clínicas, pronóstico y co-mutaciones diferentes. Importa porque no todas las mutaciones de BRAF se comportan igual y esto podría afectar la elección de la terapia dirigida.",
+    "468d7d45ec0e": {
+      "resumen": "OncLive entrevista a la Dra. Byun sobre las respuestas observadas con mezigdomide (un modulador oral del cereblón) y elranatamab (un anticuerpo biespecífico BCMA-CD3, dirigido al antígeno de maduración de células B) en mieloma múltiple en recaída o refractario (R/R). Vale la pena mirarlo porque ambas son opciones relativamente nuevas para pacientes que ya agotaron varias líneas de tratamiento.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de investigación (probablemente cohorte retrospectiva o análisis molecular) que compara distintas clases de alteraciones en el gen BRAF; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) portadores de alteraciones en el gen BRAF, agrupados según la clase molecular de la alteración.\nIntervención: No aplica intervención terapéutica; se trata de una caracterización molecular y clínica que compara clases de alteraciones de BRAF (por ejemplo, clase I V600E frente a clases II y III).\nResultados: No hay cifras de supervivencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño muestral, el ajuste por factores de confusión ni la representatividad de la cohorte.\nMensaje: Si se confirma, respaldaría un enfoque terapéutico diferenciado según la clase de alteración de BRAF, en lugar de tratar a todos los pacientes con BRAF alterado como un grupo homogéneo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Nota tipo entrevista/comentario de experto (formato \"Dr. X on...\" de OncLive); no describe un estudio con metodología propia, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con mezigdomide o elranatamab.\nIntervención: Mezigdomide (modulador oral del cereblón, familia de los CELMoD) y elranatamab (anticuerpo biespecífico BCMA-CD3); no se especifica comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Al ser una entrevista de opinión y no un reporte primario, no permite evaluar rigor metodológico ni representatividad de los datos comentados.\nMensaje: Aporta la perspectiva clínica de un especialista sobre el rol de estas terapias en el mieloma múltiple R/R, pero no reemplaza la lectura del estudio primario.\nNota: análisis sin acceso al abstract."
     },
-    "f9367881bba7": {
-      "resumen": "The ASCO Post repasa el informe anual de la Asociación Americana para la Investigación del Cáncer (AACR, por sus siglas en inglés) sobre el progreso en la lucha contra el cáncer. Sirve como panorama general de tendencias en investigación, prevención y tratamiento oncológico a nivel país.",
-      "destacado": false
+    "555e0d4c1fc9": {
+      "resumen": "OncLive informa que el Comité Independiente de Monitoreo de Datos (IDMC, por sus siglas en inglés) recomendó continuar el estudio de fase 2 de IMNN-001, una terapia génica en investigación, evaluando la enfermedad residual mínima (MRD) en cáncer de ovario avanzado. Es una señal de seguridad favorable que permite seguir reclutando pacientes en un tumor de difícil manejo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase 2 en curso; el hallazgo reportado es la recomendación de continuidad de un Comité Independiente de Monitoreo de Datos (IDMC) tras una revisión de seguridad interina, sin más detalle sobre aleatorización, cegamiento o número de centros/pacientes en el título.\nPoblación: Pacientes con cáncer de ovario avanzado.\nIntervención: IMNN-001, terapia génica en investigación, evaluada con enfermedad residual mínima (MRD) como criterio de seguimiento; no se especifica comparador en el título.\nResultados: No hay cifras de eficacia, supervivencia ni intervalos de confianza disponibles; solo se informa la recomendación de continuidad del comité de seguridad.\nLimitaciones: Una recomendación de continuidad de un IDMC confirma un perfil de seguridad aceptable hasta el momento, pero no implica eficacia ni resultado definitivo del estudio.\nMensaje: El estudio sigue en marcha; es un dato de proceso más que un resultado que cambie la práctica clínica hoy.\nNota: análisis sin acceso al abstract."
+    },
+    "1df092e126e4": {
+      "resumen": "El ensayo ADAM aportó los primeros datos prospectivos y aleatorizados sobre el uso de avelumab (un anticuerpo anti-PD-L1) como tratamiento adyuvante en pacientes con carcinoma de células de Merkel de alto riesgo ya operado. Es una noticia relevante porque hasta ahora no había evidencia aleatorizada sólida de inmunoterapia adyuvante en este tumor de piel poco frecuente y agresivo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico prospectivo y aleatorizado (ADAM trial); el título no precisa si fue ciego, ni el número de centros o de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células de Merkel de alto riesgo, en el contexto adyuvante (posterior a la cirugía).\nIntervención: Avelumab (anticuerpo anti-PD-L1) adyuvante; el comparador probable es observación o placebo, aunque el título no lo especifica.\nResultados: No hay cifras de supervivencia libre de recaída, supervivencia global, razones de riesgo ni valores de p disponibles sin el abstract.\nLimitaciones: El carcinoma de células de Merkel es un tumor poco frecuente, por lo que los ensayos suelen tener tamaños muestrales acotados y períodos de seguimiento que condicionan la solidez de las conclusiones.\nMensaje: Si los resultados son positivos, podría consolidar a la inmunoterapia adyuvante como nuevo estándar en el carcinoma de células de Merkel de alto riesgo resecado.\nNota: análisis sin acceso al abstract."
+    },
+    "f2cf7abf7328": {
+      "resumen": "The ASCO Post reporta que la mutación germinal (hereditaria) T790M del gen EGFR (receptor del factor de crecimiento epidérmico) se asocia con un riesgo significativamente mayor de cáncer de pulmón. Interesa porque, a diferencia de la T790M adquirida (ligada a resistencia a tratamiento), esta variante heredada podría justificar estrategias de detección temprana en portadores.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de asociación genética (probablemente cohorte o serie de casos con secuenciación germinal); el título no especifica número de pacientes, de centros ni si hubo grupo control.\nPoblación: Individuos portadores de la mutación germinal (hereditaria) T790M del gen EGFR (receptor del factor de crecimiento epidérmico), comparados presumiblemente con no portadores.\nIntervención: No aplica intervención terapéutica; es un estudio de riesgo genético/epidemiológico.\nResultados: No hay cifras de riesgo relativo, razón de momios ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios de mutaciones germinales raras suelen basarse en cohortes pequeñas o registros familiares, lo que limita la precisión de las estimaciones de riesgo.\nMensaje: Podría respaldar la incorporación del test de EGFR T790M germinal en el estudio de familias con alta carga de cáncer de pulmón, para definir vigilancia o detección temprana.\nNota: análisis sin acceso al abstract."
+    },
+    "8cc0600f59e6": {
+      "resumen": "The ASCO Post presenta datos de un anticuerpo monoclonal en investigación como tratamiento de segunda línea para el cáncer de pulmón de células no pequeñas (CPCNP) escamoso metastásico. Relevante porque el subtipo escamoso tiene menos opciones dirigidas que el no escamoso y sigue siendo un área de necesidad insatisfecha.",
+      "destacado": false,
+      "analisis": "Diseño: Aparenta ser un ensayo clínico (probablemente de fase temprana) de un anticuerpo monoclonal en investigación; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) de histología escamosa, metastásico, en segunda línea de tratamiento.\nIntervención: Anticuerpo monoclonal en investigación (no nombrado en el título); no se especifica comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el nombre del fármaco ni la fase del estudio no puede evaluarse la madurez de los datos ni el tamaño muestral.\nMensaje: Podría sumar una nueva opción para el CPCNP escamoso metastásico en segunda línea, un escenario con pocas alternativas dirigidas actualmente.\nNota: análisis sin acceso al abstract."
+    },
+    "3b7f3548c5a7": {
+      "resumen": "Un ensayo que sumaba venetoclax (un inhibidor de BCL-2) al esquema DA-EPOCH-R (quimioinmunoterapia con dosis ajustada de etopósido, prednisona, vincristina, ciclofosfamida, doxorrubicina y rituximab) en linfoma \"double-hit\" se detuvo por exceso de mortalidad en el grupo con venetoclax. Es una alerta de seguridad importante para quienes tratan este linfoma agresivo de alto riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado) que comparaba DA-EPOCH-R con y sin el agregado de venetoclax; se interrumpió tempranamente por una señal de seguridad, sin más precisiones en el título sobre número de centros o de pacientes.\nPoblación: Pacientes con linfoma \"double-hit\" (linfoma B de alto grado con reordenamientos de MYC y BCL2 o BCL6).\nIntervención: Agregado de venetoclax (inhibidor de BCL-2) al esquema DA-EPOCH-R, comparado contra DA-EPOCH-R solo.\nResultados: No hay cifras exactas de mortalidad, supervivencia global ni intervalos de confianza disponibles sin el abstract; el dato central es la interrupción del estudio por exceso de mortalidad en el brazo con venetoclax.\nLimitaciones: Un cierre anticipado por seguridad limita el poder estadístico para conclusiones definitivas de eficacia y puede reflejar una interacción farmacológica específica de esta combinación.\nMensaje: Desaconseja, al menos por ahora, agregar venetoclax a DA-EPOCH-R en linfoma \"double-hit\" fuera de un ensayo clínico controlado, hasta entender mejor la causa del exceso de mortalidad.\nNota: análisis sin acceso al abstract."
     },
     "2158706607be": {
       "resumen": "Journal of Clinical Oncology (JCO) publica \"When Survival Separates\" (Hall C et al.), un texto de tono reflexivo sobre cómo sobrevivir al cáncer puede distanciar a los pacientes de su entorno. Por su título y estilo parece un ensayo narrativo, propio de la sección de humanidades médicas de la revista, más que un estudio clínico.",
@@ -35,48 +40,66 @@
       "destacado": true,
       "analisis": "Diseño: Estudio traslacional que combina perfil transcriptómico con análisis espacial de tejido tumoral de melanoma; el título no precisa el número de pacientes, de centros ni si la cohorte fue prospectiva o retrospectiva.\nPoblación: Pacientes con melanoma tratados con inmunoterapia o con la combinación de inhibidores de BRAF y MEK (BRAF/MEKi).\nIntervención: No es un ensayo de intervención farmacológica sino un análisis correlativo de biopsias tumorales según el tratamiento recibido (inmunoterapia frente a combinación BRAF/MEKi).\nResultados: No hay cifras de supervivencia global, supervivencia libre de progresión, razones de riesgo ni valores de p disponibles sin el abstract.\nLimitaciones: Los estudios traslacionales de este tipo suelen trabajar con muestras pequeñas y requieren validación en cohortes independientes antes de trasladarse a la práctica.\nMensaje: Podría ayudar a identificar biomarcadores de plasticidad tumoral que anticipen qué pacientes con melanoma se benefician más de la inmunoterapia frente a la combinación con BRAF/MEKi.\nNota: análisis sin acceso al abstract."
     },
+    "51bb2ddf585c": {
+      "resumen": "The Lancet Oncology publica un análisis transversal (cross-sectional) de Figi JT et al. sobre el gasto sanitario mundial destinado al control del cáncer. Sirve para dimensionar cuánto invierte cada país o región en oncología y detectar brechas entre el gasto y la carga real de la enfermedad.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de tipo transversal (cross-sectional analysis) que compara el gasto sanitario en control del cáncer entre países o regiones; el título no precisa la fuente de datos, el período analizado ni el número de países incluidos.\nPoblación: No son pacientes individuales sino sistemas de salud o países, analizados según su gasto declarado en control del cáncer.\nIntervención: No aplica intervención; es un análisis descriptivo/comparativo del gasto sanitario, sin comparador terapéutico.\nResultados: No hay cifras de gasto per cápita, proporción del producto bruto ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los análisis de gasto sanitario dependen de la calidad y comparabilidad de las fuentes de datos entre países, y un diseño transversal no permite establecer tendencias temporales ni causalidad.\nMensaje: Puede orientar decisiones de política sanitaria al identificar países o regiones con subinversión relativa en control del cáncer frente a su carga de enfermedad.\nNota: análisis sin acceso al abstract."
+    },
+    "7dd5fddae847": {
+      "resumen": "The New England Journal of Medicine publica un estudio de Sasieni P et al. sobre el efecto del cribado con un test de detección precoz multicáncer (MCED, por sus siglas en inglés, un análisis de sangre que busca señales tumorales de múltiples tipos de cáncer a la vez) sobre el diagnóstico de cáncer en estadio avanzado. Es un tema de altísimo interés porque estos test prometen detectar varios tumores con un solo estudio de sangre, aunque su impacto real en la práctica todavía se está definiendo.",
+      "destacado": false,
+      "analisis": "Diseño: Aparenta ser un ensayo clínico o estudio de cribado poblacional (posiblemente aleatorizado) que evalúa el efecto de un test de detección precoz multicáncer (MCED); el título no precisa aleatorización, cegamiento, número de centros ni de participantes.\nPoblación: Personas sometidas a cribado con el test de detección precoz multicáncer (MCED), presumiblemente adultos sin diagnóstico previo de cáncer.\nIntervención: Cribado con test MCED (biomarcador en sangre para múltiples tipos de cáncer) frente a la atención habitual sin este cribado.\nResultados: No hay cifras de reducción de diagnósticos en estadio avanzado, sensibilidad, especificidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios de cribado requieren seguimientos largos para demostrar impacto en el estadio al diagnóstico y, eventualmente, en la mortalidad, y pueden verse afectados por sesgos de sobrediagnóstico y de tiempo de anticipación (lead-time bias).\nMensaje: Si demuestra una reducción real de diagnósticos en estadio avanzado, respaldaría la incorporación del cribado con test MCED como herramienta complementaria de detección temprana del cáncer.\nNota: análisis sin acceso al abstract."
+    },
+    "ed4f4cdc0137": {
+      "resumen": "The New England Journal of Medicine publica un editorial de Hunter DJ et al. que comenta el estudio sobre cribado con test de detección precoz multicáncer (MCED) publicado en el mismo número. Ayuda a poner en contexto los alcances y las limitaciones reales de estos test, presentados muchas veces como la \"solución mágica\" para detectar el cáncer a tiempo.",
+      "destacado": false
+    },
     "df6772d8aa04": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un análisis a nivel de paciente sobre el ancho de margen quirúrgico óptimo en la tumorectomía (lumpectomía) para el carcinoma ductal in situ (CDIS), usando datos de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer) de Estados Unidos. Relevante porque el margen quirúrgico ideal en CDIS es un tema históricamente controvertido que impacta las tasas de recidiva y de reoperación.",
       "destacado": false,
       "analisis": "Diseño: Estudio observacional retrospectivo, análisis a nivel de paciente dentro de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer); el título no especifica número de pacientes ni de centros.\nPoblación: Pacientes con diagnóstico de carcinoma ductal in situ (CDIS) tratadas con tumorectomía (lumpectomía).\nIntervención: Comparación de distintos anchos de margen quirúrgico obtenidos en la cirugía; no es una intervención farmacológica sino un análisis de la práctica quirúrgica real.\nResultados: No hay cifras de tasa de recidiva local, de reoperación ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser un análisis retrospectivo de una base de datos administrativa, está sujeto a heterogeneidad en la técnica quirúrgica y el reporte patológico entre centros, y no permite establecer causalidad.\nMensaje: Podría aportar evidencia de la práctica real para ajustar las recomendaciones sobre el margen quirúrgico óptimo en la tumorectomía por CDIS, buscando reducir reoperaciones sin aumentar el riesgo de recidiva.\nNota: análisis sin acceso al abstract."
     },
-    "a27653823d3b": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) que analiza la asociación entre resultados informados por el paciente (PRO) y utilización de recursos de salud; el título no precisa el número de pacientes ni el diseño exacto.\nPoblación: Pacientes con cáncer atendidos en el sistema de salud estudiado, con datos de PRO registrados.\nIntervención: No aplica intervención farmacológica; se trata de un análisis asociativo entre variables de resultado (PRO) y utilización de recursos.\nResultados: No hay cifras de asociación, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de este tipo suelen tener limitaciones por factores de confusión no medidos y heterogeneidad en cómo se recogen los PRO.\nMensaje: Aporta evidencia para justificar la incorporación sistemática de los resultados informados por el paciente como herramienta de valor en la planificación de recursos oncológicos.\nNota: análisis sin acceso al abstract."
+    "8f2aa7d223b9": {
+      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Durazzi."
     },
-    "2b518015e7d4": {
-      "resumen": "El bolso 'shopper' marrón chocolate de Irene Urdangarín, trenzado y versátil, se perfila como pieza clave para el otoño 2026."
+    "b9546ba1e958": {
+      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Venerdì Pomeriggio."
     },
-    "78a1a5f17b32": {
-      "resumen": "La modelo Vittoria Ceretti lució en Vogue World Milán 2026 una joya de alta joyería de Bulgari inspirada en la temática del evento."
+    "31884f68b4a8": {
+      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Brunello Cucinelli."
     },
-    "1c78ccd4966b": {
-      "resumen": "Cinco blusas de estilo boho y romántico de Zara, tendencia de la temporada, ideales para combinar con jeans."
+    "83ff004b117f": {
+      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Etro."
     },
-    "fa46ce2bfec8": {
-      "resumen": "Un repaso de las principales tendencias de moda que dejó la Semana de la Moda de Londres."
+    "81a6ff0160a9": {
+      "resumen": "Revista CLARA propone diez ideas de uñas cortas y sencillas, con colores de tendencia y diseños minimalistas para el otoño."
     },
-    "63fc824bfe71": {
-      "resumen": "El color burdeos vuelve a imponerse como tendencia de la temporada, con propuestas de prendas disponibles en Amazon."
+    "8993242c1185": {
+      "resumen": "Vogue México reúne doce diseños de uñas para el otoño, recomendados por una manicurista experta."
     },
-    "46a3c4767540": {
-      "resumen": "La actriz Adria Arjona deslumbró en Vogue World 2026 con unos zapatos de taco estilo T-Bar, entre los más elegantes del evento."
+    "ca282b3b2727": {
+      "resumen": "Kate Middleton lució un vestido morado de manga larga que se destacó como uno de sus looks más elegantes de septiembre."
     },
-    "bb99867de354": {
-      "resumen": "Vogue México anticipa que las blusas de encaje, los corsés y las camperas estilo militar serán las prendas clave del otoño 2026."
+    "2843372ddc7f": {
+      "resumen": "Zara lanzó unos zapatos de tacón bajo inspirados en el estilo elegante de Carolina Herrera para el otoño."
+    },
+    "f2c467221b63": {
+      "resumen": "El \"turquesa inesperado\", un tono asociado al verano, se impone como la tendencia de color más viral de este otoño-invierno."
+    },
+    "9fe3784f1b6f": {
+      "resumen": "Revista OHLALÁ! repasa cuatro tendencias del street style de la Semana de la Moda de Milán que se impondrán en 2027."
+    },
+    "385654f07909": {
+      "resumen": "Página/12 propone actividades vinculadas a la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
+    },
+    "65b880d1ae21": {
+      "resumen": "Fotografiaron al conductor Turco Naim junto a una mujer no identificada en el teatro, y un detalle de la imagen generó revuelo."
+    },
+    "acde0249a281": {
+      "resumen": "El Centro Cultural Andalucía de Buenos Aires realizó su primer encuentro coral, con la participación de casi cien artistas."
     },
     "4789908e8c95": {
       "resumen": "El cantante venezolano Carlos Baute habló sobre su próximo show en el Teatro Ópera de Buenos Aires."
-    },
-    "5cc817e3d02c": {
-      "resumen": "La banda Eslavos presenta su espectáculo 'ALMA' en el Teatro Flores de Buenos Aires."
-    },
-    "c0287c0476c4": {
-      "resumen": "El actor español Luis Zahera llega a la Argentina con su espectáculo 'Chungo', con funciones en Buenos Aires y otras ciudades."
-    },
-    "bec91d5bcc61": {
-      "resumen": "Luis Zahera, conocido por las series \"Entrevías\" y \"Animal\", llega a la Argentina con un espectáculo en vivo."
     },
     "c67dd257129c": {
       "resumen": "Por el Día Mundial de la Paella, las promociones en restaurantes porteños se extienden hasta el miércoles."
