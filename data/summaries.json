@@ -1,27 +1,16 @@
 {
-  "generated_at": "2026-09-22T22:16:26Z",
+  "generated_at": "2026-09-23T10:16:21Z",
   "summaries": {
-    "a27653823d3b": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) que analiza la asociación entre resultados informados por el paciente (PRO) y utilización de recursos de salud; el título no precisa el número de pacientes ni el diseño exacto.\nPoblación: Pacientes con cáncer atendidos en el sistema de salud estudiado, con datos de PRO registrados.\nIntervención: No aplica intervención farmacológica; se trata de un análisis asociativo entre variables de resultado (PRO) y utilización de recursos.\nResultados: No hay cifras de asociación, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de este tipo suelen tener limitaciones por factores de confusión no medidos y heterogeneidad en cómo se recogen los PRO.\nMensaje: Aporta evidencia para justificar la incorporación sistemática de los resultados informados por el paciente como herramienta de valor en la planificación de recursos oncológicos.\nNota: análisis sin acceso al abstract."
-    },
-    "2d4438b04609": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) del ensayo fase II aleatorizado CUPISCO, que comparó terapia guiada molecularmente frente a quimioterapia continuada en cáncer de origen primario desconocido desfavorable. Importa para actualizar la referencia y no citar datos desactualizados del artículo original.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico fase II, aleatorizado (estudio CUPISCO); el título no detalla cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de origen primario desconocido (CUP) de perfil desfavorable.\nIntervención: Terapia guiada molecularmente versus quimioterapia continuada.\nResultados: El título indica que se trata de datos actualizados de eficacia y seguridad, pero no hay cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; además, esta publicación es una corrección (erratum) al artículo original.\nLimitaciones: Sin el abstract no puede evaluarse la magnitud del beneficio actualizado ni el perfil de seguridad; al tratarse de un erratum, algunos datos previamente publicados podrían haberse corregido.\nMensaje: La terapia guiada molecularmente podría ofrecer una alternativa a la quimioterapia convencional en cáncer de origen primario desconocido desfavorable, un escenario con pronóstico históricamente malo y pocas opciones dirigidas.\nNota: análisis sin acceso al abstract."
-    },
-    "df6772d8aa04": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un análisis a nivel de paciente sobre el ancho de margen quirúrgico óptimo en la tumorectomía (lumpectomía) para el carcinoma ductal in situ (CDIS), usando datos de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer) de Estados Unidos. Relevante porque el margen quirúrgico ideal en CDIS es un tema históricamente controvertido que impacta las tasas de recidiva y de reoperación.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional retrospectivo, análisis a nivel de paciente dentro de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer); el título no especifica número de pacientes ni de centros.\nPoblación: Pacientes con diagnóstico de carcinoma ductal in situ (CDIS) tratadas con tumorectomía (lumpectomía).\nIntervención: Comparación de distintos anchos de margen quirúrgico obtenidos en la cirugía; no es una intervención farmacológica sino un análisis de la práctica quirúrgica real.\nResultados: No hay cifras de tasa de recidiva local, de reoperación ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser un análisis retrospectivo de una base de datos administrativa, está sujeto a heterogeneidad en la técnica quirúrgica y el reporte patológico entre centros, y no permite establecer causalidad.\nMensaje: Podría aportar evidencia de la práctica real para ajustar las recomendaciones sobre el margen quirúrgico óptimo en la tumorectomía por CDIS, buscando reducir reoperaciones sin aumentar el riesgo de recidiva.\nNota: análisis sin acceso al abstract."
-    },
-    "5faec935b8a2": {
-      "resumen": "OncLive entrevista al Dr. Barot sobre el uso de mantenimiento con palbociclib, un inhibidor de las quinasas dependientes de ciclina 4 y 6 (CDK4/6), en cáncer de mama metastásico con receptores hormonales positivos y HER2 positivo (receptor 2 del factor de crecimiento epidérmico humano). Interesa porque explora cómo extender el beneficio de estos fármacos más allá de la primera línea en un subtipo con terapias dirigidas específicas.",
+    "83e82553c6a8": {
+      "resumen": "OncLive repasa los puntos clave sobre el uso de la terapia CAR-T (células T con receptor de antígeno quimérico) en enfermedades autoinmunes, un campo que expande esta tecnología más allá de los cánceres hematológicos donde nació. Interesa por su potencial como nueva vía terapéutica en enfermedades autoinmunes refractarias a los tratamientos habituales.",
       "destacado": false
     },
-    "62ec601b670c": {
-      "resumen": "OncLive dialoga con el Dr. Kahl sobre los datos del ensayo TRIANGLE, que cuestionan el rol del trasplante autólogo de células madre (TACM) en el tratamiento de primera línea del linfoma de células del manto (LCM) cuando se suma ibrutinib. Relevante porque podría cambiar un pilar histórico del tratamiento en esta enfermedad.",
+    "6cc2fcbe2ead": {
+      "resumen": "OncLive aborda el manejo de la enterocolitis asociada a células efectoras inmunes (IEC-EC, por sus siglas en inglés) refractaria a corticoides, una complicación de las terapias celulares como el CAR-T, y cómo monitorear otras complicaciones asociadas. Relevante para quienes siguen de cerca la seguridad de las inmunoterapias celulares.",
+      "destacado": false
+    },
+    "9099ebba81fb": {
+      "resumen": "OncLive analiza los beneficios y las limitaciones de las herramientas de inteligencia artificial (IA) aplicadas a la oncología mamaria. Vale la pena mirarlo por el rol creciente de la IA en el diagnóstico por imágenes y el manejo del cáncer de mama, junto con las voces de cautela sobre sus límites actuales.",
       "destacado": false
     },
     "1acc171da238": {
@@ -33,40 +22,52 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de investigación (probablemente cohorte retrospectiva o análisis molecular) que compara distintas clases de alteraciones en el gen BRAF; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) portadores de alteraciones en el gen BRAF, agrupados según la clase molecular de la alteración.\nIntervención: No aplica intervención terapéutica; se trata de una caracterización molecular y clínica que compara clases de alteraciones de BRAF (por ejemplo, clase I V600E frente a clases II y III).\nResultados: No hay cifras de supervivencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño muestral, el ajuste por factores de confusión ni la representatividad de la cohorte.\nMensaje: Si se confirma, respaldaría un enfoque terapéutico diferenciado según la clase de alteración de BRAF, en lugar de tratar a todos los pacientes con BRAF alterado como un grupo homogéneo.\nNota: análisis sin acceso al abstract."
     },
-    "8588c22ecda9": {
-      "resumen": "OncLive informa sobre datos preliminares de tegavivint combinado con osimertinib, un inhibidor del receptor del factor de crecimiento epidérmico (EGFR), como tratamiento de primera línea en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR. Interesa porque busca prevenir o retrasar la resistencia que suele aparecer con osimertinib en monoterapia.",
-      "destacado": true,
-      "analisis": "Diseño: Datos preliminares, probablemente de un ensayo clínico en fase temprana, que evalúan una combinación de dos fármacos; el título no especifica fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR, en primera línea de tratamiento.\nIntervención: Tegavivint, un agente en investigación, combinado con osimertinib; comparador implícito el estándar de osimertinib en monoterapia.\nResultados: El título menciona \"actividad temprana\" pero no hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al tratarse de datos preliminares, es probable que la muestra sea pequeña y el seguimiento corto, lo que limita las conclusiones sobre eficacia y durabilidad de la respuesta.\nMensaje: Si los datos maduran favorablemente, esta combinación podría representar una estrategia para retrasar la resistencia a osimertinib en primera línea, un problema clínico central en este subgrupo.\nNota: análisis sin acceso al abstract."
-    },
     "f9367881bba7": {
       "resumen": "The ASCO Post repasa el informe anual de la Asociación Americana para la Investigación del Cáncer (AACR, por sus siglas en inglés) sobre el progreso en la lucha contra el cáncer. Sirve como panorama general de tendencias en investigación, prevención y tratamiento oncológico a nivel país.",
       "destacado": false
     },
-    "06d2a692c023": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una corrección (erratum) del ensayo fase II estratificado por biomarcador de trastuzumab rezetecán en carcinoma avanzado de glándula salival, que comparó cohortes con expresión alta y baja del receptor 2 del factor de crecimiento epidérmico humano (HER2). Importa para actualizar la referencia y no citar datos desactualizados del artículo original.",
+    "2158706607be": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica \"When Survival Separates\" (Hall C et al.), un texto de tono reflexivo sobre cómo sobrevivir al cáncer puede distanciar a los pacientes de su entorno. Por su título y estilo parece un ensayo narrativo, propio de la sección de humanidades médicas de la revista, más que un estudio clínico.",
+      "destacado": false
+    },
+    "e71b642c0de7": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio de Shah K et al. sobre cómo la plasticidad transcriptómica y su arquitectura espacial dentro del tumor moldean la respuesta del melanoma a la inmunoterapia y a su combinación con inhibidores de BRAF y MEK (BRAF/MEKi). Relevante porque busca explicar a nivel molecular por qué unos melanomas responden a estos tratamientos y otros no.",
+      "destacado": true,
+      "analisis": "Diseño: Estudio traslacional que combina perfil transcriptómico con análisis espacial de tejido tumoral de melanoma; el título no precisa el número de pacientes, de centros ni si la cohorte fue prospectiva o retrospectiva.\nPoblación: Pacientes con melanoma tratados con inmunoterapia o con la combinación de inhibidores de BRAF y MEK (BRAF/MEKi).\nIntervención: No es un ensayo de intervención farmacológica sino un análisis correlativo de biopsias tumorales según el tratamiento recibido (inmunoterapia frente a combinación BRAF/MEKi).\nResultados: No hay cifras de supervivencia global, supervivencia libre de progresión, razones de riesgo ni valores de p disponibles sin el abstract.\nLimitaciones: Los estudios traslacionales de este tipo suelen trabajar con muestras pequeñas y requieren validación en cohortes independientes antes de trasladarse a la práctica.\nMensaje: Podría ayudar a identificar biomarcadores de plasticidad tumoral que anticipen qué pacientes con melanoma se benefician más de la inmunoterapia frente a la combinación con BRAF/MEKi.\nNota: análisis sin acceso al abstract."
+    },
+    "df6772d8aa04": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un análisis a nivel de paciente sobre el ancho de margen quirúrgico óptimo en la tumorectomía (lumpectomía) para el carcinoma ductal in situ (CDIS), usando datos de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer) de Estados Unidos. Relevante porque el margen quirúrgico ideal en CDIS es un tema históricamente controvertido que impacta las tasas de recidiva y de reoperación.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico fase II, estratificado por biomarcador (expresión de HER2); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes. La publicación es una corrección (erratum) del artículo original.\nPoblación: Pacientes con carcinoma avanzado de glándula salival, divididos en cohortes según expresión alta o baja del receptor 2 del factor de crecimiento epidérmico humano (HER2).\nIntervención: Trastuzumab rezetecán, un anticuerpo conjugado a droga dirigido a HER2; no se especifica comparador en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract; además, al ser un erratum, algunos datos del artículo original podrían haberse corregido.\nLimitaciones: El carcinoma de glándula salival es un tumor raro y heterogéneo, por lo que los estudios suelen incluir pocos pacientes por cohorte, lo que limita la precisión de las estimaciones.\nMensaje: Sugiere que trastuzumab rezetecán podría tener actividad tanto en tumores con expresión alta como baja de HER2, ampliando potencialmente la población candidata a esta terapia dirigida en un tumor raro con opciones limitadas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio observacional retrospectivo, análisis a nivel de paciente dentro de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer); el título no especifica número de pacientes ni de centros.\nPoblación: Pacientes con diagnóstico de carcinoma ductal in situ (CDIS) tratadas con tumorectomía (lumpectomía).\nIntervención: Comparación de distintos anchos de margen quirúrgico obtenidos en la cirugía; no es una intervención farmacológica sino un análisis de la práctica quirúrgica real.\nResultados: No hay cifras de tasa de recidiva local, de reoperación ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser un análisis retrospectivo de una base de datos administrativa, está sujeto a heterogeneidad en la técnica quirúrgica y el reporte patológico entre centros, y no permite establecer causalidad.\nMensaje: Podría aportar evidencia de la práctica real para ajustar las recomendaciones sobre el margen quirúrgico óptimo en la tumorectomía por CDIS, buscando reducir reoperaciones sin aumentar el riesgo de recidiva.\nNota: análisis sin acceso al abstract."
     },
-    "555c6398c90a": {
-      "resumen": "El cantante español Raphael dará dos shows en el Teatro Gran Rex el 17 y el 19 de octubre."
+    "a27653823d3b": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la asociación entre los resultados informados por el paciente (PRO, por sus siglas en inglés) y el uso de recursos de salud, buscando avanzar hacia medidas de valor centradas en el paciente en la atención oncológica. Relevante porque conecta la calidad de vida percibida con el gasto sanitario real.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (probablemente de cohorte) que analiza la asociación entre resultados informados por el paciente (PRO) y utilización de recursos de salud; el título no precisa el número de pacientes ni el diseño exacto.\nPoblación: Pacientes con cáncer atendidos en el sistema de salud estudiado, con datos de PRO registrados.\nIntervención: No aplica intervención farmacológica; se trata de un análisis asociativo entre variables de resultado (PRO) y utilización de recursos.\nResultados: No hay cifras de asociación, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de este tipo suelen tener limitaciones por factores de confusión no medidos y heterogeneidad en cómo se recogen los PRO.\nMensaje: Aporta evidencia para justificar la incorporación sistemática de los resultados informados por el paciente como herramienta de valor en la planificación de recursos oncológicos.\nNota: análisis sin acceso al abstract."
     },
-    "a11279a3865a": {
-      "resumen": "Una guía de planes para aprovechar el próximo fin de semana largo en la Provincia de Buenos Aires."
+    "2b518015e7d4": {
+      "resumen": "El bolso 'shopper' marrón chocolate de Irene Urdangarín, trenzado y versátil, se perfila como pieza clave para el otoño 2026."
     },
-    "e787c550dcda": {
-      "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
+    "78a1a5f17b32": {
+      "resumen": "La modelo Vittoria Ceretti lució en Vogue World Milán 2026 una joya de alta joyería de Bulgari inspirada en la temática del evento."
     },
-    "e3ecd5a8e080": {
-      "resumen": "La agenda cultural de la provincia de Buenos Aires para estos días."
+    "1c78ccd4966b": {
+      "resumen": "Cinco blusas de estilo boho y romántico de Zara, tendencia de la temporada, ideales para combinar con jeans."
     },
-    "c67dd257129c": {
-      "resumen": "Por el Día Mundial de la Paella, las promociones en restaurantes porteños se extienden hasta el miércoles."
+    "fa46ce2bfec8": {
+      "resumen": "Un repaso de las principales tendencias de moda que dejó la Semana de la Moda de Londres."
     },
-    "075e6ef2c33a": {
-      "resumen": "Un repaso por los restaurantes de Buenos Aires que obtuvieron premios y reconocimientos."
+    "63fc824bfe71": {
+      "resumen": "El color burdeos vuelve a imponerse como tendencia de la temporada, con propuestas de prendas disponibles en Amazon."
     },
-    "99944a91cd18": {
-      "resumen": "Un recorrido por las nuevas aperturas gastronómicas de Buenos Aires durante 2026."
+    "46a3c4767540": {
+      "resumen": "La actriz Adria Arjona deslumbró en Vogue World 2026 con unos zapatos de taco estilo T-Bar, entre los más elegantes del evento."
+    },
+    "bb99867de354": {
+      "resumen": "Vogue México anticipa que las blusas de encaje, los corsés y las camperas estilo militar serán las prendas clave del otoño 2026."
+    },
+    "4789908e8c95": {
+      "resumen": "El cantante venezolano Carlos Baute habló sobre su próximo show en el Teatro Ópera de Buenos Aires."
     },
     "5cc817e3d02c": {
       "resumen": "La banda Eslavos presenta su espectáculo 'ALMA' en el Teatro Flores de Buenos Aires."
@@ -77,26 +78,23 @@
     "bec91d5bcc61": {
       "resumen": "Luis Zahera, conocido por las series \"Entrevías\" y \"Animal\", llega a la Argentina con un espectáculo en vivo."
     },
-    "da4c46f36e27": {
-      "resumen": "Vogue presenta el desfile Vogue World correspondiente a la temporada primavera 2027 ready-to-wear."
+    "c67dd257129c": {
+      "resumen": "Por el Día Mundial de la Paella, las promociones en restaurantes porteños se extienden hasta el miércoles."
     },
-    "7bb6bc706a9c": {
-      "resumen": "La manicura de estilo italiano se destacó entre los looks de uñas más elegantes de Vogue World 2026 en Milán."
+    "83a69cf41119": {
+      "resumen": "Una guía de actividades para el fin de semana en la Feria Internacional de Turismo (FIT) 2026, que se realiza en La Rural, Buenos Aires."
     },
-    "26c63f5af95b": {
-      "resumen": "Un repaso de las tendencias de moda que dejó la Semana de la Moda de Londres."
+    "075e6ef2c33a": {
+      "resumen": "Un repaso por los restaurantes de Buenos Aires que obtuvieron premios y reconocimientos."
     },
-    "59b995a88884": {
-      "resumen": "Vogue World 2026 explica en qué consiste la manicura italiana, la tendencia en uñas del momento."
+    "99944a91cd18": {
+      "resumen": "Un recorrido por las nuevas aperturas gastronómicas de Buenos Aires durante 2026."
     },
-    "9129c749e193": {
-      "resumen": "El repaso de todas las supermodelos que desfilaron en Vogue World 2026 en Milán."
+    "43717c4fd82f": {
+      "resumen": "Una guía de planes y actividades para aprovechar el próximo feriado y fin de semana largo en la Provincia de Buenos Aires."
     },
-    "e0d16a19d1ea": {
-      "resumen": "Donatella Versace, referente de la moda, vuelve a la escena con un nuevo proyecto."
-    },
-    "9254b94a1a0e": {
-      "resumen": "Seis tendencias que dejó la Semana de la Moda de Londres y que se verán en el verano 2027."
+    "e787c550dcda": {
+      "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
     }
   }
 }
