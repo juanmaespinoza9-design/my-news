@@ -1,63 +1,10 @@
 {
-  "generated_at": "2026-09-23T22:17:02Z",
+  "generated_at": "2026-09-24T10:16:22Z",
   "summaries": {
-    "468d7d45ec0e": {
-      "resumen": "OncLive entrevista a la Dra. Byun sobre las respuestas observadas con mezigdomide (un modulador oral del cereblón) y elranatamab (un anticuerpo biespecífico BCMA-CD3, dirigido al antígeno de maduración de células B) en mieloma múltiple en recaída o refractario (R/R). Vale la pena mirarlo porque ambas son opciones relativamente nuevas para pacientes que ya agotaron varias líneas de tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Nota tipo entrevista/comentario de experto (formato \"Dr. X on...\" de OncLive); no describe un estudio con metodología propia, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con mezigdomide o elranatamab.\nIntervención: Mezigdomide (modulador oral del cereblón, familia de los CELMoD) y elranatamab (anticuerpo biespecífico BCMA-CD3); no se especifica comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Al ser una entrevista de opinión y no un reporte primario, no permite evaluar rigor metodológico ni representatividad de los datos comentados.\nMensaje: Aporta la perspectiva clínica de un especialista sobre el rol de estas terapias en el mieloma múltiple R/R, pero no reemplaza la lectura del estudio primario.\nNota: análisis sin acceso al abstract."
-    },
-    "555e0d4c1fc9": {
-      "resumen": "OncLive informa que el Comité Independiente de Monitoreo de Datos (IDMC, por sus siglas en inglés) recomendó continuar el estudio de fase 2 de IMNN-001, una terapia génica en investigación, evaluando la enfermedad residual mínima (MRD) en cáncer de ovario avanzado. Es una señal de seguridad favorable que permite seguir reclutando pacientes en un tumor de difícil manejo.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase 2 en curso; el hallazgo reportado es la recomendación de continuidad de un Comité Independiente de Monitoreo de Datos (IDMC) tras una revisión de seguridad interina, sin más detalle sobre aleatorización, cegamiento o número de centros/pacientes en el título.\nPoblación: Pacientes con cáncer de ovario avanzado.\nIntervención: IMNN-001, terapia génica en investigación, evaluada con enfermedad residual mínima (MRD) como criterio de seguimiento; no se especifica comparador en el título.\nResultados: No hay cifras de eficacia, supervivencia ni intervalos de confianza disponibles; solo se informa la recomendación de continuidad del comité de seguridad.\nLimitaciones: Una recomendación de continuidad de un IDMC confirma un perfil de seguridad aceptable hasta el momento, pero no implica eficacia ni resultado definitivo del estudio.\nMensaje: El estudio sigue en marcha; es un dato de proceso más que un resultado que cambie la práctica clínica hoy.\nNota: análisis sin acceso al abstract."
-    },
-    "1df092e126e4": {
-      "resumen": "El ensayo ADAM aportó los primeros datos prospectivos y aleatorizados sobre el uso de avelumab (un anticuerpo anti-PD-L1) como tratamiento adyuvante en pacientes con carcinoma de células de Merkel de alto riesgo ya operado. Es una noticia relevante porque hasta ahora no había evidencia aleatorizada sólida de inmunoterapia adyuvante en este tumor de piel poco frecuente y agresivo.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico prospectivo y aleatorizado (ADAM trial); el título no precisa si fue ciego, ni el número de centros o de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células de Merkel de alto riesgo, en el contexto adyuvante (posterior a la cirugía).\nIntervención: Avelumab (anticuerpo anti-PD-L1) adyuvante; el comparador probable es observación o placebo, aunque el título no lo especifica.\nResultados: No hay cifras de supervivencia libre de recaída, supervivencia global, razones de riesgo ni valores de p disponibles sin el abstract.\nLimitaciones: El carcinoma de células de Merkel es un tumor poco frecuente, por lo que los ensayos suelen tener tamaños muestrales acotados y períodos de seguimiento que condicionan la solidez de las conclusiones.\nMensaje: Si los resultados son positivos, podría consolidar a la inmunoterapia adyuvante como nuevo estándar en el carcinoma de células de Merkel de alto riesgo resecado.\nNota: análisis sin acceso al abstract."
-    },
     "f2cf7abf7328": {
       "resumen": "The ASCO Post reporta que la mutación germinal (hereditaria) T790M del gen EGFR (receptor del factor de crecimiento epidérmico) se asocia con un riesgo significativamente mayor de cáncer de pulmón. Interesa porque, a diferencia de la T790M adquirida (ligada a resistencia a tratamiento), esta variante heredada podría justificar estrategias de detección temprana en portadores.",
       "destacado": false,
       "analisis": "Diseño: Estudio de asociación genética (probablemente cohorte o serie de casos con secuenciación germinal); el título no especifica número de pacientes, de centros ni si hubo grupo control.\nPoblación: Individuos portadores de la mutación germinal (hereditaria) T790M del gen EGFR (receptor del factor de crecimiento epidérmico), comparados presumiblemente con no portadores.\nIntervención: No aplica intervención terapéutica; es un estudio de riesgo genético/epidemiológico.\nResultados: No hay cifras de riesgo relativo, razón de momios ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios de mutaciones germinales raras suelen basarse en cohortes pequeñas o registros familiares, lo que limita la precisión de las estimaciones de riesgo.\nMensaje: Podría respaldar la incorporación del test de EGFR T790M germinal en el estudio de familias con alta carga de cáncer de pulmón, para definir vigilancia o detección temprana.\nNota: análisis sin acceso al abstract."
-    },
-    "8cc0600f59e6": {
-      "resumen": "The ASCO Post presenta datos de un anticuerpo monoclonal en investigación como tratamiento de segunda línea para el cáncer de pulmón de células no pequeñas (CPCNP) escamoso metastásico. Relevante porque el subtipo escamoso tiene menos opciones dirigidas que el no escamoso y sigue siendo un área de necesidad insatisfecha.",
-      "destacado": false,
-      "analisis": "Diseño: Aparenta ser un ensayo clínico (probablemente de fase temprana) de un anticuerpo monoclonal en investigación; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) de histología escamosa, metastásico, en segunda línea de tratamiento.\nIntervención: Anticuerpo monoclonal en investigación (no nombrado en el título); no se especifica comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el nombre del fármaco ni la fase del estudio no puede evaluarse la madurez de los datos ni el tamaño muestral.\nMensaje: Podría sumar una nueva opción para el CPCNP escamoso metastásico en segunda línea, un escenario con pocas alternativas dirigidas actualmente.\nNota: análisis sin acceso al abstract."
-    },
-    "3b7f3548c5a7": {
-      "resumen": "Un ensayo que sumaba venetoclax (un inhibidor de BCL-2) al esquema DA-EPOCH-R (quimioinmunoterapia con dosis ajustada de etopósido, prednisona, vincristina, ciclofosfamida, doxorrubicina y rituximab) en linfoma \"double-hit\" se detuvo por exceso de mortalidad en el grupo con venetoclax. Es una alerta de seguridad importante para quienes tratan este linfoma agresivo de alto riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado) que comparaba DA-EPOCH-R con y sin el agregado de venetoclax; se interrumpió tempranamente por una señal de seguridad, sin más precisiones en el título sobre número de centros o de pacientes.\nPoblación: Pacientes con linfoma \"double-hit\" (linfoma B de alto grado con reordenamientos de MYC y BCL2 o BCL6).\nIntervención: Agregado de venetoclax (inhibidor de BCL-2) al esquema DA-EPOCH-R, comparado contra DA-EPOCH-R solo.\nResultados: No hay cifras exactas de mortalidad, supervivencia global ni intervalos de confianza disponibles sin el abstract; el dato central es la interrupción del estudio por exceso de mortalidad en el brazo con venetoclax.\nLimitaciones: Un cierre anticipado por seguridad limita el poder estadístico para conclusiones definitivas de eficacia y puede reflejar una interacción farmacológica específica de esta combinación.\nMensaje: Desaconseja, al menos por ahora, agregar venetoclax a DA-EPOCH-R en linfoma \"double-hit\" fuera de un ensayo clínico controlado, hasta entender mejor la causa del exceso de mortalidad.\nNota: análisis sin acceso al abstract."
-    },
-    "2158706607be": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica \"When Survival Separates\" (Hall C et al.), un texto de tono reflexivo sobre cómo sobrevivir al cáncer puede distanciar a los pacientes de su entorno. Por su título y estilo parece un ensayo narrativo, propio de la sección de humanidades médicas de la revista, más que un estudio clínico.",
-      "destacado": false
-    },
-    "e71b642c0de7": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio de Shah K et al. sobre cómo la plasticidad transcriptómica y su arquitectura espacial dentro del tumor moldean la respuesta del melanoma a la inmunoterapia y a su combinación con inhibidores de BRAF y MEK (BRAF/MEKi). Relevante porque busca explicar a nivel molecular por qué unos melanomas responden a estos tratamientos y otros no.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio traslacional que combina perfil transcriptómico con análisis espacial de tejido tumoral de melanoma; el título no precisa el número de pacientes, de centros ni si la cohorte fue prospectiva o retrospectiva.\nPoblación: Pacientes con melanoma tratados con inmunoterapia o con la combinación de inhibidores de BRAF y MEK (BRAF/MEKi).\nIntervención: No es un ensayo de intervención farmacológica sino un análisis correlativo de biopsias tumorales según el tratamiento recibido (inmunoterapia frente a combinación BRAF/MEKi).\nResultados: No hay cifras de supervivencia global, supervivencia libre de progresión, razones de riesgo ni valores de p disponibles sin el abstract.\nLimitaciones: Los estudios traslacionales de este tipo suelen trabajar con muestras pequeñas y requieren validación en cohortes independientes antes de trasladarse a la práctica.\nMensaje: Podría ayudar a identificar biomarcadores de plasticidad tumoral que anticipen qué pacientes con melanoma se benefician más de la inmunoterapia frente a la combinación con BRAF/MEKi.\nNota: análisis sin acceso al abstract."
-    },
-    "51bb2ddf585c": {
-      "resumen": "The Lancet Oncology publica un análisis transversal (cross-sectional) de Figi JT et al. sobre el gasto sanitario mundial destinado al control del cáncer. Sirve para dimensionar cuánto invierte cada país o región en oncología y detectar brechas entre el gasto y la carga real de la enfermedad.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional de tipo transversal (cross-sectional analysis) que compara el gasto sanitario en control del cáncer entre países o regiones; el título no precisa la fuente de datos, el período analizado ni el número de países incluidos.\nPoblación: No son pacientes individuales sino sistemas de salud o países, analizados según su gasto declarado en control del cáncer.\nIntervención: No aplica intervención; es un análisis descriptivo/comparativo del gasto sanitario, sin comparador terapéutico.\nResultados: No hay cifras de gasto per cápita, proporción del producto bruto ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los análisis de gasto sanitario dependen de la calidad y comparabilidad de las fuentes de datos entre países, y un diseño transversal no permite establecer tendencias temporales ni causalidad.\nMensaje: Puede orientar decisiones de política sanitaria al identificar países o regiones con subinversión relativa en control del cáncer frente a su carga de enfermedad.\nNota: análisis sin acceso al abstract."
-    },
-    "7dd5fddae847": {
-      "resumen": "The New England Journal of Medicine publica un estudio de Sasieni P et al. sobre el efecto del cribado con un test de detección precoz multicáncer (MCED, por sus siglas en inglés, un análisis de sangre que busca señales tumorales de múltiples tipos de cáncer a la vez) sobre el diagnóstico de cáncer en estadio avanzado. Es un tema de altísimo interés porque estos test prometen detectar varios tumores con un solo estudio de sangre, aunque su impacto real en la práctica todavía se está definiendo.",
-      "destacado": false,
-      "analisis": "Diseño: Aparenta ser un ensayo clínico o estudio de cribado poblacional (posiblemente aleatorizado) que evalúa el efecto de un test de detección precoz multicáncer (MCED); el título no precisa aleatorización, cegamiento, número de centros ni de participantes.\nPoblación: Personas sometidas a cribado con el test de detección precoz multicáncer (MCED), presumiblemente adultos sin diagnóstico previo de cáncer.\nIntervención: Cribado con test MCED (biomarcador en sangre para múltiples tipos de cáncer) frente a la atención habitual sin este cribado.\nResultados: No hay cifras de reducción de diagnósticos en estadio avanzado, sensibilidad, especificidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Los estudios de cribado requieren seguimientos largos para demostrar impacto en el estadio al diagnóstico y, eventualmente, en la mortalidad, y pueden verse afectados por sesgos de sobrediagnóstico y de tiempo de anticipación (lead-time bias).\nMensaje: Si demuestra una reducción real de diagnósticos en estadio avanzado, respaldaría la incorporación del cribado con test MCED como herramienta complementaria de detección temprana del cáncer.\nNota: análisis sin acceso al abstract."
-    },
-    "ed4f4cdc0137": {
-      "resumen": "The New England Journal of Medicine publica un editorial de Hunter DJ et al. que comenta el estudio sobre cribado con test de detección precoz multicáncer (MCED) publicado en el mismo número. Ayuda a poner en contexto los alcances y las limitaciones reales de estos test, presentados muchas veces como la \"solución mágica\" para detectar el cáncer a tiempo.",
-      "destacado": false
-    },
-    "df6772d8aa04": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un análisis a nivel de paciente sobre el ancho de margen quirúrgico óptimo en la tumorectomía (lumpectomía) para el carcinoma ductal in situ (CDIS), usando datos de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer) de Estados Unidos. Relevante porque el margen quirúrgico ideal en CDIS es un tema históricamente controvertido que impacta las tasas de recidiva y de reoperación.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional retrospectivo, análisis a nivel de paciente dentro de un estudio especial de la National Cancer Database (Base de Datos Nacional del Cáncer); el título no especifica número de pacientes ni de centros.\nPoblación: Pacientes con diagnóstico de carcinoma ductal in situ (CDIS) tratadas con tumorectomía (lumpectomía).\nIntervención: Comparación de distintos anchos de margen quirúrgico obtenidos en la cirugía; no es una intervención farmacológica sino un análisis de la práctica quirúrgica real.\nResultados: No hay cifras de tasa de recidiva local, de reoperación ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser un análisis retrospectivo de una base de datos administrativa, está sujeto a heterogeneidad en la técnica quirúrgica y el reporte patológico entre centros, y no permite establecer causalidad.\nMensaje: Podría aportar evidencia de la práctica real para ajustar las recomendaciones sobre el margen quirúrgico óptimo en la tumorectomía por CDIS, buscando reducir reoperaciones sin aumentar el riesgo de recidiva.\nNota: análisis sin acceso al abstract."
     },
     "8f2aa7d223b9": {
       "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Durazzi."
@@ -65,41 +12,8 @@
     "b9546ba1e958": {
       "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Venerdì Pomeriggio."
     },
-    "31884f68b4a8": {
-      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Brunello Cucinelli."
-    },
-    "83ff004b117f": {
-      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Etro."
-    },
-    "81a6ff0160a9": {
-      "resumen": "Revista CLARA propone diez ideas de uñas cortas y sencillas, con colores de tendencia y diseños minimalistas para el otoño."
-    },
-    "8993242c1185": {
-      "resumen": "Vogue México reúne doce diseños de uñas para el otoño, recomendados por una manicurista experta."
-    },
-    "ca282b3b2727": {
-      "resumen": "Kate Middleton lució un vestido morado de manga larga que se destacó como uno de sus looks más elegantes de septiembre."
-    },
-    "2843372ddc7f": {
-      "resumen": "Zara lanzó unos zapatos de tacón bajo inspirados en el estilo elegante de Carolina Herrera para el otoño."
-    },
-    "f2c467221b63": {
-      "resumen": "El \"turquesa inesperado\", un tono asociado al verano, se impone como la tendencia de color más viral de este otoño-invierno."
-    },
-    "9fe3784f1b6f": {
-      "resumen": "Revista OHLALÁ! repasa cuatro tendencias del street style de la Semana de la Moda de Milán que se impondrán en 2027."
-    },
     "385654f07909": {
       "resumen": "Página/12 propone actividades vinculadas a la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
-    },
-    "65b880d1ae21": {
-      "resumen": "Fotografiaron al conductor Turco Naim junto a una mujer no identificada en el teatro, y un detalle de la imagen generó revuelo."
-    },
-    "acde0249a281": {
-      "resumen": "El Centro Cultural Andalucía de Buenos Aires realizó su primer encuentro coral, con la participación de casi cien artistas."
-    },
-    "4789908e8c95": {
-      "resumen": "El cantante venezolano Carlos Baute habló sobre su próximo show en el Teatro Ópera de Buenos Aires."
     },
     "c67dd257129c": {
       "resumen": "Por el Día Mundial de la Paella, las promociones en restaurantes porteños se extienden hasta el miércoles."
@@ -110,14 +24,82 @@
     "075e6ef2c33a": {
       "resumen": "Un repaso por los restaurantes de Buenos Aires que obtuvieron premios y reconocimientos."
     },
-    "99944a91cd18": {
-      "resumen": "Un recorrido por las nuevas aperturas gastronómicas de Buenos Aires durante 2026."
-    },
     "43717c4fd82f": {
       "resumen": "Una guía de planes y actividades para aprovechar el próximo feriado y fin de semana largo en la Provincia de Buenos Aires."
     },
     "e787c550dcda": {
       "resumen": "Una selección de planes para todos los gustos y disfrutar el fin de semana en la Ciudad de Buenos Aires con la llegada de la primavera."
+    },
+    "4fd33a24cdc5": {
+      "resumen": "OncLive entrevista al Dr. Kahl sobre estrategias de primera línea para evitar el trasplante autólogo de células madre en el linfoma de células del manto (MCL). Interesa porque el trasplante autólogo conlleva toxicidad relevante y crece el interés en identificar pacientes que puedan prescindir de él sin perder eficacia.",
+      "destacado": false
+    },
+    "12997d30ce54": {
+      "resumen": "OncLive entrevista a la Dra. Barot sobre los resultados en el sistema nervioso central (SNC) con palbociclib, un inhibidor de CDK4/6, en cáncer de mama HER2 positivo (receptor 2 del factor de crecimiento epidérmico humano). Relevante porque las metástasis cerebrales siguen siendo un desafío terapéutico frecuente en este subtipo de tumor.",
+      "destacado": false
+    },
+    "2f15eaf2f0a3": {
+      "resumen": "OncLive entrevista al Dr. Kuykendall sobre el significado de la aprobación por la FDA (agencia regulatoria de medicamentos de Estados Unidos) de rusfertide para la policitemia vera, una neoplasia mieloproliferativa. Interesa por tratarse de un mecanismo novedoso, mimético de la hormona hepcidina, que podría reducir la necesidad de flebotomías periódicas.",
+      "destacado": false
+    },
+    "cc1aa63d66f3": {
+      "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó lirafugratinib, un inhibidor de FGFR2 (receptor 2 del factor de crecimiento de fibroblastos), para el colangiocarcinoma irresecable, localmente avanzado o metastásico ya tratado previamente. Importa porque suma una opción dirigida más en un tumor biliar agresivo y de mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Aprobación regulatoria de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) basada presumiblemente en un ensayo de fase temprana de un solo brazo; el título no especifica el nombre del ensayo ni el número de centros o de pacientes.\nPoblación: Pacientes con colangiocarcinoma irresecable, localmente avanzado o metastásico, previamente tratados, presumiblemente con alteraciones en FGFR2 (receptor 2 del factor de crecimiento de fibroblastos).\nIntervención: Lirafugratinib, un inhibidor de FGFR2; no se especifica comparador, algo habitual en aprobaciones basadas en estudios de un solo brazo.\nResultados: No hay cifras de tasa de respuesta objetiva, duración de la respuesta ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios de un solo brazo carecen de grupo comparador, lo que dificulta estimar el beneficio incremental frente al estándar de tratamiento actual.\nMensaje: Amplía el arsenal terapéutico dirigido para el colangiocarcinoma con alteraciones en FGFR2, aunque restringido por ahora a pacientes ya tratados.\nNota: análisis sin acceso al abstract."
+    },
+    "25c2b9eee5b8": {
+      "resumen": "The ASCO Post reporta que trastuzumab rezetecan, un anticuerpo conjugado a fármaco (ADC) dirigido a HER2 (receptor 2 del factor de crecimiento epidérmico humano), mejoró la supervivencia libre de progresión en cáncer colorrectal avanzado HER2 positivo refractario a quimioterapia. Interesa porque representa una alternativa dirigida en un escenario con pocas opciones tras progresar a los tratamientos estándar.",
+      "destacado": false,
+      "analisis": "Diseño: Aparenta ser un ensayo clínico (fase no especificada en el título) que evalúa trastuzumab rezetecan; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal avanzado HER2 positivo (receptor 2 del factor de crecimiento epidérmico humano), refractarios a quimioterapia.\nIntervención: Trastuzumab rezetecan, un anticuerpo conjugado a fármaco (ADC) anti-HER2; no se especifica comparador en el título.\nResultados: El título indica una mejora en la supervivencia libre de progresión, pero no hay cifras de medianas, razón de riesgo (hazard ratio) ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse la magnitud del beneficio, el perfil de toxicidad ni si el diseño fue aleatorizado y controlado.\nMensaje: Podría sumar una opción dirigida más para el cáncer colorrectal HER2 positivo refractario a quimioterapia, un escenario con opciones terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "934abdac5902": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la réplica de Cucchiari D et al. a una carta sobre los métodos de medición de creatinina y la transparencia en la dosificación de carboplatino en el ensayo neoCARHP. Es una discusión metodológica entre autores sobre cómo calcular correctamente la dosis de quimioterapia según la función renal.",
+      "destacado": false
+    },
+    "568c92ce2928": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica el seguimiento a cinco años del ensayo de fase III ASCOT, de Ikeda M et al., sobre S-1 (una fluoropirimidina oral) como tratamiento adyuvante tras la resección quirúrgica del cáncer de vías biliares. Relevante porque aporta datos de supervivencia a largo plazo sobre un esquema adyuvante ya instalado en la práctica.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III (ASCOT), con seguimiento extendido a cinco años; el título no precisa si fue aleatorizado, ciego, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de vías biliares (tracto biliar) sometidos a resección quirúrgica, en el contexto adyuvante.\nIntervención: S-1 (fluoropirimidina oral) adyuvante; el comparador habitual en este tipo de ensayos es observación o cirugía sola, aunque el título no lo especifica.\nResultados: No hay cifras de supervivencia global, supervivencia libre de enfermedad, razón de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño muestral, la tasa de eventos ni la solidez estadística del seguimiento a cinco años.\nMensaje: El seguimiento a largo plazo permite confirmar (o no) si el beneficio inicial de S-1 adyuvante en cáncer de vías biliares se mantiene en el tiempo, información clave para consolidar el estándar de tratamiento.\nNota: análisis sin acceso al abstract."
+    },
+    "9e79c8e9827d": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la carta original de Ando Y et al. que cuestiona los métodos de medición de creatinina y la transparencia en la dosificación de carboplatino en el ensayo neoCARHP. Plantea un debate metodológico sobre cómo se calculó la dosis de quimioterapia según la función renal en ese estudio.",
+      "destacado": false
+    },
+    "6ccdb922a867": {
+      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Rosie Assoulin."
+    },
+    "f62b52a966b4": {
+      "resumen": "Vogue repasa el desfile de la colección primavera 2027 ready-to-wear de Onitsuka Tiger."
+    },
+    "053aeb3a38ab": {
+      "resumen": "Vogue México repasa la verdadera historia de Lizzie Borden y los personajes reales detrás de la serie 'Monstruo'."
+    },
+    "9e9fff31e380": {
+      "resumen": "El Museo Jumex presenta 'Cuéntamelo todo', una muestra provocativa del artista Richard Prince, este otoño 2026."
+    },
+    "2929930ee008": {
+      "resumen": "LuxuryLab Global 2026 anticipa las tendencias que definirán el futuro de la industria del lujo."
+    },
+    "5e7ca5f1b257": {
+      "resumen": "MILENIO selecciona los ocho modelos de zapatos que serán tendencia en el otoño-invierno 2026/2027."
+    },
+    "ff97033d1fe8": {
+      "resumen": "Un repaso por las tendencias que marcarán la moda de esta temporada de otoño."
+    },
+    "7495e1d14949": {
+      "resumen": "Vogue México comparte seis tendencias vistas en Vogue World Milán 2026 que ya se pueden adoptar."
+    },
+    "5b5080e1b5d5": {
+      "resumen": "La Ciudad de Buenos Aires reducirá impuestos a hoteles y restaurantes a partir de 2027."
+    },
+    "2ea6c3b306cd": {
+      "resumen": "La banda Los Pérez García estrena el videoclip de 'Digan Whisky' y anuncia un nuevo show en Buenos Aires."
+    },
+    "26195b4e690b": {
+      "resumen": "El Teatro Colón transmitirá en forma gratuita el concierto de la Orquesta Filarmónica de Buenos Aires."
+    },
+    "c017f06aec4c": {
+      "resumen": "El cantante Rodrigo Tapari se presentará en el Teatro Ópera con un show especial y varias sorpresas."
     }
   }
 }
