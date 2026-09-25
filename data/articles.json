@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-09-24T21:36:49.912463+00:00",
+ "generated_at": "2026-09-25T00:37:02.489401+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Roy S. Herbst, MD, PhD, on Resected EGFR-Mutated NSCLC: Long-Term Overall Survival With Osimertinib",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmZ4WHBkMEdjQWJBSlRrenJzNW1wM0g0dUZDekl0VncxQUNveXVPNl9TQ1Fqd2ZUb2hBTHNOQXpwcGtwZ08yNWhMd2taWVdDZ1d1b2hERFJ2WGRXQXhiOFN0QW9KUlJvcWh5MXRpcDBHblRZMmw5NDFjekg2Z3I0MHRiRHd5OUJLcURPT1BJM1d3ZHhCOVFIRHVDQ3VsbzNTVHV5S0s4NkFtSmhRNUdaVVJOYlpOdmM?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-09-24T20:19:15+00:00",
+     "id": "a1c7fcb13614"
+    },
     {
      "title": "Jonathan W. Goldman, MD, on SCLC: Tarlatamab Extended-Interval Dosing Regimens",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUx4THJzVDNsdWZ3M3hTMDVjdS1wRWtfMENkN3NPQW9Ybm42SkVhdU45R05MRmV4bk9uNXF5YnZIb2NhbVFYdGVXRktDZ3FaX3RxTDJNekV1N1lvX3QzX0c3eWIyWXdOMDVYTjhQWkhKeF9oSjNWSXFpMW85ckVsdXFQVV9Tcm5yR2g2ZnhSNExTb3dWa1lFUHNB?oc=5",
@@ -35,17 +42,10 @@
      "id": "1acc171da238"
     },
     {
-     "title": "FDA Advisory Committee Votes In Favor of Approval of Multi-Cancer Early Detection Test",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGM1M2xYT01ZTERPODV6TF9rZDBfdFFUQ3NGUFNyMm9PXzFRbEJacHl6QUpRS3hTdEd5c19MTi1CaTNoamtBbEItU2NaMVFjWWxjOURJTzJCOU80bEV0ZFhERlgtV3llVmZ6WktQUEM4QXRoXzRDUW1udEhRYTFCU0dtaGg1VWppbmsxMGJpUnZHR3dyM1BXaWFxZWxzLWZKNWlwVnh1cDdsalowV0lXMGxKNXhqUy1QU3BSN3lTSDJDRTZZU0c4?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-09-24T17:28:17+00:00",
-     "id": "d12f9ec28f35"
-    },
-    {
      "title": "FDA MCGP Panel Vote Backs Galleri Multi-Cancer Early Detection Test",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzBDLVBpMW5famZaVkJRaTNfMVJ1bWNJMWFkUlhpMDlKUlRNN08xWXViVXItNllDUzFjdHVwY2laNDZGUjl1TXpYMmUxNmxkSmdROGJrOEZYLUVKdHl0dEl3YzE2VGQ0Y0VlbElrRHF0ZWdFWFo4ZENVWnREMXNKejFzR2J4SW1mSG5vUFRpendyM1JZZnhhbll3Unk?oc=5",
      "source": "OncLive",
-     "published": "2026-09-24T16:39:31+00:00",
+     "published": "2026-09-24T16:48:02+00:00",
      "id": "2ed7a5a52e9a"
     },
     {
@@ -73,28 +73,28 @@
      "id": "9e79c8e9827d"
     },
     {
-     "title": "Global health expenditures on cancer control: a cross-sectional analysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42772318/",
-     "source": "Lancet Oncology",
+     "title": "Effect of Screening with Multicancer Early-Detection Test on Late-Stage Cancer Diagnosis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42776074/",
+     "source": "NEJM Oncología",
      "published": "2026-09-22T00:00:00+00:00",
-     "copete": "Figi JT et al. · The Lancet. Oncology",
-     "id": "51bb2ddf585c"
+     "copete": "Sasieni P et al. · The New England journal of medicine",
+     "id": "7dd5fddae847"
     },
     {
-     "title": "2026 World Conference on Lung Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42753778/",
-     "source": "Lancet Oncology",
-     "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Patodia S et al. · The Lancet. Oncology",
-     "id": "8a042019459b"
+     "title": "A Step in the Search for the Elusive Holy Grail of Early Detection of Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42776061/",
+     "source": "NEJM Oncología",
+     "published": "2026-09-22T00:00:00+00:00",
+     "copete": "Hunter DJ et al. · The New England journal of medicine",
+     "id": "ed4f4cdc0137"
     },
     {
-     "title": "Kenya agrees major cuts to cancer drug prices",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42753777/",
-     "source": "Lancet Oncology",
+     "title": "Colorectal Cancer Risk among Patients with Serrated Polyps",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42748438/",
+     "source": "NEJM Oncología",
      "published": "2026-09-17T00:00:00+00:00",
-     "copete": "Samarasekera U et al. · The Lancet. Oncology",
-     "id": "cb5cd3c30008"
+     "copete": "Dekker E et al. · The New England journal of medicine",
+     "id": "b15fc07002dd"
     }
    ]
   },
@@ -104,32 +104,53 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Brioni Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brioni",
+     "source": "Vogue",
+     "published": "2026-09-25T00:35:29+00:00",
+     "id": "e22e95c66bc3"
+    },
+    {
+     "title": "Emporio Armani Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/emporio-armani",
+     "source": "Vogue",
+     "published": "2026-09-25T00:35:29+00:00",
+     "id": "31a16855e769"
+    },
+    {
+     "title": "Greta Constantine Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/greta-constantine",
+     "source": "Vogue",
+     "published": "2026-09-25T00:35:29+00:00",
+     "id": "6158677c4c97"
+    },
+    {
      "title": "Gabe Gordon Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabe-gordon",
      "source": "Vogue",
-     "published": "2026-09-24T21:35:45+00:00",
+     "published": "2026-09-25T00:35:29+00:00",
      "id": "2215859ffae8"
     },
     {
-     "title": "Alberta Ferretti Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/alberta-ferretti",
-     "source": "Vogue",
-     "published": "2026-09-24T21:35:45+00:00",
-     "id": "d08ab17db74b"
+     "title": "¿Realmente necesitas tantos productos en tu rutina de skincare? Mathilde Thomas, fundadora de Caudalie, responde",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUxrTnVZWGJYSmVxaFNVSGR0Zy1MdVFPYlFFN1NDdkk1R09ORTJZMmZZNTJ3LUVvbVI3OTA3N3pyWDZYQnJCZFh4R3Fha1VZU3ZvVzFIVUh1Nlg3VVlqa3VHTV9nbVNzQ1BKZllDTzJ4OHFsNmRnV0tSOUs2bmRwMTdFeE42UEIwdVJ0TA?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-24T23:22:12+00:00",
+     "id": "1dcdcc14460d"
     },
     {
-     "title": "Roberto Cavalli Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/roberto-cavalli",
-     "source": "Vogue",
-     "published": "2026-09-24T21:35:45+00:00",
-     "id": "b8f4c4e2d010"
+     "title": "El nuevo lujo se vive distinto en Medellín gracias a Wake",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FdFFCMGhzTy1pQzdNVVNfVlQ3c29mNzREaUlkc1pYU1NvckRnYnhiZ21pemRaVDBxUVdEMzdGVjRSU25MY1ZoTGZvSTdjUXJ0azdDZ2NJZVVJNmpsMVZhSkpjQ2lOMFd1MnMzV3FLVQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-09-24T22:28:56+00:00",
+     "id": "7eb1cef49fda"
     },
     {
-     "title": "Anteprima Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/anteprima",
-     "source": "Vogue",
-     "published": "2026-09-24T21:35:45+00:00",
-     "id": "2029cb53357b"
+     "title": "Maxing: la nueva moda entre jóvenes que podría ponerlos en riesgo",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmRKWVJfakdRWTJzajdPU3dmQmxLVmhFanAtcm5FWnFvNzdYZGRfTU1wWjN3MHdQZDl5WGFMeGZDWVVYN2stWlpteGx4bmNSTXdIdHJHZERjek92WkZ0UGRqOWRLdjNVRFZnSVZFWEJRa09CMy1fa09VQzhKZEs3ckhnRWhRajYwcUJOQUUxNFJ5WTlFRkhFR2xrQTMzSl9uNlktQ1JwOERjUHMyaXFYYWh6cmxmbjNqMmw3MDB2dlFoUHF4RTJN?oc=5",
+     "source": "El Heraldo de México",
+     "published": "2026-09-24T21:42:00+00:00",
+     "id": "ce7b8d931924"
     },
     {
      "title": "Aria Vega está viviendo su momento (y está lista para mucho más)",
@@ -139,25 +160,11 @@
      "id": "77f5558da0da"
     },
     {
-     "title": "Cuál es el código de vestimenta de la Gala Vogue de Día de Muertos 2026: Muralismo femenino a través de pinceladas, color y tejidos",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3ppVHFlVWNFNlQ1VkxZVW0zcnBqQnZkRDF4QktlNWVOcUNuQ3BnTVo1UzFVWDBYYmxfSDducHVQTjl2SnM1RUN0QjBjc19LeF9EcEJxWEhZQUd5UUZCSWVvQ2hVZlcySzI2WmFPZkhKWm9vbHVHUHlsY0NUSFpueXhIRFcwblNO?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-24T19:22:33+00:00",
-     "id": "3915672e3a16"
-    },
-    {
-     "title": "Las faldas elegantes a la rodilla (y minis) se llevan así según este desfile de Primavera-Verano 2027",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWVGdzMwRE11SlBHS284aUdGWlV6eG9kdFZSRFpGbThGLVBNYUZuUUs1UV9fNUdzdUdnYjBVYmFOYjV3VGJ5Q0VDYl9XWmRia0xPLWdBa2ctNEdOZklscGVURXNSZ0lXWXJ2SHVXMTF4OVpRS1k0dXluYmZyaEs3dUstb2g3dVIzU2JpRWlqX2VRYnMxSmxFOGtBcWNUNmxF?oc=5",
-     "source": "Vogue México",
-     "published": "2026-09-24T18:29:13+00:00",
-     "id": "6222ff9501cb"
-    },
-    {
-     "title": "El bolso que se ha convertido en el favorito de las famosas mejor vestidas: el accesorio que está dominando las tendencias de moda",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3NoMVBadEo5VUVvaXlmRG1jbU1kSExHRTB0OHh6VUE4UnRuVUpvcGdyZUg2aERTRTBycEV5VnVNY09jTG5oekZncFhvZWRyRWZ6cGgyLTRlYXNoNTliT203dEhOd01FU3F1NkN1Vk9FQ3BRbFZBdkFUMXZoSmRIeVBYalRDWHpJcmVxSmlseEZEXzRuMWJFYkg3VVBRVDdfaFdXRGhmWmotWXZHRnpaQm50bjA4bnVodExUVDRuUjdDRl9SRFEwcmRZQXl4eFRod1JV?oc=5",
+     "title": "El bolso que se ha convertido en el favorito de las famosas mejor vestidas: el accesorio que está dominando...",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3NoMVBadEo5VUVvaXlmRG1jbU1kSExHRTB0OHh6VUE4UnRuVUpvcGdyZUg2aERTRTBycEV5VnVNY09jTG5oekZncFhvZWRyRWZ6cGgyLTRlYXNoNTliT203dEhOd01FU3F1NkN1Vk9FQ3BRbFZBdkFUMXZoSmRIeVBYalRDWHpJcmVxSmlseEZEXzRuMWJFYkg3VVBRVDdfaFdXRGhmWmotWXZHRnpaQm50bjA4bnVodExUVDRuUjdDRl9SRFEwcmRZQXl4eFRod1JV0gHYAUFVX3lxTE9tYzgxbjZuMVRPMlhrc0U4Tzc3aG5ZMWdBUWxLNC1FODgxaU4zN0Zrc0RpbG9fWEwzTDJkZHcxOFhyZ0s5M1RuWlBBTmVQbzVfeTNRdVdGMVAzTmZacHNwbUlfdWkyMzB0MW1ESHJOa3A0STJSUE55VEZlMjZ5VEhqUW4xTW1EZndsMUNjQTFPUVFmV21PanRJYmdLeWRMWWtLa0lKQ0RDVXEyeTZfTmJsbU0wZEF3NU1xRGh4dU1rUURnOFFVNTVOTUJHQnJ4bkd3MWo3Z0lkUQ?oc=5",
      "source": "OkDiario",
      "published": "2026-09-24T18:20:18+00:00",
-     "id": "6c178272857b"
+     "id": "0fea51c21a2b"
     },
     {
      "title": "De la estética 'boudoircore' a los 'crop tops': las tendencias primavera/verano 2027 vistas en la Semana de la Moda de Milán",
@@ -165,13 +172,6 @@
      "source": "Harper's BAZAAR",
      "published": "2026-09-24T17:10:53+00:00",
      "id": "b3a55d64558a"
-    },
-    {
-     "title": "Ni azul cobalto, ni verde bosque: Mango ha hablado y este es el color tendencia más elegante de la temporada",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aT2ZhMlJQdTFsSzd1YXdTandhNDdPX0UzZnlVb3o3dXlDR1RlbmFPRl9OUzhuM2JjRlc2QlgxLVNhbXVtOWRWWEdMQ0NYSXZRei1Xc0djVF9tQXVqTGZVbGFjSkZ6TjU0Q2dHRlRzSFo?oc=5",
-     "source": "Revista CLARA",
-     "published": "2026-09-24T17:00:00+00:00",
-     "id": "e506b407c2f5"
     }
    ]
   },
@@ -181,59 +181,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Pampita reaccionó a su error con la China Suárez: la filosa foto que publicó luego de la polémica",
+     "title": "La reacción de Lali Espósito al enterarse que hizo sold out en su tercer River del año: “Me quedé tiesa”",
+     "link": "https://www.infobae.com/teleshow/2026/09/25/la-reaccion-de-lali-esposito-al-enterarse-que-hizo-sold-out-en-su-tercer-river-del-ano-me-quede-tiesa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-25T00:02:28+00:00",
+     "copete": "La cantante recibió la noticia durante un ensayo y agradeció a su equipo por el trabajo detrás del concierto que despedirá su gira este sábado en el Monumental ante miles de seguidores",
+     "id": "791015506f95"
+    },
+    {
+     "title": "Pampita reaccionó a su error con la China Suárez: la irónica foto que publicó luego de la polémica",
      "link": "https://www.infobae.com/teleshow/2026/09/24/pampita-reacciono-a-su-error-con-la-china-suarez-la-filosa-foto-que-publico-luego-de-la-polemica/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-24T21:31:30+00:00",
+     "published": "2026-09-24T23:57:11+00:00",
      "id": "8ee6925b3efa"
     },
     {
-     "title": "Melody Luz reavivó su conflicto con Mariana Nannis: “Mi hija no sabe quién es”",
-     "link": "https://www.infobae.com/teleshow/2026/09/24/melody-luz-reavivo-su-conflicto-con-mariana-nannis-mi-hija-no-sabe-quien-es/",
+     "title": "El comentario transfóbico de Daniel Avellaneda contra Flor de la V: “Este señor tiene la mente equivocada”",
+     "link": "https://www.infobae.com/teleshow/2026/09/24/el-comentario-transfobico-de-daniel-avellaneda-contra-flor-de-la-v-este-senor-tiene-la-mente-equivocada/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-24T21:05:06+00:00",
-     "copete": "La bailarina volvió a responderle a su suegra por su ausencia en el rol de abuela y se mostró tajante con la madre de Alex Caniggia",
-     "id": "e578441a26ed"
+     "published": "2026-09-24T23:42:09+00:00",
+     "copete": "El periodista deportivo cuestionó al aire una publicación de la conductora y sostuvo sus expresiones pese a que Jonatan Viale pidió respetar su género durante el intercambio en el programa",
+     "id": "8a47711f70b1"
     },
     {
-     "title": "La reacción de Sofía Solá, la hija de Maru Botana, al ser relacionada sentimentalmente con Franco Colapinto",
-     "link": "https://www.lanacion.com.ar/espectaculos/la-reaccion-de-sofia-sola-la-hija-de-maru-botana-al-ser-relacionada-sentimentalmente-con-franco-nid24092026/",
+     "title": "Quién toca en el Movistar Arena hoy: todos los recitales de octubre 2026 en la Argentina",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-toca-en-el-movistar-arena-hoy-todos-los-recitales-de-octubre-2026-en-la-argentina-nid23092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-24T21:03:28+00:00",
-     "copete": "La joven decidió responder a los rumores de romance con un divertido video de TikTok y su madre se mostró muy contenta de que puedan ser novios",
-     "id": "406a1dcb5def"
+     "published": "2026-09-24T23:41:22+00:00",
+     "copete": "El microestadio ubicado en el barrio porteño de Villa Crespo recibe mes a mes a distintos artistas nacionales e internacionales; los detalles en la nota",
+     "id": "40bab16ddb3b"
     },
     {
-     "title": "Mis muertos tristes: así es la serie que protagoniza Mercedes Morán y por qué hay que verla",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/mis-muertos-tristes-asi-es-la-serie-que-protagoniza-mercedes-moran-y-por-que-hay-que-verla-nid24092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-24T21:03:10+00:00",
-     "copete": "La ficción, que dirige Pablo Larraín y basada en cuentos de Mariana Enríquez, se estrenó hoy en Netflix",
-     "id": "5b10aa4e8dbe"
-    },
-    {
-     "title": "Fabiana Araujo se casa: de encontrar el amor en un bar a planear una boda de ensueño",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/fabiana-araujo-se-casa-de-encontrar-el-amor-en-un-bar-a-planear-una-boda-de-ensueno-nid24092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-09-24T20:40:18+00:00",
-     "copete": "La conductora y el empresario Marcelo Dimini darán el “sí, quiero” este sábado 26 de septiembre; “Estamos muy emocionados”, le contó a LA NACION",
-     "id": "69e661a9a21c"
-    },
-    {
-     "title": "Las Madres del Dolor contra la China Suárez luego de su video viral: “Utilizó a su hijo para burlarse de la seguridad vial”",
-     "link": "https://www.infobae.com/teleshow/2026/09/24/las-madres-del-dolor-contra-la-china-suarez-luego-de-su-video-viral-utilizo-a-su-hijo-para-burlarse-de-la-seguridad-vial/",
+     "title": "Zoe Bogach celebró la compra de su nuevo departamento: \"No tengo idea de qué es el ABL\"",
+     "link": "https://www.infobae.com/teleshow/2026/09/24/zoe-bogach-celebro-la-compra-de-su-nuevo-departamento-no-tengo-idea-de-que-es-el-abl/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-09-24T20:31:34+00:00",
-     "copete": "La asociación posteó un mensaje en sus redes sociales repudiando el comportamiento de la actriz y de Mauro Icardi tras la inhabilitación para conducir que le impuso la autoridad de tránsito",
-     "id": "03f44d3afc84"
+     "published": "2026-09-24T23:18:41+00:00",
+     "copete": "La influencer compartió el momento en que firmó la escritura y contó, entre risas, que todavía está aprendiendo cuáles son los gastos de tener una vivienda propia",
+     "id": "e3ed535341d1"
     },
     {
-     "title": "Susan Sarandon fue detenida en Nueva York durante una protesta contra el primer ministro israelí Benjamín Netanyahu",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/susan-sarandon-fue-detenida-en-nueva-york-durante-una-protesta-contra-el-primer-ministro-israeli-nid24092026/",
+     "title": "Sofía Gonet recibirá un botón antipánico y custodia policial tras denunciar a su acosador",
+     "link": "https://www.infobae.com/teleshow/2026/09/24/sofia-gonet-recibira-un-boton-antipanico-y-custodia-policial-tras-denunciar-a-su-acosador/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-24T22:47:47+00:00",
+     "copete": "Fuentes policiales indicaron a Infobae que La Reini presentó la denuncia en la comisaría 14B y recibirá medidas de protección",
+     "id": "c38b9621b13e"
+    },
+    {
+     "title": "Eltrece y Telefe cruzan sus mejores cartas el sábado y el domingo: quiénes serán los invitados",
+     "link": "https://www.infobae.com/teleshow/2026/09/24/eltrece-y-telefe-cruzan-sus-mejores-cartas-el-sabado-y-el-domingo-quienes-seran-los-invitados/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-09-24T22:20:39+00:00",
+     "copete": "La ausencia de Mirtha Legrand por su internación pone a su nieta Juana Viale al frente de las dos mesazas de Eltrece, mientras Telefe despliega humor, folklore y debate con Andy Kusnetzoff y la dupla de Carina Zampini y Diego Leuco para…",
+     "id": "37d16a9abcd9"
+    },
+    {
+     "title": "El divertido test “milipili” que Valentino López le preparó a su hermana menor, Isabella Icardi",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-divertido-test-milipili-que-valentino-lopez-le-preparo-a-su-hermana-menor-isabella-icardi-nid24092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-09-24T20:06:10+00:00",
-     "copete": "La reconocida actriz, que suele tener una participación política y social muy activa, fue arrestada por la policía este jueves, mientras el premier israelí brindaba un discurso en la Asamblea General de la ONU",
-     "id": "21453f5187eb"
+     "published": "2026-09-24T21:53:08+00:00",
+     "copete": "El hijo mayor de Wanda Nara sometió a su hermana más pequeña a un divertido cuestionario en las redes sociales para descubrir si cumple con los requisitos de la jerga centennial",
+     "id": "babf10f03669"
+    },
+    {
+     "title": "Sylvester Stallone recordó el momento más difícil de su vida: “Gritos, cuerpos desnudos y lobotomías”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/sylvester-stallone-recordo-el-momento-mas-dificil-de-su-vida-gritos-cuerpos-desnudos-y-lobotomias-nid24092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-24T21:45:57+00:00",
+     "copete": "El protagonista de Rocky y Rambo relata en sus memorias, que están próximas a publicarse, la “pesadilla” que vivió en su adolescencia, cuando fue internado en una institución para “jóvenes problemáticos”",
+     "id": "714623bae732"
+    },
+    {
+     "title": "Denzel Washington, actor: “Desayuno sencillo con panceta, huevos y croquetas de papa, jugo de naranja y café”",
+     "link": "https://www.lanacion.com.ar/espectaculos/denzel-washington-actor-desayuno-sencillo-con-panceta-huevos-y-croquetas-de-papa-jugo-de-naranja-y-nid24092026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-09-24T21:39:00+00:00",
+     "copete": "La estrella de Hollywood contó cuáles son algunos de sus alimentos preferidos y cómo fue modificando sus costumbres con el paso de los años",
+     "id": "d69b8946b44f"
     },
     {
      "title": "A los 81 años, Nora Cárpena vuelve a protagonizar una ficción, en el regreso del género a la TV abierta",
@@ -242,30 +266,6 @@
      "published": "2026-09-24T20:03:44+00:00",
      "copete": "Llevará las riendas de \"Sombras\", un thriller psicológico que este jueves 24, a las 21, estrenará Net, uno de los siete canales de aire. Serán seis episodios, a estrenarse uno cada jueves. El escenario principal del relato será una vieja…",
      "id": "238823c6e269"
-    },
-    {
-     "title": "Una fotografía suya de 1990 en California sorprendió a Luciano \"El Tirri\" y provocó la reacción de su primera esposa",
-     "link": "https://www.infobae.com/teleshow/2026/09/24/una-fotografia-suya-de-1990-en-california-sorprendio-a-luciano-el-tirri-y-provoco-la-reaccion-de-su-primera-esposa/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-24T20:02:19+00:00",
-     "copete": "La postal, tomada en Laguna Beach junto a Mariana Tévez, hija del cantante Leo Dan, fue compartida por una de sus hijas y generó una respuesta de la mujer",
-     "id": "64bb575a9b8e"
-    },
-    {
-     "title": "La escandalosa pelea entre Majo Martino y María Eugenia Ritó: “Parecés el Ratón Mickey”",
-     "link": "https://www.infobae.com/teleshow/2026/09/24/la-escandalosa-pelea-entre-majo-martino-y-maria-eugenia-rito-pareces-el-raton-mickey/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-24T18:57:24+00:00",
-     "copete": "La panelista y la actriz protagonizaron una pelea en redes sociales luego del viaje a Miami de la influencer",
-     "id": "c771a298166e"
-    },
-    {
-     "title": "Analía Franchín se quebró en vivo al escuchar a la hermana de Pity Álvarez: \"Sentí mucha culpa por desear que se vaya\"",
-     "link": "https://www.infobae.com/teleshow/2026/09/24/analia-franchin-se-quebro-en-vivo-al-escuchar-a-la-hermana-de-pity-alvarez-senti-mucha-culpa-por-desear-que-se-vaya/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-09-24T18:25:07+00:00",
-     "copete": "La panelista no pudo contener las lágrimas al hablar de su propia historia familiar de adicción a las drogas",
-     "id": "40c53ac5de80"
     },
     {
      "title": "Rating del miércoles: con números bajos, Avenida Brasil volvió a ganarle al prime time y Popstars está cada vez más cerca de Guido Kaczka",
@@ -284,17 +284,24 @@
    "items": [
     {
      "title": "Qué hacer este fin de semana en Capital Federal: planes gastronómicos, musicales y más",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFg1WU9OMHJFQ0MtanlXZkV6ZjVKS2JkODdRZllqMXNJTlFyaC1CT1BuY19tNWVUX3dyUE5IbHZrY0kxaF9pZWtqV3JSRnAwUEt2akg4a1c5WldsRmZuSnRfVENhTXlnVjRxdnJOMlVGck5FOGpvcDBndVVOUXZkM2Jodjh6QzM4bHhOVkwwV05HRGR3TUQ1b09NT0dvUmJIQmJGdHAyV2xOV2hud3h0TmtxRmJrd2Z1VVFlWmxaS045RWNQcGfSAcsBQVVfeXFMUEFrQTlHUW1kbGE2WEF3NVM5N0VmSHpkbUR1aGtjX2RXdUVLbzJ1V09sYmZYZGlDZlFaWjRmUWlEZ0F4cm9HVXd1LTBVX3NqRkZwVjV2Rk5JNHVRRWF3UGVFbmFvY0hqaVB2ZnJCek55R2o2dzFHck9vTk1ZMm5TZy1BUURySDU3b2pjVjZyNV9OOGpVRGdFVFloWGFSVV83S3JERDQzUVJTeWpTQTFRRllCdllxOE9yNXlTUnBOemQ2V3Atd2FXQXRuV3c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWtBOUdRbWRsYTZYQXc1Uzk3RWZIemRtRHVoa2NfZFd1RUtvMnVXT2xiZlhkaUNmUVpaNGZRaURnQXhyb0dVd3UtMFVfc2pGRnBWNXZGTkk0dVFFYXdQZUVuYW9jSGppUHZmckJ6TnlHajZ3MUdyT29OTVkyblNnLUFRRHJINTdvamNWNnI1X044alVEZ0VUWWhYYVJVXzdLckRENDNRUlN5alNBMVFGWUJ2WXE4T3I1eVNScE56ZDZXcC13YVdBdG5Xd9IBywFBVV95cUxQQWtBOUdRbWRsYTZYQXc1Uzk3RWZIemRtRHVoa2NfZFd1RUtvMnVXT2xiZlhkaUNmUVpaNGZRaURnQXhyb0dVd3UtMFVfc2pGRnBWNXZGTkk0dVFFYXdQZUVuYW9jSGppUHZmckJ6TnlHajZ3MUdyT29OTVkyblNnLUFRRHJINTdvamNWNnI1X044alVEZ0VUWWhYYVJVXzdLckRENDNRUlN5alNBMVFGWUJ2WXE4T3I1eVNScE56ZDZXcC13YVdBdG5Xdw?oc=5",
      "source": "iProfesional",
      "published": "2026-09-24T21:15:00+00:00",
-     "id": "5b68204dd433"
+     "id": "f0017a03a191"
     },
     {
      "title": "Buenos Aires eximirá del ABL a hoteles y restaurantes",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeEtGUzNvQWZPY3IwdnVNSHlPQWd0c29JeXlqNTNTd05kcXctZHp2MmtEYUVob2Z6endJbUNUaG5oWFg5ak15MTc1QTBwcGpBbXVhb3o0S1VGeHFzMzZ1WGZxc1gzLXVSMVlmckhueVg0UkVSTElIcjNfNXJUZHhVVlR5TGxSZ3FoLUxFbWRNWUtGU1Q1czl4Y3FBWGFtamxZZFE?oc=5",
      "source": "REPORTUR",
-     "published": "2026-09-24T16:59:37+00:00",
+     "published": "2026-09-24T17:00:44+00:00",
      "id": "71b10ae2e2d2"
+    },
+    {
+     "title": "Agenda nacional de teatro: semana del 24 de septiembre al 1 de octubre",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjRmR183R1R1N18tWEEwT256czBOckZFR2hBRlNIcHlteWtDUlYxOEZDbVhqcURXZ1JNTGdsM1c2bmlUcUoxNGFGS0g2UktxbHFpa2JKdnZBbTRIMk55OHB0Y05HczJBeGlia3lDM0Y2UXRIazZxRW9fNjNSNVJXVGpfVXAyd1lwd3I0eTlsVGZyRUNVMXlQRngwRXhCQWMwczZuMXAyRHdjOHNHVHBBaXlfWnNiRWdxYnBnNWRZUQ?oc=5",
+     "source": "Escenarios Nacionales",
+     "published": "2026-09-24T16:46:50+00:00",
+     "id": "33f962f87215"
     },
     {
      "title": "Primavera, gastronomía y espectáculos: qué hacer este fin de semana en la Ciudad",
@@ -339,16 +346,9 @@
      "id": "2ea6c3b306cd"
     },
     {
-     "title": "El Teatro Colón transmitirá gratuitamente el concierto de la Filarmónica de Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQem5nMTI5bFdlQTljMXpGbnZJdm5xUkFPaE1VOHg0VmpwVUVpS1JjMGNhRzk2Sk9saE5vWjZLQXF0Q1hMWjUtZmtJNXJqOWNxempLb2QxRWhDWXR3UmlCNTFEUnFwZGlzMDFPQk9KWXBmajNkWTM4NGF1dW0wbklzR0RFSVd4VUVLY1pDS0VXMnVGb0EtZE1qNG1EVktoZk56ZjhRQXViQ3VEMnJzbWJ2MGVWS1NaUU5UUERWSXlIajdJZw?oc=5",
-     "source": "Diario El Sol Mendoza",
-     "published": "2026-09-23T20:29:24+00:00",
-     "id": "26195b4e690b"
-    },
-    {
      "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlg1VWNhMTltUjI3djl2WDF3REhQcWtTUkRJbURzWG9MajBKRmxkancyeFZFQjh6b0ZtX2pZNk5lLUJjdHVvSllPZkp1WTQ5d0t4akk2czBKNVgxcVhyZ1N6RjBLTjhEUko4bUJKR1IzcTVtM3p5bmN3NXB2REoyWF9ZbUlGbW5NSE9ZZnBfcFppYlQwWHYtR2swV1EtVHE0?oc=5",
-     "source": "pagina12.com.ar",
+     "source": "Página|12",
      "published": "2026-09-23T16:04:08+00:00",
      "id": "385654f07909"
     }
@@ -360,84 +360,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El Senado cambió la reforma de la carta orgánica del Banco Central y el proyecto regresa a Diputados",
-     "link": "https://www.infobae.com/politica/2026/09/24/el-senado-cambio-la-reforma-de-la-carta-organica-del-banco-central-y-el-proyecto-regresa-a-diputados/",
+     "title": "Meta lanzará en 2027 unas gafas VR ultraligeras de 100 gramos: precio y características",
+     "link": "https://www.infobae.com/tecno/2026/09/24/meta-lanzara-en-2027-unas-gafas-vr-ultraligeras-de-100-gramos-precio-y-caracteristicas/",
      "source": "Infobae",
-     "published": "2026-09-24T21:35:04+00:00",
-     "copete": "Se eliminaron los 2/3 de ambas Cámaras para remover autoridades. Será mayoría absoluta -mitad más uno del total del pleno- y sólo por una de ellas, la alta. Mismo caso para aprobar el pliego de candidatos, que hoy es por mayoría simple. Al…",
-     "id": "6c590b4e9c32"
+     "published": "2026-09-25T00:32:17+00:00",
+     "copete": "El dispositivo, bautizado como Meta VR Glasses, se aleja del diseño tradicional de visor cerrado",
+     "id": "a58a91ee15b2"
     },
     {
-     "title": "Aprende todo sobre PPS: la tecnología que hará que tu celular cargue mejor",
-     "link": "https://www.infobae.com/tecno/2026/09/24/aprende-todo-sobre-pps-la-tecnologia-que-hara-que-tu-celular-cargue-mejor/",
+     "title": "Está por cumplir 101 años en Nueva Jersey y revela su regla de vida: “No me estreso por lo que no puedo controlar”",
+     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-jersey/esta-por-cumplir-101-anos-en-nueva-jersey-y-revela-su-regla-de-vida-no-me-estreso-por-lo-que-no-nid24092026/",
+     "source": "La Nación",
+     "published": "2026-09-25T00:31:00+00:00",
+     "copete": "Natalie Groeger está por cumplir 101 años en Nueva Jersey y comparte los hábitos y la regla de vida que relaciona con su longevidad.",
+     "id": "a99a0889c095"
+    },
+    {
+     "title": "“Por decisión de Felipe Contepomi”: Los Pumas anunciaron una sorpresiva salida en su cuerpo técnico a un año del Mundial",
+     "link": "https://www.infobae.com/deportes/2026/09/25/por-decision-de-felipe-contepomi-los-pumas-anunciaron-una-sorpresiva-salida-en-su-cuerpo-tecnico-a-un-ano-del-mundial/",
      "source": "Infobae",
-     "published": "2026-09-24T21:35:00+00:00",
-     "copete": "Celulares Samsung y Google Pixel cuentan con este protocolo que reduce el calentamiento del celular",
-     "id": "65b332b63360"
+     "published": "2026-09-25T00:27:54+00:00",
+     "copete": "La Unión Argentina de Rugby (UAR) confirmó que Andrés Bordoy dejará de formar parte del staff de la selección nacional por una resolución del head coach",
+     "id": "8ae5ce14a0bc"
     },
     {
-     "title": "Milei se reunió con Netanyahu en Naciones Unidas y ratificó su apoyo incondicional al primer ministro de Israel",
-     "link": "https://www.infobae.com/politica/2026/09/24/milei-se-reunio-con-netanyahu-en-naciones-unidas-y-ratifico-su-apoyo-incondicional-al-primer-ministro-de-israel/",
+     "title": "La inteligencia artificial reveló cuáles son las seis palabras que repiten las personas menos listas",
+     "link": "https://www.lanacion.com.ar/tecnologia/la-inteligencia-artificial-revelo-cuales-son-las-seis-palabras-que-repiten-las-personas-menos-listas-nid24092026/",
+     "source": "La Nación",
+     "published": "2026-09-25T00:22:00+00:00",
+     "copete": "La forma de hablar puede ofrecer algunas pistas sobre cómo una persona organiza y comunica sus ideas; la IA marcó algunos términos y expresiones que podrían asociarse con discursos poco desarrollados",
+     "id": "c9146003034d"
+    },
+    {
+     "title": "El Salvador buscará los tres puntos en el estadio Jorge “Mágico” González",
+     "link": "https://www.infobae.com/el-salvador/2026/09/25/el-salvador-buscara-los-tres-puntos-en-el-estadio-jorge-magico-gonzalez/",
      "source": "Infobae",
-     "published": "2026-09-24T21:34:32+00:00",
-     "copete": "Durante un encuentro a puertas cerradas que se extendió durante 20 minutos, el presidente argentino explicitó al premier israelí su apoyo, a pocas semanas de las elecciones que pueden significar su epílogo político.",
-     "id": "8593035f14b1"
+     "published": "2026-09-25T00:13:41+00:00",
+     "copete": "La selección salvadoreña enfrentará a Martinica el 25 de septiembre de 2026 en San Salvador, en un duelo que definirá su regreso a la Liga A de Naciones de la Concacaf tras dos temporadas de altibajos",
+     "id": "1db87d77fd22"
     },
     {
-     "title": "El banco digital más grande de Europa desembarca en la Argentina: el BCRA lo autorizó a comprar una entidad local",
-     "link": "https://www.infobae.com/economia/2026/09/24/el-banco-digital-mas-grande-de-europa-desembarca-en-la-argentina-el-bcra-lo-autorizo-a-comprar-una-entidad-local/",
+     "title": "Los 250 constructores de negocios más grandes de EE. UU. según Forbes: Zuckerberg, Musk y Gates entre los líderes de tecnología",
+     "link": "https://www.infobae.com/tecno/2026/09/25/los-250-constructores-de-negocios-mas-grandes-de-ee-uu-segun-forbes-zuckerberg-musk-y-gates-entre-los-lideres-de-tecnologia/",
      "source": "Infobae",
-     "published": "2026-09-24T21:34:15+00:00",
-     "copete": "Revolut le compro el banco Cetelem a BNP Paribas para ingresar en el sistema financiero argentino, como parte de su estrategia regional",
-     "id": "0d1da5948090"
+     "published": "2026-09-25T00:13:11+00:00",
+     "copete": "El sector tecnológico es uno de los que tiene mayor presencia en el reciente ranking elaborado por la revista",
+     "id": "35c28f4f0374"
     },
     {
-     "title": "La historia de una niña de 10 años, que tenía un tumor en la cabeza, y fue operada con éxito en el Garrahan con una tecnología de vanguardia",
-     "link": "https://www.lanacion.com.ar/sociedad/la-historia-de-una-nina-de-10-anos-que-tenia-un-tumor-en-la-cabeza-y-fue-operada-con-exito-en-el-nid24092026/",
+     "title": "Pierre Gasly y los argentinos: de las denuncias por amenazas a un amor incondicional en las redes sociales",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/pierre-gasly-y-los-argentinos-de-las-denuncias-por-amenazas-a-un-amor-incondicional-en-las-redes-nid24092026/",
      "source": "La Nación",
-     "published": "2026-09-24T21:33:00+00:00",
-     "copete": "Jorge Tartaglione, médico cardiólogo, relató en LN+ la intervención quirúrgica de la menor en una zona crítica; los especialistas utilizaron una técnica endonasal asistida por un sistema de geolocalización de alta precisión",
-     "id": "51fbe835d509"
+     "published": "2026-09-25T00:12:45+00:00",
+     "copete": "El francés era hostigado por no dejar pasar a Colapinto en el final del Gran Premio de Madrid y todo cambió tras la advertencia del jefe de Alpine",
+     "id": "6b306389ee02"
     },
     {
-     "title": "Cuál es el precio por metro cuadrado de una construcción en seco en septiembre 2026",
-     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cual-es-el-precio-por-metro-cuadrado-de-una-construccion-en-seco-en-septiembre-2026-nid24092026/",
+     "title": "Fanático de Cristiano Ronaldo, enfrentó a Lionel Messi con Inglaterra en el Mundial y quedó impactado: “No podía creerlo”",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/fanatico-de-cristiano-ronaldo-enfrento-a-lionel-messi-con-inglaterra-en-el-mundial-y-quedo-impactado-nid24092026/",
      "source": "La Nación",
-     "published": "2026-09-24T21:31:41+00:00",
-     "copete": "Se trata de una técnica constructiva que prescinde del uso de mezclas húmedas para unir las distintas partes de una edificación",
-     "id": "8d0a2c4f9a71"
+     "published": "2026-09-25T00:09:04+00:00",
+     "copete": "Morgan Rogers, que dio la asistencia para el gol inglés en la semifinal, recordó el 2-1 ante la Argentina y dimensionó el nivel del 10 a sus 39 años: “Era casi imposible frenarlo”",
+     "id": "0dc453fe19c8"
     },
     {
-     "title": "1.60, 1.70 y 1.80: cuál es el peso ideal para cada altura, según la OMS",
-     "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/160-170-y-180-cual-es-el-peso-ideal-para-cada-altura-segun-la-oms-nid23092026/",
-     "source": "La Nación",
-     "published": "2026-09-24T21:29:17+00:00",
-     "copete": "Calcula el rango de peso saludable para las alturas de 1,60, 1,70 y 1,80 según el IMC, y conoce qué significan esos valores para adultos.",
-     "id": "0173ffb4a45e"
-    },
-    {
-     "title": "Pro, tras la cuarta reunión con el Gobierno: “Estamos lejos del acuerdo electoral”",
-     "link": "https://www.lanacion.com.ar/politica/pro-tras-la-cuarta-reunion-con-el-gobierno-estamos-lejos-del-acuerdo-electoral-nid24092026/",
-     "source": "La Nación",
-     "published": "2026-09-24T21:27:17+00:00",
-     "copete": "La mesa entre los representantes de Karina Milei y los de Mauricio Macri registra casi nulos avances; descontento por las acciones libertarias en los territorios amarillos",
-     "id": "0bef8cf63158"
-    },
-    {
-     "title": "Caso Próvolo: la monja Kumiko Kosaka fue condenada a 20 años en prisión pero no irá a la cárcel",
-     "link": "https://www.clarin.com/sociedad/caso-provolo-monja-kumiko-kosaka-condenada-20-anos-prision-ira-carcel_0_puTk4WLUyR.html",
+     "title": "La Casa Blanca veta a dos periodistas de CNN en la llegada de Xi a cena con Trump",
+     "link": "https://www.clarin.com/estados-unidos/la-casa-blanca-veta-a-dos-periodistas-de-cnn-en-la-llegada-de-xi-a-cena-con-trump_0_kg2EeEGCP7.html",
      "source": "Clarín",
-     "published": "2026-09-24T21:12:03+00:00",
-     "copete": "Es la primera mujer hallada culpable de los abusos sexuales de niños en el mismo instituto religioso de Mendoza. No será detenida hasta que el fallo quede firme, pero tiene prohibido salir del país y quedó inhabilitada por 10 años para…",
-     "id": "fb7d9890139b"
+     "published": "2026-09-25T00:00:14+00:00",
+     "copete": "La Casa Blanca negó acceso a CNN y MS NOW a la cena de Xi Jinping, pese a una orden judicial que restablecía sus credenciales. Medios y organizaciones condenan la restricción, calificándola de ataque a la prensa, y solicitan explicaciones…",
+     "id": "0bda020509e9"
     },
     {
-     "title": "Exdetenido político venezolano Javier Tarazona pide \"justicia y libertad plena\"",
-     "link": "https://www.clarin.com/estados-unidos/exdetenido-politico-venezolano-javier-tarazona-pide-justicia-y-libertad-plena_0_Hx0QKfjqlP.html",
+     "title": "Bachelet y Boric piden a Kast \"reconsiderar\" adhesión de Chile al Escudo de las Américas",
+     "link": "https://www.clarin.com/estados-unidos/bachelet-y-boric-piden-a-kast-reconsiderar-adhesion-de-chile-al-escudo-de-las-americas_0_7EaTIWSPya.html",
      "source": "Clarín",
-     "published": "2026-09-24T21:10:07+00:00",
-     "copete": "El activista venezolano denuncia demoras judiciales tras su excarcelación en febrero, manteniendo restricciones a su libertad. Exige justicia y cumplimiento del debido proceso, mientras otros excarcelados enfrentan situaciones similares.",
-     "id": "1841653f2ec6"
+     "published": "2026-09-25T00:00:11+00:00",
+     "copete": "Exmandatarios chilenos critican adhesión al Escudo de las Américas, alertando sobre riesgos a la soberanía nacional y la autonomía estratégica del país. Kast defiende la decisión, asegurando beneficios operacionales y negando presiones…",
+     "id": "b9eee501f257"
     }
    ]
   },
@@ -447,6 +447,22 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "En video: decenas de delegados abandonan la Asamblea General de la ONU durante la intervención de Netanyahu",
+     "link": "https://www.bbc.com/mundo/articles/cq8jdn3d9k7mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-24T22:02:16+00:00",
+     "copete": "Decenas de delegados de Naciones Unidas abandonaron este jueves la sala donde el primer ministro israelí, Benjamin Netanyahu, se disponía a pronunciar un discurso.",
+     "id": "3afd338e7800"
+    },
+    {
+     "title": "El rapero Macklemore anuncia la gira \"Palestina libre\" después de la polémica con Ed Sheeran",
+     "link": "https://www.bbc.com/mundo/articles/cm87vnlgp3z5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-24T21:33:36+00:00",
+     "copete": "Según explica, los beneficios de la gira, que comienza en Dublín el mes que viene, se destinarán a organizaciones que apoyan a los palestinos.",
+     "id": "71f36b85668b"
+    },
+    {
      "title": "Cómo la hermética comunidad Amish combate el brote de sarampión más mortal de la historia reciente en EE.UU.",
      "link": "https://www.bbc.com/mundo/articles/cwe9e73e8x04o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -455,7 +471,7 @@
      "id": "030c3dc2af91"
     },
     {
-     "title": "El huracán Polo sigue su avance como huracán mayor y se prevé que toque tierra en el noroeste de México",
+     "title": "La tormenta Polo sigue su avance como huracán mayor y se prevé que toque tierra en el noroeste de México",
      "link": "https://www.bbc.com/mundo/articles/c3n07v5wr0rqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-09-24T20:44:43+00:00",
@@ -493,22 +509,6 @@
      "published": "2026-09-24T19:52:02+00:00",
      "copete": "El presidente francés considera posible un ataque con drones en Francia y una nueva movilización rusa en Ucrania",
      "id": "2a70c1c12922"
-    },
-    {
-     "title": "\"No sabía que mi pareja me violaba mientras dormía\"",
-     "link": "https://www.bbc.com/mundo/articles/cm4gjv80vr4zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-24T19:05:41+00:00",
-     "copete": "Adelle Overton llevaba 13 años con Steven Uden cuando descubrió que él la había estado violando mientras dormía.",
-     "id": "c485fdc1fbba"
-    },
-    {
-     "title": "Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen de 87 años en Madrid",
-     "link": "https://www.bbc.com/mundo/articles/c68xknvz71e1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-24T17:21:02+00:00",
-     "copete": "La actividad de la empresa consiste en aumentar el valor de edificios tras comprarlos, vaciarlos de inquilinos y hacer reformas.",
-     "id": "deff47722c0d"
     }
    ]
   }
@@ -516,7 +516,12 @@
  "_errors": [
   {
    "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
+   "feed": "Lancet Oncology (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "oncologia",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
