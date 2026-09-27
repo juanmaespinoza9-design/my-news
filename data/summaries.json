@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-09-26T22:17:13Z",
+  "generated_at": "2026-09-27T10:16:45Z",
   "summaries": {
-    "260a2a6b39a7": {
-      "resumen": "OncLive entrevista al Dr. Peter Voorhees, que explica el mecanismo de acción de etentamig, un anticuerpo biespecífico dirigido contra BCMA (antígeno de maduración de células B) y CD3, en investigación para el mieloma múltiple. Sirve como puesta al día conceptual sobre esta nueva clase de fármacos, sin datos de eficacia de un ensayo puntual.",
-      "destacado": false
-    },
     "f39c7efd1e4b": {
       "resumen": "OncLive entrevista al Dr. Sagar Lonial sobre los datos de negativización de la enfermedad residual mínima (MRD, por sus siglas en inglés) del ensayo EXCALIBER-RRMM en mieloma múltiple recaído o refractario (RRMM). Interesa como mirada experta sobre un marcador cada vez más usado para medir profundidad de respuesta, aunque no reporta las cifras primarias del estudio.",
-      "destacado": false
-    },
-    "2af73c6f876a": {
-      "resumen": "En una entrevista en video de The ASCO Post, el Dr. Chad G. Rusthoven analiza el rol de la vigilancia con resonancia magnética cerebral, con o sin irradiación craneal profiláctica (ICP), en pacientes con cáncer de pulmón a células pequeñas (SCLC). Es un panorama de opinión experta sobre un debate vigente en el manejo de la enfermedad metastásica al sistema nervioso central, sin datos de un estudio nuevo.",
-      "destacado": false
-    },
-    "9b41c0e85b48": {
-      "resumen": "OncLive resume, en su serie semanal \"The OncFive\", los cinco artículos de oncología más relevantes de la semana del 20 de septiembre de 2026. Es un compilado curatorial útil para no perderse las noticias destacadas de la semana, sin desarrollar un tema puntual.",
       "destacado": false
     },
     "12ce8b69521b": {
@@ -42,15 +30,6 @@
       "resumen": "Journal of Clinical Oncology (JCO) publica un erratum (fe de erratas) sobre los resultados a cinco años del ensayo STELLAR, que compara radioterapia de curso corto más quimioterapia contra quimiorradioterapia de curso largo en cáncer de recto localmente avanzado. Es una corrección formal a la publicación original, útil para quienes citan esos datos actualizados.",
       "destacado": false
     },
-    "37daf79f1627": {
-      "resumen": "JAMA Oncology publica una columna de opinión que llama a los médicos oncólogos a retomar la costumbre de escribir cartas de condolencia a las familias de los pacientes que fallecen. Aporta una reflexión humanística sobre el vínculo médico-paciente al final de la vida; no es un estudio.",
-      "destacado": false
-    },
-    "fb5a65aa4177": {
-      "resumen": "JAMA Oncology publica los resultados de PaRTNer, un ensayo clínico no aleatorizado que evaluó de forma longitudinal la toxicidad financiera y la calidad de vida en pacientes con cáncer de cabeza y cuello tratados con radioterapia. Interesa porque cuantifica un problema poco visibilizado —el impacto económico del tratamiento oncológico— y describe qué perfil de pacientes es más vulnerable.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio piloto prospectivo, no aleatorizado, de un solo centro (Duke University, EE. UU.), con encuestas longitudinales al inicio, a los 3 y a los 6 meses posteriores al tratamiento (NCT03506451).\nPoblación: Pacientes adultos con cáncer de cabeza y cuello no metastásico que recibieron radioterapia definitiva, con o sin quimioterapia concurrente.\nIntervención: No hay un fármaco en investigación ni comparador; se trata de la evaluación observacional de toxicidad financiera y calidad de vida durante el tratamiento estándar con radioterapia, usando los cuestionarios validados COST-FACIT y FACT-HN.\nResultados: El puntaje mediano de toxicidad financiera (escala COST-FACIT) antes de la radioterapia fue de 29, y el 41,9% de los pacientes tuvo un puntaje ≤25, lo que indica toxicidad financiera relevante; los puntajes más bajos (peor toxicidad financiera) se asociaron con menor edad, raza afroamericana, cobertura por Medicaid, estado civil soltero o desempleo, estadio T avanzado y quimiorradioterapia concurrente.\nLimitaciones: Diseño no aleatorizado, de un solo centro y sin grupo control, lo que limita la generalización de los resultados; tamaño de muestra acotado por tratarse de un estudio piloto.\nMensaje: La toxicidad financiera es frecuente y mensurable en pacientes con cáncer de cabeza y cuello que reciben radioterapia, y golpea más fuerte a los pacientes socioeconómicamente vulnerables; respalda incorporar la detección sistemática de este problema y la derivación a apoyo social en la práctica clínica habitual."
-    },
     "5aba6c91a120": {
       "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear (prêt-à-porter) de Philipp Plein."
     },
@@ -66,21 +45,6 @@
     "35021edc4487": {
       "resumen": "Vogue México presenta la manicura vainilla, la tendencia en uñas elegantes para este otoño 2026."
     },
-    "079189c5be88": {
-      "resumen": "Vogue México cuenta que Chanel impone combinar zapatos mules con faldas de bibliotecaria este otoño 2026."
-    },
-    "0363d7a6cdd4": {
-      "resumen": "Vogue México repasa seis zapatos de punta redonda inspirados en Dolores del Río y María Félix, tendencia de este otoño 2026."
-    },
-    "5c29903f2d5b": {
-      "resumen": "HOLA repasa los looks de Susanna Griso y otras catorce invitadas en la boda de Guillermo Creuheras y Natalia Pujol."
-    },
-    "ad6411d4b0e6": {
-      "resumen": "La Razón cuenta que Jennifer Lopez lució un look dandy con boina, corbata y botas altas en el desfile de Dolce & Gabbana en Milán."
-    },
-    "3674cc372eb3": {
-      "resumen": "Cosmopolitan recomienda tres camisetas de rayas básicas de Stradivarius para sumarse a la tendencia más buscada del entretiempo."
-    },
     "d1ac239b4f51": {
       "resumen": "Infobae informa que la Ciudad de Buenos Aires eximirá del pago del ABL (Alumbrado, Barrido y Limpieza) a hoteles, restaurantes y librerías durante el primer semestre de 2027."
     },
@@ -90,26 +54,54 @@
     "8397ec42b137": {
       "resumen": "El Destape propone cinco planes para disfrutar en Buenos Aires en el primer fin de semana de la primavera."
     },
-    "0f13a164997c": {
-      "resumen": "Ámbito recomienda restaurantes con historia para comer en espacios emblemáticos de Buenos Aires."
-    },
     "71ee757b4833": {
       "resumen": "MDZ Online destaca cómo \"Berlín Berlín\", obra de teatro y humor físico, conquista a Buenos Aires."
     },
     "44fd560bf159": {
       "resumen": "a24 anuncia que Chiki Toonz regresa a Buenos Aires con el espectáculo infantil \"Más Allá del Arcoíris\"."
     },
-    "ae07005db4e9": {
-      "resumen": "cronista recomienda cuatro restaurantes porteños con jardines y patios ideales para comer al aire libre con la llegada de la primavera."
-    },
-    "c04af7a6c276": {
-      "resumen": "indiehoy anuncia una presentación de Los Tipitos en el Teatro Coliseo."
-    },
     "12f8266059c7": {
       "resumen": "El Destape propone seis actividades para hacer en la Ciudad de Buenos Aires el fin de semana del 25 al 27 de septiembre."
     },
     "d4a9935d7b75": {
       "resumen": "meteored.com.ar recomienda seis planes gratuitos para hacer en Buenos Aires este fin de semana, desde el Festival del Asado hasta un concierto en vivo en el Planetario."
+    },
+    "fc68c529b478": {
+      "resumen": "OncLive reporta un estudio que sumó iberdomida (un CELMoD, modulador celular del sistema cereblon, de nueva generación entre los inmunomoduladores) al esquema daratumumab-dexametasona, y lo comparó contra daratumumab-bortezomib-dexametasona (DVd) en mieloma múltiple recaído o refractario. El brazo con iberdomida logró mayor tasa de respuesta completa con enfermedad residual mínima negativa (MRD-negativa) que DVd. Interesa por tratarse de una nueva clase de fármacos que podría cambiar los esquemas de rescate en mieloma.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico comparativo (probablemente de fase III) entre iberdomida más daratumumab/dexametasona y el esquema daratumumab-bortezomib-dexametasona (DVd); el título no precisa aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple recaído o refractario (RRMM).\nIntervención: Iberdomida (un CELMoD, modulador de la proteína cereblon) sumada a daratumumab y dexametasona, comparada contra daratumumab-bortezomib-dexametasona (DVd).\nResultados: El título señala una mayor tasa de respuesta completa con enfermedad residual mínima negativa (MRD-negativa) a favor del brazo con iberdomida frente a DVd, sin cifras, razones de riesgo ni valores de p disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, su significancia estadística, la supervivencia libre de progresión ni el perfil de eventos adversos del esquema experimental.\nMensaje: Si se confirma con datos maduros, la combinación con iberdomida podría sumarse como nueva opción de rescate en mieloma múltiple recaído/refractario, ampliando la familia de CELMoD más allá de los inmunomoduladores clásicos.\nNota: análisis sin acceso al abstract."
+    },
+    "641bab61316b": {
+      "resumen": "OncLive entrevista al Dr. Sagar Lonial sobre el impacto de Project Optimus —el programa de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) para optimizar la dosis de los fármacos oncológicos antes de su aprobación— en el diseño del ensayo de fase III EXCALIBER-RRMM en mieloma múltiple. Aporta una mirada experta sobre cómo las exigencias regulatorias actuales moldean el desarrollo de nuevos esquemas, sin datos de eficacia del estudio.",
+      "destacado": false
+    },
+    "aa0733701b0b": {
+      "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó la combinación de belzutifan (un inhibidor de HIF-2α, el factor inducible por hipoxia 2 alfa) con lenvatinib (un inhibidor de tirosina quinasa) para el carcinoma de células renales de células claras (ccRCC) avanzado. Suma una nueva opción de tratamiento dirigido para esta población, ampliando las alternativas terapéuticas disponibles.",
+      "destacado": false
+    },
+    "0c8906ebf519": {
+      "resumen": "Revista CLARA repasa los zapatos que serán tendencia este otoño 2026, de los mocasines clásicos a los botines de estética bohemia."
+    },
+    "8f29449e369a": {
+      "resumen": "Mujerhoy anticipa que el estampado de rombos será la tendencia inesperada que arrasará este otoño."
+    },
+    "4e18c532855d": {
+      "resumen": "lagaceta.com.ar adelanta las tendencias que empiezan a definir la temporada primavera-verano 2027."
+    },
+    "80c0069eae06": {
+      "resumen": "The Objective selecciona diez prendas económicas de Primark para seguir las tendencias de este otoño-invierno sin gastar de más."
+    },
+    "09e2b1f267b2": {
+      "resumen": "Vogue México muestra cómo Jennifer Lopez combinó jeans cuffed (con el ruedo doblado hacia arriba) y mocasines negros, un look que se impondrá este otoño 2026."
+    },
+    "442b22dd1576": {
+      "resumen": "MinutoUno informa que la Ciudad de Buenos Aires no les cobrará el ABL (Alumbrado, Barrido y Limpieza) a hoteles, restaurantes y librerías."
+    },
+    "daae45f30c7b": {
+      "resumen": "Radio Mitre confirma que la Ciudad de Buenos Aires eximirá del pago del ABL (Alumbrado, Barrido y Limpieza) a hoteles, restaurantes y librerías durante 2027."
+    },
+    "45ccd7b00c96": {
+      "resumen": "All Access adelanta el show de cierre de año de Koino Yokan en Buenos Aires."
     }
   }
 }
