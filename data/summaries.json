@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:17:58Z",
+  "generated_at": "2026-09-28T10:16:57Z",
   "summaries": {
     "12ce8b69521b": {
       "resumen": "The ASCO Post entrevista al Dr. Alexander Drilon sobre zidesamtinib, un inhibidor de tirosina quinasa (TKI) dirigido a ROS1, en pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico ROS1-positivo que no recibieron previamente un TKI. Interesa por el desarrollo de moléculas dirigidas en esta población molecularmente seleccionada, aunque no aporta datos duros de un ensayo.",
@@ -36,10 +36,6 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico comparativo (probablemente de fase III) entre iberdomida más daratumumab/dexametasona y el esquema daratumumab-bortezomib-dexametasona (DVd); el título no precisa aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple recaído o refractario (RRMM).\nIntervención: Iberdomida (un CELMoD, modulador de la proteína cereblon) sumada a daratumumab y dexametasona, comparada contra daratumumab-bortezomib-dexametasona (DVd).\nResultados: El título señala una mayor tasa de respuesta completa con enfermedad residual mínima negativa (MRD-negativa) a favor del brazo con iberdomida frente a DVd, sin cifras, razones de riesgo ni valores de p disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, su significancia estadística, la supervivencia libre de progresión ni el perfil de eventos adversos del esquema experimental.\nMensaje: Si se confirma con datos maduros, la combinación con iberdomida podría sumarse como nueva opción de rescate en mieloma múltiple recaído/refractario, ampliando la familia de CELMoD más allá de los inmunomoduladores clásicos.\nNota: análisis sin acceso al abstract."
     },
-    "aa0733701b0b": {
-      "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó la combinación de belzutifan (un inhibidor de HIF-2α, el factor inducible por hipoxia 2 alfa) con lenvatinib (un inhibidor de tirosina quinasa) para el carcinoma de células renales de células claras (ccRCC) avanzado. Suma una nueva opción de tratamiento dirigido para esta población, ampliando las alternativas terapéuticas disponibles.",
-      "destacado": false
-    },
     "442b22dd1576": {
       "resumen": "MinutoUno informa que la Ciudad de Buenos Aires no les cobrará el ABL (Alumbrado, Barrido y Limpieza) a hoteles, restaurantes y librerías."
     },
@@ -48,10 +44,6 @@
     },
     "4c9f948a733c": {
       "resumen": "OncLive recopila los cinco videos más vistos de la semana sobre oncología, un repaso de entrevistas y comentarios de especialistas ya publicados. Sirve como resumen semanal de contenidos, sin datos nuevos de estudios.",
-      "destacado": false
-    },
-    "260a2a6b39a7": {
-      "resumen": "OncLive entrevista al Dr. Voorhees sobre el mecanismo de acción de etentamig, un anticuerpo biespecífico dirigido a BCMA (antígeno de maduración de células B) y CD3, en mieloma múltiple. Interesa como mirada experta sobre esta clase de fármacos, sin datos de eficacia de un ensayo.",
       "destacado": false
     },
     "453e755f010a": {
@@ -70,27 +62,6 @@
     "c5a70fc89207": {
       "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear (prêt-à-porter) de Marques'Almeida."
     },
-    "bf05cd1ea09e": {
-      "resumen": "Elle propone tres conjuntos monocromáticos y con estampados de tendencia, ideales para looks prolijos y elegantes."
-    },
-    "e162618e4f85": {
-      "resumen": "El Generacional repasa las tendencias en volúmenes y prendas originales para la temporada otoño-invierno 2026/27."
-    },
-    "d9caa4156a58": {
-      "resumen": "Vogue México destaca el look de Eiza González en la Semana de la Moda de Milán, con jeans acampanados y zapatos de tacón negros."
-    },
-    "4bc04b388d5d": {
-      "resumen": "Vogue México sugiere sandalias de tacón al estilo de Carolina Herrera para combinar con faldas, pantalones y vestidos este otoño."
-    },
-    "89790acb052b": {
-      "resumen": "Vogue México elige los mocasines negros que reemplazarán a los zapatos de tacón como calzado elegante este otoño."
-    },
-    "139b7bb84293": {
-      "resumen": "Revista Q, junto a Tressor Joyeros, reflexiona sobre el valor de regalar joyas con historia, piezas que trascienden las modas pasajeras."
-    },
-    "51180d116998": {
-      "resumen": "lne.es cuenta que los bailes de época al estilo Bridgerton se pusieron de moda en Buenos Aires, con el Centro Asturiano como nuevo escenario."
-    },
     "2f794461f069": {
       "resumen": "prensalibreonline.com.ar detalla la agenda de recitales en el Movistar Arena para la semana del 28 de septiembre al 4 de octubre."
     },
@@ -100,8 +71,39 @@
     "907554b29416": {
       "resumen": "Clarín reseña los cinco restaurantes de Buenos Aires distinguidos por el Gobierno español por su cocina española."
     },
-    "f88c85221d6f": {
-      "resumen": "Excélsior cuenta que Cazzu y su novio Ignacio Colombara fueron el centro de atención durante una salida al teatro."
+    "0c5cda90dca2": {
+      "resumen": "The ASCO Post reporta un estudio que analiza la fibrilación auricular y su impacto en los resultados clínicos y en el uso de recursos de salud (internaciones, consultas) en pacientes con leucemia linfocítica crónica (LLC). Interesa porque la LLC conlleva mayor riesgo cardiovascular y varios de sus tratamientos, como los inhibidores de BTK (Bruton tirosina quinasa), se asocian a arritmias.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de cohorte, probablemente retrospectivo y basado en registros o bases de datos administrativas; el título no precisa aleatorización, cegamiento ni cantidad de centros o pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica (LLC), comparando quienes desarrollan fibrilación auricular con quienes no.\nIntervención: No es un ensayo de intervención farmacológica; se comparan resultados clínicos y uso de recursos de salud entre pacientes con y sin fibrilación auricular.\nResultados: No hay cifras de supervivencia, tasas de eventos, internaciones ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin el abstract no se puede precisar el tamaño muestral, el ajuste por uso de inhibidores de BTK u otros factores de confusión cardiovascular, ni el tiempo de seguimiento.\nMensaje: Refuerza la necesidad de vigilar la salud cardiovascular en pacientes con LLC, especialmente ante el uso extendido de terapias dirigidas asociadas a arritmias.\nNota: análisis sin acceso al abstract."
+    },
+    "cecbdc7eaf89": {
+      "resumen": "OncLive reporta los datos de seguimiento a largo plazo del estudio PERSEUS, que confirma un beneficio duradero en la supervivencia libre de progresión (PFS, por sus siglas en inglés) con el esquema daratumumab-bortezomib-lenalidomida-dexametasona (D-VRd) en mieloma múltiple de diagnóstico reciente en pacientes candidatos a trasplante. Es una actualización relevante de uno de los ensayos que consolidó la cuadruplicación de terapia en mieloma múltiple.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización a largo plazo del ensayo aleatorizado de fase III PERSEUS; el título no precisa cegamiento ni cantidad de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente, candidatos a trasplante autólogo de médula ósea.\nIntervención: Daratumumab sumado a bortezomib, lenalidomida y dexametasona (D-VRd), comparado contra el esquema VRd según el diseño original del estudio.\nResultados: El título señala un beneficio \"duradero\" en supervivencia libre de progresión (PFS) a favor de D-VRd, sin cifras, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: Sin el abstract no se puede precisar la magnitud del beneficio, el tiempo exacto de seguimiento ni los datos de supervivencia global o toxicidad a largo plazo.\nMensaje: Refuerza la evidencia que respalda D-VRd como esquema estándar de inducción/consolidación en mieloma múltiple de diagnóstico reciente en pacientes candidatos a trasplante, con un beneficio que se sostiene en el tiempo.\nNota: análisis sin acceso al abstract."
+    },
+    "d0c52b6365c4": {
+      "resumen": "Telva cuenta que el vestido \"soso\", la tendencia noventosa que popularizó Gwyneth Paltrow, vuelve a imponerse como una de las prendas más elegidas de la temporada."
+    },
+    "6ffd66484127": {
+      "resumen": "ELLE selecciona cinco carteras rojas de Zara, el color tendencia del otoño 2026, por menos de 25 euros."
+    },
+    "12701756f695": {
+      "resumen": "La Nación repasa los secretos de estilo de Nicole Neumann: sus diseñadores favoritos, las tendencias atemporales que elige y sus looks de cabecera."
+    },
+    "c3a76f8bdcf7": {
+      "resumen": "Vanitatis presenta la tendencia \"tapestry\", que lleva la tela de tapicería de los sillones a la ropa y ya conquistó a las mujeres más elegantes."
+    },
+    "e966e91a05a8": {
+      "resumen": "Vogue México destaca el look de Dakota Johnson en los VMAs 2026, con vestido de lentejuelas y sandalias de tiras, junto a Taylor Swift."
+    },
+    "fcca3943bc65": {
+      "resumen": "Vogue México repasa ocho looks de belleza que se destacaron en los VMAs 2026, del corte lob a las trenzas boho."
+    },
+    "3eab3310dec2": {
+      "resumen": "Infobae presenta CircuitoSITE Buenos Aires, un recorrido de arte que transforma cementerios, depósitos y oficinas de la ciudad en escenarios vivos."
+    },
+    "b4f7ada6314a": {
+      "resumen": "Indie Hoy anuncia que el artista Gibran Alcocer se presentará en la Argentina."
     }
   }
 }
