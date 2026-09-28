@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-09-28T10:16:57Z",
+  "generated_at": "2026-09-28T22:17:30Z",
   "summaries": {
-    "12ce8b69521b": {
-      "resumen": "The ASCO Post entrevista al Dr. Alexander Drilon sobre zidesamtinib, un inhibidor de tirosina quinasa (TKI) dirigido a ROS1, en pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico ROS1-positivo que no recibieron previamente un TKI. Interesa por el desarrollo de moléculas dirigidas en esta población molecularmente seleccionada, aunque no aporta datos duros de un ensayo.",
-      "destacado": false
-    },
     "75a7082bda43": {
       "resumen": "Journal of Clinical Oncology (JCO) publica la réplica de los autores a una carta que cuestiona sesgos en la interpretación de los datos de ADN tumoral circulante (ctDNA) del estudio TRANSFORM, en particular el momento de evaluación, la definición de eventos y la selección de subgrupos. Es un intercambio metodológico entre especialistas, no un estudio nuevo.",
       "destacado": false
@@ -31,79 +27,92 @@
     "d4a9935d7b75": {
       "resumen": "meteored.com.ar recomienda seis planes gratuitos para hacer en Buenos Aires este fin de semana, desde el Festival del Asado hasta un concierto en vivo en el Planetario."
     },
-    "fc68c529b478": {
-      "resumen": "OncLive reporta un estudio que sumó iberdomida (un CELMoD, modulador celular del sistema cereblon, de nueva generación entre los inmunomoduladores) al esquema daratumumab-dexametasona, y lo comparó contra daratumumab-bortezomib-dexametasona (DVd) en mieloma múltiple recaído o refractario. El brazo con iberdomida logró mayor tasa de respuesta completa con enfermedad residual mínima negativa (MRD-negativa) que DVd. Interesa por tratarse de una nueva clase de fármacos que podría cambiar los esquemas de rescate en mieloma.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico comparativo (probablemente de fase III) entre iberdomida más daratumumab/dexametasona y el esquema daratumumab-bortezomib-dexametasona (DVd); el título no precisa aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con mieloma múltiple recaído o refractario (RRMM).\nIntervención: Iberdomida (un CELMoD, modulador de la proteína cereblon) sumada a daratumumab y dexametasona, comparada contra daratumumab-bortezomib-dexametasona (DVd).\nResultados: El título señala una mayor tasa de respuesta completa con enfermedad residual mínima negativa (MRD-negativa) a favor del brazo con iberdomida frente a DVd, sin cifras, razones de riesgo ni valores de p disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, su significancia estadística, la supervivencia libre de progresión ni el perfil de eventos adversos del esquema experimental.\nMensaje: Si se confirma con datos maduros, la combinación con iberdomida podría sumarse como nueva opción de rescate en mieloma múltiple recaído/refractario, ampliando la familia de CELMoD más allá de los inmunomoduladores clásicos.\nNota: análisis sin acceso al abstract."
-    },
-    "442b22dd1576": {
-      "resumen": "MinutoUno informa que la Ciudad de Buenos Aires no les cobrará el ABL (Alumbrado, Barrido y Limpieza) a hoteles, restaurantes y librerías."
-    },
-    "45ccd7b00c96": {
-      "resumen": "All Access adelanta el show de cierre de año de Koino Yokan en Buenos Aires."
-    },
-    "4c9f948a733c": {
-      "resumen": "OncLive recopila los cinco videos más vistos de la semana sobre oncología, un repaso de entrevistas y comentarios de especialistas ya publicados. Sirve como resumen semanal de contenidos, sin datos nuevos de estudios.",
-      "destacado": false
-    },
-    "453e755f010a": {
-      "resumen": "The ASCO Post entrevista al Dr. Jonathan Goldman sobre esquemas de dosificación con intervalo extendido de tarlatamab (un anticuerpo biespecífico BiTE que engancha células T contra el antígeno DLL3) en cáncer de pulmón de células pequeñas (SCLC). Aporta una mirada práctica sobre cómo espaciar las dosis en el uso clínico real, sin datos duros de un ensayo.",
-      "destacado": false
-    },
-    "5807f4d4acc1": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear (prêt-à-porter) de For Restless Sleepers."
-    },
-    "edea8963125c": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear (prêt-à-porter) de Dušan."
-    },
-    "fe0cad420a64": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear (prêt-à-porter) de HUI."
-    },
-    "c5a70fc89207": {
-      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear (prêt-à-porter) de Marques'Almeida."
-    },
-    "2f794461f069": {
-      "resumen": "prensalibreonline.com.ar detalla la agenda de recitales en el Movistar Arena para la semana del 28 de septiembre al 4 de octubre."
-    },
     "1b50153269e3": {
       "resumen": "Clarín presenta El Burladero, uno de los cinco restaurantes de Buenos Aires premiados por el Gobierno español."
     },
     "907554b29416": {
       "resumen": "Clarín reseña los cinco restaurantes de Buenos Aires distinguidos por el Gobierno español por su cocina española."
     },
-    "0c5cda90dca2": {
-      "resumen": "The ASCO Post reporta un estudio que analiza la fibrilación auricular y su impacto en los resultados clínicos y en el uso de recursos de salud (internaciones, consultas) en pacientes con leucemia linfocítica crónica (LLC). Interesa porque la LLC conlleva mayor riesgo cardiovascular y varios de sus tratamientos, como los inhibidores de BTK (Bruton tirosina quinasa), se asocian a arritmias.",
+    "ad020afa1153": {
+      "resumen": "La agencia regulatoria estadounidense FDA (Food and Drug Administration) le otorgó revisión prioritaria a elinzanetant para tratar los sofocos y otros síntomas vasomotores asociados a la terapia hormonal en cáncer de mama con receptores hormonales positivos (HR+). Vale la pena seguirlo porque, de aprobarse, sería una opción no hormonal para mejorar la calidad de vida de estas pacientes.",
+      "destacado": false
+    },
+    "04bd02218423": {
+      "resumen": "La autoridad regulatoria china NMPA (Administración Nacional de Productos Médicos) aprobó pirtobrutinib, un inhibidor de BTK (tirosina quinasa de Bruton) de segunda generación, para el tratamiento de la leucemia linfocítica crónica (LLC). Importa porque amplía el acceso a esta droga en un mercado clave y confirma su perfil como alternativa tras la falla a inhibidores de BTK covalentes.",
+      "destacado": false
+    },
+    "9ee2f0f3a443": {
+      "resumen": "The ASCO Post reporta los resultados de un estudio con terapia CAR T (células T con receptor quimérico de antígeno) bivalente en glioblastoma recurrente, uno de los tumores cerebrales más agresivos y de peor pronóstico. Interesa porque muestra que la terapia no generó toxicidad tardía y sugiere una supervivencia promisoria en una enfermedad con pocas opciones eficaces.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de cohorte, probablemente retrospectivo y basado en registros o bases de datos administrativas; el título no precisa aleatorización, cegamiento ni cantidad de centros o pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica (LLC), comparando quienes desarrollan fibrilación auricular con quienes no.\nIntervención: No es un ensayo de intervención farmacológica; se comparan resultados clínicos y uso de recursos de salud entre pacientes con y sin fibrilación auricular.\nResultados: No hay cifras de supervivencia, tasas de eventos, internaciones ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin el abstract no se puede precisar el tamaño muestral, el ajuste por uso de inhibidores de BTK u otros factores de confusión cardiovascular, ni el tiempo de seguimiento.\nMensaje: Refuerza la necesidad de vigilar la salud cardiovascular en pacientes con LLC, especialmente ante el uso extendido de terapias dirigidas asociadas a arritmias.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio clínico (probablemente de fase temprana) con terapia CAR T bivalente; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con glioblastoma recurrente, uno de los tumores cerebrales primarios más agresivos.\nIntervención: Terapia con células CAR T dirigidas a dos antígenos (bivalente); no se especifica comparador en el título.\nResultados: El título indica ausencia de toxicidad tardía y supervivencia promisoria, pero no hay cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la robustez estadística ni el seguimiento; los estudios de CAR T en tumores sólidos suelen ser de fase temprana y con pocos pacientes.\nMensaje: Si se confirma en estudios más grandes, respaldaría seguir desarrollando terapias CAR T para glioblastoma, un escenario con opciones muy limitadas tras la recaída.\nNota: análisis sin acceso al abstract."
     },
-    "cecbdc7eaf89": {
-      "resumen": "OncLive reporta los datos de seguimiento a largo plazo del estudio PERSEUS, que confirma un beneficio duradero en la supervivencia libre de progresión (PFS, por sus siglas en inglés) con el esquema daratumumab-bortezomib-lenalidomida-dexametasona (D-VRd) en mieloma múltiple de diagnóstico reciente en pacientes candidatos a trasplante. Es una actualización relevante de uno de los ensayos que consolidó la cuadruplicación de terapia en mieloma múltiple.",
+    "8ff713116570": {
+      "resumen": "The ASCO Post analiza el rol de la radiocirugía estereotáctica (SRS, stereotactic radiosurgery) como alternativa a la irradiación holocraneal en pacientes con cáncer de pulmón a células pequeñas (SCLC, small cell lung cancer) y metástasis cerebrales. Importa porque este subtipo tumoral tradicionalmente se trató con radioterapia de todo el cerebro, y la SRS podría ofrecer menos toxicidad cognitiva.",
       "destacado": false,
-      "analisis": "Diseño: Actualización a largo plazo del ensayo aleatorizado de fase III PERSEUS; el título no precisa cegamiento ni cantidad de centros o pacientes.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente, candidatos a trasplante autólogo de médula ósea.\nIntervención: Daratumumab sumado a bortezomib, lenalidomida y dexametasona (D-VRd), comparado contra el esquema VRd según el diseño original del estudio.\nResultados: El título señala un beneficio \"duradero\" en supervivencia libre de progresión (PFS) a favor de D-VRd, sin cifras, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: Sin el abstract no se puede precisar la magnitud del beneficio, el tiempo exacto de seguimiento ni los datos de supervivencia global o toxicidad a largo plazo.\nMensaje: Refuerza la evidencia que respalda D-VRd como esquema estándar de inducción/consolidación en mieloma múltiple de diagnóstico reciente en pacientes candidatos a trasplante, con un beneficio que se sostiene en el tiempo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Artículo de The ASCO Post que analiza el uso de la radiocirugía estereotáctica (SRS) en metástasis cerebrales de cáncer de pulmón a células pequeñas; el título no indica si se apoya en un estudio prospectivo nuevo o en una revisión de evidencia existente.\nPoblación: Pacientes con cáncer de pulmón a células pequeñas (SCLC) y metástasis cerebrales.\nIntervención: Radiocirugía estereotáctica (SRS) como alternativa a la irradiación holocraneal (whole-brain radiotherapy); comparador implícito: irradiación de todo el cerebro.\nResultados: No hay cifras de supervivencia, control local ni toxicidad cognitiva disponibles a partir del título.\nLimitaciones: Sin el abstract no se puede saber si se trata de datos originales o de una opinión basada en evidencia previa; el SCLC tradicionalmente se excluyó de los estudios de SRS por su alta tasa de diseminación cerebral.\nMensaje: Si se consolida como opción válida, podría cambiar la práctica habitual de irradiación holocraneal por SRS en pacientes seleccionados con SCLC y pocas metástasis, reduciendo la toxicidad cognitiva.\nNota: análisis sin acceso al abstract."
     },
-    "d0c52b6365c4": {
-      "resumen": "Telva cuenta que el vestido \"soso\", la tendencia noventosa que popularizó Gwyneth Paltrow, vuelve a imponerse como una de las prendas más elegidas de la temporada."
+    "36dd1b928758": {
+      "resumen": "The ASCO Post difunde un estudio sobre radiocirugía estereotáctica fraccionada (dividida en varias sesiones) tras la resección quirúrgica de metástasis cerebrales grandes. Interesa porque busca mejorar el control local sin aumentar la toxicidad, en pacientes que suelen tener pocas alternativas eficaces tras la cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico que evalúa un esquema de radiocirugía estereotáctica fraccionada (varias sesiones) posquirúrgica; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con metástasis cerebrales grandes resecadas quirúrgicamente.\nIntervención: Radiocirugía estereotáctica fraccionada adyuvante a la cavidad de resección; no se especifica comparador en el título (probablemente radiocirugía en dosis única).\nResultados: El título indica mejoría de resultados, pero no hay cifras de control local, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el seguimiento ni si el diseño es prospectivo o retrospectivo.\nMensaje: Si se confirma, respaldaría el fraccionamiento de la SRS poscirugía como estrategia para mejorar el control local en metástasis grandes, un escenario con alto riesgo de recurrencia.\nNota: análisis sin acceso al abstract."
     },
-    "6ffd66484127": {
-      "resumen": "ELLE selecciona cinco carteras rojas de Zara, el color tendencia del otoño 2026, por menos de 25 euros."
+    "28965a095e7d": {
+      "resumen": "OncLive repasa las perspectivas futuras en mieloma múltiple: terapias emergentes, cómo secuenciarlas y la posibilidad de alcanzar la cura. Sirve como panorama general del estado del arte en un cáncer hematológico donde la oferta terapéutica creció mucho en los últimos años.",
+      "destacado": false
     },
-    "12701756f695": {
-      "resumen": "La Nación repasa los secretos de estilo de Nicole Neumann: sus diseñadores favoritos, las tendencias atemporales que elige y sus looks de cabecera."
+    "1fd825c26849": {
+      "resumen": "New England Journal of Medicine publica una perspectiva de la IARC (Agencia Internacional para la Investigación del Cáncer, dependiente de la OMS) sobre el tamizaje de cáncer de pulmón. Importa porque estas perspectivas suelen orientar políticas públicas y recomendaciones internacionales de detección temprana.",
+      "destacado": false
     },
-    "c3a76f8bdcf7": {
-      "resumen": "Vanitatis presenta la tendencia \"tapestry\", que lleva la tela de tapicería de los sillones a la ropa y ya conquistó a las mujeres más elegantes."
+    "7dd5fddae847": {
+      "resumen": "New England Journal of Medicine publica un estudio sobre el efecto del tamizaje con un test de detección precoz multicáncer (MCED, multicancer early-detection test) —un análisis de sangre capaz de rastrear señales de varios tumores a la vez— sobre el diagnóstico de cáncer en estadio avanzado. Es un tema de alto interés porque estos tests buscan anticipar diagnósticos, aunque todavía se debate su impacto real en la práctica.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de tamizaje poblacional con un test de detección precoz multicáncer (MCED); el título no precisa si es aleatorizado, el número de centros ni el tamaño de la muestra.\nPoblación: Personas sometidas a tamizaje con el test MCED, sin especificar en el título edad ni factores de riesgo.\nIntervención: Tamizaje con test MCED (análisis de sangre que detecta ADN tumoral circulante de múltiples cánceres) versus la ausencia de este tamizaje o el cuidado estándar.\nResultados: El título refiere un efecto sobre el diagnóstico en estadio avanzado, pero no hay cifras de sensibilidad, valor predictivo, reducción de diagnósticos avanzados ni intervalos de confianza disponibles.\nLimitaciones: Sin abstract no se puede evaluar el diseño, el seguimiento, ni si hubo sobrediagnóstico o resultados falsos positivos, un punto crítico en los tests MCED.\nMensaje: Es un estudio clave para definir si el tamizaje multicáncer logra adelantar diagnósticos a estadios más tratables, una pregunta central antes de recomendar su uso poblacional.\nNota: análisis sin acceso al abstract."
     },
-    "e966e91a05a8": {
-      "resumen": "Vogue México destaca el look de Dakota Johnson en los VMAs 2026, con vestido de lentejuelas y sandalias de tiras, junto a Taylor Swift."
+    "634d7e51719c": {
+      "resumen": "Vogue repasa la colección primavera 2027 del diseñador español Juan Vidal, presentada en la pasarela."
     },
-    "fcca3943bc65": {
-      "resumen": "Vogue México repasa ocho looks de belleza que se destacaron en los VMAs 2026, del corte lob a las trenzas boho."
+    "ea91b0e16c5e": {
+      "resumen": "Vogue reseña la colección de prêt-à-porter primavera 2027 del diseñador Eudon Choi."
     },
-    "3eab3310dec2": {
-      "resumen": "Infobae presenta CircuitoSITE Buenos Aires, un recorrido de arte que transforma cementerios, depósitos y oficinas de la ciudad en escenarios vivos."
+    "04bbb23ecc8c": {
+      "resumen": "Vogue presenta la colección de prêt-à-porter primavera 2027 de la firma Armarium."
     },
-    "b4f7ada6314a": {
-      "resumen": "Indie Hoy anuncia que el artista Gibran Alcocer se presentará en la Argentina."
+    "1383372f7577": {
+      "resumen": "Vogue reseña la colección de prêt-à-porter primavera 2027 de la marca Matières Fécales."
+    },
+    "94f7d0e7cc7a": {
+      "resumen": "Vogue México propone combinar lavanda y beige, el look suave e inesperado que impulsa Bottega Veneta para el otoño 2026."
+    },
+    "bfc30e5f5a91": {
+      "resumen": "ShowOnLine repasa las nuevas tendencias que va a imponer la temporada verano 2027 en el mundo de la moda."
+    },
+    "d4549d2af24e": {
+      "resumen": "Vogue México muestra cómo la cantante española Rosalía combinó zapatos de plataforma bien altos con medias y falda de ballet para el otoño 2026."
+    },
+    "91cca112c11a": {
+      "resumen": "Perfil resume las tendencias que dejó la Semana de la Moda de Milán para la temporada primavera-verano 2027."
+    },
+    "46ce4db04e69": {
+      "resumen": "Vogue México destaca el look en cuero de Georgina Rodríguez, pareja de Cristiano Ronaldo, con falda mini, tacos y campera motoquera."
+    },
+    "f50dc7d357ee": {
+      "resumen": "Libertad Digital recorre la Semana de la Moda de Milán, que combinó inspiración renacentista con desfiles junto a robots."
+    },
+    "efd60ab913f8": {
+      "resumen": "Infobae adelanta que Joaquín Furriel y Alfredo 'Puma' Goity vuelven al Teatro San Martín en 2027 con dos nuevas puestas de obras clásicas."
+    },
+    "3e0f02b4ee2f": {
+      "resumen": "Crónica confirma que Goity y Furriel encararán dos nuevas obras clásicas en el Teatro San Martín durante la temporada 2027."
+    },
+    "e465c77f85ab": {
+      "resumen": "Perfil cuenta que Buenos Aires llega a Madrid con un mes de actividades culturales porteñas centradas en la figura de Jorge Luis Borges."
+    },
+    "491ff6cb346b": {
+      "resumen": "La Capital de Mar del Plata anuncia que Buenos Aires Ballet se presenta con una gran gala en esa ciudad."
+    },
+    "d655cd00cff0": {
+      "resumen": "Time Out selecciona los 21 mejores hoteles de la ciudad de Buenos Aires."
     }
   }
 }
