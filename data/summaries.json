@@ -1,33 +1,32 @@
 {
-  "generated_at": "2026-09-30T10:17:21Z",
+  "generated_at": "2026-09-30T22:16:27Z",
   "summaries": {
-    "a653b7405a8e": {
-      "resumen": "OncLive reporta los resultados primarios del ensayo DESTINY-Lung04, que evalúa trastuzumab deruxtecan (T-DXd), un anticuerpo conjugado a droga (ADC) dirigido contra HER2, como tratamiento de primera línea en cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) metastásico con mutación de HER2. Es un dato de peso porque podría instalar una nueva primera línea dirigida para un subgrupo de pacientes que hoy no cuenta con un blanco terapéutico específico tan temprano en el tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (probablemente fase II, según el patrón habitual de los estudios DESTINY-Lung); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico con mutación de HER2, sin tratamiento previo (primera línea).\nIntervención: Trastuzumab deruxtecan (T-DXd), un anticuerpo conjugado a droga (ADC) dirigido contra HER2, sin comparador explícito mencionado en el título.\nResultados: No hay cifras de tasa de respuesta objetiva, supervivencia libre de progresión, supervivencia global ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral ni el seguimiento; los estudios de esta línea (DESTINY-Lung) suelen ser de un solo brazo, lo que limita la comparación directa con el estándar actual.\nMensaje: Si los resultados son sólidos, podría consolidar a T-DXd como primera línea dirigida en NSCLC HER2-mutado, un escenario donde hoy la quimioinmunoterapia es el estándar.\nNota: análisis sin acceso al abstract."
-    },
-    "f4543ebc8701": {
-      "resumen": "OncLive repasa los avances recientes en la investigación del melanoma uveal, un tumor ocular poco frecuente pero de comportamiento agresivo, y plantea hacia dónde va el campo en diagnóstico y tratamiento. Es una nota de revisión, útil para actualizarse en un tumor donde las opciones terapéuticas siguen siendo limitadas.",
+    "406b952aac17": {
+      "resumen": "OncLive analiza cómo el control de la enfermedad en el sistema nervioso central (SNC) y la tolerabilidad diaria orientan la secuencia de tratamientos en el cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con mutación de HER2. Es relevante porque ayuda a definir el orden de las terapias disponibles en un subgrupo con alta tasa de metástasis cerebrales.",
       "destacado": false
     },
-    "8d8e1a06083d": {
-      "resumen": "OncLive analiza los principales desafíos diagnósticos y de manejo en la mastocitosis sistémica, una enfermedad hematológica poco común causada por la acumulación anormal de mastocitos. Es una revisión útil para ordenar criterios diagnósticos y opciones terapéuticas en una entidad de baja frecuencia.",
+    "4d73e39f0027": {
+      "resumen": "The ASCO Post presenta el estudio SYMPRO-Lung, que evalúa si el monitoreo semanal de síntomas mediante desenlaces reportados por el paciente (PRO, por sus siglas en inglés) puede mejorar la supervivencia en cáncer de pulmón de cualquier estadio. Interesa porque suma evidencia a la idea de que el seguimiento activo de síntomas podría impactar en resultados duros, no solo en calidad de vida.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el planteo como pregunta sugiere un ensayo en curso o recientemente reportado, probablemente aleatorizado) que evalúa el monitoreo semanal de síntomas mediante cuestionarios de desenlaces reportados por el paciente (PRO); el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de cualquier estadio (enfermedad temprana, localmente avanzada o metastásica).\nIntervención: Monitoreo semanal de síntomas mediante desenlaces reportados por el paciente (PRO) versus seguimiento clínico estándar.\nResultados: No hay cifras de supervivencia global, tiempo hasta deterioro clínico ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el diseño exacto, el tamaño muestral ni el seguimiento; los estudios de monitoreo de síntomas suelen enfrentar dificultades de adherencia sostenida en el tiempo.\nMensaje: Si el monitoreo semanal de síntomas demuestra impacto en supervivencia, reforzaría la incorporación sistemática de herramientas de PRO en la práctica oncológica habitual, más allá de su rol ya establecido en calidad de vida.\nNota: análisis sin acceso al abstract."
+    },
+    "812e622f753d": {
+      "resumen": "The ASCO Post reporta un estudio que encontró que la depresión aumenta el riesgo de mortalidad específica por cáncer en tumores frecuentes. Es un dato importante porque pone en agenda la salud mental como factor pronóstico y remarca la necesidad de pesquisa y tratamiento psicológico en pacientes oncológicos.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (probablemente de cohorte, dado que evalúa riesgo de mortalidad asociado a una exposición); el título no precisa si es prospectivo o retrospectivo, el período de seguimiento ni el número de participantes.\nPoblación: Pacientes con cánceres frecuentes (el título no especifica los tipos tumorales) con y sin diagnóstico de depresión.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de asociación entre depresión (exposición) y mortalidad específica por cáncer (desenlace).\nResultados: No hay cifras de razón de riesgo (hazard ratio), intervalos de confianza ni valor de p disponibles a partir del título.\nLimitaciones: Los estudios observacionales de este tipo están expuestos a factores de confusión (por ejemplo, menor adherencia al tratamiento o diagnóstico más tardío en pacientes con depresión); sin abstract no se puede conocer el ajuste estadístico realizado ni el tamaño muestral.\nMensaje: Refuerza la importancia de la pesquisa y el tratamiento oportuno de la depresión en pacientes oncológicos, no solo por calidad de vida sino como posible factor asociado a peor pronóstico oncológico.\nNota: análisis sin acceso al abstract."
+    },
+    "c1dbd6f2b311": {
+      "resumen": "OncLive publica una nota sobre cómo transitar el pasaje de la fellowship a un puesto de planta en oncología, con foco en la mentoría y la participación en encuentros de la especialidad. Es un artículo de desarrollo profesional, útil para quienes atraviesan esa etapa de la carrera académica.",
       "destacado": false
     },
-    "02c66894bd22": {
-      "resumen": "The ASCO Post entrevista al médico Ricardo Sales dos Santos sobre BRELT3, un estudio brasileño que evalúa la tomografía computada de tórax móvil de baja dosis para el tamizaje de cáncer de pulmón en contextos con recursos limitados. Interesa porque plantea cómo llevar el rastreo de cáncer de pulmón a poblaciones sin acceso a centros de diagnóstico por imágenes fijos.",
+    "390bc63fd98d": {
+      "resumen": "The ASCO Post reporta que las prácticas de mindfulness (atención plena) y tai chi podrían mejorar los síntomas persistentes tras finalizar el tratamiento oncológico. Interesa porque son intervenciones de bajo costo y baja toxicidad para un problema frecuente en sobrevivientes de cáncer.",
       "destacado": false,
-      "analisis": "Diseño: Entrevista en video sobre BRELT3, un estudio de implementación de tamizaje con tomografía computada de tórax móvil; el título no precisa si es un estudio prospectivo, un registro o un ensayo aleatorizado, ni el número de participantes o centros.\nPoblación: Personas en riesgo de cáncer de pulmón en regiones de Brasil con acceso limitado a servicios de diagnóstico por imágenes fijos.\nIntervención: Tamizaje de cáncer de pulmón con unidades móviles de tomografía computada de baja dosis, sin comparador explícito mencionado en el título.\nResultados: No hay cifras de tasa de detección, estadio al diagnóstico ni de adherencia al programa disponibles a partir del título.\nLimitaciones: Al tratarse de una entrevista y no de la publicación original, no se puede evaluar el diseño metodológico, el tamaño muestral ni el seguimiento del estudio BRELT3.\nMensaje: Sugiere que los modelos móviles de tamizaje podrían ampliar el acceso a la detección temprana de cáncer de pulmón en regiones con infraestructura limitada, una estrategia relevante para sistemas de salud con recursos acotados.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio clínico (probablemente un ensayo aleatorizado o una revisión sistemática/metaanálisis de intervenciones mente-cuerpo); el título no precisa el diseño exacto, el cegamiento, ni el número de centros o de pacientes.\nPoblación: Sobrevivientes de cáncer que finalizaron el tratamiento oncológico y presentan síntomas persistentes (el título no especifica cuáles).\nIntervención: Prácticas de mindfulness (atención plena) y tai chi, frente a la atención estándar o la ausencia de intervención mente-cuerpo.\nResultados: No hay cifras de magnitud de mejoría sintomática, escalas utilizadas ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el diseño exacto, el tamaño muestral ni si hubo cegamiento (difícil de lograr en este tipo de intervenciones); los estudios de mindfulness y tai chi suelen tener alta heterogeneidad entre programas.\nMensaje: Si se confirma el beneficio, estas intervenciones podrían incorporarse como complemento de bajo costo y baja toxicidad en la atención de sobrevivientes con síntomas persistentes tras el tratamiento oncológico.\nNota: análisis sin acceso al abstract."
     },
-    "f66c93f37e4f": {
-      "resumen": "The ASCO Post reporta que dosis ultra bajas de radioterapia podrían aliviar el dolor óseo causado por el mieloma múltiple, una neoplasia de las células plasmáticas de la médula ósea. El dato interesa porque un esquema de menor dosis podría lograr el mismo alivio sintomático con menos efectos adversos y sesiones de tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio que evalúa radioterapia en dosis ultra bajas para control del dolor; el título no precisa si es un ensayo aleatorizado, una cohorte o una serie retrospectiva, ni el número de centros o de pacientes.\nPoblación: Pacientes con mieloma múltiple y dolor óseo secundario a lesiones líticas.\nIntervención: Radioterapia en dosis ultra bajas (menor a los esquemas convencionales de radioterapia paliativa), sin comparador explícito mencionado en el título.\nResultados: No hay cifras de tasa de respuesta al dolor, tiempo hasta el alivio ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el instrumento usado para medir dolor ni el seguimiento del estudio.\nMensaje: Si se confirma, un esquema de radioterapia de dosis ultra baja podría ofrecer alivio sintomático equivalente con menor toxicidad y menos visitas, algo relevante para el manejo paliativo del mieloma múltiple.\nNota: análisis sin acceso al abstract."
-    },
-    "a81a9545753d": {
-      "resumen": "The ASCO Post reporta seguimiento a largo plazo que muestra un control de la enfermedad equivalente entre la radioterapia corporal estereotáctica (SBRT, por sus siglas en inglés) y la cirugía en cáncer de próstata localizado. Es un dato relevante porque refuerza a la SBRT como alternativa no invasiva con resultados sostenidos en el tiempo.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de seguimiento a largo plazo que compara radioterapia corporal estereotáctica (SBRT) con cirugía (probablemente prostatectomía radical); el título no precisa si es un ensayo aleatorizado o una comparación de cohortes, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer de próstata localizado, candidatos tanto a tratamiento quirúrgico como a radioterapia definitiva.\nIntervención: Radioterapia corporal estereotáctica (SBRT) versus cirugía (prostatectomía).\nResultados: No hay cifras de control bioquímico, supervivencia libre de recaída ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Si la comparación no es aleatorizada, existe riesgo de sesgo de selección entre pacientes tratados con cirugía versus SBRT; sin abstract no se puede conocer el seguimiento mediano ni el tamaño muestral.\nMensaje: Respalda a la SBRT como alternativa efectiva y no invasiva a la cirugía en cáncer de próstata localizado, con control de enfermedad sostenido a largo plazo.\nNota: análisis sin acceso al abstract."
+    "a2072c11c73e": {
+      "resumen": "OncLive presenta un perfil institucional del Dan L. Duncan Comprehensive Cancer Center, del Baylor College of Medicine. Es una nota de tipo institucional, sin datos clínicos nuevos, útil solo como referencia sobre el centro.",
+      "destacado": false
     },
     "9e219edb47a0": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo clínico aleatorizado y controlado que evalúa estrategias facilitadas de testeo genético en cascada para familiares de personas con variantes patogénicas en BRCA1/2, genes asociados a mayor riesgo de cáncer de mama y ovario hereditario. Interesa porque el testeo en cascada suele tener baja adherencia y este estudio busca mejorarla.",
@@ -48,41 +47,38 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado, abierto (sin cegamiento), de fase III; el título no precisa el número de centros participantes ni el tamaño total de la muestra.\nPoblación: Pacientes con metástasis cerebrales recién diagnosticadas tratados con cirugía.\nIntervención: Radioterapia en mosaico (tile-based) de toda la cavidad quirúrgica y el lecho tumoral versus radiocirugía estereotáctica (SRS) posquirúrgica focalizada.\nResultados: No hay cifras de control local, supervivencia libre de progresión intracraneal, supervivencia global ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Al ser un diseño abierto, existe riesgo de sesgo en la evaluación de desenlaces radiológicos; sin el abstract no se puede conocer el seguimiento ni la potencia estadística del estudio.\nMensaje: Este ensayo busca definir si ampliar el campo de radioterapia más allá del lecho quirúrgico mejora el control local respecto de la SRS focal, una pregunta relevante para reducir recaídas locales tras la cirugía de metástasis cerebrales.\nNota: análisis sin acceso al abstract."
     },
-    "37daf79f1627": {
-      "resumen": "JAMA Oncology publica una columna de opinión que reclama recuperar la costumbre de que los médicos escriban cartas de condolencias a las familias de pacientes fallecidos. Es una reflexión sobre el vínculo médico-paciente y el duelo en oncología, no un estudio con resultados.",
-      "destacado": false
+    "fca460515a90": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Jenny Packham."
     },
-    "fb5a65aa4177": {
-      "resumen": "JAMA Oncology publica un ensayo clínico no aleatorizado que evalúa desenlaces reportados por el paciente y toxicidad financiera (la carga económica del tratamiento) en personas con cáncer de cabeza y cuello. Interesa porque pone en primer plano el impacto económico del tratamiento oncológico sobre la calidad de vida.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico no aleatorizado; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de cabeza y cuello en tratamiento oncológico.\nIntervención: No se describe una intervención terapéutica específica en el título; el estudio parece evaluar una intervención o estrategia de seguimiento centrada en desenlaces reportados por el paciente y toxicidad financiera, sin comparador aleatorizado.\nResultados: No hay cifras de escalas de calidad de vida, magnitud de la toxicidad financiera ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Al ser no aleatorizado, hay riesgo de sesgo de selección; sin abstract no se puede conocer el instrumento usado para medir toxicidad financiera ni el tamaño muestral.\nMensaje: Visibiliza la toxicidad financiera como un desenlace relevante a medir de forma sistemática en cáncer de cabeza y cuello, con implicancias para el acompañamiento social y económico de los pacientes.\nNota: análisis sin acceso al abstract."
+    "cc22ba53c40e": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Ashish."
     },
-    "fe7d7dcda901": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de la marca danesa Ganni."
+    "acc937258102": {
+      "resumen": "Vogue muestra la colección primavera 2027 de prêt-à-porter de Acne Studios."
     },
-    "51f0f1ea1c6e": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la marca danesa Tove."
+    "b7a61b004e35": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Vaquera."
     },
-    "2b4833973dce": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Saint Laurent."
+    "f26975827d1c": {
+      "resumen": "Vogue México presenta un spritz floral para sumar al repertorio de cócteles."
     },
-    "106c533831df": {
-      "resumen": "Vogue muestra la colección primavera 2027 de prêt-à-porter de la diseñadora A. Potts."
+    "da49829549b9": {
+      "resumen": "Vogue México cuenta que el próximo desafío de John Galliano es transformar el archivo de una marca masiva en alta costura."
     },
-    "336ebca66ef3": {
-      "resumen": "Telva explica por qué la nueva colección de John Galliano para Zara es, según la nota, lo más destacado que le pasó a la marca en años."
+    "aa2ed01f44ab": {
+      "resumen": "Vogue México destaca los zapatos de taco rojo como lo más elegante del otoño 2026, con Kate Middleton como ejemplo."
     },
-    "3bc283a52343": {
-      "resumen": "The Objective repasa prendas de menos de 19 euros de Primark, Zara y Mango en los colores tendencia para el otoño-invierno."
+    "c6e3d7407395": {
+      "resumen": "Harper's BAZAAR repasa el flequillo corto que lució Jennifer Lawrence en París, tendencia 2026 para renovar el look sin cambiar el largo del pelo."
     },
-    "8e1684909d74": {
-      "resumen": "Vogue México cuenta, a partir de un viaje a Dinamarca, qué hay detrás del calzado pensado para caminar."
+    "bc38b516c8ec": {
+      "resumen": "MisionesOnline anuncia que Fusion Fashion Night, un evento de moda, arte y música, llega a Santo Tomé."
     },
-    "89b62b3307e4": {
-      "resumen": "El Destape adelanta cuál es la prenda que se impone como tendencia para la primavera-verano 2027 y cómo combinarla de día y de noche."
+    "cbf72b3b8eee": {
+      "resumen": "HOLA cuenta cuál es el animal print tendencia del otoño 2026, distinto al clásico estampado de leopardo."
     },
-    "062ca2011ece": {
-      "resumen": "Vogue México propone cómo combinar jeans boho con sandalias de tacón este otoño, según el street style."
+    "8648bd26de2f": {
+      "resumen": "pronto.com.ar explica cómo conseguir entradas con hasta 90% de descuento para obras de la cartelera teatral porteña a través de Vení al Teatro."
     },
     "87161713d9d5": {
       "resumen": "La guía MICHELIN selecciona diez restaurantes imprescindibles para conocer Buenos Aires."
@@ -96,35 +92,20 @@
     "a7f5fb348e2f": {
       "resumen": "El Festival Nueva Ópera celebra su décimo aniversario con una nueva edición en Buenos Aires."
     },
-    "261a11aa0ecb": {
-      "resumen": "La banda sueca de power metal HammerFall se presentará en 2027 en el Teatro Flores con su gira Glory to the Brave & Hymns."
-    },
-    "d655cd00cff0": {
-      "resumen": "Time Out selecciona los 21 mejores hoteles de la ciudad de Buenos Aires."
-    },
-    "12f8266059c7": {
-      "resumen": "El Destape propone seis actividades para hacer en la Ciudad de Buenos Aires el fin de semana del 25 al 27 de septiembre."
+    "05d5a0a5b2ac": {
+      "resumen": "iProfesional informa que la Ciudad de Buenos Aires eximirá del pago de ABL a hoteles, restaurantes y librerías a partir de 2027."
     },
     "907554b29416": {
       "resumen": "Clarín reseña los cinco restaurantes de Buenos Aires distinguidos por el Gobierno español por su cocina española."
+    },
+    "12f8266059c7": {
+      "resumen": "El Destape propone seis actividades para hacer en la Ciudad de Buenos Aires el fin de semana del 25 al 27 de septiembre."
     },
     "962108dd69c4": {
       "resumen": "El Destape propone cinco planes para disfrutar en Buenos Aires en el primer fin de semana de la primavera."
     },
     "d4a9935d7b75": {
       "resumen": "Meteored Argentina recomienda seis planes gratuitos para hacer en Buenos Aires este fin de semana, desde el Festival del Asado hasta un concierto en vivo en el Planetario."
-    },
-    "229ef2da41b8": {
-      "resumen": "Infobae reporta que la diabetes tipo 2 de aparición temprana sería más frecuente en personas con trastorno por déficit de atención e hiperactividad (TDAH) y autismo."
-    },
-    "2bc75f417b44": {
-      "resumen": "Infobae advierte que el estrés crónico no solo afecta el bienestar emocional, sino que también podría perjudicar la memoria."
-    },
-    "80f2f95176bf": {
-      "resumen": "Infobae repasa tratamientos sin respaldo científico que circulan entre personas con pérdida de visión."
-    },
-    "cb1610c44b76": {
-      "resumen": "Infobae informa que un spray nasal logra aliviar rápidamente el dolor en niños atendidos en guardias de urgencias."
     }
   }
 }
