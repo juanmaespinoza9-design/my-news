@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T13:33:08.433512+00:00",
+ "generated_at": "2026-10-01T19:37:55.611317+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,46 +7,70 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "IARC Panel Provides International Determination on Lung Cancer Screening Benefits and Harms",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEtvSzVwdFRseXg3ekgwa3B4YzhWSFRiOE03WDlpYWhyZWVoZWpjRWlSdDk1b241Qjk0bXRySjF0LVh1WVBlVlZpSlVhR01EUkFxNmY2Z0pvRTV5aTMzUzY5WlJVcHFpNXV4R2NxTmhIcElodWsyNEhEZkZCNzNZTmxXVllOSk9zb2RsNTUzMjBDSW90YWhWY0ZQVWVPTDAxQVM1cXBNWWt5S2VZcHkxUzhjcDFMYUhTMGloTkQxclZKTzFqZ29iUy1ZNA?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-01T17:37:36+00:00",
+     "id": "adc676361d95"
+    },
+    {
+     "title": "Can Long Distance Running Be a Risk Factor for Early-Onset Colorectal Cancer?",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjYxakQxX0VrY3Vpa2p6dnhoNmFFcjRjOGhqdHk0djFTamdhWjR6NVo3eXlvVldOQUxYaWFzWno3azcxalFxV0Z0emptQVQ4cFNCM1N1NV94ZG5WVElNZzd1aWdrTGZoc1NIeTNIWGU3ZVN1MFJGTnFFXzBRazROdklRVlNMZTUtVnA5Wk5GNWZyUTJFQjZReklCZjJtNDFNMGZJaDkydV9UN2VvZ3RvenpVYXJtcm8?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-01T16:40:46+00:00",
+     "id": "21eb7b092fed"
+    },
+    {
+     "title": "FDA Launches Effort to Expand Scientific Expertise, Consumer Voice to Advisory Committees",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGdDakpnOWRMdVRsOFcxVzdFaU1HY0huRmNyeEg4U3Jnbno4dlN1V3hzRmdZUEdEQVc4UUxHNzVUd0JuZDlWanZGYlhYWXI4eWZZU0FpcWJLWUROZ2pBSDhUeURvXzFRSGpFOUFleGRjVVkybWxWNVREWWJDalhjeHlacmx3em5RaGJMb1p6Y2g5OG9lcG00anJBQ3owbmx0cE9zUi1Na1g5SWdDZXVFZl9nZmFzTUpvVzQzRzZTaTlzVU1oc19R?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-01T15:52:15+00:00",
+     "id": "34ab5e79c3e1"
+    },
+    {
+     "title": "Oral Azacitidine and Cedazuridine Meets Primary Pharmacokinetic End Point in MDS and CMML",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk91M3BzbEF1aVJHUzZmRW9rQmlJdHluMjFmbVdRSkJOUFJfbmRPV2xacnFfNXFvc2s4RlVLRDExdDR2SkIwNUNpVUU1VWd4X1J5UTFOVGxVNmlpTXpBUkFhUU5wb3B1MjRzTWRhNEFJZHJaTnFidXUwNjFYazFma2NaZTBNSWRYaW5KYUNRUXhQOWpVcTJPUTdXbkFYYkk2Umt2dWNzbElscUxsWFFHZF9aQ3p0OTdBbGc?oc=5",
+     "source": "onclive",
+     "published": "2026-10-01T14:52:13+00:00",
+     "id": "cb993a37909a"
+    },
+    {
      "title": "UTRxMYCN M1-14 Nets FDA Dual Designations in Soft Tissue Sarcoma",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU1DNG1OcmRRSXh5NDBodHgxNjlWcmdLdFpLMEk2Q29pam42UVJMMWNUTDdmc0ZxZ2lIUUpsOXQxQVZxSVlfU1V4azAtNkJPbmQxaTVxam1mM0psTkQxUnR2T2ZVYks5eXREVjEtX2M3Qjg3VHRQVHMxeS1ZWjBUQTU5Ry1BZ0FnSkhNbUROM3N0Y21yZ0dKZA?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-10-01T13:19:39+00:00",
      "id": "4ce430b5ac41"
     },
     {
+     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42814941/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-01T00:00:00+00:00",
+     "copete": "Choueiri TK et al. · The New England journal of medicine",
+     "id": "ac6d4a01cc64"
+    },
+    {
+     "title": "Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42814940/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-01T00:00:00+00:00",
+     "copete": "Wu X et al. · The New England journal of medicine",
+     "id": "f4cdf2d955cd"
+    },
+    {
+     "title": "Giredestrant plus Everolimus in Advanced Breast Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42814929/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-01T00:00:00+00:00",
+     "copete": "Mayer EL et al. · The New England journal of medicine",
+     "id": "a865c5cbadb4"
+    },
+    {
      "title": "Resistance Patterns Shape FGFR Inhibitor Sequencing in Cholangiocarcinoma",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWVYN2M4RXg2Wmt6QVQ5UE1odVBTd2V4bGZXTVB3bXcxQkhIMlVwMURHOFFvQzRlNFV2Z1RDWExmbkphWHlBb0dSVzVUcVlHdWc0aUZ0ZndBYW8wSXJ1aTB3OURLNm56VXROeUZFdE8xeHpDOFdxZkJDT1E3M080OUlDZ2ZhcU5NNTZoN2xvQ1lGZjAxMVJSUE84RlYyMUJNY1lCUQ?oc=5",
-     "source": "OncLive",
+     "source": "onclive",
      "published": "2026-09-30T23:32:03+00:00",
      "id": "acae3b8d6ba2"
-    },
-    {
-     "title": "First-Line Amivantamab-chemotherapy vs Chemotherapy in NSCLC With EGFR Exon 20 Insertions: Overall Survival From PAPILLON",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMTQ4bUNlTUpZelZSUUdCVHFZcTVfMUhycnplNzRHSUlMenNBRWo0Xy1idEtSblVzQ3BCR0VtMzhsSGZqMk5iSFFXT1F4NHVSeTktN20ybmhpUDNZa0Vib0czaGc1MVZnT1RETVZKZE5wbGlvWEFQMU5DeE4tUVFoUEVRbnhOWVMwNWxtcTZwVmxoR0I1X1hWMXNnMWFyMVBDOVY2UnBJaXY3UDJEYzQ5cFdKaTFybHdwQTcyUWRaN3NEVlpNdEhHcW0yd3JfeW5JYjRBZWZVazBMdHFtN3lvZjhWdw?oc=5",
-     "source": "OncLive",
-     "published": "2026-09-30T22:48:33+00:00",
-     "id": "516e865fcd45"
-    },
-    {
-     "title": "Anne Chiang, MD, PhD, on Targeting B7-H3 in Second-Line SCLC Treatment: Novel ADCs",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVBBXzRaRUlLVEVsWlBsazVIQkk0REJXY0dLcGRfYm1HRFNUaV9GMHNXTW54RThBWlB1MGJIMUxvTERMR2dJbEQ3Si1tNkF5elE4RjN5d2k3T2ZaM3JGOGw4cEx2bi1CX0JaU2lNdVV0WUUtaTRpbnV6VWdMck1aWEdnWXpYaEtmUTd2eU1BbndCTmJaNTNGbFdyRXJKRG1yVGI4?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-09-30T17:48:37+00:00",
-     "id": "ca2533e7fd08"
-    },
-    {
-     "title": "SYMPRO-Lung: Could Weekly PRO Symptom Monitoring Improve Survival Outcomes in Any-Stage Lung Cancer?",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUU5UWGVWU1g1bHhNaGlNRm5SUmJhNkRvN0FCRzdEVlJNNmtIa045VDNNYkdrdlhHRlNxczhXcUhkZEhzanMxX01vd1FnUzF2cmZtdGxUMFNNQW9DS3NaMFpJTUhCeTlLN0lNNXpWOHV2ZVZ4RTZCZ0QzeFZhYVZvU3V6aDBZenZZOUdOZ28wUkxSa2tPYVVPX256NzR6Q0tuU2UwNHhIRXBkbFpMUXhJUDZ6c0VjSnBWdU45UDVscUZjeHgzZkdfYlM4Tzl0ckgyWTdoWHdiOA?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-09-30T17:28:19+00:00",
-     "id": "4d73e39f0027"
-    },
-    {
-     "title": "Depression Increases Cancer-Specific Mortality Risks in Common Cancers",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUl6ZGVJQW11cWRiR1dtNW5EcFItOUxibGo0TmpEUndIR0JpTm5lS1g5bkg5aVpJYnVBMjNiSHVMWF9jeG5qVmJSOURDOUU2MGtENHhyNjhkODV5R1B6MTN4NnBQZVJDUDdHRzVrZGlJcC1tSzlvYU9zcjhrQi1SeE9XUGhFSmlqVkFPNWdNSUpwb3N0QW9OX3hjalJ4TkQ5VkJJVkY4bjhfYmYza2hONXdR?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-09-30T17:13:06+00:00",
-     "id": "812e622f753d"
     },
     {
      "title": "Treatment of Multiple Myeloma: ASCO Living Guideline, Version 2026.1.3",
@@ -71,30 +95,6 @@
      "published": "2026-09-29T00:00:00+00:00",
      "copete": "Wilke RN et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "9e219edb47a0"
-    },
-    {
-     "title": "Sentinel Lymph Node Biopsy After Neoadjuvant Chemotherapy in Patients Presenting With Locally Advanced Breast Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42809799/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-09-29T00:00:00+00:00",
-     "copete": "Barrio AV et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "e480e5cfddef"
-    },
-    {
-     "title": "Letters We Don't Send-A Call for Physician Condolence Letters",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42783379/",
-     "source": "JAMA Oncology",
-     "published": "2026-09-24T00:00:00+00:00",
-     "copete": "Kirmani N et al. · JAMA oncology",
-     "id": "37daf79f1627"
-    },
-    {
-     "title": "Patient Reported Outcomes and Financial Toxicity in Head and Neck Cancer: A Nonrandomized Clinical Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42783378/",
-     "source": "JAMA Oncology",
-     "published": "2026-09-24T00:00:00+00:00",
-     "copete": "Karukonda P et al. · JAMA oncology",
-     "id": "fb5a65aa4177"
     }
    ]
   },
@@ -104,74 +104,74 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Francesco Biasia Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/francesco-biasia",
+     "title": "¿Te atreverías a usarlos? Conoce los zapatos tabis, la nueva tendencia de moda",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzF5WFdLbU1KbDcwdjl1ajJiRGtISlQydEpOQnNQbGZTSmZrYVF2Zjc0UHJGbVFWUXJXMWtpMHI2cTZFUzJhLWZTeG81WGhuTFVlNTkzekxGVmZKVng3eG54Ymx4UHRxT1FxNE5zR012bzhUWWV0Qm5HajAxOTlXY1A3dmhFOENocDd5MktpLVZSbThqMnkzeXN1SGJ6cUIzMUk3SGVnTXF5a19JQ3phaHFNMFN5eVV2YXpfeXNCZURiaHlyN0k3Nnh1YWk?oc=5",
+     "source": "El Sol de México",
+     "published": "2026-10-01T19:33:11+00:00",
+     "id": "b7cbcb284e66"
+    },
+    {
+     "title": "Isabel Marant Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/isabel-marant",
      "source": "Vogue",
-     "published": "2026-10-01T13:32:09+00:00",
-     "id": "cad56cbafb5f"
+     "published": "2026-10-01T19:32:51+00:00",
+     "id": "795d49b33909"
     },
     {
-     "title": "Balenciaga Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/balenciaga",
+     "title": "August Barron Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/all-in",
      "source": "Vogue",
-     "published": "2026-10-01T13:32:09+00:00",
-     "id": "d709f83ad83a"
+     "published": "2026-10-01T19:32:51+00:00",
+     "id": "496d330acf37"
     },
     {
-     "title": "Antonio Grimaldi Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/antonio-grimaldi",
+     "title": "Gauchere Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gauchere",
      "source": "Vogue",
-     "published": "2026-10-01T13:32:09+00:00",
-     "id": "6fcb0683efca"
+     "published": "2026-10-01T19:32:51+00:00",
+     "id": "b942cf9e4f55"
     },
     {
-     "title": "The Row Spring 2027 Ready-to-Wear",
-     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/row",
+     "title": "Chloé Spring 2027 Ready-to-Wear",
+     "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/chloe",
      "source": "Vogue",
-     "published": "2026-10-01T13:32:09+00:00",
-     "id": "e6178680ef31"
+     "published": "2026-10-01T19:32:51+00:00",
+     "id": "0e4157506750"
     },
     {
-     "title": "Inés de Ramón debuta con el boho más romántico de Chloé en la Semana de la Moda de París",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0RIaFpJSFlBRUlUS0hVdlhuTkZzOTNQUGZpOFZpWXlmNlJjeUFwOTZUaGFpeXdTRFVJQ0dmWmNTMXZWSU5vRDl6NEtTdHBTUnRFZmNQNmF6d1FOWkFadFdfakoxc0dWTVlscU14a1pkNW9sWEhVLXFPeGN2bG85eVhadjNYYUJqV2tvanZzdTU3aHBZcVdwZWFtOXBqTnY3UnNDTE1HUkZUTVAzWU9PdHV1eW91OW41bmVBcjlIN3VzQ2JsaFdMOW5XWkh2VWcyQml0RnluQQ?oc=5",
-     "source": "La Razón",
-     "published": "2026-10-01T13:02:43+00:00",
-     "id": "2854eb623b9c"
+     "title": "Uñas color café moka inspiradas en Hailey Bieber para lucir manicuras elegantes en otoño 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEs5S3pwV2xzZWhvWVBkM29GcjZieUZXWHN1QmVHS3Q1cERGYW5UaENoUFRsWlhTNEtyWnJnSVZ6Qm9nNU9VcWZYaHdKWGQ0cXM4QXZOSVA1U0ZzX0k3UFNwY29hakJFeUw4NkxHaWZOeXotenl6cEpxeXFHOWxrdDFwbUxjU245Xy1sM2tQaE9XVkhmZmVIVlpSeUxLM3RVUzJvOXVEVW90V3FSc0E?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-10-01T19:20:50+00:00",
+     "id": "ec79d93ad2a8"
     },
     {
-     "title": "Zara da un paso hacia el lujo con su primera colección diseñada por John Galliano",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY2Q2Y1NZX2xkQ1ltNk5jMW9Mb3F5azVMODlTZHJfbEJYVnVfYjRCWmU5RG9jNlZleW9sdXNlbGlwdUNQUkVsRUQwM3lHS2VMTGxodFdMNHdJMHBDbW1qcUxuT1pmWVVucHlUZEpsVW4zcE8xQUlwWVplLVNOU3FkQnNVNnRLcl90aDJDTVlFdVFOYjBFNkVXWWFOVFJtSnp1MnZwZW5XT2Ryek9XRnQ2WXhUVE0xdU5lQ3J6cy1ad05SMUtiSUlEaG5oaDRBMl91OGRORjhRRlpUbUQ0VTZ0SjZtU282bkFHMkFlMWhBaw?oc=5",
-     "source": "elgeneracionalpost",
-     "published": "2026-10-01T13:02:02+00:00",
-     "id": "b4a1f858c9b3"
+     "title": "Los 8 abrigos de Cortefiel que no querrás quitarte en todo el Otoño/Invierno: elegantes, calentitos y con toque de tendencia",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNzFDdjdlejgwQXp4UnlFSDI3WmVPbjYxS09KWFFadGg1Y3VVWjl4VDJ5VDd4V0N5QURLX0F2VU5adFdGQnF1bFR2SGFMeVh3OV9WMUdZdDNBalh5V0JuaGkxQ3RvWjFIaWhWMGVMUXp6UmlzazdpR1BTX29mRmM?oc=5",
+     "source": "Lecturas",
+     "published": "2026-10-01T18:30:00+00:00",
+     "id": "ef6f1647f1f7"
     },
     {
-     "title": "Horóscopo de hoy: 1 de octubre de 2026",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OT21BLVVPbDNkRlBOUHF3blZBOFZpdnRNUk9KODJBSkNnVkZUZkhBX19ibWNXamdwS2pXVjNjVEFtdVI1SjIyM3F3QXNNcGJFYmlvd285T1h2NlZ2OHdmaG1nb2lqNUREMWxuRTFYb0VMRkJ0a3FkS05HdV9fNTQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-01T11:00:00+00:00",
-     "id": "542fb07d5677"
+     "title": "Siembra Comedor: Una cocina que empieza en la milpa",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcWJyZ2JucHMxTzQ2ZmdGT2pCTmpSY3lYdkZDSGtHN1pHWk1WNWdBeDVuVm1rTEFiVGdvWUVRSHJLR0lVWFdOWW5mVkJDMnBISE9jSElXaFJUQmNYSmlDODJCWVNJeUFSanhSNXZPVzlnNGVwa0FDTVBvaFktNWFUaFNB?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-10-01T18:06:43+00:00",
+     "id": "eea876c37aee"
     },
     {
-     "title": "Si no tienes tiempo de ver las 197 piezas de John Galliano para Zara, estas son las prendas en las que sí merece la pena invertir (si no se han agotado ya)",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUtGYXlTZmFOeDg0YTVuV3dOR2M3aWhRNEtUNi1taG43dTIzNm5XWW51Wl9sbVpzcXZWSVhYTjc5dUJ4eE41eE1KcHBNckhfakJiX3c4cmwyNXhkWEpkLVhGcTc3SWRsMmFwanhyV1pHdWJVRXAtazlqTlF5eVZlSDNWZlrSAYQBQVVfeXFMTm5nd0V6X194S0NQX0tLMTdUaXhOU0tuUXIxSlpWeFFRY1F4ZG5QYmdUNzZLSno4VHYxWTMxcHNvbW1PREF0czJSU1VTZ0QwYkhSLWRaR0owbnZwYy14T3JqYjhBOEg2NHFmOGxkbkl4TUdKdm1CUHVlOExhRXJ4ZGhpUjBz?oc=5",
-     "source": "telva",
-     "published": "2026-10-01T10:52:32+00:00",
-     "id": "3e855cc9c0a4"
+     "title": "Colores en tendencia de Otoño-Invierno 2026: Blanco, rojo, rosa y más",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWV0lDNTl0aUx2MWtsMmhwUVF1Nkhkak5rM2tBdlhWSGdJWjJjNGFld1FUQUpTSTRjN01tRGdWYWFxcEQ1TTJwUmJoUENveFkxS2t2b0xKQWFOTjNWX3BZcmp1LTRhdWp0?oc=5",
+     "source": "vogue.mx",
+     "published": "2026-10-01T18:03:46+00:00",
+     "id": "3b6bd22c9ba6"
     },
     {
-     "title": "6 tendencias de moda que triunfan este octubre y que ya están llevando las mujeres más estilosas de París",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1pmTk04Qm1JZUhaTnoycTJzQkswWXd5c1dIcmJXRmdkOHJpY0tQc3U4NXlFSG1CZHc2UUVuaUZLMXR3SXM4YzdweHVScmZJQ3RPLVptOU16WGdhRHJtMWJSa1ZVN0F0Nno4V1NoVmd3WVN2UXA0dTBFelVqMFM4ZTVUTUYzQkJrQWVWeHItbGI3aFNINEx5cA?oc=5",
-     "source": "Cosmopolitan",
-     "published": "2026-10-01T10:05:35+00:00",
-     "id": "4ca698afbe0f"
-    },
-    {
-     "title": "Todos los detalles sobre el desfile que presentó las tendencias que definirán el cierre del 2026",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFpGbGJodFRqMGFZSzlHcW9pZ1ZZMU5jZURBYkpwdVhRZTVkMjJuempqcGFzWFdYcFg2eERHMzlPbWwxNUljb2JsUkw5TUFoU1lETG04bGFBTHJSbDV4RVZwWHpSbHRwQXpRVkVFSWZlNFkwc1pHdXN2cVJ0RVlZdkJ5Q2NlU2xNYUZGdTRmVF9BVzVNd1MzdFZTanNBQktBWnc?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-01T00:19:46+00:00",
-     "id": "5152f3a07407"
+     "title": "Arrasan sin parar en Zara: 5 conjuntos coordinados inspirados en las tendencias más virales del otoño que nos ayudarán a vestir bien en octubre",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHFURnRubGFqTlRJMTdXcEtIN2p2eEhmU1RUbENQMXRfMEJNVVNtOHNpYlB1OFdNc01JU1pSRU5HN3hhTGpuT01JQzZubkVhdG1HQ0hFWTlJUGlPOVNGVjR6akZvQnJReGRTWjBmTExmRnlwd3djZWpDcXJ2T1NqTXNPeE40VUVtdTlnb2hpUlR1c3hYQXQ1b1FqaTF2RTFSckl2YlBXQjZSVzNPQkRjQndMaWt6OEXSAbwBQVVfeXFMTjdmWnhzbXducDkxT3FNcU02cXkxMkdFU0hZWXJCSXRQQW94VE40RUZOQVRfQlpxRVh6MXVGU05JVXo0TmhyZWtnWDdYS3FVQl90dVRNZW9heFVWTldLRll1aDFrVHZBbVNEZ2tVbzV0dEdPU2o0TEVLbGhLMHZKM2VPZDJKWHhYR3A3UWFqVVdCVGgtTXAyd2dIX2U5ZS1IZ3R3VTZxMDN3NExFT1l0RkhVdTJmV01GWGlNbC0?oc=5",
+     "source": "Woman Madame Figaro",
+     "published": "2026-10-01T16:00:33+00:00",
+     "id": "56461221728e"
     }
    ]
   },
@@ -181,100 +181,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "En fotos: la presentación de Mafalda inmersiva reunió a famosos, artistas y escritores",
-     "link": "https://www.infobae.com/fotos/2026/10/01/en-fotos-la-presentacion-de-malfalda-inmersiva-reunio-a-famosos-artistas-y-escritores/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-01T13:31:52+00:00",
-     "copete": "La muestra, que se exhibe en el Centro Cultural Recoleta desde este jueves 1 de octubre, propone una experiencia inédita para recrear la vida de la protagonista y sus amigos de la icónica tira. En tamaño real y en 14 salas, se podrá…",
-     "id": "efa75177d447"
-    },
-    {
-     "title": "La salud de Mirtha Legrand: qué novedades tiene el parte médico de este miércoles",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-salud-de-mirtha-legrand-que-novedades-tiene-el-parte-medico-nid30092026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-01T13:18:32+00:00",
-     "copete": "La diva de 99 años continúa internada en el Sanatorio Mater Dei; se encuentra en una habitación común y acompañada por su familia",
-     "id": "0ef1d47c5556"
-    },
-    {
-     "title": "Barbie Simons tuvo un percance con su look durante su participación en Es mi sueño: “Casi me mato”",
-     "link": "https://www.infobae.com/teleshow/2026/10/01/barbie-simons-tuvo-un-percance-con-su-look-durante-su-participacion-en-es-mi-sueno-casi-me-mato/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-01T13:09:24+00:00",
-     "copete": "La periodista se presentó en el programa de Guido Kaczka con un clásico de Gloria Estefan y protagonizó un inesperado momento",
-     "id": "103c20a47d3d"
-    },
-    {
-     "title": "Charo López: por qué la actriz que aprendió desde niña a hacer reír necesita escapar de la comedia",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/charo-lopez-por-que-la-actriz-que-aprendio-desde-nina-a-hacer-reir-necesita-escapar-de-la-comedia-nid01102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-01T13:04:00+00:00",
-     "copete": "La actriz forma parte de Escondida en mi cabeza, uno de los estrenos que llegan a las salas este jueves; en diálogo con LA NACION, habló de sus comienzos y de su presente profesional",
-     "id": "daf5307efa6e"
-    },
-    {
      "title": "Mafalda Inmersiva, la muestra que da vida a los personajes de Quino y emociona a los fans: “Lo mejor del ser argentino”",
      "link": "https://www.infobae.com/teleshow/2026/10/01/mafalda-inmersiva-la-muestra-que-da-vida-a-los-personajes-de-quino-y-emociona-a-los-fans-lo-mejor-del-ser-argentino/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-10-01T12:52:34+00:00",
+     "published": "2026-10-01T19:26:49+00:00",
      "copete": "Teleshow formó parte de la presentación del proyecto, cuya protagonista marcó generaciones. Además, el director Damián Kirzner contó los detalles de la propuesta y la felicidad que siente porque el público pueda caminar por los pasillos…",
      "id": "4844243057db"
+    },
+    {
+     "title": "En fotos: Nacha Guevara e Iliana Calabró fueron a ver a Mafalda y Cami Homs e Iván de Pineda, en un evento solidario",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/en-fotos-nacha-guevara-e-iliana-calabro-fueron-a-ver-a-mafalda-y-cami-homs-e-ivan-de-pineda-en-un-nid01102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-01T18:59:48+00:00",
+     "copete": "Nacha Guevara, Marcelo Polino, Cami Homs, Iván de Pineda, Teté Coustarot y otras figuras participaron de eventos que reunieron cultura, moda y concientización en Buenos Aires",
+     "id": "79f250fe0aae"
+    },
+    {
+     "title": "Habló la abogada de la denunciante de Joaquín Levinton: \"En este caso no hubo sobreseimiento\"",
+     "link": "https://www.infobae.com/teleshow/2026/10/01/hablo-la-abogada-de-la-denunciante-de-joaquin-levinton-en-este-caso-no-hubo-sobreseimiento/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-01T18:57:44+00:00",
+     "copete": "La Dra. Adela González explicó que la causa anterior sólo fue archivada porque su clienta “tuvo miedo” y confirmó que pedirá que citen a declarar al líder de Turf. También se refirió al supuesto “hostigamiento” que sufrió el cantante y lo…",
+     "id": "be20b0522606"
+    },
+    {
+     "title": "Fabián Rossi, el exmarido de Iliana Calabró, recibió la prisión domiciliaria: la palabra de su abogado",
+     "link": "https://www.infobae.com/teleshow/2026/10/01/conceden-la-prision-domiciliaria-a-fabian-rossi-el-exmarido-de-iliana-calabro-condenado-por-la-ruta-del-dinero-k/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-01T18:44:56+00:00",
+     "copete": "El empresario cumple una condena de cuatro años y medio el la causa conocida como la Ruta del Dinero K. Los detalles sobre su salud y el repaso del escándalo mediático con la actriz",
+     "id": "aa5ae4023bdc"
     },
     {
      "title": "Quién es el guitarrista por el que se habrían peleado Tini Stoessel y Emilia Mernes",
      "link": "https://www.lanacion.com.ar/espectaculos/quien-es-el-guitarrista-por-el-que-se-habrian-peleado-tini-stoessel-y-emilia-mernes-nid30092026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-01T12:31:51+00:00",
+     "published": "2026-10-01T18:39:18+00:00",
      "copete": "Francisco “Pancho” Cia fue el productor musical de Martina Stoessel durante casi una década, pero tras un episodio poco conocido cortaron todo tipo de relación",
      "id": "88179edf80f5"
     },
     {
-     "title": "Robbie Williams: fama, excesos y excentricidades del gran cantante del pop británico",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/robbie-williams-fama-excesos-y-excentricidades-del-gran-cantante-del-pop-britanico-nid01102026/",
+     "title": "Christa Pike sobrevivió a dos inyecciones letales: seis películas que abordan la pena de muerte desde distintas miradas",
+     "link": "https://www.lanacion.com.ar/espectaculos/christa-pike-sobrevivio-a-dos-inyecciones-letales-seis-peliculas-que-abordan-la-pena-de-muerte-desde-nid01102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-01T12:12:27+00:00",
-     "copete": "El músico vuelve a Buenos Aires con las canciones de su nuevo álbum, Britpop; este jueves arranca el primero de sus tres recitales en el Movistar Arena",
-     "id": "58c7fb194dcc"
+     "published": "2026-10-01T18:39:11+00:00",
+     "copete": "Seis producciones que abordan el tema desde diferentes ángulos y muestran las consecuencias de una condena irreversible",
+     "id": "f85d8cebc393"
     },
     {
-     "title": "Romina Uhrig confirmó su nuevo romance y respondió las acusaciones de Coty Romero: “Que vaya al psiquiatra”",
-     "link": "https://www.infobae.com/teleshow/2026/10/01/romina-uhrig-confirmo-su-nuevo-romance-y-respondio-las-acusaciones-de-coty-romero-que-vaya-al-psiquiatra/",
+     "title": "Antonela Roccuzzo en Nueva York: salida con amigos, sushi especial y un oasis flotante",
+     "link": "https://www.lanacion.com.ar/espectaculos/antonela-roccuzzo-en-nueva-york-salida-con-amigos-sushi-especial-y-un-oasis-flotante-nid01102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-01T18:39:06+00:00",
+     "copete": "La esposa de Lionel Messi compartió una serie de postales de su viaje, en las que mostró comidas, paseos y distintas vistas de la ciudad",
+     "id": "b9672d98ce78"
+    },
+    {
+     "title": "La decisión que tomó Jimena Barón y su familia en medio de la grabación de un nuevo proyecto: “Muy firme mi postura”",
+     "link": "https://www.infobae.com/teleshow/2026/10/01/la-decision-que-tomo-jimena-baron-y-su-familia-en-medio-de-la-grabacion-de-un-nuevo-proyecto-muy-firme-mi-postura/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-10-01T12:12:21+00:00",
-     "copete": "Las exparticipantes de Gran Hermano escribieron un nuevo capítulo en su histórica rivalidad",
-     "id": "a7771264b3d1"
+     "published": "2026-10-01T18:34:12+00:00",
+     "copete": "La actriz se encuentra en plena filmación de una serie junto a Cande Vetrano y, a partir de su personaje, optó por rever una antigua determinación",
+     "id": "467500a1ff78"
     },
     {
-     "title": "Murió a los 100 años Peppino Mazzullo, la voz italiana que convirtió a Topo Gigio en un clásico de generaciones",
-     "link": "https://www.infobae.com/teleshow/2026/10/01/murio-a-los-100-anos-peppino-mazzullo-la-voz-italiana-que-convirtio-a-topo-gigio-en-un-clasico-de-generaciones/",
+     "title": "Fue al programa de Mario Pergolini y sorprendió al conductor con un obsequio: “Regalo que se enchufa vale la pena”",
+     "link": "https://www.infobae.com/teleshow/2026/10/01/fue-al-programa-de-mario-pergolini-y-sorprendio-al-conductor-con-un-obsequio-regalo-que-se-enchufa-vale-la-pena/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-10-01T11:40:41+00:00",
-     "copete": "Desde 1961, y por más de cuatro décadas, el actor construyó el tono y las frases que distinguieron al popular ratón",
-     "id": "bf5e9afedbf0"
+     "published": "2026-10-01T17:46:22+00:00",
+     "copete": "Al finalizar su visita a Otro día perdido, el streamer Frankkaster descolocó al presentador con un objeto en particular",
+     "id": "a7612d8005fe"
     },
     {
-     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este jueves 1 de octubre de 2026 en Argentina",
-     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-jueves-1-de-octubre-de-2026-en-argentina_0_RQZKzjPfX6.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-10-01T10:15:03+00:00",
-     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
-     "id": "fb0b980d78fc"
+     "title": "Eva Bargiela recordó el detalle que encontró en su casa luego de la muerte de su madre: “Todo armado”",
+     "link": "https://www.infobae.com/teleshow/2026/10/01/eva-bargiela-recordo-el-detalle-que-encontro-en-su-casa-luego-de-la-muerte-de-su-madre-todo-armado/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-01T17:20:15+00:00",
+     "copete": "El fallecimiento de la mamá de la modelo sucedió de manera repentina en octubre del año 2024 durante un viaje familiar",
+     "id": "5b77fc84f87b"
     },
     {
-     "title": "A un mes y medio de su estreno, Moria analiza el fenómeno de su biopic: “Emocionalmente, la serie está en onda Matrix, transformándonos todo el tiempo”",
-     "link": "https://www.clarin.com/espectaculos/mes-medio-estreno-moria-analiza-fenomeno-biopic-emocionalmente-serie-onda-matrix-transformandonos-tiempo_0_ZzQBKV3d7X.html",
+     "title": "Quién es Vivian Jenna Wilson, la hija trans de Elon Musk que se alejó de su padre y se convirtió en una figura de la moda",
+     "link": "https://www.clarin.com/espectaculos/vivian-jenna-wilson-hija-trans-elon-musk-alejo-padre-convirtio-figura-moda_0_CQtg43Ww5i.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-10-01T09:01:36+00:00",
-     "copete": "La Casán habla del boom que generó su biografía autorizada, en la que muestra tanto las luces como las sombras de su vida. \"Lo que provoca en la gente me impresiona, más que lo que me provoca a mí”, confiesa la actriz y conductora de 80…",
-     "id": "a732265bcf56"
+     "published": "2026-10-01T15:46:29+00:00",
+     "copete": "Tiene 22 años, más de tres millones de seguidores y ya trabajó para algunas de las marcas más importantes. Alejada de la fortuna familiar y sin vínculo con el empresario tecnológico, busca construir una carrera y una identidad propias.",
+     "id": "a8ea1a55c380"
     },
     {
-     "title": "“Verity: la sombra de un engaño\", el drama con Anne Hathaway y Dakota Johnson que hace uso abusivo de las tragedias",
-     "link": "https://www.clarin.com/espectaculos/verity-sombra-engano-drama-anne-hathaway-dakota-johnson-hace-uso-abusivo-tragedias_0_SPgOUpiuEB.html",
+     "title": "Robbie Williams en el Movistar Arena: horario, canciones, accesos y todo lo que hay que saber del show de este jueves",
+     "link": "https://www.clarin.com/espectaculos/robbie-williams-movistar-arena-horario-canciones-accesos-saber-show-jueves_0_njS3GEHnIS.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-10-01T09:01:33+00:00",
-     "copete": "La película de Michael Showalter, enmarcada en el suspenso, cruza a sus protagonistas femeninas en un triángulo amoroso que no logra imponer su erotismo en pantalla. Los dos personajes centrales se dedican a la escritura, oficio que lleva…",
-     "id": "b035204a3df6"
+     "published": "2026-10-01T15:16:41+00:00",
+     "copete": "El cantante británico se presenta en Buenos Aires para dar el primero de sus tres shows, después de 20 años de su última visita a la Argentina. Qué canciones prepara, a qué hora comienza el show y cuáles son los objetos que no se pueden…",
+     "id": "8273d264212c"
     }
    ]
   },
@@ -284,25 +284,53 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La Berliner Philharmoniker regresa al Teatro Colón después de 26 años",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVh2MzFOR0RXcFQzczNtMlcwME9vRER1c29jajNjbmUyVzNsLW9rWjEzTzFHQzFMWUJSTjhET3dqY1hKX3M4T2hYX21ZQlpMeEVaRl9WZ3FBSFByT0VtS1dLck1sczR3cHM2cmw0SVc1TVdIclo2TDluT2VhUVlFVlhpRElGLWptZUxGT1pOSzdBNl9uNzVpLTV0TzJuaXVOak1XNzVBU1ZGN05vLVFUaC0ta9IBzgFBVV95cUxQdlJUSGlFY1ZKOXgzZ1dGOS1VREtMRFJxaHFRZHozLXpVR1FzSkFyVk5NU2ZfNmJtLU5vcXBPVVpzNWdoanFGZVNSa2VsaVFMZmRBVVpzVFJVSUxyNFFKOWdEZkxtNXppOHdjVC0zNFhfdkZmN3pnejdXNGh2YzE2YUo1T1VXN2F6WEo3OU5rN0Q3ZHdwb0ltdkxZM01EVmpXTkNfbzQyc1V4a1E3ZGpqMTZkcjhYOTQ4LUdSSTFNYjQ5T0laSG9FRGxVZ0VrZw?oc=5",
+     "title": "Jorge Rojas estrenó Piano & Voz con entradas agotadas: cuándo llega a Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1lEcUR6M3o2Sm5HTUsta0pkeFN0ZW9ubUN4d0lSUmpOZmF3YzN1ZzZHS3pNN2hPeGNBV2I3V05xTmQ4Qk50eEh5cFp2OUxFeDJtY3NXSlZEWnJUUndpd2VwVkhzMVR4cXNtLVZ5RngyNEJtOFdDQzdxeHVTLXZSdE1aLWRxQlM5ekYwcWh3NmdMQktrZEhNWXU3SzZnOE1rNTd0c2lTOGEtOG1lNzFDVV9SU0RGTWh3MHFJdUhB0gG-AUFVX3lxTE5PWURxRHozejZKbkdNSy1rSmR4U3Rlb25tQ3h3SVJSak5mYXdjM3VnNkdLek03aE94Y0FXYjdXTnFOZDhCTnR4SHlwWnY5TEV4Mm1jc1dKVkRaclRSd2l3ZXBWSHMxVHhxc20tVnlGeDI0Qm04V0NDN3F4dVMtdlJ0TVotZHFCUzl6RjBxaHc2Z0xCS2tkSE1ZdTdLNmc4TWs1N3RzaVM4YS04bWU3MUNVX1JTREZNaHcwcUl1SEE?oc=5",
+     "source": "MinutoUno",
+     "published": "2026-10-01T19:01:00+00:00",
+     "id": "d1a3277edf59"
+    },
+    {
+     "title": "María Belén Rivarola, una voz que gana terreno",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTTZ3SnpzMlUxT1FUaDJZWHlwUzE3WFBVN1JPQlZqdUt6SFFWX0xVclFIcTI4bC0wUHJhYmxJcWlPejNDbWFLNENkY3F4RWtvOFB1dGdhdDd2VHRNSjgteWhOWFM0Q01UY3I4UndYRUZKNlo5M1NfT1JIQy0yRndYcw?oc=5",
+     "source": "Música Clásica Buenos Aires",
+     "published": "2026-10-01T18:32:48+00:00",
+     "id": "8dadf4b059d1"
+    },
+    {
+     "title": "Los imperdibles para disfrutar el fin de semana en la Ciudad más linda del mundo",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXZYbGF0WUxQQUttc0dvTXoxMjlPQmtSbHNGcmUyRy1iOW01bmwwNzBnZXV1cWlhRlp2UE5wVXVwanNvZm5JTnpFRDk5T3JUZHFlQ3VKazBhTURKMnNBd3RYS3ZVVGFfU0dIQmVaejVPNHJQS0U5SDl5VHVBUk4wWi1LQkUzMUZ5d3BUWV9IYTJ3RGhadkRmQU1DZkJVVHB5ZjR0SnI5SFVXU0ZfQVhJZmstWUlpNHJadWlaMA?oc=5",
+     "source": "Zona Norte Hoy",
+     "published": "2026-10-01T17:40:26+00:00",
+     "id": "288141b4821c"
+    },
+    {
+     "title": "Qué hacer este fin de semana en Buenos Aires: música, literatura, gastronomía y propuestas culturales",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa3JINVpZT1AtYjhKSUdBeEtycW1qR0JucFJ3NlBVODRXTzdFcXBoMENvaGE5UVVMZmpyT0lGV3dwSHNQNldreXdrUlE5Q29ZZFJMbzVSWWJfSTVKS3EwY0hRNUxKemRFZl9tbnFwdTVLWk5uVGJFQ29Wems4a1pocGZ6YUkzYVFIbWJmNF9GMUwzbTJZRVlpMzBQemV6OURibWs3S0phTHBiOWFNN09UNUZoVGNDSHJJSjJ4eVM4YnBlYzBZb3dIMTNob2NQdllEdHdHOHc3RE1EdVptQ1HSAeMBQVVfeXFMT1AxWnh5VEE2RFZYNHFKQU1FLVZLNXp6MG5jYUlWb3k1eDBoR0FZOFdnbWpUTDFhczFydVN5SmJvcVVVRENBR3FKZFFGN0FTdVp5VzRkNFJXajZGRkMwVC1oZUNYTDZIcFU0LVlYMEdCR29uMUNVTjJPck95ampjRVVJQnR1OXpza1cyODhaR0JaRU5GNmFzOTZuVUY0MXk2YUlmT1JxeDBuSTRVNEJVYkpVRlM1MXFVdWVsNmxUalVTNEwzQlZfektkTHdzX1RUU2h5SU5teThlY043R2xiZ0RzRlk?oc=5",
+     "source": "Perfil",
+     "published": "2026-10-01T16:40:20+00:00",
+     "id": "e1c0f0b42e5b"
+    },
+    {
+     "title": "Carlos Baute llega con todo a Buenos Aires: firma de discos y una noche especial en el Teatro Ópera",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdGRDMWc2QkdwZXlOOW1QbTBwRndBalNpUUQtLXVYQjdka0ZYdFhBbmNRa3EzaW50czNacVNMT1FmYVVneUZQdmFrbm1MSUxwa0Z1Mkthd3dLSkswangtODU2bXpTTy1ZTHhUWUttOEY2Rl9SSG84OUxONjRsSExuWWp0NW1GaGFKMFpaVFdDS0ZmR1lXZm1SQ1VoR3F1bFROMXJOUEVYdE1LQ1o4OGRBazBJR1RQNXFBelRxa2dyekZldjJnSzFQN1ZxVHhQWmhaWWNjazNzMmFCWnpRX2ZhdjlZaDE?oc=5",
+     "source": "Crónica",
+     "published": "2026-10-01T16:21:00+00:00",
+     "id": "19573f83827b"
+    },
+    {
+     "title": "Buenos Aires llega a Madrid con Borges como bandera: tango, teatro y un legado que se guardará en el Instituto Cervantes",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaldTQUE4dDI4VFFaUDVNWFBKb2E1ZG5tcWREdklEV3BZSXpZZUJ6N0FaUDF6bEJsWmMzaENLSExMR1NvM1RhVmd0S3JONmpSdXF5N05aWWlOZGJ2YnVWS1lkdFQ0QVFPTC1RSzVXYUJDZ2VMbnlJZ2FEdWh3RkdOZjd0d3ZZWnhJOFlEVGlkajJUcFhsTEwyeWtRZEM0TlFzOGE1dkhfNWpDcWxjMkxrdHJYTUtFdFpPUnJoc1BaQ3EyZXRTa3VCcVJxNzZXUGMzYnZHdGhSWWotZlBlWTZaamM3RERBZ0RKRDFYS1JuSjU0RTdZ0gGPAkFVX3lxTE45b1ByTEdScnVXNjNJbkd1SURRTXZMcDItZEFQeWh4UldBYUFDejZRZ0F2UFlvTDJGdVJCZG5hQnkwcHk3WlNnZzRwZndmclVuUVptZ1A0U1pUd19qa0JXYmdDZTJNZ2k0VXRobFJtNnMxZFJnbDk2TFhzdEVpU3JScFViTDRKakU3eWg1dFJzLTA0YS10UUZrNENRYTZGOEN1YkwtMnFNSGNRVHhJMFA0ZGNBM011VGJZM2NRZWpHdVNYbnc1ZF9iOVdWYnlMdHhYRHdzYmtWWDJBMEFSTGVBbXU0TGt5RTlvbFFIVng5UERVTnkwcFhkUG9ubTV3UC1xckI5Mnpzd1Aza3BNajQ?oc=5",
      "source": "Infobae",
-     "published": "2026-10-01T12:35:31+00:00",
-     "id": "b2ec0d2fb171"
+     "published": "2026-10-01T14:39:28+00:00",
+     "id": "28cd880cfd2e"
     },
     {
      "title": "Día del Vegetarianismo: 6 lugares de Buenos Aires para comer sin carne y con mucho sabor",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXRMblBNcThPTTg1OVYyZDJRa05sY18zZnN3M0xqaVVpcENqV2FSa3p2Y1RrZUIxVGFtdnMxdjh3WWJKLWxiV3lQaVJiRWFJVk8wc3FVenBOc3J4M1djbFcweVR5bFZOZVloZHRmbW5WRWhFa3d4cXk3d3JLb2p0S2RjT3VJTlpOZDZqd1VBNTloQW10TFdLaW9jS2RlaGJScDRvdGh1X1NXZEdhZkhhZdIBxAFBVV95cUxQSzJkNENkUGU3cGtEQXpfQXpCLS10WWlsOHNDNjdvZVNieDZJQVVDX0owTE5lR08wd1JOYURwekdaaF90QXV6N29FaVpmQWdmaE9WbkZva3VvV3pMdmwzQTNLbUhETGFIVTBBeXhVUk03bmw4eUZBTXE5QVU4OG14VVhVdXZHZi05NmtvbUd1UnFabDM3Q3FMZ2gxRnJnakNaLWNmX2RZdTJNRkRMS2ZxUTVoRzBmZWZwRlgycUpBeXpkbEdE?oc=5",
      "source": "El Destape",
-     "published": "2026-10-01T11:31:18+00:00",
+     "published": "2026-10-01T12:22:30+00:00",
      "id": "5074bb82fb13"
-    },
-    {
-     "title": "Música, danza, teatro y talleres: ConectArte desplegará una amplia agenda durante octubre",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlBjR3JoWmEwbzhOa0ptTzBYSnNoNWRFVVB2RkN1UGcyc3NVdnJpelRHMGNhbHNfbi12TzVWVW15NU1uTGEzcE0zWUVNTW43Wkw2cHp2RGpyX0c5N0M1NVB5M2k1WU5TNFlGQ21TX2NEZHV4Nlo5Wm43ZERFSnNBVGZZNjRZWXlBVHZWaEVKejMzNmVGeVloOHUzQlFoZkE3TFZwcndkYXBORWctMWpCckZyQlBjZjZHQW9iM3pMMTZlQ2VXaDJFdXNFYkl3UzVOQ25rRDlrSDBrUQ?oc=5",
-     "source": "Mercurio Noticias",
-     "published": "2026-10-01T00:02:00+00:00",
-     "id": "c917a1ffd8e5"
     },
     {
      "title": "Música al aire libre a solo $2.000 en un jardín andaluz: todos los sábados de octubre en CABA",
@@ -312,13 +340,6 @@
      "id": "e92db814b3af"
     },
     {
-     "title": "Vení al Teatro: cómo conseguir entradas con hasta 90% de descuento para obras de la cartelera porteña",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcXZHeUVWQmxlM0FuTWdvT19BRm14bXBEY1lTYlNjYy03UGVtNUVwYTVTU1dEZHR3TEpkQnA2WHV6cmZfdWFPZ0s2Mlg2eko3Y04zOTJyMzJsRXNmX3RCLTNqMFRBNW5DTFp5RTh6c3JGeWZaTjFqSmMzenRGd0U5b2JsNUJnMW5SNXNlTXE5RFpJS1NnQ0pxSWY4VHNXQjVlNTV5dUJxUVM1bThlT2VJV2plcEJMV1ZqdmdpUUpKaEF0WjBlUE1jY1JMeUViMUJFV1NrR29ucmtQQ1E3aTR6Q0ZvVVJ3bEpvajFBbW9xdEYtUQ?oc=5",
-     "source": "pronto.com.ar",
-     "published": "2026-09-30T17:16:00+00:00",
-     "id": "8648bd26de2f"
-    },
-    {
      "title": "Buenos Aires: 10 restaurantes imprescindibles para descubrir la ciudad",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmNPRTF0dkJmOUhjZUxYbXRsTmVyZC1Lc0k0OVdRMGc0dy1NelhQSmZ4OEVmdWVxMjhHRm5vSk1DWXpleS0wTUI3MHlaVWUyc1hCNkk5RnlJaFh1V21vaG45R3lqNjl4aTNURml3aHpWY2RkUWVUNlZ2YVJWdVFEWWZQWTlzY2txVTlEbC1tUFduTC04R2JtRUJseV9XUEtWZVU1SGZVUW1mRXFlNjFEdzRDVGtoUlUtSzFr?oc=5",
      "source": "MICHELIN Guide",
@@ -326,32 +347,11 @@
      "id": "87161713d9d5"
     },
     {
-     "title": "Festival Nueva Ópera cumple 10 años y presenta su nueva edición en Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHU2WGl3a21hLUt1T3pHUXRySUNOMFNUdmNSMV9rbGk4VnJoLXoyOE5vSGVJZmp6RS1NeTZpMFp5V21yNm0wWkJIN1JpTHZ0bUFfcnBqai1vTG41VU8wV1NnQkxsQUxkb0MybXZpSFBZZDAtdU42VDJvUzZnZ0JyUHBCU3JKT2F1bzQ1UER1dTFVLWNZWHhBakxvRTNwS2dxLU9vTkVMZFVHUmRuQnc?oc=5",
-     "source": "Música Clásica Buenos Aires",
-     "published": "2026-09-29T18:21:10+00:00",
-     "id": "a7f5fb348e2f"
-    },
-    {
      "title": "Hoteles, restaurantes y librerías no pagarán ABL en el primer semestre de 2027 en CABA",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORzFaQlhpaWNxNXh5Y255eVY3eXFVWFhxRTJMSkpKektFSEoteDVJb3EwTmZZR2d1Y3hkLUFFaW9HWnN5RWpIRC1aSURaRkV0cXJlZ0ZWMS1BVGx2SThwTUhlY2E1aTBmMmE1c05mdVd6Z0otbmplYnlPYmNLU3gxLVRxRFBJWnpEQVNQSGtUSXI2SFRhb19oUEdjUHFrYzRMelZLUkVfMmJzaFYzWlBpSlZ3TXFCREVqaXA5SGdnWllKOVk1RFRWN051ekt5ZTV3d3FLYWZubkRXTmw4MjFJ0gHkAUFVX3lxTE9GYjRPb0R3enhyMEF4OUpqM2Ffc0ktUmNwM19vejVwNndYVm1Lal80d2lyQmI3OEZjWThSZEhBTXpFZ2ZxWkFqazZ5U0tmS09ncjdTenlIamNIT0V3dXZNSHg5RjhQakxQVjlyTmY0alFGWUt1QWpwSWE2NnJzVkhVX0s5NUtQdElyNVhoR3BOMzRfU1lsdDQwaUZvd29NNXlpdmdRdW92X1M0c2NlM29xdXR5RHlYU2poM0VvUHQ5eXdjWk5qa01YTFFNdUMtUU1LLVc0YVg0cExVX0tmdXpWOFRJcQ?oc=5",
      "source": "Perfil",
      "published": "2026-09-29T18:01:21+00:00",
      "id": "e8851c384024"
-    },
-    {
-     "title": "Cultura LGBTIQ: qué hacer este fin de semana en Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUJVRHpsUV9LU3pieW52MldNeEVBUjlRVHNjdEE3XzlFQjhweHhPMEQyUUo3RmlfZ3M5OGpWbm9UUEZsei1sTy1uS3pJeGpYdm1uME9wdlVlUDNtS05DQmg1bjZ1V240RlFrN29KekNJTFJDbThDenNud0dlanpueFExY21ERWJ5cy1yTE1NVHFka1Y2SWJtYWxHR0dUakNj?oc=5",
-     "source": "Página|12",
-     "published": "2026-09-29T07:00:00+00:00",
-     "id": "2fb8f057dd3b"
-    },
-    {
-     "title": "Qué hacer este fin de semana en CABA: 6 actividades para hacer el fin de semana del 25 al 27 de septiembre 2026",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczU3MzB5ZVNRdWxPczFMOHE5dUZESFBsUS1BNHFnWHJYZjhIQmItMnZyeGdJN0dMQnRNVHJ2SWg0ZGpuWU9ZTHN5UjNDeng4Y01RZzl4SVRUeXZzR2RRYkRQQ3I0RUlubVNMYTU0MmZRV3NfTmFyRjRnd3VnTGk2bnFyM0tPYXczek1WaDJZcFhtMWZESk5uZTVzMkM2TFp4c1JpaFBiak5CTDhqZFRMRkJfZEF0cTZXT2hlZ0I5UGdIaXltSjYwekVfRdIB3wFBVV95cUxPbmtLVTVVQ1FOaUxmdy12a0J2ZXJuekRDbEo2UVp0bndkVC1FTE5vc3dsZzlIQXhPN3lsU1NranZfUzN6dnJ0c0xMV0VNODkyd3ZPaC0wVHNyN3NydHpzLXNodkpYOFEteUdSeWh2dlh6TEJvUkc2NkdoOHV6NGVLR25QdjZLLU42Q2tQUUZLZzJRenZYNTZxWkxUYUlPNm1YakQ5MGJ0Y1BLUFhNV2xvTkdLUE9rQXhXNEY5STVsZ2d6VG1ZeW1DMG8xeVUtR3MzVlEzeHhwdThBMGNqTWtZ?oc=5",
-     "source": "El Destape",
-     "published": "2026-09-27T07:00:00+00:00",
-     "id": "12f8266059c7"
     }
    ]
   },
@@ -361,84 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Comenzaron las obras para transformar un predio ferroviario de Villa Urquiza en un nuevo parque",
-     "link": "https://www.lanacion.com.ar/sociedad/comenzaron-las-obras-para-transformar-un-predio-ferroviario-de-villa-urquiza-en-un-nuevo-parque-nid01102026/",
+     "title": "UEFA Nations League, en vivo",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid01102026/",
      "source": "La Nación",
-     "published": "2026-10-01T13:25:47+00:00",
-     "copete": "La intervención sumará 5920 metros cuadrados de superficie verde junto a la estación Juan Manuel de Rosas; el terreno estuvo ocupado hasta este año por canchas de fútbol con la concesión vencida",
-     "id": "46c5789d1eb9"
+     "published": "2026-10-01T19:32:24+00:00",
+     "copete": "Se disputan los duelos de la segunda jornada de la competencia continental europea",
+     "id": "ffd111e72acc"
     },
     {
-     "title": "El laberinto sindical de los árbitros: gremios enfrentados, cargos cruzados y un poder que se mezcla con la AFA",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-laberinto-sindical-de-los-arbitros-gremios-enfrentados-cargos-cruzados-y-un-poder-que-se-mezcla-nid01102026/",
+     "title": "Prevenir sin etiquetar: el desafío de investigar amenazas graves cuando hay adolescentes involucrados",
+     "link": "https://www.infobae.com/opinion/2026/10/01/prevenir-sin-etiquetar-el-desafio-de-investigar-amenazas-graves-cuando-hay-adolescentes-involucrados/",
+     "source": "Infobae",
+     "published": "2026-10-01T19:31:55+00:00",
+     "copete": "La prevención de ataques escolares y hechos de violencia extrema exige actuar a tiempo. Pero cuando quienes aparecen involucrados son niñas, niños o adolescentes, la respuesta estatal también debe preservar las reglas propias de la…",
+     "id": "e7e2565418d1"
+    },
+    {
+     "title": "Transportadora de Gas del Sur presenta sus nuevos cuadros tarifarios",
+     "link": "https://www.infobae.com/solicitada/2026/10/01/transportadora-de-gas-del-sur-presenta-sus-nuevos-cuadros-tarifarios/",
+     "source": "Infobae",
+     "published": "2026-10-01T19:30:45+00:00",
+     "copete": "La compañía de energía presenta sus cuadros tarifarios vigentes a partir del 1° de octubre de 2026, según la resolución 2026-711. Asimismo, presenta las tarifas de Gas Link S.A., vigentes a partir del 1° de octubre, según la resolución…",
+     "id": "690d4a6b14e2"
+    },
+    {
+     "title": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este jueves 1 de octubre",
+     "link": "https://www.infobae.com/economia/2026/10/01/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-1-de-octubre/",
+     "source": "Infobae",
+     "published": "2026-10-01T19:29:27+00:00",
+     "copete": "El billete al público quedó ofrecido a $1.545 para la venta en el Banco Nación. El blue se pagó a $1.555",
+     "id": "22a0b00eccd2"
+    },
+    {
+     "title": "El Gobierno rechazó el reclamo de Reino Unido para frenar el arbitraje por la exploración petrolera en Malvinas",
+     "link": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-el-reclamo-de-reino-unido-para-frenar-el-arbitraje-por-la-exploracion-petrolera-nid01102026/",
      "source": "La Nación",
-     "published": "2026-10-01T13:24:10+00:00",
-     "copete": "Federico Beligoy conduce la AAA, el Sadra quedó marginado y la UADA nació bajo el ala de Pablo Toviggino",
-     "id": "628304f56f64"
+     "published": "2026-10-01T19:29:03+00:00",
+     "copete": "“Si está convencido no tiene nada que temer”, sostuvo la Cancillería argentina, que comanda Pablo Quirno",
+     "id": "47a53b619c04"
     },
     {
-     "title": "Juicio de los Cuadernos: las imágenes de los allanamientos a las casas de CFK en Santa Cruz",
-     "link": "https://www.infobae.com/judiciales/2026/10/01/juicio-de-los-cuadernos-declaran-mas-testigos-de-allanamientos-y-procedimientos/",
-     "source": "Infobae",
-     "published": "2026-10-01T13:23:39+00:00",
-     "copete": "En la audiencia se exhibieron fotos de las cajas fuertes tomadas en la casa de la ex presidenta en Rio Gallegos y filmaciones de la casa en Calafate. El Tribunal la juzga por supuestos sobornos en la obra pública nacional entre 2003 y 2015",
-     "id": "41bb8e87cb65"
-    },
-    {
-     "title": "Elecciones Brasil 2026, EN VIVO: Lula vs. Bolsonaro Jr.  y las últimas noticias hoy",
-     "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/",
+     "title": "Tras el fallo de la Corte, Elisa Carrió reclamó a Diputados que rechace el DNU de extranjerización de tierras",
+     "link": "https://www.lanacion.com.ar/politica/tras-el-fallo-de-la-corte-elisa-carrio-reclamo-a-diputados-que-rechace-el-dnu-de-extranjerizacion-de-nid30092026/",
      "source": "La Nación",
-     "published": "2026-10-01T13:23:14+00:00",
-     "copete": "Los últimos sondeos de intención de voto marcan un panorama reñido entre Flavio Bolsonaro e Luiz Inácio “Lula” da Silva; los comicios tendrán lugar el domingo 4 de octubre",
-     "id": "78bd1913d539"
+     "published": "2026-10-01T19:28:59+00:00",
+     "copete": "La fundadora de la Coalición Cívica se refirió al fallo de la Corte Suprema que, en la práctica, revocó los límites a la venta de terrenos nacionales; “Afecta la soberanía e integridad territorial”, consideró",
+     "id": "25bde1f1f5d3"
     },
     {
-     "title": "Netanyahu afirma que el copiloto omaní de Flydubai fue sometido a un “adoctrinamiento islamista radical”",
-     "link": "https://www.lanacion.com.ar/el-mundo/netanyahu-afirma-que-el-copiloto-omani-de-flydubai-fue-sometido-a-un-adoctrinamiento-islamista-nid01102026/",
+     "title": "Matías Soulé fue padre por primera vez y se fue de la concentración de la selección para recibir al bebé",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/matias-soule-fue-padre-por-primera-vez-y-se-fue-de-la-concentracion-de-la-seleccion-nid29092026/",
      "source": "La Nación",
-     "published": "2026-10-01T13:23:14+00:00",
-     "copete": "Emiratos investiga si hubo una motivación terrorista y funcionarios israelíes buscan esclarecer posibles fallas de seguridad;",
-     "id": "07622d7790b3"
+     "published": "2026-10-01T19:28:56+00:00",
+     "copete": "El futbolista de Roma acompañó a su esposa en el nacimiento de su hijo Bautista",
+     "id": "23951daf1362"
     },
     {
-     "title": "Se tensa el vínculo entre Argentina y Reino Unido por Malvinas: los próximos pasos en la disputa por el petróleo",
-     "link": "https://www.infobae.com/politica/2026/10/01/se-tensa-el-vinculo-entre-argentina-y-reino-unido-por-malvinas-los-proximos-pasos-en-la-disputa-por-el-petroleo/",
+     "title": "La lista de convocadas de la selección argentina femenina para probarse ante Brasil rumbo al Mundial 2027",
+     "link": "https://www.infobae.com/deportes/2026/10/01/la-lista-de-convocadas-de-la-seleccion-argentina-femenina-para-probarse-ante-brasil-rumbo-al-mundial-2027/",
      "source": "Infobae",
-     "published": "2026-10-01T13:22:20+00:00",
-     "copete": "Londres convocó el miércoles a la embajadora argentina, Mariana Plaza, y advirtió que la ofensiva de Buenos Aires daña la relación bilateral. Rockhopper confirmó que extraerá crudo en 2028 a pesar del pedido de sanciones",
-     "id": "509e86916fd7"
+     "published": "2026-10-01T19:24:26+00:00",
+     "copete": "El combinado nacional dirigido por Germán Portanova se alista para la doble fecha FIFA que disputará en Brasil y citó a las jugadoras que comenzarán la preparación previa al certamen global",
+     "id": "2d3f876091ab"
     },
     {
-     "title": "Horror en Berazategui: encontraron muerta a una nena de 11 años y detuvieron a cuatro familiares",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/investigan-la-muerte-de-una-nena-de-11-anos-en-berazategui-detuvieron-a-cuatro-familiares-tras-conocerse-el-resultado-de-la-autopsia/",
-     "source": "Infobae",
-     "published": "2026-10-01T13:21:08+00:00",
-     "copete": "La menor fue hallada ahorcada en su casa. El examen forense detectó lesiones compatibles con golpes en distintas partes de la espalda, signos de hemorragia interna y posibles indicios de abuso sexual",
-     "id": "a9b0c11b3d11"
-    },
-    {
-     "title": "La emoción de una senadora peronista por asumir la vicepresidencia interina de la Nación: “Me siento honrada”",
-     "link": "https://www.infobae.com/politica/2026/10/01/la-emocion-de-una-senadora-peronista-por-asumir-la-vicepresidencia-interina-de-la-nacion-me-siento-honrada/",
-     "source": "Infobae",
-     "published": "2026-10-01T13:21:08+00:00",
-     "copete": "Se trata de Carolina Moisés, del bloque Convicción Federal, quien reemplaza a Victoria Villarruel hasta su regreso del Foro Parlamentario Iberoamericano en Madrid. Entre 2019 y 2023, fue diputada nacional dentro del Frente de Todos",
-     "id": "a4f49838fc3a"
-    },
-    {
-     "title": "Malvinas: el Gobierno defendió el pedido de arbitraje por las islas tras la convocatoria del Reino Unido a la embajadora argentina en Londres",
-     "link": "https://www.clarin.com/politica/malvinas-gobierno-defendio-pedido-arbitraje-islas-convocatoria-reino-unido-embajadora-argentina-londres_0_j5C8JlMpln.html",
+     "title": "ICE prohíbe persecuciones a alta velocidad y endurece reglas de paradas de tráfico",
+     "link": "https://www.clarin.com/estados-unidos/ice-prohibe-persecuciones-a-alta-velocidad-y-endurece-reglas-de-paradas-de-trafico_0_dORyY7VhnZ.html",
      "source": "Clarín",
-     "published": "2026-10-01T13:02:52+00:00",
-     "copete": "A través de un comunicado, la Cancillería sostuvo que Argentina actuó en el marco de los procedimientos previstos por un tratado del que ambos países son parte. El gobierno británico había acusado a la Argentina de “socavar” a los isleños…",
-     "id": "1c28f906b2ae"
+     "published": "2026-10-01T19:10:13+00:00",
+     "copete": "Los agentes del ICE ahora deben completar una capacitación para detener vehículos, tras incidentes con disparos. Las persecuciones a alta velocidad están prohibidas. Las nuevas normas buscan mejorar la seguridad en detenciones de tránsito…",
+     "id": "bd84dee2ada9"
     },
     {
-     "title": "Gerardo Montoya, autor argenmex: “Hay mucha falta de palabra entre los hombres”",
-     "link": "https://www.clarin.com/cultura/gerardo-montoya-autor-argenmex-mucha-falta-palabra-hombres_0_X0zEAKBUc5.html",
+     "title": "La Fundación River lanzó la votación para otorgar 30 millones de pesos a un club para realizar reformas edilicias",
+     "link": "https://www.clarin.com/deportes/fundacion-river-lanzo-votacion-otorgar-30-millones-pesos-club-realizar-reformas-edilicias_0_5sf2eBkXnY.html",
      "source": "Clarín",
-     "published": "2026-10-01T13:01:35+00:00",
-     "copete": "El escritor mexicano radicado en Buenos Aires mezcla en sus poemas registros de México, Argentina y el lenguaje digital. Esa contaminación lingüística acompaña una reflexión sobre identidad, migración y pertenencia. La paternidad aparece…",
-     "id": "02a595df158e"
+     "published": "2026-10-01T19:08:52+00:00",
+     "copete": "Es la octava edición y de 624 instituciones, quedaron cinco, de los que tres irán a la final. El segundo y tercer puesto recibirán bolsones de pelotas y material deportivo. Todos los detalles y hasta cuándo se puede votar.",
+     "id": "4b266d58542d"
     }
    ]
   },
@@ -448,68 +448,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Netanyahu insinúa un posible papel de Irán en el incidente del vuelo a Tel Aviv",
-     "link": "https://elpais.com/internacional/2026-10-01/netanyahu-insinua-un-posible-papel-de-iran-en-el-incidente-del-vuelo-a-tel-aviv.html",
-     "source": "El País Internacional",
-     "published": "2026-10-01T13:15:32+00:00",
-     "copete": "Israel participará en el interrogatorio del piloto que acuchilló a otro y “posiblemente” en la investigación abierta por Emiratos Árabes Unidos",
-     "id": "fe9012e23adb"
+     "title": "Christa Pike se encuentra \"en estado crítico\" tras sobrevivir a dos dosis de inyección letal durante su ejecución en Tennessee",
+     "link": "https://www.bbc.com/mundo/articles/c6vgygpp3eqlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-01T19:31:49+00:00",
+     "copete": "Según el equipo legal de Pike, pasó por una \"innecesaria agonía\" durante la ejecución. La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato.",
+     "id": "76e35717a57d"
     },
     {
-     "title": "Cautela y silencio en los países del Golfo tras el “incidente” en el vuelo de Flydubai con destino a Israel",
-     "link": "https://elpais.com/internacional/2026-10-01/cautela-y-silencio-en-los-paises-del-golfo-tras-el-incidente-en-el-vuelo-de-flydubai-con-destino-a-israel.html",
-     "source": "El País Internacional",
-     "published": "2026-10-01T13:12:35+00:00",
-     "copete": "La Fiscalía de Emiratos Árabes Unidos investigará si la agresión de uno de los pilotos tuvo un “trasfondo terrorista” y pide no difundir “información no comprobada”",
-     "id": "93e6c8b1e789"
-    },
-    {
-     "title": "Por qué arrestaron al fiscal general en Bolivia días después de que EE.UU. le quitara la visa (y qué casos investigaba)",
+     "title": "Por qué arrestaron al fiscal general en Bolivia días después de que EE.UU. le negara la entrada al país (y qué casos investigaba)",
      "link": "https://www.bbc.com/mundo/articles/cwlyky680kg8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-01T12:44:03+00:00",
+     "published": "2026-10-01T19:24:43+00:00",
      "copete": "Roger Mariaca había estado al frente de casos de narcotráfico recientemente. EE.UU. lo acusa de recibir sobornos y socavar la autoridad del gobierno.",
      "id": "e6057d5d58e4"
     },
     {
-     "title": "Christa Pike sigue con vida tras recibir dos inyecciones letales en Tennessee",
-     "link": "https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html",
+     "title": "Qué sucedió en la ejecución fallida de Christa Pike y cuán común es que la inyección letal no funcione en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/c50m3mxlx9ndo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-01T18:39:59+00:00",
+     "copete": "La inyección letal es el método de ejecución más común en Estados Unidos. También el que resulta en más ejecuciones fallidas o altamente problemáticas.",
+     "id": "34a897943b2e"
+    },
+    {
+     "title": "Kaspárov, amenazado de muerte por el entorno de Putin, liga su seguridad a la victoria de Ucrania",
+     "link": "https://elpais.com/internacional/2026-10-01/kasparov-amenazado-de-muerte-por-el-entorno-de-putin-liga-su-seguridad-a-la-victoria-de-ucrania.html",
      "source": "El País Internacional",
-     "published": "2026-10-01T12:36:00+00:00",
-     "copete": "Pike ha sido trasladada al hospital para recibir “medidas salvavidas”. El gobernador ha suspendido las ejecuciones restantes en el estado para lo que queda de año",
-     "id": "f862a6a92f07"
+     "published": "2026-10-01T18:24:42+00:00",
+     "copete": "Estados Unidos desvela un plan de agentes ligados a la inteligencia rusa para matar al ajedrecista excampeón del mundo que reside en Nueva York",
+     "id": "c7d1f1b8b384"
     },
     {
-     "title": "El piloto indio apuñalado en un vuelo con destino a Israel al que califican de héroe",
-     "link": "https://www.bbc.com/mundo/articles/cq0lrl6z5rw1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-01T11:34:07+00:00",
-     "copete": "Smit Machchhar fue atacado por otro piloto a bordo del vuelo de Flydubai con destino a Tel Aviv. Ahora se recupera en un hospital en Arabia Saudita.",
-     "id": "948587ce4b08"
-    },
-    {
-     "title": "El profesor que causa furor entre los adolescentes chinos (y la razón de su éxito)",
-     "link": "https://www.bbc.com/mundo/articles/c6z9z8p4xxg2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-01T11:01:24+00:00",
-     "copete": "Xiang cree que dos factores han exacerbado la ansiedad de la Generación Z: el mercado inmobiliario y el sistema de educación superior.",
-     "id": "4207cc8b21a1"
-    },
-    {
-     "title": "Qué dice un nutricionista al analizar mi carro de la compra del supermercado",
-     "link": "https://www.bbc.com/mundo/articles/c8zxz9wr177vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-01T10:01:36+00:00",
-     "copete": "En la oferta actual de los supermercados hay muchos alimentos que pueden ser ultraprocesados. ¿Qué tan perjudiciales son?",
-     "id": "2ae9b7a6cd13"
-    },
-    {
-     "title": "¿Se le acabó la suerte a Trump? Ahora, quién seduce al voto latino",
-     "link": "https://elpais.com/us/2026-10-01/se-le-acabo-la-suerte-a-trump-ahora-quien-seduce-al-voto-latino.html",
+     "title": "Netanyahu afirma que el piloto del vuelo a Tel Aviv vivió una “radicalización islamista” e insinúa un posible rol de Irán",
+     "link": "https://elpais.com/internacional/2026-10-01/netanyahu-insinua-un-posible-papel-de-iran-en-el-incidente-del-vuelo-a-tel-aviv.html",
      "source": "El País Internacional",
-     "published": "2026-10-01T09:30:00+00:00",
-     "copete": "Si los demócratas confunden el voto castigo con lealtad, cometerán el mismo error que el republicano",
-     "id": "70346ebc1665"
+     "published": "2026-10-01T18:03:53+00:00",
+     "copete": "Israel participará en la investigación abierta por Emiratos Árabes Unidos",
+     "id": "fe9012e23adb"
+    },
+    {
+     "title": "Las protestas estudiantiles se extienden por Francia mientras el Gobierno acusa al partido de Mélenchon de alentar la violencia urbana",
+     "link": "https://elpais.com/internacional/2026-10-01/las-protestas-estudiantiles-se-extienden-por-francia-mientras-el-gobierno-acusa-al-partido-de-melenchon-de-alentar-la-violencia-urbana.html",
+     "source": "El País Internacional",
+     "published": "2026-10-01T18:02:54+00:00",
+     "copete": "El movimiento, que se inició en París hace una semana con bloqueos para denunciar la falta de medios y de personal, se extiende a decenas de universidades entre actos de vandalismo",
+     "id": "c0ef3a5fe188"
+    },
+    {
+     "title": "Putin reitera su amenaza nuclear sobre Europa: “El punto de no retorno puede llegar de forma inesperada”",
+     "link": "https://elpais.com/internacional/2026-10-01/putin-reitera-su-amenaza-sobre-europa-el-punto-de-no-retorno-puede-llegar-de-forma-inesperada.html",
+     "source": "El País Internacional",
+     "published": "2026-10-01T18:02:30+00:00",
+     "copete": "El mandatario insiste en que sus palabras no son “una intimidación”, sino “una respuesta” a las declaraciones de dirigentes occidentales y la hipótesis de un posible ataque contra Kaliningrado",
+     "id": "1c229b57891c"
+    },
+    {
+     "title": "Quién es y qué crimen cometió Christa Pike, la mujer que sigue con vida tras recibir dos dosis de la inyección letal durante su ejecución en Tennessee",
+     "link": "https://www.bbc.com/mundo/articles/c8wyz94xepz4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-01T14:35:39+00:00",
+     "copete": "Los abogados de Pike, quien asesinó a una joven en 1995, afirman que si fuera juzgada hoy no sería condenada a muerte.",
+     "id": "31d0e9475f7c"
     }
    ]
   }
@@ -522,7 +522,7 @@
   },
   {
    "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
+   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
