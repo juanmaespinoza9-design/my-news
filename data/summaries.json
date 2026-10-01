@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-09-30T22:16:27Z",
+  "generated_at": "2026-10-01T10:16:51Z",
   "summaries": {
-    "406b952aac17": {
-      "resumen": "OncLive analiza cómo el control de la enfermedad en el sistema nervioso central (SNC) y la tolerabilidad diaria orientan la secuencia de tratamientos en el cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con mutación de HER2. Es relevante porque ayuda a definir el orden de las terapias disponibles en un subgrupo con alta tasa de metástasis cerebrales.",
-      "destacado": false
-    },
     "4d73e39f0027": {
       "resumen": "The ASCO Post presenta el estudio SYMPRO-Lung, que evalúa si el monitoreo semanal de síntomas mediante desenlaces reportados por el paciente (PRO, por sus siglas en inglés) puede mejorar la supervivencia en cáncer de pulmón de cualquier estadio. Interesa porque suma evidencia a la idea de que el seguimiento activo de síntomas podría impactar en resultados duros, no solo en calidad de vida.",
       "destacado": false,
@@ -15,37 +11,50 @@
       "destacado": false,
       "analisis": "Diseño: Estudio observacional (probablemente de cohorte, dado que evalúa riesgo de mortalidad asociado a una exposición); el título no precisa si es prospectivo o retrospectivo, el período de seguimiento ni el número de participantes.\nPoblación: Pacientes con cánceres frecuentes (el título no especifica los tipos tumorales) con y sin diagnóstico de depresión.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de asociación entre depresión (exposición) y mortalidad específica por cáncer (desenlace).\nResultados: No hay cifras de razón de riesgo (hazard ratio), intervalos de confianza ni valor de p disponibles a partir del título.\nLimitaciones: Los estudios observacionales de este tipo están expuestos a factores de confusión (por ejemplo, menor adherencia al tratamiento o diagnóstico más tardío en pacientes con depresión); sin abstract no se puede conocer el ajuste estadístico realizado ni el tamaño muestral.\nMensaje: Refuerza la importancia de la pesquisa y el tratamiento oportuno de la depresión en pacientes oncológicos, no solo por calidad de vida sino como posible factor asociado a peor pronóstico oncológico.\nNota: análisis sin acceso al abstract."
     },
-    "c1dbd6f2b311": {
-      "resumen": "OncLive publica una nota sobre cómo transitar el pasaje de la fellowship a un puesto de planta en oncología, con foco en la mentoría y la participación en encuentros de la especialidad. Es un artículo de desarrollo profesional, útil para quienes atraviesan esa etapa de la carrera académica.",
-      "destacado": false
-    },
-    "390bc63fd98d": {
-      "resumen": "The ASCO Post reporta que las prácticas de mindfulness (atención plena) y tai chi podrían mejorar los síntomas persistentes tras finalizar el tratamiento oncológico. Interesa porque son intervenciones de bajo costo y baja toxicidad para un problema frecuente en sobrevivientes de cáncer.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (probablemente un ensayo aleatorizado o una revisión sistemática/metaanálisis de intervenciones mente-cuerpo); el título no precisa el diseño exacto, el cegamiento, ni el número de centros o de pacientes.\nPoblación: Sobrevivientes de cáncer que finalizaron el tratamiento oncológico y presentan síntomas persistentes (el título no especifica cuáles).\nIntervención: Prácticas de mindfulness (atención plena) y tai chi, frente a la atención estándar o la ausencia de intervención mente-cuerpo.\nResultados: No hay cifras de magnitud de mejoría sintomática, escalas utilizadas ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el diseño exacto, el tamaño muestral ni si hubo cegamiento (difícil de lograr en este tipo de intervenciones); los estudios de mindfulness y tai chi suelen tener alta heterogeneidad entre programas.\nMensaje: Si se confirma el beneficio, estas intervenciones podrían incorporarse como complemento de bajo costo y baja toxicidad en la atención de sobrevivientes con síntomas persistentes tras el tratamiento oncológico.\nNota: análisis sin acceso al abstract."
-    },
-    "a2072c11c73e": {
-      "resumen": "OncLive presenta un perfil institucional del Dan L. Duncan Comprehensive Cancer Center, del Baylor College of Medicine. Es una nota de tipo institucional, sin datos clínicos nuevos, útil solo como referencia sobre el centro.",
-      "destacado": false
-    },
     "9e219edb47a0": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo clínico aleatorizado y controlado que evalúa estrategias facilitadas de testeo genético en cascada para familiares de personas con variantes patogénicas en BRCA1/2, genes asociados a mayor riesgo de cáncer de mama y ovario hereditario. Interesa porque el testeo en cascada suele tener baja adherencia y este estudio busca mejorarla.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado y controlado; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Familiares de primer y segundo grado de personas portadoras de variantes patogénicas en BRCA1/2 (genes asociados a cáncer de mama y ovario hereditario).\nIntervención: Una estrategia facilitada de testeo genético en cascada (por ejemplo, contacto directo, asistencia para el testeo o derivación simplificada) versus el abordaje estándar de comunicación familiar.\nResultados: No hay cifras de tasa de testeo, tiempo hasta la realización del test ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el seguimiento ni el tipo exacto de intervención facilitadora empleada.\nMensaje: Si la estrategia facilitada mejora la tasa de testeo en cascada, podría adoptarse como práctica estándar para identificar más portadores de BRCA1/2 y habilitar prevención o detección temprana en familiares en riesgo.\nNota: análisis sin acceso al abstract."
     },
-    "e480e5cfddef": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre la biopsia del ganglio centinela después de la quimioterapia neoadyuvante en pacientes con cáncer de mama localmente avanzado. Es un tema clave para definir cuándo se puede evitar el vaciamiento axilar completo sin perder seguridad oncológica.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el título no precisa si es prospectivo, retrospectivo o un ensayo aleatorizado), sin datos de cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama localmente avanzado que reciben quimioterapia neoadyuvante antes de la cirugía.\nIntervención: Biopsia del ganglio centinela realizada después de la quimioterapia neoadyuvante, para evaluar su precisión en detectar compromiso axilar residual.\nResultados: No hay cifras de tasa de identificación del ganglio centinela, tasa de falsos negativos ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, la técnica de mapeo ganglionar utilizada ni el seguimiento oncológico posterior.\nMensaje: Si la biopsia del ganglio centinela demuestra buena precisión en este contexto, podría evitar el vaciamiento axilar completo en más pacientes con cáncer de mama localmente avanzado, reduciendo la morbilidad quirúrgica.\nNota: análisis sin acceso al abstract."
-    },
-    "11f4053a5fcb": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica una fe de erratas sobre un estudio retrospectivo internacional que evaluó omitir la toma de muestra de médula ósea en rabdomiosarcoma con captación positiva en la tomografía por emisión de positrones con 2-[18F]fluorodesoxiglucosa (PET-FDG) cuando la médula resulta negativa en esa misma imagen. Es una corrección formal, útil para quienes citan el estudio original.",
+    "ac6d4a01cc64": {
+      "resumen": "Carta de respuesta (reply) publicada en The New England Journal of Medicine (NEJM) sobre el estudio de pembrolizumab adyuvante combinado con belzutifan, un inhibidor del factor inducible por hipoxia 2-alfa (HIF-2α), en carcinoma de células renales. Los autores originales responden a un comentario crítico sobre el trabajo, por lo que vale la pena mirarla para seguir la discusión académica sobre ese esquema adyuvante.",
       "destacado": false
     },
-    "914a487a01da": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica el ensayo aleatorizado de fase 3 ROADS, que compara cirugía más radioterapia en mosaico (tile-based, que trata toda la cavidad quirúrgica) contra cirugía más radiocirugía estereotáctica en pacientes con metástasis cerebrales recién diagnosticadas. Es un estudio clave para definir la mejor estrategia de radioterapia posquirúrgica en un escenario muy frecuente en oncología.",
+    "f4cdf2d955cd": {
+      "resumen": "Carta al editor publicada en The New England Journal of Medicine (NEJM) que comenta o cuestiona aspectos del estudio sobre pembrolizumab adyuvante más belzutifan (inhibidor de HIF-2α) en carcinoma de células renales. Es la contracara de la respuesta de los autores publicada en el mismo número; juntas permiten ver los puntos de debate sobre el ensayo.",
+      "destacado": false
+    },
+    "a865c5cbadb4": {
+      "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) que evalúa la combinación de giredestrant, un degradador selectivo oral del receptor de estrógeno (SERD, por sus siglas en inglés), con everolimus, un inhibidor de mTOR, en cáncer de mama avanzado. Interesa porque explora una estrategia de combinación oral, sin quimioterapia, para pacientes con enfermedad resistente a terapias endocrinas previas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con cáncer de mama avanzado; el título no especifica subtipo, aunque giredestrant se desarrolla principalmente para tumores con receptores hormonales positivos.\nIntervención: Combinación de giredestrant (degradador selectivo oral del receptor de estrógeno) más everolimus (inhibidor de mTOR); el título no menciona un comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el diseño exacto ni el perfil de toxicidad de la combinación.\nMensaje: Si la combinación muestra actividad y tolerabilidad aceptable, podría sumar una opción oral sin quimioterapia para pacientes con cáncer de mama avanzado resistente a terapia endocrina previa.\nNota: análisis sin acceso al abstract."
+    },
+    "acae3b8d6ba2": {
+      "resumen": "OncLive repasa cómo los patrones de resistencia a los inhibidores de FGFR (receptor del factor de crecimiento de fibroblastos) condicionan la secuencia de tratamientos en el colangiocarcinoma, el cáncer de las vías biliares. Es una nota de discusión clínica útil para pensar el orden de las terapias dirigidas disponibles en este tumor con alteraciones de FGFR2.",
+      "destacado": false
+    },
+    "516e865fcd45": {
+      "resumen": "OncLive reporta los datos de supervivencia global del ensayo PAPILLON, que compara amivantamab (anticuerpo biespecífico anti-EGFR/MET) más quimioterapia de primera línea contra quimioterapia sola en cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con inserciones en el exón 20 de EGFR. Es un dato esperado porque este subgrupo tiene pocas opciones y la supervivencia libre de progresión ya había favorecido a la combinación.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III, PAPILLON, internacional y multicéntrico; esta actualización reporta el análisis de supervivencia global, un criterio secundario del estudio original.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) de primera línea, con inserciones en el exón 20 del gen EGFR, un subgrupo con mal pronóstico y pocas terapias dirigidas aprobadas.\nIntervención: Amivantamab (anticuerpo biespecífico anti-EGFR/MET) combinado con quimioterapia basada en platino, frente a quimioterapia sola.\nResultados: No hay cifras de supervivencia global, razón de riesgo (hazard ratio) ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el seguimiento mediano ni la madurez de los datos de supervivencia global; el beneficio en supervivencia libre de progresión no siempre se traduce en supervivencia global.\nMensaje: Si confirma beneficio en supervivencia global, consolidaría a amivantamab más quimioterapia como estándar de primera línea en NSCLC con inserciones en el exón 20 de EGFR, reforzando el cambio de práctica ya sugerido por los datos de supervivencia libre de progresión.\nNota: análisis sin acceso al abstract."
+    },
+    "b5faccb8ce2a": {
+      "resumen": "OncLive presenta la actualización a 8 años de supervivencia global del ensayo ADAURA, que evaluó osimertinib adyuvante (un inhibidor de tirosina quinasa de EGFR de tercera generación) tras la cirugía en cáncer de pulmón de células no pequeñas (NSCLC) en estadios IB a IIIA con mutación de EGFR. Es el dato más esperado de seguimiento a largo plazo de un esquema que ya cambió la práctica adyuvante en este subgrupo.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado, abierto (sin cegamiento), de fase III; el título no precisa el número de centros participantes ni el tamaño total de la muestra.\nPoblación: Pacientes con metástasis cerebrales recién diagnosticadas tratados con cirugía.\nIntervención: Radioterapia en mosaico (tile-based) de toda la cavidad quirúrgica y el lecho tumoral versus radiocirugía estereotáctica (SRS) posquirúrgica focalizada.\nResultados: No hay cifras de control local, supervivencia libre de progresión intracraneal, supervivencia global ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Al ser un diseño abierto, existe riesgo de sesgo en la evaluación de desenlaces radiológicos; sin el abstract no se puede conocer el seguimiento ni la potencia estadística del estudio.\nMensaje: Este ensayo busca definir si ampliar el campo de radioterapia más allá del lecho quirúrgico mejora el control local respecto de la SRS focal, una pregunta relevante para reducir recaídas locales tras la cirugía de metástasis cerebrales.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico aleatorizado, doble ciego, controlado con placebo, de fase III (ADAURA), internacional y multicéntrico; esta es una actualización exploratoria de seguimiento a 8 años, tipo landmark, del criterio de supervivencia global.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado, en estadios IB a IIIA, con mutación activante de EGFR (deleción del exón 19 o L858R), tratados con cirugía con o sin quimioterapia adyuvante previa.\nIntervención: Osimertinib adyuvante (inhibidor de tirosina quinasa de EGFR de tercera generación) durante 3 años frente a placebo.\nResultados: No hay cifras de supervivencia global a 8 años, razón de riesgo (hazard ratio) ni intervalos de confianza disponibles a partir del título; los datos de supervivencia global a 5 años ya publicados habían mostrado beneficio significativo a favor de osimertinib.\nLimitaciones: Sin abstract no se puede conocer el porcentaje de pacientes aún en seguimiento a los 8 años, el efecto de tratamientos posteriores recibidos tras la progresión, ni la consistencia del beneficio por subgrupos (estadio, uso de quimioterapia previa).\nMensaje: Un beneficio sostenido en supervivencia global a 8 años reforzaría de manera definitiva el uso de osimertinib adyuvante como estándar en NSCLC resecado con mutación de EGFR, consolidando el cambio de práctica ya vigente desde los resultados iniciales de supervivencia libre de enfermedad y los de supervivencia global a 5 años.\nNota: análisis sin acceso al abstract."
+    },
+    "ca2533e7fd08": {
+      "resumen": "OncLive entrevista a la oncóloga Anne Chiang sobre el desarrollo de anticuerpos conjugados a fármacos (ADC, por sus siglas en inglés) dirigidos a B7-H3 para el tratamiento de segunda línea del cáncer de pulmón a células pequeñas (SCLC, por sus siglas en inglés). Es una nota de opinión experta sobre una diana terapéutica emergente en un tumor de pronóstico históricamente malo.",
+      "destacado": false
+    },
+    "f3d72ecdf27c": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) para el tratamiento del mieloma múltiple. Es una referencia de consulta práctica porque resume las recomendaciones vigentes basadas en la evidencia más reciente para esta neoplasia hematológica.",
+      "destacado": false
+    },
+    "18713319dc2c": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre las barreras de acceso relacionadas con el seguro médico y el costo de los medicamentos oncológicos orales especializados para cánceres hematológicos, en una muestra nacional estadounidense de pacientes con Medicare y seguro comercial. Interesa porque pone números a un problema que condiciona la adherencia al tratamiento más allá de la indicación médica.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional, probablemente de corte transversal o de cohorte retrospectiva sobre bases de datos administrativas de aseguradoras (Medicare y seguros comerciales) en Estados Unidos; el título no precisa el número de pacientes ni el período analizado.\nPoblación: Pacientes con cánceres hematológicos (blood cancers) que requieren medicación oncológica oral especializada, cubiertos por Medicare o por seguros comerciales, en una muestra nacional de Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de acceso y barreras de costo (copagos, deducibles, autorización previa) a los medicamentos oncológicos orales.\nResultados: No hay cifras de proporción de pacientes con barreras de acceso, montos de costo de bolsillo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios basados en datos administrativos de aseguradoras no siempre capturan todas las vías de asistencia financiera disponibles para el paciente; sin abstract no se puede conocer el ajuste por tipo de cáncer ni por nivel socioeconómico.\nMensaje: Cuantificar las barreras de costo y de cobertura de seguro para medicación oncológica oral es clave para diseñar políticas de acceso y programas de asistencia que eviten que el costo determine el tratamiento recibido.\nNota: análisis sin acceso al abstract."
     },
     "fca460515a90": {
       "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Jenny Packham."
@@ -53,38 +62,35 @@
     "cc22ba53c40e": {
       "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Ashish."
     },
-    "acc937258102": {
-      "resumen": "Vogue muestra la colección primavera 2027 de prêt-à-porter de Acne Studios."
+    "a64ff2270f2a": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Tom Ford."
     },
-    "b7a61b004e35": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Vaquera."
+    "576f323aae4a": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de L'Agence."
     },
-    "f26975827d1c": {
-      "resumen": "Vogue México presenta un spritz floral para sumar al repertorio de cócteles."
+    "113bf7a9736f": {
+      "resumen": "Telva repasa, a partir de lo que se ve en París, cuáles son las prendas imprescindibles para vestir esta temporada de otoño."
     },
-    "da49829549b9": {
-      "resumen": "Vogue México cuenta que el próximo desafío de John Galliano es transformar el archivo de una marca masiva en alta costura."
+    "3bb432a7c90a": {
+      "resumen": "Telva elige a Jacob Elordi y Kendall Jenner como la pareja mejor vestida de la temporada."
     },
-    "aa2ed01f44ab": {
-      "resumen": "Vogue México destaca los zapatos de taco rojo como lo más elegante del otoño 2026, con Kate Middleton como ejemplo."
+    "4951678c2146": {
+      "resumen": "FashionUnited analiza cómo la moda masculina de la temporada otoño-invierno 2027/28 reinterpreta sus códigos tradicionales y difumina las fronteras de género."
     },
-    "c6e3d7407395": {
-      "resumen": "Harper's BAZAAR repasa el flequillo corto que lució Jennifer Lawrence en París, tendencia 2026 para renovar el look sin cambiar el largo del pelo."
+    "cc069637eeb8": {
+      "resumen": "The Objective selecciona en Primark, Zara y Mango diez prendas básicas para combinar los colores tendencia del otoño y armar looks de oficina."
     },
-    "bc38b516c8ec": {
-      "resumen": "MisionesOnline anuncia que Fusion Fashion Night, un evento de moda, arte y música, llega a Santo Tomé."
+    "5152f3a07407": {
+      "resumen": "Vogue México repasa los detalles del desfile que marcó las tendencias que definirán el cierre de 2026."
     },
-    "cbf72b3b8eee": {
-      "resumen": "HOLA cuenta cuál es el animal print tendencia del otoño 2026, distinto al clásico estampado de leopardo."
+    "22f2cc6b8f36": {
+      "resumen": "Vogue México propone los nuevos pantalones palazzo elegantes para combinar con zapatos de tacón negros este otoño 2026."
     },
     "8648bd26de2f": {
       "resumen": "pronto.com.ar explica cómo conseguir entradas con hasta 90% de descuento para obras de la cartelera teatral porteña a través de Vení al Teatro."
     },
     "87161713d9d5": {
       "resumen": "La guía MICHELIN selecciona diez restaurantes imprescindibles para conocer Buenos Aires."
-    },
-    "a38da9ffc4a5": {
-      "resumen": "El Diario NY cuenta que la cantante Cazzu y el bailarín Ignacio Colombara mostraron públicamente su romance en Buenos Aires."
     },
     "2fb8f057dd3b": {
       "resumen": "Página 12 repasa propuestas de cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
@@ -95,17 +101,20 @@
     "05d5a0a5b2ac": {
       "resumen": "iProfesional informa que la Ciudad de Buenos Aires eximirá del pago de ABL a hoteles, restaurantes y librerías a partir de 2027."
     },
-    "907554b29416": {
-      "resumen": "Clarín reseña los cinco restaurantes de Buenos Aires distinguidos por el Gobierno español por su cocina española."
-    },
     "12f8266059c7": {
       "resumen": "El Destape propone seis actividades para hacer en la Ciudad de Buenos Aires el fin de semana del 25 al 27 de septiembre."
     },
-    "962108dd69c4": {
-      "resumen": "El Destape propone cinco planes para disfrutar en Buenos Aires en el primer fin de semana de la primavera."
+    "c917a1ffd8e5": {
+      "resumen": "mercurionoticias.com.ar anuncia que el programa ConectArte desplegará una amplia agenda de música, danza, teatro y talleres durante octubre."
     },
-    "d4a9935d7b75": {
-      "resumen": "Meteored Argentina recomienda seis planes gratuitos para hacer en Buenos Aires este fin de semana, desde el Festival del Asado hasta un concierto en vivo en el Planetario."
+    "e92db814b3af": {
+      "resumen": "El Destape informa que todos los sábados de octubre habrá música en vivo al aire libre por 2.000 pesos en un jardín andaluz de la Ciudad de Buenos Aires."
+    },
+    "e8851c384024": {
+      "resumen": "Perfil informa que hoteles, restaurantes y librerías quedarán eximidos del pago de ABL durante el primer semestre de 2027 en la Ciudad de Buenos Aires."
+    },
+    "c407271411de": {
+      "resumen": "Clarín perfila al violinista y violista Pinchas Zukerman, reconocido por poner su virtuosismo técnico al servicio de la música."
     }
   }
 }
