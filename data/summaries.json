@@ -1,20 +1,27 @@
 {
-  "generated_at": "2026-10-01T10:16:51Z",
+  "generated_at": "2026-10-01T22:20:00Z",
   "summaries": {
-    "4d73e39f0027": {
-      "resumen": "The ASCO Post presenta el estudio SYMPRO-Lung, que evalúa si el monitoreo semanal de síntomas mediante desenlaces reportados por el paciente (PRO, por sus siglas en inglés) puede mejorar la supervivencia en cáncer de pulmón de cualquier estadio. Interesa porque suma evidencia a la idea de que el seguimiento activo de síntomas podría impactar en resultados duros, no solo en calidad de vida.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el planteo como pregunta sugiere un ensayo en curso o recientemente reportado, probablemente aleatorizado) que evalúa el monitoreo semanal de síntomas mediante cuestionarios de desenlaces reportados por el paciente (PRO); el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de cualquier estadio (enfermedad temprana, localmente avanzada o metastásica).\nIntervención: Monitoreo semanal de síntomas mediante desenlaces reportados por el paciente (PRO) versus seguimiento clínico estándar.\nResultados: No hay cifras de supervivencia global, tiempo hasta deterioro clínico ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el diseño exacto, el tamaño muestral ni el seguimiento; los estudios de monitoreo de síntomas suelen enfrentar dificultades de adherencia sostenida en el tiempo.\nMensaje: Si el monitoreo semanal de síntomas demuestra impacto en supervivencia, reforzaría la incorporación sistemática de herramientas de PRO en la práctica oncológica habitual, más allá de su rol ya establecido en calidad de vida.\nNota: análisis sin acceso al abstract."
+    "adc676361d95": {
+      "resumen": "The ASCO Post informa que un panel internacional convocado por la Agencia Internacional de Investigación sobre el Cáncer (IARC, por sus siglas en inglés, dependiente de la OMS) actualizó su determinación sobre los beneficios y los daños del tamizaje (screening) de cáncer de pulmón. Vale la pena mirarlo porque estas evaluaciones internacionales suelen influir en las recomendaciones de detección temprana a nivel global.",
+      "destacado": false
     },
-    "812e622f753d": {
-      "resumen": "The ASCO Post reporta un estudio que encontró que la depresión aumenta el riesgo de mortalidad específica por cáncer en tumores frecuentes. Es un dato importante porque pone en agenda la salud mental como factor pronóstico y remarca la necesidad de pesquisa y tratamiento psicológico en pacientes oncológicos.",
+    "21eb7b092fed": {
+      "resumen": "The ASCO Post se pregunta si el running de larga distancia podría ser un factor de riesgo para el cáncer colorrectal de inicio temprano, es decir, el que aparece en personas menores de 50 años. Interesa porque este tipo de cáncer viene en aumento y se buscan explicaciones más allá de la dieta y la genética.",
       "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente de cohorte, dado que evalúa riesgo de mortalidad asociado a una exposición); el título no precisa si es prospectivo o retrospectivo, el período de seguimiento ni el número de participantes.\nPoblación: Pacientes con cánceres frecuentes (el título no especifica los tipos tumorales) con y sin diagnóstico de depresión.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de asociación entre depresión (exposición) y mortalidad específica por cáncer (desenlace).\nResultados: No hay cifras de razón de riesgo (hazard ratio), intervalos de confianza ni valor de p disponibles a partir del título.\nLimitaciones: Los estudios observacionales de este tipo están expuestos a factores de confusión (por ejemplo, menor adherencia al tratamiento o diagnóstico más tardío en pacientes con depresión); sin abstract no se puede conocer el ajuste estadístico realizado ni el tamaño muestral.\nMensaje: Refuerza la importancia de la pesquisa y el tratamiento oportuno de la depresión en pacientes oncológicos, no solo por calidad de vida sino como posible factor asociado a peor pronóstico oncológico.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: probablemente un estudio observacional (de cohorte o caso-control) que explora la asociación entre correr distancias largas y el cáncer colorrectal de inicio temprano; el título, planteado como pregunta, sugiere hallazgos preliminares o hipotéticos, y no precisa número de centros ni de participantes.\nPoblación: adultos jóvenes (menores de 50 años) con diagnóstico de cáncer colorrectal de inicio temprano, presumiblemente con antecedentes de running de larga distancia (maratón o ultramaratón).\nIntervención: no aplica intervención terapéutica; se evalúa la exposición al running de larga distancia como posible factor de riesgo.\nResultados: no hay cifras de riesgo relativo, odds ratio ni intervalos de confianza disponibles a partir del título.\nLimitaciones: sin abstract no se puede conocer el diseño exacto ni el ajuste por factores de confusión (dieta, uso de antiinflamatorios, inflamación intestinal crónica); el formato de pregunta en el título indica que la evidencia podría ser todavía exploratoria.\nMensaje: aunque el ejercicio de resistencia suele ser protector frente al cáncer, el estudio invita a seguir investigando posibles mecanismos de riesgo (como la isquemia intestinal transitoria) detrás del aumento del cáncer colorrectal de inicio temprano, sin que esto deba desalentar la actividad física en general.\nNota: análisis sin acceso al abstract."
     },
-    "9e219edb47a0": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo clínico aleatorizado y controlado que evalúa estrategias facilitadas de testeo genético en cascada para familiares de personas con variantes patogénicas en BRCA1/2, genes asociados a mayor riesgo de cáncer de mama y ovario hereditario. Interesa porque el testeo en cascada suele tener baja adherencia y este estudio busca mejorarla.",
+    "34ab5e79c3e1": {
+      "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de EE.UU.) lanzó una iniciativa para ampliar la experiencia científica y sumar la voz de los consumidores en sus comités asesores. Es una noticia institucional relevante para entender cómo se tomarán a futuro las decisiones regulatorias que afectan la aprobación de tratamientos oncológicos.",
+      "destacado": false
+    },
+    "cb993a37909a": {
+      "resumen": "OncLive reporta que la combinación oral de azacitidina y cedazuridina, este último un inhibidor de la enzima citidina deaminasa que permite la absorción oral de la azacitidina, alcanzó su objetivo primario de farmacocinética en pacientes con síndrome mielodisplásico (SMD) y leucemia mielomonocítica crónica (LMMC). Interesa porque una formulación oral evitaría las inyecciones subcutáneas diarias típicas de estos tratamientos hipometilantes.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado y controlado; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Familiares de primer y segundo grado de personas portadoras de variantes patogénicas en BRCA1/2 (genes asociados a cáncer de mama y ovario hereditario).\nIntervención: Una estrategia facilitada de testeo genético en cascada (por ejemplo, contacto directo, asistencia para el testeo o derivación simplificada) versus el abordaje estándar de comunicación familiar.\nResultados: No hay cifras de tasa de testeo, tiempo hasta la realización del test ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el seguimiento ni el tipo exacto de intervención facilitadora empleada.\nMensaje: Si la estrategia facilitada mejora la tasa de testeo en cascada, podría adoptarse como práctica estándar para identificar más portadores de BRCA1/2 y habilitar prevención o detección temprana en familiares en riesgo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: ensayo clínico, probablemente de farmacocinética o bioequivalencia, que compara la exposición plasmática de azacitidina oral más cedazuridina con la de azacitidina inyectable; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: pacientes con síndrome mielodisplásico (SMD) o leucemia mielomonocítica crónica (LMMC).\nIntervención: azacitidina oral combinada con cedazuridina (inhibidor de citidina deaminasa) frente, presumiblemente, a azacitidina inyectable como comparador de referencia farmacocinética.\nResultados: no hay cifras de exposición plasmática (AUC), razones de medias geométricas ni intervalos de confianza disponibles a partir del título; solo se informa que se cumplió el objetivo primario farmacocinético.\nLimitaciones: un estudio centrado en farmacocinética no necesariamente informa sobre eficacia clínica ni seguridad a largo plazo; sin abstract no se puede conocer el tamaño muestral ni el diseño exacto del estudio.\nMensaje: si se confirma la equivalencia farmacocinética, una presentación oral de azacitidina podría simplificar el tratamiento ambulatorio del síndrome mielodisplásico y la leucemia mielomonocítica crónica, reduciendo la carga de inyecciones diarias para el paciente.\nNota: análisis sin acceso al abstract."
+    },
+    "4ce430b5ac41": {
+      "resumen": "OncLive informa que el agente en investigación UTRxMYCN M1-14 recibió dos designaciones especiales de la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para el tratamiento del sarcoma de partes blandas. Es una señal de que la agencia regulatoria prioriza su desarrollo, aunque todavía no hay datos de eficacia clínica publicados.",
+      "destacado": false
     },
     "ac6d4a01cc64": {
       "resumen": "Carta de respuesta (reply) publicada en The New England Journal of Medicine (NEJM) sobre el estudio de pembrolizumab adyuvante combinado con belzutifan, un inhibidor del factor inducible por hipoxia 2-alfa (HIF-2α), en carcinoma de células renales. Los autores originales responden a un comentario crítico sobre el trabajo, por lo que vale la pena mirarla para seguir la discusión académica sobre ese esquema adyuvante.",
@@ -26,25 +33,11 @@
     },
     "a865c5cbadb4": {
       "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) que evalúa la combinación de giredestrant, un degradador selectivo oral del receptor de estrógeno (SERD, por sus siglas en inglés), con everolimus, un inhibidor de mTOR, en cáncer de mama avanzado. Interesa porque explora una estrategia de combinación oral, sin quimioterapia, para pacientes con enfermedad resistente a terapias endocrinas previas.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Estudio clínico (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con cáncer de mama avanzado; el título no especifica subtipo, aunque giredestrant se desarrolla principalmente para tumores con receptores hormonales positivos.\nIntervención: Combinación de giredestrant (degradador selectivo oral del receptor de estrógeno) más everolimus (inhibidor de mTOR); el título no menciona un comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el diseño exacto ni el perfil de toxicidad de la combinación.\nMensaje: Si la combinación muestra actividad y tolerabilidad aceptable, podría sumar una opción oral sin quimioterapia para pacientes con cáncer de mama avanzado resistente a terapia endocrina previa.\nNota: análisis sin acceso al abstract."
     },
     "acae3b8d6ba2": {
       "resumen": "OncLive repasa cómo los patrones de resistencia a los inhibidores de FGFR (receptor del factor de crecimiento de fibroblastos) condicionan la secuencia de tratamientos en el colangiocarcinoma, el cáncer de las vías biliares. Es una nota de discusión clínica útil para pensar el orden de las terapias dirigidas disponibles en este tumor con alteraciones de FGFR2.",
-      "destacado": false
-    },
-    "516e865fcd45": {
-      "resumen": "OncLive reporta los datos de supervivencia global del ensayo PAPILLON, que compara amivantamab (anticuerpo biespecífico anti-EGFR/MET) más quimioterapia de primera línea contra quimioterapia sola en cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés) con inserciones en el exón 20 de EGFR. Es un dato esperado porque este subgrupo tiene pocas opciones y la supervivencia libre de progresión ya había favorecido a la combinación.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III, PAPILLON, internacional y multicéntrico; esta actualización reporta el análisis de supervivencia global, un criterio secundario del estudio original.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) de primera línea, con inserciones en el exón 20 del gen EGFR, un subgrupo con mal pronóstico y pocas terapias dirigidas aprobadas.\nIntervención: Amivantamab (anticuerpo biespecífico anti-EGFR/MET) combinado con quimioterapia basada en platino, frente a quimioterapia sola.\nResultados: No hay cifras de supervivencia global, razón de riesgo (hazard ratio) ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el seguimiento mediano ni la madurez de los datos de supervivencia global; el beneficio en supervivencia libre de progresión no siempre se traduce en supervivencia global.\nMensaje: Si confirma beneficio en supervivencia global, consolidaría a amivantamab más quimioterapia como estándar de primera línea en NSCLC con inserciones en el exón 20 de EGFR, reforzando el cambio de práctica ya sugerido por los datos de supervivencia libre de progresión.\nNota: análisis sin acceso al abstract."
-    },
-    "b5faccb8ce2a": {
-      "resumen": "OncLive presenta la actualización a 8 años de supervivencia global del ensayo ADAURA, que evaluó osimertinib adyuvante (un inhibidor de tirosina quinasa de EGFR de tercera generación) tras la cirugía en cáncer de pulmón de células no pequeñas (NSCLC) en estadios IB a IIIA con mutación de EGFR. Es el dato más esperado de seguimiento a largo plazo de un esquema que ya cambió la práctica adyuvante en este subgrupo.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado, doble ciego, controlado con placebo, de fase III (ADAURA), internacional y multicéntrico; esta es una actualización exploratoria de seguimiento a 8 años, tipo landmark, del criterio de supervivencia global.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) resecado, en estadios IB a IIIA, con mutación activante de EGFR (deleción del exón 19 o L858R), tratados con cirugía con o sin quimioterapia adyuvante previa.\nIntervención: Osimertinib adyuvante (inhibidor de tirosina quinasa de EGFR de tercera generación) durante 3 años frente a placebo.\nResultados: No hay cifras de supervivencia global a 8 años, razón de riesgo (hazard ratio) ni intervalos de confianza disponibles a partir del título; los datos de supervivencia global a 5 años ya publicados habían mostrado beneficio significativo a favor de osimertinib.\nLimitaciones: Sin abstract no se puede conocer el porcentaje de pacientes aún en seguimiento a los 8 años, el efecto de tratamientos posteriores recibidos tras la progresión, ni la consistencia del beneficio por subgrupos (estadio, uso de quimioterapia previa).\nMensaje: Un beneficio sostenido en supervivencia global a 8 años reforzaría de manera definitiva el uso de osimertinib adyuvante como estándar en NSCLC resecado con mutación de EGFR, consolidando el cambio de práctica ya vigente desde los resultados iniciales de supervivencia libre de enfermedad y los de supervivencia global a 5 años.\nNota: análisis sin acceso al abstract."
-    },
-    "ca2533e7fd08": {
-      "resumen": "OncLive entrevista a la oncóloga Anne Chiang sobre el desarrollo de anticuerpos conjugados a fármacos (ADC, por sus siglas en inglés) dirigidos a B7-H3 para el tratamiento de segunda línea del cáncer de pulmón a células pequeñas (SCLC, por sus siglas en inglés). Es una nota de opinión experta sobre una diana terapéutica emergente en un tumor de pronóstico históricamente malo.",
       "destacado": false
     },
     "f3d72ecdf27c": {
@@ -56,65 +49,70 @@
       "destacado": false,
       "analisis": "Diseño: Estudio observacional, probablemente de corte transversal o de cohorte retrospectiva sobre bases de datos administrativas de aseguradoras (Medicare y seguros comerciales) en Estados Unidos; el título no precisa el número de pacientes ni el período analizado.\nPoblación: Pacientes con cánceres hematológicos (blood cancers) que requieren medicación oncológica oral especializada, cubiertos por Medicare o por seguros comerciales, en una muestra nacional de Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de acceso y barreras de costo (copagos, deducibles, autorización previa) a los medicamentos oncológicos orales.\nResultados: No hay cifras de proporción de pacientes con barreras de acceso, montos de costo de bolsillo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios basados en datos administrativos de aseguradoras no siempre capturan todas las vías de asistencia financiera disponibles para el paciente; sin abstract no se puede conocer el ajuste por tipo de cáncer ni por nivel socioeconómico.\nMensaje: Cuantificar las barreras de costo y de cobertura de seguro para medicación oncológica oral es clave para diseñar políticas de acceso y programas de asistencia que eviten que el costo determine el tratamiento recibido.\nNota: análisis sin acceso al abstract."
     },
-    "fca460515a90": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Jenny Packham."
+    "9e219edb47a0": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo clínico aleatorizado y controlado que evalúa estrategias facilitadas de testeo genético en cascada para familiares de personas con variantes patogénicas en BRCA1/2, genes asociados a mayor riesgo de cáncer de mama y ovario hereditario. Interesa porque el testeo en cascada suele tener baja adherencia y este estudio busca mejorarla.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado y controlado; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Familiares de primer y segundo grado de personas portadoras de variantes patogénicas en BRCA1/2 (genes asociados a cáncer de mama y ovario hereditario).\nIntervención: Una estrategia facilitada de testeo genético en cascada (por ejemplo, contacto directo, asistencia para el testeo o derivación simplificada) versus el abordaje estándar de comunicación familiar.\nResultados: No hay cifras de tasa de testeo, tiempo hasta la realización del test ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el seguimiento ni el tipo exacto de intervención facilitadora empleada.\nMensaje: Si la estrategia facilitada mejora la tasa de testeo en cascada, podría adoptarse como práctica estándar para identificar más portadores de BRCA1/2 y habilitar prevención o detección temprana en familiares en riesgo.\nNota: análisis sin acceso al abstract."
     },
-    "cc22ba53c40e": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Ashish."
+    "b7cbcb284e66": {
+      "resumen": "Los zapatos tabi, con su icónica punta dividida, se instalan como la nueva tendencia de calzado que divide opiniones."
     },
-    "a64ff2270f2a": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Tom Ford."
+    "795d49b33909": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Isabel Marant."
     },
-    "576f323aae4a": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de L'Agence."
+    "496d330acf37": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de August Barron."
     },
-    "113bf7a9736f": {
-      "resumen": "Telva repasa, a partir de lo que se ve en París, cuáles son las prendas imprescindibles para vestir esta temporada de otoño."
+    "b942cf9e4f55": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Gauchère."
     },
-    "3bb432a7c90a": {
-      "resumen": "Telva elige a Jacob Elordi y Kendall Jenner como la pareja mejor vestida de la temporada."
+    "0e4157506750": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Chloé."
     },
-    "4951678c2146": {
-      "resumen": "FashionUnited analiza cómo la moda masculina de la temporada otoño-invierno 2027/28 reinterpreta sus códigos tradicionales y difumina las fronteras de género."
+    "ec79d93ad2a8": {
+      "resumen": "Las uñas color café moka, inspiradas en el estilo de Hailey Bieber, se imponen como la manicura elegante del otoño."
     },
-    "cc069637eeb8": {
-      "resumen": "The Objective selecciona en Primark, Zara y Mango diez prendas básicas para combinar los colores tendencia del otoño y armar looks de oficina."
+    "ef6f1647f1f7": {
+      "resumen": "Una selección de ocho abrigos de Cortefiel, elegantes y abrigados, pensados para no quitarse durante todo el otoño-invierno."
     },
-    "5152f3a07407": {
-      "resumen": "Vogue México repasa los detalles del desfile que marcó las tendencias que definirán el cierre de 2026."
+    "eea876c37aee": {
+      "resumen": "Vogue México recorre Siembra Comedor, una propuesta gastronómica que parte de la milpa, el sistema tradicional de cultivo mexicano."
     },
-    "22f2cc6b8f36": {
-      "resumen": "Vogue México propone los nuevos pantalones palazzo elegantes para combinar con zapatos de tacón negros este otoño 2026."
+    "3b6bd22c9ba6": {
+      "resumen": "Blanco, rojo, rosa y otros tonos se consolidan como los colores tendencia para el otoño-invierno 2026."
     },
-    "8648bd26de2f": {
-      "resumen": "pronto.com.ar explica cómo conseguir entradas con hasta 90% de descuento para obras de la cartelera teatral porteña a través de Vení al Teatro."
+    "56461221728e": {
+      "resumen": "Cinco conjuntos coordinados de Zara, inspirados en las tendencias virales del otoño, arrasan en ventas y prometen vestir bien en octubre."
     },
-    "87161713d9d5": {
-      "resumen": "La guía MICHELIN selecciona diez restaurantes imprescindibles para conocer Buenos Aires."
+    "d1a3277edf59": {
+      "resumen": "Jorge Rojas agotó las entradas de su show íntimo Piano & Voz y ya tiene fecha confirmada en Buenos Aires."
     },
-    "2fb8f057dd3b": {
-      "resumen": "Página 12 repasa propuestas de cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
+    "8dadf4b059d1": {
+      "resumen": "La soprano María Belén Rivarola se consolida como una de las voces en ascenso de la escena lírica porteña."
     },
-    "a7f5fb348e2f": {
-      "resumen": "El Festival Nueva Ópera celebra su décimo aniversario con una nueva edición en Buenos Aires."
+    "288141b4821c": {
+      "resumen": "Una selección de actividades imperdibles para aprovechar el fin de semana en Buenos Aires."
     },
-    "05d5a0a5b2ac": {
-      "resumen": "iProfesional informa que la Ciudad de Buenos Aires eximirá del pago de ABL a hoteles, restaurantes y librerías a partir de 2027."
+    "e1c0f0b42e5b": {
+      "resumen": "Una guía de propuestas de música, literatura, gastronomía y cultura para el fin de semana en Buenos Aires."
     },
-    "12f8266059c7": {
-      "resumen": "El Destape propone seis actividades para hacer en la Ciudad de Buenos Aires el fin de semana del 25 al 27 de septiembre."
+    "19573f83827b": {
+      "resumen": "El cantante venezolano Carlos Baute desembarca en Buenos Aires con una firma de discos y un show especial en el Teatro Ópera."
     },
-    "c917a1ffd8e5": {
-      "resumen": "mercurionoticias.com.ar anuncia que el programa ConectArte desplegará una amplia agenda de música, danza, teatro y talleres durante octubre."
+    "28cd880cfd2e": {
+      "resumen": "Buenos Aires desembarca en Madrid con una agenda de tango y teatro en homenaje a Jorge Luis Borges, cuyo legado se conservará en el Instituto Cervantes."
+    },
+    "5074bb82fb13": {
+      "resumen": "Por el Día del Vegetarianismo, una selección de seis lugares porteños para comer sin carne y con mucho sabor."
     },
     "e92db814b3af": {
       "resumen": "El Destape informa que todos los sábados de octubre habrá música en vivo al aire libre por 2.000 pesos en un jardín andaluz de la Ciudad de Buenos Aires."
     },
+    "87161713d9d5": {
+      "resumen": "La guía MICHELIN selecciona diez restaurantes imprescindibles para conocer Buenos Aires."
+    },
     "e8851c384024": {
       "resumen": "Perfil informa que hoteles, restaurantes y librerías quedarán eximidos del pago de ABL durante el primer semestre de 2027 en la Ciudad de Buenos Aires."
-    },
-    "c407271411de": {
-      "resumen": "Clarín perfila al violinista y violista Pinchas Zukerman, reconocido por poner su virtuosismo técnico al servicio de la música."
     }
   }
 }
