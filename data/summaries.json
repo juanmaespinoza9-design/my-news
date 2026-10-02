@@ -1,66 +1,6 @@
 {
-  "generated_at": "2026-10-02T10:19:19Z",
+  "generated_at": "2026-10-02T22:18:20Z",
   "summaries": {
-    "adc676361d95": {
-      "resumen": "The ASCO Post informa que un panel internacional convocado por la Agencia Internacional de Investigación sobre el Cáncer (IARC, por sus siglas en inglés, dependiente de la OMS) actualizó su determinación sobre los beneficios y los daños del tamizaje (screening) de cáncer de pulmón. Vale la pena mirarlo porque estas evaluaciones internacionales suelen influir en las recomendaciones de detección temprana a nivel global.",
-      "destacado": false,
-      "analisis": "Diseño: Revisión sistemática de la evidencia y determinación de un panel internacional de expertos convocado por la Agencia Internacional de Investigación sobre el Cáncer (IARC, dependiente de la Organización Mundial de la Salud), no un ensayo clínico individual sino una evaluación colegiada de los estudios publicados sobre tamizaje (screening) de cáncer de pulmón.\nPoblación: Personas con alto riesgo de cáncer de pulmón (fumadores y exfumadores dentro de rangos de edad y carga tabáquica definidos por los programas de detección temprana evaluados).\nIntervención: Tamizaje de cáncer de pulmón mediante tomografía computada de baja dosis frente a la ausencia de tamizaje o al cuidado habitual.\nResultados: El panel emitió su determinación sobre beneficios (reducción de mortalidad específica por cáncer de pulmón) y daños (sobrediagnóstico, falsos positivos, radiación acumulada) del tamizaje; no hay cifras puntuales de reducción de mortalidad ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Una determinación de panel sintetiza estudios heterogéneos entre países y protocolos de tamizaje, por lo que su aplicabilidad directa a un sistema de salud particular requiere adaptación local; sin el documento completo no se puede conocer el peso otorgado a cada subgrupo de riesgo.\nMensaje: Estas determinaciones internacionales suelen marcar la base para que las sociedades científicas y los sistemas de salud de distintos países actualicen (o no) sus recomendaciones de tamizaje de cáncer de pulmón.\nNota: análisis sin acceso al abstract."
-    },
-    "21eb7b092fed": {
-      "resumen": "The ASCO Post se pregunta si el running de larga distancia podría ser un factor de riesgo para el cáncer colorrectal de inicio temprano, es decir, el que aparece en personas menores de 50 años. Interesa porque este tipo de cáncer viene en aumento y se buscan explicaciones más allá de la dieta y la genética.",
-      "destacado": false,
-      "analisis": "Diseño: probablemente un estudio observacional (de cohorte o caso-control) que explora la asociación entre correr distancias largas y el cáncer colorrectal de inicio temprano; el título, planteado como pregunta, sugiere hallazgos preliminares o hipotéticos, y no precisa número de centros ni de participantes.\nPoblación: adultos jóvenes (menores de 50 años) con diagnóstico de cáncer colorrectal de inicio temprano, presumiblemente con antecedentes de running de larga distancia (maratón o ultramaratón).\nIntervención: no aplica intervención terapéutica; se evalúa la exposición al running de larga distancia como posible factor de riesgo.\nResultados: no hay cifras de riesgo relativo, odds ratio ni intervalos de confianza disponibles a partir del título.\nLimitaciones: sin abstract no se puede conocer el diseño exacto ni el ajuste por factores de confusión (dieta, uso de antiinflamatorios, inflamación intestinal crónica); el formato de pregunta en el título indica que la evidencia podría ser todavía exploratoria.\nMensaje: aunque el ejercicio de resistencia suele ser protector frente al cáncer, el estudio invita a seguir investigando posibles mecanismos de riesgo (como la isquemia intestinal transitoria) detrás del aumento del cáncer colorrectal de inicio temprano, sin que esto deba desalentar la actividad física en general.\nNota: análisis sin acceso al abstract."
-    },
-    "34ab5e79c3e1": {
-      "resumen": "The ASCO Post informa que la FDA (Administración de Alimentos y Medicamentos de EE.UU.) lanzó una iniciativa para ampliar la experiencia científica y sumar la voz de los consumidores en sus comités asesores. Es una noticia institucional relevante para entender cómo se tomarán a futuro las decisiones regulatorias que afectan la aprobación de tratamientos oncológicos.",
-      "destacado": false
-    },
-    "cb993a37909a": {
-      "resumen": "OncLive reporta que la combinación oral de azacitidina y cedazuridina, este último un inhibidor de la enzima citidina deaminasa que permite la absorción oral de la azacitidina, alcanzó su objetivo primario de farmacocinética en pacientes con síndrome mielodisplásico (SMD) y leucemia mielomonocítica crónica (LMMC). Interesa porque una formulación oral evitaría las inyecciones subcutáneas diarias típicas de estos tratamientos hipometilantes.",
-      "destacado": false,
-      "analisis": "Diseño: ensayo clínico, probablemente de farmacocinética o bioequivalencia, que compara la exposición plasmática de azacitidina oral más cedazuridina con la de azacitidina inyectable; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: pacientes con síndrome mielodisplásico (SMD) o leucemia mielomonocítica crónica (LMMC).\nIntervención: azacitidina oral combinada con cedazuridina (inhibidor de citidina deaminasa) frente, presumiblemente, a azacitidina inyectable como comparador de referencia farmacocinética.\nResultados: no hay cifras de exposición plasmática (AUC), razones de medias geométricas ni intervalos de confianza disponibles a partir del título; solo se informa que se cumplió el objetivo primario farmacocinético.\nLimitaciones: un estudio centrado en farmacocinética no necesariamente informa sobre eficacia clínica ni seguridad a largo plazo; sin abstract no se puede conocer el tamaño muestral ni el diseño exacto del estudio.\nMensaje: si se confirma la equivalencia farmacocinética, una presentación oral de azacitidina podría simplificar el tratamiento ambulatorio del síndrome mielodisplásico y la leucemia mielomonocítica crónica, reduciendo la carga de inyecciones diarias para el paciente.\nNota: análisis sin acceso al abstract."
-    },
-    "f3d72ecdf27c": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) para el tratamiento del mieloma múltiple. Es una referencia de consulta práctica porque resume las recomendaciones vigentes basadas en la evidencia más reciente para esta neoplasia hematológica.",
-      "destacado": false
-    },
-    "18713319dc2c": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre las barreras de acceso relacionadas con el seguro médico y el costo de los medicamentos oncológicos orales especializados para cánceres hematológicos, en una muestra nacional estadounidense de pacientes con Medicare y seguro comercial. Interesa porque pone números a un problema que condiciona la adherencia al tratamiento más allá de la indicación médica.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio observacional, probablemente de corte transversal o de cohorte retrospectiva sobre bases de datos administrativas de aseguradoras (Medicare y seguros comerciales) en Estados Unidos; el título no precisa el número de pacientes ni el período analizado.\nPoblación: Pacientes con cánceres hematológicos (blood cancers) que requieren medicación oncológica oral especializada, cubiertos por Medicare o por seguros comerciales, en una muestra nacional de Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de acceso y barreras de costo (copagos, deducibles, autorización previa) a los medicamentos oncológicos orales.\nResultados: No hay cifras de proporción de pacientes con barreras de acceso, montos de costo de bolsillo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios basados en datos administrativos de aseguradoras no siempre capturan todas las vías de asistencia financiera disponibles para el paciente; sin abstract no se puede conocer el ajuste por tipo de cáncer ni por nivel socioeconómico.\nMensaje: Cuantificar las barreras de costo y de cobertura de seguro para medicación oncológica oral es clave para diseñar políticas de acceso y programas de asistencia que eviten que el costo determine el tratamiento recibido.\nNota: análisis sin acceso al abstract."
-    },
-    "795d49b33909": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Isabel Marant."
-    },
-    "496d330acf37": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de August Barron."
-    },
-    "b942cf9e4f55": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Gauchère."
-    },
-    "d1a3277edf59": {
-      "resumen": "Jorge Rojas agotó las entradas de su show íntimo Piano & Voz y ya tiene fecha confirmada en Buenos Aires."
-    },
-    "e1c0f0b42e5b": {
-      "resumen": "Una guía de propuestas de música, literatura, gastronomía y cultura para el fin de semana en Buenos Aires."
-    },
-    "5074bb82fb13": {
-      "resumen": "Por el Día del Vegetarianismo, una selección de seis lugares porteños para comer sin carne y con mucho sabor."
-    },
-    "e92db814b3af": {
-      "resumen": "El Destape informa que todos los sábados de octubre habrá música en vivo al aire libre por 2.000 pesos en un jardín andaluz de la Ciudad de Buenos Aires."
-    },
-    "87161713d9d5": {
-      "resumen": "La guía MICHELIN selecciona diez restaurantes imprescindibles para conocer Buenos Aires."
-    },
-    "79ee3238efd3": {
-      "resumen": "OncLive repasa todos los episodios de su podcast OncLive On Air emitidos durante septiembre de 2026, con entrevistas y discusiones de especialistas en oncología. Sirve como compilado para repasar las novedades del mes en un solo lugar.",
-      "destacado": false
-    },
-    "51c5200bb2c2": {
-      "resumen": "OncLive entrevista al Dr. Anderson sobre las preguntas todavía sin respuesta al momento de elegir el tratamiento para la leucemia linfocítica crónica (LLC). Interesa porque resume el criterio clínico actual frente a un arsenal terapéutico cada vez más amplio para esta enfermedad.",
-      "destacado": false
-    },
     "e05f30aaa33b": {
       "resumen": "Journal of Clinical Oncology (JCO) analiza la decisión de Australia de reembolsar de manera tumor-agnóstica (es decir, sin importar el órgano de origen del tumor) la combinación de nivolumab más ipilimumab y el pembrolizumab, presentada como un hito regulatorio internacional. Vale la pena mirarlo porque marca un precedente de política sanitaria sobre cómo financiar la inmunoterapia según biomarcadores y no según el tipo de tumor.",
       "destacado": false
@@ -69,41 +9,101 @@
       "resumen": "Journal of Clinical Oncology (JCO) reflexiona sobre cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Toca un tema sensible porque pone el foco en los conflictos de interés que atraviesan la práctica clínica diaria.",
       "destacado": false
     },
-    "44ebb40ca22b": {
-      "resumen": "Schiaparelli presentó su colección primavera-verano 2027 de prêt-à-porter (ropa de confección lista para usar, sin medidas a medida), según el repaso de Vogue."
+    "f3d72ecdf27c": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) para el tratamiento del mieloma múltiple. Es una referencia de consulta práctica porque resume las recomendaciones vigentes basadas en la evidencia más reciente para esta neoplasia hematológica.",
+      "destacado": false
     },
-    "0bf88f1088d2": {
-      "resumen": "Zara propone cinco tendencias en vestidos para looks de oficina y para cenas con amigas, según ELLE."
+    "18713319dc2c": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre las barreras de acceso relacionadas con el seguro médico y el costo de los medicamentos oncológicos orales especializados para cánceres hematológicos, en una muestra nacional estadounidense de pacientes con Medicare y seguro comercial. Interesa porque pone números a un problema que condiciona la adherencia al tratamiento más allá de la indicación médica.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional, probablemente de corte transversal o de cohorte retrospectiva sobre bases de datos administrativas de aseguradoras (Medicare y seguros comerciales) en Estados Unidos; el título no precisa el número de pacientes ni el período analizado.\nPoblación: Pacientes con cánceres hematológicos (blood cancers) que requieren medicación oncológica oral especializada, cubiertos por Medicare o por seguros comerciales, en una muestra nacional de Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de acceso y barreras de costo (copagos, deducibles, autorización previa) a los medicamentos oncológicos orales.\nResultados: No hay cifras de proporción de pacientes con barreras de acceso, montos de costo de bolsillo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios basados en datos administrativos de aseguradoras no siempre capturan todas las vías de asistencia financiera disponibles para el paciente; sin abstract no se puede conocer el ajuste por tipo de cáncer ni por nivel socioeconómico.\nMensaje: Cuantificar las barreras de costo y de cobertura de seguro para medicación oncológica oral es clave para diseñar políticas de acceso y programas de asistencia que eviten que el costo determine el tratamiento recibido.\nNota: análisis sin acceso al abstract."
     },
-    "e67595206c16": {
-      "resumen": "Maribel Verdú cumple 56 años y La Razón repasa sus looks más recordados y las claves de un estilo que evita las modas pasajeras."
+    "7bd5f4e15173": {
+      "resumen": "The ASCO Post presenta un modelo de inteligencia artificial (IA) que buscaria predecir el riesgo de neumonitis (inflamacion pulmonar) asociada al uso de inmunoterapia en cancer de pulmon. Interesa porque la neumonitis es una toxicidad seria que a veces obliga a suspender el tratamiento, y anticiparla permitiria un seguimiento mas estrecho de los pacientes de mayor riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de ASCO Post sobre un estudio que desarrolla y/o valida un modelo de inteligencia artificial (probablemente basado en datos clinicos y/o de imagenes) para predecir el riesgo de neumonitis asociada a inmunoterapia; el titulo no detalla si es un estudio retrospectivo o prospectivo, ni el numero de centros o pacientes incluidos.\nPoblación: Pacientes con cancer de pulmon tratados con inmunoterapia (inhibidores de puntos de control inmunitario), en quienes se evaluo el riesgo de desarrollar neumonitis asociada al tratamiento.\nIntervención: Aplicacion de un modelo predictivo de inteligencia artificial sobre datos clinicos (y probablemente radiologicos) para estratificar el riesgo de neumonitis, sin intervencion terapeutica activa.\nResultados: No hay cifras de sensibilidad, especificidad, area bajo la curva (AUC) ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los modelos predictivos basados en IA suelen requerir validacion externa en cohortes independientes antes de su uso clinico; sin abstract no se puede conocer el tamaño muestral, el origen de los datos ni el riesgo de sesgo del modelo.\nMensaje: Si se valida, una herramienta de este tipo podria ayudar a identificar de manera temprana a los pacientes con mayor riesgo de neumonitis por inmunoterapia, permitiendo un monitoreo mas estrecho y una intervencion mas oportuna.\nNota: análisis sin acceso al abstract."
     },
-    "aa2ed01f44ab": {
-      "resumen": "Vogue México elige a los zapatos de tacón rojos como los más elegantes del otoño 2026 y toma como ejemplo una combinación de Kate Middleton con pantalones cigarette (rectos y ajustados al tobillo)."
+    "25441a17b40b": {
+      "resumen": "OncLive informa que la FDA (Administracion de Alimentos y Medicamentos de EE.UU.) otorgo la designacion de via rapida (Fast Track) a TRE-515 combinado con inhibidores de KRAS para el cancer de pulmon de celulas no pequeñas (NSCLC) con mutacion KRAS G12C en pacientes ya tratados previamente. Interesa porque esta designacion acelera el desarrollo regulatorio de una estrategia combinada para superar la resistencia a los inhibidores de KRAS.",
+      "destacado": false
     },
-    "cb982353bf44": {
-      "resumen": "Vogue México recomienda combinar los pantalones palazzo (anchos y de caída suelta) con botas, mocasines o zapatos de tacón para octubre 2026."
+    "27d4c6da1ae1": {
+      "resumen": "The ASCO Post difunde el Informe Anual a la Nacion (Annual Report to the Nation), un relevamiento estadistico conjunto de las principales agencias oncologicas de EE.UU., que muestra que los avances contra el cancer de pulmon vienen impulsando la caida general de la mortalidad por cancer. Es la nota destacada de hoy porque sintetiza una tendencia poblacional de gran impacto clinico y de salud publica.",
+      "destacado": true,
+      "analisis": "Diseño: Informe estadistico anual (Annual Report to the Nation on the Status of Cancer), elaborado de forma conjunta por organismos como el Instituto Nacional del Cancer (NCI), los Centros para el Control y la Prevencion de Enfermedades (CDC), la Sociedad Americana del Cancer y el Comite Norteamericano de Registros de Cancer, que analiza tendencias de incidencia y mortalidad a partir de registros poblacionales de cancer; no es un ensayo clinico sino un analisis de datos de vigilancia epidemiologica a gran escala.\nPoblación: Poblacion general de Estados Unidos con diagnostico de cancer, con foco particular en los pacientes con cancer de pulmon, a partir de registros nacionales de incidencia y mortalidad de multiples años.\nIntervención: No aplica intervencion terapeutica; se analizan tendencias temporales de mortalidad por cancer en relacion con los avances diagnosticos y terapeuticos (como el tamizaje y las nuevas terapias dirigidas e inmunoterapias) incorporados en los ultimos años.\nResultados: El titulo indica que el progreso contra el cancer de pulmon impulsa la caida de la mortalidad general por cancer, pero no hay cifras puntuales de reduccion porcentual de mortalidad ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los informes de registro poblacional reflejan tendencias agregadas y pueden no capturar diferencias regionales, de acceso al sistema de salud o entre subgrupos poblacionales; sin el documento completo no se puede conocer el periodo exacto analizado ni el peso relativo de cada intervencion (tamizaje vs. tratamiento) en la caida de la mortalidad.\nMensaje: La reduccion sostenida de la mortalidad por cancer de pulmon, el tumor que historicamente mas muertes oncologicas produce, confirma que la combinacion de deteccion temprana con tomografia de baja dosis y los nuevos tratamientos dirigidos e inmunoterapias esta teniendo un impacto poblacional real, lo que refuerza la importancia de sostener los programas de tamizaje y el acceso a estas terapias.\nNota: análisis sin acceso al abstract."
     },
-    "bec16fa3f64a": {
-      "resumen": "La gala anual de Dallas Contemporary 2026 celebró la influencia global del arte latinoamericano, según el repaso de Vogue México."
+    "499969009a2c": {
+      "resumen": "The ASCO Post repasa la evidencia sobre si los margenes quirurgicos negativos mas estrechos se asocian a mayor riesgo de recurrencia en el carcinoma ductal in situ (DCIS), la forma no invasiva de cancer de mama. Interesa porque la definicion del margen quirurgico optimo impacta directamente en la indicacion de reoperaciones y en la radioterapia adyuvante.",
+      "destacado": false,
+      "analisis": "Diseño: Probablemente un estudio observacional (cohorte retrospectiva o metaanalisis) que compara el riesgo de recurrencia segun el ancho del margen quirurgico negativo obtenido en la cirugia conservadora del carcinoma ductal in situ (DCIS); el titulo, formulado como pregunta, sugiere que no se precisan el tamaño muestral ni el ancho exacto de los margenes comparados.\nPoblación: Pacientes con diagnostico de carcinoma ductal in situ (DCIS) de mama tratadas con cirugia conservadora (tumorectomia), con distintos anchos de margen quirurgico negativo.\nIntervención: Comparacion de distintos anchos de margen quirurgico negativo (por ejemplo, menor a 2 mm versus margenes mas amplios) tras la cirugia conservadora, con o sin radioterapia adyuvante.\nResultados: No hay cifras de tasas de recurrencia local, razones de riesgo (hazard ratio) ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los estudios retrospectivos sobre margenes quirurgicos suelen tener heterogeneidad en el uso de radioterapia adyuvante y en el seguimiento, lo que puede confundir la asociacion entre ancho de margen y recurrencia; sin abstract no se puede conocer el ajuste por estos factores.\nMensaje: Definir el margen quirurgico minimo seguro en DCIS es clave para evitar reoperaciones innecesarias sin aumentar el riesgo de recurrencia, por lo que este tipo de evidencia ayuda a afinar las guias de manejo quirurgico de esta entidad.\nNota: análisis sin acceso al abstract."
     },
-    "755ac7607284": {
-      "resumen": "Sistema Mexiquense repasa las tendencias del otoño y plantea que vestir bien también es una forma de aprender a mirar."
+    "1154162605e3": {
+      "resumen": "OncLive informa que se inicio la presentacion de la solicitud de nuevo medicamento (NDA, por su sigla en ingles) ante la FDA para zipalertinib combinado con quimioterapia como tratamiento de primera linea del cancer de pulmon de celulas no pequeñas (NSCLC) con insercion en el exon 20 del receptor del factor de crecimiento epidermico (EGFR). Interesa porque este subtipo molecular tiene pocas opciones dirigidas y una aprobacion ampliaria el arsenal terapeutico de primera linea.",
+      "destacado": false
     },
-    "b6d60236276f": {
-      "resumen": "Los clásicos de The Beatles llegarán al Teatro Coliseo en una versión sinfónica, según adelanta MDZ Online."
+    "f6f1d38078ff": {
+      "resumen": "OncLive propone su quiz semanal de noticias con preguntas sobre las ultimas novedades en cancer de pulmon, cancer de mama, sindrome mielodisplasico (SMD) y enfermedad linfoproliferativa post-trasplante (PTLD, por su sigla en ingles). Es una forma rapida de repasar y autoevaluarse sobre las noticias oncologicas mas relevantes de la semana.",
+      "destacado": false
     },
-    "4452254b3dec": {
-      "resumen": "TN repasa la agenda cultural porteña de la semana, con la música en el Anfiteatro de Parque Centenario como principal propuesta."
+    "aa358bdb5a70": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Victoria Beckham."
     },
-    "09379479ec16": {
-      "resumen": "iProfesional sugiere planes para el fin de semana en la Capital Federal: un homenaje a Gilda, la feria 'Leer y Comer' y otras opciones."
+    "e5927157bd30": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Giuseppe Di Morabito."
     },
-    "d9da956c0073": {
-      "resumen": "El cantante Jorge Rojas estrenó su espectáculo 'Piano & Voz' en Rosario y MDZ Online cuenta cómo fue el show y cuándo llega a Buenos Aires."
+    "43b5afcb977f": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Yohji Yamamoto."
     },
-    "f35e70880d05": {
-      "resumen": "Los Andes presenta la agenda de recitales de octubre que invita a viajar en micro y conectar Mendoza con Buenos Aires."
+    "b49c4036c85d": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la marca ArdAzAei."
+    },
+    "5c0753225dad": {
+      "resumen": "Vogue México destaca los zapatos bicolor como la clave de estilo de Katie Holmes para lucir elegante este otoño."
+    },
+    "523b3ade13bb": {
+      "resumen": "Vogue México propone seis maneras elegantes de combinar faldas midi con zapatos de tacón para la oficina en octubre."
+    },
+    "54a5e906bc23": {
+      "resumen": "Vogue México repasa la presencia de diseñadores latinoamericanos en las semanas de la moda más importantes de 2026."
+    },
+    "509a29db2147": {
+      "resumen": "Zaira Nara y Pampita muestran cómo lucir la tendencia que se impone esta primavera-verano, según eltrecetv."
+    },
+    "95744cd7a39e": {
+      "resumen": "La estilista Erea Louro comparte un truco para lucir el fajín de moda este otoño sin tener que comprar uno nuevo."
+    },
+    "09577d477207": {
+      "resumen": "Marie Claire repasa las tendencias de otoño-invierno 2026-2027: rojo vibrante, denim y básicos renovados."
+    },
+    "8e1dc63fc6c2": {
+      "resumen": "Infobae cuenta la historia de un joven bailarín argentino de 20 años que logró ingresar a una de las academias de ballet más prestigiosas del mundo."
+    },
+    "db061ec2b2f7": {
+      "resumen": "La Nación propone cinco planes para salir este fin de semana del 3 y 4 de octubre en Buenos Aires."
+    },
+    "5f34218f6346": {
+      "resumen": "Urgente24 repasa los planes del fin de semana en el Área Metropolitana de Buenos Aires (AMBA): la muestra Viva Frida, una expo de alfajores, una experiencia inmersiva de Mafalda y más propuestas."
+    },
+    "694492f73d7b": {
+      "resumen": "La ciudad de La Plata albergará la primera Feria del Libro y la Cultura Indígena de la provincia de Buenos Aires."
+    },
+    "f8c5e187d8ca": {
+      "resumen": "El Destape repasa la agenda de recitales y conciertos de octubre de 2026 en Argentina."
+    },
+    "189cb379b94d": {
+      "resumen": "Radio 3 Caseros reúne más de 50 planes para el fin de semana del 2 al 4 de octubre en Buenos Aires, entre recitales, teatro, cine, streaming y muestras gratuitas."
+    },
+    "ec0d7cae56f2": {
+      "resumen": "El Trece informa que el frío y las lluvias previstas complicarán los planes al aire libre del fin de semana en Buenos Aires."
+    },
+    "46257ae65a07": {
+      "resumen": "Noticias de Bariloche repasa opciones de planes para el fin de semana en Buenos Aires."
+    },
+    "e8851c384024": {
+      "resumen": "Perfil informa que hoteles, restaurantes y librerías quedarán exentos del impuesto ABL durante el primer semestre de 2027 en la Ciudad de Buenos Aires."
+    },
+    "05d5a0a5b2ac": {
+      "resumen": "iProfesional detalla la exención del impuesto ABL que la Ciudad de Buenos Aires otorgará a hoteles, restaurantes y librerías en 2027."
     }
   }
 }
