@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-10-01T22:20:00Z",
+  "generated_at": "2026-10-02T10:19:19Z",
   "summaries": {
     "adc676361d95": {
       "resumen": "The ASCO Post informa que un panel internacional convocado por la Agencia Internacional de Investigación sobre el Cáncer (IARC, por sus siglas en inglés, dependiente de la OMS) actualizó su determinación sobre los beneficios y los daños del tamizaje (screening) de cáncer de pulmón. Vale la pena mirarlo porque estas evaluaciones internacionales suelen influir en las recomendaciones de detección temprana a nivel global.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Revisión sistemática de la evidencia y determinación de un panel internacional de expertos convocado por la Agencia Internacional de Investigación sobre el Cáncer (IARC, dependiente de la Organización Mundial de la Salud), no un ensayo clínico individual sino una evaluación colegiada de los estudios publicados sobre tamizaje (screening) de cáncer de pulmón.\nPoblación: Personas con alto riesgo de cáncer de pulmón (fumadores y exfumadores dentro de rangos de edad y carga tabáquica definidos por los programas de detección temprana evaluados).\nIntervención: Tamizaje de cáncer de pulmón mediante tomografía computada de baja dosis frente a la ausencia de tamizaje o al cuidado habitual.\nResultados: El panel emitió su determinación sobre beneficios (reducción de mortalidad específica por cáncer de pulmón) y daños (sobrediagnóstico, falsos positivos, radiación acumulada) del tamizaje; no hay cifras puntuales de reducción de mortalidad ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Una determinación de panel sintetiza estudios heterogéneos entre países y protocolos de tamizaje, por lo que su aplicabilidad directa a un sistema de salud particular requiere adaptación local; sin el documento completo no se puede conocer el peso otorgado a cada subgrupo de riesgo.\nMensaje: Estas determinaciones internacionales suelen marcar la base para que las sociedades científicas y los sistemas de salud de distintos países actualicen (o no) sus recomendaciones de tamizaje de cáncer de pulmón.\nNota: análisis sin acceso al abstract."
     },
     "21eb7b092fed": {
       "resumen": "The ASCO Post se pregunta si el running de larga distancia podría ser un factor de riesgo para el cáncer colorrectal de inicio temprano, es decir, el que aparece en personas menores de 50 años. Interesa porque este tipo de cáncer viene en aumento y se buscan explicaciones más allá de la dieta y la genética.",
@@ -19,43 +20,14 @@
       "destacado": false,
       "analisis": "Diseño: ensayo clínico, probablemente de farmacocinética o bioequivalencia, que compara la exposición plasmática de azacitidina oral más cedazuridina con la de azacitidina inyectable; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: pacientes con síndrome mielodisplásico (SMD) o leucemia mielomonocítica crónica (LMMC).\nIntervención: azacitidina oral combinada con cedazuridina (inhibidor de citidina deaminasa) frente, presumiblemente, a azacitidina inyectable como comparador de referencia farmacocinética.\nResultados: no hay cifras de exposición plasmática (AUC), razones de medias geométricas ni intervalos de confianza disponibles a partir del título; solo se informa que se cumplió el objetivo primario farmacocinético.\nLimitaciones: un estudio centrado en farmacocinética no necesariamente informa sobre eficacia clínica ni seguridad a largo plazo; sin abstract no se puede conocer el tamaño muestral ni el diseño exacto del estudio.\nMensaje: si se confirma la equivalencia farmacocinética, una presentación oral de azacitidina podría simplificar el tratamiento ambulatorio del síndrome mielodisplásico y la leucemia mielomonocítica crónica, reduciendo la carga de inyecciones diarias para el paciente.\nNota: análisis sin acceso al abstract."
     },
-    "4ce430b5ac41": {
-      "resumen": "OncLive informa que el agente en investigación UTRxMYCN M1-14 recibió dos designaciones especiales de la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para el tratamiento del sarcoma de partes blandas. Es una señal de que la agencia regulatoria prioriza su desarrollo, aunque todavía no hay datos de eficacia clínica publicados.",
-      "destacado": false
-    },
-    "ac6d4a01cc64": {
-      "resumen": "Carta de respuesta (reply) publicada en The New England Journal of Medicine (NEJM) sobre el estudio de pembrolizumab adyuvante combinado con belzutifan, un inhibidor del factor inducible por hipoxia 2-alfa (HIF-2α), en carcinoma de células renales. Los autores originales responden a un comentario crítico sobre el trabajo, por lo que vale la pena mirarla para seguir la discusión académica sobre ese esquema adyuvante.",
-      "destacado": false
-    },
-    "f4cdf2d955cd": {
-      "resumen": "Carta al editor publicada en The New England Journal of Medicine (NEJM) que comenta o cuestiona aspectos del estudio sobre pembrolizumab adyuvante más belzutifan (inhibidor de HIF-2α) en carcinoma de células renales. Es la contracara de la respuesta de los autores publicada en el mismo número; juntas permiten ver los puntos de debate sobre el ensayo.",
-      "destacado": false
-    },
-    "a865c5cbadb4": {
-      "resumen": "Estudio publicado en The New England Journal of Medicine (NEJM) que evalúa la combinación de giredestrant, un degradador selectivo oral del receptor de estrógeno (SERD, por sus siglas en inglés), con everolimus, un inhibidor de mTOR, en cáncer de mama avanzado. Interesa porque explora una estrategia de combinación oral, sin quimioterapia, para pacientes con enfermedad resistente a terapias endocrinas previas.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio clínico (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con cáncer de mama avanzado; el título no especifica subtipo, aunque giredestrant se desarrolla principalmente para tumores con receptores hormonales positivos.\nIntervención: Combinación de giredestrant (degradador selectivo oral del receptor de estrógeno) más everolimus (inhibidor de mTOR); el título no menciona un comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el diseño exacto ni el perfil de toxicidad de la combinación.\nMensaje: Si la combinación muestra actividad y tolerabilidad aceptable, podría sumar una opción oral sin quimioterapia para pacientes con cáncer de mama avanzado resistente a terapia endocrina previa.\nNota: análisis sin acceso al abstract."
-    },
-    "acae3b8d6ba2": {
-      "resumen": "OncLive repasa cómo los patrones de resistencia a los inhibidores de FGFR (receptor del factor de crecimiento de fibroblastos) condicionan la secuencia de tratamientos en el colangiocarcinoma, el cáncer de las vías biliares. Es una nota de discusión clínica útil para pensar el orden de las terapias dirigidas disponibles en este tumor con alteraciones de FGFR2.",
-      "destacado": false
-    },
     "f3d72ecdf27c": {
       "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) para el tratamiento del mieloma múltiple. Es una referencia de consulta práctica porque resume las recomendaciones vigentes basadas en la evidencia más reciente para esta neoplasia hematológica.",
       "destacado": false
     },
     "18713319dc2c": {
       "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre las barreras de acceso relacionadas con el seguro médico y el costo de los medicamentos oncológicos orales especializados para cánceres hematológicos, en una muestra nacional estadounidense de pacientes con Medicare y seguro comercial. Interesa porque pone números a un problema que condiciona la adherencia al tratamiento más allá de la indicación médica.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Estudio observacional, probablemente de corte transversal o de cohorte retrospectiva sobre bases de datos administrativas de aseguradoras (Medicare y seguros comerciales) en Estados Unidos; el título no precisa el número de pacientes ni el período analizado.\nPoblación: Pacientes con cánceres hematológicos (blood cancers) que requieren medicación oncológica oral especializada, cubiertos por Medicare o por seguros comerciales, en una muestra nacional de Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de acceso y barreras de costo (copagos, deducibles, autorización previa) a los medicamentos oncológicos orales.\nResultados: No hay cifras de proporción de pacientes con barreras de acceso, montos de costo de bolsillo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios basados en datos administrativos de aseguradoras no siempre capturan todas las vías de asistencia financiera disponibles para el paciente; sin abstract no se puede conocer el ajuste por tipo de cáncer ni por nivel socioeconómico.\nMensaje: Cuantificar las barreras de costo y de cobertura de seguro para medicación oncológica oral es clave para diseñar políticas de acceso y programas de asistencia que eviten que el costo determine el tratamiento recibido.\nNota: análisis sin acceso al abstract."
-    },
-    "9e219edb47a0": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un ensayo clínico aleatorizado y controlado que evalúa estrategias facilitadas de testeo genético en cascada para familiares de personas con variantes patogénicas en BRCA1/2, genes asociados a mayor riesgo de cáncer de mama y ovario hereditario. Interesa porque el testeo en cascada suele tener baja adherencia y este estudio busca mejorarla.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado y controlado; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Familiares de primer y segundo grado de personas portadoras de variantes patogénicas en BRCA1/2 (genes asociados a cáncer de mama y ovario hereditario).\nIntervención: Una estrategia facilitada de testeo genético en cascada (por ejemplo, contacto directo, asistencia para el testeo o derivación simplificada) versus el abordaje estándar de comunicación familiar.\nResultados: No hay cifras de tasa de testeo, tiempo hasta la realización del test ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin abstract no se puede conocer el tamaño muestral, el seguimiento ni el tipo exacto de intervención facilitadora empleada.\nMensaje: Si la estrategia facilitada mejora la tasa de testeo en cascada, podría adoptarse como práctica estándar para identificar más portadores de BRCA1/2 y habilitar prevención o detección temprana en familiares en riesgo.\nNota: análisis sin acceso al abstract."
-    },
-    "b7cbcb284e66": {
-      "resumen": "Los zapatos tabi, con su icónica punta dividida, se instalan como la nueva tendencia de calzado que divide opiniones."
     },
     "795d49b33909": {
       "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Isabel Marant."
@@ -66,41 +38,11 @@
     "b942cf9e4f55": {
       "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Gauchère."
     },
-    "0e4157506750": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Chloé."
-    },
-    "ec79d93ad2a8": {
-      "resumen": "Las uñas color café moka, inspiradas en el estilo de Hailey Bieber, se imponen como la manicura elegante del otoño."
-    },
-    "ef6f1647f1f7": {
-      "resumen": "Una selección de ocho abrigos de Cortefiel, elegantes y abrigados, pensados para no quitarse durante todo el otoño-invierno."
-    },
-    "eea876c37aee": {
-      "resumen": "Vogue México recorre Siembra Comedor, una propuesta gastronómica que parte de la milpa, el sistema tradicional de cultivo mexicano."
-    },
-    "3b6bd22c9ba6": {
-      "resumen": "Blanco, rojo, rosa y otros tonos se consolidan como los colores tendencia para el otoño-invierno 2026."
-    },
-    "56461221728e": {
-      "resumen": "Cinco conjuntos coordinados de Zara, inspirados en las tendencias virales del otoño, arrasan en ventas y prometen vestir bien en octubre."
-    },
     "d1a3277edf59": {
       "resumen": "Jorge Rojas agotó las entradas de su show íntimo Piano & Voz y ya tiene fecha confirmada en Buenos Aires."
     },
-    "8dadf4b059d1": {
-      "resumen": "La soprano María Belén Rivarola se consolida como una de las voces en ascenso de la escena lírica porteña."
-    },
-    "288141b4821c": {
-      "resumen": "Una selección de actividades imperdibles para aprovechar el fin de semana en Buenos Aires."
-    },
     "e1c0f0b42e5b": {
       "resumen": "Una guía de propuestas de música, literatura, gastronomía y cultura para el fin de semana en Buenos Aires."
-    },
-    "19573f83827b": {
-      "resumen": "El cantante venezolano Carlos Baute desembarca en Buenos Aires con una firma de discos y un show especial en el Teatro Ópera."
-    },
-    "28cd880cfd2e": {
-      "resumen": "Buenos Aires desembarca en Madrid con una agenda de tango y teatro en homenaje a Jorge Luis Borges, cuyo legado se conservará en el Instituto Cervantes."
     },
     "5074bb82fb13": {
       "resumen": "Por el Día del Vegetarianismo, una selección de seis lugares porteños para comer sin carne y con mucho sabor."
@@ -111,8 +53,57 @@
     "87161713d9d5": {
       "resumen": "La guía MICHELIN selecciona diez restaurantes imprescindibles para conocer Buenos Aires."
     },
-    "e8851c384024": {
-      "resumen": "Perfil informa que hoteles, restaurantes y librerías quedarán eximidos del pago de ABL durante el primer semestre de 2027 en la Ciudad de Buenos Aires."
+    "79ee3238efd3": {
+      "resumen": "OncLive repasa todos los episodios de su podcast OncLive On Air emitidos durante septiembre de 2026, con entrevistas y discusiones de especialistas en oncología. Sirve como compilado para repasar las novedades del mes en un solo lugar.",
+      "destacado": false
+    },
+    "51c5200bb2c2": {
+      "resumen": "OncLive entrevista al Dr. Anderson sobre las preguntas todavía sin respuesta al momento de elegir el tratamiento para la leucemia linfocítica crónica (LLC). Interesa porque resume el criterio clínico actual frente a un arsenal terapéutico cada vez más amplio para esta enfermedad.",
+      "destacado": false
+    },
+    "e05f30aaa33b": {
+      "resumen": "Journal of Clinical Oncology (JCO) analiza la decisión de Australia de reembolsar de manera tumor-agnóstica (es decir, sin importar el órgano de origen del tumor) la combinación de nivolumab más ipilimumab y el pembrolizumab, presentada como un hito regulatorio internacional. Vale la pena mirarlo porque marca un precedente de política sanitaria sobre cómo financiar la inmunoterapia según biomarcadores y no según el tipo de tumor.",
+      "destacado": false
+    },
+    "309802fb7424": {
+      "resumen": "Journal of Clinical Oncology (JCO) reflexiona sobre cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Toca un tema sensible porque pone el foco en los conflictos de interés que atraviesan la práctica clínica diaria.",
+      "destacado": false
+    },
+    "44ebb40ca22b": {
+      "resumen": "Schiaparelli presentó su colección primavera-verano 2027 de prêt-à-porter (ropa de confección lista para usar, sin medidas a medida), según el repaso de Vogue."
+    },
+    "0bf88f1088d2": {
+      "resumen": "Zara propone cinco tendencias en vestidos para looks de oficina y para cenas con amigas, según ELLE."
+    },
+    "e67595206c16": {
+      "resumen": "Maribel Verdú cumple 56 años y La Razón repasa sus looks más recordados y las claves de un estilo que evita las modas pasajeras."
+    },
+    "aa2ed01f44ab": {
+      "resumen": "Vogue México elige a los zapatos de tacón rojos como los más elegantes del otoño 2026 y toma como ejemplo una combinación de Kate Middleton con pantalones cigarette (rectos y ajustados al tobillo)."
+    },
+    "cb982353bf44": {
+      "resumen": "Vogue México recomienda combinar los pantalones palazzo (anchos y de caída suelta) con botas, mocasines o zapatos de tacón para octubre 2026."
+    },
+    "bec16fa3f64a": {
+      "resumen": "La gala anual de Dallas Contemporary 2026 celebró la influencia global del arte latinoamericano, según el repaso de Vogue México."
+    },
+    "755ac7607284": {
+      "resumen": "Sistema Mexiquense repasa las tendencias del otoño y plantea que vestir bien también es una forma de aprender a mirar."
+    },
+    "b6d60236276f": {
+      "resumen": "Los clásicos de The Beatles llegarán al Teatro Coliseo en una versión sinfónica, según adelanta MDZ Online."
+    },
+    "4452254b3dec": {
+      "resumen": "TN repasa la agenda cultural porteña de la semana, con la música en el Anfiteatro de Parque Centenario como principal propuesta."
+    },
+    "09379479ec16": {
+      "resumen": "iProfesional sugiere planes para el fin de semana en la Capital Federal: un homenaje a Gilda, la feria 'Leer y Comer' y otras opciones."
+    },
+    "d9da956c0073": {
+      "resumen": "El cantante Jorge Rojas estrenó su espectáculo 'Piano & Voz' en Rosario y MDZ Online cuenta cómo fue el show y cuándo llega a Buenos Aires."
+    },
+    "f35e70880d05": {
+      "resumen": "Los Andes presenta la agenda de recitales de octubre que invita a viajar en micro y conectar Mendoza con Buenos Aires."
     }
   }
 }
