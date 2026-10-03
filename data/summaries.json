@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:18:20Z",
+  "generated_at": "2026-10-03T10:17:14Z",
   "summaries": {
     "e05f30aaa33b": {
       "resumen": "Journal of Clinical Oncology (JCO) analiza la decisión de Australia de reembolsar de manera tumor-agnóstica (es decir, sin importar el órgano de origen del tumor) la combinación de nivolumab más ipilimumab y el pembrolizumab, presentada como un hito regulatorio internacional. Vale la pena mirarlo porque marca un precedente de política sanitaria sobre cómo financiar la inmunoterapia según biomarcadores y no según el tipo de tumor.",
@@ -9,41 +9,10 @@
       "resumen": "Journal of Clinical Oncology (JCO) reflexiona sobre cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Toca un tema sensible porque pone el foco en los conflictos de interés que atraviesan la práctica clínica diaria.",
       "destacado": false
     },
-    "f3d72ecdf27c": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la Sociedad Americana de Oncología Clínica (ASCO) para el tratamiento del mieloma múltiple. Es una referencia de consulta práctica porque resume las recomendaciones vigentes basadas en la evidencia más reciente para esta neoplasia hematológica.",
-      "destacado": false
-    },
-    "18713319dc2c": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica un estudio sobre las barreras de acceso relacionadas con el seguro médico y el costo de los medicamentos oncológicos orales especializados para cánceres hematológicos, en una muestra nacional estadounidense de pacientes con Medicare y seguro comercial. Interesa porque pone números a un problema que condiciona la adherencia al tratamiento más allá de la indicación médica.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional, probablemente de corte transversal o de cohorte retrospectiva sobre bases de datos administrativas de aseguradoras (Medicare y seguros comerciales) en Estados Unidos; el título no precisa el número de pacientes ni el período analizado.\nPoblación: Pacientes con cánceres hematológicos (blood cancers) que requieren medicación oncológica oral especializada, cubiertos por Medicare o por seguros comerciales, en una muestra nacional de Estados Unidos.\nIntervención: No aplica intervención terapéutica; se trata de un estudio de acceso y barreras de costo (copagos, deducibles, autorización previa) a los medicamentos oncológicos orales.\nResultados: No hay cifras de proporción de pacientes con barreras de acceso, montos de costo de bolsillo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Los estudios basados en datos administrativos de aseguradoras no siempre capturan todas las vías de asistencia financiera disponibles para el paciente; sin abstract no se puede conocer el ajuste por tipo de cáncer ni por nivel socioeconómico.\nMensaje: Cuantificar las barreras de costo y de cobertura de seguro para medicación oncológica oral es clave para diseñar políticas de acceso y programas de asistencia que eviten que el costo determine el tratamiento recibido.\nNota: análisis sin acceso al abstract."
-    },
     "7bd5f4e15173": {
       "resumen": "The ASCO Post presenta un modelo de inteligencia artificial (IA) que buscaria predecir el riesgo de neumonitis (inflamacion pulmonar) asociada al uso de inmunoterapia en cancer de pulmon. Interesa porque la neumonitis es una toxicidad seria que a veces obliga a suspender el tratamiento, y anticiparla permitiria un seguimiento mas estrecho de los pacientes de mayor riesgo.",
       "destacado": false,
       "analisis": "Diseño: Nota de ASCO Post sobre un estudio que desarrolla y/o valida un modelo de inteligencia artificial (probablemente basado en datos clinicos y/o de imagenes) para predecir el riesgo de neumonitis asociada a inmunoterapia; el titulo no detalla si es un estudio retrospectivo o prospectivo, ni el numero de centros o pacientes incluidos.\nPoblación: Pacientes con cancer de pulmon tratados con inmunoterapia (inhibidores de puntos de control inmunitario), en quienes se evaluo el riesgo de desarrollar neumonitis asociada al tratamiento.\nIntervención: Aplicacion de un modelo predictivo de inteligencia artificial sobre datos clinicos (y probablemente radiologicos) para estratificar el riesgo de neumonitis, sin intervencion terapeutica activa.\nResultados: No hay cifras de sensibilidad, especificidad, area bajo la curva (AUC) ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los modelos predictivos basados en IA suelen requerir validacion externa en cohortes independientes antes de su uso clinico; sin abstract no se puede conocer el tamaño muestral, el origen de los datos ni el riesgo de sesgo del modelo.\nMensaje: Si se valida, una herramienta de este tipo podria ayudar a identificar de manera temprana a los pacientes con mayor riesgo de neumonitis por inmunoterapia, permitiendo un monitoreo mas estrecho y una intervencion mas oportuna.\nNota: análisis sin acceso al abstract."
-    },
-    "25441a17b40b": {
-      "resumen": "OncLive informa que la FDA (Administracion de Alimentos y Medicamentos de EE.UU.) otorgo la designacion de via rapida (Fast Track) a TRE-515 combinado con inhibidores de KRAS para el cancer de pulmon de celulas no pequeñas (NSCLC) con mutacion KRAS G12C en pacientes ya tratados previamente. Interesa porque esta designacion acelera el desarrollo regulatorio de una estrategia combinada para superar la resistencia a los inhibidores de KRAS.",
-      "destacado": false
-    },
-    "27d4c6da1ae1": {
-      "resumen": "The ASCO Post difunde el Informe Anual a la Nacion (Annual Report to the Nation), un relevamiento estadistico conjunto de las principales agencias oncologicas de EE.UU., que muestra que los avances contra el cancer de pulmon vienen impulsando la caida general de la mortalidad por cancer. Es la nota destacada de hoy porque sintetiza una tendencia poblacional de gran impacto clinico y de salud publica.",
-      "destacado": true,
-      "analisis": "Diseño: Informe estadistico anual (Annual Report to the Nation on the Status of Cancer), elaborado de forma conjunta por organismos como el Instituto Nacional del Cancer (NCI), los Centros para el Control y la Prevencion de Enfermedades (CDC), la Sociedad Americana del Cancer y el Comite Norteamericano de Registros de Cancer, que analiza tendencias de incidencia y mortalidad a partir de registros poblacionales de cancer; no es un ensayo clinico sino un analisis de datos de vigilancia epidemiologica a gran escala.\nPoblación: Poblacion general de Estados Unidos con diagnostico de cancer, con foco particular en los pacientes con cancer de pulmon, a partir de registros nacionales de incidencia y mortalidad de multiples años.\nIntervención: No aplica intervencion terapeutica; se analizan tendencias temporales de mortalidad por cancer en relacion con los avances diagnosticos y terapeuticos (como el tamizaje y las nuevas terapias dirigidas e inmunoterapias) incorporados en los ultimos años.\nResultados: El titulo indica que el progreso contra el cancer de pulmon impulsa la caida de la mortalidad general por cancer, pero no hay cifras puntuales de reduccion porcentual de mortalidad ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los informes de registro poblacional reflejan tendencias agregadas y pueden no capturar diferencias regionales, de acceso al sistema de salud o entre subgrupos poblacionales; sin el documento completo no se puede conocer el periodo exacto analizado ni el peso relativo de cada intervencion (tamizaje vs. tratamiento) en la caida de la mortalidad.\nMensaje: La reduccion sostenida de la mortalidad por cancer de pulmon, el tumor que historicamente mas muertes oncologicas produce, confirma que la combinacion de deteccion temprana con tomografia de baja dosis y los nuevos tratamientos dirigidos e inmunoterapias esta teniendo un impacto poblacional real, lo que refuerza la importancia de sostener los programas de tamizaje y el acceso a estas terapias.\nNota: análisis sin acceso al abstract."
-    },
-    "499969009a2c": {
-      "resumen": "The ASCO Post repasa la evidencia sobre si los margenes quirurgicos negativos mas estrechos se asocian a mayor riesgo de recurrencia en el carcinoma ductal in situ (DCIS), la forma no invasiva de cancer de mama. Interesa porque la definicion del margen quirurgico optimo impacta directamente en la indicacion de reoperaciones y en la radioterapia adyuvante.",
-      "destacado": false,
-      "analisis": "Diseño: Probablemente un estudio observacional (cohorte retrospectiva o metaanalisis) que compara el riesgo de recurrencia segun el ancho del margen quirurgico negativo obtenido en la cirugia conservadora del carcinoma ductal in situ (DCIS); el titulo, formulado como pregunta, sugiere que no se precisan el tamaño muestral ni el ancho exacto de los margenes comparados.\nPoblación: Pacientes con diagnostico de carcinoma ductal in situ (DCIS) de mama tratadas con cirugia conservadora (tumorectomia), con distintos anchos de margen quirurgico negativo.\nIntervención: Comparacion de distintos anchos de margen quirurgico negativo (por ejemplo, menor a 2 mm versus margenes mas amplios) tras la cirugia conservadora, con o sin radioterapia adyuvante.\nResultados: No hay cifras de tasas de recurrencia local, razones de riesgo (hazard ratio) ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los estudios retrospectivos sobre margenes quirurgicos suelen tener heterogeneidad en el uso de radioterapia adyuvante y en el seguimiento, lo que puede confundir la asociacion entre ancho de margen y recurrencia; sin abstract no se puede conocer el ajuste por estos factores.\nMensaje: Definir el margen quirurgico minimo seguro en DCIS es clave para evitar reoperaciones innecesarias sin aumentar el riesgo de recurrencia, por lo que este tipo de evidencia ayuda a afinar las guias de manejo quirurgico de esta entidad.\nNota: análisis sin acceso al abstract."
-    },
-    "1154162605e3": {
-      "resumen": "OncLive informa que se inicio la presentacion de la solicitud de nuevo medicamento (NDA, por su sigla en ingles) ante la FDA para zipalertinib combinado con quimioterapia como tratamiento de primera linea del cancer de pulmon de celulas no pequeñas (NSCLC) con insercion en el exon 20 del receptor del factor de crecimiento epidermico (EGFR). Interesa porque este subtipo molecular tiene pocas opciones dirigidas y una aprobacion ampliaria el arsenal terapeutico de primera linea.",
-      "destacado": false
-    },
-    "f6f1d38078ff": {
-      "resumen": "OncLive propone su quiz semanal de noticias con preguntas sobre las ultimas novedades en cancer de pulmon, cancer de mama, sindrome mielodisplasico (SMD) y enfermedad linfoproliferativa post-trasplante (PTLD, por su sigla en ingles). Es una forma rapida de repasar y autoevaluarse sobre las noticias oncologicas mas relevantes de la semana.",
-      "destacado": false
     },
     "aa358bdb5a70": {
       "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Victoria Beckham."
@@ -51,29 +20,8 @@
     "e5927157bd30": {
       "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Giuseppe Di Morabito."
     },
-    "43b5afcb977f": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Yohji Yamamoto."
-    },
-    "b49c4036c85d": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de la marca ArdAzAei."
-    },
-    "5c0753225dad": {
-      "resumen": "Vogue México destaca los zapatos bicolor como la clave de estilo de Katie Holmes para lucir elegante este otoño."
-    },
-    "523b3ade13bb": {
-      "resumen": "Vogue México propone seis maneras elegantes de combinar faldas midi con zapatos de tacón para la oficina en octubre."
-    },
     "54a5e906bc23": {
       "resumen": "Vogue México repasa la presencia de diseñadores latinoamericanos en las semanas de la moda más importantes de 2026."
-    },
-    "509a29db2147": {
-      "resumen": "Zaira Nara y Pampita muestran cómo lucir la tendencia que se impone esta primavera-verano, según eltrecetv."
-    },
-    "95744cd7a39e": {
-      "resumen": "La estilista Erea Louro comparte un truco para lucir el fajín de moda este otoño sin tener que comprar uno nuevo."
-    },
-    "09577d477207": {
-      "resumen": "Marie Claire repasa las tendencias de otoño-invierno 2026-2027: rojo vibrante, denim y básicos renovados."
     },
     "8e1dc63fc6c2": {
       "resumen": "Infobae cuenta la historia de un joven bailarín argentino de 20 años que logró ingresar a una de las academias de ballet más prestigiosas del mundo."
@@ -90,20 +38,78 @@
     "f8c5e187d8ca": {
       "resumen": "El Destape repasa la agenda de recitales y conciertos de octubre de 2026 en Argentina."
     },
-    "189cb379b94d": {
-      "resumen": "Radio 3 Caseros reúne más de 50 planes para el fin de semana del 2 al 4 de octubre en Buenos Aires, entre recitales, teatro, cine, streaming y muestras gratuitas."
-    },
     "ec0d7cae56f2": {
       "resumen": "El Trece informa que el frío y las lluvias previstas complicarán los planes al aire libre del fin de semana en Buenos Aires."
-    },
-    "46257ae65a07": {
-      "resumen": "Noticias de Bariloche repasa opciones de planes para el fin de semana en Buenos Aires."
     },
     "e8851c384024": {
       "resumen": "Perfil informa que hoteles, restaurantes y librerías quedarán exentos del impuesto ABL durante el primer semestre de 2027 en la Ciudad de Buenos Aires."
     },
-    "05d5a0a5b2ac": {
-      "resumen": "iProfesional detalla la exención del impuesto ABL que la Ciudad de Buenos Aires otorgará a hoteles, restaurantes y librerías en 2027."
+    "edd0868bcf2a": {
+      "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), para el tratamiento de primera línea de la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Vale la pena mirarlo porque extiende a la primera línea una clase de fármacos antes reservada a pacientes ya tratados.",
+      "destacado": false
+    },
+    "766a6a5afa86": {
+      "resumen": "Columna de opinión en video de OncLive a cargo del oncólogo Maurie Markman, donde comenta novedades recientes de la actualidad oncológica. Sirve como repaso ágil de los temas que están marcando la agenda del campo esta semana.",
+      "destacado": false
+    },
+    "cdc8d4b4afd9": {
+      "resumen": "OncLive analiza la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de ropeginterferón alfa-2b para la trombocitemia esencial, una neoplasia mieloproliferativa crónica con exceso de plaquetas. Interesa porque suma una opción largamente esperada en una enfermedad con pocas alternativas aprobadas.",
+      "destacado": false
+    },
+    "4e274a56f786": {
+      "resumen": "The ASCO Post confirma la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), como tratamiento de primera línea para la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Es la misma aprobación que cubre OncLive, pero confirma el cambio de paradigma hacia el uso temprano de estos inhibidores.",
+      "destacado": false
+    },
+    "dcb1634587e1": {
+      "resumen": "The ASCO Post entrevista al oncólogo Adam J. Schoenfeld sobre la combinación en investigación de pumitamig y elfetabart drozuntecan (un anticuerpo conjugado a fármaco, o ADC) para el cáncer de pulmón avanzado. Interesa como adelanto de una estrategia combinada todavía en etapas tempranas de desarrollo.",
+      "destacado": false
+    },
+    "bceaf568c965": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización 2026 de la guía de práctica clínica conjunta sobre profilaxis antibacteriana y antifúngica sistémica en pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas (progenitores de la médula ósea). Es una referencia clave para estandarizar cómo prevenir infecciones graves en ese grupo de alto riesgo.",
+      "destacado": false
+    },
+    "ac6d4a01cc64": {
+      "resumen": "Carta de respuesta (Reply) en The New England Journal of Medicine de los autores del trabajo sobre pembrolizumab adyuvante combinado con belzutifan (un inhibidor de HIF-2α) en el carcinoma de células renales, contestando observaciones de otros lectores. Sirve para seguir el debate científico en torno a este esquema adyuvante.",
+      "destacado": false
+    },
+    "f4cdf2d955cd": {
+      "resumen": "Correspondencia en The New England Journal of Medicine que discute el uso adyuvante de pembrolizumab (un inhibidor de punto de control inmunitario anti-PD-1) combinado con belzutifan (un inhibidor de HIF-2α) en el carcinoma de células renales, esquema que busca reducir la recaída tras la cirugía en tumores de alto riesgo. Vale la pena seguirlo porque discute una estrategia adyuvante de punta en un tumor con pocas opciones post-quirúrgicas.",
+      "destacado": false
+    },
+    "a865c5cbadb4": {
+      "resumen": "The New England Journal of Medicine presenta un estudio sobre la combinación de giredestrant (un degradador selectivo oral del receptor de estrógeno, o SERD) y everolimus (un inhibidor de mTOR) en cáncer de mama avanzado con receptores hormonales positivos. Vale la pena mirarlo porque explora una alternativa oral a la quimioterapia para pacientes que progresaron a terapias endocrinas previas.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico publicado como artículo original en The New England Journal of Medicine; el título no precisa la fase, el número de centros ni si fue aleatorizado o con qué cegamiento.\nPoblación: Pacientes con cáncer de mama avanzado o metastásico con receptores hormonales positivos, probablemente ya tratadas con terapia endocrina previa, aunque el título no detalla la línea exacta de tratamiento ni los criterios de inclusión.\nIntervención: Combinación de giredestrant (degradador selectivo oral del receptor de estrógeno, SERD) más everolimus (inhibidor de mTOR); el título no especifica el comparador utilizado en el ensayo.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin el abstract no se puede conocer el tamaño muestral, el perfil de toxicidad combinada (en particular hiperglucemia y neumonitis asociadas a everolimus) ni si el estudio tuvo poder estadístico suficiente para su criterio de valoración principal.\nMensaje: Si los resultados son positivos, esta combinación oral podría ofrecer una alternativa sin quimioterapia para pacientes con cáncer de mama hormonosensible que progresan a terapia endocrina, aunque se necesita el detalle completo de eficacia y seguridad para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "ddbc93c2f317": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Polo Ralph Lauren."
+    },
+    "bbf3b7c2b250": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Caroline Hu."
+    },
+    "281f03341ad9": {
+      "resumen": "Canal26 cuenta cuál es la nueva tendencia decorativa 2026 que reemplaza al clásico árbol de Navidad con luces de colores."
+    },
+    "faf9da8e22e5": {
+      "resumen": "Vogue México cuenta cómo una novia combinó vestidos de Balenciaga, Chanel y Valentino a lo largo de una boda de tres días en Sicilia."
+    },
+    "0d1d15792930": {
+      "resumen": "El diseñador Manuel Krasniqi habla en Men's Health sobre la creciente resistencia a seguir dictados de moda impuestos por las tendencias."
+    },
+    "a2c91b40b8d5": {
+      "resumen": "Carolina Quintana y Daniela Mascareño, de The Image Studio, comparten en Facebook las tendencias de otoño-invierno para vestirse sin perder el estilo propio."
+    },
+    "ead10c67db1a": {
+      "resumen": "Revista Para Ti analiza el auge del athluxury (estilo deportivo de lujo) y cómo el look relajado de Antonela Roccuzzo se volvió tendencia."
+    },
+    "b3eaf8c693db": {
+      "resumen": "La cantante Julia Zenko repasa en AM 1350 Radio Buenos Aires su agenda de shows y sus próximos proyectos teatrales."
+    },
+    "118ad963a1d0": {
+      "resumen": "Meteored Argentina reúne 14 planes y experiencias para hacer en Buenos Aires durante octubre de 2026, desde la muestra de Mafalda hasta Casa FOA."
+    },
+    "0d24961a2615": {
+      "resumen": "Clarín propone más de 50 planes para el fin de semana del 2 al 4 de octubre en Buenos Aires, entre recitales, teatro, cine, streaming y muestras gratuitas."
     }
   }
 }
