@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:17:14Z",
+  "generated_at": "2026-10-03T22:17:22Z",
   "summaries": {
     "e05f30aaa33b": {
       "resumen": "Journal of Clinical Oncology (JCO) analiza la decisión de Australia de reembolsar de manera tumor-agnóstica (es decir, sin importar el órgano de origen del tumor) la combinación de nivolumab más ipilimumab y el pembrolizumab, presentada como un hito regulatorio internacional. Vale la pena mirarlo porque marca un precedente de política sanitaria sobre cómo financiar la inmunoterapia según biomarcadores y no según el tipo de tumor.",
@@ -8,20 +8,6 @@
     "309802fb7424": {
       "resumen": "Journal of Clinical Oncology (JCO) reflexiona sobre cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Toca un tema sensible porque pone el foco en los conflictos de interés que atraviesan la práctica clínica diaria.",
       "destacado": false
-    },
-    "7bd5f4e15173": {
-      "resumen": "The ASCO Post presenta un modelo de inteligencia artificial (IA) que buscaria predecir el riesgo de neumonitis (inflamacion pulmonar) asociada al uso de inmunoterapia en cancer de pulmon. Interesa porque la neumonitis es una toxicidad seria que a veces obliga a suspender el tratamiento, y anticiparla permitiria un seguimiento mas estrecho de los pacientes de mayor riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de ASCO Post sobre un estudio que desarrolla y/o valida un modelo de inteligencia artificial (probablemente basado en datos clinicos y/o de imagenes) para predecir el riesgo de neumonitis asociada a inmunoterapia; el titulo no detalla si es un estudio retrospectivo o prospectivo, ni el numero de centros o pacientes incluidos.\nPoblación: Pacientes con cancer de pulmon tratados con inmunoterapia (inhibidores de puntos de control inmunitario), en quienes se evaluo el riesgo de desarrollar neumonitis asociada al tratamiento.\nIntervención: Aplicacion de un modelo predictivo de inteligencia artificial sobre datos clinicos (y probablemente radiologicos) para estratificar el riesgo de neumonitis, sin intervencion terapeutica activa.\nResultados: No hay cifras de sensibilidad, especificidad, area bajo la curva (AUC) ni intervalos de confianza disponibles a partir del titulo.\nLimitaciones: Los modelos predictivos basados en IA suelen requerir validacion externa en cohortes independientes antes de su uso clinico; sin abstract no se puede conocer el tamaño muestral, el origen de los datos ni el riesgo de sesgo del modelo.\nMensaje: Si se valida, una herramienta de este tipo podria ayudar a identificar de manera temprana a los pacientes con mayor riesgo de neumonitis por inmunoterapia, permitiendo un monitoreo mas estrecho y una intervencion mas oportuna.\nNota: análisis sin acceso al abstract."
-    },
-    "aa358bdb5a70": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Victoria Beckham."
-    },
-    "e5927157bd30": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Giuseppe Di Morabito."
-    },
-    "54a5e906bc23": {
-      "resumen": "Vogue México repasa la presencia de diseñadores latinoamericanos en las semanas de la moda más importantes de 2026."
     },
     "8e1dc63fc6c2": {
       "resumen": "Infobae cuenta la historia de un joven bailarín argentino de 20 años que logró ingresar a una de las academias de ballet más prestigiosas del mundo."
@@ -35,25 +21,8 @@
     "694492f73d7b": {
       "resumen": "La ciudad de La Plata albergará la primera Feria del Libro y la Cultura Indígena de la provincia de Buenos Aires."
     },
-    "f8c5e187d8ca": {
-      "resumen": "El Destape repasa la agenda de recitales y conciertos de octubre de 2026 en Argentina."
-    },
-    "ec0d7cae56f2": {
-      "resumen": "El Trece informa que el frío y las lluvias previstas complicarán los planes al aire libre del fin de semana en Buenos Aires."
-    },
-    "e8851c384024": {
-      "resumen": "Perfil informa que hoteles, restaurantes y librerías quedarán exentos del impuesto ABL durante el primer semestre de 2027 en la Ciudad de Buenos Aires."
-    },
     "edd0868bcf2a": {
       "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), para el tratamiento de primera línea de la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Vale la pena mirarlo porque extiende a la primera línea una clase de fármacos antes reservada a pacientes ya tratados.",
-      "destacado": false
-    },
-    "766a6a5afa86": {
-      "resumen": "Columna de opinión en video de OncLive a cargo del oncólogo Maurie Markman, donde comenta novedades recientes de la actualidad oncológica. Sirve como repaso ágil de los temas que están marcando la agenda del campo esta semana.",
-      "destacado": false
-    },
-    "cdc8d4b4afd9": {
-      "resumen": "OncLive analiza la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de ropeginterferón alfa-2b para la trombocitemia esencial, una neoplasia mieloproliferativa crónica con exceso de plaquetas. Interesa porque suma una opción largamente esperada en una enfermedad con pocas alternativas aprobadas.",
       "destacado": false
     },
     "4e274a56f786": {
@@ -74,33 +43,16 @@
     },
     "f4cdf2d955cd": {
       "resumen": "Correspondencia en The New England Journal of Medicine que discute el uso adyuvante de pembrolizumab (un inhibidor de punto de control inmunitario anti-PD-1) combinado con belzutifan (un inhibidor de HIF-2α) en el carcinoma de células renales, esquema que busca reducir la recaída tras la cirugía en tumores de alto riesgo. Vale la pena seguirlo porque discute una estrategia adyuvante de punta en un tumor con pocas opciones post-quirúrgicas.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado y de fase avanzada) publicado como artículo original en The New England Journal of Medicine; el título no especifica el cegamiento ni la cantidad de centros o de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células renales operado con intención curativa y alto riesgo de recaída, en contexto adyuvante (tratamiento posterior a la cirugía); el título no detalla los criterios de inclusión exactos.\nIntervención: Pembrolizumab (inhibidor de punto de control inmunitario anti-PD-1) combinado con belzutifan (inhibidor de HIF-2α) en el período adyuvante; el título no precisa el comparador del ensayo.\nResultados: No hay cifras de supervivencia libre de enfermedad, supervivencia global, razones de riesgo ni intervalos de confianza disponibles, ya que no se pudo acceder al abstract completo en esta corrida (PubMed no estuvo disponible).\nLimitaciones: Sin el abstract no se puede conocer el tamaño muestral, el perfil de toxicidad de la combinación ni si el estudio alcanzó significancia estadística en su criterio de valoración principal.\nMensaje: Si los resultados son positivos, esta combinación adyuvante podría ampliar las opciones post-quirúrgicas en carcinoma renal de alto riesgo, hoy limitadas en gran medida a inmunoterapia sola; se necesita el detalle completo de eficacia y seguridad para definir su impacto en la práctica.\nNota: análisis sin acceso al abstract."
     },
     "a865c5cbadb4": {
       "resumen": "The New England Journal of Medicine presenta un estudio sobre la combinación de giredestrant (un degradador selectivo oral del receptor de estrógeno, o SERD) y everolimus (un inhibidor de mTOR) en cáncer de mama avanzado con receptores hormonales positivos. Vale la pena mirarlo porque explora una alternativa oral a la quimioterapia para pacientes que progresaron a terapias endocrinas previas.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico publicado como artículo original en The New England Journal of Medicine; el título no precisa la fase, el número de centros ni si fue aleatorizado o con qué cegamiento.\nPoblación: Pacientes con cáncer de mama avanzado o metastásico con receptores hormonales positivos, probablemente ya tratadas con terapia endocrina previa, aunque el título no detalla la línea exacta de tratamiento ni los criterios de inclusión.\nIntervención: Combinación de giredestrant (degradador selectivo oral del receptor de estrógeno, SERD) más everolimus (inhibidor de mTOR); el título no especifica el comparador utilizado en el ensayo.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin el abstract no se puede conocer el tamaño muestral, el perfil de toxicidad combinada (en particular hiperglucemia y neumonitis asociadas a everolimus) ni si el estudio tuvo poder estadístico suficiente para su criterio de valoración principal.\nMensaje: Si los resultados son positivos, esta combinación oral podría ofrecer una alternativa sin quimioterapia para pacientes con cáncer de mama hormonosensible que progresan a terapia endocrina, aunque se necesita el detalle completo de eficacia y seguridad para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "ddbc93c2f317": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Polo Ralph Lauren."
-    },
-    "bbf3b7c2b250": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Caroline Hu."
-    },
     "281f03341ad9": {
       "resumen": "Canal26 cuenta cuál es la nueva tendencia decorativa 2026 que reemplaza al clásico árbol de Navidad con luces de colores."
-    },
-    "faf9da8e22e5": {
-      "resumen": "Vogue México cuenta cómo una novia combinó vestidos de Balenciaga, Chanel y Valentino a lo largo de una boda de tres días en Sicilia."
-    },
-    "0d1d15792930": {
-      "resumen": "El diseñador Manuel Krasniqi habla en Men's Health sobre la creciente resistencia a seguir dictados de moda impuestos por las tendencias."
-    },
-    "a2c91b40b8d5": {
-      "resumen": "Carolina Quintana y Daniela Mascareño, de The Image Studio, comparten en Facebook las tendencias de otoño-invierno para vestirse sin perder el estilo propio."
-    },
-    "ead10c67db1a": {
-      "resumen": "Revista Para Ti analiza el auge del athluxury (estilo deportivo de lujo) y cómo el look relajado de Antonela Roccuzzo se volvió tendencia."
     },
     "b3eaf8c693db": {
       "resumen": "La cantante Julia Zenko repasa en AM 1350 Radio Buenos Aires su agenda de shows y sus próximos proyectos teatrales."
@@ -108,8 +60,56 @@
     "118ad963a1d0": {
       "resumen": "Meteored Argentina reúne 14 planes y experiencias para hacer en Buenos Aires durante octubre de 2026, desde la muestra de Mafalda hasta Casa FOA."
     },
-    "0d24961a2615": {
-      "resumen": "Clarín propone más de 50 planes para el fin de semana del 2 al 4 de octubre en Buenos Aires, entre recitales, teatro, cine, streaming y muestras gratuitas."
+    "8525d21468f0": {
+      "resumen": "OncLive repasa la enmienda publicada por la AUA (American Urological Association, Asociación Americana de Urología) a su guía de práctica clínica sobre el cáncer de vejiga no músculo-invasivo (NMIBC, por sus siglas en inglés). Vale la pena mirarlo porque actualiza recomendaciones de manejo y seguimiento en un tumor con alta tasa de recurrencia.",
+      "destacado": false
+    },
+    "9702b3ef040f": {
+      "resumen": "The ASCO Post entrevista al oncólogo Jonathan W. Goldman sobre esquemas de dosificación en intervalos extendidos de tarlatamab, un anticuerpo biespecífico que une DLL3 y CD3, en el cáncer de pulmón de células pequeñas (SCLC, por sus siglas en inglés). Interesa porque un esquema más espaciado podría mejorar la tolerancia del tratamiento sin resignar eficacia.",
+      "destacado": false
+    },
+    "52a8d4906d20": {
+      "resumen": "OncLive reúne en 'The OncFive' los cinco artículos más relevantes de oncología de la semana del 27 de septiembre de 2026. Sirve como repaso rápido de las noticias que marcaron la agenda esa semana.",
+      "destacado": false
+    },
+    "e47ce2ed8798": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Marine Serre."
+    },
+    "3d41c40295a6": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Ann Demeulemeester."
+    },
+    "8188fe76a9ec": {
+      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Celine."
+    },
+    "3a01f74aeff1": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Comme des Garçons."
+    },
+    "cbb4411844ba": {
+      "resumen": "Vogue México detalla el reparto completo y los personajes de la serie 'Al este del Edén'."
+    },
+    "42c8244e7a3f": {
+      "resumen": "Cosmopolitan señala que los jeans anchos, cómodos y estampados son la tendencia del otoño según Mango y Zara."
+    },
+    "62d284b23387": {
+      "resumen": "Vogue México destaca las blusas color beige de Zara como la tendencia para combinar con faldas, pantalones y jeans en octubre."
+    },
+    "bc666f5bdec3": {
+      "resumen": "Vogue México propone combinar jeans palazzo con botines café como el look elegante de octubre."
+    },
+    "558c97e5a4a3": {
+      "resumen": "HOLA repasa cómo invitadas como la princesa Olympia de Grecia y Marta Ortega marcaron tendencia en la Semana de la Moda de París."
+    },
+    "3b3e601a2b32": {
+      "resumen": "El Destape propone tres planes para un sábado de lluvia en la Ciudad de Buenos Aires: museos, cine y una experiencia inmersiva."
+    },
+    "9af858b49776": {
+      "resumen": "Clarín cuenta que un festival de parrillas en Palermo reúne a las mejores de Buenos Aires y del mundo, con el choripán de Don Julio y el chuletón de Sagardi a $17.000."
+    },
+    "3ffe778c6b22": {
+      "resumen": "Canal26 recomienda un circuito de bodegones y restaurantes en Villa Crespo para después del recital de Robbie Williams, que volvió a Buenos Aires tras 20 años."
+    },
+    "46257ae65a07": {
+      "resumen": "noticiasdebariloche.com.ar propone actividades para hacer en Buenos Aires este fin de semana."
     }
   }
 }
