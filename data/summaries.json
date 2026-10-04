@@ -1,35 +1,26 @@
 {
-  "generated_at": "2026-10-04T10:16:52Z",
+  "generated_at": "2026-10-04T22:19:11Z",
   "summaries": {
     "e05f30aaa33b": {
-      "resumen": "Journal of Clinical Oncology (JCO) analiza la decisión de Australia de reembolsar de manera tumor-agnóstica (es decir, sin importar el órgano de origen del tumor) la combinación de nivolumab más ipilimumab y el pembrolizumab, presentada como un hito regulatorio internacional. Vale la pena mirarlo porque marca un precedente de política sanitaria sobre cómo financiar la inmunoterapia según biomarcadores y no según el tipo de tumor.",
+      "resumen": "Artículo sobre la decisión histórica de Australia de reembolsar inmunoterapia (nivolumab/ipilimumab y pembrolizumab, inhibidores de puntos de control inmunitario) de forma agnóstica al tumor, es decir, sin importar el órgano de origen del cáncer. Marca un precedente de política sanitaria que otros países podrían seguir.",
       "destacado": false
     },
     "309802fb7424": {
-      "resumen": "Journal of Clinical Oncology (JCO) reflexiona sobre cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Toca un tema sensible porque pone el foco en los conflictos de interés que atraviesan la práctica clínica diaria.",
-      "destacado": false
-    },
-    "8e1dc63fc6c2": {
-      "resumen": "Infobae cuenta la historia de un joven bailarín argentino de 20 años que logró ingresar a una de las academias de ballet más prestigiosas del mundo."
+      "resumen": "Analiza cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Un tema sensible y poco visibilizado que toca de cerca la práctica clínica diaria.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un análisis de datos, posiblemente de registros públicos de pagos de la industria cruzados con patrones de prescripción; no se pudo confirmar aleatorización, cegamiento, cantidad de centros ni de pacientes sin el texto completo.\nPoblación: Oncólogos en ejercicio y sus pacientes con cáncer, presumiblemente en Estados Unidos, donde existen registros públicos de pagos tipo Open Payments.\nIntervención: Exposición a pagos de la industria farmacéutica (consultorías, honorarios por conferencias, viajes) versus no exposición.\nResultados: No se pudo obtener del título ninguna cifra de asociación (razón de momios, razón de tasas) entre pagos y patrones de prescripción.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño exacto, el control de factores de confusión, ni la magnitud real de la asociación reportada.\nMensaje: Si se confirma una asociación relevante, refuerza la necesidad de transparencia y de políticas institucionales sobre conflictos de interés en oncología; conviene leer el artículo completo para saber cuánto pesa este efecto en la práctica real.\nNota: análisis sin acceso al abstract."
     },
     "db061ec2b2f7": {
       "resumen": "La Nación propone cinco planes para salir este fin de semana del 3 y 4 de octubre en Buenos Aires."
     },
-    "edd0868bcf2a": {
-      "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), para el tratamiento de primera línea de la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Vale la pena mirarlo porque extiende a la primera línea una clase de fármacos antes reservada a pacientes ya tratados.",
-      "destacado": true
-    },
     "4e274a56f786": {
-      "resumen": "The ASCO Post confirma la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), como tratamiento de primera línea para la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Es la misma aprobación que cubre OncLive, pero confirma el cambio de paradigma hacia el uso temprano de estos inhibidores.",
-      "destacado": false
-    },
-    "dcb1634587e1": {
-      "resumen": "The ASCO Post entrevista al oncólogo Adam J. Schoenfeld sobre la combinación en investigación de pumitamig y elfetabart drozuntecan (un anticuerpo conjugado a fármaco, o ADC) para el cáncer de pulmón avanzado. Interesa como adelanto de una estrategia combinada todavía en etapas tempranas de desarrollo.",
+      "resumen": "La agencia reguladora estadounidense (FDA) aprobó pirtobrutinib, un inhibidor no covalente de la enzima BTK, como primera línea para la leucemia linfocítica crónica y el linfoma linfocítico de células pequeñas (CLL-SLL). Amplía las opciones de primera línea en esta patología hematológica.",
       "destacado": false
     },
     "bceaf568c965": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización 2026 de la guía de práctica clínica conjunta sobre profilaxis antibacteriana y antifúngica sistémica en pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas (progenitores de la médula ósea). Es una referencia clave para estandarizar cómo prevenir infecciones graves en ese grupo de alto riesgo.",
-      "destacado": false
+      "resumen": "Actualización 2026 de la guía de práctica clínica sobre profilaxis antibacteriana y antifúngica sistémica en pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas, publicada en el Journal of Clinical Oncology. Define el estándar de prevención de infecciones graves en un grupo de altísimo riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Guía de práctica clínica actualizada mediante revisión sistemática de la evidencia por un panel multidisciplinario; no es un ensayo clínico original.\nPoblación: Pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas, en riesgo de infecciones bacterianas y fúngicas invasivas.\nIntervención: Recomendaciones de profilaxis antibacteriana y antifúngica sistémica (qué drogas, cuándo iniciar y cuándo discontinuar).\nResultados: No aplica, es un documento de recomendaciones y no reporta un desenlace comparativo propio.\nLimitaciones: No se pudo acceder al texto completo para precisar qué recomendaciones cambiaron respecto de la versión previa ni el nivel de evidencia de cada una.\nMensaje: Los equipos de oncología pediátrica y trasplante deberían actualizar sus protocolos de profilaxis según esta guía 2026 para reducir el riesgo de infecciones graves.\nNota: análisis sin acceso al abstract."
     },
     "b3eaf8c693db": {
       "resumen": "La cantante Julia Zenko repasa en AM 1350 Radio Buenos Aires su agenda de shows y sus próximos proyectos teatrales."
@@ -38,50 +29,22 @@
       "resumen": "Meteored Argentina reúne 14 planes y experiencias para hacer en Buenos Aires durante octubre de 2026, desde la muestra de Mafalda hasta Casa FOA."
     },
     "8525d21468f0": {
-      "resumen": "OncLive repasa la enmienda publicada por la AUA (American Urological Association, Asociación Americana de Urología) a su guía de práctica clínica sobre el cáncer de vejiga no músculo-invasivo (NMIBC, por sus siglas en inglés). Vale la pena mirarlo porque actualiza recomendaciones de manejo y seguimiento en un tumor con alta tasa de recurrencia.",
-      "destacado": false
+      "resumen": "La Asociación Americana de Urología (AUA) publicó una enmienda a su guía de práctica clínica para el cáncer de vejiga no músculo-invasivo (NMIBC, por sus siglas en inglés). Importa porque actualiza recomendaciones de manejo y seguimiento de uso diario en la práctica.",
+      "destacado": false,
+      "analisis": "Diseño: Enmienda a una guía de práctica clínica de la AUA, basada en revisión de evidencia por panel de expertos; no es un ensayo clínico nuevo.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo (NMIBC).\nIntervención: Actualización de recomendaciones de diagnóstico, tratamiento intravesical y seguimiento según la evidencia disponible.\nResultados: No aplica, al ser una guía no reporta un desenlace comparativo propio.\nLimitaciones: El título no detalla qué puntos cambiaron ni la evidencia que los sustenta; no se pudo acceder al documento completo.\nMensaje: Quienes tratan NMIBC deberían revisar la guía actualizada para alinear la práctica con la recomendación vigente, confirmando en el texto completo qué cambió exactamente.\nNota: análisis sin acceso al abstract."
     },
     "9702b3ef040f": {
-      "resumen": "The ASCO Post entrevista al oncólogo Jonathan W. Goldman sobre esquemas de dosificación en intervalos extendidos de tarlatamab, un anticuerpo biespecífico que une DLL3 y CD3, en el cáncer de pulmón de células pequeñas (SCLC, por sus siglas en inglés). Interesa porque un esquema más espaciado podría mejorar la tolerancia del tratamiento sin resignar eficacia.",
+      "resumen": "Entrevista al oncólogo Jonathan Goldman sobre esquemas de dosificación con intervalos extendidos de tarlatamab, un anticuerpo biespecífico que une DLL3 y CD3, usado en cáncer de pulmón a células pequeñas (CPCP). Explora si espaciar las dosis mejora la calidad de vida sin perder eficacia.",
       "destacado": false
     },
     "52a8d4906d20": {
-      "resumen": "OncLive reúne en 'The OncFive' los cinco artículos más relevantes de oncología de la semana del 27 de septiembre de 2026. Sirve como repaso rápido de las noticias que marcaron la agenda esa semana.",
+      "resumen": "Resumen semanal de OncLive con los cinco artículos de oncología más leídos de la semana, útil como repaso rápido de lo más relevante publicado en el área.",
       "destacado": false
     },
     "f3d72ecdf27c": {
-      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la ASCO (American Society of Clinical Oncology, Sociedad Americana de Oncología Clínica) sobre el tratamiento del mieloma múltiple, un cáncer de las células plasmáticas de la médula ósea. Al tratarse de una guía viva, se revisa de forma continua a medida que surge nueva evidencia, por lo que vale la pena tenerla como referencia vigente para las decisiones terapéuticas en este tumor hematológico.",
-      "destacado": false
-    },
-    "e47ce2ed8798": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Marine Serre."
-    },
-    "3d41c40295a6": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Ann Demeulemeester."
-    },
-    "8188fe76a9ec": {
-      "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Celine."
-    },
-    "900a07e0aeac": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Alaïa."
-    },
-    "3d2fcb60e95b": {
-      "resumen": "vozpopuli asegura que los pantalones capri reemplazan a las bermudas como la tendencia del otoño, con las famosas ya luciéndolos en looks elegantes y modernos."
-    },
-    "59f677d5bf50": {
-      "resumen": "clara.es repasa los jeans que serán tendencia este otoño-invierno 2026-2027, desde los rectos clásicos hasta los 'cigarette'."
-    },
-    "2bc81f19e60f": {
-      "resumen": "Telva recorre las prendas tendencia de Parfois, de la chaqueta de ante al animal print, para renovar el placard de otoño sin gastar de más."
-    },
-    "adad33b95a17": {
-      "resumen": "El Mueble destaca los vestidos a cuadros de estilo vintage de Cortefiel, la tendencia que esta temporada reemplaza a las flores y las rayas."
-    },
-    "8677d388276a": {
-      "resumen": "Vogue México publica la lista completa de ganadores de los Premios Ariel 2026, que distinguen lo mejor del cine mexicano."
-    },
-    "a8cd80fcc94b": {
-      "resumen": "Vogue México cuenta cómo Shakira recreó un look de los años 2000 con minivestido y botas altas."
+      "resumen": "Nueva versión (2026.1.3) de la guía viva de la Sociedad Americana de Oncología Clínica (ASCO) para el tratamiento del mieloma múltiple, que se actualiza de forma continua a medida que aparece evidencia nueva. Es la referencia obligada para ordenar el tratamiento de esta neoplasia hematológica en la práctica diaria.",
+      "destacado": true,
+      "analisis": "Diseño: Guía viva (living guideline) de ASCO, actualizada de forma continua mediante revisión sistemática y panel de expertos; no es un ensayo clínico nuevo sino una síntesis y actualización de la evidencia disponible.\nPoblación: Pacientes con mieloma múltiple, en distintas líneas de tratamiento (inducción, mantenimiento y recaída o refractariedad).\nIntervención: Recomendaciones de esquemas de tratamiento (combinaciones con inhibidores de proteasoma, inmunomoduladores, anticuerpos monoclonales anti-CD38 y terapias celulares) según línea y perfil de riesgo del paciente.\nResultados: No aplica, al ser una guía no reporta un desenlace comparativo de un ensayo puntual, sino recomendaciones graduadas según la evidencia que las sustenta.\nLimitaciones: No se pudo acceder al documento completo para precisar qué recomendaciones se modificaron en esta versión 2026.1.3 respecto de la anterior.\nMensaje: Los equipos que tratan mieloma múltiple deberían revisar esta actualización para asegurarse de que sus esquemas de primera línea, mantenimiento y manejo de la recaída estén alineados con la recomendación vigente de ASCO.\nNota: análisis sin acceso al abstract."
     },
     "3b3e601a2b32": {
       "resumen": "El Destape propone tres planes para un sábado de lluvia en la Ciudad de Buenos Aires: museos, cine y una experiencia inmersiva."
@@ -89,17 +52,58 @@
     "9af858b49776": {
       "resumen": "Clarín cuenta que un festival de parrillas en Palermo reúne a las mejores de Buenos Aires y del mundo, con el choripán de Don Julio y el chuletón de Sagardi a $17.000."
     },
-    "46257ae65a07": {
-      "resumen": "noticiasdebariloche.com.ar propone actividades para hacer en Buenos Aires este fin de semana."
-    },
-    "b23a445ace36": {
-      "resumen": "Expreso cuenta que Buenos Aires desembarca en Madrid con una agenda de octubre dedicada al legado del escritor Jorge Luis Borges."
-    },
     "138632dd3347": {
       "resumen": "Rolling Stone repasa el show de la banda alemana Die Toten Hosen en el Vorterix, la inesperada fiesta punk de 'Los Tito del Once'."
     },
     "b528a2da9b35": {
       "resumen": "El Intransigente repasa el horóscopo chino del 2 al 4 de octubre con recomendaciones para cada día del fin de semana."
+    },
+    "3f2d69cdf017": {
+      "resumen": "Selección semanal de OncLive con los cinco videos de oncología más vistos, pensada para repasar rápido las entrevistas y noticias más relevantes de la semana. No es un estudio sino una guía de contenidos.",
+      "destacado": false
+    },
+    "1acc171da238": {
+      "resumen": "Entrevista a la oncóloga Julia Rotow sobre el uso de trastuzumab deruxtecan (T-DXd, un anticuerpo conjugado a quimioterapia dirigido contra HER2) como primera línea en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con mutación en HER2. Interesa porque resume hacia dónde se mueve esta droga en etapas más tempranas del tratamiento.",
+      "destacado": false
+    },
+    "5e0e582eed77": {
+      "resumen": "Las imágenes y el análisis del desfile de alta costura pret-à-porter de Jean Paul Gaultier para la temporada primavera 2027."
+    },
+    "958683a8cc18": {
+      "resumen": "Un repaso por la colección pret-à-porter primavera 2027 de Mugler presentada en las pasarelas."
+    },
+    "321d18528ba3": {
+      "resumen": "La propuesta pret-à-porter primavera 2027 de la diseñadora Mira Mikati, pasada en revista."
+    },
+    "e98ecfe591af": {
+      "resumen": "La colección pret-à-porter primavera 2027 de la diseñadora colombiana Johanna Ortiz."
+    },
+    "cd846c03e6be": {
+      "resumen": "Consejos de estilo inspirados en Sassa de Osma para lucir bermudas durante el otoño."
+    },
+    "9f2ccd4a1b11": {
+      "resumen": "La cantante Céline Dion volvió a la escena pública y mostró looks elegantes pensados para mujeres mayores de 50 años de cara al otoño 2026."
+    },
+    "6f6860de7e1a": {
+      "resumen": "Zara presentó tres modelos básicos de vestidos tendencia para este otoño, ideales para combinar con botas altas o bailarinas."
+    },
+    "f0ebc9f51d79": {
+      "resumen": "Los looks de las invitadas más elegantes del fin de semana en España anticipan las tendencias para las bodas de octubre."
+    },
+    "2fbe225b6f66": {
+      "resumen": "Una campera de Zara combina tres de las tendencias más fuertes de este 2026 en una sola prenda."
+    },
+    "b2f25ccdc681": {
+      "resumen": "Las sandalias planas de estilo francés que se usarán con faldas y vestidos en la primavera-verano 2027."
+    },
+    "5d2400be1bec": {
+      "resumen": "La agenda cultural de octubre en la Comuna 12 incluye milongas, cumbia, teatro y música en vivo."
+    },
+    "84fdb87c60fa": {
+      "resumen": "Buenos Aires tendrá presencia en Madrid durante octubre con actividades centradas en el legado de Jorge Luis Borges."
+    },
+    "3ffe778c6b22": {
+      "resumen": "El cantante Robbie Williams volvió a tocar en Buenos Aires después de 20 años, y se armó un circuito de bodegones y restaurantes en Villa Crespo para ir antes o después del show."
     }
   }
 }
