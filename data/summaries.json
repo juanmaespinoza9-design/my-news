@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:17:22Z",
+  "generated_at": "2026-10-04T10:16:52Z",
   "summaries": {
     "e05f30aaa33b": {
       "resumen": "Journal of Clinical Oncology (JCO) analiza la decisión de Australia de reembolsar de manera tumor-agnóstica (es decir, sin importar el órgano de origen del tumor) la combinación de nivolumab más ipilimumab y el pembrolizumab, presentada como un hito regulatorio internacional. Vale la pena mirarlo porque marca un precedente de política sanitaria sobre cómo financiar la inmunoterapia según biomarcadores y no según el tipo de tumor.",
@@ -15,15 +15,9 @@
     "db061ec2b2f7": {
       "resumen": "La Nación propone cinco planes para salir este fin de semana del 3 y 4 de octubre en Buenos Aires."
     },
-    "5f34218f6346": {
-      "resumen": "Urgente24 repasa los planes del fin de semana en el Área Metropolitana de Buenos Aires (AMBA): la muestra Viva Frida, una expo de alfajores, una experiencia inmersiva de Mafalda y más propuestas."
-    },
-    "694492f73d7b": {
-      "resumen": "La ciudad de La Plata albergará la primera Feria del Libro y la Cultura Indígena de la provincia de Buenos Aires."
-    },
     "edd0868bcf2a": {
       "resumen": "OncLive informa que la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), para el tratamiento de primera línea de la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Vale la pena mirarlo porque extiende a la primera línea una clase de fármacos antes reservada a pacientes ya tratados.",
-      "destacado": false
+      "destacado": true
     },
     "4e274a56f786": {
       "resumen": "The ASCO Post confirma la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de pirtobrutinib, un inhibidor no covalente de BTK (tirosina quinasa de Bruton), como tratamiento de primera línea para la leucemia linfocítica crónica (LLC) y el linfoma linfocítico de células pequeñas (LLCP). Es la misma aprobación que cubre OncLive, pero confirma el cambio de paradigma hacia el uso temprano de estos inhibidores.",
@@ -36,23 +30,6 @@
     "bceaf568c965": {
       "resumen": "Journal of Clinical Oncology (JCO) publica la actualización 2026 de la guía de práctica clínica conjunta sobre profilaxis antibacteriana y antifúngica sistémica en pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas (progenitores de la médula ósea). Es una referencia clave para estandarizar cómo prevenir infecciones graves en ese grupo de alto riesgo.",
       "destacado": false
-    },
-    "ac6d4a01cc64": {
-      "resumen": "Carta de respuesta (Reply) en The New England Journal of Medicine de los autores del trabajo sobre pembrolizumab adyuvante combinado con belzutifan (un inhibidor de HIF-2α) en el carcinoma de células renales, contestando observaciones de otros lectores. Sirve para seguir el debate científico en torno a este esquema adyuvante.",
-      "destacado": false
-    },
-    "f4cdf2d955cd": {
-      "resumen": "Correspondencia en The New England Journal of Medicine que discute el uso adyuvante de pembrolizumab (un inhibidor de punto de control inmunitario anti-PD-1) combinado con belzutifan (un inhibidor de HIF-2α) en el carcinoma de células renales, esquema que busca reducir la recaída tras la cirugía en tumores de alto riesgo. Vale la pena seguirlo porque discute una estrategia adyuvante de punta en un tumor con pocas opciones post-quirúrgicas.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (probablemente aleatorizado y de fase avanzada) publicado como artículo original en The New England Journal of Medicine; el título no especifica el cegamiento ni la cantidad de centros o de pacientes incluidos.\nPoblación: Pacientes con carcinoma de células renales operado con intención curativa y alto riesgo de recaída, en contexto adyuvante (tratamiento posterior a la cirugía); el título no detalla los criterios de inclusión exactos.\nIntervención: Pembrolizumab (inhibidor de punto de control inmunitario anti-PD-1) combinado con belzutifan (inhibidor de HIF-2α) en el período adyuvante; el título no precisa el comparador del ensayo.\nResultados: No hay cifras de supervivencia libre de enfermedad, supervivencia global, razones de riesgo ni intervalos de confianza disponibles, ya que no se pudo acceder al abstract completo en esta corrida (PubMed no estuvo disponible).\nLimitaciones: Sin el abstract no se puede conocer el tamaño muestral, el perfil de toxicidad de la combinación ni si el estudio alcanzó significancia estadística en su criterio de valoración principal.\nMensaje: Si los resultados son positivos, esta combinación adyuvante podría ampliar las opciones post-quirúrgicas en carcinoma renal de alto riesgo, hoy limitadas en gran medida a inmunoterapia sola; se necesita el detalle completo de eficacia y seguridad para definir su impacto en la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "a865c5cbadb4": {
-      "resumen": "The New England Journal of Medicine presenta un estudio sobre la combinación de giredestrant (un degradador selectivo oral del receptor de estrógeno, o SERD) y everolimus (un inhibidor de mTOR) en cáncer de mama avanzado con receptores hormonales positivos. Vale la pena mirarlo porque explora una alternativa oral a la quimioterapia para pacientes que progresaron a terapias endocrinas previas.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico publicado como artículo original en The New England Journal of Medicine; el título no precisa la fase, el número de centros ni si fue aleatorizado o con qué cegamiento.\nPoblación: Pacientes con cáncer de mama avanzado o metastásico con receptores hormonales positivos, probablemente ya tratadas con terapia endocrina previa, aunque el título no detalla la línea exacta de tratamiento ni los criterios de inclusión.\nIntervención: Combinación de giredestrant (degradador selectivo oral del receptor de estrógeno, SERD) más everolimus (inhibidor de mTOR); el título no especifica el comparador utilizado en el ensayo.\nResultados: No hay cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni intervalos de confianza disponibles a partir del título.\nLimitaciones: Sin el abstract no se puede conocer el tamaño muestral, el perfil de toxicidad combinada (en particular hiperglucemia y neumonitis asociadas a everolimus) ni si el estudio tuvo poder estadístico suficiente para su criterio de valoración principal.\nMensaje: Si los resultados son positivos, esta combinación oral podría ofrecer una alternativa sin quimioterapia para pacientes con cáncer de mama hormonosensible que progresan a terapia endocrina, aunque se necesita el detalle completo de eficacia y seguridad para definir su lugar en la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "281f03341ad9": {
-      "resumen": "Canal26 cuenta cuál es la nueva tendencia decorativa 2026 que reemplaza al clásico árbol de Navidad con luces de colores."
     },
     "b3eaf8c693db": {
       "resumen": "La cantante Julia Zenko repasa en AM 1350 Radio Buenos Aires su agenda de shows y sus próximos proyectos teatrales."
@@ -72,6 +49,10 @@
       "resumen": "OncLive reúne en 'The OncFive' los cinco artículos más relevantes de oncología de la semana del 27 de septiembre de 2026. Sirve como repaso rápido de las noticias que marcaron la agenda esa semana.",
       "destacado": false
     },
+    "f3d72ecdf27c": {
+      "resumen": "Journal of Clinical Oncology (JCO) publica la actualización versión 2026.1.3 de la guía viva (living guideline) de la ASCO (American Society of Clinical Oncology, Sociedad Americana de Oncología Clínica) sobre el tratamiento del mieloma múltiple, un cáncer de las células plasmáticas de la médula ósea. Al tratarse de una guía viva, se revisa de forma continua a medida que surge nueva evidencia, por lo que vale la pena tenerla como referencia vigente para las decisiones terapéuticas en este tumor hematológico.",
+      "destacado": false
+    },
     "e47ce2ed8798": {
       "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Marine Serre."
     },
@@ -81,23 +62,26 @@
     "8188fe76a9ec": {
       "resumen": "Vogue repasa la colección primavera 2027 de prêt-à-porter de Celine."
     },
-    "3a01f74aeff1": {
-      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Comme des Garçons."
+    "900a07e0aeac": {
+      "resumen": "Vogue presenta la colección primavera 2027 de prêt-à-porter de Alaïa."
     },
-    "cbb4411844ba": {
-      "resumen": "Vogue México detalla el reparto completo y los personajes de la serie 'Al este del Edén'."
+    "3d2fcb60e95b": {
+      "resumen": "vozpopuli asegura que los pantalones capri reemplazan a las bermudas como la tendencia del otoño, con las famosas ya luciéndolos en looks elegantes y modernos."
     },
-    "42c8244e7a3f": {
-      "resumen": "Cosmopolitan señala que los jeans anchos, cómodos y estampados son la tendencia del otoño según Mango y Zara."
+    "59f677d5bf50": {
+      "resumen": "clara.es repasa los jeans que serán tendencia este otoño-invierno 2026-2027, desde los rectos clásicos hasta los 'cigarette'."
     },
-    "62d284b23387": {
-      "resumen": "Vogue México destaca las blusas color beige de Zara como la tendencia para combinar con faldas, pantalones y jeans en octubre."
+    "2bc81f19e60f": {
+      "resumen": "Telva recorre las prendas tendencia de Parfois, de la chaqueta de ante al animal print, para renovar el placard de otoño sin gastar de más."
     },
-    "bc666f5bdec3": {
-      "resumen": "Vogue México propone combinar jeans palazzo con botines café como el look elegante de octubre."
+    "adad33b95a17": {
+      "resumen": "El Mueble destaca los vestidos a cuadros de estilo vintage de Cortefiel, la tendencia que esta temporada reemplaza a las flores y las rayas."
     },
-    "558c97e5a4a3": {
-      "resumen": "HOLA repasa cómo invitadas como la princesa Olympia de Grecia y Marta Ortega marcaron tendencia en la Semana de la Moda de París."
+    "8677d388276a": {
+      "resumen": "Vogue México publica la lista completa de ganadores de los Premios Ariel 2026, que distinguen lo mejor del cine mexicano."
+    },
+    "a8cd80fcc94b": {
+      "resumen": "Vogue México cuenta cómo Shakira recreó un look de los años 2000 con minivestido y botas altas."
     },
     "3b3e601a2b32": {
       "resumen": "El Destape propone tres planes para un sábado de lluvia en la Ciudad de Buenos Aires: museos, cine y una experiencia inmersiva."
@@ -105,11 +89,17 @@
     "9af858b49776": {
       "resumen": "Clarín cuenta que un festival de parrillas en Palermo reúne a las mejores de Buenos Aires y del mundo, con el choripán de Don Julio y el chuletón de Sagardi a $17.000."
     },
-    "3ffe778c6b22": {
-      "resumen": "Canal26 recomienda un circuito de bodegones y restaurantes en Villa Crespo para después del recital de Robbie Williams, que volvió a Buenos Aires tras 20 años."
-    },
     "46257ae65a07": {
       "resumen": "noticiasdebariloche.com.ar propone actividades para hacer en Buenos Aires este fin de semana."
+    },
+    "b23a445ace36": {
+      "resumen": "Expreso cuenta que Buenos Aires desembarca en Madrid con una agenda de octubre dedicada al legado del escritor Jorge Luis Borges."
+    },
+    "138632dd3347": {
+      "resumen": "Rolling Stone repasa el show de la banda alemana Die Toten Hosen en el Vorterix, la inesperada fiesta punk de 'Los Tito del Once'."
+    },
+    "b528a2da9b35": {
+      "resumen": "El Intransigente repasa el horóscopo chino del 2 al 4 de octubre con recomendaciones para cada día del fin de semana."
     }
   }
 }
