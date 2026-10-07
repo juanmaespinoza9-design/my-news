@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:18:20Z",
+  "generated_at": "2026-10-07T10:18:17Z",
   "summaries": {
     "e05f30aaa33b": {
       "resumen": "Artículo sobre la decisión histórica de Australia de reembolsar inmunoterapia (nivolumab/ipilimumab y pembrolizumab, inhibidores de puntos de control inmunitario) de forma agnóstica al tumor, es decir, sin importar el órgano de origen del cáncer. Marca un precedente de política sanitaria que otros países podrían seguir.",
@@ -18,16 +18,8 @@
     "54c4a938552f": {
       "resumen": "Hoteles y restaurantes de Buenos Aires ya pueden inscribirse en el programa Stopover para sumarse a la iniciativa turística."
     },
-    "f3d72ecdf27c": {
-      "resumen": "Nueva actualización de la guía viva de la Sociedad Americana de Oncología Clínica (ASCO) sobre el tratamiento del mieloma múltiple, publicada en el Journal of Clinical Oncology. Al ser una guía \"viva\" se actualiza de forma continua a medida que surge evidencia nueva, por lo que conviene revisarla para estar al día con los esquemas recomendados.",
-      "destacado": false,
-      "analisis": "Diseño: Guía de práctica clínica \"viva\" (actualización continua) elaborada por un panel de expertos de ASCO mediante revisión sistemática de la evidencia disponible; no es un ensayo clínico original.\nPoblación: Pacientes con mieloma múltiple en sus distintas líneas de tratamiento (diagnóstico reciente, recaída o refractariedad).\nIntervención: Recomendaciones sobre los esquemas de tratamiento disponibles para mieloma múltiple (quimioterapia, inmunoterapia, terapias dirigidas, trasplante), según línea de tratamiento.\nResultados: No aplica; es un documento de recomendaciones y no reporta un desenlace comparativo propio.\nLimitaciones: Sin el texto completo no se puede precisar qué recomendaciones específicas cambiaron en esta versión 2026.1.3 respecto de la anterior, ni el nivel de evidencia de cada recomendación.\nMensaje: Los equipos de hematología y oncología deberían revisar esta actualización para alinear sus esquemas de tratamiento de mieloma múltiple con la evidencia más reciente avalada por ASCO.\nNota: análisis sin acceso al abstract."
-    },
     "461835c2d6ff": {
       "resumen": "Diez lugares para festejar el Día del Amigo en grupo en Buenos Aires."
-    },
-    "e76b77636d42": {
-      "resumen": "La agenda de Buenos Aires para el fin de semana largo de octubre combina deporte, arte y ferias."
     },
     "1f6612af24f9": {
       "resumen": "La Ciudad prepara su oferta turística y cultural para el fin de semana largo de octubre."
@@ -36,15 +28,6 @@
       "resumen": "Firmonertinib es un inhibidor de tirosina quinasa (ITK) de EGFR de tercera generación en investigación para el cáncer de pulmón de células no pequeñas (CPCNP) con inserciones en el exón 20 del gen EGFR. En un ensayo de primera línea no alcanzó su objetivo principal de supervivencia libre de progresión (SLP). Importa porque frena a una de las apuestas más esperadas para este subtipo molecular de difícil tratamiento.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de primera línea (fase no precisada en la fuente); no se detallan aleatorización, ciego ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas con inserciones en el exón 20 de EGFR, sin tratamiento previo.\nIntervención: Firmonertinib frente a un comparador no especificado en la fuente (probablemente quimioterapia o un esquema con anticuerpo biespecífico).\nResultados: El estudio no alcanzó el criterio principal de supervivencia libre de progresión; no hay cifras de magnitud del efecto disponibles.\nLimitaciones: Sin acceso al abstract completo faltan datos de hazard ratio, intervalos de confianza, valor de p y seguridad.\nMensaje: Un resultado negativo que, de confirmarse, descarta por ahora a firmonertinib como primera línea en este subgrupo y reabre la pregunta de cuál es el mejor estándar para EGFR exón 20.\nNota: análisis sin acceso al abstract."
-    },
-    "dd8b4a6b79d6": {
-      "resumen": "Entrevista en video al Dr. Dhakal sobre el desarrollo de nuevas estrategias de terapia con células CAR-T (receptor de antígeno quimérico) para el mieloma múltiple. Sirve para seguir la evolución de este campo en rápido crecimiento dentro de la oncohematología, aunque no reporta los datos de un estudio puntual.",
-      "destacado": false
-    },
-    "1d315333f49c": {
-      "resumen": "Carotuximab es un anticuerpo monoclonal en investigación dirigido contra endoglina que, combinado con apalutamida (antiandrógeno de segunda generación), mostró mejoría en la supervivencia libre de progresión en cáncer de próstata resistente a la castración metastásico (mCRPC). Interesa porque explora una vía nueva para sumar a la terapia hormonal en este escenario de progresión.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (fase no precisada en la fuente); no se detallan aleatorización, ciego ni número de centros o pacientes.\nPoblación: Varones con cáncer de próstata resistente a la castración metastásico (mCRPC).\nIntervención: Carotuximab más apalutamida frente a un comparador no especificado (probablemente apalutamida sola).\nResultados: Se reporta mejoría en la supervivencia libre de progresión; no se dispone de las cifras exactas (hazard ratio, intervalo de confianza, valor de p).\nLimitaciones: Falta el abstract completo; no hay datos de supervivencia global, perfil de toxicidad ni tamaño muestral.\nMensaje: Resultado preliminar alentador que, de confirmarse con datos maduros y de seguridad, podría sumar una combinación nueva en mCRPC; todavía es temprano para cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
     "b11d7ed1c365": {
       "resumen": "Blinatumomab es un anticuerpo biespecífico (anti-CD19/CD3) que redirige linfocitos T para destruir células leucémicas. Un estudio en leucemia linfoblástica aguda (LLA) pediátrica de alto riesgo mostró que reemplazar bloques de quimioterapia intensiva por blinatumomab mejora los resultados. Es relevante porque podría reducir la toxicidad del tratamiento sin resignar eficacia en una población pediátrica vulnerable.",
@@ -72,41 +55,65 @@
     "10c542360c90": {
       "resumen": "La colección primavera 2027 de la firma española Dominnico."
     },
-    "ebefc825a970": {
-      "resumen": "Un resumen de las tendencias que dejó la Semana de la Moda de París para la temporada primavera-verano 2027, vistas desde la primera fila."
-    },
-    "fdf444fbbc71": {
-      "resumen": "Quince peinados típicos de los años 90 que vuelven a ponerse de moda este otoño 2026."
-    },
-    "42ab79a622b6": {
-      "resumen": "Anteojos de sol combinados con pañuelo: el dúo de accesorios que marcará las tendencias del verano 2027."
-    },
-    "3f6e8058e206": {
-      "resumen": "Faldas midi al estilo de la reina Letizia, una opción elegante para combinar con zapatos de taco este octubre."
-    },
-    "c6c9b342edd9": {
-      "resumen": "Quiénes fueron las celebridades, de Dua Lipa a Pedro Pascal, que ocuparon la primera fila del desfile primavera-verano 2027 de Chanel."
-    },
-    "1c9aa34bb5ad": {
-      "resumen": "Cómo arrancan las tendencias de otoño en las calles de Málaga, según el estilo callejero local."
-    },
     "a4b039cf81d1": {
       "resumen": "Buenos Aires Ballet presenta una gala en el Teatro Auditorium de Mar del Plata."
-    },
-    "3199de8ff4b6": {
-      "resumen": "La Maga Caro llega a Buenos Aires con su espectáculo \"Sintonía Mágica\": fechas y entradas."
-    },
-    "417c57802af9": {
-      "resumen": "Una agenda de octubre con festivales, música y arte para hacer en la ciudad."
-    },
-    "919df51883af": {
-      "resumen": "La Xunta impulsa la proyección internacional del teatro gallego con la coproducción \"A Gaviota, ensaio aberto\"."
     },
     "d2997eab9c97": {
       "resumen": "Dos ferias gastronómicas para aprovechar en la Ciudad de Buenos Aires el fin de semana del 10 y 11 de octubre."
     },
     "3b3e601a2b32": {
       "resumen": "Tres planes bajo techo para el sábado lluvioso en la Ciudad: museos, cine y una experiencia inmersiva."
+    },
+    "177c8d87d477": {
+      "resumen": "Nota de opinión de OncLive que plantea que la atención de sobrevivientes de cáncer de mama necesita un cambio sistémico riguroso, no solo ajustes puntuales, para cubrir mejor los efectos a largo plazo del tratamiento. Vale la pena leerla porque pone en agenda un aspecto históricamente desatendido: la vida después del tratamiento oncológico.",
+      "destacado": false
+    },
+    "d6c867f9c602": {
+      "resumen": "Artículo de OncLive sobre las necesidades clínicas no resueltas en el uso de inhibidores de puntos de control inmunitario (immune checkpoint inhibitors) guiado por biomarcadores. Importa porque identificar qué biomarcador define mejor a quién tratar con inmunoterapia sigue siendo una de las preguntas abiertas más relevantes en oncología.",
+      "destacado": false
+    },
+    "d5c65e4e78a6": {
+      "resumen": "Ensayo clínico de fase III aleatorizado que evaluó la sitagliptina (un inhibidor de la dipeptidil peptidasa-4, DPP-4) para prevenir la enfermedad aguda de injerto contra huésped (EICH aguda) en trasplantes con donante alternativo. Interesa porque la EICH aguda es una de las complicaciones más temidas del trasplante de células hematopoyéticas y hoy no hay una profilaxis ideal.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado (según el título); no se especifican en la fuente el cegamiento, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Pacientes sometidos a trasplante alogénico de células hematopoyéticas con donante alternativo (no emparentado o haploidéntico), en riesgo de enfermedad aguda de injerto contra huésped.\nIntervención: Sitagliptina (inhibidor de DPP-4) como profilaxis de EICH aguda, frente a un comparador no especificado en la fuente (probablemente placebo o profilaxis estándar).\nResultados: No se dispone de cifras de incidencia de EICH aguda, supervivencia ni intervalos de confianza sin el abstract completo.\nLimitaciones: Sin el texto completo no se puede valorar el tamaño del efecto, la seguridad ni si el ensayo cumplió su criterio principal.\nMensaje: Si el ensayo es positivo, podría sumar una alternativa de bajo costo y perfil de seguridad conocido a la profilaxis de EICH aguda en trasplantes de alto riesgo; conviene revisar el artículo completo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "ac6d4a01cc64": {
+      "resumen": "Respuesta de los autores dentro de un intercambio de cartas en NEJM sobre el estudio de pembrolizumab (un inhibidor de PD-1) combinado con belzutifán (un inhibidor de HIF-2α) como tratamiento adyuvante del carcinoma de células renales. Es la réplica a observaciones de otros lectores sobre el ensayo original, no un estudio nuevo.",
+      "destacado": false
+    },
+    "f4cdf2d955cd": {
+      "resumen": "Carta a la revista NEJM con comentarios sobre un ensayo de pembrolizumab (inhibidor de PD-1) más belzutifán (inhibidor de HIF-2α) como terapia adyuvante en carcinoma de células renales. Es parte de un intercambio de correspondencia sobre el estudio original y no reporta datos nuevos por sí misma.",
+      "destacado": false
+    },
+    "1e6264686301": {
+      "resumen": "Una editora de Vogue adelanta los 28 productos que va a comprar en la Fiesta de Ofertas Prime 2026 de Amazon."
+    },
+    "289521aea976": {
+      "resumen": "Louis Vuitton mostró en París las cinco tendencias que van a marcar la primavera de 2027."
+    },
+    "a2460d80b4d0": {
+      "resumen": "Un análisis sobre cómo la industria de la moda, a fuerza de tendencias cada vez más rápidas, alimenta el hiperconsumo entre las mujeres."
+    },
+    "0745239068c6": {
+      "resumen": "Zara renueva su vidriera con piezas clave de la temporada: desde una camisa especial y una pollera con efecto cuero hasta las clásicas bailarinas que ya se volvieron un básico."
+    },
+    "3c6f9da22a71": {
+      "resumen": "El street style marca la tendencia: estas son las cinco carteras más codiciadas de esta temporada de otoño."
+    },
+    "e62e602917a2": {
+      "resumen": "Una marca histórica de relojería lanzó una colección de alta joyería inspirada en su reloj emblema, el Royal Oak."
+    },
+    "eb93fb670c7f": {
+      "resumen": "Vuelve la iniciativa \"Vení al Teatro\", que ofrece grandes descuentos para ver obras en Buenos Aires."
+    },
+    "25ba38b1be7f": {
+      "resumen": "El programa \"Vení al Teatro\" regresa con entradas hasta un 90% más baratas para ver espectáculos en Buenos Aires."
+    },
+    "697eca80e675": {
+      "resumen": "Una agenda con las fiestas populares y los eventos gratuitos para disfrutar en la Provincia de Buenos Aires entre el 8 y el 15 de octubre."
+    },
+    "e2a0aba5dbfc": {
+      "resumen": "Una guía con propuestas de deporte, arte y ferias para aprovechar el fin de semana largo de octubre en Buenos Aires."
     }
   }
 }
