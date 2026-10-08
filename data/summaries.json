@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-10-08T10:18:41Z",
+  "generated_at": "2026-10-08T22:18:26Z",
   "summaries": {
-    "d2c79f8938ed": {
-      "resumen": "Nota de OncLive sobre la investigación en curso de un nuevo inhibidor de MEK (proteína quinasa activada por mitógenos, una vía clave en la proliferación tumoral) para cáncer de páncreas, que busca un mejor equilibrio entre eficacia y tolerabilidad que los inhibidores de MEK previos. Vale la pena seguirlo porque la toxicidad fue históricamente la limitante de esta clase de drogas en este tumor.",
+    "50a705db1179": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el uso de atezolizumab (un inhibidor del punto de control inmunitario PD-L1) junto con quimioterapia adyuvante para el cáncer de colon en estadio III con deficiencia de reparación de errores de apareamiento (dMMR, por sus siglas en inglés), una alteración molecular asociada a mayor respuesta a la inmunoterapia. Relevante porque incorpora la inmunoterapia al tratamiento adyuvante estándar en un subgrupo molecular bien definido.",
       "destacado": false
     },
-    "59b7ba4bf4b3": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el esquema de tucatinib (un inhibidor de la tirosina quinasa HER2) junto con trastuzumab y pertuzumab (dos anticuerpos monoclonales anti-HER2) como mantenimiento de primera línea en cáncer de mama HER2 positivo avanzado. Importa porque amplía las opciones de mantenimiento en un subtipo agresivo de la enfermedad.",
+    "af9dbd5b0cfd": {
+      "resumen": "La FDA otorgó la designación de Vía Rápida (Fast Track) a VIR-5500, un anticuerpo biespecífico en desarrollo para el cáncer de próstata metastásico resistente a la castración (mCRPC, por sus siglas en inglés). Esta designación agiliza la revisión regulatoria de fármacos en investigación para enfermedades graves sin tratamientos satisfactorios, lo que puede acelerar su llegada a la práctica clínica.",
       "destacado": false
     },
-    "e568e9610563": {
-      "resumen": "Resumen de OncLive con las 8 decisiones regulatorias más relevantes que tomó la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) en oncología durante septiembre. Útil como repaso rápido del panorama regulatorio del mes.",
+    "8e26c3b8a78e": {
+      "resumen": "La Administración Nacional de Productos Médicos de China (NMPA, por sus siglas en inglés) aprobó datopotamab deruxtecán (Dato-DXd, un anticuerpo conjugado a droga dirigido a la proteína TROP2) para el cáncer de mama triple negativo metastásico (TNBC, por sus siglas en inglés) en pacientes que no son candidatas a inhibición de PD-(L)1 (una vía regulatoria del sistema inmunitario). Importa porque amplía una opción dirigida para un subgrupo sin alternativas de inmunoterapia.",
       "destacado": false
     },
-    "810f83655bc8": {
-      "resumen": "The ASCO Post repasa la misma aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) del esquema triple de mantenimiento para cáncer de mama HER2 positivo avanzado. Sirve como confirmación desde otra fuente especializada de un cambio regulatorio relevante para la práctica.",
-      "destacado": false
+    "b075343e4d51": {
+      "resumen": "La esofagectomía robótica (cirugía de resección del esófago asistida por robot) se asoció a una mayor cantidad de ganglios linfáticos extraídos en comparación con otras técnicas quirúrgicas en pacientes con cáncer de esófago. Interesa porque un mayor rendimiento ganglionar mejora la precisión de la estadificación y puede influir en las decisiones de tratamiento adyuvante.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio comparativo (probablemente retrospectivo o de cohorte) entre esofagectomía robótica y otras técnicas quirúrgicas; la fuente no detalla aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de esófago sometidos a esofagectomía (resección quirúrgica del esófago).\nIntervención: Esofagectomía asistida por robot frente a abordajes quirúrgicos convencionales (abierta o laparoscópica).\nResultados: Se reporta mayor rendimiento ganglionar (lymph node yield) con el abordaje robótico; no hay cifras concretas de número de ganglios, supervivencia ni valores de p disponibles en el título.\nLimitaciones: Sin el texto completo no se puede evaluar el sesgo de selección, el volumen quirúrgico de los centros ni si el mayor rendimiento ganglionar se traduce en mejor supervivencia.\nMensaje: Sugiere una ventaja técnica de la cirugía robótica en la calidad de la estadificación ganglionar, pero no alcanza para cambiar el estándar quirúrgico sin datos de impacto en la supervivencia a largo plazo.\nNota: análisis sin acceso al abstract."
     },
-    "9d8943057863": {
-      "resumen": "Un estudio observacional sugiere que el uso de agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), usados para diabetes y obesidad, se asocia a menor riesgo de cáncer colorrectal en pacientes con enfermedad inflamatoria intestinal (EII). Interesa porque abre una potencial estrategia de quimioprevención en una población ya de por sí en riesgo aumentado de este tumor.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título parece un estudio observacional (probablemente de cohorte) con datos de bases de salud; no se especifican en la fuente aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con enfermedad inflamatoria intestinal (enfermedad de Crohn o colitis ulcerosa), que ya tienen mayor riesgo basal de cáncer colorrectal.\nIntervención: Uso de agonistas del receptor de GLP-1 frente a no uso, evaluado de forma retrospectiva.\nResultados: Se reporta una asociación con menor riesgo de cáncer colorrectal; no hay cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles en el título.\nLimitaciones: Al ser observacional no puede establecer causalidad; sin el texto completo no se puede evaluar el control de factores de confusión (actividad de la enfermedad, otros fármacos, índice de masa corporal) ni el tiempo de seguimiento.\nMensaje: Un hallazgo hipótesis-generador que, de confirmarse en estudios prospectivos, podría sumar a los agonistas de GLP-1 un rol de quimioprevención en enfermedad inflamatoria intestinal; todavía no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
+    "ef04f2fee14b": {
+      "resumen": "La Sociedad Estadounidense del Cáncer (ACS, por sus siglas en inglés) publicó un informe sobre la carga de cáncer y las disparidades en el acceso a estudios de detección temprana (screening) en la población hispana de Estados Unidos. Relevante porque identifica brechas específicas en un grupo poblacional numeroso y en crecimiento, útil para pensar políticas de prevención.",
+      "destacado": false,
+      "analisis": "Diseño: Informe descriptivo/epidemiológico de la Sociedad Estadounidense del Cáncer (ACS), probablemente basado en registros poblacionales de incidencia y mortalidad; no es un ensayo clínico ni tiene aleatorización.\nPoblación: Población hispana/latina de Estados Unidos, comparada con otros grupos poblacionales en incidencia, mortalidad y tasas de detección temprana (screening).\nIntervención: No aplica (es un informe observacional/registro, no una intervención terapéutica).\nResultados: El informe señala disparidades en la carga de cáncer y en el acceso a métodos de detección temprana; no se dispone de cifras concretas de incidencia, mortalidad ni tasas de screening sin el documento completo.\nLimitaciones: Los datos de registros poblacionales pueden subestimar a subgrupos sin cobertura de salud; un informe descriptivo no permite establecer causalidad de las disparidades encontradas.\nMensaje: Pone en agenda la necesidad de estrategias de detección temprana y acceso a salud dirigidas específicamente a la población hispana, para reducir brechas ya documentadas en otros grupos minoritarios.\nNota: análisis sin acceso al abstract."
     },
-    "70f4184d3a96": {
-      "resumen": "La NCCN (Red Nacional Integral del Cáncer, por sus siglas en inglés) publicó su primera guía de práctica clínica específica para el sarcoma óseo pediátrico. Importa porque estandariza el diagnóstico y el tratamiento de estos tumores raros en niños y adolescentes, hasta ahora sin un documento de referencia propio.",
+    "dc1daefb8584": {
+      "resumen": "Artículo de revisión de The ASCO Post sobre cuál es el momento óptimo para iniciar la colonoscopía de vigilancia (seguimiento endoscópico) después de extirpar un pólipo adenomatoso de alto riesgo en el colon. Útil como actualización práctica para ajustar los intervalos de control en estos pacientes.",
       "destacado": false
     },
     "60f0190f5064": {
@@ -40,47 +41,50 @@
     },
     "21d9bf8f0538": {
       "resumen": "NRG-BR002 es un ensayo clínico fase II/III aleatorizado que evaluó si sumar ablación dirigida a las metástasis (radioterapia estereotáctica o cirugía) a la terapia sistémica de primera línea mejora los resultados en cáncer de mama oligometastásico (enfermedad con pocas lesiones a distancia). Relevante porque busca definir el rol de tratar agresivamente cada metástasis en esta población.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase II/III, aleatorizado, según el título; no se especifican en la fuente el cegamiento, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Pacientes con cáncer de mama oligometastásico (enfermedad metastásica con pocas lesiones a distancia) que reciben terapia sistémica de primera línea.\nIntervención: Ablación dirigida a las metástasis (radioterapia estereotáctica o cirugía, según el diseño del estudio NRG-BR002) sumada a la terapia sistémica, frente a terapia sistémica sola.\nResultados: No se dispone de cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza sin el abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño del efecto, la potencia estadística del estudio ni los criterios de valoración secundarios.\nMensaje: Si confirma beneficio, podría respaldar el uso rutinario de la ablación dirigida a metástasis en el manejo del cáncer de mama oligometastásico; de no confirmarlo, refuerza mantener la terapia sistémica sola como estándar.\nNota: análisis sin acceso al abstract."
     },
-    "7c6459fdbf27": {
-      "resumen": "La colección primavera 2027 ready-to-wear del diseñador Tokyo James, presentada en la Semana de la Moda."
+    "25fc607ed640": {
+      "resumen": "La colección primavera 2027 de moda masculina del diseñador Derrick, presentada en la Semana de la Moda."
     },
-    "8a4fd753b5d4": {
-      "resumen": "La colección primavera 2027 ready-to-wear de la marca australiana Lee Mathews."
+    "61d0bd8c5676": {
+      "resumen": "La colección primavera 2027 ready-to-wear de la diseñadora Julie de Libran."
     },
-    "b3c62aec5b18": {
-      "resumen": "La colección primavera 2027 ready-to-wear de la diseñadora Melitta Baumeister."
+    "abaf8ab1fe23": {
+      "resumen": "La colección primavera 2027 ready-to-wear de la marca Telfar."
     },
-    "6c4f7a07640d": {
-      "resumen": "Las prendas, los trucos y la tendencia que ya adoptaron las editoras de moda más elegantes para este otoño."
+    "a782584dfe55": {
+      "resumen": "Kendall Jenner también se sumó a la tendencia de la falda midi, combinada con zapatos de suela blanda."
     },
-    "30dd893b21c4": {
-      "resumen": "A los 56 años, un repaso por las claves del estilo clásico y sobrio del actor Matt Damon, que se mantiene vigente con el tiempo."
+    "4f571696ff89": {
+      "resumen": "Siete ideas de conjuntos con falda midi y zapatos de tacón para lucir elegante este otoño."
     },
-    "d0b98c44e913": {
-      "resumen": "Por qué los estilos de los años 90 que usaban las madres de hoy siguen marcando tendencia en España tres décadas después."
+    "eb9198b6ea9b": {
+      "resumen": "Fflur Roberts y Christina Lyon analizan hacia dónde va la industria del lujo en el encuentro LuxuryLab Global."
     },
-    "49cd07cd3c79": {
-      "resumen": "Quién fue la diseñadora británica Vivienne Westwood, referente de la moda punk, y cómo recrear su estilo sin gastar de más."
+    "41a173ce42a9": {
+      "resumen": "Cuatro chaquetas de moda para otoño-invierno que abrigan como un tapado y mejoran cualquier look."
     },
-    "82a957dfa5fe": {
-      "resumen": "La modelo Akima cuenta cómo vivió su participación en la Semana de la Moda de París."
+    "4797ea1e39bf": {
+      "resumen": "Las cuatro tendencias de El Corte Inglés para eventos de esta temporada, vistas en la fiesta de los Premios Fashion al Talento."
     },
-    "1c6e524b493b": {
-      "resumen": "Los actores Ana Valeria Becerril, Leo Deluglio, Macarena García y Edu Maruri protagonizan una nueva campaña de moda con una estética sensual."
+    "b7675fb91d5b": {
+      "resumen": "El look de Gabriela Sabatini en París que deja ver cuál será la gran tendencia de moda de 2027."
+    },
+    "7ba0ed133c9b": {
+      "resumen": "Cinco recomendaciones de obras de teatro para ver este octubre en Buenos Aires."
+    },
+    "78dabbc5702f": {
+      "resumen": "MUTEK.AR 2026 llega con cinco días de música electrónica, arte digital y propuestas para repensar el uso de la ciudad."
+    },
+    "e73a64689e50": {
+      "resumen": "Siete restaurantes recomendados para un almuerzo de alto nivel en Buenos Aires."
     },
     "da6cdd439ed6": {
       "resumen": "El Teatro Colón ofrece un concierto matutino de la Filarmónica con entrada gratuita por el Día de la Madre."
     },
-    "06b48e222e77": {
-      "resumen": "El Teatro Florencio Sánchez de Paysandú, Uruguay, cumplió 150 años y los celebró con un repaso de su historia y patrimonio cultural."
-    },
     "4af0ba06df1e": {
       "resumen": "El grupo Campedrinos cerró su gira en el Teatro Ópera con un show de folklore, invitados especiales y una puesta bien argentina."
-    },
-    "9a32225394af": {
-      "resumen": "Las bandas de death metal Malevolent Creation y Mystic Circle se presentan en Argentina."
     },
     "60bbd06bdca9": {
       "resumen": "Una agenda de actividades de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
@@ -96,15 +100,6 @@
     },
     "d2997eab9c97": {
       "resumen": "Dos ferias gastronómicas para aprovechar en la Ciudad de Buenos Aires el fin de semana del 10 y 11 de octubre."
-    },
-    "461835c2d6ff": {
-      "resumen": "Diez lugares para festejar el Día del Amigo en grupo en Buenos Aires."
-    },
-    "4f3f8001210a": {
-      "resumen": "Expertos advierten que la temporada de gripe podría adelantarse este año y recomiendan vacunarse cuanto antes."
-    },
-    "47e0ef6b6f27": {
-      "resumen": "Un estudio vincula la obsesión por el desarrollo muscular con problemas sexuales en hombres."
     }
   }
 }
