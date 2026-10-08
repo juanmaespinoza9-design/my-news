@@ -1,92 +1,83 @@
 {
-  "generated_at": "2026-10-07T22:18:21Z",
+  "generated_at": "2026-10-08T10:18:41Z",
   "summaries": {
-    "e05f30aaa33b": {
-      "resumen": "Artículo sobre la decisión histórica de Australia de reembolsar inmunoterapia (nivolumab/ipilimumab y pembrolizumab, inhibidores de puntos de control inmunitario) de forma agnóstica al tumor, es decir, sin importar el órgano de origen del cáncer. Marca un precedente de política sanitaria que otros países podrían seguir.",
+    "d2c79f8938ed": {
+      "resumen": "Nota de OncLive sobre la investigación en curso de un nuevo inhibidor de MEK (proteína quinasa activada por mitógenos, una vía clave en la proliferación tumoral) para cáncer de páncreas, que busca un mejor equilibrio entre eficacia y tolerabilidad que los inhibidores de MEK previos. Vale la pena seguirlo porque la toxicidad fue históricamente la limitante de esta clase de drogas en este tumor.",
       "destacado": false
     },
-    "309802fb7424": {
-      "resumen": "Analiza cómo los pagos de la industria farmacéutica a oncólogos (honorarios, viajes, consultorías) pueden influir en las decisiones de tratamiento del cáncer. Un tema sensible y poco visibilizado que toca de cerca la práctica clínica diaria.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un análisis de datos, posiblemente de registros públicos de pagos de la industria cruzados con patrones de prescripción; no se pudo confirmar aleatorización, cegamiento, cantidad de centros ni de pacientes sin el texto completo.\nPoblación: Oncólogos en ejercicio y sus pacientes con cáncer, presumiblemente en Estados Unidos, donde existen registros públicos de pagos tipo Open Payments.\nIntervención: Exposición a pagos de la industria farmacéutica (consultorías, honorarios por conferencias, viajes) versus no exposición.\nResultados: No se pudo obtener del título ninguna cifra de asociación (razón de momios, razón de tasas) entre pagos y patrones de prescripción.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño exacto, el control de factores de confusión, ni la magnitud real de la asociación reportada.\nMensaje: Si se confirma una asociación relevante, refuerza la necesidad de transparencia y de políticas institucionales sobre conflictos de interés en oncología; conviene leer el artículo completo para saber cuánto pesa este efecto en la práctica real.\nNota: análisis sin acceso al abstract."
+    "59b7ba4bf4b3": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el esquema de tucatinib (un inhibidor de la tirosina quinasa HER2) junto con trastuzumab y pertuzumab (dos anticuerpos monoclonales anti-HER2) como mantenimiento de primera línea en cáncer de mama HER2 positivo avanzado. Importa porque amplía las opciones de mantenimiento en un subtipo agresivo de la enfermedad.",
+      "destacado": false
     },
-    "bceaf568c965": {
-      "resumen": "Actualización 2026 de la guía de práctica clínica sobre profilaxis antibacteriana y antifúngica sistémica en pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas, publicada en el Journal of Clinical Oncology. Define el estándar de prevención de infecciones graves en un grupo de altísimo riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Guía de práctica clínica actualizada mediante revisión sistemática de la evidencia por un panel multidisciplinario; no es un ensayo clínico original.\nPoblación: Pacientes pediátricos con cáncer y receptores de trasplante de células hematopoyéticas, en riesgo de infecciones bacterianas y fúngicas invasivas.\nIntervención: Recomendaciones de profilaxis antibacteriana y antifúngica sistémica (qué drogas, cuándo iniciar y cuándo discontinuar).\nResultados: No aplica, es un documento de recomendaciones y no reporta un desenlace comparativo propio.\nLimitaciones: No se pudo acceder al texto completo para precisar qué recomendaciones cambiaron respecto de la versión previa ni el nivel de evidencia de cada una.\nMensaje: Los equipos de oncología pediátrica y trasplante deberían actualizar sus protocolos de profilaxis según esta guía 2026 para reducir el riesgo de infecciones graves.\nNota: análisis sin acceso al abstract."
+    "e568e9610563": {
+      "resumen": "Resumen de OncLive con las 8 decisiones regulatorias más relevantes que tomó la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) en oncología durante septiembre. Útil como repaso rápido del panorama regulatorio del mes.",
+      "destacado": false
     },
-    "54c4a938552f": {
-      "resumen": "Hoteles y restaurantes de Buenos Aires ya pueden inscribirse en el programa Stopover para sumarse a la iniciativa turística."
-    },
-    "461835c2d6ff": {
-      "resumen": "Diez lugares para festejar el Día del Amigo en grupo en Buenos Aires."
-    },
-    "83999c12c493": {
-      "resumen": "Un repaso por la colección primavera 2027 de Self-Portrait, presentada en la Semana de la Moda."
-    },
-    "90eb0cc70097": {
-      "resumen": "La colección primavera 2027 de Louis Vuitton, mostrada en la pasarela de la casa francesa."
-    },
-    "d2997eab9c97": {
-      "resumen": "Dos ferias gastronómicas para aprovechar en la Ciudad de Buenos Aires el fin de semana del 10 y 11 de octubre."
-    },
-    "d5c65e4e78a6": {
-      "resumen": "Ensayo clínico de fase III aleatorizado que evaluó la sitagliptina (un inhibidor de la dipeptidil peptidasa-4, DPP-4) para prevenir la enfermedad aguda de injerto contra huésped (EICH aguda) en trasplantes con donante alternativo. Interesa porque la EICH aguda es una de las complicaciones más temidas del trasplante de células hematopoyéticas y hoy no hay una profilaxis ideal.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado (según el título); no se especifican en la fuente el cegamiento, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Pacientes sometidos a trasplante alogénico de células hematopoyéticas con donante alternativo (no emparentado o haploidéntico), en riesgo de enfermedad aguda de injerto contra huésped.\nIntervención: Sitagliptina (inhibidor de DPP-4) como profilaxis de EICH aguda, frente a un comparador no especificado en la fuente (probablemente placebo o profilaxis estándar).\nResultados: No se dispone de cifras de incidencia de EICH aguda, supervivencia ni intervalos de confianza sin el abstract completo.\nLimitaciones: Sin el texto completo no se puede valorar el tamaño del efecto, la seguridad ni si el ensayo cumplió su criterio principal.\nMensaje: Si el ensayo es positivo, podría sumar una alternativa de bajo costo y perfil de seguridad conocido a la profilaxis de EICH aguda en trasplantes de alto riesgo; conviene revisar el artículo completo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "eb93fb670c7f": {
-      "resumen": "Vuelve la iniciativa \"Vení al Teatro\", que ofrece grandes descuentos para ver obras en Buenos Aires."
-    },
-    "697eca80e675": {
-      "resumen": "Una agenda con las fiestas populares y los eventos gratuitos para disfrutar en la Provincia de Buenos Aires entre el 8 y el 15 de octubre."
+    "810f83655bc8": {
+      "resumen": "The ASCO Post repasa la misma aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) del esquema triple de mantenimiento para cáncer de mama HER2 positivo avanzado. Sirve como confirmación desde otra fuente especializada de un cambio regulatorio relevante para la práctica.",
+      "destacado": false
     },
     "9d8943057863": {
       "resumen": "Un estudio observacional sugiere que el uso de agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), usados para diabetes y obesidad, se asocia a menor riesgo de cáncer colorrectal en pacientes con enfermedad inflamatoria intestinal (EII). Interesa porque abre una potencial estrategia de quimioprevención en una población ya de por sí en riesgo aumentado de este tumor.",
       "destacado": true,
       "analisis": "Diseño: Por el título parece un estudio observacional (probablemente de cohorte) con datos de bases de salud; no se especifican en la fuente aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con enfermedad inflamatoria intestinal (enfermedad de Crohn o colitis ulcerosa), que ya tienen mayor riesgo basal de cáncer colorrectal.\nIntervención: Uso de agonistas del receptor de GLP-1 frente a no uso, evaluado de forma retrospectiva.\nResultados: Se reporta una asociación con menor riesgo de cáncer colorrectal; no hay cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles en el título.\nLimitaciones: Al ser observacional no puede establecer causalidad; sin el texto completo no se puede evaluar el control de factores de confusión (actividad de la enfermedad, otros fármacos, índice de masa corporal) ni el tiempo de seguimiento.\nMensaje: Un hallazgo hipótesis-generador que, de confirmarse en estudios prospectivos, podría sumar a los agonistas de GLP-1 un rol de quimioprevención en enfermedad inflamatoria intestinal; todavía no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "4400d24a4c8c": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de Terapia Innovadora a temab-A para el cáncer de pulmón de células no pequeñas (CPCNP) no escamoso con expresión de c-Met, en pacientes ya tratados previamente. Vale la pena seguirlo porque acelera el camino regulatorio de una droga dirigida a una diana molecular con pocas opciones aprobadas.",
-      "destacado": false
-    },
     "70f4184d3a96": {
       "resumen": "La NCCN (Red Nacional Integral del Cáncer, por sus siglas en inglés) publicó su primera guía de práctica clínica específica para el sarcoma óseo pediátrico. Importa porque estandariza el diagnóstico y el tratamiento de estos tumores raros en niños y adolescentes, hasta ahora sin un documento de referencia propio.",
       "destacado": false
     },
-    "0fcba877701e": {
-      "resumen": "Se anunciaron los ganadores del Premio Albany 2026, uno de los galardones más prestigiosos en investigación médica de Estados Unidos. Interesa para seguir de cerca a los investigadores y líneas de trabajo que marcan tendencia en oncología y ciencias biomédicas.",
+    "60f0190f5064": {
+      "resumen": "Artículo de opinión en el Journal of Clinical Oncology que plantea la necesidad de una infraestructura nacional de evidencia para fortalecer la predicción de respuesta al tratamiento en cada paciente dentro de la oncología de precisión. Interesa como mirada a futuro sobre cómo debería organizarse la evidencia clínica para decisiones más personalizadas.",
       "destacado": false
     },
-    "6074a87a8f37": {
-      "resumen": "La FDA otorgó la designación de Terapia Innovadora a la combinación de telisotuzumab adizutecán (un conjugado anticuerpo-fármaco dirigido a c-Met) más bevacizumab (un anticuerpo antiangiogénico anti-VEGF) para el cáncer colorrectal metastásico (CCRm) refractario. Relevante porque suma una opción para pacientes que ya agotaron las líneas de tratamiento estándar.",
+    "bd478e771065": {
+      "resumen": "Carta de respuesta en el Journal of Clinical Oncology sobre si la extensión de la disección de ganglios linfáticos actúa como factor de confusión en estudios de inmunoterapia perioperatoria. Un intercambio técnico entre autores que ayuda a entender mejor cómo interpretar esos ensayos.",
       "destacado": false
     },
-    "e7030ff70e23": {
-      "resumen": "Un análisis compara la tolerabilidad de sotorasib y adagrasib, dos inhibidores orales de KRAS G12C usados en cáncer de pulmón de células no pequeñas con esa mutación. Útil en la práctica diaria porque ayuda a elegir entre ambas drogas según el perfil de efectos adversos de cada paciente.",
+    "6e8c2b0c9822": {
+      "resumen": "Fe de erratas del Journal of Clinical Oncology sobre el artículo \"If Exercise Were a Pill, We'd All Prescribe It to Patients With Cancer. But It's Not\", que discute el rol del ejercicio físico en el tratamiento oncológico. Solo corrige un dato del texto original, no cambia sus conclusiones.",
+      "destacado": false
+    },
+    "21d9bf8f0538": {
+      "resumen": "NRG-BR002 es un ensayo clínico fase II/III aleatorizado que evaluó si sumar ablación dirigida a las metástasis (radioterapia estereotáctica o cirugía) a la terapia sistémica de primera línea mejora los resultados en cáncer de mama oligometastásico (enfermedad con pocas lesiones a distancia). Relevante porque busca definir el rol de tratar agresivamente cada metástasis en esta población.",
       "destacado": false,
-      "analisis": "Diseño: Por el título parece un análisis comparativo (posiblemente una revisión de datos de ensayos clínicos o de vida real) de tolerabilidad entre dos fármacos; no se especifican en la fuente el diseño exacto, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas con mutación KRAS G12C, tratados con sotorasib o adagrasib.\nIntervención: Sotorasib frente a adagrasib, ambos inhibidores orales de KRAS G12C.\nResultados: No se dispone en el título de cifras de incidencia de eventos adversos, discontinuación de tratamiento ni significancia estadística.\nLimitaciones: Sin el texto completo no se puede saber si la comparación es directa (head-to-head) o indirecta entre estudios distintos, lo que limita la validez de las conclusiones.\nMensaje: Puede orientar la elección entre ambos inhibidores de KRAS G12C según el perfil de toxicidad esperado (por ejemplo, hepatotoxicidad o eventos gastrointestinales), aunque la decisión final debe individualizarse por paciente.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico de fase II/III, aleatorizado, según el título; no se especifican en la fuente el cegamiento, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Pacientes con cáncer de mama oligometastásico (enfermedad metastásica con pocas lesiones a distancia) que reciben terapia sistémica de primera línea.\nIntervención: Ablación dirigida a las metástasis (radioterapia estereotáctica o cirugía, según el diseño del estudio NRG-BR002) sumada a la terapia sistémica, frente a terapia sistémica sola.\nResultados: No se dispone de cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza sin el abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño del efecto, la potencia estadística del estudio ni los criterios de valoración secundarios.\nMensaje: Si confirma beneficio, podría respaldar el uso rutinario de la ablación dirigida a metástasis en el manejo del cáncer de mama oligometastásico; de no confirmarlo, refuerza mantener la terapia sistémica sola como estándar.\nNota: análisis sin acceso al abstract."
+    },
+    "7c6459fdbf27": {
+      "resumen": "La colección primavera 2027 ready-to-wear del diseñador Tokyo James, presentada en la Semana de la Moda."
+    },
+    "8a4fd753b5d4": {
+      "resumen": "La colección primavera 2027 ready-to-wear de la marca australiana Lee Mathews."
     },
     "b3c62aec5b18": {
       "resumen": "La colección primavera 2027 ready-to-wear de la diseñadora Melitta Baumeister."
     },
-    "c72e5d86cfc1": {
-      "resumen": "Quiénes integran el reparto y los personajes de El Círculo, la serie mexicana de Netflix."
+    "6c4f7a07640d": {
+      "resumen": "Las prendas, los trucos y la tendencia que ya adoptaron las editoras de moda más elegantes para este otoño."
     },
-    "6f18523025c9": {
-      "resumen": "Cómo la inteligencia artificial ya se metió en la moda, con modelos virtuales, robots y nuevas tendencias."
+    "30dd893b21c4": {
+      "resumen": "A los 56 años, un repaso por las claves del estilo clásico y sobrio del actor Matt Damon, que se mantiene vigente con el tiempo."
     },
-    "cb8ee2166a05": {
-      "resumen": "Los 5 vestidos clásicos de otoño 2026 que ya eligieron las editoras e invitadas más elegantes de París."
+    "d0b98c44e913": {
+      "resumen": "Por qué los estilos de los años 90 que usaban las madres de hoy siguen marcando tendencia en España tres décadas después."
     },
-    "0afb803cea9c": {
-      "resumen": "La moda colombiana desembarcó en la Semana de la Moda de París para cerrar el circuito internacional de Colombiamoda."
+    "49cd07cd3c79": {
+      "resumen": "Quién fue la diseñadora británica Vivienne Westwood, referente de la moda punk, y cómo recrear su estilo sin gastar de más."
     },
-    "a0d55778284a": {
-      "resumen": "Las 6 tendencias que van a marcar la moda masculina este otoño 2026."
+    "82a957dfa5fe": {
+      "resumen": "La modelo Akima cuenta cómo vivió su participación en la Semana de la Moda de París."
     },
-    "514139d8e32f": {
-      "resumen": "Cómo combinar vestidos con zapatos Oxford, botines y tacos, según la colección primavera-verano 2027 de Louis Vuitton."
+    "1c6e524b493b": {
+      "resumen": "Los actores Ana Valeria Becerril, Leo Deluglio, Macarena García y Edu Maruri protagonizan una nueva campaña de moda con una estética sensual."
+    },
+    "da6cdd439ed6": {
+      "resumen": "El Teatro Colón ofrece un concierto matutino de la Filarmónica con entrada gratuita por el Día de la Madre."
+    },
+    "06b48e222e77": {
+      "resumen": "El Teatro Florencio Sánchez de Paysandú, Uruguay, cumplió 150 años y los celebró con un repaso de su historia y patrimonio cultural."
+    },
+    "4af0ba06df1e": {
+      "resumen": "El grupo Campedrinos cerró su gira en el Teatro Ópera con un show de folklore, invitados especiales y una puesta bien argentina."
     },
     "9a32225394af": {
       "resumen": "Las bandas de death metal Malevolent Creation y Mystic Circle se presentan en Argentina."
@@ -97,11 +88,23 @@
     "819657ca85a2": {
       "resumen": "32 fiestas y eventos para recorrer la provincia de Buenos Aires durante el fin de semana largo."
     },
-    "89131b5c7391": {
-      "resumen": "La ilusionista Caro Scialabba presenta en Buenos Aires su nuevo show, \"Sintonía Mágica\"."
-    },
     "8ea23a525378": {
       "resumen": "8 planes para disfrutar el fin de semana largo en Buenos Aires."
+    },
+    "697eca80e675": {
+      "resumen": "Una agenda con las fiestas populares y los eventos gratuitos para disfrutar en la Provincia de Buenos Aires entre el 8 y el 15 de octubre."
+    },
+    "d2997eab9c97": {
+      "resumen": "Dos ferias gastronómicas para aprovechar en la Ciudad de Buenos Aires el fin de semana del 10 y 11 de octubre."
+    },
+    "461835c2d6ff": {
+      "resumen": "Diez lugares para festejar el Día del Amigo en grupo en Buenos Aires."
+    },
+    "4f3f8001210a": {
+      "resumen": "Expertos advierten que la temporada de gripe podría adelantarse este año y recomiendan vacunarse cuanto antes."
+    },
+    "47e0ef6b6f27": {
+      "resumen": "Un estudio vincula la obsesión por el desarrollo muscular con problemas sexuales en hombres."
     }
   }
 }
