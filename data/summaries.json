@@ -1,28 +1,10 @@
 {
-  "generated_at": "2026-10-09T10:19:28Z",
+  "generated_at": "2026-10-09T22:18:09Z",
   "summaries": {
-    "50a705db1179": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó el uso de atezolizumab (un inhibidor del punto de control inmunitario PD-L1) junto con quimioterapia adyuvante para el cáncer de colon en estadio III con deficiencia de reparación de errores de apareamiento (dMMR, por sus siglas en inglés), una alteración molecular asociada a mayor respuesta a la inmunoterapia. Relevante porque incorpora la inmunoterapia al tratamiento adyuvante estándar en un subgrupo molecular bien definido.",
-      "destacado": false
-    },
     "b075343e4d51": {
       "resumen": "La esofagectomía robótica (cirugía de resección del esófago asistida por robot) se asoció a una mayor cantidad de ganglios linfáticos extraídos en comparación con otras técnicas quirúrgicas en pacientes con cáncer de esófago. Interesa porque un mayor rendimiento ganglionar mejora la precisión de la estadificación y puede influir en las decisiones de tratamiento adyuvante.",
       "destacado": false,
       "analisis": "Diseño: Por el título parece un estudio comparativo (probablemente retrospectivo o de cohorte) entre esofagectomía robótica y otras técnicas quirúrgicas; la fuente no detalla aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de esófago sometidos a esofagectomía (resección quirúrgica del esófago).\nIntervención: Esofagectomía asistida por robot frente a abordajes quirúrgicos convencionales (abierta o laparoscópica).\nResultados: Se reporta mayor rendimiento ganglionar (lymph node yield) con el abordaje robótico; no hay cifras concretas de número de ganglios, supervivencia ni valores de p disponibles en el título.\nLimitaciones: Sin el texto completo no se puede evaluar el sesgo de selección, el volumen quirúrgico de los centros ni si el mayor rendimiento ganglionar se traduce en mejor supervivencia.\nMensaje: Sugiere una ventaja técnica de la cirugía robótica en la calidad de la estadificación ganglionar, pero no alcanza para cambiar el estándar quirúrgico sin datos de impacto en la supervivencia a largo plazo.\nNota: análisis sin acceso al abstract."
-    },
-    "ef04f2fee14b": {
-      "resumen": "La Sociedad Estadounidense del Cáncer (ACS, por sus siglas en inglés) publicó un informe sobre la carga de cáncer y las disparidades en el acceso a estudios de detección temprana (screening) en la población hispana de Estados Unidos. Relevante porque identifica brechas específicas en un grupo poblacional numeroso y en crecimiento, útil para pensar políticas de prevención.",
-      "destacado": false,
-      "analisis": "Diseño: Informe descriptivo/epidemiológico de la Sociedad Estadounidense del Cáncer (ACS), probablemente basado en registros poblacionales de incidencia y mortalidad; no es un ensayo clínico ni tiene aleatorización.\nPoblación: Población hispana/latina de Estados Unidos, comparada con otros grupos poblacionales en incidencia, mortalidad y tasas de detección temprana (screening).\nIntervención: No aplica (es un informe observacional/registro, no una intervención terapéutica).\nResultados: El informe señala disparidades en la carga de cáncer y en el acceso a métodos de detección temprana; no se dispone de cifras concretas de incidencia, mortalidad ni tasas de screening sin el documento completo.\nLimitaciones: Los datos de registros poblacionales pueden subestimar a subgrupos sin cobertura de salud; un informe descriptivo no permite establecer causalidad de las disparidades encontradas.\nMensaje: Pone en agenda la necesidad de estrategias de detección temprana y acceso a salud dirigidas específicamente a la población hispana, para reducir brechas ya documentadas en otros grupos minoritarios.\nNota: análisis sin acceso al abstract."
-    },
-    "25fc607ed640": {
-      "resumen": "La colección primavera 2027 de moda masculina del diseñador Derrick, presentada en la Semana de la Moda."
-    },
-    "61d0bd8c5676": {
-      "resumen": "La colección primavera 2027 ready-to-wear de la diseñadora Julie de Libran."
-    },
-    "abaf8ab1fe23": {
-      "resumen": "La colección primavera 2027 ready-to-wear de la marca Telfar."
     },
     "e73a64689e50": {
       "resumen": "Siete restaurantes recomendados para un almuerzo de alto nivel en Buenos Aires."
@@ -32,17 +14,6 @@
     },
     "819657ca85a2": {
       "resumen": "32 fiestas y eventos para recorrer la provincia de Buenos Aires durante el fin de semana largo."
-    },
-    "8ea23a525378": {
-      "resumen": "8 planes para disfrutar el fin de semana largo en Buenos Aires."
-    },
-    "ba1ac3077afc": {
-      "resumen": "La revista especializada OncLive repasa los hallazgos más relevantes en cáncer de pulmón presentados en el Congreso Mundial de Cáncer de Pulmón (WCLC, por sus siglas en inglés) 2026, con foco en el estudio MAVERICK, los anticuerpos conjugados a droga (ADC, por sus siglas en inglés) dirigidos a la proteína B7-H3 y los datos actualizados del ensayo ADAURA. Sirve como panorama rápido de por dónde viene la investigación en cáncer de pulmón de células no pequeñas.",
-      "destacado": false
-    },
-    "434105ef5591": {
-      "resumen": "Entrevista a la Dra. Chae en OncLive sobre las diferencias entre los ensayos \"tumor-informados\" (que usan el perfil genético propio del tumor de cada paciente) y los ensayos \"tejido-agnósticos\" (con un panel estándar) para detectar enfermedad residual mínima en cáncer de pulmón de células no pequeñas (NSCLC, por sus siglas en inglés). Útil para entender las ventajas y límites de cada enfoque a la hora de elegir cuál pedir.",
-      "destacado": false
     },
     "a1aaacf15284": {
       "resumen": "The ASCO Post distingue al investigador Charles M. Perou, PhD, con la Beca Conmemorativa William L. McGuire 2026, un reconocimiento a su trayectoria en la caracterización molecular del cáncer de mama, cuyos trabajos sentaron las bases de la clasificación en subtipos intrínsecos (como el luminal, el HER2 positivo y el triple negativo). Nota de color institucional, sin datos clínicos nuevos.",
@@ -64,47 +35,65 @@
       "resumen": "Otro comentario sobre el ensayo SAKK 06/19 (preservación de órgano en cáncer rectal) que plantea que la resección quirúrgica y la respuesta al tratamiento se mezclan en el análisis, lo que dificulta saber cuánto del beneficio reportado se debe realmente a evitar la cirugía. Aporta una mirada metodológica crítica al mismo estudio comentado en la nota anterior.",
       "destacado": false
     },
-    "5317fa68eb59": {
-      "resumen": "Artículo de revisión del New England Journal of Medicine (NEJM) que resume los avances recientes en el tratamiento sistémico (quimioterapia, terapias dirigidas, inmunoterapia y terapias hormonales) del cáncer de mama. Sirve como actualización general del estado del arte, sin datos de un estudio puntual.",
-      "destacado": false
-    },
-    "7dd5fddae847": {
-      "resumen": "Estudio publicado en el New England Journal of Medicine (NEJM) que evalúa el efecto de incorporar un test de detección temprana multicáncer (MCED, por sus siglas en inglés: un análisis de sangre que busca señales de varios tipos de tumor a la vez) sobre la proporción de diagnósticos en estadio avanzado. Es uno de los temas más candentes en prevención oncológica, porque podría cambiar cómo se hace el rastreo poblacional de cáncer.",
-      "destacado": true,
-      "analisis": "Diseño: Según el título, se trata de un estudio (probablemente un ensayo clínico o una cohorte prospectiva) que evalúa el impacto de un test de detección temprana multicáncer (MCED) sobre el estadio al diagnóstico; la fuente no especifica aleatorización, cegamiento, cantidad de centros ni número exacto de participantes.\nPoblación: Adultos sin diagnóstico previo de cáncer, sometidos a cribado (screening) poblacional con el test MCED, comparados con la práctica de rastreo habitual.\nIntervención: Agregar el test de sangre MCED al esquema de detección temprana estándar, frente a no usarlo (o frente al rastreo convencional por tipo de tumor).\nResultados: El título indica que se mide el efecto sobre el diagnóstico en estadio avanzado (late-stage); no hay cifras de sensibilidad, valor predictivo, reducción de diagnósticos tardíos ni de mortalidad disponibles sin el abstract completo.\nLimitaciones: Los test MCED son una tecnología todavía en evaluación, con riesgo de resultados falsos positivos, sobrediagnóstico y necesidad de estudios de seguimiento confirmatorio tras una señal positiva; sin el texto completo no se puede juzgar el tamaño muestral ni el tiempo de seguimiento.\nMensaje: Si el estudio muestra una reducción real en el diagnóstico en estadios avanzados, respaldaría el uso de estos test como complemento del rastreo oncológico habitual; de lo contrario, recomienda cautela antes de incorporarlos a la práctica sistemática.\nNota: análisis sin acceso al abstract."
-    },
-    "10aa985ed303": {
-      "resumen": "Zendaya combinó en París dos tendencias de calzado que generan opiniones divididas, en un mismo zapato híbrido."
-    },
-    "ea3cc1c07793": {
-      "resumen": "El diseñador Anthony Vaccarello anunció su salida de la casa Saint Laurent, donde era director creativo."
-    },
-    "df432f26c14b": {
-      "resumen": "Una guía de moda explica cómo adaptar al uso diario los looks vistos en la Semana de la Moda de París."
-    },
-    "0cc9a296f39f": {
-      "resumen": "El árbol de Navidad con luces de colores quedó relegado: se impone una nueva tendencia decorativa para el living en 2026."
-    },
-    "056976e3d93d": {
-      "resumen": "Las expertas de la revista Telva eligen la prenda imprescindible para sumar este otoño si solo pudieras comprar una."
-    },
-    "f5157f98b27b": {
-      "resumen": "Una agenda con más de 50 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine, muestras y propuestas gratuitas."
-    },
     "68d1f6f6914f": {
       "resumen": "El Complejo Teatral de Buenos Aires presenta un ciclo dedicado al cine del director alemán Wim Wenders."
-    },
-    "8f7dc4c7534f": {
-      "resumen": "La obra \"Las descartadas\" se estrena en el Teatro Estación Almagro con una historia sobre vínculos, diferencias y exclusión."
-    },
-    "96d7ff36c989": {
-      "resumen": "La compañía Buenos Aires Ballet vuelve a presentarse este sábado en el Teatro Auditorium."
     },
     "461835c2d6ff": {
       "resumen": "Diez propuestas para festejar el Día del Amigo en grupo en la ciudad de Buenos Aires."
     },
-    "0f90eb914faa": {
-      "resumen": "Una selección de 37 planes para el fin de semana largo en Buenos Aires, entre ferias, conciertos y experiencias."
+    "55aa72d550b4": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de Dispositivo Innovador (Breakthrough Device) al ensayo de detección temprana multicáncer de Natera, una prueba de sangre que busca marcadores de varios tipos de cáncer a la vez. La designación acelera la revisión regulatoria, pero no implica aprobación ni confirma todavía datos de eficacia clínica. Vale la pena seguirlo porque la detección precoz multicáncer es un área en pleno desarrollo con fuerte expectativa en oncología.",
+      "destacado": false
+    },
+    "fdf7956a188d": {
+      "resumen": "La FDA aprobó el uso de atezolizumab (un anticuerpo monoclonal inhibidor de PD-L1, la proteína de muerte celular programada tipo 1) combinado con quimioterapia para el tratamiento adyuvante del cáncer de colon en estadio III con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, por su sigla en inglés). Es relevante porque suma inmunoterapia al esquema estándar en un subgrupo de pacientes que históricamente responde mejor a este tipo de drogas.",
+      "destacado": true,
+      "analisis": "Diseño: Nota de aprobación regulatoria que se apoya en un ensayo clínico de fase III, probablemente aleatorizado; el detalle metodológico completo (cegamiento, cantidad de centros y de pacientes) no figura en el título ni está disponible sin el abstract.\nPoblación: Pacientes con cáncer de colon en estadio III y deficiencia en la reparación de errores de apareamiento del ADN (dMMR), un subgrupo con alta carga mutacional que suele responder mejor a la inmunoterapia.\nIntervención: Atezolizumab (inhibidor de PD-L1) sumado a quimioterapia adyuvante, comparado presumiblemente contra quimioterapia adyuvante sola.\nResultados: No hay cifras de supervivencia libre de enfermedad ni de supervivencia global disponibles sin el abstract; la nota solo informa la aprobación regulatoria.\nLimitaciones: Al no contar con el artículo original no se puede valorar la magnitud real del beneficio, la toxicidad relativa ni la duración del seguimiento.\nMensaje: Si se confirma con la publicación completa, incorporar inmunoterapia adyuvante en dMMR estadio III marcaría un cambio de estándar para un subgrupo definido de pacientes con cáncer de colon.\nNota: análisis sin acceso al abstract."
+    },
+    "dbd7c360d96d": {
+      "resumen": "Un cuestionario semanal de OncLive para repasar, en formato de preguntas y respuestas, las novedades más relevantes de la semana en cáncer de colon, mieloma, cáncer de mama y cáncer de pulmón. Es un resumen interactivo, útil para ponerse al día rápido con las noticias oncológicas de los últimos días.",
+      "destacado": false
+    },
+    "db6c0f87abec": {
+      "resumen": "Un artículo de OncLive sobre el MET (gen que codifica un receptor tirosina quinasa) como mecanismo de resistencia a tratamientos oncológicos dirigidos, con nuevos datos de un estudio aleatorizado que explora cómo abordarlo terapéuticamente. Interesa porque la resistencia mediada por MET es un problema creciente en tumores tratados con terapias dirigidas, en especial en cáncer de pulmón.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trataría de un estudio aleatorizado que evalúa una estrategia dirigida a la resistencia mediada por MET; no hay datos de fase, cantidad de centros ni de pacientes disponibles sin el abstract.\nPoblación: No especificada con precisión en el título; probablemente pacientes con tumores (posiblemente cáncer de pulmón con mutación del receptor del factor de crecimiento epidérmico, EGFR) que desarrollaron resistencia por amplificación o activación de MET tras un tratamiento dirigido previo.\nIntervención: Estrategia terapéutica dirigida a MET, comparada contra el tratamiento estándar o la continuación de la terapia previa.\nResultados: No hay valores de supervivencia libre de progresión, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el artículo original no puede evaluarse el tamaño de la muestra, la solidez estadística ni la generalizabilidad a otros tumores con resistencia mediada por MET.\nMensaje: Refuerza el interés clínico por targetear MET como mecanismo de resistencia, pero la adopción en la práctica debería esperar la publicación completa de los resultados.\nNota: análisis sin acceso al abstract."
+    },
+    "d6a319dee845": {
+      "resumen": "Un repaso de la colección primavera 2027 ready-to-wear del diseñador David Koma, presentada en Vogue."
+    },
+    "3580a3640f84": {
+      "resumen": "El diseñador Anthony Vaccarello deja su cargo como director creativo de Saint Laurent."
+    },
+    "23226c3e3db2": {
+      "resumen": "Siete prendas de Zara elegidas por estar en sintonía con las tendencias de la temporada."
+    },
+    "baa16fa45dad": {
+      "resumen": "Guía de estilo para combinar distintos cortes de jean con zapatos de tacón y lograr un look elegante este octubre."
+    },
+    "d40779a2e0a4": {
+      "resumen": "Kate Middleton combinó una falda midi a cuadros con zapatos de tacón italianos en un look de otoño muy comentado."
+    },
+    "fa7e6a2d9bd1": {
+      "resumen": "Diez propuestas de looks con fajín para reemplazar al cinturón clásico y sumar estilo."
+    },
+    "774164ead228": {
+      "resumen": "Una mirada sobre los accesorios como forma de expresar identidad, más allá de las tendencias de moda."
+    },
+    "21ffdff90032": {
+      "resumen": "La iniciativa Vení al Teatro ofrece descuentos de hasta el 90% en más de 80 obras de la cartelera de Buenos Aires."
+    },
+    "674d0f33af3c": {
+      "resumen": "Cinco escapadas cerca de Buenos Aires para el fin de semana largo de octubre, con planes bajo techo que no se suspenden por lluvia."
+    },
+    "42bcd4374ab5": {
+      "resumen": "Crónica del cierre del V Congreso de Asturianía, realizado en el Centro Asturiano de Buenos Aires."
+    },
+    "9fd41e942ca2": {
+      "resumen": "Más de 50 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
+    },
+    "5d3ae1aedc69": {
+      "resumen": "Restaurantes porteños preparan menús especiales de ñoquis para celebrar la tradición del 29 este sábado."
     }
   }
 }
