@@ -1,38 +1,11 @@
 {
-  "generated_at": "2026-10-09T22:18:09Z",
+  "generated_at": "2026-10-10T10:17:57Z",
   "summaries": {
-    "b075343e4d51": {
-      "resumen": "La esofagectomía robótica (cirugía de resección del esófago asistida por robot) se asoció a una mayor cantidad de ganglios linfáticos extraídos en comparación con otras técnicas quirúrgicas en pacientes con cáncer de esófago. Interesa porque un mayor rendimiento ganglionar mejora la precisión de la estadificación y puede influir en las decisiones de tratamiento adyuvante.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio comparativo (probablemente retrospectivo o de cohorte) entre esofagectomía robótica y otras técnicas quirúrgicas; la fuente no detalla aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de esófago sometidos a esofagectomía (resección quirúrgica del esófago).\nIntervención: Esofagectomía asistida por robot frente a abordajes quirúrgicos convencionales (abierta o laparoscópica).\nResultados: Se reporta mayor rendimiento ganglionar (lymph node yield) con el abordaje robótico; no hay cifras concretas de número de ganglios, supervivencia ni valores de p disponibles en el título.\nLimitaciones: Sin el texto completo no se puede evaluar el sesgo de selección, el volumen quirúrgico de los centros ni si el mayor rendimiento ganglionar se traduce en mejor supervivencia.\nMensaje: Sugiere una ventaja técnica de la cirugía robótica en la calidad de la estadificación ganglionar, pero no alcanza para cambiar el estándar quirúrgico sin datos de impacto en la supervivencia a largo plazo.\nNota: análisis sin acceso al abstract."
-    },
     "e73a64689e50": {
       "resumen": "Siete restaurantes recomendados para un almuerzo de alto nivel en Buenos Aires."
     },
-    "60bbd06bdca9": {
-      "resumen": "Una agenda de actividades de la cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
-    },
-    "819657ca85a2": {
-      "resumen": "32 fiestas y eventos para recorrer la provincia de Buenos Aires durante el fin de semana largo."
-    },
-    "a1aaacf15284": {
-      "resumen": "The ASCO Post distingue al investigador Charles M. Perou, PhD, con la Beca Conmemorativa William L. McGuire 2026, un reconocimiento a su trayectoria en la caracterización molecular del cáncer de mama, cuyos trabajos sentaron las bases de la clasificación en subtipos intrínsecos (como el luminal, el HER2 positivo y el triple negativo). Nota de color institucional, sin datos clínicos nuevos.",
-      "destacado": false
-    },
     "488271e8fc92": {
       "resumen": "Carta de respuesta de los autores originales a dos comentarios críticos publicados en el Journal of Clinical Oncology sobre el ensayo SAKK 06/19, que evaluó una estrategia de preservación de órgano (evitar la cirugía) en cáncer rectal localmente avanzado según la respuesta al tratamiento. Completa el ida y vuelta científico sobre cuán sólida es la evidencia para sostener esa conducta.",
-      "destacado": false
-    },
-    "057bc84c8001": {
-      "resumen": "Artículo de opinión en el Journal of Clinical Oncology que plantea cómo se mide y se le pone valor económico al \"tiempo tóxico\" (el tiempo que un paciente con cáncer pierde en consultas, estudios y trámites por su tratamiento), y advierte sobre el riesgo de convertir ese tiempo en una mercancía más del sistema de salud. Invita a repensar cómo se prioriza el tiempo del paciente en las decisiones terapéuticas.",
-      "destacado": false
-    },
-    "325e144cee16": {
-      "resumen": "Comentario crítico en el Journal of Clinical Oncology que cuestiona si la evidencia del ensayo SAKK 06/19, sobre preservación de órgano en cáncer rectal, alcanza para cambiar la práctica, y advierte que las conclusiones podrían ser prematuras. Forma parte del debate sobre hasta dónde se puede evitar la cirugía en estos pacientes.",
-      "destacado": false
-    },
-    "5d750b774b3c": {
-      "resumen": "Otro comentario sobre el ensayo SAKK 06/19 (preservación de órgano en cáncer rectal) que plantea que la resección quirúrgica y la respuesta al tratamiento se mezclan en el análisis, lo que dificulta saber cuánto del beneficio reportado se debe realmente a evitar la cirugía. Aporta una mirada metodológica crítica al mismo estudio comentado en la nota anterior.",
       "destacado": false
     },
     "68d1f6f6914f": {
@@ -41,59 +14,82 @@
     "461835c2d6ff": {
       "resumen": "Diez propuestas para festejar el Día del Amigo en grupo en la ciudad de Buenos Aires."
     },
-    "55aa72d550b4": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de Dispositivo Innovador (Breakthrough Device) al ensayo de detección temprana multicáncer de Natera, una prueba de sangre que busca marcadores de varios tipos de cáncer a la vez. La designación acelera la revisión regulatoria, pero no implica aprobación ni confirma todavía datos de eficacia clínica. Vale la pena seguirlo porque la detección precoz multicáncer es un área en pleno desarrollo con fuerte expectativa en oncología.",
-      "destacado": false
-    },
     "fdf7956a188d": {
       "resumen": "La FDA aprobó el uso de atezolizumab (un anticuerpo monoclonal inhibidor de PD-L1, la proteína de muerte celular programada tipo 1) combinado con quimioterapia para el tratamiento adyuvante del cáncer de colon en estadio III con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, por su sigla en inglés). Es relevante porque suma inmunoterapia al esquema estándar en un subgrupo de pacientes que históricamente responde mejor a este tipo de drogas.",
       "destacado": true,
       "analisis": "Diseño: Nota de aprobación regulatoria que se apoya en un ensayo clínico de fase III, probablemente aleatorizado; el detalle metodológico completo (cegamiento, cantidad de centros y de pacientes) no figura en el título ni está disponible sin el abstract.\nPoblación: Pacientes con cáncer de colon en estadio III y deficiencia en la reparación de errores de apareamiento del ADN (dMMR), un subgrupo con alta carga mutacional que suele responder mejor a la inmunoterapia.\nIntervención: Atezolizumab (inhibidor de PD-L1) sumado a quimioterapia adyuvante, comparado presumiblemente contra quimioterapia adyuvante sola.\nResultados: No hay cifras de supervivencia libre de enfermedad ni de supervivencia global disponibles sin el abstract; la nota solo informa la aprobación regulatoria.\nLimitaciones: Al no contar con el artículo original no se puede valorar la magnitud real del beneficio, la toxicidad relativa ni la duración del seguimiento.\nMensaje: Si se confirma con la publicación completa, incorporar inmunoterapia adyuvante en dMMR estadio III marcaría un cambio de estándar para un subgrupo definido de pacientes con cáncer de colon.\nNota: análisis sin acceso al abstract."
     },
-    "dbd7c360d96d": {
-      "resumen": "Un cuestionario semanal de OncLive para repasar, en formato de preguntas y respuestas, las novedades más relevantes de la semana en cáncer de colon, mieloma, cáncer de mama y cáncer de pulmón. Es un resumen interactivo, útil para ponerse al día rápido con las noticias oncológicas de los últimos días.",
-      "destacado": false
-    },
-    "db6c0f87abec": {
-      "resumen": "Un artículo de OncLive sobre el MET (gen que codifica un receptor tirosina quinasa) como mecanismo de resistencia a tratamientos oncológicos dirigidos, con nuevos datos de un estudio aleatorizado que explora cómo abordarlo terapéuticamente. Interesa porque la resistencia mediada por MET es un problema creciente en tumores tratados con terapias dirigidas, en especial en cáncer de pulmón.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trataría de un estudio aleatorizado que evalúa una estrategia dirigida a la resistencia mediada por MET; no hay datos de fase, cantidad de centros ni de pacientes disponibles sin el abstract.\nPoblación: No especificada con precisión en el título; probablemente pacientes con tumores (posiblemente cáncer de pulmón con mutación del receptor del factor de crecimiento epidérmico, EGFR) que desarrollaron resistencia por amplificación o activación de MET tras un tratamiento dirigido previo.\nIntervención: Estrategia terapéutica dirigida a MET, comparada contra el tratamiento estándar o la continuación de la terapia previa.\nResultados: No hay valores de supervivencia libre de progresión, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el artículo original no puede evaluarse el tamaño de la muestra, la solidez estadística ni la generalizabilidad a otros tumores con resistencia mediada por MET.\nMensaje: Refuerza el interés clínico por targetear MET como mecanismo de resistencia, pero la adopción en la práctica debería esperar la publicación completa de los resultados.\nNota: análisis sin acceso al abstract."
-    },
     "d6a319dee845": {
       "resumen": "Un repaso de la colección primavera 2027 ready-to-wear del diseñador David Koma, presentada en Vogue."
-    },
-    "3580a3640f84": {
-      "resumen": "El diseñador Anthony Vaccarello deja su cargo como director creativo de Saint Laurent."
-    },
-    "23226c3e3db2": {
-      "resumen": "Siete prendas de Zara elegidas por estar en sintonía con las tendencias de la temporada."
-    },
-    "baa16fa45dad": {
-      "resumen": "Guía de estilo para combinar distintos cortes de jean con zapatos de tacón y lograr un look elegante este octubre."
-    },
-    "d40779a2e0a4": {
-      "resumen": "Kate Middleton combinó una falda midi a cuadros con zapatos de tacón italianos en un look de otoño muy comentado."
-    },
-    "fa7e6a2d9bd1": {
-      "resumen": "Diez propuestas de looks con fajín para reemplazar al cinturón clásico y sumar estilo."
-    },
-    "774164ead228": {
-      "resumen": "Una mirada sobre los accesorios como forma de expresar identidad, más allá de las tendencias de moda."
-    },
-    "21ffdff90032": {
-      "resumen": "La iniciativa Vení al Teatro ofrece descuentos de hasta el 90% en más de 80 obras de la cartelera de Buenos Aires."
     },
     "674d0f33af3c": {
       "resumen": "Cinco escapadas cerca de Buenos Aires para el fin de semana largo de octubre, con planes bajo techo que no se suspenden por lluvia."
     },
-    "42bcd4374ab5": {
-      "resumen": "Crónica del cierre del V Congreso de Asturianía, realizado en el Centro Asturiano de Buenos Aires."
+    "043ee373707a": {
+      "resumen": "Nota de OncLive (probablemente una entrevista o mesa de discusión entre especialistas) sobre cómo elegir el inhibidor de CDK4/6 (quinasas dependientes de ciclina 4 y 6) más adecuado como primera línea de tratamiento en cáncer de mama avanzado. Interesa porque hay varias opciones aprobadas (palbociclib, ribociclib, abemaciclib) y la elección influye en el perfil de efectos adversos y en la secuencia terapéutica posterior.",
+      "destacado": false
     },
-    "9fd41e942ca2": {
-      "resumen": "Más de 50 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
+    "5a4479b08300": {
+      "resumen": "Artículo de OncLive sobre estrategias centradas en el paciente para administrar los tratamientos del mieloma múltiple (un cáncer de las células plasmáticas de la médula ósea), con foco en la vía de administración (oral, subcutánea o intravenosa) y en la carga que representa el tratamiento para la persona. Relevante por el crecimiento de opciones como los anticuerpos biespecíficos y las células CAR-T, que exigen logística distinta.",
+      "destacado": false
     },
-    "5d3ae1aedc69": {
-      "resumen": "Restaurantes porteños preparan menús especiales de ñoquis para celebrar la tradición del 29 este sábado."
+    "db43b63516dc": {
+      "resumen": "La prueba Guardant360 CDx (un test de biopsia líquida que detecta mutaciones en el ADN tumoral circulante en sangre) recibió la aprobación europea como diagnóstico complementario para seleccionar pacientes con cáncer de mama avanzado con mutación en el gen ESR1 que puedan tratarse con camizestrant (un degradador selectivo del receptor de estrógeno). Importa porque permite detectar la mutación sin biopsia de tejido y así indicar el tratamiento dirigido correcto.",
+      "destacado": false
+    },
+    "c640fe669939": {
+      "resumen": "Entrevista del ASCO Post al oncólogo Matthew Lunning sobre cómo posicionar la terapia con células CAR-T (linfocitos T modificados genéticamente para atacar tumores) frente al uso de tafasitamab (un anticuerpo monoclonal dirigido contra el antígeno CD19) en el linfoma difuso de células B grandes (DLBCL, por su sigla en inglés). Sirve para entender cómo los especialistas secuencian estas terapias en la práctica diaria.",
+      "destacado": false
+    },
+    "049c8ef0f9d0": {
+      "resumen": "Segunda parte de la entrevista a Matthew Lunning, esta vez centrada en los datos del estudio frontMIND en linfoma difuso de células B grandes (DLBCL) y en qué medida están cambiando la discusión sobre el tratamiento de primera línea. Complementa la nota anterior sobre el posicionamiento de las distintas terapias en DLBCL.",
+      "destacado": false
+    },
+    "149609b530dc": {
+      "resumen": "Estudio de fase I/II que evalúa bavdegalutamide, un degradador del receptor de andrógenos basado en la tecnología PROTAC (quimera dirigida a la proteólisis, por su sigla en inglés), en pacientes con cáncer de próstata metastásico resistente a la castración. Interesa porque representa un mecanismo de acción novedoso, distinto de los antiandrógenos clásicos, para tumores que ya progresaron a los tratamientos hormonales habituales.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase I/II (dosis-escalada y expansión), según el título; no se cuenta con el abstract completo para precisar aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC, por su sigla en inglés), es decir que progresó pese al bloqueo hormonal.\nIntervención: Bavdegalutamide, un degradador del receptor de andrógenos basado en la tecnología PROTAC (quimera dirigida a la proteólisis); por tratarse de una fase I/II, probablemente sin grupo comparador.\nResultados: No hay datos de tasa de respuesta objetiva, supervivencia libre de progresión ni perfil de toxicidad disponibles sin el abstract.\nLimitaciones: Al ser una fase temprana, el tamaño muestral suele ser chico y el objetivo principal es seguridad y dosis recomendada más que eficacia definitiva; falta el abstract para confirmarlo.\nMensaje: Un mecanismo de acción novedoso (degradación del receptor de andrógenos vía PROTAC) podría ofrecer una alternativa en pacientes que ya agotaron las líneas hormonales clásicas, pero su lugar en la práctica recién se podrá evaluar con fases más avanzadas.\nNota: análisis sin acceso al abstract."
+    },
+    "9ac97d1d10e3": {
+      "resumen": "Comentario o carta al editor en el Journal of Clinical Oncology que discute los límites de usar el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador negativo en cáncer de mama, advirtiendo sobre posibles puntos ciegos en su interpretación. Forma parte de un intercambio editorial con otros autores sobre cómo se usan los biomarcadores para decidir el tratamiento.",
+      "destacado": false
+    },
+    "7bb20d370a56": {
+      "resumen": "Respuesta de los autores originales al comentario anterior sobre el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador en cáncer de mama, en la que defienden o aclaran su interpretación original. Cierra el intercambio editorial sobre este biomarcador.",
+      "destacado": false
+    },
+    "f7a8ba830fba": {
+      "resumen": "Cinco blazers de Zara con estilo francés para sumarse a las tendencias del otoño."
+    },
+    "ca5b1abde4d8": {
+      "resumen": "Tiffany & Co. presenta nuevas piezas de su línea HardWear que combinan herencia de marca y color."
+    },
+    "e3d33f7440c7": {
+      "resumen": "La marca de moda ISADORA inauguró un nuevo local en el centro comercial Multiplaza."
+    },
+    "ff01ded7b1d1": {
+      "resumen": "Vogue México recomienda un destino en el Pacífico Sur para visitar al menos una vez en la vida."
+    },
+    "bc9ab1b9f2bc": {
+      "resumen": "Guía de los cortes de pelo que mejor le sientan a los rostros rectangulares esta temporada de otoño."
+    },
+    "ebbca7a9800e": {
+      "resumen": "San Pedro Plaza reúne tecnología, moda y tendencias en un mismo centro comercial."
+    },
+    "9414f15d88ff": {
+      "resumen": "La banda finlandesa de metal Amorphis se presenta en Argentina."
+    },
+    "55d45429d75f": {
+      "resumen": "Buenos Aires espera recibir a más de 120 mil turistas durante el fin de semana largo."
+    },
+    "3d66179b8b3b": {
+      "resumen": "El Teatro Argentino ofrece tres funciones gratuitas de la ópera \"Il trovatore\", de Verdi, en octubre."
+    },
+    "52f01a4c4c36": {
+      "resumen": "Diez propuestas para aprovechar el fin de semana largo en Buenos Aires."
+    },
+    "6f543a1ab064": {
+      "resumen": "Más de 50 planes para el fin de semana del 9 al 11 de octubre en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
     }
   }
 }
