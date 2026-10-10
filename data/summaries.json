@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:17:57Z",
+  "generated_at": "2026-10-10T22:15:34Z",
   "summaries": {
     "e73a64689e50": {
       "resumen": "Siete restaurantes recomendados para un almuerzo de alto nivel en Buenos Aires."
@@ -11,9 +11,6 @@
     "68d1f6f6914f": {
       "resumen": "El Complejo Teatral de Buenos Aires presenta un ciclo dedicado al cine del director alemán Wim Wenders."
     },
-    "461835c2d6ff": {
-      "resumen": "Diez propuestas para festejar el Día del Amigo en grupo en la ciudad de Buenos Aires."
-    },
     "fdf7956a188d": {
       "resumen": "La FDA aprobó el uso de atezolizumab (un anticuerpo monoclonal inhibidor de PD-L1, la proteína de muerte celular programada tipo 1) combinado con quimioterapia para el tratamiento adyuvante del cáncer de colon en estadio III con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, por su sigla en inglés). Es relevante porque suma inmunoterapia al esquema estándar en un subgrupo de pacientes que históricamente responde mejor a este tipo de drogas.",
       "destacado": true,
@@ -21,21 +18,6 @@
     },
     "d6a319dee845": {
       "resumen": "Un repaso de la colección primavera 2027 ready-to-wear del diseñador David Koma, presentada en Vogue."
-    },
-    "674d0f33af3c": {
-      "resumen": "Cinco escapadas cerca de Buenos Aires para el fin de semana largo de octubre, con planes bajo techo que no se suspenden por lluvia."
-    },
-    "043ee373707a": {
-      "resumen": "Nota de OncLive (probablemente una entrevista o mesa de discusión entre especialistas) sobre cómo elegir el inhibidor de CDK4/6 (quinasas dependientes de ciclina 4 y 6) más adecuado como primera línea de tratamiento en cáncer de mama avanzado. Interesa porque hay varias opciones aprobadas (palbociclib, ribociclib, abemaciclib) y la elección influye en el perfil de efectos adversos y en la secuencia terapéutica posterior.",
-      "destacado": false
-    },
-    "5a4479b08300": {
-      "resumen": "Artículo de OncLive sobre estrategias centradas en el paciente para administrar los tratamientos del mieloma múltiple (un cáncer de las células plasmáticas de la médula ósea), con foco en la vía de administración (oral, subcutánea o intravenosa) y en la carga que representa el tratamiento para la persona. Relevante por el crecimiento de opciones como los anticuerpos biespecíficos y las células CAR-T, que exigen logística distinta.",
-      "destacado": false
-    },
-    "db43b63516dc": {
-      "resumen": "La prueba Guardant360 CDx (un test de biopsia líquida que detecta mutaciones en el ADN tumoral circulante en sangre) recibió la aprobación europea como diagnóstico complementario para seleccionar pacientes con cáncer de mama avanzado con mutación en el gen ESR1 que puedan tratarse con camizestrant (un degradador selectivo del receptor de estrógeno). Importa porque permite detectar la mutación sin biopsia de tejido y así indicar el tratamiento dirigido correcto.",
-      "destacado": false
     },
     "c640fe669939": {
       "resumen": "Entrevista del ASCO Post al oncólogo Matthew Lunning sobre cómo posicionar la terapia con células CAR-T (linfocitos T modificados genéticamente para atacar tumores) frente al uso de tafasitamab (un anticuerpo monoclonal dirigido contra el antígeno CD19) en el linfoma difuso de células B grandes (DLBCL, por su sigla en inglés). Sirve para entender cómo los especialistas secuencian estas terapias en la práctica diaria.",
@@ -58,24 +40,6 @@
       "resumen": "Respuesta de los autores originales al comentario anterior sobre el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador en cáncer de mama, en la que defienden o aclaran su interpretación original. Cierra el intercambio editorial sobre este biomarcador.",
       "destacado": false
     },
-    "f7a8ba830fba": {
-      "resumen": "Cinco blazers de Zara con estilo francés para sumarse a las tendencias del otoño."
-    },
-    "ca5b1abde4d8": {
-      "resumen": "Tiffany & Co. presenta nuevas piezas de su línea HardWear que combinan herencia de marca y color."
-    },
-    "e3d33f7440c7": {
-      "resumen": "La marca de moda ISADORA inauguró un nuevo local en el centro comercial Multiplaza."
-    },
-    "ff01ded7b1d1": {
-      "resumen": "Vogue México recomienda un destino en el Pacífico Sur para visitar al menos una vez en la vida."
-    },
-    "bc9ab1b9f2bc": {
-      "resumen": "Guía de los cortes de pelo que mejor le sientan a los rostros rectangulares esta temporada de otoño."
-    },
-    "ebbca7a9800e": {
-      "resumen": "San Pedro Plaza reúne tecnología, moda y tendencias en un mismo centro comercial."
-    },
     "9414f15d88ff": {
       "resumen": "La banda finlandesa de metal Amorphis se presenta en Argentina."
     },
@@ -88,8 +52,44 @@
     "52f01a4c4c36": {
       "resumen": "Diez propuestas para aprovechar el fin de semana largo en Buenos Aires."
     },
-    "6f543a1ab064": {
-      "resumen": "Más de 50 planes para el fin de semana del 9 al 11 de octubre en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
+    "cfc4b3b1038b": {
+      "resumen": "Nota de OncLive en formato de discusión entre especialistas sobre la quimioinmunoterapia neoadyuvante (quimioterapia combinada con inmunoterapia administrada antes de la cirugía) en cáncer colorrectal (CRC, por su sigla en inglés). Sirve para entender cómo los oncólogos evalúan este enfoque para achicar el tumor antes de operar.",
+      "destacado": false
+    },
+    "a73528b1f532": {
+      "resumen": "Resumen semanal de OncLive con los artículos de oncología más comentados de la semana del 4 de octubre de 2026. Funciona como guía rápida de las novedades clínicas más relevantes de esos días.",
+      "destacado": false
+    },
+    "66018f846a65": {
+      "resumen": "Repaso de OncLive sobre las decisiones regulatorias de la FDA (la agencia de medicamentos de Estados Unidos) en cánceres hematológicos (de la sangre) durante septiembre de 2026. Da un panorama consolidado de las aprobaciones recientes en ese campo.",
+      "destacado": false
+    },
+    "1ee7b9621e2e": {
+      "resumen": "Zara sumó cinco modelos de pollera midi a cuadros, pensados para combinar con botas este otoño."
+    },
+    "6951024d57b4": {
+      "resumen": "Blusas de colores inspiradas en el estilo de la reina Letizia, ideales para combinar con pantalones acampanados este octubre."
+    },
+    "d83d3ae027d7": {
+      "resumen": "Massimo Dutti inauguró una tienda especial en Roma y estas son las cinco prendas favoritas de las italianas."
+    },
+    "02b9be84034d": {
+      "resumen": "Los adornos navideños de plástico quedaron atrás: la tendencia de 2026 apuesta por materiales naturales para decorar el árbol."
+    },
+    "08b296ca942e": {
+      "resumen": "Cinco prendas retro que pisan fuerte y se instalan como tendencia esta primavera-verano 2026."
+    },
+    "93355b80316b": {
+      "resumen": "Una nueva tienda pop-up de moda en Madrid presenta la propuesta de la marca de jeans Wrangler."
+    },
+    "06b27d4bad71": {
+      "resumen": "Guía de experiencias, música y eventos para disfrutar el fin de semana largo en Buenos Aires."
+    },
+    "4af29fd2b640": {
+      "resumen": "Pronóstico para el fin de semana largo en el AMBA: cuándo despejarán las lluvias y qué día conviene elegir para los planes."
+    },
+    "876764f5eca3": {
+      "resumen": "Propuestas de actividades para aprovechar el fin de semana extralargo en la Ciudad de Buenos Aires."
     }
   }
 }
