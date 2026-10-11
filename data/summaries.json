@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-10-10T22:15:34Z",
+  "generated_at": "2026-10-11T10:16:19Z",
   "summaries": {
-    "e73a64689e50": {
-      "resumen": "Siete restaurantes recomendados para un almuerzo de alto nivel en Buenos Aires."
+    "cc1e6fea595f": {
+      "resumen": "Estudio clínico global que evalúa izalontamab brenitecán, un anticuerpo biespecífico conjugado a quimioterapia (ADC, por su sigla en inglés) dirigido contra EGFR (receptor del factor de crecimiento epidérmico) y HER3, en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, por su sigla en inglés) metastásico con mutación en EGFR. Vale la pena seguirlo porque apunta a una población que progresa tras los tratamientos dirigidos actuales.",
+      "destacado": true,
+      "analisis": "Diseño: Según el título se trata de un estudio clínico internacional (global); sin acceso al abstract no se puede precisar la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico con mutación en el gen EGFR (receptor del factor de crecimiento epidérmico), presumiblemente con progresión a inhibidores de tirosina quinasa previos.\nIntervención: Izalontamab brenitecán, un anticuerpo biespecífico conjugado a quimioterapia (ADC) dirigido contra EGFR y HER3; no se conoce el comparador a partir del título.\nResultados: No disponibles sin el abstract; no hay datos de supervivencia libre de progresión, supervivencia global ni tasa de respuesta en la fuente consultada.\nLimitaciones: Sin el artículo completo no se puede evaluar el tamaño muestral, la madurez del seguimiento ni el perfil de toxicidad.\nMensaje: Si los resultados son positivos, un ADC biespecífico anti-EGFR/HER3 podría sumar una opción para NSCLC con mutación en EGFR que progresó a tratamientos previos, pero su impacto real en la práctica dependerá de datos de eficacia y seguridad todavía no disponibles.\nNota: análisis sin acceso al abstract."
     },
-    "488271e8fc92": {
-      "resumen": "Carta de respuesta de los autores originales a dos comentarios críticos publicados en el Journal of Clinical Oncology sobre el ensayo SAKK 06/19, que evaluó una estrategia de preservación de órgano (evitar la cirugía) en cáncer rectal localmente avanzado según la respuesta al tratamiento. Completa el ida y vuelta científico sobre cuán sólida es la evidencia para sostener esa conducta.",
+    "cfc4b3b1038b": {
+      "resumen": "Nota de OncLive en formato de discusión entre especialistas sobre la quimioinmunoterapia neoadyuvante (quimioterapia combinada con inmunoterapia administrada antes de la cirugía) en cáncer colorrectal (CRC, por su sigla en inglés). Sirve para entender cómo los oncólogos evalúan este enfoque para achicar el tumor antes de operar.",
       "destacado": false
     },
-    "68d1f6f6914f": {
-      "resumen": "El Complejo Teatral de Buenos Aires presenta un ciclo dedicado al cine del director alemán Wim Wenders."
+    "a73528b1f532": {
+      "resumen": "Resumen semanal de OncLive con los artículos de oncología más comentados de la semana del 4 de octubre de 2026. Funciona como guía rápida de las novedades clínicas más relevantes de esos días.",
+      "destacado": false
     },
-    "fdf7956a188d": {
-      "resumen": "La FDA aprobó el uso de atezolizumab (un anticuerpo monoclonal inhibidor de PD-L1, la proteína de muerte celular programada tipo 1) combinado con quimioterapia para el tratamiento adyuvante del cáncer de colon en estadio III con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, por su sigla en inglés). Es relevante porque suma inmunoterapia al esquema estándar en un subgrupo de pacientes que históricamente responde mejor a este tipo de drogas.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de aprobación regulatoria que se apoya en un ensayo clínico de fase III, probablemente aleatorizado; el detalle metodológico completo (cegamiento, cantidad de centros y de pacientes) no figura en el título ni está disponible sin el abstract.\nPoblación: Pacientes con cáncer de colon en estadio III y deficiencia en la reparación de errores de apareamiento del ADN (dMMR), un subgrupo con alta carga mutacional que suele responder mejor a la inmunoterapia.\nIntervención: Atezolizumab (inhibidor de PD-L1) sumado a quimioterapia adyuvante, comparado presumiblemente contra quimioterapia adyuvante sola.\nResultados: No hay cifras de supervivencia libre de enfermedad ni de supervivencia global disponibles sin el abstract; la nota solo informa la aprobación regulatoria.\nLimitaciones: Al no contar con el artículo original no se puede valorar la magnitud real del beneficio, la toxicidad relativa ni la duración del seguimiento.\nMensaje: Si se confirma con la publicación completa, incorporar inmunoterapia adyuvante en dMMR estadio III marcaría un cambio de estándar para un subgrupo definido de pacientes con cáncer de colon.\nNota: análisis sin acceso al abstract."
-    },
-    "d6a319dee845": {
-      "resumen": "Un repaso de la colección primavera 2027 ready-to-wear del diseñador David Koma, presentada en Vogue."
+    "66018f846a65": {
+      "resumen": "Repaso de OncLive sobre las decisiones regulatorias de la FDA (la agencia de medicamentos de Estados Unidos) en cánceres hematológicos (de la sangre) durante septiembre de 2026. Da un panorama consolidado de las aprobaciones recientes en ese campo.",
+      "destacado": false
     },
     "c640fe669939": {
       "resumen": "Entrevista del ASCO Post al oncólogo Matthew Lunning sobre cómo posicionar la terapia con células CAR-T (linfocitos T modificados genéticamente para atacar tumores) frente al uso de tafasitamab (un anticuerpo monoclonal dirigido contra el antígeno CD19) en el linfoma difuso de células B grandes (DLBCL, por su sigla en inglés). Sirve para entender cómo los especialistas secuencian estas terapias en la práctica diaria.",
@@ -40,56 +39,60 @@
       "resumen": "Respuesta de los autores originales al comentario anterior sobre el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador en cáncer de mama, en la que defienden o aclaran su interpretación original. Cierra el intercambio editorial sobre este biomarcador.",
       "destacado": false
     },
-    "9414f15d88ff": {
-      "resumen": "La banda finlandesa de metal Amorphis se presenta en Argentina."
-    },
-    "55d45429d75f": {
-      "resumen": "Buenos Aires espera recibir a más de 120 mil turistas durante el fin de semana largo."
-    },
-    "3d66179b8b3b": {
-      "resumen": "El Teatro Argentino ofrece tres funciones gratuitas de la ópera \"Il trovatore\", de Verdi, en octubre."
-    },
-    "52f01a4c4c36": {
-      "resumen": "Diez propuestas para aprovechar el fin de semana largo en Buenos Aires."
-    },
-    "cfc4b3b1038b": {
-      "resumen": "Nota de OncLive en formato de discusión entre especialistas sobre la quimioinmunoterapia neoadyuvante (quimioterapia combinada con inmunoterapia administrada antes de la cirugía) en cáncer colorrectal (CRC, por su sigla en inglés). Sirve para entender cómo los oncólogos evalúan este enfoque para achicar el tumor antes de operar.",
+    "488271e8fc92": {
+      "resumen": "Carta de respuesta de los autores originales a dos comentarios críticos publicados en el Journal of Clinical Oncology sobre el ensayo SAKK 06/19, que evaluó una estrategia de preservación de órgano (evitar la cirugía) en cáncer rectal localmente avanzado según la respuesta al tratamiento. Completa el ida y vuelta científico sobre cuán sólida es la evidencia para sostener esa conducta.",
       "destacado": false
     },
-    "a73528b1f532": {
-      "resumen": "Resumen semanal de OncLive con los artículos de oncología más comentados de la semana del 4 de octubre de 2026. Funciona como guía rápida de las novedades clínicas más relevantes de esos días.",
-      "destacado": false
+    "d6a319dee845": {
+      "resumen": "Un repaso de la colección primavera 2027 ready-to-wear del diseñador David Koma, presentada en Vogue."
     },
-    "66018f846a65": {
-      "resumen": "Repaso de OncLive sobre las decisiones regulatorias de la FDA (la agencia de medicamentos de Estados Unidos) en cánceres hematológicos (de la sangre) durante septiembre de 2026. Da un panorama consolidado de las aprobaciones recientes en ese campo.",
-      "destacado": false
+    "b3df3ae91009": {
+      "resumen": "Vogue México explica el desenlace de Animals, la película de Netflix protagonizada por Ben Affleck."
     },
-    "1ee7b9621e2e": {
-      "resumen": "Zara sumó cinco modelos de pollera midi a cuadros, pensados para combinar con botas este otoño."
+    "4d12540d1664": {
+      "resumen": "Vanitatis repasa los cuatro suéteres que marcarán tendencia este otoño, desde el rojo furor hasta el regreso del cárdigan."
     },
-    "6951024d57b4": {
-      "resumen": "Blusas de colores inspiradas en el estilo de la reina Letizia, ideales para combinar con pantalones acampanados este octubre."
+    "aaa86eed7303": {
+      "resumen": "Pampita y Agustina Gandolfo lideran la tendencia de los looks con hombros descubiertos (off shoulder)."
     },
-    "d83d3ae027d7": {
-      "resumen": "Massimo Dutti inauguró una tienda especial en Roma y estas son las cinco prendas favoritas de las italianas."
+    "01f4a42c2033": {
+      "resumen": "El músico colombiano Gato e' Monte cuenta en Vogue México los detalles de su nuevo álbum y el valor de la música tradicional de su país."
     },
-    "02b9be84034d": {
-      "resumen": "Los adornos navideños de plástico quedaron atrás: la tendencia de 2026 apuesta por materiales naturales para decorar el árbol."
+    "ef22088a0926": {
+      "resumen": "Quién es Rachel Ojuromi, la creadora de contenido nigeriana que desfiló para Chanel en la Semana de la Moda."
     },
-    "08b296ca942e": {
-      "resumen": "Cinco prendas retro que pisan fuerte y se instalan como tendencia esta primavera-verano 2026."
+    "a47982bb05ea": {
+      "resumen": "El futbolista Paulo Dybala se subió a la tendencia de las bermudas oversize con un look urbano que llamó la atención."
     },
-    "93355b80316b": {
-      "resumen": "Una nueva tienda pop-up de moda en Madrid presenta la propuesta de la marca de jeans Wrangler."
+    "9a32225394af": {
+      "resumen": "Las bandas de metal Malevolent Creation y Mystic Circle se presentarán en Argentina."
     },
-    "06b27d4bad71": {
-      "resumen": "Guía de experiencias, música y eventos para disfrutar el fin de semana largo en Buenos Aires."
+    "6ba8381c90d8": {
+      "resumen": "Una guía de obras de teatro que se presentan en espacios no convencionales de Buenos Aires."
+    },
+    "45ccd7b00c96": {
+      "resumen": "Koino Yokan se despide del año con una presentación en Buenos Aires."
+    },
+    "84022874474e": {
+      "resumen": "Abrieron las inscripciones para estudiar danza clásica de forma gratuita en la escuela del Teatro Colón en Mar del Plata."
+    },
+    "9d3a2b5cb236": {
+      "resumen": "Una selección de restaurantes para descubrir en el circuito gastronómico de Puerto Madero."
+    },
+    "8754f92f0cda": {
+      "resumen": "Una guía de experiencias, música y eventos para aprovechar el fin de semana largo en Buenos Aires."
     },
     "4af29fd2b640": {
       "resumen": "Pronóstico para el fin de semana largo en el AMBA: cuándo despejarán las lluvias y qué día conviene elegir para los planes."
     },
     "876764f5eca3": {
       "resumen": "Propuestas de actividades para aprovechar el fin de semana extralargo en la Ciudad de Buenos Aires."
+    },
+    "8d892059cccc": {
+      "resumen": "Buenos Aires se prepara para recibir a más de 120 mil turistas durante el fin de semana largo."
+    },
+    "bfcbad9c44c0": {
+      "resumen": "Meat & Fire, el festival gastronómico nacido en Barcelona, llega a Buenos Aires para sorprender al país del asado."
     }
   }
 }
