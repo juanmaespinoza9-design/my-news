@@ -1,18 +1,10 @@
 {
-  "generated_at": "2026-10-12T10:16:31Z",
+  "generated_at": "2026-10-12T22:18:05Z",
   "summaries": {
     "cc1e6fea595f": {
       "resumen": "Estudio clínico global que evalúa izalontamab brenitecán, un anticuerpo biespecífico conjugado a quimioterapia (ADC, por su sigla en inglés) dirigido contra EGFR (receptor del factor de crecimiento epidérmico) y HER3, en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, por su sigla en inglés) metastásico con mutación en EGFR. Vale la pena seguirlo porque apunta a una población que progresa tras los tratamientos dirigidos actuales.",
-      "destacado": true,
+      "destacado": false,
       "analisis": "Diseño: Según el título se trata de un estudio clínico internacional (global); sin acceso al abstract no se puede precisar la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico con mutación en el gen EGFR (receptor del factor de crecimiento epidérmico), presumiblemente con progresión a inhibidores de tirosina quinasa previos.\nIntervención: Izalontamab brenitecán, un anticuerpo biespecífico conjugado a quimioterapia (ADC) dirigido contra EGFR y HER3; no se conoce el comparador a partir del título.\nResultados: No disponibles sin el abstract; no hay datos de supervivencia libre de progresión, supervivencia global ni tasa de respuesta en la fuente consultada.\nLimitaciones: Sin el artículo completo no se puede evaluar el tamaño muestral, la madurez del seguimiento ni el perfil de toxicidad.\nMensaje: Si los resultados son positivos, un ADC biespecífico anti-EGFR/HER3 podría sumar una opción para NSCLC con mutación en EGFR que progresó a tratamientos previos, pero su impacto real en la práctica dependerá de datos de eficacia y seguridad todavía no disponibles.\nNota: análisis sin acceso al abstract."
-    },
-    "cfc4b3b1038b": {
-      "resumen": "Nota de OncLive en formato de discusión entre especialistas sobre la quimioinmunoterapia neoadyuvante (quimioterapia combinada con inmunoterapia administrada antes de la cirugía) en cáncer colorrectal (CRC, por su sigla en inglés). Sirve para entender cómo los oncólogos evalúan este enfoque para achicar el tumor antes de operar.",
-      "destacado": false
-    },
-    "c640fe669939": {
-      "resumen": "Entrevista del ASCO Post al oncólogo Matthew Lunning sobre cómo posicionar la terapia con células CAR-T (linfocitos T modificados genéticamente para atacar tumores) frente al uso de tafasitamab (un anticuerpo monoclonal dirigido contra el antígeno CD19) en el linfoma difuso de células B grandes (DLBCL, por su sigla en inglés). Sirve para entender cómo los especialistas secuencian estas terapias en la práctica diaria.",
-      "destacado": false
     },
     "149609b530dc": {
       "resumen": "Estudio de fase I/II que evalúa bavdegalutamide, un degradador del receptor de andrógenos basado en la tecnología PROTAC (quimera dirigida a la proteólisis, por su sigla en inglés), en pacientes con cáncer de próstata metastásico resistente a la castración. Interesa porque representa un mecanismo de acción novedoso, distinto de los antiandrógenos clásicos, para tumores que ya progresaron a los tratamientos hormonales habituales.",
@@ -31,17 +23,64 @@
       "resumen": "Carta de respuesta de los autores originales a dos comentarios críticos publicados en el Journal of Clinical Oncology sobre el ensayo SAKK 06/19, que evaluó una estrategia de preservación de órgano (evitar la cirugía) en cáncer rectal localmente avanzado según la respuesta al tratamiento. Completa el ida y vuelta científico sobre cuán sólida es la evidencia para sostener esa conducta.",
       "destacado": false
     },
-    "6ba8381c90d8": {
-      "resumen": "Una guía de obras de teatro que se presentan en espacios no convencionales de Buenos Aires."
+    "3d0e503edf89": {
+      "resumen": "Resumen mensual de OncLive con las noticias y comentarios de especialistas más relevantes sobre cáncer gastrointestinal (GI, tumores del tubo digestivo como esófago, estómago, páncreas, colon y recto) durante septiembre de 2026. Sirve como repaso rápido de las novedades del mes en ese subgrupo de tumores si te lo perdiste en su momento.",
+      "destacado": false
+    },
+    "33693e371566": {
+      "resumen": "Un estudio de primera línea combinó retlirafusp alfa -una proteína de fusión bifuncional de la familia que bloquea PD-L1 (proteína de muerte celular programada tipo 1) y secuestra TGF-beta (factor de crecimiento transformante beta)- con el tratamiento estándar en cáncer gástrico avanzado HER2-negativo (sin sobreexpresión del receptor HER2) y mostró beneficio en la supervivencia. Vale la pena seguirlo porque el cáncer gástrico avanzado tiene pocas opciones de primera línea más allá de la quimioterapia y la inmunoterapia convencional.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trata de un estudio clínico de primera línea; sin acceso al abstract no se puede precisar la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con cáncer gástrico avanzado HER2-negativo (sin sobreexpresión del receptor del factor de crecimiento epidérmico humano tipo 2), sin tratamiento previo.\nIntervención: Combinación de primera línea que incluye retlirafusp alfa, sumada al tratamiento estándar; no se conoce el comparador exacto desde el título.\nResultados: El título anuncia beneficio en la supervivencia, sin especificar si es supervivencia global o libre de progresión, ni la magnitud, la razón de riesgo o el intervalo de confianza.\nLimitaciones: Sin el abstract no se puede valorar la significancia estadística, la madurez del seguimiento ni el perfil de toxicidad.\nMensaje: Si se confirma con los datos completos, podría sumar una opción de primera línea para el cáncer gástrico HER2-negativo, hoy limitado a quimioterapia e inmunoterapia convencional.\nNota: análisis sin acceso al abstract."
+    },
+    "71ce66cc755a": {
+      "resumen": "Un estudio relevó las barreras de cobertura de seguro y de costo que enfrentan los pacientes para acceder a las terapias orales (por boca) contra cánceres de la sangre, como las leucemias, los linfomas y el mieloma múltiple. Interesa porque esas barreras pueden hacer que un tratamiento eficaz no llegue a aplicarse en la práctica real.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio observacional (encuesta o análisis de registros o reclamos de seguro) sobre acceso a tratamiento; sin el abstract no se puede precisar el diseño exacto, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con cánceres hematológicos (de la sangre) candidatos a terapias orales, y los sistemas de cobertura o aseguradoras involucradas.\nIntervención: No aplica un tratamiento activo; el estudio analiza el acceso a terapias orales ya aprobadas, en relación con el tipo de cobertura de seguro y los costos de bolsillo.\nResultados: El título indica que se identificaron barreras de seguro y de costo, sin datos numéricos (porcentajes, tasas de abandono) disponibles en la fuente consultada.\nLimitaciones: Un estudio de este tipo suele depender de bases de datos administrativas o encuestas, con riesgo de sesgo de selección y de generalización a otros sistemas de salud.\nMensaje: Más allá de la eficacia de un fármaco, el acceso económico y la cobertura condicionan si un tratamiento oral llega realmente al paciente; relevante para discutir con los pacientes las opciones de cobertura antes de indicar estas terapias.\nNota: análisis sin acceso al abstract."
+    },
+    "3a9b07b6832a": {
+      "resumen": "El ensayo de fase 3 ACTION-1 evaluó RYZ101 (un radiofármaco de terapia dirigida con partículas alfa, actinio-225 unido a DOTATATE) en pacientes con tumores neuroendocrinos gastroenteropancreáticos (GEP-NET, tumores del tubo digestivo y el páncreas que producen hormonas) que progresaron después de un tratamiento previo con lutecio-177. El estudio cumplió su criterio de valoración principal de supervivencia libre de progresión (PFS). Vale la pena seguirlo porque sería la primera opción sistemática validada tras progresar al tratamiento estándar con lutecio-177.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase 3 (ACTION-1), según el título; sin acceso al abstract no se puede precisar la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con tumores neuroendocrinos gastroenteropancreáticos (GEP-NET) que progresaron después de un tratamiento previo con lutecio-177 (terapia con radioligandos marcados con Lu-177 DOTATATE).\nIntervención: RYZ101, un radiofármaco de terapia dirigida con partículas alfa (actinio-225 unido a DOTATATE); no se conoce el comparador exacto (probablemente mejor tratamiento de soporte o elección del investigador) desde el título.\nResultados: El título confirma que el estudio cumplió su criterio de valoración principal, la supervivencia libre de progresión (PFS), pero no brinda la mediana de PFS, la razón de riesgo, el intervalo de confianza ni el valor de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la supervivencia global ni el perfil de toxicidad (por ejemplo renal o hematológica, típica de la terapia con radioligandos).\nMensaje: Si los datos completos confirman el beneficio, RYZ101 podría convertirse en la primera opción sistemática validada para la progresión después del lutecio-177 en GEP-NET, un escenario hoy sin tratamiento estándar claro.\nNota: análisis sin acceso al abstract."
+    },
+    "f90ee9186466": {
+      "resumen": "Armenia otorgó las primeras autorizaciones de comercialización para la combinación de botensilimab (un anticuerpo anti-CTLA-4 con mayor actividad inmune) y balstilimab (un anticuerpo anti-PD-1) en cáncer colorrectal metastásico con estabilidad de microsatélites (MSS, tumores que históricamente responden poco a la inmunoterapia) ya tratado previamente. Es una noticia regulatoria, no un estudio clínico nuevo, pero marca un hito porque ese subtipo de cáncer colorrectal tenía pocas alternativas de inmunoterapia.",
+      "destacado": false
+    },
+    "192cbd470f79": {
+      "resumen": "Las fotos y el análisis de la colección Pre-Fall 2027 de la marca de moda Pronounce, publicados por Vogue."
+    },
+    "88c8a81f29e0": {
+      "resumen": "La pasarela y las fotos de la colección Spring 2027 de la marca Staffonly, presentada en la Semana de la Moda de Shanghái."
+    },
+    "94215012db3e": {
+      "resumen": "La pasarela y las fotos de la colección Spring 2027 de la marca Yirantian, presentada en la Semana de la Moda de Shanghái."
+    },
+    "fd5f0ca19eb6": {
+      "resumen": "Las fotos y los detalles del casamiento de María y Adrián en Portugal, donde la novia eligió sandalias de la marca Mango."
+    },
+    "8b5b727d82c9": {
+      "resumen": "Cinco modelos de zapatillas (tenis) en tendencia para combinar con pantalones baggy (anchos) este octubre."
+    },
+    "8f6881131713": {
+      "resumen": "Una selección de blusas de seda con estilo boho elegante para usar entre octubre y diciembre de este año."
+    },
+    "8163db000050": {
+      "resumen": "Cinco modelos de vestidos en tendencia este octubre que se agotan en las tiendas de Mango y Zara."
+    },
+    "aab6bc6ff2be": {
+      "resumen": "Consejos para combinar botas altas con vestidos mini, una de las tendencias del otoño de este año."
+    },
+    "02b9be84034d": {
+      "resumen": "Los adornos navideños de plástico quedan atrás: la tendencia de 2026 apuesta por árboles de Navidad decorados con materiales naturales."
     },
     "45ccd7b00c96": {
       "resumen": "Koino Yokan se despide del año con una presentación en Buenos Aires."
     },
-    "84022874474e": {
-      "resumen": "Abrieron las inscripciones para estudiar danza clásica de forma gratuita en la escuela del Teatro Colón en Mar del Plata."
-    },
     "9d3a2b5cb236": {
       "resumen": "Una selección de restaurantes para descubrir en el circuito gastronómico de Puerto Madero."
+    },
+    "06b27d4bad71": {
+      "resumen": "iProfesional reúne una guía de experiencias, música y eventos para aprovechar el fin de semana largo en Buenos Aires."
     },
     "4af29fd2b640": {
       "resumen": "Pronóstico para el fin de semana largo en el AMBA: cuándo despejarán las lluvias y qué día conviene elegir para los planes."
@@ -55,44 +94,14 @@
     "bfcbad9c44c0": {
       "resumen": "Meat & Fire, el festival gastronómico nacido en Barcelona, llega a Buenos Aires para sorprender al país del asado."
     },
-    "3d0e503edf89": {
-      "resumen": "Resumen mensual de OncLive con las noticias y comentarios de especialistas más relevantes sobre cáncer gastrointestinal (GI, tumores del tubo digestivo como esófago, estómago, páncreas, colon y recto) durante septiembre de 2026. Sirve como repaso rápido de las novedades del mes en ese subgrupo de tumores si te lo perdiste en su momento.",
-      "destacado": false
+    "1c2878eb3f45": {
+      "resumen": "La banda La Grecia presentó su nuevo tema \"Tan Fácil\" y confirmó una fecha en el Teatro Vorterix."
     },
-    "492f853bdefb": {
-      "resumen": "Selección semanal de OncLive con los cinco videos de oncología más vistos o comentados de la semana del 5 de octubre de 2026. Funciona como una guía rápida en formato audiovisual de los temas que están discutiendo los especialistas esa semana.",
-      "destacado": false
+    "84343f402026": {
+      "resumen": "El Teatro Español de la localidad de 25 de Mayo cumple 126 años y lo celebra este 12 de octubre."
     },
-    "1acc171da238": {
-      "resumen": "Entrevista de The ASCO Post a la oncóloga Julia Rotow sobre el uso de trastuzumab deruxtecán (T-DXd, un anticuerpo conjugado a quimioterapia dirigido contra HER2) como tratamiento de primera línea en cáncer de pulmón de células no pequeñas (NSCLC, por su sigla en inglés) metastásico con mutación en HER2. Interesa porque aborda cómo está cambiando el orden de tratamientos en un subgrupo de NSCLC todavía poco frecuente.",
-      "destacado": false
-    },
-    "773f24507377": {
-      "resumen": "Prensa Libre Online repasa el crecimiento del folklore en Buenos Aires, con festivales, peñas y streaming en alza."
-    },
-    "06b27d4bad71": {
-      "resumen": "iProfesional reúne una guía de experiencias, música y eventos para aprovechar el fin de semana largo en Buenos Aires."
-    },
-    "733839766d54": {
-      "resumen": "Zara lanza una selección de cinco zapatos chatos que se imponen como tendencia, ideales tanto para la oficina como para una salida con amigas."
-    },
-    "bdbe38c23d03": {
-      "resumen": "El ante vuelve a pisar fuerte en 2026 y las expertas en moda ya cuentan cómo lo están combinando esta temporada."
-    },
-    "c51663fd4cb3": {
-      "resumen": "Del estampado animal print tipo \"bambi\" al de cebra: los cinco diseños que se consolidan como tendencia en el otoño 2026."
-    },
-    "fba7dbca6914": {
-      "resumen": "Zara y Primark dejan atrás el azul cielo y el rojo pasión y apuestan por un nuevo color de temporada para renovar los looks de oficina y del día a día en el otoño 2026."
-    },
-    "49f5d41efbce": {
-      "resumen": "La actriz Eiza González combinó un vestido transparente, una de las tendencias del otoño 2026, con zapatos pumps durante una aparición en Londres."
-    },
-    "a5368416b321": {
-      "resumen": "El tradicional desfile de Día de Muertos en la Ciudad de México ya tiene fecha y horario confirmados para la edición 2026."
-    },
-    "59aabfb90b28": {
-      "resumen": "Un repaso por los platos típicos que no faltan en las celebraciones del Día de Muertos."
+    "2835ae291a69": {
+      "resumen": "La compañía italiana Teatro del Sangro vuelve a presentarse en la Argentina con la obra \"Rosaura alle dieci\"."
     }
   }
 }
