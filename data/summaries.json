@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-12T22:18:05Z",
+  "generated_at": "2026-10-13T10:16:47Z",
   "summaries": {
-    "cc1e6fea595f": {
-      "resumen": "Estudio clínico global que evalúa izalontamab brenitecán, un anticuerpo biespecífico conjugado a quimioterapia (ADC, por su sigla en inglés) dirigido contra EGFR (receptor del factor de crecimiento epidérmico) y HER3, en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, por su sigla en inglés) metastásico con mutación en EGFR. Vale la pena seguirlo porque apunta a una población que progresa tras los tratamientos dirigidos actuales.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título se trata de un estudio clínico internacional (global); sin acceso al abstract no se puede precisar la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico con mutación en el gen EGFR (receptor del factor de crecimiento epidérmico), presumiblemente con progresión a inhibidores de tirosina quinasa previos.\nIntervención: Izalontamab brenitecán, un anticuerpo biespecífico conjugado a quimioterapia (ADC) dirigido contra EGFR y HER3; no se conoce el comparador a partir del título.\nResultados: No disponibles sin el abstract; no hay datos de supervivencia libre de progresión, supervivencia global ni tasa de respuesta en la fuente consultada.\nLimitaciones: Sin el artículo completo no se puede evaluar el tamaño muestral, la madurez del seguimiento ni el perfil de toxicidad.\nMensaje: Si los resultados son positivos, un ADC biespecífico anti-EGFR/HER3 podría sumar una opción para NSCLC con mutación en EGFR que progresó a tratamientos previos, pero su impacto real en la práctica dependerá de datos de eficacia y seguridad todavía no disponibles.\nNota: análisis sin acceso al abstract."
-    },
     "149609b530dc": {
       "resumen": "Estudio de fase I/II que evalúa bavdegalutamide, un degradador del receptor de andrógenos basado en la tecnología PROTAC (quimera dirigida a la proteólisis, por su sigla en inglés), en pacientes con cáncer de próstata metastásico resistente a la castración. Interesa porque representa un mecanismo de acción novedoso, distinto de los antiandrógenos clásicos, para tumores que ya progresaron a los tratamientos hormonales habituales.",
       "destacado": false,
@@ -15,36 +10,10 @@
       "resumen": "Comentario o carta al editor en el Journal of Clinical Oncology que discute los límites de usar el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador negativo en cáncer de mama, advirtiendo sobre posibles puntos ciegos en su interpretación. Forma parte de un intercambio editorial con otros autores sobre cómo se usan los biomarcadores para decidir el tratamiento.",
       "destacado": false
     },
-    "7bb20d370a56": {
-      "resumen": "Respuesta de los autores originales al comentario anterior sobre el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador en cáncer de mama, en la que defienden o aclaran su interpretación original. Cierra el intercambio editorial sobre este biomarcador.",
-      "destacado": false
-    },
-    "488271e8fc92": {
-      "resumen": "Carta de respuesta de los autores originales a dos comentarios críticos publicados en el Journal of Clinical Oncology sobre el ensayo SAKK 06/19, que evaluó una estrategia de preservación de órgano (evitar la cirugía) en cáncer rectal localmente avanzado según la respuesta al tratamiento. Completa el ida y vuelta científico sobre cuán sólida es la evidencia para sostener esa conducta.",
-      "destacado": false
-    },
-    "3d0e503edf89": {
-      "resumen": "Resumen mensual de OncLive con las noticias y comentarios de especialistas más relevantes sobre cáncer gastrointestinal (GI, tumores del tubo digestivo como esófago, estómago, páncreas, colon y recto) durante septiembre de 2026. Sirve como repaso rápido de las novedades del mes en ese subgrupo de tumores si te lo perdiste en su momento.",
-      "destacado": false
-    },
-    "33693e371566": {
-      "resumen": "Un estudio de primera línea combinó retlirafusp alfa -una proteína de fusión bifuncional de la familia que bloquea PD-L1 (proteína de muerte celular programada tipo 1) y secuestra TGF-beta (factor de crecimiento transformante beta)- con el tratamiento estándar en cáncer gástrico avanzado HER2-negativo (sin sobreexpresión del receptor HER2) y mostró beneficio en la supervivencia. Vale la pena seguirlo porque el cáncer gástrico avanzado tiene pocas opciones de primera línea más allá de la quimioterapia y la inmunoterapia convencional.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trata de un estudio clínico de primera línea; sin acceso al abstract no se puede precisar la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con cáncer gástrico avanzado HER2-negativo (sin sobreexpresión del receptor del factor de crecimiento epidérmico humano tipo 2), sin tratamiento previo.\nIntervención: Combinación de primera línea que incluye retlirafusp alfa, sumada al tratamiento estándar; no se conoce el comparador exacto desde el título.\nResultados: El título anuncia beneficio en la supervivencia, sin especificar si es supervivencia global o libre de progresión, ni la magnitud, la razón de riesgo o el intervalo de confianza.\nLimitaciones: Sin el abstract no se puede valorar la significancia estadística, la madurez del seguimiento ni el perfil de toxicidad.\nMensaje: Si se confirma con los datos completos, podría sumar una opción de primera línea para el cáncer gástrico HER2-negativo, hoy limitado a quimioterapia e inmunoterapia convencional.\nNota: análisis sin acceso al abstract."
-    },
     "71ce66cc755a": {
       "resumen": "Un estudio relevó las barreras de cobertura de seguro y de costo que enfrentan los pacientes para acceder a las terapias orales (por boca) contra cánceres de la sangre, como las leucemias, los linfomas y el mieloma múltiple. Interesa porque esas barreras pueden hacer que un tratamiento eficaz no llegue a aplicarse en la práctica real.",
       "destacado": false,
       "analisis": "Diseño: Por el título parece un estudio observacional (encuesta o análisis de registros o reclamos de seguro) sobre acceso a tratamiento; sin el abstract no se puede precisar el diseño exacto, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con cánceres hematológicos (de la sangre) candidatos a terapias orales, y los sistemas de cobertura o aseguradoras involucradas.\nIntervención: No aplica un tratamiento activo; el estudio analiza el acceso a terapias orales ya aprobadas, en relación con el tipo de cobertura de seguro y los costos de bolsillo.\nResultados: El título indica que se identificaron barreras de seguro y de costo, sin datos numéricos (porcentajes, tasas de abandono) disponibles en la fuente consultada.\nLimitaciones: Un estudio de este tipo suele depender de bases de datos administrativas o encuestas, con riesgo de sesgo de selección y de generalización a otros sistemas de salud.\nMensaje: Más allá de la eficacia de un fármaco, el acceso económico y la cobertura condicionan si un tratamiento oral llega realmente al paciente; relevante para discutir con los pacientes las opciones de cobertura antes de indicar estas terapias.\nNota: análisis sin acceso al abstract."
-    },
-    "3a9b07b6832a": {
-      "resumen": "El ensayo de fase 3 ACTION-1 evaluó RYZ101 (un radiofármaco de terapia dirigida con partículas alfa, actinio-225 unido a DOTATATE) en pacientes con tumores neuroendocrinos gastroenteropancreáticos (GEP-NET, tumores del tubo digestivo y el páncreas que producen hormonas) que progresaron después de un tratamiento previo con lutecio-177. El estudio cumplió su criterio de valoración principal de supervivencia libre de progresión (PFS). Vale la pena seguirlo porque sería la primera opción sistemática validada tras progresar al tratamiento estándar con lutecio-177.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase 3 (ACTION-1), según el título; sin acceso al abstract no se puede precisar la aleatorización, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con tumores neuroendocrinos gastroenteropancreáticos (GEP-NET) que progresaron después de un tratamiento previo con lutecio-177 (terapia con radioligandos marcados con Lu-177 DOTATATE).\nIntervención: RYZ101, un radiofármaco de terapia dirigida con partículas alfa (actinio-225 unido a DOTATATE); no se conoce el comparador exacto (probablemente mejor tratamiento de soporte o elección del investigador) desde el título.\nResultados: El título confirma que el estudio cumplió su criterio de valoración principal, la supervivencia libre de progresión (PFS), pero no brinda la mediana de PFS, la razón de riesgo, el intervalo de confianza ni el valor de p.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la supervivencia global ni el perfil de toxicidad (por ejemplo renal o hematológica, típica de la terapia con radioligandos).\nMensaje: Si los datos completos confirman el beneficio, RYZ101 podría convertirse en la primera opción sistemática validada para la progresión después del lutecio-177 en GEP-NET, un escenario hoy sin tratamiento estándar claro.\nNota: análisis sin acceso al abstract."
-    },
-    "f90ee9186466": {
-      "resumen": "Armenia otorgó las primeras autorizaciones de comercialización para la combinación de botensilimab (un anticuerpo anti-CTLA-4 con mayor actividad inmune) y balstilimab (un anticuerpo anti-PD-1) en cáncer colorrectal metastásico con estabilidad de microsatélites (MSS, tumores que históricamente responden poco a la inmunoterapia) ya tratado previamente. Es una noticia regulatoria, no un estudio clínico nuevo, pero marca un hito porque ese subtipo de cáncer colorrectal tenía pocas alternativas de inmunoterapia.",
-      "destacado": false
     },
     "192cbd470f79": {
       "resumen": "Las fotos y el análisis de la colección Pre-Fall 2027 de la marca de moda Pronounce, publicados por Vogue."
@@ -54,27 +23,6 @@
     },
     "94215012db3e": {
       "resumen": "La pasarela y las fotos de la colección Spring 2027 de la marca Yirantian, presentada en la Semana de la Moda de Shanghái."
-    },
-    "fd5f0ca19eb6": {
-      "resumen": "Las fotos y los detalles del casamiento de María y Adrián en Portugal, donde la novia eligió sandalias de la marca Mango."
-    },
-    "8b5b727d82c9": {
-      "resumen": "Cinco modelos de zapatillas (tenis) en tendencia para combinar con pantalones baggy (anchos) este octubre."
-    },
-    "8f6881131713": {
-      "resumen": "Una selección de blusas de seda con estilo boho elegante para usar entre octubre y diciembre de este año."
-    },
-    "8163db000050": {
-      "resumen": "Cinco modelos de vestidos en tendencia este octubre que se agotan en las tiendas de Mango y Zara."
-    },
-    "aab6bc6ff2be": {
-      "resumen": "Consejos para combinar botas altas con vestidos mini, una de las tendencias del otoño de este año."
-    },
-    "02b9be84034d": {
-      "resumen": "Los adornos navideños de plástico quedan atrás: la tendencia de 2026 apuesta por árboles de Navidad decorados con materiales naturales."
-    },
-    "45ccd7b00c96": {
-      "resumen": "Koino Yokan se despide del año con una presentación en Buenos Aires."
     },
     "9d3a2b5cb236": {
       "resumen": "Una selección de restaurantes para descubrir en el circuito gastronómico de Puerto Madero."
@@ -91,17 +39,77 @@
     "8d892059cccc": {
       "resumen": "Buenos Aires se prepara para recibir a más de 120 mil turistas durante el fin de semana largo."
     },
-    "bfcbad9c44c0": {
-      "resumen": "Meat & Fire, el festival gastronómico nacido en Barcelona, llega a Buenos Aires para sorprender al país del asado."
-    },
     "1c2878eb3f45": {
       "resumen": "La banda La Grecia presentó su nuevo tema \"Tan Fácil\" y confirmó una fecha en el Teatro Vorterix."
     },
-    "84343f402026": {
-      "resumen": "El Teatro Español de la localidad de 25 de Mayo cumple 126 años y lo celebra este 12 de octubre."
+    "79773b649cbe": {
+      "resumen": "Entrevista en video a un especialista sobre datos de vida real (fuera de ensayos clínicos) de fibrilación auricular (una arritmia cardíaca) y otros eventos cardiovasculares en pacientes con leucemia linfocítica crónica (LLC). Sirve para entender cómo el seguimiento cardiológico se integra al manejo de esta leucemia, sobre todo con el uso de inhibidores de BTK (tirosina quinasa de Bruton).",
+      "destacado": false
     },
-    "2835ae291a69": {
-      "resumen": "La compañía italiana Teatro del Sangro vuelve a presentarse en la Argentina con la obra \"Rosaura alle dieci\"."
+    "662b275f578e": {
+      "resumen": "Nota que repasa una encuesta entre oncólogos sobre cuáles fueron los resúmenes (abstracts) de cáncer de mama más comentados en el congreso ESMO (Sociedad Europea de Oncología Médica) 2026. Sirve como guía rápida de qué presentaciones generaron más interés en la comunidad oncológica.",
+      "destacado": false
+    },
+    "8ca70195c541": {
+      "resumen": "Columna de opinión que cuestiona el uso del término CAM (medicina complementaria y alternativa, por su sigla en inglés) y propone discontinuarlo por ambiguo y desactualizado. Plantea un debate sobre cómo deberían hablar los oncólogos de las terapias no convencionales con sus pacientes.",
+      "destacado": false
+    },
+    "11494c4cf161": {
+      "resumen": "Entrevista en video a un oncólogo sobre cuándo y cómo testear mutaciones del gen ESR1 (receptor de estrógeno 1) en cáncer de mama con receptores hormonales positivos. Relevante porque esa mutación puede aparecer durante el tratamiento y orientar el cambio a terapias de segunda línea.",
+      "destacado": false
+    },
+    "15f1f2533541": {
+      "resumen": "Entrevista en video al mismo especialista sobre cómo manejar mutaciones que aparecen combinadas en cáncer de mama avanzado y qué estrategias terapéuticas usar frente a ese escenario. Complementa la nota sobre testeo de mutaciones en ESR1 (receptor de estrógeno 1).",
+      "destacado": false
+    },
+    "d0c34c7c961b": {
+      "resumen": "Estudio que desarrolló y validó un modelo de predicción de riesgo de cáncer de pulmón basado en un análisis de sangre, el Copenhagen Lung Cancer Risk Model (CPH-Lung, nombrado por la ciudad donde se hizo). Interesa porque podría ayudar a seleccionar mejor a quién ofrecer tamizaje (screening) con tomografía de baja dosis.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, estudio de desarrollo y validación de un modelo de predicción de riesgo (probablemente de cohorte, con una muestra de derivación y otra de validación); sin el abstract no se puede precisar la cantidad de centros ni de pacientes.\nPoblación: Personas en riesgo de cáncer de pulmón (probablemente fumadores o ex fumadores candidatos a tamizaje), de la cohorte de Copenhague.\nIntervención: No hay un tratamiento; se evalúa un modelo de predicción de riesgo basado en un análisis de sangre (biomarcadores), probablemente comparado con modelos clínicos clásicos basados en edad y tabaquismo.\nResultados: No disponibles sin el abstract; no hay datos de sensibilidad, especificidad ni área bajo la curva (AUC) del modelo en la fuente consultada.\nLimitaciones: Un modelo desarrollado en una población específica (danesa) puede no generalizar a otras poblaciones; falta el abstract para evaluar el tamaño muestral y la validación externa.\nMensaje: Si se valida externamente, un modelo de riesgo basado en sangre podría mejorar la selección de candidatos a tamizaje de cáncer de pulmón, optimizando recursos y evitando tomografías innecesarias.\nNota: análisis sin acceso al abstract."
+    },
+    "6da2dbbb104c": {
+      "resumen": "El ensayo aleatorizado RT CHARM (Alliance A221505) comparó la radioterapia hipofraccionada (menos sesiones con dosis más altas cada una) contra el esquema convencional después de una mastectomía, en mujeres que se habían hecho reconstrucción mamaria. Importa porque un esquema más corto implica menos visitas y menor costo, si resulta igual de seguro para la reconstrucción.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (RT CHARM, Alliance A221505), según el título; probablemente multicéntrico por tratarse de un estudio del grupo cooperativo Alliance, aunque sin el abstract no se puede precisar el cegamiento ni la cantidad exacta de centros o de pacientes.\nPoblación: Mujeres con cáncer de mama tratadas con mastectomía y reconstrucción mamaria que requerían radioterapia posmastectomía.\nIntervención: Radioterapia hipofraccionada (dosis más altas por sesión, menos sesiones en total) versus el esquema de fraccionamiento convencional.\nResultados: No disponibles sin el abstract; no hay datos comparados de complicaciones de la reconstrucción, resultado estético ni toxicidad entre los dos esquemas en la fuente consultada.\nLimitaciones: Sin el abstract no se puede evaluar la madurez del seguimiento, el tamaño muestral ni si el estudio alcanzó no inferioridad o superioridad en su criterio principal.\nMensaje: Si la hipofraccionación demuestra ser igual de segura para la reconstrucción, podría convertirse en el estándar y acortar significativamente el tratamiento radiante posmastectomía.\nNota: análisis sin acceso al abstract."
+    },
+    "1b2ec98b644f": {
+      "resumen": "Editorial de Lancet Oncology que discute si ya es momento de reemplazar la mamografía digital convencional por la tomosíntesis mamaria digital (una técnica que genera imágenes en 3D) en los programas de tamizaje poblacional. Acompaña los resultados del ensayo TOSYMA publicado en la misma revista.",
+      "destacado": false
+    },
+    "62739380997c": {
+      "resumen": "El ensayo aleatorizado TOSYMA comparó la tomosíntesis mamaria digital combinada con mamografía sintetizada (una reconstrucción 2D generada a partir de las imágenes 3D) contra la mamografía digital convencional en el tamizaje poblacional, y reportó las tasas de cáncer de mama invasivo de intervalo (los que aparecen entre un control y el siguiente) a 24 meses de seguimiento. Es uno de los estudios más sólidos sobre si la tomosíntesis reduce los cánceres que se escapan entre controles.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, abierto (sin ciego) y de superioridad (TOSYMA), con seguimiento a 24 meses, según el título; sin el abstract no se puede precisar la cantidad exacta de centros ni de participantes.\nPoblación: Mujeres incluidas en un programa de tamizaje poblacional de cáncer de mama.\nIntervención: Tomosíntesis mamaria digital combinada con mamografía sintetizada, comparada con la mamografía digital convencional como método de tamizaje.\nResultados: El título indica que se evaluaron las tasas de cáncer de mama invasivo de intervalo a los 24 meses de seguimiento, pero no brinda las tasas numéricas, el riesgo relativo ni el intervalo de confianza.\nLimitaciones: Sin el abstract no se puede valorar la significancia estadística del hallazgo, la tasa de sobrediagnóstico ni la dosis de radiación comparada entre ambos métodos.\nMensaje: Si confirma una reducción de los cánceres de intervalo, la tomosíntesis con mamografía sintetizada podría reemplazar gradualmente a la mamografía digital convencional en los programas de tamizaje poblacional.\nNota: análisis sin acceso al abstract."
+    },
+    "fce6e5876e66": {
+      "resumen": "El pantalón con diseño de estribo (la tira que pasa por debajo del pie) vuelve a imponerse como tendencia en las calles de Madrid."
+    },
+    "be2c8404dc0f": {
+      "resumen": "La falda asimétrica se consolida como una de las tendencias del otoño 2026 y, según Telva, refleja también el momento que atraviesan la moda y la sociedad."
+    },
+    "0d4c1f7b2eb3": {
+      "resumen": "Telva explica cómo lograr la melena a la francesa, el peinado de pelo suelto y natural que se impone como tendencia sin esfuerzo."
+    },
+    "0a85f1fb0577": {
+      "resumen": "Vanitatis repasa el regreso del estampado camuflaje como tendencia de este otoño y propone una guía de estilo para combinarlo en 2026."
+    },
+    "c63c7df734cc": {
+      "resumen": "Vogue México detalla el elenco completo y los personajes de Carrie, la nueva serie de Prime Video."
+    },
+    "9306da1225b2": {
+      "resumen": "Vogue México comparte consejos de maquillaje para lucir a la moda tanto de día como de noche."
+    },
+    "6deebda10003": {
+      "resumen": "La obra \"Como un aire de ilusión\", una historia de amor, familia y circo, se presenta en el teatro Ítaca de Buenos Aires."
+    },
+    "d87a77c408c7": {
+      "resumen": "\"La niña sobre un altar\", una nueva puesta teatral, se presenta en el Complejo Teatral de Buenos Aires."
+    },
+    "bd972463e972": {
+      "resumen": "El Destape recomienda 5 lugares de Buenos Aires para tomar los cócteles de vodka más creativos de la ciudad."
+    },
+    "57d8f973b4bc": {
+      "resumen": "El espectáculo \"The Beatles Symphonic Fantasy\" vuelve a Buenos Aires con una puesta en escena de gran formato."
     }
   }
 }
