@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:18:04Z",
+  "generated_at": "2026-10-14T22:17:12Z",
   "summaries": {
     "06b27d4bad71": {
       "resumen": "iProfesional reúne una guía de experiencias, música y eventos para aprovechar el fin de semana largo en Buenos Aires."
@@ -20,47 +20,6 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado (RT CHARM, Alliance A221505), según el título; probablemente multicéntrico por tratarse de un estudio del grupo cooperativo Alliance, aunque sin el abstract no se puede precisar el cegamiento ni la cantidad exacta de centros o de pacientes.\nPoblación: Mujeres con cáncer de mama tratadas con mastectomía y reconstrucción mamaria que requerían radioterapia posmastectomía.\nIntervención: Radioterapia hipofraccionada (dosis más altas por sesión, menos sesiones en total) versus el esquema de fraccionamiento convencional.\nResultados: No disponibles sin el abstract; no hay datos comparados de complicaciones de la reconstrucción, resultado estético ni toxicidad entre los dos esquemas en la fuente consultada.\nLimitaciones: Sin el abstract no se puede evaluar la madurez del seguimiento, el tamaño muestral ni si el estudio alcanzó no inferioridad o superioridad en su criterio principal.\nMensaje: Si la hipofraccionación demuestra ser igual de segura para la reconstrucción, podría convertirse en el estándar y acortar significativamente el tratamiento radiante posmastectomía.\nNota: análisis sin acceso al abstract."
     },
-    "c640fe669939": {
-      "resumen": "Entrevista a Matthew Lunning, especialista en oncología, sobre cómo se posiciona la terapia con células T con receptor de antígeno quimérico (CAR-T) frente al uso de tafasitamab en el linfoma difuso de células B grandes (DLBCL, por su sigla en inglés). Sirve para entender cómo los oncólogos ordenan estas opciones terapéuticas en la práctica.",
-      "destacado": false
-    },
-    "049c8ef0f9d0": {
-      "resumen": "Entrevista al mismo especialista sobre la relevancia de los datos del ensayo frontMIND en linfoma difuso de células B grandes (DLBCL), que evalúa un esquema de primera línea. Complementa la nota sobre el lugar de la terapia CAR-T y tafasitamab en este linfoma.",
-      "destacado": false
-    },
-    "222a32952f2b": {
-      "resumen": "Un estudio de vida real (fuera de ensayos clínicos) encontró que las combinaciones de primera línea basadas en inmunoterapia (IO, por inmuno-oncología) se asociaron a mayor supervivencia global frente a la monoterapia con inhibidores de tirosina quinasa (TKI) en carcinoma de células renales (RCC) avanzado. Aporta evidencia del mundo real que respalda lo visto en los ensayos clínicos que llevaron a aprobar estos esquemas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional retrospectivo de \"vida real\" (real-world), probablemente basado en una base de datos o registro clínico; por el título no se puede precisar si fue uni o multicéntrico, el número de pacientes ni si hubo ajuste estadístico por factores de confusión.\nPoblación: Pacientes con carcinoma de células renales (RCC, por su sigla en inglés) avanzado o metastásico, en primera línea de tratamiento.\nIntervención: Combinaciones de primera línea basadas en inmunoterapia (IO, esquemas con inhibidores de punto de control más otro agente) comparadas con la monoterapia con un inhibidor de tirosina quinasa (TKI).\nResultados: El título indica una asociación con mejor supervivencia global (OS, por su sigla en inglés) a favor de los esquemas con IO, pero no brinda las cifras de supervivencia, el hazard ratio ni el intervalo de confianza.\nLimitaciones: Al ser un estudio observacional de vida real, está expuesto a sesgo de selección (los pacientes más aptos suelen recibir combinaciones) y a factores de confusión no controlados, además de no contar con aleatorización.\nMensaje: Refuerza, desde la práctica real, la preferencia por los esquemas de primera línea basados en inmunoterapia sobre la monoterapia con TKI en RCC avanzado, aunque sin aleatorización el beneficio no puede atribuirse con certeza solo al tratamiento.\nNota: análisis sin acceso al abstract."
-    },
-    "98538267e4af": {
-      "resumen": "Un ensayo clínico evaluó tenumomeran y raplemomeran (agentes en investigación) sumados a pembrolizumab (un inhibidor de punto de control inmunitario) en carcinoma escamoso de cabeza y cuello (HNSCC, por su sigla en inglés) positivo para el virus del papiloma humano tipo 16 (HPV16+), y no alcanzó el criterio principal de supervivencia libre de progresión (PFS). Interesa porque marca un freno a esta estrategia combinada en un subgrupo definido por el HPV.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (fase no especificada en el título) que compara una combinación experimental contra un comparador; sin el abstract no se puede precisar la aleatorización, el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con carcinoma escamoso de cabeza y cuello (HNSCC, por su sigla en inglés) positivo para el virus del papiloma humano tipo 16 (HPV16+).\nIntervención: Tenumomeran y raplemomeran (agentes en investigación) combinados con pembrolizumab, un inhibidor de punto de control inmunitario (anti-PD-1); el comparador exacto no surge del título.\nResultados: El título indica que el estudio no alcanzó (missed) el criterio principal de supervivencia libre de progresión (PFS), sin que se disponga de las cifras de mediana de PFS, hazard ratio ni valor de p.\nLimitaciones: Un resultado negativo en el criterio principal puede deberse a la población seleccionada, a la dosis o esquema elegido, o a un verdadero efecto nulo del tratamiento; sin el abstract no se puede diferenciar entre estas posibilidades.\nMensaje: El no alcanzar el objetivo principal de PFS sugiere que, al menos con este esquema, agregar tenumomeran/raplemomeran a pembrolizumab no mejora los resultados en HNSCC HPV16+, lo que podría frenar o reorientar el desarrollo de esta combinación.\nNota: análisis sin acceso al abstract."
-    },
-    "1464db367cee": {
-      "resumen": "Cobertura del Simposio de Calidad de Atención Oncológica (ASCO Quality Care Symposium) 2026, el encuentro donde la Sociedad Americana de Oncología Clínica (ASCO) discute cómo mejorar la calidad y el acceso a la atención del cáncer. Sirve para seguir las tendencias en organización y calidad de la atención oncológica, más allá de los nuevos fármacos.",
-      "destacado": false
-    },
-    "c8ce8438d39a": {
-      "resumen": "La pasarela y las fotos de la colección Spring 2027 de la marca Oude Waag, presentada en la Semana de la Moda de Shanghái."
-    },
-    "8d0f0aa3eb52": {
-      "resumen": "Vogue México recomienda siete alimentos para mejorar la concentración y evitar la baja de energía de la media tarde."
-    },
-    "a96b6af37827": {
-      "resumen": "Vogue México elige los zapatos de Steve Madden para llevar esta temporada."
-    },
-    "69c610c739fa": {
-      "resumen": "El pianista Brad Mehldau vuelve a Buenos Aires con su trío para un show que combina jazz, pop y música clásica."
-    },
-    "49fc279042fd": {
-      "resumen": "La saxofonista Melissa Aldana lleva su jazz, entre tradición y sofisticación moderna, al Teatro San Martín."
-    },
-    "b7cab006f0a7": {
-      "resumen": "Nota de OncLive que repasa el panorama de terapias dirigidas para el cáncer de mama resistente a la hormonoterapia (endocrine-resistant), es decir que dejó de responder al tratamiento hormonal clásico. Sirve para tener un panorama actualizado de las alternativas disponibles en este escenario clínico frecuente.",
-      "destacado": false
-    },
     "2003b2b52bd0": {
       "resumen": "Relato narrativo de la sección \"Art of Oncology\" del Journal of Clinical Oncology (JCO), un espacio donde médicos y pacientes comparten experiencias personales vinculadas al cáncer. No es un estudio clínico, pero ofrece una mirada humana sobre la enfermedad.",
       "destacado": false
@@ -70,41 +29,83 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y controlado con placebo (VERIFY), según el título; no se cuenta con el abstract para precisar el cegamiento, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Pacientes con policitemia vera (neoplasia mieloproliferativa) dependientes de flebotomías pese a recibir tratamiento estándar de la enfermedad (standard-of-care).\nIntervención: Rusfertide, un péptido mimético de la hepcidina en investigación, frente a placebo, ambos sumados al tratamiento estándar.\nResultados: No disponibles sin el abstract; no hay datos de tasa de respuesta, frecuencia de flebotomías ni hematocrito en la fuente consultada.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del efecto, la duración del seguimiento ni los eventos adversos reportados.\nMensaje: Si confirma eficacia y seguridad, rusfertide podría sumarse como una opción para reducir la dependencia de flebotomías en policitemia vera, mejorando la calidad de vida de estos pacientes.\nNota: análisis sin acceso al abstract."
     },
-    "1b2ec98b644f": {
-      "resumen": "Editorial del Lancet Oncology que discute, a partir de los resultados del estudio TOSYMA, si llegó el momento de reemplazar la mamografía digital de campo completo (full-field digital mammography) por la tomosíntesis mamaria digital en los programas de tamizaje poblacional de cáncer de mama. Es un comentario de opinión, no un estudio original, pero ayuda a interpretar el ensayo que lo acompaña.",
-      "destacado": false
-    },
-    "62739380997c": {
-      "resumen": "El ensayo TOSYMA, aleatorizado y multicéntrico, comparó la tomosíntesis mamaria digital combinada con mamografía sintetizada contra la mamografía digital convencional en el tamizaje poblacional de cáncer de mama, con seguimiento a 24 meses. Interesa porque evalúa si una tecnología más nueva detecta más cánceres invasivos en el intervalo entre rondas de tamizaje, lo que podría cambiar los protocolos de screening.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, abierto (open-label) y de superioridad (TOSYMA), con seguimiento a 24 meses, según el título; no se cuenta con el abstract para precisar la cantidad exacta de centros ni de participantes.\nPoblación: Mujeres incluidas en un programa de tamizaje (screening) poblacional de cáncer de mama.\nIntervención: Tomosíntesis mamaria digital (DBT, por su sigla en inglés) combinada con mamografía sintetizada, comparada con la mamografía digital convencional (de campo completo) como método de tamizaje.\nResultados: El título refiere a las tasas de cáncer de mama invasivo detectado en el intervalo entre rondas de tamizaje a los 24 meses de seguimiento, pero no brinda las cifras ni el valor estadístico de la comparación.\nLimitaciones: Al ser un diseño abierto (sin cegamiento), podría haber sesgo en el seguimiento diagnóstico; sin el abstract no se puede evaluar el tamaño muestral ni la magnitud de la diferencia entre grupos.\nMensaje: Si la tomosíntesis reduce los cánceres de intervalo frente a la mamografía convencional, podría respaldar su incorporación en los programas de tamizaje poblacional, tal como discute el comentario editorial que acompaña a este estudio.\nNota: análisis sin acceso al abstract."
-    },
-    "8a7e3c91b38b": {
-      "resumen": "Telva propone tres camperas tendencia que, combinadas con un jean gastado, arman el uniforme ideal para este otoño 2026."
-    },
-    "c6453039902e": {
-      "resumen": "Telva propone 12 looks para resolver el entretiempo, cuando la temperatura varía entre los 10 grados de la mañana y los 25 de la tarde."
-    },
-    "de01c9c46eda": {
-      "resumen": "La periodista española Inés García combinó, en Estambul, una campera de cuero marrón chocolate -tendencia de la temporada- con un bolso maxi de Chanel."
-    },
-    "13d437cf4d01": {
-      "resumen": "El collar con el nombre propio, que popularizó el personaje de Carrie Bradshaw en \"Sexo en Nueva York\" y hoy lucen Hailey Bieber y Addison Rae, vuelve a estar de moda."
-    },
-    "e99a668c63eb": {
-      "resumen": "La obra \"Cada Dos… una comedia romántica\", producida por Carla Calabrese con nuevos talentos, llega al teatro Maipo en el marco de los 20 años de The Stage Company."
-    },
     "8b9c0ee0fa33": {
       "resumen": "La cadena de restaurantes Baires Grill, que ya se instaló en Estados Unidos, anunció la apertura de cuatro nuevos locales en Buenos Aires."
     },
-    "74344347db0f": {
-      "resumen": "La cadena de restaurantes Baires Grill prepara un plan de expansión en Buenos Aires que incluye la apertura de cuatro nuevos locales."
+    "b320d890070a": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de EE.UU.) recibió la resubmisión de la solicitud de nuevo fármaco (NDA, por su sigla en inglés) para la combinación de rivoceranib (un inhibidor de la angiogénesis) más camrelizumab (un inhibidor de punto de control inmunitario anti-PD-1) como primera línea en carcinoma hepatocelular (HCC, cáncer de hígado) irresecable o metastásico. Importa porque, de aprobarse, sumaría una nueva opción de primera línea para esta indicación.",
+      "destacado": false
     },
-    "514bf63b89ab": {
-      "resumen": "Tres integrantes de la banda \"Vientos de Cambio\" se presentarán en una gala solidaria en Buenos Aires."
+    "803f3d780195": {
+      "resumen": "Un estudio respalda ofrecer el testeo genético germinal (en células reproductivas, heredable de padres a hijos) de manera universal a todos los pacientes con cáncer, sin importar la edad al momento del diagnóstico. Interesa porque cuestiona los criterios clásicos que restringían el testeo a pacientes jóvenes o con fuerte historia familiar.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio (probablemente de cohorte) que evalúa el rendimiento del testeo genético germinal ofrecido de manera universal en pacientes con cáncer; sin el abstract no se puede precisar el diseño exacto, el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con diagnóstico de cáncer de cualquier edad, incluidos quienes no cumplirían los criterios clásicos de testeo genético (por ejemplo, edad avanzada o sin antecedentes familiares marcados).\nIntervención: Testeo genético germinal ofrecido de manera universal, independientemente de la edad al diagnóstico, comparado presumiblemente contra la aplicación de los criterios de testeo restringido habituales.\nResultados: No disponibles sin el abstract; no hay cifras de la tasa de variantes patogénicas detectadas en pacientes que los criterios clásicos habrían dejado afuera.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tipo de panel genético utilizado ni si el diseño fue prospectivo o retrospectivo.\nMensaje: Si se confirma que el testeo universal detecta variantes relevantes en pacientes que los criterios clásicos excluirían, podría respaldar ampliar el acceso al testeo genético más allá de la edad al diagnóstico.\nNota: análisis sin acceso al abstract."
     },
-    "a9c14456012e": {
-      "resumen": "Time Out recomienda patios, terrazas y jardines porteños para disfrutar al aire libre durante la primavera."
+    "cd9fa0917ff6": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de EE.UU.) aprobó una indicación ampliada para el cáncer de vejiga no músculo invasivo (NMIBC, por su sigla en inglés) que no responde al Bacilo de Calmette-Guérin (BCG), la inmunoterapia intravesical estándar. Importa porque abre una alternativa para pacientes que ya dejaron de responder al tratamiento de primera línea.",
+      "destacado": false
+    },
+    "07466d47ed3d": {
+      "resumen": "Un estudio mostró que facilitar activamente el testeo genético en cascada (ofrecerlo de forma directa a los familiares, en vez de dejar que el paciente índice transmita la información) aumenta la proporción de parientes de portadores de variantes en los genes BRCA1 o BRCA2 que efectivamente se hacen el estudio. Importa porque estas variantes elevan mucho el riesgo de cáncer de mama y de ovario, y detectarlas a tiempo en la familia permite prevención.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio (probablemente un programa o ensayo de intervención) que compara una estrategia de testeo genético en cascada facilitado frente al abordaje tradicional; sin el abstract no se puede precisar si hubo aleatorización, cegamiento ni la cantidad de centros o de participantes.\nPoblación: Familiares de personas portadoras de variantes patogénicas en los genes BRCA1 o BRCA2.\nIntervención: Testeo genético en cascada facilitado (por ejemplo, contacto directo del sistema de salud con los familiares, envío de kits o derivación asistida) comparado con la difusión tradicional a cargo del paciente índice.\nResultados: El título indica una mejora en la tasa de adherencia (uptake) al testeo entre los familiares, pero no se dispone de las cifras exactas ni de la comparación estadística sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si hubo ajuste por variables socioeconómicas que también influyen en la adherencia al testeo.\nMensaje: Facilitar activamente el testeo en cascada podría aumentar la detección temprana de portadores en familias con variantes BRCA1/2, mejorando las estrategias de prevención y vigilancia.\nNota: análisis sin acceso al abstract."
+    },
+    "9d4c425c2666": {
+      "resumen": "Nota de OncLive que analiza datos de la vida real (real-world data) sobre el riesgo de infecciones en pacientes con leucemia linfocítica crónica (CLL, por su sigla en inglés), una complicación frecuente de la enfermedad y de sus tratamientos. Sirve para dimensionar un riesgo clínico relevante más allá de los ensayos controlados.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de datos de la vida real (real-world data), probablemente de cohorte; sin el abstract no se puede precisar si fue retrospectivo o prospectivo, ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con leucemia linfocítica crónica (CLL, por su sigla en inglés), posiblemente bajo distintos esquemas de tratamiento.\nIntervención: No hay una intervención comparada en sentido estricto; se analiza el riesgo de infecciones asociado a la enfermedad y/o a sus tratamientos en la práctica real.\nResultados: No disponibles sin el abstract; no hay cifras de incidencia de infecciones ni de los factores de riesgo identificados en la fuente consultada.\nLimitaciones: Al ser datos de vida real, el estudio está expuesto a sesgos de registro y de selección, y no permite establecer causalidad con la misma solidez que un ensayo aleatorizado.\nMensaje: Cuantificar el riesgo real de infecciones en CLL ayuda a los oncólogos a anticipar esta complicación y ajustar la vigilancia o la profilaxis en la práctica diaria.\nNota: análisis sin acceso al abstract."
+    },
+    "1a40c33cd15a": {
+      "resumen": "Nota de OncLive que repasa cómo los inhibidores de KRAS de nueva generación (dirigidos a una mutación frecuente que impulsa el crecimiento tumoral) están cambiando la práctica clínica oncológica. KRAS es uno de los genes más mutados en cánceres como el de pulmón, colon y páncreas.",
+      "destacado": false
+    },
+    "d4a743acf01f": {
+      "resumen": "La marca Jacques Wei presentó su colección Primavera 2027 en la Semana de la Moda de Shanghái."
+    },
+    "79aa96a863d6": {
+      "resumen": "El diseñador Samuel Guì Yang mostró su colección Primavera 2027 en la Semana de la Moda de Shanghái."
+    },
+    "96c5000c69f7": {
+      "resumen": "La marca Xu Zhi presentó su colección Primavera 2027 en la Semana de la Moda de Shanghái."
+    },
+    "d9e5390214cd": {
+      "resumen": "La firma Shao desfiló su colección Primavera 2027 en la Semana de la Moda de Shanghái."
+    },
+    "dcfdf19edb73": {
+      "resumen": "Vogue México adelanta las películas más esperadas del Festival Internacional de Cine de Morelia 2026."
+    },
+    "cdc3abc25516": {
+      "resumen": "Vogue México señala a los zapatos color berenjena de Zara como tendencia del otoño 2026, ideales para combinar con pantalones slim fit."
+    },
+    "72eaf972e011": {
+      "resumen": "El peinado con cola de caballo al estilo de los años 70, que luce Jenna Ortega, vuelve a ser tendencia en octubre 2026."
+    },
+    "e91afdbeeb3c": {
+      "resumen": "InStyle anticipa las tendencias de calzado de noviembre 2026, con las botas holgadas y de caña ancha como protagonistas."
+    },
+    "bfb52ade75e9": {
+      "resumen": "ELLE destaca la manicura en tonos rosa prolijo de Amal Clooney como la tendencia más sofisticada del otoño."
+    },
+    "ff81220052f8": {
+      "resumen": "Vogue México recomienda las faldas largas y midi combinadas con zapatos planos o zapatillas como tendencia de las pasarelas para el otoño 2026."
+    },
+    "199a3734dfa4": {
+      "resumen": "Murió Claudio Alsuyet, compositor del Teatro Colón y docente."
+    },
+    "a3e16c787258": {
+      "resumen": "Viajes National Geographic recomienda cinco restaurantes porteños, entre brasas, estrellas Michelin y sabores nuevos, para descubrir otro Buenos Aires."
+    },
+    "5d2fcd7a024f": {
+      "resumen": "Página|12 recomienda propuestas de cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
+    },
+    "61a6b7f8ebb4": {
+      "resumen": "Por el Día Mundial del Champiñón, El Destape recomienda tres lugares porteños con platos de autor a base de hongos."
+    },
+    "0aae2f27cc3a": {
+      "resumen": "Valen Vargas se presenta en el Teatro Broadway, según adelanta Indie Hoy."
+    },
+    "c9a28d33b315": {
+      "resumen": "Andrés Calamaro suma otro show en Buenos Aires para cerrar el 2026, según adelantó TN."
     }
   }
 }
