@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-10-13T22:18:43Z",
+  "generated_at": "2026-10-14T10:18:04Z",
   "summaries": {
-    "149609b530dc": {
-      "resumen": "Estudio de fase I/II que evalúa bavdegalutamide, un degradador del receptor de andrógenos basado en la tecnología PROTAC (quimera dirigida a la proteólisis, por su sigla en inglés), en pacientes con cáncer de próstata metastásico resistente a la castración. Interesa porque representa un mecanismo de acción novedoso, distinto de los antiandrógenos clásicos, para tumores que ya progresaron a los tratamientos hormonales habituales.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase I/II (dosis-escalada y expansión), según el título; no se cuenta con el abstract completo para precisar aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC, por su sigla en inglés), es decir que progresó pese al bloqueo hormonal.\nIntervención: Bavdegalutamide, un degradador del receptor de andrógenos basado en la tecnología PROTAC (quimera dirigida a la proteólisis); por tratarse de una fase I/II, probablemente sin grupo comparador.\nResultados: No hay datos de tasa de respuesta objetiva, supervivencia libre de progresión ni perfil de toxicidad disponibles sin el abstract.\nLimitaciones: Al ser una fase temprana, el tamaño muestral suele ser chico y el objetivo principal es seguridad y dosis recomendada más que eficacia definitiva; falta el abstract para confirmarlo.\nMensaje: Un mecanismo de acción novedoso (degradación del receptor de andrógenos vía PROTAC) podría ofrecer una alternativa en pacientes que ya agotaron las líneas hormonales clásicas, pero su lugar en la práctica recién se podrá evaluar con fases más avanzadas.\nNota: análisis sin acceso al abstract."
-    },
-    "9ac97d1d10e3": {
-      "resumen": "Comentario o carta al editor en el Journal of Clinical Oncology que discute los límites de usar el estado \"wild-type\" (sin mutación) del gen PIK3CA como biomarcador negativo en cáncer de mama, advirtiendo sobre posibles puntos ciegos en su interpretación. Forma parte de un intercambio editorial con otros autores sobre cómo se usan los biomarcadores para decidir el tratamiento.",
-      "destacado": false
-    },
-    "9d3a2b5cb236": {
-      "resumen": "Una selección de restaurantes para descubrir en el circuito gastronómico de Puerto Madero."
-    },
     "06b27d4bad71": {
       "resumen": "iProfesional reúne una guía de experiencias, música y eventos para aprovechar el fin de semana largo en Buenos Aires."
     },
@@ -21,9 +9,6 @@
     },
     "876764f5eca3": {
       "resumen": "Propuestas de actividades para aprovechar el fin de semana extralargo en la Ciudad de Buenos Aires."
-    },
-    "8d892059cccc": {
-      "resumen": "Buenos Aires se prepara para recibir a más de 120 mil turistas durante el fin de semana largo."
     },
     "d0c34c7c961b": {
       "resumen": "Estudio que desarrolló y validó un modelo de predicción de riesgo de cáncer de pulmón basado en un análisis de sangre, el Copenhagen Lung Cancer Risk Model (CPH-Lung, nombrado por la ciudad donde se hizo). Interesa porque podría ayudar a seleccionar mejor a quién ofrecer tamizaje (screening) con tomografía de baja dosis.",
@@ -34,15 +19,6 @@
       "resumen": "El ensayo aleatorizado RT CHARM (Alliance A221505) comparó la radioterapia hipofraccionada (menos sesiones con dosis más altas cada una) contra el esquema convencional después de una mastectomía, en mujeres que se habían hecho reconstrucción mamaria. Importa porque un esquema más corto implica menos visitas y menor costo, si resulta igual de seguro para la reconstrucción.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado (RT CHARM, Alliance A221505), según el título; probablemente multicéntrico por tratarse de un estudio del grupo cooperativo Alliance, aunque sin el abstract no se puede precisar el cegamiento ni la cantidad exacta de centros o de pacientes.\nPoblación: Mujeres con cáncer de mama tratadas con mastectomía y reconstrucción mamaria que requerían radioterapia posmastectomía.\nIntervención: Radioterapia hipofraccionada (dosis más altas por sesión, menos sesiones en total) versus el esquema de fraccionamiento convencional.\nResultados: No disponibles sin el abstract; no hay datos comparados de complicaciones de la reconstrucción, resultado estético ni toxicidad entre los dos esquemas en la fuente consultada.\nLimitaciones: Sin el abstract no se puede evaluar la madurez del seguimiento, el tamaño muestral ni si el estudio alcanzó no inferioridad o superioridad en su criterio principal.\nMensaje: Si la hipofraccionación demuestra ser igual de segura para la reconstrucción, podría convertirse en el estándar y acortar significativamente el tratamiento radiante posmastectomía.\nNota: análisis sin acceso al abstract."
-    },
-    "6deebda10003": {
-      "resumen": "La obra \"Como un aire de ilusión\", una historia de amor, familia y circo, se presenta en el teatro Ítaca de Buenos Aires."
-    },
-    "d87a77c408c7": {
-      "resumen": "\"La niña sobre un altar\", una nueva puesta teatral, se presenta en el Complejo Teatral de Buenos Aires."
-    },
-    "bd972463e972": {
-      "resumen": "El Destape recomienda 5 lugares de Buenos Aires para tomar los cócteles de vodka más creativos de la ciudad."
     },
     "c640fe669939": {
       "resumen": "Entrevista a Matthew Lunning, especialista en oncología, sobre cómo se posiciona la terapia con células T con receptor de antígeno quimérico (CAR-T) frente al uso de tafasitamab en el linfoma difuso de células B grandes (DLBCL, por su sigla en inglés). Sirve para entender cómo los oncólogos ordenan estas opciones terapéuticas en la práctica.",
@@ -66,15 +42,8 @@
       "resumen": "Cobertura del Simposio de Calidad de Atención Oncológica (ASCO Quality Care Symposium) 2026, el encuentro donde la Sociedad Americana de Oncología Clínica (ASCO) discute cómo mejorar la calidad y el acceso a la atención del cáncer. Sirve para seguir las tendencias en organización y calidad de la atención oncológica, más allá de los nuevos fármacos.",
       "destacado": false
     },
-    "10927a44031a": {
-      "resumen": "Nota de revisión sobre el rol de los inhibidores de CDK4/6 (quinasas dependientes de ciclina 4 y 6) como pilar del tratamiento de primera línea del cáncer de mama metastásico, y por qué los degradadores selectivos del receptor de estrógeno (SERD, por su sigla en inglés) orales todavía no lograrían igualar ese estándar. Da un panorama del estado actual de esta estrategia terapéutica.",
-      "destacado": false
-    },
     "c8ce8438d39a": {
       "resumen": "La pasarela y las fotos de la colección Spring 2027 de la marca Oude Waag, presentada en la Semana de la Moda de Shanghái."
-    },
-    "a03787faf243": {
-      "resumen": "Las tendencias de moda para noviembre 2026: según InStyle, los abrigos estampados y llamativos reemplazan a los modelos sencillos."
     },
     "8d0f0aa3eb52": {
       "resumen": "Vogue México recomienda siete alimentos para mejorar la concentración y evitar la baja de energía de la media tarde."
@@ -82,20 +51,60 @@
     "a96b6af37827": {
       "resumen": "Vogue México elige los zapatos de Steve Madden para llevar esta temporada."
     },
-    "c987a9584142": {
-      "resumen": "Audemars Piguet y Vogue presentan la edición limitada del reloj Royal Oak Selfwinding Chronograph \"Serena Williams\"."
-    },
-    "0be967bf3d5d": {
-      "resumen": "Los abrigos sin cuello se imponen en las calles de París; Mujerhoy repasa cómo combinarlos y sus favoritos."
-    },
-    "58e918d17d2d": {
-      "resumen": "Los manteles navideños con estampados grandes quedaron atrás: Canal26 presenta la tendencia 2026 para una mesa más elegante."
-    },
     "69c610c739fa": {
       "resumen": "El pianista Brad Mehldau vuelve a Buenos Aires con su trío para un show que combina jazz, pop y música clásica."
     },
     "49fc279042fd": {
       "resumen": "La saxofonista Melissa Aldana lleva su jazz, entre tradición y sofisticación moderna, al Teatro San Martín."
+    },
+    "b7cab006f0a7": {
+      "resumen": "Nota de OncLive que repasa el panorama de terapias dirigidas para el cáncer de mama resistente a la hormonoterapia (endocrine-resistant), es decir que dejó de responder al tratamiento hormonal clásico. Sirve para tener un panorama actualizado de las alternativas disponibles en este escenario clínico frecuente.",
+      "destacado": false
+    },
+    "2003b2b52bd0": {
+      "resumen": "Relato narrativo de la sección \"Art of Oncology\" del Journal of Clinical Oncology (JCO), un espacio donde médicos y pacientes comparten experiencias personales vinculadas al cáncer. No es un estudio clínico, pero ofrece una mirada humana sobre la enfermedad.",
+      "destacado": false
+    },
+    "4435822723ff": {
+      "resumen": "El ensayo VERIFY, de fase III, comparó rusfertide (un péptido mimético de la hepcidina en investigación) contra placebo en pacientes con policitemia vera dependientes de flebotomías pese a recibir tratamiento estándar. Importa porque busca reducir la necesidad de flebotomías terapéuticas, una intervención incómoda y recurrente para estos pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y controlado con placebo (VERIFY), según el título; no se cuenta con el abstract para precisar el cegamiento, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Pacientes con policitemia vera (neoplasia mieloproliferativa) dependientes de flebotomías pese a recibir tratamiento estándar de la enfermedad (standard-of-care).\nIntervención: Rusfertide, un péptido mimético de la hepcidina en investigación, frente a placebo, ambos sumados al tratamiento estándar.\nResultados: No disponibles sin el abstract; no hay datos de tasa de respuesta, frecuencia de flebotomías ni hematocrito en la fuente consultada.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del efecto, la duración del seguimiento ni los eventos adversos reportados.\nMensaje: Si confirma eficacia y seguridad, rusfertide podría sumarse como una opción para reducir la dependencia de flebotomías en policitemia vera, mejorando la calidad de vida de estos pacientes.\nNota: análisis sin acceso al abstract."
+    },
+    "1b2ec98b644f": {
+      "resumen": "Editorial del Lancet Oncology que discute, a partir de los resultados del estudio TOSYMA, si llegó el momento de reemplazar la mamografía digital de campo completo (full-field digital mammography) por la tomosíntesis mamaria digital en los programas de tamizaje poblacional de cáncer de mama. Es un comentario de opinión, no un estudio original, pero ayuda a interpretar el ensayo que lo acompaña.",
+      "destacado": false
+    },
+    "62739380997c": {
+      "resumen": "El ensayo TOSYMA, aleatorizado y multicéntrico, comparó la tomosíntesis mamaria digital combinada con mamografía sintetizada contra la mamografía digital convencional en el tamizaje poblacional de cáncer de mama, con seguimiento a 24 meses. Interesa porque evalúa si una tecnología más nueva detecta más cánceres invasivos en el intervalo entre rondas de tamizaje, lo que podría cambiar los protocolos de screening.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, abierto (open-label) y de superioridad (TOSYMA), con seguimiento a 24 meses, según el título; no se cuenta con el abstract para precisar la cantidad exacta de centros ni de participantes.\nPoblación: Mujeres incluidas en un programa de tamizaje (screening) poblacional de cáncer de mama.\nIntervención: Tomosíntesis mamaria digital (DBT, por su sigla en inglés) combinada con mamografía sintetizada, comparada con la mamografía digital convencional (de campo completo) como método de tamizaje.\nResultados: El título refiere a las tasas de cáncer de mama invasivo detectado en el intervalo entre rondas de tamizaje a los 24 meses de seguimiento, pero no brinda las cifras ni el valor estadístico de la comparación.\nLimitaciones: Al ser un diseño abierto (sin cegamiento), podría haber sesgo en el seguimiento diagnóstico; sin el abstract no se puede evaluar el tamaño muestral ni la magnitud de la diferencia entre grupos.\nMensaje: Si la tomosíntesis reduce los cánceres de intervalo frente a la mamografía convencional, podría respaldar su incorporación en los programas de tamizaje poblacional, tal como discute el comentario editorial que acompaña a este estudio.\nNota: análisis sin acceso al abstract."
+    },
+    "8a7e3c91b38b": {
+      "resumen": "Telva propone tres camperas tendencia que, combinadas con un jean gastado, arman el uniforme ideal para este otoño 2026."
+    },
+    "c6453039902e": {
+      "resumen": "Telva propone 12 looks para resolver el entretiempo, cuando la temperatura varía entre los 10 grados de la mañana y los 25 de la tarde."
+    },
+    "de01c9c46eda": {
+      "resumen": "La periodista española Inés García combinó, en Estambul, una campera de cuero marrón chocolate -tendencia de la temporada- con un bolso maxi de Chanel."
+    },
+    "13d437cf4d01": {
+      "resumen": "El collar con el nombre propio, que popularizó el personaje de Carrie Bradshaw en \"Sexo en Nueva York\" y hoy lucen Hailey Bieber y Addison Rae, vuelve a estar de moda."
+    },
+    "e99a668c63eb": {
+      "resumen": "La obra \"Cada Dos… una comedia romántica\", producida por Carla Calabrese con nuevos talentos, llega al teatro Maipo en el marco de los 20 años de The Stage Company."
+    },
+    "8b9c0ee0fa33": {
+      "resumen": "La cadena de restaurantes Baires Grill, que ya se instaló en Estados Unidos, anunció la apertura de cuatro nuevos locales en Buenos Aires."
+    },
+    "74344347db0f": {
+      "resumen": "La cadena de restaurantes Baires Grill prepara un plan de expansión en Buenos Aires que incluye la apertura de cuatro nuevos locales."
+    },
+    "514bf63b89ab": {
+      "resumen": "Tres integrantes de la banda \"Vientos de Cambio\" se presentarán en una gala solidaria en Buenos Aires."
+    },
+    "a9c14456012e": {
+      "resumen": "Time Out recomienda patios, terrazas y jardines porteños para disfrutar al aire libre durante la primavera."
     }
   }
 }
