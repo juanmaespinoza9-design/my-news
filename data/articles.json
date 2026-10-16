@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-10-15T21:32:03.233266+00:00",
+ "generated_at": "2026-10-16T00:29:59.233842+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Refined ADC Development Helps Weigh Biomarker-Based Decisions and Treatment Sequencing in Gynecologic Cancers",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeTlueWZGbFhBeEd2VDFvcFZJRnMtVjh6WTZvczJiUFk0eFV0M1hsaDJIZnlOM1NacDZUQW9ZMkVZVEJlRk1lMHZmeVROX1N4bjg5QjIzU2laMlI3dHNXMWxXR2k1MjZuR1JRR21GdE54d2d1SEpxSmRuMHg5R29DWFkxaE1GNE5VdnZtSFRzNlBLWF9IaEJMZTAzdVR0M2Ffa3gxaTA3NmNGNmtBNDc2UHhNSmRQeDhYd1RrbDBUZlAyY05pTGFUanlVVElfcFh6NHJUNw?oc=5",
+     "source": "OncLive",
+     "published": "2026-10-15T21:17:09+00:00",
+     "id": "27b572bc592a"
+    },
     {
      "title": "Stay Ahead of ESMO 2026: See What Lung Cancer Experts Are Prioritizing",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlFaTG1aVlQ3amZnTHlubXFSNTBDcWxQUWR3bWR5bGNDWVRTZjdkVThwZE9vSVN3ZFViM2hpdG5GdWVHcVdmc3htNkllZExtemhsUkVCSnJtWHY1SWdWOWo1SWJNcjRCMFBHOF9QVTN1MDYyc2hZUHFjcUJZY1RmM3JncWczTzJwSmc2UXZNQlVIZkpYeVE3eUxUSkdobXc?oc=5",
@@ -35,18 +42,35 @@
      "id": "71183f94299c"
     },
     {
-     "title": "Invikafusp Alfa Earns Expanded Fast Track Designation in TMB-H Solid Tumors",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc0hBd0loT3ljczF3ZE0tX1BUZTQwUi1xWHZQRGh2RWluM3kycEswOFVuaU54OTgtVEZjMHNHSzFZSk42VnRLTndIM0VkekFxX1M2NFBIbmUzQ2dvN0xZVVUySVhyS2h6T3AwRDlyWGN3QzZwMVFSUWdUTzJaWFlSSHFfOWVHZFkySlZ0NzZvVG9sYm4zc21paTEzS3pzaDk3SnJxWTJKTQ?oc=5",
-     "source": "OncLive",
-     "published": "2026-10-15T18:18:46+00:00",
-     "id": "f1b20eaf0da2"
-    },
-    {
-     "title": "Lung Cancer Specialist Apar Kishor Ganti, MD, Shares His Insights",
+     "title": "ASCO 2026: Lung Cancer Specialist Apar Kishor Ganti, MD, Shares His Insights",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjZLWXBBalFZNWRZaVBVRVdyc05ManRobUx0aGtGdk5mMV9XZEljRDRxandnVXhvZ1RlVkxBNjR3M2EzcDkzQk5WQms4ZDNROHBUOS0tMHZOMGtXNlR5aENCX0NwR24yNk9fclVXZGdLU1p2VEN4OFMzYThndmItc3hweVNnY1prRkdOWUtSQUFsZWtLaTl3TkZUUVpucmR1TzQ4dThR?oc=5",
      "source": "The ASCO Post",
-     "published": "2026-10-15T16:36:14+00:00",
+     "published": "2026-10-15T16:36:15+00:00",
      "id": "714658474835"
+    },
+    {
+     "title": "Chemotherapy-free Treatment of Ph-Positive ALL",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42874109/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-15T00:00:00+00:00",
+     "copete": "Fielding AK et al. · The New England journal of medicine",
+     "id": "8c04c933b447"
+    },
+    {
+     "title": "Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42874102/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-15T00:00:00+00:00",
+     "copete": "Chiaretti S et al. · The New England journal of medicine",
+     "id": "82c51f5b5c44"
+    },
+    {
+     "title": "IARC Perspective on Lung Cancer Screening",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42788692/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-15T00:00:00+00:00",
+     "copete": "Neamtiu L et al. · The New England journal of medicine",
+     "id": "1fd825c26849"
     },
     {
      "title": "Erratum: Insurance and Cost-Related Access Barriers to Specialty Oral Anticancer Medications for Blood Cancers in a Nationwide Sample of Medicare and Commercially Insured Patients",
@@ -71,14 +95,6 @@
      "published": "2026-10-14T00:00:00+00:00",
      "copete": "Laetsch TW et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "b0184159394a"
-    },
-    {
-     "title": "Clinical Trial Prediction Markets",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42874020/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-10-14T00:00:00+00:00",
-     "copete": "Zaorsky NG et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "cfd42ce9d069"
     }
    ]
   },
@@ -91,15 +107,36 @@
      "title": "Nehera Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/nehera",
      "source": "Vogue",
-     "published": "2026-10-15T21:26:41+00:00",
+     "published": "2026-10-16T00:24:59+00:00",
      "id": "3b10406030e9"
     },
     {
      "title": "Shuting Qiu Shanghai Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/shuting-qiu",
      "source": "Vogue",
-     "published": "2026-10-15T21:26:41+00:00",
+     "published": "2026-10-16T00:24:59+00:00",
      "id": "5a2d5259a870"
+    },
+    {
+     "title": "Pat McGrath colabora con Pandora y encuentra en la joyería un nuevo lienzo para explorar el color este otoño 2026",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRXV3kyTmRpWjBKNVNFQ1lnMnY1TGc2NmI1Y2F5aExTc25YYV9EN3Vpb2hTbWRhelBhY3hTbUpVSHJjU0dIZWRRdV95clh5eTV1a3RpMV9ubk93YUd3T0xNUkxCa196YkhzTWpkZHIxeHhJT0ZkQ2p0eGJzckRYV3pjamQ5NWpwY2FWSTBKZTBjOFM4?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-15T22:50:25+00:00",
+     "id": "93162994c8a2"
+    },
+    {
+     "title": "Zapatos de tacón cuña que son tendencia con jeans, faldas y vestidos en otoño 2026",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVBlelZWQ1g0dWtWV0kwQTd0YXN4X19IckJjYmZQeWUwak9TQ0UwYm1WMlBKVjhyc2Q0QTNVcDRTb1p5amJCYkJFWm1zRXZiN0hOekJqeGx1NGJyQU1kWWFYUjlRQVo1TG1jdXE2RkRpcUdQUmdPRUhXVDM0WXg1d1BvYktITXNiQmZIM3lqSmRZallqODFMN1VWU2o5eVVPYnpoblY5SS1BQ3cyeV9xQg?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-15T22:35:50+00:00",
+     "id": "e7b38f80e473"
+    },
+    {
+     "title": "Kris Jenner regresa a la moda con los zapatos de tacón negro más elegantes de otoño 2026",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3dPRGVwbFg3c0VpMWttdDV2OFhPZ1h0RmJFOXh2U3N5cU1uSGdHMGZMeWhDM2RxRUVUc1NNT2VyeldwelRqWk5OT1htYXJDSFcwb1BTSURPSjNLbUJoZUQ4NW0xZldSUV9ablluSHhiUVJLb1ozb3RMNlZ5dUQ4UW5OSkpWRkpJRlZUVFFNWHIzcTdmVVY3VU85OVcxY2lXZFZUY2Vab1NBYzBF?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-15T22:25:43+00:00",
+     "id": "ba59fb5c787f"
     },
     {
      "title": "Inside Jennifer Meyer and Geoffrey Ogunlesi’s Romantic Beachside Wedding in Hawaii",
@@ -125,32 +162,11 @@
      "id": "65c91af9ada5"
     },
     {
-     "title": "Uñas francesas horizontales: 10 diseños contemporáneos que las mujeres elegantes deben probar en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2FqcEMtMHNYdTVuVVQ1RjJKUlhBZUl2TXFPNHdXa0NKZFBzSnE2NDlLemxHVGFUSFdsMG5IOTJrS2lGcWY1UnNyNkdBYXZBNm9QWGNlTTlyaVV5NjFSU0xmMGJPdHowNjhLSzc2VHl2ZGFuWFNkRzFZYm9BcFVKNUlVeVhjVUV3Qi13aHdTZHJJR256Z2Q0?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-15T19:45:16+00:00",
-     "id": "985039e04285"
-    },
-    {
-     "title": "& Other Stories llega a México con planes, entusiasmo y una sólida propuesta",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jU19HTDlzNTRvYkRDV25mTVI2SXRJOVV2ZVRYUlkyVmhsQ2d1NXgxOXZrb0pGNTA4aGlLNXlOajVhRncyNFd3N205ckw4X0IzNkxOcnlzMEk1d1VsdGpLeXFSTkZCSEZOVUd1R3U0SQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-15T19:42:52+00:00",
-     "id": "caeaecffc50e"
-    },
-    {
      "title": "VIDEO | Flores en 3D, flecos y plumas: las tres tendencias que marcan la moda de esta primavera 2026",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeWFhdlFrR0NOMWJVNlpkOEFZdGF2NHJJeEE0RUFsVFV2SUtadWgxS3dOZVBSdGtwSjR6VTZ5NVhRdTR4WjRaNWkwaXJaMGFFZmdSNkNuandCeklpdnFkQTNzWHBrUnRCMWYwcGNtYlpJazAwVHdxeUdmM2RXZFpOeA?oc=5",
      "source": "Agencia NOVA",
      "published": "2026-10-15T19:16:20+00:00",
      "id": "a5b6b5b5f1b1"
-    },
-    {
-     "title": "Estas son las bailarinas italianas de colores que solo las expertas en moda llevarán en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUhScGJITks2N2RTYnBHN1JWcnl5WjdIelltVUpNVzVwU3BiWEp4a2p1YnJaTVZLdkF3dE45dzNKbWExX1loaEdqS2ZOQVNiSmkzdnh0blZySjN0dGxwM0s5aXdYNE1LUTMtWHUwcEZUc01zSUhZbmU0d2lvbE4zQ1VhZUtIclpoMC1jaU9sM0ptZm8wdkNjTw?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-15T19:00:41+00:00",
-     "id": "c708460ce943"
     },
     {
      "title": "La estética witchy será una de las tendencias más fuertes de este otoño de 2026",
@@ -167,84 +183,92 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los hijos de Héctor Alterio depositaron las cenizas de su padre en la Chacarita, en una emotiva ceremonia",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/los-hijos-de-hector-alterio-depositaron-las-cenizas-de-su-padre-en-la-chacarita-en-una-emotiva-nid15102026/",
+     "title": "Se conoció qué hizo Juanse con el premio Martín Fierro de la Música que ganó",
+     "link": "https://www.infobae.com/teleshow/2026/10/16/se-conocio-que-hizo-juanse-con-el-premio-martin-fierro-de-la-musica-que-gano/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-16T00:16:26+00:00",
+     "copete": "El líder de Ratones Paranoicos sorprendió tras la ceremonia: cuál fue el destino del galardón",
+     "id": "cf074c0f3a0e"
+    },
+    {
+     "title": "El brutal descargo de Barby Silenzi contra Dalila: \"Seré fea, pero soy sana y no tengo adicciones\"",
+     "link": "https://www.infobae.com/teleshow/2026/10/15/el-brutal-descargo-de-barby-silenzi-contra-dalila-sere-fea-pero-soy-sana-y-no-tengo-adicciones/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-15T23:59:20+00:00",
+     "copete": "La pareja de El Polaco le respondió sin filtros a la ganadora del Martín Fierro de la Música, que la había cuestionado en la alfombra roja de la ceremonia",
+     "id": "2b5dc51c9a7c"
+    },
+    {
+     "title": "María Becerra apoyó a Wanda Nara por su Martín Fierro de la Música y le dedicó un insólito elogio: “Las tiene divinas”",
+     "link": "https://www.infobae.com/teleshow/2026/10/15/maria-becerra-apoyo-a-wanda-nara-por-su-martin-fierro-de-la-musica-y-le-dedico-un-insolito-elogio-las-tiene-divinas/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-15T23:35:03+00:00",
+     "copete": "La máxima ganadora de los Martín Fierro de la Música defendió el premio de la conductora por su hit “Bad Bitch” y contó que son vecinas",
+     "id": "da208f587572"
+    },
+    {
+     "title": "Las 30 mejores fotos del casamiento civil de Andrea Ghidone y Pablo Otero",
+     "link": "https://www.infobae.com/fotos/2026/10/15/las-30-mejores-fotos-del-casamiento-civil-de-andrea-ghidone-y-pablo-otero/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-15T23:17:04+00:00",
+     "copete": "La bailarina y el empresario sellaron su unión en una ceremonia íntima en el Club Libanés de la Ciudad de Buenos Aires, rodeados de hijos, familiares y amigos",
+     "id": "7addd9fa4763"
+    },
+    {
+     "title": "Josefina Lynch, señalada como culpable de la separación de Prandi y Ortega, contó su versión: “Ojalá todos podamos seguir adelante con cariño, respeto y paz”",
+     "link": "https://www.lanacion.com.ar/espectaculos/josefina-lynch-senalada-como-culpable-de-la-separacion-de-julieta-prandi-y-emanuel-ortega-conto-su-nid15102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-15T21:21:54+00:00",
-     "copete": "Malena y Ernesto Alterio estuvieron acompañados por Víctor Laplace, Ana María Picchio y Eduardo Blanco, entre otros allegados del protagonista de La tregua",
-     "id": "6498abd6ac31"
+     "published": "2026-10-15T23:02:53+00:00",
+     "copete": "Tras ser vinculada con el artista luego de su reciente separación de la modelo, la joven emitió un contundente comunicado en Instagram donde aclaró cuál es el vínculo que los une",
+     "id": "4fd201f7c225"
     },
     {
-     "title": "El doloroso recuerdo de Barbie Simons sobre los últimos días de su padre, Leonardo Simons, a 30 años de su muerte: “Quise pedir ayuda”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/el-doloroso-recuerdo-de-barbie-simons-sobre-los-ultimos-dias-de-su-padre-leonardo-simons-a-30-anos-nid15102026/",
+     "title": "Habló Josefina Lynch, señalada como la tercera en discordia en la separación de Julieta Prandi y Emanuel Ortega",
+     "link": "https://www.infobae.com/teleshow/2026/10/15/hablo-josefina-lynch-senalada-como-la-tercera-en-discordia-en-la-separacion-de-julieta-prandi-y-emanuel-ortega/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-15T22:56:54+00:00",
+     "copete": "Tras las versiones difundidas sobre su cercanía con el artista, la cantante publicó un mensaje en redes sociales",
+     "id": "5f6fc50482a6"
+    },
+    {
+     "title": "Dolor por la muerte del músico Marcelo Decall, emblema del rock cordobés",
+     "link": "https://www.infobae.com/teleshow/2026/10/15/dolor-por-la-muerte-del-musico-marcelo-decall-emblema-del-rock-cordobes/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-15T22:49:22+00:00",
+     "copete": "El cantante y guitarrista tenía 64 años y estaba internado en Unquillo desde hacía meses por secuelas de un ACV. Con su grupo Pasaporte rompió todos los récords de venta del rock y pop de la provincia en la década del '80",
+     "id": "18abd664dd11"
+    },
+    {
+     "title": "Raphael, en Argentina: entre la biopic que acaba de estrenar Netflix y el show que brindará en Buenos Aires",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/raphael-en-argentina-entre-la-biopic-que-acaba-de-estrenar-netflix-y-el-show-que-brindara-en-buenos-nid15102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-15T20:53:41+00:00",
-     "copete": "La conductora recordó cómo fueron los momentos previos a que el célebre animador tomara la determinación de quitarse la vida, en octubre de 1996",
-     "id": "2095742d8fb4"
+     "published": "2026-10-15T22:05:47+00:00",
+     "copete": "El artista español se presenta en el país en el marco de su gira Raphaelísimo; además, acaba de estrenarse Aquel, la miniserie que recorre su trayectoria",
+     "id": "5d1a3a7d56be"
     },
     {
-     "title": "La dura crítica de Julieta Ortega a Julieta Prandi tras su separación con Emanuel: “Me parece que esta no es la manera”",
-     "link": "https://www.infobae.com/teleshow/2026/10/15/la-dura-critica-de-julieta-ortega-a-julieta-prandi-tras-su-separacion-con-emanuel-me-parece-que-esta-no-es-la-manera/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-15T20:24:48+00:00",
-     "copete": "La actriz apoyó a su hermano en medio de la inesperada ruptura con la conductora radial y se mostró molesta su excuñada",
-     "id": "7a27f167feac"
-    },
-    {
-     "title": "Coro: un viaje poético en el que la mirada define",
-     "link": "https://www.lanacion.com.ar/espectaculos/coro-un-viaje-poetico-en-el-que-la-mirada-define-nid15102026/",
+     "title": "Son los herederos del jet set, pero se cambiaron los nombres para no ser “hijos de...”: quiénes son los 10 más buscados más allá de su origen",
+     "link": "https://www.lanacion.com.ar/espectaculos/son-los-herederos-del-jet-set-pero-se-cambiaron-los-nombres-para-no-ser-hijos-de-quienes-son-los-10-nid15102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-15T20:16:43+00:00",
-     "copete": "Crítica de Coro, de la Companyia Hongaresa, de Valencia, España.",
-     "id": "20f97abbb329"
+     "published": "2026-10-15T22:00:00+00:00",
+     "copete": "Hay actores que, por la profesión de sus padres, crecieron en los sets de filmación y las plateas de los teatros y al crecer decidieron seguir sus pasos pero con nombre propio",
+     "id": "f9ac2f8fb6ee"
     },
     {
-     "title": "Fede Bal recordó su separación con Sofía Aldrey y dio un detalle desconocido sobre el inicio del “Lavarropas Gate”",
-     "link": "https://www.infobae.com/teleshow/2026/10/15/fede-bal-recordo-su-separacion-con-sofia-aldrey-y-dio-un-detalle-desconocido-sobre-el-inicio-del-lavarropas-gate/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-15T20:09:27+00:00",
-     "copete": "A tres años de su turbulento distanciamiento de la maquilladora, el conductor hizo una confesión sobre un particular episodio: “No eran mías”",
-     "id": "16e62c24c76e"
-    },
-    {
-     "title": "Se conoció el primer avance de Somos así, la serie de Nadie dice nada protagonizada por Nico Occhiato y todo su equipo",
-     "link": "https://www.lanacion.com.ar/espectaculos/se-conocio-el-primer-avance-de-somos-asi-la-serie-de-nadie-dice-nada-protagonizada-por-nico-occhiato-nid15102026/",
+     "title": "Robert De Niro compró 50 hectáreas en los 90 y las transformó por completo: de granero abandonado a estudio de cine y pista de esquí privada",
+     "link": "https://www.lanacion.com.ar/espectaculos/robert-de-niro-compro-50-hectareas-en-los-90-y-las-transformo-por-completo-de-granero-abandonado-a-nid15102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-15T20:04:52+00:00",
-     "copete": "Con el elenco original encabezado por el dueño de Luzu TV, Momi Giardina, Santi Talledo, Martín Garabal y Flor Jazmín Peña, Disney+ dio a conocer el tráiler oficial y la fecha de estreno",
-     "id": "fb572a013621"
+     "published": "2026-10-15T21:59:26+00:00",
+     "copete": "Detrás de sus papeles icónicos, la leyenda de Hollywood construyó un santuario personal que también cuenta con gimnasio de boxeo",
+     "id": "05cc541d8f9f"
     },
     {
-     "title": "Ivana Figueiras mostró el anillo de compromiso que le dio Darío Cvitanich: “Ahora sí”",
-     "link": "https://www.infobae.com/teleshow/2026/10/15/ivana-figueiras-mostro-el-anillo-de-compromiso-que-le-dio-dario-cvitanich-ahora-si/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-15T19:36:00+00:00",
-     "copete": "Luego de un año de relación, la pareja tomó la decisión de dar el siguiente paso y compartió su alegría",
-     "id": "580b5c39ea09"
-    },
-    {
-     "title": "El particular motivo por el que Dillom prefiere no realizar juntadas en su casa",
-     "link": "https://www.infobae.com/teleshow/2026/10/15/el-particular-motivo-por-el-que-dillom-prefiere-no-realizar-juntadas-en-su-casa/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-15T19:27:19+00:00",
-     "copete": "Durante su paso por Olga, el artista compartió sus gustos musicales en vivo y sorprendió al dar a conocer la razón por la que evita invitar personas a su hogar",
-     "id": "6f52d9a9baf5"
-    },
-    {
-     "title": "Zorrito Von Quintiero pasó por Infobae en Vivo y habló del homenaje a Charly García: \"Es mucho tesoro cultural\"",
-     "link": "https://www.infobae.com/teleshow/2026/10/15/zorrito-von-quintiero-paso-por-infobae-en-vivo-y-hablo-del-homenaje-a-charly-garcia-es-mucho-tesoro-cultural/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-15T19:09:02+00:00",
-     "copete": "El tecladista anticipó la recreación del histórico Unplugged de MTV en el Teatro Coliseo, repasó cómo nació aquel especial de 1995 y reflexionó sobre la vigencia del compositor que cumplirá 75 años",
-     "id": "2039179296a4"
-    },
-    {
-     "title": "Fernando Burlando sorprendió al hablar de su intimidad: “Tengo un chip sexual y la cabeza como un chico de 17 años”",
-     "link": "https://www.infobae.com/teleshow/2026/10/15/fernando-burlando-sorprendio-al-hablar-de-su-intimidad-tengo-un-chip-sexual-y-la-cabeza-como-un-chico-de-17-anos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-15T18:38:19+00:00",
-     "copete": "En diálogo con Infobae en Vivo, el abogado explicó cómo es el tratamiento hormonal que comenzó hace tres años y qué beneficios encontró",
-     "id": "78c6249001d5"
+     "title": "Lala Marain, la favorita del público en Popstars que se hizo viral por su parecido con Florence Pugh y ahora deslumbra con su voz",
+     "link": "https://www.clarin.com/espectaculos/lala-marain-favorita-publico-popstars-hizo-viral-parecido-florence-pugh-ahora-deslumbra-voz_0_TmveVFsF45.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-10-15T20:44:50+00:00",
+     "copete": "Comenzó como influencer y ganó popularidad en las redes sociales por su sorprendente semejanza con la actriz de Hollywood. Ahora, en la etapa final del reality de Telefe, conquistó a todos con una potencia vocal que recuerda a la de…",
+     "id": "395b4ded04af"
     },
     {
      "title": "Vuelve U2 a la Argentina: cómo fueron las otras cuatro visitas de la banda al país",
@@ -253,14 +277,6 @@
      "published": "2026-10-15T16:56:37+00:00",
      "copete": "El grupo irlandés anunció este jueves a las 13 que vuelve en marzo del 2027. Un repaso por los shows que dieron Bono y sus compañeros en River y el Estadio Único de La Plata, a partir de febrero de 1998.",
      "id": "dfe96616be54"
-    },
-    {
-     "title": "Cómo será la nueva puesta de \"Rigoletto\", que este viernes se estrena en Teatro Avenida, en el marco de la  temporada 2026 de Juventus Lyrica",
-     "link": "https://www.clarin.com/espectaculos/nueva-puesta-rigoletto-viernes-estrena-teatro-avenida-marco-temporada-2026-juventus-lyrica_0_WhnLaS54yw.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-10-15T16:43:59+00:00",
-     "copete": "La ópera de Giuseppe Verdi, presentada por primera vez en Venecia en 1851, sobrevive a su propio tiempo y sorprende por la vigencia de su temática: cuenta la tragedia de un bufón que, mientras sirve a un poderoso entregado a la seducción y…",
-     "id": "8b1c6fc9be0c"
     }
    ]
   },
@@ -273,7 +289,7 @@
      "title": "Los años 80 vuelven a sonar en Buenos Aires con “La mejor de mis bodas”",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjc0OExURXhIWTVyMWZsbE9OaXhPQXFtYWlfQXR6VXFBYkhhR0VjbUx2QTkxNzF0QW1DOHhxbmROVGU0cEZnWklvOWUyV3pHOFptQ3Z6eUJ3b0gwd19qRTdmRWszdjhQeVB4WkZpa1NVMFV3UWNyX082eU5QdzBrSUFkUmFxZ0hkdDJpbERjVlp2bHRtSEpzdldYSi1iSC02MldnZzVNc01HOExvVHh0bUdnb3FicDDSAdIBQVVfeXFMUHdDMGp2ckdLRnRvNGE3dHFDR1RDZG9faUd6YV9yUHo5NkZLN25TS24tb3Q0cjZCV0JLNDBib0hDcGFZSHJrUWJ4cWx6ZWZpdHAxazFCcWdwNTcydUh6ajFueHdRNDVsaEdXdmJtTjlTWjZsLTh1Uk90SC0tNUR6RlFwb3V2VHpvSGxZWm8ySEZyMVpkVWNKY3hBN2pKSlRNemNKN1BqaUQxY2FFSmgyMTgtTEQtYXE3ZXIxNkozN01HYk5hZlBtVUZJWWowUFozeUh3?oc=5",
      "source": "Infobae",
-     "published": "2026-10-15T19:56:18+00:00",
+     "published": "2026-10-15T20:47:30+00:00",
      "id": "ea234c5cdf7f"
     },
     {
@@ -284,18 +300,18 @@
      "id": "1c289b615546"
     },
     {
-     "title": "Los imperdibles para disfrutar el fin de semana en la Ciudad más linda del mundo",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUlQN3BQRHc2TkVWZ1dYU1FpVHM2TlNNUWp4STZJSW9WSVMza0xET2JBU2dyRzBreHhTeDV4eWJDV0ZTY25QSmxtbFRRSW8tSk1YMUlSdWhQbTd1VVBIM1k4cmxnU24tSVdQZE8tWXJRRXdJc3VNaG56TWFpM0NIUDdqVlNNR0hHWWVaa3l5aVBickdfcC1VZlREY3B4ZkpCeUs5ZkRZRHg0dkFYUUY0ZjRwYmE3S29iMHYxOA?oc=5",
-     "source": "Zona Norte Hoy",
-     "published": "2026-10-15T16:38:22+00:00",
-     "id": "209d89c5bde3"
-    },
-    {
      "title": "Sandra Mihanovich encabeza una gala de Fleni en el Teatro Colón para financiar la investigación y la atención médica",
      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaDN4eEpQZjRmcGxocUhYZXpVUDI1MThTSGg3Wk1pUjVXeEdGdGlWanVuYXM4MDBaelF6VHdyUlV0Z0NIcWcyVjNSTGdzb0xTWE5lamlEWkF0bTNJSmQ1cUhrX21ISS1xTUl2X1c3em1KZmNUbXhNMmlXZ05vZHl0aVJHM1VPMExUSE5INU5Qa2VmSVFpdzVkeWIzd0lqRHAwemg4RHJUbFd1dFlWUHcwd0JZcGYzRTA5eWJmQmlrVzNqdnhBaUJGSFd2Sk44UENOOFROTmxNaEgxWVR1ZUtJZXdoVzdiQXlKcndUT28xWkNaVFpz0gGPAkFVX3lxTE9rMEpZb1FjLTY3Q29nWUtTSm1ySDJqeThPS3Y0VWxqVFp4RDIzQ0NDaUI5SFY3Vy1wamNuMEkzMURudEgyS0pZMlJrN19zcUVJakM0aEtlSVBWYkRsWlhYXzBFTzRhbzhVQzRaUGJWT2dRb3V3TzBKX2hvcFlfOXRtdEE4N1JqbXVfQVpUQU5oWlZHbnk1d2o2SHN1SFJlMUtaZEJwdTUyM2hGVWo5MWtENm9ERzhwdGFxNk9XOEJKNGxBNWV3ZFBuUnpDNG9EQmNYY2tEOTZoVnQ4V29YdjBJYWt0ZlhVR3FiVzI4eEFoWXBuTDAzNGU0MHZrR0d2VFJVbnNVRDNXMVlNWlFPOVk?oc=5",
      "source": "Infobae",
      "published": "2026-10-15T16:00:00+00:00",
      "id": "b4969aae5ab3"
+    },
+    {
+     "title": "“Una distancia necesaria”: teatro espejado entre Buenos Aires y Madrid",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzRXSnlleURuSHNGQWRWNHhJYUp6Sm5pVXlKOGxQVEl2VS02UXlNTnc4LURhTWFPZnhycWtydVg1Q0lpUUloWDBXSG52ajhsT3hqQ1FRdjJMVll1LUR2bzhLeFF5VWxFNktHRjJzM212WjREM1VmaVB3bE15WkhscTk3bDBGeVVyTnVKekM3aXc0UTJNbDloVnVZNlZtR3BsMFFkSGNtVFBHSVRaMF85QXZtZkwwU2lzQUlfTE5B?oc=5",
+     "source": "Telefe Noticias",
+     "published": "2026-10-15T15:52:50+00:00",
+     "id": "e2f04fdf1a36"
     },
     {
      "title": "Día de la Madre: restaurantes con menús especiales, promociones y regalos para celebrar en Buenos Aires",
@@ -347,84 +363,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Marcha Federal Universitaria, EN VIVO: cortes, horarios y últimas noticias del reclamo",
-     "link": "https://www.lanacion.com.ar/sociedad/marcha-federal-universitaria-en-vivo-cortes-horarios-y-ultimas-noticias-del-reclamo-nid15102026/",
-     "source": "La Nación",
-     "published": "2026-10-15T21:26:30+00:00",
-     "copete": "La UBA se concentró desde las 13 en Plaza Houssay; a las 14 partieron desde la intersección de Córdoba y Junín rumbo al Congreso, donde se llevó a cabo el acto central; la movilización terminó en medio de incidentes",
-     "id": "ae66cdb950ee"
-    },
-    {
-     "title": "En Panamá continúa la instalación de hospitales modulares en puntos afectados por el terremoto",
-     "link": "https://www.infobae.com/panama/2026/10/15/en-panama-continua-la-instalacion-de-hospitales-modulares-en-puntos-afectados-por-el-terremoto/",
+     "title": "Holland Taylor revela por qué no quiere trabajar  junto a Sarah Paulson pese a tener más de dos décadas de relación",
+     "link": "https://www.infobae.com/entretenimiento/2026/10/16/holland-taylor-revela-por-que-no-quiere-trabajar-junto-a-sarah-paulson-pese-a-tener-mas-de-dos-decadas-de-relacion/",
      "source": "Infobae",
-     "published": "2026-10-15T21:25:43+00:00",
-     "copete": "Los nosocomios tienen capacidad hasta para 40 camas de hospitalización",
-     "id": "5d39ed37ce54"
+     "published": "2026-10-16T00:24:53+00:00",
+     "copete": "La actriz de The Morning Show explicó que ella y su pareja ya hablaron sobre la posibilidad de compartir pantalla, pero ninguna de las dos está convencida",
+     "id": "d3b0831b4a83"
     },
     {
-     "title": "Los gobernadores que hicieron un aporte clave a Milei para frustrar la sesión opositora en Diputados",
-     "link": "https://www.lanacion.com.ar/politica/los-gobernadores-que-podrian-auxiliar-a-milei-para-bloquear-la-sesion-impulsada-por-la-oposicion-en-nid15102026/",
+     "title": "Estudiantes vs. Flamengo, en vivo, por la Copa Libertadores: el minuto a minuto de la semifinal",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-flamengo-en-vivo-por-la-copa-libertadores-nid15102026/",
      "source": "La Nación",
-     "published": "2026-10-15T21:25:28+00:00",
-     "copete": "El oficialismo negoció para que los mandatarios aliados no ayuden al kirchnerismo a reunir el quorum; Pullaro, Sadir y Jaldo, claves para LLA",
-     "id": "f54a8135ff2e"
+     "published": "2026-10-16T00:22:38+00:00",
+     "copete": "En el estadio Uno de La Plata, el Pincha recibe al Mengão por el partido de ida de la serie",
+     "id": "421ce189ae18"
     },
     {
-     "title": "Graves incidentes en el Congreso: tras la fallida sesión, Gendarmería detuvo a 25 manifestantes y desaloja la plaza",
-     "link": "https://www.infobae.com/politica/2026/10/15/incidentes-en-la-marcha-federal-universitaria-manifestantes-tiraron-piedras-y-gendarmeria-arrojo-gases/",
+     "title": "Estudiantes abre su llave de semifinales de Copa Libertadores ante Flamengo en La Plata: formaciones confirmadas",
+     "link": "https://www.infobae.com/deportes/2026/10/15/estudiantes-abre-su-llave-de-semifinales-de-copa-libertadores-ante-flamengo-en-la-plata-hora-tv-y-probables-formaciones/",
      "source": "Infobae",
-     "published": "2026-10-15T21:23:56+00:00",
-     "copete": "Lejos del escenario previsto para el acto central de la Marcha Universitaria, grupos atacaron el vallado dispuesto alrededor del parlamento. Las fuerzas federales respondieron con balas de goma, gas lacrimógeno y un camión hidrante en el…",
-     "id": "a4e4de818500"
+     "published": "2026-10-16T00:22:31+00:00",
+     "copete": "El Pincha disputa el primer chico de semis ante el Fla. Se juega en Uno. Televisan Telefé, Fox Sports y Disney+",
+     "id": "4736c3f53e41"
     },
     {
-     "title": "Los hijos de Héctor Alterio depositaron las cenizas de su padre en la Chacarita, en una emotiva ceremonia",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/los-hijos-de-hector-alterio-depositaron-las-cenizas-de-su-padre-en-la-chacarita-en-una-emotiva-nid15102026/",
+     "title": "Desde EEUU, Milei ratificó su apoyo a Israel, atacó a Irán y condenó la ola global de antisemitismo",
+     "link": "https://www.infobae.com/politica/2026/10/15/desde-eeuu-milei-ratifico-su-apoyo-a-israel-ataco-a-iran-y-condeno-la-ola-global-de-antisemitismo/",
+     "source": "Infobae",
+     "published": "2026-10-16T00:22:13+00:00",
+     "copete": "El Presidente encabezó un acto en la embajada argentina. Enfatizó su posición personal e ideológica contra el terrorismo y confirmó su alianza estratégica con la administración Trump. “Habrá tolerancia cero con el antisemitismo”, afirmó",
+     "id": "1bc5ea007729"
+    },
+    {
+     "title": "“Algo fuerte está cambiando en Argentina”: la frase de Galperin sobre los disturbios en el Congreso y la compra de reservas",
+     "link": "https://www.infobae.com/economia/2026/10/16/algo-fuerte-esta-cambiando-en-argentina-la-frase-de-galperin-sobre-los-disturbios-en-el-congreso-y-la-compra-de-reservas/",
+     "source": "Infobae",
+     "published": "2026-10-16T00:22:09+00:00",
+     "copete": "El empresario vinculó los incidentes en la Marcha Universitaria y el intento opositor contra el DNU 70/2023 con el avance de las tenencias del Banco Central",
+     "id": "36a0c26ae099"
+    },
+    {
+     "title": "Por falta de quorum, fracasó la sesión convocada por la oposición para voltear el DNU 70/23 de Milei",
+     "link": "https://www.lanacion.com.ar/politica/por-falta-de-quorum-fracaso-la-sesion-convocada-por-la-oposicion-para-voltear-el-dnu-7023-nid15102026/",
      "source": "La Nación",
-     "published": "2026-10-15T21:21:54+00:00",
-     "copete": "Malena y Ernesto Alterio estuvieron acompañados por Víctor Laplace, Ana María Picchio y Eduardo Blanco, entre otros allegados del protagonista de La tregua",
-     "id": "6498abd6ac31"
+     "published": "2026-10-16T00:17:45+00:00",
+     "copete": "Los bloques críticos no lograron conseguir los avales necesarios para abrir el recinto; el oficialismo logró el apoyo clave de los gobernadores Pullaro, Jaldo y Sadir para bloquear el debate",
+     "id": "df21d1d30297"
     },
     {
-     "title": "Agredieron al móvil de LN+ en medio de los enfrentamientos entre manifestantes y la Policía",
-     "link": "https://www.lanacion.com.ar/politica/agredieron-al-movil-de-ln-en-medio-de-los-enfrentamientos-entre-manifestantes-y-la-policia-nid15102026/",
+     "title": "Graves incidentes entre los manifestantes y la policía durante la marcha universitaria en el Congreso",
+     "link": "https://www.lanacion.com.ar/sociedad/escala-el-conflicto-universitario-una-multitud-marcha-al-congreso-para-reclamar-financiamiento-y-nid15102026/",
      "source": "La Nación",
-     "published": "2026-10-15T21:21:21+00:00",
-     "copete": "La cronista Carla Ricciotti debió ser resguardada por dirigentes de izquierda; recibió el impacto de un objeto en la cabeza",
-     "id": "be10f876f970"
+     "published": "2026-10-16T00:17:17+00:00",
+     "copete": "Hubo corridas, piedrazos y enfrentamientos; al menos diez personas resultaron heridas; las organizaciones convocantes cuestionaron el incumplimiento de la ley y advirtieron por la situación presupuestaria del sector",
+     "id": "eb930f1d6a76"
     },
     {
-     "title": "El Banco Central volvió a realizar una fuerte compra de dólares y las reservas superaron los USD 50.000 millones",
-     "link": "https://www.infobae.com/economia/2026/10/15/el-banco-central-volvio-a-realizar-una-fuerte-compra-de-dolares-y-las-reservas-superaron-los-usd-50000-millones/",
-     "source": "Infobae",
-     "published": "2026-10-15T21:19:33+00:00",
-     "copete": "La autoridad monetaria sumó USD 182 millones este jueves y acumula más de USD 900 millones en el transcurso de octubre",
-     "id": "d24568679e02"
+     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
+     "link": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
+     "source": "La Nación",
+     "published": "2026-10-16T00:15:42+00:00",
+     "copete": "El adolescente vive en la zona rural de San Ambrosio, cerca de Río Cuarto; después de presentar su “tractoneta” en exposiciones, visitó la planta de CNH en Córdoba para conocer cómo se fabrican las máquinas agrícolas",
+     "id": "c0c2ddbcfe46"
     },
     {
-     "title": "Mo Gawdat, exejecutivo de Google, advierte: “En un año el ser más inteligente de la Tierra no será humano”",
-     "link": "https://www.infobae.com/tecno/2026/10/15/mo-gawdat-exejecutivo-de-google-advierte-en-un-ano-el-ser-mas-inteligente-de-la-tierra-no-sera-humano/",
-     "source": "Infobae",
-     "published": "2026-10-15T21:18:00+00:00",
-     "copete": "Durante la Gladiator Summit II, Mo Gawdat planteó un escenario en el que las máquinas superarían las capacidades intelectuales humanas",
-     "id": "28bfe6126aa3"
-    },
-    {
-     "title": "Lionel Messi ahora también tiene una planta: el increíble \"homenaje\" de unos científicos en Perú por sus flores celestes y blancas",
-     "link": "https://www.clarin.com/deportes/lionel-messi-ahora-planta-increible-homenaje-cientificos-peru-flores-celestes-blancas_0_reFOUJg0jf.html",
+     "title": "Nueva promesa electoral de Lula: tras la reducción de la jornada laboral, quiere transporte público gratis los fines de semana",
+     "link": "https://www.clarin.com/mundo/nueva-promesa-electoral-lula-reduccion-jornada-laboral-quiere-transporte-publico-gratis-fines-semana_0_3oPc8BWA1f.html",
      "source": "Clarín",
-     "published": "2026-10-15T21:03:21+00:00",
-     "copete": "Es un arbusto que crece a más de 2000 metros en la sierra peruana. No es la primera vez que a un nombre científico lo acompaña el apellido del astro argentino.",
-     "id": "3af0449f7571"
+     "published": "2026-10-15T23:43:47+00:00",
+     "copete": "El presidente brasileño aseguró que la medida pretende que los trabajadores puedan pasear y \"ser felices\". Las encuestas siguen ubicándolo por detrás de Flavio Bolsonaro para el balotaje del domingo 25 de octubre.",
+     "id": "45de7c22491d"
     },
     {
-     "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, jueves 15 de octubre",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-jueves-15-octubre_0_70uOGS3IPc.html",
+     "title": "EEUU revela ayuda multimillonaria para Comunidad del Caribe tras reunión con su presidente",
+     "link": "https://www.clarin.com/estados-unidos/eeuu-revela-ayuda-multimillonaria-para-comunidad-del-caribe-tras-reunion-con-su-presidente_0_srwrJoeVZK.html",
      "source": "Clarín",
-     "published": "2026-10-15T21:03:00+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "55ef4890465d"
+     "published": "2026-10-15T23:40:09+00:00",
+     "copete": "EE.UU. destina más de 175 millones de dólares para mejorar infraestructuras digitales en el Caribe, fortaleciendo la conectividad y seguridad regional. Además, se invertirán 55 millones en seguridad y 11 millones en defensa para reforzar…",
+     "id": "fe52aaf8df2f"
     }
    ]
   },
@@ -433,6 +449,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Al menos 3 niños y un adulto mueren en un tiroteo en una escuela primaria de Oregón, según medios en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-16T00:28:01+00:00",
+     "copete": "El incidente ocurrió en la escuela Silver Rail de la localidad de Bend alrededor de las 13:00, hora local. El sospechoso fue abatido, indicó la policía.",
+     "id": "ee80a25461da"
+    },
     {
      "title": "Cuáles son las lecciones que dejó El Niño más catastrófico de la historia",
      "link": "https://www.bbc.com/mundo/articles/cqzjx4lr224go?at_medium=RSS&at_campaign=rss",
@@ -464,14 +488,6 @@
      "published": "2026-10-15T18:01:35+00:00",
      "copete": "El CACCO, de cinco módulos con 17 celdas de 90 m², albergará a 5.100 presos.",
      "id": "c93a5c5b5de3"
-    },
-    {
-     "title": "\"Soy completamente inocente\": Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura",
-     "link": "https://www.bbc.com/mundo/articles/cqzjx42ld8wpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-15T17:41:22+00:00",
-     "copete": "El expresidente de Venezuela y su esposa rechazaron las nuevas acusaciones sobre conspiración para cometer torturas en una corte federal de Nueva York.",
-     "id": "24ac54f9ba72"
     },
     {
      "title": "Ucrania desafía a Trump al reanudar sus ataques contra refinerías rusas",
@@ -509,11 +525,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
