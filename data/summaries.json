@@ -1,69 +1,39 @@
 {
-  "generated_at": "2026-10-16T10:18:49Z",
+  "generated_at": "2026-10-16T22:17:29Z",
   "summaries": {
-    "9d0588e22384": {
-      "resumen": "Fe de erratas del Journal of Clinical Oncology (revista oficial de la Sociedad Americana de Oncología Clínica) sobre un estudio previo acerca de las barreras de acceso por cobertura de seguro y costos a los medicamentos orales oncológicos de especialidad en pacientes con cánceres de la sangre en EE.UU. Es una corrección administrativa, sin datos nuevos.",
-      "destacado": false
-    },
-    "5d2fcd7a024f": {
-      "resumen": "Página|12 recomienda propuestas de cultura LGBTIQ para hacer este fin de semana en Buenos Aires."
-    },
-    "ef5315100791": {
-      "resumen": "Nota de OncLive que repasa qué temas de cáncer de pulmón van a marcar la agenda del próximo congreso ESMO (sigla en inglés de European Society for Medical Oncology, la Sociedad Europea de Oncología Médica) 2026, según especialistas consultados. Sirve para anticipar qué resultados conviene seguir de cerca.",
-      "destacado": false
-    },
-    "5af5fd9353ac": {
-      "resumen": "Un ensayo clínico muestra que agregar iberdomide, un modulador de segunda generación del gen cereblon (CELMoD, por su sigla en inglés cereblon E3 ligase modulator), a un esquema triple mejora la tasa de respuesta completa con enfermedad residual mínima negativa (MRD-, ausencia de células tumorales detectables por técnicas de alta sensibilidad) en mieloma múltiple en recaída o refractario. Interesa porque la MRD negativa se asocia a mejor pronóstico a largo plazo.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico; el título no especifica la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes incluidos.\nPoblación: Pacientes adultos con mieloma múltiple en recaída o refractario a tratamientos previos.\nIntervención: Esquema triple que incorpora iberdomide (CELMoD de segunda generación) junto a otros agentes antimielomatosos; el título no detalla el comparador utilizado.\nResultados: El título reporta una mejora en la tasa de respuesta completa con MRD negativa a favor del esquema con iberdomide, pero no hay cifras exactas, intervalos de confianza ni valor de p disponibles sin el texto completo.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si la mejora en MRD se tradujo en beneficio de supervivencia libre de progresión o supervivencia global.\nMensaje: Si se confirma, sumaría a los CELMoD de segunda generación como opción para profundizar la respuesta en combinaciones triples para mieloma recaído/refractario, aunque la traducción a beneficio clínico duro todavía debe confirmarse.\nNota: análisis sin acceso al abstract."
-    },
-    "71183f94299c": {
-      "resumen": "Dos estudios epidemiológicos muestran que la brecha en supervivencia y mortalidad por cáncer de mama entre áreas rurales y urbanas de Estados Unidos se está ampliando. Importa porque pone en evidencia inequidades en el acceso a diagnóstico y tratamiento oncológico según la zona de residencia.",
-      "destacado": false,
-      "analisis": "Diseño: Dos estudios poblacionales (probablemente de cohorte o basados en registros de cáncer), de tipo observacional, sin aleatorización ni cegamiento; no se especifica la cantidad de centros ni de pacientes.\nPoblación: Mujeres con diagnóstico de cáncer de mama residentes en áreas rurales comparadas con las de áreas urbanas de Estados Unidos.\nIntervención: No aplica tratamiento activo; se compara la evolución de la supervivencia y la mortalidad según el área de residencia (rural vs. urbana) a lo largo del tiempo.\nResultados: El título indica que la brecha de supervivencia y mortalidad se está ampliando entre ambos grupos, pero no hay cifras puntuales (tasas, razones de riesgo) disponibles sin el texto completo.\nLimitaciones: Diseño observacional con riesgo de factores de confusión (acceso a cribado, nivel socioeconómico, estadio al diagnóstico) y dependencia de la calidad de los registros poblacionales.\nMensaje: Refuerza la necesidad de políticas sanitarias dirigidas a mejorar el acceso a cribado y tratamiento oncológico en zonas rurales, dado que la inequidad geográfica parece profundizarse en vez de resolverse.\nNota: análisis sin acceso al abstract."
-    },
-    "714658474835": {
-      "resumen": "Entrevista de The ASCO Post al oncólogo especialista en cáncer de pulmón Apar Kishor Ganti, quien comparte su mirada sobre el estado actual del tratamiento de esta enfermedad. Es una nota de perfil y opinión, no el reporte de un estudio.",
-      "destacado": false
-    },
-    "9046873834f9": {
-      "resumen": "TN reúne una selección de restaurantes porteños con menús especiales, promociones y regalos para festejar el Día de la Madre."
-    },
-    "ea234c5cdf7f": {
-      "resumen": "Infobae presenta 'La mejor de mis bodas', una propuesta porteña que trae de vuelta los hits de los años 80."
-    },
-    "0f90eb914faa": {
-      "resumen": "Buenos Aires Secreta reúne 35 propuestas para el fin de semana del 15 al 18 de octubre: ferias, conciertos y experiencias en la ciudad."
-    },
-    "209d89c5bde3": {
-      "resumen": "Zona Norte Hoy propone una serie de actividades imperdibles para disfrutar el fin de semana en Buenos Aires."
-    },
-    "146ed45c3617": {
-      "resumen": "El Cronista relevó restaurantes porteños reconocidos por la Guía Michelin que ofrecen menús ejecutivos a precios accesibles."
-    },
-    "b4969aae5ab3": {
-      "resumen": "Infobae cuenta que Sandra Mihanovich encabeza una gala solidaria en el Teatro Colón a beneficio de Fleni, para financiar investigación y atención médica."
-    },
-    "3b10406030e9": {
-      "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de la marca Nehera."
-    },
-    "82474b1a3b3a": {
-      "resumen": "Perspectiva Sur recomienda actividades para hacer en la provincia de Buenos Aires durante el próximo fin de semana largo."
-    },
-    "1c289b615546": {
-      "resumen": "Revista OHLALÁ! detalla cuándo toca U2 en el estadio de River en 2027, cómo conseguir las entradas y quién será el artista invitado."
-    },
     "3169b772b319": {
       "resumen": "Es una retractación formal del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre un artículo previo acerca de la intervención de cuidados paliativos al final de la vida en pacientes con cáncer avanzado. Vale la pena registrarla porque anula una conclusión que antes se citaba en la literatura.",
       "destacado": false
     },
-    "27b572bc592a": {
-      "resumen": "Nota de OncLive sobre cómo el desarrollo más refinado de los ADC (antibody-drug conjugates, anticuerpos conjugados a fármacos) está ayudando a tomar decisiones basadas en biomarcadores y a definir la secuencia de tratamientos en cánceres ginecológicos. Es un panorama de tendencias, no el reporte de un estudio puntual.",
+    "26a80adfe4c4": {
+      "resumen": "Es un cuestionario semanal de la plataforma OncLive que repasa, a modo de trivia, las noticias más relevantes de la semana en cáncer de vejiga, tumores neuroendocrinos, cáncer de páncreas y cáncer de hígado. Sirve como resumen rápido de la actualidad oncológica, sin aportar datos nuevos.",
       "destacado": false
     },
-    "ced8aa5d3368": {
-      "resumen": "Artículo de OncLive sobre cómo la atención guiada por la biología tumoral y las herramientas de inteligencia artificial (IA) están orientando el futuro de la oncología mamaria. Es una nota de contexto y tendencias, sin resultados de un estudio específico.",
+    "df32093fb938": {
+      "resumen": "Nota de OncLive que anticipa qué presentaciones sobre cáncer genitourinario (próstata, vejiga y riñón) serán protagonistas en el próximo congreso de la ESMO (European Society for Medical Oncology, Sociedad Europea de Oncología Médica) 2026, destacando los estudios VOLGA y DASL-HiCaP. Es una guía de lo que viene, útil para saber qué mirar, todavía sin resultados.",
       "destacado": false
+    },
+    "1acc171da238": {
+      "resumen": "Entrevista en video de The ASCO Post a la oncóloga Julia Rotow sobre el uso de trastuzumab deruxtecán (T-DXd, un anticuerpo conjugado a quimioterapia dirigido contra la proteína HER2) como tratamiento de primera línea en cáncer de pulmón no microcítico (NSCLC) metastásico con mutación en HER2. Es una nota de opinión experta, no el reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "9870b976f08d": {
+      "resumen": "Artículo de preguntas frecuentes de OncLive sobre el acompañamiento a pacientes con cáncer de mama, la autogestión del propio cuidado (self-advocacy) y la vida después del tratamiento (survivorship). Es una guía práctica orientada a pacientes, sin datos de investigación nuevos.",
+      "destacado": false
+    },
+    "d9ef592d77a4": {
+      "resumen": "Nota de The ASCO Post sobre un estudio que muestra que, aunque la mayoría de las leucemias infantiles tienen altas tasas de curación, el tratamiento impone una carga sustancial —económica y de otro tipo— sobre las familias de los pacientes. Importa porque pone el foco en el costo humano y financiero del tratamiento, más allá de la supervivencia.",
+      "destacado": false,
+      "analisis": "Diseño: Por el tema y la fecha, se trataría de un análisis secundario de un ensayo clínico del Children's Oncology Group (grupo cooperativo norteamericano de oncología pediátrica) sobre leucemia linfoblástica aguda (LLA) de células B de riesgo estándar, con seguimiento de alrededor de 420 niños tratados entre 2010 y 2013.\nPoblación: Niños con LLA de células B (B-ALL) de riesgo estándar, uno de los subtipos de leucemia infantil con mejor pronóstico y mayor tasa de curación.\nIntervención: Comparación de esquemas con distinta intensidad de quimioterapia (reducción vs. mantenimiento de la intensidad estándar) y su relación con el impacto económico y en la calidad de vida de las familias.\nResultados: El título indica que el tratamiento, aun siendo curativo, genera una carga sustancial para las familias; no hay cifras exactas disponibles sin el texto completo del artículo.\nLimitaciones: Es un análisis secundario (no el objetivo primario del ensayo), con datos de gasto e impacto familiar probablemente autorreportados y de una cohorte tratada hace más de una década, lo que puede limitar su aplicabilidad a los costos y la cobertura actuales.\nMensaje: Confirma que incluso en leucemias infantiles muy curables, el tratamiento tiene un costo económico y emocional considerable para las familias, y sugiere que la intensidad terapéutica y el apoyo social deberían contemplar ese impacto.\nNota: análisis sin acceso al abstract."
+    },
+    "9702b3ef040f": {
+      "resumen": "Entrevista en video de The ASCO Post al oncólogo Jonathan W. Goldman sobre los esquemas de dosificación en intervalos extendidos de tarlatamab, un anticuerpo biespecífico (BiTE, que conecta células tumorales con células del sistema inmune) usado en cáncer de pulmón de células pequeñas (SCLC). Es una nota de opinión experta, no el reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "2984a4dd6886": {
+      "resumen": "Estudio publicado en el Journal of Clinical Oncology (JCO, revista oficial de la Sociedad Americana de Oncología Clínica) que evalúa la eficacia del programa LIFT (Lessening the Impact of Financial Toxicity), una intervención de navegación financiera para pacientes con cáncer, en varios centros de Carolina del Norte. Interesa porque la toxicidad financiera —el costo económico del tratamiento oncológico— afecta la adherencia y la calidad de vida de los pacientes.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase II, multicéntrico, de un solo brazo, con medición antes y después de la intervención (pre-/post), realizado en nueve centros de atención oncológica de Carolina del Norte (cinco en zonas rurales y cuatro en zonas no rurales); un diseño de un solo brazo no incluye aleatorización ni cegamiento.\nPoblación: Pacientes adultos con cáncer en tratamiento activo en los centros participantes; el protocolo publicado del estudio previó incluir alrededor de 780 personas.\nIntervención: Programa de navegación financiera (financial navigation) que identifica sistemáticamente a los pacientes en riesgo, evalúa su elegibilidad para recursos de asistencia económica, aclara las expectativas de costos del tratamiento y ayuda a pacientes y cuidadores a planificar cómo afrontar los gastos del cáncer; sin grupo comparador, por tratarse de un diseño de un solo brazo.\nResultados: El título señala que la intervención fue efectiva para reducir la toxicidad financiera, pero no se dispone de las cifras exactas (magnitud del efecto, intervalos de confianza, valor de p) sin acceso al texto completo del artículo.\nLimitaciones: El diseño de un solo brazo, sin grupo control, dificulta atribuir la mejora exclusivamente a la intervención; además, al tratarse de centros de Carolina del Norte, su generalización a otros sistemas de salud y de cobertura puede ser limitada.\nMensaje: Respalda incorporar programas de navegación financiera como parte habitual de la atención oncológica, en especial en poblaciones con riesgo de toxicidad financiera, aunque la ausencia de un grupo control invita a interpretar el beneficio con cautela.\nNota: análisis sin acceso al abstract."
     },
     "f00ed5b784f8": {
       "resumen": "Describe un ensayo de fase temprana, primera vez en humanos (first-in-human), de radioinmunoterapia con astato-211 (211At) dirigida contra CD45, combinada con un acondicionamiento no mieloablativo previo a un trasplante de células hematopoyéticas (HCT, hematopoietic cell transplantation) en adultos con neoplasias hematológicas malignas. Importa porque es una estrategia novedosa para preparar el trasplante con menor toxicidad.",
@@ -75,26 +45,68 @@
       "destacado": false,
       "analisis": "Diseño: Nota: por el título parece un estudio diagnóstico o de concordancia (revisión experta más pruebas moleculares); no hay datos de aleatorización, cegamiento, centros ni número de casos.\nPoblación: Pacientes con tumores melanocíticos cutáneos de diagnóstico histológico ambiguo, difíciles de clasificar por microscopía convencional.\nIntervención: Evaluación histopatológica por expertos combinada con análisis moleculares, comparada presumiblemente con el diagnóstico histopatológico convencional.\nResultados: No disponibles desde el título; no hay cifras que se puedan citar sin el abstract.\nLimitaciones: Posible sesgo de selección de casos ya identificados como ambiguos, dependencia de testeo molecular especializado y probable diseño retrospectivo.\nMensaje: Si confirma que sumar estudios moleculares mejora la clasificación de estas lesiones difíciles, podría reducir la incertidumbre diagnóstica en nevos y melanomas límite; falta confirmar con el detalle del estudio.\nNota: análisis sin acceso al abstract."
     },
-    "df105df6e93d": {
-      "resumen": "Cómo es la campera bomber a cuadros de Zara —cuesta 39,95 euros— que se volvió furor entre las tendencias de otoño 2026."
-    },
-    "52ee5841299b": {
-      "resumen": "Vogue España repasa por qué, según la revista, 'La invitación' es una de las comedias más destacadas de 2026."
-    },
-    "983f70be9b8e": {
-      "resumen": "Una guía de Telva con los sweaters de la temporada para armar looks de otoño cómodos y con onda."
-    },
-    "e47fe56d6efd": {
-      "resumen": "La feria textil MarediModa vuelve a Cannes con las novedades e innovaciones que marcarán la moda de 2028."
-    },
-    "7bc082047203": {
-      "resumen": "Los jeans \"barrel\" (de corte ancho y redondeado) se consolidan como el modelo más buscado del otoño."
-    },
-    "93162994c8a2": {
-      "resumen": "La maquilladora Pat McGrath se asocia con Pandora para explorar el color en joyería de cara al otoño 2026."
-    },
     "1403063dca37": {
       "resumen": "Una selección de restaurantes porteños para agasajar a mamá este domingo, Día de la Madre."
+    },
+    "b8089c9e247d": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Shushu/Tong presentada en la Semana de la Moda de Shanghái."
+    },
+    "af1cf6142d02": {
+      "resumen": "Vogue presenta la colección ready-to-wear primavera 2027 de Marchesa."
+    },
+    "5ca985613fb2": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Markgong mostrada en la Semana de la Moda de Shanghái."
+    },
+    "750a91a1a548": {
+      "resumen": "Vogue México propone cinco ideas de manicura en tono bugambilia para un look elegante este otoño."
+    },
+    "877f6fc8f881": {
+      "resumen": "Vogue México repasa los desfiles de la Semana de la Moda de Panamá 2026, donde la artesanía local fue la gran protagonista."
+    },
+    "d17aa4f29463": {
+      "resumen": "Vogue México selecciona los jeans de tiro bajo estilo años 2000 para combinar con zapatos negros este otoño."
+    },
+    "d652b4d93f58": {
+      "resumen": "Lecturas recoge la opinión de especialistas en moda sobre la tendencia en abrigos para 2027: modelos rectos y elegantes, con hombros estructurados."
+    },
+    "e7f0d2fcbe50": {
+      "resumen": "Vogue México propone cinco botas de ante color café para combinar con vestidos de tendencia este otoño."
+    },
+    "2786897c344d": {
+      "resumen": "Canal26 cuenta la nueva tendencia decorativa 2026 que ubica el árbol de Navidad en el centro del living en lugar de una esquina."
+    },
+    "3fea95740e0b": {
+      "resumen": "Página|12 presenta la agenda cultural de la provincia de Buenos Aires."
+    },
+    "45ccd7b00c96": {
+      "resumen": "All Access anuncia el show de despedida de año de Koino Yokan en Buenos Aires."
+    },
+    "fa83cf1bd2c3": {
+      "resumen": "Nota al Pie cuenta que Buenos Aires lleva su oferta cultural a Madrid, con propuestas sobre Borges, cine, teatro, literatura y tango."
+    },
+    "5c92aedc738b": {
+      "resumen": "Ciudad Magazine cuenta cómo fue el regreso de la cantante Bebe a los escenarios porteños, en una noche nostálgica en el Teatro Ópera."
+    },
+    "994d2dc28b63": {
+      "resumen": "FullTicket informa fecha, entradas y precios del show de la cantante finlandesa Tarja en el Teatro Coliseo."
+    },
+    "dfcb0e8259b2": {
+      "resumen": "Perfil propone planes de música, teatro y ferias para el fin de semana en la Ciudad de Buenos Aires."
+    },
+    "397daa1f4a9b": {
+      "resumen": "Meteored Argentina sugiere seis planes para festejar el Día de la Madre en familia en Buenos Aires."
+    },
+    "9da1d048c3e7": {
+      "resumen": "FM Universo 97.3 reúne más de 60 propuestas para el fin de semana del 16 al 18 de octubre en Buenos Aires, entre recitales, teatro, cine y muestras gratuitas."
+    },
+    "60a970c156e4": {
+      "resumen": "MDZ Online propone siete planes de música, teatro, ciencia y gastronomía para el fin de semana en Buenos Aires."
+    },
+    "1d9f03f62c34": {
+      "resumen": "Infobae advierte, según un estudio, que el riesgo de desarrollar diabetes es alto en los primeros meses de tratamiento con antipsicóticos."
+    },
+    "e3c359f3b9ba": {
+      "resumen": "Infobae repasa qué dice la evidencia sobre la relación entre dormir siesta y el riesgo de demencia."
     }
   }
 }
