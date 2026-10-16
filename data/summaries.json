@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-10-15T22:25:00Z",
+  "generated_at": "2026-10-16T10:18:49Z",
   "summaries": {
-    "b0184159394a": {
-      "resumen": "Resultados del estudio fase I/II LIBRETTO-121 sobre selpercatinib, un inhibidor del gen RET, en niños y adolescentes con tumores sólidos que tienen alteraciones de ese gen. Es la base de la aprobación acelerada de la FDA para esta población pediátrica, un grupo con muy pocas opciones dirigidas disponibles.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio fase I/II, abierto (sin ciego), de un solo brazo, multicéntrico internacional (canasta de tumores con alteración de RET), parte del programa LIBRETTO-121.\nPoblación: Pacientes pediátricos y adolescentes (aproximadamente entre 6 meses y 21 años según cohortes reportadas públicamente) con tumores sólidos RET-alterados, incluyendo cáncer medular de tiroides con mutación RET y cáncer papilar de tiroides con fusión de RET, la mayoría ya tratados previamente.\nIntervención: Selpercatinib oral continuo, sin comparador (estudio de un solo brazo).\nResultados: No se pudo acceder al abstract completo de esta publicación específica; estudios relacionados del mismo programa reportaron tasas de respuesta objetiva en el rango de 48-50%, pero esas cifras no corresponden confirmadamente a este PMID y no se consignan como dato validado de este artículo.\nLimitaciones: Diseño de un solo brazo sin comparador, tamaño muestral pediátrico pequeño, posible sesgo de selección en una población rara.\nMensaje: Refuerza la base de evidencia para el uso de selpercatinib en pediatría con tumores RET-alterados, sustentando la aprobación regulatoria en esta población donde las alternativas dirigidas son escasas.\nNota: análisis sin acceso al abstract completo (PubMed no disponible desde este entorno; los datos de eficacia mencionados provienen de publicaciones relacionadas del mismo programa LIBRETTO-121, no de este artículo puntual)."
-    },
-    "cfd42ce9d069": {
-      "resumen": "Artículo del Journal of Clinical Oncology sobre mercados de predicción aplicados a ensayos clínicos, una herramienta metodológica para anticipar resultados de estudios en base a las apuestas de expertos. Es una pieza conceptual/metodológica, no el reporte de un ensayo con pacientes.",
-      "destacado": false
-    },
     "9d0588e22384": {
       "resumen": "Fe de erratas del Journal of Clinical Oncology (revista oficial de la Sociedad Americana de Oncología Clínica) sobre un estudio previo acerca de las barreras de acceso por cobertura de seguro y costos a los medicamentos orales oncológicos de especialidad en pacientes con cánceres de la sangre en EE.UU. Es una corrección administrativa, sin datos nuevos.",
-      "destacado": false
-    },
-    "175e1961fe99": {
-      "resumen": "Fe de erratas del Journal of Clinical Oncology sobre un estudio que usaba el perfil de ADN tumoral circulante (ADNtc, fragmentos de ADN tumoral detectables en sangre) para clasificar el riesgo en pacientes con sarcoma de Ewing, del Children's Oncology Group y el estudio LEOPARD. Es una corrección administrativa, sin datos nuevos.",
       "destacado": false
     },
     "5d2fcd7a024f": {
@@ -25,14 +12,9 @@
       "resumen": "Nota de OncLive que repasa qué temas de cáncer de pulmón van a marcar la agenda del próximo congreso ESMO (sigla en inglés de European Society for Medical Oncology, la Sociedad Europea de Oncología Médica) 2026, según especialistas consultados. Sirve para anticipar qué resultados conviene seguir de cerca.",
       "destacado": false
     },
-    "0deb5eb3d454": {
-      "resumen": "Un análisis de seguridad muestra que lifileucel, una terapia celular de linfocitos infiltrantes de tumor (TIL, por su sigla en inglés tumor-infiltrating lymphocytes) aprobada para melanoma avanzado, se asocia a bajas tasas de eventos adversos relacionados al tratamiento (TRAE, por su sigla en inglés treatment-related adverse events) graves y de reinternación luego del alta hospitalaria. Importa porque despeja dudas sobre la seguridad ambulatoria de una terapia con un perfil de toxicidad inicial intenso.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis de seguridad (probablemente retrospectivo, sobre la cohorte del estudio pivotal o un registro posterior a la aprobación) centrado en eventos adversos ocurridos después del alta hospitalaria; no hay datos sobre aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con melanoma avanzado tratados con lifileucel, terapia de linfocitos infiltrantes de tumor (TIL) aprobada por la FDA (agencia regulatoria de medicamentos de Estados Unidos) para esta indicación.\nIntervención: Infusión única de lifileucel tras un régimen de linfodepleción previo, con seguimiento clínico posterior al alta; el título no describe un comparador.\nResultados: El título indica baja frecuencia de eventos adversos relacionados al tratamiento graves y de reinternaciones después del alta, pero sin cifras puntuales (tasas, intervalos de confianza) disponibles sin el texto completo.\nLimitaciones: Posible sesgo de seguimiento incompleto, ausencia de grupo comparador y dependencia de un período acotado post-alta.\nMensaje: Si se confirman estas tasas bajas, respaldaría el manejo ambulatorio de estos pacientes una vez superada la fase aguda de la terapia, facilitando su implementación fuera de centros de altísima complejidad.\nNota: análisis sin acceso al abstract."
-    },
     "5af5fd9353ac": {
       "resumen": "Un ensayo clínico muestra que agregar iberdomide, un modulador de segunda generación del gen cereblon (CELMoD, por su sigla en inglés cereblon E3 ligase modulator), a un esquema triple mejora la tasa de respuesta completa con enfermedad residual mínima negativa (MRD-, ausencia de células tumorales detectables por técnicas de alta sensibilidad) en mieloma múltiple en recaída o refractario. Interesa porque la MRD negativa se asocia a mejor pronóstico a largo plazo.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Ensayo clínico; el título no especifica la fase, la aleatorización, el cegamiento ni la cantidad de centros o de pacientes incluidos.\nPoblación: Pacientes adultos con mieloma múltiple en recaída o refractario a tratamientos previos.\nIntervención: Esquema triple que incorpora iberdomide (CELMoD de segunda generación) junto a otros agentes antimielomatosos; el título no detalla el comparador utilizado.\nResultados: El título reporta una mejora en la tasa de respuesta completa con MRD negativa a favor del esquema con iberdomide, pero no hay cifras exactas, intervalos de confianza ni valor de p disponibles sin el texto completo.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si la mejora en MRD se tradujo en beneficio de supervivencia libre de progresión o supervivencia global.\nMensaje: Si se confirma, sumaría a los CELMoD de segunda generación como opción para profundizar la respuesta en combinaciones triples para mieloma recaído/refractario, aunque la traducción a beneficio clínico duro todavía debe confirmarse.\nNota: análisis sin acceso al abstract."
     },
     "71183f94299c": {
@@ -44,21 +26,8 @@
       "resumen": "Entrevista de The ASCO Post al oncólogo especialista en cáncer de pulmón Apar Kishor Ganti, quien comparte su mirada sobre el estado actual del tratamiento de esta enfermedad. Es una nota de perfil y opinión, no el reporte de un estudio.",
       "destacado": false
     },
-    "f1b20eaf0da2": {
-      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) otorgó la designación de vía rápida (Fast Track) ampliada a invikafusp alfa para tumores sólidos con alta carga mutacional tumoral (TMB-H, por su sigla en inglés tumor mutational burden-high). Es una noticia regulatoria que agiliza el desarrollo del fármaco, sin datos de eficacia nuevos.",
-      "destacado": false
-    },
-    "a5b6b5b5f1b1": {
-      "resumen": "Agencia NOVA repasa en video las tres tendencias que dominan la moda de esta primavera 2026: flores en 3D, flecos y plumas."
-    },
     "9046873834f9": {
       "resumen": "TN reúne una selección de restaurantes porteños con menús especiales, promociones y regalos para festejar el Día de la Madre."
-    },
-    "fd403468c97f": {
-      "resumen": "El Destape recomienda cinco cafés y restaurantes de la Ciudad de Buenos Aires con descuentos para salir a comer con mamá en el Día de la Madre 2026."
-    },
-    "d8c447d0f2a1": {
-      "resumen": "Quién adelanta que la estética 'witchy', de inspiración bruja y gótica, se impondrá como una de las tendencias más fuertes del otoño 2026."
     },
     "ea234c5cdf7f": {
       "resumen": "Infobae presenta 'La mejor de mis bodas', una propuesta porteña que trae de vuelta los hits de los años 80."
@@ -66,17 +35,8 @@
     "0f90eb914faa": {
       "resumen": "Buenos Aires Secreta reúne 35 propuestas para el fin de semana del 15 al 18 de octubre: ferias, conciertos y experiencias en la ciudad."
     },
-    "caeaecffc50e": {
-      "resumen": "Vogue México cuenta cómo llega la marca & Other Stories al mercado mexicano, con sus planes y su propuesta de moda."
-    },
-    "c708460ce943": {
-      "resumen": "Vogue México elige las bailarinas (zapatos chatos) italianas de colores que marcarán tendencia entre las expertas en moda este otoño 2026."
-    },
     "209d89c5bde3": {
       "resumen": "Zona Norte Hoy propone una serie de actividades imperdibles para disfrutar el fin de semana en Buenos Aires."
-    },
-    "5a2d5259a870": {
-      "resumen": "Vogue repasa la colección primavera 2027 de la diseñadora Shuting Qiu, presentada en la Semana de la Moda de Shanghái."
     },
     "146ed45c3617": {
       "resumen": "El Cronista relevó restaurantes porteños reconocidos por la Guía Michelin que ofrecen menús ejecutivos a precios accesibles."
@@ -87,17 +47,54 @@
     "3b10406030e9": {
       "resumen": "Vogue presenta la colección primavera 2027 ready-to-wear de la marca Nehera."
     },
-    "65c91af9ada5": {
-      "resumen": "ABC adelanta desde Sevilla las primeras tendencias y vestidos de moda flamenca para 2027, reveladas en la feria SIMOF."
-    },
-    "985039e04285": {
-      "resumen": "Vogue México propone diez diseños contemporáneos de uñas francesas horizontales para probar este otoño 2026."
-    },
     "82474b1a3b3a": {
       "resumen": "Perspectiva Sur recomienda actividades para hacer en la provincia de Buenos Aires durante el próximo fin de semana largo."
     },
     "1c289b615546": {
       "resumen": "Revista OHLALÁ! detalla cuándo toca U2 en el estadio de River en 2027, cómo conseguir las entradas y quién será el artista invitado."
+    },
+    "3169b772b319": {
+      "resumen": "Es una retractación formal del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre un artículo previo acerca de la intervención de cuidados paliativos al final de la vida en pacientes con cáncer avanzado. Vale la pena registrarla porque anula una conclusión que antes se citaba en la literatura.",
+      "destacado": false
+    },
+    "27b572bc592a": {
+      "resumen": "Nota de OncLive sobre cómo el desarrollo más refinado de los ADC (antibody-drug conjugates, anticuerpos conjugados a fármacos) está ayudando a tomar decisiones basadas en biomarcadores y a definir la secuencia de tratamientos en cánceres ginecológicos. Es un panorama de tendencias, no el reporte de un estudio puntual.",
+      "destacado": false
+    },
+    "ced8aa5d3368": {
+      "resumen": "Artículo de OncLive sobre cómo la atención guiada por la biología tumoral y las herramientas de inteligencia artificial (IA) están orientando el futuro de la oncología mamaria. Es una nota de contexto y tendencias, sin resultados de un estudio específico.",
+      "destacado": false
+    },
+    "f00ed5b784f8": {
+      "resumen": "Describe un ensayo de fase temprana, primera vez en humanos (first-in-human), de radioinmunoterapia con astato-211 (211At) dirigida contra CD45, combinada con un acondicionamiento no mieloablativo previo a un trasplante de células hematopoyéticas (HCT, hematopoietic cell transplantation) en adultos con neoplasias hematológicas malignas. Importa porque es una estrategia novedosa para preparar el trasplante con menor toxicidad.",
+      "destacado": false,
+      "analisis": "Diseño: Nota: por el título parece un estudio de fase I, primera vez en humanos, de un solo brazo; no hay datos de aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: Adultos con neoplasias hematológicas malignas candidatos a trasplante de células hematopoyéticas.\nIntervención: Radioinmunoterapia con astato-211 (211At) dirigida contra CD45 (antígeno de superficie de células hematopoyéticas), sumada a un régimen de acondicionamiento no mieloablativo previo al trasplante; no se menciona comparador.\nResultados: No disponibles desde el título; no hay cifras que se puedan citar sin el abstract.\nLimitaciones: Estudio de fase I centrado en seguridad y factibilidad, probablemente con pocos pacientes y sin seguimiento a largo plazo.\nMensaje: Es una prueba de concepto temprana de un radiofármaco dirigido para facilitar el trasplante en neoplasias hematológicas; todavía no cambia la práctica pero conviene seguirlo.\nNota: análisis sin acceso al abstract."
+    },
+    "9e6709afed4a": {
+      "resumen": "Estudio sobre cómo la revisión histopatológica por expertos sumada a análisis moleculares ayuda a clasificar tumores melanocíticos cutáneos ambiguos, es decir, lesiones pigmentadas de la piel difíciles de catalogar entre nevo benigno y melanoma. Es relevante porque ese diagnóstico diferencial es un problema clínico frecuente y de alto impacto.",
+      "destacado": false,
+      "analisis": "Diseño: Nota: por el título parece un estudio diagnóstico o de concordancia (revisión experta más pruebas moleculares); no hay datos de aleatorización, cegamiento, centros ni número de casos.\nPoblación: Pacientes con tumores melanocíticos cutáneos de diagnóstico histológico ambiguo, difíciles de clasificar por microscopía convencional.\nIntervención: Evaluación histopatológica por expertos combinada con análisis moleculares, comparada presumiblemente con el diagnóstico histopatológico convencional.\nResultados: No disponibles desde el título; no hay cifras que se puedan citar sin el abstract.\nLimitaciones: Posible sesgo de selección de casos ya identificados como ambiguos, dependencia de testeo molecular especializado y probable diseño retrospectivo.\nMensaje: Si confirma que sumar estudios moleculares mejora la clasificación de estas lesiones difíciles, podría reducir la incertidumbre diagnóstica en nevos y melanomas límite; falta confirmar con el detalle del estudio.\nNota: análisis sin acceso al abstract."
+    },
+    "df105df6e93d": {
+      "resumen": "Cómo es la campera bomber a cuadros de Zara —cuesta 39,95 euros— que se volvió furor entre las tendencias de otoño 2026."
+    },
+    "52ee5841299b": {
+      "resumen": "Vogue España repasa por qué, según la revista, 'La invitación' es una de las comedias más destacadas de 2026."
+    },
+    "983f70be9b8e": {
+      "resumen": "Una guía de Telva con los sweaters de la temporada para armar looks de otoño cómodos y con onda."
+    },
+    "e47fe56d6efd": {
+      "resumen": "La feria textil MarediModa vuelve a Cannes con las novedades e innovaciones que marcarán la moda de 2028."
+    },
+    "7bc082047203": {
+      "resumen": "Los jeans \"barrel\" (de corte ancho y redondeado) se consolidan como el modelo más buscado del otoño."
+    },
+    "93162994c8a2": {
+      "resumen": "La maquilladora Pat McGrath se asocia con Pandora para explorar el color en joyería de cara al otoño 2026."
+    },
+    "1403063dca37": {
+      "resumen": "Una selección de restaurantes porteños para agasajar a mamá este domingo, Día de la Madre."
     }
   }
 }
