@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T21:24:13.521613+00:00",
+ "generated_at": "2026-10-17T00:35:48.802003+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -29,18 +29,18 @@
      "id": "df32093fb938"
     },
     {
+     "title": "Talquetamab Plus Daratumumab Earns CHMP Backing in R/R Myeloma",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWEwRmkwNDVjWlF4SXllTnNSdkl1VG81X1NWTWJLOEdMWjh6ZjdJeU9XbkdLV25jYkx6WEEzdU1id212bW40V2U2TmV6clN6QWhPaXlpX3BCYzYwTkJHUFlBVnNBZGo3UVFLQVRfZ0JaTUN0TWJyMTROakVrYWtiaks3dlBiOWp0elpNMG01YVZpZ0Q4WFE?oc=5",
+     "source": "OncLive",
+     "published": "2026-10-16T16:37:33+00:00",
+     "id": "767e63db4aea"
+    },
+    {
      "title": "Julia Rotow, MD, on Metastatic HER2-Mutant NSCLC: First-Line T-DXd",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDVpb1ItQWlqOVRIU0RBVVJLRDMtTHZwbkZ0UUZ3Q05leGR3TmJqeWNlbnBIMG45ZGNxNUxITE5TN3BjVk8tNXR6U21rTC0yU3FMSERuNTU4VFBsTkUyelFlZGN3dnJzYzhBb2picEdTcnF5SDA5Ynk2dUNEeldFdktGcTNzNFREWHRMYkxEN2lOdDBB?oc=5",
      "source": "The ASCO Post",
      "published": "2026-10-16T16:23:54+00:00",
      "id": "1acc171da238"
-    },
-    {
-     "title": "Frequently Asked Questions on Breast Cancer Patient Support, Self-Advocacy, and Survivorship",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnJwTGs0cnZjTG9MZ2N1OFpGSkNDdlNzLXJaY2RDVUMxVDRfR2ZLbDlUTk1SUk4yQ3RWWF9xTDVXZ2JDcFdWODhjZUVMbXBGbU93cTRtR2tYVW1RY0xYcktVTDVRLVhSZXpSUkhIaGtiX0tySjFoeXhRbnpTMm9tME1SU2FJeFl3ZzIwa3M1NldxZ3VFY3lCamdqZzdlUVZtbllIeVlaaUxaSHEybEtra3lmN08tZ3dZMVlN?oc=5",
-     "source": "OncLive",
-     "published": "2026-10-16T15:57:30+00:00",
-     "id": "9870b976f08d"
     },
     {
      "title": "Even Highly Curable Childhood Leukemias Take a Substantial Toll on Families, Study Finds",
@@ -50,11 +50,20 @@
      "id": "d9ef592d77a4"
     },
     {
-     "title": "Jonathan W. Goldman, MD, on SCLC: Tarlatamab Extended-Interval Dosing Regimens",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUx4THJzVDNsdWZ3M3hTMDVjdS1wRWtfMENkN3NPQW9Ybm42SkVhdU45R05MRmV4bk9uNXF5YnZIb2NhbVFYdGVXRktDZ3FaX3RxTDJNekV1N1lvX3QzX0c3eWIyWXdOMDVYTjhQWkhKeF9oSjNWSXFpMW85ckVsdXFQVV9Tcm5yR2g2ZnhSNExTb3dWa1lFUHNB?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-10-16T11:37:15+00:00",
-     "id": "9702b3ef040f"
+     "title": "Promise and Challenge of Personalized Lung Cancer Screening",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42886886/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-10-16T00:00:00+00:00",
+     "copete": "Rivera MP et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "d74d046b8731"
+    },
+    {
+     "title": "Beyond Phlebotomy: Iron Homeostasis in the Next Phase of Polycythemia Vera Management",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42886882/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-10-16T00:00:00+00:00",
+     "copete": "Torre E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "aaf6624dfb5e"
     },
     {
      "title": "Effectiveness of a Multisite Oncology Financial Navigation Intervention: The Lessening the Impact of Financial Toxicity Clinical Trial",
@@ -65,20 +74,11 @@
      "id": "2984a4dd6886"
     },
     {
-     "title": "First-In-Human Study of (211)At-CD45 Radioimmunotherapy With Nonmyeloablative Conditioning Hematopoietic Cell Transplantation for Adults With Hematologic Malignancies",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42879732/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-10-15T00:00:00+00:00",
-     "copete": "Vo PT et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "f00ed5b784f8"
-    },
-    {
-     "title": "Expert Histopathologic Evaluation and Molecular Analyses for Ambiguous Cutaneous Melanocytic Tumors",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42879715/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-10-15T00:00:00+00:00",
-     "copete": "Ebbelaar CF et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "9e6709afed4a"
+     "title": "Iberdomide Triplet Improves MRD-Negative Complete Response in Relapsed/Refractory Multiple Myeloma",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdG5FSGtxc19ic2l2anhYWTFJS3JvMFRkY2JfbWo2NGNjYWc4b3kxU1I5S2pvcVIyWlQ4UTVXMjZETzhjLVJ6aC1iamhFRzExRWxIRmRmclZvaHljaVo3b1dkNGtSYjF0N2VXS1lTLXlOYUU0VVhjSFdldERmd19scENSeG5ia3hPc0FWWVpFanUwUmEtZWViOW9xYlMwd1B0RkpHd19YMnloUDEzblVWXzhtMnFzTDFIY2c1elZFdzBZMVB5Vmo4R09hRldnWTVDNmVZ?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-15T19:51:13+00:00",
+     "id": "5af5fd9353ac"
     }
    ]
   },
@@ -91,30 +91,30 @@
      "title": "Shushu/Tong Shanghai Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/shushutong",
      "source": "Vogue",
-     "published": "2026-10-16T21:19:14+00:00",
+     "published": "2026-10-17T00:30:13+00:00",
      "id": "b8089c9e247d"
     },
     {
      "title": "Marchesa Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/marchesa",
      "source": "Vogue",
-     "published": "2026-10-16T21:19:14+00:00",
+     "published": "2026-10-17T00:30:13+00:00",
      "id": "af1cf6142d02"
     },
     {
      "title": "Markgong Shanghai Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/shanghai-spring-2027/markgong",
      "source": "Vogue",
-     "published": "2026-10-16T21:19:14+00:00",
+     "published": "2026-10-17T00:30:13+00:00",
      "id": "5ca985613fb2"
     },
     {
-     "title": "The Model Off-Duty Uniform, Decoded",
-     "link": "https://www.vogue.com/article/model-off-duty-outfits",
+     "title": "Up to Our Necks: Fall Accessories and Full-Tilt Maximalism Tie the Knot",
+     "link": "https://www.vogue.com/article/fall-accessories-and-full-tilt-maximalism-tie-the-knot",
      "source": "Vogue",
-     "published": "2026-10-16T21:12:45+00:00",
-     "copete": "For your next weekend look, take a cue from the model off-duty playbook. Their personal brand of nonchalant cool is easily recreated with these simple basics.",
-     "id": "e618d606f55d"
+     "published": "2026-10-17T00:00:00+00:00",
+     "copete": "The leaves aren’t the only things wild with color this season. As nature trades its summer greens for a rich tapestry of amber, rust, burgundy, and gold, our wardrobes are following suit.",
+     "id": "1aaada3e455b"
     },
     {
      "title": "Uñas color bugambilia: 5 ideas para llevar la manicura más elegante de otoño 2026",
@@ -166,84 +166,84 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Solita Silveyra contó cómo avanza su recuperación tras el accidente doméstico que tuvo: “Hay días que duele muchísimo”",
+     "link": "https://www.infobae.com/teleshow/2026/10/17/solita-silveyra-conto-como-avanza-su-recuperacion-tras-el-accidente-domestico-que-tuvo-hay-dias-que-duele-muchisimo/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-17T00:08:49+00:00",
+     "copete": "Un mes atrás, la actriz sufrió una caída en su hogar, se quebró la cadera y compartió con sus seguidores cómo se encuentra",
+     "id": "9a4660af2532"
+    },
+    {
+     "title": "Vero Lozano e Ian Lucas a horas del estreno de MasterChef Junior: risas, nervios y emoción",
+     "link": "https://www.infobae.com/teleshow/2026/10/16/vero-lozano-y-ian-lucas-a-horas-del-estreno-de-masterchef-junior-risas-nervios-y-emocion/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-16T23:42:37+00:00",
+     "copete": "La nueva edición del reality de cocina se estrenará este viernes a las 21:30 horas y contará con 14 participantes entre 8 y 13 años",
+     "id": "5415bf6b57ce"
+    },
+    {
+     "title": "Quienes serán los invitados de “las mesazas”, PH y La Peña de Morfi de este fin de semana",
+     "link": "https://www.infobae.com/teleshow/2026/10/16/quienes-seran-los-invitados-de-las-mesazas-ph-y-la-pena-de-morfi-de-este-fin-de-semana/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-16T23:26:29+00:00",
+     "copete": "La programación televisiva reunirá entrevistas, música en vivo, cocina y humor, con propuestas encabezadas por Juana Viale, Andy Kusnetzoff, Diego Leuco y Carina Zampini",
+     "id": "5ed97904edf3"
+    },
+    {
+     "title": "Son los herederos del jet set, pero se cambiaron los nombres para no ser “hijos de...”: quiénes son los 10 más buscados más allá de su origen",
+     "link": "https://www.lanacion.com.ar/espectaculos/son-los-herederos-del-jet-set-pero-se-cambiaron-los-nombres-para-no-ser-hijos-de-quienes-son-los-10-nid15102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-16T22:39:15+00:00",
+     "copete": "Hay actores que, por la profesión de sus padres, crecieron en los sets de filmación y las plateas de los teatros y al crecer decidieron seguir sus pasos pero con nombre propio",
+     "id": "f9ac2f8fb6ee"
+    },
+    {
+     "title": "Alejandro Sanz compró una finca de 32 hectáreas en un pueblo de España y rescató un paisaje en peligro",
+     "link": "https://www.lanacion.com.ar/espectaculos/alejandro-sanz-compro-una-finca-de-32-hectareas-en-un-pueblo-de-espana-y-rescato-un-paisaje-en-nid16102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-16T22:38:59+00:00",
+     "copete": "Lejos de los estadios multitudinarios, el músico español encontró un espacio de tranquilidad en un campo en Extremadura, lugar que él mismo bautizó como “El Sueño de los Parrales”",
+     "id": "e54d69898984"
+    },
+    {
+     "title": "Robert De Niro compró 50 hectáreas en los 90 y las transformó por completo: de granero abandonado a estudio de cine y pista de esquí privada",
+     "link": "https://www.lanacion.com.ar/espectaculos/robert-de-niro-compro-50-hectareas-en-los-90-y-las-transformo-por-completo-de-granero-abandonado-a-nid15102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-16T22:38:46+00:00",
+     "copete": "Detrás de sus papeles icónicos, la leyenda de Hollywood construyó un santuario personal que también cuenta con gimnasio de boxeo",
+     "id": "05cc541d8f9f"
+    },
+    {
+     "title": "Fue uno de los grandes villanos de la TV, pero lo dejó todo, se mudó a Miami y 14 años después vuelve:  “Mientras me dé el cuero, aprovecharé las oportunidades”",
+     "link": "https://www.lanacion.com.ar/espectaculos/fue-uno-de-los-grandes-villanos-de-la-tv-pero-lo-dejo-todo-se-mudo-a-miami-y-14-anos-despues-vuelve-nid14102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-16T22:37:31+00:00",
+     "copete": "El actor Edward Nutkiewicz regresa a los sets locales con un proyecto de Netflix; en diálogo con LA NACION, reflexiona sobre su trayectoria internacional, su vida familiar con Mercedes Martí y su visión crítica sobre la realidad argentina",
+     "id": "60b9aa8e8adf"
+    },
+    {
+     "title": "Mariano Iúdica y Mauro Szeta aconsejaron a Rodrigo Lussich por el terrible dolor que sufre en un pie: \"Veo las estrellas\"",
+     "link": "https://www.infobae.com/teleshow/2026/10/16/mariano-iudica-y-mauro-szeta-aconsejaron-a-rodrigo-lussich-por-el-terrible-dolor-que-sufre-en-un-pie-veo-las-estrellas/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-16T22:27:53+00:00",
+     "copete": "Ambos revelaron que padecieron gota y compartieron sus remedios al aire, mientras el Dr. Guillermo Capuya, médico del conductor, aportó un dato escalofriante sobre quienes no soportan el sufrimiento que provoca la enfermedad",
+     "id": "c03644b5e869"
+    },
+    {
+     "title": "Por primera vez, L-Gante habló de su ausencia en MasterChef Celebrity: \"No quería quedar mal\"",
+     "link": "https://www.infobae.com/teleshow/2026/10/16/por-primera-vez-l-gante-hablo-de-su-ausencia-en-masterchef-celebrity-no-queria-quedar-mal/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-16T22:19:05+00:00",
+     "copete": "Tras semanas de especulaciones, el referente del RKT aclaró las razones por las que decidió bajarse del reality",
+     "id": "b852d4757e63"
+    },
+    {
      "title": "El reencuentro de Paula Chaves y Zaira Nara: “Hay mucho cariño y mucho amor”",
      "link": "https://www.infobae.com/teleshow/2026/10/16/el-reencuentro-de-paula-chaves-y-zaira-nara-hay-mucho-carino-y-mucho-amor/",
      "source": "Teleshow (Infobae)",
      "published": "2026-10-16T21:14:49+00:00",
      "copete": "Las modelos le pusieron fin a su amistad años atrás y, luego de un acercamiento meses atrás, comenzó a mejorar su vínculo",
      "id": "9856445e238f"
-    },
-    {
-     "title": "Cumbia hasta la madrugada en San Isidro: Mala Fama llega por primera vez a La Paranoli",
-     "link": "https://www.lanacion.com.ar/que-sale/cumbia-hasta-la-madrugada-en-san-isidro-mala-fama-llega-por-primera-vez-a-la-paranoli-nid16102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-16T21:13:30+00:00",
-     "copete": "La fiesta será el viernes 23 de octubre, de 22.00 a 4.00, en el Tattersall del Hipódromo de San Isidro; también se presentarán la Orquesta Kaluqueña y los DJs Diyaneiro y Sista V; la preventa disponible cuesta $35.000",
-     "id": "1a71d6a50ab8"
-    },
-    {
-     "title": "El Servicio Meteorológico Nacional despidió a Fernando Confessore",
-     "link": "https://www.lanacion.com.ar/espectaculos/el-servicio-meteorologico-nacional-despidio-a-fernando-confessore-nid16102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-16T21:04:08+00:00",
-     "copete": "El organismo oficial dedicó un emotivo mensaje para despedir al reconocido pronosticador, quien dio sus primeros pasos profesionales en sus equipos de trabajo antes de convertirse en una figura histórica de la televisión",
-     "id": "1abe16092531"
-    },
-    {
-     "title": "La muerte de RJ Mitte: del remordimiento de su madre al triste recuerdo de su hermana menor",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-muerte-de-rj-mitte-del-remordimiento-de-su-madre-al-triste-recuerdo-de-su-hermana-menor-nid16102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-16T21:00:00+00:00",
-     "copete": "Dyna Mitte, que fue quien encontró el cuerpo sin vida del intérprete de 34 años, reveló que desde hacía tres meses intentaba convencerlo de que pidiera ayuda profesional",
-     "id": "0b28b7a9ed64"
-    },
-    {
-     "title": "Alejandro Sanz compró una finca de 32 hectáreas en un pueblo de España y rescató un paisaje en peligro",
-     "link": "https://www.lanacion.com.ar/espectaculos/alejandro-sanz-compro-una-finca-de-32-hectareas-en-un-pueblo-de-espana-y-rescato-un-paisaje-en-nid16102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-16T20:43:19+00:00",
-     "copete": "Lejos de los estadios multitudinarios, el músico español encontró un espacio de tranquilidad en un campo en Extremadura, lugar que él mismo bautizó como “El Sueño de los Parrales”",
-     "id": "e54d69898984"
-    },
-    {
-     "title": "Wanda Nara puso en venta la camiseta que usó Mauro Icardi en la Selección y creó polémica por el precio: “Ex jugador”",
-     "link": "https://www.infobae.com/teleshow/2026/10/16/wanda-nara-puso-en-venta-la-camiseta-que-uso-mauro-icardi-en-la-seleccion-y-creo-polemica-por-el-precio-ex-jugador/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-16T20:30:50+00:00",
-     "copete": "La empresaria hace tiempo que decidió abrir las puertas de su armario y deshacerse de algunas de sus prendas. En medio de la guerra mediática con el delantero, la conductora tomó una contundente decisión",
-     "id": "a6b13bed41a3"
-    },
-    {
-     "title": "Gianinna Maradona reveló los chats donde el psicólogo Carlos Díaz sugería que no visitaran a Diego dos días antes de su muerte",
-     "link": "https://www.infobae.com/teleshow/2026/10/16/gianinna-maradona-revelo-los-chats-donde-el-psicologo-carlos-diaz-sugeria-que-no-visitaran-a-diego-dos-dias-antes-de-su-muerte/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-16T19:41:45+00:00",
-     "copete": "La hija del exfutbolista publicó capturas del grupo de WhatsApp \"Parte médico olivos\" para cuestionar el pedido de absolución que formuló el abogado de su media hermana Jana durante los alegatos del juicio por la muerte del astro",
-     "id": "a5c8c40231fc"
-    },
-    {
-     "title": "Dalma Maradona volvió a apuntar contra Jana: “¿Cómo hacés para no acusar a una persona así?”",
-     "link": "https://www.infobae.com/teleshow/2026/10/16/dalma-maradona-volvio-a-apuntar-contra-jana-como-haces-para-no-acusar-a-una-persona-asi/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-16T19:13:18+00:00",
-     "copete": "La actriz se mostró enojada con su mediahermana por el pedido que hizo para absolver de los cargos a Carlos Díaz, el psicológo del 10",
-     "id": "05a1909f91fb"
-    },
-    {
-     "title": "Mariana Genesio Peña contó cómo fue su inesperado encuentro con Tom Cruise: \"Me miró a los ojos y me dijo 'nos vemos mañana'\"",
-     "link": "https://www.infobae.com/teleshow/2026/10/16/mariana-genesio-pena-conto-como-fue-su-inesperado-encuentro-con-tom-cruise-me-miro-a-los-ojos-y-me-dijo-nos-vemos-manana/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-16T18:50:18+00:00",
-     "copete": "La actriz viajó a Los Ángeles para la avant première de Digger junto a su pareja, Nicolás Giacobone, uno de los guionistas del filme de Iñárritu, y compartió los detalles de una charla que no esperaba",
-     "id": "e207a66d3269"
-    },
-    {
-     "title": "Mensajes de despedida tras la muerte de Fernando Confessore, en vivo: el recuerdo de colegas, compañeros y amigos",
-     "link": "https://www.infobae.com/teleshow/2026/10/16/mensajes-de-despedida-tras-la-muerte-de-fernando-confessore-en-vivo-ultimas-noticias-minuto-a-minuto/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-16T18:25:24+00:00",
-     "copete": "Durante tres décadas fue la voz del tiempo en Todo Noticias y El Trece. Su partida repentina desató una cadena de homenajes que retratan a un hombre reconocido por su rigor profesional sin perder la calidez",
-     "id": "04ff3bd30ad0"
     },
     {
      "title": "Paul McCartney le hizo un reclamo a Sam Mendes por las nuevas películas de los Beatles: “¡No hagas esto!”",
@@ -276,6 +276,13 @@
      "id": "3fea95740e0b"
     },
     {
+     "title": "«Mujer Patagonia» llevará las voces del sur argentino al escenario de Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkJ5OUNXNks2d1dzNncyQWdOdERUREF0U2g2SGRidnpTQnZqRDNqVmtMbFBrRXozeUkyTVAyTEo0cWpOUWpaWXNVLUlFVThLdVB2N2N6Y20xVERNUXBiS2Q0ek9JamYyMVlObVkydVFfQ2oxcF9nMHBaOUlPd0Ftcnp3VmxMdm9wMngwclljek5JQUlJYWZqZHNwNGFuYm94Vkk5NGFib2xib3N1WHFWZmhYQURwSG54dUZITldnNXktXzlv?oc=5",
+     "source": "La Posta Comodorense",
+     "published": "2026-10-16T20:52:47+00:00",
+     "id": "9b4476a8e0b3"
+    },
+    {
      "title": "KOINO YOKAN DESPIDE EL AÑO EN BUENOS AIRES",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlhHbW1ZcWdoTm5tSzdNV1FldlA4TzcxbGc1eDNLNVhLS1dIaFZiOFJuZlpZZ25FTXdraHFlVG1HSkE5eXluTVhnaXVGdi03Y292M2EyaENIT3E1YXVMWVNTQzZiWlNaRkNJWDM4ZEVxMzE2UVdCaHpxT1BuenFLNHpselY?oc=5",
      "source": "All Access",
@@ -295,13 +302,6 @@
      "source": "Ciudad Magazine",
      "published": "2026-10-16T16:58:47+00:00",
      "id": "5c92aedc738b"
-    },
-    {
-     "title": "Tarja en el Teatro Coliseo 2026: entradas, precios y fecha del concierto",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObi1EUEtPTEtENWFQZXNleThSbXBWNVVkQzhsa3lLcG9ySy1jcHZaLWxMdnF0NmI5WXF5akQ4ZjVlVlE3MDV3M3hGWVZLVG5XaEJFTzBsakdqSkpfMEZDY0t6M2J5STJVY19JT2gtVE5Xc3I5Yl9jVU1YekFwdUtrTHFaTHBhMjFWVnloQlBNdHkzS21qTUlrN2RxdmVEUHEyRjNn?oc=5",
-     "source": "FullTicket.com.ar",
-     "published": "2026-10-16T16:55:43+00:00",
-     "id": "994d2dc28b63"
     },
     {
      "title": "Qué hacer este fin de semana en CABA: música, teatro y ferias",
@@ -346,82 +346,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Euro hoy en Guatemala: cotización de cierre del 16 de octubre",
-     "link": "https://www.infobae.com/noticias/2026/10/16/euro-hoy-en-guatemala-cotizacion-de-cierre-del-16-de-octubre/",
-     "source": "Infobae",
-     "published": "2026-10-16T21:17:03+00:00",
-     "copete": "La moneda europea ha registrado un avance respecto a la jornada anterior",
-     "id": "182ab15600a6"
-    },
-    {
-     "title": "¿Estás tomando antipsicóticos? El riesgo de diabetes es alto en los primeros meses, advierte estudio",
-     "link": "https://www.infobae.com/salud/2026/10/16/estas-tomando-antipsicoticos-el-riesgo-de-diabetes-es-alto-en-los-primeros-meses-advierte-estudio/",
-     "source": "Infobae",
-     "published": "2026-10-16T21:16:57+00:00",
-     "id": "1d9f03f62c34"
-    },
-    {
-     "title": "Euro hoy en Canadá: cotización de cierre del 16 de octubre",
-     "link": "https://www.infobae.com/noticias/2026/10/16/euro-hoy-en-canada-cotizacion-de-cierre-del-16-de-octubre/",
-     "source": "Infobae",
-     "published": "2026-10-16T21:16:46+00:00",
-     "copete": "Este fue el comportamiento de la principal moneda europea durante los últimos minutos del viernes",
-     "id": "03c3a0cc7cf2"
-    },
-    {
-     "title": "La siesta vinculada al riesgo de demencia",
-     "link": "https://www.infobae.com/salud/2026/10/16/la-siesta-vinculada-al-riesgo-de-demencia/",
-     "source": "Infobae",
-     "published": "2026-10-16T21:16:40+00:00",
-     "id": "e3c359f3b9ba"
-    },
-    {
-     "title": "Cumbia hasta la madrugada en San Isidro: Mala Fama llega por primera vez a La Paranoli",
-     "link": "https://www.lanacion.com.ar/que-sale/cumbia-hasta-la-madrugada-en-san-isidro-mala-fama-llega-por-primera-vez-a-la-paranoli-nid16102026/",
+     "title": "Instituto le ganó a Defensa y Justicia, piensa en los mata-mata y cada día juega mejor",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/instituto-le-gano-a-defensa-y-justicia-piensa-en-los-mata-mata-y-cada-dia-juega-mejor-nid16102026/",
      "source": "La Nación",
-     "published": "2026-10-16T21:13:30+00:00",
-     "copete": "La fiesta será el viernes 23 de octubre, de 22.00 a 4.00, en el Tattersall del Hipódromo de San Isidro; también se presentarán la Orquesta Kaluqueña y los DJs Diyaneiro y Sista V; la preventa disponible cuesta $35.000",
-     "id": "1a71d6a50ab8"
+     "published": "2026-10-17T00:30:34+00:00",
+     "copete": "Se impuso por 1 a 0 en Florencio Varela, con una joya de Jeremías Lázaro; en el final, un zurdazo de Gallardo casi queda en la historia",
+     "id": "0771e58d4941"
     },
     {
-     "title": "Un niño fue internado en grave estado luego de que se le cayera un arco de fútbol en el club Lanús",
-     "link": "https://www.lanacion.com.ar/sociedad/un-nino-fue-internado-en-grave-estado-luego-de-que-se-le-cayera-un-arco-de-futbol-en-el-club-lanus-nid16102026/",
+     "title": "Boca vs. Talleres, en vivo, por el Torneo Clausura: el minuto a minuto del partido",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-talleres-en-vivo-por-el-torneo-clausura-nid16102026/",
      "source": "La Nación",
-     "published": "2026-10-16T21:12:18+00:00",
-     "copete": "El menor sufrió un traumatismo encefalocraneano y fue trasladado al Sanatorio Güemes de la Ciudad; se halla estable, pero con debilidad muscular",
-     "id": "e898ca140ce9"
+     "published": "2026-10-17T00:30:29+00:00",
+     "copete": "El equipo xeneize recibe al cordobés por la fecha 13 del grupo A del torneo local",
+     "id": "50d92bca47a6"
     },
     {
-     "title": "Grossi mejoró, pero la carrera por la ONU sigue trabada y con final abierto",
-     "link": "https://www.lanacion.com.ar/estados-unidos/grossi-tuvo-un-avance-pero-la-carrera-por-la-onu-sigue-trabada-y-con-final-abierto-nid16102026/",
+     "title": "A los 74 años, murió el artista y docente Carlos Bissolino",
+     "link": "https://www.lanacion.com.ar/cultura/a-los-74-anos-murio-el-artista-y-docente-carlos-bissolino-nid16102026/",
      "source": "La Nación",
-     "published": "2026-10-16T21:08:58+00:00",
-     "copete": "La exvicepresidenta costarricense Rebeca Grynspan volvió a liderar la sexta votación indicativa, pero recibió dos vetos, al igual que el diplomático argentino y la excanciller guyanesa Carolyn Rodrigues-Birkett",
-     "id": "51f9549c7a8a"
+     "published": "2026-10-17T00:29:52+00:00",
+     "copete": "Discípulo de Yuyo Noé, el pintor era muy querido y respetado en el ambiente artístico local; “pasión, dedicación y compromiso” marcaron su trayectoria",
+     "id": "801ee13b26bd"
     },
     {
-     "title": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
-     "link": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
+     "title": "Boca Juniors empata contra Talleres en la Bombonera en busca de ser el único líder de la Tabla Anual",
+     "link": "https://www.infobae.com/deportes/2026/10/16/boca-juniors-recibira-a-talleres-con-la-idea-de-ganar-para-tomar-el-liderazgo-de-la-tabla-anual-hora-tv-y-posibles-formaciones/",
+     "source": "Infobae",
+     "published": "2026-10-17T00:29:46+00:00",
+     "copete": "Antes de viajar a Brasil para definir las semifinales de Sudamericana, el Xeneize afronta un duelo clave ante la T. Televisa TNT Sports",
+     "id": "a18198296d34"
+    },
+    {
+     "title": "Nayib Bukele recibió a Laura Fernández en Casa Presidencial durante su visita oficial a El Salvador",
+     "link": "https://www.infobae.com/el-salvador/2026/10/17/nayib-bukele-recibio-a-laura-fernandez-en-casa-presidencial-durante-su-visita-oficial-a-el-salvador/",
+     "source": "Infobae",
+     "published": "2026-10-17T00:29:14+00:00",
+     "copete": "La mandataria costarricense inició una agenda de tres días en El Salvador, donde ambos Ejecutivos prevén reforzar el intercambio de información y los vínculos diplomáticos sobre asuntos de interés compartido",
+     "id": "b4fdb15bcfbf"
+    },
+    {
+     "title": "El ICE lo oficializó: cobrará US$5300 a inmigrantes con orden de deportación que sean detenidos",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-ice-lo-oficializo-cobrara-us5300-a-inmigrantes-con-orden-de-deportacion-que-sean-detenidos-nid16102026/",
      "source": "La Nación",
-     "published": "2026-10-16T21:06:45+00:00",
-     "copete": "En Gobernador Gregores, Santa Cruz, se lleva adelante una experiencia que apuesta a que el productor vea en el guanaco un recurso y no un problema debido a la competencia con la oveja",
-     "id": "8dba28bff165"
+     "published": "2026-10-17T00:20:00+00:00",
+     "copete": "Conoce quiénes deben pagar US$5300 al ICE desde el 16 de octubre, qué inmigrantes están alcanzados y cuáles son las excepciones legales",
+     "id": "8bd5627d148b"
     },
     {
-     "title": "Cumplieron 70 años sirviendo helado en la misma avenida de zona Norte",
-     "link": "https://www.clarin.com/zonales/cumplieron-70-anos-sirviendo-helado-misma-avenida-zona-norte_0_iwdmOOzSoR.html",
+     "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, viernes 16 de octubre",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-viernes-16-octubre_0_j23fHYduDg.html",
      "source": "Clarín",
-     "published": "2026-10-16T20:57:21+00:00",
-     "copete": "Es la heladería Real de Campana, que nació como un negocio de temporada, ofrece hoy 70 sabores y fue homenajeada por la Asociación de Fabricantes Artesanales de Helados.",
-     "id": "bb202df1d245"
+     "published": "2026-10-17T00:19:31+00:00",
+     "copete": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+     "id": "c26c21774b5b"
     },
     {
-     "title": "Tres cámaras empresarias criticaron el fallo que absolvió a dirigentes de Camioneros por el bloqueo a una empresa",
-     "link": "https://www.clarin.com/economia/camaras-empresarias-criticaron-fallo-absolvio-dirigentes-camioneros-bloqueo-empresa_0_2mTRW46u9y.html",
+     "title": "Gastón Gaudio y los 60 días de descontrol en Las Vegas: el viaje de una semana que terminó con una huida y un misterio",
+     "link": "https://www.clarin.com/deportes/gaston-gaudio-60-dias-descontrol-vegas-viaje-semana-termino-huida-misterio_0_xWvdP616c3.html",
      "source": "Clarín",
-     "published": "2026-10-16T20:51:09+00:00",
-     "copete": "La UIA, la Cámara de Comercio y Camarco expresaron su preocupación por la decisión de un tribunal de San Nicolás. Las entidades sostuvieron que el derecho a huelga no puede justificar el bloqueo de una empresa y reclamaron que se revise la…",
-     "id": "b1c19a21df05"
+     "published": "2026-10-17T00:17:05+00:00",
+     "copete": "El campeón de Roland Garros 2004, ahora candidato a presidente de Independiente, sorprendió a Mario Pergolini en Otro día perdido con una historia de su vida después del tenis. Viajó con cinco amigos, se quedó casi dos meses y confesó que…",
+     "id": "405696f9e6ba"
+    },
+    {
+     "title": "Cuántos millones ganaron y perdieron los 10 hombres más ricos del planeta",
+     "link": "https://www.infobae.com/noticias/2026/10/17/cuantos-millones-ganaron-y-perdieron-los-10-hombres-mas-ricos-del-planeta/",
+     "source": "Infobae",
+     "published": "2026-10-17T00:15:55+00:00",
+     "copete": "Alemania, Japón y el Reino Unido cuentan con entre 500.000 y 800.000 ricos. Sin embargo, sus cifras de centimillonarios y multimillonarios son menores, lo que podría representar una distribución más equitativa de la riqueza",
+     "id": "ec43c9891793"
+    },
+    {
+     "title": "México busca igualar alivio arancelario que logró Corea del Sur con EEUU",
+     "link": "https://www.clarin.com/estados-unidos/mexico-busca-igualar-alivio-arancelario-que-logro-corea-del-sur-con-eeuu_0_4e51DhgjWa.html",
+     "source": "Clarín",
+     "published": "2026-10-17T00:10:15+00:00",
+     "copete": "México busca igualar aranceles automotrices con Corea del Sur tras la tarifa del 25% impuesta por EE.UU., que afecta su industria clave. Las exportaciones mexicanas a EE.UU. superan los 872 mil millones; Ebrard propone alinear tarifas para…",
+     "id": "5540be67f693"
     }
    ]
   },
@@ -431,36 +433,36 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Orcas que atacan y se comen a los grandes tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos",
+     "link": "https://www.bbc.com/mundo/articles/cm9qzxwz9y3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-17T00:02:25+00:00",
+     "copete": "El cambio climático está haciendo que los dos grandes cazadores del mar estén cada vez más cerca. Y las orcas parecen estar ganando la batalla.",
+     "id": "4ed5486fdd37"
+    },
+    {
+     "title": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3 niños y una maestra en una escuela primaria de Oregón",
+     "link": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-17T00:01:38+00:00",
+     "copete": "El ataque ocurrió en la escuela Silver Rail de la localidad de Bend, en el noroeste de EE.UU. El sospechoso fue abatido por un transeúnte.",
+     "id": "ee80a25461da"
+    },
+    {
+     "title": "\"Un gran héroe\": el padre que persiguió y abatió al atacante de la escuela de Oregón que mató a 3 niños y una profesora",
+     "link": "https://www.bbc.com/mundo/articles/cm369xj3lxy6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-16T22:11:22+00:00",
+     "copete": "Kaylub Giamanco vio al atacante mientras conducía y lo siguió al interior de la escuela, donde logró abatirlo con su arma personal.",
+     "id": "b49b875fc13e"
+    },
+    {
      "title": "Quién es Katie Zacharia y por qué su breve paso por la Casa Blanca como secretaria de prensa de Trump generó controversia",
      "link": "https://www.bbc.com/mundo/articles/c68jzgwd9m7go?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-10-16T21:17:09+00:00",
      "copete": "Las credenciales profesionales de la ya ex secretaria de prensa la Casa Blanca fueron cuestionadas por diversos medios de comunicación.",
      "id": "2d5ddebf3a8e"
-    },
-    {
-     "title": "La polémica por la retirada de decenas de obras del Museo Nacional de Colombia (y qué dice de la \"batalla cultural\" de De la Espriella)",
-     "link": "https://www.bbc.com/mundo/articles/cw98zj48e4r4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-16T20:59:10+00:00",
-     "copete": "Decenas de obras con alusión al feminismo, colectivos LGTB y víctimas del conflicto fueron retiradas del Museo Nacional.",
-     "id": "a55ed46bc548"
-    },
-    {
-     "title": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo",
-     "link": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-16T19:52:40+00:00",
-     "copete": "Katie Zacharia se convirtió en la secretaria de prensa de la Casa Blanca con el mandato más breve en la historia moderna de Estados Unidos.",
-     "id": "a7a0085f5746"
-    },
-    {
-     "title": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3 niños y un maestro en una escuela primaria de Oregón",
-     "link": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-16T18:58:33+00:00",
-     "copete": "El ataque ocurrió en la escuela Silver Rail de la localidad de Bend, en el noroeste de EE.UU. El sospechoso fue abatido por un transeúnte.",
-     "id": "ee80a25461da"
     },
     {
      "title": "Fátima Mansouri nombra nuevo Gobierno en Marruecos con el jefe del fútbol al frente de Economía",
