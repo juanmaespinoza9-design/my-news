@@ -1,29 +1,33 @@
 {
-  "generated_at": "2026-10-18T10:12:23Z",
+  "generated_at": "2026-10-18T22:10:54Z",
   "summaries": {
     "3169b772b319": {
       "resumen": "Es una retractación formal del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre un artículo previo acerca de la intervención de cuidados paliativos al final de la vida en pacientes con cáncer avanzado. Vale la pena registrarla porque anula una conclusión que antes se citaba en la literatura.",
       "destacado": false
     },
-    "2984a4dd6886": {
-      "resumen": "Estudio publicado en el Journal of Clinical Oncology (JCO, revista oficial de la Sociedad Americana de Oncología Clínica) que evalúa la eficacia del programa LIFT (Lessening the Impact of Financial Toxicity), una intervención de navegación financiera para pacientes con cáncer, en varios centros de Carolina del Norte. Interesa porque la toxicidad financiera —el costo económico del tratamiento oncológico— afecta la adherencia y la calidad de vida de los pacientes.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase II, multicéntrico, de un solo brazo, con medición antes y después de la intervención (pre-/post), realizado en nueve centros de atención oncológica de Carolina del Norte (cinco en zonas rurales y cuatro en zonas no rurales); un diseño de un solo brazo no incluye aleatorización ni cegamiento.\nPoblación: Pacientes adultos con cáncer en tratamiento activo en los centros participantes; el protocolo publicado del estudio previó incluir alrededor de 780 personas.\nIntervención: Programa de navegación financiera (financial navigation) que identifica sistemáticamente a los pacientes en riesgo, evalúa su elegibilidad para recursos de asistencia económica, aclara las expectativas de costos del tratamiento y ayuda a pacientes y cuidadores a planificar cómo afrontar los gastos del cáncer; sin grupo comparador, por tratarse de un diseño de un solo brazo.\nResultados: El título señala que la intervención fue efectiva para reducir la toxicidad financiera, pero no se dispone de las cifras exactas (magnitud del efecto, intervalos de confianza, valor de p) sin acceso al texto completo del artículo.\nLimitaciones: El diseño de un solo brazo, sin grupo control, dificulta atribuir la mejora exclusivamente a la intervención; además, al tratarse de centros de Carolina del Norte, su generalización a otros sistemas de salud y de cobertura puede ser limitada.\nMensaje: Respalda incorporar programas de navegación financiera como parte habitual de la atención oncológica, en especial en poblaciones con riesgo de toxicidad financiera, aunque la ausencia de un grupo control invita a interpretar el beneficio con cautela.\nNota: análisis sin acceso al abstract."
+    "98dea9f760c1": {
+      "resumen": "Nota de OncLive sobre los primeros datos de fase temprana (fase 1) de INCA33890, una molécula en investigación, en combinación para cáncer colorrectal con estabilidad de microsatélites (MSS CRC, un subtipo que históricamente responde mal a la inmunoterapia). Interesa porque estos resultados preliminares sientan las bases para avanzar a un ensayo de fase 3.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título, parecería un estudio de fase temprana (fase 1 o fase 1/2) que evalúa una combinación con INCA33890; sin el abstract no se puede confirmar aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con cáncer colorrectal con estabilidad de microsatélites (MSS CRC, microsatellite-stable colorectal cancer), un subgrupo históricamente refractario a la inmunoterapia.\nIntervención: INCA33890 combinado con otro fármaco en investigación (no especificado en el título), sin comparador aclarado.\nResultados: No disponibles sin el abstract completo.\nLimitaciones: Al tratarse de datos de fase temprana, el tamaño muestral suele ser chico y el seguimiento corto; sin el abstract no se puede evaluar la magnitud del beneficio ni la toxicidad.\nMensaje: Si se confirman, estos datos preliminares podrían justificar el pasaje a un ensayo de fase 3 en MSS CRC, un escenario con pocas opciones de inmunoterapia eficaz hasta ahora.\nNota: análisis sin acceso al abstract."
     },
-    "b8089c9e247d": {
-      "resumen": "Vogue repasa la colección primavera 2027 de Shushu/Tong presentada en la Semana de la Moda de Shanghái."
+    "a732ad55f969": {
+      "resumen": "OncLive presenta su resumen semanal en video de los temas más vistos en oncología durante la semana del 12 de octubre. Es un compilado periodístico, no el reporte de un estudio nuevo; sirve como panorama rápido de la actualidad oncológica.",
+      "destacado": false
     },
-    "af1cf6142d02": {
-      "resumen": "Vogue presenta la colección ready-to-wear primavera 2027 de Marchesa."
+    "064aa876435a": {
+      "resumen": "Entrevista de The ASCO Post a la oncóloga Linda Mileshkin sobre puxitatug samrotecán, un anticuerpo conjugado a droga (ADC, por sus siglas en inglés) en investigación para cáncer de endometrio y de ovario. Vale la pena seguirlo porque los ADC vienen ganando terreno en tumores ginecológicos resistentes a la quimioterapia convencional, aunque esta nota es de opinión experta y no el reporte original de un estudio.",
+      "destacado": false
     },
-    "3fea95740e0b": {
-      "resumen": "Página|12 presenta la agenda cultural de la provincia de Buenos Aires."
+    "102d526074b7": {
+      "resumen": "OncLive repasa en \"The OncFive\" los cinco artículos de oncología más destacados de la semana del 11 de octubre. Es un resumen periodístico de noticias, no el reporte de un estudio nuevo; sirve como panorama rápido de la actualidad oncológica.",
+      "destacado": false
     },
-    "dfcb0e8259b2": {
-      "resumen": "Perfil propone planes de música, teatro y ferias para el fin de semana en la Ciudad de Buenos Aires."
+    "8fad24021fea": {
+      "resumen": "El oncólogo Pedro Rocha repasa, en entrevista con The ASCO Post, la formulación subcutánea de tarlatamab, un anticuerpo biespecífico que redirige linfocitos T contra el antígeno DLL3, para el cáncer de pulmón a células pequeñas (carcinoma microcítico) en estadio extendido. Interesa porque una presentación subcutánea podría simplificar la administración frente a la infusión intravenosa ya aprobada; es una nota de opinión experta, no el reporte de un estudio nuevo.",
+      "destacado": false
     },
-    "b0ba69f36f17": {
-      "resumen": "Nota de OncLive que repasa, en formato de entrevista, dos temas en cáncer de pulmón con mutación en EGFR (receptor del factor de crecimiento epidérmico): qué hacer con el resultado de EGFR al progresar a un inhibidor de tirosina-quinasa, y la actualización del análisis de supervivencia global del ensayo HARMONi. Es una nota de opinión experta, no el reporte original de un estudio nuevo.",
+    "c2f022afc598": {
+      "resumen": "Entrevista en video de The ASCO Post al oncólogo Giannis Mountzios sobre la combinación de sacituzumab govitecán (un anticuerpo conjugado a quimioterapia dirigido contra la proteína TROP-2) con pembrolizumab (un inhibidor del punto de control inmunitario PD-1) en cáncer de pulmón no microcítico (NSCLC) metastásico con alta expresión de PD-L1. Es una nota de opinión experta, no el reporte de un estudio nuevo.",
       "destacado": false
     },
     "d74d046b8731": {
@@ -34,59 +38,45 @@
       "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO) sobre el rol de la homeostasis del hierro, más allá de la flebotomía, en la próxima etapa del manejo de la policitemia vera (una neoplasia de la médula ósea que produce exceso de glóbulos rojos). Es un comentario de opinión experta, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "42996c5819e7": {
-      "resumen": "El embajador de Francia en la Argentina comparte sus restaurantes porteños preferidos y opina sobre las costumbres locales."
+    "2984a4dd6886": {
+      "resumen": "Estudio publicado en el Journal of Clinical Oncology (JCO, revista oficial de la Sociedad Americana de Oncología Clínica) que evalúa la eficacia del programa LIFT (Lessening the Impact of Financial Toxicity), una intervención de navegación financiera para pacientes con cáncer, en varios centros de Carolina del Norte. Interesa porque la toxicidad financiera —el costo económico del tratamiento oncológico— afecta la adherencia y la calidad de vida de los pacientes.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase II, multicéntrico, de un solo brazo, con medición antes y después de la intervención (pre-/post), realizado en nueve centros de atención oncológica de Carolina del Norte (cinco en zonas rurales y cuatro en zonas no rurales); un diseño de un solo brazo no incluye aleatorización ni cegamiento.\nPoblación: Pacientes adultos con cáncer en tratamiento activo en los centros participantes; el protocolo publicado del estudio previó incluir alrededor de 780 personas.\nIntervención: Programa de navegación financiera (financial navigation) que identifica sistemáticamente a los pacientes en riesgo, evalúa su elegibilidad para recursos de asistencia económica, aclara las expectativas de costos del tratamiento y ayuda a pacientes y cuidadores a planificar cómo afrontar los gastos del cáncer; sin grupo comparador, por tratarse de un diseño de un solo brazo.\nResultados: El título señala que la intervención fue efectiva para reducir la toxicidad financiera, pero no se dispone de las cifras exactas (magnitud del efecto, intervalos de confianza, valor de p) sin acceso al texto completo del artículo.\nLimitaciones: El diseño de un solo brazo, sin grupo control, dificulta atribuir la mejora exclusivamente a la intervención; además, al tratarse de centros de Carolina del Norte, su generalización a otros sistemas de salud y de cobertura puede ser limitada.\nMensaje: Respalda incorporar programas de navegación financiera como parte habitual de la atención oncológica, en especial en poblaciones con riesgo de toxicidad financiera, aunque la ausencia de un grupo control invita a interpretar el beneficio con cautela.\nNota: análisis sin acceso al abstract."
     },
-    "102d526074b7": {
-      "resumen": "OncLive repasa en \"The OncFive\" los cinco artículos de oncología más destacados de la semana del 11 de octubre. Es un resumen periodístico de noticias, no el reporte de un estudio nuevo; sirve como panorama rápido de la actualidad oncológica.",
+    "4acab1fe8362": {
+      "resumen": "Nota de Lancet Oncology sobre la caída en la cantidad de ensayos clínicos oncológicos que se inician en Europa, en comparación con otras regiones del mundo. Es una pieza periodística sobre política científica y financiamiento, no el reporte de un estudio nuevo, pero importa porque anticipa menos acceso a terapias en investigación para los pacientes europeos.",
       "destacado": false
     },
-    "1cc9a429d2ac": {
-      "resumen": "El Comité de Medicamentos de Uso Humano (CHMP, por sus siglas en inglés) de la Agencia Europea de Medicamentos recomendó un esquema alternativo de dosificación de cemiplimab (un inhibidor del punto de control inmunitario PD-1) para varios tipos de cáncer. Interesa porque, de aprobarse, podría simplificar la frecuencia de las infusiones para los pacientes que ya reciben este fármaco.",
+    "8bef94e82adb": {
+      "resumen": "Nota de Lancet Oncology sobre el recorte del financiamiento federal ruso para oncología, redirigido hacia gasto en defensa. Es una pieza periodística sobre política sanitaria, no el reporte de un estudio nuevo, pero resulta relevante porque anticipa menor acceso a diagnóstico y tratamiento del cáncer en Rusia.",
       "destacado": false
     },
-    "c2f022afc598": {
-      "resumen": "Entrevista en video de The ASCO Post al oncólogo Giannis Mountzios sobre la combinación de sacituzumab govitecán (un anticuerpo conjugado a quimioterapia dirigido contra la proteína TROP-2) con pembrolizumab (un inhibidor del punto de control inmunitario PD-1) en cáncer de pulmón no microcítico (NSCLC) metastásico con alta expresión de PD-L1. Es una nota de opinión experta, no el reporte de un estudio nuevo.",
-      "destacado": false
+    "b8089c9e247d": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Shushu/Tong presentada en la Semana de la Moda de Shanghái."
     },
-    "0c76ce17339d": {
-      "resumen": "Vogue México muestra cómo Kate Middleton combina un suéter abrigado con una blusa de estilo boho, un truco de estilo para el otoño 2026."
+    "500669091081": {
+      "resumen": "Vogue México muestra las imágenes inéditas detrás de escena de la Academy Museum Gala 2026."
     },
-    "4cc5dcbf04ce": {
-      "resumen": "Cosmopolitan señala que el estampado animal print de leopardo se impone en los looks deportivos vistos en las calles de Nueva York, con tips para lucirlo con estilo."
+    "7832ea0195a9": {
+      "resumen": "Vogue México propone combinar zapatos color beige con pantalones negros para looks elegantes este otoño 2026."
     },
-    "3cbe6dcf76f4": {
-      "resumen": "ELLE toma el look de la política española Isabel Díaz Ayuso para mostrar cómo llevar shorts con estilo en otoño después de los 40 años, combinados con botas de moda."
+    "0131f34fea9d": {
+      "resumen": "Vogue México señala que los zapatos bicolor se van a llevar con pantalones, polleras y jeans este otoño 2026."
     },
-    "9a38bcd17ce0": {
-      "resumen": "Qué.es repasa las dificultades que enfrentan los dueños de mascotas en Buenos Aires para alquilar, usar el transporte público y entrar a restaurantes."
+    "a2b1e5a8bbe7": {
+      "resumen": "Vogue México repasa, según el street style, la tendencia de botines bicolor combinados con pantalones y polleras este otoño 2026."
     },
-    "064aa876435a": {
-      "resumen": "Entrevista de The ASCO Post a la oncóloga Linda Mileshkin sobre puxitatug samrotecán, un anticuerpo conjugado a droga (ADC, por sus siglas en inglés) en investigación para cáncer de endometrio y de ovario. Vale la pena seguirlo porque los ADC vienen ganando terreno en tumores ginecológicos resistentes a la quimioterapia convencional, aunque esta nota es de opinión experta y no el reporte original de un estudio.",
-      "destacado": false
+    "eff70e9302f3": {
+      "resumen": "ELLE presenta la manicura color rojo vino como el esmalte de uñas más tendencia del otoño."
     },
-    "8fad24021fea": {
-      "resumen": "El oncólogo Pedro Rocha repasa, en entrevista con The ASCO Post, la formulación subcutánea de tarlatamab, un anticuerpo biespecífico que redirige linfocitos T contra el antígeno DLL3, para el cáncer de pulmón a células pequeñas (carcinoma microcítico) en estadio extendido. Interesa porque una presentación subcutánea podría simplificar la administración frente a la infusión intravenosa ya aprobada; es una nota de opinión experta, no el reporte de un estudio nuevo.",
-      "destacado": false
+    "1043384b3bc7": {
+      "resumen": "ELLE propone cinco looks para combinar las tendencias de otoño sin resignar comodidad."
     },
-    "8c04c933b447": {
-      "resumen": "Artículo de Fielding y colaboradores publicado en The New England Journal of Medicine (NEJM) sobre estrategias de tratamiento sin quimioterapia citotóxica para la leucemia linfoblástica aguda (LLA) con cromosoma Filadelfia positivo (translocación BCR-ABL), combinando inhibidores de tirosina quinasa con inmunoterapia. Importa porque reducir la quimioterapia convencional en este subtipo de leucemia podría achicar la toxicidad sin perder eficacia.",
-      "destacado": false,
-      "analisis": "Diseño: No se pudo acceder al abstract completo; por el título y la revista (NEJM) parecería tratarse de un estudio clínico o un análisis que discute esquemas de tratamiento libres de quimioterapia citotóxica para leucemia linfoblástica aguda (LLA) con cromosoma Filadelfia positivo.\nPoblación: Pacientes adultos con LLA con cromosoma Filadelfia positivo (translocación BCR-ABL).\nIntervención: Esquemas que combinan inhibidores de tirosina quinasa (como ponatinib o imatinib) con inmunoterapia (posiblemente blinatumomab, un anticuerpo biespecífico anti-CD19/CD3), sin quimioterapia citotóxica convencional.\nResultados: No disponibles sin el abstract completo.\nLimitaciones: Sin el abstract no se puede confirmar el diseño exacto (ensayo clínico, análisis secundario o perspectiva), el tamaño muestral ni el seguimiento.\nMensaje: De confirmarse, reforzaría la tendencia a desescalar la quimioterapia citotóxica en la LLA Ph+ en favor de esquemas dirigidos combinados con inmunoterapia.\nNota: análisis sin acceso al abstract."
+    "b1530ae7cf3a": {
+      "resumen": "Charly García cumple 75 años y Buenos Aires lo celebra con cuatro días de recitales y homenajes."
     },
-    "82c51f5b5c44": {
-      "resumen": "Ensayo clínico de Chiaretti y colegas publicado en NEJM que compara un esquema de ponatinib (inhibidor de tirosina quinasa) más blinatumomab (anticuerpo biespecífico anti-CD19/CD3) frente al esquema estándar de imatinib más quimioterapia, en adultos con leucemia linfoblástica aguda (LLA) con cromosoma Filadelfia positivo. Es una lectura clave porque podría consolidar un esquema libre de quimioterapia intensiva como nuevo estándar en esta leucemia.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título, parecería un ensayo clínico que compara dos brazos de tratamiento; no se pudo confirmar aleatorización, cegamiento, número de centros ni tamaño muestral sin el abstract completo.\nPoblación: Adultos con leucemia linfoblástica aguda (LLA) con cromosoma Filadelfia positivo (translocación BCR-ABL).\nIntervención: Ponatinib (inhibidor de tirosina quinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico anti-CD19/CD3) versus imatinib combinado con quimioterapia convencional.\nResultados: No disponibles sin el abstract completo.\nLimitaciones: Sin el abstract no se puede evaluar el seguimiento, las pérdidas de pacientes ni la generalización a subgrupos de mayor riesgo.\nMensaje: Si confirma superioridad o no inferioridad del esquema libre de quimioterapia intensiva, respaldaría un cambio de paradigma hacia regímenes dirigidos con menor toxicidad en la LLA Ph+.\nNota: análisis sin acceso al abstract."
-    },
-    "a972795405f7": {
-      "resumen": "Zara, Mango y Primark reviven una tendencia del pasado para apostar a los looks más elegantes del otoño-invierno 2026."
-    },
-    "ed1a722615bc": {
-      "resumen": "La actriz Cecilia Suárez habla sobre Estado de furia, su nueva serie, y reflexiona sobre cómo históricamente se le prohibió a las mujeres manifestar el enojo."
-    },
-    "0462807f37ab": {
-      "resumen": "Carolina Herrera propone combinar zapatos bicolor con faldas midi y pantalones slim fit para este otoño 2026."
+    "55786c974681": {
+      "resumen": "Charly García cumple 75 años y la Ciudad de Buenos Aires organiza una semana de actividades culturales en su honor."
     },
     "7d59bb16c076": {
       "resumen": "Radio Mitre propone seis planes para salir de la rutina en Buenos Aires y disfrutar en familia por el Día de la Madre."
@@ -97,17 +87,20 @@
     "342084e060b2": {
       "resumen": "Los actores españoles Malena Alterio y Luis Bermejo llegan a Buenos Aires con una obra del Teatro del Barrio de Madrid."
     },
-    "d38e119ac10f": {
-      "resumen": "La Plata fue sede de la primera Feria del Libro y la Cultura Indígena de la provincia de Buenos Aires."
+    "dece51cadb1e": {
+      "resumen": "El fin de semana en Buenos Aires viene fresco, sin lluvias, con nubes y mínimas de 7 grados."
     },
-    "a7462e93719e": {
-      "resumen": "La Libertad Avanza reunió a más de mil jóvenes en su primer Congreso de la Juventud en la Ciudad de Buenos Aires."
+    "9a38bcd17ce0": {
+      "resumen": "Qué.es repasa las dificultades que enfrentan los dueños de mascotas en Buenos Aires para alquilar, usar el transporte público y entrar a restaurantes."
+    },
+    "42996c5819e7": {
+      "resumen": "El embajador de Francia en la Argentina comparte sus restaurantes porteños preferidos y opina sobre las costumbres locales."
+    },
+    "3fea95740e0b": {
+      "resumen": "Página|12 presenta la agenda cultural de la provincia de Buenos Aires."
     },
     "7935a6ad0cdc": {
       "resumen": "La Plata ofrece una agenda cultural con propuestas artísticas y recorridos turísticos para este fin de semana."
-    },
-    "e1437a5b778a": {
-      "resumen": "Continúa la búsqueda de un gendarme desaparecido en Neuquén, que cayó a un arroyo mientras iba a relevar a un compañero."
     }
   }
 }
