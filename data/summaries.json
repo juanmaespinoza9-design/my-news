@@ -1,22 +1,95 @@
 {
-  "generated_at": "2026-10-19T22:10:12Z",
+  "generated_at": "2026-10-20T10:12:04Z",
   "summaries": {
     "3169b772b319": {
       "resumen": "Es una retractación formal del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre un artículo previo acerca de la intervención de cuidados paliativos al final de la vida en pacientes con cáncer avanzado. Vale la pena registrarla porque anula una conclusión que antes se citaba en la literatura.",
+      "destacado": false
+    },
+    "7cc07a50ce71": {
+      "resumen": "Nota de OncLive sobre un ensayo clínico de fase 1/2 en cáncer colorrectal metastásico (mCRC) refractario a tratamientos previos, en el que el fármaco vilamakitug alcanzó el umbral prefijado de supervivencia global (OS, overall survival). Vale la pena seguirlo porque marca un posible avance en una población con pocas opciones terapéuticas.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trata de un ensayo clínico de fase 1/2 (habitualmente no aleatorizado, de un solo brazo, con cohortes de escalada de dosis y expansión); sin el abstract no se puede precisar el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer colorrectal metastásico (mCRC) refractario a los tratamientos estándar previos.\nIntervención: Vilamakitug, sin comparador aclarado en el título (los ensayos de fase 1/2 suelen ser de un solo brazo).\nResultados: El título indica que el fármaco alcanzó el umbral de supervivencia global (OS) predefinido, pero no hay cifras disponibles (mediana de OS, intervalos de confianza, valor de p) sin acceso al texto completo.\nLimitaciones: Los ensayos de fase 1/2 suelen tener muestras pequeñas, carecer de grupo control y estar diseñados principalmente para evaluar seguridad y dosis, no eficacia definitiva.\nMensaje: Un resultado positivo de supervivencia global en fase temprana es alentador pero preliminar; se necesitará confirmación en un ensayo de fase 3 aleatorizado antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
+    "a8459646cd79": {
+      "resumen": "OncLive confirma, igual que The ASCO Post, la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) a dostarlimab —un anticuerpo que bloquea PD-1 (proteína de muerte celular programada 1)— para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR).",
+      "destacado": false
+    },
+    "a5dea5f78fa7": {
+      "resumen": "Entrevista a la Dra. Andrea Cercek en OncLive sobre la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de dostarlimab para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR). Aporta la mirada clínica de una especialista sobre el impacto de esta aprobación en la práctica diaria.",
+      "destacado": false
+    },
+    "8c72a82ae85a": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó dostarlimab, un anticuerpo que bloquea PD-1 (proteína de muerte celular programada 1), para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR). Interesa porque este subgrupo tumoral responde de forma marcada a la inmunoterapia y la aprobación podría evitar cirugía y radioterapia en algunos casos.",
+      "destacado": false
+    },
+    "cc1568b68d88": {
+      "resumen": "La Academia Nacional de Medicina de Estados Unidos (National Academy of Medicine) eligió a 100 nuevos miembros para 2026, distinción que suele incluir referentes de la oncología. Es una noticia institucional de reconocimiento profesional, no el reporte de un estudio.",
+      "destacado": false
+    },
+    "75faba4e091e": {
+      "resumen": "La Sociedad Americana de Hematología (ASH, American Society of Hematology) publicó nuevas recomendaciones para el manejo de la mielofibrosis, una neoplasia mieloproliferativa que afecta la médula ósea y altera la producción de células sanguíneas. Interesa porque actualiza la guía de práctica clínica en una enfermedad con pocas opciones curativas.",
+      "destacado": false
+    },
+    "bc73a5e0b29a": {
+      "resumen": "Ensayo aleatorizado de fase III publicado en el Journal of Clinical Oncology (JCO) que compara radioterapia hipofraccionada (dosis más altas por sesión, en menos sesiones) frente a radioterapia con fraccionamiento convencional tras mastectomía, ambas con irradiación de la cadena mamaria interna, en cáncer de mama de alto riesgo. Interesa porque podría acortar los tiempos de tratamiento sin perder eficacia ni seguridad.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (HypoMast-IMNI); por el título no se puede precisar si fue ciego, cuántos centros participaron ni el número exacto de pacientes incluidos, datos que no están disponibles sin el abstract completo.\nPoblación: Pacientes con cáncer de mama de alto riesgo tratadas con mastectomía, candidatas a radioterapia adyuvante con irradiación de la cadena ganglionar mamaria interna.\nIntervención: Radioterapia postmastectomía hipofraccionada (mayor dosis por sesión, menos sesiones totales) frente a radioterapia con fraccionamiento convencional, ambas incluyendo irradiación de los ganglios mamarios internos.\nResultados: No se dispone de las cifras del desenlace principal (por ejemplo, control locorregional, supervivencia libre de enfermedad o toxicidad comparada) sin acceso al abstract completo.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la potencia estadística del estudio para demostrar no inferioridad, ni el perfil de efectos adversos a largo plazo.\nMensaje: Si el fraccionamiento hipofraccionado demuestra ser igualmente eficaz y seguro, podría acortar significativamente la duración del tratamiento radiante en pacientes de alto riesgo, mejorando la calidad de vida y el acceso al tratamiento.\nNota: análisis sin acceso al abstract."
+    },
+    "7e931d59f9ed": {
+      "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO) sobre la cronoinmunoterapia: la hipótesis de que el horario de administración de la inmunoterapia podría influir en su eficacia. Es un comentario de opinión experta que señala la falta de evidencia aleatorizada sólida, no el reporte de un estudio nuevo.",
       "destacado": false
     },
     "d74d046b8731": {
       "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre las promesas y los desafíos del cribado personalizado de cáncer de pulmón. Es un comentario de opinión experta, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "aaf6624dfb5e": {
-      "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO) sobre el rol de la homeostasis del hierro, más allá de la flebotomía, en la próxima etapa del manejo de la policitemia vera (una neoplasia de la médula ósea que produce exceso de glóbulos rojos). Es un comentario de opinión experta, no el reporte de un estudio nuevo.",
-      "destacado": false
+    "25f1ebb2b141": {
+      "resumen": "Qué hará falta para fortalecer la cadena de suministro de la moda frente al cambio climático y las crisis geopolíticas."
     },
-    "2984a4dd6886": {
-      "resumen": "Estudio publicado en el Journal of Clinical Oncology (JCO, revista oficial de la Sociedad Americana de Oncología Clínica) que evalúa la eficacia del programa LIFT (Lessening the Impact of Financial Toxicity), una intervención de navegación financiera para pacientes con cáncer, en varios centros de Carolina del Norte. Interesa porque la toxicidad financiera —el costo económico del tratamiento oncológico— afecta la adherencia y la calidad de vida de los pacientes.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase II, multicéntrico, de un solo brazo, con medición antes y después de la intervención (pre-/post), realizado en nueve centros de atención oncológica de Carolina del Norte (cinco en zonas rurales y cuatro en zonas no rurales); un diseño de un solo brazo no incluye aleatorización ni cegamiento.\nPoblación: Pacientes adultos con cáncer en tratamiento activo en los centros participantes; el protocolo publicado del estudio previó incluir alrededor de 780 personas.\nIntervención: Programa de navegación financiera (financial navigation) que identifica sistemáticamente a los pacientes en riesgo, evalúa su elegibilidad para recursos de asistencia económica, aclara las expectativas de costos del tratamiento y ayuda a pacientes y cuidadores a planificar cómo afrontar los gastos del cáncer; sin grupo comparador, por tratarse de un diseño de un solo brazo.\nResultados: El título señala que la intervención fue efectiva para reducir la toxicidad financiera, pero no se dispone de las cifras exactas (magnitud del efecto, intervalos de confianza, valor de p) sin acceso al texto completo del artículo.\nLimitaciones: El diseño de un solo brazo, sin grupo control, dificulta atribuir la mejora exclusivamente a la intervención; además, al tratarse de centros de Carolina del Norte, su generalización a otros sistemas de salud y de cobertura puede ser limitada.\nMensaje: Respalda incorporar programas de navegación financiera como parte habitual de la atención oncológica, en especial en poblaciones con riesgo de toxicidad financiera, aunque la ausencia de un grupo control invita a interpretar el beneficio con cautela.\nNota: análisis sin acceso al abstract."
+    "81c510520c63": {
+      "resumen": "Las principales conclusiones de la Semana de la Moda de Shanghái, donde las marcas independientes apostaron a vincularse directamente con sus consumidores."
+    },
+    "941f8e2c0434": {
+      "resumen": "Cómo Longchamp se mantiene vigente de la mano de su CEO Jean Cassegrain, con lujo accesible y buena relación precio-valor."
+    },
+    "28e4439c5b17": {
+      "resumen": "El CEO de Church's, Denni Manzatto, apuesta a fabricar en el Reino Unido con inversión del grupo Prada."
+    },
+    "0ca3b987ea6e": {
+      "resumen": "El vestido rojo navideño quedó atrás: cuál es el color que se impondrá como tendencia elegante para las Fiestas 2026."
+    },
+    "b462f65af57b": {
+      "resumen": "Future Snoops anticipa las tendencias de color que se verán en las pasarelas para la temporada otoño-invierno 2028/29."
+    },
+    "81fdce9ad732": {
+      "resumen": "Vogue México recomienda cremas corporales cuyo aroma compite con el del perfume favorito de cada una."
+    },
+    "15c5f89e0a6e": {
+      "resumen": "Salma Hayek inspira a combinar vestidos midi con botas y zapatos de tacón para el otoño 2026."
+    },
+    "62f2d9456586": {
+      "resumen": "Cosmopolitan selecciona siete vestidos, faldas y abrigos nuevos de Zara para estrenar ahora y usar durante todo el invierno."
+    },
+    "ab3ec62580dc": {
+      "resumen": "La actriz Anna Díaz lució una falda midi con zapatos negros de tacón en el Festival Internacional de Cine de Morelia 2026."
+    },
+    "ab4e5fcd222b": {
+      "resumen": "Una guía de qué hacer un fin de semana en Mercedes, con pulperías, comida de campo y paseos al aire libre."
+    },
+    "8d3480d536b8": {
+      "resumen": "Moria Casán recibió un reconocimiento a su trayectoria y defendió al teatro como un espacio de resistencia."
+    },
+    "0d6954f63725": {
+      "resumen": "El listado completo de los ganadores de los Premios ACE 2026 a lo mejor del teatro nacional."
+    },
+    "28ee6bf5af93": {
+      "resumen": "Moria Casán fue homenajeada en los Premios ACE 2026 y afirmó que el teatro es un lugar de resistencia."
+    },
+    "871c88876cd5": {
+      "resumen": "Seis cantoras del sur de Argentina se presentan en Buenos Aires con el espectáculo \"Mujer Patagonia\"."
+    },
+    "95b7dfff4778": {
+      "resumen": "Los restaurantes argentinos El Preferido y Cantina fueron premiados en los World Culinary Awards 2026."
     },
     "dece51cadb1e": {
       "resumen": "El fin de semana en Buenos Aires viene fresco, sin lluvias, con nubes y mínimas de 7 grados."
@@ -30,78 +103,11 @@
     "7935a6ad0cdc": {
       "resumen": "La Plata ofrece una agenda cultural con propuestas artísticas y recorridos turísticos para este fin de semana."
     },
-    "dfcb0e8259b2": {
-      "resumen": "Qué hacer este fin de semana en la Ciudad Autónoma de Buenos Aires (CABA): propuestas de música, teatro y ferias."
+    "fa2d7865bc3c": {
+      "resumen": "Cómo evolucionan las alergias alimentarias en los niños a medida que crecen."
     },
-    "498aa5308e06": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) autorizó TumorSight Risk, una herramienta de inteligencia artificial que analiza imágenes de resonancia magnética (RM) para estimar el riesgo de recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (HR+/HER2-). Vale la pena seguirlo porque suma una vía de estratificación de riesgo no invasiva junto a los perfiles genómicos ya usados en la práctica.",
-      "destacado": false
-    },
-    "8c72a82ae85a": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó dostarlimab, un anticuerpo que bloquea PD-1 (proteína de muerte celular programada 1), para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR). Interesa porque este subgrupo tumoral responde de forma marcada a la inmunoterapia y la aprobación podría evitar cirugía y radioterapia en algunos casos.",
-      "destacado": false
-    },
-    "cc1568b68d88": {
-      "resumen": "La Academia Nacional de Medicina de Estados Unidos (National Academy of Medicine) eligió a 100 nuevos miembros para 2026, distinción que suele incluir referentes de la oncología. Es una noticia institucional de reconocimiento profesional, no el reporte de un estudio.",
-      "destacado": false
-    },
-    "a8459646cd79": {
-      "resumen": "OncLive confirma, igual que The ASCO Post, la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) a dostarlimab —un anticuerpo que bloquea PD-1 (proteína de muerte celular programada 1)— para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR).",
-      "destacado": false
-    },
-    "75faba4e091e": {
-      "resumen": "La Sociedad Americana de Hematología (ASH, American Society of Hematology) publicó nuevas recomendaciones para el manejo de la mielofibrosis, una neoplasia mieloproliferativa que afecta la médula ósea y altera la producción de células sanguíneas. Interesa porque actualiza la guía de práctica clínica en una enfermedad con pocas opciones curativas.",
-      "destacado": false
-    },
-    "0de6f0d1bfe0": {
-      "resumen": "Nota de OncLive sobre cómo reconocer el tumor de células gigantes tenosinovial (TGCT, tenosynovial giant cell tumor), un tumor poco frecuente de las articulaciones, y los cambios en los circuitos de derivación de pacientes hacia especialistas. Es contenido educativo, no el reporte de un estudio nuevo.",
-      "destacado": false
-    },
-    "8c04c933b447": {
-      "resumen": "Publicación del New England Journal of Medicine sobre el tratamiento libre de quimioterapia convencional en la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL), una variante de leucemia aguda definida por una alteración genética específica. Vale la pena mirarlo porque refleja el giro hacia esquemas con inhibidores de tirosina-cinasa e inmunoterapia en reemplazo de la quimioterapia tradicional.",
-      "destacado": false,
-      "analisis": "Diseño: A partir del título no se puede confirmar si se trata de un ensayo clínico original o de un artículo de revisión/perspectiva sobre los esquemas libres de quimioterapia en leucemia linfoblástica aguda Filadelfia positiva (Ph+ ALL); sin el abstract no hay datos sobre aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL).\nIntervención: Esquemas de tratamiento que evitan la quimioterapia convencional, probablemente basados en inhibidores de tirosina-cinasa combinados con inmunoterapia (por ejemplo, blinatumomab); el título no aclara el comparador.\nResultados: No disponibles sin el abstract completo.\nLimitaciones: No poder distinguir, solo por el título, si reporta datos originales o es un comentario editorial condiciona cualquier conclusión sobre su solidez estadística.\nMensaje: De confirmarse la eficacia de los esquemas libres de quimioterapia, refuerza una tendencia que viene consolidándose en el tratamiento de la LLA Ph+ en adultos hacia regímenes menos tóxicos y más dirigidos molecularmente.\nNota: análisis sin acceso al abstract."
-    },
-    "82c51f5b5c44": {
-      "resumen": "Estudio del New England Journal of Medicine que compara, en adultos con leucemia linfoblástica aguda Filadelfia positiva (Ph+ ALL), un esquema libre de quimioterapia con ponatinib (inhibidor de tirosina-cinasa de tercera generación) y blinatumomab (anticuerpo biespecífico que redirige linfocitos T) frente al esquema estándar de imatinib (inhibidor de tirosina-cinasa de primera generación) más quimioterapia convencional. Es relevante porque podría redefinir el tratamiento de primera línea en este subtipo de leucemia.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título parece un ensayo clínico (probablemente aleatorizado) que compara dos esquemas de tratamiento en adultos con leucemia linfoblástica aguda Filadelfia positiva (Ph+ ALL); sin el abstract no se puede precisar el cegamiento, la cantidad de centros ni el tamaño de la muestra.\nPoblación: Adultos con leucemia linfoblástica aguda Filadelfia positiva (Ph+ ALL), probablemente de diagnóstico reciente.\nIntervención: Un brazo con ponatinib (inhibidor de tirosina-cinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico CD19/CD3) en esquema libre de quimioterapia, frente a un brazo estándar de imatinib (inhibidor de tirosina-cinasa de primera generación) asociado a quimioterapia convencional.\nResultados: No disponibles sin el abstract completo.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la toxicidad comparada entre brazos ni la significación estadística de las diferencias.\nMensaje: Si el esquema libre de quimioterapia (ponatinib-blinatumomab) resulta no inferior o superior al estándar, podría consolidar el abandono de la quimioterapia convencional como tratamiento de primera línea en la LLA Ph+ del adulto.\nNota: análisis sin acceso al abstract."
-    },
-    "ab3ec62580dc": {
-      "resumen": "La actriz Anna Díaz lució una falda midi con zapatos negros de tacón en el Festival Internacional de Cine de Morelia 2026."
-    },
-    "6dd7ebe6d8fb": {
-      "resumen": "Vogue México selecciona los botines de tacón más elegantes de octubre para combinar con pantalones, vestidos y faldas."
-    },
-    "8ecb5e590b0c": {
-      "resumen": "La modelo Bella Hadid recreó, con zapatos de tacón negros, uno de los looks más recordados de Britney Spears de los años 2000."
-    },
-    "fa5fceee8859": {
-      "resumen": "La modelo y conductora Zaira Nara combinó un look urbano y otro deportivo para anticipar las tendencias del verano."
-    },
-    "db3f481c493c": {
-      "resumen": "ELLE propone tres monos largos de Zara que funcionan tanto para la oficina como para una cena con amigas."
-    },
-    "6ccbb378e63f": {
-      "resumen": "Los leggings se mantienen vigentes este otoño 2026, combinados con zapatos de tacón y botas, según las tendencias de la temporada."
-    },
-    "b13be5c35258": {
-      "resumen": "Ni gorra ni visera: surge una nueva tendencia europea en accesorios de cabeza que promete imponerse en el verano 2027."
-    },
-    "95b7dfff4778": {
-      "resumen": "Los restaurantes argentinos El Preferido y Cantina fueron premiados en los World Culinary Awards 2026."
-    },
-    "cee99d2dbaf5": {
-      "resumen": "El músico y escritor Leo Maslíah vuelve a los escenarios con su obra La clase de piano."
-    },
-    "5fa8fd2fc229": {
-      "resumen": "Las radios públicas de Uruguay transmitirán espectáculos del Teatro Colón de Buenos Aires."
-    },
-    "f8a7008ed7ab": {
-      "resumen": "Una guía para conseguir entradas de teatro con descuentos de hasta el 90% en la Ciudad de Buenos Aires."
-    },
-    "14ce07bc2a3a": {
-      "resumen": "Charly García cumple 75 años y la Ciudad de Buenos Aires organiza una semana de homenajes en su honor."
+    "66df929331cf": {
+      "resumen": "El examen dental de un adolescente puede ser una ventana para detectar señales sobre su bienestar general."
     }
   }
 }
