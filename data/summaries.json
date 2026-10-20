@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-10-20T10:12:04Z",
+  "generated_at": "2026-10-20T22:12:14Z",
   "summaries": {
-    "3169b772b319": {
-      "resumen": "Es una retractación formal del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre un artículo previo acerca de la intervención de cuidados paliativos al final de la vida en pacientes con cáncer avanzado. Vale la pena registrarla porque anula una conclusión que antes se citaba en la literatura.",
-      "destacado": false
-    },
-    "7cc07a50ce71": {
-      "resumen": "Nota de OncLive sobre un ensayo clínico de fase 1/2 en cáncer colorrectal metastásico (mCRC) refractario a tratamientos previos, en el que el fármaco vilamakitug alcanzó el umbral prefijado de supervivencia global (OS, overall survival). Vale la pena seguirlo porque marca un posible avance en una población con pocas opciones terapéuticas.",
+    "13e64910d625": {
+      "resumen": "OncLive reporta actividad clínica de casdatifan, un fármaco en investigación, en pacientes con carcinoma de células claras renal (ccRCC, la variante más frecuente del cáncer de riñón) avanzado. Vale la pena seguirlo porque podría sumar una opción más en una enfermedad donde las alternativas terapéuticas siguen siendo limitadas.",
       "destacado": false,
-      "analisis": "Diseño: Por el título se trata de un ensayo clínico de fase 1/2 (habitualmente no aleatorizado, de un solo brazo, con cohortes de escalada de dosis y expansión); sin el abstract no se puede precisar el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer colorrectal metastásico (mCRC) refractario a los tratamientos estándar previos.\nIntervención: Vilamakitug, sin comparador aclarado en el título (los ensayos de fase 1/2 suelen ser de un solo brazo).\nResultados: El título indica que el fármaco alcanzó el umbral de supervivencia global (OS) predefinido, pero no hay cifras disponibles (mediana de OS, intervalos de confianza, valor de p) sin acceso al texto completo.\nLimitaciones: Los ensayos de fase 1/2 suelen tener muestras pequeñas, carecer de grupo control y estar diseñados principalmente para evaluar seguridad y dosis, no eficacia definitiva.\nMensaje: Un resultado positivo de supervivencia global en fase temprana es alentador pero preliminar; se necesitará confirmación en un ensayo de fase 3 aleatorizado antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Por el título se trataría de resultados de un ensayo clínico (probablemente de fase temprana); sin el abstract no se puede precisar la fase exacta, la aleatorización ni el número de centros o pacientes.\nPoblación: Pacientes con carcinoma de células claras renal (ccRCC) avanzado.\nIntervención: Casdatifan, sin comparador aclarado en el título.\nResultados: El título solo indica que el fármaco \"demuestra actividad\", sin cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni la robustez estadística de los resultados.\nMensaje: Una señal de actividad temprana es alentadora pero preliminar; se necesitará más evidencia en fases avanzadas y comparación con el estándar antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "a8459646cd79": {
-      "resumen": "OncLive confirma, igual que The ASCO Post, la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) a dostarlimab —un anticuerpo que bloquea PD-1 (proteína de muerte celular programada 1)— para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR).",
+    "906ed051dc1a": {
+      "resumen": "Artículo de OncLive sobre los criterios clínicos para elegir un inhibidor de punto de control inmunitario (ICI, immune checkpoint inhibitor) en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer): el nivel de expresión de PD-L1 (ligando de muerte celular programada 1), la histología tumoral y el perfil de seguridad. Es una guía práctica de selección de tratamiento, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "a5dea5f78fa7": {
-      "resumen": "Entrevista a la Dra. Andrea Cercek en OncLive sobre la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) de dostarlimab para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR). Aporta la mirada clínica de una especialista sobre el impacto de esta aprobación en la práctica diaria.",
+    "2db74b7f5a4c": {
+      "resumen": "The ASCO Post reporta el desarrollo de un modelo de inteligencia artificial (IA) que, a partir del análisis de imágenes faciales, estima la edad biológica y el riesgo de mortalidad en pacientes con cáncer. Interesa porque podría ofrecer una herramienta rápida y no invasiva para estratificar riesgo más allá de la edad cronológica.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trataría de un estudio de desarrollo y validación de un modelo de inteligencia artificial (IA) a partir de imágenes faciales; sin el abstract no se puede precisar si fue retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer (tipo tumoral no especificado en el título).\nIntervención: Aplicación de un algoritmo de IA basado en imágenes faciales para estimar edad biológica y riesgo de mortalidad, presumiblemente comparado contra la edad cronológica u otros marcadores de fragilidad.\nResultados: El título solo indica que el modelo \"estima\" edad biológica y riesgo de mortalidad, sin métricas de desempeño (c-index, sensibilidad, especificidad) disponibles sin el abstract.\nLimitaciones: Los modelos de IA basados en imágenes suelen requerir validación externa en poblaciones diversas y son sensibles a sesgos de la cohorte de entrenamiento; sin el abstract no se puede evaluar esto.\nMensaje: Si se valida, una herramienta así podría complementar la evaluación geriátrica u oncológica del riesgo, pero por ahora es una prueba de concepto.\nNota: análisis sin acceso al abstract."
+    },
+    "5a16ba82a641": {
+      "resumen": "Perfil de The ASCO Post a la Dra. Claudia Henschke, investigadora pionera en la detección temprana del cáncer de pulmón mediante tomografía computada de baja dosis. Es una nota biográfica y de trayectoria, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "8c72a82ae85a": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó dostarlimab, un anticuerpo que bloquea PD-1 (proteína de muerte celular programada 1), para el cáncer de recto localmente avanzado con inestabilidad de microsatélites alta o deficiencia en la reparación de errores de apareamiento (MSI-H/dMMR). Interesa porque este subgrupo tumoral responde de forma marcada a la inmunoterapia y la aprobación podría evitar cirugía y radioterapia en algunos casos.",
+    "f20e262a6c2a": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de vía rápida (Fast Track) a la combinación de QTX3034 más cetuximab para el cáncer colorrectal (CRC) con mutación KRAS G12D. Es una designación regulatoria que agiliza el desarrollo del fármaco, no la aprobación definitiva ni el reporte de resultados de eficacia.",
       "destacado": false
     },
-    "cc1568b68d88": {
-      "resumen": "La Academia Nacional de Medicina de Estados Unidos (National Academy of Medicine) eligió a 100 nuevos miembros para 2026, distinción que suele incluir referentes de la oncología. Es una noticia institucional de reconocimiento profesional, no el reporte de un estudio.",
+    "afc062cc1015": {
+      "resumen": "Nota de The ASCO Post sobre el rol de los centros de oncología comunitaria en acercar los avances en diagnóstico y tratamiento del cáncer a los pacientes fuera de los grandes centros académicos. Es un artículo institucional sobre acceso a la atención, no el reporte de un estudio.",
       "destacado": false
     },
-    "75faba4e091e": {
-      "resumen": "La Sociedad Americana de Hematología (ASH, American Society of Hematology) publicó nuevas recomendaciones para el manejo de la mielofibrosis, una neoplasia mieloproliferativa que afecta la médula ósea y altera la producción de células sanguíneas. Interesa porque actualiza la guía de práctica clínica en una enfermedad con pocas opciones curativas.",
-      "destacado": false
+    "ab30b907a56a": {
+      "resumen": "Estudio del Journal of Clinical Oncology (JCO) que evalúa la asociación entre el nivel de eosinófilos circulantes (un tipo de glóbulo blanco) y la activación inmunitaria sistémica con la recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano, HR+/HER2-). Interesa porque explora un biomarcador simple y accesible como señal pronóstica.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trata de un estudio observacional, probablemente de cohorte o un análisis traslacional sobre una cohorte existente; sin el abstract no se puede precisar si fue prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama con receptores hormonales positivos y HER2 negativo (HR+/HER2-).\nIntervención: No hay una intervención terapéutica; se midió el recuento de eosinófilos circulantes y marcadores de activación inmunitaria sistémica, correlacionados con la recurrencia de la enfermedad.\nResultados: El título indica una asociación entre mayores niveles de eosinófilos y menor recurrencia, pero no hay cifras (razón de riesgo, intervalos de confianza, valor de p) disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de biomarcadores son propensos a factores de confusión y no establecen causalidad; falta validación prospectiva independiente.\nMensaje: Si se confirma, el recuento de eosinófilos podría sumarse como biomarcador pronóstico de bajo costo, pero por ahora es un hallazgo exploratorio que no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "bc73a5e0b29a": {
       "resumen": "Ensayo aleatorizado de fase III publicado en el Journal of Clinical Oncology (JCO) que compara radioterapia hipofraccionada (dosis más altas por sesión, en menos sesiones) frente a radioterapia con fraccionamiento convencional tras mastectomía, ambas con irradiación de la cadena mamaria interna, en cáncer de mama de alto riesgo. Interesa porque podría acortar los tiempos de tratamiento sin perder eficacia ni seguridad.",
@@ -43,50 +45,50 @@
       "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre las promesas y los desafíos del cribado personalizado de cáncer de pulmón. Es un comentario de opinión experta, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "25f1ebb2b141": {
-      "resumen": "Qué hará falta para fortalecer la cadena de suministro de la moda frente al cambio climático y las crisis geopolíticas."
+    "5d22c4e2a7ef": {
+      "resumen": "La colección primavera 2027 de Francisco Cancino en la Semana de la Moda de México."
     },
-    "81c510520c63": {
-      "resumen": "Las principales conclusiones de la Semana de la Moda de Shanghái, donde las marcas independientes apostaron a vincularse directamente con sus consumidores."
+    "bda708bae65c": {
+      "resumen": "La colección primavera 2027 de Mikio Sakabe en la Semana de la Moda de Tokio."
     },
-    "941f8e2c0434": {
-      "resumen": "Cómo Longchamp se mantiene vigente de la mano de su CEO Jean Cassegrain, con lujo accesible y buena relación precio-valor."
+    "3e7c45a99e99": {
+      "resumen": "El nuevo hotel y residencias Four Seasons en Cartagena, Colombia, que se presenta como una parada imperdible."
     },
-    "28e4439c5b17": {
-      "resumen": "El CEO de Church's, Denni Manzatto, apuesta a fabricar en el Reino Unido con inversión del grupo Prada."
+    "e4ae9176b7be": {
+      "resumen": "Los zapatos de tacón grueso se consolidan como el calzado elegante clave para el otoño 2026, según Vogue México."
     },
-    "0ca3b987ea6e": {
-      "resumen": "El vestido rojo navideño quedó atrás: cuál es el color que se impondrá como tendencia elegante para las Fiestas 2026."
+    "d2d93dd65d24": {
+      "resumen": "El corte de cabello shaggy que luce el actor Jacob Elordi se impone como el peinado masculino de referencia para el otoño 2026."
     },
-    "b462f65af57b": {
-      "resumen": "Future Snoops anticipa las tendencias de color que se verán en las pasarelas para la temporada otoño-invierno 2028/29."
+    "0551d3e93109": {
+      "resumen": "ELLE selecciona siete vestidos de tendencia otoño en rebaja en El Corte Inglés, ideales para el entretiempo."
     },
-    "81fdce9ad732": {
-      "resumen": "Vogue México recomienda cremas corporales cuyo aroma compite con el del perfume favorito de cada una."
+    "4be9543756ad": {
+      "resumen": "Las tendencias de calzado de otoño-invierno 2026 que toman como referencia el estilo de Salma Hayek."
     },
-    "15c5f89e0a6e": {
-      "resumen": "Salma Hayek inspira a combinar vestidos midi con botas y zapatos de tacón para el otoño 2026."
+    "6581391dad4f": {
+      "resumen": "Una experta en decoración enumera tres tendencias de diseño de interiores que, según ella, nunca pasarán de moda."
     },
-    "62f2d9456586": {
-      "resumen": "Cosmopolitan selecciona siete vestidos, faldas y abrigos nuevos de Zara para estrenar ahora y usar durante todo el invierno."
+    "525a8ce07c43": {
+      "resumen": "Indie Hoy cubre una propuesta vinculada al videojuego Undertale que llega a la Argentina."
     },
-    "ab3ec62580dc": {
-      "resumen": "La actriz Anna Díaz lució una falda midi con zapatos negros de tacón en el Festival Internacional de Cine de Morelia 2026."
+    "a5fbf21fb1e3": {
+      "resumen": "El musical Frozen debutará por primera vez en Buenos Aires y ya se abren las audiciones para elegir a la actriz que interprete a Elsa."
+    },
+    "b85c961c09b3": {
+      "resumen": "El coro La Coral Guadix de Buenos Aires se presenta este miércoles en el Teatro Mira de Amescua, en la Ciudad Episcopal de Guadix, España."
+    },
+    "237ad049f0db": {
+      "resumen": "El musical Frozen llegará por primera vez a la Argentina; TN detalla la fecha de estreno y cómo anotarse al casting para interpretar a Elsa."
+    },
+    "e1a15b92c908": {
+      "resumen": "Infobae relata la experiencia de un comensal en uno de los bodegones más destacados de Palermo, que pidió un almuerzo para seis personas y mostró cuánto gastó."
+    },
+    "ae27e21cc542": {
+      "resumen": "La Guía Michelin quedó bajo la lupa luego de distinguir restaurantes que ya habían cerrado y de tener que corregir un error de ubicación en Buenos Aires."
     },
     "ab4e5fcd222b": {
       "resumen": "Una guía de qué hacer un fin de semana en Mercedes, con pulperías, comida de campo y paseos al aire libre."
-    },
-    "8d3480d536b8": {
-      "resumen": "Moria Casán recibió un reconocimiento a su trayectoria y defendió al teatro como un espacio de resistencia."
-    },
-    "0d6954f63725": {
-      "resumen": "El listado completo de los ganadores de los Premios ACE 2026 a lo mejor del teatro nacional."
-    },
-    "28ee6bf5af93": {
-      "resumen": "Moria Casán fue homenajeada en los Premios ACE 2026 y afirmó que el teatro es un lugar de resistencia."
-    },
-    "871c88876cd5": {
-      "resumen": "Seis cantoras del sur de Argentina se presentan en Buenos Aires con el espectáculo \"Mujer Patagonia\"."
     },
     "95b7dfff4778": {
       "resumen": "Los restaurantes argentinos El Preferido y Cantina fueron premiados en los World Culinary Awards 2026."
@@ -94,20 +96,8 @@
     "dece51cadb1e": {
       "resumen": "El fin de semana en Buenos Aires viene fresco, sin lluvias, con nubes y mínimas de 7 grados."
     },
-    "42996c5819e7": {
-      "resumen": "El embajador de Francia en la Argentina comparte sus restaurantes porteños preferidos y opina sobre las costumbres locales."
-    },
     "3fea95740e0b": {
       "resumen": "Página|12 presenta la agenda cultural de la provincia de Buenos Aires."
-    },
-    "7935a6ad0cdc": {
-      "resumen": "La Plata ofrece una agenda cultural con propuestas artísticas y recorridos turísticos para este fin de semana."
-    },
-    "fa2d7865bc3c": {
-      "resumen": "Cómo evolucionan las alergias alimentarias en los niños a medida que crecen."
-    },
-    "66df929331cf": {
-      "resumen": "El examen dental de un adolescente puede ser una ventana para detectar señales sobre su bienestar general."
     }
   }
 }
