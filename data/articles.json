@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-10-20T05:01:24.126255+00:00",
+ "generated_at": "2026-10-20T11:51:45.333050+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Weigh Benefit Against Burden: Defining Lurbinectedin’s Role in a Shifting Small Cell Lung Cancer Landscape",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlBYZlR4YlY1SUJQVTBJM2Fkck9RMWtLT29nNktMZC1zZFplVUVJSi1sQ0dvbUxuVmZXNUtQMlBvQkltRWFQWE9OTEU1TVlhQWtjU3BDWFlMbllZcUJKLS1fTjV3bGR3Z0tpYUJGWF9XbnJRTHZIbllRTmhnR2VhRXduSl9QRWR0Z25lckRwdDMxczB6bXpveFF3R24zTGJjZ01wQU1LMDVBVzZPOHVzZ2s5cngyYmM2T1JOeHBiTFJiZW1ycFpObHB3bWdkcEk?oc=5",
+     "source": "OncLive",
+     "published": "2026-10-20T06:40:20+00:00",
+     "id": "c5696283c2b7"
+    },
+    {
+     "title": "Dr Cercek on the FDA Approval of Dostarlimab for dMMR/MSI-H Locally Advanced Rectal Cancer",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHBWalRVcmU0Sk81dDRHNVpJRmZOTHoyekRENVBfSlJ3bHJuQ3d0cnVZMWtheGducHJrOXVXZjdNTVVVUzFjYWZCM0hqYldpT1ZfSHVNZS13bERGd3UwdkdSS1U0cFNwQ2ViRkRaWFlud0xDbmZHdGR4WUNxc0RudmFIc3pTZHROUXVZb0M2eHFKdWU5ZUprY3Q3cWVuN1JsZ1BJTHNWY1NkbmxqRU5ZUHlrQnh3VlpiQ1M4?oc=5",
+     "source": "OncLive",
+     "published": "2026-10-20T06:33:45+00:00",
+     "id": "a5dea5f78fa7"
+    },
     {
      "title": "Retraction: Palliative Care Involvement at the End of Life in Advanced Cancer",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42879908/",
@@ -18,22 +32,8 @@
      "title": "Vilamakitug Meets OS Threshold in Phase 1/2 Refractory mCRC Trial",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFZ1bjJMZUVqRTEwejYyekxHSXFZQU41TFB6LURWTTk2TmE0VUJET2RDVHBQcDNFdzIzbGVTbFVKaXlpM0NrZkpsU3BPaWU0YXNVYVBhWHVGY3dJX2U0bnlfdFNoY2p3cldtbi1LOVpwZ3NjYmRyeTNKWlJiZHR6aEpjbFJ1VlFkQWZNeFlvRXRiSW1WUGltXzZB?oc=5",
      "source": "OncLive",
-     "published": "2026-10-19T23:19:34+00:00",
+     "published": "2026-10-19T23:49:36+00:00",
      "id": "7cc07a50ce71"
-    },
-    {
-     "title": "FDA Approves Dostarlimab for dMMR/MSI-H Locally Advanced Rectal Cancer",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUNnd1VtR1Bhc3hWMDByZnhmU1hqUEE5dTlVOTNuZmFESnpJczNXTDgybV9XMXQxMXpEaEZGUkFndnczTjdkMmlKRTlNMVU5TmtkZlV4VkVac3AxV3NpSVQ5Y3NoTjZ6LUdlOXd3Vkw0MlVsSllsS1QxRllLa2ltUGdYTkFET2ZZY3BfbWN3Rmt5VnJVcFVlaUpQVGhXNllH?oc=5",
-     "source": "OncLive",
-     "published": "2026-10-19T23:03:45+00:00",
-     "id": "a8459646cd79"
-    },
-    {
-     "title": "Dr Cercek on the FDA Approval of Dostarlimab for dMMR/MSI-H Locally Advanced Rectal Cancer",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHBWalRVcmU0Sk81dDRHNVpJRmZOTHoyekRENVBfSlJ3bHJuQ3d0cnVZMWtheGducHJrOXVXZjdNTVVVUzFjYWZCM0hqYldpT1ZfSHVNZS13bERGd3UwdkdSS1U0cFNwQ2ViRkRaWFlud0xDbmZHdGR4WUNxc0RudmFIc3pTZHROUXVZb0M2eHFKdWU5ZUprY3Q3cWVuN1JsZ1BJTHNWY1NkbmxqRU5ZUHlrQnh3VlpiQ1M4?oc=5",
-     "source": "OncLive",
-     "published": "2026-10-19T23:00:05+00:00",
-     "id": "a5dea5f78fa7"
     },
     {
      "title": "FDA Approves Dostarlimab for MSI-H/dMMR Locally Advanced Rectal Cancer",
@@ -88,43 +88,71 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "What Will It Take to Fortify Fashion’s Supply Chain?",
-     "link": "https://www.vogue.com/article/what-will-it-take-to-fortify-fashions-supply-chains",
+     "title": "The Dallas Cowboys Cheerleaders—and Ricky Martin and Pedro Sampaio—Left Brazil Thunderstruck at the NFL’s Rio Debut",
+     "link": "https://www.vogue.com/slideshow/the-dallas-cowboys-cheerleaders-ricky-martin-pedro-sampaio-nfl-rio",
      "source": "Vogue",
-     "published": "2026-10-20T04:30:00+00:00",
-     "copete": "Brands and suppliers alike are battling with climate change and geopolitical crises. At the Textile Exchange conference, conversations about regenerative agriculture and textile-to-textile recycling quickly turned to supply chain…",
-     "id": "25f1ebb2b141"
+     "published": "2026-10-20T11:44:50+00:00",
+     "copete": "Behind the scenes with America’s Sweethearts as they met the loudest crowd of their lives, fused “Thunderstruck” with Brazilian funk, and turned Maracanã into a dance floor.",
+     "id": "2d4444fa3b2c"
     },
     {
-     "title": "Rewriting the Everyday: Key Takeaways From Shanghai Fashion Week",
-     "link": "https://www.vogue.com/article/rewriting-the-everyday-key-takeaways-from-shanghai-fashion-week",
+     "title": "Victoria Beckham’s Second Gap Collection Reimagines Fall’s Essential Layers",
+     "link": "https://www.vogue.com/article/victoria-beckham-gap-collaboration-fall-2026",
      "source": "Vogue",
-     "published": "2026-10-20T04:30:00+00:00",
-     "copete": "At Shanghai Fashion Week SS27, independent labels looked beyond runway visibility to build relationships with consumers.",
-     "id": "81c510520c63"
+     "published": "2026-10-20T11:00:00+00:00",
+     "copete": "Beckham shares the inspiration behind her second collab with Gap—a 37-piece collection built around fall staples, including knits outerwear, and jeans.",
+     "id": "7a7027b56a89"
     },
     {
-     "title": "The Unlikely Longevity of Longchamp",
-     "link": "https://www.vogue.com/article/the-unlikely-longevity-of-longchamp",
-     "source": "Vogue",
-     "published": "2026-10-20T04:30:00+00:00",
-     "copete": "For CEO Jean Cassegrain, trying too hard with the kids doesn’t land. Instead, he’s letting accessible luxury, a touch of humor, and clear value-for-money make the family brand a growing success with a whole new generation.",
-     "id": "941f8e2c0434"
+     "title": "Horóscopo de hoy: 20 de octubre de 2026",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzdFeWdLS055Q0hyYlMzcmxWcEYzSm1QUGhfQ1dlM2RVZzdfeWh1T3lETmF0TXBkU0NrRjV3SkoxaWhrTFMzUFpkeXNJblBxcS1LbWdLM0VPS1JiYVRvbVdmSC1Wa0c5S2FUWUxxQ0V3UGNRUHBVYUc5bW95bnpVQQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-20T11:00:00+00:00",
+     "id": "37c4aea5ce11"
     },
     {
-     "title": "Why Church’s CEO Denni Manzatto Is Banking on Made in the UK",
-     "link": "https://www.vogue.com/article/why-churchs-ceo-denni-manzatto-is-banking-on-made-in-the-uk",
+     "title": "Vida en Copenhague",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ed3QxS1lIdHdVYUphaFl1Y1RLVGpqcEExTzlrdGVlYnJ1blpuRV83VF9zSzhrV0hpUU1Cenotc3VMbzl3N1FfdGVfbENtYUJPSjdvRFRzQjVXajhJcHNkWnE2TXpiX1lRbUE?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-20T10:53:55+00:00",
+     "id": "08921e70e26a"
+    },
+    {
+     "title": "Contact Sport: How Much Eye Contact Is Too much?",
+     "link": "https://www.vogue.com/article/too-much-eye-contact-reveal",
      "source": "Vogue",
-     "published": "2026-10-20T04:30:00+00:00",
-     "copete": "The Italian leader of England’s most famous shoemaker reveals Prada Group’s plans to bring new investment and training to Northampton.",
-     "id": "28e4439c5b17"
+     "published": "2026-10-20T10:30:00+00:00",
+     "copete": "An etiquette expert weighs in on one of the many questions raised by “You Can See Everything.”",
+     "id": "5c4f43dc95a6"
+    },
+    {
+     "title": "No te quedes sin el bolso de ‘Vogue’ que no dejarás de utilizar este otoño (y que viene con el número de noviembre)",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yUlV1Y1JyV0RYUHp5THpEMm5tWDhkT3lSU3c4OEtRMXFWeWtJV01OV1RId1puWm52b1dPQkdFRE44dlIzQ1FoTWdFOGx1eG82T2syQVdwckVULVpKUnktM2o1amRXeElLZjJIR1VMZmNDV2NsY3RFZVR5RHg?oc=5",
+     "source": "Vogue España",
+     "published": "2026-10-20T10:00:23+00:00",
+     "id": "c9908971f794"
+    },
+    {
+     "title": "25+ Travel Cardigans For Every Trip",
+     "link": "https://www.vogue.com/article/best-travel-cardigans",
+     "source": "Vogue",
+     "published": "2026-10-20T10:00:00+00:00",
+     "copete": "From cashmere to cotton, the travel cardigan is about to be your new airport style MVP—shop options from Khaite, Doen, and more.",
+     "id": "c9ddee8401a1"
     },
     {
      "title": "El vestido rojo para Navidad pasó de moda: cuál es el color que marcará tendencia para estas Fiestas 2026 por ser más elegante",
      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeXpNN1VWVGVIQ1k5UVNnekhyek10OGM0bnktOGdvMWtaOGtQdGFtanNsdzZUODZyMWZoS2JNTFFrOWpKdTVBTXhkWk1nS283dEpGNkZ4eFBsZVJLR2VncjNtRUE0VmVoMkUtcUlBbG8yMjJJWkdiNVNJSkRmUHZ2QWgyeFhfN2tEZU15YllpZ2ZvYkFCSEZpRmI0OFBFdGhITGpvcFRlLU9DSjBiTmpTdC1SSThDNUJ0WFpjdTI5WDl3ekZTVjF5ck1UbzRpRUNaaEREbXl2RFViWnBwdERpeEdybWQtQzBkZktsMXZtZURpLW8yWFVMYklNTnN1YkZIZHc?oc=5",
      "source": "Canal26",
-     "published": "2026-10-20T04:16:30+00:00",
+     "published": "2026-10-20T08:34:49+00:00",
      "id": "0ca3b987ea6e"
+    },
+    {
+     "title": "El estampado Bambi es la tendencia imprescindible del otoño y se lleva así",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHNjRWhZRkx6T0ctYlcwSTFfRnZGY0hLRWQxT1RTclc2LWUxS0pxRy1uNE91SnZIS0pzRk1zZTZwa2VRRVRCaFBudmp3Ml8tZ3M4YVVhd0VqWTkwMjRHMHVxTGpwR0tlZVZKN2VySW5zajB4UWNENE9GUW5CZ2ZqcnJ5MUppVDBLS1BvRkJZVEdwYXhQbHpaV0c4QVNLUjJPcWNiY05uRWJaQdIBrwFBVV95cUxQRFRYd0cwaUFmQnZxRklnV19oek5EQVVBcXVpd0dqUFBiQW01U0FGM25IVnR4ekdwanQ4ZHFmQjRMa0NkelNQUV9Pd2ZZTk4wemVPdldtTmo4bUJkVmRFOTE4Z0YzYmhXYU13eHJiTzB2Nm1PY2lRbXZJX0M3elNhdTViZ18yRkNOWmNJc3dPNXVicTBhWV9GSzE2Q3RMYXZEUHR4U0U3eTZMQ2JicDhZ?oc=5",
+     "source": "ABC",
+     "published": "2026-10-20T07:38:29+00:00",
+     "id": "bf23a56a6781"
     },
     {
      "title": "Visto en la pasarela: las tendencias de color de Future Snoops para FW28/29",
@@ -132,34 +160,6 @@
      "source": "FashionUnited",
      "published": "2026-10-20T04:05:18+00:00",
      "id": "b462f65af57b"
-    },
-    {
-     "title": "Estas cremas corporales huelen mejor que tu perfume favorito",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkN5cnBxRTBWQWY3STdSYVdvRHljd3NaeWVkM0xCdlBPYmE4UVMyUXl4RDFfZlZJV0VVR2pmVmNYR3NfZHhQbjFXLXI0NnBzMXM1Yjh4aG5ESTVCbUpTU1ZlM3NqUjdVRkFvenZsbTRNYTNYdEotb2hTcnZoeDl4bUJzbnhsYmp1Y2xIZXJKbGlxcC1fcTV0OFpJV0tycFZzazZvUkRGNloxb2UwTzV0MHIwd1F3cFU?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-20T00:04:46+00:00",
-     "id": "81fdce9ad732"
-    },
-    {
-     "title": "Salma Hayek es la inspiración para llevar vestidos midi con botas y zapatos de tacón en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHU3ZEVvbUJpXzJVZHpWdFMzTWxCaTVYR0pxcnlGQ3VsYzBKMmtGU3hBOU5PT0dtZ2kzZ05XN0kxQXdzaWpsVnhjSW5vUktaOTBvZ2wxQXUyQk1fTGVVOERsTlRqSlZvT1FBdFFEd0VqYUQ0TzY0Um1ERFpVaHd1MFVNX1AydUhVRVRaY1ZjOXJhalFnVUtaejNYM0FnYWcySjZaYS1reFRLSF8wb1BNVlMtSkFDTng1Qnk5WTNoU1hoV0VEbE5j?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-19T20:46:35+00:00",
-     "id": "15c5f89e0a6e"
-    },
-    {
-     "title": "Nuevo en Zara: 7 vestidos, faldas y abrigos de tendencia ideales para estrenar ahora y llevar todo el invierno",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjZtMmp6MG8wME0yZlF4LVprb0dBVUkzZ2tCeW5ia2MwM3ROdGU2YW9yS0hyU3N0T3lzT1pjcWJucWo0UWQ1SWVQOWd3Mnl1WFJ4bEFCWlc2dDYwUDI2dnRPYWI5TV9oZjc1aFNha2FVN1pkVVg4a1VPSTNtdzFkUjlsSnhOTTREU2dQMzlHS1d6dFF0cjd3ZWxHeUZjblhYbjF1YnVEdmlFWmw0ZXpiRkU5aGl1Z3c?oc=5",
-     "source": "Cosmopolitan",
-     "published": "2026-10-19T19:49:11+00:00",
-     "id": "62f2d9456586"
-    },
-    {
-     "title": "Anna Díaz deslumbra en el Festival Internacional de Cine de Morelia 2026 con falda midi y zapatos negros de tacón",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWU3a056OUdGSnliNGItUnlUTEQzaHZGRFR3VkNvNkliQVZYbWdRNjFSZFplOTRac21wQUlHdEVvaDFWdUdhS0VzVU9kZzIydDVXWFhDd2tMMW1XUTB4UkdlTjBYc1NoSnB4aFRzay1UVWczazZ1NmEyRzBETXZVUm40T0RDSkdtZmsxdXdZell6Y0tTTWNORFZvbm9MSnllcWx1WTY1VWFiZw?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-19T19:23:07+00:00",
-     "id": "ab3ec62580dc"
     }
    ]
   },
@@ -169,6 +169,86 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Josefina Lynch contó cómo fueron sus visitas al estudio de Emanuel Ortega: “Es una persona amorosa y respetuosa”",
+     "link": "https://www.infobae.com/teleshow/2026/10/20/josefina-lynch-conto-como-fueron-sus-visitas-al-estudio-de-emanuel-ortega-es-una-persona-amorosa-y-respetuosa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-20T11:42:32+00:00",
+     "copete": "La artista se defendió de los rumores que la ubican como tercera en discordia en la separación del músico y Julieta Prandi",
+     "id": "b59273cecb34"
+    },
+    {
+     "title": "La reacción de Francisco Stoessel frente al escándalo mediático que envuelve a su familia: “No me gusta”",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-reaccion-de-francisco-stoessel-frente-al-escandalo-mediatico-que-envuelve-a-su-familia-no-me-nid20102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-20T11:17:11+00:00",
+     "copete": "El joven reapareció en televisión y fue consultado por cómo está hoy su vínculo con su hermana Tini tras la polémica",
+     "id": "25faeb354b15"
+    },
+    {
+     "title": "Quién se fue de MasterChef ayer, lunes 19 de octubre",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-se-fue-de-masterchef-ayer-lunes-19-de-octubre-nid20102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-20T11:06:20+00:00",
+     "copete": "El jurado del certamen de cocina definió al tercer eliminado; quiénes continúan en carrera",
+     "id": "76139715b58d"
+    },
+    {
+     "title": "Diego Peretti explicó su vínculo con Hernán Casciari luego de la denuncia por presunta estafa",
+     "link": "https://www.infobae.com/teleshow/2026/10/20/diego-peretti-explico-su-vinculo-con-hernan-casciari-luego-de-la-denuncia-por-presunta-estafa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-20T11:01:44+00:00",
+     "copete": "El actor dirigió y protagonizó La muerte de un comediante, uno de los proyectos de Orsai Audiovisuales mencionado en la causa contra el escritor",
+     "id": "b72db8c95d62"
+    },
+    {
+     "title": "Murió la actriz Marcela Ortiz, a los 61 años",
+     "link": "https://www.lanacion.com.ar/espectaculos/murio-la-actriz-marcela-ortiz-a-los-61-anos-nid19102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-20T10:44:13+00:00",
+     "copete": "La exmodelo sufrió un choque en Tigre el pasado fin de semana; su hija manifestó su tristeza: “Te amo y espero que encuentres toda la luz y paz que merecés”",
+     "id": "b2458918e638"
+    },
+    {
+     "title": "El amoroso intercambio de mensajes entre Zaira Nara y Jakob Von Plessen tras anunciar su reconciliación",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-amoroso-intercambio-de-mensajes-entre-zaira-nara-y-jakob-von-plessen-tras-anunciar-su-nid20102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-10-20T10:15:05+00:00",
+     "copete": "El empresario le dedicó un tierno posteo a la modelo por el Día de la Madre y ella no dudó en replicarlo; a principios de octubre ella confirmó que decidieron volver a apostar por su amor",
+     "id": "371f8fa9a18d"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 20 de octubre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-20-de-octubre-de-2026-en-argentina_0_ZmoMnUUU9J.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-10-20T10:15:04+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "105da8b39dc0"
+    },
+    {
+     "title": "Siete series ocultas e imperdibles del streaming que, a su vez, revelan paisajes y hábitos pocos vistos en ficción",
+     "link": "https://www.clarin.com/espectaculos/series-ocultas-imperdibles-streaming-vez-revelan-paisajes-habitos-pocos-vistos-ficcion_0_2UB7v3rjZY.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-10-20T09:00:35+00:00",
+     "copete": "Las plataformas tienen, no en la vidriera, producciones de Islandia, Filipinas, Polonia o Croacia, que no llegan con bombos y platillos pero ofrecen relatos potentes. Una lista de producciones que no contaron con campañas millonarias, pero…",
+     "id": "c9769d49c76a"
+    },
+    {
+     "title": "Joaquín Ferreira, el Vadalá de Moria que no corre, vuela",
+     "link": "https://www.clarin.com/espectaculos/joaquin-ferreira-vadala-moria-corre-vuela_0_YrdYNoy0Cm.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-10-20T09:00:33+00:00",
+     "copete": "De \"Club de Cuervos\", la primera serie de habla hispana de Netflix, pasó por \"Coppola, el representante\", que estrena segunda temporada el viernes, y la serie de La One. Y ahora está en Madrid, grabando una serie de HBO.",
+     "id": "fd688bcbf916"
+    },
+    {
+     "title": "Murió la modelo y actriz Marcela Ortiz, ex esposa de Raúl Taibo",
+     "link": "https://www.clarin.com/espectaculos/murio-modelo-actriz-marcela-ortiz-ex-esposa-raul-taibo_0_n2MiWZm6SR.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-10-20T05:00:24+00:00",
+     "copete": "Tenía 61 años. Sufrió un accidente de tránsito fatal en Tigre. Protagonizó con el actor uno de los divorcios más mediáticos de los años '90. Tras su paso por las pasarelas, fue chica Olmedo y trabajó en comedias picarescas en cine y…",
+     "id": "f9b02f870d4e"
+    },
+    {
      "title": "Sorpresa en MasterChef Celebrity: quién es el último eliminado después de una noche donde cocinaron mondongo",
      "link": "https://www.infobae.com/teleshow/2026/10/20/sorpresa-en-masterchef-celebrity-quien-es-el-ultimo-eliminado-despues-de-una-noche-donde-cocinaron-mondongo/",
      "source": "Teleshow (Infobae)",
@@ -177,92 +257,12 @@
      "id": "c2127939d6f0"
     },
     {
-     "title": "Rating: cuánto midió la tercera gala de eliminación de Masterchef Celebrity",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/rating-cuanto-midio-la-tercera-gala-de-eliminacion-de-masterchef-celebrity-nid20102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-20T03:50:44+00:00",
-     "copete": "El reality culinario de Telefe fue seguido por más de 900.000 individuos en el AMBA según la medidora Ibope",
-     "id": "6cde67dc497f"
-    },
-    {
      "title": "Mario Pergolini reveló cuál es el hábito que tiene antes de tener relaciones sexuales: “Mi mujer me lo agradece”",
      "link": "https://www.infobae.com/teleshow/2026/10/20/mario-pergolini-revelo-cual-es-el-habito-que-tiene-antes-de-tener-relaciones-sexuales-mi-mujer-me-lo-agradece/",
      "source": "Teleshow (Infobae)",
      "published": "2026-10-20T03:36:49+00:00",
      "copete": "Durante una charla distendida en Otro Día Perdido, el animador contó que ese gesto forma parte de su dinámica matrimonial y desató risas junto a sus compañeros",
      "id": "ac2b14de7781"
-    },
-    {
-     "title": "MasterChef Celebrity: entre una nueva eliminación, y el “ajustado” look de Nazareno Casero que sonrojó a Wanda Nara",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/masterchef-celebrity-entre-una-nueva-eliminacion-y-el-ajustado-look-de-nazareno-casero-que-sonrojo-a-nid20102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-20T03:24:57+00:00",
-     "copete": "Una nueva semana en el reality culinario, comenzó con una dura prueba",
-     "id": "6c2be93ad034"
-    },
-    {
-     "title": "Premios ACE 2026: los mejores looks de la fiesta del teatro",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/premios-ace-2026-los-mejores-looks-de-la-fiesta-del-teatro-nid20102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-20T03:21:51+00:00",
-     "copete": "Este lunes, se llevó a cabo una nueva edición de estos galardones que distinguen a los principales protagonistas de la escena teatral argentina",
-     "id": "282808ea9209"
-    },
-    {
-     "title": "Diego Castro reconoció en Dale Match que está en una app de citas y su hija Juli se indignó: “La habías cerrado”",
-     "link": "https://www.infobae.com/teleshow/2026/10/20/diego-castro-reconocio-en-dale-match-que-esta-en-una-app-de-citas-y-su-hija-juli-se-indigno-la-habias-cerrado/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-20T03:18:55+00:00",
-     "copete": "El actor habló de su estado civil en el ciclo que encabeza Marcelo Tinelli en un día que tuvo como invitada la influencer. El momento",
-     "id": "01838ace3bea"
-    },
-    {
-     "title": "El dolor de El Polaco por la muerte de su abuela: “Cuando todo era violencia, tristeza y pobreza, me abrazabas”",
-     "link": "https://www.infobae.com/teleshow/2026/10/20/el-dolor-de-el-polaco-por-la-muerte-de-su-abuela-cuando-todo-era-violencia-tristeza-y-pobreza-me-abrazabas/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-20T03:04:56+00:00",
-     "copete": "El cantante de cumbia compartió en Instagram un homenaje a la mujer que lo cuidó como una madre y evocó cómo lo acompañaba durante los años más difíciles de su niñez",
-     "id": "a373c98a41d2"
-    },
-    {
-     "title": "Premios ACE: en medio de un fuerte reclamo por el teatro, Hairspray arrasó con las estatuillas e Ingrid Pelicori se llevó el Oro",
-     "link": "https://www.lanacion.com.ar/espectaculos/premios-ace-en-medio-de-un-fuerte-reclamo-por-teatro-hairspray-arraso-con-las-estatuillas-e-ingrid-nid19102026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-10-20T02:23:14+00:00",
-     "copete": "El teatro El Nacional fue el escenario de una nueva ceremonia que destaca a lo mejor de la cartelera porteña; además, Moria Casán y Soledad Silveyra fueron homenajeadas por su trayectoria",
-     "id": "5223674b46fe"
-    },
-    {
-     "title": "El impactante video de Shelsian, la hija de Marcela Ortiz, pocos días antes de la muerte de su madre",
-     "link": "https://www.infobae.com/teleshow/2026/10/20/el-impactante-video-de-shelsian-la-hija-de-marcela-ortiz-pocos-dias-antes-de-la-muerte-de-su-madre/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-20T02:10:44+00:00",
-     "copete": "La joven maquilladora e influencer compartió una publicación dedicada a su madre una semana antes del accidente fatal",
-     "id": "0a1248f1144d"
-    },
-    {
-     "title": "Tini Stoessel enumeró todas las fallas que obligaron a cancelar su show en Miami: “Era imposible realizar tareas básicas”",
-     "link": "https://www.infobae.com/teleshow/2026/10/20/tini-explico-todas-las-fallas-tecnicas-que-obligaron-a-cancelar-su-show-en-miami-era-imposible-realizar-tareas-basicas/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-20T01:27:18+00:00",
-     "copete": "La cantante difundió un comunicado, a través de de su apoderado, donde atribuyó la suspensión del espectáculo a incumplimientos del promotor local y expresó su intención de regresar a la ciudad para ofrecer la presentación pendiente",
-     "id": "4f295d24f7fa"
-    },
-    {
-     "title": "Apu volvió a hablar en Los Simpson después de casi diez años: por qué había sido silenciado y quién es su nueva voz",
-     "link": "https://www.clarin.com/espectaculos/apu-volvio-hablar-simpson-despues-anos-silenciado-nueva-voz_0_OtehCuQ1Rx.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-10-19T19:41:17+00:00",
-     "copete": "El dueño del Kwik-E-Mart recuperó su voz. Su regreso llega después de una larga polémica por los estereotipos raciales del personaje.",
-     "id": "c6cfcd168286"
-    },
-    {
-     "title": "Kristin Davis reveló el calvario que vivió durante \"Sex and the City\": las dietas extremas y los crueles comentarios sobre su cuerpo",
-     "link": "https://www.clarin.com/espectaculos/kristin-davis-revelo-calvario-vivio-sex-and-the-city-dietas-extremas-crueles-comentarios-cuerpo_0_D7OZ15Xade.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-10-19T17:42:24+00:00",
-     "copete": "La actriz que interpretó a Charlotte York en la exitosa serie habló sobre la presión estética que sufrió. A los 61 años, recordó cómo las críticas sobre su apariencia afectaron su relación con la comida y la llevaron a adoptar hábitos…",
-     "id": "0449d015d115"
     }
    ]
   },
@@ -349,81 +349,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Búsqueda de Nancy Godoy en Corrientes: el cargo por el que quedó detenido el principal involucrado en la causa",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/20/busqueda-de-nancy-godoy-en-corrientes-el-cargo-por-el-que-quedo-detenido-el-principal-involucrado-en-la-causa/",
+     "title": "Guía de Dragon Ball Super Beerus: cuántos episodios tendrá y dónde verlos completos",
+     "link": "https://www.infobae.com/tecno/2026/10/20/guia-de-dragon-ball-super-beerus-cuantos-episodios-tendra-y-donde-verlos-completos/",
      "source": "Infobae",
-     "published": "2026-10-20T04:51:14+00:00",
-     "copete": "La maestra rural salió rumbo a la escuela donde trabajaba y nunca regresó. En un allanamiento, los investigadores secuestraron cuatro cuchillos y dos prendas con manchas rojizas, que serán sometidos a peritajes",
-     "id": "4f292d498f03"
+     "published": "2026-10-20T11:48:08+00:00",
+     "copete": "Goku y sus amigos vuelven a la acción frente a Beerus, el Dios de la Destrucción, en una temporada de 19 capítulos",
+     "id": "24f6fb726d5f"
     },
     {
-     "title": "Juicio por YPF: la jueza Preska cerró formalmente el caso y la Corte Suprema deberá definir el pedido de Burford",
-     "link": "https://www.infobae.com/economia/2026/10/20/juicio-por-ypf-la-jueza-preska-cerro-formalmente-el-caso-y-la-corte-suprema-debera-definir-el-pedido-de-burford/",
+     "title": "El superávit comercial de 2026 podría superar los USD 26.000 millones y duplicar el resultado de 2025",
+     "link": "https://www.infobae.com/economia/2026/10/20/el-superavit-comercial-de-2026-podria-superar-los-usd-26000-millones-y-duplicar-el-resultado-de-2025/",
      "source": "Infobae",
-     "published": "2026-10-20T04:47:08+00:00",
-     "copete": "Se trata de un trámite administrativo necesario tras la decisión que la Cámara de Apelaciones tomó en marzo, cuando revirtió el fallo que obligaba a la Argentina a pagar USD 16.000 millones a los fondos que demandaron al Estado por la…",
-     "id": "ffea97155371"
+     "published": "2026-10-20T11:47:05+00:00",
+     "copete": "El saldo positivo acumulado entre enero y septiembre alcanzó los USD 21.198 millones y se espera un buen desempeño en lo que resta del año",
+     "id": "fdf3bae4867e"
     },
     {
-     "title": "El Gobierno postergó hasta diciembre la puesta en marcha de los Fondos de Asistencia Laboral",
-     "link": "https://www.lanacion.com.ar/sociedad/el-gobierno-postergo-hasta-diciembre-la-puesta-en-marcha-de-los-fondos-de-asistencia-laboral-nid20102026/",
+     "title": "“No quería vivir una vida sin ser verdaderamente feliz”: nuevo comunicado de Svitolina tras el divorcio que conmocionó al mundo del tenis",
+     "link": "https://www.infobae.com/deportes/2026/10/20/no-queria-vivir-una-vida-sin-ser-verdaderamente-feliz-nuevo-comunicado-de-svitolina-tras-el-divorcio-que-conmociono-al-mundo-del-tenis/",
+     "source": "Infobae",
+     "published": "2026-10-20T11:46:55+00:00",
+     "copete": "La actual 6° del ranking WTA volvió a postear en sus redes sociales luego del revuelo que generó el anuncio de separación con Gael Monfils",
+     "id": "46151b420e73"
+    },
+    {
+     "title": "Criptomonedas: cuál es su precio en el mercado este martes 20 de octubre",
+     "link": "https://www.infobae.com/tecno/2026/10/20/criptomonedas-cual-es-su-precio-en-el-mercado-este-martes-20-de-octubre/",
+     "source": "Infobae",
+     "published": "2026-10-20T11:46:02+00:00",
+     "copete": "El bitcoin, una de las principales monedas digitales registró un cambio de -0,347% en las últimas 24 horas",
+     "id": "7990104f0276"
+    },
+    {
+     "title": "La Ciudad anunció a los ganadores de la licitación para instalar locales gastronómicos en los parques porteños",
+     "link": "https://www.lanacion.com.ar/sociedad/la-ciudad-anuncio-a-los-ganadores-de-la-licitacion-para-instalar-locales-gastronomicos-en-los-nid20102026/",
      "source": "La Nación",
-     "published": "2026-10-20T04:45:23+00:00",
-     "copete": "El régimen debía comenzar el 1° de noviembre; además, se amplió de seis a doce meses el período mínimo de aportes previo al uso de los recursos",
-     "id": "293ab5d8e779"
+     "published": "2026-10-20T11:44:19+00:00",
+     "copete": "Esta semana, el gobierno de Jorge Macri oficializó las empresas que fueron adjudicadas para construir tiendas en 16 espacios verdes; el canon por mes va desde los $860.000 hasta más de $4.000.000",
+     "id": "67eb5a812b98"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 20 de octubre, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid20102026/",
      "source": "La Nación",
-     "published": "2026-10-20T04:35:13+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "0f4996511e48"
+     "published": "2026-10-20T11:43:12+00:00",
+     "copete": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1560 para esa operación; qué pasa con el MEP y el CCL",
+     "id": "2d85f8574bb0"
     },
     {
-     "title": "Las alergias alimentarias cambian a medida que los niños crecen",
-     "link": "https://www.infobae.com/salud/2026/10/20/las-alergias-alimentarias-cambian-a-medida-que-los-ninos-crecen/",
-     "source": "Infobae",
-     "published": "2026-10-20T04:31:44+00:00",
-     "id": "fa2d7865bc3c"
-    },
-    {
-     "title": "¿Preocupado por tu adolescente? Revisa los resultados de su examen dental para una ventana a su bienestar",
-     "link": "https://www.infobae.com/salud/2026/10/20/preocupado-por-tu-adolescente-revisa-los-resultados-de-su-examen-dental-para-una-ventana-a-su-bienestar/",
-     "source": "Infobae",
-     "published": "2026-10-20T04:31:25+00:00",
-     "id": "66df929331cf"
-    },
-    {
-     "title": "La psicología dice que algunas personas llegan a la vejez con una actitud más comprensiva, paciente y tolerante frente a los demás. Otras, en cambio, parecen desarrollar mayor irritabilidad, desconfianza o resentimiento después de atravesar situaciones difíciles a lo largo de su vida",
-     "link": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-llegan-vejez-actitud-comprensiva-paciente-tolerante-frente-cambio-parecen-desarrollar-mayor-irritabilidad-desconfianza-resentimiento-despues-atravesar-situaciones-dificiles-largo-vida_0_PUubsBKznp.html",
-     "source": "Clarín",
-     "published": "2026-10-20T04:22:26+00:00",
-     "copete": "Por qué algunas personas se vuelven más amables con los años y otras más amargadas: qué dice la psicología.",
-     "id": "f73a39bd4464"
-    },
-    {
-     "title": "EEUU veta el uso de la IA china DeepSeek en agencias gubernamentales",
-     "link": "https://www.clarin.com/estados-unidos/eeuu-veta-el-uso-de-la-ia-china-deepseek-en-agencias-gubernamentales_0_e9enDQfPvM.html",
-     "source": "Clarín",
-     "published": "2026-10-20T04:20:11+00:00",
-     "copete": "EE.UU. prohíbe a sus agencias usar IA de DeepSeek, citando riesgos de transferencia de datos sensibles a China. La medida excluye a fuerzas armadas. La decisión surge en medio de tensiones por el liderazgo en inteligencia artificial, con…",
-     "id": "4aa176d4d638"
-    },
-    {
-     "title": "Argentina tendrá un nuevo SUV con nombre de superhéroe: cómo es y cuándo llega",
-     "link": "https://www.lanacion.com.ar/autos/llega-un-nuevo-suv-con-nombre-de-superheroe-a-la-argentina-y-es-la-primera-apuesta-electrificada-de-nid09102026/",
+     "title": "Gabriel Rolón, psicólogo: “El amor sano es el invento más maravilloso”",
+     "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-el-amor-sano-es-el-invento-mas-maravilloso-nid19102026/",
      "source": "La Nación",
-     "published": "2026-10-20T04:16:00+00:00",
-     "copete": "Se trata del Avenger, el primer vehículo electrificado de Jeep que se comercializará en el país: llega en tres versiones y viene con ChatGPT integrado",
-     "id": "0395c68722bd"
+     "published": "2026-10-20T11:42:04+00:00",
+     "copete": "En una entrevista exclusiva para LN+, el psicoanalista y escritor propuso una mirada cruda sobre el amor, la muerte y el cómo el deseo produce incomodidad",
+     "id": "934c1d6f1b04"
     },
     {
-     "title": "\"La felicidad, sujeta a influjos\"",
-     "link": "https://www.clarin.com/cartas-al-pais/felicidad-sujeta-influjos_0_dnXwTHsP8r.html",
+     "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar la imperfección del otro”",
+     "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-la-imperfeccion-del-otro-nid17102026/",
+     "source": "La Nación",
+     "published": "2026-10-20T11:42:01+00:00",
+     "copete": "En una entrevista exclusiva para LN+, el psicoanalista y escritor reflexionó sobre la naturaleza humana y propuso una mirada cruda sobre el amor, la muerte y la persistencia de los mandatos sociales",
+     "id": "b273bac3fdbb"
+    },
+    {
+     "title": "Giancarlo Devasini, el cirujano plástico que dejó la medicina a los 28 años y terminó detrás de una fortuna de 89.000 millones de dólares",
+     "link": "https://www.clarin.com/internacional/giancarlo-devasini-cirujano-plastico-dejo-medicina-28-anos-termino-detras-fortuna-89000-millones-dolares_0_rvpV2PBqnH.html",
      "source": "Clarín",
-     "published": "2026-10-20T04:00:26+00:00",
-     "id": "de3ebc6eb143"
+     "published": "2026-10-20T11:30:34+00:00",
+     "copete": "Estudió en Milán, ejerció apenas dos años y después comenzó a importar componentes informáticos desde Asia. Décadas más tarde, su participación en una empresa privada lo ubicó entre las mayores fortunas de Italia.",
+     "id": "c56a72d68668"
+    },
+    {
+     "title": "Rubio firma en Uzbekistán contratos por valor de 12.000 millones de dólares",
+     "link": "https://www.clarin.com/estados-unidos/rubio-firma-en-uzbekistan-contratos-por-valor-de-12-000-millones-de-dolares_0_t4eiVwHMfi.html",
+     "source": "Clarín",
+     "published": "2026-10-20T11:30:06+00:00",
+     "copete": "El secretario de Estado de EE.UU. firmó acuerdos por 12.000 millones con Uzbekistán, fortaleciendo lazos comerciales entre ambos países. El presidente uzbeko propuso un plan de cooperación hasta 2035, destacando el crecimiento de la…",
+     "id": "602ed35aa0bd"
     }
    ]
   },
@@ -433,68 +436,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los que se frotan las manos con los disturbios en Francia",
-     "link": "https://elpais.com/internacional/2026-10-20/los-que-se-frotan-las-manos-con-los-disturbios-en-francia.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "Las desgracias personales sufridas por vecinos y comerciantes durante las revueltas alimentan a los extremos políticos de Francia, que explotarán el miedo y la rabia en las próximas elecciones",
-     "id": "024f1a262cfc"
-    },
-    {
-     "title": "El orden contra el caos, un marco que favorece a Le Pen",
-     "link": "https://elpais.com/internacional/2026-10-20/el-orden-contra-el-caos-un-marco-que-favorece-a-le-pen.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "¿Dónde queda la Francia intergeneracional que salió a la calle este domingo cuando el primer ministro Lecornu pide a los franceses elegir entre el bando de “las fuerzas del orden” y el de “los que tienen un proyecto violento contra la…",
-     "id": "c768250b74cb"
-    },
-    {
-     "title": "Navi Pillay, premio Nobel de la Paz: “Netanyahu debe ser juzgado por genocidio”",
-     "link": "https://elpais.com/internacional/2026-10-20/navi-pillay-premio-nobel-de-la-paz-netanyahu-debe-ser-juzgado-por-genocidio.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "La jurista sudafricana afirma en una entrevista con EL PAÍS que “son los civiles quienes más vidas pierden en la guerra moderna”",
-     "id": "6dcd52354663"
-    },
-    {
-     "title": "Myanmar libra hoy la segunda guerra de drones más intensa mundo",
-     "link": "https://elpais.com/internacional/2026-10-20/myanmar-libra-hoy-la-segunda-guerra-de-drones-mas-intensa-mundo.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "La junta militar que dio el golpe de Estado en 2021 lanza siete de cada diez ataques con drones contra una oposición dividida en decenas de grupos armados",
-     "id": "582a369f159c"
-    },
-    {
-     "title": "De estudiantes secundarios a “chalecos amarillos”: cómo creció la protesta que sacude Francia",
-     "link": "https://www.bbc.com/mundo/articles/cvlyd7rw80e5o?at_medium=RSS&at_campaign=rss",
+     "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+     "link": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-20T03:26:41+00:00",
-     "copete": "¿Por qué unas protestas estudiantiles terminaron convirtiéndose en una crisis nacional para Emmanuel Macron?",
-     "id": "14e0258bf35f"
+     "published": "2026-10-20T10:58:28+00:00",
+     "copete": "El desempleo marcó un récord de 9,6%, el mayor en más de cinco años. La inversión está estancada y la confianza de los consumidores ha caído, en medio del plan de austeridad fiscal del gobierno.",
+     "id": "4423b0a38165"
     },
     {
-     "title": "Los opositores a Putin deportados por Occidente a los que ahora Rusia envía a la guerra",
-     "link": "https://www.bbc.com/mundo/articles/ckzd604n0gdyo?at_medium=RSS&at_campaign=rss",
+     "title": "De Medellín a Ho Chi Minh: 5 ciudades en pleno auge que los viajeros no deberían perderse",
+     "link": "https://www.bbc.com/mundo/articles/c6n4ewzkn45go?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-20T03:16:50+00:00",
-     "copete": "Durante el último año ha aumentado notablemente el número de activistas antigubernamentales deportados a Rusia desde la Unión Europea y EE.UU., donde habían buscado refugio.",
-     "id": "7f9d242ed423"
+     "published": "2026-10-20T10:28:50+00:00",
+     "copete": "Un nuevo informe global destaca ciudades como Toulouse o Varsovia como destinos urbanos emergentes para los viajeros. Esto es lo que sus habitantes opinan sobre qué las hace especiales.",
+     "id": "1a79ead8c05c"
     },
     {
-     "title": "Un sacerdote muere tras caerle encima un enorme crucifijo durante una misa que estaba transmitiendo en vivo en Ecuador",
-     "link": "https://www.bbc.com/mundo/articles/c6ev3zgnrxz9o?at_medium=RSS&at_campaign=rss",
+     "title": "Alberta vota por seguir formando parte de Canadá, según resultados preliminares del referendo independentista",
+     "link": "https://www.bbc.com/mundo/articles/c65yngpp7zxlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-19T21:16:19+00:00",
-     "copete": "El sacerdote Patricio Alfredo Sánchez Molinari falleció luego del golpe recibido en la iglesia de Nuestra Señora del Perpetuo Socorro en el centro de Guayaquil.",
-     "id": "485bde4b00e1"
+     "published": "2026-10-20T09:49:41+00:00",
+     "copete": "Los votantes de la pronvincia han rechazado por amplio margen una propuesta para iniciar un proceso hacia la independencia.",
+     "id": "3008886f8b00"
     },
     {
-     "title": "Cómo es Fobos, la luna de Marte que es el destino de una nueva y revolucionaria misión espacial",
-     "link": "https://www.bbc.com/mundo/articles/cqj34l4gj301o?at_medium=RSS&at_campaign=rss",
+     "title": "Hipermovilidad: la poco conocida \"enfermedad de la flexibilidad\" que causa dolor y fatiga",
+     "link": "https://www.bbc.com/mundo/articles/cqj9k3vge1r9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-19T20:43:29+00:00",
-     "copete": "La misión espacial japonesa MMX tiene la ambiciosa misión de traer 10 gramos de polvo lunar marciano de vuelta a la Tierra para ser estudiado y resolver el misterio de la formación de las lunas de Marte.",
-     "id": "7a00bc30e2e6"
+     "published": "2026-10-20T09:34:37+00:00",
+     "copete": "Este trastorno puede afectar a cientos de miles de personas, pero muchas sufren retrasos a la hora de obtener un diagnóstico.",
+     "id": "6e2026900568"
+    },
+    {
+     "title": "Los republicanos moderados temen verse arrastrados por la impopularidad de Trump",
+     "link": "https://elpais.com/us/2026-10-20/los-republicanos-moderados-temen-verse-arrastrados-por-la-impopularidad-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-10-20T09:30:00+00:00",
+     "copete": "Mike Lawler, de los pocos congresistas conservadores en un Estado abrumadoramente demócrata como Nueva York, trata de distanciarse del presidente en una de las grandes batallas de las ‘midterms’",
+     "id": "a7a0c2e86e82"
+    },
+    {
+     "title": "Trump utiliza a Melania para tratar de conectar con el voto femenino desencantado por sus excesos",
+     "link": "https://elpais.com/us/2026-10-20/trump-utiliza-a-melania-para-tratar-de-conectar-con-el-voto-femenino-desencantado-por-sus-excesos.html",
+     "source": "El País Internacional",
+     "published": "2026-10-20T09:30:00+00:00",
+     "copete": "El mandatario tiene un largo historial de desprecio por algunas mujeres, mientras que los republicanos reciben menos votos femeninos, según las encuestas",
+     "id": "68b534f4767a"
+    },
+    {
+     "title": "La Casa Blanca redobla su presión a California como laboratorio para sus injerencias de cara a las ‘midterms’",
+     "link": "https://elpais.com/us/2026-10-20/la-casa-blanca-redobla-su-presion-a-california-como-laboratorio-para-sus-injerencias-de-cara-a-las-midterms.html",
+     "source": "El País Internacional",
+     "published": "2026-10-20T09:30:00+00:00",
+     "copete": "La ofensiva de la Administración de Trump se enfoca en alegatos de que miles de no ciudadanos están registrados en el padrón electoral del Estado",
+     "id": "d607a2c1c82d"
+    },
+    {
+     "title": "La policía desaloja las acampadas en Lisboa y Oporto y detiene a algunos de los manifestantes",
+     "link": "https://elpais.com/internacional/2026-10-20/la-policia-desaloja-las-acampadas-en-lisboa-y-oporto-y-detiene-a-algunos-de-los-manifestantes.html",
+     "source": "El País Internacional",
+     "published": "2026-10-20T08:59:15+00:00",
+     "copete": "Las concentraciones han durado tres días en las dos ciudades más importantes de Portugal, pero se prevén nuevas movilizaciones esta semana",
+     "id": "32978485d748"
     }
    ]
   }
