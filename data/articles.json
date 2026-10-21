@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T07:49:08.230903+00:00",
+ "generated_at": "2026-10-21T13:56:51.839365+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,10 +7,17 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Experts Call for Better Quality-of-Life Reporting in Adjuvant Cancer Trials",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTRuemkxRXFGLVhrd2hUN1JPNWNnbGlJcExhdXBBeUI2UEJOeDB5TTJhNkhqcnRsX1VCMWJaWE9PaGJQN1c4d3JDUGlkSkg3akFqdVUyTEk3SFE3aWF4MUxOcUF3TlIxSjNTSHB5Ym9fUWw0RUxwamJSVjBBVjFJUXR4RVlCSUpmUHlvZklUbjVRZm5SYmJCenJWcFlVQU9GUGctSmZWb0VhaUc2VGxMRnZTVDZWdw?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-21T13:48:45+00:00",
+     "id": "3bd5c6f3a5f9"
+    },
+    {
      "title": "Bivalent CAR T-Cell Therapy Shows No Delayed Toxicity and Promising Survival in Recurrent Glioblastoma",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGZuVlNITnRjX1U0NnM2WElBOFhuQW9LeDdCU0E1N3FVWE9WWnVPMWVmM2ZYNHV3czhaNDhSLTBpYmJLTURiOXJ6NDFJbk1xUkpHblljbURFel9CV3VGUDlpU3MxMVBzZWZSbm8tZU5mVTRobS1oQUFockh1elFKYnlPdVdKaVk2UXVFQy1EQm5lOTdyVDRkQzlWN3M3TU9mdTRHTld4Y3BBeTVRbFU2bkFYLU14S09UY21meW5XcTBwbkhPOG5zdlBxaUtURmh3bl9pczMtUWx0QQ?oc=5",
      "source": "The ASCO Post",
-     "published": "2026-10-21T02:59:01+00:00",
+     "published": "2026-10-21T03:57:10+00:00",
      "id": "4de93e0e52bc"
     },
     {
@@ -40,13 +47,6 @@
      "source": "The ASCO Post",
      "published": "2026-10-20T17:35:34+00:00",
      "id": "2db74b7f5a4c"
-    },
-    {
-     "title": "Claudia Henschke, PhD, MD: Finding Lung Cancer in Time",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdnlWV2QtS09GWnVDUVhxYzl5WXUzNEFnZWw0cDJfTFVSdklwb2ZQNGxCc08wczB5M2xSSnJHUHRHTEh2YmFDSVBkLUtJRW96elMzakRyQkdtNW9haVFjN3hic1dZaW8tNjA3WC1lcTBxenN0VVBtZlRKV2dETk5KMWh2cDQ2OTN2eDZCN1pEalU0RW4yUkE?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-10-20T17:23:46+00:00",
-     "id": "5a16ba82a641"
     },
     {
      "title": "Association of Circulating Eosinophils With Systemic Immune Activation and Reduced Recurrence in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer",
@@ -79,6 +79,22 @@
      "published": "2026-10-16T00:00:00+00:00",
      "copete": "Rivera MP et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "d74d046b8731"
+    },
+    {
+     "title": "Chemotherapy-free Treatment of Ph-Positive ALL",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42874109/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-15T00:00:00+00:00",
+     "copete": "Fielding AK et al. · The New England journal of medicine",
+     "id": "8c04c933b447"
+    },
+    {
+     "title": "Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42874102/",
+     "source": "NEJM Oncología",
+     "published": "2026-10-15T00:00:00+00:00",
+     "copete": "Chiaretti S et al. · The New England journal of medicine",
+     "id": "82c51f5b5c44"
     }
    ]
   },
@@ -91,52 +107,60 @@
      "title": "Francisco Cancino Mexico Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/mexico-spring-2027/francisco-cancino",
      "source": "Vogue",
-     "published": "2026-10-21T07:45:24+00:00",
+     "published": "2026-10-21T13:56:13+00:00",
      "id": "5d22c4e2a7ef"
     },
     {
-     "title": "Mikio Sakabe Tokyo Spring 2027",
-     "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/mikio-sakabe",
+     "title": "Billie Eilish and Finneas’s Latest Collaboration? Designing Jewelry",
+     "link": "https://www.vogue.com/article/billie-eilish-finneas-john-hardy-jewelry-10-21-2026",
      "source": "Vogue",
-     "published": "2026-10-21T07:45:24+00:00",
-     "id": "bda708bae65c"
+     "published": "2026-10-21T13:00:00+00:00",
+     "copete": "The brother-sister duo have designed a new sustainably-minded jewelry collection for John Hardy.",
+     "id": "37a671202fa0"
     },
     {
-     "title": "Kim Kardashian a los 46: cómo se convirtió en referente de la moda urbana y la alta costura",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSko4SG9mLVliOS1VQnpZRVlqdk4yMXROTUpkUkoyZG05VnBnNk1Od0lBT05MYjFvWnM2OTZ2TGJ3Y3F1amlZWmExWWtRbkRIdVQ4bDNQV2hveFdQMEJGR2kwZjRzSXdycVAtY0hqamFVRlh3Q0RSWjdUT3M4VHVicTJ4UnFTLVJEZFp4cFd3WEtmVng2bzJSVTFTYzEySE8yQ250WHVVaHo4MEduYzg3TExfdnBKVzA4NjJsNjI4dEVOSVUtZ09DTFlWX3RkZDBxeVRMR3R1cnlOZWfSAfYBQVVfeXFMTXM4TmFydE9kY3dHNk1uelRuaXY1RnBXVm5TZjJWR0o1Vl9xYld3eklnTG0zaml1dm0zMEVkQkFGU2hTMGlhNzkyT1hwVGNzaHpTTWEyLTRYek80Z2hQa215T2F2OTMwdjlOcjd4blRGSzFZUFFNaEszQVJlcGZ5WFVHR0hMbTFsTlIyRmlZSkd6ank2V2NLWThOYUQ3bklrMnk1cE5uU3pPRGNkMWlOMng4STBSMzc3OUJaRDRkWUQyWEp4VDRqZ3k2RVRYbjNySjBGdmZ4eGpRdC1VbTZNU0VJX1JQWnVhQnplb01mMHQwZUhmcUdR?oc=5",
-     "source": "Infobae",
-     "published": "2026-10-21T06:00:00+00:00",
-     "id": "c485312a1299"
-    },
-    {
-     "title": "Ahora que ha llegado el otoño (de verdad), repasamos las tendencias de la temporada que mejor funcionan",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFVjbHNOeldUQzQ2bDFFNXU5NmY0blZhcDJYQVVpdGVTNGwzZW5CdmVvNDVUdjNnUm4xZmFKbVppNEJQY3JVYzRwd2hyblRBWW4ySlBESmk5Qi1EQ3JrX3BTemJnVHRxYjlncnkybm05cndOZlVFVVNKMU5xY3RnQ0Frc3HSAYQBQVVfeXFMTWNKNDJ6NWdYTll1VW9Ud3hsako4UGV4RFpkc3JOSzR5eGVlSkltZzBXVVAyT3BYdHJYdWtNNTZJMHg4ZFhPRUZhTlZ0TEs5dEEzSDFac0p4VUhNTmVUcW50clVzS2JtbUdJVC1VbWNOLU5md3I1UmZuMTZUZTdWOU9iYXpi?oc=5",
-     "source": "Telva",
-     "published": "2026-10-21T05:13:57+00:00",
-     "id": "f6a2e97b9ee5"
-    },
-    {
-     "title": "What It’s Like to Be a Casting Director in 2026",
-     "link": "https://www.vogue.com/article/what-its-like-to-be-a-casting-director-in-2026",
+     "title": "Male Model Francesco Ruggiero Wants to Walk In a Gucci Show and Direct Movies",
+     "link": "https://www.vogue.com/article/male-model-francesco-ruggiero",
      "source": "Vogue",
-     "published": "2026-10-21T04:50:00+00:00",
-     "copete": "Vogue Business tracked four casting directors through the SS27 season, to understand what it really takes to scout, negotiate and book models for a runway show.",
-     "id": "d1b9c597dc4d"
+     "published": "2026-10-21T12:30:00+00:00",
+     "copete": "An interview with the rising male model Francesco Ruggiero on his busy year.",
+     "id": "6aa2bd0b6c39"
     },
     {
-     "title": "Zendaya y la inesperada tendencia de maquillaje viral del otoño: cómo ir sin máscara de pestañas y que tu mirada no parezca cansada o triste",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcmtNZGdHU1BQTDBVTk9BZjNCVnpORWFFWDJsb05BanJJYktfU3hIYjFoZVAwbk1ELTNOcU91WWtDX2I3Wl9YR003R0FMT05ZandqeHJnYVVKUjZiVHZuQkNnMTBRZXVMVjB5anNqUm5DX29uVkhXbXVhOF9FellYdFZsWmdJSnhFMnNFU0ZIZ1U5b1ZTNEd3cFJLMFQ1dkxiNGs3MlJnSFVxM254UHRTRXJ1a0dHSnZXd21RSGtMNmk1U0VmUXJuR3U4NHRBZTRGNUpmYThqOTFKMGp5Wm45Q2I0NG5hZ9IB6wFBVV95cUxQcERIVTBqVWN6UGZIQ0ZTR0Z6cDZXWkVCNTduRlAtb1FDZG5oNGc4LTNUN3Q0dDRORWp6bkpXQVJmcVVTZ1g2QXBwWTdneGpaZ3dSYV90QWh3UW0tQmdDc21adEhTSHoyY3p2M20tTXQwLUVpME9JQjRMM2o5bnNuaWdhU0RqakJnYjdyQW4xMkl3a3B4WmpDeXBTaC1GU1ExdFp6YnEzamdNU0lQV1d6Z1V5SVgzQUkyVjRQenpRUE1paENQeUxycW83VHFEWEM5VUZmdGsyZ0lEcW1yMzhlSHhLYXp6aUd1ZHkw?oc=5",
-     "source": "Mujerhoy",
-     "published": "2026-10-21T04:38:00+00:00",
-     "id": "60a22ee1b51e"
-    },
-    {
-     "title": "How Luxury Is Showing Up for Diwali Across the World",
-     "link": "https://www.vogue.com/article/how-luxury-is-showing-up-for-diwali-across-the-world",
+     "title": "From Butter to Olive Oil: The Best and Worst Fats For Your Health",
+     "link": "https://www.vogue.com/article/best-worst-dietary-fats",
      "source": "Vogue",
-     "published": "2026-10-21T04:30:00+00:00",
-     "copete": "Diwali can be a meaningful moment on luxury’s global calendar, but there’s room for more investment in regions beyond India.",
-     "id": "e68752884d2e"
+     "published": "2026-10-21T12:13:38+00:00",
+     "copete": "Nutritionists rank the dietary fats to indulge in or skip altogether. When it comes to health, not all fats are created equally.",
+     "id": "efe04715c1ed"
+    },
+    {
+     "title": "Una estilista comparte sus trucos para conseguir looks juveniles y llenos de energía a cualquier edad",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSVlkT19Rc3czU1NLRVVRZms2Y0xDazdCYkozUE12Tk1xNF9XTkJUMldQeVVWUlFnSEZKVmsyNUZ6aUNEY1FydzBTekU5WTlob3NSODVsVkd1U0t5SnF3NXJWRW9uSVRtR0dYYjlnMG9QeEt0cW1TbmhDR3dLS1B5VUdSVXlON21icU9TandYVlJ4Z0YybzAyQk1FMllGWXFFNG81TEdobW5ZR3J5U2JTdjIwYWdKZ1dpOGdjcTBWV2RVaWhZeUtXaW9rb2lXSGZSZXVEY21mMXQ3OFpaVEFrd1JheWhJcmpybE5xTmFGWmM4NTV3UngzQ1B3V2dTQQ?oc=5",
+     "source": "La Razón",
+     "published": "2026-10-21T12:11:02+00:00",
+     "id": "3c31a2a60e83"
+    },
+    {
+     "title": "Tendencias otoño / invierno 2026 - 2027: así vestirán los hombres que más saben de moda",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFNhb2VtZVdkdnJ4M1ZGcFh4blAyeEQ1eUllVkM4Ylc3ZG9nUFA1SGNLaGJnLUdOR2wxeEsteHprMkM3LW5Kb0hyc2dvMklzNkRrb2NEY1lKNUpMNFAyWlBaNzFVTW1vUnBZY3FXWWFoMlc2VEpKakVTSGNVRmFlQ056UnFOX1ByMTRiM0U3ZWRPTVk?oc=5",
+     "source": "GQ España",
+     "published": "2026-10-21T10:51:07+00:00",
+     "id": "a407df7265cf"
+    },
+    {
+     "title": "Carmen Lomana sorprende con la chaqueta de borreguito de 36 euros que está arrasando en Primark",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYml1bVZkc1hhQ1daUm02b2tXeTQtVXk2ZF8wUHRmX192eV9RWk9MTi01amQyNmhIdXdFTEFHUVhBLUhnR0lodTdrYTNWZkNhajRqajlINnN6ZlFIMzVQM2dleTQxczdOVUJHaWwzYWlGbTd3Q2VxX1c4OVZVcXVJcGV0TGxEeFB6V3pDSEo3NjFrdWhUUmQ0YTNfenEtQUpnOEhpaVFreVVzOWF1T0JjVW9HS2pQaU9K?oc=5",
+     "source": "ELLE",
+     "published": "2026-10-21T09:54:28+00:00",
+     "id": "dfc84fffba44"
+    },
+    {
+     "title": "Así es el nuevo armario de Kim Kardashian a sus 46 años que todas queremos copiar",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOHg0Vi05S1ZJMXZZbnZ5b0c0U2lKSl9HZ2hxQlU2OElwMmlGM21SWDZram15YnFFVm9pYWNvalY2aDJXSEdaR0RhVS12OFRGRmQ5X2pmNXZOTlhNR1p4SkM3UmNtLWQtNTZQRzdJd0VGc2I1Q01KMXg5TVpQVkpCZHJmdElISGl6elRjbjBXSE5KN1p3ZUxQMWRXeDNSLXNtQS0zN2VMbnRHUTlCZUFkeVF1am1WSXQ1QnN4SHdoc2xRVzBmb3lrdGluNm1mLUhHQVNtcXBZOXREWUZ1LTRZ0gHzAUFVX3lxTE5TREtDbnV5eFV1WlY2YXItc1pNUGNIRWI0Vkp1V2pqWHQ1ZjUtS1lnNzF6UThib0MzYmxabmFEbkY3YVV0dE9GTlYyVXFfLUZmajNmckxGZTFRNzRVV29POXRIMWlrRkt4NE1OOW9LVzZxWWNub3FHVXVWOXRxanFXT2c4OWNvSVVjQTBONS14N001cXRyVi03LVhJMGJ4bGdFdDlWSEN6YmNQRGdzM2ZFZnNYTTFONmRvU0hyUVZDbnZHNEtVSUlmUDNFMGZ1a3RwOEJjZE9DUEhkQ2NFTlY0ZUJaNlA5b1dDa0p1dV9wM1hsWQ?oc=5",
+     "source": "La Razón",
+     "published": "2026-10-21T09:33:19+00:00",
+     "id": "2dc947e35f69"
     },
     {
      "title": "¿Cómo llevar joyería cuando el atuendo incluye varias capas?",
@@ -151,13 +175,6 @@
      "source": "Vogue México",
      "published": "2026-10-21T02:13:44+00:00",
      "id": "c4b063d1f39b"
-    },
-    {
-     "title": "Vestidos de manga larga con botas altas, la combinación elegante (y calientita) que será tendencia en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGVWM3lMblJYdG8xek9MUW4tcENEVUNHUFA2TGhRWjBQTXVOMUxWdVoxTURKLWE2elRvWEhlN3pnZm0tM0NFZHM3dHlQUXdaRFJRMFRraTdoMW5NTWJYUFFlNlZycmJ6QU9WcW5GcHBabERKOTdyUHRDbDJvdW9kZnBKQ3l3TmFMZ1BSWHMzWkdCbFhPY1VHQjl5TQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-21T00:40:29+00:00",
-     "id": "2d68ee77bfb0"
     }
    ]
   },
@@ -167,100 +184,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "MasterChef Celebrity: de los insultos de Karina Mazzocco a la inesperada revelación de Rocío Robles sobre su relación con Adrián Suar",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/masterchef-celebrity-de-los-insultos-de-karina-mazzocco-a-la-inesperada-revelacion-de-rocio-robles-nid21102026/",
+     "title": "U2 en River 2027: comenzó la preventa de entradas, precios y cómo comprarlas",
+     "link": "https://www.lanacion.com.ar/que-sale/u2-en-river-2027-comenzo-la-preventa-de-entradas-precios-y-como-comprarlas-nid21102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-21T06:03:24+00:00",
-     "copete": "Los participantes debieron preparar pastas rellenas mientras se hacían cargo de otros quehaceres domésticos",
-     "id": "bb3fff4707af"
+     "published": "2026-10-21T13:50:18+00:00",
+     "copete": "La banda irlandesa celebrará sus 50 años de trayectoria con dos conciertos en marzo y Beck como invitado; habrá seis cuotas sin interés con algunas tarjetas y la venta general comenzará este jueves",
+     "id": "90f84e9b267e"
     },
     {
-     "title": "La indirecta de Luck Ra a La Joaqui al anunciar su nueva canción: \"El que se la queda pierde\"",
-     "link": "https://www.infobae.com/teleshow/2026/10/21/la-indirecta-de-luck-ra-a-la-joaqui-al-anunciar-su-nueva-cancion-el-que-se-la-queda-pierde/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-21T04:05:24+00:00",
-     "copete": "Un adelanto junto a Khea instaló especulaciones por una frase que muchos vincularon con su relación pasada con la cantante de RKT. La reacción de Tiago PZK",
-     "id": "aafe66d7169f"
-    },
-    {
-     "title": "Ricardo Darín habló de su nieto y confesó qué es lo más fuerte de convertirse en abuelo: \"Me emociona muchísimo\"",
-     "link": "https://www.infobae.com/teleshow/2026/10/21/ricardo-darin-hablo-de-su-nieto-y-confeso-que-es-lo-mas-fuerte-de-convertirse-en-abuelo-me-emociona-muchisimo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-21T04:02:10+00:00",
-     "copete": "Tras la llegada de Dante, el intérprete compartió la alegría que atraviesa a su familia y recordó una frase de su hijo sobre la paternidad que lo marcó",
-     "id": "2f2f18cce0a4"
-    },
-    {
-     "title": "El jurado de MasterChef Celebrity fue lapidario con Campi por su plato: “Es una aberración”",
-     "link": "https://www.infobae.com/teleshow/2026/10/21/el-jurado-de-masterchef-celebrity-fue-lapidario-con-campi-por-su-plato-es-una-aberracion/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-21T03:46:54+00:00",
-     "copete": "El humorista recibió una feroz devolución de Germán Martitegui, Maru Botana y Damián Betular. El momento",
-     "id": "4d51fada3bf9"
-    },
-    {
-     "title": "La fuerte reflexión de Ricardo Darín sobre las agresiones en redes: “Detrás del poncho está el cuchillo escondido”",
-     "link": "https://www.infobae.com/teleshow/2026/10/21/la-fuerte-reflexion-de-ricardo-darin-sobre-las-agresiones-en-redes-detras-del-poncho-esta-el-cuchillo-escondido/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-21T03:43:50+00:00",
-     "copete": "El actor habló junto a Diego Peretti durante su visita a Otro día perdido de los mensajes maliciosos en redes y diferenció la crítica de la mala intención",
-     "id": "4a38bd5f7cd3"
-    },
-    {
-     "title": "La reacción de Julieta Prandi por el descargo de Juan Alberto Mateyko en su contra tras su separación de Emanuel Ortega",
-     "link": "https://www.infobae.com/teleshow/2026/10/21/la-reaccion-de-julieta-prandi-por-el-descargo-de-juan-alberto-mateyko-en-su-contra-tras-su-separacion-de-emanuel-ortega/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-21T03:21:25+00:00",
-     "copete": "Sebastián Waizer, amigo de la animadora, contó en Los profesionales de siempre la angustia que ella vivió por las críticas del conductor e íntimo amigo de la familia Ortega",
-     "id": "33553b648ba4"
-    },
-    {
-     "title": "El llamativo look de Wanda Nara en la presentación de su nueva película: diseño midi, escote y estampado con rosas",
-     "link": "https://www.infobae.com/teleshow/2026/10/21/el-llamativo-look-de-wanda-nara-en-la-presentacion-de-su-nueva-pelicula-diseno-midi-escote-y-estampado-con-rosas/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-21T03:12:16+00:00",
-     "copete": "La conductora y actriz asistió al estreno de “¿Quieres ser mi hijo?”, su primera película como protagonista",
-     "id": "b937808e1d97"
-    },
-    {
-     "title": "Dylan Sprouse, el actor de Zack y Cody: Gemelos en Acción, reveló que con su hermano Cole son “hijos del incesto”",
-     "link": "https://www.lanacion.com.ar/espectaculos/dylan-sprouse-el-actor-de-zack-y-cody-gemelos-en-accion-revelo-que-con-su-hermano-cole-son-hijos-del-nid20102026/",
+     "title": "Detuvieron en Tigre a un streamer acusado de pegarle a su novia: la discusión se transmitió en vivo",
+     "link": "https://www.lanacion.com.ar/espectaculos/detuvieron-en-tigre-a-un-streamer-acusado-de-pegarle-a-su-novia-la-discusion-se-transmitio-en-vivo-nid21102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-21T00:01:32+00:00",
-     "copete": "El exactor de Disney sorprendió al contar que una investigación sobre su árbol genealógico reveló inesperados vínculos familiares entre sus antepasados",
-     "id": "efa1927b5123"
+     "published": "2026-10-21T13:36:24+00:00",
+     "copete": "El uruguayo Santiago Quintana de León quedó imputado por lesiones agravadas tras ser denunciado por violencia de género",
+     "id": "34a4596e741f"
     },
     {
-     "title": "Murió el actor Antonio Grimau a los 82 años",
-     "link": "https://www.lanacion.com.ar/espectaculos/murio-el-actor-antonio-grimau-a-los-82-anos-nid20102026/",
+     "title": "U2 toca en River 2027: entradas desde $120.000, mapa de ubicaciones y todas las fechas de venta",
+     "link": "https://www.lanacion.com.ar/que-sale/u2-toca-en-river-2027-entradas-desde-120000-mapa-de-ubicaciones-y-todas-las-fechas-de-venta-nid16102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-20T23:59:09+00:00",
-     "copete": "La noticia fue confirmada por la Asociación Argentina de Actores; tuvo una amplia trayectoria que incluyó cine, teatro y televisión",
-     "id": "9e54bc6e2ea3"
+     "published": "2026-10-21T13:33:36+00:00",
+     "copete": "La banda irlandesa se presentará el 23 y 25 de marzo con Beck como invitado; habrá preventas antes de la venta general y cuotas sin interés",
+     "id": "ecd874b69804"
     },
     {
-     "title": "Ante la mejoría de Mirtha Legrand, Martín Llaryora propuso celebrar sus 100 años en el estadio Kempes",
-     "link": "https://www.lanacion.com.ar/politica/ante-la-mejoria-de-mirtha-legrand-martin-llaryora-propuso-celebrar-sus-100-anos-en-el-estadio-kempes-nid18102026/",
+     "title": "“La gente no se equivoca”: la frase de Eva Bargiela sobre las traiciones, ¿una indirecta para Facundo Moyano?",
+     "link": "https://www.infobae.com/teleshow/2026/10/21/la-gente-no-se-equivoca-la-frase-de-eva-bargiela-sobre-las-traiciones-una-indirecta-para-facundo-moyano/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-21T13:19:20+00:00",
+     "copete": "La modelo habló sobre la infidelidad y fue contundente: “Hay patrones que vos decidís tener y te definen esas actitudes”",
+     "id": "abc5e182264e"
+    },
+    {
+     "title": "Felipe Fort contó cómo nació la historia de amor con su novia: del desinterés inicial al gesto romántico que la conquistó",
+     "link": "https://www.lanacion.com.ar/espectaculos/felipe-fort-conto-como-nacio-su-historia-de-amor-con-su-novia-del-desinteres-inicial-al-gesto-nid21102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-20T23:59:06+00:00",
-     "copete": "El gobernador de Córdoba habló de la posibilidad de homenajear a la conductora por su próximo cumpleaños",
-     "id": "30575b95a496"
+     "published": "2026-10-21T13:17:08+00:00",
+     "copete": "El influencer estuvo en Tapados de laburo y dio detalles de su relación con la modelo Mary Di, con quien lleva tres meses; todos los detalles en la nota",
+     "id": "e292fc0582de"
     },
     {
-     "title": "El Festival de Cine de Mar del Plata anunció las 14 películas que competirán por el Astor de Oro",
-     "link": "https://www.clarin.com/espectaculos/festival-cine-mar-plata-anuncio-14-peliculas-competiran-astor-oro_0_sEveO33kX1.html",
+     "title": "El testimonio de Fabián Gianola luego de ser atropellado: “El conductor dijo que no estaba atento”",
+     "link": "https://www.infobae.com/teleshow/2026/10/21/el-testimonio-de-fabian-gianola-luego-de-ser-atropellado-el-conductor-dijo-que-no-estaba-atento/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-21T12:55:50+00:00",
+     "copete": "El actor terminaba de cruzar una calle en Saavedra cuando fue embestido por un vehículo y deberá ser intervenido quirúrgicamente. Su relato del accidente",
+     "id": "eaa358b136df"
+    },
+    {
+     "title": "Se entregan los Martín Fierro de Radio 2026: quiénes son los nominados y los detalles de la ceremonia",
+     "link": "https://www.infobae.com/teleshow/2026/10/21/se-entregan-los-martin-fierro-de-radio-2026-quienes-son-los-nominados-y-los-detalles-de-la-ceremonia/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-21T12:14:51+00:00",
+     "copete": "El evento comenzará este miércoles a las 20 con la alfombra roja y será transmitido por Infobae. Los conductores, las categorías y el deseo de llevarse el Oro al final de la noche",
+     "id": "332112ae4a3a"
+    },
+    {
+     "title": "El Ballet Contemporáneo del San Martín presenta una obra internacional creada para su elenco",
+     "link": "https://www.clarin.com/espectaculos/ballet-contemporaneo-san-martin-presenta-obra-internacional-creada-elenco_0_zzsouUwlOL.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-10-20T19:16:02+00:00",
-     "copete": "La muestra será del 5 al 15 de noviembre. \"Caballo salvaje nueve\" (\"Wild Horse Nine\"), de Martin McDonagh, será el filme de apertura. Homenajes a Alejandro Agresti, Emilio Kauderer y Natalia Oreiro.",
-     "id": "17770a2d3302"
+     "published": "2026-10-21T12:00:52+00:00",
+     "copete": "El Teatro San Martín presenta Paraíso perdido, una producción que explora la pérdida, los conflictos y sus consecuencias. Sus coreógrafos, Iratxe Ansa e Igor Bacovich, desarrollaron la pieza junto al elenco local. La función incluye…",
+     "id": "5a0212a0be8f"
     },
     {
-     "title": "Premios ACE 2026: todos los ganadores del teatro en una noche en la que el Oro fue para Ingrid Pelicori",
-     "link": "https://www.clarin.com/espectaculos/premios-ace-2026-ganadores-teatro-noche-oro-ingrid-pelicori_0_iw692BPmgK.html",
+     "title": "Ganó el premio mayor de Ahora Caigo y la reacción de su mamá conmovió al estudio: “Alguien que contenga a mi vieja”",
+     "link": "https://www.infobae.com/teleshow/2026/10/21/gano-el-premio-mayor-de-ahora-caigo-y-la-reaccion-de-su-mama-conmovio-al-estudio-alguien-que-contenga-a-mi-vieja/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-21T11:51:54+00:00",
+     "copete": "El participante sostuvo un buen desempeño durante todo el programa y se quedó con el pozo final. El conmovedor video",
+     "id": "009ec1c4f88a"
+    },
+    {
+     "title": "Helmut Ditsch buscó ocho años dónde dejar las cenizas de su esposa y lo hizo película: “El lugar gritó ‘soy la última morada’”",
+     "link": "https://www.infobae.com/teleshow/2026/10/18/helmut-ditsch-busco-ocho-anos-donde-dejar-las-cenizas-de-su-esposa-y-lo-hizo-pelicula-el-lugar-grito-soy-la-ultima-morada/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-21T11:26:27+00:00",
+     "copete": "El artista plástico argentino habló con Teleshow sobre su debut como cineasta, actor, productor y guionista con una autobiografía ficcionada llamada “Helmut. El hielo y la eternidad transitoria”, rodada en cinco países, financiada con la…",
+     "id": "9149f1f57e60"
+    },
+    {
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este miércoles 21 de octubre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-miercoles-21-de-octubre-de-2026-en-argentina_0_GS9yGB5ERQ.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-10-20T16:32:59+00:00",
-     "copete": "La actriz recibió la máxima distinción por su trabajo en \"La muerte de un viajante\", mientras que \"Hairspray\" se consagró como el musical más premiado. La ceremonia se realizó en el Teatro El Nacional y reunió a las principales figuras de…",
-     "id": "013070be0e47"
+     "published": "2026-10-21T10:15:03+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "7a0bc0bae522"
+    },
+    {
+     "title": "Víkingur Ólafsson, pianista de la Filarmónica de Berlín: “Hay que pensar el sonido como una pintura”",
+     "link": "https://www.clarin.com/espectaculos/vikingur-olafsson-pianista-filarmonica-berlin-pensar-sonido-pintura_0_eCaCbakTkT.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-10-21T09:00:54+00:00",
+     "copete": "Ólafsson, junto a Björk, son los artistas de Islandia más conocidos internacionalmente. La invitación a cenar con Martha Argerich que no fue.",
+     "id": "44ff332d99e8"
     }
    ]
   },
@@ -269,6 +286,13 @@
    "title": "Salidas en Buenos Aires",
    "mode": "titulares",
    "items": [
+    {
+     "title": "El fenómeno \"Frozen, el musical\" llegará a Buenos Aires con audiciones abiertas para Elsa",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaDhubmhmMzVpUU1tRmJLYVZVRnJVSDFMYVlUUUNENC10cVBNbzBKUkdDbjhIYzFPaHFXZG1WeUxCMm5Yd01iaUl5SVR1anRGVmJDMG9IdndBRFdNcWIzaW1ZWGdVNFZhV183bndRd3lETDN0cVEyNlVXNXc0bWtFRjVCdVF4a0lueU9QV3Y1ZG5FeTdPNVlwd2VYQ2NzdEZaU3lQeVowUDJYR1VITVQ5clg3Q2tobVZyckJCbVBRNjdEb2F2ejRfYVJ2ejhhQmczeE5aY9IB2gFBVV95cUxNa3NnQlZ0Q3lTeXZVRC16eDd4TGZmaGYzV1BqSG50ZS16cmw1OHNZRlhUaFd2WjF1cmVfT2hMNXRlcldueVp4Y3N2OWdpME9iZ291eURPU1FZUmZFZ0ZNeWtqalpGRDdNSlNhUmdDaEUyUlJtMi14ZWx4NDZBNjdPeHpUMUtyNGtIdzlQVGVwYWRJSGhpZGNGV0tRRUtzenBYcHdqZzRIaXFMd05NNS1lRVkxSGVRNTFTbUJYaDZ3RldHZWtuZDhsZ1I2SnNaQVA5a0FMY0taRjVKdw?oc=5",
+     "source": "Cadena 3 Argentina",
+     "published": "2026-10-21T12:39:59+00:00",
+     "id": "039796415b2c"
+    },
     {
      "title": "Frozen, el musical llega a Buenos Aires: buscan a Elsa para el estreno en el Gran Rex",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRG1pLWN6R3VmQVowSG5ESHNNcmNMZTRLOEYzblUtVkZlNzdpMDRlbDNxZEhWQTRyWkwxdHNrNmU5SmV4dXF3dE9SRnI5NE9TVjFOVlBQQlF5QnZjLU81YUpRbXBSOUN1RWMzc1dTRTI2eGE3Nl9MQVh5Y2ZDQmhLZ2xQX0tDVjVUcVF0VzVLUWJSbWdrdmxOYnBUSzZxeTRoVjVxS1FlTFJ5cXphTTZYbVJFRVbSAcgBQVVfeXFMTWxlejRsbjZNN2xjYmdyMHh1MlNobW8wYTZ4SmNnR2poVlRiQzFqYUpyRlo0aXliUnFWXzFOVVkwZVZfNVVKbVpHX1pfR09ZRm1CelZnb3Z1N2w0TTlaR3pDSXVmTmJYUWh1alhKX1M0M1E3ZUNJTEFBZmhyMkh2R2pIcVBaR2ZZU2JycTRHVExPMHFtSnh4R1lHZkk5SGViTFZtUFZFM0pGYU8yWE4tVFpGeE1QbWx5Q01SZkpsS28wLXk2RXlvT0M?oc=5",
@@ -289,13 +313,6 @@
      "source": "El Marplatense",
      "published": "2026-10-20T22:25:52+00:00",
      "id": "e08c38a8ab76"
-    },
-    {
-     "title": "\"Frozen, el musical\" llega por primera vez a Buenos Aires: cómo audicionar para interpretar a Elsa",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY0JRR283N1hlel9KXzJvRDNzcERWXzNXRF9xdW9LUW9kby00eWRTOTluN2QxeE9qTGNFOUN1X09Db24tbU1BbmJST0NQMjlDLWZ3WmtVZFppVC1ybUs5OXh1cGt0dVhUNmJOZzBRY2ItZUEwYWhfa2xBMWNEYVNLWWlQaDljLWZBb1Rmd05ueDh2c1hoTGRZZGJoOU9zOHEyLUFmQnZJQUVxM1Iwc3FLMXFhbV9CTzBseko0YjZzUm5rYU5tYnU5WlR0NWlibks0R3JEWVprcEs5anppTjdVeWw5SWxEdnNPV0RwNklUSV84eE13RlE?oc=5",
-     "source": "Minuto Neuquén",
-     "published": "2026-10-20T21:57:22+00:00",
-     "id": "83de539eb17f"
     },
     {
      "title": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
@@ -326,18 +343,18 @@
      "id": "df824ceb42b6"
     },
     {
-     "title": "Fin de semana fresco en Buenos Aires: sin lluvias, pero con nubes y mínimas de 7 grados",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXpFOVhOSXNfY3d4dE1DVW1uZGM4dWt5di1YX2RYampCd0s4SFZsN3JEdHVuTzc0WlF3VmJGZUstMTJCdjREdk5abk00YTEwSWszelBUZ0g2WWRQcFFGRDhpdWZqcUotMTFJYlc3WFh1TGd6UzByQlBoRkV2TGVRNFlTdjR6QTZEZmhlMXNiVUJ4Y2xNekRCZy1NRGNzWkZPcm1BbjZvekE3NUpYaDNKVkJ6Z0dEejA?oc=5",
-     "source": "estas informado",
-     "published": "2026-10-17T19:55:13+00:00",
-     "id": "dece51cadb1e"
-    },
-    {
      "title": "Agenda cultural bonaerense",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LVEZ1WEVYb1VNTngxT2ZNV29ZNENxbjJNamhUR19jczdVbVdWel9aV1JDMDMzR2xKX0t3ZWRxdUZIWnlla2xLLWhBSXBQU2VWOHh4UERrb2NadDJ5M1pXd1BCV1VLQi1KVnVRR1E4RlF5bFBF?oc=5",
      "source": "Página|12",
      "published": "2026-10-16T20:54:29+00:00",
      "id": "3fea95740e0b"
+    },
+    {
+     "title": "La Plata presenta una agenda cultural con propuestas artísticas y recorridos turísticos para el fin de semana",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSUhpS2dVSm1NWDZMdFo4enhjY0ZYdGlQcmZRdnVULXMxWEpfZmcya1U1MHE4TU52dXV6NVZzZUxtaTBSeEF3UW5pczhtcENzMjUwUXVYNTVQS3hKSjdqX01BZDAzN05rdlBaNlJGd2I1NEpxSzV6MDhVbUFTUmhWT1lqamJ4ZmR5amZFNldiNEVUdUlEZUt0ZDlsb1RRMUNYb1ZIdlpkU2IydnJMV3BiYVNJOUh3NXZWV1psLXUxZVRjZERYRnllcGgxWDRiUdIB0wFBVV95cUxQbkVXck9mSmg4dlhXLXlNT3NCNlB5bHhZMjB6b3AyUVo4NkxFVTF4Q2JyRUpyb3ZHQVZUQjVpRnNaNG9odmRjQWlER3BGT0Z0bE9HMG80YWt1SDJqYmExQ1dsWUdaS2g4V2dXVnR2RWQzc2hRUlIwbWQyX1FVNnlzR1VXT3I0S0RvQks0bVJuS0ZsU3VJYWQzNzVlZllQazBYbEgxN1JuSUxHdUZNOEFIN1M0eWlFNzlsVG5QOVpxblg4bFlqeXdKaXVuVUVvRG94ZElF?oc=5",
+     "source": "Turismo530",
+     "published": "2026-10-16T19:56:09+00:00",
+     "id": "7935a6ad0cdc"
     }
    ]
   },
@@ -347,84 +364,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La adolescente que mató a su vecina de nueve años para saber qué se sentía y después del crimen se fue a su clase de baile",
-     "link": "https://www.infobae.com/historias/2026/10/21/la-adolescente-que-mato-a-su-vecina-de-nueve-anos-para-saber-que-se-sentia-y-despues-del-crimen-se-fue-a-su-clase-de-baile/",
+     "title": "El Preferido y Cantina, los dos restaurantes argentinos premiados en los World Culinary Awards 2026: quiénes competían contra ellos",
+     "link": "https://www.lanacion.com.ar/que-sale/world-culinary-awards-2026-el-preferido-y-cantina-los-dos-restaurantes-argentinos-premiados-nid19102026/",
+     "source": "La Nación",
+     "published": "2026-10-21T13:51:57+00:00",
+     "copete": "Se trata de dos categorías nacionales diferentes; el primero fue elegido “mejor restaurante” de la Argentina entre seis nominados y el segundo, “mejor restaurante de hotel del país” entre ocho candidatos",
+     "id": "4e080cc3be7e"
+    },
+    {
+     "title": "El hospital romano que prescribe arte contra el cáncer: ruinas antiguas, música elegida por el paciente y la promesa de reavivar las ganas de vivir",
+     "link": "https://www.infobae.com/cultura/2026/10/21/el-hospital-romano-que-prescribe-arte-contra-el-cancer-ruinas-antiguas-musica-elegida-por-el-paciente-y-la-promesa-de-reavivar-las-ganas-de-vivir/",
      "source": "Infobae",
-     "published": "2026-10-21T07:42:46+00:00",
-     "copete": "Elizabeth Olten desapareció una tarde de octubre mientras iba a jugar con una vecina. Lo que los investigadores encontraron en el dormitorio de Alyssa Bustamante cambió el rumbo del caso",
-     "id": "4610813fe373"
+     "published": "2026-10-21T13:50:19+00:00",
+     "copete": "El programa Isola.ART suma exposiciones, recorridos por monumentos y proyecciones durante la radioterapia para acompañar a pacientes oncológicos en un hospital de la isla Tiberina",
+     "id": "1fb6e5851a92"
     },
     {
-     "title": "Nuevo informe de la ACLU sobre las redes que apoyan al ICE en EE.UU.: “La deportación masiva ha sido su arma predilecta”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/nuevo-informe-de-la-aclu-sobre-las-redes-que-apoyan-al-ice-en-eeuu-la-deportacion-masiva-ha-sido-su-nid21102026/",
+     "title": "U2 en River 2027: comenzó la preventa de entradas, precios y cómo comprarlas",
+     "link": "https://www.lanacion.com.ar/que-sale/u2-en-river-2027-comenzo-la-preventa-de-entradas-precios-y-como-comprarlas-nid21102026/",
      "source": "La Nación",
-     "published": "2026-10-21T07:41:00+00:00",
-     "copete": "Conoce las 76 denuncias de la ACLU sobre las deportaciones masivas en EE.UU.: qué revela del ICE, la vigilancia y la ciudadanía en 2026",
-     "id": "195b01784524"
+     "published": "2026-10-21T13:50:18+00:00",
+     "copete": "La banda irlandesa celebrará sus 50 años de trayectoria con dos conciertos en marzo y Beck como invitado; habrá seis cuotas sin interés con algunas tarjetas y la venta general comenzará este jueves",
+     "id": "90f84e9b267e"
     },
     {
-     "title": "Viajó a Córdoba por el Día de la Madre y murió tras recibir un tiro en la cabeza",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/21/viajo-a-cordoba-por-el-dia-de-la-madre-y-murio-tras-recibir-un-tiro-en-la-cabeza/",
+     "title": "PHP lanzó parches de emergencia para dos fallas críticas que amenazan a millones de sitios web",
+     "link": "https://www.infobae.com/tecno/2026/10/21/php-lanzo-parches-de-emergencia-para-dos-fallas-criticas-que-amenazan-a-millones-de-sitios-web/",
      "source": "Infobae",
-     "published": "2026-10-21T07:26:39+00:00",
-     "copete": "Dana Morena Sosa tenía 19 años, vivía en Salta y había regresado a su ciudad natal para reencontrarse con su familia. Investigan si la muerte se produjo en un contexto de robo",
-     "id": "68d01fe894be"
+     "published": "2026-10-21T13:50:04+00:00",
+     "copete": "Agencias de ciberseguridad de la Unión Europea, Reino Unido y Australia pidieron desconectar los sitios que no logren actualizarse a tiempo",
+     "id": "7be8e46efb73"
     },
     {
-     "title": "Apuñalaron a un hombre por la espalda en una comisaría de Chubut cuando buscaba refugio tras una pelea",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/21/apunalaron-a-un-hombre-por-la-espalda-en-una-comisaria-de-chubut-cuando-buscaba-refugio-tras-una-pelea/",
+     "title": "Elecciones en Brasil: la paridad entre Lula y Flávio Bolsonaro pone en juego la relación con Javier Milei",
+     "link": "https://www.infobae.com/politica/2026/10/21/elecciones-en-brasil-la-paridad-entre-lula-y-flavio-bolsonaro-pone-en-juego-la-relacion-con-javier-milei/",
      "source": "Infobae",
-     "published": "2026-10-21T07:14:22+00:00",
-     "copete": "La víctima había ingresado al edificio policial de la localidad de Trevelín para pedir ayuda luego de una pelea. Allí fue alcanzada por su perseguidor en la sala de espera",
-     "id": "56a767666639"
+     "published": "2026-10-21T13:48:56+00:00",
+     "copete": "El sociólogo Ariel Goldstein analizó la disputa entre los candidatos, las diferencias territoriales y el peso de las redes sociales y el voto evangélico, en una contienda que también puede redefinir el vínculo bilateral",
+     "id": "944adedab5b7"
     },
     {
-     "title": "Emisario de EEUU llega a Rusia para conversar con Putin sobre Ucrania",
-     "link": "https://www.clarin.com/estados-unidos/emisario-de-eeuu-llega-a-rusia-para-conversar-con-putin-sobre-ucrania_0_ZQvh0G75wo.html",
-     "source": "Clarín",
-     "published": "2026-10-21T07:10:09+00:00",
-     "copete": "El emisario de EE.UU. se reunió con líderes de Rusia y Ucrania para buscar una solución al conflicto en Ucrania, tras tensiones por acuerdos de combustible. Zelenski reclamó participación en negociaciones y criticó a EE.UU. por retrasos en…",
-     "id": "0e1a334e7181"
-    },
-    {
-     "title": "Baruch Spinoza, filósofo neerlandés: \"He procurado no reírme de las acciones humanas, ni deplorarlas ni odiarlas, sino comprenderlas\"",
-     "link": "https://www.clarin.com/internacional/baruch-spinoza-filosofo-neerlandes-procurado-reirme-acciones-humanas-deplorarlas-odiarlas-comprenderlas_0_bkQMM6HTKA.html",
-     "source": "Clarín",
-     "published": "2026-10-21T07:00:45+00:00",
-     "copete": "El filósofo del infinito y la libertad de pensamiento fue pionero en replantear el binomio \"cuerpo-alma\". De la censura de las obras del \"Príncipe de la inmanencia\" a la reivindicación de sus aportes.",
-     "id": "33832aabd4ee"
-    },
-    {
-     "title": "Dólar blue hoy: a cuánto cotiza este miércoles 21 de octubre",
-     "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-21-octubre_0_KepwflMpt1.html",
-     "source": "Clarín",
-     "published": "2026-10-21T07:00:09+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-     "id": "6dc773cf7303"
-    },
-    {
-     "title": "La frase de Epicuro que sirve como un mantra en la vida cotidiana: “Ser feliz es que no duela”",
-     "link": "https://www.lanacion.com.ar/sociedad/la-frase-de-epicuro-que-sirve-como-un-mantra-en-la-vida-cotidiana-ser-feliz-es-que-no-duela-nid21102026/",
+     "title": "Elisa Carrió cargó contra el Gobierno: “La recesión es enorme y algunas cosas me recuerdan demasiado al pasado”",
+     "link": "https://www.lanacion.com.ar/politica/elisa-carrio-cargo-contra-el-gobierno-la-recesion-es-enorme-y-algunas-cosas-me-recuerdan-demasiado-nid21102026/",
      "source": "La Nación",
-     "published": "2026-10-21T07:00:00+00:00",
-     "copete": "En una entrevista exclusiva para LA NACION, Darío Sztajnszrajber profundizó en el concepto de “sentirse realizado” y reflexionó sobre la filosofía",
-     "id": "dff948a93c3e"
+     "published": "2026-10-21T13:47:34+00:00",
+     "copete": "La referente de la Coalición Cívica cuestionó la posición del presidente Javier Milei y el ministro Luis Caputo; acusó a los funcionarios de estar “escondiendo algo”",
+     "id": "c03403e08157"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el presidente llamó a Lula “zurdo ladrón” días antes del balotaje en Brasil",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-llamo-a-lula-zurdo-ladron-dias-antes-del-balotaje-nid21102026/",
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 21 de octubre, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid21102026/",
      "source": "La Nación",
-     "published": "2026-10-21T06:57:02+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "6dc3b649c670"
+     "published": "2026-10-21T13:47:28+00:00",
+     "copete": "La divisa oficial opera a $1545 para la venta; mientras que el blue cotiza a $1565 para esa operación; qué pasó con el MEP y el CCL",
+     "id": "c87d6fa35df6"
     },
     {
-     "title": "Arruabarrena celebró la victoria de Boca y destacó la recuperación de Paredes: “El resultado me da la razón”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/arruabarrena-celebro-la-victoria-de-boca-y-destaco-la-recuperacion-de-paredes-el-resultado-me-da-la-nid21102026/",
-     "source": "La Nación",
-     "published": "2026-10-21T06:56:28+00:00",
-     "copete": "El entrenador xeneize ponderó el rendimiento del equipo ante Vasco da Gama y valoró la respuesta del capitán después de una semana marcada por las dudas sobre su estado físico",
-     "id": "67be24a909ae"
+     "title": "Desaparición de Nancy Godoy: detuvieron a dos nuevos sospechosos y ya se habla de un posible femicidio",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/10/21/corrientes-ordenaron-dos-nuevas-detenciones-en-la-causa-por-la-desaparicion-de-la-docente-nancy-godoy/",
+     "source": "Infobae",
+     "published": "2026-10-21T13:45:39+00:00",
+     "copete": "Se trata de Rosa Leguizamón, la mujer que vio por última vez a la maestra, y su pareja, Nahuel Rojas, ambos sospechados de encubrimiento. Ya son tres los arrestados",
+     "id": "5613638b7998"
+    },
+    {
+     "title": "Un falso Donald Trump preso baila y se pelea con la gente en un espectáculo callejero que sorprende en la capital de Irán",
+     "link": "https://www.clarin.com/mundo/falso-donald-trump-preso-baila-pelea-gente-espectaculo-callejero-sorprende-capital-iran_0_AwaSsdOMQ7.html",
+     "source": "Clarín",
+     "published": "2026-10-21T13:43:03+00:00",
+     "copete": "La instalación fue montada en la plaza Tajrish, en el corazón de Teherán, con un actor que representa al presidente de los Estados Unidos atrapado en una celda.",
+     "id": "f0570003c42d"
+    },
+    {
+     "title": "Un ladrón robó la propina de una cafetería, la empleada lo enfrentó con una cuchilla y lo obligó a devolver el dinero: “Igual te voy a dar de comer”",
+     "link": "https://www.clarin.com/policiales/ladron-robo-propina-cafeteria-empleada-enfrento-cuchilla-obligo-devolver-dinero-igual-voy-dar-comer_0_5q8oDlyyaz.html",
+     "source": "Clarín",
+     "published": "2026-10-21T13:43:02+00:00",
+     "copete": "El hecho ocurrió en un local del barrio porteño de Saavedra. Tras recuperar la plata, la vendedora le dio comida al joven que iba con un carrito de bebé.",
+     "id": "694a4592953f"
     }
    ]
   },
@@ -434,68 +451,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
-     "link": "https://www.bbc.com/mundo/articles/c65ynve23xj7o?at_medium=RSS&at_campaign=rss",
+     "title": "\"Me cambió la voz\": Selena Gomez revela cómo vapear nicotina la afectó y pide a sus fans que no lo hagan",
+     "link": "https://www.bbc.com/mundo/articles/ckr5yemlj14po?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-21T03:57:54+00:00",
-     "copete": "Mientras siguen las protestas en Francia, las cuentas del país empiezan a generar preocupación.",
-     "id": "d1e85c77f42d"
+     "published": "2026-10-21T12:42:19+00:00",
+     "copete": "La cantante de 34 años afirma que el vapeo de nicotina \"en grandes cantidades\" afectó permanentemente su voz.",
+     "id": "0a6f123b8e73"
     },
     {
-     "title": "La crisis de la deuda deja al Gobierno de Francia sin margen ante las reivindicaciones sociales",
-     "link": "https://elpais.com/internacional/2026-10-21/la-crisis-de-la-deuda-deja-al-gobierno-de-francia-sin-margen-ante-las-reivindicaciones-sociales.html",
+     "title": "Israel detiene en Cisjordania al candidato demócrata estadounidense Brad Lander",
+     "link": "https://elpais.com/internacional/2026-10-21/israel-detiene-en-cisjordania-a-brad-lander-candidato-democrata-al-congreso-estadounidense-y-aliado-de-mamdani.html",
      "source": "El País Internacional",
-     "published": "2026-10-21T03:40:00+00:00",
-     "copete": "Al creciente descontento ciudadano se une la desconfianza de los inversores en la solvencia del país, sobre todo tras los violentos choques del fin de semana",
-     "id": "3e6ae1e973cf"
+     "published": "2026-10-21T11:57:13+00:00",
+     "copete": "El político fue arrestado junto a varias decenas de estadounidenses e israelíes que apoyaban a los agricultores palestinos en la cosecha de la aceituna",
+     "id": "38fd0414c899"
     },
     {
-     "title": "Crece la presión diplomática para socorrer a la población ucrania de Oleshki, azotada por el hambre tras la ocupación rusa",
-     "link": "https://elpais.com/internacional/2026-10-21/crece-la-presion-diplomatica-para-socorrer-a-la-poblacion-ucrania-de-oleshki-azotada-por-el-hambre-tras-la-ocupacion-rusa.html",
-     "source": "El País Internacional",
-     "published": "2026-10-21T03:40:00+00:00",
-     "copete": "El Papa intercede entre Putin y Zelenski para lograr un alto el fuego y que sean evacuados los civiles de esta localidad y varias de los alrededores",
-     "id": "831b7a214148"
-    },
-    {
-     "title": "Las mujeres chinas buscan abrirse paso más allá de los roles tradicionales",
-     "link": "https://elpais.com/internacional/2026-10-21/las-mujeres-chinas-buscan-abrirse-paso-mas-alla-de-los-roles-tradicionales.html",
-     "source": "El País Internacional",
-     "published": "2026-10-21T03:40:00+00:00",
-     "copete": "Frente a la censura de contenidos feministas en internet, librerías, bares y cafeterías ofrecen espacios femeninos para compartir experiencias y cuestionar las desigualdades",
-     "id": "fcd965859149"
-    },
-    {
-     "title": "Melissa Parke, directora ejecutiva de ICAN: “El riesgo de una guerra nuclear nunca ha sido tan alto como ahora”",
-     "link": "https://elpais.com/internacional/2026-10-21/melissa-parke-directora-ejecutiva-de-ican-el-riesgo-de-una-guerra-nuclear-nunca-ha-sido-tan-alto-como-ahora.html",
-     "source": "El País Internacional",
-     "published": "2026-10-21T03:40:00+00:00",
-     "copete": "La especialista alerta sobre los peligros del uso bélico de la inteligencia artificial y desgrana el peso que tienen los arsenales atómicos en los principales conflictos internacionales",
-     "id": "11416361e007"
-    },
-    {
-     "title": "\"Empecé a consumir ketamina a los 14 años y a los 22 necesitaba pañales\"",
-     "link": "https://www.bbc.com/mundo/articles/cqlyeljpn3p8o?at_medium=RSS&at_campaign=rss",
+     "title": "\"Todavía no sabemos la magnitud real del daño\": el joven que diseñó un software para buscar a  desaparecidos en los terremotos en Venezuela",
+     "link": "https://www.bbc.com/mundo/articles/crx23yejwe1do?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-20T22:36:12+00:00",
-     "copete": "En los últimos dos años, Megan ha sufrido un dolor insoportable y ha sido incapaz de mantenerse erguida debido a su consumo de la droga.",
-     "id": "0c7fbb014157"
+     "published": "2026-10-21T11:26:12+00:00",
+     "copete": "Jorge Bastidas creó el portal Desaparecidos Terremoto Venezuela, una iniciativa ciudadana para reportar a los desaparecidos en los sismos, a falta de cifras del gobierno venezolano.",
+     "id": "47e1a1cdb20c"
     },
     {
-     "title": "La medusa \"inmortal\" capaz de rejuvenecer y cómo los secretos de sus células nos pueden ayudar a tratar enfermedades",
-     "link": "https://www.bbc.com/mundo/articles/cr0j0qqj57zeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-20T21:56:24+00:00",
-     "copete": "Una medusa \"inmortal\" es capaz de revertir su ciclo vital para volver a ser joven. Ahora los científicos investigan sus secretos con el fin de hallar formas para que las células humanas también puedan rejuvenecer.",
-     "id": "4279099170e9"
+     "title": "Rusia libera al estadounidense Stephen Hubbard en pleno acercamiento entre Trump y Putin",
+     "link": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html",
+     "source": "El País Internacional",
+     "published": "2026-10-21T11:10:45+00:00",
+     "copete": "El presidente ruso recibe este miércoles al enviado especial de Washington, Steve Witkoff, que lleva al Kremlin las últimas propuestas de paz de Ucrania",
+     "id": "b669cd0f9f11"
     },
     {
-     "title": "La actriz Christina Applegate revela que estuvo 5 años diagnosticada erróneamente con esclerosis múltiple",
-     "link": "https://www.bbc.com/mundo/articles/c9zrdpx7k0y7o?at_medium=RSS&at_campaign=rss",
+     "title": "Las imágenes de las fascinantes especies del nuevo atlas de las islas Galápagos",
+     "link": "https://www.bbc.com/mundo/articles/ck1wvglvpqyqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-20T21:30:21+00:00",
-     "copete": "En un episodio de su podcast publicado el martes, dijo que no estaba contenta con la noticia y que sus síntomas solo habían \"empeorado\".",
-     "id": "10c589abd766"
+     "published": "2026-10-21T10:33:41+00:00",
+     "copete": "El atlas te presenta más de 60 especies del archipiélago, sus interacciones y lo que aún no se sabe de ellas. También explica sus principales amenazas, desde las especies invasoras hasta el fenómeno de El Niño.",
+     "id": "c6cacd09a57f"
+    },
+    {
+     "title": "Italia sospecha que el caos de Milán no fue espontáneo y cree que un actor extranjero pudo agitar a los jóvenes",
+     "link": "https://elpais.com/internacional/2026-10-21/italia-sospecha-que-el-caos-de-milan-no-fue-espontaneo-y-cree-que-un-actor-extranjero-pudo-agitar-a-los-jovenes.html",
+     "source": "El País Internacional",
+     "published": "2026-10-21T10:30:49+00:00",
+     "copete": "Los servicios de inteligencia trazan un paralelismo con lo sucedido en Ceuta y el juez a cargo considera que hubo “un proyecto preciso de desestabilización del orden público”",
+     "id": "0fcb61eb2b15"
+    },
+    {
+     "title": "A pesar de un renovado optimismo, ¿puede Zelenski seguir considerando a Trump como un aliado en la guerra contra Rusia?",
+     "link": "https://www.bbc.com/mundo/articles/cm0rl0e9ejv2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-21T10:19:07+00:00",
+     "copete": "Es poco probable que el abrazo del líder ucraniano con Steve Witkoff en la capital noruega disipe las dudas sobre la política estadounidense hacia su país, escribe Paul Adams.",
+     "id": "257d95e3d29f"
+    },
+    {
+     "title": "La IA convierte las ‘midterms’ en un gran laboratorio electoral",
+     "link": "https://elpais.com/us/2026-10-21/la-ia-convierte-las-midterms-en-un-gran-laboratorio-electoral.html",
+     "source": "El País Internacional",
+     "published": "2026-10-21T09:30:00+00:00",
+     "copete": "El riesgo ya no son solo los bulos tradicionales, sino la automatización a gran escala de la manipulación política",
+     "id": "9cfb36db7e8a"
     }
    ]
   }
@@ -509,11 +526,6 @@
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "NEJM Oncología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]
