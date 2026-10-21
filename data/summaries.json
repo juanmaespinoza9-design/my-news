@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-20T22:12:14Z",
+  "generated_at": "2026-10-21T10:13:27Z",
   "summaries": {
-    "13e64910d625": {
-      "resumen": "OncLive reporta actividad clínica de casdatifan, un fármaco en investigación, en pacientes con carcinoma de células claras renal (ccRCC, la variante más frecuente del cáncer de riñón) avanzado. Vale la pena seguirlo porque podría sumar una opción más en una enfermedad donde las alternativas terapéuticas siguen siendo limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trataría de resultados de un ensayo clínico (probablemente de fase temprana); sin el abstract no se puede precisar la fase exacta, la aleatorización ni el número de centros o pacientes.\nPoblación: Pacientes con carcinoma de células claras renal (ccRCC) avanzado.\nIntervención: Casdatifan, sin comparador aclarado en el título.\nResultados: El título solo indica que el fármaco \"demuestra actividad\", sin cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni la robustez estadística de los resultados.\nMensaje: Una señal de actividad temprana es alentadora pero preliminar; se necesitará más evidencia en fases avanzadas y comparación con el estándar antes de cambiar la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "906ed051dc1a": {
-      "resumen": "Artículo de OncLive sobre los criterios clínicos para elegir un inhibidor de punto de control inmunitario (ICI, immune checkpoint inhibitor) en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer): el nivel de expresión de PD-L1 (ligando de muerte celular programada 1), la histología tumoral y el perfil de seguridad. Es una guía práctica de selección de tratamiento, no el reporte de un estudio nuevo.",
-      "destacado": false
-    },
     "2db74b7f5a4c": {
       "resumen": "The ASCO Post reporta el desarrollo de un modelo de inteligencia artificial (IA) que, a partir del análisis de imágenes faciales, estima la edad biológica y el riesgo de mortalidad en pacientes con cáncer. Interesa porque podría ofrecer una herramienta rápida y no invasiva para estratificar riesgo más allá de la edad cronológica.",
       "destacado": false,
@@ -21,10 +12,6 @@
     },
     "f20e262a6c2a": {
       "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de vía rápida (Fast Track) a la combinación de QTX3034 más cetuximab para el cáncer colorrectal (CRC) con mutación KRAS G12D. Es una designación regulatoria que agiliza el desarrollo del fármaco, no la aprobación definitiva ni el reporte de resultados de eficacia.",
-      "destacado": false
-    },
-    "afc062cc1015": {
-      "resumen": "Nota de The ASCO Post sobre el rol de los centros de oncología comunitaria en acercar los avances en diagnóstico y tratamiento del cáncer a los pacientes fuera de los grandes centros académicos. Es un artículo institucional sobre acceso a la atención, no el reporte de un estudio.",
       "destacado": false
     },
     "ab30b907a56a": {
@@ -51,41 +38,8 @@
     "bda708bae65c": {
       "resumen": "La colección primavera 2027 de Mikio Sakabe en la Semana de la Moda de Tokio."
     },
-    "3e7c45a99e99": {
-      "resumen": "El nuevo hotel y residencias Four Seasons en Cartagena, Colombia, que se presenta como una parada imperdible."
-    },
-    "e4ae9176b7be": {
-      "resumen": "Los zapatos de tacón grueso se consolidan como el calzado elegante clave para el otoño 2026, según Vogue México."
-    },
-    "d2d93dd65d24": {
-      "resumen": "El corte de cabello shaggy que luce el actor Jacob Elordi se impone como el peinado masculino de referencia para el otoño 2026."
-    },
-    "0551d3e93109": {
-      "resumen": "ELLE selecciona siete vestidos de tendencia otoño en rebaja en El Corte Inglés, ideales para el entretiempo."
-    },
-    "4be9543756ad": {
-      "resumen": "Las tendencias de calzado de otoño-invierno 2026 que toman como referencia el estilo de Salma Hayek."
-    },
-    "6581391dad4f": {
-      "resumen": "Una experta en decoración enumera tres tendencias de diseño de interiores que, según ella, nunca pasarán de moda."
-    },
-    "525a8ce07c43": {
-      "resumen": "Indie Hoy cubre una propuesta vinculada al videojuego Undertale que llega a la Argentina."
-    },
-    "a5fbf21fb1e3": {
-      "resumen": "El musical Frozen debutará por primera vez en Buenos Aires y ya se abren las audiciones para elegir a la actriz que interprete a Elsa."
-    },
-    "b85c961c09b3": {
-      "resumen": "El coro La Coral Guadix de Buenos Aires se presenta este miércoles en el Teatro Mira de Amescua, en la Ciudad Episcopal de Guadix, España."
-    },
-    "237ad049f0db": {
-      "resumen": "El musical Frozen llegará por primera vez a la Argentina; TN detalla la fecha de estreno y cómo anotarse al casting para interpretar a Elsa."
-    },
     "e1a15b92c908": {
       "resumen": "Infobae relata la experiencia de un comensal en uno de los bodegones más destacados de Palermo, que pidió un almuerzo para seis personas y mostró cuánto gastó."
-    },
-    "ae27e21cc542": {
-      "resumen": "La Guía Michelin quedó bajo la lupa luego de distinguir restaurantes que ya habían cerrado y de tener que corregir un error de ubicación en Buenos Aires."
     },
     "ab4e5fcd222b": {
       "resumen": "Una guía de qué hacer un fin de semana en Mercedes, con pulperías, comida de campo y paseos al aire libre."
@@ -98,6 +52,52 @@
     },
     "3fea95740e0b": {
       "resumen": "Página|12 presenta la agenda cultural de la provincia de Buenos Aires."
+    },
+    "4de93e0e52bc": {
+      "resumen": "The ASCO Post reporta resultados de un ensayo con terapia de linfocitos T con receptor de antígeno quimérico (CAR-T) bivalente -dirigida a dos antígenos tumorales a la vez- en pacientes con glioblastoma recurrente, uno de los tumores cerebrales más agresivos. No se observó toxicidad diferida y los datos de supervivencia son promisorios. Interesa porque las opciones terapéuticas en glioblastoma recurrente siguen siendo muy limitadas.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trataría de un ensayo clínico, probablemente de fase temprana (I o I/II), que evalúa una terapia CAR-T bivalente; sin el abstract no se puede precisar la aleatorización, el cegado ni el número de centros o pacientes.\nPoblación: Pacientes con glioblastoma recurrente (tumor cerebral primario de alto grado que progresa tras el tratamiento inicial).\nIntervención: Infusión de linfocitos T con receptor de antígeno quimérico (CAR) bivalente, diseñado para reconocer dos antígenos tumorales simultáneamente; no se aclara comparador en el título.\nResultados: El título solo indica ausencia de toxicidad diferida (eventos adversos tardíos) y una supervivencia \"promisoria\", sin cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Los ensayos tempranos con CAR-T suelen incluir pocos pacientes y no tienen grupo comparador, por lo que la señal de eficacia necesita confirmarse en cohortes más grandes y con mayor seguimiento.\nMensaje: Si se confirma la seguridad a largo plazo y la señal de eficacia, podría abrir una vía terapéutica nueva para el glioblastoma recurrente, pero por ahora es evidencia preliminar que no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
+    "c66246edeb9c": {
+      "resumen": "OncLive repasa cómo las nuevas aprobaciones de terapias de mantenimiento para cáncer de mama con sobreexpresión de HER2 (receptor 2 del factor de crecimiento epidérmico humano) y los avances en el manejo de las metástasis cerebrales están cambiando el abordaje de la enfermedad. Es una nota de panorama general del campo, no el reporte de un estudio puntual, pero ayuda a entender hacia dónde va el tratamiento de esta población.",
+      "destacado": false
+    },
+    "4933912f6120": {
+      "resumen": "Entrevista de OncLive a la Dra. Margol sobre cuál sería el flujo diagnóstico óptimo para el glioma de bajo grado pediátrico, uno de los tumores cerebrales más frecuentes en niños. Es una nota de opinión experta sobre práctica clínica, no el reporte de un estudio nuevo, pero resulta útil para entender cómo se encara el diagnóstico en la práctica real.",
+      "destacado": false
+    },
+    "c485312a1299": {
+      "resumen": "A los 46 años, Kim Kardashian se consolidó como una referencia tanto en la moda urbana como en la alta costura."
+    },
+    "f6a2e97b9ee5": {
+      "resumen": "Telva repasa cuáles son las tendencias de la temporada de otoño que mejor están funcionando ahora que el clima otoñal ya se instaló."
+    },
+    "60a22ee1b51e": {
+      "resumen": "La tendencia de maquillaje viral que impulsó Zendaya este otoño propone prescindir de la máscara de pestañas sin que la mirada luzca cansada o triste."
+    },
+    "db19436de3d6": {
+      "resumen": "Vogue México explica cómo combinar la joyería cuando el look incluye varias capas de ropa, algo habitual en los días de otoño."
+    },
+    "c4b063d1f39b": {
+      "resumen": "La casa Carolina Herrera celebra sus 45 años con una conmemoración de la que forman parte doce mujeres destacadas."
+    },
+    "2d68ee77bfb0": {
+      "resumen": "Los vestidos de manga larga combinados con botas altas se perfilan como la apuesta elegante y abrigada del otoño 2026."
+    },
+    "44fd5a83ff26": {
+      "resumen": "El musical Frozen debuta en Buenos Aires y ya se abrió la búsqueda de la actriz que interprete a Elsa para el estreno en el Gran Rex."
+    },
+    "93587ff1cbf8": {
+      "resumen": "Página|12 propone una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "e08c38a8ab76": {
+      "resumen": "El musical Hairspray se destacó en los Premios ACE antes de iniciar su temporada en el Teatro Tronador BNA."
+    },
+    "83de539eb17f": {
+      "resumen": "Frozen, el musical debuta por primera vez en Buenos Aires y se explica cómo presentarse al casting para interpretar a Elsa."
+    },
+    "df824ceb42b6": {
+      "resumen": "Por el Día Mundial del Pan, un repaso de tres restaurantes de la Ciudad de Buenos Aires que elaboran su propio pan."
     }
   }
 }
