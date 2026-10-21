@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-10-21T10:13:27Z",
+  "generated_at": "2026-10-21T22:12:40Z",
   "summaries": {
-    "2db74b7f5a4c": {
-      "resumen": "The ASCO Post reporta el desarrollo de un modelo de inteligencia artificial (IA) que, a partir del análisis de imágenes faciales, estima la edad biológica y el riesgo de mortalidad en pacientes con cáncer. Interesa porque podría ofrecer una herramienta rápida y no invasiva para estratificar riesgo más allá de la edad cronológica.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trataría de un estudio de desarrollo y validación de un modelo de inteligencia artificial (IA) a partir de imágenes faciales; sin el abstract no se puede precisar si fue retrospectivo o prospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer (tipo tumoral no especificado en el título).\nIntervención: Aplicación de un algoritmo de IA basado en imágenes faciales para estimar edad biológica y riesgo de mortalidad, presumiblemente comparado contra la edad cronológica u otros marcadores de fragilidad.\nResultados: El título solo indica que el modelo \"estima\" edad biológica y riesgo de mortalidad, sin métricas de desempeño (c-index, sensibilidad, especificidad) disponibles sin el abstract.\nLimitaciones: Los modelos de IA basados en imágenes suelen requerir validación externa en poblaciones diversas y son sensibles a sesgos de la cohorte de entrenamiento; sin el abstract no se puede evaluar esto.\nMensaje: Si se valida, una herramienta así podría complementar la evaluación geriátrica u oncológica del riesgo, pero por ahora es una prueba de concepto.\nNota: análisis sin acceso al abstract."
-    },
-    "5a16ba82a641": {
-      "resumen": "Perfil de The ASCO Post a la Dra. Claudia Henschke, investigadora pionera en la detección temprana del cáncer de pulmón mediante tomografía computada de baja dosis. Es una nota biográfica y de trayectoria, no el reporte de un estudio nuevo.",
-      "destacado": false
-    },
-    "f20e262a6c2a": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) otorgó la designación de vía rápida (Fast Track) a la combinación de QTX3034 más cetuximab para el cáncer colorrectal (CRC) con mutación KRAS G12D. Es una designación regulatoria que agiliza el desarrollo del fármaco, no la aprobación definitiva ni el reporte de resultados de eficacia.",
-      "destacado": false
-    },
     "ab30b907a56a": {
       "resumen": "Estudio del Journal of Clinical Oncology (JCO) que evalúa la asociación entre el nivel de eosinófilos circulantes (un tipo de glóbulo blanco) y la activación inmunitaria sistémica con la recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano, HR+/HER2-). Interesa porque explora un biomarcador simple y accesible como señal pronóstica.",
       "destacado": false,
@@ -32,72 +19,94 @@
       "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre las promesas y los desafíos del cribado personalizado de cáncer de pulmón. Es un comentario de opinión experta, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "5d22c4e2a7ef": {
-      "resumen": "La colección primavera 2027 de Francisco Cancino en la Semana de la Moda de México."
-    },
-    "bda708bae65c": {
-      "resumen": "La colección primavera 2027 de Mikio Sakabe en la Semana de la Moda de Tokio."
-    },
     "e1a15b92c908": {
       "resumen": "Infobae relata la experiencia de un comensal en uno de los bodegones más destacados de Palermo, que pidió un almuerzo para seis personas y mostró cuánto gastó."
     },
     "ab4e5fcd222b": {
       "resumen": "Una guía de qué hacer un fin de semana en Mercedes, con pulperías, comida de campo y paseos al aire libre."
     },
-    "95b7dfff4778": {
-      "resumen": "Los restaurantes argentinos El Preferido y Cantina fueron premiados en los World Culinary Awards 2026."
-    },
-    "dece51cadb1e": {
-      "resumen": "El fin de semana en Buenos Aires viene fresco, sin lluvias, con nubes y mínimas de 7 grados."
-    },
     "3fea95740e0b": {
       "resumen": "Página|12 presenta la agenda cultural de la provincia de Buenos Aires."
-    },
-    "4de93e0e52bc": {
-      "resumen": "The ASCO Post reporta resultados de un ensayo con terapia de linfocitos T con receptor de antígeno quimérico (CAR-T) bivalente -dirigida a dos antígenos tumorales a la vez- en pacientes con glioblastoma recurrente, uno de los tumores cerebrales más agresivos. No se observó toxicidad diferida y los datos de supervivencia son promisorios. Interesa porque las opciones terapéuticas en glioblastoma recurrente siguen siendo muy limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trataría de un ensayo clínico, probablemente de fase temprana (I o I/II), que evalúa una terapia CAR-T bivalente; sin el abstract no se puede precisar la aleatorización, el cegado ni el número de centros o pacientes.\nPoblación: Pacientes con glioblastoma recurrente (tumor cerebral primario de alto grado que progresa tras el tratamiento inicial).\nIntervención: Infusión de linfocitos T con receptor de antígeno quimérico (CAR) bivalente, diseñado para reconocer dos antígenos tumorales simultáneamente; no se aclara comparador en el título.\nResultados: El título solo indica ausencia de toxicidad diferida (eventos adversos tardíos) y una supervivencia \"promisoria\", sin cifras de supervivencia global, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Los ensayos tempranos con CAR-T suelen incluir pocos pacientes y no tienen grupo comparador, por lo que la señal de eficacia necesita confirmarse en cohortes más grandes y con mayor seguimiento.\nMensaje: Si se confirma la seguridad a largo plazo y la señal de eficacia, podría abrir una vía terapéutica nueva para el glioblastoma recurrente, pero por ahora es evidencia preliminar que no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "c66246edeb9c": {
-      "resumen": "OncLive repasa cómo las nuevas aprobaciones de terapias de mantenimiento para cáncer de mama con sobreexpresión de HER2 (receptor 2 del factor de crecimiento epidérmico humano) y los avances en el manejo de las metástasis cerebrales están cambiando el abordaje de la enfermedad. Es una nota de panorama general del campo, no el reporte de un estudio puntual, pero ayuda a entender hacia dónde va el tratamiento de esta población.",
-      "destacado": false
-    },
-    "4933912f6120": {
-      "resumen": "Entrevista de OncLive a la Dra. Margol sobre cuál sería el flujo diagnóstico óptimo para el glioma de bajo grado pediátrico, uno de los tumores cerebrales más frecuentes en niños. Es una nota de opinión experta sobre práctica clínica, no el reporte de un estudio nuevo, pero resulta útil para entender cómo se encara el diagnóstico en la práctica real.",
-      "destacado": false
-    },
-    "c485312a1299": {
-      "resumen": "A los 46 años, Kim Kardashian se consolidó como una referencia tanto en la moda urbana como en la alta costura."
-    },
-    "f6a2e97b9ee5": {
-      "resumen": "Telva repasa cuáles son las tendencias de la temporada de otoño que mejor están funcionando ahora que el clima otoñal ya se instaló."
-    },
-    "60a22ee1b51e": {
-      "resumen": "La tendencia de maquillaje viral que impulsó Zendaya este otoño propone prescindir de la máscara de pestañas sin que la mirada luzca cansada o triste."
-    },
-    "db19436de3d6": {
-      "resumen": "Vogue México explica cómo combinar la joyería cuando el look incluye varias capas de ropa, algo habitual en los días de otoño."
-    },
-    "c4b063d1f39b": {
-      "resumen": "La casa Carolina Herrera celebra sus 45 años con una conmemoración de la que forman parte doce mujeres destacadas."
-    },
-    "2d68ee77bfb0": {
-      "resumen": "Los vestidos de manga larga combinados con botas altas se perfilan como la apuesta elegante y abrigada del otoño 2026."
-    },
-    "44fd5a83ff26": {
-      "resumen": "El musical Frozen debuta en Buenos Aires y ya se abrió la búsqueda de la actriz que interprete a Elsa para el estreno en el Gran Rex."
     },
     "93587ff1cbf8": {
       "resumen": "Página|12 propone una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
     },
-    "e08c38a8ab76": {
-      "resumen": "El musical Hairspray se destacó en los Premios ACE antes de iniciar su temporada en el Teatro Tronador BNA."
+    "6760c925373b": {
+      "resumen": "OncLive repasa cómo las innovaciones terapéuticas recientes se están traduciendo en una atención más personalizada para el mieloma múltiple, un cáncer de las células plasmáticas de la médula ósea. Es una nota de panorama/opinión experta sobre el estado del campo, no el reporte de un estudio puntual, pero ayuda a entender hacia dónde va el tratamiento de esta enfermedad.",
+      "destacado": false
     },
-    "83de539eb17f": {
-      "resumen": "Frozen, el musical debuta por primera vez en Buenos Aires y se explica cómo presentarse al casting para interpretar a Elsa."
+    "58ca88ba298c": {
+      "resumen": "The ASCO Post (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica) reporta que las revisiones de casos realizadas por expertos a distancia (remote expert case reviews) detectaron oportunidades concretas para mejorar la atención oncológica y reducir costos. Interesa porque sugiere que una segunda opinión especializada remota puede optimizar decisiones de tratamiento sin encarecer el sistema de salud.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trataría de un estudio de evaluación de programa o cohorte retrospectiva sobre un esquema de revisión de casos por expertos a distancia; sin el abstract no se puede precisar la cantidad de centros, de pacientes ni el período analizado.\nPoblación: Pacientes oncológicos cuyos casos fueron derivados a revisión experta remota (tipo tumoral no especificado en el título).\nIntervención: Revisión de casos por especialistas a distancia (remote expert case review), comparada presumiblemente contra la conducta terapéutica inicial o habitual del equipo tratante.\nResultados: El título indica que se identificaron oportunidades de mejora en la atención y de reducción de costos, pero no hay cifras (proporción de casos modificados, ahorro estimado) disponibles sin el abstract.\nLimitaciones: Los estudios de este tipo suelen ser retrospectivos y no aleatorizados, por lo que es difícil aislar el efecto de la revisión remota de otros factores; falta de datos de impacto clínico duro (supervivencia, calidad de vida).\nMensaje: Si se confirma el beneficio, los programas de segunda opinión remota podrían incorporarse como herramienta de calidad y control de costos, pero por ahora el hallazgo es descriptivo.\nNota: análisis sin acceso al abstract."
     },
-    "df824ceb42b6": {
-      "resumen": "Por el Día Mundial del Pan, un repaso de tres restaurantes de la Ciudad de Buenos Aires que elaboran su propio pan."
+    "1dbb14322acf": {
+      "resumen": "Ensayo clínico de fase III (RT CHARM) presentado en The ASCO Post que respalda un esquema más corto de radioterapia postmastectomía en pacientes que se reconstruyeron la mama. Interesa porque acortar el tratamiento radiante sin perder seguridad ni eficacia podría mejorar la calidad de vida de estas pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (RT CHARM); sin el abstract no se puede precisar el cegado, la cantidad de centros ni el número exacto de pacientes incluidos.\nPoblación: Pacientes con cáncer de mama sometidas a mastectomía con reconstrucción mamaria, candidatas a radioterapia adyuvante postmastectomía.\nIntervención: Esquema acortado (hipofraccionado) de radioterapia postmastectomía frente al esquema convencional de fraccionamiento estándar, en pacientes reconstruidas.\nResultados: El título indica que el esquema más corto fue respaldado por los datos del ensayo, pero no se dispone de cifras del desenlace principal (control locorregional, complicaciones de la reconstrucción, toxicidad) sin el abstract completo.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la tasa de complicaciones de la reconstrucción a largo plazo ni la potencia estadística del estudio.\nMensaje: Si se confirma, un esquema más corto de radioterapia postmastectomía podría convertirse en una opción estándar para pacientes reconstruidas, reduciendo la carga del tratamiento.\nNota: análisis sin acceso al abstract."
+    },
+    "36424ec5993d": {
+      "resumen": "OncLive aborda los desafíos de llevar a la práctica real los tratamientos oncológicos que demostraron eficacia en ensayos clínicos, por ejemplo en términos de acceso, logística y selección de pacientes. Es una nota de opinión/panorama sobre implementación clínica, no el reporte de un estudio puntual.",
+      "destacado": false
+    },
+    "526c215ce59e": {
+      "resumen": "La autoridad regulatoria de China otorgó la designación de terapia innovadora (breakthrough therapy) a la combinación de lisaftoclax más acalabrutinib para pacientes sin tratamiento previo con leucemia linfocítica crónica o linfoma linfocítico de células pequeñas (LLC/LLPC, CLL/SLL por sus siglas en inglés). Es una designación regulatoria que agiliza el desarrollo del fármaco, no el reporte de resultados de eficacia.",
+      "destacado": false
+    },
+    "3bd5c6f3a5f9": {
+      "resumen": "The ASCO Post difunde el pedido de expertos de mejorar el reporte de la calidad de vida en los ensayos clínicos de tratamiento adyuvante del cáncer (terapia administrada después del tratamiento principal para reducir el riesgo de recaída). Es una nota de opinión/llamado a la acción, no el reporte de un estudio nuevo, pero marca una discusión metodológica relevante para interpretar futuros ensayos.",
+      "destacado": false
+    },
+    "8c04c933b447": {
+      "resumen": "Artículo del New England Journal of Medicine (NEJM) sobre los tratamientos sin quimioterapia para la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (LLA Ph+, un subtipo de leucemia con una alteración genética específica). Por el título y su ubicación junto a un estudio comparativo en el mismo número, parece un comentario o perspectiva editorial, no el reporte de un estudio nuevo.",
+      "destacado": false
+    },
+    "82c51f5b5c44": {
+      "resumen": "Ensayo clínico publicado en el New England Journal of Medicine (NEJM) que compara el esquema ponatinib-blinatumomab (sin quimioterapia) frente a imatinib más quimioterapia convencional en adultos con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (LLA Ph+). Interesa porque explora si se puede evitar la quimioterapia intensiva en este subtipo de leucemia sin perder eficacia.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico comparativo, probablemente aleatorizado, publicado en el New England Journal of Medicine; sin el abstract no se puede precisar el cegado, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Adultos con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (LLA Ph+), probablemente de diagnóstico reciente.\nIntervención: Esquema ponatinib (inhibidor de tirosina-quinasa) más blinatumomab (anticuerpo biespecífico) sin quimioterapia, comparado contra imatinib (otro inhibidor de tirosina-quinasa) combinado con quimioterapia convencional.\nResultados: El título indica una comparación directa entre ambos esquemas, pero no hay cifras de supervivencia global, supervivencia libre de eventos ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la tasa de toxicidad de cada brazo ni si el diseño permite concluir superioridad o solo no inferioridad.\nMensaje: Si el esquema libre de quimioterapia demuestra resultados comparables o superiores, podría cambiar el estándar de tratamiento en LLA Ph+ reduciendo la toxicidad asociada a la quimioterapia intensiva.\nNota: análisis sin acceso al abstract."
+    },
+    "c287422fb0d1": {
+      "resumen": "La colección primavera 2027 ready-to-wear de la marca australiana Romance Was Born, presentada en Vogue."
+    },
+    "53a50b5cd1ff": {
+      "resumen": "La colección primavera 2027 del diseñador Alfredo Martínez, presentada en la Semana de la Moda de México."
+    },
+    "22c63d002f02": {
+      "resumen": "Vogue México detalla cuál es el diseño de uñas cortas ideal para mujeres de más de 50 años, distinto de las clásicas milky nails o el esmalte rojo."
+    },
+    "291eb14dafe9": {
+      "resumen": "Vogue México recopila 15 diseños de uñas bicolor que serán tendencia este otoño 2026."
+    },
+    "65f50072c5e0": {
+      "resumen": "Kendall Jenner cuenta en Vogue México los pasos de su rutina de belleza (skincare) coreana."
+    },
+    "6fe0b28896d2": {
+      "resumen": "HOLA selecciona seis pendientes (aros) de tendencia para este otoño, de marcas como Aristocrazy a VIDAL & VIDAL."
+    },
+    "78935ce796b9": {
+      "resumen": "El estilista Jesús de Paula explica en Mujerhoy cuáles son los cortes de pelo de la temporada, con capas y desfilado en la zona frontal."
+    },
+    "3c31a2a60e83": {
+      "resumen": "La Razón reúne los trucos de una estilista para lograr looks juveniles y llenos de energía a cualquier edad."
+    },
+    "9b166382a82f": {
+      "resumen": "«Esperando a Godot» se estrena en el Teatro Alvear, según La Vereda."
+    },
+    "dcfa96259133": {
+      "resumen": "El baterista Marky Ramone llegará a la Argentina en 2027 para tocar en el Teatro Flores de Buenos Aires: precios y fecha, según El Destape."
+    },
+    "dc146cbd96d0": {
+      "resumen": "Charly García cumple 75 años y Crónica repasa los recitales y actividades gratuitas para homenajearlo."
+    },
+    "3f9ca6746801": {
+      "resumen": "Infobae cuenta cómo fue la noche libre de la cantante Aitana en Palermo: cena con amigos y un gesto hacia sus fans."
+    },
+    "b29f18f49996": {
+      "resumen": "Clarín informa que dos restaurantes de Buenos Aires fueron premiados como los mejores del país en los World Culinary Awards 2026."
+    },
+    "039796415b2c": {
+      "resumen": "El musical Frozen llegará a Buenos Aires y Cadena 3 Argentina cuenta que ya se abrieron las audiciones para el papel de Elsa."
     }
   }
 }
