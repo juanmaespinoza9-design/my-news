@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:12:40Z",
+  "generated_at": "2026-10-22T10:11:21Z",
   "summaries": {
     "ab30b907a56a": {
       "resumen": "Estudio del Journal of Clinical Oncology (JCO) que evalúa la asociación entre el nivel de eosinófilos circulantes (un tipo de glóbulo blanco) y la activación inmunitaria sistémica con la recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano, HR+/HER2-). Interesa porque explora un biomarcador simple y accesible como señal pronóstica.",
@@ -19,9 +19,6 @@
       "resumen": "Artículo de perspectiva del Journal of Clinical Oncology (JCO, revista oficial de la American Society of Clinical Oncology o ASCO, Sociedad Americana de Oncología Clínica) sobre las promesas y los desafíos del cribado personalizado de cáncer de pulmón. Es un comentario de opinión experta, no el reporte de un estudio nuevo.",
       "destacado": false
     },
-    "e1a15b92c908": {
-      "resumen": "Infobae relata la experiencia de un comensal en uno de los bodegones más destacados de Palermo, que pidió un almuerzo para seis personas y mostró cuánto gastó."
-    },
     "ab4e5fcd222b": {
       "resumen": "Una guía de qué hacer un fin de semana en Mercedes, con pulperías, comida de campo y paseos al aire libre."
     },
@@ -30,10 +27,6 @@
     },
     "93587ff1cbf8": {
       "resumen": "Página|12 propone una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
-    },
-    "6760c925373b": {
-      "resumen": "OncLive repasa cómo las innovaciones terapéuticas recientes se están traduciendo en una atención más personalizada para el mieloma múltiple, un cáncer de las células plasmáticas de la médula ósea. Es una nota de panorama/opinión experta sobre el estado del campo, no el reporte de un estudio puntual, pero ayuda a entender hacia dónde va el tratamiento de esta enfermedad.",
-      "destacado": false
     },
     "58ca88ba298c": {
       "resumen": "The ASCO Post (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica) reporta que las revisiones de casos realizadas por expertos a distancia (remote expert case reviews) detectaron oportunidades concretas para mejorar la atención oncológica y reducir costos. Interesa porque sugiere que una segunda opinión especializada remota puede optimizar decisiones de tratamiento sin encarecer el sistema de salud.",
@@ -45,59 +38,17 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (RT CHARM); sin el abstract no se puede precisar el cegado, la cantidad de centros ni el número exacto de pacientes incluidos.\nPoblación: Pacientes con cáncer de mama sometidas a mastectomía con reconstrucción mamaria, candidatas a radioterapia adyuvante postmastectomía.\nIntervención: Esquema acortado (hipofraccionado) de radioterapia postmastectomía frente al esquema convencional de fraccionamiento estándar, en pacientes reconstruidas.\nResultados: El título indica que el esquema más corto fue respaldado por los datos del ensayo, pero no se dispone de cifras del desenlace principal (control locorregional, complicaciones de la reconstrucción, toxicidad) sin el abstract completo.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la tasa de complicaciones de la reconstrucción a largo plazo ni la potencia estadística del estudio.\nMensaje: Si se confirma, un esquema más corto de radioterapia postmastectomía podría convertirse en una opción estándar para pacientes reconstruidas, reduciendo la carga del tratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "36424ec5993d": {
-      "resumen": "OncLive aborda los desafíos de llevar a la práctica real los tratamientos oncológicos que demostraron eficacia en ensayos clínicos, por ejemplo en términos de acceso, logística y selección de pacientes. Es una nota de opinión/panorama sobre implementación clínica, no el reporte de un estudio puntual.",
-      "destacado": false
-    },
-    "526c215ce59e": {
-      "resumen": "La autoridad regulatoria de China otorgó la designación de terapia innovadora (breakthrough therapy) a la combinación de lisaftoclax más acalabrutinib para pacientes sin tratamiento previo con leucemia linfocítica crónica o linfoma linfocítico de células pequeñas (LLC/LLPC, CLL/SLL por sus siglas en inglés). Es una designación regulatoria que agiliza el desarrollo del fármaco, no el reporte de resultados de eficacia.",
-      "destacado": false
-    },
-    "3bd5c6f3a5f9": {
-      "resumen": "The ASCO Post difunde el pedido de expertos de mejorar el reporte de la calidad de vida en los ensayos clínicos de tratamiento adyuvante del cáncer (terapia administrada después del tratamiento principal para reducir el riesgo de recaída). Es una nota de opinión/llamado a la acción, no el reporte de un estudio nuevo, pero marca una discusión metodológica relevante para interpretar futuros ensayos.",
-      "destacado": false
-    },
-    "8c04c933b447": {
-      "resumen": "Artículo del New England Journal of Medicine (NEJM) sobre los tratamientos sin quimioterapia para la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (LLA Ph+, un subtipo de leucemia con una alteración genética específica). Por el título y su ubicación junto a un estudio comparativo en el mismo número, parece un comentario o perspectiva editorial, no el reporte de un estudio nuevo.",
-      "destacado": false
-    },
-    "82c51f5b5c44": {
-      "resumen": "Ensayo clínico publicado en el New England Journal of Medicine (NEJM) que compara el esquema ponatinib-blinatumomab (sin quimioterapia) frente a imatinib más quimioterapia convencional en adultos con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (LLA Ph+). Interesa porque explora si se puede evitar la quimioterapia intensiva en este subtipo de leucemia sin perder eficacia.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico comparativo, probablemente aleatorizado, publicado en el New England Journal of Medicine; sin el abstract no se puede precisar el cegado, la cantidad de centros ni el número exacto de pacientes.\nPoblación: Adultos con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (LLA Ph+), probablemente de diagnóstico reciente.\nIntervención: Esquema ponatinib (inhibidor de tirosina-quinasa) más blinatumomab (anticuerpo biespecífico) sin quimioterapia, comparado contra imatinib (otro inhibidor de tirosina-quinasa) combinado con quimioterapia convencional.\nResultados: El título indica una comparación directa entre ambos esquemas, pero no hay cifras de supervivencia global, supervivencia libre de eventos ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la tasa de toxicidad de cada brazo ni si el diseño permite concluir superioridad o solo no inferioridad.\nMensaje: Si el esquema libre de quimioterapia demuestra resultados comparables o superiores, podría cambiar el estándar de tratamiento en LLA Ph+ reduciendo la toxicidad asociada a la quimioterapia intensiva.\nNota: análisis sin acceso al abstract."
-    },
     "c287422fb0d1": {
       "resumen": "La colección primavera 2027 ready-to-wear de la marca australiana Romance Was Born, presentada en Vogue."
     },
     "53a50b5cd1ff": {
       "resumen": "La colección primavera 2027 del diseñador Alfredo Martínez, presentada en la Semana de la Moda de México."
     },
-    "22c63d002f02": {
-      "resumen": "Vogue México detalla cuál es el diseño de uñas cortas ideal para mujeres de más de 50 años, distinto de las clásicas milky nails o el esmalte rojo."
-    },
-    "291eb14dafe9": {
-      "resumen": "Vogue México recopila 15 diseños de uñas bicolor que serán tendencia este otoño 2026."
-    },
-    "65f50072c5e0": {
-      "resumen": "Kendall Jenner cuenta en Vogue México los pasos de su rutina de belleza (skincare) coreana."
-    },
-    "6fe0b28896d2": {
-      "resumen": "HOLA selecciona seis pendientes (aros) de tendencia para este otoño, de marcas como Aristocrazy a VIDAL & VIDAL."
-    },
-    "78935ce796b9": {
-      "resumen": "El estilista Jesús de Paula explica en Mujerhoy cuáles son los cortes de pelo de la temporada, con capas y desfilado en la zona frontal."
-    },
-    "3c31a2a60e83": {
-      "resumen": "La Razón reúne los trucos de una estilista para lograr looks juveniles y llenos de energía a cualquier edad."
-    },
     "9b166382a82f": {
       "resumen": "«Esperando a Godot» se estrena en el Teatro Alvear, según La Vereda."
     },
     "dcfa96259133": {
       "resumen": "El baterista Marky Ramone llegará a la Argentina en 2027 para tocar en el Teatro Flores de Buenos Aires: precios y fecha, según El Destape."
-    },
-    "dc146cbd96d0": {
-      "resumen": "Charly García cumple 75 años y Crónica repasa los recitales y actividades gratuitas para homenajearlo."
     },
     "3f9ca6746801": {
       "resumen": "Infobae cuenta cómo fue la noche libre de la cantante Aitana en Palermo: cena con amigos y un gesto hacia sus fans."
@@ -107,6 +58,55 @@
     },
     "039796415b2c": {
       "resumen": "El musical Frozen llegará a Buenos Aires y Cadena 3 Argentina cuenta que ya se abrieron las audiciones para el papel de Elsa."
+    },
+    "3e3fc9b4678b": {
+      "resumen": "OncLive repasa por qué la tolerabilidad sigue siendo el principal obstáculo de los conjugados anticuerpo-fármaco (ADC, antibody-drug conjugate) dirigidos contra TROP2 (antígeno 2 de superficie de células trofoblásticas) en cáncer de pulmón no microcítico (NSCLC, non-small cell lung cancer) con mutación del receptor del factor de crecimiento epidérmico (EGFR, epidermal growth factor receptor). Vale la pena mirarlo porque la toxicidad, más que la eficacia, es hoy el cuello de botella para incorporar estos fármacos a la práctica.",
+      "destacado": false
+    },
+    "248b8a04d261": {
+      "resumen": "Nota de OncLive que resume estrategias emergentes para pacientes con carcinoma de células renales que progresan luego de la inmunoterapia. Interesa porque, a medida que más pacientes reciben inmunoterapia en primera línea, definir qué hacer después se vuelve una pregunta clínica cada vez más frecuente.",
+      "destacado": false
+    },
+    "5c7caf9a3e1c": {
+      "resumen": "Entrevista de OncLive a la Dra. Oberstein sobre el fundamento para evaluar SAR445877, una proteína de fusión PD-1/IL-15 (interleuquina 15), en cáncer colorrectal con estabilidad de microsatélites (MSS, microsatellite stable), un subgrupo que históricamente responde poco a la inmunoterapia. Relevante porque explora una vía para sumar inmunoterapia a tumores considerados \"fríos\".",
+      "destacado": false
+    },
+    "15f1f2533541": {
+      "resumen": "El Dr. Neil M. Iyengar, de The ASCO Post (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica), repasa estrategias de manejo ante mutaciones coexistentes en cáncer de mama avanzado. Útil para pensar cómo secuenciar o combinar tratamientos dirigidos cuando un mismo tumor presenta más de una alteración genética actionable.",
+      "destacado": false
+    },
+    "e4c7348fc23e": {
+      "resumen": "El jean de otoño que eligen las mujeres con más estilo y cómo combinarlo de día a noche, según Telva."
+    },
+    "4ed82237844d": {
+      "resumen": "Los fajines se imponen como el accesorio de la temporada: Dónde comprarlos y de qué forma lucirlos, según La Razón."
+    },
+    "37e13ca2243a": {
+      "resumen": "AEC presenta su propuesta para la Primavera-Verano 2028 con la artesanía como eje central del diseño en componentes para calzado."
+    },
+    "57bfcb23e949": {
+      "resumen": "Vogue México propone cinco peinados inspirados en Frida Kahlo para lucir elegante este otoño 2026."
+    },
+    "139bb6768864": {
+      "resumen": "La reina Letizia marca tendencia con zapatos de tacón combinados con vestidos midi y pantalones slim de cara al otoño 2026, según Vogue México."
+    },
+    "68389fab8b70": {
+      "resumen": "Espejos y cuadros quedan atrás: Los Andes repasa las cuatro tendencias de decoración 2026 que están transformando el living."
+    },
+    "c1d4b6519343": {
+      "resumen": "Dos restaurantes argentinos fueron distinguidos en un prestigioso certamen gastronómico internacional, según Infobae."
+    },
+    "f881677281c6": {
+      "resumen": "El Trío Los Barros celebró su primera y multitudinaria presentación en el Teatro Ópera, un hito para la formación sanjuanina."
+    },
+    "9c677d2ca6bc": {
+      "resumen": "Infobae explora si existe una relación entre la migraña y la endometriosis, dos condiciones que afectan mayormente a mujeres."
+    },
+    "c473fc74668e": {
+      "resumen": "Un estudio advierte que el uso de smartphones estaría deteriorando la calidad del sueño de los adolescentes, según Infobae."
+    },
+    "23e73f73b2db": {
+      "resumen": "Una encuesta revela que 4 de cada 5 padres consideran que tener un bebé resulta demasiado costoso hoy en día, según Infobae."
     }
   }
 }
