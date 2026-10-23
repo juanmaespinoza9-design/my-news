@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:12:32Z",
+  "generated_at": "2026-10-23T10:09:58Z",
   "summaries": {
     "ab30b907a56a": {
       "resumen": "Estudio del Journal of Clinical Oncology (JCO) que evalúa la asociación entre el nivel de eosinófilos circulantes (un tipo de glóbulo blanco) y la activación inmunitaria sistémica con la recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano, HR+/HER2-). Interesa porque explora un biomarcador simple y accesible como señal pronóstica.",
@@ -50,11 +50,6 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se trataría de un estudio observacional de vida real (real-world evidence), con datos finales de una cohorte o registro denominado MINT; sin el abstract no se puede precisar si fue multicéntrico ni el número exacto de pacientes.\nPoblación: Pacientes con micosis fungoide y síndrome de Sézary, variantes de linfoma cutáneo de células T, tratados con mogamulizumab en la práctica clínica habitual.\nIntervención: Tratamiento con mogamulizumab (anticuerpo monoclonal anti-CCR4) en condiciones de vida real, sin un comparador aleatorizado explícito en el título.\nResultados: El título señala que los resultados finales \"refuerzan\" la evidencia de vida real, pero no hay cifras de respuesta, supervivencia libre de progresión ni seguridad disponibles sin el abstract.\nLimitaciones: Los estudios de vida real carecen de aleatorización y de grupo control, y suelen tener seguimiento heterogéneo y riesgo de sesgos de selección y de registro incompleto de eventos adversos.\nMensaje: Refuerza, pero no sustituye, la evidencia de los ensayos pivotales; sostiene el uso de mogamulizumab en estos linfomas cutáneos poco frecuentes dentro de la práctica real.\nNota: análisis sin acceso al abstract."
     },
-    "0611cacb5bbd": {
-      "resumen": "The ASCO Post publica un análisis sobre la distribución geográfica de los ensayos clínicos de cáncer de mama triple negativo (TNBC, triple-negative breast cancer), un subtipo agresivo sin receptores hormonales ni sobreexpresión de HER2. Relevante porque la concentración geográfica de los estudios condiciona qué poblaciones quedan representadas en la evidencia que después guía la práctica clínica global.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trataría de un estudio descriptivo que mapea la distribución geográfica de los ensayos clínicos registrados sobre cáncer de mama triple negativo; sin el abstract no se puede precisar la fuente de datos ni el período analizado.\nPoblación: Ensayos clínicos registrados sobre cáncer de mama triple negativo (TNBC), un subtipo definido por la ausencia de receptores hormonales y de sobreexpresión de HER2.\nIntervención: No hay una intervención terapéutica; se analiza la ubicación geográfica (países o regiones) donde se desarrollan los ensayos clínicos de TNBC.\nResultados: El título sugiere una distribución desigual, pero no hay cifras concretas (proporción por región, número de ensayos) disponibles sin el abstract.\nLimitaciones: Los estudios descriptivos de registros de ensayos dependen de la calidad y completitud de las bases públicas, y no explican por sí solos las causas de la disparidad geográfica.\nMensaje: Si confirma una concentración geográfica marcada, plantea la necesidad de diversificar la investigación clínica en TNBC para que la evidencia sea representativa de poblaciones distintas.\nNota: análisis sin acceso al abstract."
-    },
     "f5b49ccf16f2": {
       "resumen": "Vogue repasa la colección masculina pre-otoño 2027 de la marca Rag & Bone."
     },
@@ -64,23 +59,11 @@
     "2e7ea878f63b": {
       "resumen": "Vogue repasa la colección pret-à-porter primavera 2027 de la marca J. Mendel."
     },
-    "1438158b1be0": {
-      "resumen": "Vogue México informa dónde y a qué hora seguir en vivo la Gala Vogue de Día de Muertos 2026."
-    },
     "491380c24661": {
       "resumen": "Vogue México muestra cómo la cantante Dua Lipa combinó leggings, la prenda de moda del momento, con zapatillas negras para un look de otoño elegante."
     },
     "bb149c8ac928": {
       "resumen": "CNN en Español explica cómo la tendencia “maxxing” se impuso entre los influencers."
-    },
-    "0a7e3cce18fe": {
-      "resumen": "TN repasa qué color reemplaza al rojo navideño según las expertas en moda, una opción más elegante y fácil de combinar para esta temporada 2026."
-    },
-    "8b584bc9ce35": {
-      "resumen": "Información cuenta que una veintena de marcas de calzado de Elche mostraron sus tendencias en un desfile de moda."
-    },
-    "e3c1223aea41": {
-      "resumen": "Vogue México propone cómo combinar jeans de moda con botines negros para un look de otoño 2026."
     },
     "19f41a797673": {
       "resumen": "Página|12 publica una entrevista con Maga Caro, quien asegura que “la magia va a seguir presente”."
@@ -91,17 +74,33 @@
     "c8b012a7267b": {
       "resumen": "Infobae presenta “Putamadre”, una obra de teatro protagonizada por sus propios protagonistas reales: una madre y su hijo."
     },
-    "e839cf55b067": {
-      "resumen": "AM 1350 Radio Buenos Aires anuncia la cuarta edición del Festival Internacional de Improvisación Teatral."
-    },
-    "525a8ce07c43": {
-      "resumen": "Indie Hoy repasa la presencia de Undertale, el videojuego independiente, en la Argentina."
-    },
     "22dd8b1fea1c": {
       "resumen": "Meteored Argentina propone una agenda de actividades para este fin de semana en Buenos Aires, desde el cumpleaños de Charly García hasta un festival gastronómico en el Jardín Japonés."
     },
     "1172d2b8c437": {
       "resumen": "Clarín cuenta cuáles son los dos restaurantes de Buenos Aires premiados como los mejores del país en los World Culinary Awards 2026."
+    },
+    "dcb1634587e1": {
+      "resumen": "El ASCO Post entrevista al oncólogo Adam J. Schoenfeld sobre el cáncer de pulmón avanzado y la combinación en investigación de pumitamig más elfetabart drozuntecan, dos fármacos todavía en desarrollo clínico. Interesa como mirada de un experto sobre terapias dirigidas en etapa de estudio, no como reporte de un ensayo cerrado.",
+      "destacado": false
+    },
+    "88f6b2c29d66": {
+      "resumen": "Vozpopuli cuenta que los cabeceros tapizados y las mesillas de noche tradicionales quedaron atrás, y presenta las cuatro nuevas tendencias para decorar el dormitorio."
+    },
+    "3c3a5f135a03": {
+      "resumen": "Vogue México repasa el look con el que brilló Sebastián Yatra en la Gala Vogue de Día de Muertos 2026."
+    },
+    "a7cd907e9b0b": {
+      "resumen": "Vogue México hace un repaso de los mejores looks masculinos de la Gala Vogue de Día de Muertos 2026, de El Malilla a Sebastián Yatra."
+    },
+    "4317af18c622": {
+      "resumen": "El Malilla debutó en la Gala Vogue de Día de Muertos con un look de sello latino, en el que reivindicó representar sus raíces y a su país."
+    },
+    "b02212831037": {
+      "resumen": "Nota al Pie propone \"Ruedos de un payaso\" y otras opciones de teatro, cine y música en la agenda cultural de la Ciudad de Buenos Aires."
+    },
+    "5b2ccd76deb7": {
+      "resumen": "Perfil propone una agenda de conciertos, festivales y actividades para todos los gustos este fin de semana en Buenos Aires."
     }
   }
 }
