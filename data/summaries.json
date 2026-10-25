@@ -1,30 +1,24 @@
 {
-  "generated_at": "2026-10-24T22:13:15+00:00",
+  "generated_at": "2026-10-25T10:10:49Z",
   "summaries": {
+    "c0a2166a145a": {
+      "resumen": "The ASCO Post publica una nota de actualización sobre cáncer de cabeza y cuello (head and neck cancer), que agrupa a los tumores de cavidad oral, faringe y laringe. Interesa como puesta al día general del área, aunque el título no precisa qué estudio o avance puntual aborda.",
+      "destacado": false
+    },
+    "7a9aa719c1f5": {
+      "resumen": "OncLive reporta que datopotamab deruxtecan (Dato-DXd, un anticuerpo conjugado a quimioterapia dirigido contra la proteína TROP2) mejoró los resultados intracraneales como tratamiento de primera línea en pacientes con cáncer de mama triple negativo (TNBC, triple-negative breast cancer) con metástasis cerebrales que no son candidatas a inmunoterapia. Interesa porque las metástasis cerebrales en TNBC tienen pronóstico muy desfavorable y pocas opciones eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título, se trata de un estudio clínico (probablemente un ensayo o un análisis de subgrupo) que evalúa Dato-DXd como primera línea; sin el abstract no se puede precisar la fase, aleatorización, cegamiento, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama triple negativo (TNBC) con metástasis cerebrales, no candidatas a inmunoterapia (por ejemplo, por expresión baja de PD-L1).\nIntervención: Datopotamab deruxtecan (Dato-DXd), un anticuerpo conjugado anti-TROP2, como tratamiento de primera línea; el título no especifica un comparador.\nResultados: El título indica una mejora en los resultados intracraneales (probablemente respuesta o control de las metástasis cerebrales), pero no hay cifras de tasa de respuesta, supervivencia libre de progresión intracraneal ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de la respuesta intracraneal ni el perfil de toxicidad (incluida la enfermedad pulmonar intersticial, un riesgo de clase de los anticuerpos conjugados con derivados de exatecán).\nMensaje: Si se confirma, Dato-DXd podría convertirse en una opción de primera línea para un subgrupo de TNBC con metástasis cerebrales y mal pronóstico, donde las alternativas inmunoterápicas no aplican.\nNota: análisis sin acceso al abstract."
+    },
+    "ab6e40353e0d": {
+      "resumen": "OncLive informa que la combinación de INCB123667 (un inhibidor en investigación) con bevacizumab (anticuerpo antiangiogénico anti-VEGF) mostró actividad antitumoral en cáncer de ovario epitelial recurrente. Interesa porque el cáncer de ovario recurrente suele tener opciones limitadas y esta combinación podría sumar una alternativa.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título, estudio clínico en fase temprana (probablemente fase I/II) que evalúa la combinación; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de ovario epitelial recurrente.\nIntervención: INCB123667 (fármaco en investigación) combinado con bevacizumab (anti-VEGF); el título no especifica un comparador.\nResultados: El título indica \"actividad antitumoral\", pero no hay cifras de tasa de respuesta objetiva, supervivencia libre de progresión ni duración de respuesta disponibles sin el abstract.\nLimitaciones: Al tratarse presumiblemente de un estudio en fase temprana, la muestra suele ser chica y sin grupo control, por lo que los resultados son exploratorios y requieren confirmación en fases posteriores.\nMensaje: Datos preliminares que posicionan a esta combinación como una opción a seguir en cáncer de ovario recurrente, pero que todavía no modifican la práctica clínica estándar.\nNota: análisis sin acceso al abstract."
+    },
     "9706f0c59202": {
       "resumen": "OncLive reporta que la combinación de LK101, un fármaco en investigación, con tislelizumab (anticuerpo anti-PD-1) generó respuestas tumorales en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) avanzado. Interesa porque suma una opción más al arsenal de combinaciones con inmunoterapia en este tumor tan frecuente.",
       "destacado": false,
       "analisis": "Diseño: Por el título, se trata de un ensayo clínico en fase temprana (probablemente fase I/II) que combina LK101 con tislelizumab; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio avanzado.\nIntervención: LK101 (fármaco en investigación) combinado con tislelizumab (anticuerpo anti-PD-1); el título no especifica un comparador.\nResultados: El título indica que la combinación \"generó respuestas\", pero no hay cifras de tasa de respuesta objetiva, duración de respuesta ni supervivencia libre de progresión disponibles sin el abstract.\nLimitaciones: Al tratarse presumiblemente de un estudio en fase temprana, la muestra suele ser chica y sin grupo control, por lo que los resultados son exploratorios.\nMensaje: Datos preliminares que posicionan a LK101 más tislelizumab como una combinación a seguir en NSCLC avanzado, pero que todavía no modifican la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "93412e0cdc27": {
-      "resumen": "OncLive informa que los datos del estudio DeLLphi-305 respaldan el uso de tarlatamab (un anticuerpo biespecífico que recluta linfocitos T contra la proteína DLL3) más durvalumab (anticuerpo anti-PD-L1) como mantenimiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer), proponiéndolo como nuevo estándar de atención (SOC, standard of care). Interesa porque tarlatamab ya mostró actividad en SCLC recaído y este estudio busca llevarlo a una etapa más temprana del tratamiento.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título, ensayo clínico (DeLLphi-305), probablemente de fase III, que evalúa mantenimiento de primera línea; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC) que respondieron a quimioinmunoterapia de primera línea y pasan a fase de mantenimiento.\nIntervención: Mantenimiento con tarlatamab (biespecífico anti-DLL3/CD3) más durvalumab (anti-PD-L1), frente a un comparador no especificado en el título (probablemente durvalumab solo o placebo).\nResultados: El título señala que los datos \"respaldan\" este esquema como nuevo estándar, pero no hay cifras de supervivencia libre de progresión, supervivencia global ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el perfil de toxicidad (el síndrome de liberación de citoquinas es un efecto de clase relevante con los biespecíficos anti-DLL3) ni el tiempo de seguimiento.\nMensaje: Si se confirma, ampliaría el uso de tarlatamab a una etapa más temprana del SCLC extendido, reforzando el rol de los biespecíficos anti-DLL3 en este tumor de pronóstico históricamente sombrío.\nNota: análisis sin acceso al abstract."
-    },
-    "bb407172fd15": {
-      "resumen": "OncLive reporta los resultados del ensayo DASL-HiCaP, que muestra que agregar darolutamida (un antiandrógeno de nueva generación) a la terapia de deprivación androgénica (ADT, androgen deprivation therapy) y la radioterapia mejora la supervivencia libre de metástasis (MFS, metastasis-free survival) en cáncer de próstata localizado de muy alto riesgo. Es el destacado de la edición porque se trata de un ensayo de fase III con potencial para cambiar el estándar de tratamiento en esta población de alto riesgo.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase III (DASL-HiCaP, del grupo cooperativo ANZUP); por el título no se puede precisar el cegamiento, el número exacto de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de próstata localizado de muy alto riesgo, candidatos a tratamiento local definitivo con radioterapia.\nIntervención: Darolutamida (antiandrógeno de nueva generación) sumada a la terapia de deprivación androgénica (ADT) y radioterapia, frente a ADT y radioterapia solas.\nResultados: El título indica una mejora en la supervivencia libre de metástasis (MFS) con el agregado de darolutamida, pero no hay cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, el impacto en supervivencia global (un desenlace más duro que la MFS) ni el perfil de efectos adversos del agregado hormonal.\nMensaje: Si se confirma con el detalle completo, sumar darolutamida a ADT más radioterapia podría convertirse en una nueva opción para pacientes de muy alto riesgo, un grupo con alta probabilidad de progresión a enfermedad metastásica.\nNota: análisis sin acceso al abstract."
-    },
-    "b2d1c40305db": {
-      "resumen": "El Journal of Clinical Oncology (JCO) publica el ensayo aleatorizado de fase 2/3 COMPANION-002, que compara tovecimig más paclitaxel contra paclitaxel solo como segunda línea en cáncer de vía biliar avanzado. Interesa porque este tumor tiene pocas opciones terapéuticas validadas después de la primera línea.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 2/3 (COMPANION-002); por el título no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con cáncer de vía biliar (biliary tract cancer) avanzado que progresaron a una primera línea de tratamiento y reciben una segunda línea.\nIntervención: Tovecimig combinado con paclitaxel, frente a paclitaxel solo, como segunda línea de tratamiento.\nResultados: No hay cifras del criterio de valoración principal (supervivencia libre de progresión, supervivencia global o tasa de respuesta) disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral definitivo, el perfil de toxicidad del agregado de tovecimig ni el tiempo de seguimiento.\nMensaje: Si tovecimig más paclitaxel demuestra beneficio significativo, podría sumar una opción de segunda línea en un escenario con necesidad insatisfecha; por ahora, sin los números del abstract, no se puede cuantificar el impacto.\nNota: análisis sin acceso al abstract."
-    },
-    "ab30b907a56a": {
-      "resumen": "Estudio del Journal of Clinical Oncology (JCO) que evalúa la asociación entre el nivel de eosinófilos circulantes (un tipo de glóbulo blanco) y la activación inmunitaria sistémica con la recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano, HR+/HER2-). Interesa porque explora un biomarcador simple y accesible como señal pronóstica.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trata de un estudio observacional, probablemente de cohorte o un análisis traslacional sobre una cohorte existente; sin el abstract no se puede precisar si fue prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama con receptores hormonales positivos y HER2 negativo (HR+/HER2-).\nIntervención: No hay una intervención terapéutica; se midió el recuento de eosinófilos circulantes y marcadores de activación inmunitaria sistémica, correlacionados con la recurrencia de la enfermedad.\nResultados: El título indica una asociación entre mayores niveles de eosinófilos y menor recurrencia, pero no hay cifras (razón de riesgo, intervalos de confianza, valor de p) disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de biomarcadores son propensos a factores de confusión y no establecen causalidad; falta validación prospectiva independiente.\nMensaje: Si se confirma, el recuento de eosinófilos podría sumarse como biomarcador pronóstico de bajo costo, pero por ahora es un hallazgo exploratorio que no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "131031f04346": {
       "resumen": "The ASCO Post publica una columna de opinion que advierte sobre la diferencia entre datos de vida real (real-world data) y evidencia de vida real (real-world evidence) propiamente dicha: no toda base de datos clinica produce conclusiones validas. Es un articulo de reflexion metodologica, no el reporte de un estudio nuevo.",
@@ -34,9 +28,10 @@
       "resumen": "The ASCO Post resume los puntos destacados del simposio presidencial sobre cancer de pulmon de celulas pequeñas (SCLC, small cell lung cancer) de un congreso oncologico reciente. Es una cobertura periodistica de varias presentaciones congresales, no el reporte detallado de un unico estudio.",
       "destacado": false
     },
-    "555b91962b13": {
-      "resumen": "The ASCO Post repasa tres décadas de investigación sobre la sobrevida de adolescentes y adultos jóvenes (AYA, adolescent and young adult) con cáncer, un grupo con necesidades de seguimiento distintas de las de niños y adultos mayores. Interesa porque sintetiza aprendizajes acumulados sobre secuelas a largo plazo y calidad de vida en un subgrupo históricamente poco estudiado.",
-      "destacado": false
+    "b2d1c40305db": {
+      "resumen": "El Journal of Clinical Oncology (JCO) publica el ensayo aleatorizado de fase 2/3 COMPANION-002, que compara tovecimig más paclitaxel contra paclitaxel solo como segunda línea en cáncer de vía biliar avanzado. Interesa porque este tumor tiene pocas opciones terapéuticas validadas después de la primera línea.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 2/3 (COMPANION-002); por el título no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con cáncer de vía biliar (biliary tract cancer) avanzado que progresaron a una primera línea de tratamiento y reciben una segunda línea.\nIntervención: Tovecimig combinado con paclitaxel, frente a paclitaxel solo, como segunda línea de tratamiento.\nResultados: No hay cifras del criterio de valoración principal (supervivencia libre de progresión, supervivencia global o tasa de respuesta) disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral definitivo, el perfil de toxicidad del agregado de tovecimig ni el tiempo de seguimiento.\nMensaje: Si tovecimig más paclitaxel demuestra beneficio significativo, podría sumar una opción de segunda línea en un escenario con necesidad insatisfecha; por ahora, sin los números del abstract, no se puede cuantificar el impacto.\nNota: análisis sin acceso al abstract."
     },
     "d1f43f204416": {
       "resumen": "Fe de erratas del Journal of Clinical Oncology (JCO) sobre el estudio AREN0533 del Children's Oncology Group, que evaluó el tratamiento del tumor de Wilms en estadio IV de histología favorable con metástasis pulmonares. Es una corrección formal al artículo original, no un estudio nuevo.",
@@ -46,23 +41,36 @@
       "resumen": "Fe de erratas del Journal of Clinical Oncology (JCO) sobre un artículo de opinión acerca de la modernización del desarrollo de fármacos para enfermedades con alta necesidad insatisfecha. Es una corrección formal al artículo original, no un estudio nuevo.",
       "destacado": false
     },
+    "fec89aa9c36a": {
+      "resumen": "Carta de respuesta en The New England Journal of Medicine (NEJM) de los autores del estudio sobre daraxonrasib, un inhibidor de la proteína RAS en investigación, en cáncer de páncreas metastásico previamente tratado. Es una réplica dentro de un intercambio de correspondencia sobre el artículo original, no un estudio nuevo.",
+      "destacado": false
+    },
+    "5c7a919e14eb": {
+      "resumen": "Carta en The New England Journal of Medicine (NEJM) con comentarios sobre el ensayo de daraxonrasib, un inhibidor de la proteína RAS en investigación, en cáncer de páncreas metastásico previamente tratado. Forma parte de un intercambio de correspondencia sobre el estudio original, no es un estudio nuevo.",
+      "destacado": false
+    },
+    "ab30b907a56a": {
+      "resumen": "Estudio del Journal of Clinical Oncology (JCO) que evalúa la asociación entre el nivel de eosinófilos circulantes (un tipo de glóbulo blanco) y la activación inmunitaria sistémica con la recurrencia en cáncer de mama con receptores hormonales positivos y HER2 negativo (receptor 2 del factor de crecimiento epidérmico humano, HR+/HER2-). Interesa porque explora un biomarcador simple y accesible como señal pronóstica.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se trata de un estudio observacional, probablemente de cohorte o un análisis traslacional sobre una cohorte existente; sin el abstract no se puede precisar si fue prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de mama con receptores hormonales positivos y HER2 negativo (HR+/HER2-).\nIntervención: No hay una intervención terapéutica; se midió el recuento de eosinófilos circulantes y marcadores de activación inmunitaria sistémica, correlacionados con la recurrencia de la enfermedad.\nResultados: El título indica una asociación entre mayores niveles de eosinófilos y menor recurrencia, pero no hay cifras (razón de riesgo, intervalos de confianza, valor de p) disponibles sin el abstract.\nLimitaciones: Los estudios observacionales de biomarcadores son propensos a factores de confusión y no establecen causalidad; falta validación prospectiva independiente.\nMensaje: Si se confirma, el recuento de eosinófilos podría sumarse como biomarcador pronóstico de bajo costo, pero por ahora es un hallazgo exploratorio que no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
     "ca76b1e1ea1e": {
       "resumen": "ELLE selecciona doce modelos de zapatillas rojas, más allá de Skechers y New Balance, que se impusieron como tendencia de la temporada para combinar con jeans."
-    },
-    "6053236b8257": {
-      "resumen": "Vogue México propone cómo combinar zapatos de tacón negros al estilo de la reina Letizia con faldas, vestidos y pantalones esta temporada."
     },
     "da1b88ffce37": {
       "resumen": "Vogue México elige seis blusas color vino para combinar con pantalones slim fit este otoño."
     },
-    "397df676e1ec": {
-      "resumen": "Vogue México propone faldas largas con olanes inspiradas en Frida Kahlo para combinar con botas esta temporada."
+    "df6973114a3b": {
+      "resumen": "Camila Sodi se luce con un vestido boho de inspiración oaxaqueña combinado con botas bicolor para arrancar los festejos del Día de Muertos."
     },
-    "a46964786e10": {
-      "resumen": "Telva compara la cazadora de ante de la infanta Sofía con la chaqueta encerada de la princesa Leonor, las dos tendencias de abrigo del otoño ideales para combinar con jeans."
+    "4f76f9411ad7": {
+      "resumen": "Una selección de los destinos más espectaculares para vivir el Día de Muertos."
     },
-    "449461dbe385": {
-      "resumen": "Vogue España explica cómo lucir la chaqueta de terciopelo, la prenda clave de la temporada, según referentes de moda."
+    "ff84dcf56799": {
+      "resumen": "ELLE elige cinco blusas de Zara para renovar los looks de entretiempo este otoño."
+    },
+    "328a4bb4a279": {
+      "resumen": "Garatuxa repasa por qué la moda no tiene edad y las tendencias no esperan a nadie."
     },
     "78a662f56a23": {
       "resumen": "LA17 cuenta que un grupo de estudiantes de Lagunita Salada visitó Buenos Aires."
@@ -79,12 +87,6 @@
     "f8edec409c29": {
       "resumen": "97.7 (La Señal FM) propone más de 60 planes para hacer en Buenos Aires este fin de semana, entre recitales, teatro, cine, streaming y muestras gratuitas."
     },
-    "5224435ad8a6": {
-      "resumen": "Clarín propone más de 60 planes para hacer en Buenos Aires este fin de semana, entre recitales, teatro, cine, streaming y muestras gratuitas."
-    },
-    "8b98c91b6f45": {
-      "resumen": "La Nación repasa el debut del actor Daniel Aráoz en un clásico del teatro, su proceso de sanación personal y su amistad con el escritor Roberto Fontanarrosa."
-    },
     "7d7083ab5bcf": {
       "resumen": "iProfesional propone planes para el fin de semana en la Capital, entre homenajes a Charly García, gastronomía coreana y actividades con mascotas."
     },
@@ -93,6 +95,9 @@
     },
     "25691b7c98f5": {
       "resumen": "VDM Noticias propone una agenda de actividades culturales para este fin de semana."
+    },
+    "43c2d6f0bf1b": {
+      "resumen": "El Cronista recomienda ocho restaurantes porteños para festejar el Día Mundial de la Pasta y repasa sus platos más destacados."
     }
   }
 }
