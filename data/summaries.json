@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:15:00Z",
+  "generated_at": "2026-10-26T10:11:03Z",
   "summaries": {
     "c0a2166a145a": {
       "resumen": "The ASCO Post publica una nota de actualización sobre cáncer de cabeza y cuello (head and neck cancer), que agrupa a los tumores de cavidad oral, faringe y laringe. Interesa como puesta al día general del área, aunque el título no precisa qué estudio o avance puntual aborda.",
@@ -14,27 +14,20 @@
       "resumen": "Fe de erratas del Journal of Clinical Oncology (JCO) sobre el estudio AREN0533 del Children's Oncology Group, que evaluó el tratamiento del tumor de Wilms en estadio IV de histología favorable con metástasis pulmonares. Es una corrección formal al artículo original, no un estudio nuevo.",
       "destacado": false
     },
-    "53d8a06bd38c": {
-      "resumen": "OncLive difunde una entrevista a la Dra. Chase sobre el rol potencial de los anticuerpos conjugados a fármacos (ADC, antibody-drug conjugates) dirigidos contra la proteína B7-H4 en el cáncer de ovario resistente al platino. Interesa como puesta al día de un mecanismo terapéutico en investigación para un escenario con pocas opciones eficaces, aunque es una nota de opinión y no el reporte de un estudio.",
-      "destacado": false
-    },
     "36ed0abcfaa5": {
       "resumen": "OncLive reporta los datos del estudio CLARITY-Gastric01, que muestra un beneficio en supervivencia global con sonesitatug vedotin (un anticuerpo conjugado a quimioterapia dirigido contra la proteína CLDN18.2) en pacientes con carcinoma gastroesofágico pretratado y positivo para CLDN18.2. Interesa porque suma una opción activa en un tumor con pronóstico desfavorable tras fallar líneas previas.",
       "destacado": false,
       "analisis": "Diseño: Por el título se trata de un ensayo clínico identificado como CLARITY-Gastric01; sin el abstract no se puede precisar la fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma gastroesofágico pretratado (que progresaron a líneas previas), con expresión positiva de CLDN18.2 (claudina 18.2).\nIntervención: Sonesitatug vedotin, un anticuerpo conjugado a quimioterapia dirigido contra CLDN18.2; el título no especifica el comparador.\nResultados: El título indica beneficio en supervivencia global (OS), pero no hay cifras de mediana de OS, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud real del beneficio ni el perfil de toxicidad (los ADC de este tipo suelen asociarse a toxicidad gastrointestinal y ocular).\nMensaje: Si se confirma con los números del estudio completo, sonesitatug vedotin podría consolidarse como opción en gastroesofágico CLDN18.2+ pretratado, un escenario con alternativas limitadas.\nNota: análisis sin acceso al abstract."
     },
-    "c4bf06d350cc": {
-      "resumen": "OncLive presenta los datos del estudio SAFFRON, que posicionan un nuevo estándar de tratamiento global para pacientes con cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación del receptor del factor de crecimiento epidérmico (EGFR+) que desarrollan sobreexpresión y/o amplificación de MET tras progresar a osimertinib. Interesa porque aborda un mecanismo de resistencia frecuente y hasta ahora sin opción estándar clara.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trata del ensayo SAFFRON; sin el abstract no se puede precisar la fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con NSCLC con mutación de EGFR (receptor del factor de crecimiento epidérmico) que progresaron a osimertinib y presentan sobreexpresión y/o amplificación de MET (mesenchymal-epithelial transition factor) como mecanismo de resistencia.\nIntervención: No se especifica en el título el fármaco exacto evaluado (probablemente un inhibidor de MET combinado con un inhibidor de EGFR); el comparador tampoco se detalla sin el abstract.\nResultados: El título indica que los datos establecen un nuevo \"estándar de atención global\" (SOC), pero no hay cifras de respuesta, supervivencia libre de progresión ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de la respuesta ni la toxicidad del esquema.\nMensaje: Si se confirma, este sería un avance relevante para un mecanismo de resistencia frecuente a osimertinib, ampliando las opciones tras progresión por MET; se requieren los datos completos para cuantificar el beneficio.\nNota: análisis sin acceso al abstract."
-    },
     "d7a94fccd089": {
       "resumen": "The ASCO Post difunde una entrevista al Dr. Alberto A. Chiappori sobre el cáncer de pulmón de células pequeñas (SCLC, small cell lung cancer) en recaída o refractario, centrada en un estudio de fase I de una nueva terapia con células CAR-T (receptor de antígeno quimérico). Interesa como puesta al día sobre una modalidad de inmunoterapia celular todavía en etapa temprana para un tumor de pronóstico muy desfavorable.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Estudio de fase I (primera etapa en humanos), por diseño sin aleatorización ni grupo control, enfocado en seguridad y dosis; el título no especifica número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (SCLC, small cell lung cancer) en recaída o refractario a tratamiento previo, tumor de curso agresivo y pronóstico desfavorable.\nIntervención: Terapia con células CAR-T (receptor de antígeno quimérico), consistente con un diseño de fase I de escalada de dosis y sin comparador.\nResultados: El título no informa cifras de respuesta, supervivencia ni toxicidad; se trata de una entrevista de divulgación, no del reporte primario del estudio.\nLimitaciones: Una fase I implica muestra pequeña y objetivo primario de seguridad, no de eficacia; sin el abstract no se puede evaluar el perfil de toxicidad (riesgo de síndrome de liberación de citoquinas, típico de las terapias CAR-T) ni los datos de respuesta.\nMensaje: Dato temprano y exploratorio que podría anticipar una futura vía de inmunoterapia celular para el SCLC refractario, pero que por ahora no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "dcb1634587e1": {
       "resumen": "The ASCO Post difunde una entrevista al Dr. Adam J. Schoenfeld sobre el cáncer de pulmón avanzado, centrada en la combinación de pumitamig y elfetabart drozuntecan, un anticuerpo biespecífico y un anticuerpo conjugado a quimioterapia en investigación. Interesa como puesta al día sobre una combinación en desarrollo para este tumor de alta prevalencia.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Entrevista de divulgación sobre un estudio en curso, probablemente en fase temprana; el título no precisa fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón avanzado; el título no especifica histología (células no pequeñas versus células pequeñas) ni línea de tratamiento.\nIntervención: Combinación de pumitamig (anticuerpo biespecífico) más elfetabart drozuntecan (anticuerpo conjugado a quimioterapia), sin comparador especificado en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni toxicidad disponibles a partir del título.\nLimitaciones: Tratarse de una entrevista y no del reporte primario del estudio limita evaluar el rigor metodológico; sin el abstract no se puede valorar el tamaño muestral ni la seguridad.\nMensaje: Combinación en investigación que podría ampliar las opciones en cáncer de pulmón avanzado si se confirman eficacia y seguridad, pero que por ahora no modifica la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "34487fe908d3": {
       "resumen": "El Journal of Clinical Oncology (JCO) publica el ensayo de fase 3 ENZARAD (ANZUP 1303), que evalúa agregar enzalutamida a la terapia de deprivación androgénica (ADT, androgen deprivation therapy) y la radioterapia en cáncer de próstata localizado o localmente avanzado de alto riesgo. Interesa porque busca mejorar el control de la enfermedad en un escenario donde la radioterapia más ADT es el estándar actual.",
@@ -70,26 +63,40 @@
     "d5e1bd064251": {
       "resumen": "El Teatro Colón transmite gratis, solo por hoy, el último concierto de la Filarmónica de Berlín en Buenos Aires, que regresó tras 26 años de ausencia."
     },
-    "3f09fc1f7ac0": {
-      "resumen": "Vogue México cuenta la historia de la capa Escorpio de Kris Jenner, una pieza que fue de Elizabeth Taylor y hoy está valuada en más de 70.000 dólares."
-    },
-    "ac5fde0b721a": {
-      "resumen": "El tono camel se impone en los jeans como la tendencia neutra que domina la moda de la temporada."
-    },
     "3ecc3590cbe8": {
       "resumen": "TV Azteca anticipa cuál será la nueva tendencia en centros de mesa que reemplazará al clásico modelo esta Navidad 2026."
     },
-    "adc822c4631f": {
-      "resumen": "Vistazo repasa la tendencia que reemplaza al vestido rojo navideño en 2026, con una propuesta más elegante y moderna."
+    "af895f7c7f8d": {
+      "resumen": "OncLive ofrece la cobertura en vivo del primer día del congreso de la ESMO (European Society for Medical Oncology, Sociedad Europea de Oncología Médica), uno de los encuentros internacionales más relevantes en oncología. Interesa como resumen rápido de las novedades presentadas en las sesiones clave de la jornada inaugural.",
+      "destacado": false
     },
-    "8a6674bb2a63": {
-      "resumen": "Vogue México destaca cómo Dua Lipa luce botas victorianas y tacones con plumas, la tendencia elegante del otoño 2026."
+    "1b9ffcf13cb6": {
+      "resumen": "Enlace genérico al portal de noticias de OncLive, sin una nota puntual asociada: funciona como referencia a su cobertura habitual de novedades y entrevistas en oncología clínica. No aporta un hallazgo específico para analizar.",
+      "destacado": false
     },
-    "ee67ec99d25c": {
-      "resumen": "Más de 18.000 personas asistieron a la 080 Barcelona Fashion, que volvió a encender la pasarela de la moda catalana."
+    "82ec19114906": {
+      "resumen": "Telva propone cinco chaquetas y americanas oversize de Massimo Dutti para combinar con jeans pitillo, de la oficina a la última cena de la semana."
     },
-    "55c3cc3c66ac": {
-      "resumen": "Vogue México propone tacones inspirados en Jennifer Lopez para combinar con jeans acampanados este otoño 2026."
+    "67df8d9b76c2": {
+      "resumen": "La Voz del Interior anticipa cuál será el color tendencia para la Navidad 2026, en reemplazo del clásico vestido rojo, con consejos para combinarlo en un look elegante."
+    },
+    "df6973114a3b": {
+      "resumen": "La actriz mexicana Camila Sodi lució un vestido boho de inspiración oaxaqueña con botas bicolor para arrancar los festejos del Día de Muertos, según Vogue México."
+    },
+    "397df676e1ec": {
+      "resumen": "Vogue México propone faldas largas con olanes inspiradas en Frida Kahlo como tendencia para combinar con botas este otoño 2026."
+    },
+    "f677a472b340": {
+      "resumen": "Vogue México presenta el reparto y los personajes de \"Contra el huracán\", la película mexicana disponible en Netflix."
+    },
+    "fa4f12e1f927": {
+      "resumen": "El Espectador repasa las tendencias de moda de fin de año y analiza si realmente vale la pena invertir en ellas."
+    },
+    "8827daacf54c": {
+      "resumen": "Noticias de Alta Gracia narra las aventuras de Satchmo por la ciudad de Buenos Aires."
+    },
+    "f8edec409c29": {
+      "resumen": "La Señal FM reúne más de 60 propuestas para el fin de semana en Buenos Aires, entre recitales, teatro, cine, streaming, muestras y actividades gratuitas, del viernes 23 al domingo 25 de octubre."
     }
   }
 }
