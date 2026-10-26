@@ -1,33 +1,10 @@
 {
-  "generated_at": "2026-10-26T10:11:03Z",
+  "generated_at": "2026-10-26T22:12:43Z",
   "summaries": {
-    "c0a2166a145a": {
-      "resumen": "The ASCO Post publica una nota de actualización sobre cáncer de cabeza y cuello (head and neck cancer), que agrupa a los tumores de cavidad oral, faringe y laringe. Interesa como puesta al día general del área, aunque el título no precisa qué estudio o avance puntual aborda.",
-      "destacado": false
-    },
     "b2d1c40305db": {
       "resumen": "El Journal of Clinical Oncology (JCO) publica el ensayo aleatorizado de fase 2/3 COMPANION-002, que compara tovecimig más paclitaxel contra paclitaxel solo como segunda línea en cáncer de vía biliar avanzado. Interesa porque este tumor tiene pocas opciones terapéuticas validadas después de la primera línea.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado de fase 2/3 (COMPANION-002); por el título no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con cáncer de vía biliar (biliary tract cancer) avanzado que progresaron a una primera línea de tratamiento y reciben una segunda línea.\nIntervención: Tovecimig combinado con paclitaxel, frente a paclitaxel solo, como segunda línea de tratamiento.\nResultados: No hay cifras del criterio de valoración principal (supervivencia libre de progresión, supervivencia global o tasa de respuesta) disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral definitivo, el perfil de toxicidad del agregado de tovecimig ni el tiempo de seguimiento.\nMensaje: Si tovecimig más paclitaxel demuestra beneficio significativo, podría sumar una opción de segunda línea en un escenario con necesidad insatisfecha; por ahora, sin los números del abstract, no se puede cuantificar el impacto.\nNota: análisis sin acceso al abstract."
-    },
-    "d1f43f204416": {
-      "resumen": "Fe de erratas del Journal of Clinical Oncology (JCO) sobre el estudio AREN0533 del Children's Oncology Group, que evaluó el tratamiento del tumor de Wilms en estadio IV de histología favorable con metástasis pulmonares. Es una corrección formal al artículo original, no un estudio nuevo.",
-      "destacado": false
-    },
-    "36ed0abcfaa5": {
-      "resumen": "OncLive reporta los datos del estudio CLARITY-Gastric01, que muestra un beneficio en supervivencia global con sonesitatug vedotin (un anticuerpo conjugado a quimioterapia dirigido contra la proteína CLDN18.2) en pacientes con carcinoma gastroesofágico pretratado y positivo para CLDN18.2. Interesa porque suma una opción activa en un tumor con pronóstico desfavorable tras fallar líneas previas.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trata de un ensayo clínico identificado como CLARITY-Gastric01; sin el abstract no se puede precisar la fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con carcinoma gastroesofágico pretratado (que progresaron a líneas previas), con expresión positiva de CLDN18.2 (claudina 18.2).\nIntervención: Sonesitatug vedotin, un anticuerpo conjugado a quimioterapia dirigido contra CLDN18.2; el título no especifica el comparador.\nResultados: El título indica beneficio en supervivencia global (OS), pero no hay cifras de mediana de OS, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud real del beneficio ni el perfil de toxicidad (los ADC de este tipo suelen asociarse a toxicidad gastrointestinal y ocular).\nMensaje: Si se confirma con los números del estudio completo, sonesitatug vedotin podría consolidarse como opción en gastroesofágico CLDN18.2+ pretratado, un escenario con alternativas limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "d7a94fccd089": {
-      "resumen": "The ASCO Post difunde una entrevista al Dr. Alberto A. Chiappori sobre el cáncer de pulmón de células pequeñas (SCLC, small cell lung cancer) en recaída o refractario, centrada en un estudio de fase I de una nueva terapia con células CAR-T (receptor de antígeno quimérico). Interesa como puesta al día sobre una modalidad de inmunoterapia celular todavía en etapa temprana para un tumor de pronóstico muy desfavorable.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de fase I (primera etapa en humanos), por diseño sin aleatorización ni grupo control, enfocado en seguridad y dosis; el título no especifica número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células pequeñas (SCLC, small cell lung cancer) en recaída o refractario a tratamiento previo, tumor de curso agresivo y pronóstico desfavorable.\nIntervención: Terapia con células CAR-T (receptor de antígeno quimérico), consistente con un diseño de fase I de escalada de dosis y sin comparador.\nResultados: El título no informa cifras de respuesta, supervivencia ni toxicidad; se trata de una entrevista de divulgación, no del reporte primario del estudio.\nLimitaciones: Una fase I implica muestra pequeña y objetivo primario de seguridad, no de eficacia; sin el abstract no se puede evaluar el perfil de toxicidad (riesgo de síndrome de liberación de citoquinas, típico de las terapias CAR-T) ni los datos de respuesta.\nMensaje: Dato temprano y exploratorio que podría anticipar una futura vía de inmunoterapia celular para el SCLC refractario, pero que por ahora no cambia la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "dcb1634587e1": {
-      "resumen": "The ASCO Post difunde una entrevista al Dr. Adam J. Schoenfeld sobre el cáncer de pulmón avanzado, centrada en la combinación de pumitamig y elfetabart drozuntecan, un anticuerpo biespecífico y un anticuerpo conjugado a quimioterapia en investigación. Interesa como puesta al día sobre una combinación en desarrollo para este tumor de alta prevalencia.",
-      "destacado": false,
-      "analisis": "Diseño: Entrevista de divulgación sobre un estudio en curso, probablemente en fase temprana; el título no precisa fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón avanzado; el título no especifica histología (células no pequeñas versus células pequeñas) ni línea de tratamiento.\nIntervención: Combinación de pumitamig (anticuerpo biespecífico) más elfetabart drozuntecan (anticuerpo conjugado a quimioterapia), sin comparador especificado en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni toxicidad disponibles a partir del título.\nLimitaciones: Tratarse de una entrevista y no del reporte primario del estudio limita evaluar el rigor metodológico; sin el abstract no se puede valorar el tamaño muestral ni la seguridad.\nMensaje: Combinación en investigación que podría ampliar las opciones en cáncer de pulmón avanzado si se confirman eficacia y seguridad, pero que por ahora no modifica la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "34487fe908d3": {
       "resumen": "El Journal of Clinical Oncology (JCO) publica el ensayo de fase 3 ENZARAD (ANZUP 1303), que evalúa agregar enzalutamida a la terapia de deprivación androgénica (ADT, androgen deprivation therapy) y la radioterapia en cáncer de próstata localizado o localmente avanzado de alto riesgo. Interesa porque busca mejorar el control de la enfermedad en un escenario donde la radioterapia más ADT es el estándar actual.",
@@ -48,9 +25,6 @@
     "d41552b87def": {
       "resumen": "La Nación recomienda diez lugares de Buenos Aires para comer pastas artesanales, en el marco del Día Mundial de la Pasta 2026."
     },
-    "b4c56924fe4c": {
-      "resumen": "noticiasd cuenta que la obra \"Mi vida anterior\" llega al Teatro Argentino de La Plata, con entrada gratuita y reserva online."
-    },
     "25691b7c98f5": {
       "resumen": "VDM Noticias propone una agenda de actividades culturales para este fin de semana."
     },
@@ -60,43 +34,71 @@
     "09df01b89c08": {
       "resumen": "La Nación mapea fábricas de pastas y restaurantes con descuentos, promociones 2x1 y ofertas por el Día Mundial de la Pasta 2026."
     },
-    "d5e1bd064251": {
-      "resumen": "El Teatro Colón transmite gratis, solo por hoy, el último concierto de la Filarmónica de Berlín en Buenos Aires, que regresó tras 26 años de ausencia."
+    "8690922dd0a2": {
+      "resumen": "The ASCO Post difunde una entrevista a la Dra. Shannon N. Westin sobre el cáncer de endometrio avanzado o recurrente, centrada en el estudio DUO-E (GOG-3041/ENGOT-EN10), que evaluó agregar durvalumab (un inhibidor del punto de control inmunitario PD-L1) con o sin olaparib (un inhibidor de PARP) a la quimioterapia estándar. Interesa porque este esquema ya forma parte de las opciones de primera línea en un subgrupo de pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Entrevista de divulgación centrada en el ensayo DUO-E (GOG-3041/ENGOT-EN10), un estudio aleatorizado de fase 3; el título no permite precisar cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de endometrio avanzado o recurrente que inician tratamiento sistémico de primera línea.\nIntervención: Durvalumab (inhibidor de PD-L1) con o sin olaparib (inhibidor de PARP) agregado a carboplatino-paclitaxel, frente a quimioterapia sola.\nResultados: No hay cifras de supervivencia libre de progresión ni supervivencia global disponibles a partir del título; se trata de una entrevista, no del reporte primario.\nLimitaciones: Al ser una entrevista de divulgación y no el artículo original, no permite evaluar tamaño muestral, seguimiento ni toxicidad agregada.\nMensaje: El esquema con durvalumab (con o sin olaparib) ya integra las opciones de primera línea en el subgrupo correspondiente; esta nota actualiza la discusión clínica sin aportar datos nuevos.\nNota: análisis sin acceso al abstract."
     },
-    "3ecc3590cbe8": {
-      "resumen": "TV Azteca anticipa cuál será la nueva tendencia en centros de mesa que reemplazará al clásico modelo esta Navidad 2026."
+    "d81be63c9fb0": {
+      "resumen": "OncLive reporta que una combinación con savolitinib (un inhibidor de MET) prolongó la supervivencia libre de progresión (PFS, progression-free survival) en primera línea para cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación de EGFR y sobreexpresión de MET. Interesa porque la resistencia mediada por MET es una de las vías de escape más frecuentes a los inhibidores de EGFR.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico; el título no especifica fase, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR y sobreexpresión de MET, en primera línea de tratamiento.\nIntervención: Combinación que incluye savolitinib (inhibidor de MET), presumiblemente junto a un inhibidor de EGFR; el título no detalla el comparador.\nResultados: El título indica que la combinación \"extiende\" la supervivencia libre de progresión (PFS), pero no hay mediana de PFS, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el perfil de toxicidad ni si hubo beneficio en supervivencia global.\nMensaje: Si se confirma con los números completos, podría ofrecer una estrategia para superar la resistencia mediada por MET en primera línea de EGFR-mutado, un mecanismo de escape frecuente.\nNota: análisis sin acceso al abstract."
     },
-    "af895f7c7f8d": {
-      "resumen": "OncLive ofrece la cobertura en vivo del primer día del congreso de la ESMO (European Society for Medical Oncology, Sociedad Europea de Oncología Médica), uno de los encuentros internacionales más relevantes en oncología. Interesa como resumen rápido de las novedades presentadas en las sesiones clave de la jornada inaugural.",
+    "75ee873e6ef1": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó la combinación de talazoparib (un inhibidor de PARP) con enzalutamida (un antiandrógeno) para ciertos cánceres de próstata metastásicos con mutaciones en genes de reparación por recombinación homóloga (HRR, homologous recombination repair). Interesa porque amplía las opciones dirigidas por biomarcador en un subgrupo específico de próstata metastásica.",
       "destacado": false
     },
-    "1b9ffcf13cb6": {
-      "resumen": "Enlace genérico al portal de noticias de OncLive, sin una nota puntual asociada: funciona como referencia a su cobertura habitual de novedades y entrevistas en oncología clínica. No aporta un hallazgo específico para analizar.",
+    "ea81a56bf8bc": {
+      "resumen": "The ASCO Post reporta un estudio que vincula el consumo de ácido eicosapentaenoico (EPA, un ácido graso omega-3) con una mayor supervivencia tras la cirugía de metástasis hepáticas de cáncer colorrectal. Interesa como dato nutricional que podría complementar el manejo perioperatorio en este escenario quirúrgico.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio observacional (de cohorte) que asocia el consumo o los niveles de EPA con la supervivencia; sin el abstract no se puede precisar si fue prospectivo o retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer colorrectal y metástasis hepáticas sometidos a cirugía de resección.\nIntervención: Exposición a ácido eicosapentaenoico (EPA, ácido graso omega-3), por suplementación o niveles circulantes; no se trata de un ensayo de intervención aleatorizado según el título.\nResultados: El título señala una asociación con \"mayor supervivencia\", pero no hay mediana de supervivencia, razón de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: Un diseño observacional no permite establecer causalidad y puede estar sujeto a factores de confusión (estado nutricional general, estadio tumoral); sin el abstract no se puede evaluar el ajuste estadístico.\nMensaje: Dato hipótesis-generador que podría respaldar el rol del soporte nutricional perioperatorio, pero no alcanza por sí solo para cambiar la práctica sin un ensayo de intervención que lo confirme.\nNota: análisis sin acceso al abstract."
+    },
+    "858e9d42943c": {
+      "resumen": "OncLive repasa los datos del estudio MANEUVER sobre pimicotinib (un inhibidor del receptor CSF1R) en tumor tenosinovial de células gigantes (TGCT, tenosynovial giant cell tumor) y su rol en el manejo peri-reemplazo articular. Interesa porque esta terapia dirigida podría evitar o facilitar cirugías de reemplazo de articulación en un tumor benigno pero localmente agresivo.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio MANEUVER; por el título no se puede precisar si es un ensayo aleatorizado de fase 3 o un análisis de seguimiento, ni el cegamiento, número de centros o de pacientes.\nPoblación: Pacientes con tumor tenosinovial de células gigantes (TGCT), una neoplasia benigna pero localmente agresiva que compromete articulaciones, algunos con indicación de reemplazo articular.\nIntervención: Pimicotinib, inhibidor del receptor CSF1R (factor estimulante de colonias 1); el título no especifica comparador.\nResultados: No hay cifras de tasa de respuesta, mejoría funcional ni impacto en la necesidad de cirugía disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni el perfil de toxicidad.\nMensaje: Si confirma reducción tumoral sostenida, pimicotinib podría ofrecer una alternativa para diferir o evitar cirugías de reemplazo articular en TGCT, un escenario con pocas opciones sistémicas.\nNota: análisis sin acceso al abstract."
+    },
+    "af6d3936cdf1": {
+      "resumen": "OncLive informa que ya está disponible el test Oncodetect de secuenciación de genoma completo para detectar enfermedad residual mínima (MRD, minimal residual disease) en tumores sólidos. Interesa como herramienta diagnóstica que podría anticipar recaídas y ayudar a guiar decisiones de tratamiento adyuvante.",
       "destacado": false
     },
-    "82ec19114906": {
-      "resumen": "Telva propone cinco chaquetas y americanas oversize de Massimo Dutti para combinar con jeans pitillo, de la oficina a la última cena de la semana."
+    "ba74938210ba": {
+      "resumen": "El Journal of Clinical Oncology (JCO) publica un ensayo aleatorizado de fase 3 que evalúa la combinación de dalmelitinib (inhibidor de MET) más aumolertinib (inhibidor de EGFR de tercera generación) en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con resistencia a inhibidores de EGFR (EGFR-TKI) y amplificación de MET. Interesa porque aborda uno de los mecanismos de resistencia más frecuentes tras el tratamiento con inhibidores de EGFR.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3; sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado, con resistencia adquirida a inhibidores de la tirosina-quinasa de EGFR (EGFR-TKI) y amplificación del gen MET.\nIntervención: Dalmelitinib (inhibidor de MET) combinado con aumolertinib (inhibidor de EGFR de tercera generación); el título no detalla el comparador.\nResultados: No hay cifras del criterio de valoración principal (probablemente supervivencia libre de progresión) disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el perfil de toxicidad de la combinación.\nMensaje: Si demuestra beneficio significativo, esta combinación podría convertirse en una opción dirigida para la resistencia mediada por MET tras progresión a EGFR-TKI, un escenario con alternativas limitadas.\nNota: análisis sin acceso al abstract."
     },
-    "67df8d9b76c2": {
-      "resumen": "La Voz del Interior anticipa cuál será el color tendencia para la Navidad 2026, en reemplazo del clásico vestido rojo, con consejos para combinarlo en un look elegante."
+    "757139e91b34": {
+      "resumen": "Vogue repasa el desfile de ropa lista para usar de Naeem Khan para la temporada primavera 2027."
     },
-    "df6973114a3b": {
-      "resumen": "La actriz mexicana Camila Sodi lució un vestido boho de inspiración oaxaqueña con botas bicolor para arrancar los festejos del Día de Muertos, según Vogue México."
+    "987dfb58c31c": {
+      "resumen": "Vogue México destaca el look de Dua Lipa con pantalones anchos (wide leg) y zapatos de taco (pumps), una combinación tendencia para este otoño."
     },
-    "397df676e1ec": {
-      "resumen": "Vogue México propone faldas largas con olanes inspiradas en Frida Kahlo como tendencia para combinar con botas este otoño 2026."
+    "ca2b2654502d": {
+      "resumen": "En la 75ª edición de la Fiesta Nacional del Estudiante de Jujuy se presentaron las tendencias de moda y los diseños pensados para la Cena Blanca 2026."
     },
-    "f677a472b340": {
-      "resumen": "Vogue México presenta el reparto y los personajes de \"Contra el huracán\", la película mexicana disponible en Netflix."
+    "667d369ab928": {
+      "resumen": "Vogue México presenta a la luteolina, un antioxidante que promete rejuvenecer la piel y combatir la aparición de canas."
     },
-    "fa4f12e1f927": {
-      "resumen": "El Espectador repasa las tendencias de moda de fin de año y analiza si realmente vale la pena invertir en ellas."
+    "84194ded6b94": {
+      "resumen": "Vogue México repasa los trucos de estilo de Camila Sodi, que combina vestidos boho con botas vaqueras para looks de otoño."
     },
-    "8827daacf54c": {
-      "resumen": "Noticias de Alta Gracia narra las aventuras de Satchmo por la ciudad de Buenos Aires."
+    "a49c772e97fa": {
+      "resumen": "Según estilistas consultados por Revista CLARA, el camel, el coñac y el chocolate son los colores de zapatillas que le ganan terreno al blanco esta temporada."
     },
-    "f8edec409c29": {
-      "resumen": "La Señal FM reúne más de 60 propuestas para el fin de semana en Buenos Aires, entre recitales, teatro, cine, streaming, muestras y actividades gratuitas, del viernes 23 al domingo 25 de octubre."
+    "3bb91a5ed8ae": {
+      "resumen": "Marie Claire México repasa la Moscow Fashion Week 2026 y cómo refleja la identidad y las tendencias de la moda rusa."
+    },
+    "4fc507a42334": {
+      "resumen": "Una obra de teatro producida en Santa Fe logró una nominación en los Premios al Teatro Independiente de Buenos Aires."
+    },
+    "d02ab38bf17e": {
+      "resumen": "La provincia de Buenos Aires relevó la situación laboral de más de 2200 trabajadores que participaron en los recitales de BTS."
+    },
+    "aa0f2cf8b755": {
+      "resumen": "Indie Hoy anuncia la presentación del espectáculo God Save the Queen en el Teatro Gran Rex."
+    },
+    "e9b0af0cc191": {
+      "resumen": "Indie Hoy anuncia la presentación de Saramalacara en el estadio Obras."
     }
   }
 }
