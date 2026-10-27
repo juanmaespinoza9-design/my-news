@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:12:52Z",
+  "generated_at": "2026-10-27T22:12:46Z",
   "summaries": {
     "b2d1c40305db": {
       "resumen": "El Journal of Clinical Oncology (JCO) publica el ensayo aleatorizado de fase 2/3 COMPANION-002, que compara tovecimig más paclitaxel contra paclitaxel solo como segunda línea en cáncer de vía biliar avanzado. Interesa porque este tumor tiene pocas opciones terapéuticas validadas después de la primera línea.",
@@ -16,6 +16,39 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de fase II, consistente con un diseño de un solo brazo habitual en estudios neoadyuvantes de este tipo; sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con carcinoma cutáneo de células escamosas (CSCC, cutaneous squamous cell carcinoma) en estadio II a IV, candidatos a cirugía.\nIntervención: Cemiplimab (anticuerpo anti-PD-1) administrado en forma neoadyuvante, antes de la cirugía; no se especifica un comparador, consistente con un diseño de un solo brazo.\nResultados: El título indica que se trata del \"análisis final\", pero no hay cifras de tasa de respuesta patológica completa, supervivencia libre de enfermedad ni valor de p disponibles sin el abstract.\nLimitaciones: Un diseño de fase II sin grupo control limita la capacidad de atribuir el beneficio solo a la inmunoterapia; falta de datos de seguimiento a largo plazo sin el abstract.\nMensaje: Si confirma una alta tasa de respuesta patológica, el cemiplimab neoadyuvante podría consolidarse como estrategia para reducir la extensión quirúrgica en CSCC avanzado; se necesitan los números del abstract para precisar el beneficio.\nNota: análisis sin acceso al abstract."
     },
+    "ba74938210ba": {
+      "resumen": "El Journal of Clinical Oncology (JCO) publica un ensayo aleatorizado de fase 3 que evalúa la combinación de dalmelitinib (inhibidor de MET) más aumolertinib (inhibidor de EGFR de tercera generación) en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con resistencia a inhibidores de EGFR (EGFR-TKI) y amplificación de MET. Interesa porque aborda uno de los mecanismos de resistencia más frecuentes tras el tratamiento con inhibidores de EGFR.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3; sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado, con resistencia adquirida a inhibidores de la tirosina-quinasa de EGFR (EGFR-TKI) y amplificación del gen MET.\nIntervención: Dalmelitinib (inhibidor de MET) combinado con aumolertinib (inhibidor de EGFR de tercera generación); el título no detalla el comparador.\nResultados: No hay cifras del criterio de valoración principal (probablemente supervivencia libre de progresión) disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el perfil de toxicidad de la combinación.\nMensaje: Si demuestra beneficio significativo, esta combinación podría convertirse en una opción dirigida para la resistencia mediada por MET tras progresión a EGFR-TKI, un escenario con alternativas limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "3235b13f4541": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) recibió la solicitud de aprobación biológica (BLA, biologics license application) para etentamig, un anticuerpo biespecífico en investigación, destinado al mieloma múltiple recaído o refractario (R/R). Interesa porque, si se aprueba, sumaría una nueva opción a la familia de biespecíficos para este escenario de difícil manejo.",
+      "destacado": false
+    },
+    "e344ff56e13a": {
+      "resumen": "The ASCO Post analiza si la enucleación (resección limitada que preserva el páncreas) es una alternativa segura a la pancreatoduodenectomía (cirugía de Whipple, de mayor extensión) para tumores benignos o de bajo grado de la cabeza del páncreas. Interesa porque una técnica menos invasiva podría reducir complicaciones sin comprometer el control oncológico en tumores de bajo riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio comparativo, probablemente retrospectivo y de cohorte, entre enucleación y pancreatoduodenectomía; sin el abstract no se puede precisar el número de centros ni de pacientes.\nPoblación: Pacientes con tumores benignos o de bajo grado en la cabeza del páncreas, candidatos a cirugía.\nIntervención: Enucleación (resección limitada que preserva el parénquima pancreático), comparada con pancreatoduodenectomía (cirugía de Whipple).\nResultados: No hay cifras de morbilidad, mortalidad perioperatoria ni recurrencia disponibles sin el abstract.\nLimitaciones: Un diseño retrospectivo conlleva riesgo de sesgo de selección, ya que los tumores más chicos o de menor riesgo suelen elegirse para enucleación; sin el abstract no se puede evaluar el ajuste por estas diferencias.\nMensaje: Si confirma seguridad comparable, la enucleación podría consolidarse como alternativa menos invasiva en tumores pancreáticos seleccionados de bajo riesgo.\nNota: análisis sin acceso al abstract."
+    },
+    "92453f3e4d37": {
+      "resumen": "The ASCO Post reporta un estudio sobre el impacto de la tomosíntesis digital de mama (DBT, digital breast tomosynthesis), una técnica de imagen 3D, en la tasa de cánceres de mama invasivos de intervalo, es decir los que aparecen entre dos controles de rastreo. Interesa porque podría indicar si esta tecnología mejora la detección temprana frente a la mamografía convencional.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio observacional, probablemente basado en un registro o programa de rastreo poblacional; sin el abstract no se puede precisar si fue prospectivo, el número de centros ni el tamaño de la cohorte.\nPoblación: Mujeres que participan en programas de rastreo (screening) de cáncer de mama con tomosíntesis digital (DBT).\nIntervención: Tomosíntesis digital de mama (DBT), comparada presumiblemente con mamografía digital convencional (2D).\nResultados: No hay cifras de tasa de cáncer de intervalo, sensibilidad ni valor de p disponibles sin el abstract.\nLimitaciones: Un diseño observacional no permite establecer causalidad y puede estar sujeto a diferencias en la población rastreada entre ambas técnicas; sin el abstract no se puede evaluar el ajuste estadístico ni el tiempo de seguimiento.\nMensaje: Si la DBT muestra una menor tasa de cánceres de intervalo, respaldaría su adopción más amplia en programas de rastreo mamario.\nNota: análisis sin acceso al abstract."
+    },
+    "e71ef5ef857f": {
+      "resumen": "T-DXd (trastuzumab deruxtecán, un anticuerpo conjugado a quimioterapia dirigido a HER2) obtuvo la aprobación de la Unión Europea para el cáncer de mama HER2 positivo en estadio temprano con enfermedad residual tras el tratamiento neoadyuvante. Interesa porque amplía en Europa el acceso a una terapia ya validada por el estudio DESTINY-Breast05 en este escenario de alto riesgo de recaída.",
+      "destacado": false
+    },
+    "691f1fa7423b": {
+      "resumen": "The ASCO Post reporta los resultados de divarasib, un inhibidor de KRAS G12C, en pacientes con cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) avanzado con mutación KRAS G12C ya tratados previamente. Interesa porque esta familia de inhibidores dirigidos amplió las opciones terapéuticas en un subgrupo molecular antes considerado de difícil abordaje.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un ensayo clínico, probablemente de fase I o II, en población pretratada; sin el abstract no se puede precisar la fase exacta, el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado, con mutación KRAS G12C, que ya recibieron tratamiento previo (al menos una línea).\nIntervención: Divarasib (inhibidor de KRAS G12C) en monoterapia; el título no detalla un comparador.\nResultados: No hay cifras de tasa de respuesta objetiva, supervivencia libre de progresión ni duración de respuesta disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de la respuesta ni el perfil de toxicidad del fármaco.\nMensaje: Si confirma actividad relevante, divarasib podría sumarse a los inhibidores de KRAS G12C ya disponibles como opción en NSCLC pretratado con esta mutación.\nNota: análisis sin acceso al abstract."
+    },
+    "480a3574f2f4": {
+      "resumen": "OncLive informa que elranatamab, un anticuerpo biespecífico dirigido a BCMA y CD3, alcanzó el criterio de valoración principal de supervivencia libre de progresión (PFS, progression-free survival) en un ensayo de fase 3 en mieloma múltiple recaído o refractario (R/R) tras terapia anti-CD38 y lenalidomida. Interesa porque podría posicionar a elranatamab como una nueva opción eficaz en pacientes ya expuestos a estas terapias estándar.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3; sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con mieloma múltiple recaído o refractario (R/R), previamente tratados con un anticuerpo anti-CD38 (como daratumumab) y lenalidomida.\nIntervención: Elranatamab (anticuerpo biespecífico BCMA x CD3); el título no detalla el comparador exacto.\nResultados: El título indica que el estudio alcanzó el criterio de valoración principal de supervivencia libre de progresión (PFS), pero no hay mediana de PFS, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el perfil de toxicidad, incluido el síndrome de liberación de citoquinas, frecuente con biespecíficos.\nMensaje: Si se confirma el beneficio en PFS, elranatamab podría consolidarse como una opción eficaz tras progresión a anti-CD38 y lenalidomida, un escenario con necesidad insatisfecha.\nNota: análisis sin acceso al abstract."
+    },
     "43c2d6f0bf1b": {
       "resumen": "El Cronista recomienda ocho restaurantes porteños para festejar el Día Mundial de la Pasta y repasa sus platos más destacados."
     },
@@ -25,70 +58,8 @@
     "d41552b87def": {
       "resumen": "La Nación recomienda diez lugares de Buenos Aires para comer pastas artesanales, en el marco del Día Mundial de la Pasta 2026."
     },
-    "25691b7c98f5": {
-      "resumen": "VDM Noticias propone una agenda de actividades culturales para este fin de semana."
-    },
     "48120e1d9846": {
       "resumen": "MDZ Online propone planes para celebrar en Buenos Aires los 75 años de Charly García este fin de semana."
-    },
-    "09df01b89c08": {
-      "resumen": "La Nación mapea fábricas de pastas y restaurantes con descuentos, promociones 2x1 y ofertas por el Día Mundial de la Pasta 2026."
-    },
-    "75ee873e6ef1": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó la combinación de talazoparib (un inhibidor de PARP) con enzalutamida (un antiandrógeno) para ciertos cánceres de próstata metastásicos con mutaciones en genes de reparación por recombinación homóloga (HRR, homologous recombination repair). Interesa porque amplía las opciones dirigidas por biomarcador en un subgrupo específico de próstata metastásica.",
-      "destacado": false
-    },
-    "ea81a56bf8bc": {
-      "resumen": "The ASCO Post reporta un estudio que vincula el consumo de ácido eicosapentaenoico (EPA, un ácido graso omega-3) con una mayor supervivencia tras la cirugía de metástasis hepáticas de cáncer colorrectal. Interesa como dato nutricional que podría complementar el manejo perioperatorio en este escenario quirúrgico.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio observacional (de cohorte) que asocia el consumo o los niveles de EPA con la supervivencia; sin el abstract no se puede precisar si fue prospectivo o retrospectivo, ni el número de centros o de pacientes.\nPoblación: Pacientes con cáncer colorrectal y metástasis hepáticas sometidos a cirugía de resección.\nIntervención: Exposición a ácido eicosapentaenoico (EPA, ácido graso omega-3), por suplementación o niveles circulantes; no se trata de un ensayo de intervención aleatorizado según el título.\nResultados: El título señala una asociación con \"mayor supervivencia\", pero no hay mediana de supervivencia, razón de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: Un diseño observacional no permite establecer causalidad y puede estar sujeto a factores de confusión (estado nutricional general, estadio tumoral); sin el abstract no se puede evaluar el ajuste estadístico.\nMensaje: Dato hipótesis-generador que podría respaldar el rol del soporte nutricional perioperatorio, pero no alcanza por sí solo para cambiar la práctica sin un ensayo de intervención que lo confirme.\nNota: análisis sin acceso al abstract."
-    },
-    "ba74938210ba": {
-      "resumen": "El Journal of Clinical Oncology (JCO) publica un ensayo aleatorizado de fase 3 que evalúa la combinación de dalmelitinib (inhibidor de MET) más aumolertinib (inhibidor de EGFR de tercera generación) en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con resistencia a inhibidores de EGFR (EGFR-TKI) y amplificación de MET. Interesa porque aborda uno de los mecanismos de resistencia más frecuentes tras el tratamiento con inhibidores de EGFR.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3; sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado, con resistencia adquirida a inhibidores de la tirosina-quinasa de EGFR (EGFR-TKI) y amplificación del gen MET.\nIntervención: Dalmelitinib (inhibidor de MET) combinado con aumolertinib (inhibidor de EGFR de tercera generación); el título no detalla el comparador.\nResultados: No hay cifras del criterio de valoración principal (probablemente supervivencia libre de progresión) disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el perfil de toxicidad de la combinación.\nMensaje: Si demuestra beneficio significativo, esta combinación podría convertirse en una opción dirigida para la resistencia mediada por MET tras progresión a EGFR-TKI, un escenario con alternativas limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "757139e91b34": {
-      "resumen": "Vogue repasa el desfile de ropa lista para usar de Naeem Khan para la temporada primavera 2027."
-    },
-    "4fc507a42334": {
-      "resumen": "Una obra de teatro producida en Santa Fe logró una nominación en los Premios al Teatro Independiente de Buenos Aires."
-    },
-    "bbbbcdc91336": {
-      "resumen": "OncLive repasa en vivo las novedades del segundo día del Congreso de la Sociedad Europea de Oncología Médica (ESMO, European Society for Medical Oncology). Sirve para tener un pantallazo rápido de lo más relevante presentado ese día en distintos tumores.",
-      "destacado": false
-    },
-    "eebea76a422e": {
-      "resumen": "OncLive publica una guía de repaso con los temas más importantes de hematología y oncología para quienes se preparan para exámenes de certificación (board review). Útil como resumen condensado de los puntos clave del año en la especialidad.",
-      "destacado": false
-    },
-    "27ee7542d99c": {
-      "resumen": "OncLive reporta que izalontamab brengitecan (Iza-Bren, un anticuerpo biespecífico conjugado a quimioterapia dirigido a EGFR y HER3) mejoró la supervivencia libre de progresión (PFS, progression-free survival) frente a quimioterapia basada en platino en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación de EGFR que progresó luego de un inhibidor de EGFR de tercera generación. Interesa porque aborda un escenario de resistencia con pocas alternativas eficaces.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se trata de un ensayo clínico comparativo (probablemente aleatorizado) entre izalontamab brengitecan (Iza-Bren) y quimioterapia basada en platino; sin abstract no se puede precisar la fase, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) con mutación de EGFR, que progresaron luego de recibir un inhibidor de EGFR de tercera generación (como osimertinib).\nIntervención: Izalontamab brengitecan (Iza-Bren, anticuerpo biespecífico anti-EGFR/HER3 conjugado a quimioterapia), frente a quimioterapia basada en platino.\nResultados: El título indica una mejora en la supervivencia libre de progresión (PFS), pero no hay mediana de PFS, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el perfil de toxicidad del conjugado ni si hubo beneficio en supervivencia global.\nMensaje: Si se confirma con los números completos, podría surgir como una opción dirigida tras progresión a inhibidores de EGFR de tercera generación, un escenario de resistencia con pocas alternativas eficaces.\nNota: análisis sin acceso al abstract."
-    },
-    "ffaac9b7b01b": {
-      "resumen": "The ASCO Post reporta que una vacuna de ARN mensajero (mRNA) personalizada, combinada con inmunoterapia, podría mejorar los resultados después de la cirugía en pacientes con melanoma de alto riesgo. Interesa porque las vacunas neoantigénicas individualizadas son una de las estrategias más prometedoras para prevenir recaídas tras la resección quirúrgica.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio clínico (probablemente un ensayo aleatorizado de fase 2) que evalúa una vacuna de ARN mensajero (mRNA) personalizada contra neoantígenos tumorales, sumada a inmunoterapia; sin abstract no se puede precisar la fase exacta, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes con melanoma de alto riesgo, en el contexto adyuvante (posterior a la cirugía de resección).\nIntervención: Vacuna de ARN mensajero (mRNA) personalizada, diseñada a partir de neoantígenos individuales del tumor, combinada con un inhibidor de punto de control inmunitario (inmunoterapia); el título no detalla el comparador exacto.\nResultados: El título señala un posible beneficio en los resultados, pero no hay cifras de supervivencia libre de recurrencia, supervivencia libre de metástasis a distancia, razón de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni el perfil de toxicidad de la combinación.\nMensaje: Si se confirma el beneficio, las vacunas de mRNA personalizadas combinadas con inmunoterapia podrían consolidarse como estrategia adyuvante para reducir recaídas en melanoma de alto riesgo, un área de intensa investigación actual.\nNota: análisis sin acceso al abstract."
-    },
-    "db0647850330": {
-      "resumen": "Harper's BAZAAR adelanta las dos manicuras tendencia de la temporada: el efecto 'mirror' (espejo) y las 'glazed nails' (uñas glaseadas)."
-    },
-    "5fca6b541a64": {
-      "resumen": "Telva repasa nueve tendencias de moda para el otoño 2026 que gustan a las mujeres, aunque no tanto a sus parejas."
-    },
-    "f32c758745f6": {
-      "resumen": "El showroom Factoría SIMOF reveló las tendencias que marcarán la moda flamenca de la temporada 2027."
-    },
-    "52905085909c": {
-      "resumen": "La Razón selecciona cinco modelos de zapatillas cómodas y a la moda en las que vale la pena invertir este otoño."
-    },
-    "e976ff14a267": {
-      "resumen": "Jay-Z encabezará el show de entretiempo del Super Bowl 2027, según confirmó Vogue México."
-    },
-    "cd58eba6e117": {
-      "resumen": "La marca Calzedonia tuvo una fuerte presencia en la Gala Vogue de Día de Muertos 2026."
     },
     "bbc7bb5f097f": {
       "resumen": "El pianista Horacio Lavandera se presenta junto al Cuarteto UNNOBA en el Teatro Argentino."
@@ -98,6 +69,39 @@
     },
     "158aabab28ad": {
       "resumen": "La Casa del Chubut en Buenos Aires fue sede de la quinta edición de la Feria del Libro Patagónico, que resultó un éxito."
+    },
+    "1efc961b0e8c": {
+      "resumen": "Minuto Fueguino informa sobre una propuesta para que las mascotas puedan ingresar a comercios y restaurantes de Río Grande."
+    },
+    "220514b684dd": {
+      "resumen": "Buenos Aires Connect revela los secretos detrás de la obra El equilibrista, protagonizada por un perro, una abuela y un timón."
+    },
+    "d48b99cd16c7": {
+      "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
+    },
+    "a45e7aa8b772": {
+      "resumen": "Vogue repasa el desfile de ropa lista para usar (ready-to-wear) de Vivienne Westwood para la temporada primavera 2027."
+    },
+    "7af29d17eeb4": {
+      "resumen": "Vogue repasa el desfile de moda masculina de Kith para la temporada primavera 2027."
+    },
+    "5ba4e684b44a": {
+      "resumen": "El Tiempo repasa la apuesta de Brasil por la moda sostenible para conquistar mercados internacionales."
+    },
+    "770e118ba62f": {
+      "resumen": "Vogue México propone cómo combinar las pantimedias de Calzedonia para el Día de Muertos 2026."
+    },
+    "1121ebb612f0": {
+      "resumen": "Vogue México toma a Dua Lipa como inspiración para combinar botas con jeans, la tendencia del otoño 2026."
+    },
+    "5d9d2540bfd9": {
+      "resumen": "El Mar del Plata Fashion Week realizará dos jornadas de moda a beneficio del Hospital Materno Infantil."
+    },
+    "41ab877f20dd": {
+      "resumen": "Vogue México recorre Amangiri, el resort en medio del desierto donde el lujo pasa por recuperar la capacidad de asombro."
+    },
+    "fe6ad1259878": {
+      "resumen": "Qhubo Medellín repasa detalles del vestido y la fiesta de casamiento de Ariadna Gutiérrez con un empresario mayor que ella."
     }
   }
 }
