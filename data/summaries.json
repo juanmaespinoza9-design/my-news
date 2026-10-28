@@ -1,60 +1,19 @@
 {
-  "generated_at": "2026-10-28T10:15:01Z",
+  "generated_at": "2026-10-28T22:11:32Z",
   "summaries": {
     "3235b13f4541": {
       "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) recibió la solicitud de aprobación biológica (BLA, biologics license application) para etentamig, un anticuerpo biespecífico en investigación, destinado al mieloma múltiple recaído o refractario (R/R). Interesa porque, si se aprueba, sumaría una nueva opción a la familia de biespecíficos para este escenario de difícil manejo.",
       "destacado": false
     },
-    "e344ff56e13a": {
-      "resumen": "The ASCO Post analiza si la enucleación (resección limitada que preserva el páncreas) es una alternativa segura a la pancreatoduodenectomía (cirugía de Whipple, de mayor extensión) para tumores benignos o de bajo grado de la cabeza del páncreas. Interesa porque una técnica menos invasiva podría reducir complicaciones sin comprometer el control oncológico en tumores de bajo riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio comparativo, probablemente retrospectivo y de cohorte, entre enucleación y pancreatoduodenectomía; sin el abstract no se puede precisar el número de centros ni de pacientes.\nPoblación: Pacientes con tumores benignos o de bajo grado en la cabeza del páncreas, candidatos a cirugía.\nIntervención: Enucleación (resección limitada que preserva el parénquima pancreático), comparada con pancreatoduodenectomía (cirugía de Whipple).\nResultados: No hay cifras de morbilidad, mortalidad perioperatoria ni recurrencia disponibles sin el abstract.\nLimitaciones: Un diseño retrospectivo conlleva riesgo de sesgo de selección, ya que los tumores más chicos o de menor riesgo suelen elegirse para enucleación; sin el abstract no se puede evaluar el ajuste por estas diferencias.\nMensaje: Si confirma seguridad comparable, la enucleación podría consolidarse como alternativa menos invasiva en tumores pancreáticos seleccionados de bajo riesgo.\nNota: análisis sin acceso al abstract."
-    },
-    "92453f3e4d37": {
-      "resumen": "The ASCO Post reporta un estudio sobre el impacto de la tomosíntesis digital de mama (DBT, digital breast tomosynthesis), una técnica de imagen 3D, en la tasa de cánceres de mama invasivos de intervalo, es decir los que aparecen entre dos controles de rastreo. Interesa porque podría indicar si esta tecnología mejora la detección temprana frente a la mamografía convencional.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio observacional, probablemente basado en un registro o programa de rastreo poblacional; sin el abstract no se puede precisar si fue prospectivo, el número de centros ni el tamaño de la cohorte.\nPoblación: Mujeres que participan en programas de rastreo (screening) de cáncer de mama con tomosíntesis digital (DBT).\nIntervención: Tomosíntesis digital de mama (DBT), comparada presumiblemente con mamografía digital convencional (2D).\nResultados: No hay cifras de tasa de cáncer de intervalo, sensibilidad ni valor de p disponibles sin el abstract.\nLimitaciones: Un diseño observacional no permite establecer causalidad y puede estar sujeto a diferencias en la población rastreada entre ambas técnicas; sin el abstract no se puede evaluar el ajuste estadístico ni el tiempo de seguimiento.\nMensaje: Si la DBT muestra una menor tasa de cánceres de intervalo, respaldaría su adopción más amplia en programas de rastreo mamario.\nNota: análisis sin acceso al abstract."
-    },
     "e71ef5ef857f": {
       "resumen": "T-DXd (trastuzumab deruxtecán, un anticuerpo conjugado a quimioterapia dirigido a HER2) obtuvo la aprobación de la Unión Europea para el cáncer de mama HER2 positivo en estadio temprano con enfermedad residual tras el tratamiento neoadyuvante. Interesa porque amplía en Europa el acceso a una terapia ya validada por el estudio DESTINY-Breast05 en este escenario de alto riesgo de recaída.",
       "destacado": false
     },
-    "480a3574f2f4": {
-      "resumen": "OncLive informa que elranatamab, un anticuerpo biespecífico dirigido a BCMA y CD3, alcanzó el criterio de valoración principal de supervivencia libre de progresión (PFS, progression-free survival) en un ensayo de fase 3 en mieloma múltiple recaído o refractario (R/R) tras terapia anti-CD38 y lenalidomida. Interesa porque podría posicionar a elranatamab como una nueva opción eficaz en pacientes ya expuestos a estas terapias estándar.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado de fase 3; sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño exacto de la muestra.\nPoblación: Pacientes con mieloma múltiple recaído o refractario (R/R), previamente tratados con un anticuerpo anti-CD38 (como daratumumab) y lenalidomida.\nIntervención: Elranatamab (anticuerpo biespecífico BCMA x CD3); el título no detalla el comparador exacto.\nResultados: El título indica que el estudio alcanzó el criterio de valoración principal de supervivencia libre de progresión (PFS), pero no hay mediana de PFS, razón de riesgo, intervalo de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el perfil de toxicidad, incluido el síndrome de liberación de citoquinas, frecuente con biespecíficos.\nMensaje: Si se confirma el beneficio en PFS, elranatamab podría consolidarse como una opción eficaz tras progresión a anti-CD38 y lenalidomida, un escenario con necesidad insatisfecha.\nNota: análisis sin acceso al abstract."
-    },
-    "43c2d6f0bf1b": {
-      "resumen": "El Cronista recomienda ocho restaurantes porteños para festejar el Día Mundial de la Pasta y repasa sus platos más destacados."
-    },
-    "7d7083ab5bcf": {
-      "resumen": "iProfesional propone planes para el fin de semana en la Capital, entre homenajes a Charly García, gastronomía coreana y actividades con mascotas."
-    },
-    "d41552b87def": {
-      "resumen": "La Nación recomienda diez lugares de Buenos Aires para comer pastas artesanales, en el marco del Día Mundial de la Pasta 2026."
-    },
-    "48120e1d9846": {
-      "resumen": "MDZ Online propone planes para celebrar en Buenos Aires los 75 años de Charly García este fin de semana."
-    },
-    "bbc7bb5f097f": {
-      "resumen": "El pianista Horacio Lavandera se presenta junto al Cuarteto UNNOBA en el Teatro Argentino."
-    },
     "1efc961b0e8c": {
       "resumen": "Minuto Fueguino informa sobre una propuesta para que las mascotas puedan ingresar a comercios y restaurantes de Río Grande."
     },
-    "220514b684dd": {
-      "resumen": "Buenos Aires Connect revela los secretos detrás de la obra El equilibrista, protagonizada por un perro, una abuela y un timón."
-    },
     "d48b99cd16c7": {
       "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
-    },
-    "a45e7aa8b772": {
-      "resumen": "Vogue repasa el desfile de ropa lista para usar (ready-to-wear) de Vivienne Westwood para la temporada primavera 2027."
-    },
-    "9b1ca8778cd9": {
-      "resumen": "The ASCO Post reporta un estudio sobre agregar radioterapia a la terapia sistémica en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) oligometastásico, es decir con un número limitado de metástasis. El título indica que mejoró la supervivencia libre de progresión (PFS, progression-free survival) pero no la supervivencia global (OS, overall survival). Interesa porque el rol de la radioterapia local en este escenario todavía se debate.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un ensayo clínico que evalúa agregar radioterapia a la terapia sistémica; sin el abstract no se puede precisar si fue aleatorizado, el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) oligometastásico.\nIntervención: Radioterapia agregada a la terapia sistémica, comparada con terapia sistémica sola.\nResultados: El título indica mejora en la supervivencia libre de progresión (PFS) pero no en la supervivencia global (OS); no hay medianas, razón de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni si el estudio tuvo poder estadístico suficiente para detectar diferencias en supervivencia global.\nMensaje: Un beneficio en PFS sin traducción en OS sugiere que la radioterapia podría retrasar la progresión sin necesariamente prolongar la vida, lo que mantiene abierto el debate sobre su indicación sistemática en NSCLC oligometastásico.\nNota: análisis sin acceso al abstract."
     },
     "236cb9e7c93a": {
       "resumen": "Journal of Clinical Oncology publica la actualización 2026.1.0 de la guía viviente (living guideline) de la ASCO (American Society of Clinical Oncology) sobre el uso de inhibidores de PARP (poli ADP-ribosa polimerasa) en cáncer de ovario. Interesa porque estas guías vivientes se actualizan de forma continua con la evidencia más reciente y orientan decisiones de tratamiento de mantenimiento en la práctica diaria.",
@@ -72,32 +31,71 @@
     },
     "04a2bf1cb193": {
       "resumen": "Journal of Clinical Oncology publica un reanálisis metodológico sobre si la conclusión de futilidad del ensayo RADICAL (que evaluó agregar radio-223 a cabozantinib en cáncer renal con metástasis óseas) se mantiene robusta frente a distintas formas de analizar los datos. Interesa porque cuestiona qué tan sólida fue la decisión de cerrar ese ensayo por falta de beneficio.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Reanálisis metodológico (análisis secundario) de un ensayo de fase 2 aleatorizado, el estudio RADICAL, que fue cerrado de forma anticipada tras un análisis de interim por futilidad.\nPoblación: Pacientes con carcinoma de células renales metastásico con metástasis óseas; el ensayo original incluyó 98 pacientes (48 en la combinación y 50 en el comparador).\nIntervención: Cabozantinib más radio-223 versus cabozantinib solo; el criterio de valoración principal del ensayo original fue la supervivencia libre de eventos esqueléticos sintomáticos (SSE-FS).\nResultados: En el análisis de interim que motivó el cierre, la razón de riesgo (HR) fue 1,24 (IC 95%: 0,62-2,48), cruzando el límite de futilidad prefijado (regla de Wieand); este reanálisis evalúa si esa conclusión se sostiene ante distintas especificaciones analíticas, pero sin el abstract no se puede precisar el resultado final del reanálisis.\nLimitaciones: El cierre anticipado por futilidad reduce la potencia estadística y limita la capacidad de detectar un beneficio real; además, el reanálisis depende de supuestos metodológicos que pueden no coincidir con los del diseño original.\nMensaje: Cuestiona si decisiones de cierre anticipado de ensayos por futilidad, como la de RADICAL, son suficientemente robustas, con implicancias para el diseño de futuros ensayos con reglas de interrupción temprana.\nNota: datos del ensayo original obtenidos de cobertura periodística y búsqueda complementaria, sin acceso directo al abstract de este reanálisis."
     },
-    "e094b678da55": {
-      "resumen": "Guía de las tendencias en anillos de esta temporada: piezas maxi en plata y dorado, con tips para combinarlas."
+    "890e83b7e266": {
+      "resumen": "La ASCO Post repasa cómo la histopatología experta combinada con testeo molecular mejora el diagnóstico de tumores melanocíticos cutáneos ambiguos (lesiones de la piel derivadas de melanocitos cuya naturaleza benigna o maligna no queda clara con la biopsia convencional). Interesa porque un diagnóstico más preciso en estos casos límite evita tanto el sobretratamiento como el subtratamiento de lesiones que podrían ser melanoma.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un artículo que combina revisión histopatológica experta y testeo molecular; sin el abstract no se puede precisar si se trata de un estudio original (cohorte o serie de casos) o de una revisión/consenso de expertos.\nPoblación: Pacientes con tumores melanocíticos cutáneos de diagnóstico ambiguo (lesiones límite entre nevo atípico y melanoma).\nIntervención: Revisión histopatológica por expertos combinada con pruebas moleculares, comparada presumiblemente con el diagnóstico histopatológico convencional aislado.\nResultados: No disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la muestra, el diseño exacto ni si hubo confirmación con seguimiento clínico a largo plazo.\nMensaje: Si confirma que la combinación mejora la precisión diagnóstica, respaldaría su incorporación en centros de referencia para casos límite, reduciendo el riesgo de sobre o subtratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "62480d717493": {
-      "resumen": "Video con propuestas de looks de moda otoño-invierno para mujer, con ideas de outfits de la temporada."
+    "1b9ffcf13cb6": {
+      "resumen": "El título recuperado corresponde al feed general de OncLive, un portal especializado en noticias y análisis de oncología clínica, y no identifica una noticia puntual. Se incluye igual porque la fuente suele traer actualizaciones relevantes de ensayos y aprobaciones en oncología.",
+      "destacado": false
     },
-    "b89a92547db2": {
-      "resumen": "Un recorrido por las tendencias de la moda vintage de los años 20 y cómo llevarlas a la actualidad."
+    "15f1f2533541": {
+      "resumen": "The ASCO Post entrevista al oncólogo Neil M. Iyengar sobre estrategias de manejo ante mutaciones coexistentes en cáncer de mama avanzado. Interesa porque la combinación de alteraciones genéticas distintas en un mismo tumor complica la elección de tratamiento dirigido.",
+      "destacado": false
     },
-    "12cc6f2c7022": {
-      "resumen": "Cinco alternativas de calzado cómodo y a la moda para el tardeo de otoño, con ideas para combinarlas."
+    "d7a94fccd089": {
+      "resumen": "The ASCO Post difunde una entrevista al oncólogo Alberto A. Chiappori sobre un estudio de fase I con una nueva terapia de células CAR-T (linfocitos T del paciente modificados genéticamente para reconocer y atacar células tumorales) en cáncer de pulmón a pequeñas células (SCLC, small cell lung cancer) recaído o refractario. Interesa porque las terapias celulares todavía son un terreno en exploración inicial en tumores sólidos como el SCLC.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo de fase I (primera vez en humanos), según el título, para evaluar una nueva terapia de células CAR-T; sin el abstract no se puede precisar aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón a pequeñas células (SCLC) recaído o refractario a tratamientos previos.\nIntervención: Terapia celular con linfocitos T modificados genéticamente (CAR-T) dirigida a un blanco tumoral no especificado en el título; sin comparador, como es habitual en fase I.\nResultados: No disponibles sin el abstract.\nLimitaciones: Los estudios de fase I suelen incluir pocos pacientes y su objetivo primario es la seguridad y la dosis, no la eficacia; los resultados preliminares no permiten conclusiones definitivas.\nMensaje: Si confirma señales de actividad y un perfil de seguridad manejable, podría justificar el avance a fases posteriores de desarrollo de CAR-T en SCLC, un escenario con pocas opciones terapéuticas nuevas.\nNota: análisis sin acceso al abstract."
     },
-    "aff9beed80d4": {
-      "resumen": "Una recorrida por el taller histórico de la casa francesa Asnières, donde la tradición artesanal parece detener el tiempo."
+    "e9b0af995f3a": {
+      "resumen": "Vogue repasa la colección primavera-verano 2027 ready-to-wear de la firma india Kartik Research, presentada en la pasarela."
     },
-    "5695dcff4af9": {
-      "resumen": "Tres motivos para animarse al flequillo francés, el corte que se impone como tendencia en octubre."
+    "74d5268650d8": {
+      "resumen": "El look otoñal de Katie Holmes combina mocasines fruncidos color café, jeans baggy y chamarra, y se convierte en inspiración de estilo."
     },
-    "fedd2f0583eb": {
-      "resumen": "El tenor Eduardo Crovara regresa a escena en el Teatro Colón de Mar del Plata."
+    "098fe4bb4467": {
+      "resumen": "La manicura Lucent, un esmaltado casi invisible y luminoso, se impone como la tendencia de uñas del otoño 2026."
     },
-    "09b9fba0f6d8": {
-      "resumen": "Benja Torres presenta en el ND Teatro su espectáculo \"Como en Casa\", inspirado en un viaje de diez mil kilómetros."
+    "f1b14d521f3e": {
+      "resumen": "Los especialistas en moda Claudia Arenas y Gabriel Guevara repasan las tendencias clave para vestir este otoño-invierno."
+    },
+    "0d56d49f1504": {
+      "resumen": "Kim Kardashian lució un vestido blanco con flecos y sandalias de tiras durante su paso por la Ciudad de México."
+    },
+    "e34fe7dbd8a3": {
+      "resumen": "Los opera coats, abrigos largos y elegantes, se combinan con los jeans de moda para vestir el otoño 2026."
+    },
+    "3692283fd2a9": {
+      "resumen": "Las gabardinas cortas vuelven a imponerse como tendencia y ya se lucen combinadas con jeans, según siete looks de referencia."
+    },
+    "493401a5433b": {
+      "resumen": "Estudiantes de la Escuela de Oficios Teatrales del Teatro Tronador del Banco Nación visitaron el barrio Villa Mitre, en Mar del Plata."
+    },
+    "6aa03648ed40": {
+      "resumen": "Una selección de cuatro restaurantes y bares porteños para festejar Halloween el 31 de octubre."
+    },
+    "c6036473185d": {
+      "resumen": "La obra teatral inmersiva sobre Ava Gardner vuelve a Buenos Aires, esta vez con sede en el barrio de Chacarita."
+    },
+    "7ad975a96751": {
+      "resumen": "Elena Roger presentará su concierto en el Teatro Coliseo en diciembre."
+    },
+    "1efed805d507": {
+      "resumen": "El Ballet Municipal pone en escena la obra San Francisco con la participación de una figura del Teatro Colón."
+    },
+    "e218d394dc82": {
+      "resumen": "Una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "97bbb8ca87dc": {
+      "resumen": "El fenómeno climático El Niño se mantiene con 100% de probabilidad hasta fin de año y se recomienda armar un kit de emergencia y saber cuándo cortar la luz."
+    },
+    "0f90eb914faa": {
+      "resumen": "Una agenda con 27 planes para el fin de semana largo del 29 de octubre al 1° de noviembre en Buenos Aires, entre ferias, conciertos y experiencias."
     }
   }
 }
