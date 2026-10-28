@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:47:50.258151+00:00",
+ "generated_at": "2026-10-28T01:28:43.646496+00:00",
  "sections": [
   {
    "id": "oncologia",
@@ -7,11 +7,25 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Neil M. Iyengar, MD, on Co-Occurring Mutations in Advanced Breast Cancer: Management Strategies",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFBXWkNsN0hnbldSckFJZVZIZHoxbkZIZUFFbnBfOS1DYWpZSVVVeW5jamxjeWowWXJ6ZmZGc1h0RmpyeFJXM1QyRHBuOFZqWWRXY2Q5VG9DZWlfamJFTnNSUkZBbXlUWEtpa2NTbE1KQUtDa3BFakRzcnd6MUY3RklMa1A3TGpNaHlnOHZPM2FWa1dtdm5QcWlrTG5yckFtQjBGUkNfdTd1QXFQY1BXNi1OZUI4XzBEUmc?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-27T17:53:50+00:00",
+     "id": "15f1f2533541"
+    },
+    {
      "title": "FDA Receives BLA for Etentamig in R/R Multiple Myeloma",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPME9IMlgzWGoxNm9Ua1A2Z2oybURfNURLeDQwZklTRHhqMVJKaS1uUl9SWDU1V1o5ZDVsVUtqUW5GcmNnTXk0ZmRCZV84SlJPdVNkdXd1WkUtN0lhellhRE13eUJndGZnTDByS2VqQWk3M1JyQm9FWldVazZYcUN1SnBVNFlUSnpSUlZR?oc=5",
      "source": "OncLive",
      "published": "2026-10-27T17:48:14+00:00",
      "id": "3235b13f4541"
+    },
+    {
+     "title": "Alberto A. Chiappori, MD, on Relapsed or Refractory SCLC: Phase I Study of Novel CAR T-Cell Therapy",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG1XZTBhOUgzSW9SSk1GNGtIVkZ4UzFCX2xvdDVMbVVTeXFNajA4NzRyUzZvZm9NaHp5SVlPWVBuZHBfNmtHeVY2Z2QwM25wNVJVSFh4ZFgtZE54TENJS0VVb1ZHT3BJRmFnRmlaZ3piZlRxV0FzZDF1eUM1ek1yQzNSTFAtejZ4bjVEb0g2YlNVX0czY095M3otV2ZDU2hIcFJEbXhOcENRdjE2ZmJKekM4RWs?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-10-27T16:26:30+00:00",
+     "id": "d7a94fccd089"
     },
     {
      "title": "Is Enucleation a Safe Alternative to Pancreatoduodenectomy for Benign or Low-Grade Pancreatic Head Tumors",
@@ -21,25 +35,11 @@
      "id": "e344ff56e13a"
     },
     {
-     "title": "Impact of Digital Breast Tomosynthesis on Invasive Interval Breast Cancer Rate",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-10-27T15:21:55+00:00",
-     "id": "92453f3e4d37"
-    },
-    {
      "title": "T-DXd Gains EU Approval in Residual HER2+ Early Breast Cancer",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkpXWlZaUVNoa3lrbGdmYVlvNkZoWkNVNTFMNF9LdWg2bDNVMl9uT1dzMG9kZGI4Yjh0UTJKNWtIcXBmZV9vd1dlVG9fTS05RkNhU21rUUZKOHd3RDBGdllFSEdJUUs2UHdMS3RVR0lWX29VYjZ6U2lfQ2VoT2pjVzRNZ29famVRUnFXbW5nV01CazQ?oc=5",
      "source": "OncLive",
      "published": "2026-10-27T15:20:45+00:00",
      "id": "e71ef5ef857f"
-    },
-    {
-     "title": "Divarasib in Previously Treated Advanced KRAS G12C–Mutated NSCLC",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1hjODgxUG9qcjdZMElsOU5SY1pCWDZOc1BOeDdyWTQ5dE1haWZrWWR0VXBMV25KNmU4SVVNX3ZsWlRBVDBXaVlsOXpmdmJsSlFKYktzQndZNXpvdTFvM0NySzVaQ083eXVCNUoybmlycHJ2SEZxY1FNckdqTERXTk1iejBGdDBRNjQwT1NVRkpVQ2gxZDlHaUZackFpUENFMXRXNGZFQQ?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-10-27T15:01:27+00:00",
-     "id": "691f1fa7423b"
     },
     {
      "title": "Elranatamab Meets Phase 3 PFS End Point in R/R Myeloma After Anti-CD38 Therapy and Lenalidomide",
@@ -49,36 +49,36 @@
      "id": "480a3574f2f4"
     },
     {
-     "title": "Dalmelitinib Plus Aumolertinib in Advanced NSCLC Patients With EGFR-TKI Resistance and MET Amplification: A Randomized Phase 3 Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42928710/",
+     "title": "PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42945508/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-10-26T00:00:00+00:00",
-     "copete": "Li Z et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "ba74938210ba"
+     "published": "2026-10-27T00:00:00+00:00",
+     "copete": "Tew WP et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "236cb9e7c93a"
     },
     {
-     "title": "ENZARAD (ANZUP 1303): Phase 3 Trial of Enzalutamide With Androgen Deprivation Therapy and Radiation Therapy in High-Risk Localized or Locally Advanced Prostate Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42921729/",
+     "title": "Art as a Shared Space: Tracing the Unseen Through a Body Map",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42945507/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-10-24T00:00:00+00:00",
-     "copete": "Williams S et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "34487fe908d3"
+     "published": "2026-10-27T00:00:00+00:00",
+     "copete": "Choi GE et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "c257d7207334"
     },
     {
-     "title": "Phase II Study of Neoadjuvant Cemiplimab for Stage II to IV Cutaneous Squamous Cell Carcinoma: Final Analysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42921711/",
+     "title": "Advancing Cascade Genetic Testing for BRCA1/2 Pathogenic Variants Beyond the Academic Research Setting",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42945506/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-10-24T00:00:00+00:00",
-     "copete": "Gross ND et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "65f9a2ff68e1"
+     "published": "2026-10-27T00:00:00+00:00",
+     "copete": "Roberts MC et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "b332cc58f359"
     },
     {
-     "title": "COMPANION-002: A Randomized Phase 2/3 Trial of Tovecimig Plus Paclitaxel versus Paclitaxel Alone as a Second-line Therapy in Patients with Advanced Biliary Tract Cancer",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42920414/",
+     "title": "Was Futility in RADICAL Robust to Analytic Specification?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42945503/",
      "source": "Journal of Clinical Oncology",
-     "published": "2026-10-24T00:00:00+00:00",
-     "copete": "Azad NS et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "b2d1c40305db"
+     "published": "2026-10-27T00:00:00+00:00",
+     "copete": "Li H et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "04a2bf1cb193"
     }
    ]
   },
@@ -91,73 +91,73 @@
      "title": "Vivienne Westwood Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/vivienne-westwood",
      "source": "Vogue",
-     "published": "2026-10-27T20:43:10+00:00",
+     "published": "2026-10-28T01:23:35+00:00",
      "id": "a45e7aa8b772"
     },
     {
      "title": "Kith Spring 2027 Menswear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/kith",
      "source": "Vogue",
-     "published": "2026-10-27T20:43:10+00:00",
+     "published": "2026-10-28T01:23:35+00:00",
      "id": "7af29d17eeb4"
     },
     {
-     "title": "The Free K-Beauty Way to Stop Hair Loss",
-     "link": "https://www.vogue.com/article/k-beauty-hair-shedding-treatment",
-     "source": "Vogue",
-     "published": "2026-10-27T20:35:49+00:00",
-     "copete": "According to Korean hair clinic Lee Moon Won, this habit may lead to unexpected hair shedding. Here, experts break down why that might be and offer solutions to keep hair looking full and healthy.",
-     "id": "692d6868fde7"
+     "title": "Asnières: un viaje al corazón de Louis Vuitton, donde el tiempo se detiene",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObm1sVGNtcGNYWFBpV19yWWcxSXlTRG5adjJIeTdNZDBGN0dib2ltSWNSOFhTbWl0NlkwYS02bWxQYVBZdnpXUXlBTlJzaTlmb2tDeHJtbXpzNGllSDZFWlladThfdU5IZWpwRVRaTFlkeDhmYUNLd0xYTGlKRmIxeWMzNkgxYk1Wb1VTMFVUaEdZdnZEUFB5eTg1Q2JrS2F1YUpOVA?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-28T01:16:11+00:00",
+     "id": "aff9beed80d4"
     },
     {
-     "title": "The Best Celebrity Halloween Costumes Of All Time: Paris Hilton, Kim Kardashian & More",
-     "link": "https://www.vogue.com/slideshow/the-best-celebrity-halloween-costumes",
+     "title": "I Tried the First BEMT Sunscreens to Launch in the US—Here’s How They Wear",
+     "link": "https://www.vogue.com/article/bemt-sunscreens-test",
      "source": "Vogue",
-     "published": "2026-10-27T20:23:42+00:00",
-     "copete": "From Heidi Klum’s iconic costumes to the Biebers, and the Kardashian clan’s over-the-top ensembles, the best celebrity Halloween costumes never fail to delight and fright.",
-     "id": "a2e4466d6a60"
+     "published": "2026-10-28T00:54:37+00:00",
+     "copete": "Bemotrizinol (BEMT) sunscreens are the latest launch that everyone is talking about. Here, Vogue looks into the new sunscreen filter and reviews four sunscreens featuring the buzzy ingredient.",
+     "id": "046b6d91e9cd"
     },
     {
-     "title": "La apuesta de Brasil por la moda sostenible para conquistar mercados internacionales",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT21XVWxYeUhNZXN1Z2xVd1Jxb3g4VHVWMDY5TnVPMkxDdi10OFJhNTB6MllfZko3bW9xRTBNN3N6V2ZvVV9NVDJiSVJZWWswSGY0cGkwaG1DRUlDSkRXa01FRnVnSzY0dXR0TUdWYVFZTEtEQm84MHcyZDJ4Zk1pTklYN1F6UW8xZkI5Z3dxZm85a1lHamVRa3JsWWgwVE9hTVpyWlpVbmFvemFzYTBURXJwQ3EwZ1pCZWVQMW1DTUgxNWxpcWFhVmkwakxZUdIB0wFBVV95cUxPZnhpaXk2em4teFNWS0Y4N0lOakN3SVhTY1JiWWFhdklLNFNITVlpel9iMXN0cHFpQmxCNGgydTdhMHoxVGxVYndSdzRwbnNBd19UcVdPeXc0bmVrbkpmYV9kV25tVkh2X1VYM2VOTXBTT3I4NlNoYWFSQ2xfbEZkVGZWaF9aUHpxWUZTNGhfRHhxUHdDbWxYT3h5UkxGVGVXbVRPN2F1ZkJfN0haQlprMFJFN1VUS1B1VDBNTXQxTlhxU0hSVUJYVU1CT1kxNy1hbTNj?oc=5",
+     "title": "3 razones para probar el corte de cabello con flequillo francés que es tendencia en octubre 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pHSnRPSXgyX0k3T0o0eU5IZl9sX3RWRG4tTXAwMVZfQ0tINGNwX0phWnRGY1o1blIzcjluanMzdlZlLXJtMEp2S0cwR0hfT1VmUEJxNG51eVpoYkI5RUhrSVhPMFVMZmE2a1RwRlliay1hM1dxSEFIckZrbTNOeWNySm9aUTF5WDh1YWdra2hoVGdWb3ZMcm9yRENMbXR6Tmo1anh0TDNHN21aWGc?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-28T00:11:17+00:00",
+     "id": "5695dcff4af9"
+    },
+    {
+     "title": "I Put L’Oréal Paris Revitalift to the Test—These Products Impressed Me Most",
+     "link": "https://www.vogue.com/article/best-loreal-paris-skincare-products",
+     "source": "Vogue",
+     "published": "2026-10-27T23:27:07+00:00",
+     "copete": "What's the best L’Oréal Paris Revitalift product? We put the collection to the test to see if the formulas live up to the hype. From a peptide serum to a SPF-infused moisturizer, these are the products that standout.",
+     "id": "7a07fb352b40"
+    },
+    {
+     "title": "IPSY iluminó los looks de la Gala Vogue de Día de Muertos 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGpIWkllSERJUWlMNGZwazh5TlBPTzhMUDBnSzIzYU5mSWVsaVRsaHZMQUJ6d0djOHZGUkVqSUsxV2NaSjRIZE9fNGt6emJod05wWVZOODh4dGd1YVNyMHh4SWZQSC05SE1Oc0ZhTHVSMHNydk9HZmZrUnd6YVNvQ3NXUG95dUpZRzhVWHJIb0JNUTlwTW1EYXhQTHpVWE52MThZ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-10-27T23:20:54+00:00",
+     "id": "4c9cb6efa4e6"
+    },
+    {
+     "title": "El clásico árbol de Navidad todo verde pasó de moda: la tendencia en 2026 que es mucho más elegante",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTFZGMW9WeWxfeGFHSkR0WmtHY3ROdW5qYW5qbnVtVzk5NWNPcE93eTV3N2xDeF92aERrdE5OZDVkVzdBaUFaVlQ2ZDJCQUJzNmpneWgxNEp4Y3dnVjFKU1hMQ3ZhaVIwWXZVeGJpSzdZNjZjTWRJVnRGdHBZbWdBOHF6RW1abDJXV2NFbmhtbm9uUGFwTFc2NGtXSjF6dDRnQkRNNzU1LWE0R0I1bXBWTnNaQ1o1azJOeXd3cjR1cjl1UTNhSGh0MmxncFFWS3dOTXBmLXBR?oc=5",
+     "source": "Canal26",
+     "published": "2026-10-27T20:38:21+00:00",
+     "id": "c0cbf44d3efd"
+    },
+    {
+     "title": "Brasil apuesta por la moda sostenible para conquistar mercados internacionales",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0VrSWdFUzRKQ2Z0Uy1CVklsN0F2ZWhvTWFCaVVkLXFzWDVKRHVVRG0xMlc2NDNkV0xzekRTeF9jZmswWlNMR1FMRTBlQ1YtSjJadWkwYUZFTDRmSktlZ2xJRFZuRVZ1MEIyeW9WTDlxdWJORmZvdEF3VTFrZDk3YkRTZkJ4SDByUDVHNS00dlhGalg1VV9wV3hoNGdqS2wtU0prcEhidGlfMjU2LVdUX2t1dEZkRGVqS2xfeEZWTzJRYXhqemc?oc=5",
      "source": "El Tiempo",
      "published": "2026-10-27T19:20:27+00:00",
-     "id": "5ba4e684b44a"
+     "id": "790d22ed5ccf"
     },
     {
-     "title": "Cómo llevar pantimedias CALZEDONIA este Día de Muertos 2026",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0VzSmk4VVV6TjhZTjlMN091X1EtTWRiNTJGTDhCMG5UcTBiM1VpbUpRRzBTLUNPNU1pOUVQT1dib3NxeGFLbC1wZ20wZDdLbzRrSEpNd1BtQU5ZT0Ewejd2a1dwM2NydDJGUkdpcVdjRkxjRE54U1JMQWhfZWJnYnFVdEpLY284QWx6alg4Xy0xVHFPMkNF?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-27T18:50:53+00:00",
-     "id": "770e118ba62f"
-    },
-    {
-     "title": "Dua Lipa es la inspiración para llevar botas con jeans en tendencia para otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3lCVExDU256LUx4a3F2al9VQzhDd2hZSElGdUYyWURTWDUxTnYwRG92MlJGcEM5eDI3WHVMT19rbG9PYnh2ZkdFNm1kWHcwbG9EQUZhd2lwbWo2UmpwcTVDTUVnQnRPeDFPWWdHZENycEZzd0J2bHJJdUF4blJHLWVPMXpCVXpQcnh4ZmJHS0hGYnNLWHA2aDdFTm9XTXd5clk3MWtTRXNWUjJkSHhMTUJfSQ?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-27T18:37:42+00:00",
-     "id": "1121ebb612f0"
-    },
-    {
-     "title": "Mar del Plata Fashion Week: dos jornadas de moda y solidaridad a beneficio del Hospital Materno Infantil",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMll3QjREVVhQaDRnZUpKZWpoUEx0N0R6NUdyZlFVM3prZG1uMDZaTXZwb1VOaVZ6ZDkzOTdob054SnEtVzZldE13WDFMV1lYM1pYaFNUbnF6TXAzZDV0b0hFRkF4WlFYZ1JuLUlxNUZwWEhfRkNNQTRRUTh5cllfd3g2aG80MXJla1kxY20xbUc4dUlWOVVXbjNuQVR1SDAzOUUyTDNRLUt5Mk1yLTNPRk5zRHlpQ09ZajAzT245ZE5tTG5VS3NERWlaUHVyTm9DUkcxeFBlM0dlM1ViNzJ5ajJ0cTg?oc=5",
-     "source": "0223.com.ar",
-     "published": "2026-10-27T18:03:00+00:00",
-     "id": "5d9d2540bfd9"
-    },
-    {
-     "title": "Amangiri, el resort en medio del desierto donde el lujo consiste en recuperar la capacidad de asombro",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRaThoc2w0THFuUVpwQVZEMFQyNEE2TzZWQ1ZiVzZSeWtLcGh0dHJHcnR4OGp4NWtoMEk1Zmp1N2VhNjNuYXpTS19aSHA4dE9TVWIyTDU5UmpyLTg3NG1z?oc=5",
-     "source": "Vogue México",
-     "published": "2026-10-27T17:22:04+00:00",
-     "id": "41ab877f20dd"
-    },
-    {
-     "title": "Del vestido a detalles de la fiesta: Más de la boda de Ariadna Gutiérrez y magnate cincuentón | Q´HUBO Medellín",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEJqRnRiRG9uRm1RUnNRX3VlZTdHTDNiMVI4MnZxZXpPTWVya0NYZTRYRkdxb2lfWUJIYkNtU2Q1MTk1MFJRZnVjNVpHR1dWUXg3Mkpwb2pMNnMxWjk5OE4zYlRoT1VnVFR1UVlZY0ctUHkwdjhrUlUzbFRQTUJrVXpKU2QtT3hLbVRuZEtHQWpYUTdKclVNYVBRV2ZJcEpzVEhJcdIBrwFBVV95cUxPc0pNMkZOTHZmUnNGUjdpaVQ5QkZuUjdqdGdKamMyVWFubTE0MHc4V2ZiZUVybXg4VzlzUjJBdFBVa0JVeG8zU1JLLUtyNWw2MHFTR3FXVXl0R2l6TWtTaG1VRGFZaWUzdUNBWG15eGVkUVVqbEg0ZVBBc0lWTzI2Y1FzcGZ0Q01aZ0NIZGoyMElFWU5iSkVuQmNabnQ5NWJ0Wl9SZmpqU1dod2RkT05R?oc=5",
-     "source": "Qhubo Medellín",
-     "published": "2026-10-27T14:40:37+00:00",
-     "id": "fe6ad1259878"
+     "title": "5 cortes de pelo corto modernos para mujeres que quieran verse más jóvenes y elegantes pasados los 60 siguiendo las tendencias de la temporada",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyakhQSnYwMnYwUGZzYzdxNzNWWlRWeGF0QnZtdkZrLVp4cnpjSWN4VTlHNDVENXNxLTJvaHo5SUdJLUlRTmN6R0xoRFA3cG5ZQlpJMlRLLUhtbEdDTmN0aWY0NVRjNFUwTE9GZ1c4QkMzaENid2xHTGU4N2M?oc=5",
+     "source": "Revista CLARA",
+     "published": "2026-10-27T19:00:00+00:00",
+     "id": "7d881376eacb"
     }
    ]
   },
@@ -167,84 +167,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Vanina Escudero celebró su cumpleaños rodeada de amigas y familia: “Agradezco mi vida”",
-     "link": "https://www.infobae.com/teleshow/2026/10/27/vanina-escudero-celebro-su-cumpleanos-rodeada-de-amigas-y-familia-agradezco-mi-vida/",
+     "title": "El enojo de Sabrina Rojas tras los rumores de su vínculo con un joven de 19 años: “Luciano salió con Flor y nadie dijo nada”",
+     "link": "https://www.infobae.com/teleshow/2026/10/28/el-enojo-de-sabrina-rojas-tras-los-rumores-de-su-vinculo-con-un-joven-de-19-anos-luciano-salio-con-flor-y-nadie-dijo-nada/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-10-27T20:41:49+00:00",
-     "copete": "La actriz festejó sus 47 años con un encuentro que reunió a todos sus afectos bajo un mismo techo",
-     "id": "c0710fc9fa2a"
+     "published": "2026-10-28T01:13:37+00:00",
+     "copete": "La conductora se refirió a la diferencia de edad en las parejas y cuestionó el trato que reciben las mujeres que se vinculan con hombres más jóvenes",
+     "id": "f32ddb66431a"
     },
     {
-     "title": "Kentaro: el actor japonés que dirigió a una estrella de Kill Bill, trabaja con figuras del cine asiático y se enamoró de Buenos Aires",
-     "link": "https://www.lanacion.com.ar/espectaculos/kentaro-el-actor-japones-que-dirigio-a-una-estrella-de-kill-bill-trabaja-con-figuras-del-cine-nid27102026/",
+     "title": "Chechu Bonelli y Facundo Pieres se habrían reconciliado en secreto a meses de su separación: \"Él pide no blanquear\"",
+     "link": "https://www.infobae.com/teleshow/2026/10/28/chechu-bonelli-y-facundo-pieres-se-habrian-reconciliado-en-secreto-a-meses-de-su-separacion-el-pide-no-blanquear/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-28T00:33:28+00:00",
+     "copete": "Yanina Latorre aseguró que la modelo y el polista volvieron a encontrarse tras el regreso de él de Estados Unidos, aunque habrían decidido mantener el vínculo lejos de la exposición pública",
+     "id": "a95bd5a0b51a"
+    },
+    {
+     "title": "Se conocieron los chats entre Emanuel Ortega y Josefina Lynch que terminaron en la separación de Julieta Prandi",
+     "link": "https://www.infobae.com/teleshow/2026/10/28/se-conocieron-los-chats-entre-emanuel-ortega-y-josefina-lynch-que-terminaron-en-la-separacion-de-julieta-prandi/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-28T00:01:28+00:00",
+     "copete": "SQP difundió los mensajes con los que el cantante coordinó una sesión de grabación con la joven cantante y generaron el quiebre de la conductora",
+     "id": "3f2df19abf54"
+    },
+    {
+     "title": "Dieron a conocer los chats entre Emanuel Ortega y Josefina Lynch que provocaron la separación de Julieta Prandi",
+     "link": "https://www.lanacion.com.ar/espectaculos/dieron-a-conocer-los-chats-entre-emanuel-ortega-y-josefina-lynch-que-provocaron-la-separacion-de-nid27102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-27T20:32:30+00:00",
-     "copete": "El realizador presentó su ópera prima, Bajo el cielo turquesa, en el Festival Internacional de Cine de la UBA y dialogó con LA NACIÓN sobre su trabajo",
-     "id": "199d3a21a009"
+     "published": "2026-10-28T00:01:01+00:00",
+     "copete": "Tras ser señalada como la supuesta tercera en discordia, la joven de 25 años expuso las conversaciones para demostrar que el vínculo fue estrictamente laboral",
+     "id": "357746e19c11"
     },
     {
-     "title": "Christopher Lloyd: en su libro de memorias contó su larga lucha contra las adicciones",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/christopher-lloyd-en-su-libro-de-memorias-conto-su-larga-lucha-contra-las-adicciones-nid27102026/",
+     "title": "Edith Hermida cruzó a la China Ansa por su pelea con Nora Colosimo: “Tampoco era tan grave”",
+     "link": "https://www.infobae.com/teleshow/2026/10/27/edith-hermida-cruzo-a-la-china-ansa-por-su-pelea-con-nora-colosimo-tampoco-era-tan-grave/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-27T23:51:10+00:00",
+     "copete": "La conductora de Bendita sostuvo que su compañera vivió con demasiada intensidad la versión que la vinculó con Pablo Migliore",
+     "id": "a0f47e5727ee"
+    },
+    {
+     "title": "La experiencia paranormal que reveló Pochi de Gossipeame: “Creer o reventar”",
+     "link": "https://www.infobae.com/teleshow/2026/10/27/la-experiencia-paranormal-que-revelo-pochi-la-panelista-de-moria-casan-creer-o-reventar/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-10-27T23:45:00+00:00",
+     "copete": "La panelista de Puro Show compartió su historia luego de la entrevista de Elina Costantini, que abrió una ola de testimonios sobrenaturales entre figuras públicas",
+     "id": "0cd1b1c66bfd"
+    },
+    {
+     "title": "El proyecto ambiental de Angelina Jolie con el que protege a 200 especies hace 23 años",
+     "link": "https://www.lanacion.com.ar/espectaculos/el-proyecto-ambiental-de-angelina-jolie-con-el-que-protege-a-200-especies-hace-23-anos-nid26102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-27T19:56:34+00:00",
-     "copete": "El actor de 88 años repasó cómo el consumo de drogas y alcohol afectó su vida",
-     "id": "f6f5fef589f6"
+     "published": "2026-10-27T23:21:37+00:00",
+     "copete": "La actriz consolidó un refugio natural en el Sudeste Asiático mediante la fundación Maddox Jolie-Pitt; esta iniciativa integra a las comunidades locales en la conservación de la biodiversidad regional",
+     "id": "ac7f69505fa7"
     },
     {
-     "title": "El motivo por el que Caetano Veloso demandó a un diputado bolsonarista",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/el-motivo-por-el-que-caetano-veloso-demando-a-un-diputado-bolsonarista-nid27102026/",
+     "title": "La experiencia paranormal de Analía Franchín con los Pitufos: “Se me aparecían a la noche y sentía su presencia”",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-experiencia-paranormal-de-analia-franchin-con-los-pitufos-se-me-aparecian-a-la-noche-y-sentia-su-nid26102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-27T19:51:10+00:00",
-     "copete": "El músico les reclamó una indemnización y una rectificación pública a Lucas Pavanato y al comunicador Thiago Asmar; el cruce se produjo en plena campaña electoral en Brasil",
-     "id": "9bd3958933eb"
+     "published": "2026-10-27T23:19:28+00:00",
+     "copete": "La periodista coincidió con Elina Costantini acerca de que una persona puede tener visiones o vivir hechos sobrenaturales; cuando ella era niña hasta se sometió a un exorcismo para liberarse de los gnomos",
+     "id": "72e9eb7389f9"
     },
     {
-     "title": "Florencia Raggi homenajeó a su hija Renata por su cumpleaños y mostró fotos de la intimidad familiar: “La vida con vos es mucho mucho mejor”",
-     "link": "https://www.infobae.com/teleshow/2026/10/27/florencia-raggi-homenajeo-a-su-hija-renata-por-su-cumpleanos-y-mostro-fotos-de-la-intimidad-familiar-la-vida-con-vos-es-mucho-mucho-mejor/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-27T19:42:32+00:00",
-     "copete": "La hija de la actriz y Nicolás Repetto cumplió 28 años y su madre le dedicó una tierna publicación en sus redes sociales",
-     "id": "98e6b689149a"
-    },
-    {
-     "title": "Habló por primera vez el nuevo novio rugbier de Lourdes Sánchez: “Nos estamos conociendo”",
-     "link": "https://www.lanacion.com.ar/espectaculos/hablo-por-primera-vez-el-nuevo-novio-rugbier-de-lourdes-sanchez-nos-estamos-conociendo-nid27102026/",
+     "title": "La otra “madre” de Martita y Felipe Fort: quién es la mujer elegida por Ricardo Fort para cuidar a sus hijos",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-otra-madre-de-martita-y-felipe-fort-quien-es-la-mujer-elegida-por-ricardo-fort-para-cuidar-a-sus-nid26102026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-10-27T19:38:32+00:00",
-     "copete": "Francisco Liotta confirmó que hace tres meses comenzó a hablar por WhatsApp con la bailarina y que por el momento disfrutan de ir conociéndose paso a paso",
-     "id": "493dda29bb35"
+     "published": "2026-10-27T23:18:48+00:00",
+     "copete": "Marisa López dejó su trayectoria de élite en el hockey nacional para acompañar la crianza de los mellizos; su rol trascendió el ámbito laboral tras las muertes del mediático y Gustavo Martínez",
+     "id": "6ea4799a99e3"
     },
     {
-     "title": "Andrés Nara presentó a su nueva novia en el cumpleaños de su nieta Isabella: quién es y a qué se dedica",
-     "link": "https://www.infobae.com/teleshow/2026/10/27/andres-nara-presento-a-su-nueva-novia-en-el-cumpleanos-de-su-nieta-isabella-quien-es-y-a-que-se-dedica/",
+     "title": "Carmen Barbieri le pidió a Evelyn Botto que le dijera lo peor de ella como suegra y la respuesta la dejó sin palabras",
+     "link": "https://www.infobae.com/teleshow/2026/10/27/carmen-barbieri-le-pidio-a-evelyn-botto-que-le-dijera-lo-peor-de-ella-como-suegra-y-la-respuesta-la-dejo-sin-palabras/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-10-27T19:25:38+00:00",
-     "copete": "El papá de Wanda dio a conocer frente a las cámaras a su flamante pareja, Alejandra San Martín",
-     "id": "685b32b99e41"
-    },
-    {
-     "title": "Nancy Pazos chocó en la avenida General Paz: “Fui la primera que atendió al motoquero”",
-     "link": "https://www.infobae.com/teleshow/2026/10/27/nancy-pazos-choco-en-la-avenida-general-paz-fui-la-primera-que-atendio-al-motoquero/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-27T19:10:58+00:00",
-     "copete": "En diálogo con Teleshow, la conductora y periodista relató los hechos sucedidos este mediodía cuando regresaba del gimnasio",
-     "id": "5a8c18e3172e"
-    },
-    {
-     "title": "Con delantales personalizados y temática de MasterChef: así fue el increíble festejo de cumpleaños de Isabella Icardi, la hija de Wanda Nara",
-     "link": "https://www.infobae.com/teleshow/2026/10/27/con-delantales-personalizados-y-tematica-de-masterchef-asi-fue-el-increible-festejo-de-cumpleanos-de-isabella-icardi-la-hija-de-wanda-nara/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-27T19:03:02+00:00",
-     "copete": "La pequeña celebró sus diez años junto a su madre, amigos y familiares en el patio de un hotel porteño ambientado para la ocasión",
-     "id": "c21aa24a457c"
-    },
-    {
-     "title": "El regalo con el que Leandro Paredes sorprendió a Sergio Lapegüe: \"Esto es una cosa de locos\"",
-     "link": "https://www.infobae.com/teleshow/2026/10/27/el-regalo-con-el-que-leandro-paredes-sorprendio-a-sergio-lapegue-esto-es-una-cosa-de-locos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-10-27T18:41:21+00:00",
-     "copete": "El mediocampista de Boca le envió un increíble obsequio al conductor, que lo recibió al aire y se emocionó",
-     "id": "11987070cf2e"
+     "published": "2026-10-27T23:11:40+00:00",
+     "copete": "En una emisión especial de su ciclo en El Nueve, la capocómica desafió a la novia de su hijo Fede Bal a ser sincera y recibió un reclamo inesperado",
+     "id": "25c48bd835e4"
     },
     {
      "title": "Noah Wyle, el doctor Robby de la multipremiada \"The Pitt\", fue elegido como el hombre más sexy del mundo en 2026",
@@ -270,6 +270,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "El tenor Eduardo Crovara vuelve al Teatro Colón de Mar del Plata",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFd1ckF0aVJzSDRfTlF1cTBpQTluSmtoZGxIeWFmbTdObU9sREtaNmxabU14WXl3azEwSFo4MzQtSDVnWFVWRGM2UmxtZzhfenFibHdnU1c0YnNvcDBqa1ZyMTIyYld3clhMN2M5Z2NkbnBTcndBYzkxVjdNNmJnN0tRc1J5SWMweVRBZjN5QlJIZkZQUlVkdjRTeHFFUGk2emh3NEE1NUtLWUk1N3hFczJRemJoWldHd1HSAb8BQVVfeXFMTVRjNjNRcFVlck1HRGx4amxNS2lQMU1ZUmNUcnZfbk5zZ0I4QlNEX0xpSl9BNHBjYkdUZHc2ZHZDY1MxWEgzWXVHMi16alJiakEyQVhqXzVmZmRGTW1VVF9wSlVwTWZ6NnhXdFRwNmxrbnd6YWViT0NiUkJQZ0VHaHFTYWtSMDNNS19vT1YxS3Azalpld2RhVTUyYTlFRExmM24wcDA0azlhUmt3dGs3bkN0WVIzaFhIV19mZnI5Z28?oc=5",
+     "source": "Infobrisas",
+     "published": "2026-10-27T18:08:59+00:00",
+     "id": "fedd2f0583eb"
+    },
+    {
      "title": "Proponen que las mascotas puedan ingresar a comercios y restaurantes de Río Grande",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkR4Qi1SR1BsR2RIUDR1Q2RpVFM3WUR3MlR4NFdab01GejlHM3FtRml1NU5LVFRRNWZEc0I1NF9vcEZMckZnTDVROXpZTnUwejJ5eXRFT1RFb3FKcGV3eEJjTDBoc1hGSWpfaC1ZQUR1c3U3MmdQSmN4T2NIbm5LSmdCSkVnSDIzdDlSRHFfVG1OUTVjNzZfeE1KWUxIa0ZadFJvZDVNMG9FUkJDTVZLRVV6YWtRbFJGQWNqZGNpRDF2UmUzQnB2RExB?oc=5",
      "source": "Minuto Fueguino",
@@ -284,25 +291,18 @@
      "id": "220514b684dd"
     },
     {
+     "title": "“Más que monstruos, seres profundamente heridos”",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczhJTkZ2UklTaFVNQzNIaDhSaWdiU3BSYTRuLU1aOXByRXdacVFsU250enB6eko5OEI4MHVOLXRYVWFvc0VqWmFjUTROU1p0Nmo3WGlhN1VWRFNya3dTRVFQOERKSjJYTVpDTnU5ZEdIN1hEQkg0b2RXejZxUUhfUnR3NlZUSERUMW9F?oc=5",
+     "source": "Complejo Teatral de Buenos Aires",
+     "published": "2026-10-27T00:39:56+00:00",
+     "id": "32d2a331b850"
+    },
+    {
      "title": "Horacio Lavandera y el Cuarteto UNNOBA en el Teatro Argentino",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnlRRWRMZjBndHRCTllTYmVON3pRVFIzTlZEQkY0TS1NMmlReUZfRHZkOVl2VGRHSnk0a2NtRS0wTEdDN1Zad096MW8zc2NiNUt6bHlzMkM2QjFHeHdmOHpXbmQ2YnE4MWxnOUhuZGlULU92MTh3cVBiMWZsWTRjbGJidUdENGo5ZHROaU9uOA?oc=5",
      "source": "infolaplata",
      "published": "2026-10-27T00:31:01+00:00",
      "id": "bbc7bb5f097f"
-    },
-    {
-     "title": "VIDEO | Benja Torres llega al ND Teatro con \"Como en Casa\", el proyecto que nació de un viaje de 10.000 kilómetros",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RbWVjN1Z3Z1p0UlpLY0E3Tk9fUG9tZ3QyV0xiRlVGRTduQWtnOEw0LWlFM1JFOUFvcGFxdEJGMXhOVTJBMHk5YjA4TUdqZ2RNZWg1MkpPbWNlbHNSdlhuTTRjcC1RV2luVWQtVFVQeTVYTm1sbk40OU1zbXgxdFE?oc=5",
-     "source": "Agencia NOVA",
-     "published": "2026-10-26T23:16:44+00:00",
-     "id": "cda7aa9207a8"
-    },
-    {
-     "title": "La Casa del Chubut en Buenos Aires albergó con éxito la V Feria del Libro Patagónico",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc1h0WlRBYjJ3b2JNd2hrOGxXblVjWHFvbHJWS0V6VnI2clgxQjFUX2VBSURsd3BCeExqc0ctakh2ZDdFTDdRVWhsVVVRQm1fVUgzQ0JKcC05YkVyMDdmUmVSdFhveXh0U1RjMDJlTUx4SE9UaUw0WHROcjk3RDdqM01SMnduLVR1bW5oVmUxX3M5aUtIY3NveEt1bndKR2YxZnYzT05CNGsxejJUQzIxb3UzT0djaFZzd1dPa0dzdWNJTmNhY3VPdVlnWmlJbF9XUUdTSFhqVjNHOXZT0gHiAUFVX3lxTE5ydEY3alFpbVYzTXNOVlVxNGU0VEkxRG9nZWdIMU51MWdpOF9CODFRSTU2bEU0NXNKbFJXTFNPdzJCSmN5ZlloV3V3TW0tX1hGV3lXc3VmTmNxTENyZVBtT2RWbVlGcXNyR21HS0x3SmlaRGRpVUc1clVabS1xWHA0a0NtQ0ROaG1nand4X25Id0JOTzNDMm1qa0dTMWg1OG9QRWJrMk84ZFRiNnpKRlhXM0twdVprbU52MG1HV0tQNE1IaXVjdEZ6enpkT1ZDWmc1Snp5empYTHpycmswaHlBc3c?oc=5",
-     "source": "Diario Crónica",
-     "published": "2026-10-26T22:51:45+00:00",
-     "id": "158aabab28ad"
     },
     {
      "title": "Qué hacer esta semana & el finde en Buenos Aires",
@@ -347,84 +347,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Cómo reflejaron los medios de Brasil y del mundo la huida de Flavio Bolsonaro a Estados Unidos",
-     "link": "https://www.lanacion.com.ar/el-mundo/como-reflejaron-los-medios-de-brasil-y-del-mundo-la-huida-de-flavio-bolsonaro-a-estados-unidos-nid27102026/",
-     "source": "La Nación",
-     "published": "2026-10-27T20:45:04+00:00",
-     "copete": "El excandidato por el Partido Liberal partió rumbo a territorio norteamericano horas después de ser intimado por la Policía Federal para entregar sus pasaportes, además de quedar impedido de salir del país por dos causas judiciales",
-     "id": "06f38be199f7"
+     "title": "Puso a Claude Code, Codex y Google Antigravity a crear una aplicación: esta fue la que mejor programó",
+     "link": "https://www.infobae.com/tecno/2026/10/28/puso-a-claude-code-codex-y-google-antigravity-a-crear-una-aplicacion-esta-fue-la-que-mejor-programo/",
+     "source": "Infobae",
+     "published": "2026-10-28T01:22:00+00:00",
+     "copete": "Tres agentes de inteligencia artificial recibieron una misma consigna para diseñar una app de finanzas personales con gráficos, control de gastos, presupuestos y objetivos de ahorro",
+     "id": "64b20bdc0c03"
     },
     {
-     "title": "Flavio Bolsonaro salió de Brasil, EN VIVO: el excandidato escapó de las autoridades y viaja hacia EE.UU.",
+     "title": "Juegos de PS Plus Essential para noviembre: calendario de anuncios, rumores y favoritos",
+     "link": "https://www.infobae.com/tecno/2026/10/28/juegos-de-ps-plus-essential-para-noviembre-calendario-de-anuncios-rumores-y-favoritos/",
+     "source": "Infobae",
+     "published": "2026-10-28T01:21:59+00:00",
+     "copete": "Entre las predicciones aparece Stellar Blade, el juego de acción desarrollado por Shift Up, que lleva más de dos años en el mercado desde su lanzamiento como exclusivo de PS5",
+     "id": "b55e75500325"
+    },
+    {
+     "title": "Un exinvestigador de Google DeepMind aseguró: “Hay probabilidad de que una de cada tres IA acabe con la humanidad en diez años”",
+     "link": "https://www.lanacion.com.ar/tecnologia/un-exinvestigador-de-google-deepmind-aseguro-hay-probabilidad-de-que-una-de-cada-tres-ia-acabe-con-nid27102026/",
+     "source": "La Nación",
+     "published": "2026-10-28T01:16:25+00:00",
+     "copete": "Los sistemas tecnológicos realizan tareas cada vez más complejas y ejecutan instrucciones sin necesidad de ayuda humana",
+     "id": "325095abe885"
+    },
+    {
+     "title": "En el homenaje a Néstor Kirchner, Máximo llamó a “hacer presidenta” a Cristina Fernández",
+     "link": "https://www.lanacion.com.ar/politica/a-16-anos-del-fallecimiento-de-nestor-kirchner-lo-reivindico-kicillof-y-la-campora-convoco-a-un-acto-nid27102026/",
+     "source": "La Nación",
+     "published": "2026-10-28T01:11:42+00:00",
+     "copete": "“¿Vamos a trabajar para que un argentino o una argentina llegue a la Casa Rosada para defender a su pueblo? ¿Vamos a dejarnos el cuerpo y la piel para cambiar este destino? ¿La vamos a liberar a Cristina?“, expresó el jefe de La Cámpora…",
+     "id": "fe95c49e8bab"
+    },
+    {
+     "title": "Arsenal, campeón de la Premier League, quedó eliminado por un equipo de cuarta división en la Carabao Cup",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/arsenal-campeon-de-la-premier-league-quedo-eliminado-por-un-equipo-de-cuarta-division-en-la-carabao-nid27102026/",
+     "source": "La Nación",
+     "published": "2026-10-28T01:10:35+00:00",
+     "copete": "Fleetwood Town dio el golpe y sus hinchas celebraron con los jugadores dentro del campo de juego",
+     "id": "df9225682ba1"
+    },
+    {
+     "title": "Colombia tiene ahora un centro de ciberseguridad que detecta ataques en menos de 10 minutos y los resuelve 5 veces más rápido",
+     "link": "https://www.infobae.com/tecno/2026/10/28/colombia-tiene-ahora-un-centro-de-ciberseguridad-que-detecta-ataques-en-menos-de-10-minutos-y-los-resuelve-5-veces-mas-rapido/",
+     "source": "Infobae",
+     "published": "2026-10-28T01:10:14+00:00",
+     "copete": "En Colombia, el centro de operaciones combina automatización con supervisión humana y busca contener phishing, ransomware y fraudes por clonación de voz o videos falsos",
+     "id": "5d17cdc21f84"
+    },
+    {
+     "title": "Argentinos alcanzó a Boca en la Tabla Anual y complicó a River para llegar a la Libertadores: todos los goles de la fecha 14",
+     "link": "https://www.infobae.com/deportes/2026/10/28/argentinos-alcanzo-a-boca-en-la-tabla-anual-y-complico-a-river-para-llegar-a-la-libertadores-todos-los-goles-de-la-fecha-14/",
+     "source": "Infobae",
+     "published": "2026-10-28T01:05:58+00:00",
+     "copete": "Se acerca el final de la fase regular, mientras la definición del Clausura concentra la atención en la pelea por los playoffs y por los cupos a la Libertadores y la Sudamericana de 2027",
+     "id": "f7dc60dfa6cd"
+    },
+    {
+     "title": "Flavio Bolsonaro salió de Brasil, EN VIVO: el excandidato escapó de las autoridades y viajó hacia EE.UU.",
      "link": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-salio-de-brasil-en-vivo-el-excandidato-escapo-de-las-autoridades-y-viaja-hacia-eeuu-nid27102026/",
      "source": "La Nación",
-     "published": "2026-10-27T20:45:00+00:00",
-     "copete": "El senador y líder del Partido Liberal no entregó sus pasaportes y se marchó del país, luego de la derrota electoral del pasado domingo 25 de octubre; se investiga cómo cruzó la frontera; además, se especula que Donald Trump le daría asilo…",
+     "published": "2026-10-28T01:05:33+00:00",
+     "copete": "El senador no entregó su pasaporte y se marchó del país, luego de la derrota electoral del domingo 25 de octubre; se especula que Donald Trump le daría asilo político; Lula tildó su actitud de “vergonzosa”",
      "id": "2b5257c0caa1"
     },
     {
-     "title": "Elecciones en Israel 2026, EN VIVO: Benjamin Netanyahu busca retener el poder y las últimas noticias de los comicios, voto a voto",
-     "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-israel-2026-en-vivo-benjamin-netanyahu-busca-retener-el-poder-y-las-ultimas-noticias-nid27102026/",
-     "source": "La Nación",
-     "published": "2026-10-27T20:42:56+00:00",
-     "copete": "Se trata de la primera elección tras el ataque de Hamas de 2023; según los boca de urna, el partido del actual primer ministro fue el más votado, pero sin mayoría para formar gobierno",
-     "id": "3176da7a2523"
-    },
-    {
-     "title": "Mónica Hirst, especialista en política exterior brasileña: “Flavio quiere mostrarse como un perseguido político, pero es prófugo de la Justicia”",
-     "link": "https://www.lanacion.com.ar/el-mundo/monica-hirst-especialista-en-politica-exterior-brasilena-flavio-quiere-mostrarse-como-un-perseguido-nid27102026/",
-     "source": "La Nación",
-     "published": "2026-10-27T20:42:51+00:00",
-     "copete": "La historiadora analizó la histórica remontada de Lula, el desafío de gobernar con un Congreso dominado por la oposición y el impacto de la huida del excandidato a Estados Unidos en la relación con Trump",
-     "id": "612d83372683"
-    },
-    {
-     "title": "Lo compré, lo pagué, lo quiero: el desafío de explicar los tiempos reales del comercio exterior",
-     "link": "https://www.infobae.com/movant/2026/10/27/lo-compre-lo-pague-lo-quiero-el-desafio-de-explicar-los-tiempos-reales-del-comercio-exterior/",
-     "source": "Infobae",
-     "published": "2026-10-27T20:38:55+00:00",
-     "copete": "Daniela Aguiar, asesora de comercio exterior, explica cómo se anticipan controles, costos y tiempos antes de embarcar, y por qué una decisión postergada puede significar un mes de demora en la carga",
-     "id": "614a9cc068f8"
-    },
-    {
-     "title": "Nuevo iPad mini vs. iPad Pro M4: cuáles son sus verdaderas similitudes y diferencias",
-     "link": "https://www.infobae.com/tecno/2026/10/27/nuevo-ipad-mini-vs-ipad-pro-m4-cuales-son-sus-verdaderas-similitudes-y-diferencias/",
-     "source": "Infobae",
-     "published": "2026-10-27T20:35:48+00:00",
-     "copete": "Ambos dispositivos comparten un Neural Engine de 16 núcleos como base, aunque el iPad mini de 512 GB duplica ese componente para acelerar tareas en aplicaciones",
-     "id": "d1c536fbb49c"
-    },
-    {
-     "title": "Franco Colapinto contó su plan para cortar la racha negativa en la Fórmula 1 y volver a sumar puntos en el GP de México",
-     "link": "https://www.infobae.com/deportes/2026/10/27/franco-colapinto-conto-su-plan-para-cortar-la-racha-negativa-en-la-formula-1-y-volver-a-sumar-puntos-en-el-gp-de-mexico/",
-     "source": "Infobae",
-     "published": "2026-10-27T20:32:24+00:00",
-     "copete": "El piloto argentino de Alpine llega al Autódromo Hermanos Rodríguez tras su cuarto abandono en cinco carreras",
-     "id": "89f9d23332f4"
-    },
-    {
-     "title": "Un experto en anticorrupción explicó qué cambios necesita el Estado para combatir la corrupción",
-     "link": "https://www.infobae.com/judiciales/2026/10/27/un-experto-en-anticorrupcion-explico-que-cambios-necesita-el-estado-para-combatir-la-corrupcion/",
-     "source": "Infobae",
-     "published": "2026-10-27T20:31:26+00:00",
-     "copete": "Roberto de Michele, exdirector de la Oficina Anticorrupción, analizó las fallas institucionales que favorecen estas prácticas y propuso reformas en los organismos de control, los trámites municipales y la obra pública",
-     "id": "67c2748ed725"
-    },
-    {
-     "title": "Franco Colapinto no correrá la primera práctica de la Fórmula 1 en el GP de México: quién es Gabriele Mini, el elegido por Alpine",
-     "link": "https://www.clarin.com/deportes/franco-colapinto-correra-primera-practica-formula-1-gp-mexico-gabriele-mini-elegido-alpine_0_JFSYAfqGvQ.html",
+     "title": "Horóscopo de hoy, miércoles 28 de octubre: las predicciones para la salud, el amor y el dinero",
+     "link": "https://www.clarin.com/astrologia/horoscopo-hoy-miercoles-28-octubre-predicciones-salud-amor-dinero_0_OB5zhyhz7I.html",
      "source": "Clarín",
-     "published": "2026-10-27T20:19:30+00:00",
-     "copete": "El 43 del piloto argentino estará al mando del joven talento italiano durante la FP1 del viernes. Es la última vez en la temporada que cumple con este requisito reglamentario de la Máxima. Después de dos abandonos consecutivos, Franco…",
-     "id": "e9618dd0ccd1"
+     "published": "2026-10-28T01:05:18+00:00",
+     "copete": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
+     "id": "f77fa2049bcc"
     },
     {
-     "title": "Nancy Pazos protagonizó un accidente automovilístico en General Paz: los detalles",
-     "link": "https://www.clarin.com/fama/nancy-pazos-sufrio-accidente-automovilistico-general-paz-detalles_0_x6TlJIio3a.html",
+     "title": "\"Tuve más afecto en prisión que por parte de mis vecinos\": habló el bioquímico de Esquel detenido por mantener encerrada a su familia",
+     "link": "https://www.clarin.com/sociedad/afecto-prision-parte-vecinos-hablo-bioquimico-esquel-detenido-mantener-encerrada-familia_0_KyzhvxOaHv.html",
      "source": "Clarín",
-     "published": "2026-10-27T20:11:52+00:00",
-     "copete": "La periodista y conductora colisionó con una motocicleta. El motociclista involucrado, de 44 años, debió ser trasladado al Hospital Pirovano a raíz de politraumatismos y lesiones superficiales.",
-     "id": "19616d25f715"
+     "published": "2026-10-28T01:03:14+00:00",
+     "copete": "Miguel Battista (71) fue indagado este martes en Esquel y luego trasladado nuevamente a una comisaría de Trevelin. Está acusado de privación ilegítima de la libertad y abandono de persona por tener en cautiverio a su esposa e hijos.",
+     "id": "12619c271882"
     }
    ]
   },
@@ -434,12 +434,36 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Elecciones en Israel: las primeras encuestas muestran al bloque de Eisenkot apenas por arriba de Netanyahu",
+     "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot y a los partidos árabes con récord de escaños en el Parlamento",
      "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-27T20:47:50.084542+00:00",
-     "copete": "El primer ministro israelí enfrenta una ajustada votación contra Gadi Eisenkot, un exmilitar que encabeza la oposición. Estas elecciones, las primeras desde los ataques liderados por Hamás contra Israel y las guerras que les siguieron, son…",
+     "published": "2026-10-28T01:28:43.448410+00:00",
+     "copete": "El primer ministro israelí enfrenta una ajustada votación contra el exmilitar Gadi Eisenkot. Estas elecciones, las primeras desde los ataques liderados por Hamás contra Israel y las guerras que les siguieron, son vistas como un referéndum…",
      "id": "6b8f4a0e4c14"
+    },
+    {
+     "title": "Netanyahu gana las elecciones en Israel, pero su coalición queda lejos de la mayoría",
+     "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
+     "source": "El País Internacional",
+     "published": "2026-10-28T00:54:06+00:00",
+     "copete": "Según los sondeos a pie de urna, el bloque opositor judío y el favorable al primer ministro estarían muy igualados. Los partidos árabes logran un resultado histórico y serán claves en las negociaciones",
+     "id": "ad2c34d0ce4a"
+    },
+    {
+     "title": "Los detractores de Netanyahu contienen su entusiasmo: “Ganó, aunque será difícil que siga siendo primer ministro”",
+     "link": "https://elpais.com/internacional/2026-10-27/los-detractores-de-netanyahu-contienen-su-entusiasmo-gano-aunque-sera-dificil-que-siga-siendo-primer-ministro.html",
+     "source": "El País Internacional",
+     "published": "2026-10-27T22:29:44+00:00",
+     "copete": "Los israelíes contrarios al Gobierno celebran el avance de la oposición, pero les preocupa que el Likud sea la primera fuerza",
+     "id": "c4ba76b0c3f1"
+    },
+    {
+     "title": "EE.UU. dice que le otorgará un visado a Flávio Bolsonaro mientras las autoridades brasileñas cuestionan su paradero",
+     "link": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-27T22:24:45+00:00",
+     "copete": "El senador brasileño, que el domingo perdió las elecciones frente a Lula, está siendo investigado por presunta corrupción y lavado de dinero, acusaciones que él niega.",
+     "id": "35b6b893915a"
     },
     {
      "title": "Egipto ordena el cierre del principal medio independiente del país y detiene durante varias horas a su directora",
@@ -450,20 +474,12 @@
      "id": "b30832d990e6"
     },
     {
-     "title": "Qué se sabe del paradero de Flávio Bolsonaro y por qué la justicia brasileña le exigió entregar sus pasaportes",
-     "link": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-27T17:58:09+00:00",
-     "copete": "El senador brasileño, que el domingo perdió las elecciones frente a Lula, está siendo investigado por presunta corrupción y lavado de dinero, acusaciones que él niega.",
-     "id": "35b6b893915a"
-    },
-    {
-     "title": "La polémica respuesta de Angie Nixon cuando le preguntaron si Cuba era una dictadura: “Es lo que me ha dicho la gente. Tomaré su palabra”",
-     "link": "https://elpais.com/us/2026-10-27/la-polemica-respuesta-de-angie-nixon-cuando-le-preguntaron-si-cuba-era-una-dictadura-es-lo-que-me-ha-dicho-la-gente-tomare-su-palabra.html",
+     "title": "Cómo y dónde votar en Nueva York para las ‘midterms’ de 2026",
+     "link": "https://elpais.com/us/2026-10-27/como-y-donde-votar-en-nueva-york-para-las-midterms-de-2026.html",
      "source": "El País Internacional",
-     "published": "2026-10-27T17:54:28+00:00",
-     "copete": "Luego de una controversia con CBS News, la candidata demócrata al Senado por Florida ha sido criticada por grupos conservadores y una parte de la comunidad cubanoamericana",
-     "id": "949c0474c077"
+     "published": "2026-10-27T19:35:02+00:00",
+     "copete": "La votación anticipada para las elecciones de medio mandato comenzó el 24 de octubre. Los electores pueden votar en persona o por correo, aunque los plazos para solicitar una boleta ya vencieron por algunas vías",
+     "id": "b1efe432ac80"
     },
     {
      "title": "Mbappé se disculpa por un comentario sobre Mao que desató una ola de críticas y boicot en China",
@@ -474,28 +490,12 @@
      "id": "5c5440ef729e"
     },
     {
-     "title": "El extraño caso de la “mente” de las protestas en Italia: apareció en redes pasados los disturbios y solo llamó a seguir saliendo a la calle",
-     "link": "https://elpais.com/internacional/2026-10-27/el-extrano-caso-de-la-mente-de-las-protestas-en-italia-aparecio-en-redes-pasados-los-disturbios-y-solo-llamo-a-seguir-saliendo-a-la-calle.html",
-     "source": "El País Internacional",
-     "published": "2026-10-27T16:00:03+00:00",
-     "copete": "El nuevo decreto de seguridad de Meloni permite acusar de liderar las movilizaciones con fines terroristas a un periodista que creó un movimiento tras los altercados y que fue arrestado antes de que volviera a pasar nada",
-     "id": "017c5e207ba0"
-    },
-    {
      "title": "\"Fue un error, el Estado falló\": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores",
      "link": "https://www.bbc.com/mundo/articles/cvwy7k3lpge3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-10-27T15:49:40+00:00",
      "copete": "Las encuestas revelan que la medida, que es rechazada por el 92% de los chilenos, ha afectado la imagen del mandatario.",
      "id": "af761aa60d2f"
-    },
-    {
-     "title": "Una senadora acusada de distribuir marihuana y otras maniobras inusuales de la Fiscalía de Trump antes de las ‘midterms’",
-     "link": "https://elpais.com/us/2026-10-27/una-senadora-acusada-de-distribuir-marihuana-y-otras-maniobras-inusuales-de-la-fiscalia-de-trump-antes-de-las-midterms.html",
-     "source": "El País Internacional",
-     "published": "2026-10-27T14:26:40+00:00",
-     "copete": "En cuatro casos concretos, el Departamento de Justicia ha roto la vieja tradición de reservar para periodos alejados de las elecciones los procesos judiciales que involucran a figuras políticas",
-     "id": "100506e9069c"
     }
    ]
   }
