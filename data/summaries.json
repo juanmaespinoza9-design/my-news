@@ -1,92 +1,17 @@
 {
-  "generated_at": "2026-10-28T22:11:32Z",
+  "generated_at": "2026-10-29T10:12:21Z",
   "summaries": {
-    "3235b13f4541": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) recibió la solicitud de aprobación biológica (BLA, biologics license application) para etentamig, un anticuerpo biespecífico en investigación, destinado al mieloma múltiple recaído o refractario (R/R). Interesa porque, si se aprueba, sumaría una nueva opción a la familia de biespecíficos para este escenario de difícil manejo.",
-      "destacado": false
-    },
-    "e71ef5ef857f": {
-      "resumen": "T-DXd (trastuzumab deruxtecán, un anticuerpo conjugado a quimioterapia dirigido a HER2) obtuvo la aprobación de la Unión Europea para el cáncer de mama HER2 positivo en estadio temprano con enfermedad residual tras el tratamiento neoadyuvante. Interesa porque amplía en Europa el acceso a una terapia ya validada por el estudio DESTINY-Breast05 en este escenario de alto riesgo de recaída.",
-      "destacado": false
-    },
-    "1efc961b0e8c": {
-      "resumen": "Minuto Fueguino informa sobre una propuesta para que las mascotas puedan ingresar a comercios y restaurantes de Río Grande."
-    },
-    "d48b99cd16c7": {
-      "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
-    },
     "236cb9e7c93a": {
       "resumen": "Journal of Clinical Oncology publica la actualización 2026.1.0 de la guía viviente (living guideline) de la ASCO (American Society of Clinical Oncology) sobre el uso de inhibidores de PARP (poli ADP-ribosa polimerasa) en cáncer de ovario. Interesa porque estas guías vivientes se actualizan de forma continua con la evidencia más reciente y orientan decisiones de tratamiento de mantenimiento en la práctica diaria.",
       "destacado": false,
       "analisis": "Diseño: Guía de práctica clínica tipo \"living guideline\" (actualización continua) de la ASCO, basada en revisión sistemática de ensayos sobre inhibidores de PARP; la versión original de 2020 incluyó 17 ensayos, con una actualización rápida en 2022.\nPoblación: Pacientes con cáncer de ovario epitelial, de trompa o peritoneal primario, en distintos escenarios de mantenimiento según el estado de mutación de BRCA1/2 y la deficiencia de recombinación homóloga (HRD).\nIntervención: Inhibidores de PARP (olaparib, niraparib o rucaparib) como terapia de mantenimiento, con esquemas ajustados al perfil molecular del tumor.\nResultados: No aplica un único criterio de valoración al tratarse de una guía que sintetiza evidencia de múltiples ensayos; sin el documento completo de esta versión 2026.1.0 no se pueden precisar los cambios puntuales respecto a versiones previas.\nLimitaciones: Una guía viviente depende de la calidad y vigencia de los ensayos que incorpora, y el título no detalla qué cambió en esta actualización puntual.\nMensaje: Mantiene vigente el rol de los inhibidores de PARP en el mantenimiento del cáncer de ovario, con recomendaciones ajustadas al perfil molecular (BRCA1/2, HRD) que conviene revisar en la práctica diaria.\nNota: análisis basado en información de versiones previas de la guía, sin acceso al documento completo de esta actualización 2026.1.0."
     },
-    "c257d7207334": {
-      "resumen": "Journal of Clinical Oncology publica un relato narrativo sobre el uso del arte y el mapeo corporal (body map) como herramienta para explorar la experiencia subjetiva de la enfermedad oncológica. Interesa como mirada humanística sobre el vínculo entre arte y oncología, más allá de los datos clínicos.",
-      "destacado": false
-    },
-    "b332cc58f359": {
-      "resumen": "Journal of Clinical Oncology aborda cómo ampliar las pruebas genéticas en cascada (el testeo de familiares de personas con variantes patogénicas en BRCA1/2) más allá de los centros académicos de investigación. Interesa porque el desafío de llevar estos modelos a la práctica clínica habitual es clave para identificar a más portadores de riesgo oncológico hereditario.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un artículo sobre implementación de estrategias de testeo genético en cascada (el estudio de familiares de portadores de variantes patogénicas en BRCA1/2) más allá de los centros académicos; sin el abstract no se puede precisar si incluye datos originales o es una perspectiva/revisión.\nPoblación: Familiares de personas con variantes patogénicas en BRCA1 o BRCA2.\nIntervención: Estrategias de testeo genético en cascada (navegación, cartas familiares, programas comunitarios), comparadas entre sí o frente a la práctica estándar.\nResultados: No hay cifras de tasa de adhesión al testeo ni de rendimiento diagnóstico disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el diseño exacto (ensayo, revisión o perspectiva) ni la solidez de la evidencia presentada.\nMensaje: Si confirma que los modelos de navegación mejoran la adhesión al testeo en cascada, respaldaría su implementación más allá del ámbito académico para identificar portadores familiares de riesgo oncológico.\nNota: análisis sin acceso al abstract."
-    },
-    "04a2bf1cb193": {
-      "resumen": "Journal of Clinical Oncology publica un reanálisis metodológico sobre si la conclusión de futilidad del ensayo RADICAL (que evaluó agregar radio-223 a cabozantinib en cáncer renal con metástasis óseas) se mantiene robusta frente a distintas formas de analizar los datos. Interesa porque cuestiona qué tan sólida fue la decisión de cerrar ese ensayo por falta de beneficio.",
-      "destacado": true,
-      "analisis": "Diseño: Reanálisis metodológico (análisis secundario) de un ensayo de fase 2 aleatorizado, el estudio RADICAL, que fue cerrado de forma anticipada tras un análisis de interim por futilidad.\nPoblación: Pacientes con carcinoma de células renales metastásico con metástasis óseas; el ensayo original incluyó 98 pacientes (48 en la combinación y 50 en el comparador).\nIntervención: Cabozantinib más radio-223 versus cabozantinib solo; el criterio de valoración principal del ensayo original fue la supervivencia libre de eventos esqueléticos sintomáticos (SSE-FS).\nResultados: En el análisis de interim que motivó el cierre, la razón de riesgo (HR) fue 1,24 (IC 95%: 0,62-2,48), cruzando el límite de futilidad prefijado (regla de Wieand); este reanálisis evalúa si esa conclusión se sostiene ante distintas especificaciones analíticas, pero sin el abstract no se puede precisar el resultado final del reanálisis.\nLimitaciones: El cierre anticipado por futilidad reduce la potencia estadística y limita la capacidad de detectar un beneficio real; además, el reanálisis depende de supuestos metodológicos que pueden no coincidir con los del diseño original.\nMensaje: Cuestiona si decisiones de cierre anticipado de ensayos por futilidad, como la de RADICAL, son suficientemente robustas, con implicancias para el diseño de futuros ensayos con reglas de interrupción temprana.\nNota: datos del ensayo original obtenidos de cobertura periodística y búsqueda complementaria, sin acceso directo al abstract de este reanálisis."
-    },
-    "890e83b7e266": {
-      "resumen": "La ASCO Post repasa cómo la histopatología experta combinada con testeo molecular mejora el diagnóstico de tumores melanocíticos cutáneos ambiguos (lesiones de la piel derivadas de melanocitos cuya naturaleza benigna o maligna no queda clara con la biopsia convencional). Interesa porque un diagnóstico más preciso en estos casos límite evita tanto el sobretratamiento como el subtratamiento de lesiones que podrían ser melanoma.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un artículo que combina revisión histopatológica experta y testeo molecular; sin el abstract no se puede precisar si se trata de un estudio original (cohorte o serie de casos) o de una revisión/consenso de expertos.\nPoblación: Pacientes con tumores melanocíticos cutáneos de diagnóstico ambiguo (lesiones límite entre nevo atípico y melanoma).\nIntervención: Revisión histopatológica por expertos combinada con pruebas moleculares, comparada presumiblemente con el diagnóstico histopatológico convencional aislado.\nResultados: No disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la muestra, el diseño exacto ni si hubo confirmación con seguimiento clínico a largo plazo.\nMensaje: Si confirma que la combinación mejora la precisión diagnóstica, respaldaría su incorporación en centros de referencia para casos límite, reduciendo el riesgo de sobre o subtratamiento.\nNota: análisis sin acceso al abstract."
-    },
-    "1b9ffcf13cb6": {
-      "resumen": "El título recuperado corresponde al feed general de OncLive, un portal especializado en noticias y análisis de oncología clínica, y no identifica una noticia puntual. Se incluye igual porque la fuente suele traer actualizaciones relevantes de ensayos y aprobaciones en oncología.",
-      "destacado": false
-    },
     "15f1f2533541": {
       "resumen": "The ASCO Post entrevista al oncólogo Neil M. Iyengar sobre estrategias de manejo ante mutaciones coexistentes en cáncer de mama avanzado. Interesa porque la combinación de alteraciones genéticas distintas en un mismo tumor complica la elección de tratamiento dirigido.",
       "destacado": false
     },
-    "d7a94fccd089": {
-      "resumen": "The ASCO Post difunde una entrevista al oncólogo Alberto A. Chiappori sobre un estudio de fase I con una nueva terapia de células CAR-T (linfocitos T del paciente modificados genéticamente para reconocer y atacar células tumorales) en cáncer de pulmón a pequeñas células (SCLC, small cell lung cancer) recaído o refractario. Interesa porque las terapias celulares todavía son un terreno en exploración inicial en tumores sólidos como el SCLC.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo de fase I (primera vez en humanos), según el título, para evaluar una nueva terapia de células CAR-T; sin el abstract no se puede precisar aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón a pequeñas células (SCLC) recaído o refractario a tratamientos previos.\nIntervención: Terapia celular con linfocitos T modificados genéticamente (CAR-T) dirigida a un blanco tumoral no especificado en el título; sin comparador, como es habitual en fase I.\nResultados: No disponibles sin el abstract.\nLimitaciones: Los estudios de fase I suelen incluir pocos pacientes y su objetivo primario es la seguridad y la dosis, no la eficacia; los resultados preliminares no permiten conclusiones definitivas.\nMensaje: Si confirma señales de actividad y un perfil de seguridad manejable, podría justificar el avance a fases posteriores de desarrollo de CAR-T en SCLC, un escenario con pocas opciones terapéuticas nuevas.\nNota: análisis sin acceso al abstract."
-    },
-    "e9b0af995f3a": {
-      "resumen": "Vogue repasa la colección primavera-verano 2027 ready-to-wear de la firma india Kartik Research, presentada en la pasarela."
-    },
-    "74d5268650d8": {
-      "resumen": "El look otoñal de Katie Holmes combina mocasines fruncidos color café, jeans baggy y chamarra, y se convierte en inspiración de estilo."
-    },
-    "098fe4bb4467": {
-      "resumen": "La manicura Lucent, un esmaltado casi invisible y luminoso, se impone como la tendencia de uñas del otoño 2026."
-    },
-    "f1b14d521f3e": {
-      "resumen": "Los especialistas en moda Claudia Arenas y Gabriel Guevara repasan las tendencias clave para vestir este otoño-invierno."
-    },
-    "0d56d49f1504": {
-      "resumen": "Kim Kardashian lució un vestido blanco con flecos y sandalias de tiras durante su paso por la Ciudad de México."
-    },
-    "e34fe7dbd8a3": {
-      "resumen": "Los opera coats, abrigos largos y elegantes, se combinan con los jeans de moda para vestir el otoño 2026."
-    },
-    "3692283fd2a9": {
-      "resumen": "Las gabardinas cortas vuelven a imponerse como tendencia y ya se lucen combinadas con jeans, según siete looks de referencia."
-    },
-    "493401a5433b": {
-      "resumen": "Estudiantes de la Escuela de Oficios Teatrales del Teatro Tronador del Banco Nación visitaron el barrio Villa Mitre, en Mar del Plata."
-    },
     "6aa03648ed40": {
       "resumen": "Una selección de cuatro restaurantes y bares porteños para festejar Halloween el 31 de octubre."
-    },
-    "c6036473185d": {
-      "resumen": "La obra teatral inmersiva sobre Ava Gardner vuelve a Buenos Aires, esta vez con sede en el barrio de Chacarita."
-    },
-    "7ad975a96751": {
-      "resumen": "Elena Roger presentará su concierto en el Teatro Coliseo en diciembre."
-    },
-    "1efed805d507": {
-      "resumen": "El Ballet Municipal pone en escena la obra San Francisco con la participación de una figura del Teatro Colón."
     },
     "e218d394dc82": {
       "resumen": "Una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
@@ -94,8 +19,96 @@
     "97bbb8ca87dc": {
       "resumen": "El fenómeno climático El Niño se mantiene con 100% de probabilidad hasta fin de año y se recomienda armar un kit de emergencia y saber cuándo cortar la luz."
     },
-    "0f90eb914faa": {
-      "resumen": "Una agenda con 27 planes para el fin de semana largo del 29 de octubre al 1° de noviembre en Buenos Aires, entre ferias, conciertos y experiencias."
+    "c2f022afc598": {
+      "resumen": "The ASCO Post entrevista al oncólogo Giannis S. Mountzios sobre el uso combinado de sacituzumab govitecan (un anticuerpo-fármaco conjugado) y pembrolizumab (un inhibidor de punto de control inmunitario anti-PD-1) en cáncer de pulmón de células no pequeñas (CPCNP) metastásico con alta expresión de PD-L1 (ligando de muerte programada 1). Interesa porque evalúa si sumar un anticuerpo-fármaco conjugado a la inmunoterapia mejora los resultados en pacientes seleccionados por biomarcador.",
+      "destacado": false
+    },
+    "8fad24021fea": {
+      "resumen": "The ASCO Post dialoga con el oncólogo Pedro Rocha sobre tarlatamab administrado por vía subcutánea en cáncer de pulmón de células pequeñas (CPCP) en estadio extensivo. Tarlatamab es un anticuerpo biespecífico que conecta células T con el antígeno DLL3 tumoral; la presentación subcutánea podría facilitar la administración frente a la infusión intravenosa habitual.",
+      "destacado": false
+    },
+    "76f7e79a58b1": {
+      "resumen": "OncLive reporta que la combinación de relacorilant (un modulador selectivo del receptor de glucocorticoides) con nab-paclitaxel (quimioterapia) y bevacizumab (un anticuerpo antiangiogénico anti-VEGF) logró un beneficio clínicamente relevante en cáncer de ovario resistente al platino. Interesa porque esta población, ya tratada con quimioterapia basada en platino, cuenta con pocas opciones eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico sobre la triple combinación; el título no precisa la fase, si fue aleatorizado, con cegamiento, ni la cantidad de centros o pacientes incluidos.\nPoblación: Mujeres con cáncer de ovario epitelial resistente al platino, es decir que progresaron durante o poco después de un esquema basado en platino.\nIntervención: Relacorilant combinado con nab-paclitaxel y bevacizumab, frente a un comparador no especificado en el título (probablemente nab-paclitaxel con o sin bevacizumab).\nResultados: El título menciona un beneficio \"clínicamente significativo\" pero no aporta cifras de supervivencia libre de progresión, supervivencia global, razón de riesgo ni valor de p.\nLimitaciones: Sin acceso al cuerpo del estudio no se puede evaluar el diseño, el tamaño muestral ni la magnitud real del beneficio; el cáncer de ovario resistente al platino es una población heterogénea.\nMensaje: Si se confirma con los datos completos, relacorilant podría sumarse como una nueva opción para potenciar la quimioterapia en una población con pocas alternativas.\nNota: análisis sin acceso al abstract."
+    },
+    "bcaa034a1510": {
+      "resumen": "OncLive repasa el desarrollo de nuevas terapias anti-CTLA-4 (antígeno 4 asociado a linfocitos T citotóxicos, otro blanco de la inmunoterapia) en cáncer de pulmón de células no pequeñas (CPCNP) de histología escamosa. Interesa como panorama de hacia dónde avanza la inmunoterapia combinada en este subtipo.",
+      "destacado": false
+    },
+    "1a41b43bdf31": {
+      "resumen": "OncLive informa que la Sociedad Estadounidense de Oncología Radioterápica (ASTRO, por su sigla en inglés) avaló el hipofraccionamiento (esquemas de radioterapia con sesiones más intensas y menor cantidad de aplicaciones) en todos los grupos de riesgo de cáncer de próstata localizado. Interesa porque simplifica los tratamientos y acorta el tiempo en el centro de radioterapia, sin resignar eficacia.",
+      "destacado": false,
+      "analisis": "Diseño: Guía de práctica clínica de la ASTRO (American Society for Radiation Oncology), basada en revisión de la evidencia acumulada de ensayos sobre hipofraccionamiento en cáncer de próstata localizado.\nPoblación: Pacientes con cáncer de próstata localizado, en todos los grupos de riesgo (bajo, intermedio y alto).\nIntervención: Esquemas de radioterapia hipofraccionada (moderada o extrema, según el caso) comparados con el fraccionamiento convencional.\nResultados: No aplica un único criterio de valoración al tratarse de una guía que sintetiza múltiples ensayos; el título no detalla cifras de eficacia ni de toxicidad.\nLimitaciones: Una guía depende de la calidad de los ensayos que la sustentan, y sin el documento completo no se pueden precisar los matices por grupo de riesgo.\nMensaje: Refuerza el hipofraccionamiento como estándar en cáncer de próstata localizado, independientemente del grupo de riesgo, lo que podría acortar los tratamientos sin perder eficacia ni seguridad.\nNota: análisis sin acceso al documento completo de la guía."
+    },
+    "f04805981e1e": {
+      "resumen": "Journal of Clinical Oncology publica los resultados de supervivencia global, eficacia y seguridad del estudio OptimUM-01, que evaluó darovasertib (un inhibidor de la proteína quinasa C, PKC) combinado con crizotinib (un inhibidor de c-MET/ALK) como primera línea en melanoma uveal metastásico. Interesa porque este tumor tiene pocas opciones eficaces y esta combinación dirigida busca cambiar ese escenario.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico identificado como \"OptimUM-01\"; el título no especifica la fase, si fue aleatorizado o con cegamiento, ni la cantidad de centros o pacientes incluidos.\nPoblación: Pacientes con melanoma uveal metastásico tratados en primera línea.\nIntervención: Combinación de darovasertib (inhibidor de PKC) y crizotinib (inhibidor de c-MET/ALK), sin comparador explícito en el título.\nResultados: El título anuncia datos de supervivencia global, eficacia y seguridad, pero no incluye cifras (medianas de supervivencia, tasas de respuesta, razones de riesgo ni intervalos de confianza).\nLimitaciones: El melanoma uveal metastásico es una enfermedad poco frecuente, lo que suele limitar el tamaño muestral de estos estudios; sin el cuerpo del artículo no se puede evaluar el riesgo de sesgo.\nMensaje: Si los datos completos confirman el beneficio, esta combinación dirigida podría transformarse en una nueva primera línea para el melanoma uveal metastásico, una indicación con opciones históricamente limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "7c76a9c17830": {
+      "resumen": "Journal of Clinical Oncology publica un análisis sobre cómo combinar inmunoterapia con radioterapia corporal estereotáctica (SBRT, por su sigla en inglés) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, enfocado en cómo seleccionar pacientes según el riesgo, la biología tumoral y el momento de la combinación. Interesa porque ordena la evidencia creciente sobre cuándo y a quién conviene sumar inmunoterapia a la radioterapia local.",
+      "destacado": false
+    },
+    "e09440eed3ac": {
+      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo KEYNOTE-867, un estudio de fase III que evaluó agregar pembrolizumab (inhibidor de punto de control inmunitario anti-PD-1) a la radioterapia corporal estereotáctica (SBRT) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio I o II no resecado. Interesa porque busca definir si la inmunoterapia complementa a la radioterapia local en pacientes que no pueden o no quieren operarse.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y doble ciego, según indica el título; este no especifica la cantidad de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio I o II no resecado, es decir no candidatos a cirugía o que no se operaron.\nIntervención: Radioterapia corporal estereotáctica (SBRT) combinada con pembrolizumab, frente a SBRT con placebo.\nResultados: El título no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p; sin el cuerpo del abstract no se pueden precisar.\nLimitaciones: El diseño aleatorizado y doble ciego con placebo es sólido, pero sin el artículo completo no se puede evaluar el seguimiento ni los efectos adversos.\nMensaje: Si los resultados son positivos, sumar pembrolizumab a la SBRT podría convertirse en una nueva opción estándar para pacientes con CPCNP en estadio temprano no operable; es un ensayo de fase III grande y muy esperado en la comunidad oncológica.\nNota: análisis sin acceso al abstract."
+    },
+    "961a7f437465": {
+      "resumen": "JAMA Oncology publica los resultados del ensayo I-SPY2.2, que evaluó rilvegostomig (un anticuerpo biespecífico anti-PD-1/TIGIT) combinado con trastuzumab-deruxtecan (un anticuerpo-fármaco conjugado dirigido a HER2, receptor 2 del factor de crecimiento epidérmico humano) como tratamiento neoadyuvante en cáncer de mama en estadio temprano. Interesa porque I-SPY2.2 es una plataforma adaptativa que permite probar combinaciones nuevas más rápido que un ensayo tradicional.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, con diseño adaptativo de plataforma (I-SPY2.2); el título no detalla la cantidad de pacientes ni de centros participantes.\nPoblación: Pacientes con cáncer de mama en estadio temprano, tratadas en contexto neoadyuvante (antes de la cirugía).\nIntervención: Rilvegostomig (anticuerpo biespecífico anti-PD-1/TIGIT) combinado con trastuzumab-deruxtecan (anticuerpo-fármaco conjugado anti-HER2), dentro del diseño de plataforma que compara distintos brazos experimentales.\nResultados: El título no aporta cifras de respuesta patológica completa ni de otros criterios de valoración; sin el abstract no se pueden precisar los números.\nLimitaciones: Los diseños de plataforma adaptativa como I-SPY2.2 priorizan la velocidad de exploración de combinaciones por sobre el tamaño muestral de cada brazo, lo que exige cautela antes de confirmar el hallazgo en ensayos de fase III dedicados.\nMensaje: Explora una combinación novedosa de inmunoterapia dirigida a dos blancos (PD-1/TIGIT) con un anticuerpo-fármaco conjugado anti-HER2 en etapa neoadyuvante, un área en plena expansión en cáncer de mama.\nNota: análisis sin acceso al abstract."
+    },
+    "ad14be18183d": {
+      "resumen": "JAMA Oncology publica los resultados a largo plazo de un esquema de radioterapia electiva reducida a 30 Gray (Gy, unidad de dosis de radiación) en cáncer de orofaringe asociado al virus del papiloma humano (VPH). Interesa porque este subtipo tumoral tiene mejor pronóstico y reducir la dosis busca bajar la toxicidad sin perder control de la enfermedad.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de seguimiento a largo plazo de un esquema de radioterapia con reducción de dosis (de-escalada); el título no precisa si fue un ensayo aleatorizado, una cohorte prospectiva o un análisis secundario, ni la cantidad de pacientes.\nPoblación: Pacientes con cáncer de orofaringe asociado al virus del papiloma humano (VPH), que suele tener mejor pronóstico que los tumores no asociados al virus.\nIntervención: Radioterapia electiva (a los ganglios sin enfermedad evidente) con dosis reducida a 30 Gy (Gray), en comparación con los esquemas convencionales de mayor dosis.\nResultados: El título no incluye cifras de control locorregional, supervivencia ni toxicidad a largo plazo; sin el abstract no se pueden precisar.\nLimitaciones: Los resultados a largo plazo de esquemas de-escalados dependen del tiempo de seguimiento y de que la población seleccionada (buen pronóstico por VPH) sea comparable a la práctica habitual.\nMensaje: Si confirma seguridad a largo plazo, respalda la tendencia a reducir la dosis de radioterapia electiva en cáncer de orofaringe VPH-asociado para disminuir toxicidad sin resignar control oncológico.\nNota: análisis sin acceso al abstract."
+    },
+    "3f05f687869a": {
+      "resumen": "Vogue presenta la colección resort 2027 del diseñador Alexander Wang."
+    },
+    "5f5e46ad0226": {
+      "resumen": "Por qué las mujeres danesas son referencia mundial en el arte de combinar capas de ropa (layering)."
+    },
+    "01b1b57a65eb": {
+      "resumen": "La historia de un pigmento tóxico que se popularizó en la moda del siglo XIX y enfermó a quienes lo usaban."
+    },
+    "bdef6d9486d4": {
+      "resumen": "Una especialista en moda comparte consejos para armar looks con las tendencias de la temporada."
+    },
+    "a91ce013dc11": {
+      "resumen": "Seis modelos de zapatos rojos y cómo combinarlos en los looks de otoño 2026."
+    },
+    "065968a3a730": {
+      "resumen": "Una selección de las 15 series de terror más recomendadas del catálogo de Netflix."
+    },
+    "c17da282a9dc": {
+      "resumen": "Un repaso por las 30 películas de terror más icónicas de la historia del cine."
+    },
+    "1345fc6a694e": {
+      "resumen": "La agenda de obras de teatro en cartel en el país para la semana del 29 de octubre al 5 de noviembre."
+    },
+    "bc6f5f056e21": {
+      "resumen": "Un álbum de 70 fotos de la ceremonia de los Premios Ben-Gurión 2026, realizada en el Teatro Colón."
+    },
+    "1d9f2bb9d4b7": {
+      "resumen": "La artista española Aitana Cordero presentó su espectáculo La Casa L en Buenos Aires, primera parada de su gira por Latinoamérica."
+    },
+    "289a018321c5": {
+      "resumen": "El cantante colombiano Fonseca se presenta en Argentina."
+    },
+    "aa48212048a7": {
+      "resumen": "Una guía de los mejores lugares para festejar Halloween en Buenos Aires el 31 de octubre."
+    },
+    "61a731cc48b9": {
+      "resumen": "Propuestas para el fin de semana en Buenos Aires, con la feria de arte Arteba instalada en La Rural."
+    },
+    "43c2d6f0bf1b": {
+      "resumen": "Ocho restaurantes porteños recomendados para celebrar el Día Mundial de la Pasta."
+    },
+    "943d37e127d5": {
+      "resumen": "Una columna de opinión sobre cómo el miedo a perder puede paralizar nuestras decisiones."
     }
   }
 }
