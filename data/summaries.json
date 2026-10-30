@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-10-29T22:20:00Z",
+  "generated_at": "2026-10-30T10:13:17Z",
   "summaries": {
-    "236cb9e7c93a": {
-      "resumen": "Journal of Clinical Oncology publica la actualización 2026.1.0 de la guía viviente (living guideline) de la ASCO (American Society of Clinical Oncology) sobre el uso de inhibidores de PARP (poli ADP-ribosa polimerasa) en cáncer de ovario. Interesa porque estas guías vivientes se actualizan de forma continua con la evidencia más reciente y orientan decisiones de tratamiento de mantenimiento en la práctica diaria.",
-      "destacado": false,
-      "analisis": "Diseño: Guía de práctica clínica tipo \"living guideline\" (actualización continua) de la ASCO, basada en revisión sistemática de ensayos sobre inhibidores de PARP; la versión original de 2020 incluyó 17 ensayos, con una actualización rápida en 2022.\nPoblación: Pacientes con cáncer de ovario epitelial, de trompa o peritoneal primario, en distintos escenarios de mantenimiento según el estado de mutación de BRCA1/2 y la deficiencia de recombinación homóloga (HRD).\nIntervención: Inhibidores de PARP (olaparib, niraparib o rucaparib) como terapia de mantenimiento, con esquemas ajustados al perfil molecular del tumor.\nResultados: No aplica un único criterio de valoración al tratarse de una guía que sintetiza evidencia de múltiples ensayos; sin el documento completo de esta versión 2026.1.0 no se pueden precisar los cambios puntuales respecto a versiones previas.\nLimitaciones: Una guía viviente depende de la calidad y vigencia de los ensayos que incorpora, y el título no detalla qué cambió en esta actualización puntual.\nMensaje: Mantiene vigente el rol de los inhibidores de PARP en el mantenimiento del cáncer de ovario, con recomendaciones ajustadas al perfil molecular (BRCA1/2, HRD) que conviene revisar en la práctica diaria.\nNota: análisis basado en información de versiones previas de la guía, sin acceso al documento completo de esta actualización 2026.1.0."
-    },
     "6aa03648ed40": {
       "resumen": "Una selección de cuatro restaurantes y bares porteños para festejar Halloween el 31 de octubre."
     },
@@ -14,10 +9,6 @@
     },
     "97bbb8ca87dc": {
       "resumen": "El fenómeno climático El Niño se mantiene con 100% de probabilidad hasta fin de año y se recomienda armar un kit de emergencia y saber cuándo cortar la luz."
-    },
-    "bcaa034a1510": {
-      "resumen": "OncLive repasa el desarrollo de nuevas terapias anti-CTLA-4 (antígeno 4 asociado a linfocitos T citotóxicos, otro blanco de la inmunoterapia) en cáncer de pulmón de células no pequeñas (CPCNP) de histología escamosa. Interesa como panorama de hacia dónde avanza la inmunoterapia combinada en este subtipo.",
-      "destacado": false
     },
     "f04805981e1e": {
       "resumen": "Journal of Clinical Oncology publica los resultados de supervivencia global, eficacia y seguridad del estudio OptimUM-01, que evaluó darovasertib (un inhibidor de la proteína quinasa C, PKC) combinado con crizotinib (un inhibidor de c-MET/ALK) como primera línea en melanoma uveal metastásico. Interesa porque este tumor tiene pocas opciones eficaces y esta combinación dirigida busca cambiar ese escenario.",
@@ -54,21 +45,12 @@
       "destacado": false,
       "analisis": "Diseño: por el título parecería un estudio de intervención educativa, posiblemente un ensayo piloto o cuasi-experimental.\nPoblación: adolescentes y adultos jóvenes (AYA) atendidos en consultas de predisposición genética al cáncer.\nIntervención: incorporación de un chatbot educativo a la consulta habitual, presumiblemente comparado con la consulta estándar.\nResultados: el título indica mejora en el conocimiento sobre el riesgo, sin cifras disponibles sin el abstract.\nLimitaciones: posible muestra chica, efecto de novedad de la herramienta digital y falta de seguimiento a largo plazo.\nMensaje: las herramientas digitales podrían complementar, no reemplazar, el asesoramiento genético presencial en población joven.\nNota: análisis sin acceso al abstract."
     },
-    "6016d91413fd": {
-      "resumen": "OncLive informa sobre un análisis de seguridad de lirafugratinib (un inhibidor del receptor FGFR2, implicado en la proliferación tumoral) que encontró más eventos adversos mucocutáneos (de piel y mucosas) en pacientes que habían recibido antes inhibidores de punto de control inmunológico (ICI), en colangiocarcinoma (CCA) con alteraciones de FGFR2 y otros tumores sólidos. Interesa porque entender estas interacciones de seguridad ayuda a secuenciar mejor los tratamientos oncológicos.",
-      "destacado": false,
-      "analisis": "Diseño: por el título parecería un subanálisis de seguridad dentro de un ensayo más amplio con lirafugratinib.\nPoblación: pacientes con colangiocarcinoma con alteración de FGFR2 y otros tumores sólidos, con y sin exposición previa a inhibidores de punto de control inmunológico.\nIntervención: lirafugratinib, comparando el perfil de eventos adversos mucocutáneos entre quienes recibieron ICI previo y quienes no.\nResultados: no hay cifras disponibles sin el abstract; el título solo señala una asociación de mayor frecuencia de eventos adversos.\nLimitaciones: análisis retrospectivo o subanálisis con riesgo de factores de confusión y muestra reducida en el subgrupo con ICI previo.\nMensaje: el uso previo de inmunoterapia podría condicionar la tolerancia a lirafugratinib, un dato a considerar al secuenciar tratamientos en colangiocarcinoma.\nNota: análisis sin acceso al abstract."
-    },
     "418cd78ef0dc": {
       "resumen": "Carta de respuesta publicada en NEJM (correspondencia médica) sobre un caso de tumor neuroepitelial asociado a la integración de un vector AAV (virus adenoasociado, usado en terapia génica) en el genoma del paciente. Interesa porque forma parte del debate sobre la seguridad a largo plazo de las terapias génicas basadas en AAV, una señal que la oncología sigue de cerca.",
       "destacado": false
     },
     "15a7a5d2d2f6": {
       "resumen": "Carta original publicada en NEJM que describe un caso de tumor neuroepitelial vinculado a la integración de un vector AAV (virus adenoasociado utilizado en terapia génica) en el ADN del paciente. Interesa porque aporta evidencia concreta sobre un posible riesgo oncogénico de las terapias génicas con AAV, un tema clave en la seguridad a largo plazo de estos tratamientos.",
-      "destacado": false
-    },
-    "f58302500ac6": {
-      "resumen": "Nota de OncLive sobre el recorrido diagnóstico de los tumores neuroendocrinos, tumores poco frecuentes y de crecimiento lento que suelen tardar en detectarse. Interesa porque repasa las demoras y dificultades habituales en el diagnóstico, relevantes para la práctica clínica diaria.",
       "destacado": false
     },
     "41b9a05dca9b": {
@@ -83,35 +65,53 @@
     "ede932181715": {
       "resumen": "Vogue repasa la colección primavera 2027 de la marca nigeriana Orange Culture, presentada en Lagos."
     },
-    "8bc2567b3bca": {
-      "resumen": "Vogue México propone looks con jeans baggy color café combinados con botas, zapatos de tacón y planos para este otoño."
-    },
     "b0f6ee679b09": {
       "resumen": "La 49ª edición de la pasarela Gasteiz On traerá las tendencias de otoño-invierno al Palacio Europa de Vitoria."
     },
-    "45f25a288562": {
-      "resumen": "Vogue México detalla cuándo y dónde ver en vivo la Gala Vogue de Día de Muertos en Colombia."
+    "03c0eb99669f": {
+      "resumen": "OncLive reporta nuevos datos que amplían la evidencia de usar primero zongertinib (un inhibidor oral de HER2, receptor del factor de crecimiento epidérmico humano tipo 2) seguido de trastuzumab deruxtecán o T-DXd (un conjugado anticuerpo-fármaco dirigido a HER2) en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en HER2. Interesa porque consolida una secuencia de tratamiento dirigido en una población con pocas opciones específicas.",
+      "destacado": false,
+      "analisis": "Diseño: el título indica que se ampliaron los datos de un estudio clínico sobre esta secuencia de tratamiento; no se especifica si es un ensayo aleatorizado, el cegamiento, ni la cantidad de centros o pacientes.\nPoblación: pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación en HER2, en primera línea de tratamiento.\nIntervención: zongertinib (inhibidor oral de HER2) seguido de trastuzumab deruxtecán o T-DXd (conjugado anticuerpo-fármaco anti-HER2); no se menciona comparador explícito.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin cifras de eficacia ni seguridad disponibles; el CPCNP con mutación en HER2 es poco frecuente, lo que suele limitar el tamaño de las cohortes analizadas.\nMensaje: de confirmarse, esta secuencia podría afianzarse como estándar de primera línea en una población con opciones dirigidas todavía escasas.\nNota: análisis sin acceso al abstract."
     },
-    "3f40221ec3d2": {
-      "resumen": "Eiza González inspira a Vogue México para combinar jeans bootcut con tacones, mocasines y botas este otoño."
+    "b5de737f9130": {
+      "resumen": "OncLive cubre los datos del estudio de fase 1-2 RMC-6236-001 sobre daraxonrasib, un inhibidor de amplio espectro de la proteína RAS, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en RAS que ya recibió tratamiento previo. Interesa porque las mutaciones en RAS son frecuentes y hasta hace poco no tenían tratamientos dirigidos eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: ensayo clínico de fase 1-2 (RMC-6236-001), según el título; no se detalla si fue aleatorizado, el cegamiento, ni el número de centros o pacientes incluidos.\nPoblación: pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación en RAS, previamente tratados.\nIntervención: daraxonrasib (inhibidor de amplio espectro de RAS); no se identifica comparador, consistente con un estudio de fase temprana sin grupo control.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: fase temprana, con posible tamaño muestral reducido y sin grupo comparador, lo que limita las conclusiones sobre eficacia real.\nMensaje: los inhibidores de RAS de amplio espectro podrían ampliar las opciones en una población con mutaciones históricamente difíciles de abordar farmacológicamente, a confirmar con más datos.\nNota: análisis sin acceso al abstract."
     },
-    "4e4ea9303b63": {
-      "resumen": "Ocho tendencias de moda otoño-invierno para darle color a los días grises de la temporada."
+    "17c5499482f3": {
+      "resumen": "OncLive repasa, junto a especialistas, las preguntas clave sobre cómo elegir, secuenciar y manejar la toxicidad de los conjugados anticuerpo-fármaco o ADC (antibody-drug conjugate, una clase de fármacos que combina un anticuerpo con un agente citotóxico) según el subtipo de cáncer de mama. Interesa porque estos fármacos se multiplicaron en los últimos años y la práctica diaria necesita criterios claros para usarlos bien.",
+      "destacado": false
     },
-    "9f746d54eea8": {
-      "resumen": "Vogue México repasa los zapatos de los 90 que vuelven a combinarse con jeans, faldas y vestidos esta temporada."
+    "4fbb3cc99030": {
+      "resumen": "Journal of Clinical Oncology publica la actualización de la guía viva o living guideline de la ASCO (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica) sobre el tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) en estadio IV con alteraciones genéticas conductoras (driver alterations). Interesa porque estas guías se actualizan a medida que surge nueva evidencia y orientan la elección del tratamiento dirigido según cada alteración molecular.",
+      "destacado": false
     },
-    "ee922ab23449": {
-      "resumen": "La comedia de terror \"La maldición de Irá Vamp\" llega el sábado al Teatro Picadero de Buenos Aires."
+    "087423c6b49a": {
+      "resumen": "La modelo argentina Valentina Ferrer brilló en la alfombra roja de la Gala Vogue de Día de Muertos en Colombia, con un vestido rojo vintage y zapatos de tacón negros."
     },
-    "69add2989bfe": {
-      "resumen": "No Te Va Gustar da sus últimos tres recitales en Buenos Aires: precios y fechas de las funciones."
+    "3a811e0555af": {
+      "resumen": "Vogue México repasa los looks de todas las celebridades que desfilaron por la alfombra roja de la Gala Vogue de Día de Muertos Colombia 2026."
     },
-    "7ead030f0931": {
-      "resumen": "\"En voz baja\", la obra de Wosh Machín, llega a Buenos Aires con entrada gratuita y aborda temas sociales tabú."
+    "5fe29e713d77": {
+      "resumen": "Carla Castro-Rial, de la marca Bycatelier, reflexiona sobre cómo ganamos libertad para vestirnos como queremos, aunque también creció muchísimo el ruido alrededor de la moda."
     },
-    "d48b99cd16c7": {
-      "resumen": "Time Out repasa la agenda de actividades para esta semana y el finde en Buenos Aires."
+    "3e18802bbed0": {
+      "resumen": "Vogue México elige las siete botas negras que van a ser tendencia este otoño-invierno 2026."
+    },
+    "6024e9100a46": {
+      "resumen": "La Nación recomienda tres restaurantes con jardín, ideales para disfrutar la primavera en Buenos Aires."
+    },
+    "47f83ac21a5e": {
+      "resumen": "Nazarena Vélez vuelve a subirse a un escenario en el Teatro del Sol de Villa Carlos Paz, después de 13 años de ausencia."
+    },
+    "645270fe4693": {
+      "resumen": "Llega En voz baja, una nueva obra de teatro pensada para debatir sobre problemáticas sociales."
+    },
+    "8562668b77f4": {
+      "resumen": "El cantante puertorriqueño Pedro Capó se presenta en Argentina."
+    },
+    "d4a4e924a2d3": {
+      "resumen": "Mauricio Morando regresa a Buenos Aires con su unipersonal La balada del álamo carolina."
     }
   }
 }
