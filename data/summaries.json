@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-30T10:13:17Z",
+  "generated_at": "2026-10-30T22:12:20Z",
   "summaries": {
-    "6aa03648ed40": {
-      "resumen": "Una selección de cuatro restaurantes y bares porteños para festejar Halloween el 31 de octubre."
-    },
-    "e218d394dc82": {
-      "resumen": "Una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
-    },
-    "97bbb8ca87dc": {
-      "resumen": "El fenómeno climático El Niño se mantiene con 100% de probabilidad hasta fin de año y se recomienda armar un kit de emergencia y saber cuándo cortar la luz."
-    },
     "f04805981e1e": {
       "resumen": "Journal of Clinical Oncology publica los resultados de supervivencia global, eficacia y seguridad del estudio OptimUM-01, que evaluó darovasertib (un inhibidor de la proteína quinasa C, PKC) combinado con crizotinib (un inhibidor de c-MET/ALK) como primera línea en melanoma uveal metastásico. Interesa porque este tumor tiene pocas opciones eficaces y esta combinación dirigida busca cambiar ese escenario.",
       "destacado": false,
@@ -17,101 +8,98 @@
     },
     "7c76a9c17830": {
       "resumen": "Journal of Clinical Oncology publica un análisis sobre cómo combinar inmunoterapia con radioterapia corporal estereotáctica (SBRT, por su sigla en inglés) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, enfocado en cómo seleccionar pacientes según el riesgo, la biología tumoral y el momento de la combinación. Interesa porque ordena la evidencia creciente sobre cuándo y a quién conviene sumar inmunoterapia a la radioterapia local.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un artículo de revisión o perspectiva sobre cómo combinar inmunoterapia y radioterapia corporal estereotáctica (SBRT); no corresponde a un ensayo clínico individual con diseño, aleatorización o número de pacientes propios.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, candidatos a radioterapia local.\nIntervención: Discute cómo seleccionar candidatos para sumar inmunoterapia a la SBRT según el riesgo individual, la biología tumoral y el momento de la combinación, sin un esquema único ni comparador definido.\nResultados: No reporta resultados numéricos propios; el título indica que ordena evidencia de distintos estudios, no resultados de un ensayo único.\nLimitaciones: Es un artículo de síntesis/opinión y no un estudio original, por lo que no aporta datos primarios propios ni pasa por el diseño de un ensayo controlado.\nMensaje: Ayuda a los oncólogos radioterapeutas a decidir en qué pacientes y en qué momento conviene sumar inmunoterapia a la radioterapia local en CPCNP temprano, en lugar de aportar un resultado definitivo propio.\nNota: análisis sin acceso al abstract."
     },
     "e09440eed3ac": {
       "resumen": "Journal of Clinical Oncology publica los resultados del ensayo KEYNOTE-867, un estudio de fase III que evaluó agregar pembrolizumab (inhibidor de punto de control inmunitario anti-PD-1) a la radioterapia corporal estereotáctica (SBRT) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio I o II no resecado. Interesa porque busca definir si la inmunoterapia complementa a la radioterapia local en pacientes que no pueden o no quieren operarse.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y doble ciego, según indica el título; este no especifica la cantidad de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio I o II no resecado, es decir no candidatos a cirugía o que no se operaron.\nIntervención: Radioterapia corporal estereotáctica (SBRT) combinada con pembrolizumab, frente a SBRT con placebo.\nResultados: El título no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p; sin el cuerpo del abstract no se pueden precisar.\nLimitaciones: El diseño aleatorizado y doble ciego con placebo es sólido, pero sin el artículo completo no se puede evaluar el seguimiento ni los efectos adversos.\nMensaje: Si los resultados son positivos, sumar pembrolizumab a la SBRT podría convertirse en una nueva opción estándar para pacientes con CPCNP en estadio temprano no operable; es un ensayo de fase III grande y muy esperado en la comunidad oncológica.\nNota: análisis sin acceso al abstract."
     },
-    "aa48212048a7": {
-      "resumen": "Una guía de los mejores lugares para festejar Halloween en Buenos Aires el 31 de octubre."
-    },
-    "61a731cc48b9": {
-      "resumen": "Propuestas para el fin de semana en Buenos Aires, con la feria de arte Arteba instalada en La Rural."
-    },
-    "b7b527103daf": {
-      "resumen": "The ASCO Post analiza cómo el tipo de cobertura en Estados Unidos —Medicare Advantage (el programa de salud privado para mayores de 65 años) frente al Medicare tradicional— influye en el acceso y la implementación de cuidados paliativos y de hospicio en pacientes oncológicos. Interesa porque muestra cómo el diseño del sistema de salud puede generar desigualdades en el final de la vida, un debate que también atraviesa otros sistemas de salud.",
-      "destacado": false,
-      "analisis": "Diseño: estudio comparativo/observacional sobre utilización de servicios de salud en Estados Unidos, según el título.\nPoblación: pacientes oncológicos en cuidados paliativos u hospicio cubiertos por Medicare Advantage versus Medicare tradicional.\nIntervención: comparación de modelos de cobertura, no una intervención terapéutica.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: diseño observacional con riesgo de sesgo de selección entre poblaciones con distinta cobertura; hallazgos poco trasladables a sistemas de salud fuera de Estados Unidos.\nMensaje: el tipo de cobertura podría condicionar el acceso a cuidados paliativos y de hospicio, un punto a vigilar en el diseño de políticas sanitarias.\nNota: análisis sin acceso al abstract."
-    },
-    "957d20777098": {
-      "resumen": "The ASCO Post cubre un estudio sobre tarlatamab (un anticuerpo biespecífico que dirige linfocitos T contra el antígeno DLL3) combinado con durvalumab (un inhibidor de punto de control inmunológico) como mantenimiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido. Interesa porque esta enfermedad tiene pocas opciones de mantenimiento eficaces y la combinación podría ampliarlas.",
-      "destacado": false,
-      "analisis": "Diseño: por el título parecería un ensayo clínico, probablemente de fase temprana, que evalúa un esquema de mantenimiento combinado.\nPoblación: pacientes con cáncer de pulmón de células pequeñas en estadio extenso que respondieron a la quimioinmunoterapia de primera línea.\nIntervención: tarlatamab más durvalumab como mantenimiento; no se identifica comparador desde el título.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin datos concretos de eficacia ni seguridad; posible ensayo de fase temprana con muestra reducida.\nMensaje: podría surgir una nueva estrategia de mantenimiento en una enfermedad de pronóstico históricamente malo, a confirmar con más datos.\nNota: análisis sin acceso al abstract."
-    },
-    "6c59240105db": {
-      "resumen": "Según The ASCO Post, un estudio evaluó si sumar un chatbot (asistente conversacional automatizado) a las consultas de predisposición genética al cáncer mejora el conocimiento sobre el riesgo en adolescentes y adultos jóvenes (AYA, por adolescent and young adults). Interesa porque la comunicación del riesgo genético es un desafío clínico y las herramientas digitales podrían reforzar la comprensión del paciente.",
-      "destacado": false,
-      "analisis": "Diseño: por el título parecería un estudio de intervención educativa, posiblemente un ensayo piloto o cuasi-experimental.\nPoblación: adolescentes y adultos jóvenes (AYA) atendidos en consultas de predisposición genética al cáncer.\nIntervención: incorporación de un chatbot educativo a la consulta habitual, presumiblemente comparado con la consulta estándar.\nResultados: el título indica mejora en el conocimiento sobre el riesgo, sin cifras disponibles sin el abstract.\nLimitaciones: posible muestra chica, efecto de novedad de la herramienta digital y falta de seguimiento a largo plazo.\nMensaje: las herramientas digitales podrían complementar, no reemplazar, el asesoramiento genético presencial en población joven.\nNota: análisis sin acceso al abstract."
-    },
-    "418cd78ef0dc": {
-      "resumen": "Carta de respuesta publicada en NEJM (correspondencia médica) sobre un caso de tumor neuroepitelial asociado a la integración de un vector AAV (virus adenoasociado, usado en terapia génica) en el genoma del paciente. Interesa porque forma parte del debate sobre la seguridad a largo plazo de las terapias génicas basadas en AAV, una señal que la oncología sigue de cerca.",
-      "destacado": false
-    },
-    "15a7a5d2d2f6": {
-      "resumen": "Carta original publicada en NEJM que describe un caso de tumor neuroepitelial vinculado a la integración de un vector AAV (virus adenoasociado utilizado en terapia génica) en el ADN del paciente. Interesa porque aporta evidencia concreta sobre un posible riesgo oncogénico de las terapias génicas con AAV, un tema clave en la seguridad a largo plazo de estos tratamientos.",
-      "destacado": false
-    },
-    "41b9a05dca9b": {
-      "resumen": "Vogue repasa la colección primavera 2027 de la marca mexicana Minena."
-    },
-    "a84f4760dbb9": {
-      "resumen": "Vogue muestra la nueva colección primavera 2027 de la diseñadora mexicana Carla Fernández."
-    },
-    "6989a1749f37": {
-      "resumen": "Vogue presenta la colección primavera 2027 de la marca mexicana Zurce."
-    },
-    "ede932181715": {
-      "resumen": "Vogue repasa la colección primavera 2027 de la marca nigeriana Orange Culture, presentada en Lagos."
-    },
-    "b0f6ee679b09": {
-      "resumen": "La 49ª edición de la pasarela Gasteiz On traerá las tendencias de otoño-invierno al Palacio Europa de Vitoria."
-    },
-    "03c0eb99669f": {
-      "resumen": "OncLive reporta nuevos datos que amplían la evidencia de usar primero zongertinib (un inhibidor oral de HER2, receptor del factor de crecimiento epidérmico humano tipo 2) seguido de trastuzumab deruxtecán o T-DXd (un conjugado anticuerpo-fármaco dirigido a HER2) en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en HER2. Interesa porque consolida una secuencia de tratamiento dirigido en una población con pocas opciones específicas.",
-      "destacado": false,
-      "analisis": "Diseño: el título indica que se ampliaron los datos de un estudio clínico sobre esta secuencia de tratamiento; no se especifica si es un ensayo aleatorizado, el cegamiento, ni la cantidad de centros o pacientes.\nPoblación: pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación en HER2, en primera línea de tratamiento.\nIntervención: zongertinib (inhibidor oral de HER2) seguido de trastuzumab deruxtecán o T-DXd (conjugado anticuerpo-fármaco anti-HER2); no se menciona comparador explícito.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: sin cifras de eficacia ni seguridad disponibles; el CPCNP con mutación en HER2 es poco frecuente, lo que suele limitar el tamaño de las cohortes analizadas.\nMensaje: de confirmarse, esta secuencia podría afianzarse como estándar de primera línea en una población con opciones dirigidas todavía escasas.\nNota: análisis sin acceso al abstract."
-    },
-    "b5de737f9130": {
-      "resumen": "OncLive cubre los datos del estudio de fase 1-2 RMC-6236-001 sobre daraxonrasib, un inhibidor de amplio espectro de la proteína RAS, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en RAS que ya recibió tratamiento previo. Interesa porque las mutaciones en RAS son frecuentes y hasta hace poco no tenían tratamientos dirigidos eficaces.",
-      "destacado": false,
-      "analisis": "Diseño: ensayo clínico de fase 1-2 (RMC-6236-001), según el título; no se detalla si fue aleatorizado, el cegamiento, ni el número de centros o pacientes incluidos.\nPoblación: pacientes con cáncer de pulmón de células no pequeñas (CPCNP) con mutación en RAS, previamente tratados.\nIntervención: daraxonrasib (inhibidor de amplio espectro de RAS); no se identifica comparador, consistente con un estudio de fase temprana sin grupo control.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: fase temprana, con posible tamaño muestral reducido y sin grupo comparador, lo que limita las conclusiones sobre eficacia real.\nMensaje: los inhibidores de RAS de amplio espectro podrían ampliar las opciones en una población con mutaciones históricamente difíciles de abordar farmacológicamente, a confirmar con más datos.\nNota: análisis sin acceso al abstract."
-    },
-    "17c5499482f3": {
-      "resumen": "OncLive repasa, junto a especialistas, las preguntas clave sobre cómo elegir, secuenciar y manejar la toxicidad de los conjugados anticuerpo-fármaco o ADC (antibody-drug conjugate, una clase de fármacos que combina un anticuerpo con un agente citotóxico) según el subtipo de cáncer de mama. Interesa porque estos fármacos se multiplicaron en los últimos años y la práctica diaria necesita criterios claros para usarlos bien.",
-      "destacado": false
-    },
     "4fbb3cc99030": {
       "resumen": "Journal of Clinical Oncology publica la actualización de la guía viva o living guideline de la ASCO (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica) sobre el tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) en estadio IV con alteraciones genéticas conductoras (driver alterations). Interesa porque estas guías se actualizan a medida que surge nueva evidencia y orientan la elección del tratamiento dirigido según cada alteración molecular.",
       "destacado": false
     },
-    "087423c6b49a": {
-      "resumen": "La modelo argentina Valentina Ferrer brilló en la alfombra roja de la Gala Vogue de Día de Muertos en Colombia, con un vestido rojo vintage y zapatos de tacón negros."
-    },
-    "3a811e0555af": {
-      "resumen": "Vogue México repasa los looks de todas las celebridades que desfilaron por la alfombra roja de la Gala Vogue de Día de Muertos Colombia 2026."
-    },
-    "5fe29e713d77": {
-      "resumen": "Carla Castro-Rial, de la marca Bycatelier, reflexiona sobre cómo ganamos libertad para vestirnos como queremos, aunque también creció muchísimo el ruido alrededor de la moda."
-    },
-    "3e18802bbed0": {
-      "resumen": "Vogue México elige las siete botas negras que van a ser tendencia este otoño-invierno 2026."
-    },
     "6024e9100a46": {
       "resumen": "La Nación recomienda tres restaurantes con jardín, ideales para disfrutar la primavera en Buenos Aires."
     },
-    "47f83ac21a5e": {
-      "resumen": "Nazarena Vélez vuelve a subirse a un escenario en el Teatro del Sol de Villa Carlos Paz, después de 13 años de ausencia."
+    "cb5af27199b1": {
+      "resumen": "La ASCO Post analiza los datos del estudio OptiTROP-Lung06, que evalúa si una nueva terapia podría ofrecer una alternativa a la quimioterapia en cáncer de pulmón de células no pequeñas (CPCNP) avanzado con expresión negativa de PD-L1 (ligando de muerte programada 1, proteína usada para seleccionar inmunoterapias). Interesa porque este subgrupo de pacientes, que responde peor a la inmunoterapia, tiene pocas alternativas a la quimioterapia convencional.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico identificado como \"OptiTROP-Lung06\"; el título no precisa la fase, si fue aleatorizado, con cegamiento, ni la cantidad de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) avanzado con expresión negativa de PD-L1, un subgrupo que suele responder peor a la inmunoterapia.\nIntervención: El título no especifica el fármaco evaluado ni el esquema completo, más allá de que se compara frente a la quimioterapia estándar.\nResultados: El título solo plantea la pregunta de si podría ser una alternativa a la quimioterapia, sin cifras de eficacia ni seguridad disponibles.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede evaluar el diseño, el tamaño muestral ni el riesgo de sesgo.\nMensaje: Si se confirma, podría surgir una opción no quimioterápica para un subgrupo de CPCNP avanzado que hoy depende casi exclusivamente de la quimioterapia.\nNota: análisis sin acceso al abstract."
     },
-    "645270fe4693": {
-      "resumen": "Llega En voz baja, una nueva obra de teatro pensada para debatir sobre problemáticas sociales."
+    "74d16ff76f31": {
+      "resumen": "OncLive reporta cómo los datos de la combinación con INCB161734 (un fármaco en investigación) moldearon el diseño \"todos los pacientes\" (all-comers) del estudio DAWN-303 en primera línea de adenocarcinoma ductal de páncreas (PDAC, por su sigla en inglés) con mutación KRAS G12D. Interesa porque las mutaciones de KRAS son frecuentes en cáncer de páncreas y hasta hace poco se consideraban difíciles de atacar farmacológicamente.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico identificado como \"DAWN-303\", con diseño \"todos los pacientes\" (all-comers); el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC) con mutación KRAS G12D tratados en primera línea.\nIntervención: Combinación que incluye INCB161734 (fármaco en investigación), sin especificar el esquema completo ni el comparador en el título.\nResultados: El título se refiere a \"datos de combinación\" que moldearon el diseño del estudio, pero no aporta cifras de eficacia o seguridad.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el riesgo de sesgo; el cáncer de páncreas con esta mutación es relativamente poco frecuente.\nMensaje: Si avanza, podría sumarse una opción dirigida en primera línea para un subgrupo de cáncer de páncreas con mutación KRAS G12D, históricamente de pronóstico muy desfavorable.\nNota: análisis sin acceso al abstract."
     },
-    "8562668b77f4": {
-      "resumen": "El cantante puertorriqueño Pedro Capó se presenta en Argentina."
+    "1c416bec510c": {
+      "resumen": "OncLive recoge la opinión del Dr. McKean sobre la importancia de estratificar el riesgo luego de tratar el tumor primario en melanoma uveal, un tipo de cáncer de ojo poco frecuente. Interesa porque ayuda a entender cómo los oncólogos deciden el seguimiento y el momento de iniciar tratamientos adicionales en esta enfermedad.",
+      "destacado": false
     },
-    "d4a4e924a2d3": {
-      "resumen": "Mauricio Morando regresa a Buenos Aires con su unipersonal La balada del álamo carolina."
+    "73952fdf20d7": {
+      "resumen": "La ASCO Post informa que la ASTRO (Sociedad Estadounidense de Oncología Radioterápica) actualizó su guía sobre esquemas más cortos de radioterapia (hipofraccionamiento) en cáncer de próstata localizado. Interesa porque estos esquemas acortados reducen la cantidad de sesiones sin resignar eficacia, lo que simplifica el tratamiento para el paciente.",
+      "destacado": false
+    },
+    "dabc944933bd": {
+      "resumen": "La ASCO Post reporta que selpercatinib (un inhibidor de RET, una proteína que cuando está alterada impulsa el crecimiento tumoral) y sacituzumab govitecan (un anticuerpo conjugado dirigido contra la proteína TROP2) mostraron actividad antitumoral en distintos subtipos de cáncer de tiroides. Interesa porque ofrece nuevas opciones dirigidas para subtipos con pocas alternativas eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere datos de actividad clínica, probablemente de uno o más estudios o series de casos; no se especifica el tipo de diseño, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con distintos subtipos de cáncer de tiroides, sin mayor precisión en el título.\nIntervención: Selpercatinib (inhibidor de RET) y sacituzumab govitecan (anticuerpo conjugado anti-TROP2), evaluados aparentemente de forma independiente; no se menciona comparador.\nResultados: El título indica que ambos fármacos \"mostraron actividad\", sin cifras de tasas de respuesta, supervivencia ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede precisar el diseño, el tamaño muestral ni el riesgo de sesgo; los subtipos avanzados de cáncer de tiroides suelen ser poco frecuentes, lo que limita el tamaño de los estudios.\nMensaje: Ambos fármacos podrían sumar opciones dirigidas para subtipos específicos de cáncer de tiroides que hoy tienen pocas alternativas eficaces, a confirmar con más datos.\nNota: análisis sin acceso al abstract."
+    },
+    "c49327dd0b92": {
+      "resumen": "OncLive propone un cuestionario semanal para repasar las novedades recientes en cáncer de próstata, cáncer de cabeza y cuello (HNSCC, por head and neck squamous cell carcinoma) y enfermedades hematológicas. Es un resumen interactivo de la actualidad oncológica de la semana, útil para no perderse novedades relevantes.",
+      "destacado": false
+    },
+    "7b92f3d787dd": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Hertunba, presentada en la semana de la moda de Lagos."
+    },
+    "c83f101130b3": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Oshobor, presentada en la semana de la moda de Lagos."
+    },
+    "4f461ff1c85a": {
+      "resumen": "Vogue repasa la colección primavera 2027 de Nkwo, presentada en la semana de la moda de Lagos."
+    },
+    "e22b43bf7a1a": {
+      "resumen": "Vogue muestra la colección prêt-à-porter primavera 2027 de Zadig & Voltaire."
+    },
+    "90e1f46fbef2": {
+      "resumen": "Vogue México eligió los mejores looks de las celebridades que respetaron el código de vestimenta de la Gala Vogue de Día de Muertos en Colombia 2026."
+    },
+    "58ebf4dae715": {
+      "resumen": "Vogue México repasa los looks de belleza más destacados del backstage de la Gala Vogue de Día de Muertos en Colombia 2026."
+    },
+    "2fe52d142f37": {
+      "resumen": "Vogue México detalla las uñas, los peinados y el maquillaje que se lucieron en la Gala Vogue de Día de Muertos 2026."
+    },
+    "eb185f183765": {
+      "resumen": "Zendaya, referente de marcas de lujo, explicó por qué dejó de seguir las tendencias de moda porque considera que nunca se les puede dar alcance."
+    },
+    "a3b53a668b52": {
+      "resumen": "Crónica explica cómo conseguir entradas gratis para ver a Nico Sattler, de Q'Lokura, con su espectáculo Sótano 22 en el Teatro Broadway."
+    },
+    "37bdbe08eaea": {
+      "resumen": "Perfil propone planes de Halloween, música, gastronomía y ferias para este fin de semana en la Ciudad de Buenos Aires."
+    },
+    "9c5c5f334e3a": {
+      "resumen": "Revista OHLALÁ! recomienda restaurantes porteños donde la buena cocina se combina con un ambiente cuidado."
+    },
+    "1de34f9c4dcb": {
+      "resumen": "El actor Norman Briski habla sobre la vejez y la muerte a propósito de un festival de teatro realizado en su honor."
+    },
+    "b351eaa82730": {
+      "resumen": "El Teatro Colón ofrece una visita guiada gratuita de madrugada como parte de La Noche de los Museos."
+    },
+    "0d3c55aa582b": {
+      "resumen": "Un festival de teatro en Buenos Aires homenajea al actor Norman Briski."
+    },
+    "6b1f085924f3": {
+      "resumen": "iProfesional reúne propuestas para disfrutar el fin de semana de Halloween en Buenos Aires."
+    },
+    "d1daa5a1be21": {
+      "resumen": "Radio Hache 97.7 reúne más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, muchos gratuitos."
+    },
+    "4d16fb3d868a": {
+      "resumen": "Canal26 anticipa un fin de semana en Buenos Aires con temperaturas de hasta 26 grados y lluvias en dos franjas horarias puntuales."
     }
   }
 }
