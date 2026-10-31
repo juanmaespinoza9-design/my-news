@@ -1,53 +1,44 @@
 {
-  "generated_at": "2026-10-30T22:12:20Z",
+  "generated_at": "2026-10-31T10:10:51Z",
   "summaries": {
-    "f04805981e1e": {
-      "resumen": "Journal of Clinical Oncology publica los resultados de supervivencia global, eficacia y seguridad del estudio OptimUM-01, que evaluó darovasertib (un inhibidor de la proteína quinasa C, PKC) combinado con crizotinib (un inhibidor de c-MET/ALK) como primera línea en melanoma uveal metastásico. Interesa porque este tumor tiene pocas opciones eficaces y esta combinación dirigida busca cambiar ese escenario.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico identificado como \"OptimUM-01\"; el título no especifica la fase, si fue aleatorizado o con cegamiento, ni la cantidad de centros o pacientes incluidos.\nPoblación: Pacientes con melanoma uveal metastásico tratados en primera línea.\nIntervención: Combinación de darovasertib (inhibidor de PKC) y crizotinib (inhibidor de c-MET/ALK), sin comparador explícito en el título.\nResultados: El título anuncia datos de supervivencia global, eficacia y seguridad, pero no incluye cifras (medianas de supervivencia, tasas de respuesta, razones de riesgo ni intervalos de confianza).\nLimitaciones: El melanoma uveal metastásico es una enfermedad poco frecuente, lo que suele limitar el tamaño muestral de estos estudios; sin el cuerpo del artículo no se puede evaluar el riesgo de sesgo.\nMensaje: Si los datos completos confirman el beneficio, esta combinación dirigida podría transformarse en una nueva primera línea para el melanoma uveal metastásico, una indicación con opciones históricamente limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "7c76a9c17830": {
-      "resumen": "Journal of Clinical Oncology publica un análisis sobre cómo combinar inmunoterapia con radioterapia corporal estereotáctica (SBRT, por su sigla en inglés) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, enfocado en cómo seleccionar pacientes según el riesgo, la biología tumoral y el momento de la combinación. Interesa porque ordena la evidencia creciente sobre cuándo y a quién conviene sumar inmunoterapia a la radioterapia local.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un artículo de revisión o perspectiva sobre cómo combinar inmunoterapia y radioterapia corporal estereotáctica (SBRT); no corresponde a un ensayo clínico individual con diseño, aleatorización o número de pacientes propios.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, candidatos a radioterapia local.\nIntervención: Discute cómo seleccionar candidatos para sumar inmunoterapia a la SBRT según el riesgo individual, la biología tumoral y el momento de la combinación, sin un esquema único ni comparador definido.\nResultados: No reporta resultados numéricos propios; el título indica que ordena evidencia de distintos estudios, no resultados de un ensayo único.\nLimitaciones: Es un artículo de síntesis/opinión y no un estudio original, por lo que no aporta datos primarios propios ni pasa por el diseño de un ensayo controlado.\nMensaje: Ayuda a los oncólogos radioterapeutas a decidir en qué pacientes y en qué momento conviene sumar inmunoterapia a la radioterapia local en CPCNP temprano, en lugar de aportar un resultado definitivo propio.\nNota: análisis sin acceso al abstract."
-    },
-    "e09440eed3ac": {
-      "resumen": "Journal of Clinical Oncology publica los resultados del ensayo KEYNOTE-867, un estudio de fase III que evaluó agregar pembrolizumab (inhibidor de punto de control inmunitario anti-PD-1) a la radioterapia corporal estereotáctica (SBRT) en cáncer de pulmón de células no pequeñas (CPCNP) en estadio I o II no resecado. Interesa porque busca definir si la inmunoterapia complementa a la radioterapia local en pacientes que no pueden o no quieren operarse.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado y doble ciego, según indica el título; este no especifica la cantidad de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio I o II no resecado, es decir no candidatos a cirugía o que no se operaron.\nIntervención: Radioterapia corporal estereotáctica (SBRT) combinada con pembrolizumab, frente a SBRT con placebo.\nResultados: El título no incluye cifras de supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p; sin el cuerpo del abstract no se pueden precisar.\nLimitaciones: El diseño aleatorizado y doble ciego con placebo es sólido, pero sin el artículo completo no se puede evaluar el seguimiento ni los efectos adversos.\nMensaje: Si los resultados son positivos, sumar pembrolizumab a la SBRT podría convertirse en una nueva opción estándar para pacientes con CPCNP en estadio temprano no operable; es un ensayo de fase III grande y muy esperado en la comunidad oncológica.\nNota: análisis sin acceso al abstract."
-    },
-    "4fbb3cc99030": {
-      "resumen": "Journal of Clinical Oncology publica la actualización de la guía viva o living guideline de la ASCO (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica) sobre el tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) en estadio IV con alteraciones genéticas conductoras (driver alterations). Interesa porque estas guías se actualizan a medida que surge nueva evidencia y orientan la elección del tratamiento dirigido según cada alteración molecular.",
+    "11494c4cf161": {
+      "resumen": "The ASCO Post entrevista al Dr. Neil Iyengar sobre la importancia de testear mutaciones en el gen ESR1 (receptor de estrógeno) en cáncer de mama con receptores hormonales positivos (ER-positivo). Interesa porque estas mutaciones suelen aparecer tras el uso prolongado de terapia endocrina y pueden guiar el cambio a tratamientos dirigidos más efectivos, como elacestrant.",
       "destacado": false
-    },
-    "6024e9100a46": {
-      "resumen": "La Nación recomienda tres restaurantes con jardín, ideales para disfrutar la primavera en Buenos Aires."
     },
     "cb5af27199b1": {
       "resumen": "La ASCO Post analiza los datos del estudio OptiTROP-Lung06, que evalúa si una nueva terapia podría ofrecer una alternativa a la quimioterapia en cáncer de pulmón de células no pequeñas (CPCNP) avanzado con expresión negativa de PD-L1 (ligando de muerte programada 1, proteína usada para seleccionar inmunoterapias). Interesa porque este subgrupo de pacientes, que responde peor a la inmunoterapia, tiene pocas alternativas a la quimioterapia convencional.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Estudio clínico identificado como \"OptiTROP-Lung06\"; el título no precisa la fase, si fue aleatorizado, con cegamiento, ni la cantidad de centros o pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) avanzado con expresión negativa de PD-L1, un subgrupo que suele responder peor a la inmunoterapia.\nIntervención: El título no especifica el fármaco evaluado ni el esquema completo, más allá de que se compara frente a la quimioterapia estándar.\nResultados: El título solo plantea la pregunta de si podría ser una alternativa a la quimioterapia, sin cifras de eficacia ni seguridad disponibles.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede evaluar el diseño, el tamaño muestral ni el riesgo de sesgo.\nMensaje: Si se confirma, podría surgir una opción no quimioterápica para un subgrupo de CPCNP avanzado que hoy depende casi exclusivamente de la quimioterapia.\nNota: análisis sin acceso al abstract."
     },
-    "74d16ff76f31": {
-      "resumen": "OncLive reporta cómo los datos de la combinación con INCB161734 (un fármaco en investigación) moldearon el diseño \"todos los pacientes\" (all-comers) del estudio DAWN-303 en primera línea de adenocarcinoma ductal de páncreas (PDAC, por su sigla en inglés) con mutación KRAS G12D. Interesa porque las mutaciones de KRAS son frecuentes en cáncer de páncreas y hasta hace poco se consideraban difíciles de atacar farmacológicamente.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico identificado como \"DAWN-303\", con diseño \"todos los pacientes\" (all-comers); el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas (PDAC) con mutación KRAS G12D tratados en primera línea.\nIntervención: Combinación que incluye INCB161734 (fármaco en investigación), sin especificar el esquema completo ni el comparador en el título.\nResultados: El título se refiere a \"datos de combinación\" que moldearon el diseño del estudio, pero no aporta cifras de eficacia o seguridad.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni el riesgo de sesgo; el cáncer de páncreas con esta mutación es relativamente poco frecuente.\nMensaje: Si avanza, podría sumarse una opción dirigida en primera línea para un subgrupo de cáncer de páncreas con mutación KRAS G12D, históricamente de pronóstico muy desfavorable.\nNota: análisis sin acceso al abstract."
+    "0f94bb344742": {
+      "resumen": "OncLive repasa con un especialista cómo secuenciar los tratamientos después de progresar a un inhibidor covalente de BTK (tirosina quinasa de Bruton) en leucemia linfocítica crónica (LLC). Interesa porque cada vez hay más opciones disponibles después de estos fármacos y elegir bien el siguiente paso condiciona el pronóstico.",
+      "destacado": false
     },
-    "1c416bec510c": {
-      "resumen": "OncLive recoge la opinión del Dr. McKean sobre la importancia de estratificar el riesgo luego de tratar el tumor primario en melanoma uveal, un tipo de cáncer de ojo poco frecuente. Interesa porque ayuda a entender cómo los oncólogos deciden el seguimiento y el momento de iniciar tratamientos adicionales en esta enfermedad.",
+    "6748472c6ad0": {
+      "resumen": "OncLive conversa con un especialista sobre los criterios para elegir el tratamiento más adecuado en pacientes con leucemia linfocítica crónica (LLC) que recaen. Interesa porque la decisión en la recaída depende de factores genéticos del tumor y de los tratamientos previos recibidos.",
       "destacado": false
     },
     "73952fdf20d7": {
       "resumen": "La ASCO Post informa que la ASTRO (Sociedad Estadounidense de Oncología Radioterápica) actualizó su guía sobre esquemas más cortos de radioterapia (hipofraccionamiento) en cáncer de próstata localizado. Interesa porque estos esquemas acortados reducen la cantidad de sesiones sin resignar eficacia, lo que simplifica el tratamiento para el paciente.",
       "destacado": false
     },
-    "dabc944933bd": {
-      "resumen": "La ASCO Post reporta que selpercatinib (un inhibidor de RET, una proteína que cuando está alterada impulsa el crecimiento tumoral) y sacituzumab govitecan (un anticuerpo conjugado dirigido contra la proteína TROP2) mostraron actividad antitumoral en distintos subtipos de cáncer de tiroides. Interesa porque ofrece nuevas opciones dirigidas para subtipos con pocas alternativas eficaces.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere datos de actividad clínica, probablemente de uno o más estudios o series de casos; no se especifica el tipo de diseño, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con distintos subtipos de cáncer de tiroides, sin mayor precisión en el título.\nIntervención: Selpercatinib (inhibidor de RET) y sacituzumab govitecan (anticuerpo conjugado anti-TROP2), evaluados aparentemente de forma independiente; no se menciona comparador.\nResultados: El título indica que ambos fármacos \"mostraron actividad\", sin cifras de tasas de respuesta, supervivencia ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede precisar el diseño, el tamaño muestral ni el riesgo de sesgo; los subtipos avanzados de cáncer de tiroides suelen ser poco frecuentes, lo que limita el tamaño de los estudios.\nMensaje: Ambos fármacos podrían sumar opciones dirigidas para subtipos específicos de cáncer de tiroides que hoy tienen pocas alternativas eficaces, a confirmar con más datos.\nNota: análisis sin acceso al abstract."
+    "d3e858663614": {
+      "resumen": "OncLive conversa con un especialista sobre cómo plantear a los pacientes las conversaciones sobre el tratamiento de primera línea en leucemia linfocítica crónica (LLC). Interesa porque una buena comunicación inicial ayuda a la adherencia y a manejar expectativas realistas sobre el tratamiento.",
+      "destacado": false
     },
-    "c49327dd0b92": {
-      "resumen": "OncLive propone un cuestionario semanal para repasar las novedades recientes en cáncer de próstata, cáncer de cabeza y cuello (HNSCC, por head and neck squamous cell carcinoma) y enfermedades hematológicas. Es un resumen interactivo de la actualidad oncológica de la semana, útil para no perderse novedades relevantes.",
+    "cb2ac79f30ee": {
+      "resumen": "Journal of Clinical Oncology publica una revisión sobre cómo evolucionó la evidencia de los ensayos TAILORx y OPTIMA para decidir, mediante tests genómicos, qué pacientes con cáncer de mama con receptores hormonales positivos y HER2 (receptor del factor de crecimiento epidérmico humano 2) negativo necesitan quimioterapia además de la terapia endocrina. Interesa porque estos tests evitan quimioterapia innecesaria en muchas pacientes."
+    },
+    "e4c39e037035": {
+      "resumen": "Journal of Clinical Oncology publica un ensayo clínico aleatorizado que evaluó el metilfenidato (un estimulante del sistema nervioso central) para tratar la fatiga asociada al cáncer hematológico. Interesa porque la fatiga es uno de los síntomas más frecuentes y limitantes en estos pacientes, y hay pocas opciones farmacológicas validadas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, según indica el título; no se especifica si fue doble ciego ni controlado con placebo, ni la cantidad de centros o pacientes incluidos.\nPoblación: Pacientes con cáncer hematológico que presentan fatiga relacionada con la enfermedad o su tratamiento.\nIntervención: Metilfenidato (estimulante del sistema nervioso central), presumiblemente comparado contra placebo, aunque el título no lo confirma.\nResultados: El título no incluye cifras de mejoría de la fatiga, diferencias entre grupos, intervalos de confianza ni valor de p.\nLimitaciones: Sin el cuerpo del abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni la escala usada para medir la fatiga; los estimulantes suelen tener efectos adversos cardiovasculares y de ansiedad que condicionan su uso.\nMensaje: Si confirma beneficio, el metilfenidato podría sumarse como una opción farmacológica más para la fatiga relacionada con el cáncer hematológico, un síntoma con pocas alternativas de tratamiento validadas.\nNota: análisis sin acceso al abstract."
+    },
+    "8c618daffc0c": {
+      "resumen": "Journal of Clinical Oncology publica una fe de erratas sobre el artículo de análisis secundarios del estudio EA1181/CompassHER2 pCR, que evaluó la tasa de respuesta patológica completa (pCR) y sus predictores con taxano, trastuzumab y pertuzumab (anticuerpos dirigidos contra HER2, receptor del factor de crecimiento epidérmico humano 2) en cáncer de mama HER2-positivo. Se trata solo de una corrección bibliográfica, sin datos nuevos."
+    },
+    "4fbb3cc99030": {
+      "resumen": "Journal of Clinical Oncology publica la actualización de la guía viva o living guideline de la ASCO (American Society of Clinical Oncology, Sociedad Estadounidense de Oncología Clínica) sobre el tratamiento del cáncer de pulmón de células no pequeñas (CPCNP) en estadio IV con alteraciones genéticas conductoras (driver alterations). Interesa porque estas guías se actualizan a medida que surge nueva evidencia y orientan la elección del tratamiento dirigido según cada alteración molecular.",
       "destacado": false
     },
     "7b92f3d787dd": {
@@ -59,20 +50,20 @@
     "4f461ff1c85a": {
       "resumen": "Vogue repasa la colección primavera 2027 de Nkwo, presentada en la semana de la moda de Lagos."
     },
-    "e22b43bf7a1a": {
-      "resumen": "Vogue muestra la colección prêt-à-porter primavera 2027 de Zadig & Voltaire."
+    "12f6caaeeb3d": {
+      "resumen": "Vogue México repasa cómo fue la fiesta dorada de Stella Artois PURE GOLD, desde el código de vestimenta hasta la puesta de la mesa."
     },
-    "90e1f46fbef2": {
-      "resumen": "Vogue México eligió los mejores looks de las celebridades que respetaron el código de vestimenta de la Gala Vogue de Día de Muertos en Colombia 2026."
+    "beff5c77b7b6": {
+      "resumen": "Vogue México selecciona los pantalones color café más elegantes para combinar con calzado en tendencia este otoño 2026."
     },
-    "58ebf4dae715": {
-      "resumen": "Vogue México repasa los looks de belleza más destacados del backstage de la Gala Vogue de Día de Muertos en Colombia 2026."
+    "50a9f50bd5da": {
+      "resumen": "Vogue México propone las sandalias mexicanas más elegantes para combinar con jeans, vestidos y faldas este otoño."
     },
-    "2fe52d142f37": {
-      "resumen": "Vogue México detalla las uñas, los peinados y el maquillaje que se lucieron en la Gala Vogue de Día de Muertos 2026."
+    "acf3c06bae9e": {
+      "resumen": "Vogue México cuenta por qué los zapatos de colores de los años 2000 vuelven a ser tendencia en este otoño 2026."
     },
-    "eb185f183765": {
-      "resumen": "Zendaya, referente de marcas de lujo, explicó por qué dejó de seguir las tendencias de moda porque considera que nunca se les puede dar alcance."
+    "5c1ef0349892": {
+      "resumen": "FMDOS analiza el regreso de los pantalones capri, la tendencia de los 2000 que vuelve para la primavera-verano."
     },
     "a3b53a668b52": {
       "resumen": "Crónica explica cómo conseguir entradas gratis para ver a Nico Sattler, de Q'Lokura, con su espectáculo Sótano 22 en el Teatro Broadway."
@@ -83,23 +74,26 @@
     "9c5c5f334e3a": {
       "resumen": "Revista OHLALÁ! recomienda restaurantes porteños donde la buena cocina se combina con un ambiente cuidado."
     },
-    "1de34f9c4dcb": {
-      "resumen": "El actor Norman Briski habla sobre la vejez y la muerte a propósito de un festival de teatro realizado en su honor."
-    },
-    "b351eaa82730": {
-      "resumen": "El Teatro Colón ofrece una visita guiada gratuita de madrugada como parte de La Noche de los Museos."
-    },
-    "0d3c55aa582b": {
-      "resumen": "Un festival de teatro en Buenos Aires homenajea al actor Norman Briski."
-    },
     "6b1f085924f3": {
       "resumen": "iProfesional reúne propuestas para disfrutar el fin de semana de Halloween en Buenos Aires."
     },
-    "d1daa5a1be21": {
-      "resumen": "Radio Hache 97.7 reúne más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine, streaming y muestras, muchos gratuitos."
-    },
     "4d16fb3d868a": {
       "resumen": "Canal26 anticipa un fin de semana en Buenos Aires con temperaturas de hasta 26 grados y lluvias en dos franjas horarias puntuales."
+    },
+    "a1756952dd12": {
+      "resumen": "El dramaturgo Mauricio Kartun arranca un nuevo ciclo de entrevistas dedicado al teatro y las artes escénicas."
+    },
+    "6e07325f7fd5": {
+      "resumen": "Tres propuestas teatrales porteñas para todos los presupuestos, para elegir este fin de semana."
+    },
+    "313444b9a3fe": {
+      "resumen": "La Nación selecciona diez planes imperdibles para disfrutar en Buenos Aires antes de que termine el año."
+    },
+    "f0e801922fd9": {
+      "resumen": "Más de 60 opciones porteñas para el fin de semana, entre recitales, teatro, cine y muestras inmersivas gratuitas."
+    },
+    "80e3f74efe82": {
+      "resumen": "Clarín reúne más de 60 planes porteños para el fin de semana largo, del viernes al domingo, entre recitales, teatro, cine y propuestas gratuitas."
     }
   }
 }
