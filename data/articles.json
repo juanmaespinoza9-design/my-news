@@ -1,18 +1,11 @@
 {
- "generated_at": "2026-11-01T06:26:21.138725+00:00",
+ "generated_at": "2026-11-01T15:18:02.827501+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
-    {
-     "title": "Dostarlimab Monotherapy Elicits Durable cCRs in dMMR/MSI-H Locally Advanced Rectal Cancer",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1dRanctRThXa0g2WllXOGhpT2ZOUTduRFRqMWtPZk9UMGwyX2ZSUDNEeUMyX2puQ1lmY1ladjFPODQ2Ty11OUt6SVM0aHRPcjFzVTFkQjV0a2xtbnpBU2xZT2dRank4STE5cDNNMTJIcFRFMmh1WXV5Q0V5UHpUb0NHTW5pTTh1OTUyc2tkdnNKQWVFVHIzajU3eWNVV3p5S244dkIycHpHYkM1bGJ0aHlSNE1Md1VRYmc?oc=5",
-     "source": "OncLive",
-     "published": "2026-10-31T10:09:46+00:00",
-     "id": "cddfd44ff5f4"
-    },
     {
      "title": "The OncFive: Top Oncology Articles for the Week of 10/25",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGpwOVRIU2FjLS1TemtTR2ZIUEJuQVctT2JtdXFKVWlXVmw5c21hbTQ2U0FWblU3d19UV19BR2NjV3o5TmFNYTBKZkt0djBBSC1ZamNjdHpfalN4eFBZVkhldWY2UmxPNnpBQlB3cGd1YWhqOHR2WHBSTm12alNZR3JNdlhwOXlmUVJvaA?oc=5",
@@ -28,11 +21,11 @@
      "id": "11494c4cf161"
     },
     {
-     "title": "Federica Gatti, MD",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52N1ExdDV2dk5pZG1mMEhoQm5OejRQYnRWSjdaTE16a1VIMTN6N2ZWMVd2emFpSVR4bW5yVXZtUlZGb2JLOG1TVC1kNnJrQkpBYkFJM213aWs3d1hUeGc?oc=5",
+     "title": "Dr Gatti on the Prognostic Impact of ESR1 Mutations and Co-Alterations in Breast Cancer",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmVJUzlTWUNfTkZNZlBnWDJ3OElvZmljUzRfbXBka3pVa3hHT1NNQjh1ZDRhNVVEUTN0NmlPa2w3MEJNY1U4cVFyX2E0UjBtSE8zTUtrdzRnQURMUVNyakJldXZhSUMzbzRaTkxJUUVNOU1yblFHTW1vVnUyRGRrbG5FUmJ2dHpQSVlxckJ0SFdfNnRaUjhJUmNZVXJZczY1ZkJGM3pGRklHLVNZY21UT0JtM2N3SmM?oc=5",
      "source": "OncLive",
-     "published": "2026-10-31T01:53:14+00:00",
-     "id": "2236ad124dd3"
+     "published": "2026-10-31T01:22:55+00:00",
+     "id": "40bbe9fb9167"
     },
     {
      "title": "OptiTROP-Lung06 A Potential Alternative to Chemotherapy in Advanced PD-L1–Negative NSCLC?",
@@ -42,11 +35,50 @@
      "id": "cb5af27199b1"
     },
     {
+     "title": "Treatment Sequencing After Covalent BTK Inhibitors in CLL",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3BqRTRQOF9DUDRKMXpVVjU4Q1o5SUVuYnpNZllUOXRZT180Y0lSam16VWpsOUpxQWt0VEp6V2ZkS2xJVHlJdF9TVDJUSlhVbUZBdXJrbXBhY2RNejBnVEZxbzlFelQ1TUlLU29FRWZMZ2pSMEE0em56N2pOQ1FiQ0ZqSkZaUjJZZG5vQjRjVQ?oc=5",
+     "source": "OncLive",
+     "published": "2026-10-30T19:05:38+00:00",
+     "id": "0f94bb344742"
+    },
+    {
      "title": "ASTRO Updates Guideline on Shorter-Course Radiation Therapy for Localized Prostate Cancer",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGdITGdKWXRZVnY0R1VBUEtCR3MzeEpHWUtMUFR6NnlKZmhPeGNCY0ZZOThEZUMySTVtNU9fdXcxMHdLc1ppTmhPbGtjVVpQcjJJU1FydlNnY2owUl9DZFdVNTByUWJGUnJBX0lURU5aVVl1dnVycC1kNzcyTXR6d042T3hxSE1la0otNG1HelFyTzFuYmNvNkZMMlNrT3JnQ3NMX19tU1ozWXo0aVhoeXc4SHpGb3dCTU5ZQW1nLWJjU3RGTlFaQQ?oc=5",
      "source": "The ASCO Post",
      "published": "2026-10-30T15:26:55+00:00",
      "id": "73952fdf20d7"
+    },
+    {
+     "title": "From TAILORx to OPTIMA: Evolving Evidence for Genomically Guided Chemotherapy in Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42962160/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-10-30T00:00:00+00:00",
+     "copete": "Abdou Y et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "cb2ac79f30ee"
+    },
+    {
+     "title": "Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42962158/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-10-30T00:00:00+00:00",
+     "copete": "Frederiksen H et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "e4c39e037035"
+    },
+    {
+     "title": "Erratum: Pathologic Complete Response (pCR) Rate and Predictors of Response to Taxane, Trastuzumab, and Pertuzumab in HER2-Positive Breast Cancer: Secondary Analyses of EA1181/CompassHER2 pCR",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42962156/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-10-30T00:00:00+00:00",
+     "copete": "Tung N et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "8c618daffc0c"
+    },
+    {
+     "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.4",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42956324/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-10-29T00:00:00+00:00",
+     "copete": "Reuss J et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "4fbb3cc99030"
     }
    ]
   },
@@ -59,73 +91,73 @@
      "title": "Hertunba Lagos Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/hertunba",
      "source": "Vogue",
-     "published": "2026-11-01T06:22:24+00:00",
+     "published": "2026-11-01T15:15:27+00:00",
      "id": "7b92f3d787dd"
     },
     {
      "title": "Oshobor Lagos Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/oshobor",
      "source": "Vogue",
-     "published": "2026-11-01T06:22:24+00:00",
+     "published": "2026-11-01T15:15:27+00:00",
      "id": "c83f101130b3"
     },
     {
-     "title": "Mare di Moda: optimismo en la moda de baño pese a la incertidumbre, con el escapismo como clave para 2028",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONVNaNVNDVmxaWlZZR3V6NHFGVEZPSjJTaXJmLWxrZmFmd3dyWUlyU3pXTmxjTF9DU0lCVmFWbk1vRlVoQUJuRURISk9iNzRuMkZyVEUzc25hY1lPLVFCN2NSRUxnSDZPaDZMX2JaSjN6cFllYzRrZV8xNFFuNVZ3YUNmVHdZTEh2TWZka0RBVkI0SmY1LXNsbjlZWU5uQlpHak9UcFNEYkl1SjV5X1FqOTU5RmJVcG9TSUJDbUIzel9VSS1obGpFUFNlX0ZpSV8xNmNzVTNxS21oUkpJOUE2VlhNWWwwN1QteWRlcQ?oc=5",
-     "source": "FashionUnited",
-     "published": "2026-11-01T06:11:48+00:00",
-     "id": "9649610dab89"
+     "title": "Harry Styles’s Thank-You Note to New York? A Special Issue of The Village Voice",
+     "link": "https://www.vogue.com/article/harry-styles-the-village-voice-special-issue",
+     "source": "Vogue",
+     "published": "2026-11-01T15:05:00+00:00",
+     "copete": "“It has been an honour to live and work in your city for the past three months,” Harry Styles writes in a note addressed to “friends, strangers, citizens of New York.” “The energy of the audiences, the openness, the dancing, the sheer joy…",
+     "id": "3643b85de286"
+    },
+    {
+     "title": "Día de Muertos en Puebla: La tradición se construye en sus talleres",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52QW1nZnJrRklfRktFZk10aWJUUVczc2haWXN4cWQycVZXQ3MtUzN0Vko2WHFlSkRnVlk5VDY5QXBGRnkxRXVGeTFxWWlRWDUySW44enJoTEtIVUJMS193UXZSN0I?oc=5",
+     "source": "Vogue México",
+     "published": "2026-11-01T15:02:18+00:00",
+     "id": "e8b5d2b4f0d6"
+    },
+    {
+     "title": "¿Por qué seguimos hablando de Macario 66 años después? La película mexicana que convirtió nuestra relación con la muerte en una historia universal",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85X2tUV1poZkJmOWNjRGgtU1l4MDhTSS1lR1FFOVQ0MmV5ajF4R0Q5ZWtGRHFKQ0U1dVJEZG5ZNGlhYjFQTHdvS0FoeFR0RVFmVDA2MXJtbFZ2dW1VVUl2bDdRZGd1Y01Iam9XeW9n?oc=5",
+     "source": "Vogue México",
+     "published": "2026-11-01T14:30:00+00:00",
+     "id": "388361efc68f"
+    },
+    {
+     "title": "How Heidi Klum Transformed Into a Giant Hand For Her 2026 Halloween Costume",
+     "link": "https://www.vogue.com/article/heidi-klum-2026-halloween-costume-hand-10-31-2026",
+     "source": "Vogue",
+     "published": "2026-11-01T14:29:53+00:00",
+     "copete": "This year, the queen of Halloween transformed herself into a giant replica of her own hand. “I thought it would be funny and bizarre to take something so familiar and twist it.”",
+     "id": "f646d8b990f5"
+    },
+    {
+     "title": "La historia detrás del corte de cabello más criticado de la princesa Diana",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEViM2dGX1h0Z0hqZnE1dHBZMVdSbTJFY2lhNFA0ZXNjbFFESW1MWEFGSDJqcE9wbFpYMU82RHZoTjc5VEVNU1laSUpBRXdSdERualBvVGVUblZIdWV6ZV9SbnF4a3gxdWZ5dmRZLWNGOVJ1UmxCcXc1MTQwcWFYMktKV1dNcVZjbk5aWWZZTEJ5Rk9LSDRUcEl5WU5yVDRNYU00?oc=5",
+     "source": "Vogue México",
+     "published": "2026-11-01T13:43:46+00:00",
+     "id": "bc34f973c807"
     },
     {
      "title": "El verde y rojo típico de la Navidad pasó de moda: el color que será tendencia este 2026",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGlxSjh2QkVHSnhWbVByZUp1Rnh5YTU2aFdtSWxhOGd1UkZIMFVyczZiV2dodTY0UzdMN3lMeDVxUlE0OWhxVjJMZndldVd6RVNMdmsxQi10alhma1lZRUltV3hPbnF6ekdEN0JiRkVHcU8yRjRxYTFnRkVrSjlDVUl1OGozdXg4MGp3LWRLdU5wWl8wX1J2UFdzYTZtaU5nU3MzZjFOc01ZUkNHSmU1QVRxd01LT2xQNTFCejZQVkRhc2NyczJkUThxS21zRVU?oc=5",
      "source": "Canal26",
-     "published": "2026-11-01T05:04:54+00:00",
+     "published": "2026-11-01T12:16:33+00:00",
      "id": "3138fd0951d7"
     },
     {
-     "title": "Ni leopardo ni cebra: Primark, Zara, Mango y otras firmas de moda ya tienen el estampado más original, tendencia en otoño 2026, que conquista sus nuevas colecciones",
-     "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdlRYR295RndRLVFaeG5IaFV4dEN1MFFZdjZuNDRTSFVtMDJydFh5NU43RjBQQ1FUSUJyaVpvSkJtNTN3Rnc1U3JmLUFlN3l6THZEMmN4VWN4Nkl6WW5JVDhKZGpxMmUwQWx5Z3hVSnRveUxtdHVSUlhkWDQ2MXJJaF93UTZZbnhuX3pLdXowbEVrUWhCcEVqbTlpYUxTTXpNazBBUXhjbnNYT2lNN1BHWlU4UlRlZ20wb29oNENvNXRSemotYWFncS1wSW81Vk9UWTJhVVEzVERKRnJ5c3hoSmhYYnBDTXItTXRhZk9kOENfNHlEcmJWbDFDWTdMSi1iOGI3NmZWaDY3bHhMbzZGRTh0VDdwREVNZEZTeWZxV0pUMTRVUGNHMVN3YllKTGFXQnExNDZR0gG7AkFVX3lxTE5BYzZCbDBIU3h4dUhCVGxTeEFUM0NtdHpYTTNLdTVzYkYzSjFpUWRVWS1jZ0RCbkxleDlaNGVkNWNBNnFhVzY2dklYaW9aeFJXcm1tR1FiYXFnSnFvUzA1eE5lUVdUZjcxTl81aHdBZkcza085TWEtTzJrajZFNWdNUERnLVZiX2s4bjZ6Z0ExdlhQWi1lVWpzanZkUEUwaW0zVmJrVnlvLUxGX2xkN1hGRmNsY1U0TXQweGtDTHdUbTItOEdGbTFWdmlJOFE1YzhOdTZ1ZTN1X2FQVlhxdVJRNHFNMXhGUi04MFVBTnBiMTk4eFU0TnUxNkFCS2l6TkhsZVJQR2ROeFBjZ2xCZkd3NEFrWW1NYmRvbkRSTGl4OWlpTV9hWVhuSTBDV210WTJYaDlkYkN6S1NFNA?oc=5",
-     "source": "The Objective",
-     "published": "2026-11-01T04:25:00+00:00",
-     "id": "af206463cd9a"
+     "title": "Primavera-verano 2026/2027: nuevas tendencias, el mismo guardarropa",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFo5d3NqMk5BWVdtLXZUZk1hN3NPWGt4cXdCdzZhMnVxTXkza192VDc1LUJSRHlTYlVobGdmWDNTLUtBazBmTFNQc043QS1haW14UnNVUnJIYU02WDRQc2ctaS10bnZmWlRYcTlvTnYxQVMwZjk3RzMtSE5zVU5QZmIwaE01cVNVeWVTX2JIdVV3X1dSVTd6Zw?oc=5",
+     "source": "La Verdad Junín",
+     "published": "2026-11-01T10:58:46+00:00",
+     "id": "48a97116d0f0"
     },
     {
-     "title": "Heidi Klum y su disfraz de Halloween de 2026: El más terrorífico de todos los tiempos",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtbmZ1NFhxaTVYVm1qRWdCLVRRNWg4Y2pkSzkxSnphZ1VQTnpmcG14YTN6bGQycmNfN2ozV0QxNzk4Qmo4VTM4b1BQYzRQRVNLa0hYM3h2QWNJQ1lhS0tkNjhPTkhIaDFJRzRpandaUzBPMmhC?oc=5",
-     "source": "Vogue México",
-     "published": "2026-11-01T02:54:10+00:00",
-     "id": "c807a3ade541"
-    },
-    {
-     "title": "Let’s Give a Big Hand for Heidi Klum’s 2026 Halloween Costume",
-     "link": "https://www.vogue.com/article/heidi-klum-2026-halloween-costume-hand-10-31-2026",
-     "source": "Vogue",
-     "published": "2026-11-01T02:38:33+00:00",
-     "copete": "This year, the queen of Halloween transformed herself into a giant replica of her own hand. “I thought it would be funny and bizarre to take something so familiar and twist it.”",
-     "id": "f646d8b990f5"
-    },
-    {
-     "title": "El disfraz de Halloween de Danna como showgirl incluyó las sandalias de tacón para fiesta más glamurosas del otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmtVV0N6ODlRNVMyT2lVM1F1a1ViMmdBNzVnejVKdXBTd0xnWDdwRFpEa0hONFhsVEszMzdveVRtWDhTbHdpeUFYYXFRcjRUcklvdmxxOFFPM2RKVTRPV09uZzB1OHRBU1VpWFlVX1puLUlIcEZ2VjdvYVlPWmZyaXlYMHYyM3VHVGxBN0I4X2E?oc=5",
-     "source": "Vogue México",
-     "published": "2026-11-01T02:18:19+00:00",
-     "id": "74c720b0c558"
-    },
-    {
-     "title": "Los mocasines japoneses para lucir elegante con jeans, faldas y vestidos en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTAyaVVSX1haVUVFcTYxNDJfdkhkMXlGcjQwMzFxTUlqMnUyeDg4c3BnV3p6b29KN2xiSHB1TUxYZXlFT05UTzZCRTJ2a2NNbkRheGdITzFlVHp6T1BZTHpHX3BsMzE1Y3BpU0FjOVN3YjJhSFRsY3ZCMDMxZlNxY1VqbUdxemExWHNiRjVxN1pfWHZCa1BUenV3dDlSWUJkWGFTLUZ3N1FRSEFLejl6bmlZcw?oc=5",
-     "source": "Vogue México",
-     "published": "2026-11-01T01:18:46+00:00",
-     "id": "befbacadc75a"
-    },
-    {
-     "title": "82 Thoughts I Had While Watching ‘Wicker’",
-     "link": "https://www.vogue.com/article/82-thoughts-i-had-while-watching-wicker",
-     "source": "Vogue",
-     "published": "2026-11-01T00:40:15+00:00",
-     "copete": "Is it too late for me to put together a wicker woman Halloween costume to wear out in four hours?",
-     "id": "9b6077aa65ca"
+     "title": "La moda circular retoma con nuevas dimensiones y desafíos",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0stY05ab0UtRmdOSTBFaWdvUjZKaXVlRXdKZ2VaQU12X2pueHdNM2pYNjRaV3NIYURLV3pxdEh6N1hMUjg2OUdPamVnZ05zc0xfLU1Eay1kdGxRLU44Y1ZCeUdMTmpLeDNId1RSZmMxaGFHbmRhb25HVU9MOXYtczNRWGJFZzcwSnh5SDNzZjU4NXRhN09ROVJEazVsZw?oc=5",
+     "source": "Página|12",
+     "published": "2026-11-01T10:22:00+00:00",
+     "id": "01ca6cc4c44e"
     }
    ]
   },
@@ -135,100 +167,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Martín Fierro Federal 2026: todos los ganadores de la noche",
-     "link": "https://www.lanacion.com.ar/espectaculos/martin-fierro-federal-2026-todos-los-ganadores-de-la-noche-nid01112026/",
+     "title": "Heidi Klum se disfrazó de su propia mano para Halloween y dejó a todos en shock",
+     "link": "https://www.lanacion.com.ar/espectaculos/heidi-klum-se-disfrazo-de-su-propia-mano-para-halloween-y-dejo-a-todos-en-shock-nid01112026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-11-01T05:51:42+00:00",
-     "copete": "El avispero, de Tucumán, y La tarde de La 100, de Rosario, se quedaron con los premios de Oro; el listado completo de los programas y profesionales distinguidos",
-     "id": "48e235198f32"
-    },
-    {
-     "title": "Bandana y un reencuentro que atraviesa generaciones en el inicio de una nueva etapa: “El fuego está más vivo que nunca”",
-     "link": "https://www.infobae.com/teleshow/2026/11/01/bandana-y-un-reencuentro-que-atraviesa-generaciones-en-el-inicio-de-una-nueva-etapa-nuestro-fuego-esta-mas-vivo-que-nunca/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-11-01T05:07:00+00:00",
-     "copete": "En diálogo con Teleshow, Lowrdez, Lissa Vera, Valeria Gastaldi y Virginia da Cunha cuentan cómo construyeron el regreso musical de la banda entre pop, rock y experiencia",
-     "id": "df45b0d9d3f6"
-    },
-    {
-     "title": "Ganó Gran Hermano, pero perdió todo en un incendio y hoy maneja un auto de aplicación: “Ya no me da vergüenza contarlo”",
-     "link": "https://www.infobae.com/teleshow/2026/11/01/gano-gran-hermano-pero-perdio-todo-en-un-incendio-y-hoy-maneja-un-auto-de-aplicacion-ya-no-me-da-verguenza-contarlo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-11-01T05:00:00+00:00",
-     "copete": "A meses del siniestro que consumió sus pertenencias y equipamiento de trabajo, Esteban “Bam Bam” Morais cuenta cómo superó el momento más oscuro de su vida. De perder todos sus ahorros a encontrar en su pequeña hija la fuerza para salir…",
-     "id": "54e7225a3b30"
+     "published": "2026-11-01T15:16:02+00:00",
+     "copete": "La supermodelo celebró una nueva edición de su tradicional evento en Nueva York con una caracterización sangrienta y de gran despliegue técnico",
+     "id": "92b69a2f2cd2"
     },
     {
      "title": "Juanse, a 40 años del primer disco de Ratones Paranoicos y antes del show con Ron Wood: “El rock es muy complejo”",
      "link": "https://www.infobae.com/teleshow/2026/11/01/juanse-a-40-anos-del-primer-disco-de-ratones-paranoicos-y-antes-del-show-con-ron-wood-el-rock-es-muy-complejo/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-01T05:00:00+00:00",
+     "published": "2026-11-01T14:27:32+00:00",
      "copete": "En un mano a mano con Teleshow, el líder analiza repasa el debut discográfico que cambió el rumbo del rock argentino. La actualidad de la banda de toda su vida, su relación con la religión y la farándula y la previa a un nuevo encuentro…",
      "id": "0b84b0edab09"
+    },
+    {
+     "title": "Qué se sabe del cruce entre Santiago Maratea y la China Ansa en PH",
+     "link": "https://www.lanacion.com.ar/espectaculos/que-se-sabe-del-cruce-entre-santiago-maratea-y-la-china-ansa-en-ph-nid01112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-01T14:26:49+00:00",
+     "copete": "El conflicto se originó por una pregunta de la periodista sobre qué se recriminaría el influencer a sí mismo respecto de sus colectas; el video, a continuación",
+     "id": "23e57d0d045c"
+    },
+    {
+     "title": "Santiago Maratea decidió cerrar su cuenta de Instagram",
+     "link": "https://www.lanacion.com.ar/espectaculos/santiago-maratea-decidio-cerrar-su-cuenta-de-instagram-nid01112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-01T14:01:52+00:00",
+     "copete": "Durante el programa de PH, Podemos Hablar, el influencer reveló por qué tomó esta tajante decisión",
+     "id": "88cf0fcfbd4f"
+    },
+    {
+     "title": "Frases, recuerdos y una torta de varios pisos: los detalles de la boda de Lali Espósito y Pedro Rosemblat",
+     "link": "https://www.infobae.com/teleshow/2026/11/01/frases-recuerdos-y-una-torta-de-varios-pisos-los-detalles-de-la-boda-de-lali-esposito-y-pedro-rosemblat/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-01T14:00:51+00:00",
+     "copete": "Pese a las medidas de seguridad durante la jornada del sábado, algunos detalles de la fiesta de la pareja comenzaron a viralizarse en las redes",
+     "id": "fc7cb10b9f01"
+    },
+    {
+     "title": "Quién ganó el Martín Fierro Federal de Oro 2026",
+     "link": "https://www.lanacion.com.ar/espectaculos/quien-gano-el-martin-fierro-federal-de-oro-2026-nid01112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-01T13:55:23+00:00",
+     "copete": "El premio, organizado por APTRA, se lo llevaron un programa televisivo y otro radial; a continuación, los ganadores de todas las categorías",
+     "id": "df25c6dd0443"
     },
     {
      "title": "Diego Páez Vilaró adelanta cómo es su documental Argentina Stone: “Los Rolling son mi vida”",
      "link": "https://www.infobae.com/teleshow/2026/11/01/diego-paez-vilaro-adelanta-como-es-su-documental-argentina-stone-los-rolling-son-mi-vida/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-01T05:00:00+00:00",
+     "published": "2026-11-01T13:24:09+00:00",
      "copete": "Producido por él y dirigido por Gabriel Grieco, el filme que gira alrededor de la historia de la banda y la cultura rolinga local, tendrá sus primeras tres proyecciones en noviembre, en el marco del Festival de Cine de Mar del Plata",
      "id": "82f2c4303efb"
     },
     {
-     "title": "Iván de Pineda celebra las más de 1.300 veces que le dio la vuelta al Rosco: \"Te juro que hasta yo me sorprendo\"",
-     "link": "https://www.infobae.com/teleshow/2026/11/01/ivan-de-pineda-celebra-las-mas-de-1300-veces-que-le-dio-la-vuelta-al-rosco-te-juro-que-hasta-yo-me-sorprendo/",
+     "title": "Benjamín Amadeo recordó el particular titular que surgió tras su separación de Lali Espósito: “Un gran aprendizaje”",
+     "link": "https://www.infobae.com/teleshow/2026/11/01/benjamin-amadeo-recordo-el-particular-titular-que-surgio-tras-su-separacion-de-lali-esposito-un-gran-aprendizaje/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-01T05:00:00+00:00",
-     "copete": "Modelo, conductor y viajero empedernido, aquí habla del regreso de Pasapalabra, el programa que lidera hace 11 años, al prime time de Telefe desde el 4 de noviembre, sus proyectos en el streaming y la naturalidad con que pone límites entre…",
-     "id": "41cdd464f354"
+     "published": "2026-11-01T13:07:07+00:00",
+     "copete": "En su paso por el ciclo de Andy Kusnetzoff, el artista contó la inesperada situación que atravesó luego de anunciar su ruptura definitiva con la cantante, a quien conoció durante las grabaciones de Casi Ángeles",
+     "id": "dab9d9024fae"
     },
     {
-     "title": "Internan de urgencia a Ian Gillan, vocalista de Deep Purple: la banda tuvo que posponer sus dos conciertos en Alemania",
-     "link": "https://www.clarin.com/espectaculos/internan-urgencia-ian-gillan-vocalista-deep-purple-banda-posponer-inicialmente-conciertos-alemania_0_O9sKLyTttO.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-11-01T04:39:52+00:00",
-     "copete": "El legendario cantante británico de 81 años sufrió una descompensación y tuvo que ser hospitalizado de urgencia. Hasta el momento no hay parte médico oficial. La banda tuvo que posponer los conciertos que tenía programados en Leipzig y…",
-     "id": "c4771cae6666"
-    },
-    {
-     "title": "Los disfraces de los famosos para Halloween: de la transformación de Nicki Nicole y Mauro Icardi al glamour de Marta Fort",
-     "link": "https://www.infobae.com/teleshow/2026/11/01/los-disfraces-de-los-famosos-para-halloween-de-la-transformacion-de-nicki-nicole-y-mauro-icardi-al-glamour-de-marta-fort/",
+     "title": "Lali Espósito y Pedro Rosemblat se casaron en San Telmo: quiénes fueron los invitados a la boda",
+     "link": "https://www.infobae.com/teleshow/2026/10/31/lali-esposito-y-pedro-rosemblat-se-casaron-en-san-telmo-quienes-son-los-invitados-a-la-boda/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-01T04:22:38+00:00",
-     "copete": "Las figuras del espectáculo compartieron en redes sus producciones temáticas, con maquillaje, caracterizaciones y festejos que incluyeron propuestas para grandes y chicos",
-     "id": "df495a5d1f20"
+     "published": "2026-11-01T10:27:31+00:00",
+     "copete": "La pareja celebró su amor con una ceremonia íntima en el corazón del barrio más antiguo de la Ciudad de Buenos Aires y lo hicieron rodeados de sus amigos más cercanos y familiares",
+     "id": "ca100283394f"
     },
     {
-     "title": "Así fue el tenso cruce entre Santiago Maratea y la China Ansa en PH",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/asi-fue-el-tenso-cruce-entre-santiago-maratea-y-la-china-ansa-en-ph-nid01112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-01T04:17:40+00:00",
-     "copete": "Una pregunta sobre sus colectas desató el enojo del influencer y llevó a interrumpir la grabación durante veinte minutos; las disculpas de la periodista y el mea culpa de Andy Kusnetzoff",
-     "id": "f2a0b5661978"
-    },
-    {
-     "title": "Empezó la temporada de premios con películas y candidatos demasiado previsibles",
-     "link": "https://www.lanacion.com.ar/espectaculos/empezo-la-temporada-de-premios-con-peliculas-y-candidatos-demasiado-previsibles-nid01112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-01T03:36:00+00:00",
-     "copete": "Aunque los premios de la Academia se entregan en marzo de 2027, ya se iniciaron las campañas de promoción y las especulaciones sobre los ganadores",
-     "id": "6461d525132f"
-    },
-    {
-     "title": "Pitufos, extraterrestres y apariciones: famosos que tuvieron experiencias paranormales",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/pitufos-extraterrestres-y-apariciones-famosos-que-tuvieron-experiencias-paranormales-nid01112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-01T03:01:00+00:00",
-     "copete": "De las visiones de Liz Solari a los encuentros que relató Patricia Sosa en el Uritorco, un recorrido por las historias que varias figuras del espectáculo compartieron",
-     "id": "03a9bb909a92"
-    },
-    {
-     "title": "Jennifer Lawrence vuelve a Los juegos del hambre: el reencuentro con Josh Hutcherson y la emoción de ponerse otra vez en la piel de Katniss",
-     "link": "https://www.clarin.com/espectaculos/jennifer-lawrence-vuelve-juegos-hambre-reencuentro-josh-hutcherson-emocion-ponerse-vez-piel-katniss_0_7KKIQOpYlL.html",
+     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este domingo 1 de noviembre de 2026 en Argentina",
+     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-domingo-1-de-noviembre-de-2026-en-argentina_0_6zYLkoPiab.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-10-31T19:23:16+00:00",
-     "copete": "La actriz confirmó que regresará a la franquicia en Amanecer en la cosecha , la nueva película de la saga. En una charla con Alex Cooper, contó cómo fue reencontrarse con sus antiguos compañeros y recordó una divertida anécdota con Woody…",
-     "id": "b49a989c41d6"
+     "published": "2026-11-01T10:15:02+00:00",
+     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
+     "id": "3b88d99cfaad"
+    },
+    {
+     "title": "Pawel Pawlikowski, premiado en Cannes y ganador  de un Oscar que va por otro al retratar a Thomas Mann en Tierra de mi padre",
+     "link": "https://www.clarin.com/espectaculos/pawel-pawlikowski-premiado-cannes-ganador-oscar-va-retratar-thomas-mann-tierra-padre_0_0w13PmBEqp.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-11-01T09:03:39+00:00",
+     "copete": "Entrevistamos al director polaco, que ya ganó un premio de la Academia por \"Ida\" y seguramente aspirará a otro. ¿Qué pasó con su filme con Joaquin Phoenix? Sandra Hüller (\"Anatomía de una caída\" y \"Zona de interés\") interpreta a Erika, la…",
+     "id": "a1eed76f305b"
+    },
+    {
+     "title": "Pocho La Pantera, a 10 años de su muerte: del mundo de los cabarets al fenómeno de “El hijo de Cuca”",
+     "link": "https://www.clarin.com/espectaculos/pocho-pantera-10-anos-muerte-mundo-cabarets-fenomeno-hijo-cuca_0_6MipjPviZp.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-11-01T09:01:39+00:00",
+     "copete": "El cantante falleció el 1 de noviembre de 2016 a los 65 años. Sus comienzos en los cabarets, los problemas con las adicciones y la fe que marcó un cambio profundo en su vida.",
+     "id": "3a98e5b24c58"
     }
    ]
   },
@@ -238,25 +270,32 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "El arquitecto del Teatro Colón: la nueva novela de Daniel Balmaceda",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkJIaHZVUXNfOUhGbjVueXhodnlBSS0zbzRHSVZMNjVnUWRycnNKaG00UGNvZkVQSVAtVENTejN3WGhrNTNMcXFFS3N3b0lyYmlvc1N1X0lvbmxMSkNIN3d2WmdwQjFBNHdPa3FtdEpvZjBWMFM4V0E4cFljR1RMTjNndGFqVFk5SG9hREpXbEVEeGdyV1B6YURyV0FjTG0tV1hIbmZ6VDZDZXZfVW04cXlVZw?oc=5",
+     "source": "0223.com.ar",
+     "published": "2026-11-01T14:21:00+00:00",
+     "id": "2b5ee724d992"
+    },
+    {
+     "title": "Anverso y reverso de un manuscrito atribuido a Lorca: una aproximación desde la grafística forense",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjAzalJ1REoyTGtNZG5vdlEwUnJBbVpvWnphYVBzT0M1MmtFeWpLeGhrdklrLVRYT0JjMWdqR0diQVRaekl0SGx6NGoxX1d2NmxKcEtvV01fUDB1clJFd3h5UG1ZeS1TYjBYYUVIdlNidzh1X1NUOEhuZVhPMUdqdktDVmc2OXlUb1hSa0JGLW56Uzd1eWdUNjVuOXVSZWtt0gGmAUFVX3lxTE1DWHU3NFRUbnVJVnQtNGh1MnF3dDVDTHhYNHR5bDA5cmpqRDAwNzVfaHh1Y2hFWUFLMmRZSl9pTTdqREl5QzdId1l6TTVicmJaWllVSmU2TldfRjBKeTZzeGZOTVpVbWFiVGo5bm1wNFB4S3V2ZkxiRzBsN3BlTDRMZzdQcFNralVveEdBOHJJaDlZSlphUUVFY01DbFNYd3I1LUp2M1E?oc=5",
+     "source": "Granada Hoy",
+     "published": "2026-11-01T06:42:17+00:00",
+     "id": "4a41992a6431"
+    },
+    {
      "title": "El regreso de Serú Girán: claves de un fenómeno que une a varias generaciones y marca un récord de convocatoria",
      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbXlZQ3lPZnY3SXhuUUE2anBkMFVBQzdSb0VQYWRmZllFeC03Tnl4aWJ0T3dtZl9Gd1lpczVvQ3c4bUhxQml0ZmotREpOVldBbmw2bWJiNVJZRmJfOExEOUx5WmxRaElvYjBQZU9FY3k0VGdFV0VxQTdjSDVFUkxXZ0hoUUN2aExKZnRYbkRaNElGV0dQOHBLUjJJeEh3eUcyMkZjdWM3YnVyNXRVb2pNZENZZU8yS1o2akEwaG9sX0lpYTJUand4c19HX0NQRHh3TjdycVRkR1BJN29RTmh1MU1HMXpRa1l0UkHSAYQCQVVfeXFMTXVsYUhfdk1UQ0MtTVdjNHYxbkNpdWVTNE5ZTTE4Vm1DQ0hPWWJxQldqYkNOb2dtcHVqaUNMWlNQYU9FcWRPUVlZSDUyWEFJN3pmcDI5aTJIa2F1MXNaWjRUcVBBZTZnM0lWbHc2TjViY2Q5NElndWRIYUs1RXFLamhEYUVwNGkydlZ0QUo3am96MUFCT3F5V2t3NWUyVFUtaEVmbFk4NkpSMXl0T095YVUwTnlhNU9ORXNnd1dmU1l1U1NoWVBxeTRfQkUteF8ybFlmR295WmV2U0V3RjgtLWNFZVQ4dUEyYXNrN1A3ZkNpTTZ1V05vQnZUd2lJNWFzRTRlQTQ?oc=5",
      "source": "Infobae",
-     "published": "2026-11-01T03:41:11+00:00",
+     "published": "2026-11-01T04:30:00+00:00",
      "id": "c67dd61f220f"
     },
     {
-     "title": "Qué hacer en Buenos Aires en noviembre: los mejores planes de teatro, música, arte y cultura",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajU1RXdXa3RQY2luUDhJOHh1aU5QTlFtQkQ3blgtSmxzX1VMa2RNX096TGt0VDk4TlRpcHNlM25xTzg2R0h2RkhLYW5ZdXlNYl9lemw4d2lhOVVmSWZ2X3ZwT3hEc1Izc0MzSnJGSUp2cGdRN0tVbWZvZ01FazFBWDFWS0kycEVWZmlYR1hLNXRhYmNNeEpvejRRZ1RibktjLXFnMkFvWTBadWtwZlhSeGxYZGNjY295X013ci00MUZUTG9NSHgwbTFlMmxSVmtNT2YwR1RpTERFdw?oc=5",
-     "source": "Revista OHLALÁ!",
-     "published": "2026-11-01T03:00:00+00:00",
-     "id": "4f4936beba5c"
-    },
-    {
-     "title": "Gustavo Friedenberg, director de la obra: la fusión de teatro, danza y música en \"Acúfenos, la frecuencia del fin\"",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX0IzLThfVGlJMXdXTDZ5eTAwWkptbEQ0XzJ4QXhidXJmWTAxbVVXd254R1VPSDBIR3VhMG5xTldPcE1YZGg0eDFVLUZjcmxSNHk1ZHJlWVd2akY5bTdnbEl1bVlaNGtwSWZzRm1YWUVmNDFQaWptbndBaVJxYkszSW9HWVpCU3BSM2pGNlVHcE5aY3lnd09CRUhqSXVhYUFPd1NFMGZYSlc1SjN1MG1PRkhsVlVRbnFEb0ZPZ0JCYlhlcTZXRVQ3QjY2NjlQUzdxV3YweVF3UmhZVUNo?oc=5",
-     "source": "AM 1350 Radio Buenos Aires",
-     "published": "2026-10-31T18:19:03+00:00",
-     "id": "eacc414d42fb"
+     "title": "Lean y vean a Delphine de Vigan",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGh6clY4ZTEydThkTUkwMDJma3AxZnNxWGV2NkFxaTNIampXMDRwYWVwWXNLandCb2xVS3NrWVlSTDFtZ1dzdzFBVk9zbjBLZHVJRWI3WTBxNXo1Q1hMZnl0aFVSSW43Ym1oVjlodF9wX3hiTFhDand1YmlZdWY5aG5jSkgwNkpGY0FPU2hmU1lQR0tz0gGaAUFVX3lxTE93bDJFTHhPWFNlbnJtNVVsSUpZQ3NMOS16bVlxcDBEdnVTUU1tYS14dy05OWEyWlpMNjNoV2QwVWlINjB1ZjF3TjFNMkpMaVJUMHpZUFdub08yTm5mLXc3R1p5R0ZhT2QybzRCSGJ4VC03UDlLcHRsWFdkSnMxYXp4cnlJUmhraV9rMmE3ZlJWdWVsRF9TZ2trMmc?oc=5",
+     "source": "La Gaceta",
+     "published": "2026-11-01T03:03:21+00:00",
+     "id": "9dc4c77e7163"
     },
     {
      "title": "Halloween en Buenos Aires: tres fiestas imperdibles para salir esta noche en CABA",
@@ -264,13 +303,6 @@
      "source": "El Destape",
      "published": "2026-10-31T17:21:21+00:00",
      "id": "13ce509eb3ff"
-    },
-    {
-     "title": "Prepará la agenda: diez imperdibles en Buenos Aires para cerrar el 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDRVSFoyNmlmRTZOUmkzRjRmQUc5LUVXUkZRTGI4cjJCcXdMLUNleGpsc042Zlp2ampUaXE3UzRJQVRaQ3JjUzNMQ1pJN0VsNHo5RmpXVHdLbU9NV1NpcmlwQXUxLUFwbHhlbG5jb1BHelpfQ0pwZ1RQNHVkWlBDRVJFRG9kN3dyek1zWkM3WFh1b0ZlaWNYZDRtV3FxNF9TQUJlZzhjVWoyc0R3NGY3MUJ3MElFTGlYTGc?oc=5",
-     "source": "La Nación",
-     "published": "2026-10-31T15:39:00+00:00",
-     "id": "313444b9a3fe"
     },
     {
      "title": "Qué hacer en Halloween: seis actividades gratuitas para disfrutar este fin de semana en Buenos Aires",
@@ -315,83 +347,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Noticias del TPS para venezolanos: qué significa el nuevo fallo y qué podría cambiar el 6 de noviembre",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/noticias-del-tps-para-venezolanos-que-significa-el-nuevo-fallo-y-que-podria-cambiar-el-6-de-nid31102026/",
+     "title": "Heidi Klum se disfrazó de su propia mano para Halloween y dejó a todos en shock",
+     "link": "https://www.lanacion.com.ar/espectaculos/heidi-klum-se-disfrazo-de-su-propia-mano-para-halloween-y-dejo-a-todos-en-shock-nid01112026/",
      "source": "La Nación",
-     "published": "2026-11-01T06:08:00+00:00",
-     "copete": "Un fallo judicial abre la puerta al restablecimiento del TPS para venezolanos el 6 de noviembre tras la decisión de la Corte de Apelaciones del Noveno Circuito. La medida permite la restitución de protecciones frente a la deportación para…",
-     "id": "4debc74db8f5"
+     "published": "2026-11-01T15:16:02+00:00",
+     "copete": "La supermodelo celebró una nueva edición de su tradicional evento en Nueva York con una caracterización sangrienta y de gran despliegue técnico",
+     "id": "92b69a2f2cd2"
     },
     {
-     "title": "En menos de 24 horas, murieron cuatro motociclistas en distintos accidentes en Córdoba",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/11/01/en-menos-de-24-horas-murieron-cuatro-motociclistas-en-distintos-accidentes-en-cordoba/",
+     "title": "Se viene un domingo lluvioso: vientos de 22 km/h, 70% de probabilidad de tormentas fuertes y hasta 24°",
+     "link": "https://www.lanacion.com.ar/sociedad/se-viene-un-domingo-lluvioso-vientos-de-22-kmh-70-de-probabilidad-de-tormentas-fuertes-y-hasta-24-nid01112026/",
+     "source": "La Nación",
+     "published": "2026-11-01T15:15:36+00:00",
+     "copete": "Habrá lluvias aisladas en las primeras horas del día; a continuación, el pronóstico extendido del Servicio Meteorológico Nacional",
+     "id": "c6c555154817"
+    },
+    {
+     "title": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy",
+     "link": "https://www.lanacion.com.ar/estados-unidos/washington/como-van-las-elecciones-en-usa-2026-resultados-en-vivo-del-voto-anticipado-y-las-midterms-entre-nid01112026/",
+     "source": "La Nación",
+     "published": "2026-11-01T15:14:46+00:00",
+     "copete": "Consulta cómo avanza el voto anticipado en las elecciones USA 2026: las cifras de participación presencial y por correo antes del 3 de noviembre.",
+     "id": "67e02a01e63e"
+    },
+    {
+     "title": "Boca Juniors y River Plate animarán una atrapante edición del Superclásico del fútbol argentino en la Bombonera: hora, TV y formaciones",
+     "link": "https://www.infobae.com/deportes/2026/11/01/boca-juniors-y-river-animaran-una-atrapante-edicion-del-superclasico-del-futbol-argentino-en-la-bombonera-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-11-01T06:06:40+00:00",
-     "copete": "Los siniestros viales se registraron en la capital, Villa del Totoral y el tramo vial entre Alto Alegre y Cintra. Según trascendió, las víctimas tenían entre 17 y 38 años",
-     "id": "ea39453f43cf"
+     "published": "2026-11-01T15:13:52+00:00",
+     "copete": "El equipo de Arruabarrena buscará un triunfo para volver a liderar la tabla anual, mientras que los dirigidos por Ponzio necesitan una victoria para soñar con la Libertadores. Transmiten TNT Sports y ESPN Premium",
+     "id": "8aa3da6cca47"
     },
     {
-     "title": "Ernestina de Champourcín, escritora y poeta española: “Seguir hacia adelante, ruta de los que intentan lo que nunca pensaron y se sienten felices porque hay algo distinto”",
-     "link": "https://www.clarin.com/internacional/ernestina-champourcin-escritora-poeta-espanola-seguir-adelante-ruta-intentan-pensaron-sienten-felices-distinto_0_AZWoKewcdz.html",
+     "title": "Códigos de Free Fire para ganar diamantes y skins gratis este 1 de noviembre de 2026",
+     "link": "https://www.infobae.com/tecno/2026/11/01/codigos-de-free-fire-para-ganar-diamantes-y-skins-gratis-este-1-de-noviembre-de-2026/",
+     "source": "Infobae",
+     "published": "2026-11-01T15:11:06+00:00",
+     "copete": "Garena publicó nuevas claves para reclamar recompensas dentro del juego, sin necesidad de instalar programas externos y peligrosos",
+     "id": "eef625b16c13"
+    },
+    {
+     "title": "“Con el corazón partido”: Gladys La Bomba Tucumana anunció el cierre de su local de empanadas en Recoleta y culpó a Milei",
+     "link": "https://www.infobae.com/economia/2026/11/01/con-el-corazon-partido-gladys-la-bomba-tucumana-anuncio-el-cierre-de-su-local-de-empanadas-en-recoleta-y-culpo-a-milei/",
+     "source": "Infobae",
+     "published": "2026-11-01T15:07:52+00:00",
+     "copete": "La artista anunció el fin de su emprendimiento gastronómico por la difícil situación económica, cuestionó las políticas del Gobierno y lamentó que sus empleados se queden sin trabajo",
+     "id": "42dda719a3a1"
+    },
+    {
+     "title": "Mamdani honra a migrantes en Nueva York: “Aun cuando les decían que eran demasiado diferentes dejaron su huella en esta gran ciudad”",
+     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-honra-a-migrantes-en-nueva-york-aun-cuando-les-decian-que-eran-demasiado-diferentes-dejaron-nid01112026/",
+     "source": "La Nación",
+     "published": "2026-11-01T15:07:00+00:00",
+     "copete": "Conoce cómo Zohran Mamdani homenajeó a los inmigrantes italianos en Nueva York y destacó su legado, la discriminación sufrida y el costo de vida.",
+     "id": "79959b050a2f"
+    },
+    {
+     "title": "La advertencia de la Fórmula 1 para los pilotos y equipos para la largada del GP de México: “Todos serán atacantes y defensores”",
+     "link": "https://www.infobae.com/deportes/2026/11/01/la-advertencia-de-la-formula-1-para-los-pilotos-y-equipos-para-la-largada-del-gp-de-mexico-todos-seran-atacantes-y-defendores/",
+     "source": "Infobae",
+     "published": "2026-11-01T14:59:41+00:00",
+     "copete": "Los comisarios deportivos de la F1 aclararon las reglas que se aplicarán en la primera vuelta de la carrera de este año",
+     "id": "da066752e034"
+    },
+    {
+     "title": "Medio metro de largo, una caña de pescar en la cabeza y piel camuflable: así es el extraño pez sapo de Commerson, que puede devorar presas tan grandes como él",
+     "link": "https://www.clarin.com/internacional/medio-metro-largo-cana-pescar-cabeza-piel-camuflable-extrano-pez-sapo-commerson-puede-devorar-presas-grandes_0_d92tYhTWCg.html",
      "source": "Clarín",
-     "published": "2026-11-01T06:01:35+00:00",
-     "copete": "La satisfacción que genera innovar y probar nuevos destinos. La felicidad como resultado de la valentía y la audacia.",
-     "id": "f2bf044b4a3b"
+     "published": "2026-11-01T14:29:51+00:00",
+     "copete": "Llamado de esta forma por su similitud con un sapo, se distribuye por los océanos Índico y Pacífico. Sorprende tanto por su particular aspecto como por su impresionante capacidad de caza.",
+     "id": "aba47bf8596c"
     },
     {
-     "title": "Revista Lugares 367. Noviembre 2026.",
-     "link": "https://www.lanacion.com.ar/revista-lugares/tapas/revista-lugares-367-noviembre-2026-nid01112026/",
-     "source": "La Nación",
-     "published": "2026-11-01T06:00:00+00:00",
-     "id": "ff99474bdf54"
-    },
-    {
-     "title": "Thiago tiene 14 años, construyó un tractor y ahora quiere automatizarlo: “Lo hice con chatarra”",
-     "link": "https://www.lanacion.com.ar/economia/campo/thiago-tiene-14-anos-construyo-un-tractor-y-ahora-quiere-automatizarlo-lo-hice-con-chatarra-nid01112026/",
-     "source": "La Nación",
-     "published": "2026-11-01T06:00:00+00:00",
-     "copete": "El adolescente vive en la zona rural de San Ambrosio, cerca de Río Cuarto; después de presentar su “tractoneta” en exposiciones, visitó la planta de CNH en Córdoba para conocer cómo se fabrican las máquinas agrícolas",
-     "id": "d53ee28c3257"
-    },
-    {
-     "title": "El Gobierno busca evitar fricciones en la visita del papa León XIV y envía señales a la Iglesia",
-     "link": "https://www.lanacion.com.ar/politica/el-gobierno-busca-evitar-fricciones-en-la-visita-del-papa-leon-xiv-y-envia-senales-a-la-iglesia-nid01112026/",
-     "source": "La Nación",
-     "published": "2026-11-01T05:59:01+00:00",
-     "copete": "A una semana de la llegada del pontífice al país, Karina Milei pide no politizar el mensaje del líder de los católicos y hace gestos conciliadores a los obispos",
-     "id": "7ceb5ab910f2"
-    },
-    {
-     "title": "Javier Milei inauguró una iglesia evangélica y habló en clave electoral:  “No creemos en combatir el populismo con más populismo”",
-     "link": "https://www.infobae.com/politica/2026/10/31/javier-milei-inauguro-una-iglesia-evangelica-y-hablo-en-clave-electoral-no-creemos-en-combatir-el-populismo-con-mas-populismo/",
-     "source": "Infobae",
-     "published": "2026-11-01T05:33:29+00:00",
-     "copete": "El presidente encabezó en Neuquén el acto de inauguración del templo de la Iglesia Bautista Jesús es Rey, dirigido por el pastor Hugo Márquez, padre de la senadora libertaria Nadia Márquez. “Estamos construyendo un edificio pensado para…",
-     "id": "02cdb20c3bee"
-    },
-    {
-     "title": "Serrat, 82 años: “Sé que soy una persona mayor porque me lo dicen los demás, si no me lo dijeran, viviría encantado de la vida”",
-     "link": "https://www.infobae.com/generacion-silver/2026/11/01/serrat-82-anos-se-que-soy-una-persona-mayor-porque-me-lo-dicen-los-demas-si-no-me-lo-dijeran-viviria-encantado-de-la-vida/",
-     "source": "Infobae",
-     "published": "2026-11-01T05:29:12+00:00",
-     "copete": "Retirado de los escenarios desde hace cuatro años, el artista sigue siendo noticia regularmente por actos a los que asiste y homenajes que recibe y por sus declaraciones acerca de la etapa que vive, el retiro, la edad y el trato que la…",
-     "id": "c475d8bb3497"
-    },
-    {
-     "title": "El valor agregado en el desayuno que podría reducir el dolor de la artritis y fortalecer los músculos",
-     "link": "https://www.infobae.com/generacion-silver/2026/11/01/el-valor-agregado-en-el-desayuno-que-podria-reducir-el-dolor-de-la-artritis-y-fortalecer-los-musculos/",
-     "source": "Infobae",
-     "published": "2026-11-01T05:19:06+00:00",
-     "copete": "Investigadores de la Universidad de Nottingham comprobaron que un suplemento de inulina, una fibra natural presente en vegetales comunes, redujo el dolor en adultos con osteoartritis y mejoró su fuerza muscular en apenas seis semanas",
-     "id": "af552d968fa1"
-    },
-    {
-     "title": "Un SR-71 Blackbird de la Fuerza Aérea de EE.UU. se desintegró por completo a Mach 3.18 y el piloto fue \"arrancado de la aeronave\", convirtiéndose así en un hecho histórico para la aviación militar",
-     "link": "https://www.clarin.com/estados-unidos/sr-71-blackbird-fuerza-aerea-eeuu-desintegro-completo-mach-318-piloto-arrancado-aeronave-convirtiendose-hecho-historico-aviacion-militar_0_ynwjAfqRD1.html",
+     "title": "En 2017, John Travolta donó su avión Boeing 707 a un museo; ahora vuelve a ser ensamblado para que el público lo visite",
+     "link": "https://www.clarin.com/estados-unidos/2017-john-travolta-dono-avion-boeing-707-museo-ahora-vuelve-ensamblado-publico-visite_0_AhKsij581z.html",
      "source": "Clarín",
-     "published": "2026-11-01T04:53:34+00:00",
-     "copete": "El 25 de enero de 1966, el piloto de pruebas Bill Weaver perdió el control de su nave a 79.000 pies de altura y a más de tres veces la velocidad del sonido. Cómo logró sobrevivir a uno de los accidentes más extraordinarios de la aviación…",
-     "id": "fd88cd978013"
+     "published": "2026-11-01T14:21:43+00:00",
+     "copete": "El actor y piloto entregó el histórico Boeing 707-138B a un museo australiano. Nueve años después, el avión cruzó el océano desmontado en un barco.",
+     "id": "87df6bd53aa2"
     }
    ]
   },
@@ -401,68 +434,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El tambaleante trono del rey ‘Bibi’",
-     "link": "https://elpais.com/internacional/2026-11-01/el-tambaleante-trono-del-rey-bibi.html",
+     "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
+     "link": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
      "source": "El País Internacional",
-     "published": "2026-11-01T04:40:00+00:00",
-     "copete": "Los votantes israelíes han hablado con claridad, pero al primer ministro israelí, Benjamín Netanyahu, aún le quedan cartas para perpetuarse en el poder hasta una repetición electoral",
-     "id": "84aa246d06e2"
+     "published": "2026-11-01T15:12:29+00:00",
+     "copete": "Decenas de detenidos en varias ciudades del país; la más afectada, Fráncfort, que reporta saqueos en su principal zona comercial",
+     "id": "aaccaad3bf60"
     },
     {
-     "title": "World in Progress: en busca de claves de progreso en medio del desorden mundial",
-     "link": "https://elpais.com/internacional/2026-11-01/world-in-progress-en-busca-de-claves-de-progreso-en-medio-del-desorden-mundial.html",
+     "title": "Turquía propone a Ucrania acoger una nueva ronda de negociaciones con Rusia y Estados Unidos",
+     "link": "https://elpais.com/internacional/2026-11-01/turquia-propone-a-ucrania-acoger-una-nueva-ronda-de-negociaciones-con-rusia-y-estados-unidos.html",
      "source": "El País Internacional",
-     "published": "2026-11-01T04:30:01+00:00",
-     "copete": "El Grupo PRISA organiza en Barcelona la tercera edición de un foro que fomenta el diálogo entre destacados políticos, emprendedores e intelectuales",
-     "id": "16a31a2992f6"
+     "published": "2026-11-01T14:59:43+00:00",
+     "copete": "El presidente ucranio, Volodímir Zelenski, asegura en Estambul estar dispuesto a reunirse con su homólogo ruso, Vladímir Putin",
+     "id": "45098ed1ea5d"
     },
     {
-     "title": "Manual de demolición: cómo los estudiantes de Serbia derrotaron a Vucic sin violencia",
-     "link": "https://elpais.com/internacional/2026-11-01/manual-de-demolicion-como-los-estudiantes-de-serbia-derrotaron-a-vucic-sin-violencia.html",
+     "title": "La ONU ordena desmantelar la misión de la ONU en el Sáhara mientras se dispara el riesgo de escalada bélica",
+     "link": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
      "source": "El País Internacional",
-     "published": "2026-11-01T04:30:01+00:00",
-     "copete": "Los universitarios preservaron la unidad pese a sus diferencias, mantuvieron dos años las protestas pacíficas y contagiaron a los ciudadanos la pérdida del miedo",
-     "id": "6defdc903a02"
+     "published": "2026-11-01T14:37:48+00:00",
+     "copete": "La Minurso se extingue tras el veto cruzado de EE UU y Rusia después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación",
+     "id": "15bf0f0f770c"
     },
     {
-     "title": "Édouard Philippe: “Francia es hoy más débil económicamente y la sociedad es más violenta y crispada”",
-     "link": "https://elpais.com/internacional/2026-11-01/edouard-philippe-francia-es-hoy-mas-debil-economicamente-y-la-sociedad-es-mas-violenta-y-crispada.html",
+     "title": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
+     "link": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-01T11:54:33+00:00",
+     "copete": "Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata.",
+     "id": "a2c4a88192a7"
+    },
+    {
+     "title": "\"Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos\"",
+     "link": "https://www.bbc.com/mundo/articles/ckq6njd0drp0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-01T11:09:10+00:00",
+     "copete": "David McBride pasó años buscando a su madre tras ser abandonado cuando era un bebé. En su lugar, encontró a una hermana y un hermano.",
+     "id": "ee2f6b841959"
+    },
+    {
+     "title": "Las lecciones del estudio Milgram, el perturbador experimento sobre la obediencia ciega que se sigue replicando hoy en día",
+     "link": "https://www.bbc.com/mundo/articles/cmvgxpk7jjx7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-01T10:28:50+00:00",
+     "copete": "Uno de los más infames experimentos de psicología social está siendo replicado en la actualidad y revela por qué personas comunes y corrientes obedecen una orden inmoral y lo que podemos hacer para resistir.",
+     "id": "2b5481e174b9"
+    },
+    {
+     "title": "La fascinante historia del kohl, el delineador de ojos usado desde la época de Nefertiti",
+     "link": "https://www.bbc.com/mundo/articles/cew87rggrv9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-01T09:47:11+00:00",
+     "copete": "El kohl árabe ha sido reconocido por la Unesco como Patrimonio Cultural Inmaterial de la Humanidad y es celebrado tanto como práctica artesanal como tradición.",
+     "id": "d324728bcf4c"
+    },
+    {
+     "title": "Matt Barreto: “Más que una reversión o un cambio de tendencia, el voto latino es un rechazo a Trump”",
+     "link": "https://elpais.com/us/2026-11-01/matt-barreto-mas-que-una-reversion-o-un-cambio-de-tendencia-el-voto-latino-es-un-rechazo-a-trump.html",
      "source": "El País Internacional",
-     "published": "2026-11-01T04:30:01+00:00",
-     "copete": "El ex primer ministro, principal candidato del centroderecha para disputarle a Marine Le Pen una segunda vuelta en las presidenciales de primavera, propone firmeza con la inmigración, grandes reformas económicas y reinstaurar el servicio…",
-     "id": "6389e4c0717c"
-    },
-    {
-     "title": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\"",
-     "link": "https://www.bbc.com/mundo/articles/c3pwgp7jde1wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-01T03:09:19+00:00",
-     "copete": "España, Italia, Francia, Albania, Portugal... Una oleada de protestas llena Europa. BBC Mundo entrevistó a la experta Yanina Welp para entender qué hay detrás de estos movimientos.",
-     "id": "d776a025b799"
-    },
-    {
-     "title": "Trump asegura que Flávio Bolsonaro puede permanecer \"el tiempo que quiera\" en EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/cqg7x42xg9m8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-01T02:21:04+00:00",
-     "copete": "El presidente aclaró que no tiene previsto reunirse con Bolsonaro, quien huyó a Estados Unidos tras su derrota electoral.",
-     "id": "578b69a73c69"
-    },
-    {
-     "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
-     "link": "https://www.bbc.com/mundo/articles/c60me2mwjygko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-31T20:51:06+00:00",
-     "copete": "Las alegres pinturas del artista colombiano Fernando Botero reinterpretan algunas de las obras más icónicas y célebres de la historia del arte europeo. ¿Qué revela su singular visión sobre la historia del arte y el lugar que ocupa América…",
-     "id": "c6119f18d63a"
-    },
-    {
-     "title": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia",
-     "link": "https://www.bbc.com/mundo/articles/cw5ynz0e3d02o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-31T17:57:37+00:00",
-     "copete": "Los habitantes de Oleshky se habían quedado sin comida, agua ni electricidad, y muchos recurrieron a cocinar hierbas de sus huertos para sobrevivir.",
-     "id": "87e273deac66"
+     "published": "2026-11-01T09:30:00+00:00",
+     "copete": "El experto en campañas y encuestas da por segura una victoria demócrata en la Cámara de Representantes, pero advierte que no existe una alineación partidista sólida y generalizada entre los hispanos",
+     "id": "e0452320b00b"
     }
    ]
   }
@@ -470,18 +503,13 @@
  "_errors": [
   {
    "section": "oncologia",
-   "feed": "Journal of Clinical Oncology (PubMed)",
-   "error": "HTTP Error 500: Internal Server Error"
-  },
-  {
-   "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "oncologia",
    "feed": "JAMA Oncology (PubMed)",
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "oncologia",
