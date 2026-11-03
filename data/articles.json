@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-11-02T20:25:03.882474+00:00",
+ "generated_at": "2026-11-03T03:30:57.461179+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Esophageal/GEJ Cancer Pembrolizumab or Placebo Plus Concurrent Definitive Chemoradiotherapy",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDc5bHpmUHN1REFTOFEyV01YWTNYNTJYSl9RSk1sRWVfcEpabDJfSlJWci1XUFM4YlNOR08ydmY4aFJSR0Z0WDVuRGI2TjZpREc5OXFzY3lhYzBWSXVLdjMzQjNxazNiM21aczE4akdfSVE2bklyaWpPbHRQbEctaDY1cUJiYVd2RGswSnJ3M0dBcHZLMTEtbUpYVXVIQUZDU2padTdLcVJVbm1jR3lvXzZVQ2hpRFRDRmlhUlBjWjVhTDB4UjljQ3pIRzdEdmwyTGZCUA?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-11-02T21:41:06+00:00",
+     "id": "4da25f8642cf"
+    },
     {
      "title": "Belzutifan Plus Lenvatinib Raises New Sequencing Questions in Advanced RCC",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3kweW9LR1dKT3dsUTMzc2tKZkVrcXI4QWVPV1pjWEw0UnBscXZzUnhKZzk5RjNQNWl5Y0NzMGo3Z0lPVlNZcmoxVTdmNkhUMEc0djgtSXdGZGt3dTI1ekpTZEdQOU1XX2xRT00tTTZZZDBkN0QzbVBOOHl4b2V1ZFpTVEQzVWtBQUp0ZTAwdHIwVkZGa2tHWDQ2WDhpVEM0LVVUUS1n?oc=5",
@@ -35,18 +42,27 @@
      "id": "6a0f9b19059b"
     },
     {
-     "title": "Optimizing Treatment for Relapsed/Refractory Follicular Lymphoma",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjkxWVo4Tms0V1BvVjA5TFFKZ3FoaE54aVpmYTk5OFluMHUxS1BmOHVIRzlYRG03WVlFaXhRRVdGVzF4UFN0N0MxRGk3NnFFSFVoZDBfbkFxcmpWWWdYdEFWV09YaVNiN0VuOW1BZTN0SkJnWllvYzVOeHdrV0FEdDhid1BnRFR4SldMVE9nTlA2S3NhR0gzVGdiSlJsLWlXRTFWWXRWRQ?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-11-02T16:57:04+00:00",
-     "id": "73a39238bcbd"
-    },
-    {
      "title": "EU, Japanese Approval Is Sought for Savolitinib Plus Osimertinib in MET-Driven EGFR-Mutated NSCLC",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHgwNVRXVFZnZDF0SUdKWk43bzVEeFFFMHFROUEtd1pISmg0SlE3M20tNnNIYnhFZG43S1BtRERpcXh3LVl4T2FfMm5jOUNsN1BVdzJ6aVRtaGhkZlZHRkpJSUR5TWY0Nld1VDNfWk8wNG9UeFNFd3BtaXBPUlI2WGRhU1hZUmJXLVMwMVNDazg3cndwTzJoMWU2aFpTZGdDYlFwSXVyblV5UjlmNk1CS2tlUGoyaUJtUXJRbkFndWlOUDQ?oc=5",
      "source": "OncLive",
      "published": "2026-11-02T16:18:26+00:00",
      "id": "de45a94a48c9"
+    },
+    {
+     "title": "Stereotactic Ablative Radiotherapy Versus Surgical Resection for Early-Stage Non-Small Lung Cancer: An Emulated Target Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42970669/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-11-02T00:00:00+00:00",
+     "copete": "Kagenaar E et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "c2061ee3520c"
+    },
+    {
+     "title": "Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42970668/",
+     "source": "Journal of Clinical Oncology",
+     "published": "2026-11-02T00:00:00+00:00",
+     "copete": "Bai X et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+     "id": "80d45c5a1e8d"
     },
     {
      "title": "From TAILORx to OPTIMA: Evolving Evidence for Genomically Guided Chemotherapy in Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer",
@@ -63,22 +79,6 @@
      "published": "2026-10-30T00:00:00+00:00",
      "copete": "Frederiksen H et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "e4c39e037035"
-    },
-    {
-     "title": "Erratum: Pathologic Complete Response (pCR) Rate and Predictors of Response to Taxane, Trastuzumab, and Pertuzumab in HER2-Positive Breast Cancer: Secondary Analyses of EA1181/CompassHER2 pCR",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42962156/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-10-30T00:00:00+00:00",
-     "copete": "Tung N et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "8c618daffc0c"
-    },
-    {
-     "title": "Therapy for Stage IV Non-Small Cell Lung Cancer With Driver Alterations: ASCO Living Guideline, Version 2026.3.4",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42956324/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-10-29T00:00:00+00:00",
-     "copete": "Reuss J et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "4fbb3cc99030"
     },
     {
      "title": "Neuroepithelial Tumor with AAV Integration. Reply",
@@ -107,41 +107,41 @@
      "title": "Sinéad O'Dwyer Spring 2027 Ready-to-Wear",
      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/sinead-odwyer",
      "source": "Vogue",
-     "published": "2026-11-02T20:24:18+00:00",
+     "published": "2026-11-03T03:28:13+00:00",
      "id": "11e2e8f70fc9"
     },
     {
      "title": "Lisa Folawiyo Lagos Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/lisa-folawiyo",
      "source": "Vogue",
-     "published": "2026-11-02T20:24:18+00:00",
+     "published": "2026-11-03T03:28:13+00:00",
      "id": "c1cc53de0b24"
     },
     {
      "title": "Emmy Kasbit Lagos Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/emmy-kasbit",
      "source": "Vogue",
-     "published": "2026-11-02T20:24:18+00:00",
+     "published": "2026-11-03T03:28:13+00:00",
      "id": "d3f651b8a770"
     },
     {
      "title": "Fruché Lagos Spring 2027",
      "link": "https://www.vogue.com/fashion-shows/lagos-spring-2027/fruche",
      "source": "Vogue",
-     "published": "2026-11-02T20:24:18+00:00",
+     "published": "2026-11-03T03:28:13+00:00",
      "id": "fbb2fd7fa653"
     },
     {
-     "title": "Los pantalones colombianos cafés que son elegantes para lucir con sandalias, zapatos y botines en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVG10N09RemkwLUFDZ29UbDFtOXpkY3VhUFU5bkpSTzAzYXFsN2MtWjJVOG9seEFfbTZGcVhsOXJiLU5BSVNSWVd6Vk9lUms4dGFjMU5SSUljcG45bVp0ZHNERE1kRFdUczBHRUxYcDhSU0RpZjdackRCcU9GUFE3U3JJVUxTMFlGR3RxRkdVRnl1YXBYWUFNVTRkOS14RFN0OTBiRFNHSmJEOWd2OWhRRWNlc1VWUEdYMS00UGI2M0o4cm1Ecm45UnRjRGVIOFk?oc=5",
+     "title": "En el Día de Muertos, Lila Downs convirtió su concierto en el Auditorio Nacional en un puente hacia el Mictlán",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVR4SnRiRU9KZXluUk4tTjBpUUdvZ2N1Q1NkQkVVMUZ3dVdVSHFaTXVWcWFGYUdqUGZPSkhnak1CcFA4aGI4UWc5TUZlVnBVV3l0cnJCM0pXaFBkNWIwcFBwZ1EySmVIVUpYQ0NIajFPUDhMYk8ybEVpdlg3MWJGZExtTGN6eFBjVWtkaWctNXZHVWM?oc=5",
      "source": "Vogue México",
-     "published": "2026-11-02T19:03:44+00:00",
-     "id": "d42e18a7ebc6"
+     "published": "2026-11-03T00:23:36+00:00",
+     "id": "d1203787624a"
     },
     {
      "title": "Ultimas Tendencias En Moda Zara - Zara. Moda novedades nueva coleccion y rebajas",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCV2RRSXJXYVFTQUo4XzFWYkhSd2FUN1RjbTR5MlBkdUUxZ2xtMVJLaW02aGFrbGJ4enVMVWY2TlRvOE9PYjJQMEZualNzWTk1ZGkw?oc=5",
-     "source": "www.auroradesio.it",
+     "source": "auroradesio.it",
      "published": "2026-11-02T18:53:47+00:00",
      "id": "5ab5fe4d710d"
     },
@@ -153,11 +153,11 @@
      "id": "d6cd810739a0"
     },
     {
-     "title": "Los tres looks del casamiento de Lali Espósito y Pedro Rosemblat que muestran las tendencias que dominarán el 2027",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXZqaXlocUg4NGpaaHpRQkV5aGUtNDUwdFJjcHFnNnBRdjJMR1VSSkVjYjVILXVPQU84U01fMmk3eG5EY2pzY0RRTG1XS3FUXzVfMHNQRHNjbmxNSXN4X2kzNTRMcl9mQ0NoSzZaMmJ4ZUV2SkRGUDdjZjNtSGh2MzFFWmNRSEl5RGpHN183NUxaTmdHLTJmT0VtSUZoUlAycDJEWXF2Z1RlbzlTNVNod3BRVmJDM1YwWEh5Rg?oc=5",
+     "title": "Los tres looks del casamiento de Lali Espósito y Pedro Rosemblat que muestran las tendencias que dominarán el...",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXZqaXlocUg4NGpaaHpRQkV5aGUtNDUwdFJjcHFnNnBRdjJMR1VSSkVjYjVILXVPQU84U01fMmk3eG5EY2pzY0RRTG1XS3FUXzVfMHNQRHNjbmxNSXN4X2kzNTRMcl9mQ0NoSzZaMmJ4ZUV2SkRGUDdjZjNtSGh2MzFFWmNRSEl5RGpHN183NUxaTmdHLTJmT0VtSUZoUlAycDJEWXF2Z1RlbzlTNVNod3BRVmJDM1YwWEh5RtIBwgFBVV95cUxQR3BvbWQ3LTlYSGJ5LTlGTXF5NEFWRkpNcGtLbzJsSEphaXZGazBQdm1aUGdWRnktYm9aTHhHZVF6UHJUa180Zi1CNFVydnFnUWViaTRZMHVSVmYtZXBkUW5QTFd1MUdtdzZYMWdWTHF5ekoyZGFrM0FhMWJWVWJtdXBKUXRoNG1hb2ZCREpwREczZGRLUkZwQ0d1VFFWUVdrVFlOQkNtZ0Y0U2lxOUdrSHZHeUdSVllHRFlabGlLNm5WZw?oc=5",
      "source": "Caras",
-     "published": "2026-11-02T18:39:11+00:00",
-     "id": "1e2752f6fcd6"
+     "published": "2026-11-02T17:27:44+00:00",
+     "id": "54e5949a3c3a"
     },
     {
      "title": "5 faldas midi elegantes para llevar con sandalias, zapatos de tacón y botines en noviembre 2026",
@@ -170,7 +170,7 @@
      "title": "Cómo combinar los pantalones de cuadros de tendencia que no paran de llegar a Cortefiel o Mango",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRi0xblFTc3FXV1VxU1NkWENJenM5OW1JcmswLVJpY00xYnZnZXM3bjdjUUV4UEJiRzRjVUhNT3NObXRQNHc3QWZmb2Y4NFU3NnhqUTBNc2JFUlE2dWREQ3RMWHY4ZVpCdVdrRnJiRVFTRGxScC03TkJlendFb19vNXRHV0FXUzhvbG96ZzZ0U202dzlQLWplWkhtb2Znc2djRDdsMWk5NE5RS0VjbXJJa2FVTzNHWG1zZ3B2NUl0NA?oc=5",
      "source": "ELLE",
-     "published": "2026-11-02T17:04:31+00:00",
+     "published": "2026-11-02T17:04:45+00:00",
      "id": "5597e119ad00"
     }
    ]
@@ -181,100 +181,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Julieta Prandi apuntó contra Juana Viale por haberse burlado de su separación: “No encuentro autoridad moral para que opine”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/julieta-prandi-apunto-contra-juana-viale-por-haberse-burlado-de-su-separacion-no-encuentro-autoridad-nid02112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-02T20:22:50+00:00",
-     "copete": "Tras pasar unos días en Brasil, la actriz y conductora volvió a su programa radial y reveló cómo está transitando el duelo por su ruptura con Emanuel Ortega",
-     "id": "56adff81facc"
-    },
-    {
-     "title": "Margarita en Vivo suma una tercera fecha en el Campo Argentino de Polo: cuándo salen a la venta las entradas",
-     "link": "https://www.lanacion.com.ar/que-sale/margarita-en-vivo-suma-una-tercera-fecha-en-el-campo-argentino-de-polo-cuando-salen-a-la-venta-las-nid02112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-02T20:04:09+00:00",
-     "copete": "El espectáculo tendrá más de 30 canciones, dos escenarios y una puesta completamente renovada; la venta general comenzará el 3 de noviembre, con hasta seis cuotas sin interés",
-     "id": "13662ae3f8a5"
-    },
-    {
-     "title": "“Entró llorando”: la conmovedora reacción de Pedro Rosemblat en su boda con Lali Espósito",
-     "link": "https://www.infobae.com/teleshow/2026/11/02/entro-llorando-la-conmovedora-reaccion-de-pedro-rosemblat-en-su-boda-con-lali-esposito/",
+     "title": "La emotiva carta de Georgina Barbarossa a su marido a 25 años de su asesinato: los mensajes de Moria Casán y Carmen Barbieri",
+     "link": "https://www.infobae.com/teleshow/2026/11/03/la-emotiva-carta-de-georgina-barbarossa-a-su-marido-a-25-anos-de-su-asesinato-los-mensajes-de-moria-casan-y-carmen-barbieri/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-02T19:41:05+00:00",
-     "copete": "Tras el hermético festejo en San Telmo, revelaron intimidades de la ceremonia oficiada por Martín Rechimuzzi y contaron cómo vivió el conductor la llegada al altar",
-     "id": "d2b5c098dd3f"
+     "published": "2026-11-03T02:36:47+00:00",
+     "copete": "A un cuarto de siglo del crimen de Miguel “Vasco” Lecuna que partió su vida en dos, la conductora publicó una carta a su difunto marido con fotos íntimas que rápidamente reunió miles de reacciones",
+     "id": "f749bdfd1b1d"
     },
     {
-     "title": "Así fue la emotiva fiesta de 80 años de Cuky, la madre de José María Muscari: “No lo voy a olvidar nunca más”",
-     "link": "https://www.infobae.com/teleshow/2026/11/02/asi-fue-la-emotiva-fiesta-de-80-anos-de-cuky-la-madre-de-jose-maria-muscari-no-lo-voy-a-olvidar-nunca-mas/",
+     "title": "Nació Jazmín, la hija de Stephanie Demner y Guido Pella: “Se agrandó el corazón”",
+     "link": "https://www.infobae.com/teleshow/2026/11/03/nacio-jazmin-la-hija-de-stephanie-demner-y-guido-pella-se-agrando-el-corazon/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-02T19:21:43+00:00",
-     "copete": "El director teatral homenajeó a su mamá con un cumpleaños familiar que incluyó música en vivo, mesa dulce y decoración personalizada",
-     "id": "62cd5448c1e1"
+     "published": "2026-11-03T02:04:19+00:00",
+     "copete": "La influencer presentó a su segunda hija con un mensaje cargado de emoción. Las primeras fotos. Los mensajes de los famosos",
+     "id": "0ae7f0f49fc2"
     },
     {
-     "title": "Con estilo gauchesco: cómo es la nueva versión de la ópera Pagliacci",
-     "link": "https://www.clarin.com/espectaculos/estilo-gauchesco-nueva-version-opera-pagliacci_0_vQsTRNPCxI.html",
+     "title": "El extraño mensaje de Emanuel Ortega cuando le preguntaron si su separación de Julieta Prandi es definitiva",
+     "link": "https://www.infobae.com/teleshow/2026/11/03/el-extrano-mensaje-de-emanuel-ortega-cuando-le-preguntaron-si-su-separacion-de-julieta-prandi-es-definitiva/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-03T01:02:57+00:00",
+     "copete": "En el ciclo de Luis Ventura y Marina Calabró consultaron al músico sobre las reciente declaraciones de la animadora",
+     "id": "981c5b772d1e"
+    },
+    {
+     "title": "El vestido minimalista de boda que eligió Lali Espósito para su casamiento: las imágenes del look que es sensación",
+     "link": "https://www.infobae.com/teleshow/2026/11/02/el-vestido-minimalista-de-boda-que-eligio-lali-esposito-para-su-casamiento-las-imagenes-del-look-que-es-sensacion/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-03T00:37:21+00:00",
+     "copete": "Las fotos de la ceremonia de la boda de la cantante con Pedro Rosemblat confirmaron el estilo sobrio que la cantante había adelantado. La obra de joyería que eligió como ramo",
+     "id": "31822266c679"
+    },
+    {
+     "title": "El gesto de la China Suárez con Lali Espósito tras el casamiento que no pasó inadvertido",
+     "link": "https://www.infobae.com/teleshow/2026/11/03/el-gesto-de-la-china-suarez-con-lali-esposito-tras-el-casamiento-que-no-paso-inadvertido/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-03T00:23:36+00:00",
+     "copete": "La actriz, que no estuvo entre los invitados a la boda celebrada en San Telmo, reaccionó a las imágenes que la cantante publicó en sus redes y volvió a encender el debate sobre su vínculo",
+     "id": "20586586467e"
+    },
+    {
+     "title": "Julieta Prandi apuntó contra Juana Viale por sus dichos sobre su separación de Emanuel Ortega: “Me da lástima”",
+     "link": "https://www.infobae.com/teleshow/2026/11/02/julieta-prandi-apunto-contra-juana-viale-por-sus-dichos-sobre-su-separacion-de-emanuel-ortega-me-da-lastima/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-02T23:46:42+00:00",
+     "copete": "La conductora regresó a la radio y cuestionó los comentarios sobre el fin de su matrimonio, mientras pidió respeto para atravesar en privado el duelo después de seis años de relación",
+     "id": "74fed958e138"
+    },
+    {
+     "title": "Yanina Latorre reveló la lapidaria frase que le habría dicho Julieta Prandi a Emanuel Ortega antes de separarse",
+     "link": "https://www.lanacion.com.ar/espectaculos/yanina-latorre-revelo-la-lapidaria-frase-que-le-habria-dicho-julieta-prandi-a-emanuel-ortega-antes-nid29102026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-02T23:31:48+00:00",
+     "copete": "La conductora dio detalles de cómo habrían sido los días previos a que la modelo anunciara el final del matrimonio luego de solo 27 días de casados",
+     "id": "663be4eb5731"
+    },
+    {
+     "title": "Sergio Lapegüe viajó a Harvard para visitar a su hijo y terminó en un encuentro con Messi: “El tiempo se detuvo”",
+     "link": "https://www.lanacion.com.ar/espectaculos/sergio-lapegue-viajo-a-harvard-para-visitar-a-su-hijo-y-termino-en-un-encuentro-con-messi-el-tiempo-nid01112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-02T23:30:28+00:00",
+     "copete": "En medio de una escapada a Estados Unidos, el conductor presenció un partido de Inter Miami en Boston y conoció al rosarino y a Rodrigo De Paul, entre otros; su posteo en las redes",
+     "id": "113c576c40e5"
+    },
+    {
+     "title": "Quilmes Rock 2027: se anunció el line up completo del festival, con grandes figuras, regresos y homenajes",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/quilmes-rock-2027-se-anuncio-el-line-up-completo-del-festival-con-grandes-figuras-regresos-y-nid02112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-02T23:18:51+00:00",
+     "copete": "Babasónicos, Divididos, Fito Páez, Los Fabulosos Cadillacs, Ratones Paranoicos, Jet y Jorge Drexler encabezan la grilla de este encuentro musical que se realizará el 16, 17 y 18 de abril; también habrá un homenaje a Luis Alberto Spinetta y…",
+     "id": "57f3629506d6"
+    },
+    {
+     "title": "Brad Pitt compró una finca de 500 hectáreas por 60 millones de dólares y la transformó en una reserva agrícola vitivinícola libre de químicos",
+     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-compro-una-finca-de-500-hectareas-por-60-millones-de-dolares-y-la-transformo-en-una-nid02112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-02T23:18:19+00:00",
+     "copete": "El actor convirtió Château Miraval en un tanque de la industria del vino bajo un modelo ecológico estricto que elimina el uso de agroquímicos en la producción; cómo funciona; su historia",
+     "id": "d002485d6d0f"
+    },
+    {
+     "title": "Se anunció el Quilmes Rock 2027: cuándo es y qué artistas participan",
+     "link": "https://www.clarin.com/espectaculos/anuncio-quilmes-rock-2027-artistas-participan_0_DCaY9q528X.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-11-02T19:20:35+00:00",
-     "copete": "Clarín estuvo en los ensayos en el Teatro Municipal Roma de Avellaneda. La adaptación está a cargo de la compañía Sol Lírica y se podrá ver el jueves y el domingo.",
-     "id": "30a02260f1f8"
+     "published": "2026-11-02T23:00:01+00:00",
+     "copete": "Tendrá lugar el 16, 17 y 18 de abril de 2027, en sede a confirmar. Babasónicos, Divididos, Fito Páez, Jet, Los Fabulosos Cadillacs, Ratones Paranoicos, Los Auténticos Caligaris, Jorge Drexler y Las Pelotas, entre los números principales.",
+     "id": "21cef3179f12"
     },
     {
-     "title": "Ángela Leiva renueva su repertorio y suma su voz como compositora",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/angela-leiva-renueva-su-repertorio-y-suma-su-voz-como-compositora-nid02112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-02T19:01:49+00:00",
-     "copete": "En su primer álbum junto a Universal Music, la cantante revisita su historia a través de canciones de desamor, ironía y reivindicación personal, en un trabajo que refleja su crecimiento artístico y una mayor participación autoral",
-     "id": "8abbf1e6cf9e"
-    },
-    {
-     "title": "100 años de musicales: un monumental concierto histórico que reunió a todas las figuras del género en Argentina",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/100-anos-de-musicales-un-monumental-concierto-historico-que-reunio-a-todas-las-figuras-del-genero-en-nid02112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-02T18:50:39+00:00",
-     "copete": "A lo largo de cuatro horas, destacadas figuras se dieron cita en el Teatro Opera para revisitar las canciones más famosas de los títulos más emblemáticos",
-     "id": "80a4fcd943bd"
-    },
-    {
-     "title": "Ratones Paranoicos: aquel oscuro y vibrante debut, reeditado en vinilo por su 40° aniversario",
-     "link": "https://www.clarin.com/espectaculos/ratones-paranoicos-oscuro-vibrante-debut-reeditado-vinilo-40-aniversario_0_ya0uaccrPj.html",
+     "title": "El universo Q’Lokura por dentro: la pasión, el trabajo en equipo y la energía que hay detrás de una fiesta que transforma cada noche en un baile inolvidable",
+     "link": "https://www.clarin.com/espectaculos/universo-qlokura-dentro-pasion-trabajo-equipo-energia-detras-fiesta-transforma-noche-baile-inolvidable_0_Gcz4d1pMyj.html",
      "source": "Clarín Espectáculos",
-     "published": "2026-11-02T18:39:36+00:00",
-     "copete": "Fue editado originalmente en 1986 por el sello independiente Umbral e incluye el clásico \"Sucia estrella\", luego versionado por Luis Alberto Spinetta. La lujosa reedición en vinilo blanco incluye fotos inéditas de época.",
-     "id": "382e2012f77b"
-    },
-    {
-     "title": "Julieta Prandi volvió al trabajo y fue lapidaria con Emanuel Ortega: “Él sabía las acciones que estaba teniendo”",
-     "link": "https://www.infobae.com/teleshow/2026/11/02/julieta-prandi-volvio-al-trabajo-y-fue-lapidaria-con-emanuel-ortega-el-sabia-las-acciones-que-estaba-teniendo/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-11-02T18:29:06+00:00",
-     "copete": "La modelo habló con la prensa, descartó la versión que sostenía que el músico se había enterado de la separación a través de las redes y cruzó a quienes opinaron del conflicto",
-     "id": "0a182ea63989"
-    },
-    {
-     "title": "Andy Kusnetzoff negó el consumo de cocaína y explicó a qué se deben los movimientos de su mandíbula: “Me pasa desde los 10 años”",
-     "link": "https://www.infobae.com/teleshow/2026/11/02/andy-kusnetzoff-nego-el-consumo-de-cocaina-y-explico-a-que-se-deben-los-movimientos-de-su-mandibula-me-pasa-desde-los-10-anos/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-11-02T18:07:48+00:00",
-     "copete": "El conductor enfrentó en su ciclo radial las especulaciones surgidas en redes sociales tras su última aparición pública",
-     "id": "6a0227bff369"
-    },
-    {
-     "title": "Martha Stewart se disfrazó de una persona en situación de calle para Halloween, recibió duras críticas y terminó pidiendo disculpas",
-     "link": "https://www.clarin.com/espectaculos/martha-stewart-disfrazo-persona-situacion-calle-halloween-recibio-duras-criticas-termino-pidiendo-disculpas_0_aJggOKdM9p.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-11-02T18:03:29+00:00",
-     "copete": "La presentadora de TV de 85 años publicó una fotografía con ropa rota, el rostro sucio y un cartel que decía \"Tengo hambre. Ayúdenme\". Primero aseguró que buscaba generar conciencia sobre la falta de vivienda, pero ante la polémica…",
-     "id": "a75f877f7e67"
-    },
-    {
-     "title": "Del sándwich de molleja al Penicillin: cómo fue el menú del casamiento de Lali Espósito y Pedro Rosemblat",
-     "link": "https://www.infobae.com/teleshow/2026/11/02/del-sandwich-de-molleja-al-penicillin-como-fue-el-menu-del-casamiento-de-lali-esposito-y-pedro-rosemblat/",
-     "source": "Teleshow (Infobae)",
-     "published": "2026-11-02T16:57:25+00:00",
-     "copete": "Asistentes a la boda revelaron detalles de una propuesta gastronómica criolla, libre circulación entre livings, cócteles variados y una torta imponente diseñada especialmente para la ocasión",
-     "id": "c0ba3daed351"
+     "published": "2026-11-02T20:39:31+00:00",
+     "copete": "La banda cordobesa de cuarteto combina el trabajo de más de 40 personas, entre asistentes y músicos. Un recorrido por el detrás de escena del grupo que convierte cada presentación en una fiesta popular.",
+     "id": "5298d24568c9"
     }
    ]
   },
@@ -284,39 +284,32 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "6 Manos al piano: Daniela Salinas y Natalia González Figueroa, Melina Marcos se presentarán en el Teatro Gran Cabral",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVXlWeDRvcDhEcGt0cjRVdXZmdklGTjNGQWVwY2lWaEVfT1NWWW9UcmFXa09GMk8wV0R2bExaRGNGMzdJVDJkaEp4WExZZVJLa1VVS18tSkE3M0RZZ1VNMkZzdlFOcXF5WkZtenc5YTI0cWRpWkUtWGtYcjU5UmQ5cFNMZ3RJZ1B0M0hjb01OQmV3N003MXlXZkRyQW1FVE1zNTV2TXZOSzZLUVkzMTBESnlrbFI0cXBjNm01S0JzSC1yUGd4cHdvUGRhOFp6QlhxZVJ0eEVwbW1sVXY5ajRWeXFCRUwwOHJaM2NOZUM3aTVnZllQUTRrS282TXloUDdL?oc=5",
-     "source": "La Opinión Austral",
-     "published": "2026-11-02T19:42:27+00:00",
-     "id": "0d089dc6217a"
+     "title": "La Compañía de Teatro Krikor Satamian presentará la comedia “¿Quién es mi padre?” en armenio - 27/11",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQkZQY3B1cEdrZTdLSElHMXNyOGdUeGhBVjg3RjNEMkVrazNfQ1R3eWhkeHRFaTBJR1pLNDBfbXdRNWw5NlBiZ2FKbFRfVm9WckVTQjhvdXZoWk5POVFKRHF6aUlJd0FBNEZLNUN5VzBwd084UGNzWWdybDZLNnJ2a0FEbG1heUxJVkg3My1NdURqMTlzYUpDNlVDeU5kTTAxVXRIVktzeWpvaFRKT0s5dDBXcUFGbFRCTnpPczRuZ2N2OFMwY2U0?oc=5",
+     "source": "Diario Armenia",
+     "published": "2026-11-03T02:03:22+00:00",
+     "id": "9b6d3cf7e986"
     },
     {
-     "title": "Qué hacer en Ciudad de Buenos Aires en noviembre: las recomendaciones de \"Time Out\"",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWXk1TGtzZ2ZPNUNPWVZFSFlyWTR3NHVyQ08yYVFDNGtIME04R3hjR0J4MC1WeXJ6OW9BWW9VV1poX2JMcXM1V2N5VDF6RlREaUc3MDZSd01TZGdnZHVHS3lDRkV5Ny1SaFZvaDM4eDVoQS1uR1k4dU0zTlhGRVFPV0dCVEZFZ2xnUXM2NVZBdlFDRTZoWTRKdHJPVXBEUVl1bGpxZFdJUUU5bWp1TF9NR3RJdjRiSDl1bWcyS3MwUDlaQzRI?oc=5",
-     "source": "Perfil",
-     "published": "2026-11-02T15:34:43+00:00",
-     "id": "43b15c960af2"
+     "title": "Con Florencia Peña y Juliana Gattas como protagonistas, \"Chicago, el musical\" llega a Buenos Aires: cuándo se...",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGlvcVhCVlhmdGFtZ05Sckk0dWFGYjZMTWM3SGZuNGVzOW1qZHgtd3dxUExjb0dWWHhmSUFTay1DbmN6eHlhNmFTdFpubkVpUUdUS25NUmFHMEpvMXdJdThmMkZmMTFHd0lhRGFrTF9DU3NoLXVEVkJ6UzZVZFRaMGdvYWFUYmU2ME5NSWZSOERFUHJHdFI4UC1xUkFBb09PdmthYXZwb1BoY2NvdE9YSlhXNFk2UTFxeDZQNU5LVW0xMUpabDctSTRIUGxJc3JpY0VGYXFYMTJMRU3SAeABQVVfeXFMTVpET2E1NXZldzN5Yk8yUkZuVGpEWTREVGZlS0NmMVpUczh2SDctNUgyUU1hRDkteWk5N001NG9UbENpVjhvSUdKWXg4aDBjckN4emtmMHpyY0Y2RW5BQWNpbGJiT19PNENwRG9EeVc5WWxGTkJOcEVMX2pSMkZBV2E2bDZvQkNhdEVkRUJpVjdNdXZqT0hEbnFxSVVSQ2FFNU1iQUUxaDV2V3lPM3dvS3BtSWJRVGdBNW5MRDlFamRYNDVJdzRBanB5MWF0bFdCVzRPYjY4MElLSjJCQkx3Vlo?oc=5",
+     "source": "Exitoina",
+     "published": "2026-11-03T00:59:06+00:00",
+     "id": "11200b256920"
     },
     {
-     "title": "“Theodora” de Händel inicia hoy su gira en Buenos Aires y llegará este viernes a Lima",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUJwdUtrSEVnWmtTWjM0TUU4UWRvc21wTkpXYS1YdGVDTjNWdTcxOWt0cy1rZVlFYkN2MjdXZWh1ZmdmTWptcWpHYklvYkpKdzdHOVgwRkxnVDRhOEN0TW0tVWVqeThlYi1GTGRLb1FQYWx6MEFWb0dRYjlUZmd3RlJkbW5zd0xNRFdDMUdkV0FlYldISUs0SWQ4QmJGZVdUNVl3dzRPSUk3QkQzNkxheDNjZzhuX2xxV3g4aFR6eUdOZllDckJqdA?oc=5",
-     "source": "Agencia Andina",
-     "published": "2026-11-02T13:12:00+00:00",
-     "id": "3d3448e676be"
+     "title": "Florencia Peña y Juliana Gattas protagonizarán “Chicago – El Musical” en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOXzZfU2dDRnd3SEhGOWFKaGk1bHRGclUyR3NGQ2ZUZXc2TlFLdWJXV3Rnc2RJcGVKblp4Um91RzJyZ0RSM0dqeFZLUmw0NE9nSEE0eHI2TlJ4dERRdnR3bFdpaTFlbDA5ay1UdEIwNlNqSFpVeDFIU0VuMHZJNUl2alFHWUxOZTlSOXVHdEVsem9maExCMThrTW50eEYwN3hiOXUtMUE0UDlBcmo2YVI4ZUZCUkRkOVhsNThpaTA4eTRNNGJIQkhCbzdjcV95Rl9PQ05JcWs3UVotQQ?oc=5",
+     "source": "Pronto",
+     "published": "2026-11-02T23:45:01+00:00",
+     "id": "ada6bbefa19e"
     },
     {
-     "title": "Buenos Aires, todo el año: una ciudad que siempre tiene algo nuevo para descubrir",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTQ0ekVIbnVIRExYQVp1R19sNW4zeGdFVlNoMkRlS0JVaVdqUzV2TW1aZlVtcEtSbW15SVJYWkp0c3RucnVOci1Kbk5yX3lrRnhfVFd4YUtERE5wZTh2MGtBM2ozYi1WaDYtWnNWcUFxS3lpZ2NISzNCYnlEYW13R3BlT0MybnM0eXQ0VXBMQ3dhUF9vX3piN21QVUZWbzU4Q0tXQm5INWQ2SDZYRzJNeEFFeDkwdGfSAb8BQVVfeXFMTUZFYkJNdFk1LTlab051WTZuZnEyX0pxN2dnMEctMWlaVjZzbzJUUzI4QnctR2pjTU1LeGxuemUyMXJSSXJ0b09xbDZFanp5OGNLQ1FpaUZJdXBLNllwZjRpckhFUlotSzJmeDZ5ZHZHT293Q0I3aUUxZXZRZzZQVHk4akFrU2FEcUc4TGVMeVY1MjF5R2g0eDhlcHZSa2hTbkw5VDdmQWpfTXBKbkdJalA5UWtnNnB1Vm8wcjVXV3c?oc=5",
-     "source": "Diario Río Negro",
-     "published": "2026-11-02T03:15:00+00:00",
-     "id": "5ba15db3f387"
-    },
-    {
-     "title": "Qué hacer esta semana & el finde en Buenos Aires",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Lb1JpWlRtQndCZTA2eWNKX1Rja3d3MXZYUFdLUFZRZFV4a21EZURKN1RjdlNBMXFoRkhyLWJvSFFQOVlEcFQzSnlWa195d0wxV2ZtTHZVMjF2SFBfYVh3QWtEQQ?oc=5",
-     "source": "Time Out Worldwide",
-     "published": "2026-11-02T03:00:00+00:00",
-     "id": "d48b99cd16c7"
+     "title": "“Mujer Patagonia” conquistó Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1ZBQ1E0LXh4Tm5uc04wT25UZXBzWS1aV0xGNEV1X0ROdE83X2FLTzBUUGYwTGFScW9kNmZWeHhEN3o0Vml6QVBEWUthdFFiMFlCVy1GdHI3ZlRjeGpBcVpRaFF3OTY3NVRmTGY2bXdZQzI4bDhqZjFwNUwwYjZvZEtpQm1aaXdlcG4xNU5tV05BYXZnanc?oc=5",
+     "source": "Diario Jornada",
+     "published": "2026-11-02T23:45:00+00:00",
+     "id": "59720b74cdb0"
     },
     {
      "title": "Un paseo por Thames, la calle de Buenos Aires que conquista el mundo",
@@ -326,11 +319,25 @@
      "id": "0fb6dbd3ffc1"
     },
     {
-     "title": "Halloween en Buenos Aires: tres fiestas imperdibles para salir esta noche en CABA",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPck83ckFBelR1NEJLTFBGeUZOanFrZl84Umt3aXlhNllzdk4xd0FYdjZoemdhcHVUdEVuUWR3aXRTYk9UR0xpdkhfQ3RlRkNjeFgzR0dLUW1NYW9ORnBzMlc3Tm5OSDdOWmF6UGpUTlF0NE43bzFXRWdzb2xSUURna3g5ZDU3Rms5THJsX0U3QVA0YjVhRmx6NU83c190RURRTy1BR18xakw5TzFJY1U2LXFFcXhYUExLM1RwRUt2NNIB0wFBVV95cUxPSHlYaWFUSW5KVllmM3hUSE4wTnB2VVJOZ1RYU2ZiVFVMYXFxTy1XZ09EUlA0bGNCSzdCUVZ1UTQ1clZ6VzdtYUNtMEJsa2R6VnZ3NkczYzZhLW9WeUdncnhXNFc0MXpYeDlBc180cGVYekRzSTJSTnh0WktCU0s1WlFNT1puQ3JMRDlyYVltc1ZnZl9HbXpzeXdZREE5QWtHbEZXTFRPZ1dXLWVqbENwQzgzd1JCYms1TW9aWkJYdVFQV1FTMGlyY3UxQllpc1UxYXU0?oc=5",
-     "source": "El Destape",
-     "published": "2026-10-31T17:21:21+00:00",
-     "id": "13ce509eb3ff"
+     "title": "Qué hacer en Halloween: seis actividades gratuitas para disfrutar este fin de semana en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUladUY0NlRtUjZfd2dER2gtVzR1T0d2WlM3ZVRHSmZMWE94ZHV4dGdOelhLaVh6cGlJaDEyY2h1ZFVuVzFSNkY2cnpqN2dLbmxTQzVLLW9IRkJWWkhzSHFJbDNXOEZfN3JNRHZWQ2MyWVByc2x4dVdEYXNWVDdMb3ZFTkRRalh1ZDRxN2I2N0o5cFpvMFBkekVxa1d3V0FZckJ1dzVMbUpHeHp2NVllRkRiSTJqQWY4anRvMWFaQlVyMVdlMjBKMTllSFdXVXdxaUE?oc=5",
+     "source": "Crónica",
+     "published": "2026-10-31T12:15:00+00:00",
+     "id": "adaa5de86f8c"
+    },
+    {
+     "title": "Halloween, música, gastronomía y ferias: qué hacer este fin de semana en la Ciudad de Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzZBbHlrV3hTLV81UEg5bVVsLUlwX0xnb0wtTlhwLTI1TDRscXdaM1JzelNTYlJiLV8zQlIwOHZhTC1sX3dITGl2ZGExdW5fYW9xTTZhQmJIVnZXVVREb3MzVTVKVGhDd3BPNWxtV1l4SC1PU1lPLVlwSlpVTFBUdmdJZHgtZTRFZGZQalZqNzZsR3pTdllNTkV1VUt3bzZKMnlMWjNCNkFkdGs0cVlVY3dCNHZOTC1qVG9MX2hzV0ZPNi1VeTBUU1ZlZmxaZw?oc=5",
+     "source": "Perfil",
+     "published": "2026-10-30T18:53:16+00:00",
+     "id": "37bdbe08eaea"
+    },
+    {
+     "title": "Salir a comer con estilo: fui a estos restaurantes donde la buena cocina acompaña al ambiente",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOVVQSDJuQnZoZWRFSS1OcXhfNnloT2hzZ3BsX3dsWTJybkpDMDhMd1FGbWMzUk9LdlZrdGo2VFU0RllGYUgtVWs3SDF3S2dtY1hxc2pQU29OX05ZUnBrOTNtRVZfamtoVnR1cmM3YkpwMFdhcjZXVzZlWURtcUp1U2RSOVFCSlZSQzFJck0yV3BSeVpWS0VGZVlMRHVSX2lBNTJscWlpT3gwbzBjSDBVaEhPZHdMakFsSnBJc2x2OGRYckNTWW9sLU0wVWcxd3pTV2FRSFdybmVDM3VnMlJ2bjU5bEI?oc=5",
+     "source": "Revista OHLALÁ!",
+     "published": "2026-10-30T18:22:42+00:00",
+     "id": "9c5c5f334e3a"
     },
     {
      "title": "Fin de semana en Buenos Aires: más de 60 planes de recitales, teatro, cine y \"muestras inmersivas gratis\"",
@@ -345,13 +352,6 @@
      "source": "iProfesional",
      "published": "2026-10-30T13:01:00+00:00",
      "id": "6b1f085924f3"
-    },
-    {
-     "title": "Qué hacer en Buenos Aires este fin de semana, más de 60 planes para disfrutar del viernes 30 al domingo 1° de noviembre, con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQThjV2VVOVFTcXl6aUotS01QWkJTckhIRnJuWlljNnVuVHJjNjRtajZBNjFqSnd3OGFWYUhnMzN5ZmpwXzNTSVR5TGYxRzlodzRBYzg4cG40TnBTQ3V0SmZYXzRfd0JMam8xZTRDdUcyazlpeVpHZ3pibFFLc3R0OXNFalZCWnE4cUhURzlyMmhLVHVSdENsRXpwZFhpR2VvSE53MEdtYWpJSzZETDAxZVFCTTA3dTJFVTVvaHpZQld4NEQ0WFg1VXd2NWJPQmFLaGRhcGdDSERRa0NQSVJWVmtpX0xrZm5xQ0xNNmdHX2w2eGFxZ3lQMEhkbnV2UGpWMHU0Q2lIMTByMnQ2aFljSXJoZ1JnelNUakt1alMySjU2MXlSN3BsSUpTZWc3S0t3?oc=5",
-     "source": "Radio Hache 97.7",
-     "published": "2026-10-30T11:23:05+00:00",
-     "id": "d1daa5a1be21"
     }
    ]
   },
@@ -361,84 +361,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Premios ADEPA a la excelencia periodística: por duodécimo año consecutivo, LA NACION es el medio con más distinciones",
-     "link": "https://www.lanacion.com.ar/sociedad/premios-adepa-a-la-excelencia-periodistica-por-duodecimo-ano-consecutivo-la-nacion-es-el-medio-con-nid02112026/",
+     "title": "Estados Unidos lanzó ataques “defensivos” contra objetivos iraníes en el estrecho de Ormuz",
+     "link": "https://www.lanacion.com.ar/el-mundo/estados-unidos-lanzo-ataques-defensivos-contra-objetivos-iranies-en-el-estrecho-de-ormuz-nid02112026/",
      "source": "La Nación",
-     "published": "2026-11-02T20:21:55+00:00",
-     "copete": "Se destacó como ganador en nueve categorías de las 22 del certamen; además, obtuvo nueve segundas posiciones y cuatro menciones especiales",
-     "id": "fa2428ccdaae"
+     "published": "2026-11-03T03:22:29+00:00",
+     "copete": "Según informó The Wall Street Journal, el gobierno estadounidense autorizó una ofensiva sobre la isla Qeshm; Trump había asegurado que no habría nuevas hostilidades",
+     "id": "9677feb48ae1"
     },
     {
-     "title": "“Las elecciones de medio término más importantes de nuestra vida”: En su llamado final, Trump dijo que los demócratas quieren elegir “jihadistas y comunistas”",
-     "link": "https://www.lanacion.com.ar/el-mundo/las-elecciones-de-medio-termino-mas-importantes-de-nuestra-vida-en-su-llamado-final-trump-dijo-que-nid02112026/",
+     "title": "La psicóloga que volvió a la cordillera y convirtió dos hectáreas en una chacra de mieles y flores",
+     "link": "https://www.lanacion.com.ar/revista-lugares/la-psicologa-que-volvio-a-la-cordillera-y-convirtio-dos-hectareas-en-una-chacra-de-mieles-y-flores-nid03112026/",
      "source": "La Nación",
-     "published": "2026-11-02T20:20:07+00:00",
-     "copete": "En la víspera de la votación donde se luchará por el control del Congreso, el presidente aprovechó la reapertura del estanque frente al Monumento a Lincoln, en Washington, para defender su gestión y pedir el voto para los republicanos",
-     "id": "9a26da9cacde"
+     "published": "2026-11-03T03:15:00+00:00",
+     "copete": "Huenu Mastronardi dibujó su chacra antes de comprarla. Once años más tarde, entre colmenas y vecinos de apellido galés, cuida un jardín que no termina de obedecerle.",
+     "id": "8bd5a3b89b23"
     },
     {
-     "title": "Ajuste de estatus del DHS y la regla que se aplicará para la residencia permanente en noviembre 2026",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/ajuste-de-estatus-del-dhs-y-la-regla-que-se-aplicara-para-la-residencia-permanente-en-noviembre-2026-nid02112026/",
-     "source": "La Nación",
-     "published": "2026-11-02T20:20:00+00:00",
-     "copete": "Los familiares de ciudadanos que esperan un cupo pueden pedir la green card dentro del país si su fecha de prioridad es anterior al corte habilitado",
-     "id": "9febae29c28d"
-    },
-    {
-     "title": "Ron Letheren, de 103 años: “El cerebro necesita usarse para sobrevivir”",
-     "link": "https://www.lanacion.com.ar/lifestyle/ron-letheren-de-103-anos-el-cerebro-necesita-usarse-para-sobrevivir-nid02112026/",
-     "source": "La Nación",
-     "published": "2026-11-02T20:15:58+00:00",
-     "copete": "El exdocente vive solo en Ellingham, Inglaterra, y combina estiramientos, bandas elásticas, escaleras y rompecabezas cada mañana, según una entrevista de la BBC",
-     "id": "1fbdaae85d93"
-    },
-    {
-     "title": "Sube Wall Street ante la fuerte baja del petróleo, pero caen los activos argentinos y sube el riesgo país",
-     "link": "https://www.infobae.com/economia/2026/11/02/sube-wall-street-ante-la-fuerte-baja-del-petroleo-y-cede-el-riesgo-pais-argentino/",
-     "source": "Infobae",
-     "published": "2026-11-02T20:09:27+00:00",
-     "copete": "Los índices de Nueva York progresan hasta 0,8%, mientras que el barril de crudo Brent descuenta 8%. Los bonos argentinos perdieron las subas de la mañana y caen 0,7%. El MSCI Merval cede 2,4%",
-     "id": "95a8ae842fdd"
-    },
-    {
-     "title": "Video: un motociclista intentó evadir un control de tránsito y un inspector le arrojó un cono para detenerlo",
-     "link": "https://www.infobae.com/sociedad/2026/11/02/video-un-motociclista-intento-evadir-un-control-de-transito-y-un-inspector-le-arrojo-un-cono-para-detenerlo/",
-     "source": "Infobae",
-     "published": "2026-11-02T20:04:56+00:00",
-     "copete": "El agente lanzó el objeto durante un operativo nocturno en la zona portuaria de Gualeguaychú. El joven de 19 años terminó detenido a disposición de la Justicia por resistencia a la autoridad, mientras evalúan sanciones para el efectivo",
-     "id": "daa560fc340c"
-    },
-    {
-     "title": "Euro hoy en Panamá: cotización de cierre del 2 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/02/euro-hoy-en-panama-cotizacion-de-cierre-del-2-de-noviembre/",
-     "source": "Infobae",
-     "published": "2026-11-02T20:02:29+00:00",
-     "copete": "Este fue el comportamiento de la principal moneda europea durante los últimos minutos del día",
-     "id": "c3ec54844c0c"
-    },
-    {
-     "title": "Precio del euro hoy en Cuba: cotización de cierre del 2 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/02/precio-del-euro-hoy-en-cuba-cotizacion-de-cierre-del-2-de-noviembre/",
-     "source": "Infobae",
-     "published": "2026-11-02T20:02:11+00:00",
-     "copete": "La moneda europea ha registrado un avance respecto a la jornada anterior",
-     "id": "acc336a67a52"
-    },
-    {
-     "title": "Javier Milei se reunió en la Casa Rosada con el enviado especial de Donald Trump contra el antisemitismo",
-     "link": "https://www.clarin.com/politica/javier-milei-reunio-casa-rosada-enviado-especial-donald-trump-antisemitismo_0_SVrHnBNGSC.html",
+     "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-martes-3-noviembre-2026_0_EcA6UTcyCS.html",
      "source": "Clarín",
-     "published": "2026-11-02T19:58:44+00:00",
-     "copete": "Del encuentro en el despacho oficial participaron el canciller Pablo Quirno y el embajador Peter Lamelas. El rabino Yehuda Kaploun buscó analizar la situación tras los atentados perpetrados por Hamas el 7 de octubre.",
-     "id": "46e829f13e1c"
+     "published": "2026-11-03T03:10:42+00:00",
+     "copete": "El SMN anticipa para este martes temperaturas entre 15°C y 20°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "2d78f89b4568"
     },
     {
-     "title": "Premios ADEPA 2026: Clarín recibió 16 distinciones",
-     "link": "https://www.clarin.com/sociedad/premios-adepa-2026-clarin-recibio-16-distinciones_0_2Tn5NDLb1W.html",
+     "title": "Una mujer de 88 años fue hallada muerta en su casa de Mendoza: sospechan que la atacó su pitbull",
+     "link": "https://www.clarin.com/policiales/mujer-88-anos-hallada-muerta-casa-mendoza-sospechan-ataco-pitbull_0_cSOl5PStDo.html",
      "source": "Clarín",
-     "published": "2026-11-02T19:55:30+00:00",
-     "copete": "Periodistas y fotógrafos del diario obtuvieron reconocimientos en 13 categorías. La ceremonia de premiación será el martes 15 de diciembre en la Universidad Católica Argentina.",
-     "id": "27b4d85df614"
+     "published": "2026-11-03T03:10:39+00:00",
+     "copete": "El hijo de la víctima la halló ya sin vida en su casa de Luján de Cuyo y con marcas de haber sido agredida por el animal. Esperan el resultado forense para determinar si efectivamente murió a raíz de las heridas causadas por el perro o si…",
+     "id": "8ae49869352e"
+    },
+    {
+     "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_o98dunS60u.html",
+     "source": "Clarín",
+     "published": "2026-11-03T03:10:19+00:00",
+     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "67a8c6fe8bef"
+    },
+    {
+     "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este martes 3 noviembre de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-martes-3-noviembre-2026_0_zuBGrXzOiO.html",
+     "source": "Clarín",
+     "published": "2026-11-03T03:10:18+00:00",
+     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "ac48e787f1e5"
+    },
+    {
+     "title": "La democracia no es un menú que se elige por partes",
+     "link": "https://www.lanacion.com.ar/editoriales/la-democracia-no-es-un-menu-que-se-elige-por-partes-nid03112026/",
+     "source": "La Nación",
+     "published": "2026-11-03T03:10:00+00:00",
+     "copete": "Quienes abogan por una candidatura de Cristina Kirchner no pueden desconocer que la popularidad no extingue las condenas judiciales firmes ni las inhabilitaciones",
+     "id": "27ea2813e148"
+    },
+    {
+     "title": "El desafío de alcanzar los frutos de la visita papal",
+     "link": "https://www.lanacion.com.ar/opinion/el-desafio-de-alcanzar-los-frutos-de-la-visita-papal-nid03112026/",
+     "source": "La Nación",
+     "published": "2026-11-03T03:05:00+00:00",
+     "copete": "La presencia de León XIV en la Argentina puede ser una oportunidad para crecer en la sabiduría del diálogo y en la recreación de la cultura del encuentro",
+     "id": "63d898085913"
+    },
+    {
+     "title": "“Esto es vergonzoso”: feroz crítica de la prensa inglesa a Alexis Mac Allister tras su cruce con Madueke en Anfield",
+     "link": "https://www.infobae.com/deportes/2026/11/03/esto-es-vergonzoso-feroz-critica-de-la-prensa-inglesa-a-alexis-mac-allister-tras-su-cruce-con-madueke-en-anfield/",
+     "source": "Infobae",
+     "published": "2026-11-03T02:49:44+00:00",
+     "copete": "El volante argentino quedó en el centro de los comentarios televisivos después de un cruce en la derrota del Liverpool ante el Arsenal",
+     "id": "519f1787e5b6"
+    },
+    {
+     "title": "Costa Rica exportó USD 173 millones a Italia entre enero y septiembre de 2026",
+     "link": "https://www.infobae.com/costa-rica/2026/11/03/costa-rica-exporto-usd-173-millones-a-italia-entre-enero-y-septiembre-de-2026/",
+     "source": "Infobae",
+     "published": "2026-11-03T02:44:26+00:00",
+     "copete": "La Presidencia informó que más de 100 empresas costarricenses participaron en los envíos al mercado italiano, aunque no detalló los bienes comercializados ni una comparación interanual para el período acumulado",
+     "id": "a1511881769d"
     }
    ]
   },
@@ -448,68 +448,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Las ‘midterms’ 2026, en vivo | El voto anticipado se acelera y muestra señales que favorecen a los demócratas",
-     "link": "https://elpais.com/us/2026-11-02/las-midterms-2026-en-vivo.html",
-     "source": "El País Internacional",
-     "published": "2026-11-02T20:23:22+00:00",
-     "copete": "Trump ofrece un inusual discurso frente a la piscina reflectante del Lincoln Memorial en vísperas de las ‘midterms’ | El Gobierno lleva al Tribunal Supremo su pelea por apartar unas 20.000 boletas en California",
-     "id": "3030dadbb346"
-    },
-    {
-     "title": "El diplomático turco Feridun Sinirlioglu entra en la carrera para liderar la ONU",
-     "link": "https://elpais.com/internacional/2026-11-02/el-diplomatico-turco-feridun-sinirlioglu-entra-en-la-carrera-para-liderar-la-onu.html",
-     "source": "El País Internacional",
-     "published": "2026-11-02T19:55:57+00:00",
-     "copete": "El presidente de la Organización para la Seguridad y la Cooperación en Europa ha sido nominado por el Gobierno de Erdogan",
-     "id": "46aa44d0e81c"
-    },
-    {
-     "title": "La receta europea frente a las “incertidumbres” de un mundo hostil",
-     "link": "https://elpais.com/internacional/2026-11-02/la-receta-europea-frente-a-las-incertidumbres-de-un-mundo-hostil.html",
-     "source": "El País Internacional",
-     "published": "2026-11-02T19:35:57+00:00",
-     "copete": "El foro World In Progress (WIP) propone “esperanza” ante las amenazas que se ciernen sobre la UE y aboga por una mayor conexión con América Latina",
-     "id": "22bc6de96438"
-    },
-    {
-     "title": "La democracia en la era del malestar: “La protesta social no violenta es un signo de vitalidad del sistema”",
-     "link": "https://elpais.com/internacional/2026-11-02/la-democracia-en-la-era-del-malestar-la-protesta-social-no-violenta-es-un-signo-de-vitalidad-del-sistema.html",
-     "source": "El País Internacional",
-     "published": "2026-11-02T19:35:39+00:00",
-     "copete": "La expresidenta de la Asamblea General de la ONU, María Fernanda Espinosa, entiende los nuevos movimientos sociales como una “demanda de cambios”",
-     "id": "d0e31e942ddb"
-    },
-    {
-     "title": "Quién era Nathalia Gadelha Filgueiras, la copiloto de 20 años que murió al estrellarse el avión en el que viajaba junto a otras 8 personas en Florida",
-     "link": "https://www.bbc.com/mundo/articles/ck4g1xpx1e81o?at_medium=RSS&at_campaign=rss",
+     "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+     "link": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-02T19:04:56+00:00",
+     "published": "2026-11-03T01:52:36+00:00",
      "copete": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
-     "id": "c6495fed1d11"
+     "id": "56e5024a4c49"
     },
     {
-     "title": "Cómo le está yendo realmente a la economía de EE.UU. bajo la presidencia de Trump",
-     "link": "https://www.bbc.com/mundo/watch/cw33x0zz1pj3o?at_medium=RSS&at_campaign=rss",
+     "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
+     "link": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-02T18:18:32+00:00",
-     "copete": "Donald Trump asegura que la economía del país atraviesa uno de sus mejores momentos.",
-     "id": "752320a1e82d"
+     "published": "2026-11-03T00:38:16+00:00",
+     "copete": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
+     "id": "184886ac126d"
     },
     {
-     "title": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-     "link": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss",
+     "title": "Qué se sabe de la dramática caída de un avión privado en Florida que dejó 9 muertos",
+     "link": "https://www.bbc.com/mundo/articles/ckvg7l4dp0n8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-02T17:58:09+00:00",
-     "copete": "Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata.",
-     "id": "a2c4a88192a7"
+     "published": "2026-11-02T23:39:04+00:00",
+     "copete": "Investigadores de la Junta Nacional de Seguridad en el Transporte de EE.UU. informaron de los primeros indicios en la trágica caída de un jet privado que cobró la vida de todos sus ocupantes.",
+     "id": "be2fc85cd1d5"
     },
     {
-     "title": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
-     "link": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
+     "title": "Al menos 26 muertos por un bombardeo ruso contra una escuela en Ucrania",
+     "link": "https://elpais.com/internacional/2026-11-02/varios-muertos-por-un-bombardeo-ruso-contra-una-escuela-en-ucrania.html",
+     "source": "El País Internacional",
+     "published": "2026-11-02T22:20:10+00:00",
+     "copete": "Zelenski acusa al Kremlin de lanzar una decena de bombas contra un colegio utilizado para distribuir ayuda humanitaria en la región de Zaporiyia",
+     "id": "120eb98bdad4"
+    },
+    {
+     "title": "El futuro ya no es lo que era antes",
+     "link": "https://elpais.com/internacional/2026-11-02/el-futuro-ya-no-es-lo-que-era-antes.html",
+     "source": "El País Internacional",
+     "published": "2026-11-02T22:16:01+00:00",
+     "copete": "El escritor Juan Gabriel Vásquez despide la primera sesión del World in Progress reflexionando sobre los riesgos que afronta la humanidad, como la inteligencia artificial",
+     "id": "73b3b6b8d244"
+    },
+    {
+     "title": "Las 7 elecciones clave que tienes que mirar para saber si los demócratas recuperan el control del Senado en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-02T15:39:51+00:00",
-     "copete": "Según los informes, la temperatura de los congeladores en varias tiendas de toda Europa llegó a alcanzar los 50°C.",
-     "id": "40074b0a064d"
+     "published": "2026-11-02T22:06:33+00:00",
+     "copete": "Todas las miradas están puestas en un puñado de elecciones al Senado que decidirán el control de la codiciada Cámara Alta. Aquí tienes una breve guía.",
+     "id": "7e803ad9e4c8"
+    },
+    {
+     "title": "Así ha sido la primera jornada del World in Progress 2026: del anuncio de Sánchez de ayudas para las víctimas de Urda a la reivindicación de Rebeca Grynspan del papel de la ONU",
+     "link": "https://elpais.com/videos/2026-11-02/asi-ha-sido-la-primera-jornada-del-world-in-progress-2026-del-anuncio-de-sanchez-de-ayudas-para-las-victimas-de-urda-a-la-reivindicacion-de-rebeca-grynspan-del-papel-de-la-onu.html",
+     "source": "El País Internacional",
+     "published": "2026-11-02T21:37:46+00:00",
+     "copete": "José Luis Albares, Josep Borrell y María Fernanda Espinosa se encuentran entre los ponentes del primer día del foro internacional de reflexión y debate organizado por PRISA",
+     "id": "a6d4fe4b9966"
+    },
+    {
+     "title": "Trump despide la campaña con una extraña defensa de su reparación del estanque del monumento a Lincoln",
+     "link": "https://elpais.com/us/2026-11-02/trump-defiende-su-reparacion-del-estanque-del-monumento-a-lincoln-en-un-extrano-acto-de-despedida-de-campana.html",
+     "source": "El País Internacional",
+     "published": "2026-11-02T20:01:03+00:00",
+     "copete": "El presidente de Estados Unidos ignora en víspera de las ‘midterms’ las preocupaciones de los votantes y vuelve sobre su obsesión por dejar huella en Washington",
+     "id": "7f447115dc7b"
     }
    ]
   }
