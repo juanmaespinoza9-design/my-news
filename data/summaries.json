@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-11-04T10:11:15Z",
+  "generated_at": "2026-11-04T22:11:03Z",
   "summaries": {
-    "0fb6dbd3ffc1": {
-      "resumen": "EL PAÍS recorre la calle Thames, en el barrio de Palermo, que se convirtió en un atractivo turístico reconocido internacionalmente."
-    },
-    "6b1f085924f3": {
-      "resumen": "iProfesional reúne propuestas para disfrutar el fin de semana de Halloween en Buenos Aires."
-    },
     "c2061ee3520c": {
       "resumen": "Journal of Clinical Oncology publica un estudio con diseño de \"ensayo diana emulado\" (emulated target trial), que usa datos de la vida real para comparar radioterapia estereotáctica ablativa (SABR) versus cirugía en cáncer de pulmón de células no pequeñas en estadio temprano. Interesa porque aporta evidencia comparativa en un debate donde faltan ensayos aleatorizados grandes.",
       "destacado": false,
@@ -14,35 +8,8 @@
     },
     "80d45c5a1e8d": {
       "resumen": "Journal of Clinical Oncology publica un ensayo clínico aleatorizado controlado que evalúa inmunoquimioterapia (combinación de inmunoterapia y quimioterapia) en cáncer de páncreas limítrofe resecable o localmente avanzado. Interesa porque busca nuevas estrategias neoadyuvantes para una enfermedad de pronóstico históricamente muy desfavorable.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado controlado (randomized controlled trial); el título no especifica cegamiento, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de páncreas limítrofe resecable o localmente avanzado, es decir, tumores no resecables de entrada pero potencialmente candidatos a cirugía tras tratamiento neoadyuvante.\nIntervención: Inmunoquimioterapia (combinación de inmunoterapia con quimioterapia) frente a un comparador no especificado en el título, probablemente quimioterapia sola.\nResultados: No hay cifras de supervivencia global, tasa de resección R0 ni respuesta patológica disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar la tasa de resecabilidad lograda, la toxicidad del esquema ni el tiempo de seguimiento.\nMensaje: Si la inmunoquimioterapia mejora la resecabilidad o la supervivencia, podría sumar una opción neoadyuvante más en una enfermedad con pronóstico históricamente muy desfavorable.\nNota: análisis sin acceso al abstract."
-    },
-    "87953f270d84": {
-      "resumen": "The ASCO Post reporta los resultados de un estudio que evaluó niraparib (un inhibidor de PARP, una enzima involucrada en la reparación del ADN) como tratamiento neoadyuvante —es decir, antes de la cirugía— en cáncer de ovario avanzado con deficiencia de recombinación homóloga (HRD, un defecto en la reparación del ADN que vuelve a los tumores más sensibles a estos fármacos). Interesa porque explora si estos inhibidores pueden anticiparse a la cirugía y no usarse solo como mantenimiento posterior.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de fase temprana; el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario avanzado y tumores con deficiencia de recombinación homóloga (HRD positivo).\nIntervención: Niraparib (inhibidor de PARP) en esquema neoadyuvante, antes de la cirugía de reducción tumoral; no se especifica comparador en el título.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni tasa de cirugía con resección completa disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, el diseño (aleatorizado o de un solo brazo) ni la toxicidad perioperatoria asociada al uso neoadyuvante.\nMensaje: Si se confirma actividad relevante, podría abrir la puerta a usar inhibidores de PARP antes de la cirugía en tumores HRD positivos, ampliando su rol más allá del mantenimiento posquirúrgico habitual.\nNota: análisis sin acceso al abstract."
-    },
-    "3b88ed5ee3bc": {
-      "resumen": "The ASCO Post difunde un ensayo que comparó la radioterapia hipofraccionada (dosis más altas por sesión, en menos sesiones totales) con la radioterapia convencional tras una mastectomía, incluyendo la irradiación de los ganglios mamarios internos, y encontró un control locorregional no inferior. Interesa porque un esquema más corto significa menos visitas, menos costos y mayor comodidad para las pacientes, sin perder eficacia.",
       "destacado": true,
-      "analisis": "Diseño: Ensayo clínico, probablemente aleatorizado y de no inferioridad; el título no especifica cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama sometidas a mastectomía con indicación de radioterapia adyuvante y de irradiación ganglionar mamaria interna.\nIntervención: Radioterapia hipofraccionada (mayor dosis por sesión, menos sesiones) frente a radioterapia convencional (fraccionamiento estándar), ambas incluyendo los ganglios mamarios internos.\nResultados: El título indica no inferioridad en control locorregional; no hay cifras de tasas de recaída, intervalos de confianza ni toxicidad disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la toxicidad cutánea o cardíaca ni el margen de no inferioridad preestablecido.\nMensaje: Si se confirma la no inferioridad con buen perfil de toxicidad, respalda el uso de esquemas hipofraccionados también cuando se irradian los ganglios mamarios internos, acortando el tratamiento sin resignar control de la enfermedad.\nNota: análisis sin acceso al abstract."
-    },
-    "989e39ee474b": {
-      "resumen": "OncLive recopila la mirada de especialistas en cáncer de mama sobre los datos más relevantes presentados en el Congreso Europeo de Oncología Médica (ESMO) 2026, tanto los que ya cambian la práctica clínica como los que todavía generan debate. Sirve como resumen rápido de lo más importante del congreso para quienes no pudieron seguirlo en vivo.",
-      "destacado": false
-    },
-    "449e9b6c0f50": {
-      "resumen": "OncLive difunde los primeros resultados de un estudio de fase 1 con BGB-B2033, un anticuerpo biespecífico que une el glipicano 3 (GPC3, una proteína presente en células de hepatocarcinoma) con el receptor 4-1BB (un estimulador del sistema inmune), en pacientes con carcinoma hepatocelular avanzado. Interesa porque es una de las primeras moléculas de este tipo en explorar la activación inmune dirigida específicamente al tumor hepático.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase 1, en etapas de optimización y escalada de dosis (dose escalation y dose optimization); el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma hepatocelular avanzado.\nIntervención: BGB-B2033, un anticuerpo biespecífico dirigido contra glipicano 3 (GPC3) y 4-1BB, en monoterapia; no se especifica comparador, propio de un estudio de fase 1.\nResultados: No hay cifras de tasa de respuesta, seguridad ni dosis recomendada disponibles en el título.\nLimitaciones: Al ser un estudio de fase 1 temprano, el tamaño muestral es reducido y el objetivo principal es la seguridad y la dosis óptima, no la eficacia; sin el abstract no se puede evaluar el perfil de toxicidad ni la actividad antitumoral preliminar.\nMensaje: Es un estudio exploratorio y temprano; si confirma un perfil de seguridad manejable, podría avanzar a fases posteriores para evaluar eficacia en hepatocarcinoma avanzado, una enfermedad con pocas opciones inmunoterapéuticas dirigidas.\nNota: análisis sin acceso al abstract."
-    },
-    "8cdd9eb37eb6": {
-      "resumen": "OncLive publica un obituario en memoria del oncólogo Mark Edward Dailey. Es una nota de homenaje profesional, sin contenido clínico o científico nuevo para la práctica.",
-      "destacado": false
-    },
-    "5241c7a812f3": {
-      "resumen": "The ASCO Post anuncia un próximo webinar de la Sociedad Estadounidense de Oncología Clínica (ASCO) sobre inteligencia artificial en oncología, centrado en cómo transformar las respuestas impresas de chatbots de IA en mejores conversaciones médico-paciente. Interesa como ejemplo de cómo la especialidad está incorporando la IA generativa a la consulta diaria.",
-      "destacado": false
+      "analisis": "Diseño: Ensayo clínico aleatorizado controlado (randomized controlled trial); el título no especifica cegamiento, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de páncreas limítrofe resecable o localmente avanzado, es decir, tumores no resecables de entrada pero potencialmente candidatos a cirugía tras tratamiento neoadyuvante.\nIntervención: Inmunoquimioterapia (combinación de inmunoterapia con quimioterapia) frente a un comparador no especificado en el título, probablemente quimioterapia sola.\nResultados: No hay cifras de supervivencia global, tasa de resección R0 ni respuesta patológica disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar la tasa de resecabilidad lograda, la toxicidad del esquema ni el tiempo de seguimiento.\nMensaje: Si la inmunoquimioterapia mejora la resecabilidad o la supervivencia, podría sumar una opción neoadyuvante más en una enfermedad con pronóstico históricamente muy desfavorable.\nNota: análisis sin acceso al abstract."
     },
     "db1aa683ce86": {
       "resumen": "Journal of Clinical Oncology publica un editorial que analiza la evidencia comparativa entre radioterapia estereotáctica ablativa (SABR) y cirugía para el cáncer de pulmón de células no pequeñas en estadio I, a propósito de un estudio de \"ensayo diana emulado\" publicado en la misma revista. Interesa porque pone en contexto por qué la práctica clínica avanzó más rápido que la evidencia aleatorizada en este debate.",
@@ -53,47 +20,87 @@
       "destacado": false,
       "analisis": "Diseño: Estudio cooperativo multicéntrico del Children's Oncology Group (COG), de factibilidad y tolerabilidad; el título no especifica aleatorización, cegamiento ni número exacto de pacientes.\nPoblación: Pacientes pediátricos con neuroblastoma de alto riesgo, en la fase de inducción del tratamiento.\nIntervención: Quimioinmunoterapia (quimioterapia combinada con inmunoterapia) durante la inducción; el título no especifica el esquema exacto ni un comparador.\nResultados: No hay cifras de tasa de respuesta, toxicidad ni tasa de finalización del tratamiento disponibles en el título.\nLimitaciones: Al tratarse de un estudio de factibilidad y tolerabilidad, el foco no es la eficacia a largo plazo sino si el esquema puede administrarse de forma segura; sin el abstract no se puede evaluar el tamaño muestral ni los eventos adversos específicos.\nMensaje: Si el esquema resulta factible y tolerable, allana el camino para evaluar su eficacia en neuroblastoma de alto riesgo, un escenario pediátrico donde intensificar la inducción podría mejorar el pronóstico.\nNota: análisis sin acceso al abstract."
     },
-    "0a41d41be375": {
-      "resumen": "La periodista Inés García combinó vaqueros anchos con una bufanda con capucha, una prenda que se impone como tendencia para este invierno, durante una jornada lluviosa en el Camp Nou."
-    },
-    "0a5c2281dcf7": {
-      "resumen": "Cosmopolitan repasa los modelos de botas, bailarinas y mocasines que se consolidan como el calzado de tendencia para este otoño 2026."
-    },
-    "40c5f26818f8": {
-      "resumen": "Según especialistas en moda consultadas por Telva, hay un abrigo puntual que favorece el rostro y que, además, se perfila como tendencia para 2027."
-    },
-    "bf0d3b627127": {
-      "resumen": "Harper's Bazaar destaca la nueva colección de Zara con chaquetas, vestidos, pantalones y bufandas a cuadros que se perfilan como la gran tendencia de este otoño."
-    },
-    "b2ca620968be": {
-      "resumen": "Vogue México cuenta cómo dos diseñadores venezolanos se destacaron en la Semana de la Moda de Miami."
-    },
-    "a7a7ab6ad94e": {
-      "resumen": "Vogue México selecciona los zapatos de tacón negros más elegantes para combinar con faldas en la oficina durante este otoño 2026."
-    },
-    "c2a6084a73b0": {
-      "resumen": "El New York Times propone un itinerario de 36 horas en Buenos Aires con lugares y consejos para recorrer la ciudad."
-    },
-    "50d801324288": {
-      "resumen": "El Observador Argentina adelanta los estrenos teatrales más esperados para la temporada 2027 en Buenos Aires."
-    },
     "9e438847d1eb": {
       "resumen": "Página|12 reúne una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
-    },
-    "5171677b0e19": {
-      "resumen": "La localidad de Lobería albergará un encuentro regional de teatro independiente de la provincia de Buenos Aires."
-    },
-    "e315fd366445": {
-      "resumen": "El New York Times seleccionó ocho bares, restaurantes y cafés porteños, destacando su encanto nostálgico."
     },
     "adaa5de86f8c": {
       "resumen": "Crónica propone seis actividades gratuitas para disfrutar de Halloween este fin de semana en Buenos Aires."
     },
-    "37bdbe08eaea": {
-      "resumen": "Perfil reúne una agenda con propuestas de Halloween, música, gastronomía y ferias para este fin de semana en la Ciudad de Buenos Aires."
+    "56097636ecb5": {
+      "resumen": "OncLive reúne a especialistas para discutir cómo definir la resecabilidad límite (borderline resectability) en el cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) en estadio temprano, y cómo elegir entre inmunoterapia neoadyuvante, perioperatoria o terapia dirigida según el perfil molecular del tumor. Vale la pena porque resume el estado del arte en una decisión clínica cada vez más compleja, sin presentar un estudio nuevo.",
+      "destacado": false
     },
-    "f0e801922fd9": {
-      "resumen": "Radio del Plata reúne más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine y muestras inmersivas gratuitas."
+    "380246dc92e4": {
+      "resumen": "El lirafugratinib, un inhibidor del receptor 2 del factor de crecimiento fibroblástico (FGFR2), fue incorporado a las guías de la National Comprehensive Cancer Network (NCCN) para el colangiocarcinoma (CCA) con reordenamiento de FGFR2 ya tratado previamente. Importa porque ensancha el menú de terapias dirigidas disponibles para un subgrupo molecular específico de este tumor biliar poco frecuente.",
+      "destacado": false
+    },
+    "8d1369d448ae": {
+      "resumen": "El Perlmutter Cancer Center (NYU Langone) designó a su nuevo director de Desarrollo de Fármacos en Fases Tempranas y de Programas de Cánceres Raros. Es una noticia institucional que marca hacia dónde orienta sus prioridades de investigación uno de los centros oncológicos académicos de referencia en Estados Unidos.",
+      "destacado": false
+    },
+    "46796f663e6f": {
+      "resumen": "La Facultad de Medicina de Wake Forest nombró a su primer jefe del Departamento de Medicina Oncológica. Es un movimiento institucional que refleja el peso creciente que las universidades estadounidenses le dan a la oncología como departamento propio dentro de sus escuelas de medicina.",
+      "destacado": false
+    },
+    "4beecc37f34f": {
+      "resumen": "The ASCO Post reporta datos preliminares de un anticuerpo biespecífico conjugado a un fármaco citotóxico (ADC biespecífico) como posible nueva opción terapéutica para el cáncer de mama con receptor hormonal positivo y receptor 2 del factor de crecimiento epidérmico humano (HER2) negativo. Interesa porque esta clase de fármacos busca mejorar la selectividad tumoral combinando dos blancos moleculares en un mismo anticuerpo.",
+      "destacado": false,
+      "analisis": "Diseño: El título no especifica si se trata de un ensayo clínico en fase temprana, su aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama con receptor hormonal positivo y HER2 negativo, el subtipo más frecuente de este tumor.\nIntervención: Un anticuerpo biespecífico conjugado a quimioterapia (ADC biespecífico); el título no detalla el comparador ni la línea de tratamiento.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni perfil de toxicidad disponibles en el título.\nLimitaciones: Sin el abstract no se puede valorar el tamaño muestral, la madurez del seguimiento ni la magnitud real del beneficio reportado.\nMensaje: Si los datos preliminares se confirman, esta clase de fármacos podría sumar una alternativa terapéutica en un subtipo de cáncer de mama donde ya hay opciones consolidadas pero persisten necesidades tras la progresión.\nNota: análisis sin acceso al abstract."
+    },
+    "53c2c5097330": {
+      "resumen": "OncLive repasa las terapias emergentes y los avances en cuidados de soporte para el mieloma múltiple en recaída o refractario al tratamiento. Es una puesta al día útil sobre un campo que avanza muy rápido, aunque no presenta los resultados de un estudio puntual.",
+      "destacado": false
+    },
+    "997eed4e6b20": {
+      "resumen": "Lancet Oncology publica una revisión sistemática y un estudio de modelización que estima los costos globales de tratamiento de 31 tipos de cáncer según el estadio, el año y el período de seguimiento. Aporta una mirada económica poco frecuente, clave para pensar la sustentabilidad de los sistemas de salud frente al aumento de la carga oncológica.",
+      "destacado": false,
+      "analisis": "Diseño: Revisión sistemática de la literatura combinada con un estudio de modelización económica; el título no especifica el número de fuentes incluidas ni el método estadístico del modelo.\nPoblación: No son pacientes individuales sino datos agregados de 31 tipos de cáncer, estratificados por estadio al diagnóstico, año y período de seguimiento posterior.\nIntervención: No aplica en sentido terapéutico; se trata de estimar costos de tratamiento, no de comparar intervenciones clínicas.\nResultados: El título no incluye las cifras de costo estimadas ni su desglose por tipo tumoral o región.\nLimitaciones: Los modelos de costos dependen fuertemente de los supuestos y de la calidad de los datos de origen, que suelen ser heterogéneos entre países; sin el abstract no se puede evaluar qué fuentes ni qué perspectiva de costos (del sistema de salud o del paciente) se usó.\nMensaje: Este tipo de estimaciones ayuda a dimensionar la carga económica del cáncer a nivel global y puede orientar decisiones de priorización en políticas de salud, aunque no cambia directamente la práctica clínica individual.\nNota: análisis sin acceso al abstract."
+    },
+    "fc57de2a028f": {
+      "resumen": "Lancet Oncology publica una guía de consenso basada en evidencia, elaborada por la International Collaborating Oncology Organisations, sobre el manejo con intención curativa del carcinoma de nasofaringe metastásico de novo (es decir, diagnosticado ya con metástasis desde el inicio). Interesa porque este escenario, antes considerado solo paliativo, empieza a tener opciones de tratamiento con intención curativa.",
+      "destacado": false
+    },
+    "7a2a355b23e4": {
+      "resumen": "Parfois presenta su colección de Otoño/Invierno 2026 con la línea THE PAPERBOY, apostando a una estética elegante para el día a día."
+    },
+    "55dcea8502fd": {
+      "resumen": "La marca indonesia Time Phoria desembarca en México con sus productos de belleza más virales en redes."
+    },
+    "f86afc65b207": {
+      "resumen": "Vogue México acompañó a la actriz Ilse Salas en una jornada de co-creación organizada por Golden Goose junto a Disney."
+    },
+    "58d21405bfd0": {
+      "resumen": "Guía de looks en denim y pantalones cargo para ir a ver a Reykon en sus shows en Bogotá."
+    },
+    "3b05412d152a": {
+      "resumen": "Pinterest asegura que sus pronósticos de tendencias aciertan en más del 80% de los casos y cuenta cómo los elabora."
+    },
+    "0d5fc1f7ba4b": {
+      "resumen": "Vuelve Alcorta Edition, el encuentro de moda, lifestyle y tendencias que se hace en Alcorta Shopping."
+    },
+    "636dee049aa7": {
+      "resumen": "A 69 años de los shows de Louis Armstrong en Buenos Aires, sus temas vuelven a sonar a la luz de las velas en San Telmo."
+    },
+    "9b6989e85185": {
+      "resumen": "La Noche de los Museos incluye al Teatro Colón, que abrirá sus puertas gratis hasta la madrugada."
+    },
+    "f2e1c2029966": {
+      "resumen": "El cantante urbano J Álvarez llega a Buenos Aires con su gira \"Luxury Tour\" para reencontrarse con sus fans argentinos."
+    },
+    "6db065c8844f": {
+      "resumen": "La banda NSQK se presenta en Buenos Aires y estrenará en vivo su tema \"Mosca\"."
+    },
+    "200b7dab1c14": {
+      "resumen": "Durante el fin de semana largo se espera una tormenta de barro que afectará los parques porteños; precisan el horario."
+    },
+    "c3f29be30340": {
+      "resumen": "El New York Times recomendó ocho bares, restaurantes y cafés de Buenos Aires y destacó su encanto nostálgico."
+    },
+    "0f90eb914faa": {
+      "resumen": "Veintidós propuestas para el fin de semana largo del 5 al 8 de noviembre en Buenos Aires: ferias, recitales y experiencias."
+    },
+    "d48b99cd16c7": {
+      "resumen": "Agenda de actividades para esta semana y el fin de semana en Buenos Aires."
     }
   }
 }
