@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-03T22:09:18Z",
+  "generated_at": "2026-11-04T10:11:15Z",
   "summaries": {
-    "cb2ac79f30ee": {
-      "resumen": "Journal of Clinical Oncology publica una revisión sobre cómo evolucionó la evidencia para indicar quimioterapia guiada por test genómicos (como los usados en los ensayos TAILORx y OPTIMA) en cáncer de mama con receptores hormonales positivos y receptor 2 del factor de crecimiento epidérmico humano (HER2) negativo. Interesa porque resume por qué, en este subtipo, cada vez menos pacientes necesitan quimioterapia además del tratamiento hormonal.",
-      "destacado": false
-    },
-    "e4c39e037035": {
-      "resumen": "Journal of Clinical Oncology publica un ensayo clínico aleatorizado que evalúa el metilfenidato (un estimulante del sistema nervioso central) para tratar la fatiga asociada al cáncer hematológico. Interesa porque la fatiga es uno de los síntomas más limitantes para estos pacientes y hoy hay pocas opciones farmacológicas con evidencia sólida.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (randomized clinical trial); el título no especifica el cegamiento, la cantidad de centros ni el número de pacientes incluidos.\nPoblación: Pacientes con cáncer hematológico que presentan fatiga relacionada con la enfermedad o su tratamiento.\nIntervención: Metilfenidato (estimulante del sistema nervioso central) frente a un comparador no especificado en el título, posiblemente placebo.\nResultados: No hay cifras de eficacia (por ejemplo, variación en escalas de fatiga) disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la duración del seguimiento ni los efectos adversos reportados.\nMensaje: Si los resultados son positivos, podría sumar una herramienta farmacológica más para el manejo de la fatiga oncológica en cánceres hematológicos, un síntoma hoy subtratado.\nNota: análisis sin acceso al abstract."
-    },
     "0fb6dbd3ffc1": {
       "resumen": "EL PAÍS recorre la calle Thames, en el barrio de Palermo, que se convirtió en un atractivo turístico reconocido internacionalmente."
     },
@@ -26,13 +17,6 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado controlado (randomized controlled trial); el título no especifica cegamiento, número de centros ni de pacientes incluidos.\nPoblación: Pacientes con cáncer de páncreas limítrofe resecable o localmente avanzado, es decir, tumores no resecables de entrada pero potencialmente candidatos a cirugía tras tratamiento neoadyuvante.\nIntervención: Inmunoquimioterapia (combinación de inmunoterapia con quimioterapia) frente a un comparador no especificado en el título, probablemente quimioterapia sola.\nResultados: No hay cifras de supervivencia global, tasa de resección R0 ni respuesta patológica disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar la tasa de resecabilidad lograda, la toxicidad del esquema ni el tiempo de seguimiento.\nMensaje: Si la inmunoquimioterapia mejora la resecabilidad o la supervivencia, podría sumar una opción neoadyuvante más en una enfermedad con pronóstico históricamente muy desfavorable.\nNota: análisis sin acceso al abstract."
     },
-    "9c5c5f334e3a": {
-      "resumen": "Una recorrida por restaurantes porteños donde la buena cocina se combina con un ambiente cuidado, según Revista OHLALÁ!."
-    },
-    "9a0f9da1a4a2": {
-      "resumen": "OncLive reúne el análisis de especialistas sobre cómo las comutaciones de TP53 (un gen supresor tumoral), la toxicidad a largo plazo de los tratamientos y el acceso a sunvozertinib (un inhibidor oral de nueva generación dirigido a mutaciones del receptor del factor de crecimiento epidérmico, EGFR) condicionan las decisiones de tratamiento en cáncer de pulmón de células no pequeñas (CPCNP) con EGFR mutado. Interesa porque resume el estado actual de un escenario terapéutico cada vez más complejo y secuencial.",
-      "destacado": false
-    },
     "87953f270d84": {
       "resumen": "The ASCO Post reporta los resultados de un estudio que evaluó niraparib (un inhibidor de PARP, una enzima involucrada en la reparación del ADN) como tratamiento neoadyuvante —es decir, antes de la cirugía— en cáncer de ovario avanzado con deficiencia de recombinación homóloga (HRD, un defecto en la reparación del ADN que vuelve a los tumores más sensibles a estos fármacos). Interesa porque explora si estos inhibidores pueden anticiparse a la cirugía y no usarse solo como mantenimiento posterior.",
       "destacado": false,
@@ -43,56 +27,73 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico, probablemente aleatorizado y de no inferioridad; el título no especifica cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama sometidas a mastectomía con indicación de radioterapia adyuvante y de irradiación ganglionar mamaria interna.\nIntervención: Radioterapia hipofraccionada (mayor dosis por sesión, menos sesiones) frente a radioterapia convencional (fraccionamiento estándar), ambas incluyendo los ganglios mamarios internos.\nResultados: El título indica no inferioridad en control locorregional; no hay cifras de tasas de recaída, intervalos de confianza ni toxicidad disponibles en el título.\nLimitaciones: Sin el abstract no se puede evaluar el tiempo de seguimiento, la toxicidad cutánea o cardíaca ni el margen de no inferioridad preestablecido.\nMensaje: Si se confirma la no inferioridad con buen perfil de toxicidad, respalda el uso de esquemas hipofraccionados también cuando se irradian los ganglios mamarios internos, acortando el tratamiento sin resignar control de la enfermedad.\nNota: análisis sin acceso al abstract."
     },
-    "8b51fc336a40": {
-      "resumen": "OncLive repasa con especialistas cómo elegir el tratamiento y qué estudios de biomarcadores (pruebas moleculares que ayudan a definir la mejor terapia) conviene pedir cuando un tumor se vuelve resistente al platino, un grupo de quimioterápicos clave en varios cánceres ginecológicos. Interesa porque ordena un escenario clínico frecuente y con opciones cada vez más numerosas.",
+    "989e39ee474b": {
+      "resumen": "OncLive recopila la mirada de especialistas en cáncer de mama sobre los datos más relevantes presentados en el Congreso Europeo de Oncología Médica (ESMO) 2026, tanto los que ya cambian la práctica clínica como los que todavía generan debate. Sirve como resumen rápido de lo más importante del congreso para quienes no pudieron seguirlo en vivo.",
       "destacado": false
     },
-    "09116cdd4b40": {
-      "resumen": "OncLive presenta una mirada general sobre hacia dónde avanza la oncología, con foco en la detección temprana del cáncer y en la biología traslacional (la investigación que conecta los hallazgos de laboratorio con la práctica clínica). Interesa como panorama de las líneas que podrían marcar la agenda de los próximos años.",
+    "449e9b6c0f50": {
+      "resumen": "OncLive difunde los primeros resultados de un estudio de fase 1 con BGB-B2033, un anticuerpo biespecífico que une el glipicano 3 (GPC3, una proteína presente en células de hepatocarcinoma) con el receptor 4-1BB (un estimulador del sistema inmune), en pacientes con carcinoma hepatocelular avanzado. Interesa porque es una de las primeras moléculas de este tipo en explorar la activación inmune dirigida específicamente al tumor hepático.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase 1, en etapas de optimización y escalada de dosis (dose escalation y dose optimization); el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma hepatocelular avanzado.\nIntervención: BGB-B2033, un anticuerpo biespecífico dirigido contra glipicano 3 (GPC3) y 4-1BB, en monoterapia; no se especifica comparador, propio de un estudio de fase 1.\nResultados: No hay cifras de tasa de respuesta, seguridad ni dosis recomendada disponibles en el título.\nLimitaciones: Al ser un estudio de fase 1 temprano, el tamaño muestral es reducido y el objetivo principal es la seguridad y la dosis óptima, no la eficacia; sin el abstract no se puede evaluar el perfil de toxicidad ni la actividad antitumoral preliminar.\nMensaje: Es un estudio exploratorio y temprano; si confirma un perfil de seguridad manejable, podría avanzar a fases posteriores para evaluar eficacia en hepatocarcinoma avanzado, una enfermedad con pocas opciones inmunoterapéuticas dirigidas.\nNota: análisis sin acceso al abstract."
+    },
+    "8cdd9eb37eb6": {
+      "resumen": "OncLive publica un obituario en memoria del oncólogo Mark Edward Dailey. Es una nota de homenaje profesional, sin contenido clínico o científico nuevo para la práctica.",
       "destacado": false
     },
-    "0caf5fa85a54": {
-      "resumen": "The ASCO Post anuncia un próximo club de lectura del Colegio Americano de Cardiología (ACC, por su sigla en inglés) dedicado al riesgo cardiovascular asociado a las terapias dirigidas contra HER2 (receptor 2 del factor de crecimiento epidérmico humano), usadas en cáncer de mama y otros tumores HER2 positivos. Interesa porque la cardiotoxicidad es un punto clave a vigilar en estos tratamientos.",
+    "5241c7a812f3": {
+      "resumen": "The ASCO Post anuncia un próximo webinar de la Sociedad Estadounidense de Oncología Clínica (ASCO) sobre inteligencia artificial en oncología, centrado en cómo transformar las respuestas impresas de chatbots de IA en mejores conversaciones médico-paciente. Interesa como ejemplo de cómo la especialidad está incorporando la IA generativa a la consulta diaria.",
       "destacado": false
     },
-    "6c91dd7e7b69": {
-      "resumen": "Vogue México repasa el regreso del jean cigarette combinado con botines, un look noventoso inspirado en Cindy Crawford y Kate Moss que vuelve con fuerza este otoño."
+    "db1aa683ce86": {
+      "resumen": "Journal of Clinical Oncology publica un editorial que analiza la evidencia comparativa entre radioterapia estereotáctica ablativa (SABR) y cirugía para el cáncer de pulmón de células no pequeñas en estadio I, a propósito de un estudio de \"ensayo diana emulado\" publicado en la misma revista. Interesa porque pone en contexto por qué la práctica clínica avanzó más rápido que la evidencia aleatorizada en este debate.",
+      "destacado": false
     },
-    "654ce155687a": {
-      "resumen": "Elle Argentina adelanta los cinco accesorios que, según sus editores, van a marcar tendencia en 2027."
+    "25726cf89cd9": {
+      "resumen": "Journal of Clinical Oncology publica un reporte del Grupo de Oncología Infantil (Children's Oncology Group, COG) que evalúa la factibilidad y la tolerabilidad de agregar inmunoterapia a la quimioterapia durante la inducción en neuroblastoma de alto riesgo, uno de los tumores sólidos pediátricos más agresivos. Interesa porque intensificar el tratamiento desde el inicio podría mejorar los resultados en una enfermedad con pronóstico históricamente complicado.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio cooperativo multicéntrico del Children's Oncology Group (COG), de factibilidad y tolerabilidad; el título no especifica aleatorización, cegamiento ni número exacto de pacientes.\nPoblación: Pacientes pediátricos con neuroblastoma de alto riesgo, en la fase de inducción del tratamiento.\nIntervención: Quimioinmunoterapia (quimioterapia combinada con inmunoterapia) durante la inducción; el título no especifica el esquema exacto ni un comparador.\nResultados: No hay cifras de tasa de respuesta, toxicidad ni tasa de finalización del tratamiento disponibles en el título.\nLimitaciones: Al tratarse de un estudio de factibilidad y tolerabilidad, el foco no es la eficacia a largo plazo sino si el esquema puede administrarse de forma segura; sin el abstract no se puede evaluar el tamaño muestral ni los eventos adversos específicos.\nMensaje: Si el esquema resulta factible y tolerable, allana el camino para evaluar su eficacia en neuroblastoma de alto riesgo, un escenario pediátrico donde intensificar la inducción podría mejorar el pronóstico.\nNota: análisis sin acceso al abstract."
     },
-    "69ff0a44094e": {
-      "resumen": "Vogue México selecciona los jeans negros ideales para combinar con botas, la apuesta de moda para noviembre."
+    "0a41d41be375": {
+      "resumen": "La periodista Inés García combinó vaqueros anchos con una bufanda con capucha, una prenda que se impone como tendencia para este invierno, durante una jornada lluviosa en el Camp Nou."
     },
-    "a1520f84df85": {
-      "resumen": "Vogue México destaca el regreso de los zapatos de plataforma estilo años 70, para combinar con jeans, faldas y pantalones este noviembre."
+    "0a5c2281dcf7": {
+      "resumen": "Cosmopolitan repasa los modelos de botas, bailarinas y mocasines que se consolidan como el calzado de tendencia para este otoño 2026."
     },
-    "e360071b83fd": {
-      "resumen": "Ciudad Magazine anuncia una propuesta con moda, tendencias y actividades gratuitas que llega a Buenos Aires durante noviembre."
+    "40c5f26818f8": {
+      "resumen": "Según especialistas en moda consultadas por Telva, hay un abrigo puntual que favorece el rostro y que, además, se perfila como tendencia para 2027."
     },
-    "809b9063a2a1": {
-      "resumen": "La experta en moda Laura Ayén analiza para InStyle lo mejor y lo peor de la colección de otoño de Zara, con consejos sobre qué prendas evitar por su corta vida útil en el placard."
+    "bf0d3b627127": {
+      "resumen": "Harper's Bazaar destaca la nueva colección de Zara con chaquetas, vestidos, pantalones y bufandas a cuadros que se perfilan como la gran tendencia de este otoño."
     },
-    "4d4dc11bdd37": {
-      "resumen": "El guitarrista flamenco Yerai Cortés se presenta en Argentina por primera vez."
+    "b2ca620968be": {
+      "resumen": "Vogue México cuenta cómo dos diseñadores venezolanos se destacaron en la Semana de la Moda de Miami."
     },
-    "5095caf15473": {
-      "resumen": "Indie Hoy recomienda cinco obras de teatro para ver en Buenos Aires durante noviembre."
+    "a7a7ab6ad94e": {
+      "resumen": "Vogue México selecciona los zapatos de tacón negros más elegantes para combinar con faldas en la oficina durante este otoño 2026."
     },
-    "d2a3ff603e48": {
-      "resumen": "El guitarrista Yerai Cortés presenta en vivo en Buenos Aires su disco \"Popular\"."
+    "c2a6084a73b0": {
+      "resumen": "El New York Times propone un itinerario de 36 horas en Buenos Aires con lugares y consejos para recorrer la ciudad."
     },
-    "5febeadb46d8": {
-      "resumen": "La ópera escenificada \"Theodora\" inició su gira internacional en Buenos Aires y ahora continúa camino al Teatro Segura."
+    "50d801324288": {
+      "resumen": "El Observador Argentina adelanta los estrenos teatrales más esperados para la temporada 2027 en Buenos Aires."
     },
-    "c3f29be30340": {
+    "9e438847d1eb": {
+      "resumen": "Página|12 reúne una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "5171677b0e19": {
+      "resumen": "La localidad de Lobería albergará un encuentro regional de teatro independiente de la provincia de Buenos Aires."
+    },
+    "e315fd366445": {
       "resumen": "El New York Times seleccionó ocho bares, restaurantes y cafés porteños, destacando su encanto nostálgico."
     },
-    "d48b99cd16c7": {
-      "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
+    "adaa5de86f8c": {
+      "resumen": "Crónica propone seis actividades gratuitas para disfrutar de Halloween este fin de semana en Buenos Aires."
     },
-    "4d16fb3d868a": {
-      "resumen": "Canal26 informa que el fin de semana en Buenos Aires tendrá máximas de hasta 26 grados, con lluvias en dos franjas horarias puntuales."
+    "37bdbe08eaea": {
+      "resumen": "Perfil reúne una agenda con propuestas de Halloween, música, gastronomía y ferias para este fin de semana en la Ciudad de Buenos Aires."
+    },
+    "f0e801922fd9": {
+      "resumen": "Radio del Plata reúne más de 60 planes para el fin de semana en Buenos Aires, entre recitales, teatro, cine y muestras inmersivas gratuitas."
     }
   }
 }
