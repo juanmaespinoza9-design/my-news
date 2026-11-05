@@ -1,83 +1,113 @@
 {
- "generated_at": "2026-11-05T10:11:16Z",
+ "generated_at": "2026-11-05T22:13:04Z",
  "summaries": {
-  "9e438847d1eb": {
-   "resumen": "Página|12 reúne una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
-  },
-  "8d1369d448ae": {
-   "resumen": "El Perlmutter Cancer Center (NYU Langone) designó a su nuevo director de Desarrollo de Fármacos en Fases Tempranas y de Programas de Cánceres Raros. Es una noticia institucional que marca hacia dónde orienta sus prioridades de investigación uno de los centros oncológicos académicos de referencia en Estados Unidos.",
-   "destacado": false
-  },
-  "636dee049aa7": {
-   "resumen": "A 69 años de los shows de Louis Armstrong en Buenos Aires, sus temas vuelven a sonar a la luz de las velas en San Telmo."
-  },
-  "6db065c8844f": {
-   "resumen": "La banda NSQK se presenta en Buenos Aires y estrenará en vivo su tema \"Mosca\"."
-  },
-  "200b7dab1c14": {
-   "resumen": "Durante el fin de semana largo se espera una tormenta de barro que afectará los parques porteños; precisan el horario."
-  },
-  "c3f29be30340": {
-   "resumen": "El New York Times recomendó ocho bares, restaurantes y cafés de Buenos Aires y destacó su encanto nostálgico."
-  },
-  "d48b99cd16c7": {
-   "resumen": "Agenda de actividades para esta semana y el fin de semana en Buenos Aires."
-  },
-  "512a0743c6b6": {
-   "resumen": "OncLive repasa los datos más destacados en cáncer de pulmón presentados en el Congreso de la Sociedad Europea de Oncología Médica (ESMO) 2026, con foco en terapias dirigidas contra DLL3 (ligando delta-like 3, un blanco típico del cáncer de pulmón de células pequeñas) y en inhibidores de KRAS (una proteína frecuentemente mutada en el cáncer de pulmón de células no pequeñas). Vale la pena mirarlo porque resume el estado del arte en dos de las líneas de investigación más activas en oncología torácica.",
-   "destacado": false
-  },
-  "1cf80d9346a8": {
-   "resumen": "La doctora Ivonne Garrido-Laguna comenta en OncLive los datos de eficacia y seguridad de combinaciones basadas en QTX3034, un inhibidor de la mutación KRAS G12D, en cáncer colorrectal (CRC) metastásico con esa alteración. Interesa porque las mutaciones KRAS G12D son difíciles de tratar y hasta hace poco no contaban con terapias dirigidas específicas.",
+  "2b9cf2c13001": {
+   "resumen": "The ASCO Post repasa los datos del ensayo PACE, que compara la radioterapia corporal estereotáctica (SBRT, por \"stereotactic body radiotherapy\") con la cirugía para el cáncer de próstata localizado. Interesa porque enfrenta dos abordajes curativos con perfiles de toxicidad y recuperación muy distintos.",
    "destacado": false,
-   "analisis": "Diseño: Entrevista/comentario de especialista sobre datos de un ensayo clínico temprano (probablemente fase I/II) con QTX3034; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer colorrectal (CRC) metastásico portador de la mutación KRAS G12D, en general con tratamiento previo.\nIntervención: Combinaciones basadas en QTX3034 (inhibidor de KRAS G12D); el título no especifica el fármaco acompañante ni el comparador.\nResultados: No hay cifras de tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza disponibles en el título.\nLimitaciones: Al tratarse de un comentario de experto y no del artículo original, no se puede evaluar el tamaño muestral, la madurez del seguimiento ni la toxicidad del esquema.\nMensaje: Si se confirma la eficacia, ampliaría las opciones terapéuticas dirigidas para un subgrupo de cáncer colorrectal con mutación KRAS G12D, históricamente de difícil abordaje molecular.\nNota: análisis sin acceso al abstract."
+   "analisis": "Diseño: Nota de The ASCO Post sobre el ensayo PACE (estudio clínico que compara radioterapia corporal estereotáctica, SBRT, con cirugía); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata localizado candidatos a tratamiento curativo.\nIntervención: Radioterapia corporal estereotáctica (SBRT) frente a cirugía (prostatectomía radical).\nResultados: No hay cifras de control oncológico, toxicidad ni calidad de vida disponibles en el título.\nLimitaciones: Al tratarse de una nota periodística y no del artículo original, no se puede evaluar el diseño estadístico ni la madurez del seguimiento.\nMensaje: Suma evidencia al debate sobre si la SBRT puede igualar los resultados oncológicos de la cirugía con menor morbilidad, reforzando su rol como alternativa validada en cáncer de próstata localizado.\nNota: análisis sin acceso al abstract."
   },
-  "2a9b03e5789b": {
-   "resumen": "El Basser Center for BRCA, de la Universidad de Pensilvania, otorgó su Global Prize 2026, un reconocimiento internacional a la investigación sobre los genes BRCA1 y BRCA2 (asociados a mayor riesgo hereditario de cáncer de mama y ovario, entre otros). Vale la pena mirarlo porque marca qué líneas de investigación en cáncer hereditario se están priorizando a nivel global.",
-   "destacado": false
-  },
-  "1717bfe0e7f3": {
-   "resumen": "Un estudio presentado en OncLive muestra que la combinación de rocbrutinib (un inhibidor de la tirosina quinasa de Bruton, o BTK) con el esquema R-CHOP (rituximab, ciclofosfamida, doxorrubicina, vincristina y prednisona) logró respuestas en pacientes con linfomas de células B no tratados previamente. Interesa porque sumar un inhibidor de BTK al esquema estándar podría mejorar los resultados en primera línea.",
-   "destacado": false,
-   "analisis": "Diseño: Datos de un ensayo clínico temprano (probablemente fase I/II), con rocbrutinib combinado al esquema estándar R-CHOP; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con linfomas de células B previamente no tratados (primera línea).\nIntervención: Rocbrutinib (inhibidor de BTK) sumado a R-CHOP (rituximab, ciclofosfamida, doxorrubicina, vincristina, prednisona).\nResultados: El título menciona \"respuestas\" pero no hay tasa de respuesta global, supervivencia libre de progresión ni intervalos de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad asociada (los inhibidores de BTK pueden sumar efectos adversos hematológicos y cardiovasculares) ni la madurez del seguimiento.\nMensaje: Si los datos se confirman en estudios más grandes, podría surgir una nueva combinación de primera línea para linfomas de células B, aunque todavía en etapa exploratoria.\nNota: análisis sin acceso al abstract."
-  },
-  "5f937d08881c": {
-   "resumen": "Un estudio reporta que agregar pembrolizumab (un anticuerpo inhibidor de PD-1, una proteína de freno del sistema inmune) al tratamiento de primera línea mejora la supervivencia libre de progresión en cáncer de endometrio avanzado con deficiencia en la reparación de errores de apareamiento del ADN (dMMR). Interesa porque el subgrupo dMMR es el que más se beneficia de la inmunoterapia en este tumor.",
+  "81f0ccd0484f": {
+   "resumen": "El ensayo HERON-Lung01 evaluó un anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") dirigido contra HER3 en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico). Según The ASCO Post, el fármaco prolongó la supervivencia libre de progresión. Vale la pena mirarlo porque HER3 es un blanco terapéutico emergente para pacientes que progresan a los inhibidores de EGFR.",
    "destacado": true,
-   "analisis": "Diseño: Ensayo clínico de primera línea (el título sugiere un ensayo aleatorizado, probablemente de fase III); no se especifica cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de endometrio avanzado con deficiencia en la reparación de errores de apareamiento del ADN (dMMR), que reciben tratamiento de primera línea.\nIntervención: Pembrolizumab (inhibidor de PD-1) agregado al tratamiento estándar de primera línea (habitualmente quimioterapia con carboplatino y paclitaxel), frente a un comparador no especificado en el título.\nResultados: El título reporta mejoría en la supervivencia libre de progresión, pero no da cifras de hazard ratio, intervalos de confianza ni mediana de seguimiento.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad inmunomediada ni si hubo impacto en la supervivencia global.\nMensaje: Refuerza el rol de la inmunoterapia en primera línea para el subgrupo dMMR de cáncer de endometrio avanzado, consistente con la tendencia ya establecida en este biomarcador.\nNota: análisis sin acceso al abstract."
+   "analisis": "Diseño: Ensayo clínico (el nombre HERON-Lung01 sugiere un estudio prospectivo, probablemente de fase II o III); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado con mutación de EGFR, presumiblemente progresados a inhibidores de EGFR previos.\nIntervención: Anticuerpo conjugado a droga (ADC) dirigido contra HER3; el título no especifica el comparador.\nResultados: El título indica una prolongación de la supervivencia libre de progresión, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad propia de los ADC (frecuentes efectos hematológicos y pulmonares en esta clase de fármacos) ni el impacto en supervivencia global.\nMensaje: Si se confirma, posicionaría a los ADC anti-HER3 como una opción relevante tras la progresión a inhibidores de EGFR en NSCLC, un escenario con necesidades terapéuticas no cubiertas.\nNota: análisis sin acceso al abstract."
   },
-  "49d4f7cb2226": {
-   "resumen": "HOLA repasa siete modelos de jean que se impondrán como tendencia para vestir bien este noviembre."
+  "9b82ed027237": {
+   "resumen": "OncLive publica una reflexión sobre la necesidad de reconocer la relevancia crítica de los cuidados paliativos y de soporte en oncología. Interesa porque pone en agenda un área históricamente subvalorada pese a su impacto en la calidad de vida y, en algunos casos, en la supervivencia.",
+   "destacado": false
   },
-  "4b7e640527e1": {
-   "resumen": "H&M presenta su colección Holiday 2026, inspirada en el glamour parisino de la era del jazz."
+  "cadf5979ff18": {
+   "resumen": "Datos de la vida real muestran la eficacia del lutecio Lu 177 vipivotide tetraxetán (un radiofármaco dirigido contra el antígeno prostático específico de membrana, PSMA) en cáncer de próstata metastásico resistente a la castración (mCRPC). Vale la pena mirarlo porque confirma, fuera de los ensayos clínicos, los resultados que llevaron a su aprobación.",
+   "destacado": false,
+   "analisis": "Diseño: Estudio de datos de vida real (probablemente una cohorte retrospectiva o un registro); el título no precisa número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC) tratados en la práctica clínica habitual.\nIntervención: Lutecio Lu 177 vipivotide tetraxetán, un radioligando dirigido contra el antígeno prostático específico de membrana (PSMA).\nResultados: El título menciona \"eficacia en la vida real\" pero no da cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta.\nLimitaciones: Los estudios de vida real suelen tener seguimiento heterogéneo, menor control de sesgos que un ensayo aleatorizado y datos de toxicidad menos sistematizados.\nMensaje: Refuerza, fuera del contexto controlado de los ensayos pivotales (como VISION), que este radiofármaco mantiene su beneficio en la práctica clínica habitual.\nNota: análisis sin acceso al abstract."
+  },
+  "f2a51471120b": {
+   "resumen": "OncLive presenta a Stefanie Sigmund, enfermera de práctica avanzada (APRN, por \"advanced practice registered nurse\"), que comparte su experiencia en el cuidado de pacientes oncológicos. Es una nota de perfil profesional, sin datos de estudios clínicos.",
+   "destacado": false
+  },
+  "5fae719d8c14": {
+   "resumen": "La doctora Trine Jakobi Nøttrup comenta en The ASCO Post los datos de un nuevo esquema de mantenimiento triple para el cáncer de ovario recurrente sin mutación en los genes BRCA1/BRCA2 (BRCA wild-type). Interesa porque ese subgrupo históricamente responde peor al mantenimiento con inhibidores de PARP en monoterapia.",
+   "destacado": false,
+   "analisis": "Diseño: Entrevista/comentario de especialista sobre datos de un ensayo clínico (probablemente fase I/II) con un esquema de mantenimiento triple; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de ovario recurrente sin mutación en los genes BRCA1/BRCA2 (BRCA wild-type), subgrupo con peor respuesta histórica a los inhibidores de PARP.\nIntervención: Un nuevo esquema de mantenimiento triple (combinación de tres fármacos no especificada en el título); comparador no mencionado.\nResultados: No hay cifras de supervivencia libre de progresión, tasa de respuesta ni intervalos de confianza disponibles en el título.\nLimitaciones: Al ser un comentario de experto y no el artículo original, no se puede evaluar el tamaño muestral, la toxicidad acumulada de la triple combinación ni la madurez del seguimiento.\nMensaje: Si los datos se confirman, podría ofrecer una opción de mantenimiento más eficaz para el subgrupo BRCA wild-type de cáncer de ovario recurrente, hoy con pocas alternativas más allá de la quimioterapia.\nNota: análisis sin acceso al abstract."
+  },
+  "69be8d38f2ce": {
+   "resumen": "Un estudio multinacional y multicéntrico propone un sistema de estadificación refinado para el cáncer medular de tiroides, publicado en el Journal of Clinical Oncology. Vale la pena mirarlo porque una mejor estadificación permite estimar con más precisión el pronóstico y guiar decisiones de tratamiento en un tumor poco frecuente.",
+   "destacado": false,
+   "analisis": "Diseño: Estudio multinacional y multicéntrico (según el título), orientado a desarrollar y validar un sistema de estadificación; no se especifica el número exacto de centros ni de pacientes.\nPoblación: Pacientes con cáncer medular de tiroides de múltiples países y centros.\nIntervención: No aplica un tratamiento; se analiza y propone un sistema de estadificación pronóstica refinado.\nResultados: El título no incluye cifras de supervivencia, hazard ratios ni intervalos de confianza asociados al nuevo sistema de estadificación.\nLimitaciones: Un estudio internacional multicéntrico de una enfermedad poco frecuente suele enfrentar heterogeneidad en el registro de datos entre centros y países, y requiere validación externa antes de su adopción generalizada.\nMensaje: Si se valida, podría mejorar la estratificación pronóstica y la toma de decisiones terapéuticas en el cáncer medular de tiroides, donde la estadificación actual tiene limitaciones reconocidas.\nNota: análisis sin acceso al abstract."
+  },
+  "00910fa16c5a": {
+   "resumen": "Un análisis secundario de ensayos de fase II/III en sarcoma de Ewing utilizó el perfil de ADN tumoral circulante (ctDNA, por \"circulating tumor DNA\", fragmentos de ADN tumoral que circulan en sangre) para identificar pacientes de alto riesgo según alteraciones en los genes TP53, STAG2 y CDKN2A. Interesa porque el ctDNA podría convertirse en una herramienta no invasiva para estratificar el riesgo en este sarcoma pediátrico y de adultos jóvenes.",
+   "destacado": false,
+   "analisis": "Diseño: Análisis secundario/translacional que combina datos de ensayos clínicos de fase II/III mediante perfil de ADN tumoral circulante (ctDNA); no se especifica aleatorización ni el número exacto de pacientes de este subanálisis.\nPoblación: Pacientes con sarcoma de Ewing incluidos en los ensayos de fase II/III analizados.\nIntervención: No es una intervención terapéutica; se evalúa un biomarcador (perfil de ctDNA) para estratificación de riesgo según alteraciones en TP53, STAG2 y CDKN2A.\nResultados: El título indica que estas alteraciones identifican pacientes de alto riesgo, pero no hay cifras de supervivencia libre de eventos, hazard ratios ni intervalos de confianza.\nLimitaciones: Los análisis de ctDNA dependen de la sensibilidad técnica de la plataforma utilizada, y al ser un análisis secundario de ensayos previos puede tener sesgos de selección de la cohorte original.\nMensaje: Si se valida prospectivamente, el perfil de ctDNA podría sumarse como herramienta pronóstica no invasiva para identificar pacientes con sarcoma de Ewing de alto riesgo que requieran intensificación terapéutica.\nNota: análisis sin acceso al abstract."
+  },
+  "db1aa683ce86": {
+   "resumen": "Un estudio compara la radioterapia ablativa estereotáctica (SABR, por \"stereotactic ablative radiotherapy\") con la resección quirúrgica en el cáncer de pulmón de células no pequeñas (NSCLC) en estadio I, publicado en el Journal of Clinical Oncology. Vale la pena mirarlo porque, pese a que la cirugía sigue siendo el estándar, el uso de SABR en la práctica ya superó a la evidencia disponible que lo respalde.",
+   "destacado": false,
+   "analisis": "Diseño: Estudio comparativo (probablemente observacional, de registro o cohorte, a juzgar por el título \"When Practice Outpaces Evidence\"); no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio I, candidatos a tratamiento local definitivo.\nIntervención: Radioterapia ablativa estereotáctica (SABR) frente a resección quirúrgica (comparador).\nResultados: No se dispone en el título de cifras de supervivencia global, supervivencia libre de recurrencia ni intervalos de confianza.\nLimitaciones: Un diseño comparativo no aleatorizado está expuesto a sesgo de selección (los pacientes tratados con SABR suelen ser los no candidatos quirúrgicos), lo que dificulta una comparación justa entre ambos abordajes.\nMensaje: El propio título sugiere que la adopción de SABR en la práctica clínica avanzó más rápido que la evidencia de calidad que la respalde, lo que invita a interpretar con cautela cualquier equivalencia oncológica entre ambas estrategias hasta contar con ensayos aleatorizados concluyentes.\nNota: análisis sin acceso al abstract."
+  },
+  "25726cf89cd9": {
+   "resumen": "Un estudio del Children's Oncology Group (grupo cooperativo de investigación en oncología pediátrica de Estados Unidos) evaluó la factibilidad y la tolerabilidad de sumar inmunoterapia a la quimioterapia durante la inducción en pacientes con neuroblastoma de alto riesgo. Interesa porque adelantar la inmunoterapia a etapas más tempranas del tratamiento podría mejorar los resultados en este tumor pediátrico agresivo.",
+   "destacado": false,
+   "analisis": "Diseño: Ensayo clínico cooperativo del Children's Oncology Group; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes, aunque por tratarse de un grupo cooperativo probablemente sea multicéntrico.\nPoblación: Pacientes pediátricos con neuroblastoma de alto riesgo, en la fase de inducción del tratamiento.\nIntervención: Quimioinmunoterapia (quimioterapia combinada con inmunoterapia) administrada durante la inducción, en lugar de reservar la inmunoterapia para fases posteriores del tratamiento.\nResultados: El título se centra en factibilidad y tolerabilidad, sin cifras de supervivencia libre de eventos ni de respuesta; no hay datos cuantitativos de eficacia disponibles.\nLimitaciones: Al centrarse en factibilidad y tolerabilidad (probablemente una fase temprana), no permite todavía sacar conclusiones sobre eficacia a largo plazo, y el neuroblastoma de alto riesgo es una población pediátrica heterogénea.\nMensaje: Si la combinación resulta factible y tolerable, podría abrir el camino a ensayos de fase III que evalúen si adelantar la inmunoterapia a la inducción mejora la supervivencia en neuroblastoma de alto riesgo, hoy todavía con pronóstico reservado.\nNota: análisis sin acceso al abstract."
+  },
+  "5a9505e1f3ef": {
+   "resumen": "Vogue repasa la colección primavera 2027 de Christie Brown, presentada en la semana de la moda de Lagos."
+  },
+  "274f5e404ac9": {
+   "resumen": "Vogue reseña la colección primavera 2027 de Kilentar, mostrada en la semana de la moda de Lagos."
+  },
+  "ec8e89660f7e": {
+   "resumen": "Vogue presenta la colección primavera 2027 lista para usar (ready-to-wear) de Palmer Harding."
+  },
+  "48d29e2ffe17": {
+   "resumen": "Vogue México invita a su encuentro Vogue Leaders Miami 2026, pensado para impulsar negocios."
+  },
+  "05ab18f764c7": {
+   "resumen": "HOLA selecciona los abrigos que más se van a usar este invierno 2026."
+  },
+  "6cca918318de": {
+   "resumen": "Vogue México muestra cómo Jessica Alba combina sus botas cafés de punta almendrada con jeans rectos este otoño."
+  },
+  "49a516b21500": {
+   "resumen": "Vogue México recomienda los vestidos color café más elegantes y accesibles para combinar con botas este otoño."
+  },
+  "1e85e7237b2a": {
+   "resumen": "El peluquero Juan Diego Teo cuenta a InStyle que, en 2027, la tendencia en color de pelo apunta a encontrar el tono que mejor funciona para cada persona antes que a un color exacto."
+  },
+  "05f26ed4ed21": {
+   "resumen": "La manicurista Lina Paola Valderrama explica en Telva por qué el burdeos de uñas de Tamara Falcó funciona en cualquier largo y a cualquier hora del día."
+  },
+  "f51234e6bf73": {
+   "resumen": "Revista OHLALÁ! cuenta qué se puede ver gratis en el Teatro Colón durante la Noche de los Museos y cómo conseguir entradas."
+  },
+  "212a90205e04": {
+   "resumen": "Forbes Argentina repasa los nueve restaurantes porteños elegidos por The New York Times."
+  },
+  "2d7e27fc344d": {
+   "resumen": "El Cine Teatro El Plata presenta su programación de noviembre, con obras y un encuentro vecinal."
+  },
+  "c81e6732260c": {
+   "resumen": "Caballeros de la Quema despedirá el año con un show en el Teatro Vorterix."
+  },
+  "64936c2dd20c": {
+   "resumen": "Infobae ofrece la agenda completa de recitales, teatro, cine y deportes para el fin de semana largo en Mar del Plata."
   },
   "66b99bd9721c": {
    "resumen": "Del 16 al 22 de noviembre, restaurantes de Buenos Aires ofrecerán promociones y premios por la Semana de la Cocina Italiana 2026."
   },
-  "6e28bc1d29f3": {
-   "resumen": "Cosmopolitan selecciona las cinco tendencias de color de pelo que más favorecen a las mujeres rubias esta temporada."
+  "6db065c8844f": {
+   "resumen": "La banda NSQK llega a Buenos Aires para un recital en el que promete estrenar en vivo su tema \"Mosca\"."
   },
-  "91d881c56aa9": {
-   "resumen": "Infobae ofrece la agenda completa de recitales, teatro, cine y deportes para disfrutar en Mar del Plata durante el fin de semana largo."
+  "200b7dab1c14": {
+   "resumen": "Anticipan a qué hora llegará la tormenta de barro que afectará los parques porteños durante el fin de semana largo."
   },
-  "941f3d58a92f": {
-   "resumen": "El Teatro Colón se suma a la Noche de los Museos con una visita gratuita de madrugada."
+  "9e438847d1eb": {
+   "resumen": "Página|12 propone una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
   },
-  "9d092799854a": {
-   "resumen": "Telva muestra las botas tendencia del invierno y cómo combinarlas con pollera, además de dónde conseguirlas."
+  "c3f29be30340": {
+   "resumen": "El New York Times recomendó ocho bares, restaurantes y cafés de Buenos Aires y destacó su encanto nostálgico."
   },
-  "9d1883929517": {
-   "resumen": "El diseñador Elie Saab cuenta por qué pensó su colaboración con H&M como un guardarropa para varias generaciones, de madres a hijas."
-  },
-  "c81e6732260c": {
-   "resumen": "La banda Caballeros de la Quema cerrará el año con un show en el Teatro Vorterix."
-  },
-  "ec8e89660f7e": {
-   "resumen": "Vogue repasa la colección primavera 2027 de ropa lista para usar de la marca Palmer Harding."
-  },
-  "ee8865e5ab03": {
-   "resumen": "Vogue México presenta quién es quién en \"La ley de Alicia\", la adaptación mexicana de la serie The Good Wife."
+  "631fdc68017a": {
+   "resumen": "La Nación cuenta cómo el arquitecto argentino Nicolás Pinto da Mota diseña casas sin ventanas pero llenas de luz natural."
   }
  }
 }
