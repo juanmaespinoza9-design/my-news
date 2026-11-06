@@ -1,34 +1,6 @@
 {
- "generated_at": "2026-11-05T22:13:04Z",
+ "generated_at": "2026-11-06T22:12:51Z",
  "summaries": {
-  "2b9cf2c13001": {
-   "resumen": "The ASCO Post repasa los datos del ensayo PACE, que compara la radioterapia corporal estereotáctica (SBRT, por \"stereotactic body radiotherapy\") con la cirugía para el cáncer de próstata localizado. Interesa porque enfrenta dos abordajes curativos con perfiles de toxicidad y recuperación muy distintos.",
-   "destacado": false,
-   "analisis": "Diseño: Nota de The ASCO Post sobre el ensayo PACE (estudio clínico que compara radioterapia corporal estereotáctica, SBRT, con cirugía); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata localizado candidatos a tratamiento curativo.\nIntervención: Radioterapia corporal estereotáctica (SBRT) frente a cirugía (prostatectomía radical).\nResultados: No hay cifras de control oncológico, toxicidad ni calidad de vida disponibles en el título.\nLimitaciones: Al tratarse de una nota periodística y no del artículo original, no se puede evaluar el diseño estadístico ni la madurez del seguimiento.\nMensaje: Suma evidencia al debate sobre si la SBRT puede igualar los resultados oncológicos de la cirugía con menor morbilidad, reforzando su rol como alternativa validada en cáncer de próstata localizado.\nNota: análisis sin acceso al abstract."
-  },
-  "81f0ccd0484f": {
-   "resumen": "El ensayo HERON-Lung01 evaluó un anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") dirigido contra HER3 en cáncer de pulmón de células no pequeñas (NSCLC) avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico). Según The ASCO Post, el fármaco prolongó la supervivencia libre de progresión. Vale la pena mirarlo porque HER3 es un blanco terapéutico emergente para pacientes que progresan a los inhibidores de EGFR.",
-   "destacado": true,
-   "analisis": "Diseño: Ensayo clínico (el nombre HERON-Lung01 sugiere un estudio prospectivo, probablemente de fase II o III); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado con mutación de EGFR, presumiblemente progresados a inhibidores de EGFR previos.\nIntervención: Anticuerpo conjugado a droga (ADC) dirigido contra HER3; el título no especifica el comparador.\nResultados: El título indica una prolongación de la supervivencia libre de progresión, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, la toxicidad propia de los ADC (frecuentes efectos hematológicos y pulmonares en esta clase de fármacos) ni el impacto en supervivencia global.\nMensaje: Si se confirma, posicionaría a los ADC anti-HER3 como una opción relevante tras la progresión a inhibidores de EGFR en NSCLC, un escenario con necesidades terapéuticas no cubiertas.\nNota: análisis sin acceso al abstract."
-  },
-  "9b82ed027237": {
-   "resumen": "OncLive publica una reflexión sobre la necesidad de reconocer la relevancia crítica de los cuidados paliativos y de soporte en oncología. Interesa porque pone en agenda un área históricamente subvalorada pese a su impacto en la calidad de vida y, en algunos casos, en la supervivencia.",
-   "destacado": false
-  },
-  "cadf5979ff18": {
-   "resumen": "Datos de la vida real muestran la eficacia del lutecio Lu 177 vipivotide tetraxetán (un radiofármaco dirigido contra el antígeno prostático específico de membrana, PSMA) en cáncer de próstata metastásico resistente a la castración (mCRPC). Vale la pena mirarlo porque confirma, fuera de los ensayos clínicos, los resultados que llevaron a su aprobación.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio de datos de vida real (probablemente una cohorte retrospectiva o un registro); el título no precisa número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de próstata metastásico resistente a la castración (mCRPC) tratados en la práctica clínica habitual.\nIntervención: Lutecio Lu 177 vipivotide tetraxetán, un radioligando dirigido contra el antígeno prostático específico de membrana (PSMA).\nResultados: El título menciona \"eficacia en la vida real\" pero no da cifras de supervivencia libre de progresión, supervivencia global ni tasa de respuesta.\nLimitaciones: Los estudios de vida real suelen tener seguimiento heterogéneo, menor control de sesgos que un ensayo aleatorizado y datos de toxicidad menos sistematizados.\nMensaje: Refuerza, fuera del contexto controlado de los ensayos pivotales (como VISION), que este radiofármaco mantiene su beneficio en la práctica clínica habitual.\nNota: análisis sin acceso al abstract."
-  },
-  "f2a51471120b": {
-   "resumen": "OncLive presenta a Stefanie Sigmund, enfermera de práctica avanzada (APRN, por \"advanced practice registered nurse\"), que comparte su experiencia en el cuidado de pacientes oncológicos. Es una nota de perfil profesional, sin datos de estudios clínicos.",
-   "destacado": false
-  },
-  "5fae719d8c14": {
-   "resumen": "La doctora Trine Jakobi Nøttrup comenta en The ASCO Post los datos de un nuevo esquema de mantenimiento triple para el cáncer de ovario recurrente sin mutación en los genes BRCA1/BRCA2 (BRCA wild-type). Interesa porque ese subgrupo históricamente responde peor al mantenimiento con inhibidores de PARP en monoterapia.",
-   "destacado": false,
-   "analisis": "Diseño: Entrevista/comentario de especialista sobre datos de un ensayo clínico (probablemente fase I/II) con un esquema de mantenimiento triple; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de ovario recurrente sin mutación en los genes BRCA1/BRCA2 (BRCA wild-type), subgrupo con peor respuesta histórica a los inhibidores de PARP.\nIntervención: Un nuevo esquema de mantenimiento triple (combinación de tres fármacos no especificada en el título); comparador no mencionado.\nResultados: No hay cifras de supervivencia libre de progresión, tasa de respuesta ni intervalos de confianza disponibles en el título.\nLimitaciones: Al ser un comentario de experto y no el artículo original, no se puede evaluar el tamaño muestral, la toxicidad acumulada de la triple combinación ni la madurez del seguimiento.\nMensaje: Si los datos se confirman, podría ofrecer una opción de mantenimiento más eficaz para el subgrupo BRCA wild-type de cáncer de ovario recurrente, hoy con pocas alternativas más allá de la quimioterapia.\nNota: análisis sin acceso al abstract."
-  },
   "69be8d38f2ce": {
    "resumen": "Un estudio multinacional y multicéntrico propone un sistema de estadificación refinado para el cáncer medular de tiroides, publicado en el Journal of Clinical Oncology. Vale la pena mirarlo porque una mejor estadificación permite estimar con más precisión el pronóstico y guiar decisiones de tratamiento en un tumor poco frecuente.",
    "destacado": false,
@@ -39,75 +11,106 @@
    "destacado": false,
    "analisis": "Diseño: Análisis secundario/translacional que combina datos de ensayos clínicos de fase II/III mediante perfil de ADN tumoral circulante (ctDNA); no se especifica aleatorización ni el número exacto de pacientes de este subanálisis.\nPoblación: Pacientes con sarcoma de Ewing incluidos en los ensayos de fase II/III analizados.\nIntervención: No es una intervención terapéutica; se evalúa un biomarcador (perfil de ctDNA) para estratificación de riesgo según alteraciones en TP53, STAG2 y CDKN2A.\nResultados: El título indica que estas alteraciones identifican pacientes de alto riesgo, pero no hay cifras de supervivencia libre de eventos, hazard ratios ni intervalos de confianza.\nLimitaciones: Los análisis de ctDNA dependen de la sensibilidad técnica de la plataforma utilizada, y al ser un análisis secundario de ensayos previos puede tener sesgos de selección de la cohorte original.\nMensaje: Si se valida prospectivamente, el perfil de ctDNA podría sumarse como herramienta pronóstica no invasiva para identificar pacientes con sarcoma de Ewing de alto riesgo que requieran intensificación terapéutica.\nNota: análisis sin acceso al abstract."
   },
-  "db1aa683ce86": {
-   "resumen": "Un estudio compara la radioterapia ablativa estereotáctica (SABR, por \"stereotactic ablative radiotherapy\") con la resección quirúrgica en el cáncer de pulmón de células no pequeñas (NSCLC) en estadio I, publicado en el Journal of Clinical Oncology. Vale la pena mirarlo porque, pese a que la cirugía sigue siendo el estándar, el uso de SABR en la práctica ya superó a la evidencia disponible que lo respalde.",
+  "702da077838c": {
+   "resumen": "OncLive repasa por qué el BCG (bacilo de Calmette-Guérin, inmunoterapia intravesical) en monoterapia sigue siendo la primera opción en el cáncer de vejiga no músculo-invasivo (NMIBC, por \"non-muscle invasive bladder cancer\") de alto riesgo sin tratamiento previo con BCG. Vale la pena mirarlo porque resume el consenso actual de secuenciación terapéutica en un escenario donde surgieron varias combinaciones nuevas.",
+   "destacado": false
+  },
+  "c14e4d01026d": {
+   "resumen": "OncLive propone un quiz semanal de noticias para repasar las novedades en tumores hematológicos, cáncer de pulmón y tumor desmoide. Es un contenido de repaso periodístico, sin datos de estudios propios.",
+   "destacado": false
+  },
+  "5b624426ca98": {
+   "resumen": "El doctor Merrill analiza en OncLive cómo seleccionar a los pacientes candidatos a la combinación de BCG (bacilo de Calmette-Guérin) más durvalumab (un inhibidor de punto de control inmunitario anti-PD-L1) en cáncer de vejiga no músculo-invasivo de alto riesgo. Interesa porque ayuda a definir qué perfil de paciente se beneficiaría de sumar inmunoterapia sistémica a la intravesical.",
+   "destacado": false
+  },
+  "ee445572590f": {
+   "resumen": "El esquema ponatinib (un inhibidor de tirosina-quinasa) más blinatumomab (un anticuerpo biespecífico anti-CD19/CD3) mejoró la supervivencia libre de eventos en la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL), según The ASCO Post. Vale la pena mirarlo porque apunta a reemplazar la quimioterapia intensiva por un esquema libre de quimioterapia en esta leucemia de alto riesgo.",
+   "destacado": true,
+   "analisis": "Diseño: Ensayo clínico (probablemente de fase II, a juzgar por el esquema libre de quimioterapia); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL).\nIntervención: Ponatinib (inhibidor de tirosina-quinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico anti-CD19/CD3); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de eventos, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad (en particular los eventos cardiovasculares asociados a ponatinib y el síndrome de liberación de citoquinas asociado a blinatumomab) ni la madurez del seguimiento.\nMensaje: Si se confirma, refuerza la tendencia a reemplazar la quimioterapia intensiva por esquemas dirigidos libres de quimioterapia en la leucemia Ph+ ALL, en línea con lo ya visto con otros inhibidores de tirosina-quinasa.\nNota: análisis sin acceso al abstract."
+  },
+  "ce793b29eb95": {
+   "resumen": "The ASCO Post reúne en esta nota sus últimas novedades sobre cáncer colorrectal. Al ser una página de recopilación y no un artículo específico, no hay un estudio puntual para resumir.",
+   "destacado": false
+  },
+  "eae05922c303": {
+   "resumen": "El anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") izalontamab brengitecan mejoró la supervivencia libre de progresión en el cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), según The ASCO Post. Interesa porque suma una opción tras la progresión a los inhibidores de EGFR, un escenario con necesidades no cubiertas.",
    "destacado": false,
-   "analisis": "Diseño: Estudio comparativo (probablemente observacional, de registro o cohorte, a juzgar por el título \"When Practice Outpaces Evidence\"); no se especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio I, candidatos a tratamiento local definitivo.\nIntervención: Radioterapia ablativa estereotáctica (SABR) frente a resección quirúrgica (comparador).\nResultados: No se dispone en el título de cifras de supervivencia global, supervivencia libre de recurrencia ni intervalos de confianza.\nLimitaciones: Un diseño comparativo no aleatorizado está expuesto a sesgo de selección (los pacientes tratados con SABR suelen ser los no candidatos quirúrgicos), lo que dificulta una comparación justa entre ambos abordajes.\nMensaje: El propio título sugiere que la adopción de SABR en la práctica clínica avanzó más rápido que la evidencia de calidad que la respalde, lo que invita a interpretar con cautela cualquier equivalencia oncológica entre ambas estrategias hasta contar con ensayos aleatorizados concluyentes.\nNota: análisis sin acceso al abstract."
+   "analisis": "Diseño: Ensayo clínico (probablemente de fase II o III, dado que reporta un criterio de valoración de eficacia comparativo); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), presumiblemente progresados a inhibidores de EGFR previos.\nIntervención: Izalontamab brengitecan, un anticuerpo conjugado a droga (ADC); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de progresión, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad propio de los ADC (frecuentes eventos hematológicos, hepáticos y pulmonares en esta clase de fármacos) ni el impacto en supervivencia global.\nMensaje: Si se confirma, sumaría una opción dirigida tras la progresión a inhibidores de EGFR en NSCLC no escamoso, un escenario con necesidades terapéuticas no cubiertas.\nNota: análisis sin acceso al abstract."
   },
-  "25726cf89cd9": {
-   "resumen": "Un estudio del Children's Oncology Group (grupo cooperativo de investigación en oncología pediátrica de Estados Unidos) evaluó la factibilidad y la tolerabilidad de sumar inmunoterapia a la quimioterapia durante la inducción en pacientes con neuroblastoma de alto riesgo. Interesa porque adelantar la inmunoterapia a etapas más tempranas del tratamiento podría mejorar los resultados en este tumor pediátrico agresivo.",
+  "1d80e0b286fb": {
+   "resumen": "Un estudio publicado en el Journal of Clinical Oncology analiza la exposición a sustancias perfluoroalquiladas (PFAS, compuestos químicos persistentes de uso industrial) como factor de riesgo para el cáncer de mama con receptores de estrógeno negativos, más allá de los factores de riesgo tradicionales. Vale la pena mirarlo porque este subtipo tumoral tiene peor pronóstico y menos factores de riesgo modificables identificados.",
    "destacado": false,
-   "analisis": "Diseño: Ensayo clínico cooperativo del Children's Oncology Group; el título no especifica aleatorización, cegamiento, número de centros ni de pacientes, aunque por tratarse de un grupo cooperativo probablemente sea multicéntrico.\nPoblación: Pacientes pediátricos con neuroblastoma de alto riesgo, en la fase de inducción del tratamiento.\nIntervención: Quimioinmunoterapia (quimioterapia combinada con inmunoterapia) administrada durante la inducción, en lugar de reservar la inmunoterapia para fases posteriores del tratamiento.\nResultados: El título se centra en factibilidad y tolerabilidad, sin cifras de supervivencia libre de eventos ni de respuesta; no hay datos cuantitativos de eficacia disponibles.\nLimitaciones: Al centrarse en factibilidad y tolerabilidad (probablemente una fase temprana), no permite todavía sacar conclusiones sobre eficacia a largo plazo, y el neuroblastoma de alto riesgo es una población pediátrica heterogénea.\nMensaje: Si la combinación resulta factible y tolerable, podría abrir el camino a ensayos de fase III que evalúen si adelantar la inmunoterapia a la inducción mejora la supervivencia en neuroblastoma de alto riesgo, hoy todavía con pronóstico reservado.\nNota: análisis sin acceso al abstract."
+   "analisis": "Diseño: Estudio epidemiológico (probablemente de casos y controles o de cohorte, dado el enfoque en factores de riesgo); el título no precisa aleatorización ni número de centros o participantes.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, comparadas con un grupo de referencia o controles sin cáncer.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias perfluoroalquiladas (PFAS) como factor de riesgo, más allá de los factores de riesgo tradicionales (antecedentes familiares, hormonales, reproductivos).\nResultados: El título no incluye cifras de riesgo relativo, odds ratio ni intervalos de confianza asociados a la exposición a PFAS.\nLimitaciones: Los estudios de exposición ambiental suelen depender de mediciones indirectas o de un único punto temporal, lo que dificulta establecer causalidad y controlar factores de confusión.\nMensaje: Si se confirma la asociación, sumaría a los PFAS como un factor de riesgo ambiental relevante para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pocos factores de riesgo modificables conocidos.\nNota: análisis sin acceso al abstract."
   },
-  "5a9505e1f3ef": {
-   "resumen": "Vogue repasa la colección primavera 2027 de Christie Brown, presentada en la semana de la moda de Lagos."
+  "5c3b855c29ee": {
+   "resumen": "La cohorte Sister Study (estudio prospectivo estadounidense en mujeres con antecedentes familiares de cáncer de mama) evaluó la relación entre la exposición a sustancias perfluoroalquiladas y polifluoroalquiladas (PFAS) y la incidencia de cáncer de mama, publicado en el Journal of Clinical Oncology. Interesa porque suma evidencia epidemiológica sobre contaminantes ambientales persistentes y riesgo oncológico.",
+   "destacado": false,
+   "analisis": "Diseño: Estudio de cohorte prospectiva (la Sister Study, cohorte estadounidense de mujeres con antecedentes familiares de cáncer de mama); el título no precisa el número exacto de participantes de este análisis.\nPoblación: Mujeres integrantes de la cohorte Sister Study, con antecedentes familiares de cáncer de mama.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias per- y polifluoroalquiladas (PFAS) y su relación con la incidencia de cáncer de mama.\nResultados: El título no incluye cifras de riesgo relativo, hazard ratio ni intervalos de confianza asociados a la exposición.\nLimitaciones: Las cohortes de base poblacional dependen de la precisión de la medición de la exposición ambiental y pueden tener seguimiento heterogéneo; además, esta cohorte está enriquecida en antecedentes familiares, lo que podría limitar la generalización a la población general.\nMensaje: Si se confirma la asociación, reforzaría la hipótesis de que la exposición ambiental a PFAS contribuye al riesgo de cáncer de mama, con implicancias para la prevención y la regulación de estos compuestos.\nNota: análisis sin acceso al abstract."
   },
-  "274f5e404ac9": {
-   "resumen": "Vogue reseña la colección primavera 2027 de Kilentar, mostrada en la semana de la moda de Lagos."
+  "1692690887b9": {
+   "resumen": "Carta de respuesta publicada en The New England Journal of Medicine sobre el debate en torno a la combinación de inhibidores de PARP (poli ADP-ribosa polimerasa) con inhibidores de la señalización androgénica en el cáncer de próstata metastásico. Es una réplica editorial a una carta previa, sin datos propios de un nuevo estudio.",
+   "destacado": false
   },
-  "ec8e89660f7e": {
-   "resumen": "Vogue presenta la colección primavera 2027 lista para usar (ready-to-wear) de Palmer Harding."
+  "78ea2c8558fd": {
+   "resumen": "Carta publicada en The New England Journal of Medicine que comenta los datos sobre la combinación de inhibidores de PARP (poli ADP-ribosa polimerasa) con inhibidores de la señalización androgénica en el cáncer de próstata metastásico. Vale la pena mirarla porque refleja el debate activo sobre a qué pacientes conviene ofrecerles esta combinación.",
+   "destacado": false
   },
-  "48d29e2ffe17": {
-   "resumen": "Vogue México invita a su encuentro Vogue Leaders Miami 2026, pensado para impulsar negocios."
+  "bb5b11096def": {
+   "resumen": "Vogue presenta la colección pre-otoño (pre-fall) 2027 de Rag & Bone."
   },
-  "05ab18f764c7": {
-   "resumen": "HOLA selecciona los abrigos que más se van a usar este invierno 2026."
+  "2bf8a5f25faf": {
+   "resumen": "Vogue repasa la colección pre-otoño (pre-fall) 2027 de Ralph Lauren."
   },
-  "6cca918318de": {
-   "resumen": "Vogue México muestra cómo Jessica Alba combina sus botas cafés de punta almendrada con jeans rectos este otoño."
+  "6cd81a03783b": {
+   "resumen": "Vogue muestra la colección masculina pre-otoño (pre-fall) 2027 de Simkhai."
   },
-  "49a516b21500": {
-   "resumen": "Vogue México recomienda los vestidos color café más elegantes y accesibles para combinar con botas este otoño."
+  "31418011559b": {
+   "resumen": "El estilista Jesús Reyes recomienda en Lecturas combinar marrón y azul claro para lograr un look elegante."
   },
-  "1e85e7237b2a": {
-   "resumen": "El peluquero Juan Diego Teo cuenta a InStyle que, en 2027, la tendencia en color de pelo apunta a encontrar el tono que mejor funciona para cada persona antes que a un color exacto."
+  "846f2ef6f302": {
+   "resumen": "Vogue México propone llevar botas de tacón estilo años 2000 con minifalda este otoño 2026, inspiradas en Dakota Johnson."
   },
-  "05f26ed4ed21": {
-   "resumen": "La manicurista Lina Paola Valderrama explica en Telva por qué el burdeos de uñas de Tamara Falcó funciona en cualquier largo y a cualquier hora del día."
+  "94c5e5ac7982": {
+   "resumen": "Vogue México cuenta cómo una noche en Bogotá combinó arte y moda como homenaje a la memoria."
   },
-  "f51234e6bf73": {
-   "resumen": "Revista OHLALÁ! cuenta qué se puede ver gratis en el Teatro Colón durante la Noche de los Museos y cómo conseguir entradas."
+  "ab2b00aeda45": {
+   "resumen": "Vogue México sugiere el corte bob inspirado en los años 60 que luce Margot Robbie como opción de cambio de look antes de Navidad 2026."
   },
-  "212a90205e04": {
-   "resumen": "Forbes Argentina repasa los nueve restaurantes porteños elegidos por The New York Times."
+  "283c99d862e5": {
+   "resumen": "ELLE adelanta las tendencias que marcarán la moda de este otoño 2026."
   },
-  "2d7e27fc344d": {
-   "resumen": "El Cine Teatro El Plata presenta su programación de noviembre, con obras y un encuentro vecinal."
+  "e4212c8cfcc1": {
+   "resumen": "Perfil repasa lo más destacado de la Moscow Fashion Week, entre el patrimonio español y el arte."
   },
-  "c81e6732260c": {
-   "resumen": "Caballeros de la Quema despedirá el año con un show en el Teatro Vorterix."
+  "380aca745499": {
+   "resumen": "Infobae reúne los lugares de Buenos Aires -entre galerías en un ex shopping, tango y una parrilla- que eligió The New York Times para una escapada de 36 horas."
   },
-  "64936c2dd20c": {
-   "resumen": "Infobae ofrece la agenda completa de recitales, teatro, cine y deportes para el fin de semana largo en Mar del Plata."
+  "fd758b2e4833": {
+   "resumen": "El Destape detalla qué restaurantes porteños se suman al Menú Papa León XIV y cuánto cuesta comer con los descuentos."
   },
-  "66b99bd9721c": {
-   "resumen": "Del 16 al 22 de noviembre, restaurantes de Buenos Aires ofrecerán promociones y premios por la Semana de la Cocina Italiana 2026."
+  "aed48083de71": {
+   "resumen": "Testament vuelve a la Argentina el 1 de diciembre en el Teatro Flores, junto a Municipal Waste e Immolation."
   },
-  "6db065c8844f": {
-   "resumen": "La banda NSQK llega a Buenos Aires para un recital en el que promete estrenar en vivo su tema \"Mosca\"."
+  "d43b93a639a5": {
+   "resumen": "Iglesia Noticias cuenta que 90 restaurantes de Buenos Aires donarán el 10% de sus ventas con el Menú Papa León."
   },
-  "200b7dab1c14": {
-   "resumen": "Anticipan a qué hora llegará la tormenta de barro que afectará los parques porteños durante el fin de semana largo."
+  "8f834db70f64": {
+   "resumen": "Andrés Fernández Cabral recibirá el Premio Teatro XXI 2026 a la Trayectoria."
   },
-  "9e438847d1eb": {
-   "resumen": "Página|12 propone una agenda de actividades culturales vinculadas a la comunidad LGBTIQ para este fin de semana en Buenos Aires."
+  "3ceb920185e4": {
+   "resumen": "El Complejo Teatral de Buenos Aires presenta una muestra de representaciones gráficas de personajes de ficción."
   },
-  "c3f29be30340": {
-   "resumen": "El New York Times recomendó ocho bares, restaurantes y cafés de Buenos Aires y destacó su encanto nostálgico."
+  "ab8e2a874332": {
+   "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
   },
-  "631fdc68017a": {
-   "resumen": "La Nación cuenta cómo el arquitecto argentino Nicolás Pinto da Mota diseña casas sin ventanas pero llenas de luz natural."
+  "7d0e818e6986": {
+   "resumen": "Infobae cuenta que más de 40 restaurantes se suman a la Semana de la Cocina Italiana en Buenos Aires."
+  },
+  "dd2830792f65": {
+   "resumen": "Flipr.news presenta cuatro propuestas de la agenda cultural de Posadas para el fin de semana."
+  },
+  "57c26c4d816a": {
+   "resumen": "Radio Hache 97.7 ofrece más de 60 planes para hacer en Buenos Aires entre el viernes 6 y el martes 10 de noviembre: recitales, teatro, cine, streaming y muestras, muchos gratis."
   }
  }
 }
