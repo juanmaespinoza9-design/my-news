@@ -1,116 +1,119 @@
 {
- "generated_at": "2026-11-06T22:12:51Z",
- "summaries": {
-  "69be8d38f2ce": {
-   "resumen": "Un estudio multinacional y multicéntrico propone un sistema de estadificación refinado para el cáncer medular de tiroides, publicado en el Journal of Clinical Oncology. Vale la pena mirarlo porque una mejor estadificación permite estimar con más precisión el pronóstico y guiar decisiones de tratamiento en un tumor poco frecuente.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio multinacional y multicéntrico (según el título), orientado a desarrollar y validar un sistema de estadificación; no se especifica el número exacto de centros ni de pacientes.\nPoblación: Pacientes con cáncer medular de tiroides de múltiples países y centros.\nIntervención: No aplica un tratamiento; se analiza y propone un sistema de estadificación pronóstica refinado.\nResultados: El título no incluye cifras de supervivencia, hazard ratios ni intervalos de confianza asociados al nuevo sistema de estadificación.\nLimitaciones: Un estudio internacional multicéntrico de una enfermedad poco frecuente suele enfrentar heterogeneidad en el registro de datos entre centros y países, y requiere validación externa antes de su adopción generalizada.\nMensaje: Si se valida, podría mejorar la estratificación pronóstica y la toma de decisiones terapéuticas en el cáncer medular de tiroides, donde la estadificación actual tiene limitaciones reconocidas.\nNota: análisis sin acceso al abstract."
-  },
-  "00910fa16c5a": {
-   "resumen": "Un análisis secundario de ensayos de fase II/III en sarcoma de Ewing utilizó el perfil de ADN tumoral circulante (ctDNA, por \"circulating tumor DNA\", fragmentos de ADN tumoral que circulan en sangre) para identificar pacientes de alto riesgo según alteraciones en los genes TP53, STAG2 y CDKN2A. Interesa porque el ctDNA podría convertirse en una herramienta no invasiva para estratificar el riesgo en este sarcoma pediátrico y de adultos jóvenes.",
-   "destacado": false,
-   "analisis": "Diseño: Análisis secundario/translacional que combina datos de ensayos clínicos de fase II/III mediante perfil de ADN tumoral circulante (ctDNA); no se especifica aleatorización ni el número exacto de pacientes de este subanálisis.\nPoblación: Pacientes con sarcoma de Ewing incluidos en los ensayos de fase II/III analizados.\nIntervención: No es una intervención terapéutica; se evalúa un biomarcador (perfil de ctDNA) para estratificación de riesgo según alteraciones en TP53, STAG2 y CDKN2A.\nResultados: El título indica que estas alteraciones identifican pacientes de alto riesgo, pero no hay cifras de supervivencia libre de eventos, hazard ratios ni intervalos de confianza.\nLimitaciones: Los análisis de ctDNA dependen de la sensibilidad técnica de la plataforma utilizada, y al ser un análisis secundario de ensayos previos puede tener sesgos de selección de la cohorte original.\nMensaje: Si se valida prospectivamente, el perfil de ctDNA podría sumarse como herramienta pronóstica no invasiva para identificar pacientes con sarcoma de Ewing de alto riesgo que requieran intensificación terapéutica.\nNota: análisis sin acceso al abstract."
-  },
-  "702da077838c": {
-   "resumen": "OncLive repasa por qué el BCG (bacilo de Calmette-Guérin, inmunoterapia intravesical) en monoterapia sigue siendo la primera opción en el cáncer de vejiga no músculo-invasivo (NMIBC, por \"non-muscle invasive bladder cancer\") de alto riesgo sin tratamiento previo con BCG. Vale la pena mirarlo porque resume el consenso actual de secuenciación terapéutica en un escenario donde surgieron varias combinaciones nuevas.",
-   "destacado": false
-  },
-  "c14e4d01026d": {
-   "resumen": "OncLive propone un quiz semanal de noticias para repasar las novedades en tumores hematológicos, cáncer de pulmón y tumor desmoide. Es un contenido de repaso periodístico, sin datos de estudios propios.",
-   "destacado": false
-  },
-  "5b624426ca98": {
-   "resumen": "El doctor Merrill analiza en OncLive cómo seleccionar a los pacientes candidatos a la combinación de BCG (bacilo de Calmette-Guérin) más durvalumab (un inhibidor de punto de control inmunitario anti-PD-L1) en cáncer de vejiga no músculo-invasivo de alto riesgo. Interesa porque ayuda a definir qué perfil de paciente se beneficiaría de sumar inmunoterapia sistémica a la intravesical.",
-   "destacado": false
-  },
-  "ee445572590f": {
-   "resumen": "El esquema ponatinib (un inhibidor de tirosina-quinasa) más blinatumomab (un anticuerpo biespecífico anti-CD19/CD3) mejoró la supervivencia libre de eventos en la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL), según The ASCO Post. Vale la pena mirarlo porque apunta a reemplazar la quimioterapia intensiva por un esquema libre de quimioterapia en esta leucemia de alto riesgo.",
-   "destacado": true,
-   "analisis": "Diseño: Ensayo clínico (probablemente de fase II, a juzgar por el esquema libre de quimioterapia); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL).\nIntervención: Ponatinib (inhibidor de tirosina-quinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico anti-CD19/CD3); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de eventos, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad (en particular los eventos cardiovasculares asociados a ponatinib y el síndrome de liberación de citoquinas asociado a blinatumomab) ni la madurez del seguimiento.\nMensaje: Si se confirma, refuerza la tendencia a reemplazar la quimioterapia intensiva por esquemas dirigidos libres de quimioterapia en la leucemia Ph+ ALL, en línea con lo ya visto con otros inhibidores de tirosina-quinasa.\nNota: análisis sin acceso al abstract."
-  },
-  "ce793b29eb95": {
-   "resumen": "The ASCO Post reúne en esta nota sus últimas novedades sobre cáncer colorrectal. Al ser una página de recopilación y no un artículo específico, no hay un estudio puntual para resumir.",
-   "destacado": false
-  },
-  "eae05922c303": {
-   "resumen": "El anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") izalontamab brengitecan mejoró la supervivencia libre de progresión en el cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), según The ASCO Post. Interesa porque suma una opción tras la progresión a los inhibidores de EGFR, un escenario con necesidades no cubiertas.",
-   "destacado": false,
-   "analisis": "Diseño: Ensayo clínico (probablemente de fase II o III, dado que reporta un criterio de valoración de eficacia comparativo); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), presumiblemente progresados a inhibidores de EGFR previos.\nIntervención: Izalontamab brengitecan, un anticuerpo conjugado a droga (ADC); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de progresión, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad propio de los ADC (frecuentes eventos hematológicos, hepáticos y pulmonares en esta clase de fármacos) ni el impacto en supervivencia global.\nMensaje: Si se confirma, sumaría una opción dirigida tras la progresión a inhibidores de EGFR en NSCLC no escamoso, un escenario con necesidades terapéuticas no cubiertas.\nNota: análisis sin acceso al abstract."
-  },
-  "1d80e0b286fb": {
-   "resumen": "Un estudio publicado en el Journal of Clinical Oncology analiza la exposición a sustancias perfluoroalquiladas (PFAS, compuestos químicos persistentes de uso industrial) como factor de riesgo para el cáncer de mama con receptores de estrógeno negativos, más allá de los factores de riesgo tradicionales. Vale la pena mirarlo porque este subtipo tumoral tiene peor pronóstico y menos factores de riesgo modificables identificados.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio epidemiológico (probablemente de casos y controles o de cohorte, dado el enfoque en factores de riesgo); el título no precisa aleatorización ni número de centros o participantes.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, comparadas con un grupo de referencia o controles sin cáncer.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias perfluoroalquiladas (PFAS) como factor de riesgo, más allá de los factores de riesgo tradicionales (antecedentes familiares, hormonales, reproductivos).\nResultados: El título no incluye cifras de riesgo relativo, odds ratio ni intervalos de confianza asociados a la exposición a PFAS.\nLimitaciones: Los estudios de exposición ambiental suelen depender de mediciones indirectas o de un único punto temporal, lo que dificulta establecer causalidad y controlar factores de confusión.\nMensaje: Si se confirma la asociación, sumaría a los PFAS como un factor de riesgo ambiental relevante para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pocos factores de riesgo modificables conocidos.\nNota: análisis sin acceso al abstract."
-  },
-  "5c3b855c29ee": {
-   "resumen": "La cohorte Sister Study (estudio prospectivo estadounidense en mujeres con antecedentes familiares de cáncer de mama) evaluó la relación entre la exposición a sustancias perfluoroalquiladas y polifluoroalquiladas (PFAS) y la incidencia de cáncer de mama, publicado en el Journal of Clinical Oncology. Interesa porque suma evidencia epidemiológica sobre contaminantes ambientales persistentes y riesgo oncológico.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio de cohorte prospectiva (la Sister Study, cohorte estadounidense de mujeres con antecedentes familiares de cáncer de mama); el título no precisa el número exacto de participantes de este análisis.\nPoblación: Mujeres integrantes de la cohorte Sister Study, con antecedentes familiares de cáncer de mama.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias per- y polifluoroalquiladas (PFAS) y su relación con la incidencia de cáncer de mama.\nResultados: El título no incluye cifras de riesgo relativo, hazard ratio ni intervalos de confianza asociados a la exposición.\nLimitaciones: Las cohortes de base poblacional dependen de la precisión de la medición de la exposición ambiental y pueden tener seguimiento heterogéneo; además, esta cohorte está enriquecida en antecedentes familiares, lo que podría limitar la generalización a la población general.\nMensaje: Si se confirma la asociación, reforzaría la hipótesis de que la exposición ambiental a PFAS contribuye al riesgo de cáncer de mama, con implicancias para la prevención y la regulación de estos compuestos.\nNota: análisis sin acceso al abstract."
-  },
-  "1692690887b9": {
-   "resumen": "Carta de respuesta publicada en The New England Journal of Medicine sobre el debate en torno a la combinación de inhibidores de PARP (poli ADP-ribosa polimerasa) con inhibidores de la señalización androgénica en el cáncer de próstata metastásico. Es una réplica editorial a una carta previa, sin datos propios de un nuevo estudio.",
-   "destacado": false
-  },
-  "78ea2c8558fd": {
-   "resumen": "Carta publicada en The New England Journal of Medicine que comenta los datos sobre la combinación de inhibidores de PARP (poli ADP-ribosa polimerasa) con inhibidores de la señalización androgénica en el cáncer de próstata metastásico. Vale la pena mirarla porque refleja el debate activo sobre a qué pacientes conviene ofrecerles esta combinación.",
-   "destacado": false
-  },
-  "bb5b11096def": {
-   "resumen": "Vogue presenta la colección pre-otoño (pre-fall) 2027 de Rag & Bone."
-  },
-  "2bf8a5f25faf": {
-   "resumen": "Vogue repasa la colección pre-otoño (pre-fall) 2027 de Ralph Lauren."
-  },
-  "6cd81a03783b": {
-   "resumen": "Vogue muestra la colección masculina pre-otoño (pre-fall) 2027 de Simkhai."
-  },
-  "31418011559b": {
-   "resumen": "El estilista Jesús Reyes recomienda en Lecturas combinar marrón y azul claro para lograr un look elegante."
-  },
-  "846f2ef6f302": {
-   "resumen": "Vogue México propone llevar botas de tacón estilo años 2000 con minifalda este otoño 2026, inspiradas en Dakota Johnson."
-  },
-  "94c5e5ac7982": {
-   "resumen": "Vogue México cuenta cómo una noche en Bogotá combinó arte y moda como homenaje a la memoria."
-  },
-  "ab2b00aeda45": {
-   "resumen": "Vogue México sugiere el corte bob inspirado en los años 60 que luce Margot Robbie como opción de cambio de look antes de Navidad 2026."
-  },
-  "283c99d862e5": {
-   "resumen": "ELLE adelanta las tendencias que marcarán la moda de este otoño 2026."
-  },
-  "e4212c8cfcc1": {
-   "resumen": "Perfil repasa lo más destacado de la Moscow Fashion Week, entre el patrimonio español y el arte."
-  },
-  "380aca745499": {
-   "resumen": "Infobae reúne los lugares de Buenos Aires -entre galerías en un ex shopping, tango y una parrilla- que eligió The New York Times para una escapada de 36 horas."
-  },
-  "fd758b2e4833": {
-   "resumen": "El Destape detalla qué restaurantes porteños se suman al Menú Papa León XIV y cuánto cuesta comer con los descuentos."
-  },
-  "aed48083de71": {
-   "resumen": "Testament vuelve a la Argentina el 1 de diciembre en el Teatro Flores, junto a Municipal Waste e Immolation."
-  },
-  "d43b93a639a5": {
-   "resumen": "Iglesia Noticias cuenta que 90 restaurantes de Buenos Aires donarán el 10% de sus ventas con el Menú Papa León."
-  },
-  "8f834db70f64": {
-   "resumen": "Andrés Fernández Cabral recibirá el Premio Teatro XXI 2026 a la Trayectoria."
-  },
-  "3ceb920185e4": {
-   "resumen": "El Complejo Teatral de Buenos Aires presenta una muestra de representaciones gráficas de personajes de ficción."
-  },
-  "ab8e2a874332": {
-   "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
-  },
-  "7d0e818e6986": {
-   "resumen": "Infobae cuenta que más de 40 restaurantes se suman a la Semana de la Cocina Italiana en Buenos Aires."
-  },
-  "dd2830792f65": {
-   "resumen": "Flipr.news presenta cuatro propuestas de la agenda cultural de Posadas para el fin de semana."
-  },
-  "57c26c4d816a": {
-   "resumen": "Radio Hache 97.7 ofrece más de 60 planes para hacer en Buenos Aires entre el viernes 6 y el martes 10 de noviembre: recitales, teatro, cine, streaming y muestras, muchos gratis."
+  "generated_at": "2026-11-07T10:10:58Z",
+  "summaries": {
+    "ee445572590f": {
+      "resumen": "El esquema ponatinib (un inhibidor de tirosina-quinasa) más blinatumomab (un anticuerpo biespecífico anti-CD19/CD3) mejoró la supervivencia libre de eventos en la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL), según The ASCO Post. Vale la pena mirarlo porque apunta a reemplazar la quimioterapia intensiva por un esquema libre de quimioterapia en esta leucemia de alto riesgo.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico (probablemente de fase II, a juzgar por el esquema libre de quimioterapia); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL).\nIntervención: Ponatinib (inhibidor de tirosina-quinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico anti-CD19/CD3); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de eventos, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad (en particular los eventos cardiovasculares asociados a ponatinib y el síndrome de liberación de citoquinas asociado a blinatumomab) ni la madurez del seguimiento.\nMensaje: Si se confirma, refuerza la tendencia a reemplazar la quimioterapia intensiva por esquemas dirigidos libres de quimioterapia en la leucemia Ph+ ALL, en línea con lo ya visto con otros inhibidores de tirosina-quinasa.\nNota: análisis sin acceso al abstract."
+    },
+    "ce793b29eb95": {
+      "resumen": "The ASCO Post reúne en esta nota sus últimas novedades sobre cáncer colorrectal. Al ser una página de recopilación y no un artículo específico, no hay un estudio puntual para resumir.",
+      "destacado": false
+    },
+    "eae05922c303": {
+      "resumen": "El anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") izalontamab brengitecan mejoró la supervivencia libre de progresión en el cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), según The ASCO Post. Interesa porque suma una opción tras la progresión a los inhibidores de EGFR, un escenario con necesidades no cubiertas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (probablemente de fase II o III, dado que reporta un criterio de valoración de eficacia comparativo); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), presumiblemente progresados a inhibidores de EGFR previos.\nIntervención: Izalontamab brengitecan, un anticuerpo conjugado a droga (ADC); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de progresión, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad propio de los ADC (frecuentes eventos hematológicos, hepáticos y pulmonares en esta clase de fármacos) ni el impacto en supervivencia global.\nMensaje: Si se confirma, sumaría una opción dirigida tras la progresión a inhibidores de EGFR en NSCLC no escamoso, un escenario con necesidades terapéuticas no cubiertas.\nNota: análisis sin acceso al abstract."
+    },
+    "1d80e0b286fb": {
+      "resumen": "Un estudio publicado en el Journal of Clinical Oncology analiza la exposición a sustancias perfluoroalquiladas (PFAS, compuestos químicos persistentes de uso industrial) como factor de riesgo para el cáncer de mama con receptores de estrógeno negativos, más allá de los factores de riesgo tradicionales. Vale la pena mirarlo porque este subtipo tumoral tiene peor pronóstico y menos factores de riesgo modificables identificados.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio epidemiológico (probablemente de casos y controles o de cohorte, dado el enfoque en factores de riesgo); el título no precisa aleatorización ni número de centros o participantes.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, comparadas con un grupo de referencia o controles sin cáncer.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias perfluoroalquiladas (PFAS) como factor de riesgo, más allá de los factores de riesgo tradicionales (antecedentes familiares, hormonales, reproductivos).\nResultados: El título no incluye cifras de riesgo relativo, odds ratio ni intervalos de confianza asociados a la exposición a PFAS.\nLimitaciones: Los estudios de exposición ambiental suelen depender de mediciones indirectas o de un único punto temporal, lo que dificulta establecer causalidad y controlar factores de confusión.\nMensaje: Si se confirma la asociación, sumaría a los PFAS como un factor de riesgo ambiental relevante para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pocos factores de riesgo modificables conocidos.\nNota: análisis sin acceso al abstract."
+    },
+    "5c3b855c29ee": {
+      "resumen": "La cohorte Sister Study (estudio prospectivo estadounidense en mujeres con antecedentes familiares de cáncer de mama) evaluó la relación entre la exposición a sustancias perfluoroalquiladas y polifluoroalquiladas (PFAS) y la incidencia de cáncer de mama, publicado en el Journal of Clinical Oncology. Interesa porque suma evidencia epidemiológica sobre contaminantes ambientales persistentes y riesgo oncológico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de cohorte prospectiva (la Sister Study, cohorte estadounidense de mujeres con antecedentes familiares de cáncer de mama); el título no precisa el número exacto de participantes de este análisis.\nPoblación: Mujeres integrantes de la cohorte Sister Study, con antecedentes familiares de cáncer de mama.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias per- y polifluoroalquiladas (PFAS) y su relación con la incidencia de cáncer de mama.\nResultados: El título no incluye cifras de riesgo relativo, hazard ratio ni intervalos de confianza asociados a la exposición.\nLimitaciones: Las cohortes de base poblacional dependen de la precisión de la medición de la exposición ambiental y pueden tener seguimiento heterogéneo; además, esta cohorte está enriquecida en antecedentes familiares, lo que podría limitar la generalización a la población general.\nMensaje: Si se confirma la asociación, reforzaría la hipótesis de que la exposición ambiental a PFAS contribuye al riesgo de cáncer de mama, con implicancias para la prevención y la regulación de estos compuestos.\nNota: análisis sin acceso al abstract."
+    },
+    "1692690887b9": {
+      "resumen": "Carta de respuesta publicada en The New England Journal of Medicine sobre el debate en torno a la combinación de inhibidores de PARP (poli ADP-ribosa polimerasa) con inhibidores de la señalización androgénica en el cáncer de próstata metastásico. Es una réplica editorial a una carta previa, sin datos propios de un nuevo estudio.",
+      "destacado": false
+    },
+    "78ea2c8558fd": {
+      "resumen": "Carta publicada en The New England Journal of Medicine que comenta los datos sobre la combinación de inhibidores de PARP (poli ADP-ribosa polimerasa) con inhibidores de la señalización androgénica en el cáncer de próstata metastásico. Vale la pena mirarla porque refleja el debate activo sobre a qué pacientes conviene ofrecerles esta combinación.",
+      "destacado": false
+    },
+    "bb5b11096def": {
+      "resumen": "Vogue presenta la colección pre-otoño (pre-fall) 2027 de Rag & Bone."
+    },
+    "2bf8a5f25faf": {
+      "resumen": "Vogue repasa la colección pre-otoño (pre-fall) 2027 de Ralph Lauren."
+    },
+    "380aca745499": {
+      "resumen": "Infobae reúne los lugares de Buenos Aires -entre galerías en un ex shopping, tango y una parrilla- que eligió The New York Times para una escapada de 36 horas."
+    },
+    "fd758b2e4833": {
+      "resumen": "El Destape detalla qué restaurantes porteños se suman al Menú Papa León XIV y cuánto cuesta comer con los descuentos."
+    },
+    "d43b93a639a5": {
+      "resumen": "Iglesia Noticias cuenta que 90 restaurantes de Buenos Aires donarán el 10% de sus ventas con el Menú Papa León."
+    },
+    "3ceb920185e4": {
+      "resumen": "El Complejo Teatral de Buenos Aires presenta una muestra de representaciones gráficas de personajes de ficción."
+    },
+    "ab8e2a874332": {
+      "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
+    },
+    "7d0e818e6986": {
+      "resumen": "Infobae cuenta que más de 40 restaurantes se suman a la Semana de la Cocina Italiana en Buenos Aires."
+    },
+    "dd2830792f65": {
+      "resumen": "Flipr.news presenta cuatro propuestas de la agenda cultural de Posadas para el fin de semana."
+    },
+    "2a4e9b01fd01": {
+      "resumen": "Canakinumab (un anticuerpo monoclonal que inhibe la interleucina-1 beta, una citocina proinflamatoria) redujo el tamaño de nódulos pulmonares considerados lesiones precancerosas de alto riesgo, según OncLive. Vale la pena mirarlo porque explora un enfoque de quimioprevención antiinflamatoria en personas con alto riesgo de desarrollar cáncer de pulmón.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de quimioprevención, probablemente de fase temprana dado que el desenlace reportado es reducción del tamaño nodular y no supervivencia; el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con nódulos pulmonares considerados lesiones precancerosas de alto riesgo (precáncer de pulmón).\nIntervención: Canakinumab, anticuerpo monoclonal anti-interleucina-1 beta (IL-1β); el título no especifica comparador.\nResultados: El título indica reducción del tamaño nodular, pero no hay cifras de magnitud del efecto, tasas de respuesta ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral ni la duración del seguimiento, y la reducción nodular es un desenlace intermedio que todavía no demuestra menor incidencia de cáncer de pulmón.\nMensaje: Si se confirma, abriría una vía de quimioprevención antiinflamatoria en personas con alto riesgo de cáncer de pulmón, aunque se necesitan datos de seguimiento a largo plazo sobre incidencia tumoral.\nNota: análisis sin acceso al abstract."
+    },
+    "c5c16e7d13e3": {
+      "resumen": "La vacuna personalizada EVX-01, dirigida a neoantígenos (proteínas mutadas propias del tumor de cada paciente), combinada con pembrolizumab (un inhibidor de punto de control inmunitario anti-PD-1), generó respuestas de linfocitos T específicas contra esos neoantígenos en melanoma avanzado, según OncLive. Interesa porque es una de las primeras lecturas de inmunogenicidad de esta estrategia de vacunación personalizada sumada a inmunoterapia.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase I/II, dado que el desenlace reportado es inmunogenicidad y no eficacia clínica); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con melanoma avanzado.\nIntervención: Vacuna personalizada EVX-01 (dirigida a neoantígenos específicos de cada tumor) combinada con pembrolizumab (inhibidor de PD-1); no se especifica comparador.\nResultados: El título reporta generación de respuestas de linfocitos T específicas contra neoantígenos, pero no incluye tasas de respuesta tumoral, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral ni la durabilidad de la respuesta inmunológica, ni si esta se tradujo en respuesta clínica objetiva.\nMensaje: Es un dato de prueba de concepto sobre inmunogenicidad; antes de pensar en cambios de práctica se necesitan datos de eficacia clínica y seguridad en cohortes más grandes.\nNota: análisis sin acceso al abstract."
+    },
+    "5cacfcbb5b50": {
+      "resumen": "VGX-3100, una inmunoterapia basada en ADN dirigida contra los genotipos 16 y 18 del virus del papiloma humano (VPH), logró la regresión y eliminación de lesiones intraepiteliales escamosas de alto grado (HSIL) de cuello uterino asociadas a esos genotipos, según OncLive. Vale la pena mirarlo porque podría ofrecer una alternativa no quirúrgica para tratar estas lesiones precancerosas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico, probablemente de fase II o III dado el tipo de desenlace (regresión histológica y aclaramiento viral); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Mujeres con lesiones intraepiteliales escamosas de alto grado (HSIL) de cuello uterino asociadas a los genotipos 16 y/o 18 del virus del papiloma humano (VPH).\nIntervención: VGX-3100, inmunoterapia basada en ADN que codifica antígenos de VPH-16/18 para inducir una respuesta inmune dirigida; no se especifica comparador (podría ser placebo).\nResultados: El título indica regresión histológica y eliminación viral, pero no hay tasas exactas de respuesta, número de pacientes ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la durabilidad de la respuesta a largo plazo ni la comparación formal frente a la conducta expectante o el tratamiento quirúrgico estándar (conización o LEEP).\nMensaje: Si se confirma con datos robustos, podría sumar una opción no quirúrgica para el manejo de HSIL cervical relacionado con VPH 16/18, relevante para preservar la fertilidad y evitar procedimientos invasivos.\nNota: análisis sin acceso al abstract."
+    },
+    "bb881750b0b2": {
+      "resumen": "Un ensayo publicado en el Journal of Clinical Oncology evaluó el metilfenidato (un psicoestimulante) para tratar la fatiga en pacientes con neoplasias hematológicas estables. Interesa porque la fatiga es uno de los síntomas más prevalentes y menos tratados en oncohematología, con pocas opciones farmacológicas de eficacia probada.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico publicado en JCO, probablemente aleatorizado y controlado contra placebo; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con neoplasias hematológicas estables (en remisión o con enfermedad controlada) que presentan fatiga relacionada con el cáncer o su tratamiento.\nIntervención: Metilfenidato, un psicoestimulante habitualmente usado en trastornos de atención, aquí evaluado para el control sintomático de la fatiga; el comparador no se especifica en el título (probablemente placebo).\nResultados: El título no incluye el desenlace principal cuantificado (escalas de fatiga, diferencia de medias, valor de p), por lo que no se puede precisar la magnitud del efecto.\nLimitaciones: Los ensayos sobre fatiga suelen tener un efecto placebo considerable y depender de escalas subjetivas autoinformadas, y los psicoestimulantes pueden generar efectos adversos cardiovasculares y sobre el sueño que limiten su uso.\nMensaje: Si los resultados son positivos, el metilfenidato podría sumarse como una herramienta farmacológica más para la fatiga oncohematológica, un síntoma con opciones de manejo todavía limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "3fc9cd1edeec": {
+      "resumen": "Un análisis retrospectivo del ensayo SCOT (que evaluó la duración de la quimioterapia adyuvante con oxaliplatino en cáncer colorrectal), publicado en el Journal of Clinical Oncology, usó una subtipificación molecular consensuada (CMS, por \"consensus molecular subtyping\") estimada a partir de imágenes histológicas para refinar el pronóstico en cáncer colorrectal en estadio II/III. Vale la pena mirarlo porque podría ofrecer una herramienta pronóstica más accesible que la clasificación molecular tradicional por secuenciación.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis retrospectivo (subestudio) del ensayo SCOT, un ensayo aleatorizado de fase III que comparó duraciones de quimioterapia adyuvante basada en oxaliplatino; este subanálisis estima la subtipificación molecular consensuada (CMS) a partir de imágenes histopatológicas. El título no precisa el número de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer colorrectal en estadio II/III que participaron del ensayo SCOT y recibieron quimioterapia adyuvante con oxaliplatino.\nIntervención: No es una intervención terapéutica nueva; se aplica un método de clasificación molecular (CMS) basado en el análisis de imágenes histológicas para refinar la estratificación pronóstica.\nResultados: El título indica que la subtipificación molecular por imágenes \"refina\" la prognosticación, pero no incluye hazard ratios, supervivencia ni intervalos de confianza.\nLimitaciones: Al ser un análisis retrospectivo y secundario de un ensayo con otro objetivo primario, los hallazgos requieren validación prospectiva; además, estimar el CMS por imágenes puede ser menos preciso que la clasificación molecular directa por secuenciación.\nMensaje: Si se valida, podría ofrecer una herramienta pronóstica más accesible y económica (basada en histología de rutina) que la clasificación molecular tradicional, útil para estratificar el riesgo en cáncer colorrectal en estadio II/III.\nNota: análisis sin acceso al abstract."
+    },
+    "52cc167b7d00": {
+      "resumen": "La compañía teatral La Zaranda estrena en Buenos Aires su obra \"Todos los ángeles alzaron el vuelo\"."
+    },
+    "5bb800f219fa": {
+      "resumen": "La banda argentina Miranda! festeja un cuarto de siglo de carrera y se sorprende de lo rápido que pasó el tiempo."
+    },
+    "710256fcd984": {
+      "resumen": "Un repaso a las tendencias en anteojos de moda para hombre vistas en la Semana de la Moda de Londres."
+    },
+    "55178a87b6fa": {
+      "resumen": "Vogue México presenta a Cesca Bistro y su propuesta en torno a la gastronomía oaxaqueña."
+    },
+    "eb7c4ec9a08b": {
+      "resumen": "El estudio de diseño Olmos & Flores presentó en Polanco un MINI personalizado como pieza de intervención artística."
+    },
+    "efcef224d2cf": {
+      "resumen": "Una agenda con más de 60 propuestas para el fin de semana largo en Buenos Aires, entre recitales, teatro, cine y muestras, muchas gratuitas."
+    },
+    "0b6428d29586": {
+      "resumen": "El actor Juan Pablo Geretto estrena en el espacio Dumont 4040 su obra de teatro \"Solo como una perra\"."
+    },
+    "07df6ac1861a": {
+      "resumen": "El ladrillo visto perdería protagonismo en la decoración frente a un revestimiento más elegante que se impondría en 2027."
+    },
+    "f3c9072e27d7": {
+      "resumen": "El diseñador Minh Long Wood explica cómo investiga las tendencias para aplicar la lógica de la moda al diseño de interiores."
+    },
+    "53e54f17789b": {
+      "resumen": "El animal print se renueva esta temporada: los estampados de cebra y bambi le ganan terreno al clásico leopardo."
+    }
   }
- }
 }
