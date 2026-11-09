@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:11:49Z",
+  "generated_at": "2026-11-09T10:11:57Z",
   "summaries": {
     "66b99bd9721c": {
       "resumen": "La Semana de la Cocina Italiana 2026 trae promociones y premios en restaurantes porteños del 16 al 22 de noviembre."
@@ -8,10 +8,6 @@
       "resumen": "El esquema ponatinib (un inhibidor de tirosina-quinasa) más blinatumomab (un anticuerpo biespecífico anti-CD19/CD3) mejoró la supervivencia libre de eventos en la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL), según The ASCO Post. Vale la pena mirarlo porque apunta a reemplazar la quimioterapia intensiva por un esquema libre de quimioterapia en esta leucemia de alto riesgo.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico (probablemente de fase II, a juzgar por el esquema libre de quimioterapia); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL).\nIntervención: Ponatinib (inhibidor de tirosina-quinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico anti-CD19/CD3); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de eventos, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad (en particular los eventos cardiovasculares asociados a ponatinib y el síndrome de liberación de citoquinas asociado a blinatumomab) ni la madurez del seguimiento.\nMensaje: Si se confirma, refuerza la tendencia a reemplazar la quimioterapia intensiva por esquemas dirigidos libres de quimioterapia en la leucemia Ph+ ALL, en línea con lo ya visto con otros inhibidores de tirosina-quinasa.\nNota: análisis sin acceso al abstract."
-    },
-    "ce793b29eb95": {
-      "resumen": "The ASCO Post reúne en esta nota sus últimas novedades sobre cáncer colorrectal. Al ser una página de recopilación y no un artículo específico, no hay un estudio puntual para resumir.",
-      "destacado": false
     },
     "eae05922c303": {
       "resumen": "El anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") izalontamab brengitecan mejoró la supervivencia libre de progresión en el cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), según The ASCO Post. Interesa porque suma una opción tras la progresión a los inhibidores de EGFR, un escenario con necesidades no cubiertas.",
@@ -31,14 +27,8 @@
     "bb5b11096def": {
       "resumen": "Vogue presenta la colección pre-otoño (pre-fall) 2027 de Rag & Bone."
     },
-    "2bf8a5f25faf": {
-      "resumen": "Vogue repasa la colección pre-otoño (pre-fall) 2027 de Ralph Lauren."
-    },
     "ab8e2a874332": {
       "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
-    },
-    "dd2830792f65": {
-      "resumen": "Flipr.news presenta cuatro propuestas de la agenda cultural de Posadas para el fin de semana."
     },
     "bb881750b0b2": {
       "resumen": "Un ensayo publicado en el Journal of Clinical Oncology evaluó el metilfenidato (un psicoestimulante) para tratar la fatiga en pacientes con neoplasias hematológicas estables. Interesa porque la fatiga es uno de los síntomas más prevalentes y menos tratados en oncohematología, con pocas opciones farmacológicas de eficacia probada.",
@@ -59,47 +49,6 @@
     "fa2600767620": {
       "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
     },
-    "ff528c9d6fa7": {
-      "resumen": "Un reporte de OncLive sobre datos tempranos de la combinación de invikafusp alfa (un anticuerpo biespecífico en investigación) con sacituzumab govitecan (un anticuerpo conjugado a droga, o ADC, dirigido contra la proteína Trop-2) muestra respuestas tumorales en cáncer de mama metastásico triple negativo (TNBC, por sus siglas en inglés) y en el subtipo con receptores hormonales positivos y HER2 negativo (HR+/HER2-). Vale la pena mirarlo porque explora una estrategia de combinación entre inmunoterapia dirigida y un ADC ya aprobado en un tumor de manejo difícil.",
-      "destacado": false,
-      "analisis": "Diseño: El título sugiere un ensayo clínico temprano (probablemente fase I o I/II, dado que reporta datos preliminares de una combinación); no se detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de mama metastásico, en dos subgrupos: triple negativo (TNBC) y con receptores hormonales positivos y HER2 negativo (HR+/HER2-).\nIntervención: Combinación de invikafusp alfa (anticuerpo biespecífico en investigación) con sacituzumab govitecan (anticuerpo conjugado a droga, o ADC, dirigido contra Trop-2); el título no menciona comparador.\nResultados: El título indica que la combinación \"genera respuestas\", pero no incluye tasa de respuesta objetiva, duración de la respuesta ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad (los ADC suelen asociarse a eventos hematológicos y gastrointestinales) ni la madurez del seguimiento; al ser datos preliminares, podrían no sostenerse en cohortes más grandes.\nMensaje: Si se confirma, sumaría una alternativa de combinación para el cáncer de mama metastásico en dos subtipos con necesidades terapéuticas distintas, ampliando el uso de sacituzumab govitecan más allá de la monoterapia.\nNota: análisis sin acceso al abstract."
-    },
-    "998cdb8c3757": {
-      "resumen": "OncLive recopila en un video los cinco contenidos más vistos de la semana sobre oncología. Es una nota de formato recopilatorio, sin un estudio puntual, pero sirve como repaso rápido de los temas que generaron más interés en la comunidad oncológica esa semana.",
-      "destacado": false
-    },
-    "1b9ffcf13cb6": {
-      "resumen": "Este ítem corresponde a la página general de OncLive, el portal de noticias de oncología clínica, sin un artículo específico asociado. No hay contenido puntual para resumir.",
-      "destacado": false
-    },
-    "631cb3a4e8b5": {
-      "resumen": "JAMA Oncology publica una propuesta global para actualizar el sistema de estadificación TNM (que clasifica los tumores según su tamaño, el compromiso ganglionar y la presencia de metástasis a distancia) específicamente para el cáncer de tiroides pobremente diferenciado. Interesa porque este subtipo tiene un comportamiento intermedio entre el cáncer de tiroides bien diferenciado y el anaplásico, y hoy carece de una estadificación específica y consensuada.",
-      "destacado": false,
-      "analisis": "Diseño: El título describe una propuesta de consenso internacional para un sistema de estadificación, probablemente basada en el análisis de cohortes o registros multicéntricos de pacientes con cáncer de tiroides pobremente diferenciado; no se detalla el número de centros ni de pacientes incluidos en el análisis que sustenta la propuesta.\nPoblación: Pacientes con cáncer de tiroides pobremente diferenciado, un subtipo con pronóstico intermedio entre el bien diferenciado y el anaplásico.\nIntervención: No aplica un tratamiento; se trata de una revisión y actualización del sistema de estadificación TNM (tumor, ganglios, metástasis) para este subtipo tumoral específico.\nResultados: El título no incluye datos de validación pronóstica (como índices de concordancia o diferencias de supervivencia entre estadios) de la nueva propuesta.\nLimitaciones: Las propuestas de estadificación basadas en registros retrospectivos pueden verse afectadas por sesgos de selección y heterogeneidad diagnóstica entre centros, y su adopción clínica real depende de validación externa posterior.\nMensaje: Si se adopta, podría mejorar la estratificación pronóstica y la toma de decisiones terapéuticas en el cáncer de tiroides pobremente diferenciado, un subtipo hoy subrepresentado en los sistemas de estadificación vigentes.\nNota: análisis sin acceso al abstract."
-    },
-    "b7804f0060f1": {
-      "resumen": "Un estudio en JAMA Oncology analiza las tendencias de representación racial y étnica entre los médicos en formación (residentes y becarios) en oncología en Estados Unidos. Vale la pena mirarlo porque la diversidad en la fuerza de trabajo oncológica se asocia con una mejor atención a poblaciones históricamente subrepresentadas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional de tendencias temporales (probablemente un análisis transversal repetido o de cohorte, a partir de bases de datos de formación médica); el título no precisa el período analizado ni el número de programas o médicos en formación incluidos.\nPoblación: Médicos en formación (residentes y becarios) en programas de oncología en Estados Unidos, estratificados por raza y etnia.\nIntervención: No aplica un tratamiento; se trata de un análisis descriptivo de composición demográfica a lo largo del tiempo.\nResultados: El título no incluye cifras de representación por grupo racial o étnico ni la magnitud del cambio temporal.\nLimitaciones: Los estudios de composición demográfica basados en bases de datos administrativas pueden tener registros incompletos de raza y etnia autoinformada, y no permiten establecer causalidad sobre las barreras subyacentes a la falta de representación.\nMensaje: Documentar estas tendencias es un primer paso para diseñar políticas de equidad e inclusión en los programas de formación oncológica, con el objetivo de que la fuerza de trabajo refleje mejor a la población de pacientes.\nNota: análisis sin acceso al abstract."
-    },
-    "4c6c8e842adc": {
-      "resumen": "Stradivarius tiene los botines que la actriz española Paula Echevarría elige para sumarse a las tendencias de esta temporada de otoño."
-    },
-    "76fb2c9021a7": {
-      "resumen": "Los aros que usó Kate Middleton en el Día del Recuerdo 2026 (la conmemoración británica a los caídos en guerra) tendrían un simbolismo particular detrás de la elección."
-    },
-    "43553c8b5915": {
-      "resumen": "Los jeans acampanados que lucieron Salma Hayek y Eiza González se imponen como tendencia para combinar con botines de tacón este otoño 2026."
-    },
-    "523aaa5714f5": {
-      "resumen": "Cinco modelos de zapatillas blancas con estética ochentosa vuelven a ser tendencia para este otoño 2026."
-    },
-    "deacb525cace": {
-      "resumen": "Un repaso de las prendas que no pueden faltar este noviembre según las mujeres consideradas más estilosas del momento."
-    },
-    "5b284eaa9d70": {
-      "resumen": "Las tendencias de moda de esta temporada de otoño-invierno también empiezan a reflejarse en la decoración del hogar."
-    },
     "08aab086e689": {
       "resumen": "Más de 150 voces y una orquesta prepararán la música para la misa de bienvenida al papa León XIV en Buenos Aires."
     },
@@ -112,8 +61,52 @@
     "0f90eb914faa": {
       "resumen": "Una agenda con 26 propuestas entre ferias, conciertos y experiencias para el fin de semana del 5 al 8 de noviembre en Buenos Aires."
     },
-    "1cb99f925443": {
-      "resumen": "La policía detuvo a un hombre que se había hecho pasar por bombero voluntario a pocos metros del escenario donde oficiará el Papa León XIV en Palermo."
+    "d17e5fc7690c": {
+      "resumen": "Cesalatamig, un anticuerpo biespecífico en desarrollo, mostró actividad antitumoral que aumenta con la dosis en pacientes con cáncer de pulmón de células no pequeñas (NSCLC) que ya habían progresado a inhibidores de PD-1/PD-L1 (proteína de muerte celular programada 1 y su ligando). Vale la pena seguirlo porque apunta a un escenario post-inmunoterapia donde las opciones todavía son limitadas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico, probablemente de fase I con escalada de dosis, dado que reporta actividad \"dependiente de la dosis\"; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) que ya recibieron y progresaron a inhibidores de PD-1/PD-L1 (proteína de muerte celular programada 1 y su ligando).\nIntervención: Cesalatamig en monoterapia; el título no especifica comparador, consistente con un estudio de un solo brazo en fase temprana.\nResultados: El título indica actividad antitumoral dependiente de la dosis, pero no incluye tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud de la respuesta ni el perfil de toxicidad, relevante en anticuerpos biespecíficos donde el síndrome de liberación de citoquinas es frecuente.\nMensaje: Si se confirma en fases más avanzadas, podría sumar una alternativa para NSCLC que progresa a la inmunoterapia, un escenario con necesidad clínica no resuelta.\nNota: análisis sin acceso al abstract."
+    },
+    "f4c7d9cd2df6": {
+      "resumen": "En esta entrevista, un especialista repasa qué tan viable es usar lifileucel —terapia celular con linfocitos infiltrantes de tumor (TIL, por tumor-infiltrating lymphocytes)— en sarcomas metastásicos seleccionados. Es una mirada clínica sobre extender a tumores sólidos raros una terapia celular ya aprobada en melanoma.",
+      "destacado": false
+    },
+    "d75c5e6b51b7": {
+      "resumen": "Un especialista analiza los resultados de WTX-124, una citocina que se activa selectivamente dentro del tumor, usada sola o combinada con pembrolizumab (inhibidor de PD-1, proteína de muerte celular programada 1), en tumores sólidos avanzados sensibles a la inmunoterapia. Interesa como ejemplo de estrategias para potenciar la respuesta a los inhibidores de punto de control.",
+      "destacado": false
+    },
+    "cf9fee7cc1d8": {
+      "resumen": "La Asociación Americana del Pulmón y la Fundación Prevent Cancer organizaron un taller virtual, en el marco de la Semana de Concientización sobre Cáncer de Pulmón, para discutir cómo llevar a la práctica clínica de rutina la información de salud que surge del tamizaje con tomografía computada de tórax. Relevante para quienes siguen de cerca las políticas de detección precoz de cáncer de pulmón.",
+      "destacado": false
+    },
+    "8fc6319728f3": {
+      "resumen": "La estilista Piluka de Echegaray adelanta las tendencias de 2027: prendas más personales, femeninas y relajadas, pensadas para jugar con la ropa y sentirse cómoda."
+    },
+    "b89e181cd6c4": {
+      "resumen": "Un repaso por las diez prendas clave que las parisinas no dejan de usar en su guardarropa cápsula de otoño, y por qué conviene invertir en ellas."
+    },
+    "322d77293014": {
+      "resumen": "Los perfumes con aroma a café recién hecho se instalan como tendencia de otoño: fragancias cálidas, envolventes y de larga duración."
+    },
+    "ff6461891781": {
+      "resumen": "El estilo 'cozy chic', cómodo pero prolijo, se consolida como una de las apuestas fuertes de la moda de este otoño."
+    },
+    "ed90fa0b4a83": {
+      "resumen": "Una guía con fotos y consejos de los peinados para pelo largo que más favorecen a partir de los 50 años."
+    },
+    "778dc058a19b": {
+      "resumen": "Vogue armó una guía experta con todo lo que hay que saber antes de comprar un reloj vintage."
+    },
+    "b0ef29317d17": {
+      "resumen": "Salma Hayek eligió un vestido de fiesta rojo deslumbrante para brillar en la gala LACMA Art + Film 2026."
+    },
+    "875d2c6f78e3": {
+      "resumen": "Marta Fort habló con crudeza sobre crecer sin su mamá y reflexionó sobre por qué no se puede extrañar algo que nunca se tuvo."
+    },
+    "d48b99cd16c7": {
+      "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
+    },
+    "1643a27c9476": {
+      "resumen": "Minuto a minuto de la visita del papa León XIV a la Argentina, con la expectativa puesta en su paso por Don Orione y la misa en Palermo."
     }
   }
 }
