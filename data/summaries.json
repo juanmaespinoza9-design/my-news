@@ -1,18 +1,39 @@
 {
-  "generated_at": "2026-11-09T10:11:57Z",
+  "generated_at": "2026-11-09T22:11:56Z",
   "summaries": {
-    "66b99bd9721c": {
-      "resumen": "La Semana de la Cocina Italiana 2026 trae promociones y premios en restaurantes porteños del 16 al 22 de noviembre."
+    "00cbf7073889": {
+      "resumen": "La columna \"FDA Flashback\" de OncLive resume las decisiones regulatorias de la FDA (agencia reguladora de medicamentos de Estados Unidos) sobre cánceres hematológicos durante octubre de 2026. Sirve como repaso rápido de aprobaciones y novedades regulatorias en oncohematología del mes.",
+      "destacado": false
     },
-    "ee445572590f": {
-      "resumen": "El esquema ponatinib (un inhibidor de tirosina-quinasa) más blinatumomab (un anticuerpo biespecífico anti-CD19/CD3) mejoró la supervivencia libre de eventos en la leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL), según The ASCO Post. Vale la pena mirarlo porque apunta a reemplazar la quimioterapia intensiva por un esquema libre de quimioterapia en esta leucemia de alto riesgo.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico (probablemente de fase II, a juzgar por el esquema libre de quimioterapia); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con leucemia linfoblástica aguda con cromosoma Filadelfia positivo (Ph+ ALL).\nIntervención: Ponatinib (inhibidor de tirosina-quinasa de tercera generación) combinado con blinatumomab (anticuerpo biespecífico anti-CD19/CD3); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de eventos, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la toxicidad (en particular los eventos cardiovasculares asociados a ponatinib y el síndrome de liberación de citoquinas asociado a blinatumomab) ni la madurez del seguimiento.\nMensaje: Si se confirma, refuerza la tendencia a reemplazar la quimioterapia intensiva por esquemas dirigidos libres de quimioterapia en la leucemia Ph+ ALL, en línea con lo ya visto con otros inhibidores de tirosina-quinasa.\nNota: análisis sin acceso al abstract."
+    "22f89a3bf366": {
+      "resumen": "Edición del 10 de noviembre de 2026 del boletín diario de The ASCO Post (American Society of Clinical Oncology), con las noticias oncológicas destacadas de la jornada. Funciona como puerta de entrada a la actualidad en oncología de ese día.",
+      "destacado": false
     },
-    "eae05922c303": {
-      "resumen": "El anticuerpo conjugado a droga (ADC, por \"antibody-drug conjugate\") izalontamab brengitecan mejoró la supervivencia libre de progresión en el cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), según The ASCO Post. Interesa porque suma una opción tras la progresión a los inhibidores de EGFR, un escenario con necesidades no cubiertas.",
+    "f1fc05cf6667": {
+      "resumen": "The ASCO Post reporta que dos \"químicos eternos\" (PFAS, sustancias perfluoroalquiladas de uso industrial y alta persistencia ambiental) se asociaron con mayor riesgo de cáncer de mama con receptores de estrógeno negativos, retomando los hallazgos de dos cohortes publicadas en el Journal of Clinical Oncology (ver los ítems sobre PFAS y cáncer de mama en esta misma sección). Vale la pena mirarlo como resumen periodístico accesible de esa evidencia.",
+      "destacado": false
+    },
+    "8e9f8e45d353": {
+      "resumen": "The ASCO Post reporta que el metilfenidato (un psicoestimulante) podría reducir la fatiga relacionada con el cáncer en pacientes con neoplasias hematológicas estables, retomando el ensayo publicado en el Journal of Clinical Oncology (ver ítem correspondiente en esta sección). Interesa como cobertura periodística de un síntoma muy prevalente y con pocas opciones de tratamiento en oncohematología.",
+      "destacado": false
+    },
+    "3be989c06287": {
+      "resumen": "El Dr. Caio Negrao, especialista en cáncer de pulmón, analiza en OncLive el uso de olomorasib (un inhibidor de KRAS G12C) combinado con quimioinmunoterapia en cáncer de pulmón de células no pequeñas (NSCLC) con mutación KRAS G12C. Interesa como mirada experta sobre una estrategia de combinación en un subtipo molecular con opciones terapéuticas en expansión.",
+      "destacado": false
+    },
+    "164992d8701a": {
+      "resumen": "OncLive repasa las lecciones del ensayo AMPLIFY-7P para el desarrollo de vacunas dirigidas a KRAS mutado en cáncer de páncreas, un tumor de pronóstico sombrío con pocas estrategias inmunoterápicas exitosas hasta ahora. Vale la pena mirarlo como balance crítico de qué no funcionó y qué ajustar en los próximos ensayos de este tipo de vacunas.",
+      "destacado": false
+    },
+    "3fc9cd1edeec": {
+      "resumen": "Un análisis retrospectivo del ensayo SCOT (que evaluó la duración de la quimioterapia adyuvante con oxaliplatino en cáncer colorrectal), publicado en el Journal of Clinical Oncology, usó una subtipificación molecular consensuada (CMS, por \"consensus molecular subtyping\") estimada a partir de imágenes histológicas para refinar el pronóstico en cáncer colorrectal en estadio II/III. Vale la pena mirarlo porque podría ofrecer una herramienta pronóstica más accesible que la clasificación molecular tradicional por secuenciación.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (probablemente de fase II o III, dado que reporta un criterio de valoración de eficacia comparativo); el título no detalla aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) no escamoso avanzado con mutación de EGFR (receptor del factor de crecimiento epidérmico), presumiblemente progresados a inhibidores de EGFR previos.\nIntervención: Izalontamab brengitecan, un anticuerpo conjugado a droga (ADC); el título no especifica el comparador.\nResultados: El título indica una mejora en la supervivencia libre de progresión, pero no hay mediana, hazard ratio ni intervalo de confianza disponibles.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud del beneficio, el perfil de toxicidad propio de los ADC (frecuentes eventos hematológicos, hepáticos y pulmonares en esta clase de fármacos) ni el impacto en supervivencia global.\nMensaje: Si se confirma, sumaría una opción dirigida tras la progresión a inhibidores de EGFR en NSCLC no escamoso, un escenario con necesidades terapéuticas no cubiertas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Análisis retrospectivo (subestudio) del ensayo SCOT, un ensayo aleatorizado de fase III que comparó duraciones de quimioterapia adyuvante basada en oxaliplatino; este subanálisis estima la subtipificación molecular consensuada (CMS) a partir de imágenes histopatológicas. El título no precisa el número de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer colorrectal en estadio II/III que participaron del ensayo SCOT y recibieron quimioterapia adyuvante con oxaliplatino.\nIntervención: No es una intervención terapéutica nueva; se aplica un método de clasificación molecular (CMS) basado en el análisis de imágenes histológicas para refinar la estratificación pronóstica.\nResultados: El título indica que la subtipificación molecular por imágenes \"refina\" la prognosticación, pero no incluye hazard ratios, supervivencia ni intervalos de confianza.\nLimitaciones: Al ser un análisis retrospectivo y secundario de un ensayo con otro objetivo primario, los hallazgos requieren validación prospectiva; además, estimar el CMS por imágenes puede ser menos preciso que la clasificación molecular directa por secuenciación.\nMensaje: Si se valida, podría ofrecer una herramienta pronóstica más accesible y económica (basada en histología de rutina) que la clasificación molecular tradicional, útil para estratificar el riesgo en cáncer colorrectal en estadio II/III.\nNota: análisis sin acceso al abstract."
+    },
+    "bb881750b0b2": {
+      "resumen": "Un ensayo publicado en el Journal of Clinical Oncology evaluó el metilfenidato (un psicoestimulante) para tratar la fatiga en pacientes con neoplasias hematológicas estables. Interesa porque la fatiga es uno de los síntomas más prevalentes y menos tratados en oncohematología, con pocas opciones farmacológicas de eficacia probada.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico publicado en JCO, probablemente aleatorizado y controlado contra placebo; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con neoplasias hematológicas estables (en remisión o con enfermedad controlada) que presentan fatiga relacionada con el cáncer o su tratamiento.\nIntervención: Metilfenidato, un psicoestimulante habitualmente usado en trastornos de atención, aquí evaluado para el control sintomático de la fatiga; el comparador no se especifica en el título (probablemente placebo).\nResultados: El título no incluye el desenlace principal cuantificado (escalas de fatiga, diferencia de medias, valor de p), por lo que no se puede precisar la magnitud del efecto.\nLimitaciones: Los ensayos sobre fatiga suelen tener un efecto placebo considerable y depender de escalas subjetivas autoinformadas, y los psicoestimulantes pueden generar efectos adversos cardiovasculares y sobre el sueño que limiten su uso.\nMensaje: Si los resultados son positivos, el metilfenidato podría sumarse como una herramienta farmacológica más para la fatiga oncohematológica, un síntoma con opciones de manejo todavía limitadas.\nNota: análisis sin acceso al abstract."
     },
     "1d80e0b286fb": {
       "resumen": "Un estudio publicado en el Journal of Clinical Oncology analiza la exposición a sustancias perfluoroalquiladas (PFAS, compuestos químicos persistentes de uso industrial) como factor de riesgo para el cáncer de mama con receptores de estrógeno negativos, más allá de los factores de riesgo tradicionales. Vale la pena mirarlo porque este subtipo tumoral tiene peor pronóstico y menos factores de riesgo modificables identificados.",
@@ -24,24 +45,43 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de cohorte prospectiva (la Sister Study, cohorte estadounidense de mujeres con antecedentes familiares de cáncer de mama); el título no precisa el número exacto de participantes de este análisis.\nPoblación: Mujeres integrantes de la cohorte Sister Study, con antecedentes familiares de cáncer de mama.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias per- y polifluoroalquiladas (PFAS) y su relación con la incidencia de cáncer de mama.\nResultados: El título no incluye cifras de riesgo relativo, hazard ratio ni intervalos de confianza asociados a la exposición.\nLimitaciones: Las cohortes de base poblacional dependen de la precisión de la medición de la exposición ambiental y pueden tener seguimiento heterogéneo; además, esta cohorte está enriquecida en antecedentes familiares, lo que podría limitar la generalización a la población general.\nMensaje: Si se confirma la asociación, reforzaría la hipótesis de que la exposición ambiental a PFAS contribuye al riesgo de cáncer de mama, con implicancias para la prevención y la regulación de estos compuestos.\nNota: análisis sin acceso al abstract."
     },
-    "bb5b11096def": {
-      "resumen": "Vogue presenta la colección pre-otoño (pre-fall) 2027 de Rag & Bone."
+    "1692690887b9": {
+      "resumen": "Respuesta de los autores a una carta al editor sobre inhibición combinada de PARP (poli ADP-ribosa polimerasa) y de la señalización androgénica en cáncer de próstata metastásico, publicada en The New England Journal of Medicine. Completa el intercambio y aporta precisiones de los investigadores originales frente a las objeciones planteadas.",
+      "destacado": false
+    },
+    "78ea2c8558fd": {
+      "resumen": "Carta al editor publicada en The New England Journal of Medicine que discute los resultados de un ensayo sobre inhibición combinada de PARP (poli ADP-ribosa polimerasa) y de la señalización androgénica en cáncer de próstata metastásico. Interesa porque este tipo de intercambios suele señalar matices metodológicos o de interpretación clínica que no siempre se leen en el artículo original.",
+      "destacado": false
+    },
+    "81671fecc5b5": {
+      "resumen": "Lucía Lafuente se casó con Álvaro con un vestido de estilo años 70, en una ceremonia celebrada en un antiguo convento en ruinas."
+    },
+    "c8b0300a9e5f": {
+      "resumen": "Los jeans baggy de tiro bajo, furor de los años 2000, vuelven a la moda y Jennifer Lawrence muestra cómo lucirlos este otoño 2026."
+    },
+    "43f037d102a2": {
+      "resumen": "La cantante Danna cerró la última función de \"Mentiras All Stars\" con un vestido de lentejuelas creado por Mitzy e inspirado en Rocío Dúrcal."
+    },
+    "6d59577d2a38": {
+      "resumen": "La experta en moda Maripi Robles analiza el estilo de Flora Pérez, madre de Marta Ortega, y destaca que domina los códigos de la moda sin someterse a las tendencias."
+    },
+    "a89a6683cdab": {
+      "resumen": "La falda de piel vuelve a ser tendencia y Zara relanzó su modelo más vendido en los dos colores estrella de la temporada de otoño."
+    },
+    "15594c394d12": {
+      "resumen": "Las mesas ratonas rectangulares quedaron atrás: se viene una nueva tendencia de diseño de interiores para 2027 pensada para renovar el living."
+    },
+    "51d09dd41b0a": {
+      "resumen": "La banda Canto 4 colmó el Teatro Ópera de Buenos Aires en una noche histórica para sus fans."
+    },
+    "fd758b2e4833": {
+      "resumen": "Qué restaurantes porteños lanzaron un menú especial por la visita del papa León XIV y cuánto sale comer con los descuentos disponibles."
+    },
+    "66b99bd9721c": {
+      "resumen": "La Semana de la Cocina Italiana 2026 trae promociones y premios en restaurantes porteños del 16 al 22 de noviembre."
     },
     "ab8e2a874332": {
       "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
-    },
-    "bb881750b0b2": {
-      "resumen": "Un ensayo publicado en el Journal of Clinical Oncology evaluó el metilfenidato (un psicoestimulante) para tratar la fatiga en pacientes con neoplasias hematológicas estables. Interesa porque la fatiga es uno de los síntomas más prevalentes y menos tratados en oncohematología, con pocas opciones farmacológicas de eficacia probada.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico publicado en JCO, probablemente aleatorizado y controlado contra placebo; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con neoplasias hematológicas estables (en remisión o con enfermedad controlada) que presentan fatiga relacionada con el cáncer o su tratamiento.\nIntervención: Metilfenidato, un psicoestimulante habitualmente usado en trastornos de atención, aquí evaluado para el control sintomático de la fatiga; el comparador no se especifica en el título (probablemente placebo).\nResultados: El título no incluye el desenlace principal cuantificado (escalas de fatiga, diferencia de medias, valor de p), por lo que no se puede precisar la magnitud del efecto.\nLimitaciones: Los ensayos sobre fatiga suelen tener un efecto placebo considerable y depender de escalas subjetivas autoinformadas, y los psicoestimulantes pueden generar efectos adversos cardiovasculares y sobre el sueño que limiten su uso.\nMensaje: Si los resultados son positivos, el metilfenidato podría sumarse como una herramienta farmacológica más para la fatiga oncohematológica, un síntoma con opciones de manejo todavía limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "3fc9cd1edeec": {
-      "resumen": "Un análisis retrospectivo del ensayo SCOT (que evaluó la duración de la quimioterapia adyuvante con oxaliplatino en cáncer colorrectal), publicado en el Journal of Clinical Oncology, usó una subtipificación molecular consensuada (CMS, por \"consensus molecular subtyping\") estimada a partir de imágenes histológicas para refinar el pronóstico en cáncer colorrectal en estadio II/III. Vale la pena mirarlo porque podría ofrecer una herramienta pronóstica más accesible que la clasificación molecular tradicional por secuenciación.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis retrospectivo (subestudio) del ensayo SCOT, un ensayo aleatorizado de fase III que comparó duraciones de quimioterapia adyuvante basada en oxaliplatino; este subanálisis estima la subtipificación molecular consensuada (CMS) a partir de imágenes histopatológicas. El título no precisa el número de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer colorrectal en estadio II/III que participaron del ensayo SCOT y recibieron quimioterapia adyuvante con oxaliplatino.\nIntervención: No es una intervención terapéutica nueva; se aplica un método de clasificación molecular (CMS) basado en el análisis de imágenes histológicas para refinar la estratificación pronóstica.\nResultados: El título indica que la subtipificación molecular por imágenes \"refina\" la prognosticación, pero no incluye hazard ratios, supervivencia ni intervalos de confianza.\nLimitaciones: Al ser un análisis retrospectivo y secundario de un ensayo con otro objetivo primario, los hallazgos requieren validación prospectiva; además, estimar el CMS por imágenes puede ser menos preciso que la clasificación molecular directa por secuenciación.\nMensaje: Si se valida, podría ofrecer una herramienta pronóstica más accesible y económica (basada en histología de rutina) que la clasificación molecular tradicional, útil para estratificar el riesgo en cáncer colorrectal en estadio II/III.\nNota: análisis sin acceso al abstract."
-    },
-    "ac2dad44299c": {
-      "resumen": "Una obra de teatro sobre el Che Guevara, montada en un formato de teatro griego itinerante que ya recorrió el mundo, llega a Buenos Aires."
     },
     "aa2d5f4429c8": {
       "resumen": "Todos los detalles de la Marcha del Orgullo 2026 en la Ciudad de Buenos Aires: horarios, artistas confirmados, homenajes, recorrido y los cortes de calle previstos."
@@ -55,58 +95,11 @@
     "327b7f4c46f5": {
       "resumen": "Una guía con los cinco festivales imperdibles y otros recitales para cerrar el año a pleno en Buenos Aires."
     },
-    "804d92af2978": {
-      "resumen": "Por el Día Mundial del Brownie, un recorrido por distintas versiones de este clásico para probar en Buenos Aires."
-    },
     "0f90eb914faa": {
       "resumen": "Una agenda con 26 propuestas entre ferias, conciertos y experiencias para el fin de semana del 5 al 8 de noviembre en Buenos Aires."
     },
-    "d17e5fc7690c": {
-      "resumen": "Cesalatamig, un anticuerpo biespecífico en desarrollo, mostró actividad antitumoral que aumenta con la dosis en pacientes con cáncer de pulmón de células no pequeñas (NSCLC) que ya habían progresado a inhibidores de PD-1/PD-L1 (proteína de muerte celular programada 1 y su ligando). Vale la pena seguirlo porque apunta a un escenario post-inmunoterapia donde las opciones todavía son limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico, probablemente de fase I con escalada de dosis, dado que reporta actividad \"dependiente de la dosis\"; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) que ya recibieron y progresaron a inhibidores de PD-1/PD-L1 (proteína de muerte celular programada 1 y su ligando).\nIntervención: Cesalatamig en monoterapia; el título no especifica comparador, consistente con un estudio de un solo brazo en fase temprana.\nResultados: El título indica actividad antitumoral dependiente de la dosis, pero no incluye tasa de respuesta, supervivencia libre de progresión ni intervalos de confianza.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño muestral, la magnitud de la respuesta ni el perfil de toxicidad, relevante en anticuerpos biespecíficos donde el síndrome de liberación de citoquinas es frecuente.\nMensaje: Si se confirma en fases más avanzadas, podría sumar una alternativa para NSCLC que progresa a la inmunoterapia, un escenario con necesidad clínica no resuelta.\nNota: análisis sin acceso al abstract."
-    },
-    "f4c7d9cd2df6": {
-      "resumen": "En esta entrevista, un especialista repasa qué tan viable es usar lifileucel —terapia celular con linfocitos infiltrantes de tumor (TIL, por tumor-infiltrating lymphocytes)— en sarcomas metastásicos seleccionados. Es una mirada clínica sobre extender a tumores sólidos raros una terapia celular ya aprobada en melanoma.",
-      "destacado": false
-    },
-    "d75c5e6b51b7": {
-      "resumen": "Un especialista analiza los resultados de WTX-124, una citocina que se activa selectivamente dentro del tumor, usada sola o combinada con pembrolizumab (inhibidor de PD-1, proteína de muerte celular programada 1), en tumores sólidos avanzados sensibles a la inmunoterapia. Interesa como ejemplo de estrategias para potenciar la respuesta a los inhibidores de punto de control.",
-      "destacado": false
-    },
-    "cf9fee7cc1d8": {
-      "resumen": "La Asociación Americana del Pulmón y la Fundación Prevent Cancer organizaron un taller virtual, en el marco de la Semana de Concientización sobre Cáncer de Pulmón, para discutir cómo llevar a la práctica clínica de rutina la información de salud que surge del tamizaje con tomografía computada de tórax. Relevante para quienes siguen de cerca las políticas de detección precoz de cáncer de pulmón.",
-      "destacado": false
-    },
-    "8fc6319728f3": {
-      "resumen": "La estilista Piluka de Echegaray adelanta las tendencias de 2027: prendas más personales, femeninas y relajadas, pensadas para jugar con la ropa y sentirse cómoda."
-    },
-    "b89e181cd6c4": {
-      "resumen": "Un repaso por las diez prendas clave que las parisinas no dejan de usar en su guardarropa cápsula de otoño, y por qué conviene invertir en ellas."
-    },
-    "322d77293014": {
-      "resumen": "Los perfumes con aroma a café recién hecho se instalan como tendencia de otoño: fragancias cálidas, envolventes y de larga duración."
-    },
-    "ff6461891781": {
-      "resumen": "El estilo 'cozy chic', cómodo pero prolijo, se consolida como una de las apuestas fuertes de la moda de este otoño."
-    },
-    "ed90fa0b4a83": {
-      "resumen": "Una guía con fotos y consejos de los peinados para pelo largo que más favorecen a partir de los 50 años."
-    },
-    "778dc058a19b": {
-      "resumen": "Vogue armó una guía experta con todo lo que hay que saber antes de comprar un reloj vintage."
-    },
-    "b0ef29317d17": {
-      "resumen": "Salma Hayek eligió un vestido de fiesta rojo deslumbrante para brillar en la gala LACMA Art + Film 2026."
-    },
-    "875d2c6f78e3": {
-      "resumen": "Marta Fort habló con crudeza sobre crecer sin su mamá y reflexionó sobre por qué no se puede extrañar algo que nunca se tuvo."
-    },
     "d48b99cd16c7": {
       "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
-    },
-    "1643a27c9476": {
-      "resumen": "Minuto a minuto de la visita del papa León XIV a la Argentina, con la expectativa puesta en su paso por Don Orione y la misa en Palermo."
     }
   }
 }
