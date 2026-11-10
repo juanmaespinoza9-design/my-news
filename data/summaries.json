@@ -1,29 +1,19 @@
 {
-  "generated_at": "2026-11-09T22:11:56Z",
+  "generated_at": "2026-11-10T10:11:54Z",
   "summaries": {
-    "00cbf7073889": {
-      "resumen": "La columna \"FDA Flashback\" de OncLive resume las decisiones regulatorias de la FDA (agencia reguladora de medicamentos de Estados Unidos) sobre cánceres hematológicos durante octubre de 2026. Sirve como repaso rápido de aprobaciones y novedades regulatorias en oncohematología del mes.",
-      "destacado": false
-    },
     "22f89a3bf366": {
       "resumen": "Edición del 10 de noviembre de 2026 del boletín diario de The ASCO Post (American Society of Clinical Oncology), con las noticias oncológicas destacadas de la jornada. Funciona como puerta de entrada a la actualidad en oncología de ese día.",
       "destacado": false
     },
     "f1fc05cf6667": {
       "resumen": "The ASCO Post reporta que dos \"químicos eternos\" (PFAS, sustancias perfluoroalquiladas de uso industrial y alta persistencia ambiental) se asociaron con mayor riesgo de cáncer de mama con receptores de estrógeno negativos, retomando los hallazgos de dos cohortes publicadas en el Journal of Clinical Oncology (ver los ítems sobre PFAS y cáncer de mama en esta misma sección). Vale la pena mirarlo como resumen periodístico accesible de esa evidencia.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Nota periodística de The ASCO Post que resume hallazgos de estudios epidemiológicos sobre exposición a sustancias perfluoroalquiladas (PFAS) y cáncer de mama; no es en sí mismo el estudio primario.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, según los estudios epidemiológicos citados.\nIntervención: No aplica tratamiento; se analiza la exposición ambiental a PFAS como factor de riesgo.\nResultados: La nota no reporta cifras propias de riesgo relativo ni intervalos de confianza; remite a los estudios originales (ver ítem sobre PFAS y cáncer de mama de esta misma sección).\nLimitaciones: Al ser una cobertura periodística y no el artículo original, no permite evaluar directamente la calidad metodológica del estudio ni el control de factores de confusión.\nMensaje: Refuerza mediáticamente la hipótesis de que la exposición a PFAS podría ser un factor de riesgo ambiental para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pronóstico más desfavorable.\nNota: análisis sin acceso al abstract."
     },
     "8e9f8e45d353": {
       "resumen": "The ASCO Post reporta que el metilfenidato (un psicoestimulante) podría reducir la fatiga relacionada con el cáncer en pacientes con neoplasias hematológicas estables, retomando el ensayo publicado en el Journal of Clinical Oncology (ver ítem correspondiente en esta sección). Interesa como cobertura periodística de un síntoma muy prevalente y con pocas opciones de tratamiento en oncohematología.",
-      "destacado": false
-    },
-    "3be989c06287": {
-      "resumen": "El Dr. Caio Negrao, especialista en cáncer de pulmón, analiza en OncLive el uso de olomorasib (un inhibidor de KRAS G12C) combinado con quimioinmunoterapia en cáncer de pulmón de células no pequeñas (NSCLC) con mutación KRAS G12C. Interesa como mirada experta sobre una estrategia de combinación en un subtipo molecular con opciones terapéuticas en expansión.",
-      "destacado": false
-    },
-    "164992d8701a": {
-      "resumen": "OncLive repasa las lecciones del ensayo AMPLIFY-7P para el desarrollo de vacunas dirigidas a KRAS mutado en cáncer de páncreas, un tumor de pronóstico sombrío con pocas estrategias inmunoterápicas exitosas hasta ahora. Vale la pena mirarlo como balance crítico de qué no funcionó y qué ajustar en los próximos ensayos de este tipo de vacunas.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Nota periodística de The ASCO Post que resume un ensayo clínico sobre metilfenidato para la fatiga oncológica; no es el artículo original (ver ítem del ensayo publicado en el Journal of Clinical Oncology en esta misma sección).\nPoblación: Pacientes con neoplasias hematológicas estables que presentan fatiga relacionada con el cáncer o su tratamiento.\nIntervención: Metilfenidato, un psicoestimulante, evaluado para el control sintomático de la fatiga.\nResultados: La nota no aporta cifras propias del desenlace principal; remite al ensayo original para los datos cuantitativos.\nLimitaciones: Al tratarse de una cobertura periodística, no permite evaluar el diseño metodológico, el tamaño muestral ni los efectos adversos del fármaco.\nMensaje: Difunde de forma accesible un posible tratamiento farmacológico más para la fatiga oncohematológica, un síntoma prevalente con pocas opciones probadas.\nNota: análisis sin acceso al abstract."
     },
     "3fc9cd1edeec": {
       "resumen": "Un análisis retrospectivo del ensayo SCOT (que evaluó la duración de la quimioterapia adyuvante con oxaliplatino en cáncer colorrectal), publicado en el Journal of Clinical Oncology, usó una subtipificación molecular consensuada (CMS, por \"consensus molecular subtyping\") estimada a partir de imágenes histológicas para refinar el pronóstico en cáncer colorrectal en estadio II/III. Vale la pena mirarlo porque podría ofrecer una herramienta pronóstica más accesible que la clasificación molecular tradicional por secuenciación.",
@@ -40,24 +30,8 @@
       "destacado": false,
       "analisis": "Diseño: Estudio epidemiológico (probablemente de casos y controles o de cohorte, dado el enfoque en factores de riesgo); el título no precisa aleatorización ni número de centros o participantes.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, comparadas con un grupo de referencia o controles sin cáncer.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias perfluoroalquiladas (PFAS) como factor de riesgo, más allá de los factores de riesgo tradicionales (antecedentes familiares, hormonales, reproductivos).\nResultados: El título no incluye cifras de riesgo relativo, odds ratio ni intervalos de confianza asociados a la exposición a PFAS.\nLimitaciones: Los estudios de exposición ambiental suelen depender de mediciones indirectas o de un único punto temporal, lo que dificulta establecer causalidad y controlar factores de confusión.\nMensaje: Si se confirma la asociación, sumaría a los PFAS como un factor de riesgo ambiental relevante para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pocos factores de riesgo modificables conocidos.\nNota: análisis sin acceso al abstract."
     },
-    "5c3b855c29ee": {
-      "resumen": "La cohorte Sister Study (estudio prospectivo estadounidense en mujeres con antecedentes familiares de cáncer de mama) evaluó la relación entre la exposición a sustancias perfluoroalquiladas y polifluoroalquiladas (PFAS) y la incidencia de cáncer de mama, publicado en el Journal of Clinical Oncology. Interesa porque suma evidencia epidemiológica sobre contaminantes ambientales persistentes y riesgo oncológico.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de cohorte prospectiva (la Sister Study, cohorte estadounidense de mujeres con antecedentes familiares de cáncer de mama); el título no precisa el número exacto de participantes de este análisis.\nPoblación: Mujeres integrantes de la cohorte Sister Study, con antecedentes familiares de cáncer de mama.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias per- y polifluoroalquiladas (PFAS) y su relación con la incidencia de cáncer de mama.\nResultados: El título no incluye cifras de riesgo relativo, hazard ratio ni intervalos de confianza asociados a la exposición.\nLimitaciones: Las cohortes de base poblacional dependen de la precisión de la medición de la exposición ambiental y pueden tener seguimiento heterogéneo; además, esta cohorte está enriquecida en antecedentes familiares, lo que podría limitar la generalización a la población general.\nMensaje: Si se confirma la asociación, reforzaría la hipótesis de que la exposición ambiental a PFAS contribuye al riesgo de cáncer de mama, con implicancias para la prevención y la regulación de estos compuestos.\nNota: análisis sin acceso al abstract."
-    },
-    "1692690887b9": {
-      "resumen": "Respuesta de los autores a una carta al editor sobre inhibición combinada de PARP (poli ADP-ribosa polimerasa) y de la señalización androgénica en cáncer de próstata metastásico, publicada en The New England Journal of Medicine. Completa el intercambio y aporta precisiones de los investigadores originales frente a las objeciones planteadas.",
-      "destacado": false
-    },
-    "78ea2c8558fd": {
-      "resumen": "Carta al editor publicada en The New England Journal of Medicine que discute los resultados de un ensayo sobre inhibición combinada de PARP (poli ADP-ribosa polimerasa) y de la señalización androgénica en cáncer de próstata metastásico. Interesa porque este tipo de intercambios suele señalar matices metodológicos o de interpretación clínica que no siempre se leen en el artículo original.",
-      "destacado": false
-    },
     "81671fecc5b5": {
       "resumen": "Lucía Lafuente se casó con Álvaro con un vestido de estilo años 70, en una ceremonia celebrada en un antiguo convento en ruinas."
-    },
-    "c8b0300a9e5f": {
-      "resumen": "Los jeans baggy de tiro bajo, furor de los años 2000, vuelven a la moda y Jennifer Lawrence muestra cómo lucirlos este otoño 2026."
     },
     "43f037d102a2": {
       "resumen": "La cantante Danna cerró la última función de \"Mentiras All Stars\" con un vestido de lentejuelas creado por Mitzy e inspirado en Rocío Dúrcal."
@@ -67,9 +41,6 @@
     },
     "a89a6683cdab": {
       "resumen": "La falda de piel vuelve a ser tendencia y Zara relanzó su modelo más vendido en los dos colores estrella de la temporada de otoño."
-    },
-    "15594c394d12": {
-      "resumen": "Las mesas ratonas rectangulares quedaron atrás: se viene una nueva tendencia de diseño de interiores para 2027 pensada para renovar el living."
     },
     "51d09dd41b0a": {
       "resumen": "La banda Canto 4 colmó el Teatro Ópera de Buenos Aires en una noche histórica para sus fans."
@@ -82,9 +53,6 @@
     },
     "ab8e2a874332": {
       "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
-    },
-    "aa2d5f4429c8": {
-      "resumen": "Todos los detalles de la Marcha del Orgullo 2026 en la Ciudad de Buenos Aires: horarios, artistas confirmados, homenajes, recorrido y los cortes de calle previstos."
     },
     "fa2600767620": {
       "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
@@ -100,6 +68,33 @@
     },
     "d48b99cd16c7": {
       "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
+    },
+    "60cccf71f11b": {
+      "resumen": "El Dr. Backes comenta en OncLive los datos del ensayo BEHOLD-1 sobre mocertatug rezetecán, un anticuerpo conjugado a droga (ADC, del inglés \"antibody-drug conjugate\") dirigido contra MUC16, en cáncer de ovario resistente al platino. Vale la pena mirarlo porque este subtipo tumoral tiene pocas opciones terapéuticas eficaces tras progresar a la quimioterapia basada en platino.",
+      "destacado": false
+    },
+    "3ee44633cec8": {
+      "resumen": "La Unión Europea amplió la aprobación de melflufeno (un agente alquilante peptídico dirigido a aminopeptidasas) para su uso en tercera línea en mieloma múltiple refractario a lenalidomida. Interesa como novedad regulatoria que podría sumar una opción terapéutica en pacientes con enfermedad más resistente.",
+      "destacado": false
+    },
+    "bae143243e7a": {
+      "resumen": "Un ensayo evaluó nogapendekin alfa inbakicept (un superagonista de interleucina-15) combinado con BCG (bacilo de Calmette-Guérin, inmunoterapia intravesical estándar) en cáncer de vejiga no músculo invasivo (NMIBC) vírgenes de tratamiento con BCG, y cumplió su criterio de valoración principal. Vale la pena mirarlo porque podría ampliar las opciones de preservación vesical en este escenario.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con cáncer de vejiga no músculo invasivo (NMIBC) vírgenes de tratamiento con bacilo de Calmette-Guérin (BCG).\nIntervención: Nogapendekin alfa inbakicept (un superagonista de interleucina-15) asociado a BCG intravesical; el comparador no se especifica en el título.\nResultados: El título indica que el estudio cumplió su criterio de valoración principal, pero no incluye cifras de tasa de respuesta, supervivencia libre de recurrencia ni intervalos de confianza.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño del efecto, la solidez estadística ni los eventos adversos asociados a la combinación.\nMensaje: Si se confirma con los datos completos, podría sumar una alternativa de inmunoterapia combinada para preservar la vejiga en pacientes BCG-naive, un escenario con necesidad de más opciones antes de la cistectomía.\nNota: análisis sin acceso al abstract."
+    },
+    "25297157e250": {
+      "resumen": "Un análisis de modelado estima la supervivencia libre de progresión a largo plazo en mieloma múltiple de diagnóstico reciente tratado con el esquema daratumumab, bortezomib, lenalidomida y dexametasona (D-VRd), publicado en el Journal of Clinical Oncology. Interesa porque ayuda a proyectar el beneficio a largo plazo de este régimen de referencia más allá del seguimiento directo de los ensayos.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de modelado estadístico (probablemente basado en datos de uno o más ensayos aleatorizados de fase III) publicado en el Journal of Clinical Oncology; el título no precisa el número de pacientes ni la fuente exacta de los datos.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente (NDMM) elegibles para el esquema de cuatro drogas.\nIntervención: Daratumumab (anticuerpo monoclonal anti-CD38), bortezomib, lenalidomida y dexametasona (D-VRd); el título no especifica el comparador.\nResultados: El título indica que se modela la supervivencia libre de progresión a largo plazo, pero no incluye las cifras de mediana de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Los modelos de proyección a largo plazo dependen de supuestos estadísticos y de la calidad y duración del seguimiento real disponible, por lo que las estimaciones a muy largo plazo deben interpretarse con cautela.\nMensaje: Si las proyecciones son favorables, refuerzan a D-VRd como esquema de referencia en mieloma múltiple de diagnóstico reciente, con beneficio sostenido en el tiempo.\nNota: análisis sin acceso al abstract."
+    },
+    "b543fcf41eae": {
+      "resumen": "Omega eligió a cinco talentos mexicanos para protagonizar la nueva campaña de la marca, según Vogue México."
+    },
+    "f3a2af2695c9": {
+      "resumen": "Molten Silver, la tendencia de uñas plateadas que eligen las mujeres más elegantes y modernas este otoño, según Mujerhoy."
+    },
+    "b932273ee342": {
+      "resumen": "La aclamada obra de teatro musical \"Saraos uranistas\", sobre memorias y resistencias de la disidencia sexual, llega a Córdoba."
     }
   }
 }
