@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-11-10T10:11:54Z",
+  "generated_at": "2026-11-10T22:17:24Z",
   "summaries": {
-    "22f89a3bf366": {
-      "resumen": "Edición del 10 de noviembre de 2026 del boletín diario de The ASCO Post (American Society of Clinical Oncology), con las noticias oncológicas destacadas de la jornada. Funciona como puerta de entrada a la actualidad en oncología de ese día.",
-      "destacado": false
-    },
-    "f1fc05cf6667": {
-      "resumen": "The ASCO Post reporta que dos \"químicos eternos\" (PFAS, sustancias perfluoroalquiladas de uso industrial y alta persistencia ambiental) se asociaron con mayor riesgo de cáncer de mama con receptores de estrógeno negativos, retomando los hallazgos de dos cohortes publicadas en el Journal of Clinical Oncology (ver los ítems sobre PFAS y cáncer de mama en esta misma sección). Vale la pena mirarlo como resumen periodístico accesible de esa evidencia.",
-      "destacado": false,
-      "analisis": "Diseño: Nota periodística de The ASCO Post que resume hallazgos de estudios epidemiológicos sobre exposición a sustancias perfluoroalquiladas (PFAS) y cáncer de mama; no es en sí mismo el estudio primario.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, según los estudios epidemiológicos citados.\nIntervención: No aplica tratamiento; se analiza la exposición ambiental a PFAS como factor de riesgo.\nResultados: La nota no reporta cifras propias de riesgo relativo ni intervalos de confianza; remite a los estudios originales (ver ítem sobre PFAS y cáncer de mama de esta misma sección).\nLimitaciones: Al ser una cobertura periodística y no el artículo original, no permite evaluar directamente la calidad metodológica del estudio ni el control de factores de confusión.\nMensaje: Refuerza mediáticamente la hipótesis de que la exposición a PFAS podría ser un factor de riesgo ambiental para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pronóstico más desfavorable.\nNota: análisis sin acceso al abstract."
-    },
-    "8e9f8e45d353": {
-      "resumen": "The ASCO Post reporta que el metilfenidato (un psicoestimulante) podría reducir la fatiga relacionada con el cáncer en pacientes con neoplasias hematológicas estables, retomando el ensayo publicado en el Journal of Clinical Oncology (ver ítem correspondiente en esta sección). Interesa como cobertura periodística de un síntoma muy prevalente y con pocas opciones de tratamiento en oncohematología.",
-      "destacado": false,
-      "analisis": "Diseño: Nota periodística de The ASCO Post que resume un ensayo clínico sobre metilfenidato para la fatiga oncológica; no es el artículo original (ver ítem del ensayo publicado en el Journal of Clinical Oncology en esta misma sección).\nPoblación: Pacientes con neoplasias hematológicas estables que presentan fatiga relacionada con el cáncer o su tratamiento.\nIntervención: Metilfenidato, un psicoestimulante, evaluado para el control sintomático de la fatiga.\nResultados: La nota no aporta cifras propias del desenlace principal; remite al ensayo original para los datos cuantitativos.\nLimitaciones: Al tratarse de una cobertura periodística, no permite evaluar el diseño metodológico, el tamaño muestral ni los efectos adversos del fármaco.\nMensaje: Difunde de forma accesible un posible tratamiento farmacológico más para la fatiga oncohematológica, un síntoma prevalente con pocas opciones probadas.\nNota: análisis sin acceso al abstract."
-    },
     "3fc9cd1edeec": {
       "resumen": "Un análisis retrospectivo del ensayo SCOT (que evaluó la duración de la quimioterapia adyuvante con oxaliplatino en cáncer colorrectal), publicado en el Journal of Clinical Oncology, usó una subtipificación molecular consensuada (CMS, por \"consensus molecular subtyping\") estimada a partir de imágenes histológicas para refinar el pronóstico en cáncer colorrectal en estadio II/III. Vale la pena mirarlo porque podría ofrecer una herramienta pronóstica más accesible que la clasificación molecular tradicional por secuenciación.",
       "destacado": false,
@@ -30,21 +16,6 @@
       "destacado": false,
       "analisis": "Diseño: Estudio epidemiológico (probablemente de casos y controles o de cohorte, dado el enfoque en factores de riesgo); el título no precisa aleatorización ni número de centros o participantes.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, comparadas con un grupo de referencia o controles sin cáncer.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias perfluoroalquiladas (PFAS) como factor de riesgo, más allá de los factores de riesgo tradicionales (antecedentes familiares, hormonales, reproductivos).\nResultados: El título no incluye cifras de riesgo relativo, odds ratio ni intervalos de confianza asociados a la exposición a PFAS.\nLimitaciones: Los estudios de exposición ambiental suelen depender de mediciones indirectas o de un único punto temporal, lo que dificulta establecer causalidad y controlar factores de confusión.\nMensaje: Si se confirma la asociación, sumaría a los PFAS como un factor de riesgo ambiental relevante para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pocos factores de riesgo modificables conocidos.\nNota: análisis sin acceso al abstract."
     },
-    "81671fecc5b5": {
-      "resumen": "Lucía Lafuente se casó con Álvaro con un vestido de estilo años 70, en una ceremonia celebrada en un antiguo convento en ruinas."
-    },
-    "43f037d102a2": {
-      "resumen": "La cantante Danna cerró la última función de \"Mentiras All Stars\" con un vestido de lentejuelas creado por Mitzy e inspirado en Rocío Dúrcal."
-    },
-    "6d59577d2a38": {
-      "resumen": "La experta en moda Maripi Robles analiza el estilo de Flora Pérez, madre de Marta Ortega, y destaca que domina los códigos de la moda sin someterse a las tendencias."
-    },
-    "a89a6683cdab": {
-      "resumen": "La falda de piel vuelve a ser tendencia y Zara relanzó su modelo más vendido en los dos colores estrella de la temporada de otoño."
-    },
-    "51d09dd41b0a": {
-      "resumen": "La banda Canto 4 colmó el Teatro Ópera de Buenos Aires en una noche histórica para sus fans."
-    },
     "fd758b2e4833": {
       "resumen": "Qué restaurantes porteños lanzaron un menú especial por la visita del papa León XIV y cuánto sale comer con los descuentos disponibles."
     },
@@ -57,44 +28,73 @@
     "fa2600767620": {
       "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
     },
-    "08aab086e689": {
-      "resumen": "Más de 150 voces y una orquesta prepararán la música para la misa de bienvenida al papa León XIV en Buenos Aires."
-    },
-    "327b7f4c46f5": {
-      "resumen": "Una guía con los cinco festivales imperdibles y otros recitales para cerrar el año a pleno en Buenos Aires."
-    },
-    "0f90eb914faa": {
-      "resumen": "Una agenda con 26 propuestas entre ferias, conciertos y experiencias para el fin de semana del 5 al 8 de noviembre en Buenos Aires."
-    },
     "d48b99cd16c7": {
       "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
-    },
-    "60cccf71f11b": {
-      "resumen": "El Dr. Backes comenta en OncLive los datos del ensayo BEHOLD-1 sobre mocertatug rezetecán, un anticuerpo conjugado a droga (ADC, del inglés \"antibody-drug conjugate\") dirigido contra MUC16, en cáncer de ovario resistente al platino. Vale la pena mirarlo porque este subtipo tumoral tiene pocas opciones terapéuticas eficaces tras progresar a la quimioterapia basada en platino.",
-      "destacado": false
-    },
-    "3ee44633cec8": {
-      "resumen": "La Unión Europea amplió la aprobación de melflufeno (un agente alquilante peptídico dirigido a aminopeptidasas) para su uso en tercera línea en mieloma múltiple refractario a lenalidomida. Interesa como novedad regulatoria que podría sumar una opción terapéutica en pacientes con enfermedad más resistente.",
-      "destacado": false
-    },
-    "bae143243e7a": {
-      "resumen": "Un ensayo evaluó nogapendekin alfa inbakicept (un superagonista de interleucina-15) combinado con BCG (bacilo de Calmette-Guérin, inmunoterapia intravesical estándar) en cáncer de vejiga no músculo invasivo (NMIBC) vírgenes de tratamiento con BCG, y cumplió su criterio de valoración principal. Vale la pena mirarlo porque podría ampliar las opciones de preservación vesical en este escenario.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (el título no precisa aleatorización, cegamiento, número de centros ni de pacientes).\nPoblación: Pacientes con cáncer de vejiga no músculo invasivo (NMIBC) vírgenes de tratamiento con bacilo de Calmette-Guérin (BCG).\nIntervención: Nogapendekin alfa inbakicept (un superagonista de interleucina-15) asociado a BCG intravesical; el comparador no se especifica en el título.\nResultados: El título indica que el estudio cumplió su criterio de valoración principal, pero no incluye cifras de tasa de respuesta, supervivencia libre de recurrencia ni intervalos de confianza.\nLimitaciones: Sin el abstract no puede evaluarse el tamaño del efecto, la solidez estadística ni los eventos adversos asociados a la combinación.\nMensaje: Si se confirma con los datos completos, podría sumar una alternativa de inmunoterapia combinada para preservar la vejiga en pacientes BCG-naive, un escenario con necesidad de más opciones antes de la cistectomía.\nNota: análisis sin acceso al abstract."
     },
     "25297157e250": {
       "resumen": "Un análisis de modelado estima la supervivencia libre de progresión a largo plazo en mieloma múltiple de diagnóstico reciente tratado con el esquema daratumumab, bortezomib, lenalidomida y dexametasona (D-VRd), publicado en el Journal of Clinical Oncology. Interesa porque ayuda a proyectar el beneficio a largo plazo de este régimen de referencia más allá del seguimiento directo de los ensayos.",
       "destacado": false,
       "analisis": "Diseño: Análisis de modelado estadístico (probablemente basado en datos de uno o más ensayos aleatorizados de fase III) publicado en el Journal of Clinical Oncology; el título no precisa el número de pacientes ni la fuente exacta de los datos.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente (NDMM) elegibles para el esquema de cuatro drogas.\nIntervención: Daratumumab (anticuerpo monoclonal anti-CD38), bortezomib, lenalidomida y dexametasona (D-VRd); el título no especifica el comparador.\nResultados: El título indica que se modela la supervivencia libre de progresión a largo plazo, pero no incluye las cifras de mediana de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Los modelos de proyección a largo plazo dependen de supuestos estadísticos y de la calidad y duración del seguimiento real disponible, por lo que las estimaciones a muy largo plazo deben interpretarse con cautela.\nMensaje: Si las proyecciones son favorables, refuerzan a D-VRd como esquema de referencia en mieloma múltiple de diagnóstico reciente, con beneficio sostenido en el tiempo.\nNota: análisis sin acceso al abstract."
     },
-    "b543fcf41eae": {
-      "resumen": "Omega eligió a cinco talentos mexicanos para protagonizar la nueva campaña de la marca, según Vogue México."
+    "0e22c428f599": {
+      "resumen": "Un análisis de biomarcadores del ensayo BEHOLD-1 evaluó si las respuestas al tratamiento se mantienen en distintos niveles de expresión de B7-H4 (una proteína de membrana que funciona como punto de control inmunológico) en cáncer de ovario platino-resistente. Vale la pena mirarlo porque B7-H4 es un biomarcador emergente para seleccionar pacientes en una población con pocas opciones terapéuticas.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de biomarcadores (subestudio) del ensayo BEHOLD-1; el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario platino-resistente, estratificadas según nivel de expresión de B7-H4.\nIntervención: El título no especifica el fármaco evaluado ni el comparador.\nResultados: No disponibles a partir del título; no se informan cifras de respuesta por subgrupo.\nLimitaciones: Análisis exploratorio de biomarcador, sin datos de eficacia primaria accesibles en esta nota; posible sesgo de selección en subgrupos definidos post hoc.\nMensaje: Si se confirma que la respuesta no depende del nivel de B7-H4, esto podría ampliar la población candidata a este tratamiento en cáncer de ovario platino-resistente; hay que esperar la publicación completa.\nNota: análisis sin acceso al abstract."
     },
-    "f3a2af2695c9": {
-      "resumen": "Molten Silver, la tendencia de uñas plateadas que eligen las mujeres más elegantes y modernas este otoño, según Mujerhoy."
+    "478379525256": {
+      "resumen": "ASCO (American Society of Clinical Oncology) y ESMO (European Society for Medical Oncology) publicaron un consenso conjunto que pide simplificar los procesos de investigación clínica bajo estándares internacionales actualizados. Interesa porque busca reducir la carga regulatoria y acelerar el desarrollo de ensayos oncológicos a nivel global.",
+      "destacado": false
     },
-    "b932273ee342": {
-      "resumen": "La aclamada obra de teatro musical \"Saraos uranistas\", sobre memorias y resistencias de la disidencia sexual, llega a Córdoba."
+    "c08fcc451522": {
+      "resumen": "El Journal of Clinical Oncology (JCO), una de las revistas de referencia en oncología, anunció un nuevo editor en jefe. Es una noticia institucional sin impacto clínico directo, pero marca un cambio de liderazgo en una publicación que fija agenda en la especialidad.",
+      "destacado": false
+    },
+    "badc3ec68e7a": {
+      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó pimicotinib para el tratamiento del TGCT (tumor de células gigantes tenosinovial) sintomático, un tumor raro de las articulaciones que puede ser muy discapacitante. Vale la pena mirarlo porque amplía las opciones terapéuticas dirigidas para esta enfermedad poco frecuente.",
+      "destacado": false
+    },
+    "67a88611e158": {
+      "resumen": "La FDA aprobó un test diagnóstico complementario (companion diagnostic) para identificar tumores sólidos con MSI-H (inestabilidad de microsatélites alta) candidatos a tratamiento con pembrolizumab, un inhibidor de PD-1. Interesa porque mejora la selección de pacientes que pueden beneficiarse de esta inmunoterapia independientemente del tipo de tumor primario.",
+      "destacado": false
+    },
+    "02c035f253bc": {
+      "resumen": "Vogue repasa la colección Resort 2027 de Balmain, presentada por la maison francesa."
+    },
+    "fcb69e7b16bc": {
+      "resumen": "La versión masculina de la colección Resort 2027 de Balmain, según la cobertura de Vogue."
+    },
+    "9d646c2dcabf": {
+      "resumen": "Un repaso por los mejores momentos de la AMG Night 2026, la fiesta organizada por Mercedes-Benz en Ciudad de México."
+    },
+    "3f3565b98313": {
+      "resumen": "Crónica de la AMG Night 2026, el evento de Mercedes-Benz que convocó a figuras del espectáculo en Ciudad de México."
+    },
+    "e8d18875b84b": {
+      "resumen": "Revista Para Ti selecciona las siete tendencias clave de la temporada primavera-verano 2027."
+    },
+    "d7507cee2ff6": {
+      "resumen": "La marca Papryka presenta looks con mix de texturas que anticipan las tendencias del próximo verano, según OHLALÁ!."
+    },
+    "47cad32d4a35": {
+      "resumen": "Trendencias recomienda combinar vestidos de punto con botas altas, con opciones de Zara, Stradivarius y otras marcas."
+    },
+    "708c9f68c5bf": {
+      "resumen": "Infobae analiza por qué el rojo se impuso como color protagonista en la moda global, de Chanel a Prada."
+    },
+    "a54dee08222d": {
+      "resumen": "La banda tributo Genetics festeja los 50 años de Genesis con un show especial en Buenos Aires."
+    },
+    "ad4fc1f34e10": {
+      "resumen": "El grupo Chingalepa estrena en el Teatro Piccadilly el musical infantil \"Soplaré, Soplaré\"."
+    },
+    "f75914cb48e8": {
+      "resumen": "Perfil detalla los recitales y espectáculos gratuitos de La Noche de los Museos 2026 en la Ciudad de Buenos Aires."
+    },
+    "159d668395a6": {
+      "resumen": "La cantante Marina Wil se presenta en el Teatro Margarita Xirgu con un show que incluye un homenaje a Charly García."
+    },
+    "dd2830792f65": {
+      "resumen": "Flipr.news propone cuatro actividades culturales para el fin de semana en Posadas."
     }
   }
 }
