@@ -1,61 +1,21 @@
 {
-  "generated_at": "2026-11-11T10:13:04Z",
+  "generated_at": "2026-11-11T22:13:29Z",
   "summaries": {
-    "fd758b2e4833": {
-      "resumen": "Qué restaurantes porteños lanzaron un menú especial por la visita del papa León XIV y cuánto sale comer con los descuentos disponibles."
-    },
-    "66b99bd9721c": {
-      "resumen": "La Semana de la Cocina Italiana 2026 trae promociones y premios en restaurantes porteños del 16 al 22 de noviembre."
-    },
-    "ab8e2a874332": {
-      "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
-    },
-    "fa2600767620": {
-      "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
+    "c81145f0857c": {
+      "resumen": "Actualización de la guía conjunta CSCO-ASCO (Sociedad China de Oncología Clínica y Sociedad Americana de Oncología Clínica) para el tratamiento del carcinoma nasofaríngeo en estadios IB a III. Es relevante porque fija el estándar de tratamiento curativo en la enfermedad localmente avanzada.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de guía de práctica clínica conjunta CSCO-ASCO, elaborada por panel de expertos a partir de revisión de evidencia; no es un ensayo clínico primario.\nPoblación: Pacientes con carcinoma nasofaríngeo en estadios IB a III (enfermedad locorregionalmente avanzada, sin metástasis a distancia).\nIntervención: Recomendaciones sobre radioterapia, quimioterapia concurrente, de inducción y/o adyuvante según el estadio.\nResultados: No reporta desenlaces propios de supervivencia; actualiza recomendaciones previas a partir de evidencia nueva.\nLimitaciones: Basada en revisión de estudios externos de calidad variable; la aplicabilidad puede diferir entre regiones de alta y baja incidencia de la enfermedad.\nMensaje: Actualiza el estándar de tratamiento curativo para esta etapa, orientando decisiones sobre intensidad de radioterapia y quimioterapia.\nNota: análisis sin acceso al abstract."
     },
     "d48b99cd16c7": {
       "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
+    },
+    "b3860e827109": {
+      "resumen": "Una guía con todo lo necesario para disfrutar la edición 2026 de la Noche de los Museos en Buenos Aires."
     },
     "25297157e250": {
       "resumen": "Un análisis de modelado estima la supervivencia libre de progresión a largo plazo en mieloma múltiple de diagnóstico reciente tratado con el esquema daratumumab, bortezomib, lenalidomida y dexametasona (D-VRd), publicado en el Journal of Clinical Oncology. Interesa porque ayuda a proyectar el beneficio a largo plazo de este régimen de referencia más allá del seguimiento directo de los ensayos.",
       "destacado": true,
       "analisis": "Diseño: Análisis de modelado estadístico (probablemente basado en datos de uno o más ensayos aleatorizados de fase III) publicado en el Journal of Clinical Oncology; el título no precisa el número de pacientes ni la fuente exacta de los datos.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente (NDMM) elegibles para el esquema de cuatro drogas.\nIntervención: Daratumumab (anticuerpo monoclonal anti-CD38), bortezomib, lenalidomida y dexametasona (D-VRd); el título no especifica el comparador.\nResultados: El título indica que se modela la supervivencia libre de progresión a largo plazo, pero no incluye las cifras de mediana de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Los modelos de proyección a largo plazo dependen de supuestos estadísticos y de la calidad y duración del seguimiento real disponible, por lo que las estimaciones a muy largo plazo deben interpretarse con cautela.\nMensaje: Si las proyecciones son favorables, refuerzan a D-VRd como esquema de referencia en mieloma múltiple de diagnóstico reciente, con beneficio sostenido en el tiempo.\nNota: análisis sin acceso al abstract."
-    },
-    "478379525256": {
-      "resumen": "ASCO (American Society of Clinical Oncology) y ESMO (European Society for Medical Oncology) publicaron un consenso conjunto que pide simplificar los procesos de investigación clínica bajo estándares internacionales actualizados. Interesa porque busca reducir la carga regulatoria y acelerar el desarrollo de ensayos oncológicos a nivel global.",
-      "destacado": false
-    },
-    "c08fcc451522": {
-      "resumen": "El Journal of Clinical Oncology (JCO), una de las revistas de referencia en oncología, anunció un nuevo editor en jefe. Es una noticia institucional sin impacto clínico directo, pero marca un cambio de liderazgo en una publicación que fija agenda en la especialidad.",
-      "destacado": false
-    },
-    "02c035f253bc": {
-      "resumen": "Vogue repasa la colección Resort 2027 de Balmain, presentada por la maison francesa."
-    },
-    "fcb69e7b16bc": {
-      "resumen": "La versión masculina de la colección Resort 2027 de Balmain, según la cobertura de Vogue."
-    },
-    "a54dee08222d": {
-      "resumen": "La banda tributo Genetics festeja los 50 años de Genesis con un show especial en Buenos Aires."
-    },
-    "ad4fc1f34e10": {
-      "resumen": "El grupo Chingalepa estrena en el Teatro Piccadilly el musical infantil \"Soplaré, Soplaré\"."
-    },
-    "8da76f5db2a3": {
-      "resumen": "Nota de OncLive, en formato de entrevistas a especialistas, sobre las necesidades no cubiertas que surgen cuando un paciente progresa tras recibir inmunoterapia de primera línea (tratamiento con inhibidores de puntos de control inmunitario). Interesa porque son pacientes con pocas opciones estandarizadas y las alternativas en estudio están cambiando rápido.",
-      "destacado": false
-    },
-    "de4a3e3f367e": {
-      "resumen": "OncLive explica, con especialistas, qué es PRAME (un antígeno tumoral preferentemente expresado en melanoma) y por qué tipificar el HLA (antígeno leucocitario humano) del paciente es clave para las terapias celulares dirigidas. Vale la pena mirarlo porque estas terapias personalizadas ganan terreno en tumores sólidos.",
-      "destacado": false
-    },
-    "995ba1bf1bfd": {
-      "resumen": "Entrevista de OncLive a la Dra. Nunnery sobre la desescalada de quimioterapia, la supresión de la función ovárica y el manejo de la toxicidad en cáncer de mama. Resume la discusión clínica actual sobre cómo reducir tratamiento sin perder eficacia en pacientes seleccionadas.",
-      "destacado": false
-    },
-    "31dfd47621a6": {
-      "resumen": "Artículo de The ASCO Post sobre el uso de inteligencia artificial en diagnóstico oncológico y qué pueden (y deben) verificar los médicos antes de confiar en sus resultados. Relevante por el avance acelerado de estas herramientas y la necesidad de validación clínica.",
-      "destacado": false
     },
     "8af462c3c0c0": {
       "resumen": "Relato personal publicado en la sección Art of Oncology del Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica). Es una narrativa reflexiva sobre la experiencia humana en torno al cáncer, no un estudio clínico.",
@@ -66,45 +26,79 @@
       "destacado": false,
       "analisis": "Diseño: Guía de práctica clínica conjunta elaborada por un panel de expertos de la Sociedad China de Oncología Clínica (CSCO) y la Sociedad Americana de Oncología Clínica (ASCO), basada en revisión de la evidencia disponible; no es un ensayo con pacientes propios.\nPoblación: Pacientes adultos con carcinoma nasofaríngeo recurrente (locorregional) y/o metastásico.\nIntervención: Recomendaciones sobre quimioterapia, inmunoterapia, reirradiación y manejo locorregional según el escenario clínico; no hay un esquema único ni comparador, al tratarse de un documento de consenso.\nResultados: No reporta desenlaces propios de supervivencia; sintetiza el nivel de evidencia y la fuerza de cada recomendación.\nLimitaciones: Depende de la calidad y actualidad de los estudios revisados; puede haber diferencias de aplicabilidad entre contextos asiáticos (de mayor incidencia) y occidentales; no sustituye el juicio clínico individualizado.\nMensaje: Ofrece un marco actualizado y consensuado para decidir tratamiento en un escenario clínico complejo, útil para unificar criterios entre centros.\nNota: análisis sin acceso al abstract."
     },
-    "c81145f0857c": {
-      "resumen": "Actualización de la guía conjunta CSCO-ASCO (Sociedad China de Oncología Clínica y Sociedad Americana de Oncología Clínica) para el tratamiento del carcinoma nasofaríngeo en estadios IB a III. Es relevante porque fija el estándar de tratamiento curativo en la enfermedad localmente avanzada.",
-      "destacado": false,
-      "analisis": "Diseño: Actualización de guía de práctica clínica conjunta CSCO-ASCO, elaborada por panel de expertos a partir de revisión de evidencia; no es un ensayo clínico primario.\nPoblación: Pacientes con carcinoma nasofaríngeo en estadios IB a III (enfermedad locorregionalmente avanzada, sin metástasis a distancia).\nIntervención: Recomendaciones sobre radioterapia, quimioterapia concurrente, de inducción y/o adyuvante según el estadio.\nResultados: No reporta desenlaces propios de supervivencia; actualiza recomendaciones previas a partir de evidencia nueva.\nLimitaciones: Basada en revisión de estudios externos de calidad variable; la aplicabilidad puede diferir entre regiones de alta y baja incidencia de la enfermedad.\nMensaje: Actualiza el estándar de tratamiento curativo para esta etapa, orientando decisiones sobre intensidad de radioterapia y quimioterapia.\nNota: análisis sin acceso al abstract."
-    },
-    "1692690887b9": {
-      "resumen": "Carta de respuesta (correspondencia) en el New England Journal of Medicine sobre la inhibición combinada de PARP (poli ADP-ribosa polimerasa) y la señalización androgénica en cáncer de próstata metastásico. Es un intercambio editorial entre autores a partir de un estudio previo, no un estudio nuevo.",
-      "destacado": false
-    },
-    "78ea2c8558fd": {
-      "resumen": "Carta de correspondencia en el New England Journal of Medicine que comenta los resultados de un estudio sobre la inhibición de PARP (poli ADP-ribosa polimerasa) combinada con inhibidores de la señalización androgénica en cáncer de próstata metastásico. Forma parte de un debate científico sobre ese esquema de tratamiento.",
-      "destacado": false
-    },
     "abe0fd7aaf89": {
       "resumen": "La diseñadora Barbara Tfank presentó su colección de ropa lista para usar (ready-to-wear) para la primavera 2027."
     },
-    "54957dcc5306": {
-      "resumen": "Vogue España armó un repaso de las películas navideñas favoritas para volver a ver cada temporada."
+    "cd7a17198913": {
+      "resumen": "Página|12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
     },
-    "77ebd6ae081b": {
-      "resumen": "Las artistas Bad Gyal y Las Petunias confirmaron su presencia en el festival Coachella 2027."
+    "66b99bd9721c": {
+      "resumen": "La Semana de la Cocina Italiana 2026 trae promociones y premios en restaurantes porteños del 16 al 22 de noviembre."
     },
-    "b127226cd4fb": {
-      "resumen": "Netflix reveló el listado completo de películas navideñas que suma a su catálogo para 2026."
+    "ab8e2a874332": {
+      "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
     },
-    "65d54926bd00": {
-      "resumen": "Telva propone un pantalón de Zara como la apuesta ideal para lucir estilosa en la cena de fin de año de la empresa."
+    "fd758b2e4833": {
+      "resumen": "Qué restaurantes porteños lanzaron un menú especial por la visita del papa León XIV y cuánto sale comer con los descuentos disponibles."
     },
     "05247df20e48": {
       "resumen": "El gris quedó atrás: repasamos cuál es el color de sillones que se impone como tendencia para 2027."
     },
-    "7bbb088ed4ee": {
-      "resumen": "EL PAÍS repasa los abrigos que se impondrán como tendencia esta temporada de otoño-invierno."
+    "fa2600767620": {
+      "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
     },
-    "b3860e827109": {
-      "resumen": "Una guía con todo lo necesario para disfrutar la edición 2026 de la Noche de los Museos en Buenos Aires."
+    "9f8cbd6727dd": {
+      "resumen": "Un estudio del Institute of Cancer Research de Londres analizó más de 5.000 variantes genéticas y encontró más de 700 distribuidas en 140 regiones de riesgo que podrían alterar la actividad génica vinculada al cáncer de mama hereditario. Vale la pena seguirlo porque amplía el mapa de variantes a investigar más allá de los genes clásicos como BRCA1 y BRCA2, con potencial impacto futuro en el asesoramiento genético.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de bioinformática y asociación genética que analizó más de 5.000 variantes genéticas candidatas; no es un ensayo clínico sino un trabajo de priorización de variantes de riesgo.\nPoblación: Variantes asociadas al riesgo hereditario de cáncer de mama, identificadas a partir de bases de datos genómicas poblacionales, sin una cohorte clínica de pacientes tratadas.\nIntervención: No aplica (análisis genómico observacional, sin intervención terapéutica).\nResultados: Se identificaron más de 700 variantes distribuidas en 140 regiones de riesgo con potencial de alterar la actividad génica; no se reportan medidas de riesgo relativo ni intervalos de confianza para variantes individuales.\nLimitaciones: Es un listado priorizado para investigación futura, no una validación clínica de riesgo; no se informa el tamaño ni la composición étnica de la base de datos utilizada.\nMensaje: Por ahora no cambia el asesoramiento genético en la práctica diaria, pero marca el camino hacia paneles de riesgo más amplios que los genes clásicos BRCA1 y BRCA2.\nNota: análisis basado en cobertura periodística, sin acceso al artículo científico original."
     },
-    "cd7a17198913": {
-      "resumen": "Página|12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
+    "279b47e0ae8d": {
+      "resumen": "Un análisis exploratorio del estudio LYMPHIR (denileukina diftitox, una inmunotoxina dirigida al receptor de interleuquina-2) mostró mejoras en la calidad de vida relacionada con la salud en pacientes con linfoma cutáneo de células T (CTCL, por su sigla en inglés) recaído o refractario que respondieron al tratamiento. Importa porque en el CTCL las opciones son escasas y la calidad de vida es un desenlace clave para esta población.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis exploratorio secundario de calidad de vida dentro del estudio pivotal LYMPHIR (Study 302), con los cuestionarios Skindex-29 y FACT-G; el estudio no estaba diseñado ni potenciado estadísticamente para este desenlace, por lo que no hubo comparaciones estadísticas formales.\nPoblación: Pacientes con linfoma cutáneo de células T (CTCL) recaído o refractario, respondedores clínicos al tratamiento.\nIntervención: Denileukina diftitox (comercializada como LYMPHIR), sin comparador activo en este análisis.\nResultados: Mejoras en calidad de vida relacionada con la piel, bienestar general y prurito entre los respondedores; no hay cifras de supervivencia libre de progresión ni global, y no se informan valores de p por ser un análisis no comparativo.\nLimitaciones: Al no estar prepotenciado para este desenlace y limitarse a respondedores, no permite estimar el beneficio en la población general tratada; tampoco figura en la información de prescripción del fármaco.\nMensaje: Aporta un dato valioso sobre bienestar en quienes responden al tratamiento, pero no modifica la indicación ni reemplaza los datos de eficacia y seguridad ya establecidos.\nNota: análisis basado en cobertura periodística y comunicados de prensa, sin acceso al artículo o abstract original."
+    },
+    "0a7c18be0794": {
+      "resumen": "El estudio de fase III HEALER (KN026-003) comparó anbenitamab más HB1801 (docetaxel unido a albúmina) contra el esquema estándar THP (trastuzumab, pertuzumab y taxano) en 885 pacientes con cáncer de mama HER2 positivo avanzado sin tratamiento previo. Es una noticia fuerte porque el combo experimental redujo significativamente el riesgo de progresión frente al estándar actual de primera línea.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado 1:1, con 885 pacientes, según cobertura periodística de los resultados presentados en ESMO 2026 y publicados en el New England Journal of Medicine; no se especifica el cegamiento ni el número exacto de centros.\nPoblación: Pacientes con cáncer de mama HER2 positivo avanzado, sin tratamiento sistémico previo (primera línea).\nIntervención: Anbenitamab más HB1801 (docetaxel unido a albúmina) versus el esquema estándar THP (trastuzumab, pertuzumab y taxano).\nResultados: Supervivencia libre de progresión a 24 meses de 58,5% con el esquema experimental versus 34,4% con THP, equivalente a una reducción del 54% en el riesgo de progresión o muerte (razón de riesgo 0,46); tasa de respuesta objetiva de 87,6% versus 73,4%. Eventos adversos grado ≥3 en 45,9% versus 34,4%, principalmente hematológicos.\nLimitaciones: Las cifras provienen de cobertura periodística del análisis presentado en congreso, no del artículo original; falta confirmar intervalos de confianza exactos y el seguimiento a largo plazo todavía es limitado.\nMensaje: De confirmarse en la publicación definitiva, podría posicionarse como nueva alternativa de primera línea en HER2 positivo avanzado, superando al estándar THP vigente, con más toxicidad hematológica a vigilar.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original en el New England Journal of Medicine."
+    },
+    "fe05fe64250a": {
+      "resumen": "Un repaso mensual de OncLive con las noticias y comentarios de especialistas más relevantes en cáncer de mama durante octubre de 2026. Sirve como resumen rápido de lo que pasó en el mes, pero no reemplaza la lectura de los estudios originales que menciona.",
+      "destacado": false
+    },
+    "e76e7d8c3cc3": {
+      "resumen": "Un artículo de OncLive repasa el diseño y las poblaciones del estudio RASolute-302, el ensayo de fase III que evaluó daraxonrasib (un inhibidor de la proteína RAS) frente a la quimioterapia elegida por el investigador en cáncer de páncreas metastásico ya tratado. Vale la pena mirarlo porque este ensayo mostró una ventaja de supervivencia muy marcada y podría cambiar el tratamiento de una enfermedad con pronóstico históricamente muy adverso.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo de fase III, aleatorizado 1:1, abierto, internacional, con 500 pacientes en 59 centros de seis países.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas metastásico, previamente tratados, con mutaciones en el gen RAS (incluidas G12D, G12V y G12R) o sin mutación identificada.\nIntervención: Daraxonrasib 300 mg por vía oral una vez al día versus quimioterapia a elección del investigador (gemcitabina más nab-paclitaxel, nal-IRI más 5-fluorouracilo/leucovorina, mFOLFIRINOX o FOLFOX).\nResultados: En pacientes con mutación G12, razón de riesgo para supervivencia global de 0,40; supervivencia global a 12 meses de 53,2% con daraxonrasib versus 17,3% con quimioterapia, lo que implicaría más que duplicar la mediana de supervivencia global.\nLimitaciones: Las cifras surgen de cobertura periodística de los resultados y no del artículo original; hay información contradictoria entre fuentes sobre el estado regulatorio (presentación a la FDA versus aprobación ya otorgada), que conviene confirmar.\nMensaje: De confirmarse, representaría un avance mayor en el cáncer de páncreas metastásico con mutación RAS, una enfermedad con opciones muy limitadas hasta ahora.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original."
+    },
+    "f9ca7439c0a4": {
+      "resumen": "El estudio de fase III G-HOPE-001 mostró que arcotatug tavatecan (IBI343/TAK-921), un anticuerpo conjugado dirigido a la proteína CLDN18.2, mejora la supervivencia frente al tratamiento elegido por el médico en adenocarcinoma gástrico o de la unión gastroesofágica avanzado, HER2 negativo y CLDN18.2 positivo, ya tratado previamente. Es una noticia relevante porque apunta a una nueva diana terapéutica en un cáncer con pronóstico difícil y pocas opciones de segunda línea.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo de fase III, aleatorizado, abierto, con primer y segundo análisis interino presentados en el Congreso ESMO 2026 (NCT06238843).\nPoblación: Pacientes con adenocarcinoma gástrico o de la unión gastroesofágica avanzado, HER2 negativo, CLDN18.2 positivo, con tratamiento previo.\nIntervención: Arcotatug tavatecan (IBI343/TAK-921) 6 mg/kg cada tres semanas versus tratamiento elegido por el médico (irinotecán, paclitaxel o trifluridina/tipiracilo).\nResultados: Supervivencia libre de progresión de 5,5 versus 2,9 meses (razón de riesgo 0,47) en el primer análisis interino; un reporte posterior describe supervivencia global de 10,2 versus 6,9 meses (razón de riesgo 0,57; intervalo de confianza del 95%: 0,45–0,73; p<0,0001), aunque esta cifra no surge de la misma fuente que el dato de supervivencia libre de progresión y conviene confirmarla. Eventos adversos grado ≥3 relacionados con el tratamiento: 47,4% versus 55,9%.\nLimitaciones: Datos de cobertura periodística de análisis interinos, no del artículo original; hay inconsistencia entre fuentes sobre qué análisis corresponde a cada resultado, y se registró un evento fatal relacionado con el tratamiento en el brazo experimental.\nMensaje: Si se confirma, posicionaría a arcotatug tavatecan como opción de segunda línea con beneficio de supervivencia en un subgrupo molecular definido (CLDN18.2 positivo), ampliando las alternativas en cáncer gástrico avanzado.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original."
+    },
+    "a3530217c9ec": {
+      "resumen": "La reina Máxima de Holanda deslumbró con un vestido midi y zapatos de tacón blancos, un look elegante pensado para el otoño 2026."
+    },
+    "9e26ae1644de": {
+      "resumen": "Una guía de vestidos midi elegantes para combinar con botas y llevar a la oficina este otoño 2026."
+    },
+    "733c4496be02": {
+      "resumen": "Dua Lipa, Madonna y Daddy Yankee encabezan el line-up de Coachella 2027: todo lo que hay que saber sobre el festival."
+    },
+    "2c3ccbf8985c": {
+      "resumen": "Zara y la actriz Rooney Mara anticipan una falda negra larga transparente que se viene como furor para las fiestas de fin de año."
+    },
+    "174be402286b": {
+      "resumen": "Nicole Neumann adelantó una de las tendencias del verano 2027 con un look de estilo boho chic."
+    },
+    "b1cfe73e480d": {
+      "resumen": "La banda brasileña Cavalera tocará su disco Chaos A.D. completo en Buenos Aires el 7 de marzo de 2027, en el Teatro Flores."
+    },
+    "50717f611a51": {
+      "resumen": "\"Espumas de Oriente\" combina melodrama, tango y humor en una propuesta teatral en Buenos Aires."
+    },
+    "1b070afe862e": {
+      "resumen": "El cantante Jorge Rojas vivió dos shows especiales en el Teatro Coliseo coincidiendo con la visita del papa León XIV, y agotó las entradas."
     }
   }
 }
