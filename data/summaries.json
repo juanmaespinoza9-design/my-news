@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:17:24Z",
+  "generated_at": "2026-11-11T10:13:04Z",
   "summaries": {
-    "3fc9cd1edeec": {
-      "resumen": "Un análisis retrospectivo del ensayo SCOT (que evaluó la duración de la quimioterapia adyuvante con oxaliplatino en cáncer colorrectal), publicado en el Journal of Clinical Oncology, usó una subtipificación molecular consensuada (CMS, por \"consensus molecular subtyping\") estimada a partir de imágenes histológicas para refinar el pronóstico en cáncer colorrectal en estadio II/III. Vale la pena mirarlo porque podría ofrecer una herramienta pronóstica más accesible que la clasificación molecular tradicional por secuenciación.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis retrospectivo (subestudio) del ensayo SCOT, un ensayo aleatorizado de fase III que comparó duraciones de quimioterapia adyuvante basada en oxaliplatino; este subanálisis estima la subtipificación molecular consensuada (CMS) a partir de imágenes histopatológicas. El título no precisa el número de pacientes incluidos en este subanálisis.\nPoblación: Pacientes con cáncer colorrectal en estadio II/III que participaron del ensayo SCOT y recibieron quimioterapia adyuvante con oxaliplatino.\nIntervención: No es una intervención terapéutica nueva; se aplica un método de clasificación molecular (CMS) basado en el análisis de imágenes histológicas para refinar la estratificación pronóstica.\nResultados: El título indica que la subtipificación molecular por imágenes \"refina\" la prognosticación, pero no incluye hazard ratios, supervivencia ni intervalos de confianza.\nLimitaciones: Al ser un análisis retrospectivo y secundario de un ensayo con otro objetivo primario, los hallazgos requieren validación prospectiva; además, estimar el CMS por imágenes puede ser menos preciso que la clasificación molecular directa por secuenciación.\nMensaje: Si se valida, podría ofrecer una herramienta pronóstica más accesible y económica (basada en histología de rutina) que la clasificación molecular tradicional, útil para estratificar el riesgo en cáncer colorrectal en estadio II/III.\nNota: análisis sin acceso al abstract."
-    },
-    "bb881750b0b2": {
-      "resumen": "Un ensayo publicado en el Journal of Clinical Oncology evaluó el metilfenidato (un psicoestimulante) para tratar la fatiga en pacientes con neoplasias hematológicas estables. Interesa porque la fatiga es uno de los síntomas más prevalentes y menos tratados en oncohematología, con pocas opciones farmacológicas de eficacia probada.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico publicado en JCO, probablemente aleatorizado y controlado contra placebo; el título no precisa cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con neoplasias hematológicas estables (en remisión o con enfermedad controlada) que presentan fatiga relacionada con el cáncer o su tratamiento.\nIntervención: Metilfenidato, un psicoestimulante habitualmente usado en trastornos de atención, aquí evaluado para el control sintomático de la fatiga; el comparador no se especifica en el título (probablemente placebo).\nResultados: El título no incluye el desenlace principal cuantificado (escalas de fatiga, diferencia de medias, valor de p), por lo que no se puede precisar la magnitud del efecto.\nLimitaciones: Los ensayos sobre fatiga suelen tener un efecto placebo considerable y depender de escalas subjetivas autoinformadas, y los psicoestimulantes pueden generar efectos adversos cardiovasculares y sobre el sueño que limiten su uso.\nMensaje: Si los resultados son positivos, el metilfenidato podría sumarse como una herramienta farmacológica más para la fatiga oncohematológica, un síntoma con opciones de manejo todavía limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "1d80e0b286fb": {
-      "resumen": "Un estudio publicado en el Journal of Clinical Oncology analiza la exposición a sustancias perfluoroalquiladas (PFAS, compuestos químicos persistentes de uso industrial) como factor de riesgo para el cáncer de mama con receptores de estrógeno negativos, más allá de los factores de riesgo tradicionales. Vale la pena mirarlo porque este subtipo tumoral tiene peor pronóstico y menos factores de riesgo modificables identificados.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio epidemiológico (probablemente de casos y controles o de cohorte, dado el enfoque en factores de riesgo); el título no precisa aleatorización ni número de centros o participantes.\nPoblación: Mujeres con cáncer de mama con receptores de estrógeno negativos, comparadas con un grupo de referencia o controles sin cáncer.\nIntervención: No aplica un tratamiento; se analiza la exposición a sustancias perfluoroalquiladas (PFAS) como factor de riesgo, más allá de los factores de riesgo tradicionales (antecedentes familiares, hormonales, reproductivos).\nResultados: El título no incluye cifras de riesgo relativo, odds ratio ni intervalos de confianza asociados a la exposición a PFAS.\nLimitaciones: Los estudios de exposición ambiental suelen depender de mediciones indirectas o de un único punto temporal, lo que dificulta establecer causalidad y controlar factores de confusión.\nMensaje: Si se confirma la asociación, sumaría a los PFAS como un factor de riesgo ambiental relevante para el cáncer de mama con receptores de estrógeno negativos, un subtipo con pocos factores de riesgo modificables conocidos.\nNota: análisis sin acceso al abstract."
-    },
     "fd758b2e4833": {
       "resumen": "Qué restaurantes porteños lanzaron un menú especial por la visita del papa León XIV y cuánto sale comer con los descuentos disponibles."
     },
@@ -33,13 +18,8 @@
     },
     "25297157e250": {
       "resumen": "Un análisis de modelado estima la supervivencia libre de progresión a largo plazo en mieloma múltiple de diagnóstico reciente tratado con el esquema daratumumab, bortezomib, lenalidomida y dexametasona (D-VRd), publicado en el Journal of Clinical Oncology. Interesa porque ayuda a proyectar el beneficio a largo plazo de este régimen de referencia más allá del seguimiento directo de los ensayos.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Análisis de modelado estadístico (probablemente basado en datos de uno o más ensayos aleatorizados de fase III) publicado en el Journal of Clinical Oncology; el título no precisa el número de pacientes ni la fuente exacta de los datos.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente (NDMM) elegibles para el esquema de cuatro drogas.\nIntervención: Daratumumab (anticuerpo monoclonal anti-CD38), bortezomib, lenalidomida y dexametasona (D-VRd); el título no especifica el comparador.\nResultados: El título indica que se modela la supervivencia libre de progresión a largo plazo, pero no incluye las cifras de mediana de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Los modelos de proyección a largo plazo dependen de supuestos estadísticos y de la calidad y duración del seguimiento real disponible, por lo que las estimaciones a muy largo plazo deben interpretarse con cautela.\nMensaje: Si las proyecciones son favorables, refuerzan a D-VRd como esquema de referencia en mieloma múltiple de diagnóstico reciente, con beneficio sostenido en el tiempo.\nNota: análisis sin acceso al abstract."
-    },
-    "0e22c428f599": {
-      "resumen": "Un análisis de biomarcadores del ensayo BEHOLD-1 evaluó si las respuestas al tratamiento se mantienen en distintos niveles de expresión de B7-H4 (una proteína de membrana que funciona como punto de control inmunológico) en cáncer de ovario platino-resistente. Vale la pena mirarlo porque B7-H4 es un biomarcador emergente para seleccionar pacientes en una población con pocas opciones terapéuticas.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis de biomarcadores (subestudio) del ensayo BEHOLD-1; el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de ovario platino-resistente, estratificadas según nivel de expresión de B7-H4.\nIntervención: El título no especifica el fármaco evaluado ni el comparador.\nResultados: No disponibles a partir del título; no se informan cifras de respuesta por subgrupo.\nLimitaciones: Análisis exploratorio de biomarcador, sin datos de eficacia primaria accesibles en esta nota; posible sesgo de selección en subgrupos definidos post hoc.\nMensaje: Si se confirma que la respuesta no depende del nivel de B7-H4, esto podría ampliar la población candidata a este tratamiento en cáncer de ovario platino-resistente; hay que esperar la publicación completa.\nNota: análisis sin acceso al abstract."
     },
     "478379525256": {
       "resumen": "ASCO (American Society of Clinical Oncology) y ESMO (European Society for Medical Oncology) publicaron un consenso conjunto que pide simplificar los procesos de investigación clínica bajo estándares internacionales actualizados. Interesa porque busca reducir la carga regulatoria y acelerar el desarrollo de ensayos oncológicos a nivel global.",
@@ -49,37 +29,11 @@
       "resumen": "El Journal of Clinical Oncology (JCO), una de las revistas de referencia en oncología, anunció un nuevo editor en jefe. Es una noticia institucional sin impacto clínico directo, pero marca un cambio de liderazgo en una publicación que fija agenda en la especialidad.",
       "destacado": false
     },
-    "badc3ec68e7a": {
-      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó pimicotinib para el tratamiento del TGCT (tumor de células gigantes tenosinovial) sintomático, un tumor raro de las articulaciones que puede ser muy discapacitante. Vale la pena mirarlo porque amplía las opciones terapéuticas dirigidas para esta enfermedad poco frecuente.",
-      "destacado": false
-    },
-    "67a88611e158": {
-      "resumen": "La FDA aprobó un test diagnóstico complementario (companion diagnostic) para identificar tumores sólidos con MSI-H (inestabilidad de microsatélites alta) candidatos a tratamiento con pembrolizumab, un inhibidor de PD-1. Interesa porque mejora la selección de pacientes que pueden beneficiarse de esta inmunoterapia independientemente del tipo de tumor primario.",
-      "destacado": false
-    },
     "02c035f253bc": {
       "resumen": "Vogue repasa la colección Resort 2027 de Balmain, presentada por la maison francesa."
     },
     "fcb69e7b16bc": {
       "resumen": "La versión masculina de la colección Resort 2027 de Balmain, según la cobertura de Vogue."
-    },
-    "9d646c2dcabf": {
-      "resumen": "Un repaso por los mejores momentos de la AMG Night 2026, la fiesta organizada por Mercedes-Benz en Ciudad de México."
-    },
-    "3f3565b98313": {
-      "resumen": "Crónica de la AMG Night 2026, el evento de Mercedes-Benz que convocó a figuras del espectáculo en Ciudad de México."
-    },
-    "e8d18875b84b": {
-      "resumen": "Revista Para Ti selecciona las siete tendencias clave de la temporada primavera-verano 2027."
-    },
-    "d7507cee2ff6": {
-      "resumen": "La marca Papryka presenta looks con mix de texturas que anticipan las tendencias del próximo verano, según OHLALÁ!."
-    },
-    "47cad32d4a35": {
-      "resumen": "Trendencias recomienda combinar vestidos de punto con botas altas, con opciones de Zara, Stradivarius y otras marcas."
-    },
-    "708c9f68c5bf": {
-      "resumen": "Infobae analiza por qué el rojo se impuso como color protagonista en la moda global, de Chanel a Prada."
     },
     "a54dee08222d": {
       "resumen": "La banda tributo Genetics festeja los 50 años de Genesis con un show especial en Buenos Aires."
@@ -87,14 +41,70 @@
     "ad4fc1f34e10": {
       "resumen": "El grupo Chingalepa estrena en el Teatro Piccadilly el musical infantil \"Soplaré, Soplaré\"."
     },
-    "f75914cb48e8": {
-      "resumen": "Perfil detalla los recitales y espectáculos gratuitos de La Noche de los Museos 2026 en la Ciudad de Buenos Aires."
+    "8da76f5db2a3": {
+      "resumen": "Nota de OncLive, en formato de entrevistas a especialistas, sobre las necesidades no cubiertas que surgen cuando un paciente progresa tras recibir inmunoterapia de primera línea (tratamiento con inhibidores de puntos de control inmunitario). Interesa porque son pacientes con pocas opciones estandarizadas y las alternativas en estudio están cambiando rápido.",
+      "destacado": false
     },
-    "159d668395a6": {
-      "resumen": "La cantante Marina Wil se presenta en el Teatro Margarita Xirgu con un show que incluye un homenaje a Charly García."
+    "de4a3e3f367e": {
+      "resumen": "OncLive explica, con especialistas, qué es PRAME (un antígeno tumoral preferentemente expresado en melanoma) y por qué tipificar el HLA (antígeno leucocitario humano) del paciente es clave para las terapias celulares dirigidas. Vale la pena mirarlo porque estas terapias personalizadas ganan terreno en tumores sólidos.",
+      "destacado": false
     },
-    "dd2830792f65": {
-      "resumen": "Flipr.news propone cuatro actividades culturales para el fin de semana en Posadas."
+    "995ba1bf1bfd": {
+      "resumen": "Entrevista de OncLive a la Dra. Nunnery sobre la desescalada de quimioterapia, la supresión de la función ovárica y el manejo de la toxicidad en cáncer de mama. Resume la discusión clínica actual sobre cómo reducir tratamiento sin perder eficacia en pacientes seleccionadas.",
+      "destacado": false
+    },
+    "31dfd47621a6": {
+      "resumen": "Artículo de The ASCO Post sobre el uso de inteligencia artificial en diagnóstico oncológico y qué pueden (y deben) verificar los médicos antes de confiar en sus resultados. Relevante por el avance acelerado de estas herramientas y la necesidad de validación clínica.",
+      "destacado": false
+    },
+    "8af462c3c0c0": {
+      "resumen": "Relato personal publicado en la sección Art of Oncology del Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica). Es una narrativa reflexiva sobre la experiencia humana en torno al cáncer, no un estudio clínico.",
+      "destacado": false
+    },
+    "e6ebf5fd363a": {
+      "resumen": "Guía conjunta de la Sociedad China de Oncología Clínica (CSCO) y la Sociedad Americana de Oncología Clínica (ASCO) con recomendaciones de tratamiento para el carcinoma nasofaríngeo recurrente y/o metastásico. Interesa porque estandariza conductas en un tumor poco frecuente en Occidente pero con esquemas terapéuticos en evolución.",
+      "destacado": false,
+      "analisis": "Diseño: Guía de práctica clínica conjunta elaborada por un panel de expertos de la Sociedad China de Oncología Clínica (CSCO) y la Sociedad Americana de Oncología Clínica (ASCO), basada en revisión de la evidencia disponible; no es un ensayo con pacientes propios.\nPoblación: Pacientes adultos con carcinoma nasofaríngeo recurrente (locorregional) y/o metastásico.\nIntervención: Recomendaciones sobre quimioterapia, inmunoterapia, reirradiación y manejo locorregional según el escenario clínico; no hay un esquema único ni comparador, al tratarse de un documento de consenso.\nResultados: No reporta desenlaces propios de supervivencia; sintetiza el nivel de evidencia y la fuerza de cada recomendación.\nLimitaciones: Depende de la calidad y actualidad de los estudios revisados; puede haber diferencias de aplicabilidad entre contextos asiáticos (de mayor incidencia) y occidentales; no sustituye el juicio clínico individualizado.\nMensaje: Ofrece un marco actualizado y consensuado para decidir tratamiento en un escenario clínico complejo, útil para unificar criterios entre centros.\nNota: análisis sin acceso al abstract."
+    },
+    "c81145f0857c": {
+      "resumen": "Actualización de la guía conjunta CSCO-ASCO (Sociedad China de Oncología Clínica y Sociedad Americana de Oncología Clínica) para el tratamiento del carcinoma nasofaríngeo en estadios IB a III. Es relevante porque fija el estándar de tratamiento curativo en la enfermedad localmente avanzada.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de guía de práctica clínica conjunta CSCO-ASCO, elaborada por panel de expertos a partir de revisión de evidencia; no es un ensayo clínico primario.\nPoblación: Pacientes con carcinoma nasofaríngeo en estadios IB a III (enfermedad locorregionalmente avanzada, sin metástasis a distancia).\nIntervención: Recomendaciones sobre radioterapia, quimioterapia concurrente, de inducción y/o adyuvante según el estadio.\nResultados: No reporta desenlaces propios de supervivencia; actualiza recomendaciones previas a partir de evidencia nueva.\nLimitaciones: Basada en revisión de estudios externos de calidad variable; la aplicabilidad puede diferir entre regiones de alta y baja incidencia de la enfermedad.\nMensaje: Actualiza el estándar de tratamiento curativo para esta etapa, orientando decisiones sobre intensidad de radioterapia y quimioterapia.\nNota: análisis sin acceso al abstract."
+    },
+    "1692690887b9": {
+      "resumen": "Carta de respuesta (correspondencia) en el New England Journal of Medicine sobre la inhibición combinada de PARP (poli ADP-ribosa polimerasa) y la señalización androgénica en cáncer de próstata metastásico. Es un intercambio editorial entre autores a partir de un estudio previo, no un estudio nuevo.",
+      "destacado": false
+    },
+    "78ea2c8558fd": {
+      "resumen": "Carta de correspondencia en el New England Journal of Medicine que comenta los resultados de un estudio sobre la inhibición de PARP (poli ADP-ribosa polimerasa) combinada con inhibidores de la señalización androgénica en cáncer de próstata metastásico. Forma parte de un debate científico sobre ese esquema de tratamiento.",
+      "destacado": false
+    },
+    "abe0fd7aaf89": {
+      "resumen": "La diseñadora Barbara Tfank presentó su colección de ropa lista para usar (ready-to-wear) para la primavera 2027."
+    },
+    "54957dcc5306": {
+      "resumen": "Vogue España armó un repaso de las películas navideñas favoritas para volver a ver cada temporada."
+    },
+    "77ebd6ae081b": {
+      "resumen": "Las artistas Bad Gyal y Las Petunias confirmaron su presencia en el festival Coachella 2027."
+    },
+    "b127226cd4fb": {
+      "resumen": "Netflix reveló el listado completo de películas navideñas que suma a su catálogo para 2026."
+    },
+    "65d54926bd00": {
+      "resumen": "Telva propone un pantalón de Zara como la apuesta ideal para lucir estilosa en la cena de fin de año de la empresa."
+    },
+    "05247df20e48": {
+      "resumen": "El gris quedó atrás: repasamos cuál es el color de sillones que se impone como tendencia para 2027."
+    },
+    "7bbb088ed4ee": {
+      "resumen": "EL PAÍS repasa los abrigos que se impondrán como tendencia esta temporada de otoño-invierno."
+    },
+    "b3860e827109": {
+      "resumen": "Una guía con todo lo necesario para disfrutar la edición 2026 de la Noche de los Museos en Buenos Aires."
+    },
+    "cd7a17198913": {
+      "resumen": "Página|12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
     }
   }
 }
