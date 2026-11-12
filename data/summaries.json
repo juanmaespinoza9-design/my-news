@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:11:12Z",
+  "generated_at": "2026-11-12T22:12:49Z",
   "summaries": {
     "c81145f0857c": {
       "resumen": "Actualización de la guía conjunta CSCO-ASCO (Sociedad China de Oncología Clínica y Sociedad Americana de Oncología Clínica) para el tratamiento del carcinoma nasofaríngeo en estadios IB a III. Es relevante porque fija el estándar de tratamiento curativo en la enfermedad localmente avanzada.",
@@ -32,77 +32,72 @@
     "fa2600767620": {
       "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
     },
-    "9f8cbd6727dd": {
-      "resumen": "Un estudio del Institute of Cancer Research de Londres analizó más de 5.000 variantes genéticas y encontró más de 700 distribuidas en 140 regiones de riesgo que podrían alterar la actividad génica vinculada al cáncer de mama hereditario. Vale la pena seguirlo porque amplía el mapa de variantes a investigar más allá de los genes clásicos como BRCA1 y BRCA2, con potencial impacto futuro en el asesoramiento genético.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de bioinformática y asociación genética que analizó más de 5.000 variantes genéticas candidatas; no es un ensayo clínico sino un trabajo de priorización de variantes de riesgo.\nPoblación: Variantes asociadas al riesgo hereditario de cáncer de mama, identificadas a partir de bases de datos genómicas poblacionales, sin una cohorte clínica de pacientes tratadas.\nIntervención: No aplica (análisis genómico observacional, sin intervención terapéutica).\nResultados: Se identificaron más de 700 variantes distribuidas en 140 regiones de riesgo con potencial de alterar la actividad génica; no se reportan medidas de riesgo relativo ni intervalos de confianza para variantes individuales.\nLimitaciones: Es un listado priorizado para investigación futura, no una validación clínica de riesgo; no se informa el tamaño ni la composición étnica de la base de datos utilizada.\nMensaje: Por ahora no cambia el asesoramiento genético en la práctica diaria, pero marca el camino hacia paneles de riesgo más amplios que los genes clásicos BRCA1 y BRCA2.\nNota: análisis basado en cobertura periodística, sin acceso al artículo científico original."
-    },
-    "279b47e0ae8d": {
-      "resumen": "Un análisis exploratorio del estudio LYMPHIR (denileukina diftitox, una inmunotoxina dirigida al receptor de interleuquina-2) mostró mejoras en la calidad de vida relacionada con la salud en pacientes con linfoma cutáneo de células T (CTCL, por su sigla en inglés) recaído o refractario que respondieron al tratamiento. Importa porque en el CTCL las opciones son escasas y la calidad de vida es un desenlace clave para esta población.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis exploratorio secundario de calidad de vida dentro del estudio pivotal LYMPHIR (Study 302), con los cuestionarios Skindex-29 y FACT-G; el estudio no estaba diseñado ni potenciado estadísticamente para este desenlace, por lo que no hubo comparaciones estadísticas formales.\nPoblación: Pacientes con linfoma cutáneo de células T (CTCL) recaído o refractario, respondedores clínicos al tratamiento.\nIntervención: Denileukina diftitox (comercializada como LYMPHIR), sin comparador activo en este análisis.\nResultados: Mejoras en calidad de vida relacionada con la piel, bienestar general y prurito entre los respondedores; no hay cifras de supervivencia libre de progresión ni global, y no se informan valores de p por ser un análisis no comparativo.\nLimitaciones: Al no estar prepotenciado para este desenlace y limitarse a respondedores, no permite estimar el beneficio en la población general tratada; tampoco figura en la información de prescripción del fármaco.\nMensaje: Aporta un dato valioso sobre bienestar en quienes responden al tratamiento, pero no modifica la indicación ni reemplaza los datos de eficacia y seguridad ya establecidos.\nNota: análisis basado en cobertura periodística y comunicados de prensa, sin acceso al artículo o abstract original."
-    },
-    "0a7c18be0794": {
-      "resumen": "El estudio de fase III HEALER (KN026-003) comparó anbenitamab más HB1801 (docetaxel unido a albúmina) contra el esquema estándar THP (trastuzumab, pertuzumab y taxano) en 885 pacientes con cáncer de mama HER2 positivo avanzado sin tratamiento previo. Es una noticia fuerte porque el combo experimental redujo significativamente el riesgo de progresión frente al estándar actual de primera línea.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado 1:1, con 885 pacientes, según cobertura periodística de los resultados presentados en ESMO 2026 y publicados en el New England Journal of Medicine; no se especifica el cegamiento ni el número exacto de centros.\nPoblación: Pacientes con cáncer de mama HER2 positivo avanzado, sin tratamiento sistémico previo (primera línea).\nIntervención: Anbenitamab más HB1801 (docetaxel unido a albúmina) versus el esquema estándar THP (trastuzumab, pertuzumab y taxano).\nResultados: Supervivencia libre de progresión a 24 meses de 58,5% con el esquema experimental versus 34,4% con THP, equivalente a una reducción del 54% en el riesgo de progresión o muerte (razón de riesgo 0,46); tasa de respuesta objetiva de 87,6% versus 73,4%. Eventos adversos grado ≥3 en 45,9% versus 34,4%, principalmente hematológicos.\nLimitaciones: Las cifras provienen de cobertura periodística del análisis presentado en congreso, no del artículo original; falta confirmar intervalos de confianza exactos y el seguimiento a largo plazo todavía es limitado.\nMensaje: De confirmarse en la publicación definitiva, podría posicionarse como nueva alternativa de primera línea en HER2 positivo avanzado, superando al estándar THP vigente, con más toxicidad hematológica a vigilar.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original en el New England Journal of Medicine."
-    },
-    "f9ca7439c0a4": {
-      "resumen": "El estudio de fase III G-HOPE-001 mostró que arcotatug tavatecan (IBI343/TAK-921), un anticuerpo conjugado dirigido a la proteína CLDN18.2, mejora la supervivencia frente al tratamiento elegido por el médico en adenocarcinoma gástrico o de la unión gastroesofágica avanzado, HER2 negativo y CLDN18.2 positivo, ya tratado previamente. Es una noticia relevante porque apunta a una nueva diana terapéutica en un cáncer con pronóstico difícil y pocas opciones de segunda línea.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo de fase III, aleatorizado, abierto, con primer y segundo análisis interino presentados en el Congreso ESMO 2026 (NCT06238843).\nPoblación: Pacientes con adenocarcinoma gástrico o de la unión gastroesofágica avanzado, HER2 negativo, CLDN18.2 positivo, con tratamiento previo.\nIntervención: Arcotatug tavatecan (IBI343/TAK-921) 6 mg/kg cada tres semanas versus tratamiento elegido por el médico (irinotecán, paclitaxel o trifluridina/tipiracilo).\nResultados: Supervivencia libre de progresión de 5,5 versus 2,9 meses (razón de riesgo 0,47) en el primer análisis interino; un reporte posterior describe supervivencia global de 10,2 versus 6,9 meses (razón de riesgo 0,57; intervalo de confianza del 95%: 0,45–0,73; p<0,0001), aunque esta cifra no surge de la misma fuente que el dato de supervivencia libre de progresión y conviene confirmarla. Eventos adversos grado ≥3 relacionados con el tratamiento: 47,4% versus 55,9%.\nLimitaciones: Datos de cobertura periodística de análisis interinos, no del artículo original; hay inconsistencia entre fuentes sobre qué análisis corresponde a cada resultado, y se registró un evento fatal relacionado con el tratamiento en el brazo experimental.\nMensaje: Si se confirma, posicionaría a arcotatug tavatecan como opción de segunda línea con beneficio de supervivencia en un subgrupo molecular definido (CLDN18.2 positivo), ampliando las alternativas en cáncer gástrico avanzado.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original."
-    },
-    "b1cfe73e480d": {
-      "resumen": "La banda brasileña Cavalera tocará su disco Chaos A.D. completo en Buenos Aires el 7 de marzo de 2027, en el Teatro Flores."
-    },
-    "742fa73e08a0": {
-      "resumen": "Entrevista de OncLive a un especialista sobre cómo integrar trastuzumab deruxtecan (T-DXd, un anticuerpo conjugado dirigido contra el receptor HER2) y biomarcadores en el manejo del cáncer de mama HER2 positivo en estadio temprano. Interesa por el enfoque práctico sobre selección de pacientes en la consulta diaria, aunque es una opinión de experto y no un estudio nuevo.",
-      "destacado": false
-    },
-    "6e6e37ff041b": {
-      "resumen": "Carta al editor publicada en el New England Journal of Medicine que comenta un ensayo sobre apalutamida (un antiandrógeno de nueva generación) utilizada en forma perioperatoria, es decir antes y después de la cirugía, en cáncer de próstata localizado de alto riesgo. Es una discusión metodológica sobre el estudio original, no un ensayo nuevo con resultados propios.",
-      "destacado": false
-    },
-    "cfebb552d5ad": {
-      "resumen": "Respuesta de los autores, en el New England Journal of Medicine, a la carta anterior sobre el ensayo de apalutamida perioperatoria en cáncer de próstata localizado de alto riesgo. Es una réplica entre especialistas sobre puntos de debate del estudio original, sin datos clínicos nuevos.",
-      "destacado": false
-    },
-    "ce56d6c8fdd6": {
-      "resumen": "Entrevista de OncLive a un especialista sobre cómo ajustar el tratamiento según la biología de HER2 (el receptor 2 del factor de crecimiento epidérmico humano) en cáncer de mama en estadio temprano. Aporta una mirada clínica sobre individualización terapéutica, sin presentar un estudio nuevo.",
-      "destacado": false
-    },
-    "283c99d862e5": {
-      "resumen": "ELLE repasa las novedades y tendencias que van a marcar el ritmo de la moda este otoño 2026."
-    },
-    "1ce841c2227a": {
-      "resumen": "Los zapatos de cordones, clásicos del uniforme escolar, vuelven y se convierten en el calzado favorito de la moda."
-    },
-    "c87c645f6ce6": {
-      "resumen": "Las sillas comunes quedaron atrás: cuál es la nueva tendencia para decorar balcones en 2027."
-    },
-    "a8f2b51e2881": {
-      "resumen": "El vestido de fiesta más espectacular de la temporada llegó a Zara y ya se agota en todos los talles."
-    },
-    "dc2b00b38d6d": {
-      "resumen": "DAB Bolivia celebra diez años uniendo moda de autor, tradición y cultura boliviana."
-    },
-    "18b4dee83e62": {
-      "resumen": "Siete blazers elegantes para combinar con jeans rectos y zapatos chatos este otoño 2026."
-    },
     "d7dc03e9df1d": {
       "resumen": "Los directores teatrales Paco Sánchez y Eugenio Calonge sostienen que el teatro es hoy más necesario que nunca."
     },
     "747239001f6a": {
       "resumen": "La banda finlandesa The Rasmus trae su gira Weirdo Tour al Teatro Flores de Buenos Aires el 4 de noviembre."
     },
-    "523a0a8df319": {
-      "resumen": "Una propuesta teatral para sumar a los planes de esta semana en Buenos Aires."
-    },
     "7d0e818e6986": {
       "resumen": "Más de 40 restaurantes porteños se suman a la Semana de la Cocina Italiana en Buenos Aires."
     },
-    "950925a66695": {
-      "resumen": "La inflación en la Ciudad de Buenos Aires fue del 1,9% en octubre y acumula 32,5% en los últimos doce meses."
+    "11d49d018cf5": {
+      "resumen": "Un estudio evaluó la combinación de darovasertib (inhibidor de PKC) y crizotinib (inhibidor de MET/ALK/ROS1) como tratamiento dirigido de primera línea para el melanoma uveal metastásico, un tumor ocular raro y de mal pronóstico. Vale la pena seguirlo porque esta enfermedad tiene muy pocas opciones terapéuticas eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico de la combinación darovasertib más crizotinib en primera línea; el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con melanoma uveal metastásico, tumor ocular raro con alta diseminación hepática y mal pronóstico histórico.\nIntervención: Darovasertib (inhibidor de PKC) combinado con crizotinib (inhibidor de MET/ALK/ROS1); no se especifica comparador.\nResultados: No disponibles a partir del título; no se reportan cifras de supervivencia ni tasas de respuesta.\nLimitaciones: Información limitada al título periodístico; posible estudio de un solo brazo sin grupo control.\nMensaje: Si los resultados son positivos, podría sumar una opción dirigida de primera línea en una enfermedad con alternativas muy escasas.\nNota: análisis sin acceso al abstract."
+    },
+    "77c93ca856b0": {
+      "resumen": "Con un seguimiento más prolongado, las respuestas a detalimogene voraplasmid (una terapia génica que se aplica dentro de la vejiga) se mantienen o mejoran en pacientes con cáncer de vejiga no músculo-invasivo que no responde al BCG (bacilo de Calmette-Guérin), de cara a la presentación de la solicitud de aprobación ante la FDA. Importa porque hoy hay pocas alternativas para quienes no responden al tratamiento estándar.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización con seguimiento más prolongado de un estudio clínico (probablemente de registro) de detalimogene voraplasmid; el título no especifica fase, centros ni cantidad de pacientes.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo BCG-no-respondedor.\nIntervención: Detalimogene voraplasmid, terapia génica intravesical; comparador no especificado.\nResultados: No disponibles a partir del título; se menciona mejora de las respuestas con mayor seguimiento, sin cifras concretas.\nLimitaciones: Sin datos numéricos en la fuente consultada; al ser previos a la presentación regulatoria, podrían no estar aún publicados con revisión por pares.\nMensaje: Si se confirma la durabilidad, podría ser una alternativa para evitar la cistectomía en pacientes BCG-no-respondedores.\nNota: análisis sin acceso al abstract."
+    },
+    "f8b39e2e1d9e": {
+      "resumen": "La FDA otorgó la designación de terapia innovadora (Breakthrough Therapy) al radiotrazador 64Cu-SAR-bisPSMA, usado en estudios PET dirigidos al antígeno prostático específico de membrana (PSMA), para detectar la recurrencia bioquímica del cáncer de próstata. Relevante porque podría mejorar la detección temprana de recaídas que hoy pasan desapercibidas con los métodos de imagen convencionales.",
+      "destacado": false
+    },
+    "b80e94533d57": {
+      "resumen": "Una nota de The ASCO Post repasa cómo la ampliación del arsenal terapéutico contra la leucemia linfocítica crónica (LLC) —con más inhibidores de BTK e inhibidores de BCL-2 disponibles— abre nuevos interrogantes sobre en qué orden usarlos y cómo manejar la resistencia. Interesa porque refleja un dilema clínico cada vez más frecuente: demasiadas opciones y poca evidencia sobre la secuencia óptima.",
+      "destacado": false
+    },
+    "7d383b35f155": {
+      "resumen": "Un análisis sobre cáncer infantil muestra que, aunque la supervivencia global mejoró en las últimas décadas, persisten brechas importantes según el tipo de tumor y el acceso a centros especializados. Importa porque pone en números un problema de equidad en salud que suele quedar invisibilizado detrás de las buenas noticias generales.",
+      "destacado": false,
+      "analisis": "Diseño: Probablemente un análisis de datos de vigilancia epidemiológica (tipo registro poblacional) sobre tendencias de supervivencia en cáncer infantil; el título no precisa el diseño exacto ni la fuente de datos.\nPoblación: Niños y adolescentes con cáncer, comparando distintos tipos tumorales y subgrupos poblacionales.\nIntervención: No aplica tratamiento específico; es un análisis de tendencias de supervivencia a lo largo del tiempo.\nResultados: No disponibles a partir del título; se menciona mejora general con disparidades persistentes, sin cifras concretas.\nLimitaciones: Sin acceso al estudio original no se puede evaluar la calidad de los datos de registro ni el ajuste por factores de confusión.\nMensaje: Refuerza la necesidad de políticas específicas para cerrar las brechas de acceso y resultado en oncología pediátrica.\nNota: análisis sin acceso al abstract."
+    },
+    "19268132710e": {
+      "resumen": "Un estudio evaluó agregar inmunoterapia a la quimioterapia (inmunoquimioterapia) antes de la cirugía en pacientes con cáncer de páncreas localmente avanzado o en el límite de ser operable (borderline resecable), y encontró una mejora en la supervivencia libre de eventos. Es relevante porque el cáncer de páncreas tiene pronóstico históricamente muy malo y pocas estrategias logran modificarlo en estadios avanzados.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico (el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes) que compara inmunoquimioterapia neoadyuvante contra un comparador no especificado.\nPoblación: Pacientes con adenocarcinoma de páncreas borderline resecable o localmente avanzado.\nIntervención: Inmunoquimioterapia (combinación de quimioterapia con inmunoterapia, agentes no especificados en el título) en etapa neoadyuvante.\nResultados: Mejora en la supervivencia libre de eventos según el título; no se dispone de cifras concretas (medianas, razón de riesgo o intervalo de confianza) sin el abstract completo.\nLimitaciones: Sin el texto completo no se puede valorar el tamaño de muestra, el riesgo de sesgo ni la magnitud real del beneficio.\nMensaje: Si se confirma, respalda intensificar el tratamiento sistémico antes de la cirugía en una enfermedad donde la resecabilidad y el control micrometastásico son claves.\nNota: análisis sin acceso al abstract."
+    },
+    "952085363825": {
+      "resumen": "Vogue repasa la colección otoño 2027 de Liu Jo presentada en la pasarela de ready-to-wear."
+    },
+    "9ff8545c5564": {
+      "resumen": "La diseñadora panameña Isabella Fiore cuenta cómo construye su identidad creativa a partir de la emoción y los recuerdos personales."
+    },
+    "44e9fbcdb373": {
+      "resumen": "Kate Middleton combinó zapatos rojos y pantalones grises para un look con los colores de la Navidad."
+    },
+    "cd2cbba50580": {
+      "resumen": "Una selección de polleras midi a cuadros para combinar con botines, mocasines o zapatos de taco este noviembre."
+    },
+    "4bdd772868e2": {
+      "resumen": "El estilo Balmoral se impone esta temporada: las prendas básicas para lograr el look de otoño que impusieron las chicas del norte de Europa."
+    },
+    "4eb7a14ed654": {
+      "resumen": "Dakota Johnson combina leggings bordó con zapatillas deportivas negras en un look que se volvió tendencia de otoño."
+    },
+    "b3cf7ec57a5f": {
+      "resumen": "Un repaso por doce royals, de la reina Letizia a Beatrice Borromeo, que se destacan tanto por su estilo como por cómo comunican su identidad a través de la ropa."
+    },
+    "4e4eccd591e0": {
+      "resumen": "La banda Ghost Dance llega a la Argentina con una presentación en vivo."
+    },
+    "3c3d9793f19d": {
+      "resumen": "La CGT organiza la Bienal Fuerza, un ciclo con debates, música y teatro en el espacio C Art Media."
+    },
+    "fd758b2e4833": {
+      "resumen": "Varios restaurantes de Buenos Aires lanzaron un menú especial en homenaje al papa León XIV, con descuentos incluidos."
     }
   }
 }
