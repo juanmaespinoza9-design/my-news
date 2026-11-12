@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:13:29Z",
+  "generated_at": "2026-11-12T10:11:12Z",
   "summaries": {
     "c81145f0857c": {
       "resumen": "Actualización de la guía conjunta CSCO-ASCO (Sociedad China de Oncología Clínica y Sociedad Americana de Oncología Clínica) para el tratamiento del carcinoma nasofaríngeo en estadios IB a III. Es relevante porque fija el estándar de tratamiento curativo en la enfermedad localmente avanzada.",
@@ -8,9 +8,6 @@
     },
     "d48b99cd16c7": {
       "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
-    },
-    "b3860e827109": {
-      "resumen": "Una guía con todo lo necesario para disfrutar la edición 2026 de la Noche de los Museos en Buenos Aires."
     },
     "25297157e250": {
       "resumen": "Un análisis de modelado estima la supervivencia libre de progresión a largo plazo en mieloma múltiple de diagnóstico reciente tratado con el esquema daratumumab, bortezomib, lenalidomida y dexametasona (D-VRd), publicado en el Journal of Clinical Oncology. Interesa porque ayuda a proyectar el beneficio a largo plazo de este régimen de referencia más allá del seguimiento directo de los ensayos.",
@@ -26,23 +23,11 @@
       "destacado": false,
       "analisis": "Diseño: Guía de práctica clínica conjunta elaborada por un panel de expertos de la Sociedad China de Oncología Clínica (CSCO) y la Sociedad Americana de Oncología Clínica (ASCO), basada en revisión de la evidencia disponible; no es un ensayo con pacientes propios.\nPoblación: Pacientes adultos con carcinoma nasofaríngeo recurrente (locorregional) y/o metastásico.\nIntervención: Recomendaciones sobre quimioterapia, inmunoterapia, reirradiación y manejo locorregional según el escenario clínico; no hay un esquema único ni comparador, al tratarse de un documento de consenso.\nResultados: No reporta desenlaces propios de supervivencia; sintetiza el nivel de evidencia y la fuerza de cada recomendación.\nLimitaciones: Depende de la calidad y actualidad de los estudios revisados; puede haber diferencias de aplicabilidad entre contextos asiáticos (de mayor incidencia) y occidentales; no sustituye el juicio clínico individualizado.\nMensaje: Ofrece un marco actualizado y consensuado para decidir tratamiento en un escenario clínico complejo, útil para unificar criterios entre centros.\nNota: análisis sin acceso al abstract."
     },
-    "abe0fd7aaf89": {
-      "resumen": "La diseñadora Barbara Tfank presentó su colección de ropa lista para usar (ready-to-wear) para la primavera 2027."
-    },
     "cd7a17198913": {
       "resumen": "Página|12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
     },
-    "66b99bd9721c": {
-      "resumen": "La Semana de la Cocina Italiana 2026 trae promociones y premios en restaurantes porteños del 16 al 22 de noviembre."
-    },
     "ab8e2a874332": {
       "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
-    },
-    "fd758b2e4833": {
-      "resumen": "Qué restaurantes porteños lanzaron un menú especial por la visita del papa León XIV y cuánto sale comer con los descuentos disponibles."
-    },
-    "05247df20e48": {
-      "resumen": "El gris quedó atrás: repasamos cuál es el color de sillones que se impone como tendencia para 2027."
     },
     "fa2600767620": {
       "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
@@ -62,43 +47,62 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de fase III, aleatorizado 1:1, con 885 pacientes, según cobertura periodística de los resultados presentados en ESMO 2026 y publicados en el New England Journal of Medicine; no se especifica el cegamiento ni el número exacto de centros.\nPoblación: Pacientes con cáncer de mama HER2 positivo avanzado, sin tratamiento sistémico previo (primera línea).\nIntervención: Anbenitamab más HB1801 (docetaxel unido a albúmina) versus el esquema estándar THP (trastuzumab, pertuzumab y taxano).\nResultados: Supervivencia libre de progresión a 24 meses de 58,5% con el esquema experimental versus 34,4% con THP, equivalente a una reducción del 54% en el riesgo de progresión o muerte (razón de riesgo 0,46); tasa de respuesta objetiva de 87,6% versus 73,4%. Eventos adversos grado ≥3 en 45,9% versus 34,4%, principalmente hematológicos.\nLimitaciones: Las cifras provienen de cobertura periodística del análisis presentado en congreso, no del artículo original; falta confirmar intervalos de confianza exactos y el seguimiento a largo plazo todavía es limitado.\nMensaje: De confirmarse en la publicación definitiva, podría posicionarse como nueva alternativa de primera línea en HER2 positivo avanzado, superando al estándar THP vigente, con más toxicidad hematológica a vigilar.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original en el New England Journal of Medicine."
     },
-    "fe05fe64250a": {
-      "resumen": "Un repaso mensual de OncLive con las noticias y comentarios de especialistas más relevantes en cáncer de mama durante octubre de 2026. Sirve como resumen rápido de lo que pasó en el mes, pero no reemplaza la lectura de los estudios originales que menciona.",
-      "destacado": false
-    },
-    "e76e7d8c3cc3": {
-      "resumen": "Un artículo de OncLive repasa el diseño y las poblaciones del estudio RASolute-302, el ensayo de fase III que evaluó daraxonrasib (un inhibidor de la proteína RAS) frente a la quimioterapia elegida por el investigador en cáncer de páncreas metastásico ya tratado. Vale la pena mirarlo porque este ensayo mostró una ventaja de supervivencia muy marcada y podría cambiar el tratamiento de una enfermedad con pronóstico históricamente muy adverso.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo de fase III, aleatorizado 1:1, abierto, internacional, con 500 pacientes en 59 centros de seis países.\nPoblación: Pacientes con adenocarcinoma ductal de páncreas metastásico, previamente tratados, con mutaciones en el gen RAS (incluidas G12D, G12V y G12R) o sin mutación identificada.\nIntervención: Daraxonrasib 300 mg por vía oral una vez al día versus quimioterapia a elección del investigador (gemcitabina más nab-paclitaxel, nal-IRI más 5-fluorouracilo/leucovorina, mFOLFIRINOX o FOLFOX).\nResultados: En pacientes con mutación G12, razón de riesgo para supervivencia global de 0,40; supervivencia global a 12 meses de 53,2% con daraxonrasib versus 17,3% con quimioterapia, lo que implicaría más que duplicar la mediana de supervivencia global.\nLimitaciones: Las cifras surgen de cobertura periodística de los resultados y no del artículo original; hay información contradictoria entre fuentes sobre el estado regulatorio (presentación a la FDA versus aprobación ya otorgada), que conviene confirmar.\nMensaje: De confirmarse, representaría un avance mayor en el cáncer de páncreas metastásico con mutación RAS, una enfermedad con opciones muy limitadas hasta ahora.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original."
-    },
     "f9ca7439c0a4": {
       "resumen": "El estudio de fase III G-HOPE-001 mostró que arcotatug tavatecan (IBI343/TAK-921), un anticuerpo conjugado dirigido a la proteína CLDN18.2, mejora la supervivencia frente al tratamiento elegido por el médico en adenocarcinoma gástrico o de la unión gastroesofágica avanzado, HER2 negativo y CLDN18.2 positivo, ya tratado previamente. Es una noticia relevante porque apunta a una nueva diana terapéutica en un cáncer con pronóstico difícil y pocas opciones de segunda línea.",
       "destacado": false,
       "analisis": "Diseño: Ensayo de fase III, aleatorizado, abierto, con primer y segundo análisis interino presentados en el Congreso ESMO 2026 (NCT06238843).\nPoblación: Pacientes con adenocarcinoma gástrico o de la unión gastroesofágica avanzado, HER2 negativo, CLDN18.2 positivo, con tratamiento previo.\nIntervención: Arcotatug tavatecan (IBI343/TAK-921) 6 mg/kg cada tres semanas versus tratamiento elegido por el médico (irinotecán, paclitaxel o trifluridina/tipiracilo).\nResultados: Supervivencia libre de progresión de 5,5 versus 2,9 meses (razón de riesgo 0,47) en el primer análisis interino; un reporte posterior describe supervivencia global de 10,2 versus 6,9 meses (razón de riesgo 0,57; intervalo de confianza del 95%: 0,45–0,73; p<0,0001), aunque esta cifra no surge de la misma fuente que el dato de supervivencia libre de progresión y conviene confirmarla. Eventos adversos grado ≥3 relacionados con el tratamiento: 47,4% versus 55,9%.\nLimitaciones: Datos de cobertura periodística de análisis interinos, no del artículo original; hay inconsistencia entre fuentes sobre qué análisis corresponde a cada resultado, y se registró un evento fatal relacionado con el tratamiento en el brazo experimental.\nMensaje: Si se confirma, posicionaría a arcotatug tavatecan como opción de segunda línea con beneficio de supervivencia en un subgrupo molecular definido (CLDN18.2 positivo), ampliando las alternativas en cáncer gástrico avanzado.\nNota: análisis basado en cobertura periodística, sin acceso al artículo original."
     },
-    "a3530217c9ec": {
-      "resumen": "La reina Máxima de Holanda deslumbró con un vestido midi y zapatos de tacón blancos, un look elegante pensado para el otoño 2026."
-    },
-    "9e26ae1644de": {
-      "resumen": "Una guía de vestidos midi elegantes para combinar con botas y llevar a la oficina este otoño 2026."
-    },
-    "733c4496be02": {
-      "resumen": "Dua Lipa, Madonna y Daddy Yankee encabezan el line-up de Coachella 2027: todo lo que hay que saber sobre el festival."
-    },
-    "2c3ccbf8985c": {
-      "resumen": "Zara y la actriz Rooney Mara anticipan una falda negra larga transparente que se viene como furor para las fiestas de fin de año."
-    },
-    "174be402286b": {
-      "resumen": "Nicole Neumann adelantó una de las tendencias del verano 2027 con un look de estilo boho chic."
-    },
     "b1cfe73e480d": {
       "resumen": "La banda brasileña Cavalera tocará su disco Chaos A.D. completo en Buenos Aires el 7 de marzo de 2027, en el Teatro Flores."
     },
-    "50717f611a51": {
-      "resumen": "\"Espumas de Oriente\" combina melodrama, tango y humor en una propuesta teatral en Buenos Aires."
+    "742fa73e08a0": {
+      "resumen": "Entrevista de OncLive a un especialista sobre cómo integrar trastuzumab deruxtecan (T-DXd, un anticuerpo conjugado dirigido contra el receptor HER2) y biomarcadores en el manejo del cáncer de mama HER2 positivo en estadio temprano. Interesa por el enfoque práctico sobre selección de pacientes en la consulta diaria, aunque es una opinión de experto y no un estudio nuevo.",
+      "destacado": false
     },
-    "1b070afe862e": {
-      "resumen": "El cantante Jorge Rojas vivió dos shows especiales en el Teatro Coliseo coincidiendo con la visita del papa León XIV, y agotó las entradas."
+    "6e6e37ff041b": {
+      "resumen": "Carta al editor publicada en el New England Journal of Medicine que comenta un ensayo sobre apalutamida (un antiandrógeno de nueva generación) utilizada en forma perioperatoria, es decir antes y después de la cirugía, en cáncer de próstata localizado de alto riesgo. Es una discusión metodológica sobre el estudio original, no un ensayo nuevo con resultados propios.",
+      "destacado": false
+    },
+    "cfebb552d5ad": {
+      "resumen": "Respuesta de los autores, en el New England Journal of Medicine, a la carta anterior sobre el ensayo de apalutamida perioperatoria en cáncer de próstata localizado de alto riesgo. Es una réplica entre especialistas sobre puntos de debate del estudio original, sin datos clínicos nuevos.",
+      "destacado": false
+    },
+    "ce56d6c8fdd6": {
+      "resumen": "Entrevista de OncLive a un especialista sobre cómo ajustar el tratamiento según la biología de HER2 (el receptor 2 del factor de crecimiento epidérmico humano) en cáncer de mama en estadio temprano. Aporta una mirada clínica sobre individualización terapéutica, sin presentar un estudio nuevo.",
+      "destacado": false
+    },
+    "283c99d862e5": {
+      "resumen": "ELLE repasa las novedades y tendencias que van a marcar el ritmo de la moda este otoño 2026."
+    },
+    "1ce841c2227a": {
+      "resumen": "Los zapatos de cordones, clásicos del uniforme escolar, vuelven y se convierten en el calzado favorito de la moda."
+    },
+    "c87c645f6ce6": {
+      "resumen": "Las sillas comunes quedaron atrás: cuál es la nueva tendencia para decorar balcones en 2027."
+    },
+    "a8f2b51e2881": {
+      "resumen": "El vestido de fiesta más espectacular de la temporada llegó a Zara y ya se agota en todos los talles."
+    },
+    "dc2b00b38d6d": {
+      "resumen": "DAB Bolivia celebra diez años uniendo moda de autor, tradición y cultura boliviana."
+    },
+    "18b4dee83e62": {
+      "resumen": "Siete blazers elegantes para combinar con jeans rectos y zapatos chatos este otoño 2026."
+    },
+    "d7dc03e9df1d": {
+      "resumen": "Los directores teatrales Paco Sánchez y Eugenio Calonge sostienen que el teatro es hoy más necesario que nunca."
+    },
+    "747239001f6a": {
+      "resumen": "La banda finlandesa The Rasmus trae su gira Weirdo Tour al Teatro Flores de Buenos Aires el 4 de noviembre."
+    },
+    "523a0a8df319": {
+      "resumen": "Una propuesta teatral para sumar a los planes de esta semana en Buenos Aires."
+    },
+    "7d0e818e6986": {
+      "resumen": "Más de 40 restaurantes porteños se suman a la Semana de la Cocina Italiana en Buenos Aires."
+    },
+    "950925a66695": {
+      "resumen": "La inflación en la Ciudad de Buenos Aires fue del 1,9% en octubre y acumula 32,5% en los últimos doce meses."
     }
   }
 }
