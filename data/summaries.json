@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-11-12T22:12:49Z",
+  "generated_at": "2026-11-13T10:11:41Z",
   "summaries": {
-    "c81145f0857c": {
-      "resumen": "Actualización de la guía conjunta CSCO-ASCO (Sociedad China de Oncología Clínica y Sociedad Americana de Oncología Clínica) para el tratamiento del carcinoma nasofaríngeo en estadios IB a III. Es relevante porque fija el estándar de tratamiento curativo en la enfermedad localmente avanzada.",
-      "destacado": false,
-      "analisis": "Diseño: Actualización de guía de práctica clínica conjunta CSCO-ASCO, elaborada por panel de expertos a partir de revisión de evidencia; no es un ensayo clínico primario.\nPoblación: Pacientes con carcinoma nasofaríngeo en estadios IB a III (enfermedad locorregionalmente avanzada, sin metástasis a distancia).\nIntervención: Recomendaciones sobre radioterapia, quimioterapia concurrente, de inducción y/o adyuvante según el estadio.\nResultados: No reporta desenlaces propios de supervivencia; actualiza recomendaciones previas a partir de evidencia nueva.\nLimitaciones: Basada en revisión de estudios externos de calidad variable; la aplicabilidad puede diferir entre regiones de alta y baja incidencia de la enfermedad.\nMensaje: Actualiza el estándar de tratamiento curativo para esta etapa, orientando decisiones sobre intensidad de radioterapia y quimioterapia.\nNota: análisis sin acceso al abstract."
-    },
     "d48b99cd16c7": {
       "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
-    },
-    "25297157e250": {
-      "resumen": "Un análisis de modelado estima la supervivencia libre de progresión a largo plazo en mieloma múltiple de diagnóstico reciente tratado con el esquema daratumumab, bortezomib, lenalidomida y dexametasona (D-VRd), publicado en el Journal of Clinical Oncology. Interesa porque ayuda a proyectar el beneficio a largo plazo de este régimen de referencia más allá del seguimiento directo de los ensayos.",
-      "destacado": true,
-      "analisis": "Diseño: Análisis de modelado estadístico (probablemente basado en datos de uno o más ensayos aleatorizados de fase III) publicado en el Journal of Clinical Oncology; el título no precisa el número de pacientes ni la fuente exacta de los datos.\nPoblación: Pacientes con mieloma múltiple de diagnóstico reciente (NDMM) elegibles para el esquema de cuatro drogas.\nIntervención: Daratumumab (anticuerpo monoclonal anti-CD38), bortezomib, lenalidomida y dexametasona (D-VRd); el título no especifica el comparador.\nResultados: El título indica que se modela la supervivencia libre de progresión a largo plazo, pero no incluye las cifras de mediana de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Los modelos de proyección a largo plazo dependen de supuestos estadísticos y de la calidad y duración del seguimiento real disponible, por lo que las estimaciones a muy largo plazo deben interpretarse con cautela.\nMensaje: Si las proyecciones son favorables, refuerzan a D-VRd como esquema de referencia en mieloma múltiple de diagnóstico reciente, con beneficio sostenido en el tiempo.\nNota: análisis sin acceso al abstract."
     },
     "8af462c3c0c0": {
       "resumen": "Relato personal publicado en la sección Art of Oncology del Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica). Es una narrativa reflexiva sobre la experiencia humana en torno al cáncer, no un estudio clínico.",
@@ -29,75 +19,80 @@
     "ab8e2a874332": {
       "resumen": "El Destape propone cinco planes para hacer en Buenos Aires este fin de semana, más allá de la visita del papa León XIV."
     },
-    "fa2600767620": {
-      "resumen": "Una selección de restaurantes porteños para descubrir la cocina italiana."
-    },
-    "d7dc03e9df1d": {
-      "resumen": "Los directores teatrales Paco Sánchez y Eugenio Calonge sostienen que el teatro es hoy más necesario que nunca."
-    },
-    "747239001f6a": {
-      "resumen": "La banda finlandesa The Rasmus trae su gira Weirdo Tour al Teatro Flores de Buenos Aires el 4 de noviembre."
-    },
-    "7d0e818e6986": {
-      "resumen": "Más de 40 restaurantes porteños se suman a la Semana de la Cocina Italiana en Buenos Aires."
-    },
     "11d49d018cf5": {
       "resumen": "Un estudio evaluó la combinación de darovasertib (inhibidor de PKC) y crizotinib (inhibidor de MET/ALK/ROS1) como tratamiento dirigido de primera línea para el melanoma uveal metastásico, un tumor ocular raro y de mal pronóstico. Vale la pena seguirlo porque esta enfermedad tiene muy pocas opciones terapéuticas eficaces.",
       "destacado": false,
       "analisis": "Diseño: Estudio clínico de la combinación darovasertib más crizotinib en primera línea; el título no especifica fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con melanoma uveal metastásico, tumor ocular raro con alta diseminación hepática y mal pronóstico histórico.\nIntervención: Darovasertib (inhibidor de PKC) combinado con crizotinib (inhibidor de MET/ALK/ROS1); no se especifica comparador.\nResultados: No disponibles a partir del título; no se reportan cifras de supervivencia ni tasas de respuesta.\nLimitaciones: Información limitada al título periodístico; posible estudio de un solo brazo sin grupo control.\nMensaje: Si los resultados son positivos, podría sumar una opción dirigida de primera línea en una enfermedad con alternativas muy escasas.\nNota: análisis sin acceso al abstract."
     },
-    "77c93ca856b0": {
-      "resumen": "Con un seguimiento más prolongado, las respuestas a detalimogene voraplasmid (una terapia génica que se aplica dentro de la vejiga) se mantienen o mejoran en pacientes con cáncer de vejiga no músculo-invasivo que no responde al BCG (bacilo de Calmette-Guérin), de cara a la presentación de la solicitud de aprobación ante la FDA. Importa porque hoy hay pocas alternativas para quienes no responden al tratamiento estándar.",
-      "destacado": false,
-      "analisis": "Diseño: Actualización con seguimiento más prolongado de un estudio clínico (probablemente de registro) de detalimogene voraplasmid; el título no especifica fase, centros ni cantidad de pacientes.\nPoblación: Pacientes con cáncer de vejiga no músculo-invasivo BCG-no-respondedor.\nIntervención: Detalimogene voraplasmid, terapia génica intravesical; comparador no especificado.\nResultados: No disponibles a partir del título; se menciona mejora de las respuestas con mayor seguimiento, sin cifras concretas.\nLimitaciones: Sin datos numéricos en la fuente consultada; al ser previos a la presentación regulatoria, podrían no estar aún publicados con revisión por pares.\nMensaje: Si se confirma la durabilidad, podría ser una alternativa para evitar la cistectomía en pacientes BCG-no-respondedores.\nNota: análisis sin acceso al abstract."
-    },
-    "f8b39e2e1d9e": {
-      "resumen": "La FDA otorgó la designación de terapia innovadora (Breakthrough Therapy) al radiotrazador 64Cu-SAR-bisPSMA, usado en estudios PET dirigidos al antígeno prostático específico de membrana (PSMA), para detectar la recurrencia bioquímica del cáncer de próstata. Relevante porque podría mejorar la detección temprana de recaídas que hoy pasan desapercibidas con los métodos de imagen convencionales.",
-      "destacado": false
-    },
-    "b80e94533d57": {
-      "resumen": "Una nota de The ASCO Post repasa cómo la ampliación del arsenal terapéutico contra la leucemia linfocítica crónica (LLC) —con más inhibidores de BTK e inhibidores de BCL-2 disponibles— abre nuevos interrogantes sobre en qué orden usarlos y cómo manejar la resistencia. Interesa porque refleja un dilema clínico cada vez más frecuente: demasiadas opciones y poca evidencia sobre la secuencia óptima.",
-      "destacado": false
-    },
-    "7d383b35f155": {
-      "resumen": "Un análisis sobre cáncer infantil muestra que, aunque la supervivencia global mejoró en las últimas décadas, persisten brechas importantes según el tipo de tumor y el acceso a centros especializados. Importa porque pone en números un problema de equidad en salud que suele quedar invisibilizado detrás de las buenas noticias generales.",
-      "destacado": false,
-      "analisis": "Diseño: Probablemente un análisis de datos de vigilancia epidemiológica (tipo registro poblacional) sobre tendencias de supervivencia en cáncer infantil; el título no precisa el diseño exacto ni la fuente de datos.\nPoblación: Niños y adolescentes con cáncer, comparando distintos tipos tumorales y subgrupos poblacionales.\nIntervención: No aplica tratamiento específico; es un análisis de tendencias de supervivencia a lo largo del tiempo.\nResultados: No disponibles a partir del título; se menciona mejora general con disparidades persistentes, sin cifras concretas.\nLimitaciones: Sin acceso al estudio original no se puede evaluar la calidad de los datos de registro ni el ajuste por factores de confusión.\nMensaje: Refuerza la necesidad de políticas específicas para cerrar las brechas de acceso y resultado en oncología pediátrica.\nNota: análisis sin acceso al abstract."
-    },
-    "19268132710e": {
-      "resumen": "Un estudio evaluó agregar inmunoterapia a la quimioterapia (inmunoquimioterapia) antes de la cirugía en pacientes con cáncer de páncreas localmente avanzado o en el límite de ser operable (borderline resecable), y encontró una mejora en la supervivencia libre de eventos. Es relevante porque el cáncer de páncreas tiene pronóstico históricamente muy malo y pocas estrategias logran modificarlo en estadios avanzados.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico (el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes) que compara inmunoquimioterapia neoadyuvante contra un comparador no especificado.\nPoblación: Pacientes con adenocarcinoma de páncreas borderline resecable o localmente avanzado.\nIntervención: Inmunoquimioterapia (combinación de quimioterapia con inmunoterapia, agentes no especificados en el título) en etapa neoadyuvante.\nResultados: Mejora en la supervivencia libre de eventos según el título; no se dispone de cifras concretas (medianas, razón de riesgo o intervalo de confianza) sin el abstract completo.\nLimitaciones: Sin el texto completo no se puede valorar el tamaño de muestra, el riesgo de sesgo ni la magnitud real del beneficio.\nMensaje: Si se confirma, respalda intensificar el tratamiento sistémico antes de la cirugía en una enfermedad donde la resecabilidad y el control micrometastásico son claves.\nNota: análisis sin acceso al abstract."
-    },
     "952085363825": {
       "resumen": "Vogue repasa la colección otoño 2027 de Liu Jo presentada en la pasarela de ready-to-wear."
-    },
-    "9ff8545c5564": {
-      "resumen": "La diseñadora panameña Isabella Fiore cuenta cómo construye su identidad creativa a partir de la emoción y los recuerdos personales."
-    },
-    "44e9fbcdb373": {
-      "resumen": "Kate Middleton combinó zapatos rojos y pantalones grises para un look con los colores de la Navidad."
-    },
-    "cd2cbba50580": {
-      "resumen": "Una selección de polleras midi a cuadros para combinar con botines, mocasines o zapatos de taco este noviembre."
-    },
-    "4bdd772868e2": {
-      "resumen": "El estilo Balmoral se impone esta temporada: las prendas básicas para lograr el look de otoño que impusieron las chicas del norte de Europa."
-    },
-    "4eb7a14ed654": {
-      "resumen": "Dakota Johnson combina leggings bordó con zapatillas deportivas negras en un look que se volvió tendencia de otoño."
-    },
-    "b3cf7ec57a5f": {
-      "resumen": "Un repaso por doce royals, de la reina Letizia a Beatrice Borromeo, que se destacan tanto por su estilo como por cómo comunican su identidad a través de la ropa."
     },
     "4e4eccd591e0": {
       "resumen": "La banda Ghost Dance llega a la Argentina con una presentación en vivo."
     },
-    "3c3d9793f19d": {
-      "resumen": "La CGT organiza la Bienal Fuerza, un ciclo con debates, música y teatro en el espacio C Art Media."
+    "7c6c5953f707": {
+      "resumen": "Entrevista en video a un oncólogo de OncLive sobre cómo individualizar la primera línea de tratamiento y el mantenimiento en cáncer de mama metastásico HER2 positivo (con sobreexpresión del receptor 2 del factor de crecimiento epidérmico humano). Vale la pena mirarlo porque resume criterios prácticos para elegir el esquema según el perfil de cada paciente.",
+      "destacado": false
     },
-    "fd758b2e4833": {
-      "resumen": "Varios restaurantes de Buenos Aires lanzaron un menú especial en homenaje al papa León XIV, con descuentos incluidos."
+    "23b0a01f68dc": {
+      "resumen": "Entrevista en video donde un especialista analiza en qué lugar del tratamiento podría ubicarse iza-bren (izalontamab brengitecán, un anticuerpo biespecífico conjugado a quimioterapia) después de progresar a osimertinib en cáncer de pulmón de células no pequeñas con mutación del receptor del factor de crecimiento epidérmico (EGFR). Interesa porque aborda una de las preguntas más urgentes en este subtipo: qué hacer tras la resistencia a los inhibidores de EGFR de tercera generación.",
+      "destacado": false
+    },
+    "99312a1bc90a": {
+      "resumen": "Otra entrevista en video sobre la evolución del panorama de primera línea y posterior al uso de trastuzumab deruxtecán (T-DXd, un anticuerpo conjugado a quimioterapia dirigido a HER2) en cáncer de mama metastásico HER2 positivo. Relevante porque este campo cambia rápido y define cómo secuenciar los tratamientos disponibles.",
+      "destacado": false
+    },
+    "30f60852a1ba": {
+      "resumen": "La Sociedad Americana del Cáncer (ACS, American Cancer Society) actualizó su guía de rastreo (screening) para el cáncer de próstata. Importa porque estas guías definen a qué edad y con qué frecuencia debería indicarse el dosaje de antígeno prostático específico (PSA) en la población general.",
+      "destacado": false,
+      "analisis": "Diseño: Actualización de guía de práctica clínica de la Sociedad Americana del Cáncer (ACS), elaborada por un panel de expertos a partir de revisión de evidencia; no es un ensayo clínico primario.\nPoblación: Hombres de la población general candidatos a rastreo de cáncer de próstata, según edad y factores de riesgo (antecedentes familiares, ascendencia).\nIntervención: Recomendaciones sobre edad de inicio, frecuencia e indicación del dosaje de antígeno prostático específico (PSA) para el rastreo.\nResultados: No reporta desenlaces propios de supervivencia; actualiza recomendaciones previas a partir de evidencia nueva sobre el balance entre detección temprana y sobrediagnóstico.\nLimitaciones: Basada en revisión de estudios externos de calidad variable; el balance riesgo-beneficio del rastreo con PSA sigue siendo motivo de debate entre sociedades científicas.\nMensaje: Actualiza a quién y cuándo ofrecer el rastreo con PSA, un tema con impacto directo en la práctica de atención primaria y urología.\nNota: análisis sin acceso al abstract."
+    },
+    "4da25f8642cf": {
+      "resumen": "Un estudio comparó agregar pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) o placebo a la quimiorradioterapia definitiva concurrente en cáncer de esófago o de la unión gastroesofágica. Es relevante porque busca saber si sumar inmunoterapia a un tratamiento ya establecido mejora el control de la enfermedad en un escenario con intención curativa.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico que compara pembrolizumab versus placebo, ambos agregados a quimiorradioterapia definitiva concurrente; el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de esófago o de la unión gastroesofágica (GEJ), presumiblemente en estadio localmente avanzado no quirúrgico o candidatos a tratamiento definitivo.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1) o placebo, sumados a quimiorradioterapia definitiva concurrente.\nResultados: No disponibles a partir del título; no se reportan cifras de supervivencia libre de progresión, supervivencia global ni tasas de respuesta.\nLimitaciones: Sin acceso al texto completo no se puede evaluar el tamaño de muestra, el seguimiento ni la magnitud real del beneficio.\nMensaje: Si el agregado de pembrolizumab mejora los resultados, podría sumar la inmunoterapia al tratamiento definitivo estándar en esta localización.\nNota: análisis sin acceso al abstract."
+    },
+    "01a2c3b87f97": {
+      "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de cohorte nacional (datos de población real, no ensayo aleatorizado) que compara el riesgo de segundo cáncer entre distintas eras de tratamiento del linfoma de Hodgkin; el título no precisa el número de pacientes ni el país de origen de los datos.\nPoblación: Mujeres sobrevivientes de linfoma de Hodgkin, tratadas en distintos períodos históricos.\nIntervención: No aplica un tratamiento único; compara la exposición a distintos esquemas de quimioterapia y/o radioterapia según la era de tratamiento.\nResultados: No disponibles a partir del título; no se reportan tasas de incidencia, riesgos relativos ni intervalos de confianza.\nLimitaciones: Los estudios de cohorte retrospectivos dependen de la calidad de los registros y pueden tener seguimiento desigual entre épocas; sin el texto completo no se puede evaluar el ajuste por factores de confusión.\nMensaje: Refuerza la importancia del seguimiento a largo plazo orientado a detectar segundos cánceres en sobrevivientes de linfoma de Hodgkin, y podría orientar qué esquemas históricos conllevan mayor riesgo.\nNota: análisis sin acceso al abstract."
+    },
+    "ecbebf3df58f": {
+      "resumen": "Retractación de un estudio previo sobre PIN1, biosíntesis de colesterol y resultados clínicos en carcinoma urotelial (cáncer de vejiga), publicado originalmente como un análisis clinicogenómico de la vida real con ponderación por propensión. Se incluye porque retira de la literatura datos que ya habían circulado, algo relevante para quienes seguían esa línea de investigación.",
+      "destacado": false
+    },
+    "75dec5cb3676": {
+      "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca italiana Ferrari, presentada en la pasarela."
+    },
+    "dec2571f276a": {
+      "resumen": "Harper's Bazaar propone chaquetas de cuero en colores inesperados, más allá del negro y el marrón habituales, como la tendencia del otoño-invierno."
+    },
+    "5e3c2ede69d2": {
+      "resumen": "Vogue España repasa todos los looks que usó Rosalía durante los Latin Grammy 2026."
+    },
+    "098d6e72dc00": {
+      "resumen": "Karol G fue una de las más comentadas de los Latin Grammy 2026 con un vestido blanco de efecto corsé, según Vogue España."
+    },
+    "bc9be224bc3a": {
+      "resumen": "Telva recorrió más de diez tiendas, de Zara a Mango, para armar una selección de los abrigos más tendencia para el Black Friday 2026."
+    },
+    "3fd327d36e70": {
+      "resumen": "Telva propone un manual con cinco formas de llevar el broche, el accesorio que impone la pasarela este invierno."
+    },
+    "26c7ce5b2d88": {
+      "resumen": "Vogue España publicó la lista completa de ganadores de los Latin Grammy 2026."
+    },
+    "18f940f77c0a": {
+      "resumen": "Una puesta independiente y a la gorra de Hamlet se presenta en Villa Crespo, dentro de la escena teatral under porteña."
+    },
+    "9c6deed5aae5": {
+      "resumen": "Crónica Global reporta que restaurantes de Buenos Aires suspendieron pagos por dificultades financieras."
+    },
+    "ca201bfa6bf5": {
+      "resumen": "El Teatro Colón abrirá sus puertas de forma gratuita durante la Noche de los Museos, según Crónica."
+    },
+    "bd82682e73d3": {
+      "resumen": "La aclamada obra de Lola Arias sobre la guerra de Malvinas, Campo Minado, vuelve a Buenos Aires; la nota detalla cuándo y dónde verla."
     }
   }
 }
