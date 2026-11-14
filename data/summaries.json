@@ -1,108 +1,98 @@
 {
- "generated_at": "2026-11-14T10:10:59+00:00",
- "summaries": {
-  "4da25f8642cf": {
-   "resumen": "Un estudio comparó agregar pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) o placebo a la quimiorradioterapia definitiva concurrente en cáncer de esófago o de la unión gastroesofágica. Es relevante porque busca saber si sumar inmunoterapia a un tratamiento ya establecido mejora el control de la enfermedad en un escenario con intención curativa.",
-   "destacado": true,
-   "analisis": "Diseño: Ensayo clínico que compara pembrolizumab versus placebo, ambos agregados a quimiorradioterapia definitiva concurrente; el título no precisa fase, aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con cáncer de esófago o de la unión gastroesofágica (GEJ), presumiblemente en estadio localmente avanzado no quirúrgico o candidatos a tratamiento definitivo.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1) o placebo, sumados a quimiorradioterapia definitiva concurrente.\nResultados: No disponibles a partir del título; no se reportan cifras de supervivencia libre de progresión, supervivencia global ni tasas de respuesta.\nLimitaciones: Sin acceso al texto completo no se puede evaluar el tamaño de muestra, el seguimiento ni la magnitud real del beneficio.\nMensaje: Si el agregado de pembrolizumab mejora los resultados, podría sumar la inmunoterapia al tratamiento definitivo estándar en esta localización.\nNota: análisis sin acceso al abstract."
-  },
-  "01a2c3b87f97": {
-   "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
-   "destacado": false,
-   "analisis": "Diseño: Análisis de cohorte nacional (datos de población real, no ensayo aleatorizado) que compara el riesgo de segundo cáncer entre distintas eras de tratamiento del linfoma de Hodgkin; el título no precisa el número de pacientes ni el país de origen de los datos.\nPoblación: Mujeres sobrevivientes de linfoma de Hodgkin, tratadas en distintos períodos históricos.\nIntervención: No aplica un tratamiento único; compara la exposición a distintos esquemas de quimioterapia y/o radioterapia según la era de tratamiento.\nResultados: No disponibles a partir del título; no se reportan tasas de incidencia, riesgos relativos ni intervalos de confianza.\nLimitaciones: Los estudios de cohorte retrospectivos dependen de la calidad de los registros y pueden tener seguimiento desigual entre épocas; sin el texto completo no se puede evaluar el ajuste por factores de confusión.\nMensaje: Refuerza la importancia del seguimiento a largo plazo orientado a detectar segundos cánceres en sobrevivientes de linfoma de Hodgkin, y podría orientar qué esquemas históricos conllevan mayor riesgo.\nNota: análisis sin acceso al abstract."
-  },
-  "774d6692e7be": {
-   "resumen": "Un estudio comparó la cirugía (resección quirúrgica) con la radioterapia ablativa estereotáctica (SABR, por sus siglas en inglés) en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, y encontró menor mortalidad con la cirugía. Es relevante porque ambas son opciones aceptadas para tumores operables y la elección impacta directamente en la supervivencia.",
-   "destacado": false,
-   "analisis": "Diseño: A partir del título se trataría de un estudio comparativo observacional (probablemente de base poblacional o de registro), ya que compara dos modalidades terapéuticas sin mencionar aleatorización.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, candidatos tanto a cirugía como a radioterapia ablativa estereotáctica (SABR).\nIntervención: Resección quirúrgica versus SABR (radioterapia estereotáctica ablativa) como tratamiento local definitivo.\nResultados: El título indica que la resección quirúrgica se asoció con menor mortalidad que la SABR, pero no se dispone de las cifras de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al tratarse probablemente de un diseño observacional, existe riesgo de sesgo de selección (los pacientes elegidos para cirugía suelen tener mejor estado funcional y menos comorbilidades que los derivados a SABR); sin el texto completo no se puede evaluar el ajuste estadístico utilizado.\nMensaje: Aporta más evidencia a favor de la cirugía como primera opción en pacientes operables con CPCNP en estadio temprano, reservando la SABR para quienes no son candidatos quirúrgicos, aunque el sesgo de selección limita extrapolar la comparación.\nNota: análisis sin acceso al abstract."
-  },
-  "afa29f3034a6": {
-   "resumen": "Pieza de OncLive centrada en el Dr. Munaf Alkadimi, oncólogo especializado en tumores gastrointestinales. Es contenido de entrevista o perfil de un especialista, no un estudio nuevo, pero puede adelantar hacia dónde van las conductas de tratamiento en esa área."
-  },
-  "77fc019b7a36": {
-   "resumen": "OncLive reporta que el inhibidor de MEK mirdametinib logró respuestas que se profundizan con el tiempo en pacientes con neurofibroma plexiforme asociado a neurofibromatosis tipo 1 (NF1), un tumor benigno pero potencialmente deformante e incapacitante. Interesa porque aporta seguimiento más largo de un fármaco ya aprobado para esta indicación poco frecuente.",
-   "destacado": false,
-   "analisis": "Diseño: No se especifica en el título; probablemente corresponde a seguimiento o actualización de un ensayo clínico que evalúa mirdametinib, un inhibidor de MEK oral.\nPoblación: Pacientes con neurofibroma plexiforme asociado a neurofibromatosis tipo 1 (NF1-PN).\nIntervención: Mirdametinib (inhibidor de MEK) en monoterapia; no se menciona comparador.\nResultados: El título indica que las respuestas \"se profundizan\" con el tiempo, lo que sugiere mejoría de la tasa o magnitud de respuesta en el seguimiento, pero no hay cifras disponibles.\nLimitaciones: Sin acceso al estudio no se puede evaluar el tamaño de muestra, la durabilidad real de la respuesta ni los eventos adversos asociados al tratamiento prolongado.\nMensaje: Refuerza el rol de mirdametinib como opción eficaz y con beneficio creciente en el tiempo para el NF1-PN, aunque se requiere confirmación con los datos completos.\nNota: análisis sin acceso al abstract."
-  },
-  "e64cf1c88a31": {
-   "resumen": "El Dr. Forde comenta, en una entrevista de OncLive, el rol del ADN tumoral circulante (ctDNA) y la enfermedad residual mínima (MRD) en el cáncer de pulmón de células no pequeñas (CPCNP). Es una pieza de opinión experta, no un estudio nuevo, pero resume hacia dónde va el uso de estos biomarcadores en la práctica."
-  },
-  "87ca916e192c": {
-   "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotina (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de tratamiento perioperatorio en un tumor donde las recaídas son frecuentes."
-  },
-  "515fc43c35aa": {
-   "resumen": "El estudio aleatorizado DasaHIT, de la Alianza Alemana de Leucemia Mieloide Crónica, evaluó si dar un descanso del fármaco los fines de semana mejora la tolerancia al dasatinib (un inhibidor de la tirosina quinasa) en pacientes con leucemia mieloide crónica (LMC). Interesa porque busca reducir la toxicidad sin perder eficacia en un tratamiento crónico de por vida.",
-   "destacado": false,
-   "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de la Alianza Alemana de Leucemia Mieloide Crónica (German CML Alliance); el título no precisa cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con leucemia mieloide crónica (LMC) en tratamiento con dasatinib (inhibidor de la tirosina quinasa).\nIntervención: Esquema de dasatinib con \"feriado farmacológico\" los fines de semana (suspensión programada del fármaco) frente al esquema estándar de administración diaria continua.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta molecular, eventos adversos ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar si el estudio demostró no inferioridad en eficacia, el tamaño de la muestra ni el tiempo de seguimiento.\nMensaje: Si confirma que el descanso de fin de semana mantiene la eficacia y mejora la tolerancia, podría ofrecer una estrategia simple para reducir la toxicidad crónica del dasatinib sin resignar control de la enfermedad.\nNota: análisis sin acceso al abstract."
-  },
-  "d753b4688582": {
-   "resumen": "Un artículo de opinión en el Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica) analiza el papel de los eosinófilos (un tipo de célula del sistema inmune) en el cáncer de mama. Vale la pena mirarlo porque explora un actor inmunológico menos estudiado que podría influir en el pronóstico o la respuesta al tratamiento."
-  },
-  "50cbacb8d9ba": {
-   "resumen": "El estudio desarrolló y validó el índice pronóstico CHARGE para identificar fallo temprano del tratamiento en pacientes con mieloma múltiple en recaída o refractario tratados con anticuerpos biespecíficos que reclutan linfocitos T. Interesa porque podría ayudar a anticipar qué pacientes responden peor a esta terapia relativamente nueva.",
-   "destacado": false,
-   "analisis": "Diseño: Estudio de desarrollo y validación de un índice pronóstico (el CHARGE), probablemente basado en una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con anticuerpos biespecíficos que reclutan linfocitos T (bispecific T-cell engagers).\nIntervención: No hay una intervención terapéutica comparada; se construye y valida una herramienta pronóstica (el índice CHARGE) a partir de variables clínicas y de laboratorio.\nResultados: No disponibles a partir del título; no se reportan las variables que componen el índice, su capacidad discriminativa ni los intervalos de confianza.\nLimitaciones: Los índices pronósticos desarrollados en una cohorte pueden perder precisión al aplicarse en otras poblaciones; sin el texto completo no se puede evaluar la calidad de la validación externa.\nMensaje: Si se valida de forma robusta, el índice CHARGE podría ayudar a identificar precozmente a los pacientes con mayor riesgo de fallo temprano bajo biespecíficos, para intensificar el seguimiento o considerar estrategias alternativas.\nNota: análisis sin acceso al abstract."
-  },
-  "f2b6a5787612": {
-   "resumen": "Un ensayo clínico aleatorizado comparó iniciar la suplementación nutricional oral de forma temprana versus la práctica habitual durante la quimiorradioterapia concurrente para el carcinoma nasofaríngeo. Es relevante porque el soporte nutricional oportuno podría reducir la desnutrición y las interrupciones del tratamiento, frecuentes en este tumor.",
-   "destacado": false,
-   "analisis": "Diseño: Ensayo clínico aleatorizado; el título no precisa el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con carcinoma nasofaríngeo tratados con quimiorradioterapia concurrente.\nIntervención: Suplementación nutricional oral iniciada de forma temprana (antes o al comienzo del tratamiento) frente a la suplementación de rutina (iniciada según indicación habitual, típicamente ante la aparición de desnutrición).\nResultados: No disponibles a partir del título; no se reportan cifras de pérdida de peso, tasas de interrupción del tratamiento ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar el criterio de valoración principal, el seguimiento ni si hubo diferencias significativas entre los grupos.\nMensaje: Si la suplementación temprana demuestra beneficio, podría cambiar la práctica hacia una intervención nutricional proactiva y no reactiva durante la quimiorradioterapia de este tumor.\nNota: análisis sin acceso al abstract."
-  },
-  "2a2877a16802": {
-   "resumen": "Un ensayo clínico aleatorizado evaluó agregar camrelizumab (un inhibidor del punto de control inmunitario anti-PD-1) a la quimioterapia en el período perioperatorio en pacientes con carcinoma escamoso de cabeza y cuello localmente avanzado. Vale la pena seguirlo porque la inmunoterapia perioperatoria es un área en plena expansión para tumores con alto riesgo de recaída.",
-   "destacado": false,
-   "analisis": "Diseño: Ensayo clínico aleatorizado; el título no precisa el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con carcinoma escamoso de cabeza y cuello localmente avanzado, candidatos a tratamiento quirúrgico.\nIntervención: Camrelizumab (inhibidor del punto de control inmunitario anti-PD-1) combinado con quimioterapia en esquema perioperatorio (neoadyuvante y/o adyuvante) frente a quimioterapia sola o al estándar de tratamiento.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta patológica completa, supervivencia libre de eventos ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar el criterio de valoración principal, el seguimiento ni el perfil de eventos adversos inmunomediados.\nMensaje: Si confirma beneficio, el agregado de camrelizumab al abordaje perioperatorio podría convertirse en una nueva opción para reducir el riesgo de recaída en este tumor de alto riesgo.\nNota: análisis sin acceso al abstract."
-  },
-  "952085363825": {
-   "resumen": "Vogue repasa la colección otoño 2027 de Liu Jo presentada en la pasarela de ready-to-wear."
-  },
-  "75dec5cb3676": {
-   "resumen": "Vogue repasa la colección primavera 2027 ready-to-wear de la marca italiana Ferrari, presentada en la pasarela."
-  },
-  "1ce22346aa29": {
-   "resumen": "Cosmopolitan repasa los abrigos que marcan tendencia este invierno, desde los diseños de lana clásicos hasta los modelos con efecto pelo."
-  },
-  "f27f6fa25d86": {
-   "resumen": "Isabel Uribe contó la visión empresarial que impulsa a Cliniq en el marco de Vogue Leaders Miami 2026."
-  },
-  "042767733fd7": {
-   "resumen": "Representantes de Bacan Guaro y Casa Dragones debatieron sobre el lujo latinoamericano en Vogue Leaders Miami 2026."
-  },
-  "6a92be4f16c7": {
-   "resumen": "El diseñador Tommy Hilfiger, de 75 años, reflexionó sobre el regreso de las tendencias ochentosas y por qué hoy se buscan prendas con sentido propio antes que una copia del pasado."
-  },
-  "734f0aa6da8c": {
-   "resumen": "Un repaso por las tendencias de moda que se vieron en la alfombra roja de los Latin Grammy 2026, con menos piel al descubierto y más apuesta a la elegancia."
-  },
-  "3040464d65b7": {
-   "resumen": "En una boda celebrada en un castillo del sur de Francia, el verdadero protagonista terminó siendo el perro de los recién casados."
-  },
-  "18f940f77c0a": {
-   "resumen": "Una puesta independiente y a la gorra de Hamlet se presenta en Villa Crespo, dentro de la escena teatral under porteña."
-  },
-  "9c6deed5aae5": {
-   "resumen": "Crónica Global reporta que restaurantes de Buenos Aires suspendieron pagos por dificultades financieras."
-  },
-  "ca201bfa6bf5": {
-   "resumen": "El Teatro Colón abrirá sus puertas de forma gratuita durante la Noche de los Museos, según Crónica."
-  },
-  "0f90eb914faa": {
-   "resumen": "Una guía con 31 propuestas para el fin de semana del 12 al 15 de noviembre en Buenos Aires, entre ferias, conciertos y otras experiencias."
-  },
-  "f75e27c738aa": {
-   "resumen": "La Noche de los Museos incluye una propuesta de teatro e historia en el Archivo Provincial de La Plata."
-  },
-  "d48b99cd16c7": {
-   "resumen": "La agenda de Time Out con los planes recomendados para esta semana y el fin de semana en Buenos Aires."
-  },
-  "0b3dc0d184c2": {
-   "resumen": "Durante la Semana de la Cocina Italiana, restaurantes porteños ofrecerán menús especiales y promociones."
-  },
-  "45401898fb26": {
-   "resumen": "El bioparque Temaikén propone música en vivo y actividades familiares como una de las opciones para el fin de semana cerca de Buenos Aires."
-  },
-  "3b5eb5a642db": {
-   "resumen": "Una agenda con más de 60 planes para el fin de semana del 13 al 15 de noviembre en Buenos Aires, entre recitales, teatro, cine, muestras y propuestas gratuitas."
+  "generated_at": "2026-11-14T22:10:39Z",
+  "summaries": {
+    "01a2c3b87f97": {
+      "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de cohorte nacional (datos de población real, no ensayo aleatorizado) que compara el riesgo de segundo cáncer entre distintas eras de tratamiento del linfoma de Hodgkin; el título no precisa el número de pacientes ni el país de origen de los datos.\nPoblación: Mujeres sobrevivientes de linfoma de Hodgkin, tratadas en distintos períodos históricos.\nIntervención: No aplica un tratamiento único; compara la exposición a distintos esquemas de quimioterapia y/o radioterapia según la era de tratamiento.\nResultados: No disponibles a partir del título; no se reportan tasas de incidencia, riesgos relativos ni intervalos de confianza.\nLimitaciones: Los estudios de cohorte retrospectivos dependen de la calidad de los registros y pueden tener seguimiento desigual entre épocas; sin el texto completo no se puede evaluar el ajuste por factores de confusión.\nMensaje: Refuerza la importancia del seguimiento a largo plazo orientado a detectar segundos cánceres en sobrevivientes de linfoma de Hodgkin, y podría orientar qué esquemas históricos conllevan mayor riesgo.\nNota: análisis sin acceso al abstract."
+    },
+    "774d6692e7be": {
+      "resumen": "Un estudio comparó la cirugía (resección quirúrgica) con la radioterapia ablativa estereotáctica (SABR, por sus siglas en inglés) en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, y encontró menor mortalidad con la cirugía. Es relevante porque ambas son opciones aceptadas para tumores operables y la elección impacta directamente en la supervivencia.",
+      "destacado": true,
+      "analisis": "Diseño: A partir del título se trataría de un estudio comparativo observacional (probablemente de base poblacional o de registro), ya que compara dos modalidades terapéuticas sin mencionar aleatorización.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, candidatos tanto a cirugía como a radioterapia ablativa estereotáctica (SABR).\nIntervención: Resección quirúrgica versus SABR (radioterapia estereotáctica ablativa) como tratamiento local definitivo.\nResultados: El título indica que la resección quirúrgica se asoció con menor mortalidad que la SABR, pero no se dispone de las cifras de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al tratarse probablemente de un diseño observacional, existe riesgo de sesgo de selección (los pacientes elegidos para cirugía suelen tener mejor estado funcional y menos comorbilidades que los derivados a SABR); sin el texto completo no se puede evaluar el ajuste estadístico utilizado.\nMensaje: Aporta más evidencia a favor de la cirugía como primera opción en pacientes operables con CPCNP en estadio temprano, reservando la SABR para quienes no son candidatos quirúrgicos, aunque el sesgo de selección limita extrapolar la comparación.\nNota: análisis sin acceso al abstract."
+    },
+    "87ca916e192c": {
+      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotina (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de tratamiento perioperatorio en un tumor donde las recaídas son frecuentes."
+    },
+    "515fc43c35aa": {
+      "resumen": "El estudio aleatorizado DasaHIT, de la Alianza Alemana de Leucemia Mieloide Crónica, evaluó si dar un descanso del fármaco los fines de semana mejora la tolerancia al dasatinib (un inhibidor de la tirosina quinasa) en pacientes con leucemia mieloide crónica (LMC). Interesa porque busca reducir la toxicidad sin perder eficacia en un tratamiento crónico de por vida.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de la Alianza Alemana de Leucemia Mieloide Crónica (German CML Alliance); el título no precisa cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con leucemia mieloide crónica (LMC) en tratamiento con dasatinib (inhibidor de la tirosina quinasa).\nIntervención: Esquema de dasatinib con \"feriado farmacológico\" los fines de semana (suspensión programada del fármaco) frente al esquema estándar de administración diaria continua.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta molecular, eventos adversos ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar si el estudio demostró no inferioridad en eficacia, el tamaño de la muestra ni el tiempo de seguimiento.\nMensaje: Si confirma que el descanso de fin de semana mantiene la eficacia y mejora la tolerancia, podría ofrecer una estrategia simple para reducir la toxicidad crónica del dasatinib sin resignar control de la enfermedad.\nNota: análisis sin acceso al abstract."
+    },
+    "d753b4688582": {
+      "resumen": "Un artículo de opinión en el Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica) analiza el papel de los eosinófilos (un tipo de célula del sistema inmune) en el cáncer de mama. Vale la pena mirarlo porque explora un actor inmunológico menos estudiado que podría influir en el pronóstico o la respuesta al tratamiento."
+    },
+    "50cbacb8d9ba": {
+      "resumen": "El estudio desarrolló y validó el índice pronóstico CHARGE para identificar fallo temprano del tratamiento en pacientes con mieloma múltiple en recaída o refractario tratados con anticuerpos biespecíficos que reclutan linfocitos T. Interesa porque podría ayudar a anticipar qué pacientes responden peor a esta terapia relativamente nueva.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de desarrollo y validación de un índice pronóstico (el CHARGE), probablemente basado en una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con anticuerpos biespecíficos que reclutan linfocitos T (bispecific T-cell engagers).\nIntervención: No hay una intervención terapéutica comparada; se construye y valida una herramienta pronóstica (el índice CHARGE) a partir de variables clínicas y de laboratorio.\nResultados: No disponibles a partir del título; no se reportan las variables que componen el índice, su capacidad discriminativa ni los intervalos de confianza.\nLimitaciones: Los índices pronósticos desarrollados en una cohorte pueden perder precisión al aplicarse en otras poblaciones; sin el texto completo no se puede evaluar la calidad de la validación externa.\nMensaje: Si se valida de forma robusta, el índice CHARGE podría ayudar a identificar precozmente a los pacientes con mayor riesgo de fallo temprano bajo biespecíficos, para intensificar el seguimiento o considerar estrategias alternativas.\nNota: análisis sin acceso al abstract."
+    },
+    "952085363825": {
+      "resumen": "Vogue repasa la colección otoño 2027 de Liu Jo presentada en la pasarela de ready-to-wear."
+    },
+    "0f90eb914faa": {
+      "resumen": "Una guía con 31 propuestas para el fin de semana del 12 al 15 de noviembre en Buenos Aires, entre ferias, conciertos y otras experiencias."
+    },
+    "0b3dc0d184c2": {
+      "resumen": "Durante la Semana de la Cocina Italiana, restaurantes porteños ofrecerán menús especiales y promociones."
+    },
+    "45401898fb26": {
+      "resumen": "El bioparque Temaikén propone música en vivo y actividades familiares como una de las opciones para el fin de semana cerca de Buenos Aires."
+    },
+    "3b5eb5a642db": {
+      "resumen": "Una agenda con más de 60 planes para el fin de semana del 13 al 15 de noviembre en Buenos Aires, entre recitales, teatro, cine, muestras y propuestas gratuitas."
+    },
+    "a3892e8ffe4d": {
+      "resumen": "Entrevista de OncLive al Dr. Bleiberg sobre la toma de decisiones compartida con el paciente en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR (receptor del factor de crecimiento epidérmico). Interesa porque aborda cómo involucrar al paciente en decisiones de tratamiento complejas en este subtipo tumoral.",
+      "destacado": false
+    },
+    "327257dc96e7": {
+      "resumen": "Resumen semanal de OncLive (\"The OncFive\") con los cinco artículos de oncología más destacados de la semana. Sirve como un pantallazo rápido de las noticias relevantes del área sin profundizar en un tema puntual.",
+      "destacado": false
+    },
+    "ea90379572b2": {
+      "resumen": "La Dra. Elizabeth Smyth comenta en The ASCO Post sobre un nuevo conjugado anticuerpo-fármaco (ADC) dirigido a CLDN18.2 (claudina 18.2, una proteína de membrana) para cáncer gástrico y de la unión gastroesofágica (GEJ). Vale la pena seguirlo porque es una diana terapéutica emergente en tumores digestivos altos.",
+      "destacado": false
+    },
+    "403b65a4624f": {
+      "resumen": "Nota de OncLive sobre la escasez de opciones de tratamiento de segunda línea tras la quimioinmunoterapia en cáncer de pulmón de células no pequeñas (CPCNP) de tipo escamoso. Interesa porque señala una necesidad médica no resuelta en un subtipo frecuente de cáncer de pulmón.",
+      "destacado": false
+    },
+    "9db378a8f09f": {
+      "resumen": "La reina Máxima de Holanda combina zapatos de tacón de colores con faldas y pantalones, una idea para sumar color a los looks de otoño 2026."
+    },
+    "7ea93fa5b00d": {
+      "resumen": "La actriz Dakota Johnson combina mocasines negros con pantalones flare (acampanados), una combinación que se impone esta temporada de otoño 2026."
+    },
+    "80337b55d97b": {
+      "resumen": "Un repaso por las zapatillas deportivas que fueron furor en los años 90 y que vuelven a verse en las calles este otoño 2026."
+    },
+    "fd72efce666b": {
+      "resumen": "Un repaso de seis tendencias que se verán a bordo de los cruceros, según Noticias de Cruceros."
+    },
+    "8086a6096e5e": {
+      "resumen": "Según especialistas consultadas por ELLE, las camisetas térmicas de manga larga se instalan como tendencia este otoño y empiezan a reemplazar a los jerséis finos tradicionales."
+    },
+    "da6f34377a4e": {
+      "resumen": "Telva recorre el origen del jersey de cashmere, desde su producción en Mongolia hasta su paso por Trento (Italia), para explicar por qué es una prenda clave en los placares más elegantes."
+    },
+    "d63a6ad0b35b": {
+      "resumen": "La obra de teatro «La Fábrica» llega al teatro La Ranchería, según informa Flipr.news."
+    },
+    "c38ccb453283": {
+      "resumen": "La edición de este año de La Noche de los Museos en la Ciudad de Buenos Aires logró la mayor convocatoria de su historia, según el Gobierno porteño."
+    },
+    "16312815bfa9": {
+      "resumen": "María Becerra debutó en el Arena de Buenos Aires con un show que recorrió sus distintos «alter egos» y en el que anunció una nueva etapa de su carrera."
+    },
+    "41c47e619e9e": {
+      "resumen": "Perfil repasa los recitales y espectáculos que se podrán ver en la edición 2026 de La Noche de los Museos en la Ciudad de Buenos Aires."
+    },
+    "be011471aea2": {
+      "resumen": "Una selección de nueve propuestas de sushi poco convencionales para probar en Buenos Aires, según CUISINE & VINS."
+    },
+    "23bc617044ba": {
+      "resumen": "Un comensal compartió el ticket de su consumo en el reconocido restaurante La Cabrera, que incluyó bife de chorizo, lomo, papas fritas, puré y cinco bebidas."
+    }
   }
- }
 }
