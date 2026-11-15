@@ -1,18 +1,10 @@
 {
-  "generated_at": "2026-11-14T22:10:39Z",
+  "generated_at": "2026-11-15T10:11:23Z",
   "summaries": {
     "01a2c3b87f97": {
       "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
       "destacado": false,
       "analisis": "Diseño: Análisis de cohorte nacional (datos de población real, no ensayo aleatorizado) que compara el riesgo de segundo cáncer entre distintas eras de tratamiento del linfoma de Hodgkin; el título no precisa el número de pacientes ni el país de origen de los datos.\nPoblación: Mujeres sobrevivientes de linfoma de Hodgkin, tratadas en distintos períodos históricos.\nIntervención: No aplica un tratamiento único; compara la exposición a distintos esquemas de quimioterapia y/o radioterapia según la era de tratamiento.\nResultados: No disponibles a partir del título; no se reportan tasas de incidencia, riesgos relativos ni intervalos de confianza.\nLimitaciones: Los estudios de cohorte retrospectivos dependen de la calidad de los registros y pueden tener seguimiento desigual entre épocas; sin el texto completo no se puede evaluar el ajuste por factores de confusión.\nMensaje: Refuerza la importancia del seguimiento a largo plazo orientado a detectar segundos cánceres en sobrevivientes de linfoma de Hodgkin, y podría orientar qué esquemas históricos conllevan mayor riesgo.\nNota: análisis sin acceso al abstract."
-    },
-    "774d6692e7be": {
-      "resumen": "Un estudio comparó la cirugía (resección quirúrgica) con la radioterapia ablativa estereotáctica (SABR, por sus siglas en inglés) en pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, y encontró menor mortalidad con la cirugía. Es relevante porque ambas son opciones aceptadas para tumores operables y la elección impacta directamente en la supervivencia.",
-      "destacado": true,
-      "analisis": "Diseño: A partir del título se trataría de un estudio comparativo observacional (probablemente de base poblacional o de registro), ya que compara dos modalidades terapéuticas sin mencionar aleatorización.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) en estadio temprano, candidatos tanto a cirugía como a radioterapia ablativa estereotáctica (SABR).\nIntervención: Resección quirúrgica versus SABR (radioterapia estereotáctica ablativa) como tratamiento local definitivo.\nResultados: El título indica que la resección quirúrgica se asoció con menor mortalidad que la SABR, pero no se dispone de las cifras de supervivencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al tratarse probablemente de un diseño observacional, existe riesgo de sesgo de selección (los pacientes elegidos para cirugía suelen tener mejor estado funcional y menos comorbilidades que los derivados a SABR); sin el texto completo no se puede evaluar el ajuste estadístico utilizado.\nMensaje: Aporta más evidencia a favor de la cirugía como primera opción en pacientes operables con CPCNP en estadio temprano, reservando la SABR para quienes no son candidatos quirúrgicos, aunque el sesgo de selección limita extrapolar la comparación.\nNota: análisis sin acceso al abstract."
-    },
-    "87ca916e192c": {
-      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotina (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de tratamiento perioperatorio en un tumor donde las recaídas son frecuentes."
     },
     "515fc43c35aa": {
       "resumen": "El estudio aleatorizado DasaHIT, de la Alianza Alemana de Leucemia Mieloide Crónica, evaluó si dar un descanso del fármaco los fines de semana mejora la tolerancia al dasatinib (un inhibidor de la tirosina quinasa) en pacientes con leucemia mieloide crónica (LMC). Interesa porque busca reducir la toxicidad sin perder eficacia en un tratamiento crónico de por vida.",
@@ -39,60 +31,76 @@
     "45401898fb26": {
       "resumen": "El bioparque Temaikén propone música en vivo y actividades familiares como una de las opciones para el fin de semana cerca de Buenos Aires."
     },
-    "3b5eb5a642db": {
-      "resumen": "Una agenda con más de 60 planes para el fin de semana del 13 al 15 de noviembre en Buenos Aires, entre recitales, teatro, cine, muestras y propuestas gratuitas."
-    },
-    "a3892e8ffe4d": {
-      "resumen": "Entrevista de OncLive al Dr. Bleiberg sobre la toma de decisiones compartida con el paciente en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR (receptor del factor de crecimiento epidérmico). Interesa porque aborda cómo involucrar al paciente en decisiones de tratamiento complejas en este subtipo tumoral.",
-      "destacado": false
-    },
-    "327257dc96e7": {
-      "resumen": "Resumen semanal de OncLive (\"The OncFive\") con los cinco artículos de oncología más destacados de la semana. Sirve como un pantallazo rápido de las noticias relevantes del área sin profundizar en un tema puntual.",
-      "destacado": false
-    },
     "ea90379572b2": {
       "resumen": "La Dra. Elizabeth Smyth comenta en The ASCO Post sobre un nuevo conjugado anticuerpo-fármaco (ADC) dirigido a CLDN18.2 (claudina 18.2, una proteína de membrana) para cáncer gástrico y de la unión gastroesofágica (GEJ). Vale la pena seguirlo porque es una diana terapéutica emergente en tumores digestivos altos.",
       "destacado": false
     },
-    "403b65a4624f": {
-      "resumen": "Nota de OncLive sobre la escasez de opciones de tratamiento de segunda línea tras la quimioinmunoterapia en cáncer de pulmón de células no pequeñas (CPCNP) de tipo escamoso. Interesa porque señala una necesidad médica no resuelta en un subtipo frecuente de cáncer de pulmón.",
-      "destacado": false
-    },
-    "9db378a8f09f": {
-      "resumen": "La reina Máxima de Holanda combina zapatos de tacón de colores con faldas y pantalones, una idea para sumar color a los looks de otoño 2026."
-    },
-    "7ea93fa5b00d": {
-      "resumen": "La actriz Dakota Johnson combina mocasines negros con pantalones flare (acampanados), una combinación que se impone esta temporada de otoño 2026."
-    },
-    "80337b55d97b": {
-      "resumen": "Un repaso por las zapatillas deportivas que fueron furor en los años 90 y que vuelven a verse en las calles este otoño 2026."
-    },
-    "fd72efce666b": {
-      "resumen": "Un repaso de seis tendencias que se verán a bordo de los cruceros, según Noticias de Cruceros."
-    },
-    "8086a6096e5e": {
-      "resumen": "Según especialistas consultadas por ELLE, las camisetas térmicas de manga larga se instalan como tendencia este otoño y empiezan a reemplazar a los jerséis finos tradicionales."
-    },
-    "da6f34377a4e": {
-      "resumen": "Telva recorre el origen del jersey de cashmere, desde su producción en Mongolia hasta su paso por Trento (Italia), para explicar por qué es una prenda clave en los placares más elegantes."
-    },
-    "d63a6ad0b35b": {
-      "resumen": "La obra de teatro «La Fábrica» llega al teatro La Ranchería, según informa Flipr.news."
-    },
-    "c38ccb453283": {
-      "resumen": "La edición de este año de La Noche de los Museos en la Ciudad de Buenos Aires logró la mayor convocatoria de su historia, según el Gobierno porteño."
-    },
-    "16312815bfa9": {
-      "resumen": "María Becerra debutó en el Arena de Buenos Aires con un show que recorrió sus distintos «alter egos» y en el que anunció una nueva etapa de su carrera."
-    },
     "41c47e619e9e": {
       "resumen": "Perfil repasa los recitales y espectáculos que se podrán ver en la edición 2026 de La Noche de los Museos en la Ciudad de Buenos Aires."
     },
-    "be011471aea2": {
-      "resumen": "Una selección de nueve propuestas de sushi poco convencionales para probar en Buenos Aires, según CUISINE & VINS."
-    },
     "23bc617044ba": {
       "resumen": "Un comensal compartió el ticket de su consumo en el reconocido restaurante La Cabrera, que incluyó bife de chorizo, lomo, papas fritas, puré y cinco bebidas."
+    },
+    "3273852092f7": {
+      "resumen": "OncLive entrevista a la Dra. Miller sobre la secuenciación del genoma completo del ADN tumoral circulante (ctDNA) en el líquido cefalorraquídeo (LCR) de pacientes con glioma de alto grado. Interesa porque explora una herramienta de biopsia líquida para monitorear este tumor cerebral agresivo.",
+      "destacado": false
+    },
+    "3054e418c7b8": {
+      "resumen": "Página de perfil de OncLive sobre la Dra. Alexandra M. Miller, vinculada a la entrevista sobre secuenciación de ADN tumoral circulante en glioma de alto grado publicada el mismo día. No aporta contenido clínico adicional por sí sola.",
+      "destacado": false
+    },
+    "b2aabce6b874": {
+      "resumen": "OncLive entrevista al Dr. Halmos sobre estrategias de combinación y nuevas opciones de tratamiento en cáncer de pulmón de células no pequeñas (CPCNP) con mutación en EGFR (receptor del factor de crecimiento epidérmico). Vale la pena seguirlo porque este subtipo tumoral concentra buena parte de los nuevos desarrollos terapéuticos en cáncer de pulmón.",
+      "destacado": false
+    },
+    "5fae719d8c14": {
+      "resumen": "The ASCO Post entrevista a la Dra. Nøttrup sobre un nuevo esquema triple de mantenimiento en cáncer de ovario recurrente sin mutación en BRCA (BRCA wild-type). Interesa porque este subgrupo de pacientes tiene menos opciones de mantenimiento eficaces que las portadoras de mutación BRCA.",
+      "destacado": false
+    },
+    "4da25f8642cf": {
+      "resumen": "The ASCO Post resume un ensayo que evaluó agregar pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) o placebo a la quimiorradioterapia definitiva concurrente en cáncer de esófago y de la unión gastroesofágica (GEJ). Interesa porque busca mejorar los resultados del tratamiento curativo en tumores localmente avanzados sin cirugía.",
+      "destacado": false,
+      "analisis": "Diseño: A partir del título se trataría de un ensayo clínico aleatorizado que compara pembrolizumab frente a placebo, ambos sumados a quimiorradioterapia definitiva concurrente; no se precisan el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de esófago o de la unión gastroesofágica (GEJ) candidatos a tratamiento definitivo (no quirúrgico) con quimiorradioterapia.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1) o placebo, agregados a la quimiorradioterapia definitiva concurrente estándar.\nResultados: No disponibles a partir del título; no se reportan supervivencia global, supervivencia libre de progresión, razones de riesgo ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de muestra, el seguimiento ni la toxicidad agregada de combinar inmunoterapia con quimiorradioterapia.\nMensaje: Si demuestra beneficio, podría posicionar a la inmunoterapia como parte del tratamiento definitivo no quirúrgico del cáncer esofágico y de la unión gastroesofágica, un escenario donde las opciones curativas sin cirugía siguen siendo limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "f2b6a5787612": {
+      "resumen": "Un ensayo clínico aleatorizado publicado en JAMA Oncology comparó el inicio temprano de suplementación nutricional oral frente al esquema habitual durante la quimiorradioterapia concurrente en cáncer de nasofaringe. Vale la pena seguirlo porque la desnutrición es una complicación frecuente y limitante de este tratamiento.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (según el propio título); no se precisan el cegamiento ni la cantidad de centros o de pacientes.\nPoblación: Pacientes con carcinoma de nasofaringe tratados con quimiorradioterapia concurrente.\nIntervención: Suplementación nutricional oral temprana (iniciada antes o al comienzo del tratamiento) frente a la suplementación de rutina (iniciada según indicación clínica habitual, típicamente más tardía).\nResultados: No disponibles a partir del título; no se reportan datos sobre pérdida de peso, interrupciones del tratamiento ni calidad de vida.\nLimitaciones: Sin el texto completo no se puede evaluar cómo se definió \"temprano\" frente a \"de rutina\", ni el grado de adherencia a la suplementación en cada grupo.\nMensaje: Si confirma beneficio, respaldaría adelantar sistemáticamente el soporte nutricional en pacientes con cáncer de nasofaringe que reciben quimiorradioterapia, para reducir la desnutrición y sus complicaciones asociadas.\nNota: análisis sin acceso al abstract."
+    },
+    "2a2877a16802": {
+      "resumen": "Un ensayo clínico aleatorizado en JAMA Oncology evaluó agregar camrelizumab (un inhibidor del punto de control inmunitario anti-PD-1) a la quimioterapia perioperatoria (antes y después de la cirugía) en carcinoma espinocelular de cabeza y cuello localmente avanzado. Es el destacado de hoy porque la inmunoterapia perioperatoria es una de las líneas más activas de investigación en tumores de cabeza y cuello.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (según el título); no se especifican el cegamiento, la cantidad de centros ni el tamaño de la muestra.\nPoblación: Pacientes con carcinoma espinocelular de cabeza y cuello (head and neck squamous cell carcinoma) localmente avanzado, candidatos a tratamiento perioperatorio.\nIntervención: Camrelizumab (inhibidor del punto de control inmunitario anti-PD-1) combinado con quimioterapia en esquema perioperatorio (neoadyuvante y/o adyuvante), presumiblemente frente a quimioterapia perioperatoria sola.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta patológica, supervivencia libre de eventos ni intervalos de confianza.\nLimitaciones: Sin el texto completo no se puede evaluar el esquema exacto de quimioterapia, la definición de \"localmente avanzado\" ni la toxicidad perioperatoria asociada a sumar inmunoterapia.\nMensaje: Si los resultados son positivos, sumaría evidencia a favor de incorporar inmunoterapia perioperatoria en el carcinoma de cabeza y cuello localmente avanzado, ampliando una estrategia que ya mostró beneficios en otros tumores sólidos.\nNota: análisis sin acceso al abstract."
+    },
+    "e2e0cbe11560": {
+      "resumen": "Valencia News presenta las tendencias en moda de fiesta y de novia que se lucieron en un desfile con 100 modelos."
+    },
+    "28c43bddbc02": {
+      "resumen": "Emilia Mernes se destacó con looks urbanos y glamorosos que marcan tendencia."
+    },
+    "c296b3d0ed52": {
+      "resumen": "Vogue España selecciona los cuatro abrigos de pelo imprescindibles para este invierno 2026."
+    },
+    "6b69443bf8e4": {
+      "resumen": "Vogue España analiza si caminar alcanza como única actividad física."
+    },
+    "a2b953a8afbe": {
+      "resumen": "El Palacio Euskalduna se convierte en protagonista de la escena de la moda."
+    },
+    "daae1fab05e9": {
+      "resumen": "La trenca, el clásico abrigo de la infancia, vuelve a imponerse en las pasarelas de este otoño 2026."
+    },
+    "ec122fbaba5e": {
+      "resumen": "Karol G debutó en Ciudad de México con un show que incluyó un encuentro con Thalía ante más de 60.000 fans."
+    },
+    "338ddef8252b": {
+      "resumen": "Pablito Castillo cierra el año con una función única en el Teatro Coliseo de Buenos Aires."
+    },
+    "e0b51faf9f72": {
+      "resumen": "La banda tributo argentina God Save The Queen, liderada por Pablo Padín, vuelve al Teatro Gran Rex."
+    },
+    "6b335f68b457": {
+      "resumen": "La UBA (Universidad de Buenos Aires) distinguió a Carlos Rottemberg por su trayectoria y aporte al teatro."
     }
   }
 }
