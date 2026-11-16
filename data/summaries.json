@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:10:48Z",
+  "generated_at": "2026-11-16T10:11:27Z",
   "summaries": {
     "01a2c3b87f97": {
       "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
@@ -12,69 +12,64 @@
       "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de la Alianza Alemana de Leucemia Mieloide Crónica (German CML Alliance); el título no precisa cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con leucemia mieloide crónica (LMC) en tratamiento con dasatinib (inhibidor de la tirosina quinasa).\nIntervención: Esquema de dasatinib con \"feriado farmacológico\" los fines de semana (suspensión programada del fármaco) frente al esquema estándar de administración diaria continua.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta molecular, eventos adversos ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar si el estudio demostró no inferioridad en eficacia, el tamaño de la muestra ni el tiempo de seguimiento.\nMensaje: Si confirma que el descanso de fin de semana mantiene la eficacia y mejora la tolerancia, podría ofrecer una estrategia simple para reducir la toxicidad crónica del dasatinib sin resignar control de la enfermedad.\nNota: análisis sin acceso al abstract."
     },
     "d753b4688582": {
-      "resumen": "Un artículo de opinión en el Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica) analiza el papel de los eosinófilos (un tipo de célula del sistema inmune) en el cáncer de mama. Vale la pena mirarlo porque explora un actor inmunológico menos estudiado que podría influir en el pronóstico o la respuesta al tratamiento."
+      "resumen": "Un artículo de opinión en el Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica) analiza el papel de los eosinófilos (un tipo de célula del sistema inmune) en el cáncer de mama. Vale la pena mirarlo porque explora un actor inmunológico menos estudiado que podría influir en el pronóstico o la respuesta al tratamiento.",
+      "destacado": false
     },
     "50cbacb8d9ba": {
       "resumen": "El estudio desarrolló y validó el índice pronóstico CHARGE para identificar fallo temprano del tratamiento en pacientes con mieloma múltiple en recaída o refractario tratados con anticuerpos biespecíficos que reclutan linfocitos T. Interesa porque podría ayudar a anticipar qué pacientes responden peor a esta terapia relativamente nueva.",
       "destacado": false,
       "analisis": "Diseño: Estudio de desarrollo y validación de un índice pronóstico (el CHARGE), probablemente basado en una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con anticuerpos biespecíficos que reclutan linfocitos T (bispecific T-cell engagers).\nIntervención: No hay una intervención terapéutica comparada; se construye y valida una herramienta pronóstica (el índice CHARGE) a partir de variables clínicas y de laboratorio.\nResultados: No disponibles a partir del título; no se reportan las variables que componen el índice, su capacidad discriminativa ni los intervalos de confianza.\nLimitaciones: Los índices pronósticos desarrollados en una cohorte pueden perder precisión al aplicarse en otras poblaciones; sin el texto completo no se puede evaluar la calidad de la validación externa.\nMensaje: Si se valida de forma robusta, el índice CHARGE podría ayudar a identificar precozmente a los pacientes con mayor riesgo de fallo temprano bajo biespecíficos, para intensificar el seguimiento o considerar estrategias alternativas.\nNota: análisis sin acceso al abstract."
     },
-    "d225842eb554": {
-      "resumen": "Selección semanal de OncLive con los cinco videos más vistos de oncología de la semana del 8 de noviembre, con entrevistas y comentarios de especialistas. Sirve como repaso rápido de las noticias clínicas más relevantes de la semana, aunque no aporta datos nuevos por sí mismo.",
-      "destacado": false
-    },
     "e5c90a270b40": {
       "resumen": "The ASCO Post repasa el ensayo KEYNOTE-C93/GOG-3064/ENGOT-en15, que evaluó pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) en cáncer de endometrio avanzado o recurrente con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, deficient mismatch repair). Es el destacado de hoy porque este subgrupo molecular responde particularmente bien a la inmunoterapia y define un posible cambio de paradigma en el tratamiento de primera línea.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico fase 3 (según el nombre KEYNOTE-C93/GOG-3064/ENGOT-en15, de colaboración entre grupos cooperativos oncológicos internacionales); el título no precisa cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de endometrio avanzado o recurrente con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, deficient mismatch repair), un subgrupo molecular con alta carga mutacional.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1), presumiblemente en monoterapia, frente a quimioterapia estándar.\nResultados: No disponibles a partir del título; no se reportan supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de la muestra, el tiempo de seguimiento ni si hubo cruce (crossover) de pacientes del brazo de quimioterapia hacia inmunoterapia.\nMensaje: Si confirma beneficio, respaldaría la inmunoterapia como tratamiento preferido frente a la quimioterapia en cáncer de endometrio dMMR avanzado o recurrente, reforzando la selección de tratamiento según biomarcador molecular.\nNota: análisis sin acceso al abstract."
     },
-    "3273852092f7": {
-      "resumen": "OncLive entrevista a la Dra. Miller sobre la secuenciación del genoma completo del ADN tumoral circulante (ctDNA) en el líquido cefalorraquídeo (LCR) de pacientes con glioma de alto grado. Interesa porque explora una herramienta de biopsia líquida para monitorear este tumor cerebral agresivo.",
-      "destacado": false
-    },
-    "cf208df2051b": {
-      "resumen": "OncLive informa sobre datos de tovorafenib (un inhibidor de la vía RAF/MEK) que mostró intervalos libres de tratamiento sostenidos en niños con glioma de bajo grado recidivante o refractario (R/R) y alteración en el gen BRAF. Interesa porque plantea la posibilidad de pausas de tratamiento sin perder el control tumoral en una población pediátrica.",
-      "destacado": false,
-      "analisis": "Diseño: A partir del título parece un análisis de seguimiento o subanálisis de un ensayo clínico sobre tovorafenib en población pediátrica; no se precisan aleatorización, cegamiento ni número de pacientes o centros.\nPoblación: Pacientes pediátricos con glioma de bajo grado recidivante o refractario (R/R) y alteración en el gen BRAF.\nIntervención: Tovorafenib (inhibidor de la vía RAF/MEK), evaluando específicamente los intervalos libres de tratamiento tras su uso, sin comparador explícito en el título.\nResultados: No disponibles a partir del título; no se reportan la duración de los intervalos libres de tratamiento, tasas de respuesta ni intervalos de confianza.\nLimitaciones: Sin el texto completo no se puede evaluar el tiempo de seguimiento, el tamaño de la muestra ni la definición exacta de \"intervalo libre de tratamiento\".\nMensaje: Si se confirma, respaldaría esquemas de tratamiento intermitente con tovorafenib en glioma pediátrico BRAF-alterado, buscando reducir la exposición acumulada al fármaco sin resignar el control de la enfermedad.\nNota: análisis sin acceso al abstract."
-    },
-    "4da25f8642cf": {
-      "resumen": "The ASCO Post resume un ensayo que evaluó agregar pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) o placebo a la quimiorradioterapia definitiva concurrente en cáncer de esófago y de la unión gastroesofágica (GEJ). Interesa porque busca mejorar los resultados del tratamiento curativo en tumores localmente avanzados sin cirugía.",
-      "destacado": false,
-      "analisis": "Diseño: A partir del título se trataría de un ensayo clínico aleatorizado que compara pembrolizumab frente a placebo, ambos sumados a quimiorradioterapia definitiva concurrente; no se precisan el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de esófago o de la unión gastroesofágica (GEJ) candidatos a tratamiento definitivo (no quirúrgico) con quimiorradioterapia.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1) o placebo, agregados a la quimiorradioterapia definitiva concurrente estándar.\nResultados: No disponibles a partir del título; no se reportan supervivencia global, supervivencia libre de progresión, razones de riesgo ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de muestra, el seguimiento ni la toxicidad agregada de combinar inmunoterapia con quimiorradioterapia.\nMensaje: Si demuestra beneficio, podría posicionar a la inmunoterapia como parte del tratamiento definitivo no quirúrgico del cáncer esofágico y de la unión gastroesofágica, un escenario donde las opciones curativas sin cirugía siguen siendo limitadas.\nNota: análisis sin acceso al abstract."
-    },
     "87ca916e192c": {
       "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de inmunoterapia combinada en un escenario donde la cirugía sigue siendo central.",
       "destacado": false
     },
-    "952085363825": {
-      "resumen": "Vogue repasa la colección otoño 2027 de Liu Jo presentada en la pasarela de ready-to-wear."
+    "bd0e354a5ee3": {
+      "resumen": "OncLive reporta que la combinación DB107-RRV (un vector retroviral replicante) más DB107-FC (el profármaco flucitosina, que se activa dentro de las células tumorales infectadas) pudo administrarse junto con radioterapia en pacientes con glioma de alto grado recién diagnosticado. Interesa porque es una terapia génica viral oncolítica en fase temprana que busca sumarse al tratamiento estándar de un tumor cerebral de muy mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase 1), orientado a evaluar la factibilidad y seguridad de combinar un vector retroviral replicante (DB107-RRV) con un profármaco (DB107-FC) y radioterapia; el título no precisa aleatorización, cegamiento ni número de pacientes o centros.\nPoblación: Pacientes con glioma de alto grado recién diagnosticado.\nIntervención: DB107-RRV (vector retroviral replicante que infecta selectivamente células tumorales) seguido de DB107-FC (profármaco flucitosina, convertido en 5-fluorouracilo dentro de las células infectadas), administrados junto con radioterapia estándar; sin comparador explícito en el título.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta, supervivencia ni eventos adversos.\nLimitaciones: Al tratarse de una terapia génica viral en etapa temprana, el tamaño muestral suele ser pequeño y el seguimiento corto; sin el texto completo no se puede evaluar la seguridad ni la eficacia preliminar.\nMensaje: Si se confirma la factibilidad de combinar esta terapia viral oncolítica con radioterapia, podría abrir la puerta a estudios de eficacia en un tumor con opciones terapéuticas muy limitadas.\nNota: análisis sin acceso al abstract."
     },
-    "8358781cea04": {
-      "resumen": "Las botas 'slouchy' (de caña floja y aspecto desestructurado) vuelven a imponerse esta temporada, según especialistas en moda que destacan su efecto estilizador."
+    "5b12201563b2": {
+      "resumen": "OncLive presenta datos de seguimiento del ensayo INDIGO que muestran que vorasidenib (un inhibidor oral de la enzima mutada IDH1/IDH2) mantiene tasas más bajas de convulsiones en pacientes con glioma de grado 2 con mutación en IDH. Interesa porque las convulsiones son una complicación frecuente y limitante en estos tumores cerebrales de crecimiento lento.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de seguimiento (follow-up) del ensayo clínico aleatorizado INDIGO; el título no precisa el número de pacientes ni el tiempo exacto de seguimiento de este corte.\nPoblación: Pacientes con glioma de grado 2 con mutación en IDH (isocitrato deshidrogenasa 1 o 2).\nIntervención: Vorasidenib (inhibidor oral de IDH1/IDH2 mutada) frente a placebo, según el diseño original del ensayo INDIGO.\nResultados: No disponibles a partir del título; no se reportan tasas de convulsiones específicas, razones de riesgo ni valores de p de este corte de seguimiento.\nLimitaciones: Un seguimiento más prolongado puede estar sujeto a abandono diferencial o cruce (crossover) de pacientes del brazo placebo a vorasidenib, lo que puede dificultar la interpretación a largo plazo.\nMensaje: Refuerza el perfil de beneficio de vorasidenib más allá del control tumoral, sumando un posible impacto favorable sobre la calidad de vida al reducir las convulsiones en glioma de bajo grado IDH-mutado.\nNota: análisis sin acceso al abstract."
     },
-    "5126627da5dd": {
-      "resumen": "Vogue México propone blusas de estilo boho para combinar con pantalones acampanados en la temporada otoño-invierno 2026."
+    "99b5e99769d2": {
+      "resumen": "OncLive informa sobre datos de la vida real que muestran altas tasas de adherencia y persistencia al tratamiento con vorasidenib en pacientes con glioma IDH-mutado. Interesa porque complementa los resultados del ensayo INDIGO con evidencia de cómo se usa el fármaco fuera del contexto controlado de un estudio clínico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de datos de vida real (real-world), probablemente retrospectivo, sobre el uso de vorasidenib; el título no precisa la fuente de los datos, el número de pacientes ni el tiempo de seguimiento.\nPoblación: Pacientes con glioma con mutación en IDH (isocitrato deshidrogenasa) tratados con vorasidenib fuera de un ensayo clínico.\nIntervención: Vorasidenib (inhibidor oral de IDH1/IDH2 mutada) en uso clínico habitual, sin comparador.\nResultados: No disponibles a partir del título; no se reportan las tasas exactas de adherencia ni de persistencia al tratamiento.\nLimitaciones: Los estudios de vida real carecen de grupo control y pueden tener sesgos de selección y de registro de datos; sin el texto completo no se puede evaluar la metodología de medición de la adherencia.\nMensaje: Si se confirman altas tasas de adherencia y persistencia, respaldaría la factibilidad de mantener vorasidenib en la práctica clínica diaria, fuera del entorno controlado de un ensayo.\nNota: análisis sin acceso al abstract."
     },
-    "ccf4953d5228": {
-      "resumen": "Vogue México sugiere combinar botas largas con faldas midi, con looks inspirados en la reina Isabel, para un estilo elegante este otoño 2026."
+    "4aa9290a7125": {
+      "resumen": "The ASCO Post comparte una entrevista al Dr. James J. Harding sobre el cáncer de vías biliares avanzado, en la que comenta los resultados de ivonescimab (un anticuerpo biespecífico anti-PD-1/VEGF) más quimioterapia frente a durvalumab (un inhibidor de PD-L1) más quimioterapia. Interesa porque compara dos estrategias de inmunoterapia combinada en un tumor de pronóstico históricamente muy desfavorable."
     },
-    "e0c5d32d8b36": {
-      "resumen": "El color burdeos se impone por sobre el rojo y el morado como la tonalidad más elegante de la temporada otoño-invierno."
+    "66bd010a2c5b": {
+      "resumen": "Telva explica la teoría del zapato formal: por qué apostar por calzado clásico puede ser el acierto de estilo de este invierno."
     },
-    "64df441a1204": {
-      "resumen": "El Tiempo presenta la tendencia más elegante para decorar balcones esta Navidad 2026, en reemplazo de las luces de colores tradicionales."
+    "5f7dcf7d17b0": {
+      "resumen": "El Diario Vasco repasa las tendencias que marcarán esta temporada otoño-invierno, del satén a las botas altas."
     },
-    "77e7a91440b3": {
-      "resumen": "Quién es Lizz Vato, la estilista que busca ayudar a Jorjais a renovar su imagen, según El Sol de México."
+    "e198b7390587": {
+      "resumen": "Mujerhoy cuenta por qué los charms siguen vigentes, desde el furor viral de Miniso hasta las versiones de lujo de Loewe, Chanel y Prada."
     },
-    "0f90eb914faa": {
-      "resumen": "Una guía con 31 propuestas para el fin de semana del 12 al 15 de noviembre en Buenos Aires, entre ferias, conciertos y otras experiencias."
+    "10af2bcd0dad": {
+      "resumen": "Vogue México repasa la historia real detrás de la película rusa sobre la caída del vuelo 811 y qué pasó con Larisa."
     },
-    "23bc617044ba": {
-      "resumen": "Un comensal compartió el ticket de su consumo en el reconocido restaurante La Cabrera, que incluyó bife de chorizo, lomo, papas fritas, puré y cinco bebidas."
+    "3af1d4ac595e": {
+      "resumen": "Paty Cantú cuenta a Vogue México cómo vivió los Latin Grammy 2026 como artista independiente, mexicana y mujer."
     },
-    "338ddef8252b": {
-      "resumen": "Pablito Castillo cierra el año con una función única en el Teatro Coliseo de Buenos Aires."
+    "8734e0cfa4c9": {
+      "resumen": "Belinda lució en el show de Karol jeans con brillos, la tendencia del otoño 2026, combinados con zapatos de plataforma."
+    },
+    "b79e83e864de": {
+      "resumen": "Prensa Libre Online propone un circuito autoguiado por la ruta Art Déco porteña, desde el Abasto hasta el Ópera."
+    },
+    "c993e2b853d4": {
+      "resumen": "Zoe Gotusso agregó una segunda fecha en el Teatro Coliseo después de agotar las entradas de su primer show."
     },
     "df9989eb8867": {
       "resumen": "Una guía con propuestas de teatro en Buenos Aires para ver por menos de $80.000."
@@ -84,6 +79,21 @@
     },
     "7d24fd8aea2a": {
       "resumen": "National Geographic recorre el barrio porteño donde, según la tradición literaria, Jorge Luis Borges situó la fundación mítica de Buenos Aires, hoy con bosques, restaurantes y diseño."
+    },
+    "45401898fb26": {
+      "resumen": "El Destape recomienda planes para el fin de semana cerca de Buenos Aires, con música en vivo y actividades familiares en Temaikén."
+    },
+    "3b5eb5a642db": {
+      "resumen": "Una guía con más de 60 planes para el fin de semana del 13 al 15 de noviembre en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
+    },
+    "9c6deed5aae5": {
+      "resumen": "La cadena de restaurantes Buenos Aires se declaró en suspensión de pagos, según informó Crónica Global."
+    },
+    "0f90eb914faa": {
+      "resumen": "Una guía con 31 propuestas para el fin de semana del 12 al 15 de noviembre en Buenos Aires, entre ferias, conciertos y otras experiencias."
+    },
+    "3bb8843edeb2": {
+      "resumen": "Infobae cuenta la historia de Fordlandia, la fallida utopía industrial que Henry Ford intentó construir en la selva amazónica, con avena obligatoria, horarios de Detroit y una revuelta obrera."
     }
   }
 }
