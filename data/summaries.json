@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:11:27Z",
+  "generated_at": "2026-11-16T22:10:31Z",
   "summaries": {
     "01a2c3b87f97": {
       "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
@@ -20,80 +20,77 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de desarrollo y validación de un índice pronóstico (el CHARGE), probablemente basado en una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con anticuerpos biespecíficos que reclutan linfocitos T (bispecific T-cell engagers).\nIntervención: No hay una intervención terapéutica comparada; se construye y valida una herramienta pronóstica (el índice CHARGE) a partir de variables clínicas y de laboratorio.\nResultados: No disponibles a partir del título; no se reportan las variables que componen el índice, su capacidad discriminativa ni los intervalos de confianza.\nLimitaciones: Los índices pronósticos desarrollados en una cohorte pueden perder precisión al aplicarse en otras poblaciones; sin el texto completo no se puede evaluar la calidad de la validación externa.\nMensaje: Si se valida de forma robusta, el índice CHARGE podría ayudar a identificar precozmente a los pacientes con mayor riesgo de fallo temprano bajo biespecíficos, para intensificar el seguimiento o considerar estrategias alternativas.\nNota: análisis sin acceso al abstract."
     },
-    "e5c90a270b40": {
-      "resumen": "The ASCO Post repasa el ensayo KEYNOTE-C93/GOG-3064/ENGOT-en15, que evaluó pembrolizumab (un inhibidor del punto de control inmunitario anti-PD-1) en cáncer de endometrio avanzado o recurrente con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, deficient mismatch repair). Es el destacado de hoy porque este subgrupo molecular responde particularmente bien a la inmunoterapia y define un posible cambio de paradigma en el tratamiento de primera línea.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico fase 3 (según el nombre KEYNOTE-C93/GOG-3064/ENGOT-en15, de colaboración entre grupos cooperativos oncológicos internacionales); el título no precisa cegamiento, cantidad de centros ni de pacientes.\nPoblación: Pacientes con cáncer de endometrio avanzado o recurrente con deficiencia en la reparación de errores de apareamiento del ADN (dMMR, deficient mismatch repair), un subgrupo molecular con alta carga mutacional.\nIntervención: Pembrolizumab (inhibidor del punto de control inmunitario anti-PD-1), presumiblemente en monoterapia, frente a quimioterapia estándar.\nResultados: No disponibles a partir del título; no se reportan supervivencia libre de progresión, supervivencia global, razones de riesgo ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de la muestra, el tiempo de seguimiento ni si hubo cruce (crossover) de pacientes del brazo de quimioterapia hacia inmunoterapia.\nMensaje: Si confirma beneficio, respaldaría la inmunoterapia como tratamiento preferido frente a la quimioterapia en cáncer de endometrio dMMR avanzado o recurrente, reforzando la selección de tratamiento según biomarcador molecular.\nNota: análisis sin acceso al abstract."
-    },
     "87ca916e192c": {
       "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de inmunoterapia combinada en un escenario donde la cirugía sigue siendo central.",
       "destacado": false
     },
-    "bd0e354a5ee3": {
-      "resumen": "OncLive reporta que la combinación DB107-RRV (un vector retroviral replicante) más DB107-FC (el profármaco flucitosina, que se activa dentro de las células tumorales infectadas) pudo administrarse junto con radioterapia en pacientes con glioma de alto grado recién diagnosticado. Interesa porque es una terapia génica viral oncolítica en fase temprana que busca sumarse al tratamiento estándar de un tumor cerebral de muy mal pronóstico.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de fase temprana (probablemente fase 1), orientado a evaluar la factibilidad y seguridad de combinar un vector retroviral replicante (DB107-RRV) con un profármaco (DB107-FC) y radioterapia; el título no precisa aleatorización, cegamiento ni número de pacientes o centros.\nPoblación: Pacientes con glioma de alto grado recién diagnosticado.\nIntervención: DB107-RRV (vector retroviral replicante que infecta selectivamente células tumorales) seguido de DB107-FC (profármaco flucitosina, convertido en 5-fluorouracilo dentro de las células infectadas), administrados junto con radioterapia estándar; sin comparador explícito en el título.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta, supervivencia ni eventos adversos.\nLimitaciones: Al tratarse de una terapia génica viral en etapa temprana, el tamaño muestral suele ser pequeño y el seguimiento corto; sin el texto completo no se puede evaluar la seguridad ni la eficacia preliminar.\nMensaje: Si se confirma la factibilidad de combinar esta terapia viral oncolítica con radioterapia, podría abrir la puerta a estudios de eficacia en un tumor con opciones terapéuticas muy limitadas.\nNota: análisis sin acceso al abstract."
-    },
-    "5b12201563b2": {
-      "resumen": "OncLive presenta datos de seguimiento del ensayo INDIGO que muestran que vorasidenib (un inhibidor oral de la enzima mutada IDH1/IDH2) mantiene tasas más bajas de convulsiones en pacientes con glioma de grado 2 con mutación en IDH. Interesa porque las convulsiones son una complicación frecuente y limitante en estos tumores cerebrales de crecimiento lento.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis de seguimiento (follow-up) del ensayo clínico aleatorizado INDIGO; el título no precisa el número de pacientes ni el tiempo exacto de seguimiento de este corte.\nPoblación: Pacientes con glioma de grado 2 con mutación en IDH (isocitrato deshidrogenasa 1 o 2).\nIntervención: Vorasidenib (inhibidor oral de IDH1/IDH2 mutada) frente a placebo, según el diseño original del ensayo INDIGO.\nResultados: No disponibles a partir del título; no se reportan tasas de convulsiones específicas, razones de riesgo ni valores de p de este corte de seguimiento.\nLimitaciones: Un seguimiento más prolongado puede estar sujeto a abandono diferencial o cruce (crossover) de pacientes del brazo placebo a vorasidenib, lo que puede dificultar la interpretación a largo plazo.\nMensaje: Refuerza el perfil de beneficio de vorasidenib más allá del control tumoral, sumando un posible impacto favorable sobre la calidad de vida al reducir las convulsiones en glioma de bajo grado IDH-mutado.\nNota: análisis sin acceso al abstract."
-    },
-    "99b5e99769d2": {
-      "resumen": "OncLive informa sobre datos de la vida real que muestran altas tasas de adherencia y persistencia al tratamiento con vorasidenib en pacientes con glioma IDH-mutado. Interesa porque complementa los resultados del ensayo INDIGO con evidencia de cómo se usa el fármaco fuera del contexto controlado de un estudio clínico.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional de datos de vida real (real-world), probablemente retrospectivo, sobre el uso de vorasidenib; el título no precisa la fuente de los datos, el número de pacientes ni el tiempo de seguimiento.\nPoblación: Pacientes con glioma con mutación en IDH (isocitrato deshidrogenasa) tratados con vorasidenib fuera de un ensayo clínico.\nIntervención: Vorasidenib (inhibidor oral de IDH1/IDH2 mutada) en uso clínico habitual, sin comparador.\nResultados: No disponibles a partir del título; no se reportan las tasas exactas de adherencia ni de persistencia al tratamiento.\nLimitaciones: Los estudios de vida real carecen de grupo control y pueden tener sesgos de selección y de registro de datos; sin el texto completo no se puede evaluar la metodología de medición de la adherencia.\nMensaje: Si se confirman altas tasas de adherencia y persistencia, respaldaría la factibilidad de mantener vorasidenib en la práctica clínica diaria, fuera del entorno controlado de un ensayo.\nNota: análisis sin acceso al abstract."
-    },
     "4aa9290a7125": {
       "resumen": "The ASCO Post comparte una entrevista al Dr. James J. Harding sobre el cáncer de vías biliares avanzado, en la que comenta los resultados de ivonescimab (un anticuerpo biespecífico anti-PD-1/VEGF) más quimioterapia frente a durvalumab (un inhibidor de PD-L1) más quimioterapia. Interesa porque compara dos estrategias de inmunoterapia combinada en un tumor de pronóstico históricamente muy desfavorable."
     },
-    "66bd010a2c5b": {
-      "resumen": "Telva explica la teoría del zapato formal: por qué apostar por calzado clásico puede ser el acierto de estilo de este invierno."
+    "f69002016382": {
+      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) otorgó la designación de \"Fast Track\" a onvansertib (un inhibidor oral de PLK1, la enzima polo-like kinase 1) para su uso en primera línea en el cáncer colorrectal metastásico (mCRC) con mutación en RAS. Interesa porque acelera el desarrollo de una terapia dirigida en un subgrupo con pocas opciones de tratamiento molecular específico.",
+      "destacado": false
     },
-    "5f7dcf7d17b0": {
-      "resumen": "El Diario Vasco repasa las tendencias que marcarán esta temporada otoño-invierno, del satén a las botas altas."
+    "64dd039da9e3": {
+      "resumen": "OncLive repasa, en formato de entrevista, la selección de dosis de sunvozertinib (un inhibidor oral de EGFR con mutación por inserción en el exón 20) como tratamiento de segunda línea. Vale la pena mirarlo porque la optimización de dosis busca mantener la eficacia reduciendo la toxicidad de un fármaco ya en uso clínico.",
+      "destacado": false
     },
-    "e198b7390587": {
-      "resumen": "Mujerhoy cuenta por qué los charms siguen vigentes, desde el furor viral de Miniso hasta las versiones de lujo de Loewe, Chanel y Prada."
+    "85a461a65d3a": {
+      "resumen": "OncLive analiza, en formato de perspectiva clínica, cómo equilibrar beneficio y toxicidad del mantenimiento con lurbinectedin (un quimioterápico inhibidor de la transcripción) en la era posterior al ensayo IMforte. Interesa porque discute cómo trasladar a la práctica diaria los resultados de ese estudio clave en cáncer de pulmón de células pequeñas.",
+      "destacado": false
     },
-    "10af2bcd0dad": {
-      "resumen": "Vogue México repasa la historia real detrás de la película rusa sobre la caída del vuelo 811 y qué pasó con Larisa."
+    "774d6692e7be": {
+      "resumen": "The ASCO Post reporta un estudio que encontró menor mortalidad con la resección quirúrgica que con la radioterapia ablativa estereotáctica corporal (SABR, por sus siglas en inglés) en el cáncer de pulmón de células no pequeñas (NSCLC) en estadio temprano. Es el destacado de hoy porque compara dos abordajes curativos frecuentes en una decisión terapéutica que se toma todos los días en la práctica oncológica.",
+      "destacado": true,
+      "analisis": "Diseño: Estudio comparativo (probablemente de cohorte o de registro, sin especificar aleatorización) que evalúa mortalidad asociada a resección quirúrgica frente a radioterapia ablativa estereotáctica corporal (SABR); el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio temprano, candidatos a tratamiento local definitivo.\nIntervención: Resección quirúrgica frente a SABR (stereotactic ablative body radiotherapy).\nResultados: No disponibles a partir del título; no se reportan tasas de mortalidad, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al no tratarse de un ensayo aleatorizado, existe riesgo de sesgo de selección (los pacientes operados suelen tener mejor estado funcional y menos comorbilidades que quienes reciben SABR); sin el texto completo no se puede evaluar el ajuste estadístico por estas diferencias basales.\nMensaje: Si se confirma el hallazgo, respalda priorizar la cirugía en pacientes operables con NSCLC en estadio temprano, aunque la elección entre cirugía y SABR debe seguir siendo individualizada según comorbilidades, función pulmonar y preferencia del paciente.\nNota: análisis sin acceso al abstract."
     },
-    "3af1d4ac595e": {
-      "resumen": "Paty Cantú cuenta a Vogue México cómo vivió los Latin Grammy 2026 como artista independiente, mexicana y mujer."
+    "a76d28766072": {
+      "resumen": "Vogue México recomienda los jeans barrel combinados con botines como la apuesta clave para los looks de otoño 2026."
     },
-    "8734e0cfa4c9": {
-      "resumen": "Belinda lució en el show de Karol jeans con brillos, la tendencia del otoño 2026, combinados con zapatos de plataforma."
+    "c8dd64d91d56": {
+      "resumen": "Vogue México repasa la lista completa de nominados a los premios Grammy 2027."
     },
-    "b79e83e864de": {
-      "resumen": "Prensa Libre Online propone un circuito autoguiado por la ruta Art Déco porteña, desde el Abasto hasta el Ópera."
+    "43c6cc66a910": {
+      "resumen": "Cinco looks inspirados en Jennifer López combinan botines abrigados con baggy jeans para un otoño 2026 elegante."
     },
-    "c993e2b853d4": {
-      "resumen": "Zoe Gotusso agregó una segunda fecha en el Teatro Coliseo después de agotar las entradas de su primer show."
+    "595b7799bdb6": {
+      "resumen": "Jennifer López deslumbró en Nueva York con un look en tono burdeos que se llevó todas las miradas."
     },
-    "df9989eb8867": {
-      "resumen": "Una guía con propuestas de teatro en Buenos Aires para ver por menos de $80.000."
+    "e8785ac51c72": {
+      "resumen": "El animal print se consolida como la tendencia del invierno y ya conquistó también a las mujeres de estilo clásico."
     },
-    "67b75f60312b": {
-      "resumen": "Una selección de nueve obras de teatro porteñas con entradas más económicas que un partido de fútbol."
+    "0f98b4803000": {
+      "resumen": "Revista Para Ti anticipa las siete tendencias de looks de playa que se vienen este verano."
+    },
+    "a2b9a20885a1": {
+      "resumen": "Raly Barrionuevo vuelve a Buenos Aires con su espectáculo El camino de Solgo en el Teatro Coliseo; cuándo es y cómo conseguir entradas."
+    },
+    "bb93df4b3be2": {
+      "resumen": "El escritor y conferencista Daniel Habif adelanta detalles de su próximo espectáculo en Buenos Aires."
+    },
+    "61a6935ee643": {
+      "resumen": "El cantante colombiano Maluma vuelve a la Argentina con su gira Loco X Volver; las entradas ya están a la venta."
+    },
+    "d75ce8e0b6df": {
+      "resumen": "Una noche de rhythm & blues llega a Buenos Aires con una propuesta de virtuosismo musical y celebración."
+    },
+    "f1cc08dcda52": {
+      "resumen": "Una guía con propuestas de actividades para el próximo fin de semana en la provincia de Buenos Aires."
     },
     "7d24fd8aea2a": {
       "resumen": "National Geographic recorre el barrio porteño donde, según la tradición literaria, Jorge Luis Borges situó la fundación mítica de Buenos Aires, hoy con bosques, restaurantes y diseño."
     },
-    "45401898fb26": {
-      "resumen": "El Destape recomienda planes para el fin de semana cerca de Buenos Aires, con música en vivo y actividades familiares en Temaikén."
+    "d48b99cd16c7": {
+      "resumen": "Time Out repasa los planes recomendados para esta semana y el fin de semana en Buenos Aires."
+    },
+    "90d1f1723343": {
+      "resumen": "Un repaso por los restaurantes a puertas cerradas en Buenos Aires: en qué consisten y cuánto cuestan."
     },
     "3b5eb5a642db": {
       "resumen": "Una guía con más de 60 planes para el fin de semana del 13 al 15 de noviembre en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
     },
-    "9c6deed5aae5": {
-      "resumen": "La cadena de restaurantes Buenos Aires se declaró en suspensión de pagos, según informó Crónica Global."
-    },
     "0f90eb914faa": {
       "resumen": "Una guía con 31 propuestas para el fin de semana del 12 al 15 de noviembre en Buenos Aires, entre ferias, conciertos y otras experiencias."
-    },
-    "3bb8843edeb2": {
-      "resumen": "Infobae cuenta la historia de Fordlandia, la fallida utopía industrial que Henry Ford intentó construir en la selva amazónica, con avena obligatoria, horarios de Detroit y una revuelta obrera."
     }
   }
 }
