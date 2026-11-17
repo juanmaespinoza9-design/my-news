@@ -1,42 +1,38 @@
 {
-  "generated_at": "2026-11-16T22:10:31Z",
+  "generated_at": "2026-11-17T10:11:26Z",
   "summaries": {
-    "01a2c3b87f97": {
-      "resumen": "Un análisis de cohorte nacional evaluó el riesgo de un segundo cáncer en mujeres sobrevivientes de linfoma de Hodgkin, comparando distintas épocas de tratamiento. Vale la pena seguirlo porque cuantifica un efecto tardío grave de tratamientos oncológicos curativos, clave para el seguimiento a largo plazo de estas pacientes.",
+    "be592e16556a": {
+      "resumen": "OncLive repasa una estrategia de puente con terapia CAR-T (células T con receptor quimérico de antígeno) combinada con un esquema triple que incluye pirtobrutinib (un inhibidor no covalente de BTK, la tirosina quinasa de Bruton) en leucemia linfocítica crónica (LLC). Interesa porque explora cómo combinar terapia celular y fármacos dirigidos en pacientes con enfermedad resistente.",
       "destacado": false,
-      "analisis": "Diseño: Análisis de cohorte nacional (datos de población real, no ensayo aleatorizado) que compara el riesgo de segundo cáncer entre distintas eras de tratamiento del linfoma de Hodgkin; el título no precisa el número de pacientes ni el país de origen de los datos.\nPoblación: Mujeres sobrevivientes de linfoma de Hodgkin, tratadas en distintos períodos históricos.\nIntervención: No aplica un tratamiento único; compara la exposición a distintos esquemas de quimioterapia y/o radioterapia según la era de tratamiento.\nResultados: No disponibles a partir del título; no se reportan tasas de incidencia, riesgos relativos ni intervalos de confianza.\nLimitaciones: Los estudios de cohorte retrospectivos dependen de la calidad de los registros y pueden tener seguimiento desigual entre épocas; sin el texto completo no se puede evaluar el ajuste por factores de confusión.\nMensaje: Refuerza la importancia del seguimiento a largo plazo orientado a detectar segundos cánceres en sobrevivientes de linfoma de Hodgkin, y podría orientar qué esquemas históricos conllevan mayor riesgo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: No se puede determinar el diseño exacto a partir del título (probablemente datos clínicos o de un ensayo presentado en congreso, sin precisar aleatorización ni número de pacientes).\nPoblación: Pacientes con leucemia linfocítica crónica (LLC), probablemente en recaída o refractaria, candidatos a terapia celular con CAR-T.\nIntervención: Estrategia de \"puente\" con terapia CAR-T combinada con un esquema triple que incluye pirtobrutinib (inhibidor no covalente de BTK).\nResultados: No disponibles a partir del título.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño muestral, el diseño del estudio ni la solidez estadística de los resultados.\nMensaje: Sugiere una estrategia combinada de terapia celular y fármacos dirigidos para pacientes con LLC de difícil manejo; su impacto real en la práctica dependerá de los datos completos.\nNota: análisis sin acceso al abstract."
     },
-    "515fc43c35aa": {
-      "resumen": "El estudio aleatorizado DasaHIT, de la Alianza Alemana de Leucemia Mieloide Crónica, evaluó si dar un descanso del fármaco los fines de semana mejora la tolerancia al dasatinib (un inhibidor de la tirosina quinasa) en pacientes con leucemia mieloide crónica (LMC). Interesa porque busca reducir la toxicidad sin perder eficacia en un tratamiento crónico de por vida.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de la Alianza Alemana de Leucemia Mieloide Crónica (German CML Alliance); el título no precisa cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con leucemia mieloide crónica (LMC) en tratamiento con dasatinib (inhibidor de la tirosina quinasa).\nIntervención: Esquema de dasatinib con \"feriado farmacológico\" los fines de semana (suspensión programada del fármaco) frente al esquema estándar de administración diaria continua.\nResultados: No disponibles a partir del título; no se reportan tasas de respuesta molecular, eventos adversos ni valores de p.\nLimitaciones: Sin el texto completo no se puede evaluar si el estudio demostró no inferioridad en eficacia, el tamaño de la muestra ni el tiempo de seguimiento.\nMensaje: Si confirma que el descanso de fin de semana mantiene la eficacia y mejora la tolerancia, podría ofrecer una estrategia simple para reducir la toxicidad crónica del dasatinib sin resignar control de la enfermedad.\nNota: análisis sin acceso al abstract."
-    },
-    "d753b4688582": {
-      "resumen": "Un artículo de opinión en el Journal of Clinical Oncology (la revista oficial de la Sociedad Americana de Oncología Clínica) analiza el papel de los eosinófilos (un tipo de célula del sistema inmune) en el cáncer de mama. Vale la pena mirarlo porque explora un actor inmunológico menos estudiado que podría influir en el pronóstico o la respuesta al tratamiento.",
+    "84fe8e6da697": {
+      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un biosimilar de pertuzumab (un anticuerpo monoclonal anti-HER2) para el cáncer de mama HER2 positivo. Vale la pena seguirlo porque amplía el acceso a una terapia anti-HER2 ya establecida, con potencial impacto en el costo del tratamiento.",
       "destacado": false
     },
-    "50cbacb8d9ba": {
-      "resumen": "El estudio desarrolló y validó el índice pronóstico CHARGE para identificar fallo temprano del tratamiento en pacientes con mieloma múltiple en recaída o refractario tratados con anticuerpos biespecíficos que reclutan linfocitos T. Interesa porque podría ayudar a anticipar qué pacientes responden peor a esta terapia relativamente nueva.",
+    "792a386dbfdd": {
+      "resumen": "OncLive reporta que la Comisión Europea aprobó daraxonrasib, un inhibidor de la proteína RAS, para el cáncer de páncreas metastásico ya tratado previamente. Interesa porque suma una opción dirigida molecularmente en un tumor de pronóstico muy desfavorable y con pocas alternativas terapéuticas.",
+      "destacado": false
+    },
+    "05a0f168dc52": {
+      "resumen": "Carta de respuesta en el Journal of Clinical Oncology (revista oficial de la Sociedad Americana de Oncología Clínica) sobre la profilaxis del sistema nervioso central (SNC) en el linfoma difuso de células grandes B positivo para CD5. Interesa porque continúa un debate abierto sobre cómo prevenir la recaída cerebral en un subtipo de linfoma de alto riesgo.",
+      "destacado": false
+    },
+    "3aee1edba7a0": {
+      "resumen": "Artículo de perspectiva en el Journal of Clinical Oncology que propone mejorar la metodología de investigación sobre la fuerza laboral oncológica para que se ajuste mejor a las necesidades reales de los pacientes. Vale la pena mirarlo porque plantea cómo investigar de forma más útil los problemas de escasez y organización del personal en oncología.",
+      "destacado": false
+    },
+    "fd6df8c94eed": {
+      "resumen": "Carta original en el Journal of Clinical Oncology que plantea una pregunta sin resolver sobre la profilaxis del sistema nervioso central (SNC) en el linfoma difuso de células grandes B positivo para CD5. Interesa porque abre el debate que responde el artículo compañero de esta misma edición.",
+      "destacado": false
+    },
+    "6ff66dee7449": {
+      "resumen": "Artículo del Journal of Clinical Oncology que retoma el ensayo ROADS para repasar el rol de la braquiterapia (radioterapia interna) en el lecho quirúrgico cerebral, comparándola con la radiocirugía de cavidad tras la resección de metástasis cerebrales. Interesa porque discute una técnica en resurgimiento para reducir la recaída local sin radioterapia de cerebro completo.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de desarrollo y validación de un índice pronóstico (el CHARGE), probablemente basado en una cohorte retrospectiva multicéntrica; el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con mieloma múltiple en recaída o refractario (R/R) tratados con anticuerpos biespecíficos que reclutan linfocitos T (bispecific T-cell engagers).\nIntervención: No hay una intervención terapéutica comparada; se construye y valida una herramienta pronóstica (el índice CHARGE) a partir de variables clínicas y de laboratorio.\nResultados: No disponibles a partir del título; no se reportan las variables que componen el índice, su capacidad discriminativa ni los intervalos de confianza.\nLimitaciones: Los índices pronósticos desarrollados en una cohorte pueden perder precisión al aplicarse en otras poblaciones; sin el texto completo no se puede evaluar la calidad de la validación externa.\nMensaje: Si se valida de forma robusta, el índice CHARGE podría ayudar a identificar precozmente a los pacientes con mayor riesgo de fallo temprano bajo biespecíficos, para intensificar el seguimiento o considerar estrategias alternativas.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: El título sugiere un comentario o reanálisis en torno al ensayo ROADS, sin precisar si se trata del reporte primario o de una revisión posterior, ni la aleatorización, el número de centros o de pacientes.\nPoblación: Pacientes con metástasis cerebrales resecadas quirúrgicamente, candidatos a tratamiento adyuvante de la cavidad de resección.\nIntervención: Braquiterapia (radioterapia interna colocada en el lecho quirúrgico) frente a radiocirugía estereotáctica de la cavidad.\nResultados: No disponibles a partir del título; no se reportan tasas de control local, supervivencia ni toxicidad neurológica.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño exacto, el tamaño muestral ni si los resultados provienen de un ensayo aleatorizado o de una serie retrospectiva.\nMensaje: Si confirma beneficio, la braquiterapia podría reposicionarse como alternativa a la radiocirugía para el control local tras la resección de metástasis cerebrales, aunque la elección seguirá dependiendo de la disponibilidad técnica y la experiencia del centro.\nNota: análisis sin acceso al abstract."
     },
     "87ca916e192c": {
       "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de inmunoterapia combinada en un escenario donde la cirugía sigue siendo central.",
-      "destacado": false
-    },
-    "4aa9290a7125": {
-      "resumen": "The ASCO Post comparte una entrevista al Dr. James J. Harding sobre el cáncer de vías biliares avanzado, en la que comenta los resultados de ivonescimab (un anticuerpo biespecífico anti-PD-1/VEGF) más quimioterapia frente a durvalumab (un inhibidor de PD-L1) más quimioterapia. Interesa porque compara dos estrategias de inmunoterapia combinada en un tumor de pronóstico históricamente muy desfavorable."
-    },
-    "f69002016382": {
-      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) otorgó la designación de \"Fast Track\" a onvansertib (un inhibidor oral de PLK1, la enzima polo-like kinase 1) para su uso en primera línea en el cáncer colorrectal metastásico (mCRC) con mutación en RAS. Interesa porque acelera el desarrollo de una terapia dirigida en un subgrupo con pocas opciones de tratamiento molecular específico.",
-      "destacado": false
-    },
-    "64dd039da9e3": {
-      "resumen": "OncLive repasa, en formato de entrevista, la selección de dosis de sunvozertinib (un inhibidor oral de EGFR con mutación por inserción en el exón 20) como tratamiento de segunda línea. Vale la pena mirarlo porque la optimización de dosis busca mantener la eficacia reduciendo la toxicidad de un fármaco ya en uso clínico.",
-      "destacado": false
-    },
-    "85a461a65d3a": {
-      "resumen": "OncLive analiza, en formato de perspectiva clínica, cómo equilibrar beneficio y toxicidad del mantenimiento con lurbinectedin (un quimioterápico inhibidor de la transcripción) en la era posterior al ensayo IMforte. Interesa porque discute cómo trasladar a la práctica diaria los resultados de ese estudio clave en cáncer de pulmón de células pequeñas.",
       "destacado": false
     },
     "774d6692e7be": {
@@ -44,29 +40,51 @@
       "destacado": true,
       "analisis": "Diseño: Estudio comparativo (probablemente de cohorte o de registro, sin especificar aleatorización) que evalúa mortalidad asociada a resección quirúrgica frente a radioterapia ablativa estereotáctica corporal (SABR); el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio temprano, candidatos a tratamiento local definitivo.\nIntervención: Resección quirúrgica frente a SABR (stereotactic ablative body radiotherapy).\nResultados: No disponibles a partir del título; no se reportan tasas de mortalidad, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al no tratarse de un ensayo aleatorizado, existe riesgo de sesgo de selección (los pacientes operados suelen tener mejor estado funcional y menos comorbilidades que quienes reciben SABR); sin el texto completo no se puede evaluar el ajuste estadístico por estas diferencias basales.\nMensaje: Si se confirma el hallazgo, respalda priorizar la cirugía en pacientes operables con NSCLC en estadio temprano, aunque la elección entre cirugía y SABR debe seguir siendo individualizada según comorbilidades, función pulmonar y preferencia del paciente.\nNota: análisis sin acceso al abstract."
     },
+    "37746443a9ea": {
+      "resumen": "The ASCO Post reporta un estudio sobre los factores estructurales, a nivel de médicos y de la práctica clínica, que influyen en la participación de pacientes con cáncer avanzado en ensayos clínicos. Vale la pena mirarlo porque identifica barreras del sistema de salud —más allá del paciente individual— que podrían explicar la baja inscripción en estudios oncológicos.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio probablemente observacional (de cohorte o encuesta) que analiza factores estructurales a nivel de médico y de práctica clínica asociados a la participación en ensayos clínicos; el título no precisa el número de centros, pacientes ni médicos incluidos.\nPoblación: Pacientes con cáncer avanzado atendidos en distintas prácticas oncológicas, y los médicos/centros que los tratan.\nIntervención: No aplica una intervención terapéutica; se evalúan factores estructurales (por ejemplo, disponibilidad de ensayos, carga de trabajo del médico, tipo de práctica) como determinantes de la inscripción en ensayos clínicos.\nResultados: No disponibles a partir del título; no se reportan las tasas de participación ni los factores específicos identificados con sus medidas de asociación.\nLimitaciones: Los estudios observacionales sobre determinantes de inscripción pueden tener sesgo de selección de centros participantes y dificultad para aislar el efecto de cada factor estructural; sin el texto completo no se puede evaluar el ajuste estadístico.\nMensaje: Señala que la baja participación en ensayos clínicos oncológicos no depende solo de los pacientes, sino también de factores estructurales del sistema de atención, lo que podría orientar intervenciones a nivel de práctica médica para mejorar el acceso equitativo a la investigación.\nNota: análisis sin acceso al abstract."
+    },
+    "20e51e9c9d82": {
+      "resumen": "Lancet Oncology informa sobre una revisión que recomienda una reforma radical del trabajo multidisciplinario en los servicios de cáncer del NHS (sistema de salud pública del Reino Unido). Interesa porque plantea cambios estructurales en la organización de la atención oncológica que podrían inspirar debates similares en otros sistemas de salud.",
+      "destacado": false
+    },
+    "10b17850ceca": {
+      "resumen": "Lancet Oncology presenta un panorama de la atención oncológica en América Latina, describiendo un sistema bajo presión. Vale la pena mirarlo porque ofrece un contexto regional directamente relevante para la práctica oncológica en Argentina.",
+      "destacado": false
+    },
+    "45dd23873e15": {
+      "resumen": "Jennifer Lawrence brilló en la premiere neoyorquina de \"Los juegos del hambre: Sunrise on the Reaping\" con un look memorable."
+    },
+    "b35053be9422": {
+      "resumen": "Vogue repasa la historia de las \"trampas de miel\" en el espionaje, desde Mata Hari hasta las llamadas \"chicas Mozhno\"."
+    },
+    "c6a7aff350ac": {
+      "resumen": "El National Black Theatre recaudó un millón de dólares en su primera gala de otoño, con la presencia de figuras como John Legend."
+    },
+    "033f3fe35525": {
+      "resumen": "Una boda de tres días en Oaxaca combinó tradiciones persas, diseño escenográfico y una fiesta al estilo Ibiza."
+    },
+    "853e455bda66": {
+      "resumen": "Vogue México propone los zapatos de tacón blancos como aliados para vestidos midi, jeans rectos y faldas largas este otoño."
+    },
+    "74190fbf2bd7": {
+      "resumen": "Vogue México repasa los looks de Kate Middleton durante su visita oficial a la India, entre vestido azul y pantalones blancos."
+    },
+    "13ea5791c273": {
+      "resumen": "HOLA presenta nueve looks de invitadas de boda para este otoño, desde estolas y guantes elegantes hasta el estampado de tapicería."
+    },
     "a76d28766072": {
       "resumen": "Vogue México recomienda los jeans barrel combinados con botines como la apuesta clave para los looks de otoño 2026."
     },
-    "c8dd64d91d56": {
-      "resumen": "Vogue México repasa la lista completa de nominados a los premios Grammy 2027."
-    },
-    "43c6cc66a910": {
-      "resumen": "Cinco looks inspirados en Jennifer López combinan botines abrigados con baggy jeans para un otoño 2026 elegante."
+    "d9fe628f8bce": {
+      "resumen": "Pandora participó de una nueva edición de Alcorta Edition, el evento de moda porteño."
     },
     "595b7799bdb6": {
       "resumen": "Jennifer López deslumbró en Nueva York con un look en tono burdeos que se llevó todas las miradas."
     },
-    "e8785ac51c72": {
-      "resumen": "El animal print se consolida como la tendencia del invierno y ya conquistó también a las mujeres de estilo clásico."
-    },
-    "0f98b4803000": {
-      "resumen": "Revista Para Ti anticipa las siete tendencias de looks de playa que se vienen este verano."
-    },
     "a2b9a20885a1": {
       "resumen": "Raly Barrionuevo vuelve a Buenos Aires con su espectáculo El camino de Solgo en el Teatro Coliseo; cuándo es y cómo conseguir entradas."
-    },
-    "bb93df4b3be2": {
-      "resumen": "El escritor y conferencista Daniel Habif adelanta detalles de su próximo espectáculo en Buenos Aires."
     },
     "61a6935ee643": {
       "resumen": "El cantante colombiano Maluma vuelve a la Argentina con su gira Loco X Volver; las entradas ya están a la venta."
@@ -74,23 +92,20 @@
     "d75ce8e0b6df": {
       "resumen": "Una noche de rhythm & blues llega a Buenos Aires con una propuesta de virtuosismo musical y celebración."
     },
+    "ff9f89ede293": {
+      "resumen": "Adrián Suar, Carla Peterson, Fernán Mirás y Lorena Vega presentan la obra Sottovoce en Mar del Plata; cuándo se puede ver."
+    },
     "f1cc08dcda52": {
       "resumen": "Una guía con propuestas de actividades para el próximo fin de semana en la provincia de Buenos Aires."
     },
     "7d24fd8aea2a": {
       "resumen": "National Geographic recorre el barrio porteño donde, según la tradición literaria, Jorge Luis Borges situó la fundación mítica de Buenos Aires, hoy con bosques, restaurantes y diseño."
     },
-    "d48b99cd16c7": {
-      "resumen": "Time Out repasa los planes recomendados para esta semana y el fin de semana en Buenos Aires."
-    },
     "90d1f1723343": {
       "resumen": "Un repaso por los restaurantes a puertas cerradas en Buenos Aires: en qué consisten y cuánto cuestan."
     },
-    "3b5eb5a642db": {
-      "resumen": "Una guía con más de 60 planes para el fin de semana del 13 al 15 de noviembre en Buenos Aires, entre recitales, teatro, cine y propuestas gratuitas."
-    },
-    "0f90eb914faa": {
-      "resumen": "Una guía con 31 propuestas para el fin de semana del 12 al 15 de noviembre en Buenos Aires, entre ferias, conciertos y otras experiencias."
+    "23bc617044ba": {
+      "resumen": "Un comensal mostró el ticket final tras pedir bife de chorizo, lomo, papas fritas, puré y cinco bebidas en el reconocido restaurante La Cabrera."
     }
   }
 }
