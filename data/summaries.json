@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-17T10:11:26Z",
+  "generated_at": "2026-11-17T22:10:26Z",
   "summaries": {
+    "56b749ef801b": {
+      "resumen": "OncLive entrevista al Dr. Jorge Cortés sobre el fundamento del ensayo OPTIC, que evaluó una estrategia de reducción de dosis de ponatinib (un inhibidor de tirosina quinasa) guiada por la respuesta, en pacientes con leucemia mieloide crónica (LMC) resistente o intolerante a tratamientos previos. Vale la pena mirarlo porque explica la lógica detrás de ajustar la dosis para equilibrar eficacia y seguridad cardiovascular.",
+      "destacado": false
+    },
+    "a8dd6fe00d92": {
+      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de giredestrant (un degradador selectivo del receptor de estrógeno) con everolimus (un inhibidor de mTOR) para el cáncer de mama metastásico con receptor de estrógeno positivo, HER2 negativo y mutación en el gen ESR1. Interesa porque amplía las opciones dirigidas para pacientes que progresan tras terapia hormonal previa.",
+      "destacado": false
+    },
     "be592e16556a": {
       "resumen": "OncLive repasa una estrategia de puente con terapia CAR-T (células T con receptor quimérico de antígeno) combinada con un esquema triple que incluye pirtobrutinib (un inhibidor no covalente de BTK, la tirosina quinasa de Bruton) en leucemia linfocítica crónica (LLC). Interesa porque explora cómo combinar terapia celular y fármacos dirigidos en pacientes con enfermedad resistente.",
       "destacado": false,
       "analisis": "Diseño: No se puede determinar el diseño exacto a partir del título (probablemente datos clínicos o de un ensayo presentado en congreso, sin precisar aleatorización ni número de pacientes).\nPoblación: Pacientes con leucemia linfocítica crónica (LLC), probablemente en recaída o refractaria, candidatos a terapia celular con CAR-T.\nIntervención: Estrategia de \"puente\" con terapia CAR-T combinada con un esquema triple que incluye pirtobrutinib (inhibidor no covalente de BTK).\nResultados: No disponibles a partir del título.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño muestral, el diseño del estudio ni la solidez estadística de los resultados.\nMensaje: Sugiere una estrategia combinada de terapia celular y fármacos dirigidos para pacientes con LLC de difícil manejo; su impacto real en la práctica dependerá de los datos completos.\nNota: análisis sin acceso al abstract."
-    },
-    "84fe8e6da697": {
-      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó un biosimilar de pertuzumab (un anticuerpo monoclonal anti-HER2) para el cáncer de mama HER2 positivo. Vale la pena seguirlo porque amplía el acceso a una terapia anti-HER2 ya establecida, con potencial impacto en el costo del tratamiento.",
-      "destacado": false
-    },
-    "792a386dbfdd": {
-      "resumen": "OncLive reporta que la Comisión Europea aprobó daraxonrasib, un inhibidor de la proteína RAS, para el cáncer de páncreas metastásico ya tratado previamente. Interesa porque suma una opción dirigida molecularmente en un tumor de pronóstico muy desfavorable y con pocas alternativas terapéuticas.",
-      "destacado": false
     },
     "05a0f168dc52": {
       "resumen": "Carta de respuesta en el Journal of Clinical Oncology (revista oficial de la Sociedad Americana de Oncología Clínica) sobre la profilaxis del sistema nervioso central (SNC) en el linfoma difuso de células grandes B positivo para CD5. Interesa porque continúa un debate abierto sobre cómo prevenir la recaída cerebral en un subtipo de linfoma de alto riesgo.",
@@ -27,73 +27,52 @@
       "destacado": false
     },
     "6ff66dee7449": {
-      "resumen": "Artículo del Journal of Clinical Oncology que retoma el ensayo ROADS para repasar el rol de la braquiterapia (radioterapia interna) en el lecho quirúrgico cerebral, comparándola con la radiocirugía de cavidad tras la resección de metástasis cerebrales. Interesa porque discute una técnica en resurgimiento para reducir la recaída local sin radioterapia de cerebro completo.",
-      "destacado": false,
+      "resumen": "Artículo del Journal of Clinical Oncology que retoma el ensayo ROADS para repasar el rol de la braquiterapia (radioterapia interna) en el lecho quirúrgico cerebral, comparándola con la radiocirugía de cavidad tras la resección de metástasis cerebrales. Es el destacado de hoy porque discute una técnica en resurgimiento para reducir la recaída local sin radioterapia de cerebro completo.",
+      "destacado": true,
       "analisis": "Diseño: El título sugiere un comentario o reanálisis en torno al ensayo ROADS, sin precisar si se trata del reporte primario o de una revisión posterior, ni la aleatorización, el número de centros o de pacientes.\nPoblación: Pacientes con metástasis cerebrales resecadas quirúrgicamente, candidatos a tratamiento adyuvante de la cavidad de resección.\nIntervención: Braquiterapia (radioterapia interna colocada en el lecho quirúrgico) frente a radiocirugía estereotáctica de la cavidad.\nResultados: No disponibles a partir del título; no se reportan tasas de control local, supervivencia ni toxicidad neurológica.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño exacto, el tamaño muestral ni si los resultados provienen de un ensayo aleatorizado o de una serie retrospectiva.\nMensaje: Si confirma beneficio, la braquiterapia podría reposicionarse como alternativa a la radiocirugía para el control local tras la resección de metástasis cerebrales, aunque la elección seguirá dependiendo de la disponibilidad técnica y la experiencia del centro.\nNota: análisis sin acceso al abstract."
     },
     "87ca916e192c": {
       "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de inmunoterapia combinada en un escenario donde la cirugía sigue siendo central.",
       "destacado": false
     },
-    "774d6692e7be": {
-      "resumen": "The ASCO Post reporta un estudio que encontró menor mortalidad con la resección quirúrgica que con la radioterapia ablativa estereotáctica corporal (SABR, por sus siglas en inglés) en el cáncer de pulmón de células no pequeñas (NSCLC) en estadio temprano. Es el destacado de hoy porque compara dos abordajes curativos frecuentes en una decisión terapéutica que se toma todos los días en la práctica oncológica.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio comparativo (probablemente de cohorte o de registro, sin especificar aleatorización) que evalúa mortalidad asociada a resección quirúrgica frente a radioterapia ablativa estereotáctica corporal (SABR); el título no precisa el número de pacientes ni de centros.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) en estadio temprano, candidatos a tratamiento local definitivo.\nIntervención: Resección quirúrgica frente a SABR (stereotactic ablative body radiotherapy).\nResultados: No disponibles a partir del título; no se reportan tasas de mortalidad, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al no tratarse de un ensayo aleatorizado, existe riesgo de sesgo de selección (los pacientes operados suelen tener mejor estado funcional y menos comorbilidades que quienes reciben SABR); sin el texto completo no se puede evaluar el ajuste estadístico por estas diferencias basales.\nMensaje: Si se confirma el hallazgo, respalda priorizar la cirugía en pacientes operables con NSCLC en estadio temprano, aunque la elección entre cirugía y SABR debe seguir siendo individualizada según comorbilidades, función pulmonar y preferencia del paciente.\nNota: análisis sin acceso al abstract."
-    },
     "37746443a9ea": {
       "resumen": "The ASCO Post reporta un estudio sobre los factores estructurales, a nivel de médicos y de la práctica clínica, que influyen en la participación de pacientes con cáncer avanzado en ensayos clínicos. Vale la pena mirarlo porque identifica barreras del sistema de salud —más allá del paciente individual— que podrían explicar la baja inscripción en estudios oncológicos.",
       "destacado": false,
       "analisis": "Diseño: Estudio probablemente observacional (de cohorte o encuesta) que analiza factores estructurales a nivel de médico y de práctica clínica asociados a la participación en ensayos clínicos; el título no precisa el número de centros, pacientes ni médicos incluidos.\nPoblación: Pacientes con cáncer avanzado atendidos en distintas prácticas oncológicas, y los médicos/centros que los tratan.\nIntervención: No aplica una intervención terapéutica; se evalúan factores estructurales (por ejemplo, disponibilidad de ensayos, carga de trabajo del médico, tipo de práctica) como determinantes de la inscripción en ensayos clínicos.\nResultados: No disponibles a partir del título; no se reportan las tasas de participación ni los factores específicos identificados con sus medidas de asociación.\nLimitaciones: Los estudios observacionales sobre determinantes de inscripción pueden tener sesgo de selección de centros participantes y dificultad para aislar el efecto de cada factor estructural; sin el texto completo no se puede evaluar el ajuste estadístico.\nMensaje: Señala que la baja participación en ensayos clínicos oncológicos no depende solo de los pacientes, sino también de factores estructurales del sistema de atención, lo que podría orientar intervenciones a nivel de práctica médica para mejorar el acceso equitativo a la investigación.\nNota: análisis sin acceso al abstract."
     },
-    "20e51e9c9d82": {
-      "resumen": "Lancet Oncology informa sobre una revisión que recomienda una reforma radical del trabajo multidisciplinario en los servicios de cáncer del NHS (sistema de salud pública del Reino Unido). Interesa porque plantea cambios estructurales en la organización de la atención oncológica que podrían inspirar debates similares en otros sistemas de salud.",
+    "30f60852a1ba": {
+      "resumen": "The ASCO Post reporta que la American Cancer Society (Sociedad Americana del Cáncer) actualizó su guía de detección temprana del cáncer de próstata. Interesa porque las recomendaciones de rastreo con PSA (antígeno prostático específico) influyen directamente en la práctica clínica diaria y en las políticas de salud pública.",
       "destacado": false
     },
-    "10b17850ceca": {
-      "resumen": "Lancet Oncology presenta un panorama de la atención oncológica en América Latina, describiendo un sistema bajo presión. Vale la pena mirarlo porque ofrece un contexto regional directamente relevante para la práctica oncológica en Argentina.",
-      "destacado": false
+    "1669f0afdb30": {
+      "resumen": "ELLE elige siete camperas plumíferas cortas de Mango, Massimo Dutti, Lefties y Cortefiel que estilizan la figura y marcan tendencia esta temporada."
     },
-    "45dd23873e15": {
-      "resumen": "Jennifer Lawrence brilló en la premiere neoyorquina de \"Los juegos del hambre: Sunrise on the Reaping\" con un look memorable."
+    "8089ef1e2006": {
+      "resumen": "Mujerhoy explica por qué las faldas midi se imponen como tendencia de cara a 2027, destacadas por su versatilidad para distintos looks."
     },
-    "b35053be9422": {
-      "resumen": "Vogue repasa la historia de las \"trampas de miel\" en el espionaje, desde Mata Hari hasta las llamadas \"chicas Mozhno\"."
+    "ff275c48570b": {
+      "resumen": "El Destape repasa los cortes de pelo masculinos que se impusieron como tendencia durante 2026."
     },
-    "c6a7aff350ac": {
-      "resumen": "El National Black Theatre recaudó un millón de dólares en su primera gala de otoño, con la presencia de figuras como John Legend."
+    "1593165f7ce4": {
+      "resumen": "Canal26 cuenta qué tendencia navideña reemplaza a las luces de colores en los balcones por una opción más elegante este 2026."
     },
-    "033f3fe35525": {
-      "resumen": "Una boda de tres días en Oaxaca combinó tradiciones persas, diseño escenográfico y una fiesta al estilo Ibiza."
+    "2408d011c788": {
+      "resumen": "Vogue España repasa el regreso del anillo midi, el accesorio que usó Zendaya y que ya había triunfado en la década de 2010."
     },
-    "853e455bda66": {
-      "resumen": "Vogue México propone los zapatos de tacón blancos como aliados para vestidos midi, jeans rectos y faldas largas este otoño."
+    "320de5f86461": {
+      "resumen": "Vogue España detalla cómo Kate Middleton combinó su vestido midi azul cobalto con un bolso marrón de tendencia y unos aros con un significado especial."
     },
-    "74190fbf2bd7": {
-      "resumen": "Vogue México repasa los looks de Kate Middleton durante su visita oficial a la India, entre vestido azul y pantalones blancos."
+    "c8ca0ea40e48": {
+      "resumen": "El Teatro Argentino fue sede de la segunda edición del Encuentro Bonaerense Tradicionalista de Canto y Danza \"Francisco Chamorro\"."
     },
-    "13ea5791c273": {
-      "resumen": "HOLA presenta nueve looks de invitadas de boda para este otoño, desde estolas y guantes elegantes hasta el estampado de tapicería."
+    "5531759aef3e": {
+      "resumen": "El Teatro Alhambra presenta \"Das innere Beben\", una propuesta de danza-teatro de la compañía de Nadine Gerspacher."
     },
-    "a76d28766072": {
-      "resumen": "Vogue México recomienda los jeans barrel combinados con botines como la apuesta clave para los looks de otoño 2026."
+    "f24965792358": {
+      "resumen": "El Teatro Alhambra propone una pieza de danza-teatro de Nadine Gerspacher que explora el duelo y la vulnerabilidad."
     },
-    "d9fe628f8bce": {
-      "resumen": "Pandora participó de una nueva edición de Alcorta Edition, el evento de moda porteño."
-    },
-    "595b7799bdb6": {
-      "resumen": "Jennifer López deslumbró en Nueva York con un look en tono burdeos que se llevó todas las miradas."
-    },
-    "a2b9a20885a1": {
-      "resumen": "Raly Barrionuevo vuelve a Buenos Aires con su espectáculo El camino de Solgo en el Teatro Coliseo; cuándo es y cómo conseguir entradas."
-    },
-    "61a6935ee643": {
-      "resumen": "El cantante colombiano Maluma vuelve a la Argentina con su gira Loco X Volver; las entradas ya están a la venta."
-    },
-    "d75ce8e0b6df": {
-      "resumen": "Una noche de rhythm & blues llega a Buenos Aires con una propuesta de virtuosismo musical y celebración."
-    },
-    "ff9f89ede293": {
-      "resumen": "Adrián Suar, Carla Peterson, Fernán Mirás y Lorena Vega presentan la obra Sottovoce en Mar del Plata; cuándo se puede ver."
+    "2c62f6b4bde3": {
+      "resumen": "Buenos Aires celebra el centenario de su teatro musical con una gala especial en el Teatro Ópera."
     },
     "f1cc08dcda52": {
       "resumen": "Una guía con propuestas de actividades para el próximo fin de semana en la provincia de Buenos Aires."
@@ -101,8 +80,8 @@
     "7d24fd8aea2a": {
       "resumen": "National Geographic recorre el barrio porteño donde, según la tradición literaria, Jorge Luis Borges situó la fundación mítica de Buenos Aires, hoy con bosques, restaurantes y diseño."
     },
-    "90d1f1723343": {
-      "resumen": "Un repaso por los restaurantes a puertas cerradas en Buenos Aires: en qué consisten y cuánto cuestan."
+    "d48b99cd16c7": {
+      "resumen": "Time Out repasa una agenda de actividades para hacer esta semana y el fin de semana en Buenos Aires."
     },
     "23bc617044ba": {
       "resumen": "Un comensal mostró el ticket final tras pedir bife de chorizo, lomo, papas fritas, puré y cinco bebidas en el reconocido restaurante La Cabrera."
