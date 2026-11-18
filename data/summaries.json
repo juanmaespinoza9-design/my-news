@@ -1,81 +1,9 @@
 {
-  "generated_at": "2026-11-17T22:10:26Z",
+  "generated_at": "2026-11-18T10:12:17Z",
   "summaries": {
-    "56b749ef801b": {
-      "resumen": "OncLive entrevista al Dr. Jorge Cortés sobre el fundamento del ensayo OPTIC, que evaluó una estrategia de reducción de dosis de ponatinib (un inhibidor de tirosina quinasa) guiada por la respuesta, en pacientes con leucemia mieloide crónica (LMC) resistente o intolerante a tratamientos previos. Vale la pena mirarlo porque explica la lógica detrás de ajustar la dosis para equilibrar eficacia y seguridad cardiovascular.",
-      "destacado": false
-    },
-    "a8dd6fe00d92": {
-      "resumen": "OncLive informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de giredestrant (un degradador selectivo del receptor de estrógeno) con everolimus (un inhibidor de mTOR) para el cáncer de mama metastásico con receptor de estrógeno positivo, HER2 negativo y mutación en el gen ESR1. Interesa porque amplía las opciones dirigidas para pacientes que progresan tras terapia hormonal previa.",
-      "destacado": false
-    },
-    "be592e16556a": {
-      "resumen": "OncLive repasa una estrategia de puente con terapia CAR-T (células T con receptor quimérico de antígeno) combinada con un esquema triple que incluye pirtobrutinib (un inhibidor no covalente de BTK, la tirosina quinasa de Bruton) en leucemia linfocítica crónica (LLC). Interesa porque explora cómo combinar terapia celular y fármacos dirigidos en pacientes con enfermedad resistente.",
-      "destacado": false,
-      "analisis": "Diseño: No se puede determinar el diseño exacto a partir del título (probablemente datos clínicos o de un ensayo presentado en congreso, sin precisar aleatorización ni número de pacientes).\nPoblación: Pacientes con leucemia linfocítica crónica (LLC), probablemente en recaída o refractaria, candidatos a terapia celular con CAR-T.\nIntervención: Estrategia de \"puente\" con terapia CAR-T combinada con un esquema triple que incluye pirtobrutinib (inhibidor no covalente de BTK).\nResultados: No disponibles a partir del título.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño muestral, el diseño del estudio ni la solidez estadística de los resultados.\nMensaje: Sugiere una estrategia combinada de terapia celular y fármacos dirigidos para pacientes con LLC de difícil manejo; su impacto real en la práctica dependerá de los datos completos.\nNota: análisis sin acceso al abstract."
-    },
     "05a0f168dc52": {
       "resumen": "Carta de respuesta en el Journal of Clinical Oncology (revista oficial de la Sociedad Americana de Oncología Clínica) sobre la profilaxis del sistema nervioso central (SNC) en el linfoma difuso de células grandes B positivo para CD5. Interesa porque continúa un debate abierto sobre cómo prevenir la recaída cerebral en un subtipo de linfoma de alto riesgo.",
       "destacado": false
-    },
-    "3aee1edba7a0": {
-      "resumen": "Artículo de perspectiva en el Journal of Clinical Oncology que propone mejorar la metodología de investigación sobre la fuerza laboral oncológica para que se ajuste mejor a las necesidades reales de los pacientes. Vale la pena mirarlo porque plantea cómo investigar de forma más útil los problemas de escasez y organización del personal en oncología.",
-      "destacado": false
-    },
-    "fd6df8c94eed": {
-      "resumen": "Carta original en el Journal of Clinical Oncology que plantea una pregunta sin resolver sobre la profilaxis del sistema nervioso central (SNC) en el linfoma difuso de células grandes B positivo para CD5. Interesa porque abre el debate que responde el artículo compañero de esta misma edición.",
-      "destacado": false
-    },
-    "6ff66dee7449": {
-      "resumen": "Artículo del Journal of Clinical Oncology que retoma el ensayo ROADS para repasar el rol de la braquiterapia (radioterapia interna) en el lecho quirúrgico cerebral, comparándola con la radiocirugía de cavidad tras la resección de metástasis cerebrales. Es el destacado de hoy porque discute una técnica en resurgimiento para reducir la recaída local sin radioterapia de cerebro completo.",
-      "destacado": true,
-      "analisis": "Diseño: El título sugiere un comentario o reanálisis en torno al ensayo ROADS, sin precisar si se trata del reporte primario o de una revisión posterior, ni la aleatorización, el número de centros o de pacientes.\nPoblación: Pacientes con metástasis cerebrales resecadas quirúrgicamente, candidatos a tratamiento adyuvante de la cavidad de resección.\nIntervención: Braquiterapia (radioterapia interna colocada en el lecho quirúrgico) frente a radiocirugía estereotáctica de la cavidad.\nResultados: No disponibles a partir del título; no se reportan tasas de control local, supervivencia ni toxicidad neurológica.\nLimitaciones: Sin el texto completo no se puede evaluar el diseño exacto, el tamaño muestral ni si los resultados provienen de un ensayo aleatorizado o de una serie retrospectiva.\nMensaje: Si confirma beneficio, la braquiterapia podría reposicionarse como alternativa a la radiocirugía para el control local tras la resección de metástasis cerebrales, aunque la elección seguirá dependiendo de la disponibilidad técnica y la experiencia del centro.\nNota: análisis sin acceso al abstract."
-    },
-    "87ca916e192c": {
-      "resumen": "The ASCO Post informa que la FDA (agencia regulatoria de medicamentos de Estados Unidos) aprobó la combinación de durvalumab (un inhibidor del punto de control inmunitario anti-PD-L1) con enfortumab vedotin (un conjugado anticuerpo-fármaco dirigido a Nectina-4) para el cáncer de vejiga músculo-invasivo. Vale la pena seguirlo porque amplía las opciones de inmunoterapia combinada en un escenario donde la cirugía sigue siendo central.",
-      "destacado": false
-    },
-    "37746443a9ea": {
-      "resumen": "The ASCO Post reporta un estudio sobre los factores estructurales, a nivel de médicos y de la práctica clínica, que influyen en la participación de pacientes con cáncer avanzado en ensayos clínicos. Vale la pena mirarlo porque identifica barreras del sistema de salud —más allá del paciente individual— que podrían explicar la baja inscripción en estudios oncológicos.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio probablemente observacional (de cohorte o encuesta) que analiza factores estructurales a nivel de médico y de práctica clínica asociados a la participación en ensayos clínicos; el título no precisa el número de centros, pacientes ni médicos incluidos.\nPoblación: Pacientes con cáncer avanzado atendidos en distintas prácticas oncológicas, y los médicos/centros que los tratan.\nIntervención: No aplica una intervención terapéutica; se evalúan factores estructurales (por ejemplo, disponibilidad de ensayos, carga de trabajo del médico, tipo de práctica) como determinantes de la inscripción en ensayos clínicos.\nResultados: No disponibles a partir del título; no se reportan las tasas de participación ni los factores específicos identificados con sus medidas de asociación.\nLimitaciones: Los estudios observacionales sobre determinantes de inscripción pueden tener sesgo de selección de centros participantes y dificultad para aislar el efecto de cada factor estructural; sin el texto completo no se puede evaluar el ajuste estadístico.\nMensaje: Señala que la baja participación en ensayos clínicos oncológicos no depende solo de los pacientes, sino también de factores estructurales del sistema de atención, lo que podría orientar intervenciones a nivel de práctica médica para mejorar el acceso equitativo a la investigación.\nNota: análisis sin acceso al abstract."
-    },
-    "30f60852a1ba": {
-      "resumen": "The ASCO Post reporta que la American Cancer Society (Sociedad Americana del Cáncer) actualizó su guía de detección temprana del cáncer de próstata. Interesa porque las recomendaciones de rastreo con PSA (antígeno prostático específico) influyen directamente en la práctica clínica diaria y en las políticas de salud pública.",
-      "destacado": false
-    },
-    "1669f0afdb30": {
-      "resumen": "ELLE elige siete camperas plumíferas cortas de Mango, Massimo Dutti, Lefties y Cortefiel que estilizan la figura y marcan tendencia esta temporada."
-    },
-    "8089ef1e2006": {
-      "resumen": "Mujerhoy explica por qué las faldas midi se imponen como tendencia de cara a 2027, destacadas por su versatilidad para distintos looks."
-    },
-    "ff275c48570b": {
-      "resumen": "El Destape repasa los cortes de pelo masculinos que se impusieron como tendencia durante 2026."
-    },
-    "1593165f7ce4": {
-      "resumen": "Canal26 cuenta qué tendencia navideña reemplaza a las luces de colores en los balcones por una opción más elegante este 2026."
-    },
-    "2408d011c788": {
-      "resumen": "Vogue España repasa el regreso del anillo midi, el accesorio que usó Zendaya y que ya había triunfado en la década de 2010."
-    },
-    "320de5f86461": {
-      "resumen": "Vogue España detalla cómo Kate Middleton combinó su vestido midi azul cobalto con un bolso marrón de tendencia y unos aros con un significado especial."
-    },
-    "c8ca0ea40e48": {
-      "resumen": "El Teatro Argentino fue sede de la segunda edición del Encuentro Bonaerense Tradicionalista de Canto y Danza \"Francisco Chamorro\"."
-    },
-    "5531759aef3e": {
-      "resumen": "El Teatro Alhambra presenta \"Das innere Beben\", una propuesta de danza-teatro de la compañía de Nadine Gerspacher."
-    },
-    "f24965792358": {
-      "resumen": "El Teatro Alhambra propone una pieza de danza-teatro de Nadine Gerspacher que explora el duelo y la vulnerabilidad."
-    },
-    "2c62f6b4bde3": {
-      "resumen": "Buenos Aires celebra el centenario de su teatro musical con una gala especial en el Teatro Ópera."
-    },
-    "f1cc08dcda52": {
-      "resumen": "Una guía con propuestas de actividades para el próximo fin de semana en la provincia de Buenos Aires."
     },
     "7d24fd8aea2a": {
       "resumen": "National Geographic recorre el barrio porteño donde, según la tradición literaria, Jorge Luis Borges situó la fundación mítica de Buenos Aires, hoy con bosques, restaurantes y diseño."
@@ -83,8 +11,96 @@
     "d48b99cd16c7": {
       "resumen": "Time Out repasa una agenda de actividades para hacer esta semana y el fin de semana en Buenos Aires."
     },
-    "23bc617044ba": {
-      "resumen": "Un comensal mostró el ticket final tras pedir bife de chorizo, lomo, papas fritas, puré y cinco bebidas en el reconocido restaurante La Cabrera."
+    "f1cc08dcda52": {
+      "resumen": "Una guía con propuestas de actividades para el próximo fin de semana en la provincia de Buenos Aires."
+    },
+    "a8e049a51bed": {
+      "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) eliminó restricciones de uso para lisocabtagén maraleucel (liso-cel, una terapia de células T con receptor quimérico de antígeno o CAR-T) en linfoma primario del sistema nervioso central. Vale la pena mirarlo porque amplía el acceso a esta terapia celular en un linfoma históricamente difícil de tratar.",
+      "destacado": false
+    },
+    "e903564458f4": {
+      "resumen": "OncLive resume datos presentados en el congreso de la Sociedad Europea de Oncología Médica (ESMO) 2026 sobre la actividad de los conjugados anticuerpo-fármaco (ADC) en metástasis cerebrales y en cáncer de mama triple negativo. Interesa porque estos fármacos dirigidos siguen mostrando actividad en escenarios de difícil tratamiento como la enfermedad cerebral.",
+      "destacado": false
+    },
+    "2d28b2ecd4cc": {
+      "resumen": "The ASCO Post agrupa su cobertura sobre cuidados paliativos en oncología, con artículos centrados en el control de síntomas y la calidad de vida de pacientes con cáncer. Vale la pena revisarlo como puerta de entrada a ese eje temático dentro de la publicación.",
+      "destacado": false
+    },
+    "7576f8f85b97": {
+      "resumen": "El Comité de Medicamentos de Uso Humano (CHMP) de la Agencia Europea de Medicamentos emitió una opinión positiva para sintilimab (un inhibidor del punto de control inmunitario anti-PD-1) en primera línea del cáncer de pulmón de células no pequeñas no escamoso. Interesa porque anticipa una nueva opción de inmunoterapia que podría aprobarse pronto en Europa.",
+      "destacado": false
+    },
+    "b56892228623": {
+      "resumen": "La FDA aprobó la combinación de giredestrant (un degradador selectivo del receptor de estrógeno) con everolimus (un inhibidor de mTOR) para el cáncer de mama avanzado con mutación en el gen ESR1. Vale la pena mirarlo porque suma una opción dirigida para pacientes que progresan tras la hormonoterapia previa.",
+      "destacado": false
+    },
+    "d519d686f909": {
+      "resumen": "The ASCO Post reúne su cobertura sobre manejo del dolor oncológico, un aspecto central de los cuidados de soporte en pacientes con cáncer. Interesa como acceso a ese eje temático dentro de la publicación.",
+      "destacado": false
+    },
+    "c93df4e049b4": {
+      "resumen": "El Journal of Clinical Oncology publica los resultados a 5 años del ensayo IRMA, un estudio de fase III, multicéntrico y aleatorizado que compara la irradiación parcial de la mama con la irradiación de toda la mama en carcinoma invasivo de mama de bajo riesgo. Vale la pena mirarlo porque podría respaldar un tratamiento radiante más corto y focalizado para un subgrupo seleccionado de pacientes.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo fase III, multicéntrico, aleatorizado (según el título); no se dispone del número exacto de centros ni de pacientes porque no se pudo acceder al abstract completo.\nPoblación: Pacientes con carcinoma invasivo de mama de bajo riesgo, tratadas con cirugía conservadora.\nIntervención: Irradiación parcial de la mama frente a irradiación de toda la mama (comparador), tras cirugía conservadora.\nResultados: No disponibles a partir del título; el estudio reporta resultados a 5 años de seguimiento, pero no se cuenta con las tasas de recurrencia, supervivencia ni los intervalos de confianza.\nLimitaciones: Sin el texto completo no puede evaluarse el poder estadístico del estudio, la definición exacta de \"bajo riesgo\" ni si el seguimiento se extiende más allá de los 5 años reportados.\nMensaje: Si confirma no inferioridad, respaldaría la irradiación parcial como alternativa que acorta y focaliza el tratamiento radiante en un subgrupo seleccionado de pacientes con cáncer de mama de bajo riesgo.\nNota: análisis sin acceso al abstract."
+    },
+    "2493e489cf7a": {
+      "resumen": "Carta de respuesta en el Journal of Clinical Oncology sobre la heterogeneidad según el sitio tumoral observada en el ensayo OrigAMI-4 y las preguntas abiertas que plantea para el futuro ensayo OrigAMI-5. Interesa porque refleja el debate científico en curso sobre cómo interpretar los resultados según la localización del tumor.",
+      "destacado": false
+    },
+    "4ae77f3a51da": {
+      "resumen": "Carta original en el Journal of Clinical Oncology que plantea la heterogeneidad según el sitio tumoral observada en el ensayo OrigAMI-4 y sus implicancias biológicas, abriendo preguntas para el diseño del futuro ensayo OrigAMI-5. Vale la pena mirarlo porque anticipa cómo la localización del tumor podría condicionar la respuesta a futuros tratamientos.",
+      "destacado": false
+    },
+    "4fb417bded30": {
+      "resumen": "Lancet Oncology publica el ensayo PRIME-HCC, un estudio prospectivo de fase 1b y de un solo brazo que evaluó nivolumab (un inhibidor del punto de control inmunitario anti-PD-1) combinado con ipilimumab (un inhibidor anti-CTLA-4) como tratamiento neoadyuvante en el carcinoma hepatocelular resecable quirúrgicamente. Interesa porque explora si la inmunoterapia previa a la cirugía puede mejorar los resultados en un tumor con pocas opciones sistémicas eficaces.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo prospectivo, fase 1b, de un solo brazo (sin grupo control ni aleatorización), con análisis traslacionales asociados; no se dispone del número de centros ni de pacientes sin el abstract completo.\nPoblación: Pacientes con carcinoma hepatocelular (HCC) resecable quirúrgicamente.\nIntervención: Nivolumab (anti-PD-1) más ipilimumab (anti-CTLA-4) en esquema neoadyuvante, previo a la cirugía; sin comparador, dado el diseño de un solo brazo.\nResultados: No disponibles a partir del título; al ser una fase 1b de un solo brazo, es esperable que el foco esté en seguridad, factibilidad quirúrgica y respuesta patológica, pero no se cuenta con esas cifras.\nLimitaciones: El diseño de un solo brazo sin comparador impide establecer causalidad frente al estándar de tratamiento; el tamaño muestral típico de una fase 1b suele ser pequeño, lo que limita la generalización de los resultados.\nMensaje: Si la estrategia neoadyuvante resulta segura y factible, podría abrir la puerta a ensayos aleatorizados más grandes que evalúen si la inmunoterapia previa a la cirugía mejora los resultados en el carcinoma hepatocelular resecable.\nNota: análisis sin acceso al abstract."
+    },
+    "3a36a8d741d4": {
+      "resumen": "Editorial de Lancet Oncology que comenta los resultados del ensayo PRIME-HCC y discute si la inmunoterapia neoadyuvante puede cambiar el manejo del carcinoma hepatocelular resecable. Vale la pena leerlo junto al estudio original para entender su contexto e implicancias clínicas.",
+      "destacado": false
+    },
+    "0ad5875c3b68": {
+      "resumen": "Vogue repasa la colección Resort 2027 de The Attico, la nueva propuesta de la marca italiana para la próxima temporada."
+    },
+    "24715360ef12": {
+      "resumen": "Telva reúne las marcas que recomiendan las expertas en moda para encontrar el jersey más lindo de la temporada."
+    },
+    "7488491a95f1": {
+      "resumen": "La Voz del Interior repasa tres looks de jean de Antonela Roccuzzo que se alejan del modelo tradicional y marcan tendencia."
+    },
+    "971b7b745eb9": {
+      "resumen": "Vogue México presenta la campaña de Tequila Herradura \"Nada a la suerte, todo a la dedicación\", centrada en el proceso detrás de la marca."
+    },
+    "b2e4e23097fe": {
+      "resumen": "El Sol de México anuncia la llegada a Pachuca del evento \"Diseña tu Historia\", que combina moda, creatividad y emprendimiento."
+    },
+    "15d06f7187fc": {
+      "resumen": "Vogue México repasa las colecciones presentadas por Global Fashion Collective y Vancouver Fashion Week para la temporada primavera-verano 2027."
+    },
+    "1c5dbf5ce037": {
+      "resumen": "Vogue México explica cómo un smartwatch puede ayudar a monitorear y cuidar la salud en el día a día."
+    },
+    "0429b6377f33": {
+      "resumen": "El ciclo de cine \"From Finland With Love\" vuelve en noviembre al Teatro San Martín de Buenos Aires."
+    },
+    "062dba3cf19b": {
+      "resumen": "La Universidad de Buenos Aires (UBA) distinguió al productor teatral Carlos Rottemberg por su trayectoria en el teatro argentino."
+    },
+    "47c4ebf5a43b": {
+      "resumen": "Guillermo Francella protagoniza una obra teatral porteña en la que interpreta a un jardinero estadounidense."
+    },
+    "0bd43300c05b": {
+      "resumen": "Página|12 propone una agenda de actividades de cultura LGBTIQ para este fin de semana en Buenos Aires."
+    },
+    "ec88ecadb741": {
+      "resumen": "La cantante colombiana Greeicy vuelve a Buenos Aires con su show \"Candela\", con sus grandes éxitos y canciones nuevas."
+    },
+    "9a68d71eaec4": {
+      "resumen": "Buenos Aires Secreta reúne propuestas gratuitas para este fin de semana en la ciudad, entre tango, rock, un coro de niños y observación con telescopios."
+    },
+    "220522a864cb": {
+      "resumen": "iProfesional informa a cuánto se subastan los vagones de subte en desuso, que se reconvierten en viviendas, restaurantes y otros usos."
     }
   }
 }
