@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:10:51Z",
+  "generated_at": "2026-11-21T22:10:31Z",
   "summaries": {
     "a0e02d1436af": {
       "resumen": "Radio Mitre informa que abrirá un nuevo shopping en Buenos Aires con 260 locales, cines y restaurantes."
@@ -16,35 +16,11 @@
       "resumen": "Artículo de The ASCO Post que explora si la inteligencia artificial (IA) podría mejorar el acceso al diagnóstico de leucemia infantil en entornos con recursos limitados. Interesa por su potencial impacto en la equidad diagnóstica en contextos de bajos recursos, algo relevante para la oncología global.",
       "destacado": false
     },
-    "ff0feb341501": {
-      "resumen": "Vogue presenta la colección Pre-Fall 2027 de Casablanca."
-    },
-    "9b149d051119": {
-      "resumen": "Vogue México cuenta que Dakota Johnson sumó a su look los mocasines con flecos, la tendencia de calzado del Otoño-Invierno 2026."
-    },
-    "479956bcab43": {
-      "resumen": "Vogue México entrevista a las actrices Fernanda Castillo y Karla Gaytán sobre la serie \"La ley de Alicia\" y el vínculo entre madres e hijas."
-    },
-    "1a1497cafe5f": {
-      "resumen": "Vogue México propone seis formas elegantes de reemplazar los jeans por pantalones cargo esta temporada de Otoño-Invierno 2026."
-    },
     "9957d4780116": {
       "resumen": "Zona Norte Hoy anticipa un récord de turismo en Buenos Aires durante el próximo fin de semana largo."
     },
     "9e2618dc6951": {
       "resumen": "Revista OHLALÁ! reúne planes gratuitos para disfrutar el fin de semana largo en la Ciudad de Buenos Aires."
-    },
-    "b37fc024f72c": {
-      "resumen": "Cobertura de OncLive sobre la biología de los tumores escamosos, nuevos blancos terapéuticos emergentes y los anticuerpos conjugados a fármaco dirigidos a TROP2 (antígeno 2 de superficie de células trofoblásticas). Sirve para ver hacia dónde avanza el desarrollo de tratamientos dirigidos en tumores de célula escamosa, un área históricamente con pocas opciones específicas.",
-      "destacado": false
-    },
-    "be3bfcf43a16": {
-      "resumen": "Nota de OncLive que repasa los patrones de progresión de la enfermedad y la experiencia en la práctica real (real-world) con docetaxel, una quimioterapia clásica todavía vigente en varios esquemas oncológicos. Útil para contrastar los datos de los ensayos clínicos con lo que efectivamente ocurre en el consultorio diario.",
-      "destacado": false
-    },
-    "256dd58c6486": {
-      "resumen": "Artículo de OncLive sobre el testeo del virus del papiloma humano (VPH) mediante la proteína p16 y los ensayos confirmatorios complementarios, clave para clasificar tumores asociados al VPH como los de cabeza y cuello y de cuello uterino. Interesa por su impacto directo en el diagnóstico y la estratificación de estos tumores.",
-      "destacado": false
     },
     "858150ab3e1d": {
       "resumen": "Comentario publicado en Journal of Clinical Oncology sobre el momento más conveniente para administrar alectinib (un inhibidor de la proteína ALK) en cáncer de pulmón de células no pequeñas (CPCNP) resecable con reordenamiento de ALK positivo, a partir de lo observado en el ensayo ALNEO. Aporta a la discusión de si el tratamiento dirigido conviene antes o después de la cirugía.",
@@ -64,46 +40,56 @@
       "resumen": "Editorial de Journal of Clinical Oncology que acompaña al ensayo REFUEL y plantea la necesidad de abordar la fatiga en sobrevivientes de cáncer con estrategias multidisciplinarias, en vez de intervenciones dirigidas a una sola causa. Funciona como marco de discusión para diseñar futuras intervenciones contra la fatiga oncológica.",
       "destacado": false
     },
-    "56a45a3c3503": {
-      "resumen": "Carta de réplica publicada en The New England Journal of Medicine dentro del intercambio sobre el uso de enfortumab vedotin (un anticuerpo conjugado a fármaco dirigido a Nectina-4) junto con pembrolizumab (un inhibidor de PD-1) en cáncer de vejiga en pacientes elegibles para cisplatino. Es parte del debate científico posterior a un esquema que ya cambió la primera línea de tratamiento en este tumor.",
-      "destacado": false
-    },
-    "2073ec2fa8d1": {
-      "resumen": "Carta publicada en The New England Journal of Medicine que comenta y cuestiona aspectos del esquema con enfortumab vedotin (anticuerpo conjugado a fármaco contra Nectina-4) más pembrolizumab (inhibidor de PD-1) en cáncer de vejiga en pacientes elegibles para cisplatino, régimen surgido del estudio EV-302. Sirve para seguir el debate clínico sobre la aplicabilidad de este tratamiento ya aprobado.",
-      "destacado": false
-    },
-    "68ab34cfaea4": {
-      "resumen": "Loreto Peralta avala el regreso de las uñas con forma almendrada como la tendencia de moda para el otoño/invierno 2026."
-    },
-    "11910f506300": {
-      "resumen": "Brenda Asnicar, Juanita Tinelli y Julieta Nair Calvo marcaron con sus looks las tendencias de la noche, del vestido efecto desnudo al corset."
-    },
-    "092b5378278a": {
-      "resumen": "Las zapatillas de colores se instalan como el calzado tendencia de este verano 2027, ideales para renovar cualquier look."
-    },
-    "2a7a36d44823": {
-      "resumen": "Primavera Sound Buenos Aires lanzó promociones y códigos de descuento para las entradas de su edición 2026 en el país."
-    },
-    "07500541f2b3": {
-      "resumen": "Arturo Puig vuelve a subirse a un escenario con 'Buenas palabras', un unipersonal cargado de emoción."
-    },
-    "6f2945baa204": {
-      "resumen": "Arturo Puig regresa a Buenos Aires con su unipersonal 'Buenas palabras'."
-    },
     "6b0d38e23197": {
       "resumen": "Un palacio porteño vinculado a un familiar de Manuel Belgrano, abandonado por más de 20 años y restaurado en 2023, hoy funciona con seis salas y un teatro para 500 personas."
     },
-    "9b1a06917d19": {
-      "resumen": "Una guía con planes gratuitos y festivales para disfrutar en Buenos Aires durante el fin de semana largo."
+    "7bdd90c0e146": {
+      "resumen": "Resumen semanal de OncLive con los artículos de oncología más destacados de la semana del 15 de noviembre. Sirve como panorama rápido de lo que se está discutiendo en distintas áreas de la especialidad, sin profundizar en un solo tema.",
+      "destacado": false
     },
-    "4edf0fee2006": {
-      "resumen": "Propuestas de música, gastronomía y deporte para aprovechar el fin de semana largo en Buenos Aires."
+    "40f8627580ea": {
+      "resumen": "Comentario en video de OncLive donde un especialista repasa las consideraciones para investigar SAR445877, una molécula en desarrollo, en cáncer colorrectal con estabilidad de microsatélites (MSS, microsatellite-stable), un subgrupo históricamente poco sensible a la inmunoterapia. Interesa por el intento de abrir nuevas estrategias en ese subgrupo difícil de tratar.",
+      "destacado": false
     },
-    "6485b290bf7c": {
-      "resumen": "Una agenda con las propuestas culturales para hacer este fin de semana."
+    "cc74d9cb2cc0": {
+      "resumen": "Comentario en video de OncLive sobre los datos de supervivencia del estudio HARMONi y la decisión de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) respecto de ivonescimab, un anticuerpo biespecífico anti-VEGF/PD-1, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR ya tratado previamente. Relevante por el debate regulatorio y clínico alrededor de esta nueva clase de fármacos.",
+      "destacado": false
     },
-    "4902fff7e634": {
-      "resumen": "Un análisis sobre el estado actual del peronismo: dividido internamente, acotado al conurbano y sin renovar su discurso."
+    "8da447f6ed79": {
+      "resumen": "Flor Peña se fue de viaje a República Dominicana y usó la escapada para mostrar, con fotos, cómo se vienen los looks del verano 2027."
+    },
+    "8a97d469ee66": {
+      "resumen": "Rosalía eligió un vestido color marfil y un sombrero con forma de paloma para su paso por la alfombra de los LOS40 Music Awards 2026."
+    },
+    "e3340e5cddad": {
+      "resumen": "Nicki Nicole sorprendió en el programa Otro día perdido con un calzado de diseño híbrido, una de las apuestas más audaces de la temporada."
+    },
+    "ae9dd5c056f5": {
+      "resumen": "Teresa Urquijo se sumó a la lista de famosas que ya usan botas cowboy, la tendencia fuerte de este otoño 2026."
+    },
+    "fec1dc9ef59f": {
+      "resumen": "Parafernalia, un estudio de diseño de Monterrey, se quedó con el premio Designers of Tomorrow que otorga Apple."
+    },
+    "186dd7d452b0": {
+      "resumen": "Seis propuestas de suéteres de colores para combinar con jeans rectos, baggy o acampanados en este otoño 2026."
+    },
+    "00752af9ef72": {
+      "resumen": "Mar Morán, soprano española de 34 años nacida en Badajoz, construyó una carrera que la llevó a cantar en uno de los grandes templos mundiales de la ópera."
+    },
+    "6b59f7dcb023": {
+      "resumen": "Vuelve la Noche de las Arepas a la Ciudad de Buenos Aires, con una guía de los locales que se suman a la propuesta."
+    },
+    "d268b6367c91": {
+      "resumen": "Cinco planes gratuitos para aprovechar el fin de semana largo en la Ciudad de Buenos Aires, del 21 al 24 de noviembre."
+    },
+    "f242df059191": {
+      "resumen": "Till Lindemann, el cantante de Rammstein, se presenta en Argentina."
+    },
+    "048b8f590117": {
+      "resumen": "Una agenda con más de 500 propuestas de música, recitales y espectáculos para el fin de semana largo en Buenos Aires."
+    },
+    "2a0c7ac5eeba": {
+      "resumen": "Se espera un turismo récord en Buenos Aires durante el fin de semana largo; una guía reúne qué hacer gratis en la Ciudad."
     }
   }
 }
