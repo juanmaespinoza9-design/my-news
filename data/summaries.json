@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-11-21T22:10:31Z",
+  "generated_at": "2026-11-22T10:10:12Z",
   "summaries": {
-    "a0e02d1436af": {
-      "resumen": "Radio Mitre informa que abrirá un nuevo shopping en Buenos Aires con 260 locales, cines y restaurantes."
-    },
-    "b8cb7e4e9cf6": {
-      "resumen": "Cobertura de The ASCO Post sobre la reunión anual 2026 de la Association for Molecular Pathology (Asociación de Patología Molecular), que reúne novedades en diagnóstico molecular aplicado a oncología. Sirve para tener un panorama de las tendencias en testeo molecular que luego impactan en las decisiones de tratamiento.",
-      "destacado": false
-    },
     "1ee2c55e4885": {
       "resumen": "Nota de The ASCO Post sobre cómo profundizar en la biología del ADN tumoral circulante (ctDNA, circulating tumor DNA) podría mejorar la precisión de la biopsia líquida para el monitoreo del cáncer. Relevante porque la biopsia líquida se está volviendo una herramienta cada vez más usada para el seguimiento de la respuesta y la recaída.",
       "destacado": false
@@ -15,12 +8,6 @@
     "a8da1efe1816": {
       "resumen": "Artículo de The ASCO Post que explora si la inteligencia artificial (IA) podría mejorar el acceso al diagnóstico de leucemia infantil en entornos con recursos limitados. Interesa por su potencial impacto en la equidad diagnóstica en contextos de bajos recursos, algo relevante para la oncología global.",
       "destacado": false
-    },
-    "9957d4780116": {
-      "resumen": "Zona Norte Hoy anticipa un récord de turismo en Buenos Aires durante el próximo fin de semana largo."
-    },
-    "9e2618dc6951": {
-      "resumen": "Revista OHLALÁ! reúne planes gratuitos para disfrutar el fin de semana largo en la Ciudad de Buenos Aires."
     },
     "858150ab3e1d": {
       "resumen": "Comentario publicado en Journal of Clinical Oncology sobre el momento más conveniente para administrar alectinib (un inhibidor de la proteína ALK) en cáncer de pulmón de células no pequeñas (CPCNP) resecable con reordenamiento de ALK positivo, a partir de lo observado en el ensayo ALNEO. Aporta a la discusión de si el tratamiento dirigido conviene antes o después de la cirugía.",
@@ -40,9 +27,6 @@
       "resumen": "Editorial de Journal of Clinical Oncology que acompaña al ensayo REFUEL y plantea la necesidad de abordar la fatiga en sobrevivientes de cáncer con estrategias multidisciplinarias, en vez de intervenciones dirigidas a una sola causa. Funciona como marco de discusión para diseñar futuras intervenciones contra la fatiga oncológica.",
       "destacado": false
     },
-    "6b0d38e23197": {
-      "resumen": "Un palacio porteño vinculado a un familiar de Manuel Belgrano, abandonado por más de 20 años y restaurado en 2023, hoy funciona con seis salas y un teatro para 500 personas."
-    },
     "7bdd90c0e146": {
       "resumen": "Resumen semanal de OncLive con los artículos de oncología más destacados de la semana del 15 de noviembre. Sirve como panorama rápido de lo que se está discutiendo en distintas áreas de la especialidad, sin profundizar en un solo tema.",
       "destacado": false
@@ -58,38 +42,57 @@
     "8da447f6ed79": {
       "resumen": "Flor Peña se fue de viaje a República Dominicana y usó la escapada para mostrar, con fotos, cómo se vienen los looks del verano 2027."
     },
-    "8a97d469ee66": {
-      "resumen": "Rosalía eligió un vestido color marfil y un sombrero con forma de paloma para su paso por la alfombra de los LOS40 Music Awards 2026."
-    },
-    "e3340e5cddad": {
-      "resumen": "Nicki Nicole sorprendió en el programa Otro día perdido con un calzado de diseño híbrido, una de las apuestas más audaces de la temporada."
-    },
-    "ae9dd5c056f5": {
-      "resumen": "Teresa Urquijo se sumó a la lista de famosas que ya usan botas cowboy, la tendencia fuerte de este otoño 2026."
-    },
-    "fec1dc9ef59f": {
-      "resumen": "Parafernalia, un estudio de diseño de Monterrey, se quedó con el premio Designers of Tomorrow que otorga Apple."
-    },
-    "186dd7d452b0": {
-      "resumen": "Seis propuestas de suéteres de colores para combinar con jeans rectos, baggy o acampanados en este otoño 2026."
-    },
-    "00752af9ef72": {
-      "resumen": "Mar Morán, soprano española de 34 años nacida en Badajoz, construyó una carrera que la llevó a cantar en uno de los grandes templos mundiales de la ópera."
-    },
     "6b59f7dcb023": {
       "resumen": "Vuelve la Noche de las Arepas a la Ciudad de Buenos Aires, con una guía de los locales que se suman a la propuesta."
     },
     "d268b6367c91": {
       "resumen": "Cinco planes gratuitos para aprovechar el fin de semana largo en la Ciudad de Buenos Aires, del 21 al 24 de noviembre."
     },
-    "f242df059191": {
-      "resumen": "Till Lindemann, el cantante de Rammstein, se presenta en Argentina."
-    },
     "048b8f590117": {
       "resumen": "Una agenda con más de 500 propuestas de música, recitales y espectáculos para el fin de semana largo en Buenos Aires."
     },
-    "2a0c7ac5eeba": {
-      "resumen": "Se espera un turismo récord en Buenos Aires durante el fin de semana largo; una guía reúne qué hacer gratis en la Ciudad."
+    "91013eb0b78a": {
+      "resumen": "Nota de The ASCO Post sobre cómo ampliar el impacto clínico del testeo molecular (estudio genético de los tumores) en cánceres pediátricos y en adolescentes y adultos jóvenes (AYA, adolescent and young adult). Repasa por qué integrar estos estudios en la práctica puede mejorar el diagnóstico y las decisiones de tratamiento en estos grupos, históricamente menos estudiados que los adultos mayores.",
+      "destacado": false
+    },
+    "8d25888f502a": {
+      "resumen": "Los relojes de pared grandes quedaron atrás: así es la tendencia decorativa más sofisticada que se viene para 2027."
+    },
+    "979e78563f5c": {
+      "resumen": "La estilista Piluka de Ehegaray elige el terciopelo como una de las telas estrella para los looks navideños, por su elegancia y porque además abriga."
+    },
+    "423b5ff95b28": {
+      "resumen": "Vogue España repasa cinco modelos de zapatillas blancas de estilo ochentoso que vuelven con fuerza en el otoño-invierno 2026/2027."
+    },
+    "a7134bc8d308": {
+      "resumen": "La cantante Miley Cyrus se casó con el músico Maxx Morando en una ceremonia realizada en California."
+    },
+    "7ce261e52fa7": {
+      "resumen": "La superposición de anillos se consolida como la tendencia en joyas más fuerte del otoño, un estilo que ya se usaba en el Renacimiento."
+    },
+    "3b445db3cf40": {
+      "resumen": "Vogue México explica quién es quién en el reparto y los personajes de The Body, la nueva serie adolescente de Netflix."
+    },
+    "e1a2437eaa00": {
+      "resumen": "El actor y comediante Pablito Castillo presenta su obra en Buenos Aires y apunta a seguir su carrera también en series y películas."
+    },
+    "db12b5f18143": {
+      "resumen": "El bailarín y director Julio Bocca renunció a la dirección del Ballet Estable del Teatro Colón; se analiza quién podría sucederlo."
+    },
+    "c4d49b4b986d": {
+      "resumen": "El exbailarín Julio Bocca dejó la dirección del Ballet Estable del Teatro Colón."
+    },
+    "0faace51b853": {
+      "resumen": "Una propuesta gratuita en Buenos Aires combina obras de arte, diseño y DJ en vivo para disfrutar el fin de semana en la ciudad."
+    },
+    "6375d2a7ef23": {
+      "resumen": "Julio Bocca sorprendió al anunciar su renuncia a la dirección artística del Ballet Estable del Teatro Colón."
+    },
+    "5800eb12b1b7": {
+      "resumen": "Una selección de restaurantes porteños para disfrutar en cualquier horario, de la mañana a la noche."
+    },
+    "c5c420858984": {
+      "resumen": "Una guía reúne planes gratuitos y festivales para aprovechar el fin de semana largo en Buenos Aires."
     }
   }
 }
