@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-11-23T00:00:00Z",
+  "generated_at": "2026-11-23T22:12:30Z",
   "summaries": {
-    "cc74d9cb2cc0": {
-      "resumen": "Comentario en video de OncLive sobre los datos de supervivencia del estudio HARMONi y la decisión de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) respecto de ivonescimab, un anticuerpo biespecífico anti-VEGF/PD-1, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR ya tratado previamente. Relevante por el debate regulatorio y clínico alrededor de esta nueva clase de fármacos.",
-      "destacado": false
-    },
-    "256dd58c6486": {
-      "resumen": "Nota de OncLive sobre las pruebas de detección del virus del papiloma humano (VPH) mediante la proteína p16 y los ensayos confirmatorios complementarios. Repasa las herramientas diagnósticas para confirmar la presencia de VPH, clave en tumores como el de cuello uterino y los de cabeza y cuello asociados a este virus.",
-      "destacado": false
-    },
-    "20acb3458cf2": {
-      "resumen": "Artículo de The ASCO Post que pone en foco el cáncer de mama en varones, una enfermedad poco visibilizada pero real. Importa por la necesidad de generar conciencia sobre un diagnóstico que suele llegar tarde justamente por no pensarse en hombres.",
-      "destacado": false
-    },
-    "b37fc024f72c": {
-      "resumen": "Nota de OncLive sobre la biología de los carcinomas escamosos, los nuevos blancos terapéuticos en estudio y los conjugados anticuerpo-fármaco dirigidos a TROP2 (Trophoblast cell-surface antigen 2). Interesa porque estos fármacos ya cambiaron el manejo de varios tumores escamosos y siguen expandiéndose a nuevas indicaciones.",
-      "destacado": false
-    },
-    "1ee2c55e4885": {
-      "resumen": "Nota de The ASCO Post sobre cómo profundizar en la biología del ADN tumoral circulante (ctDNA, circulating tumor DNA) podría mejorar la precisión de la biopsia líquida para el monitoreo del cáncer. Relevante porque la biopsia líquida se está volviendo una herramienta cada vez más usada para el seguimiento de la respuesta y la recaída.",
-      "destacado": false
-    },
-    "91013eb0b78a": {
-      "resumen": "Artículo de The ASCO Post sobre la expansión del impacto clínico de las pruebas moleculares en cánceres pediátricos y de adolescentes y adultos jóvenes (AYA, adolescent and young adult). Importa porque el perfil molecular cada vez define más las decisiones de tratamiento en estas poblaciones, históricamente menos estudiadas que los adultos.",
-      "destacado": false
-    },
     "858150ab3e1d": {
       "resumen": "Comentario publicado en Journal of Clinical Oncology sobre el momento más conveniente para administrar alectinib (un inhibidor de la proteína ALK) en cáncer de pulmón de células no pequeñas (CPCNP) resecable con reordenamiento de ALK positivo, a partir de lo observado en el ensayo ALNEO. Aporta a la discusión de si el tratamiento dirigido conviene antes o después de la cirugía.",
       "destacado": false,
@@ -56,38 +32,73 @@
     "db12b5f18143": {
       "resumen": "El bailarín y director Julio Bocca renunció a la dirección del Ballet Estable del Teatro Colón; se analiza quién podría sucederlo."
     },
-    "c4d49b4b986d": {
-      "resumen": "El exbailarín Julio Bocca dejó la dirección del Ballet Estable del Teatro Colón."
-    },
-    "0faace51b853": {
-      "resumen": "Una propuesta gratuita en Buenos Aires combina obras de arte, diseño y DJ en vivo para disfrutar el fin de semana en la ciudad."
-    },
     "802ef9c5e848": {
       "resumen": "En 1933 Federico García Lorca llegó a Buenos Aires y empezó a publicar sus obras; doce años después, su pieza Bernarda Alba debutó en el teatro porteño y consolidó su legado en la ciudad."
     },
     "c5c420858984": {
       "resumen": "Una guía de planes gratuitos y festivales para disfrutar en Buenos Aires durante el fin de semana largo."
     },
-    "9e2618dc6951": {
-      "resumen": "Una selección de planes gratuitos para hacer en la Ciudad de Buenos Aires durante el fin de semana largo."
+    "bc781d0f36a8": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó giredestrant, un degradador selectivo del receptor de estrógeno (SERD) oral, como monoterapia adyuvante para cáncer de mama en estadio temprano con receptores hormonales positivos y HER2 negativo (HER2-). Importa porque suma una opción oral a la terapia endocrina adyuvante estándar (tamoxifeno o inhibidores de aromatasa).",
+      "destacado": false,
+      "analisis": "Diseño: Aprobación regulatoria basada en un ensayo clínico de fase III, aleatorizado y multicéntrico (programa de desarrollo de giredestrant en contexto adyuvante).\nPoblación: Pacientes con cáncer de mama en estadio temprano (I-III), receptor hormonal positivo y HER2 negativo, en el escenario adyuvante tras cirugía.\nIntervención: Giredestrant en monoterapia versus terapia endocrina adyuvante estándar (tamoxifeno o inhibidor de aromatasa).\nResultados: La nota de aprobación no incluye las cifras de supervivencia libre de enfermedad ni la razón de riesgo del ensayo pivotal.\nLimitaciones: Información basada en el comunicado de aprobación, sin detalle del seguimiento ni del perfil de toxicidad a largo plazo.\nMensaje: Giredestrant se suma como alternativa oral a la hormonoterapia adyuvante en este subgrupo, ampliando las opciones terapéuticas disponibles.\nNota: análisis sin acceso al abstract."
     },
-    "62332ef0a510": {
-      "resumen": "Cada otoño la moda vuelve a inspirarse en la estética de la campiña inglesa, el estilo (y la vida) asociado a la aristocracia británica."
+    "65a9478bea5d": {
+      "resumen": "Un estudio evalúa si iniciar la suplementación nutricional de forma más temprana reduce la pérdida de peso asociada a la quimiorradioterapia en pacientes con carcinoma nasofaríngeo. Relevante porque el soporte nutricional oportuno podría mejorar la tolerancia al tratamiento y la calidad de vida.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio clínico comparativo sobre el momento de inicio del soporte nutricional; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma nasofaríngeo tratados con quimiorradioterapia.\nIntervención: Inicio temprano versus tardío (estándar) de la suplementación nutricional durante el tratamiento.\nResultados: El título solo indica una posible reducción de la pérdida de peso; no hay cifras concretas disponibles.\nLimitaciones: Sin el artículo completo no puede evaluarse el tamaño muestral, el diseño exacto ni la significancia estadística.\nMensaje: Sugiere que anticipar el soporte nutricional podría atenuar la pérdida de peso durante la quimiorradioterapia, algo a confirmar con más detalle.\nNota: análisis sin acceso al abstract."
     },
-    "ecf35b08b2f7": {
-      "resumen": "Las guirnaldas de luces de balcón quedaron atrás: para 2026 se impone una iluminación más cálida y relajada."
+    "c16801a591e5": {
+      "resumen": "Un estudio refina un índice pronóstico para pacientes con carcinoma de células renales y metástasis cerebrales, y reporta mejoras en la supervivencia. Importa porque ayuda a estratificar mejor a un grupo de pronóstico históricamente adverso.",
+      "destacado": false,
+      "analisis": "Diseño: Probable estudio de cohorte (posiblemente retrospectivo y multicéntrico) orientado a validar o refinar un índice pronóstico.\nPoblación: Pacientes con carcinoma de células renales (CCR) con metástasis cerebrales.\nIntervención: No hay un tratamiento experimental único; se analizan factores pronósticos junto con el manejo multimodal habitual (terapia sistémica, radioterapia, cirugía).\nResultados: El título menciona mejora en la supervivencia y un índice pronóstico refinado, pero no brinda cifras de supervivencia global ni intervalos de confianza.\nLimitaciones: Posible diseño retrospectivo (riesgo de sesgo de selección) y heterogeneidad de tratamientos entre pacientes.\nMensaje: Un índice pronóstico más preciso podría mejorar la selección terapéutica en CCR con metástasis cerebrales, aunque se necesita el artículo completo para cuantificar el beneficio.\nNota: análisis sin acceso al abstract."
     },
-    "586a5c9521bf": {
-      "resumen": "Más allá de la moda, la estética de 'Los Juegos del Hambre' esconde referencias directas al diseñador Alexander McQueen."
+    "bebee929483d": {
+      "resumen": "La FDA aprobó giredestrant, un degradador selectivo del receptor de estrógeno (SERD) oral, para cáncer de mama en estadios I a III con receptores hormonales positivos (ER+) y HER2 negativo (HER2-). Es la misma aprobación regulatoria reportada por otro medio especializado, relevante por ampliar las alternativas de terapia endocrina adyuvante.",
+      "destacado": false,
+      "analisis": "Diseño: Aprobación regulatoria basada en un ensayo clínico de fase III, aleatorizado y multicéntrico en contexto adyuvante.\nPoblación: Pacientes con cáncer de mama en estadios I-III, receptor hormonal positivo (ER+) y HER2 negativo (HER2-).\nIntervención: Giredestrant en monoterapia versus terapia endocrina adyuvante estándar.\nResultados: No se dispone de las cifras del ensayo pivotal en esta nota.\nLimitaciones: Información basada en el comunicado de aprobación, sin detalle del seguimiento a largo plazo.\nMensaje: Confirma, desde otro medio, la nueva alternativa oral de terapia endocrina adyuvante para este subgrupo de pacientes.\nNota: análisis sin acceso al abstract."
     },
-    "a997f2998f4a": {
-      "resumen": "Ari Rovira, de la sastrería queer Lancaster Studio, sostiene que la moda binaria deja afuera a mucha gente."
+    "8929039b5e53": {
+      "resumen": "Nota de revisión sobre cómo secuenciar los inhibidores de tirosina quinasa (TKI) dirigidos a inserciones en el exón 20 de EGFR/HER2 y los mecanismos de resistencia que aparecen tras su uso. Útil para entender el panorama terapéutico actual en cáncer de pulmón con estas mutaciones poco frecuentes.",
+      "destacado": false
     },
-    "d37ff6de9df4": {
-      "resumen": "Todo sobre el estreno de la tercera temporada de Maxton Hall: fecha, qué va a pasar y quiénes son sus personajes."
+    "14d96703f835": {
+      "resumen": "Un ensayo clínico evaluó agregar quemliclustat, un inhibidor de CD73, a la combinación de gemcitabina más nab-paclitaxel en cáncer de páncreas metastásico, y no logró mejorar la supervivencia global. Relevante porque es un resultado negativo en una vía (adenosina/CD73) que generaba expectativas en un tumor de mal pronóstico.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado que compara el esquema experimental contra el estándar de tratamiento.\nPoblación: Pacientes con adenocarcinoma de páncreas metastásico en primera línea de tratamiento sistémico.\nIntervención: Quemliclustat (inhibidor de CD73) más gemcitabina y nab-paclitaxel versus gemcitabina/nab-paclitaxel solo.\nResultados: El título indica que no mejoró la supervivencia global (OS); no se dispone de mediana de supervivencia, razón de riesgo (HR) ni valor de p.\nLimitaciones: Resultado negativo del punto final primario limita las conclusiones por subgrupos; sin el artículo no se puede evaluar toxicidad ni calidad de vida.\nMensaje: El fracaso de este ensayo sugiere que bloquear CD73 en este esquema no aporta beneficio adicional en cáncer de páncreas metastásico, por lo que no cambia el estándar de tratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "fec931e97c07": {
-      "resumen": "Jennifer Lopez se jugó por un look sin pantalones, con medias y tacos color grosella."
+    "cb95e4e5d7a9": {
+      "resumen": "Un repaso por la colección Pre-Fall 2027 de la marca danesa Stine Goya, presentada en Vogue."
+    },
+    "dd34e913e109": {
+      "resumen": "Vogue México anuncia la edición navideña de Espacio Vogue + Casa AD, en el Casa Club, del 26 al 29 de noviembre."
+    },
+    "2f75d3bc8829": {
+      "resumen": "Katie Holmes combina los mocasines, tendencia del otoño-invierno 2026, con pantalones de terciopelo."
+    },
+    "3806a949ceb2": {
+      "resumen": "La marca española Lola Casademunt cumple 45 años vistiendo a mujeres que sueñan en grande, según Vogue México."
+    },
+    "8f71c74ea7e7": {
+      "resumen": "Los calcetines de rombos, vistos primero en Londres, se instalan en España como tendencia del invierno 2026-2027."
+    },
+    "380b9140ad8b": {
+      "resumen": "Un desfile exhibe las últimas tendencias de la moda española, según ABC Color."
+    },
+    "4c59969b277e": {
+      "resumen": "ELLE repasa las novedades, tendencias y lanzamientos de moda de cara a la temporada prenavideña."
+    },
+    "84eb8a8ce488": {
+      "resumen": "Un restaurante argentino es reconocido entre los mejores del mundo gracias a su clásico asado criollo."
+    },
+    "5c7b1387b604": {
+      "resumen": "Un repaso de cuánto cuesta comer en los restaurantes porteños de los chefs más reconocidos."
+    },
+    "dfdec5ff578f": {
+      "resumen": "Villa Carlos Paz presentó en Buenos Aires su cartelera teatral para el verano 2026/2027."
+    },
+    "d48b99cd16c7": {
+      "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
     }
   }
 }
