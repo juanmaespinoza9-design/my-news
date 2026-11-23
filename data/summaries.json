@@ -1,17 +1,34 @@
 {
-  "generated_at": "2026-11-22T22:10:56Z",
+  "generated_at": "2026-11-23T00:00:00Z",
   "summaries": {
+    "cc74d9cb2cc0": {
+      "resumen": "Comentario en video de OncLive sobre los datos de supervivencia del estudio HARMONi y la decisión de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) respecto de ivonescimab, un anticuerpo biespecífico anti-VEGF/PD-1, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR ya tratado previamente. Relevante por el debate regulatorio y clínico alrededor de esta nueva clase de fármacos.",
+      "destacado": false
+    },
+    "256dd58c6486": {
+      "resumen": "Nota de OncLive sobre las pruebas de detección del virus del papiloma humano (VPH) mediante la proteína p16 y los ensayos confirmatorios complementarios. Repasa las herramientas diagnósticas para confirmar la presencia de VPH, clave en tumores como el de cuello uterino y los de cabeza y cuello asociados a este virus.",
+      "destacado": false
+    },
+    "20acb3458cf2": {
+      "resumen": "Artículo de The ASCO Post que pone en foco el cáncer de mama en varones, una enfermedad poco visibilizada pero real. Importa por la necesidad de generar conciencia sobre un diagnóstico que suele llegar tarde justamente por no pensarse en hombres.",
+      "destacado": false
+    },
+    "b37fc024f72c": {
+      "resumen": "Nota de OncLive sobre la biología de los carcinomas escamosos, los nuevos blancos terapéuticos en estudio y los conjugados anticuerpo-fármaco dirigidos a TROP2 (Trophoblast cell-surface antigen 2). Interesa porque estos fármacos ya cambiaron el manejo de varios tumores escamosos y siguen expandiéndose a nuevas indicaciones.",
+      "destacado": false
+    },
     "1ee2c55e4885": {
       "resumen": "Nota de The ASCO Post sobre cómo profundizar en la biología del ADN tumoral circulante (ctDNA, circulating tumor DNA) podría mejorar la precisión de la biopsia líquida para el monitoreo del cáncer. Relevante porque la biopsia líquida se está volviendo una herramienta cada vez más usada para el seguimiento de la respuesta y la recaída.",
       "destacado": false
     },
-    "a8da1efe1816": {
-      "resumen": "Artículo de The ASCO Post que explora si la inteligencia artificial (IA) podría mejorar el acceso al diagnóstico de leucemia infantil en entornos con recursos limitados. Interesa por su potencial impacto en la equidad diagnóstica en contextos de bajos recursos, algo relevante para la oncología global.",
+    "91013eb0b78a": {
+      "resumen": "Artículo de The ASCO Post sobre la expansión del impacto clínico de las pruebas moleculares en cánceres pediátricos y de adolescentes y adultos jóvenes (AYA, adolescent and young adult). Importa porque el perfil molecular cada vez define más las decisiones de tratamiento en estas poblaciones, históricamente menos estudiadas que los adultos.",
       "destacado": false
     },
     "858150ab3e1d": {
       "resumen": "Comentario publicado en Journal of Clinical Oncology sobre el momento más conveniente para administrar alectinib (un inhibidor de la proteína ALK) en cáncer de pulmón de células no pequeñas (CPCNP) resecable con reordenamiento de ALK positivo, a partir de lo observado en el ensayo ALNEO. Aporta a la discusión de si el tratamiento dirigido conviene antes o después de la cirugía.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Pieza de discusión/perspectiva en Journal of Clinical Oncology que reflexiona sobre el ensayo ALNEO (fase de investigación sobre el momento de administración de un inhibidor de ALK en enfermedad resecable); sin el abstract no se puede confirmar si incluye datos propios o es un comentario sobre resultados ya publicados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (CPCNP) resecable y reordenamiento del gen ALK positivo.\nIntervención: Alectinib (inhibidor de ALK) administrado en forma neoadyuvante (antes de la cirugía) versus adyuvante (después de la cirugía), según se discute en el ensayo ALNEO.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de la muestra, el diseño exacto ni la solidez estadística de las conclusiones sobre el momento óptimo de tratamiento.\nMensaje: Alimenta el debate sobre si el tratamiento dirigido anti-ALK conviene secuenciarlo antes o después de la cirugía en enfermedad resecable, una decisión con impacto directo en el manejo quirúrgico y oncológico conjunto.\nNota: análisis sin acceso al abstract."
     },
     "9984c362909c": {
       "resumen": "Estudio de Journal of Clinical Oncology sobre el alcance real de las leyes estaduales de Estados Unidos que obligan a los seguros de salud a cubrir la preservación de la fertilidad en pacientes con cáncer. Importa porque evalúa si esas normativas se traducen en acceso efectivo para los pacientes jóvenes que reciben tratamientos gonadotóxicos.",
@@ -26,21 +43,6 @@
     "438558751652": {
       "resumen": "Editorial de Journal of Clinical Oncology que acompaña al ensayo REFUEL y plantea la necesidad de abordar la fatiga en sobrevivientes de cáncer con estrategias multidisciplinarias, en vez de intervenciones dirigidas a una sola causa. Funciona como marco de discusión para diseñar futuras intervenciones contra la fatiga oncológica.",
       "destacado": false
-    },
-    "7bdd90c0e146": {
-      "resumen": "Resumen semanal de OncLive con los artículos de oncología más destacados de la semana del 15 de noviembre. Sirve como panorama rápido de lo que se está discutiendo en distintas áreas de la especialidad, sin profundizar en un solo tema.",
-      "destacado": false
-    },
-    "40f8627580ea": {
-      "resumen": "Comentario en video de OncLive donde un especialista repasa las consideraciones para investigar SAR445877, una molécula en desarrollo, en cáncer colorrectal con estabilidad de microsatélites (MSS, microsatellite-stable), un subgrupo históricamente poco sensible a la inmunoterapia. Interesa por el intento de abrir nuevas estrategias en ese subgrupo difícil de tratar.",
-      "destacado": false
-    },
-    "cc74d9cb2cc0": {
-      "resumen": "Comentario en video de OncLive sobre los datos de supervivencia del estudio HARMONi y la decisión de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) respecto de ivonescimab, un anticuerpo biespecífico anti-VEGF/PD-1, en cáncer de pulmón de células no pequeñas (CPCNP) con mutación de EGFR ya tratado previamente. Relevante por el debate regulatorio y clínico alrededor de esta nueva clase de fármacos.",
-      "destacado": false
-    },
-    "6b59f7dcb023": {
-      "resumen": "Vuelve la Noche de las Arepas a la Ciudad de Buenos Aires, con una guía de los locales que se suman a la propuesta."
     },
     "d268b6367c91": {
       "resumen": "Cinco planes gratuitos para aprovechar el fin de semana largo en la Ciudad de Buenos Aires, del 21 al 24 de noviembre."
@@ -60,39 +62,32 @@
     "0faace51b853": {
       "resumen": "Una propuesta gratuita en Buenos Aires combina obras de arte, diseño y DJ en vivo para disfrutar el fin de semana en la ciudad."
     },
-    "6375d2a7ef23": {
-      "resumen": "Julio Bocca sorprendió al anunciar su renuncia a la dirección artística del Ballet Estable del Teatro Colón."
+    "802ef9c5e848": {
+      "resumen": "En 1933 Federico García Lorca llegó a Buenos Aires y empezó a publicar sus obras; doce años después, su pieza Bernarda Alba debutó en el teatro porteño y consolidó su legado en la ciudad."
     },
-    "5800eb12b1b7": {
-      "resumen": "Una selección de restaurantes porteños para disfrutar en cualquier horario, de la mañana a la noche."
-    },
-    "b8cb7e4e9cf6": {
-      "resumen": "Cobertura de The ASCO Post del congreso anual de la Association for Molecular Pathology (AMP, Asociación de Patología Molecular), el encuentro de referencia en diagnóstico molecular aplicado al cáncer. Vale la pena mirarlo porque suele adelantar paneles de biomarcadores, secuenciación y nuevas pruebas moleculares que después bajan a la práctica oncológica.",
-      "destacado": false
-    },
-    "37bedeb9907d": {
-      "resumen": "Los mocasines estilo derby se consolidan como el calzado elegante de la temporada y combinan de diez con jeans rectos."
-    },
-    "df93173ad95c": {
-      "resumen": "Los leggings volvieron a la escena de Otoño-Invierno 2026 y la nota repasa con qué zapatos combinarlos para que el look funcione."
-    },
-    "2a46309cf156": {
-      "resumen": "Los pantalones acampanados de estética hippie, herencia de los años 60, vuelven esta temporada combinados con botas."
-    },
-    "2bbfde997b3f": {
-      "resumen": "Un repaso de los looks más elegantes que lucieron las invitadas a bodas de noviembre, con las tendencias que marcaron la temporada."
-    },
-    "428b50be51b2": {
-      "resumen": "Guía de las tendencias de decoración navideña para vestir la casa esta temporada."
-    },
-    "111de2a7ec40": {
-      "resumen": "La campera statement, esa prenda que se vuelve protagonista del look, es furor esta temporada."
-    },
-    "4f551145c9b2": {
-      "resumen": "Charlize Theron lució un sweater rojo de punto, la prenda infalible para 'buena cara' en invierno, y la nota rastrea versiones similares en Zara y Mango."
-    },
-    "9b1a06917d19": {
+    "c5c420858984": {
       "resumen": "Una guía de planes gratuitos y festivales para disfrutar en Buenos Aires durante el fin de semana largo."
+    },
+    "9e2618dc6951": {
+      "resumen": "Una selección de planes gratuitos para hacer en la Ciudad de Buenos Aires durante el fin de semana largo."
+    },
+    "62332ef0a510": {
+      "resumen": "Cada otoño la moda vuelve a inspirarse en la estética de la campiña inglesa, el estilo (y la vida) asociado a la aristocracia británica."
+    },
+    "ecf35b08b2f7": {
+      "resumen": "Las guirnaldas de luces de balcón quedaron atrás: para 2026 se impone una iluminación más cálida y relajada."
+    },
+    "586a5c9521bf": {
+      "resumen": "Más allá de la moda, la estética de 'Los Juegos del Hambre' esconde referencias directas al diseñador Alexander McQueen."
+    },
+    "a997f2998f4a": {
+      "resumen": "Ari Rovira, de la sastrería queer Lancaster Studio, sostiene que la moda binaria deja afuera a mucha gente."
+    },
+    "d37ff6de9df4": {
+      "resumen": "Todo sobre el estreno de la tercera temporada de Maxton Hall: fecha, qué va a pasar y quiénes son sus personajes."
+    },
+    "fec931e97c07": {
+      "resumen": "Jennifer Lopez se jugó por un look sin pantalones, con medias y tacos color grosella."
     }
   }
 }
