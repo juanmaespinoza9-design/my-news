@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:12:30Z",
+  "generated_at": "2026-11-24T10:10:46Z",
   "summaries": {
     "858150ab3e1d": {
       "resumen": "Comentario publicado en Journal of Clinical Oncology sobre el momento más conveniente para administrar alectinib (un inhibidor de la proteína ALK) en cáncer de pulmón de células no pequeñas (CPCNP) resecable con reordenamiento de ALK positivo, a partir de lo observado en el ensayo ALNEO. Aporta a la discusión de si el tratamiento dirigido conviene antes o después de la cirugía.",
@@ -16,10 +16,6 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado y controlado (RCT, randomized controlled trial); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad de centros ni el tamaño de la muestra.\nPoblación: Sobrevivientes de linfoma con fatiga persistente luego de finalizado el tratamiento oncológico.\nIntervención: Intervención multidisciplinaria dirigida a la fatiga (probablemente combinando ejercicio, abordaje psicológico y/o educación) frente a un grupo control o manejo habitual; el esquema exacto no está disponible sin el abstract.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del efecto, la adherencia a la intervención ni la duración del seguimiento.\nMensaje: Si los resultados son positivos, respaldaría incorporar de forma sistemática programas multidisciplinarios contra la fatiga en el seguimiento de sobrevivientes de linfoma, un área históricamente desatendida.\nNota: análisis sin acceso al abstract."
     },
-    "438558751652": {
-      "resumen": "Editorial de Journal of Clinical Oncology que acompaña al ensayo REFUEL y plantea la necesidad de abordar la fatiga en sobrevivientes de cáncer con estrategias multidisciplinarias, en vez de intervenciones dirigidas a una sola causa. Funciona como marco de discusión para diseñar futuras intervenciones contra la fatiga oncológica.",
-      "destacado": false
-    },
     "d268b6367c91": {
       "resumen": "Cinco planes gratuitos para aprovechar el fin de semana largo en la Ciudad de Buenos Aires, del 21 al 24 de noviembre."
     },
@@ -29,14 +25,8 @@
     "e1a2437eaa00": {
       "resumen": "El actor y comediante Pablito Castillo presenta su obra en Buenos Aires y apunta a seguir su carrera también en series y películas."
     },
-    "db12b5f18143": {
-      "resumen": "El bailarín y director Julio Bocca renunció a la dirección del Ballet Estable del Teatro Colón; se analiza quién podría sucederlo."
-    },
     "802ef9c5e848": {
       "resumen": "En 1933 Federico García Lorca llegó a Buenos Aires y empezó a publicar sus obras; doce años después, su pieza Bernarda Alba debutó en el teatro porteño y consolidó su legado en la ciudad."
-    },
-    "c5c420858984": {
-      "resumen": "Una guía de planes gratuitos y festivales para disfrutar en Buenos Aires durante el fin de semana largo."
     },
     "bc781d0f36a8": {
       "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó giredestrant, un degradador selectivo del receptor de estrógeno (SERD) oral, como monoterapia adyuvante para cáncer de mama en estadio temprano con receptores hormonales positivos y HER2 negativo (HER2-). Importa porque suma una opción oral a la terapia endocrina adyuvante estándar (tamoxifeno o inhibidores de aromatasa).",
@@ -53,40 +43,14 @@
       "destacado": false,
       "analisis": "Diseño: Probable estudio de cohorte (posiblemente retrospectivo y multicéntrico) orientado a validar o refinar un índice pronóstico.\nPoblación: Pacientes con carcinoma de células renales (CCR) con metástasis cerebrales.\nIntervención: No hay un tratamiento experimental único; se analizan factores pronósticos junto con el manejo multimodal habitual (terapia sistémica, radioterapia, cirugía).\nResultados: El título menciona mejora en la supervivencia y un índice pronóstico refinado, pero no brinda cifras de supervivencia global ni intervalos de confianza.\nLimitaciones: Posible diseño retrospectivo (riesgo de sesgo de selección) y heterogeneidad de tratamientos entre pacientes.\nMensaje: Un índice pronóstico más preciso podría mejorar la selección terapéutica en CCR con metástasis cerebrales, aunque se necesita el artículo completo para cuantificar el beneficio.\nNota: análisis sin acceso al abstract."
     },
-    "bebee929483d": {
-      "resumen": "La FDA aprobó giredestrant, un degradador selectivo del receptor de estrógeno (SERD) oral, para cáncer de mama en estadios I a III con receptores hormonales positivos (ER+) y HER2 negativo (HER2-). Es la misma aprobación regulatoria reportada por otro medio especializado, relevante por ampliar las alternativas de terapia endocrina adyuvante.",
-      "destacado": false,
-      "analisis": "Diseño: Aprobación regulatoria basada en un ensayo clínico de fase III, aleatorizado y multicéntrico en contexto adyuvante.\nPoblación: Pacientes con cáncer de mama en estadios I-III, receptor hormonal positivo (ER+) y HER2 negativo (HER2-).\nIntervención: Giredestrant en monoterapia versus terapia endocrina adyuvante estándar.\nResultados: No se dispone de las cifras del ensayo pivotal en esta nota.\nLimitaciones: Información basada en el comunicado de aprobación, sin detalle del seguimiento a largo plazo.\nMensaje: Confirma, desde otro medio, la nueva alternativa oral de terapia endocrina adyuvante para este subgrupo de pacientes.\nNota: análisis sin acceso al abstract."
-    },
-    "8929039b5e53": {
-      "resumen": "Nota de revisión sobre cómo secuenciar los inhibidores de tirosina quinasa (TKI) dirigidos a inserciones en el exón 20 de EGFR/HER2 y los mecanismos de resistencia que aparecen tras su uso. Útil para entender el panorama terapéutico actual en cáncer de pulmón con estas mutaciones poco frecuentes.",
-      "destacado": false
-    },
-    "14d96703f835": {
-      "resumen": "Un ensayo clínico evaluó agregar quemliclustat, un inhibidor de CD73, a la combinación de gemcitabina más nab-paclitaxel en cáncer de páncreas metastásico, y no logró mejorar la supervivencia global. Relevante porque es un resultado negativo en una vía (adenosina/CD73) que generaba expectativas en un tumor de mal pronóstico.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado que compara el esquema experimental contra el estándar de tratamiento.\nPoblación: Pacientes con adenocarcinoma de páncreas metastásico en primera línea de tratamiento sistémico.\nIntervención: Quemliclustat (inhibidor de CD73) más gemcitabina y nab-paclitaxel versus gemcitabina/nab-paclitaxel solo.\nResultados: El título indica que no mejoró la supervivencia global (OS); no se dispone de mediana de supervivencia, razón de riesgo (HR) ni valor de p.\nLimitaciones: Resultado negativo del punto final primario limita las conclusiones por subgrupos; sin el artículo no se puede evaluar toxicidad ni calidad de vida.\nMensaje: El fracaso de este ensayo sugiere que bloquear CD73 en este esquema no aporta beneficio adicional en cáncer de páncreas metastásico, por lo que no cambia el estándar de tratamiento.\nNota: análisis sin acceso al abstract."
-    },
     "cb95e4e5d7a9": {
       "resumen": "Un repaso por la colección Pre-Fall 2027 de la marca danesa Stine Goya, presentada en Vogue."
-    },
-    "dd34e913e109": {
-      "resumen": "Vogue México anuncia la edición navideña de Espacio Vogue + Casa AD, en el Casa Club, del 26 al 29 de noviembre."
-    },
-    "2f75d3bc8829": {
-      "resumen": "Katie Holmes combina los mocasines, tendencia del otoño-invierno 2026, con pantalones de terciopelo."
-    },
-    "3806a949ceb2": {
-      "resumen": "La marca española Lola Casademunt cumple 45 años vistiendo a mujeres que sueñan en grande, según Vogue México."
     },
     "8f71c74ea7e7": {
       "resumen": "Los calcetines de rombos, vistos primero en Londres, se instalan en España como tendencia del invierno 2026-2027."
     },
     "380b9140ad8b": {
       "resumen": "Un desfile exhibe las últimas tendencias de la moda española, según ABC Color."
-    },
-    "4c59969b277e": {
-      "resumen": "ELLE repasa las novedades, tendencias y lanzamientos de moda de cara a la temporada prenavideña."
     },
     "84eb8a8ce488": {
       "resumen": "Un restaurante argentino es reconocido entre los mejores del mundo gracias a su clásico asado criollo."
@@ -99,6 +63,41 @@
     },
     "d48b99cd16c7": {
       "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
+    },
+    "22695d7fdb6e": {
+      "resumen": "Artículo de OncLive sobre las decisiones de primera línea en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación de EGFR (receptor del factor de crecimiento epidérmico), repasando las novedades presentadas en el congreso WCLC 2026 y el panorama cambiante de las inserciones en el exón 20. Interesa porque resume el estado actual de un subgrupo molecular con tratamientos en plena evolución.",
+      "destacado": false
+    },
+    "55e30b3490a6": {
+      "resumen": "Comentario de OncLive que compara dos estrategias de mantenimiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer): los esquemas evaluados en los ensayos IMforte y DeLLphi-305. Sirve para entender cómo los oncólogos están eligiendo entre dos abordajes ya publicados.",
+      "destacado": false
+    },
+    "1b9ffcf13cb6": {
+      "resumen": "Enlace a la página principal del portal OncLive de noticias de oncología clínica, sin un artículo específico asociado. No aporta contenido propio para resumir.",
+      "destacado": false
+    },
+    "7b2ead08492f": {
+      "resumen": "Ensayo clínico aleatorizado de fase II (NRG-LU002) publicado en Journal of Clinical Oncology que compara terapia sistémica de mantenimiento sola frente a terapia local consolidativa (radioterapia o cirugía sobre los sitios de enfermedad) más terapia sistémica de mantenimiento en cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (oligometastásico). Relevante porque define si tratar agresivamente los sitios de metástasis además del tratamiento sistémico mejora los resultados en esta población.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de fase II (NRG-LU002); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad exacta de centros ni el número de pacientes aleatorizados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (enfermedad oligometastásica) que respondieron a terapia sistémica inicial.\nIntervención: Terapia sistémica de mantenimiento sola versus terapia local consolidativa (radioterapia y/o cirugía dirigida a los sitios de metástasis) sumada a terapia sistémica de mantenimiento.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio en supervivencia libre de progresión o supervivencia global, la toxicidad de agregar terapia local, ni la duración del seguimiento.\nMensaje: Si confirma beneficio, respaldaría sumar terapia local consolidativa de forma sistemática en NSCLC oligometastásico que responde a tratamiento sistémico, un enfoque cada vez más explorado en tumores sólidos con enfermedad limitada.\nNota: análisis sin acceso al abstract."
+    },
+    "76bd42c0d0eb": {
+      "resumen": "El diseñador Carlos De Moya propone una moda que prioriza la emoción por sobre la búsqueda de seguir tendencias de temporada."
+    },
+    "9bd4b6d9568c": {
+      "resumen": "Vogue México recomienda las faldas midi de estilo grunge de Zara para combinar con botas durante el otoño-invierno 2026."
+    },
+    "36b9e69bb589": {
+      "resumen": "Vogue México repasa los vestidos midi de fiesta más elegantes para combinar con zapatos de tacón en noviembre de 2026."
+    },
+    "e21da1f2353d": {
+      "resumen": "Jennifer Lopez muestra cómo combinar un vestido midi negro con zapatos de tacón tipo slingback para el otoño."
+    },
+    "fd520dd32082": {
+      "resumen": "El Grupo Arlequino vuelve al HacheUno Teatro con la comedia \"El lobizón\"."
+    },
+    "fddef82fc325": {
+      "resumen": "Casa Vigil, el restaurante mendocino, quedó entre los 100 mejores de América Latina según el ranking que difunde su posición."
     }
   }
 }
