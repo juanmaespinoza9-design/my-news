@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:10:46Z",
+  "generated_at": "2026-11-24T22:10:50Z",
   "summaries": {
     "858150ab3e1d": {
       "resumen": "Comentario publicado en Journal of Clinical Oncology sobre el momento más conveniente para administrar alectinib (un inhibidor de la proteína ALK) en cáncer de pulmón de células no pequeñas (CPCNP) resecable con reordenamiento de ALK positivo, a partir de lo observado en el ensayo ALNEO. Aporta a la discusión de si el tratamiento dirigido conviene antes o después de la cirugía.",
@@ -16,88 +16,100 @@
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado y controlado (RCT, randomized controlled trial); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad de centros ni el tamaño de la muestra.\nPoblación: Sobrevivientes de linfoma con fatiga persistente luego de finalizado el tratamiento oncológico.\nIntervención: Intervención multidisciplinaria dirigida a la fatiga (probablemente combinando ejercicio, abordaje psicológico y/o educación) frente a un grupo control o manejo habitual; el esquema exacto no está disponible sin el abstract.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del efecto, la adherencia a la intervención ni la duración del seguimiento.\nMensaje: Si los resultados son positivos, respaldaría incorporar de forma sistemática programas multidisciplinarios contra la fatiga en el seguimiento de sobrevivientes de linfoma, un área históricamente desatendida.\nNota: análisis sin acceso al abstract."
     },
+    "7b2ead08492f": {
+      "resumen": "Ensayo clínico aleatorizado de fase II (NRG-LU002) publicado en Journal of Clinical Oncology que compara terapia sistémica de mantenimiento sola frente a terapia local consolidativa (radioterapia o cirugía sobre los sitios de enfermedad) más terapia sistémica de mantenimiento en cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (oligometastásico). Relevante porque define si tratar agresivamente los sitios de metástasis además del tratamiento sistémico mejora los resultados en esta población.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de fase II (NRG-LU002); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad exacta de centros ni el número de pacientes aleatorizados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (enfermedad oligometastásica) que respondieron a terapia sistémica inicial.\nIntervención: Terapia sistémica de mantenimiento sola versus terapia local consolidativa (radioterapia y/o cirugía dirigida a los sitios de metástasis) sumada a terapia sistémica de mantenimiento.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio en supervivencia libre de progresión o supervivencia global, la toxicidad de agregar terapia local, ni la duración del seguimiento.\nMensaje: Si confirma beneficio, respaldaría sumar terapia local consolidativa de forma sistemática en NSCLC oligometastásico que responde a tratamiento sistémico, un enfoque cada vez más explorado en tumores sólidos con enfermedad limitada.\nNota: análisis sin acceso al abstract."
+    },
+    "a1f31950900a": {
+      "resumen": "Entrevista publicada en OncLive donde la Dra. Iyengar repasa los avances en el testeo de enfermedad residual mínima (MRD, minimal residual disease) y los puntos a considerar para su uso en la práctica clínica en cáncer de mama. Importa porque la MRD, detectada mediante ADN tumoral circulante, está cada vez más cerca de guiar decisiones de tratamiento adyuvante.",
+      "destacado": false
+    },
+    "911d808573b2": {
+      "resumen": "Según The ASCO Post, un estudio muestra que la quimioinmunoterapia perioperatoria (administrada antes y después de la cirugía) superó al abordaje tradicional basado primero en la cirugía en cáncer de cabeza y cuello. Relevante porque podría cambiar la secuencia estándar de tratamiento en tumores localmente avanzados de esta localización.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de The ASCO Post sobre un estudio que compara un esquema perioperatorio de quimioinmunoterapia (quimioterapia más inmunoterapia antes y después de la cirugía) contra el tratamiento estándar basado en cirugía primero; sin el abstract no se puede precisar si es un ensayo aleatorizado de fase II o III, el cegamiento ni la cantidad de centros o pacientes.\nPoblación: Pacientes con cáncer de cabeza y cuello localmente avanzado, candidatos a cirugía.\nIntervención: Quimioinmunoterapia perioperatoria (neoadyuvante y adyuvante) versus tratamiento basado en cirugía como primera medida (con o sin terapia adyuvante estándar).\nResultados: El título indica superioridad del esquema perioperatorio, pero no hay cifras de supervivencia libre de eventos, supervivencia global ni valores de p disponibles.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño muestral, la magnitud real del beneficio ni el perfil de toxicidad perioperatoria.\nMensaje: Si se confirma, respaldaría adelantar la inmunoterapia al período perioperatorio en cáncer de cabeza y cuello localmente avanzado, en línea con la tendencia ya vista en otros tumores sólidos.\nNota: análisis sin acceso al abstract."
+    },
+    "872c7b75d28f": {
+      "resumen": "The ASCO Post reporta un análisis que vincula la enterocolitis asociada a células efectoras inmunes (IEC, immune effector cell-associated enterocolitis) con la persistencia prolongada de las células CAR-T en pacientes con mieloma múltiple. Importa porque ayuda a entender un efecto adverso digestivo poco caracterizado de esta terapia celular.",
+      "destacado": false,
+      "analisis": "Diseño: Probable estudio correlativo o de cohorte sobre pacientes tratados con terapia CAR-T (células T con receptor quimérico de antígeno) que analiza la asociación entre persistencia celular y toxicidad digestiva; sin el abstract no se puede precisar si es retrospectivo o prospectivo, ni el número de pacientes.\nPoblación: Pacientes con mieloma múltiple tratados con terapia CAR-T que desarrollaron enterocolitis asociada a células efectoras inmunes.\nIntervención: No hay comparador farmacológico; se analiza la relación entre la persistencia de las células CAR-T en sangre y la aparición o gravedad de la enterocolitis.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Posible tamaño de muestra chico, dado que es una toxicidad poco frecuente, y diseño observacional que no permite establecer causalidad.\nMensaje: Identificar este vínculo podría ayudar a anticipar y manejar mejor una toxicidad digestiva infrecuente pero relevante de la terapia CAR-T en mieloma múltiple.\nNota: análisis sin acceso al abstract."
+    },
+    "324134f388b5": {
+      "resumen": "Artículo de OncLive que repasa los vacíos de evidencia y los puntos clave en la enfermedad con reparación de errores de apareamiento competente (pMMR, mismatch repair proficient), un subgrupo tumoral con peor respuesta a la inmunoterapia. Sirve para ordenar qué preguntas siguen abiertas en el manejo de estos tumores.",
+      "destacado": false
+    },
+    "15fb942a1033": {
+      "resumen": "OncLive presenta un análisis de biomarcadores del ensayo LEAP-001, que estudió la combinación de lenvatinib más pembrolizumab, con foco en la biología de los tumores con reparación de errores de apareamiento competente (pMMR). Interesa porque busca identificar qué pacientes pMMR podrían beneficiarse igual con esta combinación.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de biomarcadores (subestudio correlativo) del ensayo LEAP-001, un ensayo clínico de fase III que evaluó lenvatinib más pembrolizumab; sin el abstract no se puede precisar la metodología exacta del subanálisis ni el número de muestras evaluadas.\nPoblación: Pacientes con tumores con reparación de errores de apareamiento competente (pMMR), incluidos en el ensayo original LEAP-001.\nIntervención: Lenvatinib (inhibidor multiquinasa) más pembrolizumab (inhibidor de PD-1), analizado según biomarcadores moleculares de la biología pMMR.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Los subanálisis de biomarcadores suelen tener tamaño muestral reducido y carácter exploratorio, lo que limita la fuerza de las conclusiones.\nMensaje: Podría ayudar a afinar la selección de pacientes pMMR que realmente se benefician de combinar un antiangiogénico con inmunoterapia, un escenario donde la inmunoterapia sola rinde poco.\nNota: análisis sin acceso al abstract."
+    },
+    "3d314f704324": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó la combinación de bezuclastinib (inhibidor de KIT) y sunitinib (inhibidor multiquinasa) para el tumor del estroma gastrointestinal (GIST, gastrointestinal stromal tumor) avanzado. Importa porque suma una nueva opción dirigida para pacientes que progresan a los tratamientos previos.",
+      "destacado": false,
+      "analisis": "Diseño: Aprobación regulatoria de la FDA basada en un ensayo clínico del programa de desarrollo de bezuclastinib en combinación con sunitinib; sin el abstract no se puede precisar fase, cegamiento ni número de pacientes.\nPoblación: Pacientes con tumor del estroma gastrointestinal (GIST) avanzado, en progresión tras tratamiento previo con inhibidores de tirosina quinasa.\nIntervención: Bezuclastinib (inhibidor selectivo de KIT) combinado con sunitinib (inhibidor multiquinasa), frente al comparador usado en el ensayo pivotal (probablemente sunitinib solo).\nResultados: La nota de aprobación no incluye las cifras de supervivencia libre de progresión ni la razón de riesgo del ensayo pivotal.\nLimitaciones: Información basada en el comunicado de aprobación, sin detalle del perfil de toxicidad combinada ni del seguimiento a largo plazo.\nMensaje: Bezuclastinib más sunitinib se suma como alternativa dirigida en GIST avanzado, ampliando las opciones tras la progresión a inhibidores de tirosina quinasa previos.\nNota: análisis sin acceso al abstract."
+    },
+    "56a45a3c3503": {
+      "resumen": "Carta de respuesta publicada en The New England Journal of Medicine sobre el esquema de enfortumab vedotin (anticuerpo conjugado a droga) más pembrolizumab (inhibidor de PD-1) en pacientes con cáncer de vejiga elegibles para cisplatino. Forma parte del intercambio de correspondencia científica en torno al ensayo original de ese esquema combinado.",
+      "destacado": false
+    },
+    "2073ec2fa8d1": {
+      "resumen": "Carta publicada en The New England Journal of Medicine que comenta el esquema de enfortumab vedotin más pembrolizumab en cáncer de vejiga elegible para cisplatino, a la que responde la réplica de los autores originales. Es parte del debate científico sobre los resultados de ese tratamiento combinado.",
+      "destacado": false
+    },
+    "cb95e4e5d7a9": {
+      "resumen": "Vogue presenta un adelanto de la colección Pre-Fall 2027 de la marca danesa Stine Goya."
+    },
+    "a0f19eef4766": {
+      "resumen": "Vogue México muestra cómo combinar zapatos puntiagudos con pantalones grises y faldas negras después de los 50, con el estilo de Gwyneth Paltrow como referencia."
+    },
+    "2c48b3cf7753": {
+      "resumen": "Vogue México repasa las claves para elegir un perfume femenino."
+    },
+    "8e8e8578e401": {
+      "resumen": "Vogue México recomienda el vestido tubo gris como la prenda versátil para ir del día a la noche en esta temporada de fiestas."
+    },
+    "0b4b2a2cd8b2": {
+      "resumen": "La experta en cejas Mónica Aránguez explica, en ELLE, cómo lucirlas perfectas después de los 50."
+    },
+    "c97e0bb1b2f7": {
+      "resumen": "Los estampados de bandana se instalan como tendencia tanto en la moda como en la decoración de interiores."
+    },
+    "9a7550b29d1a": {
+      "resumen": "El rojo navideño para las uñas quedó atrás: Canal26 repasa los colores que se imponen como tendencia en 2026."
+    },
+    "130ed5b629d2": {
+      "resumen": "Un teatro de San Telmo que abrió en 1927, por donde pasaron Joan Manuel Serrat y Federico García Lorca, cumple casi un siglo de historia."
+    },
+    "8f95c1ce06c5": {
+      "resumen": "Siete restaurantes argentinos ingresaron a la lista extendida de los 50 mejores de América Latina."
+    },
+    "66ce7bf97913": {
+      "resumen": "Los Caballeros de la Quema agotaron entradas para su show en el Teatro Vorterix y agregaron una nueva fecha."
+    },
+    "f242df059191": {
+      "resumen": "El cantante alemán Till Lindemann, líder de Rammstein, se presenta en Argentina."
+    },
+    "6412e8ecab14": {
+      "resumen": "Sandra Mihanovich se presenta en el Teatro Devoto."
+    },
+    "fddef82fc325": {
+      "resumen": "Casa Vigil, el restaurante mendocino, quedó entre los 100 mejores de América Latina según el ranking que difunde su posición."
+    },
+    "84eb8a8ce488": {
+      "resumen": "Un restaurante argentino es reconocido entre los mejores del mundo gracias a su clásico asado criollo."
+    },
     "d268b6367c91": {
       "resumen": "Cinco planes gratuitos para aprovechar el fin de semana largo en la Ciudad de Buenos Aires, del 21 al 24 de noviembre."
     },
     "048b8f590117": {
       "resumen": "Una agenda con más de 500 propuestas de música, recitales y espectáculos para el fin de semana largo en Buenos Aires."
     },
-    "e1a2437eaa00": {
-      "resumen": "El actor y comediante Pablito Castillo presenta su obra en Buenos Aires y apunta a seguir su carrera también en series y películas."
+    "9b1a06917d19": {
+      "resumen": "iProfesional repasa planes gratuitos y festivales para el fin de semana largo en Buenos Aires."
     },
-    "802ef9c5e848": {
-      "resumen": "En 1933 Federico García Lorca llegó a Buenos Aires y empezó a publicar sus obras; doce años después, su pieza Bernarda Alba debutó en el teatro porteño y consolidó su legado en la ciudad."
-    },
-    "bc781d0f36a8": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó giredestrant, un degradador selectivo del receptor de estrógeno (SERD) oral, como monoterapia adyuvante para cáncer de mama en estadio temprano con receptores hormonales positivos y HER2 negativo (HER2-). Importa porque suma una opción oral a la terapia endocrina adyuvante estándar (tamoxifeno o inhibidores de aromatasa).",
-      "destacado": false,
-      "analisis": "Diseño: Aprobación regulatoria basada en un ensayo clínico de fase III, aleatorizado y multicéntrico (programa de desarrollo de giredestrant en contexto adyuvante).\nPoblación: Pacientes con cáncer de mama en estadio temprano (I-III), receptor hormonal positivo y HER2 negativo, en el escenario adyuvante tras cirugía.\nIntervención: Giredestrant en monoterapia versus terapia endocrina adyuvante estándar (tamoxifeno o inhibidor de aromatasa).\nResultados: La nota de aprobación no incluye las cifras de supervivencia libre de enfermedad ni la razón de riesgo del ensayo pivotal.\nLimitaciones: Información basada en el comunicado de aprobación, sin detalle del seguimiento ni del perfil de toxicidad a largo plazo.\nMensaje: Giredestrant se suma como alternativa oral a la hormonoterapia adyuvante en este subgrupo, ampliando las opciones terapéuticas disponibles.\nNota: análisis sin acceso al abstract."
-    },
-    "65a9478bea5d": {
-      "resumen": "Un estudio evalúa si iniciar la suplementación nutricional de forma más temprana reduce la pérdida de peso asociada a la quimiorradioterapia en pacientes con carcinoma nasofaríngeo. Relevante porque el soporte nutricional oportuno podría mejorar la tolerancia al tratamiento y la calidad de vida.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio clínico comparativo sobre el momento de inicio del soporte nutricional; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con carcinoma nasofaríngeo tratados con quimiorradioterapia.\nIntervención: Inicio temprano versus tardío (estándar) de la suplementación nutricional durante el tratamiento.\nResultados: El título solo indica una posible reducción de la pérdida de peso; no hay cifras concretas disponibles.\nLimitaciones: Sin el artículo completo no puede evaluarse el tamaño muestral, el diseño exacto ni la significancia estadística.\nMensaje: Sugiere que anticipar el soporte nutricional podría atenuar la pérdida de peso durante la quimiorradioterapia, algo a confirmar con más detalle.\nNota: análisis sin acceso al abstract."
-    },
-    "c16801a591e5": {
-      "resumen": "Un estudio refina un índice pronóstico para pacientes con carcinoma de células renales y metástasis cerebrales, y reporta mejoras en la supervivencia. Importa porque ayuda a estratificar mejor a un grupo de pronóstico históricamente adverso.",
-      "destacado": false,
-      "analisis": "Diseño: Probable estudio de cohorte (posiblemente retrospectivo y multicéntrico) orientado a validar o refinar un índice pronóstico.\nPoblación: Pacientes con carcinoma de células renales (CCR) con metástasis cerebrales.\nIntervención: No hay un tratamiento experimental único; se analizan factores pronósticos junto con el manejo multimodal habitual (terapia sistémica, radioterapia, cirugía).\nResultados: El título menciona mejora en la supervivencia y un índice pronóstico refinado, pero no brinda cifras de supervivencia global ni intervalos de confianza.\nLimitaciones: Posible diseño retrospectivo (riesgo de sesgo de selección) y heterogeneidad de tratamientos entre pacientes.\nMensaje: Un índice pronóstico más preciso podría mejorar la selección terapéutica en CCR con metástasis cerebrales, aunque se necesita el artículo completo para cuantificar el beneficio.\nNota: análisis sin acceso al abstract."
-    },
-    "cb95e4e5d7a9": {
-      "resumen": "Un repaso por la colección Pre-Fall 2027 de la marca danesa Stine Goya, presentada en Vogue."
-    },
-    "8f71c74ea7e7": {
-      "resumen": "Los calcetines de rombos, vistos primero en Londres, se instalan en España como tendencia del invierno 2026-2027."
-    },
-    "380b9140ad8b": {
-      "resumen": "Un desfile exhibe las últimas tendencias de la moda española, según ABC Color."
-    },
-    "84eb8a8ce488": {
-      "resumen": "Un restaurante argentino es reconocido entre los mejores del mundo gracias a su clásico asado criollo."
-    },
-    "5c7b1387b604": {
-      "resumen": "Un repaso de cuánto cuesta comer en los restaurantes porteños de los chefs más reconocidos."
-    },
-    "dfdec5ff578f": {
-      "resumen": "Villa Carlos Paz presentó en Buenos Aires su cartelera teatral para el verano 2026/2027."
-    },
-    "d48b99cd16c7": {
-      "resumen": "Time Out propone una agenda de actividades para esta semana y el fin de semana en Buenos Aires."
-    },
-    "22695d7fdb6e": {
-      "resumen": "Artículo de OncLive sobre las decisiones de primera línea en cáncer de pulmón de células no pequeñas (NSCLC, non-small cell lung cancer) con mutación de EGFR (receptor del factor de crecimiento epidérmico), repasando las novedades presentadas en el congreso WCLC 2026 y el panorama cambiante de las inserciones en el exón 20. Interesa porque resume el estado actual de un subgrupo molecular con tratamientos en plena evolución.",
-      "destacado": false
-    },
-    "55e30b3490a6": {
-      "resumen": "Comentario de OncLive que compara dos estrategias de mantenimiento de primera línea en cáncer de pulmón de células pequeñas en estadio extendido (ES-SCLC, extensive-stage small cell lung cancer): los esquemas evaluados en los ensayos IMforte y DeLLphi-305. Sirve para entender cómo los oncólogos están eligiendo entre dos abordajes ya publicados.",
-      "destacado": false
-    },
-    "1b9ffcf13cb6": {
-      "resumen": "Enlace a la página principal del portal OncLive de noticias de oncología clínica, sin un artículo específico asociado. No aporta contenido propio para resumir.",
-      "destacado": false
-    },
-    "7b2ead08492f": {
-      "resumen": "Ensayo clínico aleatorizado de fase II (NRG-LU002) publicado en Journal of Clinical Oncology que compara terapia sistémica de mantenimiento sola frente a terapia local consolidativa (radioterapia o cirugía sobre los sitios de enfermedad) más terapia sistémica de mantenimiento en cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (oligometastásico). Relevante porque define si tratar agresivamente los sitios de metástasis además del tratamiento sistémico mejora los resultados en esta población.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de fase II (NRG-LU002); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad exacta de centros ni el número de pacientes aleatorizados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (enfermedad oligometastásica) que respondieron a terapia sistémica inicial.\nIntervención: Terapia sistémica de mantenimiento sola versus terapia local consolidativa (radioterapia y/o cirugía dirigida a los sitios de metástasis) sumada a terapia sistémica de mantenimiento.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio en supervivencia libre de progresión o supervivencia global, la toxicidad de agregar terapia local, ni la duración del seguimiento.\nMensaje: Si confirma beneficio, respaldaría sumar terapia local consolidativa de forma sistemática en NSCLC oligometastásico que responde a tratamiento sistémico, un enfoque cada vez más explorado en tumores sólidos con enfermedad limitada.\nNota: análisis sin acceso al abstract."
-    },
-    "76bd42c0d0eb": {
-      "resumen": "El diseñador Carlos De Moya propone una moda que prioriza la emoción por sobre la búsqueda de seguir tendencias de temporada."
-    },
-    "9bd4b6d9568c": {
-      "resumen": "Vogue México recomienda las faldas midi de estilo grunge de Zara para combinar con botas durante el otoño-invierno 2026."
-    },
-    "36b9e69bb589": {
-      "resumen": "Vogue México repasa los vestidos midi de fiesta más elegantes para combinar con zapatos de tacón en noviembre de 2026."
-    },
-    "e21da1f2353d": {
-      "resumen": "Jennifer Lopez muestra cómo combinar un vestido midi negro con zapatos de tacón tipo slingback para el otoño."
-    },
-    "fd520dd32082": {
-      "resumen": "El Grupo Arlequino vuelve al HacheUno Teatro con la comedia \"El lobizón\"."
-    },
-    "fddef82fc325": {
-      "resumen": "Casa Vigil, el restaurante mendocino, quedó entre los 100 mejores de América Latina según el ranking que difunde su posición."
+    "c63ccd5b4719": {
+      "resumen": "Infobae repasa la vida al límite y el misterioso final de \"Mateíto El Ninja\", el joven ladrón menor de edad que murió en Morón."
     }
   }
 }
