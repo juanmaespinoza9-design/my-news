@@ -1,24 +1,13 @@
 {
-  "generated_at": "2026-11-25T22:11:31Z",
+  "generated_at": "2026-11-26T10:09:43Z",
   "summaries": {
     "7b2ead08492f": {
       "resumen": "Ensayo clínico aleatorizado de fase II (NRG-LU002) publicado en Journal of Clinical Oncology que compara terapia sistémica de mantenimiento sola frente a terapia local consolidativa (radioterapia o cirugía sobre los sitios de enfermedad) más terapia sistémica de mantenimiento en cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (oligometastásico). Relevante porque define si tratar agresivamente los sitios de metástasis además del tratamiento sistémico mejora los resultados en esta población.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de fase II (NRG-LU002); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad exacta de centros ni el número de pacientes aleatorizados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (enfermedad oligometastásica) que respondieron a terapia sistémica inicial.\nIntervención: Terapia sistémica de mantenimiento sola versus terapia local consolidativa (radioterapia y/o cirugía dirigida a los sitios de metástasis) sumada a terapia sistémica de mantenimiento.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio en supervivencia libre de progresión o supervivencia global, la toxicidad de agregar terapia local, ni la duración del seguimiento.\nMensaje: Si confirma beneficio, respaldaría sumar terapia local consolidativa de forma sistemática en NSCLC oligometastásico que responde a tratamiento sistémico, un enfoque cada vez más explorado en tumores sólidos con enfermedad limitada.\nNota: análisis sin acceso al abstract."
     },
     "d268b6367c91": {
       "resumen": "Cinco planes gratuitos para aprovechar el fin de semana largo en la Ciudad de Buenos Aires, del 21 al 24 de noviembre."
-    },
-    "048b8f590117": {
-      "resumen": "Una agenda con más de 500 propuestas de música, recitales y espectáculos para el fin de semana largo en Buenos Aires."
-    },
-    "9b1a06917d19": {
-      "resumen": "iProfesional repasa planes gratuitos y festivales para el fin de semana largo en Buenos Aires."
-    },
-    "7e4e0da4254b": {
-      "resumen": "El estudio TALENT evalúa trastuzumab deruxtecán (T-DXd, un anticuerpo conjugado a quimioterapia dirigido contra HER2) como tratamiento neoadyuvante, es decir previo a la cirugía, en cáncer de mama temprano con HER2 bajo (HER2-low). Es relevante porque explora si esta terapia dirigida puede mejorar la respuesta antes de operar en un subgrupo que hasta hace poco no tenía opciones anti-HER2 claras.",
-      "destacado": true,
-      "analisis": "Diseño: El título no especifica la fase del ensayo ni el número de pacientes o centros; por el nombre (TALENT) corresponde a un ensayo clínico prospectivo de tratamiento neoadyuvante.\nPoblación: Mujeres con cáncer de mama temprano (operable) y expresión baja de HER2 (HER2-low), candidatas a tratamiento previo a la cirugía.\nIntervención: Trastuzumab deruxtecán (T-DXd) administrado en forma neoadyuvante; no se informa comparador en el título.\nResultados: No disponibles sin el abstract; no se puede citar tasa de respuesta patológica completa ni otros desenlaces.\nLimitaciones: Sin el texto completo no se puede juzgar el tamaño de muestra, el seguimiento ni si hubo brazo comparador.\nMensaje: Si los resultados son positivos, podría ampliar el uso de terapias anti-HER2 dirigidas al escenario neoadyuvante en tumores HER2-low, un cambio relevante para la práctica; hay que confirmarlo con los datos completos.\nNota: análisis sin acceso al abstract."
     },
     "79555cc928f5": {
       "resumen": "Journal of Clinical Oncology publica una columna de Nabhan C y colaboradores sobre la \"ilusión del fuera de oficina\", una reflexión sobre la dificultad de desconectarse en la práctica oncológica. Aporta una mirada humana sobre el desgaste profesional en oncología.",
@@ -28,69 +17,57 @@
       "resumen": "Journal of Clinical Oncology publica un artículo de Ballman KV y colaboradores sobre el diseño de ensayos clínicos aleatorizados de fase II en poblaciones de cánceres raros. Es útil para entender los desafíos estadísticos de investigar tumores poco frecuentes, donde reclutar pacientes y definir el tamaño de muestra es mucho más difícil.",
       "destacado": false
     },
-    "d0434646dc10": {
-      "resumen": "Vogue adelanta la colección Pre-Fall 2027 de la marca danesa Baum und Pferdgarten."
-    },
-    "6fde62113f31": {
-      "resumen": "Vogue presenta un adelanto de la colección Pre-Fall 2027 de la marca The Garment."
-    },
-    "b2760403f3eb": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) autorizó el sistema EXENT, una plataforma de diagnóstico para monitorear la respuesta al tratamiento en mieloma múltiple y macroglobulinemia de Waldenström. Interesa porque suma una herramienta más sensible que la electroforesis convencional para detectar enfermedad residual.",
-      "destacado": false
-    },
     "d885ece43a76": {
       "resumen": "The ASCO Post cubre el congreso anual 2026 de la Society for Integrative Oncology (SIO), centrado en construir comunidad y pertenencia dentro de la oncología integrativa. Sirve para seguir las tendencias en terapias complementarias (ejercicio, nutrición, mindfulness) que se discuten junto al tratamiento oncológico convencional.",
       "destacado": false
-    },
-    "1a2f0bfa0c19": {
-      "resumen": "The ASCO Post publica una reflexión sobre el valor de la comunicación centrada en el paciente en la atención oncológica. Aporta una mirada sobre cómo mejorar el vínculo médico-paciente en un contexto de diagnósticos y tratamientos complejos.",
-      "destacado": false
-    },
-    "1b9ffcf13cb6": {
-      "resumen": "Enlace genérico del portal OncLive, sin un artículo específico identificable a partir del título; remite de forma general a sus noticias y análisis en oncología clínica.",
-      "destacado": false
-    },
-    "5807906663f2": {
-      "resumen": "OncLive reporta que un tratamiento basado en SAR445877, una molécula en desarrollo, mostró señales de actividad inmunoterápica en cáncer colorrectal con estabilidad de microsatélites (MSS CRC), un subtipo tumoral históricamente resistente a la inmunoterapia. Es relevante porque el cáncer colorrectal MSS no suele responder a los inhibidores de checkpoint actuales.",
-      "destacado": false,
-      "analisis": "Diseño: El título no especifica fase, aleatorización ni número de pacientes o centros; por el contexto (anuncio de actividad clínica de una molécula en desarrollo) probablemente corresponde a un estudio clínico en fase temprana.\nPoblación: Pacientes con cáncer colorrectal (CRC) con estabilidad de microsatélites (MSS, microsatellite stable), subgrupo que habitualmente no responde a la inmunoterapia con inhibidores de checkpoint.\nIntervención: Tratamiento basado en SAR445877 (molécula inmunoterápica en desarrollo); no se menciona comparador.\nResultados: No disponibles, el título no aporta cifras y no se pudo acceder al abstract completo.\nLimitaciones: Sin texto completo no se puede evaluar el tamaño de la muestra, la magnitud ni la durabilidad de la respuesta, ni el perfil de toxicidad.\nMensaje: Si se confirma, sería un avance potencial para un subgrupo de cáncer colorrectal difícil de tratar con inmunoterapia; por ahora es una señal preliminar que debe confirmarse con datos maduros.\nNota: análisis sin acceso al abstract."
     },
     "4438290832fc": {
       "resumen": "Fe de erratas de Journal of Clinical Oncology sobre un estudio en fase inicial (first-in-human) de radioinmunoterapia con astatina-211 dirigida a CD45, usada como acondicionamiento no mieloablativo previo a un trasplante de células hematopoyéticas en adultos con cánceres hematológicos. No aporta datos nuevos, solo corrige el artículo original.",
       "destacado": false
     },
-    "b96022a686b7": {
-      "resumen": "Vogue México recomienda los jeans rectos como aliados infalibles para combinar con botas negras esta temporada de otoño-invierno."
-    },
-    "05eee2ba2813": {
-      "resumen": "Harper's Bazaar propone diez variantes de esmalte rojo clásico como alternativa elegante a las manicuras nude este invierno."
-    },
-    "17af46fc022c": {
-      "resumen": "Vogue México explica cómo combinar los jeans de terciopelo, de vuelta desde los años 90, con blusas elegantes este otoño."
-    },
-    "438ee9d76249": {
-      "resumen": "Telva repasa el vestido rojo navideño que usó la reina Sofía y que también lució Letizia, tomado como inspiración para las fiestas de este año."
-    },
-    "4cc6905d581e": {
-      "resumen": "Una manicurista de referencia en Estados Unidos anticipa a Vogue España que en 2027 se impondrán las uñas naturales, glaseadas y con efecto ojo de gato."
-    },
-    "d31248cf8722": {
-      "resumen": "OkDiario repasa las tendencias de decoración navideña que, según especialistas en interiorismo, volverían a verse esta Navidad 2026."
-    },
-    "833bff5e24d7": {
-      "resumen": "Soloporgusto detalla los siete restaurantes argentinos que entraron en la lista extendida (puestos 51 a 100) de The 50 Best 2026."
-    },
-    "80d5815a06aa": {
-      "resumen": "Rincón Bon Vivant repasa los siete restaurantes argentinos incluidos en la lista extendida de The 50 Best Latin America 2026."
-    },
-    "fe3a9e1aa3ea": {
-      "resumen": "Infobae confirma que siete restaurantes argentinos quedaron entre los 100 mejores de América Latina según el ranking The 50 Best."
-    },
     "1e1d688dd4b3": {
       "resumen": "Página/12 propone una agenda de actividades de la cultura LGBTIQ+ para este fin de semana en Buenos Aires."
     },
-    "9957d4780116": {
-      "resumen": "Zona Norte Hoy anticipa un movimiento turístico récord en Buenos Aires durante el fin de semana largo."
+    "97895152ef46": {
+      "resumen": "The ASCO Post repasa la discusión sobre radiocirugía fraccionada versus radiocirugía en una sola fracción (dosis única) después de la resección quirúrgica de una metástasis cerebral. Sirve para seguir el debate sobre cuál esquema de radioterapia estereotáxica reduce mejor la recurrencia local sin aumentar la toxicidad.",
+      "destacado": false
+    },
+    "caf5f45a9372": {
+      "resumen": "La Society of Surgical Oncology (sociedad de oncología quirúrgica) y el centro de entrenamiento IRCAD North America anunciaron una alianza estratégica para formación en cirugía oncológica. Es una noticia institucional, sin datos clínicos nuevos, pero marca una tendencia en capacitación quirúrgica especializada.",
+      "destacado": false
+    },
+    "710700259e58": {
+      "resumen": "Vogue México recomienda qué comprar en la edición Holiday 2026 de Espacio Vogue, el evento de compras navideño de la revista."
+    },
+    "0995345b38b4": {
+      "resumen": "Tres trucos caseros para darle más volumen al pelo antes de que termine el año, probados por la autora de la nota de Vogue México."
+    },
+    "43fd1275418b": {
+      "resumen": "Vogue México se pregunta si Lucia, la protagonista latina del videojuego GTA VI, puede ser un modelo de referencia para que los varones mejoren como parejas."
+    },
+    "5aa78ce801eb": {
+      "resumen": "Baires Grill, la parrilla argentina nacida en Miami, llega a Buenos Aires y planea abrir cuatro locales en la ciudad hasta 2027."
+    },
+    "e9430d4ee36d": {
+      "resumen": "La banda Caballeros de la Quema cierra el año con un show en el Teatro Vorterix."
+    },
+    "1a37ce0ba7ff": {
+      "resumen": "Gaby Sabatini fue al teatro en Buenos Aires, contó qué obra recomienda y compartió la foto de la salida en sus redes."
+    },
+    "648e1b2cc1c8": {
+      "resumen": "Siete restaurantes argentinos entraron en el ranking de los 100 mejores de América Latina, según repasa Radio Mitre."
+    },
+    "de09b0ea6321": {
+      "resumen": "El actor Luis Ziembrowski habló de su papel en \"Esperando a Godot\", la obra que está en cartel en el Teatro Presidente Alvear."
+    },
+    "7c44573fda84": {
+      "resumen": "Buenos Aires festeja el Día del Teatro Independiente con funciones gratuitas, a la gorra y con descuentos en distintas salas de la ciudad."
+    },
+    "64d26e8555e5": {
+      "resumen": "Vuelve Retiro Abierto, el festival nocturno gratuito en el centro de Buenos Aires, con Virus, Leo García y Cata Spinetta entre más de 100 actividades."
+    },
+    "d48b99cd16c7": {
+      "resumen": "Time Out Worldwide propone su agenda de planes para esta semana y el fin de semana en Buenos Aires."
     }
   }
 }
