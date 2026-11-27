@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-11-27T14:03:33.960039+00:00",
+ "generated_at": "2026-11-27T22:47:20.545587+00:00",
  "sections": [
   {
    "id": "oncologia",
    "title": "Oncología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "OncLive Weekly News Quiz (11/27/2026): Did You Miss Crucial Breast Cancer, GIST, Myeloma, and AML Updates?",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXBCQlZvUmlRRmMxc3dqcWNzZlpvazNiM01laTNvektOTzJ4NVc1cGtqcEJHR180LWcyZ3FzeklKX1Q2ejdISlJWZ1lrMmV0Z3hzVVlqbGNicDRjR3Mzc1F4MUZFQ2FRTUQtOTVQbFIzUE1DLTI2U1R0Q0dhYlhoNnVyVnJGay1KeVpHMndqdVR1VkszbWlwR1A4UzdTa2xtMk1NNzFKOW5fS2ZJbGtkWXdQX0E3cjFGMVBOMkVjcWllWkV6ZnBN?oc=5",
+     "source": "OncLive",
+     "published": "2026-11-27T14:15:37+00:00",
+     "id": "a669c0178822"
+    },
     {
      "title": "Clinical Scenario: CAR T-Cell Treatment Planning in Relapsed/Refractory CLL",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0dWMV8tcUJMX0dRZnlIektNTWVMSzdOMlRCOHRSdkg1TktLUzlJOXliLURNVjJmLUpzYklxV0FWRGN4dDl2ZW44UFRGcUJZOWtZSFlIMGFKaTJzdjFVNkc5S3BVY2YzRW9aSFZEOEZOdW9XNVh5NUNUNFhITUZDZTNpWTg0UjFyQmliQ0tRLTFMLWk1UDQ4WlFoSVJ2Nm9MdUlDVHdR?oc=5",
@@ -21,18 +28,18 @@
      "id": "6b46e7c70b66"
     },
     {
-     "title": "Long-Term CAR T-Cell Management and Key Takeaways in CLL",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTJTbHZmWGxrak10aDlCUE1aRXM0dGlITWxtZ0NPWjRzWmgtV0Z5bmhUOXhFbTlhREFWRHdDZ21uNmkxRzhvNkdnRnQ5OUUwb3NSSEZ2WW9NSGR4ZUNxS2NzRUc5elpzTXZmRlRyWkY5a3phNFFkS19sUW5POFdNNnd0SW5KOFRzZlhxMXlR?oc=5",
-     "source": "OncLive",
-     "published": "2026-11-27T13:41:23+00:00",
-     "id": "a29338bfa926"
-    },
-    {
      "title": "FDA Grants Accelerated Approval to Amivantamab and Hyaluronidase for Previously Treated HNSCC",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEdsWHVselZsTFI5S3MySHdjY0tpMFlhbkV3am9OUnhhTnpxbmc0VlB0Q0dOXzI3cjgxTWsxbGhsT21GUlJUajF2U0NKQWxGSkZCVGJhdExueWRhX3Z4RmJ4N3A5dmJPdmNETGNsWVM2R29ZSDhwZjMwLTc3RDN1cUlvMmFQWEo0R3RUdm1PX0stNENmSmVWU2Fqek9YeXktQ1M4RGgyYmF0UzVnQ2xtdkEzU2lQS3ZUS002WGNZYTZKb3VjQ0xtWTlvb2c1SHpxZ09ISTl4dlY?oc=5",
      "source": "The ASCO Post",
      "published": "2026-11-26T09:33:41+00:00",
      "id": "c1f4d20d5df3"
+    },
+    {
+     "title": "SAFFRON: Osimertinib Plus Savolitinib May Set a New Standard of Care for Advanced NSCLC After Progression on EGFR TKI",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd29ROE5WS3pxbklkNXhQN1pIbXZENjlYcXBpQmprRXhDUDFDRFc0SnhSOEVpU0k5eHMxT0ZONXNiMjhTUEFfcDNtR3RFOVM3bDZnLXNBX3hpTktENVJDcG1ORjRpREd2dldWaEhUZFhVWkhjcUdSRV9HdDFidEFoM280M2lSUEx1Z3MwY053UDYwN09ONUtCN28zZGZCejh0cDVrc1NtaFVNd3AxWno2bWxrWk1zSDN3dkFrZVU2M2V3RkZwRkw4al9YYTNkOS1aTTdLc0VwWkNHTWpaSVQzT205Ty14UndKSVNFUlZoRE4ybDhlMmFYWjNUUXZHWGlKcGtVN3dVTFZfcHZEVTA4X3JIR2J5dzQ?oc=5",
+     "source": "The ASCO Post",
+     "published": "2026-11-26T03:49:02+00:00",
+     "id": "920c89678825"
     },
     {
      "title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer",
@@ -42,11 +49,36 @@
      "id": "389dc82aeeda"
     },
     {
-     "title": "TFE-Rearranged Renal Cell Carcinoma: A Rare Tumor We Can No Longer Afford to Treat as an Afterthought",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ185b2tKVUdpTUkyX3laY3dMMndlM1RhdmpCQlFuUUhlekJWZldIVkw3dlpyYmNhWnROb1dXeU9tSlZabmNMeFhhdXMyQlQ2MlFob2RsX2FIbzBqWjRBNnJ2MXJQLWxVWFdOdDRGZ0VPM3phY0ZZd2tzTTZlVnF2TzFRRnBXNTd3UlpPblZEWGxvdUpOZ21qaVlSRlNUMk9rc3BxSVIxbElLd2tDS2dkb3p6R2lmZzVVVndaMDNpYmtNVGsxb2JuR1ZrcERpMzZPay0zdGNfdjItZUxjS1I2QUFB?oc=5",
-     "source": "The ASCO Post",
-     "published": "2026-11-26T02:46:30+00:00",
-     "id": "8f9139b04e30"
+     "title": "What Might a High PSA Now Mean for Patients' Health Later?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43084324/",
+     "source": "JAMA Oncology",
+     "published": "2026-11-25T00:00:00+00:00",
+     "copete": "Wassersug R et al. · JAMA oncology",
+     "id": "8fc727b094c0"
+    },
+    {
+     "title": "What Might a High PSA Now Mean for Patients' Health Later?-Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43084290/",
+     "source": "JAMA Oncology",
+     "published": "2026-11-25T00:00:00+00:00",
+     "copete": "Shaver AL et al. · JAMA oncology",
+     "id": "d98d03344059"
+    },
+    {
+     "title": "Late Recurrence After Pancreatic Neuroendocrine Tumor Resection and Surveillance Implications",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43084288/",
+     "source": "JAMA Oncology",
+     "published": "2026-11-25T00:00:00+00:00",
+     "copete": "Ventin M et al. · JAMA oncology",
+     "id": "971cd2e04d3b"
+    },
+    {
+     "title": "Chlorophyllin for Toxic Effect Prevention During Total Neoadjuvant Therapy in Rectal Cancer: A Randomized Clinical Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43084277/",
+     "source": "JAMA Oncology",
+     "published": "2026-11-25T00:00:00+00:00",
+     "copete": "Krishnatry R et al. · JAMA oncology",
+     "id": "141ad25f83bb"
     },
     {
      "title": "Erratum: First-In-Human Study of (211)At-CD45 Radioimmunotherapy With Nonmyeloablative Conditioning Hematopoietic Cell Transplantation for Adults With Hematologic Malignancies",
@@ -63,22 +95,6 @@
      "published": "2026-11-24T00:00:00+00:00",
      "copete": "Nabhan C et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
      "id": "79555cc928f5"
-    },
-    {
-     "title": "Randomized Phase II Clinical Trials in Rare Cancer Populations",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43077656/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-11-24T00:00:00+00:00",
-     "copete": "Ballman KV et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "d93efff71e23"
-    },
-    {
-     "title": "Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002)",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43071915/",
-     "source": "Journal of Clinical Oncology",
-     "published": "2026-11-23T00:00:00+00:00",
-     "copete": "Iyengar P et al. · Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
-     "id": "7b2ead08492f"
     }
    ]
   },
@@ -88,71 +104,70 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Welcome to Wonder by Josh Aronson",
-     "link": "https://www.vogue.com/article/welcome-to-wonder-by-josh-aronson",
+     "title": "McQueen Pre-Fall 2027",
+     "link": "https://www.vogue.com/fashion-shows/pre-fall-2027/alexander-mcqueen",
      "source": "Vogue",
-     "published": "2026-11-27T14:00:00+00:00",
-     "copete": "On the occasion of his solo exhibition Welcome to Wonder at Vizcaya Museum and Gardens, Miami-based artist and photographer Josh Aronson reflects on the estate's place in Miami's collective memory, the photographs that have shaped its…",
-     "id": "e35a87856935"
+     "published": "2026-11-27T22:45:24+00:00",
+     "id": "2213893d8bf3"
     },
     {
-     "title": "Encontré en Zara los vestidos más bonitos para llevar con botas altas, mocasines y zapatos de tacón en otoño 2026",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWZWei0wVXdpRDZMb2hqWGlfZTluVFlqZG1ZUTRpUC1LMldWSi14MHJPSDM0YzVIMDdtUFhnVVQxckMxYVgwMXBleGJEV1FQNXp1cUQxOG1fOHpKY2VKbG51QWtqc19yVmNkMDBDZmNWUGZZNjYtSDdFaWN4enliV3J2ekZERG9SbU83QUVZQTZhYUk1WVJUUHJsOVZjc1UycVVCS0JySDJhYUF5bjFlUmJnb0N0QmpQTk10U25UWkNVM3VFakdVRDZEUDBfQQ?oc=5",
+     "title": "Chamarras calientitas elegantes para llevar con jeans, pantalones y faldas en Otoño-Invierno 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjV4YkxlaV9ZNVpVQTNoS3A1VENZaEt5Y195aEpvRi1XaTJzb1pOck5EemZnak8xbW5fb3R0YWxoSnBrMmFZYU1JYlNUUTFvTWEzUWx4UjVvLUNlR0NjVXFWVzJqZHhucWlidnowX2puMlhna1dOZXhaaFptT3FFUy1JWHJSMW9adWM1cTRDUk9CbVBiMHFSZWp0UTE0MDRoSkFuLTdEOUo3SmZ6TkJKZVV3VUlGRDQ?oc=5",
      "source": "Vogue México",
-     "published": "2026-11-27T14:00:00+00:00",
-     "id": "009ef1f44958"
+     "published": "2026-11-27T22:32:55+00:00",
+     "id": "5fb04aa56fa2"
+    },
+    {
+     "title": "The Black Friday Beauty Deals You Should Know",
+     "link": "https://www.vogue.com/article/best-early-black-friday-beauty-deals-11-27-2026",
+     "source": "Vogue",
+     "published": "2026-11-27T22:01:00+00:00",
+     "copete": "Want to get ahead of holiday shopping? The best Black Friday beauty deals feature markdowns of up to 60% at Nécessaire, Dyson, & more. Shop before they’re gone.",
+     "id": "e153cfeeb29a"
+    },
+    {
+     "title": "Best Black Friday Clothing Deals 2026—Net-a-Porter, Nordstrom & More",
+     "link": "https://www.vogue.com/slideshow/best-black-friday-clothing-deals-11-27-2026",
+     "source": "Vogue",
+     "published": "2026-11-27T22:01:00+00:00",
+     "copete": "Update your winter wardrobe with the best Black Friday clothing deals, as the main event rolls out.",
+     "id": "4a075bc845a8"
+    },
+    {
+     "title": "Best Black Friday Deals Vogue Editors Are Shopping in 2026",
+     "link": "https://www.vogue.com/article/best-black-friday-deals-11-27-2026",
+     "source": "Vogue",
+     "published": "2026-11-27T22:01:00+00:00",
+     "copete": "From boots to cold-weather accessories, outerwear and denim, these are the Black Friday deals Vogue editors have bookmarked.",
+     "id": "89cdda2faf15"
+    },
+    {
+     "title": "¿Qué productos de K-Beauty comprar antes que termine 2026 y dónde comprarlos?",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGtXdmNodG94eTNVSHlmd0NVd3lHRFdMZmJCREYxVzVERVRNcnNKaThsREFPT3d1eTdRN3hCYW1KT3ZzeWk4bkNHdEZ4WG1ZQXBieWR5V3paeVVNN01VdFVSSk9IRWJBU0VKbjRONkpVSUJVc2lfbWp1cHBPYUZIZTFvaHFGZVJyZ0UyczZSQQ?oc=5",
+     "source": "Vogue México",
+     "published": "2026-11-27T21:36:35+00:00",
+     "id": "f0b15b379154"
+    },
+    {
+     "title": "8 ejercicios de flexibilidad que debes practicar diario porque trabajan el cuerpo y la mente",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGU0MWRNLTRncGpUMkhUMWM4RUwzSlRNZGdndDVOang4ME5XVERWQ1hsMldfMExyY2FMaFZYalJPWW82bDJoSUtUaHdDaU9iUXg0UnVDc1R2bjNscHhJaXdHUnVPNjdhaklLVXBIU1A0N256V0JLOVowSmVmcFJMQ2tJdE9jMTh6b2dPOTZmRnpBdjhp?oc=5",
+     "source": "Vogue México",
+     "published": "2026-11-27T18:48:35+00:00",
+     "id": "80fadd222b2c"
     },
     {
      "title": "Manicura marrón chocolate: cómo llevar esta tendencia para uñas cortas en el color más elegante y sencillo del otoño",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNVpFSGQwN2M5Nk80cUxPajkzbDA3OWtTaHdFVHFQb0Z4RG42VzZBblNpNzNSQzZzREpXRnZQQVFVQk1zZGRhMWE4dkFkSVAyTERwQ3dRSzFRdS0tX0x4VlU3QmY0YmlyOWpManRaQmROTnpuUmQ2SVNnbjRudGFoM0hqcXJOYlU3Ml9YU1VOZ3JjRTBhWldmeTNHSjZkSXNOZXNrbDNCSHdhMG9JLUJWdEdLXzVsYlFnVC1MMVJOcUhWM2g0MTdLQ0toMWJSN3NzVWNEaFZXLXQ?oc=5",
      "source": "ELLE",
-     "published": "2026-11-27T12:12:48+00:00",
+     "published": "2026-11-27T12:17:28+00:00",
      "id": "efb1a5b64d8e"
-    },
-    {
-     "title": "30 Sparkling, Fringed, and Pleated Holiday Wedding Guest Dresses for Every Festive Fête",
-     "link": "https://www.vogue.com/article/holiday-wedding-guest-dresses",
-     "source": "Vogue",
-     "published": "2026-11-27T11:00:00+00:00",
-     "copete": "Do you have a holiday wedding coming up? From gold lamé to swishy fringe, these festive gowns cover every dress code, from brands like Kallmeyer, J. Crew, and Tory Burch.",
-     "id": "2f8c5a181d65"
-    },
-    {
-     "title": "Cameron Diaz in ‘The Holiday’ Is My Winter Style Inspiration",
-     "link": "https://www.vogue.com/article/cameron-diaz-the-holiday-style-inspiration",
-     "source": "Vogue",
-     "published": "2026-11-27T11:00:00+00:00",
-     "copete": "I’m going for Nancy Meyers neutrals, okay?",
-     "id": "2a9b99c8d64a"
-    },
-    {
-     "title": "How I Learned to Stop Worrying and Love Wrapping Gifts",
-     "link": "https://www.vogue.com/article/how-i-learned-to-stop-worrying-and-love-wrapping-gifts",
-     "source": "Vogue",
-     "published": "2026-11-27T11:00:00+00:00",
-     "copete": "Since going through a major breakup last year, I’ve tackled all kinds of things that I didn’t previously know I could do. Was it possible that I could also become the kind of person who looked forward to—or at least didn’t totally dread—my…",
-     "id": "7821e1315678"
-    },
-    {
-     "title": "Horóscopo de hoy: 27 de noviembre de 2026",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaE5kTGJKYUxWQzl1OVBJaTFzNEpDVS14d2poT0lJQW5yRUhYU201SUFpWDhNcFRkWFdEZ0FGaHh3aVhzemZ3SmpuNVc0NFA3MGhQOW96MXdUVHBxX3NuY3FDNlcxYnhFODFjaUtrS3A0UGJndFZzcndPaGU5eW04Zlh3aFE?oc=5",
-     "source": "Vogue México",
-     "published": "2026-11-27T11:00:00+00:00",
-     "id": "29ab0a66f9ef"
     },
     {
      "title": "Maquillaje rosa empolvado: la tendencia sutil y femenina con efecto 'buena cara' inmediato",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlREZVZPTnNHU1N5WjJNazdncmJKUkxCUlNESFFSM3pUU0NPbENrSDdVOUY0R2tSRmdtSGN0MW9kTVpNRE1jeWk3SlhUdjZ2M3oweVlpclJZXy1BSkhjb2s0a3lfeDRVSEFLcGpvS3RXMmk0dFo5MVFhTzdkZ0h1ZkhPbGJSNTMyTVE1SjJySXlrZGpzNGhxZ0FYWXJEaUlzNWZDMFdXWDlaSUJqMzZUZlBIekRZX1pLa01FTQ?oc=5",
      "source": "Harper's BAZAAR",
-     "published": "2026-11-27T10:35:30+00:00",
+     "published": "2026-11-27T10:39:27+00:00",
      "id": "497e84608f49"
-    },
-    {
-     "title": "Black Friday 2026: 44 productos que una editora de Vogue incorporará a su cesta de la compra",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUdPTGEtQjUyZ2pzNHMyeGJoOEd1WWxkdTdBUFFwanU5WENucUt2dUNycHg3WC1YVzVDS25tMkt6Ql91YU5lSHBydndPcWktSGZWWmYyaVotVXQ1Q0lzNkJBZWE3dnBQVUIyZURqc1VDSzZVUVc1TnFWVzljeXVSXzZBRmlnU0Z0UkI0Nm13OFJGT0tF?oc=5",
-     "source": "Vogue España",
-     "published": "2026-11-27T09:53:02+00:00",
-     "id": "9552a31be24c"
     },
     {
      "title": "Las 7 tendencias de uñas para brillar con tus manicuras esta Navidad",
@@ -169,100 +184,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Tras un año marcado por problemas de salud, Soledad Silveyra regresa a escena con un desafío monumental",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/tras-un-ano-marcado-por-problemas-de-salud-soledad-silveyra-regresa-a-escena-con-un-desafio-nid27112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-27T13:27:38+00:00",
-     "copete": "La actriz volverá al teatro en abril con una obra multipremiada; por otro lado en enero, subirán a escena Muriel Santa Ana, Daniel Hendler, Sofía Gala, Campi, Diego Ramos, Paola Barrientos y Marcelo Subiotto",
-     "id": "c0b8b8c95988"
-    },
-    {
-     "title": "Lionel Ferro: “Siempre vamos a ser familia, más allá de si estamos juntos o separados”",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/lio-ferro-siempre-vamos-a-ser-familia-mas-alla-de-si-estamos-juntos-o-separados-nid26112026/",
-     "source": "La Nación Espectáculos",
-     "published": "2026-11-27T12:57:34+00:00",
-     "copete": "En una entrevista con LA NACION, el actor se sinceró sobre el fin de su relación, la crianza de sus hijos y además, contó cómo interpretó los comentarios de Karol Sevilla y por qué prefiere mantenerse al margen de las polémicas",
-     "id": "ea4906ab4065"
-    },
-    {
-     "title": "Nora Colosimo recordó el escándalo mediático de Wanda Nara que cambió la vida de la familia para siempre: “Me asusté y lloré”",
-     "link": "https://www.infobae.com/teleshow/2026/11/27/nora-colosimo-recordo-el-escandalo-mediatico-de-wanda-nara-que-cambio-la-vida-de-la-familia-para-siempre-me-asuste-y-llore/",
+     "title": "Lali Espósito, Lucrecia Martel y el desafío de repensar la batalla cultural: “Ninguno de mis amigos es feliz”",
+     "link": "https://www.infobae.com/teleshow/2026/11/27/lali-esposito-lucrecia-martel-y-el-desafio-de-repensar-la-batalla-cultural-ninguno-de-mis-amigos-es-feliz/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-27T12:54:53+00:00",
-     "copete": "La panelista habló de las diferentes personalidades de sus hijas y evocó el hecho que las instaló para siempre en la farándula local",
-     "id": "817d48102250"
+     "published": "2026-11-27T22:43:12+00:00",
+     "copete": "La cantante y la cineasta inauguraron el seminario Coordinar para Ganar, un encuentro del que también participan dirigentes políticos y sociales. La charla fue moderada por la periodista Maru Duffard y las artistas expusieron sus opiniones…",
+     "id": "6d71988749ad"
     },
     {
-     "title": "MasterChef Celebrity: de los canelones de Virginia Lago al momento en el que Wanda Nara se puso seria y habló sobre su enfermedad",
-     "link": "https://www.lanacion.com.ar/espectaculos/television/masterchef-celebrity-de-los-canelones-de-virginia-lago-al-momento-en-el-que-wanda-nara-se-puso-seria-nid27112026/",
+     "title": "Qué ver en Netflix: las mejores películas y series para disfrutar este fin de semana del 28 y 29 de noviembre",
+     "link": "https://www.lanacion.com.ar/espectaculos/que-ver-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-del-28-y-29-de-nid27112026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-11-27T12:46:54+00:00",
-     "copete": "Los participantes homenajearon a sus abuelas, replicando una de las especialidades de la conductora de Historias de corazón",
-     "id": "71f32e94fe83"
+     "published": "2026-11-27T22:39:19+00:00",
+     "copete": "Con los días de calor intenso, muchos son los que eligen quedarse en casa y disfrutar de una buena producción bajo el aire acondicionado; tomá nota y elegí qué ver",
+     "id": "eaeb1cdd3bb9"
     },
     {
-     "title": "La inesperada reacción de Germán Martitegui ante el plato de Karina Mazzocco en MasterChef Celebrity: “Me emocioné”",
-     "link": "https://www.lanacion.com.ar/espectaculos/german-martitegui-se-emociono-por-el-plato-que-presento-karina-mazzocco-e-hizo-una-advertencia-que-nid27112026/",
+     "title": "La reacción de María Becerra al ver a Zaira Nara desfilando en su show: “Te luciste preciosa”",
+     "link": "https://www.infobae.com/teleshow/2026/11/27/la-reaccion-de-maria-becerra-al-ver-a-zaira-nara-desfilando-en-su-show-te-luciste-preciosa/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-27T22:16:36+00:00",
+     "copete": "Tras participar de la pasarela durante “Sexo es la moda”, la conductora publicó las postales de su look negro y recibió elogios de la cantante, Wanda Nara y Pampita",
+     "id": "41b3d6c000f5"
+    },
+    {
+     "title": "Jennie Garth y Brian Austin Green: la interna de Beverly Hills 90210 que permaneció oculta 30 años y ahora salió a la luz",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/jennie-garth-y-brian-austin-green-la-interna-de-beverly-hills-90210-que-permanecio-oculta-30-anos-y-nid27112026/",
      "source": "La Nación Espectáculos",
-     "published": "2026-11-27T12:37:50+00:00",
-     "copete": "Los participantes tuvieron el desafío de preparar canelones y la propuesta que presentó la conductora fue tan buena que el chef no escatimó en elogios",
-     "id": "59c2d2d4ed80"
+     "published": "2026-11-27T22:04:47+00:00",
+     "copete": "Una “burla” del actor y un comentario de la actriz sirvieron para confirmar que los conflictos entre los protagonistas de la exitosa serie que dejó de emitirse en 2000 parecen no tener fin",
+     "id": "4562374df5ce"
     },
     {
-     "title": "Lo más visto en Netflix Estados Unidos: las 10 series más exitosas del momento, con “El cuerpo: temporada 1” a la cabeza",
-     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-estados-unidos-las-10-series-mas-exitosas-del-momento-con-el-cuerpo-temporada-1-a-la-cabeza_0_SRetaSS9Si.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-11-27T11:35:17+00:00",
-     "copete": "Netflix actualiza cada semana el listado de las mejores series en Estados Unidos. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
-     "id": "f8196e165603"
+     "title": "Las despedidas: una experiencia teatral que aborda la pérdida en una historia familiar que apuesta por la ternura",
+     "link": "https://www.lanacion.com.ar/espectaculos/teatro/las-despedidas-una-experiencia-teatral-que-aborda-la-perdida-en-una-historia-familiar-que-apuesta-nid27112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-27T22:00:09+00:00",
+     "copete": "La obra de Juan Andrés Romanazzi se presenta los sábados en El portón de Sánchez",
+     "id": "1ac49d10d10a"
     },
     {
-     "title": "Lo más visto en Netflix México: las 10 series más exitosas del momento, con “La ley de Alicia: temporada 1” a la cabeza",
-     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-mexico-las-10-series-mas-exitosas-del-momento-con-la-ley-de-alicia-temporada-1-a-la-cabeza_0_ajCBpgAS4P.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-11-27T11:35:14+00:00",
-     "copete": "Netflix actualiza cada semana el listado de las mejores series en México. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
-     "id": "ea77bed6e16f"
+     "title": "Johnny Depp y su rebelión contra la fama: los escandalosos episodios que protagonizó en el set de Comando especial",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/johnny-depp-y-su-rebelion-contra-la-fama-los-escandalosos-episodios-que-protagonizo-en-el-set-de-nid27112026/",
+     "source": "La Nación Espectáculos",
+     "published": "2026-11-27T21:39:05+00:00",
+     "copete": "Una nueva biografía reconstruye los intentos del actor por abandonar la serie que lo convirtió en un ídolo adolescente a fines de los 80",
+     "id": "79b24bd5430b"
     },
     {
-     "title": "Lo más visto en Netflix España: las 10 series más exitosas del momento, con “El crimen de Pazos: miniserie” a la cabeza",
-     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-espana-las-10-series-mas-exitosas-del-momento-con-el-crimen-de-pazos-miniserie-a-la-cabeza_0_GRSMEKw0ID.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-11-27T11:35:13+00:00",
-     "copete": "Netflix actualiza cada semana el listado de las mejores series en España. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
-     "id": "62b7bdd337c5"
-    },
-    {
-     "title": "Lo más visto en Netflix Colombia: las 10 series más exitosas del momento, con “Palacio: miniserie” a la cabeza",
-     "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-colombia-las-10-series-mas-exitosas-del-momento-con-palacio-miniserie-a-la-cabeza_0_nfpM4PMf66.html",
-     "source": "Clarín Espectáculos",
-     "published": "2026-11-27T11:35:09+00:00",
-     "copete": "Netflix actualiza cada semana el listado de las mejores series en Colombia. Hay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
-     "id": "ac27188b88fd"
-    },
-    {
-     "title": "Alejandra Maglietti revivió una foto en bikini de sus inicios y contó la triste verdad: “No se dejen engañar por las redes”",
-     "link": "https://www.infobae.com/teleshow/2026/11/27/alejandra-maglietti-rivivio-una-foto-en-bikini-de-sus-inicios-y-conto-la-triste-verdad-no-se-dejen-enganar-por-las-redes/",
+     "title": "Habló Dana Cabrera, la joven que dejó Agapornis: “Siento que terminó esta etapa”",
+     "link": "https://www.infobae.com/teleshow/2026/11/27/hablo-dana-cabrera-la-joven-que-dejo-agapornis-siento-que-termino-esta-etapa/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-27T11:26:33+00:00",
-     "copete": "La panelista de BTV recordó las restricciones y los “ayudines” a los que recurría para marcar el abdomen, y llamó a desconfiar de las imágenes de “cuerpos perfectos”",
-     "id": "18bc7dcaf2a6"
+     "published": "2026-11-27T21:23:17+00:00",
+     "copete": "Tras un año y medio cantando junto a la banda, la artista decidió alejarse del grupo y explicó los motivos de su decisión",
+     "id": "7929a08636ab"
     },
     {
-     "title": "La emoción de Sabrina Rojas por ver crecer a sus hijos: “Si hablo me pongo a llorar”",
-     "link": "https://www.infobae.com/teleshow/2026/11/27/la-emocion-de-sabrina-rojas-por-ver-crecer-a-sus-hijos-si-hablo-me-pongo-a-llorar/",
+     "title": "Tiago PZK reveló su deseo de ser padre junto a La Joaqui: “Ella quiere tener un varón”",
+     "link": "https://www.infobae.com/teleshow/2026/11/27/tiago-pzk-revelo-su-deseo-de-ser-padre-junto-a-la-joaqui-ella-quiere-tener-un-nene-varon/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-27T11:22:36+00:00",
-     "copete": "La actriz realizó un improvisado balance del año y recordó los primeros años de Esperanza y Fausto, los niños que tuvo durante su relación con Luciano Castro",
-     "id": "ae64d0ba7f21"
+     "published": "2026-11-27T21:01:46+00:00",
+     "copete": "La pareja comenzó su relación en medio de la escandalosa separación de la cantante con Luck Ra y, en una entrevista con Gabino Silva, habló de los planes a futuro que tienen",
+     "id": "d8ea519f26da"
     },
     {
-     "title": "Germán Martitegui se emocionó con el plato de una famosa en MasterChef y lanzó una advertencia al resto: \"Tengan cuidado\"",
-     "link": "https://www.infobae.com/teleshow/2026/11/27/german-martitegui-se-emociono-con-el-plato-de-una-famosa-en-masterchef-y-lanzo-una-advertencia-al-resto-tengan-cuidado/",
+     "title": "Habló Chechu Bonelli tras la polémica que desató su nueva relación: “Hay personas que están sufriendo”",
+     "link": "https://www.infobae.com/teleshow/2026/11/27/hablo-chechu-bonelli-tras-la-polemica-que-desato-su-nueva-relacion-hay-personas-que-estan-sufriendo/",
      "source": "Teleshow (Infobae)",
-     "published": "2026-11-27T04:03:15+00:00",
-     "copete": "El chef quedó sin palabras ante los canelones de la participante y remarcó que había nacido una participante peligrosa dentro del certamen culinario de Telefe",
-     "id": "629dec6cc033"
+     "published": "2026-11-27T19:32:23+00:00",
+     "copete": "La periodista deportiva volvió a apostar al amor y comenzó un noviazgo con Tomás Badessich, pero el blanqueo generó un escándalo",
+     "id": "3c99240fe450"
+    },
+    {
+     "title": "Entre la playa, los paseos y la familia: así disfrutó Mariana Brey de sus días en Miami",
+     "link": "https://www.infobae.com/teleshow/2026/11/27/entre-la-playa-los-paseos-y-la-familia-asi-disfruto-mariana-brey-de-sus-dias-en-miami/",
+     "source": "Teleshow (Infobae)",
+     "published": "2026-11-27T19:11:31+00:00",
+     "copete": "La periodista se fue de vacaciones a los Estados Unidos junto a sus hijos: \"No hay mejor regalo que vivir estos momentos\", aseguró",
+     "id": "d1bcff3d4c1e"
+    },
+    {
+     "title": "'El Eternauta' arrasó en los Cóndor de Plata, pero la estatuilla cambiará el año que viene",
+     "link": "https://www.clarin.com/espectaculos/eternauta-arraso-condor-plata-estatuilla-cambiara-ano-viene_0_egC2PRdH0f.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-11-27T17:11:52+00:00",
+     "copete": "La serie de Bruno Stagnaro se llevó 14 premios en la ceremonia organizada por la Asociación de Cronistas Cinematográficos de la Argentina. Además, la entidad presentó un nuevo diseño del galardón y advirtió que la continuidad de la próxima…",
+     "id": "5e230af042a0"
+    },
+    {
+     "title": "Mirá el trailer: Adrián Suar y Griselda Siciliani vuelven a cruzarse en una noche que se va de las manos en 'Felicidades'",
+     "link": "https://www.clarin.com/espectaculos/mira-trailer-adrian-suar-griselda-siciliani-vuelven-cruzarse-noche-va-manos-felicidades_0_Fx7eyyHL8A.html",
+     "source": "Clarín Espectáculos",
+     "published": "2026-11-27T16:40:16+00:00",
+     "copete": "Netflix presentó el tráiler de la película dirigida por el español Álex de la Iglesia, basada en la obra teatral que fue uno de los éxitos de la calle Corrientes en 2024.",
+     "id": "b8a040ff8918"
     }
    ]
   },
@@ -272,10 +287,38 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Yerai Cortés suma una segunda fecha en Buenos Aires tras agotar su primer show",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XV2Q3eXUtRjF2OHROdnFQbzgxTmF2LWwwLUZRV3phc1V5S0M3Q0Z6cHN2dGNvb0FiYThZOWhITzBISzUtaDM2NDVzbC1KQl9ZdElxMGdPTlRDQWN2ZDgxZW5SemxwWFotTlVUZzVMODV1M1R1?oc=5",
+     "source": "No Son Horas",
+     "published": "2026-11-27T22:32:34+00:00",
+     "id": "42bcbce31e65"
+    },
+    {
+     "title": "Los Caballeros de la Quema en Teatro Vorterix",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRWwyQUI5Tk5qZkp4bmI0Wlh6aWE1Y19KWnZTMkNGN3haa1RJZXFmVk5MVUw4RUZfZ2FndHp0OU9yaEtXdzBmTDJfaXREX3ZrSmlSQkw4UjJZa2xBUi1fRVFHZG9CS1JoQzY5NXdtZVZUZ1l2cnVYNDZNajZiNjg?oc=5",
+     "source": "Indie Hoy",
+     "published": "2026-11-27T21:01:59+00:00",
+     "id": "d9c70dd0ecf4"
+    },
+    {
+     "title": "Teatro Acción estrena obra en Buenos Aires",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVhxeFdpR3NlM01ubzFvRlk3M2txX2ZaRnE5T29nRkRXTnFLS1Zab2QwdmVwY0M3bHVLLUE1bHd4Z3FlbElFbEZjNnpHcGZ3SDdPS25JTHhpRDRNYlAzc0VEM1dIc0RBRWdBX1FwcmpnU3Q2eWdEVGJHOHlIcHBiNFZUTU9KYV9aT0E?oc=5",
+     "source": "El Fundador Online",
+     "published": "2026-11-27T19:22:00+00:00",
+     "id": "25481f825e91"
+    },
+    {
+     "title": "Elena Roger despide su gira 2026 en Buenos Aires con piano y canciones emblemáticas",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjZZX3N0NDRUcTVZeE1UcFd3Ni1Sd2lFOHRCYnRQeUY2V1JBRGlGWVhaUWF3ODZzZ0xLMlR0UERWRjV4aHJ5R2NtbWlBcnlNakU5ckhXdlhZRzd2THFNQWM2N2ZDMGc1QU9GUGxVU3BRWWNqSFk4b3ExSjlfQUl3WmpSR21mY1RYYUN5NmVFRElfN0N0amV4ZEVSNkdYZVFlSHdfVUhOWk5adzFhNld5cGpoSmlOTXp2dDg1YWpB?oc=5",
+     "source": "ANDigital",
+     "published": "2026-11-27T17:03:37+00:00",
+     "id": "a31ac824ace2"
+    },
+    {
      "title": "Al 29 de noviembre, los restaurantes coreanos de Buenos Aires celebran la Semana del Kimchi",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2NsZC1aMk5hR21qTnI1aVg5elY4SXRXYTltVjBxRFdLeGVsQjhYM196RjdpcE9XOTV0TXdXRWkyamtOVHViNVlfd2c4S3VJMjZwZkI3ZnNTaEF4TVBMTFVNN05rX3h2czZHaEFqTFdubzAzWjJBTjdFdDA4WnR6Y3h6Q2JjakVncThzcGtoTnB2OU9tZUZNVDdFWUphRVB1cWtBOUx5NS1xSnlpNWtTZE9PMmZhLXhKRGs0?oc=5",
      "source": "Foro de Baires",
-     "published": "2026-11-27T13:00:51+00:00",
+     "published": "2026-11-27T13:12:15+00:00",
      "id": "b5dbbd8bf066"
     },
     {
@@ -286,13 +329,6 @@
      "id": "160ae627000f"
     },
     {
-     "title": "Qué hacer en Buenos Aires este fin de semana: más de 60 planes para disfrutar del viernes 27 al domingo 29 con recitales, teatro, cine, streaming, muestras y gratis",
-     "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcjVtZ1NYeWJ4VHBTRmZaR0dGOGtmSld0LTcyWFYwZzVGYXNBeHJmZ0NSMkVxdkVwLVpKZzA0Nm1sOERyRUZ0bDBteEtVSWsxZG1CdU1ObTVoTS1UcEEtUllVWEZSd0luZklDNExTYWVkWUd2QV9UMXdsSXF6SWJPTnRPdFYtY241TWZzTkR6N2k5RloyQmJkZHc0WnptWEZaYVNPUFJBX2FCS1lkZ0xIX1ZVMWRsOXRFMlBLOTk3elkyenM5Vk1fRVZuanpGUko0T29lWVJBS2UwLWVjbGl5amV2R1pxRmxPWERuY2d6UGtvZ2FlMHZsUldMX2V4REZYdklmQnhGd3BVbFlmMFB1ajdra1pjRTUzSEt1UnlCRzdHcHl6bjZn?oc=5",
-     "source": "FM Alpina",
-     "published": "2026-11-27T07:54:20+00:00",
-     "id": "9e076d3eb21c"
-    },
-    {
      "title": "Buenos Aires: recitales, teatro y más de 60 planes este finde",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVFocEhPU19iT2Z2aXUwSHlDM2liR0l5WU1adDlKeUNlNnp3cGRxM1M2YWhDaTlhTlNhb05Ocmo0NFM4SGlkcmJDeHNDZmdfak1fT2lMSHU4ckRvZjZ3cE9MTWp4cGZqemxBUFBKVG1EUjJmMUtpZFBxRVBJVmJ4X3BpU21YeUljUXFkZmpxakJORmtnMVU4NkdxVFVsRkQtSzNJQVIxUFA3Q1k?oc=5",
      "source": "Impacto Castex",
@@ -300,11 +336,11 @@
      "id": "3ca1d6eb4faa"
     },
     {
-     "title": "Sobre un teatro político",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTa2FoVzQzSGFnYmVtQjF6MTBtNGl0NWI4LXRpRmV0aW1FZzZLZnozcElRczFkSnhQM1Y1MFNHUXB2YjJSREk5RFRpcjlWX1ZfSmRkOXYzQzVMTTBSMFdISGFDSkhscnFjb2NwcmxRYUlMQQ?oc=5",
-     "source": "Página|12",
-     "published": "2026-11-26T22:28:51+00:00",
-     "id": "1729026a2abb"
+     "title": "Qué hacer en Buenos Aires este fin de semana: más de 60 planes para disfrutar del viernes 27 al domingo 29 con recitales, teatro, cine, streaming, muestras y gratis",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVWthSHBGdW5DcXA2VEdVUFpXbXJiUmdvenhqOUR2dkVQRDdPUGtKUXc0dWJfUHpGLTQyb3ZDZlctNExadGIwR2JnRTB4bnFYelFIUXRUN0x0TzFNaDctNUEyaks4dV80OUhybUExLUx1MndtRXpVLWZHYjZFVEEtSngtNmNqNzZlTGw1aUs0RWp1bnNzbE4wUXFuMnNFd2RleTRJNEczSjdZZGdJQ0lBUFpPQkE5OFdHaW5tWEQtSnBtNEoyZE4wOU1hZ2VQUi1HbXNTUkwzdnNPNjBHUmdyN1B4Z3FSMjVUZTdjMWg4bVYxZUNoRjQwNmRpWWo3OUI0RFcw0gGIAkFVX3lxTFBrbU9UNkZOb2pFMlZMUS1Ub3N2cGlSb1BMbDVuc0REVVFRZThyNmFxY2ZySTVYZHgwQnRBSUlFbGFGWmtwcFdiMmZaSU5GX1l2T0VoX1JxZWNCX1hfbjBtV1dJaUgtdDlKeEJvWW1Ed2o0Q3Q4Tkw3NHhDbEtMUlFqTTB0OGpqelE1a0tXZ2thVkc2NUhEWk1tdml1MmNFT2dlQXVaR2lQWF9KVE5ueDFPZjNMMlAyd2lvNm5fSFdZcURKa1AzSEFOMEd4cmFaU2ZmTWtDM3JUUmw4ejBTYVRkd3RROHUzSTB3cmJyTG5uVHhDNDhjcmwyUFdmaFI0T0o0WVllYjI2Tg?oc=5",
+     "source": "Clarin",
+     "published": "2026-11-26T21:12:00+00:00",
+     "id": "34c732213bf4"
     },
     {
      "title": "5 planes gratis en Buenos Aires para despedir noviembre: qué hacer y dónde ir este fin de semana",
@@ -319,20 +355,6 @@
      "source": "Revista OHLALÁ!",
      "published": "2026-11-26T14:13:56+00:00",
      "id": "d62227822471"
-    },
-    {
-     "title": "Día Nacional del Vino Argentino: 13 restaurantes de Buenos Aires y GBA para recorrer regiones, cepas y cavas imperdibles",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaHMxZnU4Z3NndUlVRG1mNTlWeENzU21YWEotWmd4azhBY1lfb0hGazV5Yno4cm9Cb3R6cDRjLWhDemRfRUxnYUIwNV84YnBES2xHdHd4TEhhcGhaVDJUVFdyb2FLVVZVQTZIalJnejlDc1JnV1cyclNoekRPZDlxam9tQVZKWXZUXzItOUt0Q0VaVzIzUElsRDN2VHJDaGpZbzJOUndRT1lQUHY0VXprSXVzNzFrd3VqaUY0T2NueVlYZjdUWURPN2gyMTNrY3RHMi1DbmVsdGNvYzdWS3dFSXFmUjHSAfgBQVVfeXFMTldKWTRzSTNWV3Fyd2d1bnhwZjZFaUZGT1pYeGhiV1ZCeng3RTBfem5CVzkydHk3ZUNDUjd5eW9GNElyMFBtcXNmQlViUDliM0JISXZ1cGdVY05YYmhncll5VEVMRElaaTUtckZfRjJ4QWpfMUNuc0dmdUpjWktueFZ5ekhxQkx2eGIxTVFJY2RYN2pqMjBJQ2tUZkFSQXNFczNVOUMwWkhsdWJZbVFkNnVBbElmN2tKTm54aElZdlNWeFJYM0t2cmhzckZXQ2tYa0tLcEVRTklJSGxsSzF4Vk9oWG0yczIxZnA5OXY1U1g2c2tQUnVKSnY?oc=5",
-     "source": "El Destape",
-     "published": "2026-11-26T13:33:07+00:00",
-     "id": "4062c1f45d51"
-    },
-    {
-     "title": "Argentina en París: restaurantes, bares y lugares argentinos",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTmp4ejhib3NEOVpCdFpaQXZvdy1xQzgyVlFDdWZFN2RZMTVVV1Nmc25yWmdhOHZ3M2p0cWx3OGktb3NRSjlfaDFWNnpudWozdWRsaDlOYnRDMW1zazE4dGFDWjZyTDl2SWxnSVh4SzFNaUJVcU5COVYyN1RkT0E?oc=5",
-     "source": "Buenos Aires Connect",
-     "published": "2026-11-26T08:46:55+00:00",
-     "id": "86b9af94da83"
     }
    ]
   },
@@ -342,83 +364,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "WhatsApp busca anular el roaming y venderá servicios de eSIM en el mensajero para tener conectividad al viajar",
-     "link": "https://www.lanacion.com.ar/tecnologia/whatsapp-busca-anular-el-roaming-y-vendera-servicios-de-esim-en-el-mensajero-para-tener-conectividad-nid27112026/",
-     "source": "La Nación",
-     "published": "2026-11-27T13:59:00+00:00",
-     "copete": "El mensajero instantáneo anunció que ofrecerá ese servicio integrado, aunque todavía sin confirmar fechas ni precios",
-     "id": "803bc84c28d4"
-    },
-    {
-     "title": "Franco Colapinto, en el Gran Premio de Qatar de Fórmula 1, en vivo",
-     "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-qatar-de-formula-1-en-vivo-nid27112026/",
-     "source": "La Nación",
-     "published": "2026-11-27T13:58:42+00:00",
-     "copete": "El argentino afronta la primera práctica en el Circuito Internacional de Lusail",
-     "id": "c67b41223db3"
-    },
-    {
-     "title": "Franco Colapinto afronta la primera práctica del Gran Premio de Qatar",
-     "link": "https://www.infobae.com/deportes/2026/11/27/franco-colapinto-afrontara-las-primeras-practicas-libres-del-gran-premio-de-qatar-hora-tv-y-todo-lo-que-hay-que-saber/",
+     "title": "Renunció el interventor de los medios públicos y lo reemplazará Fernando Subirats",
+     "link": "https://www.infobae.com/politica/2026/11/27/renuncio-el-interventor-de-los-medios-publicos-y-lo-reemplazara-fernando-subirats/",
      "source": "Infobae",
-     "published": "2026-11-27T13:52:45+00:00",
-     "copete": "Tras cosechar su mejor resultado de la temporada en Las Vegas, el argentino sale a la pista en el circuito de Lusail",
-     "id": "5267c780d91b"
+     "published": "2026-11-27T22:43:35+00:00",
+     "copete": "Carlos Curci dejará el cargo el 1 de diciembre, tras 16 meses al frente del Canal 7, Radio Nacional y las señales Encuentro, Pakapaka y DeporTV. En el Gobierno aseguran que la salida fue de común acuerdo y que la Subsecretaría de…",
+     "id": "ecbfc9747c74"
     },
     {
-     "title": "Bullrich defendió la suspensión de las PASO, volvió a hablar de un “proyecto que reelija” y pidió más alivio económico",
-     "link": "https://www.lanacion.com.ar/politica/bullrich-defendio-la-suspension-de-las-paso-volvio-a-hablar-de-un-proyecto-que-reelija-y-pidio-mas-nid27112026/",
+     "title": "El look de Alexis Mac Allister que combina abrigo largo, total black y accesorios de lujo en Inglaterra",
+     "link": "https://www.infobae.com/tendencias/2026/11/27/el-look-de-alexis-mac-allister-que-combina-abrigo-largo-total-black-y-accesorios-de-lujo-en-inglaterra/",
+     "source": "Infobae",
+     "published": "2026-11-27T22:42:27+00:00",
+     "copete": "La figura de la Selección Argentina y del Liverpool se mostró en las calles europeas con una propuesta urbana de inspiración clásica, con piezas elegidas que reflejan una tendencia en alza dentro del vestuario masculino",
+     "id": "aa24acd83850"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el Gobierno logró la media sanción del Presupuesto 2027 y la suspensión de las PASO",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-logro-la-media-sancion-del-presupuesto-2027-y-la-nid27112026/",
      "source": "La Nación",
-     "published": "2026-11-27T13:52:14+00:00",
-     "copete": "La jefa del bloque oficialista en el Senado evitó referirse a un Milei candidato y aseguró que Karina no puede pedirle “que se baje de algo a lo que nunca se subió”",
-     "id": "fca83d0a32fb"
+     "published": "2026-11-27T22:40:00+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "c5dfa70ad261"
     },
     {
-     "title": "Apple tendría su propio agente de IA para competir con OpenAI y Anthropic",
-     "link": "https://www.infobae.com/tecno/2026/11/27/apple-tendria-su-propio-agente-de-ia-para-competir-con-openai-y-anthropic/",
-     "source": "Infobae",
-     "published": "2026-11-27T13:51:07+00:00",
-     "copete": "El proyecto estaría en una etapa inicial y podría permitir que la inteligencia artificial complete tareas de varios pasos en la computadora",
-     "id": "8a324a62d8c4"
-    },
-    {
-     "title": "Las billeteras digitales se consolidan y la IA todavía genera reservas",
-     "link": "https://www.lanacion.com.ar/economia/negocios/las-billeteras-digitales-se-consolidan-y-la-ia-todavia-genera-reservas-nid27112026/",
+     "title": "Qué ver en Netflix: las mejores películas y series para disfrutar este fin de semana del 28 y 29 de noviembre",
+     "link": "https://www.lanacion.com.ar/espectaculos/que-ver-en-netflix-las-mejores-peliculas-y-series-para-disfrutar-este-fin-de-semana-del-28-y-29-de-nid27112026/",
      "source": "La Nación",
-     "published": "2026-11-27T13:50:46+00:00",
-     "copete": "Un índice muestra que las billeteras son las preferidas por amplio margen entre los argentinos; en cambio, persisten las dudas sobre las criptomonedas, los pagos internacionales y la posibilidad de delegar decisiones financieras a agentes…",
-     "id": "a18bd8f02fc8"
+     "published": "2026-11-27T22:39:19+00:00",
+     "copete": "Con los días de calor intenso, muchos son los que eligen quedarse en casa y disfrutar de una buena producción bajo el aire acondicionado; tomá nota y elegí qué ver",
+     "id": "eaeb1cdd3bb9"
     },
     {
-     "title": "El viaje de lujo de Katy Perry y Justin Trudeau en el Orient Express: un vagón privado de 80.000 libras, caviar y champán a bordo",
-     "link": "https://www.infobae.com/entretenimiento/2026/11/27/el-viaje-de-lujo-de-katy-perry-y-justin-trudeau-en-el-orient-express-un-vagon-privado-de-80000-libras-caviar-y-champan-a-bordo/",
+     "title": "El Banco Central retomó la compra de dólares y cortó una racha de cuatro ruedas consecutivas sin sumar divisas",
+     "link": "https://www.infobae.com/economia/2026/11/27/el-banco-central-retomo-la-compra-de-dolares-y-corto-una-racha-de-cuatro-ruedas-consecutivas-sin-sumar-divisas/",
      "source": "Infobae",
-     "published": "2026-11-27T13:48:57+00:00",
-     "copete": "La cantante compartió detalles de su estancia en uno de los trenes más exclusivos del continente",
-     "id": "8480059b5511"
+     "published": "2026-11-27T22:39:10+00:00",
+     "copete": "La autoridad monetaria compró USD 61 millones y acumula poco más de USD 400 millones en el transcurso de noviembre",
+     "id": "4508f2051c26"
     },
     {
-     "title": "Un senador libertario habló del futuro de Milei y Bullrich en La Libertad Avanza y descartó una disputa por el liderazgo",
-     "link": "https://www.infobae.com/politica/2026/11/27/un-senador-libertario-hablo-del-futuro-de-milei-y-bullrich-en-la-libertad-avanza-y-descarto-una-disputa-por-el-liderazgo/",
+     "title": "De City Bell a Canelones: el laboratorio de Estudiantes, entre termos, mates y una sutil ironía",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/de-city-bell-a-canelones-el-laboratorio-de-estudiantes-entre-termos-mates-y-sonrisas-nid27112026/",
+     "source": "La Nación",
+     "published": "2026-11-27T22:38:56+00:00",
+     "copete": "Guido Carrillo le contestó con altura a Barboza; risas, cantos y hasta Cacique Medina en un picado",
+     "id": "c8b188ca26ed"
+    },
+    {
+     "title": "Avance en cirugía robótica: un médico participó desde Brasil en una operación realizada en Buenos Aires",
+     "link": "https://www.infobae.com/salud/ciencia/2026/11/27/avance-en-cirugia-robotica-un-medico-participo-desde-brasil-en-una-operacion-realizada-en-buenos-aires/",
      "source": "Infobae",
-     "published": "2026-11-27T13:48:51+00:00",
-     "copete": "El senador nacional de La Libertad Avanza, Agustín Coto, se refirió a las versiones sobre una posible competencia entre Javier Milei y Patricia Bullrich de cara a 2027 y aseguró que no existe una disputa por el liderazgo dentro del…",
-     "id": "95140b2614f4"
+     "published": "2026-11-27T22:37:24+00:00",
+     "copete": "Un especialista se sumó desde San Pablo en tiempo real a una intervención realizada a 1.600 kilómetros de distancia para preservar la posibilidad de un futuro embarazo de una paciente que había atravesado un tratamiento oncológico. El…",
+     "id": "fb3f96c6accc"
     },
     {
-     "title": "Una fuerte tormenta el Día de Acción de Gracias deja al noreste y el medio oeste de Estados Unidos sin luz: cómo sigue el servicio en Nueva Jersey, Pensilvania, Virginia y Nueva York",
-     "link": "https://www.clarin.com/estados-unidos/fuerte-tormenta-dia-accion-gracias-deja-noreste-medio-oeste-estados-unidos-luz-sigue-servicio-nueva-jersey-pensilvania-virginia-nueva-york_0_nj7q40PbGP.html",
+     "title": "Escándalo en Nueva York: Hochul le pidió la renuncia al jefe de sindicato de la MTA por vivir en Florida",
+     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/escandalo-en-nueva-york-hochul-le-pidio-la-renuncia-al-jefe-de-sindicato-de-la-mta-por-vivir-en-nid27112026/",
+     "source": "La Nación",
+     "published": "2026-11-27T22:30:00+00:00",
+     "copete": "John Samuelsen renunció a la junta de la MTA después de que Kathy Hochul le exigiera probar su residencia en Nueva York; reconoció que se mudó a Florida",
+     "id": "b9244c55b973"
+    },
+    {
+     "title": "Ejército de EEUU dispara contra una nave que intentaba romper el bloqueo sobre puertos iraníes",
+     "link": "https://www.clarin.com/estados-unidos/ejercito-de-eeuu-dispara-contra-una-nave-que-intentaba-romper-el-bloqueo-sobre-puertos-iranies_0_5VYPCml36n.html",
      "source": "Clarín",
-     "published": "2026-11-27T13:04:53+00:00",
-     "copete": "El temporal provocó más de 800 mil cortes de energía, inundaciones y problemas en las rutas y los aeropuertos. Las compañías eléctricas desplegaron trabajadores para recuperar el suministro.",
-     "id": "5a83bde3eacd"
+     "published": "2026-11-27T22:00:06+00:00",
+     "copete": "Fuerzas estadounidenses desactivaron una embarcación con bandera extranjera que intentaba romper el cerco naval en puertos de Irán. El bloqueo, iniciado en julio, ha afectado a múltiples embarcaciones y tensado aún más las relaciones con…",
+     "id": "d081aeb7b561"
     },
     {
-     "title": "«La guerra es un infierno»: Un soldado extranjero escribe a su familia desde Ucrania",
-     "link": "https://www.clarin.com/new-york-times-international-weekly/guerra-infierno-soldado-extranjero-escribe-familia-ucrania_0_s6FRjux59o.html",
+     "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, viernes 27 de noviembre",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-viernes-27-noviembre_0_ZbZoaQ6nIl.html",
      "source": "Clarín",
-     "published": "2026-11-27T13:00:20+00:00",
-     "id": "c4f1b2c78679"
+     "published": "2026-11-27T21:54:05+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "db11d6b9c34d"
     }
    ]
   },
@@ -428,68 +451,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren",
-     "link": "https://www.bbc.com/mundo/articles/cv5y1pxjpj9lo?at_medium=RSS&at_campaign=rss",
+     "title": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
+     "link": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-27T13:39:17+00:00",
-     "copete": "Crean y Astrid se conocieron en medio de una emergencia: un ataque con cuchillo en un tren.",
-     "id": "1ac76ceb3d8e"
+     "published": "2026-11-27T22:04:28+00:00",
+     "copete": "Albanese había sido invitada al país para recibir este viernes un doctorado honoris causa por la Universidad de Costa Rica, desde donde dijeron que \"lamentan profundamente esta situación\".",
+     "id": "734f9e1f0563"
     },
     {
-     "title": "\"Comiendo frutas y bebiendo agua de manantiales\": el hombre de 74 años con alzhéimer que sobrevivió 11 días perdido en el Amazonas",
-     "link": "https://www.bbc.com/mundo/articles/ckp809pd5ve9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-27T12:40:03+00:00",
-     "copete": "Un septuagenario con alzhéimer logró sobrevir en la selva durante 11 días hasta que fue rescatado.",
-     "id": "e2ce72108c97"
+     "title": "La tensión entre Francia y Alemania dificulta el acuerdo presupuestario en la UE",
+     "link": "https://elpais.com/internacional/2026-11-27/la-tension-entre-francia-y-alemania-dificulta-el-acuerdo-presupuestario-en-la-ue.html",
+     "source": "El País Internacional",
+     "published": "2026-11-27T18:30:53+00:00",
+     "copete": "Macron y Merz muestran de nuevo falta de sintonía en el Consejo Europeo. El presidente, António Costa, confía en que la negociación fructifique en la próxima reunión a mediados de diciembre",
+     "id": "314f8523f7e6"
     },
     {
-     "title": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses",
-     "link": "https://www.bbc.com/mundo/articles/cqevrxnk1p8po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-27T12:18:35+00:00",
-     "copete": "Campesinos a los que les fueron cerca de 400 hectáreas en Colombia están recibiendo amenazas para que abandonen estos terrenos.",
-     "id": "cef6ba54015d"
-    },
-    {
-     "title": "La científica mexicana que ayudó a descubrir el origen de los murciélagos y por qué son inmunes a los virus que transmiten",
-     "link": "https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-27T11:38:10+00:00",
-     "copete": "Hay unas 1.500 especies de murciélagos y uno de los grandes misterios es por qué, si bien son reservorios de virus letales, ellos mismos no se enferman, explicó la bióloga Ariadna Morales a BBC Mundo.",
-     "id": "0ff87e0a754b"
+     "title": "Alemania aprueba el mayor gasto en defensa desde la Guerra Fría tras una dura batalla de Merz con los socialdemócratas",
+     "link": "https://elpais.com/internacional/2026-11-27/alemania-aprueba-el-mayor-presupuesto-de-su-historia-tras-una-dura-batalla-de-merz-con-los-socialdemocratas.html",
+     "source": "El País Internacional",
+     "published": "2026-11-27T16:52:49+00:00",
+     "copete": "El canciller subraya con estos presupuestos, bajo la coyuntura de la guerra en Ucrania y una creciente amenaza rusa, la necesidad de que el país se pueda defender sin ayuda de terceros",
+     "id": "6f8ccea213eb"
     },
     {
      "title": "Costa Rica niega el ingreso a Francesca Albanese, relatora de la ONU: “Nunca me había sentido tan humillada”",
      "link": "https://elpais.com/america/2026-11-27/costa-rica-niega-el-ingreso-a-francesca-albanese-relatora-de-la-onu-para-territorios-palestinos.html",
      "source": "El País Internacional",
-     "published": "2026-11-27T05:06:39+00:00",
-     "copete": "Migración dijo que impidió la entrada de Albanese por motivos de “seguridad nacional”, mientras que el tribunal constitucional emitió una orden cautelar para suspender cualquier expulsión",
+     "published": "2026-11-27T16:19:34+00:00",
+     "copete": "Migración dijo que le impidió la entrada por motivos de “seguridad nacional”, mientras que el tribunal constitucional emitió una orden cautelar para suspender cualquier expulsión",
      "id": "5c96688a4985"
     },
     {
-     "title": "Gambia celebra unas reñidas elecciones en pleno éxodo de cayucos hacia Canarias",
-     "link": "https://elpais.com/internacional/2026-11-27/gambia-celebra-unas-renidas-elecciones-en-pleno-exodo-de-cayucos-hacia-canarias.html",
-     "source": "El País Internacional",
-     "published": "2026-11-27T04:30:01+00:00",
-     "copete": "El presidente Adama Barrow aspira a un tercer mandato, pero Talib Bensouda, su rival emergente, seduce a jóvenes sin empleo que no ven más salida que la emigración",
-     "id": "f5223bb718bc"
+     "title": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
+     "link": "https://www.bbc.com/mundo/articles/c6gm3jxzy3dro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-27T16:18:26+00:00",
+     "copete": "Ganaron millones de dólares a costa de migrantes detenidos y eludieron los intentos de desmantelar su negocio.",
+     "id": "5af9c6511815"
     },
     {
-     "title": "Lula elige al primer ministro de su próximo Gabinete: un banquero para dirigir Hacienda",
-     "link": "https://elpais.com/america/2026-11-27/lula-elige-al-primer-ministro-de-su-proximo-gabinete-un-banquero-para-dirigir-hacienda.html",
+     "title": "Zelenski compara la amistad entre Trump y Putin con la que alguien podría tener con Hitler",
+     "link": "https://elpais.com/internacional/2026-11-27/zelenski-compara-la-amistad-entre-trump-y-putin-con-la-que-alguien-podria-tener-con-hitler.html",
      "source": "El País Internacional",
-     "published": "2026-11-27T00:14:32+00:00",
-     "copete": "El presidente de Bradesco acepta la cartera y se espera que realice un ajuste fiscal",
-     "id": "5e128fad6174"
+     "published": "2026-11-27T15:52:12+00:00",
+     "copete": "El presidente ucranio critica una vez más la cercanía del mandatario estadounidense con el responsable de la invasión de su país",
+     "id": "0b03e19bf767"
     },
     {
-     "title": "Venezuela derogará la ley que castiga a quienes pidieron sanciones contra el país",
-     "link": "https://elpais.com/america/2026-11-27/venezuela-derogara-la-ley-que-castiga-a-quienes-pidieron-sanciones-contra-el-pais.html",
-     "source": "El País Internacional",
-     "published": "2026-11-27T00:14:09+00:00",
-     "copete": "Jorge Rodríguez, presidente de la Asamblea Nacional, mantiene su negativa a acabar con la ley contra el odio",
-     "id": "e3eb5926df97"
+     "title": "Cómo el asesinato de una mujer hizo que la violencia machista entrara en el debate electoral en España",
+     "link": "https://www.bbc.com/mundo/articles/cxdd13p8nr3eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-27T14:56:54+00:00",
+     "copete": "El asesinato de Verónica, de 32 años, en Murcia, situó la violencia machista en el centro del debate electoral, en el que también se abordaron la crisis de la vivienda y la inmigración.",
+     "id": "430258f78a45"
+    },
+    {
+     "title": "Zelensky critica la \"extraña\" amistad entre Trump y Putin en entrevista con la BBC",
+     "link": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-27T14:51:33+00:00",
+     "copete": "El presidente de Ucrania expresa su frustración con Estados Unidos y dice que es \"extraño\" que Trump haya descrito a Vladimir Putin como un amigo.",
+     "id": "ceefe3babe33"
     }
    ]
   }
@@ -498,11 +521,6 @@
   {
    "section": "oncologia",
    "feed": "Lancet Oncology (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "oncologia",
-   "feed": "JAMA Oncology (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
