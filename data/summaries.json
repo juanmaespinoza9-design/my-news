@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-27T22:11:26Z",
+  "generated_at": "2026-11-28T10:10:41Z",
   "summaries": {
-    "7b2ead08492f": {
-      "resumen": "Ensayo clínico aleatorizado de fase II (NRG-LU002) publicado en Journal of Clinical Oncology que compara terapia sistémica de mantenimiento sola frente a terapia local consolidativa (radioterapia o cirugía sobre los sitios de enfermedad) más terapia sistémica de mantenimiento en cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (oligometastásico). Relevante porque define si tratar agresivamente los sitios de metástasis además del tratamiento sistémico mejora los resultados en esta población.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de fase II (NRG-LU002); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad exacta de centros ni el número de pacientes aleatorizados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (enfermedad oligometastásica) que respondieron a terapia sistémica inicial.\nIntervención: Terapia sistémica de mantenimiento sola versus terapia local consolidativa (radioterapia y/o cirugía dirigida a los sitios de metástasis) sumada a terapia sistémica de mantenimiento.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio en supervivencia libre de progresión o supervivencia global, la toxicidad de agregar terapia local, ni la duración del seguimiento.\nMensaje: Si confirma beneficio, respaldaría sumar terapia local consolidativa de forma sistemática en NSCLC oligometastásico que responde a tratamiento sistémico, un enfoque cada vez más explorado en tumores sólidos con enfermedad limitada.\nNota: análisis sin acceso al abstract."
-    },
-    "79555cc928f5": {
-      "resumen": "Journal of Clinical Oncology publica una columna de Nabhan C y colaboradores sobre la \"ilusión del fuera de oficina\", una reflexión sobre la dificultad de desconectarse en la práctica oncológica. Aporta una mirada humana sobre el desgaste profesional en oncología.",
-      "destacado": false
-    },
-    "d93efff71e23": {
-      "resumen": "Journal of Clinical Oncology publica un artículo de Ballman KV y colaboradores sobre el diseño de ensayos clínicos aleatorizados de fase II en poblaciones de cánceres raros. Es útil para entender los desafíos estadísticos de investigar tumores poco frecuentes, donde reclutar pacientes y definir el tamaño de muestra es mucho más difícil.",
-      "destacado": false
-    },
-    "4438290832fc": {
-      "resumen": "Fe de erratas de Journal of Clinical Oncology sobre un estudio en fase inicial (first-in-human) de radioinmunoterapia con astatina-211 dirigida a CD45, usada como acondicionamiento no mieloablativo previo a un trasplante de células hematopoyéticas en adultos con cánceres hematológicos. No aporta datos nuevos, solo corrige el artículo original.",
-      "destacado": false
-    },
-    "389dc82aeeda": {
-      "resumen": "La Sociedad Americana de Oncología Clínica (ASCO) actualizó su guía viva (living guideline, un documento que se revisa de forma continua) sobre el tratamiento del cáncer de mama con receptores hormonales positivos (HR-positivo) y HER2 negativo, con foco en adaptar el tratamiento según la biología individual de cada tumor. Importa porque estas guías orientan la práctica clínica diaria en el subtipo de cáncer de mama más frecuente.",
-      "destacado": false
-    },
-    "8f9139b04e30": {
-      "resumen": "The ASCO Post advierte sobre el carcinoma renal con reordenamiento del gen TFE (TFE-rearranged renal cell carcinoma), un subtipo raro y agresivo de cáncer de riñón que suele presentarse en pacientes jóvenes y que históricamente recibió poca atención específica. Interesa porque plantea la necesidad de reconocerlo como entidad propia y de desarrollar estrategias de tratamiento diferenciadas.",
+    "a669c0178822": {
+      "resumen": "OncLive presenta su quiz semanal de noticias (11/27/2026), un repaso en formato de preguntas y respuestas con las actualizaciones más relevantes de la semana en cáncer de mama, tumor del estroma gastrointestinal (GIST), mieloma múltiple y leucemia mieloide aguda (LMA). Sirve como resumen rápido de lo más destacado publicado en estas áreas durante la semana.",
       "destacado": false
     },
     "6633f881407e": {
@@ -35,13 +14,72 @@
       "destacado": false,
       "analisis": "Diseño: Comentario de expertos de OncLive sobre el estudio DESTINY-Lung04, un ensayo clínico que evalúa trastuzumab deruxtecan (un anticuerpo conjugado a quimioterapia dirigido contra HER2) en cáncer de pulmón de células no pequeñas (NSCLC) con mutación en HER2; no se trata del artículo primario, sino de una discusión de sus datos de supervivencia global y de secuenciación de tratamiento.\nPoblación: Pacientes con NSCLC HER2-mutante, previamente tratados, en los que se discute dónde ubicar la terapia dirigida dentro de la secuencia de tratamiento.\nIntervención: Trastuzumab deruxtecan frente a las alternativas estándar de tratamiento según línea de terapia.\nResultados: No disponibles; el artículo es un comentario de expertos y no se pudo acceder al estudio primario ni a cifras concretas de supervivencia global.\nLimitaciones: Al tratarse de un análisis periodístico/de expertos y no del artículo original, no permite verificar los datos estadísticos ni el diseño metodológico del ensayo.\nMensaje: Confirma a trastuzumab deruxtecan como pieza central del tratamiento del NSCLC HER2-mutante, con el debate clínico centrado ahora en cuándo y en qué orden usarlo respecto de otras líneas.\nNota: análisis sin acceso al abstract."
     },
-    "a29338bfa926": {
-      "resumen": "Un panel de expertos de OncLive repasa el manejo a largo plazo de los pacientes tratados con células T con receptor de antígeno quimérico (CAR-T) en la leucemia linfocítica crónica (LLC) y comparte las principales conclusiones prácticas. Útil para el seguimiento clínico de quienes ya recibieron esta terapia celular.",
-      "destacado": false
-    },
     "c1f4d20d5df3": {
       "resumen": "La FDA (agencia regulatoria de medicamentos de Estados Unidos) otorgó la aprobación acelerada a la combinación de amivantamab e hialuronidasa para el carcinoma escamoso de cabeza y cuello (HNSCC, por su sigla en inglés) ya tratado previamente. Es relevante porque suma una opción de tratamiento dirigido para un tumor con pocas alternativas eficaces luego de la primera línea.",
+      "destacado": false,
+      "analisis": "Diseño: Aprobación acelerada de la FDA (agencia regulatoria de medicamentos de Estados Unidos) basada en los resultados de un ensayo clínico que respaldó la eficacia de amivantamab (anticuerpo biespecífico anti-EGFR/MET) combinado con hialuronidasa para administración subcutánea; sin acceso al abstract del estudio pivotal no se puede precisar el diseño exacto, el cegamiento ni el número de pacientes.\nPoblación: Pacientes con carcinoma escamoso de cabeza y cuello (HNSCC) ya tratados previamente, que progresaron a líneas anteriores de tratamiento.\nIntervención: Amivantamab más hialuronidasa (formulación subcutánea) frente al comparador o brazo único usado en el estudio que sustentó la aprobación.\nResultados: No disponibles; no se pudo acceder al abstract con la tasa de respuesta objetiva ni la duración de la respuesta que motivaron la aprobación acelerada.\nLimitaciones: Las aprobaciones aceleradas se basan en criterios de valoración intermedios (como la tasa de respuesta) y requieren confirmación posterior en ensayos de supervivencia; sin el texto completo no se puede evaluar la magnitud ni la durabilidad del beneficio.\nMensaje: Suma una opción de tratamiento dirigido para el HNSCC pretratado, un escenario con pocas alternativas eficaces, aunque su beneficio en supervivencia a largo plazo todavía debe confirmarse.\nNota: análisis sin acceso al abstract."
+    },
+    "920c89678825": {
+      "resumen": "SAFFRON es un ensayo clínico que evalúa la combinación de osimertinib (un inhibidor de tirosina quinasa del receptor del factor de crecimiento epidérmico, o EGFR TKI) más savolitinib (un inhibidor de MET) en pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado que progresaron tras tratamiento con un EGFR TKI. Interesa porque podría convertirse en un nuevo estándar de tratamiento para esta población, que suele tener pocas opciones eficaces tras progresar a la terapia dirigida inicial.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico, según la cobertura de The ASCO Post presentado como un estudio con potencial de cambiar el estándar de atención; sin acceso al abstract completo no se puede precisar la fase, la aleatorización, el cegamiento ni el número de centros y de pacientes.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) avanzado, con mutación de EGFR, que progresaron luego de tratamiento con un inhibidor de tirosina quinasa (TKI) de EGFR como osimertinib.\nIntervención: Combinación de osimertinib (EGFR TKI) más savolitinib (inhibidor de MET) frente al comparador estándar utilizado tras la progresión a EGFR TKI.\nResultados: No disponibles; no se pudo acceder al abstract completo con las cifras del criterio de valoración principal (por ejemplo, supervivencia libre de progresión).\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio, la toxicidad de la combinación ni qué subgrupo de pacientes (por ejemplo, con amplificación de MET confirmada) se beneficia más.\nMensaje: Si se confirma el beneficio, SAFFRON podría establecer un nuevo estándar de tratamiento tras la progresión a EGFR TKI en NSCLC, una población con opciones limitadas y mecanismos de resistencia heterogéneos.\nNota: análisis sin acceso al abstract."
+    },
+    "389dc82aeeda": {
+      "resumen": "La Sociedad Americana de Oncología Clínica (ASCO) actualizó su guía viva (living guideline, un documento que se revisa de forma continua) sobre el tratamiento del cáncer de mama con receptores hormonales positivos (HR-positivo) y HER2 negativo, con foco en adaptar el tratamiento según la biología individual de cada tumor. Importa porque estas guías orientan la práctica clínica diaria en el subtipo de cáncer de mama más frecuente.",
       "destacado": false
+    },
+    "4438290832fc": {
+      "resumen": "Fe de erratas de Journal of Clinical Oncology sobre un estudio en fase inicial (first-in-human) de radioinmunoterapia con astatina-211 dirigida a CD45, usada como acondicionamiento no mieloablativo previo a un trasplante de células hematopoyéticas en adultos con cánceres hematológicos. No aporta datos nuevos, solo corrige el artículo original.",
+      "destacado": false
+    },
+    "79555cc928f5": {
+      "resumen": "Journal of Clinical Oncology publica una columna de Nabhan C y colaboradores sobre la \"ilusión del fuera de oficina\", una reflexión sobre la dificultad de desconectarse en la práctica oncológica. Aporta una mirada humana sobre el desgaste profesional en oncología.",
+      "destacado": false
+    },
+    "d93efff71e23": {
+      "resumen": "Journal of Clinical Oncology publica un artículo de Ballman KV y colaboradores sobre el diseño de ensayos clínicos aleatorizados de fase II en poblaciones de cánceres raros. Es útil para entender los desafíos estadísticos de investigar tumores poco frecuentes, donde reclutar pacientes y definir el tamaño de muestra es mucho más difícil.",
+      "destacado": false
+    },
+    "7b2ead08492f": {
+      "resumen": "Ensayo clínico aleatorizado de fase II (NRG-LU002) publicado en Journal of Clinical Oncology que compara terapia sistémica de mantenimiento sola frente a terapia local consolidativa (radioterapia o cirugía sobre los sitios de enfermedad) más terapia sistémica de mantenimiento en cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (oligometastásico). Relevante porque define si tratar agresivamente los sitios de metástasis además del tratamiento sistémico mejora los resultados en esta población.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, multicéntrico, de fase II (NRG-LU002); sin acceso al abstract completo no se puede precisar el cegamiento, la cantidad exacta de centros ni el número de pacientes aleatorizados.\nPoblación: Pacientes con cáncer de pulmón de células no pequeñas (NSCLC) metastásico limitado (enfermedad oligometastásica) que respondieron a terapia sistémica inicial.\nIntervención: Terapia sistémica de mantenimiento sola versus terapia local consolidativa (radioterapia y/o cirugía dirigida a los sitios de metástasis) sumada a terapia sistémica de mantenimiento.\nResultados: No disponibles, no se pudo acceder al abstract completo.\nLimitaciones: Sin el texto completo no se puede evaluar la magnitud del beneficio en supervivencia libre de progresión o supervivencia global, la toxicidad de agregar terapia local, ni la duración del seguimiento.\nMensaje: Si confirma beneficio, respaldaría sumar terapia local consolidativa de forma sistemática en NSCLC oligometastásico que responde a tratamiento sistémico, un enfoque cada vez más explorado en tumores sólidos con enfermedad limitada.\nNota: análisis sin acceso al abstract."
+    },
+    "b0f1195d209c": {
+      "resumen": "Vogue presenta la colección Pre-Fall 2027 de Victoria Beckham."
+    },
+    "2213893d8bf3": {
+      "resumen": "Vogue presenta la colección Pre-Fall 2027 de Alexander McQueen."
+    },
+    "fe2297266988": {
+      "resumen": "Cosmopolitan reúne cinco peinados vistos en las pasarelas que marcarán tendencia esta Navidad."
+    },
+    "e185548f7182": {
+      "resumen": "ELLE repasa las tendencias de maquillaje 2027 que rejuvenecen el rostro: sombras en tonos burdeos, colorete alto y labios difuminados."
+    },
+    "263d31b0496c": {
+      "resumen": "HSB Noticias repasa las tendencias de moda para climas cálidos en Colombia, para hombres y mujeres, de cara a 2026."
+    },
+    "bc803c46e044": {
+      "resumen": "Vogue México repasa los mejores momentos del evento Espacio Vogue Holiday 2026."
+    },
+    "5fb04aa56fa2": {
+      "resumen": "Vogue México propone camperas abrigadas y elegantes para combinar con jeans, pantalones y faldas este otoño-invierno 2026."
+    },
+    "f0b15b379154": {
+      "resumen": "Vogue México recomienda qué productos de belleza coreana (K-Beauty) comprar antes de que termine 2026 y dónde conseguirlos."
+    },
+    "42bcbce31e65": {
+      "resumen": "El guitarrista flamenco Yerai Cortés agregó una segunda fecha en Buenos Aires después de agotar las entradas de su primer show."
+    },
+    "d9c70dd0ecf4": {
+      "resumen": "La banda Los Caballeros de la Quema se presenta en el Teatro Vorterix."
+    },
+    "78a416cafb9f": {
+      "resumen": "Avanza en la provincia de Buenos Aires un proyecto de ley que impediría el ingreso a recitales y partidos deportivos a quienes adeudan la cuota alimentaria."
+    },
+    "5515f4f2ef82": {
+      "resumen": "El espacio Teatro Acción estrena una nueva obra en Buenos Aires."
     },
     "976d44421bbd": {
       "resumen": "Cinco propuestas gratuitas para disfrutar en Buenos Aires este fin de semana, de cara al cierre de noviembre."
@@ -49,32 +87,8 @@
     "4062c1f45d51": {
       "resumen": "Trece restaurantes de Buenos Aires y el Gran Buenos Aires para recorrer regiones, cepas y bodegas en el Día Nacional del Vino Argentino."
     },
-    "86b9af94da83": {
-      "resumen": "Una guía de restaurantes, bares y lugares argentinos para encontrar en París."
-    },
-    "d62227822471": {
-      "resumen": "Una experiencia navideña temática de Harry Potter, gratuita, para disfrutar en Buenos Aires."
-    },
     "9e076d3eb21c": {
       "resumen": "Una agenda con más de 60 planes para el fin de semana del 27 al 29 de noviembre en Buenos Aires: recitales, teatro, cine, muestras y propuestas gratuitas."
-    },
-    "009ef1f44958": {
-      "resumen": "Una selección de vestidos de Zara ideales para combinar con botas altas, mocasines o zapatos de tacón este otoño."
-    },
-    "efb1a5b64d8e": {
-      "resumen": "Todo sobre la manicura marrón chocolate, la tendencia de uñas cortas que se impone como la opción más elegante y simple del otoño."
-    },
-    "29ab0a66f9ef": {
-      "resumen": "El horóscopo de este viernes 27 de noviembre, signo por signo."
-    },
-    "497e84608f49": {
-      "resumen": "El maquillaje rosa empolvado, la tendencia sutil que promete un efecto 'buena cara' inmediato."
-    },
-    "9552a31be24c": {
-      "resumen": "Una editora de Vogue España eligió 44 productos para aprovechar las ofertas del Black Friday 2026."
-    },
-    "a60af2460c35": {
-      "resumen": "Siete tendencias de uñas para lucir manicuras brillantes esta Navidad."
     },
     "b5dbbd8bf066": {
       "resumen": "Hasta el 29 de noviembre, los restaurantes coreanos de Buenos Aires celebran la Semana del Kimchi."
@@ -84,12 +98,6 @@
     },
     "3ca1d6eb4faa": {
       "resumen": "Más de 60 planes entre recitales y teatro para hacer este fin de semana en Buenos Aires."
-    },
-    "1729026a2abb": {
-      "resumen": "Una reflexión sobre el teatro político y su vigencia en la escena actual."
-    },
-    "c4f1b2c78679": {
-      "resumen": "La carta de un soldado extranjero a su familia desde el frente de guerra en Ucrania."
     }
   }
 }
